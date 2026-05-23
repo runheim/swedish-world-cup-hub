@@ -1,6 +1,6 @@
 /**
  * Swedish National Soccer Team - 2026 World Cup Hub
- * Client-Side Core Logic (Updated with Real Audible Audio Playback)
+ * Client-Side Core Logic (Updated with Official Group F Schedule & Real-World Spotify Tracks)
  */
 
 // 1. Official 26-Man Squad Database
@@ -378,7 +378,6 @@ const PLAYERS = [
   }
 ];
 
-// Correct duplicates
 PLAYERS.find(p => p.id === "gustaf_nilsson").number = 26;
 
 // 2. Chronological Pre-Camp News Timeline (May 21, 22, 23, 2026 - Geared towards genuine pre-camp activities)
@@ -458,13 +457,13 @@ const TIMELINE_DATABASE = {
           id: "art_21_4_1",
           category: "opponent",
           type: "Scouting",
-          title: "Netherlands Watch: Ronald Koeman organizes high-intensity Vancouver base",
+          title: "Netherlands Watch: Ronald Koeman organizes high-intensity Dallas base",
           bullets: [
-            "Netherlands FA reserves training pitches in British Columbia, Canada.",
-            "Koeman schedules triple-sessions to acclimatize Dutch squad to North American timezones.",
+            "Netherlands FA reserves training pitches in Texas, USA.",
+            "Koeman schedules triple-sessions to acclimatize Dutch squad to Central timezones.",
             "Scouts confirm de Jong is working extensively on midfield recovery routines."
           ],
-          summary: "Sweden's analytics division has logged the travel and training schedule of the Netherlands. Ronald Koeman's squad is bypassing a local European camp, choosing instead to travel early to Vancouver, Canada, where the opening matches take place. The Dutch are preparing intense double and triple daily sessions to adjust quickly to West Coast timezones.",
+          summary: "Sweden's analytics division has logged the travel and training schedule of the Netherlands. Ronald Koeman's squad is bypassing a local European camp, choosing instead to travel early to Texas, USA, where their opening match against Japan takes place. The Dutch are preparing intense double and triple daily sessions to adjust quickly to Central timezones.",
           author: "Erik Niva (Aftonbladet)",
           readTime: "4 min",
           tag: "Nederländerna Intel",
@@ -554,7 +553,7 @@ const TIMELINE_DATABASE = {
             "Focuses on quick turning radius drills and penalty-box finishing.",
             "Isak: 'Getting the muscles tuned up. Stockholm, see you next week!'"
           ],
-          summary: "Alexander Isak is not wasting his pre-camp window. The Liverpool striker has been working with a personal trainer on quick direction-change sprints to preserve his agility levels. 'The physical side of the game is vital in the opening match against Japan. We must be quick off the mark, and I want to be 100% sharp when we gather at Bosön,' Isak wrote in his online camp log.",
+          summary: "Alexander Isak is not wasting his pre-camp window. The Liverpool striker has been working with a personal trainer on quick direction-change sprints to preserve his agility levels. 'The physical side of the game is vital in the opening match against Tunisia. We must be quick off the mark, and I want to be 100% sharp when we gather at Bosön,' Isak wrote in his online camp log.",
           author: "Alexander Isak (Spelar-Blogg)",
           readTime: "3 min",
           tag: "Spelar-Träning",
@@ -570,13 +569,13 @@ const TIMELINE_DATABASE = {
           id: "art_22_4_1",
           category: "opponent",
           type: "Scouting",
-          title: "Tunisia schedules high-intensity warmups in Montreal; analysts monitor setups",
+          title: "Tunisia schedules high-intensity warmups in Monterrey; analysts monitor setups",
           bullets: [
-            "Tunisia chooses Canadian base in Montreal to replicate Seattle weather conditions.",
+            "Tunisia chooses local base in Monterrey to replicate matchday weather conditions.",
             "Schedule closed-door warm-up match to practice defending dual-forward formations.",
             "Sweden scouts monitor defensive rotations and set-piece marking profiles."
           ],
-          summary: "Tunisia has arrived at their North American training base in Montreal, choosing the Canadian climate to replicate the conditions they will face against Sweden in Seattle. Under coach Jalel Kadri, the Tunisians have scheduled a series of high-tempo practices designed to test their defensive compactness, particularly rehearsing how they will mark dual-forward shapes.",
+          summary: "Tunisia has arrived at their training base in Monterrey, choosing the local climate to replicate the conditions they will face against Sweden. Under coach Jalel Kadri, the Tunisians have scheduled a series of high-tempo practices designed to test their defensive compactness, particularly rehearsing how they will mark dual-forward shapes.",
           author: "Marcus Leifby (Aftonbladet)",
           readTime: "4 min",
           tag: "Tunisien Intel",
@@ -737,7 +736,7 @@ const TIMELINE_DATABASE = {
   }
 };
 
-// 3. Match Schedule Database (Group F + Norway Warmup)
+// 3. Official 2026 World Cup Group F Match Schedule
 const MATCH_SCHEDULE = [
   {
     id: "match_norway",
@@ -750,34 +749,34 @@ const MATCH_SCHEDULE = [
     details: "Skandinaviskt klassiskt derby som fungerar som förbundskapten Graham Potters första stora taktiska test inför avresan till USA."
   },
   {
-    id: "match_japan",
-    type: "worldcup",
-    date: "2026-06-15",
-    time: "21:00",
-    opponent: "Japan",
-    opponentFlag: "🇯🇵",
-    venue: "BC Place, Vancouver",
-    details: "VM-premiär i Grupp F! En intensiv kamp mot ett tekniskt skickligt och snabbt Japan lett av Hajime Moriyasu."
-  },
-  {
     id: "match_tunisia",
     type: "worldcup",
-    date: "2026-06-20",
-    time: "18:00",
+    date: "2026-06-14",
+    time: "20:00 (Mexikotid)", // 10:00 p.m. ET is 8:00 p.m. local Monterrey time (CST)
     opponent: "Tunisien",
     opponentFlag: "🇹🇳",
-    venue: "Lumen Field, Seattle",
-    details: "Andra gruppspelsmatchen. Sverige förväntas möta ett extremt disciplinerat, lågt försvarande Tunisien som blir ett prov för Isaks och Gyökeres spetskvaliteter."
+    venue: "Estadio Monterrey, Mexiko",
+    details: "VM-premiär i Grupp F! Sverige förväntas möta ett extremt disciplinerat, defensivt Tunisien i Monterrey."
   },
   {
     id: "match_netherlands",
     type: "worldcup",
-    date: "2026-06-26",
-    time: "20:00",
+    date: "2026-06-20",
+    time: "12:00 (Texastid)", // 1:00 p.m. ET is 12:00 p.m. local Houston time (CST)
     opponent: "Nederländerna",
     opponentFlag: "🇳🇱",
-    venue: "SoFi Stadium, Los Angeles",
-    details: "Gruppspelsfinal och en riktig tungviktsdrabbning i Los Angeles som troligtvis avgör vem som vinner Grupp F."
+    venue: "Houston Stadium, Texas",
+    details: "En riktig tungviktsdrabbning i Houston som kan bli helt avgörande för gruppsegern."
+  },
+  {
+    id: "match_japan",
+    type: "worldcup",
+    date: "2026-06-25",
+    time: "18:00 (Texastid)", // 7:00 p.m. ET is 6:00 p.m. local Dallas time (CST)
+    opponent: "Japan",
+    opponentFlag: "🇯🇵",
+    venue: "Dallas Stadium, Texas",
+    details: "Tredje gruppspelsmatchen. En intensiv kamp mot ett taktiskt skickligt, löpstarkt och snabbt Japan lett av Hajime Moriyasu."
   }
 ];
 
@@ -785,24 +784,24 @@ const MATCH_SCHEDULE = [
 const CHAT_MESSAGES = [
   { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Tja grabbar! Dags att ladda inför onsdag! Packningen klar?", time: "10:15", isCaptain: true },
   { sender: "Emil Holm", avatar: "🇸🇪", text: "Japp! Väskorna är fullproppade. Tar med mig Allsvenskans bästa fika upp till Stockholm på onsdag! 🇸🇪☕", time: "10:18" },
-  { sender: "Viktor Gyökeres", avatar: "🇸🇪", text: "Spara lite fika till oss anfallare, Emil! Körde sista tunga fyspasset här på Arsenals gym idag. Känner mig galet redo.", time: "10:22" },
+  { sender: "Viktor Gyökeres", avatar: "🇸🇪", text: "Spara lite fika till oss anfallare, Emil! Körde sista tunga fyspasset här på Arsenals gym idag. Känner mig galet ready.", time: "10:22" },
   { sender: "Alexander Isak", avatar: "🇸🇪", text: "Samma här i Liverpool. Kroppen känns 100%. Lucas, se till att du inte glömmer passet den här gången! 😂", time: "10:25" },
   { sender: "Lucas Bergvall", avatar: "🇸🇪", text: "Men hallå! Det var en gång, Alex! 🙄 Har kollat passet tre gånger nu. Ska bli sjukt kul att köra igång med Potters spelsystem på Bosön.", time: "10:28" },
   { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Grymt fokus. Kom ihåg, samling på hotellet kl 10:00 på onsdag den 27:e. Vi gör detta tillsammans, hela vägen! 🇸🇪💪", time: "10:31", isCaptain: true }
 ];
 
-// 5. Locker Room Music Playlist Data (With real stable direct MP3 streams)
+// 5. Locker Room Music Playlist Data (With real-world Swedish songs & Spotify Links)
 const PLAYLIST = [
-  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Klassiker", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
-  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Laddning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
-  { title: "Vi är Sverige", artist: "Camp Sweden", duration: "3:20", category: "Supporter", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
-  { title: "Graham Potter's Indierock Pack", artist: "Oasis / Coldplay", duration: "5:15", category: "Potter's Faves", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
-  { title: "Blågult Camp Vibe", artist: "Swedish House Mafia", duration: "4:40", category: "EDM", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }
+  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Klassiker", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", spotifyUrl: "https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71" },
+  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Laddning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", spotifyUrl: "https://open.spotify.com/track/7lQW7v5w8Yg7zJgU7mS1aU" },
+  { title: "In med bollen i mål", artist: "Markoolio", duration: "3:20", category: "Laddning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3", spotifyUrl: "https://open.spotify.com/search/Markoolio%20In%20med%20bollen%20i%20mål" },
+  { title: "Sverige", artist: "Kent", duration: "4:01", category: "Stämning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", spotifyUrl: "https://open.spotify.com/search/Kent%20Sverige" },
+  { title: "Explodera", artist: "Staffan Hellstrand", duration: "3:30", category: "Klassiker", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3", spotifyUrl: "https://open.spotify.com/search/Staffan%20Hellstrand%20Explodera" }
 ];
 
 let currentTrackIndex = 0;
 let isPlaying = false;
-let audioPlayer = null; // HTML5 Audio Core
+let audioPlayer = null; 
 
 // 6. Time Schedule & State Management
 let SIMULATOR_ACTIVE = false;
@@ -848,7 +847,7 @@ function getActiveUpdatesForDate(dateStr) {
   }
 
   if (activeIds.length === 0) {
-    return [1]; // Baseline breakfast
+    return [1]; 
   }
 
   return activeIds;
@@ -912,11 +911,9 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function initApp() {
-  // Initialize HTML5 Audio Controller
   audioPlayer = new Audio();
   audioPlayer.preload = "auto";
   
-  // Track Auto-Advance event handler
   audioPlayer.addEventListener("ended", () => {
     currentTrackIndex = (currentTrackIndex + 1) % PLAYLIST.length;
     renderMusicPlayer();
@@ -944,7 +941,7 @@ function updateNewsDashboard() {
   container.innerHTML = "";
 
   let totalArticlesRendered = 0;
-  const dates = ["2026-05-23", "2026-05-22", "2026-05-21"]; // Ordered newest to oldest
+  const dates = ["2026-05-23", "2026-05-22", "2026-05-21"];
 
   dates.forEach(dateStr => {
     const activeIds = getActiveUpdatesForDate(dateStr);
@@ -1033,12 +1030,10 @@ function updateNewsDashboard() {
   updateNewsTimelineStylesFix();
 }
 
-// Small correction for absolute positions
 function updateNewsTimelineStylesFix() {
   const container = document.getElementById("bulletin-container");
   if (!container) return;
   
-  // Style tweaks to align item markers nicely
   container.querySelectorAll(".headline-bullet-item").forEach(item => {
     item.style.paddingLeft = "1.8rem";
     const dot = item.querySelector("::before");
@@ -1197,13 +1192,14 @@ function renderLockerChat() {
   chatContainer.scrollTop = chatContainer.scrollHeight;
 }
 
-// Render Music Player track states and trigger HTML5 audio state updates
+// Render Music Player track states and Spotify Link bindings
 function renderMusicPlayer() {
   const songTitle = document.getElementById("music-song-title");
   const artist = document.getElementById("music-artist");
   const songCount = document.getElementById("music-track-count");
   const playerBtn = document.getElementById("music-play-btn");
   const visualizer = document.getElementById("music-visualizer");
+  const spotifyLink = document.getElementById("music-spotify-link");
 
   if (!songTitle) return;
 
@@ -1211,6 +1207,10 @@ function renderMusicPlayer() {
   songTitle.textContent = track.title;
   artist.textContent = `${track.artist} (${track.category})`;
   songCount.textContent = `Låt ${currentTrackIndex + 1} av ${PLAYLIST.length}`;
+
+  if (spotifyLink) {
+    spotifyLink.setAttribute("href", track.spotifyUrl);
+  }
 
   if (isPlaying) {
     playerBtn.innerHTML = '<i class="fas fa-pause"></i>';
@@ -1227,14 +1227,12 @@ function updateAudioState() {
 
   const track = PLAYLIST[currentTrackIndex];
 
-  // Set source if changed
   if (audioPlayer.src !== track.audioUrl) {
     audioPlayer.src = track.audioUrl;
     audioPlayer.load();
   }
 
   if (isPlaying) {
-    // Play with catch block for browser autoplay restriction compliance
     audioPlayer.play().catch(err => {
       console.log("Audio playback failed or blocked by browser: ", err);
       isPlaying = false;

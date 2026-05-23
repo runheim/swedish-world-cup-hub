@@ -1631,6 +1631,23 @@ input:checked + .slider:before {
   box-shadow: 0 0 15px var(--sweden-yellow);
 }
 
+.music-btn.spotify {
+  background: #1DB954;
+  color: var(--text-white);
+  border-color: #1ed760;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+}
+
+.music-btn.spotify:hover {
+  background: #1ed760;
+  border-color: var(--text-white);
+  transform: scale(1.15) rotate(5deg);
+  box-shadow: 0 0 12px rgba(29, 185, 84, 0.6);
+}
+
 .music-footer {
   font-size: 0.7rem;
   color: var(--text-secondary);
