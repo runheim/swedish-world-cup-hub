@@ -1,6 +1,6 @@
 /**
  * Swedish National Soccer Team - 2026 World Cup Hub
- * Client-Side Core Logic (Updated with Real pre-camp schedule, Schedule Card, Locker Chat, and Music Player)
+ * Client-Side Core Logic (Updated with Real Audible Audio Playback)
  */
 
 // 1. Official 26-Man Squad Database
@@ -377,6 +377,9 @@ const PLAYERS = [
     stats: { aerialDuelsWon: "78%", goals: 3, passAccuracy: "74%" }
   }
 ];
+
+// Correct duplicates
+PLAYERS.find(p => p.id === "gustaf_nilsson").number = 26;
 
 // 2. Chronological Pre-Camp News Timeline (May 21, 22, 23, 2026 - Geared towards genuine pre-camp activities)
 const TIMELINE_DATABASE = {
@@ -788,17 +791,18 @@ const CHAT_MESSAGES = [
   { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Grymt fokus. Kom ihåg, samling på hotellet kl 10:00 på onsdag den 27:e. Vi gör detta tillsammans, hela vägen! 🇸🇪💪", time: "10:31", isCaptain: true }
 ];
 
-// 5. Locker Room Music Playlist Data
+// 5. Locker Room Music Playlist Data (With real stable direct MP3 streams)
 const PLAYLIST = [
-  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Klassiker" },
-  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Laddning" },
-  { title: "Vi är Sverige", artist: "Camp Sweden", duration: "3:20", category: "Supporter" },
-  { title: "Graham Potter's Indierock Pack", artist: "Oasis / Coldplay", duration: "5:15", category: "Potter's Faves" },
-  { title: "Blågult Camp Vibe", artist: "Swedish House Mafia", duration: "4:40", category: "EDM" }
+  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Klassiker", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3" },
+  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Laddning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3" },
+  { title: "Vi är Sverige", artist: "Camp Sweden", duration: "3:20", category: "Supporter", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3" },
+  { title: "Graham Potter's Indierock Pack", artist: "Oasis / Coldplay", duration: "5:15", category: "Potter's Faves", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3" },
+  { title: "Blågult Camp Vibe", artist: "Swedish House Mafia", duration: "4:40", category: "EDM", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3" }
 ];
 
 let currentTrackIndex = 0;
 let isPlaying = false;
+let audioPlayer = null; // HTML5 Audio Core
 
 // 6. Time Schedule & State Management
 let SIMULATOR_ACTIVE = false;
@@ -908,6 +912,17 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 function initApp() {
+  // Initialize HTML5 Audio Controller
+  audioPlayer = new Audio();
+  audioPlayer.preload = "auto";
+  
+  // Track Auto-Advance event handler
+  audioPlayer.addEventListener("ended", () => {
+    currentTrackIndex = (currentTrackIndex + 1) % PLAYLIST.length;
+    renderMusicPlayer();
+    updateAudioState();
+  });
+
   renderPlayerGrid(PLAYERS);
   renderTacticalPitch();
   updateNewsDashboard();
@@ -1013,6 +1028,23 @@ function updateNewsDashboard() {
       const artId = link.getAttribute("data-article-id");
       openArticleModal(artId);
     });
+  });
+
+  updateNewsTimelineStylesFix();
+}
+
+// Small correction for absolute positions
+function updateNewsTimelineStylesFix() {
+  const container = document.getElementById("bulletin-container");
+  if (!container) return;
+  
+  // Style tweaks to align item markers nicely
+  container.querySelectorAll(".headline-bullet-item").forEach(item => {
+    item.style.paddingLeft = "1.8rem";
+    const dot = item.querySelector("::before");
+    if (dot) {
+      dot.style.top = "18px";
+    }
   });
 
   updateSimulatorUI();
@@ -1153,7 +1185,7 @@ function renderLockerChat() {
       <div class="chat-bubble-avatar">${msg.avatar}</div>
       <div class="chat-bubble-content">
         <div class="chat-bubble-meta">
-          <span class="chat-sender-name">${msg.sender} ${msg.isCaptain ? '<span class="captain-badge">Kapten</span>' : ''}</span>
+          <span class="chat-sender-name">${msg.sender} ${msg.isCaptain ? '<span class="captain-badge">Lagkapten</span>' : ''}</span>
           <span class="chat-bubble-time">${msg.time}</span>
         </div>
         <div class="chat-bubble-text">${msg.text}</div>
@@ -1162,11 +1194,10 @@ function renderLockerChat() {
     chatContainer.appendChild(msgBlock);
   });
 
-  // Scroll to bottom
   chatContainer.scrollTop = chatContainer.scrollHeight;
 }
 
-// Render Music Player Track Details
+// Render Music Player track states and trigger HTML5 audio state updates
 function renderMusicPlayer() {
   const songTitle = document.getElementById("music-song-title");
   const artist = document.getElementById("music-artist");
@@ -1187,6 +1218,30 @@ function renderMusicPlayer() {
   } else {
     playerBtn.innerHTML = '<i class="fas fa-play"></i>';
     visualizer.classList.remove("active");
+  }
+}
+
+// Controls active HTML5 Audio playback streams
+function updateAudioState() {
+  if (!audioPlayer) return;
+
+  const track = PLAYLIST[currentTrackIndex];
+
+  // Set source if changed
+  if (audioPlayer.src !== track.audioUrl) {
+    audioPlayer.src = track.audioUrl;
+    audioPlayer.load();
+  }
+
+  if (isPlaying) {
+    // Play with catch block for browser autoplay restriction compliance
+    audioPlayer.play().catch(err => {
+      console.log("Audio playback failed or blocked by browser: ", err);
+      isPlaying = false;
+      renderMusicPlayer();
+    });
+  } else {
+    audioPlayer.pause();
   }
 }
 
@@ -1355,6 +1410,7 @@ function setupEventListeners() {
     playBtn.addEventListener("click", () => {
       isPlaying = !isPlaying;
       renderMusicPlayer();
+      updateAudioState();
     });
   }
 
@@ -1362,6 +1418,7 @@ function setupEventListeners() {
     prevBtn.addEventListener("click", () => {
       currentTrackIndex = currentTrackIndex === 0 ? PLAYLIST.length - 1 : currentTrackIndex - 1;
       renderMusicPlayer();
+      updateAudioState();
     });
   }
 
@@ -1369,6 +1426,7 @@ function setupEventListeners() {
     nextBtn.addEventListener("click", () => {
       currentTrackIndex = currentTrackIndex === PLAYLIST.length - 1 ? 0 : currentTrackIndex + 1;
       renderMusicPlayer();
+      updateAudioState();
     });
   }
 
