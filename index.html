@@ -92,40 +92,102 @@
     <!-- 4. Main Content Dashboard -->
     <main class="dashboard-grid">
       
-      <!-- News Bulletin Left Panel -->
-      <section class="panel-card" id="bulletin-board-card">
-        <div class="panel-header-with-tabs">
-          <h2 class="panel-title" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
-            <i class="far fa-newspaper"></i> Live Media Desk
-          </h2>
-          <div class="news-tabs-container">
-            <button class="news-tab-btn active" id="tab-news-sweden">
-              <span class="flag-mini">🇸🇪</span> Blågult Nyheter &amp; Bloggar
-            </button>
-            <button class="news-tab-btn" id="tab-news-opponent">
-              <span class="flag-mini">🌍</span> Motståndarbevakning (Grupp F)
-            </button>
+      <!-- Left Column: News Desk & Locker Room Chat -->
+      <div class="dashboard-col-left">
+        <!-- News Bulletin Panel -->
+        <section class="panel-card" id="bulletin-board-card">
+          <div class="panel-header-with-tabs">
+            <h2 class="panel-title" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+              <i class="far fa-newspaper"></i> Live Media Desk
+            </h2>
+            <div class="news-tabs-container">
+              <button class="news-tab-btn active" id="tab-news-sweden">
+                <span class="flag-mini">🇸🇪</span> Blågult Nyheter &amp; Bloggar
+              </button>
+              <button class="news-tab-btn" id="tab-news-opponent">
+                <span class="flag-mini">🌍</span> Motståndarbevakning (Grupp F)
+              </button>
+            </div>
           </div>
-        </div>
-        <div id="bulletin-container" style="margin-top: 1.5rem;">
-          <!-- News blocks will be injected here dynamically -->
-        </div>
-      </section>
+          <div id="bulletin-container" style="margin-top: 1.5rem;">
+            <!-- News blocks will be injected here dynamically -->
+          </div>
+        </section>
 
-      <!-- Tactical Lineup Right Panel -->
-      <section class="panel-card" id="tactical-field-card">
-        <h2 class="panel-title">
-          <i class="fas fa-chess-board"></i> Graham Potters 3-4-2-1
-        </h2>
-        <div class="pitch-container">
-          <div class="tactical-pitch" id="tactical-pitch-inner">
-            <!-- Green pitch with lines and absolute player jerseys injected here -->
+        <!-- Locker Room Chat Panel -->
+        <section class="panel-card" id="locker-chat-card" style="margin-top: 2rem;">
+          <h2 class="panel-title">
+            <i class="far fa-comments"></i> Omklädningsrummet (Banter Chat)
+          </h2>
+          <div class="chat-console-wrapper">
+            <div class="chat-messages-container" id="chat-messages-container">
+              <!-- Chat bubbles will be loaded here -->
+            </div>
+            <div class="chat-input-row">
+              <input type="text" class="chat-placeholder-input" placeholder="Endast utvalda spelare kan svara..." disabled>
+              <button class="chat-send-btn" disabled><i class="far fa-paper-plane"></i></button>
+            </div>
           </div>
-          <div class="pitch-info-bar">
-            Klicka på en spelare på spelplanen för att se fullständig landslagsstatistik
+        </section>
+      </div>
+
+      <!-- Right Column: Music Player, Tactical Pitch, and Match Schedule -->
+      <div class="dashboard-col-right">
+        
+        <!-- Music Player Card -->
+        <section class="panel-card" id="music-player-card" style="margin-bottom: 2rem;">
+          <h2 class="panel-title">
+            <i class="fas fa-music"></i> Blågult Spelare (Locker Room Vibe)
+          </h2>
+          <div class="music-player-wrapper">
+            <div class="music-track-info">
+              <h4 id="music-song-title">Låtnamn</h4>
+              <p id="music-artist">Artist</p>
+            </div>
+            <div class="music-visualizer-container" id="music-visualizer">
+              <span class="bar bar-1"></span>
+              <span class="bar bar-2"></span>
+              <span class="bar bar-3"></span>
+              <span class="bar bar-4"></span>
+              <span class="bar bar-5"></span>
+            </div>
+            <div class="music-controls">
+              <button class="music-btn" id="music-prev-btn" title="Föregående"><i class="fas fa-backward"></i></button>
+              <button class="music-btn play" id="music-play-btn" title="Spela / Pausa"><i class="fas fa-play"></i></button>
+              <button class="music-btn" id="music-next-btn" title="Nästa"><i class="fas fa-forward"></i></button>
+            </div>
+            <div class="music-footer">
+              <span id="music-track-count">Låt 1 av 5</span>
+            </div>
           </div>
-        </div>
-      </section>
+        </section>
+
+        <!-- Tactical Lineup Pitch Card -->
+        <section class="panel-card" id="tactical-field-card" style="margin-bottom: 2rem;">
+          <h2 class="panel-title">
+            <i class="fas fa-chess-board"></i> Graham Potters 3-4-2-1
+          </h2>
+          <div class="pitch-container">
+            <div class="tactical-pitch" id="tactical-pitch-inner">
+              <!-- Green pitch with lines and absolute player jerseys injected here -->
+            </div>
+            <div class="pitch-info-bar">
+              Klicka på en spelare på spelplanen för att se fullständig landslagsstatistik
+            </div>
+          </div>
+        </section>
+
+        <!-- Match Schedule Card -->
+        <section class="panel-card" id="match-timeline-card">
+          <h2 class="panel-title">
+            <i class="far fa-calendar-alt"></i> Spelschema (Grupp F)
+          </h2>
+          <div class="match-schedule-container" id="match-schedule-container">
+            <!-- Matches timeline loaded here -->
+          </div>
+        </section>
+
+      </div>
 
     </main>
 

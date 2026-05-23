@@ -1,6 +1,6 @@
 /**
  * Swedish National Soccer Team - 2026 World Cup Hub
- * Client-Side Core Logic (Updated with Multi-Day Timeline & Cumulative Scrollable Feed)
+ * Client-Side Core Logic (Updated with Real pre-camp schedule, Schedule Card, Locker Chat, and Music Player)
  */
 
 // 1. Official 26-Man Squad Database
@@ -378,10 +378,7 @@ const PLAYERS = [
   }
 ];
 
-// Correct duplicates
-PLAYERS.find(p => p.id === "gustaf_nilsson").number = 26;
-
-// 2. Chronological Multi-Day Database (May 21st, 22nd, 23rd)
+// 2. Chronological Pre-Camp News Timeline (May 21, 22, 23, 2026 - Geared towards genuine pre-camp activities)
 const TIMELINE_DATABASE = {
   "2026-05-21": {
     1: {
@@ -392,17 +389,17 @@ const TIMELINE_DATABASE = {
           id: "art_21_1_1",
           category: "sweden",
           type: "Nyheter",
-          title: "Sweden squad reports to Gothenburg camp; initial fitness screenings completed",
+          title: "Potter's staff inspects Bosön training facilities ahead of May 27 gather",
           bullets: [
-            "All 26 selected players arrive at the team headquarters in Gothenburg.",
-            "Medical staff performs base cardiac and physical loading tests.",
-            "Graham Potter welcomes the squad, expressing immense optimism."
+            "Coaching assistants tour Stockholm's elite national training complex.",
+            "Inspect newly laid turf surfaces and high-performance recovery rooms.",
+            "Svenska FA confirms all technical apparatus is prepared to receive players."
           ],
-          summary: "Sweden's World Cup campaign has officially begun as all 26 players reported to the Gothenburg camp this morning. The players underwent detailed medical examinations and fitness tests to establish baseline physical data before moving onto training pitches. Captain Victor Lindelöf expressed his excitement: 'We are finally here, the work starts now.'",
+          summary: "Graham Potter's coaching assistants, coordinated by Björn Hamberg, performed a complete site walkthrough at Bosön in Stockholm yesterday. The Swedish FA has secured Stockholm's top elite facility to act as the primary preparation base. The fields are in pristine condition, and all tactical analysis gear is configured for the players' arrival on Wednesday, May 27.",
           author: "Olof Lundh (Fotbollskanalen)",
           readTime: "3 min",
-          tag: "Camp Start",
-          relatedPlayers: ["victor_lindelof"]
+          tag: "Bosön Läger",
+          relatedPlayers: []
         }
       ]
     },
@@ -413,62 +410,62 @@ const TIMELINE_DATABASE = {
         {
           id: "art_21_2_1",
           category: "sweden",
-          type: "Krönika",
-          title: "Potter: 'We represent our flag with pride and modern principles'",
+          type: "Nyheter",
+          title: "Sweden FA confirms ticketing details and safety plan for Norway warmup in Oslo",
           bullets: [
-            "Förbundskapten Graham Potter lays out his primary philosophical goals.",
-            "Demands tactical courage, flexible systems, and proactive high-presses.",
-            "Emphasizes that Swedish collective spirit is their ultimate competitive advantage."
+            "Ticketing portal opens for the highly anticipated friendly at Ullevaal Stadion.",
+            "Over 6,000 traveling Swedish fans expected to pack Oslo's away blocks.",
+            "Svenska FA releases detailed pre-match logistics for traveling fans."
           ],
-          summary: "In his opening press conference of the Gothenburg camp, Graham Potter outlined his tactical blueprint. The English manager stressed that Sweden will not be defensive spectators at the World Cup. 'We want to dictate phases, use the ball intelligently, and press aggressively. Our historical strength is unity, and we will combine that with modern technical courage,' Potter explained.",
-          author: "Simon Bank (Aftonbladet)",
-          readTime: "4 min",
-          tag: "Taktisk Filosofi",
+          summary: "The Swedish FA released ticketing and security protocols for the upcoming international friendly against Norway on June 1 at Ullevaal Stadion. Norwegian authorities anticipate a completely packed venue. Swedish fans have already snapped up their designated away allocation, promising an electric Scandinavian atmosphere for Potter's first match of the final phase.",
+          author: "Svensk Fotboll Press",
+          readTime: "2 min",
+          tag: "Biljett Intel",
           relatedPlayers: []
         }
       ]
     },
     3: {
       timeLabel: "14:30",
-      name: "Träningspass (Afternoon Pitch Training Update)",
+      name: "Träningspass (Afternoon Workouts)",
       articles: [
         {
           id: "art_21_3_1",
           category: "sweden",
           type: "Blogg",
-          title: "Emil Holm: 'First pitch training was incredibly sharp and high-tempo'",
+          title: "Viktor Gyökeres maintains elite gym drills at Arsenal training facility",
           bullets: [
-            "Juventus wing-back Holm logs his personal observations of the opening training session.",
-            "Notes that passing drills were executed with rapid velocity.",
-            "Puckish competition already brewing between strikers and defenders."
+            "Prolific forward logs individual weight lifting routines in London.",
+            "Physiologists confirm Gyökeres is entering the pre-camp in perfect metabolic shape.",
+            "Gyökeres writes: 'Got my personal schedule from Graham; focusing on high-speed stamina.'"
           ],
-          summary: "Writing in his camp diary blog, right wingback Emil Holm highlighted the intense tempo of Sweden's first field session. 'Potter and his coaching staff don't waste a single minute. The exercises were short, physically demanding, and focused entirely on quick spatial transition. The chemistry is top-tier already,' Holm remarked.",
-          author: "Emil Holm (Spelar-Blogg)",
-          readTime: "2 min",
-          tag: "Träningspass 1",
-          relatedPlayers: ["emil_holm"]
+          summary: "Sticking to an individualized conditioning program, Arsenal striker Viktor Gyökeres is spending his week performing rigorous explosive speed drills at his club's gym in London. Under instructions from Potter's staff, players not in active league matches are keeping their physical registers high so that tactical field sessions can start at maximum velocity on day one.",
+          author: "Viktor Gyökeres (Spelar-Blogg)",
+          readTime: "3 min",
+          tag: "Spelar-Fokus",
+          relatedPlayers: ["viktor_gyokeres"]
         }
       ]
     },
     4: {
       timeLabel: "18:00",
-      name: "Taktik & Analys (Tactical Prep & Opponent Scouting)",
+      name: "Taktik & Analys (Scouting Update)",
       articles: [
         {
           id: "art_21_4_1",
           category: "opponent",
           type: "Scouting",
-          title: "Scouting Group F: Dutch media analyzes threat of Sweden's dual forwards",
+          title: "Netherlands Watch: Ronald Koeman organizes high-intensity Vancouver base",
           bullets: [
-            "De Telegraaf highlights Gyökeres and Isak as one of the tournament's most lethal duos.",
-            "Dutch coaches plan special central overload routines to isolate Sweden's strikers.",
-            "Frenkie de Jong comments: 'Sweden is highly structured and very dangerous.'"
+            "Netherlands FA reserves training pitches in British Columbia, Canada.",
+            "Koeman schedules triple-sessions to acclimatize Dutch squad to North American timezones.",
+            "Scouts confirm de Jong is working extensively on midfield recovery routines."
           ],
-          summary: "Reports out of Amsterdam show that the Netherlands is showing heavy respect for Sweden's attacking options. Dutch football columns spent the day dissecting Sweden's likely shape under Graham Potter, identifying the physical power of Viktor Gyökeres and the elegance of Alexander Isak as top-tier threats that will require specialized defensive monitoring.",
-          author: "De Telegraaf (Amsterdam)",
-          readTime: "3 min",
-          tag: "Nederländerna Rapport",
-          relatedPlayers: ["viktor_gyokeres", "alexander_isak"]
+          summary: "Sweden's analytics division has logged the travel and training schedule of the Netherlands. Ronald Koeman's squad is bypassing a local European camp, choosing instead to travel early to Vancouver, Canada, where the opening matches take place. The Dutch are preparing intense double and triple daily sessions to adjust quickly to West Coast timezones.",
+          author: "Erik Niva (Aftonbladet)",
+          readTime: "4 min",
+          tag: "Nederländerna Intel",
+          relatedPlayers: []
         }
       ]
     },
@@ -480,17 +477,17 @@ const TIMELINE_DATABASE = {
           id: "art_21_5_1",
           category: "sweden",
           type: "Blogg",
-          title: "Gothenburg camp winds down; players enjoy quiet evening in team lounge",
+          title: "Player Blog: Emil Holm on packing bags and heading home to Gothenburg",
           bullets: [
-            "Squad wraps up Day 1 with shared dinner and recreation time.",
-            "Jesper Karlström wins early team billiard tournament.",
-            "Medical team reports zero complaints or injury scares."
+            "Juventus wing-back shares photos of his flight luggage and travel ticket.",
+            "Excited to spend a quick 48 hours with family before gathering in Stockholm.",
+            "Holm: 'Stockholm and Bosön represent the final engine start. Let's make this year wild.'"
           ],
-          summary: "Sweden's first official training day in Gothenburg concluded with a relaxed team-bonding session in the lounge. Midfielder Jesper Karlström claimed the bragging rights in a hotly contested pool tournament. Crucially, the physical therapists reported that the entire 26-man roster finished the opening day with a clean bill of health.",
-          author: "Svensk Fotboll Media",
+          summary: "In a personal blog post, Emil Holm expressed his excitement as he boarded a flight back to Sweden. Having concluded his Serie A campaign, Holm is taking a brief two-day rest with family in Gothenburg before reporting to the national team training camp at Bosön on Wednesday morning. 'My mind is completely locked on the yellow and blue,' Holm wrote.",
+          author: "Emil Holm (Spelar-Blogg)",
           readTime: "2 min",
-          tag: "Kvällsläger",
-          relatedPlayers: ["jesper_karlstrom"]
+          tag: "Spelar-Resa",
+          relatedPlayers: ["emil_holm"]
         }
       ]
     }
@@ -503,18 +500,18 @@ const TIMELINE_DATABASE = {
         {
           id: "art_22_1_1",
           category: "sweden",
-          type: "Blogg",
-          title: "Isak Hien and Victor Lindelöf discuss tactical defensive structures over coffee",
+          type: "Krönika",
+          title: "Lundh's Column: Why the May 25 release deadline is crucial for Potter's team synergy",
           bullets: [
-            "Sweden's expected starting center-backs seen coordinating positions at frukost.",
-            "Analyze footage of Netherlands' counter-attacking runs in warmups.",
-            "Potter expresses satisfaction at his leaders' proactive tactical homework."
+            "FIFA's mandatory player release deadline begins on Monday, May 25.",
+            "Allows national teams full, uninterrupted access to their European stars.",
+            "Potter gains complete coaching custody over Isak, Gyökeres, and Lindelöf."
           ],
-          summary: "Cohesion in Sweden's central defense is growing rapidly. At breakfast today, Atalanta's Isak Hien and captain Victor Lindelöf were seen utilizing tablets to dissect movement maps of the Netherlands' front three. By building direct, verbal understanding off the field, the center-back pairing plans to synchronize their positioning on the pitch.",
-          author: "Johanna Frändén (Aftonbladet)",
-          readTime: "3 min",
-          tag: "Frukostanalys",
-          relatedPlayers: ["isak_hien", "victor_lindelof"]
+          summary: "As we edge closer to the mandatory FIFA player release date on May 25, Graham Potter is poised to finally take full command of his squad. The staggered endings of European club seasons have made early tactical assemblies impossible. Starting Monday, all club responsibilities cease, marking the true structural beginning of Sweden's quest to build cohesive chemistry for their Group F opener.",
+          author: "Olof Lundh (Fotbollskanalen)",
+          readTime: "4 min",
+          tag: "Läger-Analys",
+          relatedPlayers: ["alexander_isak", "viktor_gyokeres", "victor_lindelof"]
         }
       ]
     },
@@ -526,61 +523,61 @@ const TIMELINE_DATABASE = {
           id: "art_22_2_1",
           category: "sweden",
           type: "Nyheter",
-          title: "Medical Staff: Complete health update issued; Holm and Gudmundsson peak form",
+          title: "Potter outlines Stockholm pre-camp objectives: 'It is about rhythm and physical loading'",
           bullets: [
-            "Swedish chief doctor confirms 100% squad health, zero muscular strains.",
-            "Holm and Gudmundsson demonstrate elite recovery statistics in tests.",
-            "Potter praises his medical division for managing player club workloads."
+            "Graham Potter outlines exact daily workloads for the Stockholm gathering.",
+            "Focuses heavily on ball possession drills and system familiarity.",
+            "Praises Sweden FA's logistics division for organizing a seamless flight plan."
           ],
-          summary: "Sweden issued a glowing medical update today, confirming that all 26 selected players are in optimal physiological shape. Tests conducted on key wingbacks Emil Holm and Gabriel Gudmundsson showed outstanding lung capacities and muscular recovery, reassuring fans that Sweden's high-pressing system will operate at peak energy.",
+          summary: "During an online media briefing today, förbundskapten Graham Potter spoke on the goals of Sweden's local Stockholm pre-camp. 'The first three days at Bosön are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before flying to Norway,' Potter explained.",
           author: "Therese Strömberg (Expressen)",
-          readTime: "2 min",
-          tag: "Medicinskt Pressmöte",
-          relatedPlayers: ["emil_holm", "gabriel_gudmundsson"]
+          readTime: "3 min",
+          tag: "Förbundskaptenen",
+          relatedPlayers: []
         }
       ]
     },
     3: {
       timeLabel: "14:30",
-      name: "Träningspass (Afternoon Pitch Training Update)",
+      name: "Träningspass (Afternoon Workouts)",
       articles: [
         {
           id: "art_22_3_1",
           category: "sweden",
-          type: "Nyheter",
-          title: "Anthony Elanga showcases lightning pace in counter-attacking exercises",
+          type: "Blogg",
+          title: "Alexander Isak completes final individual agility drills in Liverpool",
           bullets: [
-            "Newcastle forward Elanga clocks top speed of 35.5 km/h during afternoon training.",
-            "Displays lethal chemistry with Lucas Bergvall during transition drills.",
-            "Potter focuses drills on rapid three-pass scoring phases."
+            "Liverpool striker shares a training log from his local pitch workouts.",
+            "Focuses on quick turning radius drills and penalty-box finishing.",
+            "Isak: 'Getting the muscles tuned up. Stockholm, see you next week!'"
           ],
-          summary: "Sweden's speed transitions were the main focus of this afternoon's pitch session. Anthony Elanga was the standout performer, repeatedly catching defensive lines out with explosive vertical runs. Potter and assistant hamberg spent significant time coordinating Elanga's overlapping patterns with Lucas Bergvall's midfield distributions.",
-          author: "Daniel Kristoffersson (Expressen)",
+          summary: "Alexander Isak is not wasting his pre-camp window. The Liverpool striker has been working with a personal trainer on quick direction-change sprints to preserve his agility levels. 'The physical side of the game is vital in the opening match against Japan. We must be quick off the mark, and I want to be 100% sharp when we gather at Bosön,' Isak wrote in his online camp log.",
+          author: "Alexander Isak (Spelar-Blogg)",
           readTime: "3 min",
-          tag: "Träningsrapport 2",
-          relatedPlayers: ["anthony_elanga", "lucas_bergvall"]
+          tag: "Spelar-Träning",
+          relatedPlayers: ["alexander_isak"]
         }
       ]
     },
     4: {
       timeLabel: "18:00",
-      name: "Taktik & Analys (Tactical Prep & Opponent Scouting)",
+      name: "Taktik & Analys (Scouting Update)",
       articles: [
         {
           id: "art_22_4_1",
           category: "opponent",
-          type: "Analys",
-          title: "Scouting Tunisia: Tactical analysis of Kadri's compact 4-5-1 layout",
+          type: "Scouting",
+          title: "Tunisia schedules high-intensity warmups in Montreal; analysts monitor setups",
           bullets: [
-            "Sweden analysts break down Tunisia's highly disciplined midfield lock.",
-            "Highlight Ellyes Skhiri's screen as their tactical center of gravity.",
-            "Outline Sweden's path to break through: rapid wingback shifts and dual width."
+            "Tunisia chooses Canadian base in Montreal to replicate Seattle weather conditions.",
+            "Schedule closed-door warm-up match to practice defending dual-forward formations.",
+            "Sweden scouts monitor defensive rotations and set-piece marking profiles."
           ],
-          summary: "Sweden's analytics desk delivered a comprehensive scouting overview of group opponent Tunisia today. Kadri's team utilizes a highly disciplined 4-5-1 shape that chokes spaces in the central channels. Swedish scouts noted that to unlock this low-block, Sweden must avoid slow central passes and instead utilize Holm and Gudmundsson to create overloads on the wings.",
+          summary: "Tunisia has arrived at their North American training base in Montreal, choosing the Canadian climate to replicate the conditions they will face against Sweden in Seattle. Under coach Jalel Kadri, the Tunisians have scheduled a series of high-tempo practices designed to test their defensive compactness, particularly rehearsing how they will mark dual-forward shapes.",
           author: "Marcus Leifby (Aftonbladet)",
-          readTime: "5 min",
-          tag: "Scouting Tunis",
-          relatedPlayers: ["emil_holm", "gabriel_gudmundsson"]
+          readTime: "4 min",
+          tag: "Tunisien Intel",
+          relatedPlayers: []
         }
       ]
     },
@@ -592,17 +589,17 @@ const TIMELINE_DATABASE = {
           id: "art_22_5_1",
           category: "sweden",
           type: "Blogg",
-          title: "Camp Diary: Yasin Ayari on learning Graham Potter's technical demands",
+          title: "Tottenham starlet Lucas Bergvall: 'Playing a World Cup at 20 is a dream I am ready for'",
           bullets: [
-            "Brighton midfielder Ayari reflects on his personal development in camp.",
-            "Expresses high respect for Potter's detail-oriented tactical adjustments.",
-            "Highlights great support from veteran midfielders Karlström and Svanberg."
+            "Bergvall shares a late-night travel diary entry regarding his emotions.",
+            "Reflects on his incredible season in London and his tactical fit under Potter.",
+            "Bergvall: 'The pressure is a privilege. I want to learn, but most of all, I want to win.'"
           ],
-          summary: "In a late-night player blog, Yasin Ayari opened up about working under Graham Potter. 'Graham expects us to scan constantly and understand where the space is before we even receive the ball. It is demanding, but it makes us incredibly smart as a unit. Having guys like Jesper and Mattias alongside me makes the adaptation so much easier,' Ayari wrote.",
-          author: "Yasin Ayari (Spelar-Blogg)",
+          summary: "In a highly candid late-night diary post, Lucas Bergvall discussed his emotions ahead of reporting to Stockholm. The 20-year-old playmaker has caught global attention at Tottenham Hotspur and is set to be Sweden's creative catalyst. 'Playing for Sweden in a World Cup is what you practice for in the garden as a kid. I'm ready to fight for my country,' Bergvall wrote.",
+          author: "Lucas Bergvall (Spelar-Blogg)",
           readTime: "4 min",
           tag: "Spelar-Dagbok",
-          relatedPlayers: ["yasin_ayari", "jesper_karlstrom", "mattias_svanberg"]
+          relatedPlayers: ["lucas_bergvall"]
         }
       ]
     }
@@ -615,50 +612,34 @@ const TIMELINE_DATABASE = {
         {
           id: "art_23_1_1",
           category: "sweden",
-          type: "Blogg",
-          title: "Gyökeres and Isak report high morale at breakfast camp in Gothenburg",
+          type: "Nyheter",
+          title: "Sweden media desk gears up for Stockholm media blitz starting May 27",
           bullets: [
-            "Positive mood envelopes the Swedish camp during their morning gathering.",
-            "Star forwards Viktor Gyökeres and Alexander Isak seen sharing tactics and discussing their partnership.",
-            "Manager Graham Potter emphasizes team chemistry before next week's flight to North America."
+            "Swedish FA's press crew arrives in Stockholm to build team media center.",
+            "Over 120 accredited international journalists scheduled to cover Bosön drills.",
+            "Potter coordinates with staff to organize structured player media panels."
           ],
-          summary: "A warm and unified atmosphere is taking root in the Swedish national team training camp. During breakfast today in Gothenburg, strike partners Viktor Gyökeres and Alexander Isak were observed in deep discussion regarding their offensive movements. With the squad flying to their base camp in Dallas, Texas next week, Potter is utilizing these quiet team moments to build strong interpersonal bonds, which he believes will translate directly to fluid combinations on the pitch.",
+          summary: "The Swedish FA's advanced media division arrived in Stockholm this morning to build the primary press room at the team's headquarters. Starting next Wednesday, players will engage in daily press briefings and mixed zones, creating high transparency and media accessibility as the nation rallies behind their players' campaign.",
           author: "Olof Lundh (Fotbollskanalen)",
           readTime: "3 min",
-          tag: "Team Camp",
-          relatedPlayers: ["viktor_gyokeres", "alexander_isak"]
+          tag: "Mediaplanering",
+          relatedPlayers: []
         },
         {
           id: "art_23_1_2",
-          category: "sweden",
-          type: "Nyheter",
-          title: "Carl Starfelt recovers from minor ankle knock, cleared for full practice",
-          bullets: [
-            "Celta Vigo defender Carl Starfelt successfully completes rehabilitation drills.",
-            "Medical staff issues 100% clearance for full-intensity contact training.",
-            "Graham Potter gains a full defensive cohort ahead of crucial warm-up games."
-          ],
-          summary: "Sweden has received a major boost as defender Carl Starfelt has been declared fully fit. Starfelt, who arrived at camp carrying a minor ankle knock from his final La Liga outing, took part in early individual drills yesterday and has now received full medical clearance. His availability ensures that Graham Potter has his entire defensive roster healthy and available for tactical preparations, intensifying competition for a spot in the starting back three.",
-          author: "Johanna Frändén (Aftonbladet)",
-          readTime: "2 min",
-          tag: "Skadeuppdatering",
-          relatedPlayers: ["carl_starfelt"]
-        },
-        {
-          id: "art_23_1_3",
           category: "opponent",
           type: "Scouting",
-          title: "Netherlands Camp: Koeman confident but voices concern over Memphis Depay's form",
+          title: "Netherlands Watch: Frenkie de Jong declared fully fit for Barcelona training",
           bullets: [
-            "Netherlands manager Ronald Koeman states squad is ready for Sweden's physical threat.",
-            "Expressed major reservations regarding Memphis Depay's lack of domestic match fitness.",
-            "Identifies Sweden's rapid transition threat as the primary tactical concern."
+            "Midfield maestro Frenkie de Jong participates in Barcelona's final team session.",
+            "Medical clearance issued, paving the way for Dutch World Cup inclusion.",
+            "Swedish analytics pivot immediately starts crafting de Jong pressing traps."
           ],
-          summary: "During a quiet morning media briefing in Vancouver, Dutch head coach Ronald Koeman spoke on the upcoming Group F showdown with Sweden. While praising the tactical structure of Graham Potter's team, Koeman expressed mounting worries over Memphis Depay, who is struggling to reach 100% match sharpness. 'Sweden plays with immense physical power and transition speed through Gyökeres and Isak. We cannot afford to give them cheap space,' Koeman warned, hinting at a highly compact defensive layout.",
+          summary: "Sweden's scouting network logged excellent news for the Netherlands, but a major tactical challenge for Graham Potter. Barcelona midfielder Frenkie de Jong participated in full-contact drills today, indicating his ankle injury is fully healed. His presence means Sweden's double-pivot must prepare specialized pressing traps to disrupt de Jong's elite playmaking tempo.",
           author: "Voetbal International",
           readTime: "4 min",
-          tag: "Nederländerna Intel",
-          relatedPlayers: ["viktor_gyokeres", "alexander_isak"]
+          tag: "Nederländerna Rapport",
+          relatedPlayers: ["yasin_ayari", "mattias_svanberg"]
         }
       ]
     },
@@ -669,158 +650,62 @@ const TIMELINE_DATABASE = {
         {
           id: "art_23_2_1",
           category: "sweden",
-          type: "Analys",
-          title: "Potter addresses Kulusevski's injury absence and outlines new tactical setup",
-          bullets: [
-            "Graham Potter expresses deep sympathy for the injured Dejan Kulusevski.",
-            "Confirms a fluid 3-4-2-1 tactical scheme is being tailored to maximize active stars.",
-            "Highlights the joint offensive power of Isak and Gyökeres as the team's key spearhead."
-          ],
-          summary: "In a heavily attended morning press briefing, head coach Graham Potter discussed Sweden's tactical adaptability in the wake of Dejan Kulusevski's heartbreaking injury. Potter confirmed that while Kulusevski's absence is a blow, it has prompted the team to adopt a fluid 3-4-2-1 system. This structure will rely on two highly creative attacking midfielders playing behind a lone striker, or a dynamic front two featuring Alexander Isak playing off Viktor Gyökeres. 'Our strength is in our flexibility and our collective speed,' Potter remarked.",
-          author: "Therese Strömberg (Expressen)",
-          readTime: "5 min",
-          tag: "Presskonferens",
-          relatedPlayers: ["alexander_isak", "viktor_gyokeres"]
-        },
-        {
-          id: "art_23_2_2",
-          category: "sweden",
-          type: "Blogg",
-          title: "Young midfielder Lucas Bergvall named 'One to Watch' by FIFA technical committee",
-          bullets: [
-            "Tottenham Hotspur's 20-year-old midfielder singled out in official tournament previews.",
-            "Potter praises Bergvall's tactical intelligence, noting he plays like a seasoned veteran.",
-            "Team captains support the young prodigy to keep his feet firmly on the ground."
-          ],
-          summary: "A technical report released by FIFA has identified Sweden's Lucas Bergvall as one of the standout young talents to watch at the 2026 World Cup. The Tottenham Hotspur starlet has impressed coaches with his scanning frequency, dribbling under pressure, and spatial awareness. Graham Potter echoed these sentiments today: 'Lucas possesses an innate understanding of space. Age is just a number; if you are good enough, you are ready, and Lucas is absolutely ready.'",
-          author: "Daniel Kristoffersson (Expressen)",
-          readTime: "3 min",
-          tag: "Stortalang",
-          relatedPlayers: ["lucas_bergvall"]
-        },
-        {
-          id: "art_23_2_3",
-          category: "opponent",
           type: "Nyheter",
-          title: "Japan wraps up tactical camp in Vancouver; Mitoma warns about Alexander Isak's pace",
+          title: "Potter's finalized pre-tournament agenda: Stockholm to Dallas timeline published",
           bullets: [
-            "Kaoru Mitoma addresses Japanese journalists, warning of Sweden's counter-attacking danger.",
-            "Japan wraps up high-tempo preparation matches with a comfortable 2-0 win.",
-            "Manager Moriyasu devises special defensive block to curb Lucas Bergvall's space."
+            "Svenska FA publishes the detailed chronological itinerary for the final phase.",
+            "Squad reports to Stockholm on May 27, trains at Bosön and Strawberry Arena.",
+            "Flights to Oslo on May 31, Norway match June 1, departs for Dallas base on June 2."
           ],
-          summary: "Japan winger Kaoru Mitoma spent his morning interview warning his defensive line about Alexander Isak's intelligence and pace. 'I play against Alex in England; he is incredibly graceful, unpredictable, and fast,' Mitoma explained. Japanese head coach Hajime Moriyasu has spent multiple hours practicing low-block defensive movements, focusing heavily on cutting off line-breaking supply routes to Sweden's dual forwards.",
-          author: "Nikkan Sports (Tokyo)",
+          summary: "Svensk Fotboll today published the official team calendar. The 26-man roster will gather in Stockholm next Wednesday, training locally for four days. On May 31, they travel to Oslo for their first friendly against Norway on June 1, and immediately board a charter flight to their primary base camp in Dallas, Texas on June 2 to begin their final tournament preparations.",
+          author: "Therese Strömberg (Expressen)",
           readTime: "3 min",
-          tag: "Japan Intel",
-          relatedPlayers: ["alexander_isak", "lucas_bergvall"]
+          tag: "Läger-Schema",
+          relatedPlayers: []
         }
       ]
     },
     3: {
       timeLabel: "14:30",
-      name: "Träningspass (Afternoon Pitch Training Update)",
+      name: "Träningspass (Afternoon Workouts)",
       articles: [
         {
           id: "art_23_3_1",
           category: "sweden",
-          type: "Nyheter",
-          title: "Pitchside Report: Isak Hien dominates defensive drills in tactical session",
+          type: "Blogg",
+          title: "Carl Starfelt completes ankle rehab, cleared for full practice at Bosön",
           bullets: [
-            "Atalanta defender Isak Hien exhibits exceptional physicality in 11v11 practice match.",
-            "Thwarts key attacks and receives applause for building direct plays from the back.",
-            "Potter works extensively on defensive transitions and low-block recovery lines."
+            "Celta Vigo defender Starfelt completes final ankle muscle-load courses.",
+            "Physiotherapists issue 100% clearance for day-one contact exercises.",
+            "Starfelt: 'The ankle feels rock-solid. See you guys on the pitch on Wednesday!'"
           ],
-          summary: "Atalanta center-back Isak Hien put on a masterclass during this afternoon's high-intensity tactical session. In a simulated 11-a-side match, Hien was rock-solid, neutralizing several rapid offensive transitions led by Anthony Elanga. Graham Potter halted play multiple times to praise Hien's body positioning and decision-making when passing under pressure. Hien's formidable physical condition suggests he will be the central pillar of Sweden's defensive back three.",
-          author: "Simon Bank (Aftonbladet)",
+          summary: "Sweden has received a major fitness boost as center-back Carl Starfelt completed his ankle physical therapy program. Carrying a light knock from his final La Liga match, Starfelt has been training individually, but has now been given 100% clearance to join the team for full-contact training when camp gathers on Wednesday morning.",
+          author: "Carl Starfelt (Spelar-Dagbok)",
           readTime: "3 min",
-          tag: "Träningsrapport",
-          relatedPlayers: ["isak_hien", "anthony_elanga"]
-        },
-        {
-          id: "art_23_3_2",
-          category: "sweden",
-          type: "Krönika",
-          title: "Camp Diary: Yasin Ayari and Mattias Svanberg form impressive pivot in practice",
-          bullets: [
-            "Central midfielders Ayari and Svanberg demonstrate excellent telepathic chemistry.",
-            "The duo dictates possession tempo and breaks lines during midfield transition drills.",
-            "Strong indication they could form Sweden's starting midfield engine room."
-          ],
-          summary: "Sweden's midfield configuration is taking shape as Yasin Ayari and Mattias Svanberg clicked during tactical drills. The pairing combined Brighton's fluid short-passing style with Wolfsburg's physical box-to-box dynamism. They successfully navigated tight high-press situations, distributing crisp vertical balls to attacking players. If today's session is any indicator, Potter has found his preferred double-pivot to balance defensive duties and forward supply lines.",
-          author: "Noa Bachner (Expressen)",
-          readTime: "3 min",
-          tag: "Taktisk Analys",
-          relatedPlayers: ["yasin_ayari", "mattias_svanberg"]
-        },
-        {
-          id: "art_23_3_3",
-          category: "opponent",
-          type: "Scouting",
-          title: "Tunisia completes training camp with surprise additions; prepares defensive tactical wall",
-          bullets: [
-            "Tunisia coach Jalel Kadri praises his squad's heavy defensive discipline and solidity.",
-            "Midfield anchor Ellyes Skhiri declared 100% fit to shield their central block.",
-            "Tunisia schedules closed-door warm-up match to practice handling dual-striker setups."
-          ],
-          summary: "Reports out of the Tunisian camp in Montreal reveal that coach Jalel Kadri is building a compact, high-discipline low-block specifically engineered to stifle Sweden's attacking options. With Bundesliga veteran Ellyes Skhiri cleared to act as their anchor, Tunisia's practices have focused almost entirely on neutralizing high-cross scenarios and preventing Viktor Gyökeres from finding space inside the box.",
-          author: "Tunis Afrique Presse",
-          readTime: "3 min",
-          tag: "Tunisien Intel",
-          relatedPlayers: ["viktor_gyokeres"]
+          tag: "Skadeuppdatering",
+          relatedPlayers: ["carl_starfelt"]
         }
       ]
     },
     4: {
       timeLabel: "18:00",
-      name: "Taktik & Analys (Tactical Prep & Opponent Scouting)",
+      name: "Taktik & Analys (Scouting Update)",
       articles: [
         {
           id: "art_23_4_1",
-          category: "sweden",
-          type: "Analys",
-          title: "Tactical Deep-Dive: How Potter intends to unlock defenses without Kulusevski",
-          bullets: [
-            "Sweden to utilize aggressive, high-pushing wing-backs Holm and Gudmundsson.",
-            "Alexander Isak granted free-roaming license to drift between lines and exploit space.",
-            "Gyökeres tasked with pinning center-backs to create channels for arriving midfielders."
-          ],
-          summary: "Without Dejan Kulusevski's standard creative outlet, Graham Potter is redesigning Sweden's attacking mechanics. According to scout briefings, the tactical blueprint involves push-and-run wing-backs Emil Holm and Gabriel Gudmundsson stretching the pitch as wide as possible. This layout forces opposing lines to expand, allowing Alexander Isak to drift into half-spaces to collect the ball and drive forward. Meanwhile, the physical presence of Viktor Gyökeres will pin central defenders deep, opening direct passing lanes for late-running midfielders like Mattias Svanberg and Lucas Bergvall.",
-          author: "Erik Niva (Aftonbladet)",
-          readTime: "6 min",
-          tag: "Taktisk Krönika",
-          relatedPlayers: ["emil_holm", "gabriel_gudmundsson", "alexander_isak", "viktor_gyokeres"]
-        },
-        {
-          id: "art_23_4_2",
-          category: "sweden",
-          type: "Nyheter",
-          title: "Eric Smith's versatility highlights Potter's late-game defensive options",
-          bullets: [
-            "St. Pauli defensive ace excels in dual-role practice sessions.",
-            "Can pivot effortlessly between central sweeper and holding midfielder.",
-            "Provides crucial tactical insurance for high-pressure tournament situations."
-          ],
-          summary: "Eric Smith's inclusion in the World Cup squad is proving to be a masterstroke of tactical planning. In the evening tactical sessions, Smith was rotated between the central spot in the back three and a defensive midfield screening role. His exceptional passing range allows Sweden to transition instantly from a compact defensive 5-4-1 to an expansive 3-4-2-1. Potter praised his versatility: 'Eric is a tactical Swiss-Army knife. He reads the game so quickly that he gives us multiple solutions within a single game.'",
-          author: "Frida Fagerlund (Aftonbladet)",
-          readTime: "3 min",
-          tag: "Truppdjup",
-          relatedPlayers: ["eric_smith"]
-        },
-        {
-          id: "art_23_4_3",
           category: "opponent",
-          type: "Analys",
-          title: "Opponent Deep-Dive: How the Netherlands' 3-4-3 shapes up against Sweden",
+          type: "Scouting",
+          title: "Japan Watch: Mitoma showcases blazing pace in Vancouver warm-up session",
           bullets: [
-            "Tactical analysts evaluate Ronald Koeman's signature 3-4-3 Dutch structure.",
-            "Midfield battleground: Frenkie de Jong's distribution vs. Svanberg & Ayari's pressing pivot.",
-            "Wide threat: Denzel Dumfries overlaps present major challenge for Gabriel Gudmundsson."
+            "Japan winger Kaoru Mitoma displays elite 1v1 dribbling in Vancouver drills.",
+            "Moriyasu focuses Japan's tactical scheme on lightning-fast wing counters.",
+            "Sweden scouts analyze Mitoma's cutting patterns to brief wing-back Emil Holm."
           ],
-          summary: "A thorough tactical breakdown reveals a fascinating clash of styles. Ronald Koeman's Netherlands relies heavily on Frenkie de Jong dictating tempo from deep, while Denzel Dumfries operates almost as a right-winger. Sweden's Gabriel Gudmundsson will face an intense shift containing Dumfries' runs, while Sweden's double-pivot must apply rapid pressure to restrict de Jong's vision and direct passing lanes.",
-          author: "Erik Niva (Aftonbladet)",
-          readTime: "5 min",
-          tag: "Motståndar-Analys",
-          relatedPlayers: ["gabriel_gudmundsson", "mattias_svanberg", "yasin_ayari"]
+          summary: "Scouts monitoring Japan's training base in Vancouver reported that Kaoru Mitoma was in sensational form during today's offensive drills. Manager Hajime Moriyasu is tailoring a direct 4-2-3-1 counter-attacking system to exploit wide areas. Sweden's coaching staff is already utilizing this footage to prepare Emil Holm for a demanding defensive assignment.",
+          author: "Nikkan Sports (Tokyo)",
+          readTime: "4 min",
+          tag: "Japan Intel",
+          relatedPlayers: ["emil_holm"]
         }
       ]
     },
@@ -831,69 +716,96 @@ const TIMELINE_DATABASE = {
         {
           id: "art_23_5_1",
           category: "sweden",
-          type: "Krönika",
-          title: "Captain Victor Lindelöf: 'This is the most united Swedish squad I have ever led'",
-          bullets: [
-            "Aston Villa defender reflects on squad unity and the lack of individual egos.",
-            "Emphasizes that debutants and superstar forwards are aligned in purpose.",
-            "Expresses deep faith in Graham Potter's long-term tactical vision."
-          ],
-          summary: "In a quiet evening interview at the team hotel, captain Victor Lindelöf spoke warmly about the squad's internal culture. 'I have been in many national team squads, but the bond in this group is truly special. There are no cliques, no massive egos. Whether it's Alexander Isak who's starring in the Premier League, or Elliot Stroud who just joined from Mjällby, everyone treats each other with equal respect. We are playing for the flag, and we are ready to leave everything on the pitch,' Lindelöf declared.",
-          author: "Robert Laul (Göteborgs-Posten)",
-          readTime: "4 min",
-          tag: "Exklusivt",
-          relatedPlayers: ["victor_lindelof", "alexander_isak", "elliot_stroud"]
-        },
-        {
-          id: "art_23_5_2",
-          category: "sweden",
           type: "Blogg",
-          title: "Viktor Gyökeres talks about Arsenal form and World Cup goals",
+          title: "Captain Victor Lindelöf: 'The suitcases are packed; Stockholm, see you on Wednesday'",
           bullets: [
-            "The star striker discusses carrying his prolific club scoring form to the national team.",
-            "Highlights his partnership with Alexander Isak as natural and highly fluid.",
-            "Stresses the importance of starting the group stage with extreme energy."
+            "Aston Villa defender shares photos of his travel luggage on social media.",
+            "Reflects on the immense pride of captaining Sweden in their World Cup campaign.",
+            "Lindelöf: 'The work starts on Wednesday. We have a special squad, let's lock in.'"
           ],
-          summary: "Fresh off a sensational season with Arsenal, Viktor Gyökeres is ready to carry Sweden's goal-scoring burden. Speaking late tonight, the forward discussed his scoring instincts: 'When you are in a good rhythm, the goal feels twice as wide. My focus is entirely on helping Sweden win. Playing with Alex Isak is a dream—we understand each other's runs instantly. We know the fans are expecting a lot, and we embrace that challenge.'",
-          author: "Patrik Brenning (Aftonbladet)",
-          readTime: "3 min",
-          tag: "Spelar-Blogg",
-          relatedPlayers: ["viktor_gyokeres", "alexander_isak"]
-        },
-        {
-          id: "art_23_5_3",
-          category: "opponent",
-          type: "Scouting",
-          title: "Japan Coach Moriyasu outlines high-intensity pressing plan to disrupt Swedish playmakers",
-          bullets: [
-            "Hajime Moriyasu outlines Japan's late-night tactical blueprint for the opening group clash.",
-            "Plans to choke Sweden's build-up phase with high-frequency team-wide pressing.",
-            "Focuses heavily on restricting Lucas Bergvall's space to turn in transitions."
-          ],
-          summary: "Speaking to Japanese sports media late tonight, coach Hajime Moriyasu made it clear that Japan will defend from the front. 'We will not let their playmakers get comfortable. We are training our midfield to press high, shutting down Bergvall and Ayari before they can find Isak or Gyökeres,' Moriyasu stated. This strategy aims to force Sweden into long, direct distributions that Japan's quick defenders are confident they can contain.",
-          author: "Asahi Shimbun (Tokyo)",
+          summary: "In a late-night camp diary entry, captain Victor Lindelöf shared photos of his packed travel bags. Expressing deep pride in leading *Herrlandslaget* into the 2026 World Cup, Lindelöf emphasized that Sweden's collective unity will be their primary strength. 'Gothenburg was home for a bit, but Stockholm is where the final engine starts. The team is locked in. Let's make this year unforgettable,' the captain wrote.",
+          author: "Victor Lindelöf (Player Log)",
           readTime: "4 min",
-          tag: "Japan Taktik",
-          relatedPlayers: ["lucas_bergvall", "yasin_ayari", "alexander_isak", "viktor_gyokeres"]
+          tag: "Lagkaptenen",
+          relatedPlayers: ["victor_lindelof"]
         }
       ]
     }
   }
 };
 
-// 3. Timeline State & Configurations
+// 3. Match Schedule Database (Group F + Norway Warmup)
+const MATCH_SCHEDULE = [
+  {
+    id: "match_norway",
+    type: "warmup",
+    date: "2026-06-01",
+    time: "19:00",
+    opponent: "Norge",
+    opponentFlag: "🇳🇴",
+    venue: "Ullevaal Stadion, Oslo",
+    details: "Skandinaviskt klassiskt derby som fungerar som förbundskapten Graham Potters första stora taktiska test inför avresan till USA."
+  },
+  {
+    id: "match_japan",
+    type: "worldcup",
+    date: "2026-06-15",
+    time: "21:00",
+    opponent: "Japan",
+    opponentFlag: "🇯🇵",
+    venue: "BC Place, Vancouver",
+    details: "VM-premiär i Grupp F! En intensiv kamp mot ett tekniskt skickligt och snabbt Japan lett av Hajime Moriyasu."
+  },
+  {
+    id: "match_tunisia",
+    type: "worldcup",
+    date: "2026-06-20",
+    time: "18:00",
+    opponent: "Tunisien",
+    opponentFlag: "🇹🇳",
+    venue: "Lumen Field, Seattle",
+    details: "Andra gruppspelsmatchen. Sverige förväntas möta ett extremt disciplinerat, lågt försvarande Tunisien som blir ett prov för Isaks och Gyökeres spetskvaliteter."
+  },
+  {
+    id: "match_netherlands",
+    type: "worldcup",
+    date: "2026-06-26",
+    time: "20:00",
+    opponent: "Nederländerna",
+    opponentFlag: "🇳🇱",
+    venue: "SoFi Stadium, Los Angeles",
+    details: "Gruppspelsfinal och en riktig tungviktsdrabbning i Los Angeles som troligtvis avgör vem som vinner Grupp F."
+  }
+];
+
+// 4. Locker Room Chat Messages Database (Pre-Camp Banter)
+const CHAT_MESSAGES = [
+  { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Tja grabbar! Dags att ladda inför onsdag! Packningen klar?", time: "10:15", isCaptain: true },
+  { sender: "Emil Holm", avatar: "🇸🇪", text: "Japp! Väskorna är fullproppade. Tar med mig Allsvenskans bästa fika upp till Stockholm på onsdag! 🇸🇪☕", time: "10:18" },
+  { sender: "Viktor Gyökeres", avatar: "🇸🇪", text: "Spara lite fika till oss anfallare, Emil! Körde sista tunga fyspasset här på Arsenals gym idag. Känner mig galet redo.", time: "10:22" },
+  { sender: "Alexander Isak", avatar: "🇸🇪", text: "Samma här i Liverpool. Kroppen känns 100%. Lucas, se till att du inte glömmer passet den här gången! 😂", time: "10:25" },
+  { sender: "Lucas Bergvall", avatar: "🇸🇪", text: "Men hallå! Det var en gång, Alex! 🙄 Har kollat passet tre gånger nu. Ska bli sjukt kul att köra igång med Potters spelsystem på Bosön.", time: "10:28" },
+  { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Grymt fokus. Kom ihåg, samling på hotellet kl 10:00 på onsdag den 27:e. Vi gör detta tillsammans, hela vägen! 🇸🇪💪", time: "10:31", isCaptain: true }
+];
+
+// 5. Locker Room Music Playlist Data
+const PLAYLIST = [
+  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Klassiker" },
+  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Laddning" },
+  { title: "Vi är Sverige", artist: "Camp Sweden", duration: "3:20", category: "Supporter" },
+  { title: "Graham Potter's Indierock Pack", artist: "Oasis / Coldplay", duration: "5:15", category: "Potter's Faves" },
+  { title: "Blågult Camp Vibe", artist: "Swedish House Mafia", duration: "4:40", category: "EDM" }
+];
+
+let currentTrackIndex = 0;
+let isPlaying = false;
+
+// 6. Time Schedule & State Management
 let SIMULATOR_ACTIVE = false;
-let SIMULATED_HOUR = 9;    // Default 09:00
-let SIMULATED_MINUTE = 40;  // Default 40
+let SIMULATED_HOUR = 9;
+let SIMULATED_MINUTE = 40;
 let ACTIVE_NEWS_TAB = "sweden";
 
-// Converts HH:MM string to absolute minutes of the day
-function timeToMinutes(timeStr) {
-  const [h, m] = timeStr.split(":").map(Number);
-  return h * 60 + m;
-}
-
-// Get user's current or simulated time of the day in absolute minutes
 function getCurrentTimeMinutes() {
   if (SIMULATOR_ACTIVE) {
     return SIMULATED_HOUR * 60 + SIMULATED_MINUTE;
@@ -902,24 +814,18 @@ function getCurrentTimeMinutes() {
   return now.getHours() * 60 + now.getMinutes();
 }
 
-// Determine which update windows should be active for a given date
-// - If the date is before May 23, 2026, all 5 updates are fully active
-// - If the date is May 23, 2026, updates unlock sequentially based on current minutes
 function getActiveUpdatesForDate(dateStr) {
   const targetDateVal = new Date(dateStr).getTime();
   const todayVal = new Date("2026-05-23").getTime();
 
-  // If this date is in the absolute past, all 5 updates are unlocked
   if (targetDateVal < todayVal) {
     return [1, 2, 3, 4, 5];
   }
 
-  // If this date is in the future, nothing is active yet
   if (targetDateVal > todayVal) {
     return [];
   }
 
-  // Otherwise, it is the active simulation day (2026-05-23)
   const currentMinutes = getCurrentTimeMinutes();
   const activeIds = [];
 
@@ -937,20 +843,22 @@ function getActiveUpdatesForDate(dateStr) {
     }
   }
 
-  // Early morning fallback for active day
   if (activeIds.length === 0) {
-    return [1]; // Baseline frukost
+    return [1]; // Baseline breakfast
   }
 
   return activeIds;
 }
 
-// Format a calendar timestamp based on the target date
+function timeToMinutes(timeStr) {
+  const [h, m] = timeStr.split(":").map(Number);
+  return h * 60 + m;
+}
+
 function generateTimelineTimestamp(dateStr, timeLabel) {
   return `${dateStr} @ ${timeLabel}`;
 }
 
-// Countdown to the next update on May 23, 2026
 function getNextUpdateCountdown() {
   const currentMinutes = getCurrentTimeMinutes();
   const updateTimes = [
@@ -994,7 +902,7 @@ function getNextUpdateCountdown() {
   };
 }
 
-// 4. Dom Interactivity and Rendering
+// 7. Dom Interactivity and Rendering
 document.addEventListener("DOMContentLoaded", () => {
   initApp();
 });
@@ -1003,6 +911,9 @@ function initApp() {
   renderPlayerGrid(PLAYERS);
   renderTacticalPitch();
   updateNewsDashboard();
+  renderMatchSchedule();
+  renderLockerChat();
+  renderMusicPlayer();
   setupEventListeners();
 
   setInterval(() => {
@@ -1024,7 +935,6 @@ function updateNewsDashboard() {
     const activeIds = getActiveUpdatesForDate(dateStr);
     if (activeIds.length === 0) return;
 
-    // Outer Date Section Header for high visual clarity
     const dateSection = document.createElement("div");
     dateSection.className = "timeline-date-section animated fade-in";
     
@@ -1042,7 +952,6 @@ function updateNewsDashboard() {
 
     const updatesSubContainer = dateSection.querySelector(`#updates-for-${dateStr.replace(/-/g, '')}`);
 
-    // Iterate backwards (newest hours first)
     for (let i = activeIds.length - 1; i >= 0; i--) {
       const updateId = activeIds[i];
       const update = TIMELINE_DATABASE[dateStr][updateId];
@@ -1098,7 +1007,6 @@ function updateNewsDashboard() {
     `;
   }
 
-  // Bind article clicks
   document.querySelectorAll(".headline-link").forEach(link => {
     link.addEventListener("click", (e) => {
       e.preventDefault();
@@ -1107,7 +1015,6 @@ function updateNewsDashboard() {
     });
   });
 
-  // Update simulator UI indicators
   updateSimulatorUI();
 }
 
@@ -1134,22 +1041,12 @@ function tickCountdown() {
   }
 }
 
-// Render the 26-man grid
+// Render player cards
 function renderPlayerGrid(playerList) {
   const grid = document.getElementById("player-grid-container");
   if (!grid) return;
 
   grid.innerHTML = "";
-
-  if (playerList.length === 0) {
-    grid.innerHTML = `
-      <div class="no-players-found">
-        <p>Inga spelare matchade sökningen.</p>
-      </div>
-    `;
-    return;
-  }
-
   playerList.forEach(player => {
     const card = document.createElement("div");
     card.className = "player-card animated card-pop";
@@ -1174,20 +1071,16 @@ function renderPlayerGrid(playerList) {
       </div>
     `;
     grid.appendChild(card);
-
-    card.addEventListener("click", () => {
-      openPlayerModal(player.id);
-    });
+    card.addEventListener("click", () => openPlayerModal(player.id));
   });
 }
 
-// Render tactical pitch positions (3-4-2-1 formation)
+// Render tactical pitch positions
 function renderTacticalPitch() {
   const pitch = document.getElementById("tactical-pitch-inner");
   if (!pitch) return;
 
   pitch.innerHTML = "";
-
   const lineup = [
     { id: "viktor_johansson", top: "85%", left: "50%", role: "GK" },
     { id: "isak_hien", top: "67%", left: "50%", role: "CB" },
@@ -1210,21 +1103,94 @@ function renderTacticalPitch() {
     node.className = "pitch-player-node";
     node.style.top = item.top;
     node.style.left = item.left;
-    node.setAttribute("title", `${player.name} (${item.role})`);
     node.innerHTML = `
       <div class="jersey-node">${player.number}</div>
       <div class="node-name">${player.name.split(" ").pop()}</div>
     `;
-
-    node.addEventListener("click", () => {
-      openPlayerModal(player.id);
-    });
-
+    node.addEventListener("click", () => openPlayerModal(player.id));
     pitch.appendChild(node);
   });
 }
 
-// Find Article and its parent Date / Update info
+// Render Match Schedule Timeline
+function renderMatchSchedule() {
+  const scheduleBox = document.getElementById("match-schedule-container");
+  if (!scheduleBox) return;
+
+  scheduleBox.innerHTML = "";
+
+  MATCH_SCHEDULE.forEach(match => {
+    const isWarmup = match.type === "warmup";
+    const item = document.createElement("div");
+    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'}`;
+    item.innerHTML = `
+      <div class="schedule-dot-indicator"></div>
+      <div class="schedule-item-header">
+        <span class="match-badge">${isWarmup ? 'VÄNSKAPSMATCH' : 'FOTBOLLS-VM'}</span>
+        <span class="match-date-stamp"><i class="far fa-calendar-alt"></i> ${match.date} kl. ${match.time}</span>
+      </div>
+      <div class="schedule-item-body">
+        <h3 class="match-pairing">Sverige <span class="flag-vs">🇸🇪</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
+        <p class="match-venue"><i class="fas fa-map-marker-alt"></i> ${match.venue}</p>
+        <p class="match-info-desc">${match.details}</p>
+      </div>
+    `;
+    scheduleBox.appendChild(item);
+  });
+}
+
+// Render Locker Room Chat
+function renderLockerChat() {
+  const chatContainer = document.getElementById("chat-messages-container");
+  if (!chatContainer) return;
+
+  chatContainer.innerHTML = "";
+
+  CHAT_MESSAGES.forEach(msg => {
+    const msgBlock = document.createElement("div");
+    msgBlock.className = `chat-bubble-block ${msg.isCaptain ? 'captain' : ''}`;
+    msgBlock.innerHTML = `
+      <div class="chat-bubble-avatar">${msg.avatar}</div>
+      <div class="chat-bubble-content">
+        <div class="chat-bubble-meta">
+          <span class="chat-sender-name">${msg.sender} ${msg.isCaptain ? '<span class="captain-badge">Kapten</span>' : ''}</span>
+          <span class="chat-bubble-time">${msg.time}</span>
+        </div>
+        <div class="chat-bubble-text">${msg.text}</div>
+      </div>
+    `;
+    chatContainer.appendChild(msgBlock);
+  });
+
+  // Scroll to bottom
+  chatContainer.scrollTop = chatContainer.scrollHeight;
+}
+
+// Render Music Player Track Details
+function renderMusicPlayer() {
+  const songTitle = document.getElementById("music-song-title");
+  const artist = document.getElementById("music-artist");
+  const songCount = document.getElementById("music-track-count");
+  const playerBtn = document.getElementById("music-play-btn");
+  const visualizer = document.getElementById("music-visualizer");
+
+  if (!songTitle) return;
+
+  const track = PLAYLIST[currentTrackIndex];
+  songTitle.textContent = track.title;
+  artist.textContent = `${track.artist} (${track.category})`;
+  songCount.textContent = `Låt ${currentTrackIndex + 1} av ${PLAYLIST.length}`;
+
+  if (isPlaying) {
+    playerBtn.innerHTML = '<i class="fas fa-pause"></i>';
+    visualizer.classList.add("active");
+  } else {
+    playerBtn.innerHTML = '<i class="fas fa-play"></i>';
+    visualizer.classList.remove("active");
+  }
+}
+
+// Find Article
 function findArticleWithTimelineContext(artId) {
   for (const dateStr in TIMELINE_DATABASE) {
     for (const updateId in TIMELINE_DATABASE[dateStr]) {
@@ -1296,7 +1262,7 @@ function openArticleModal(artId) {
   modal.classList.add("active");
 }
 
-// Open Player Profile Modal
+// Open Player Modal
 function openPlayerModal(pId) {
   const player = PLAYERS.find(p => p.id === pId);
   if (!player) return;
@@ -1380,6 +1346,33 @@ function setupEventListeners() {
     });
   }
 
+  // Music Player Events
+  const playBtn = document.getElementById("music-play-btn");
+  const prevBtn = document.getElementById("music-prev-btn");
+  const nextBtn = document.getElementById("music-next-btn");
+
+  if (playBtn) {
+    playBtn.addEventListener("click", () => {
+      isPlaying = !isPlaying;
+      renderMusicPlayer();
+    });
+  }
+
+  if (prevBtn) {
+    prevBtn.addEventListener("click", () => {
+      currentTrackIndex = currentTrackIndex === 0 ? PLAYLIST.length - 1 : currentTrackIndex - 1;
+      renderMusicPlayer();
+    });
+  }
+
+  if (nextBtn) {
+    nextBtn.addEventListener("click", () => {
+      currentTrackIndex = currentTrackIndex === PLAYLIST.length - 1 ? 0 : currentTrackIndex + 1;
+      renderMusicPlayer();
+    });
+  }
+
+  // Position Filters
   const filters = document.querySelectorAll(".filter-btn");
   filters.forEach(btn => {
     btn.addEventListener("click", () => {
@@ -1430,9 +1423,8 @@ function setupEventListeners() {
   }
 }
 
-// Update simulation displays and indicators
+// Update simulator UI indicators
 function updateSimulatorUI() {
-  // Current active day timeline display
   const currentMinutes = getCurrentTimeMinutes();
   const timeBox = document.getElementById("sim-current-time-display");
   if (timeBox) {
@@ -1441,7 +1433,6 @@ function updateSimulatorUI() {
     timeBox.textContent = `${h}:${m}`;
   }
 
-  // Toggle active highlights on simulated schedule list (May 23, 2026)
   const activeIds = getActiveUpdatesForDate("2026-05-23");
   for (let id = 1; id <= 5; id++) {
     const indicator = document.getElementById(`sched-indicator-${id}`);

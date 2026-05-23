@@ -1378,3 +1378,390 @@ input:checked + .slider:before {
   from { opacity: 0; transform: scale(0.92); }
   to { opacity: 1; transform: scale(1); }
 }
+
+/* Column structures inside dashboard */
+.dashboard-col-left {
+  display: flex;
+  flex-direction: column;
+}
+
+.dashboard-col-right {
+  display: flex;
+  flex-direction: column;
+}
+
+/* Locker Room Chat Console Styles */
+.chat-console-wrapper {
+  background: rgba(4, 9, 18, 0.4);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: var(--radius-md);
+  padding: 1.2rem;
+  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.4);
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.chat-messages-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  max-height: 380px;
+  overflow-y: auto;
+  padding-right: 0.5rem;
+}
+
+.chat-bubble-block {
+  display: flex;
+  gap: 0.8rem;
+  align-items: flex-start;
+  animation: fadeIn 0.4s ease-out;
+}
+
+.chat-bubble-avatar {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, var(--sweden-blue) 0%, var(--bg-dark-600) 100%);
+  border: 2px solid var(--sweden-yellow);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  flex-shrink: 0;
+}
+
+.chat-bubble-content {
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+  border-radius: 4px 14px 14px 14px;
+  padding: 0.8rem 1rem;
+  max-width: 85%;
+  position: relative;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.chat-bubble-block.captain .chat-bubble-content {
+  border-color: rgba(254, 204, 0, 0.3);
+  background: rgba(0, 106, 167, 0.08);
+}
+
+.chat-bubble-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+  gap: 1rem;
+}
+
+.chat-sender-name {
+  font-size: 0.82rem;
+  font-weight: 700;
+  color: var(--text-white);
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.captain-badge {
+  background: var(--sweden-yellow);
+  color: var(--bg-dark-900);
+  font-size: 0.6rem;
+  font-weight: 800;
+  padding: 1px 5px;
+  border-radius: 3px;
+  text-transform: uppercase;
+}
+
+.chat-bubble-time {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  font-family: monospace;
+}
+
+.chat-bubble-text {
+  font-size: 0.92rem;
+  color: #E5E7EB;
+  line-height: 1.4;
+}
+
+.chat-input-row {
+  display: flex;
+  gap: 0.6rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  padding-top: 1rem;
+}
+
+.chat-placeholder-input {
+  flex-grow: 1;
+  background: rgba(4, 9, 18, 0.6);
+  border: 1px solid var(--bg-dark-600);
+  padding: 0.6rem 1.2rem;
+  border-radius: var(--radius-md);
+  color: var(--text-secondary);
+  font-family: inherit;
+  font-size: 0.85rem;
+  outline: none;
+  cursor: not-allowed;
+}
+
+.chat-send-btn {
+  background: var(--bg-dark-700);
+  border: 1px solid var(--bg-dark-600);
+  color: var(--text-secondary);
+  width: 42px;
+  height: 42px;
+  border-radius: var(--radius-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: not-allowed;
+}
+
+/* Locker Room Music Player Styles */
+.music-player-wrapper {
+  background: linear-gradient(135deg, rgba(0, 106, 167, 0.15) 0%, rgba(4, 9, 18, 0.4) 100%);
+  border: 1px solid var(--glass-border-blue);
+  border-radius: var(--radius-md);
+  padding: 1.2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  box-shadow: var(--shadow-neon-blue);
+}
+
+.music-track-info {
+  flex-grow: 1;
+  max-width: 180px;
+}
+
+.music-track-info h4 {
+  font-size: 0.95rem;
+  color: var(--text-white);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 2px;
+}
+
+.music-track-info p {
+  font-size: 0.75rem;
+  color: var(--sweden-yellow);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  font-weight: 600;
+}
+
+/* Audio Visualizer Waves */
+.music-visualizer-container {
+  display: flex;
+  align-items: flex-end;
+  gap: 3px;
+  height: 25px;
+  width: 40px;
+}
+
+.bar {
+  width: 4px;
+  height: 5px;
+  background-color: var(--sweden-yellow);
+  border-radius: 2px;
+  transition: var(--transition-smooth);
+}
+
+.music-visualizer-container.active .bar {
+  animation: bounce 1.2s ease-in-out infinite alternate;
+}
+
+.music-visualizer-container.active .bar-1 { animation-delay: 0.1s; }
+.music-visualizer-container.active .bar-2 { animation-delay: 0.4s; height: 18px; }
+.music-visualizer-container.active .bar-3 { animation-delay: 0.2s; height: 12px; }
+.music-visualizer-container.active .bar-4 { animation-delay: 0.6s; height: 22px; }
+.music-visualizer-container.active .bar-5 { animation-delay: 0.3s; }
+
+@keyframes bounce {
+  10% { height: 5px; }
+  100% { height: 24px; }
+}
+
+.music-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.music-btn {
+  background: var(--bg-dark-700);
+  border: 1px solid var(--bg-dark-600);
+  color: var(--text-white);
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  font-size: 0.75rem;
+  transition: var(--transition-smooth);
+}
+
+.music-btn:hover {
+  background: var(--sweden-blue);
+  color: var(--text-white);
+  border-color: var(--sweden-yellow);
+  transform: scale(1.05);
+}
+
+.music-btn.play {
+  background: var(--sweden-yellow);
+  color: var(--bg-dark-900);
+  width: 40px;
+  height: 40px;
+  font-size: 0.9rem;
+  box-shadow: 0 0 10px rgba(254, 204, 0, 0.4);
+}
+
+.music-btn.play:hover {
+  background: var(--text-white);
+  color: var(--sweden-blue);
+  box-shadow: 0 0 15px var(--sweden-yellow);
+}
+
+.music-footer {
+  font-size: 0.7rem;
+  color: var(--text-secondary);
+  font-weight: 700;
+  width: 100%;
+  text-align: right;
+  margin-top: -8px;
+  font-family: monospace;
+}
+
+/* Match Schedule Timeline Styles */
+.match-schedule-container {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  position: relative;
+  padding-left: 1.5rem;
+  margin-top: 1rem;
+}
+
+/* Vertical Timeline Line */
+.match-schedule-container::after {
+  content: "";
+  position: absolute;
+  left: 4px;
+  top: 10px;
+  bottom: 10px;
+  width: 2px;
+  background: linear-gradient(180deg, var(--sweden-blue) 0%, rgba(254, 204, 0, 0.3) 100%);
+}
+
+.schedule-item {
+  position: relative;
+  background: rgba(255, 255, 255, 0.02);
+  border: 1px solid rgba(255, 255, 255, 0.03);
+  padding: 1rem;
+  border-radius: var(--radius-md);
+  transition: var(--transition-smooth);
+}
+
+.schedule-item:hover {
+  background: rgba(255, 255, 255, 0.04);
+  transform: translateX(4px);
+}
+
+.schedule-dot-indicator {
+  position: absolute;
+  left: -23px;
+  top: 18px;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: var(--bg-dark-900);
+  border: 2px solid var(--sweden-blue);
+  z-index: 5;
+  transition: var(--transition-smooth);
+}
+
+.schedule-item:hover .schedule-dot-indicator {
+  background: var(--sweden-yellow);
+  border-color: var(--text-white);
+  box-shadow: 0 0 10px var(--sweden-yellow);
+  transform: scale(1.2);
+}
+
+.schedule-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6rem;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.match-badge {
+  font-size: 0.65rem;
+  font-weight: 800;
+  padding: 1px 6px;
+  border-radius: 4px;
+  letter-spacing: 0.05em;
+}
+
+.type-warmup .match-badge {
+  background: rgba(255, 255, 255, 0.06);
+  color: var(--text-secondary);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.type-wc .match-badge {
+  background: rgba(254, 204, 0, 0.15);
+  color: var(--sweden-yellow);
+  border: 1px solid rgba(254, 204, 0, 0.3);
+}
+
+.match-date-stamp {
+  font-size: 0.72rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+  font-family: monospace;
+}
+
+.match-pairing {
+  font-size: 1.1rem;
+  color: var(--text-white);
+  font-weight: 700;
+  margin-bottom: 4px;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.flag-vs {
+  font-size: 1.2rem;
+}
+
+.match-venue {
+  font-size: 0.75rem;
+  color: var(--sweden-blue);
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+}
+
+.schedule-item:hover .match-venue {
+  color: var(--sweden-yellow);
+}
+
+.match-info-desc {
+  font-size: 0.82rem;
+  color: var(--text-secondary);
+  line-height: 1.45;
+}
