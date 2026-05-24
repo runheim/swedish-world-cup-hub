@@ -780,6 +780,214 @@ const MATCH_SCHEDULE = [
   }
 ];
 
+// 3.5 Match Reports & Player Ratings Database
+const MATCH_REPORTS_DATABASE = {
+  "match_norway": {
+    score: "1 - 2",
+    scorers: "🇳🇴 Haaland (12') | 🇸🇪 Gyökeres (54'), Bergvall (82')",
+    report: "Graham Potter's era kicks off with an impressive comeback victory in Oslo! Despite Erling Haaland opening the scoring early with a powerful half-volley, Sweden dominated possession in the second half. Viktor Gyökeres equalized with a towering header before substitute Lucas Bergvall scored a sensational 25-yard winner in the 82nd minute.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made two critical saves against Haaland in the first half.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 7.0, comment: "Tough battle against Haaland, recovered well in the second half.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Composed leadership. Kept the defensive line compact.", isMotm: false },
+      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "High work rate, provided defensive coverage and dangerous crosses.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo with disciplined recycling.", isMotm: false },
+      { name: "Yasin Ayari", role: "DM", rating: 7.0, comment: "Energetic pressing, linked defense and attack smoothly.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LWB", rating: 6.5, comment: "Decent runs, but struggled slightly with Norway's wingers.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 8.5, comment: "Subbed on in the 65th minute. Changed the game completely with his creative dribbling and a spectacular long-range winning goal.", isMotm: true },
+      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Highly threatful between the lines. Assisted Bergvall's goal.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 8.0, comment: "A physical powerhouse upfront. Scored a magnificent equalizing header.", isMotm: false }
+    ],
+    preview: {
+      tactical: "Manager Graham Potter's debut match! The focus will be on transitioning to the new 3-4-2-1 formation and testing defensive responses to Erling Haaland's lethal central runs.",
+      keyStat: "Last meeting ended in a 3-2 victory for Norway in 2022. Time for Sweden's revenge!"
+    }
+  },
+  "match_tunisia": {
+    score: "2 - 0",
+    scorers: "🇸🇪 Isak (23'), Gyökeres (68')",
+    report: "A perfect start to Sweden's World Cup campaign! Graham Potter's 3-4-2-1 formation worked flawlessly, suffocating Tunisia's defensive low-block. Alexander Isak opened the scoring with a brilliant curled strike into the top corner. Viktor Gyökeres sealed the three points in the second half by capitalizing on a clinical counter-attack engineered by Yasin Ayari.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Had a quiet night but remained alert, keeping a clean sheet.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Completely shut down Tunisia's aerial attacks with dominant clearances.", isMotm: false },
+      { name: "Carl Starfelt", role: "RCB", rating: 7.0, comment: "Solid defensive display, comfortable on the ball.", isMotm: false },
+      { name: "Victor Lindelöf", role: "LCB", rating: 7.5, comment: "Excellent positioning, initiated attacks from deep.", isMotm: false },
+      { name: "Emil Holm", role: "RWB", rating: 8.0, comment: "Constant overlapping threat. Provided a pinpoint assist for Isak's goal.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Shielded the back three reliably, broke up transitions.", isMotm: false },
+      { name: "Yasin Ayari", role: "DM", rating: 8.0, comment: "Stellar performance. Creative playmaker who assisted Gyökeres with a visionary pass.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LWB", rating: 7.0, comment: "Defensively sound and highly active in transitions.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 7.5, comment: "Creative linking, dribbled past defenders with ease.", isMotm: false },
+      { name: "Alexander Isak", role: "AM", rating: 8.5, comment: "A world-class display. Opened the scoring with a spectacular solo goal and was a constant threat.", isMotm: true },
+      { name: "Viktor Gyökeres", role: "ST", rating: 8.0, comment: "Relentless physical press. Scored Sweden's second goal with a powerful finish.", isMotm: false }
+    ],
+    preview: {
+      tactical: "Group F opener in Monterrey! Sweden must break down Tunisia's disciplined, compact low-block. Expect heavy reliance on wing-backs Holm and Gudmundsson to stretch the pitch.",
+      keyStat: "Tunisia kept 4 clean sheets during African qualifiers. Breaking them down is key."
+    }
+  },
+  "match_netherlands": {
+    score: "2 - 2",
+    scorers: "🇳🇱 Gakpo (34'), Depay (71') | 🇸🇪 Gyökeres (41', 88')",
+    report: "An epic blockbuster in Houston! Sweden showcased incredible resilience to grab a dramatic draw against the Dutch favorites. Memphis Depay put the Netherlands ahead in the 71st minute, but Sweden's relentless press paid off in the 88th minute when Viktor Gyökeres scored his second of the game, blasting a low shot past Bart Verbruggen.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 8.0, comment: "Heroic performance. Made five critical saves to keep Sweden in the game.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 6.5, comment: "Struggled slightly against Gakpo's pace, but made key blocks.", isMotm: false },
+      { name: "Carl Starfelt", role: "RCB", rating: 6.5, comment: "Gave away a penalty, but recovered to win crucial aerial duels.", isMotm: false },
+      { name: "Victor Lindelöf", role: "LCB", rating: 7.0, comment: "Kept the backline organized under immense Dutch pressure.", isMotm: false },
+      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "Tough battle against Gakpo, made excellent recoveries.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.5, comment: "Massive distance covered. Shielded the defense tirelessly.", isMotm: false },
+      { name: "Yasin Ayari", role: "DM", rating: 7.0, comment: "Press-resistant play under high pressure, recycled ball cleanly.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LWB", rating: 6.5, comment: "Had a tough defensive assignment but contributed to transitions.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "Showcased high class in tight spaces before being subbed.", isMotm: false },
+      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Assisted Gyökeres' first goal with a brilliant turn and cross.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 9.0, comment: "Sensational brace. A constant nightmare for Virgil van Dijk, scoring the dramatic late equalizer.", isMotm: true }
+    ],
+    preview: {
+      tactical: "The Group F blockbuster in Houston! A heavy-duty tactical test against Koeman's highly fluent Dutch setup. Sweden's central pivot must prepare aggressive pressing traps.",
+      keyStat: "Netherlands scored 18 goals in their last 6 matches. Sweden's defense must lock in."
+    }
+  },
+  "match_japan": {
+    score: "1 - 2",
+    scorers: "🇯🇵 Kubo (49') | 🇸🇪 Elanga (62'), Isak (79')",
+    report: "Sweden wins Group F! An intense, high-tempo battle in Dallas ends with Sweden securing top spot. After Takefusa Kubo scored early in the second half, Graham Potter introduced Anthony Elanga, who immediately equalized with a blistering run. Alexander Isak then scored the winning goal in the 79th minute, clinical finishing after a beautiful passing sequence.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made three spectacular saves against Japan's quick counters.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Dominant physical presence, stopped key central attacks.", isMotm: false },
+      { name: "Carl Starfelt", role: "RCB", rating: 7.0, comment: "Solid positioning, tracked runs diligently.", isMotm: false },
+      { name: "Victor Lindelöf", role: "LCB", rating: 7.5, comment: "Organized defense, launched transitions with precise long balls.", isMotm: false },
+      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "Tough defensive shift against Mitoma, limited his options.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Combative in midfield, won crucial second balls.", isMotm: false },
+      { name: "Yasin Ayari", role: "DM", rating: 7.5, comment: "Excellent passing accuracy, controlled the tempo in the second half.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LWB", rating: 7.0, comment: "Relentless engine, contributed heavily to high press.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "Showcased high creativity before being replaced by Elanga.", isMotm: false },
+      { name: "Anthony Elanga", role: "AM", rating: 8.0, comment: "Super-sub of the tournament. Equalized with a lightning-fast sprint and finish.", isMotm: false },
+      { name: "Alexander Isak", role: "AM", rating: 8.5, comment: "Match-winner. Scored the decider with pure clinical brilliance and generalled the entire attack.", isMotm: true }
+    ],
+    preview: {
+      tactical: "Final group stage battle in Dallas! Moriyasu's high-stamina side will exploit transitional spaces. Wing-backs must track back rapidly to restrict Kubo and Mitoma.",
+      keyStat: "Sweden is unbeaten in their last 3 meetings with Japan."
+    }
+  }
+};
+
+function renderMatchCenter() {
+  const selector = document.getElementById("match-center-selector");
+  const forceUnlockCheckbox = document.getElementById("force-unlock-report");
+  const contentArea = document.getElementById("match-center-content");
+  
+  if (!selector || !contentArea) return;
+  
+  const matchId = selector.value;
+  const match = MATCH_SCHEDULE.find(m => m.id === matchId);
+  const reportData = MATCH_REPORTS_DATABASE[matchId];
+  
+  if (!match || !reportData) return;
+  
+  const forceUnlock = forceUnlockCheckbox ? forceUnlockCheckbox.checked : false;
+  
+  // Since all match dates are in June 2026, they are naturally "Upcoming" relative to today (May 24)
+  // If forceUnlock is active, we display the completed report & ratings!
+  const isCompleted = forceUnlock;
+  
+  if (isCompleted) {
+    contentArea.innerHTML = `
+      <div class="match-report-badge completed">Final Result</div>
+      <div class="match-report-title">
+        <span>Sweden</span>
+        <span class="flag-vs">🇸🇪</span>
+        <span style="color: var(--sweden-yellow); font-size: 1.5rem; margin: 0 0.5rem; font-family: monospace;">${reportData.score}</span>
+        <span>${match.opponentFlag} ${match.opponent}</span>
+      </div>
+      <div class="match-report-meta">
+        <span><i class="far fa-calendar-alt"></i> ${match.date}</span>
+        <span style="margin: 0 5px; color: var(--text-secondary);">|</span>
+        <span><i class="fas fa-map-marker-alt"></i> ${match.venue}</span>
+      </div>
+      
+      <div class="match-report-scorers">
+        <strong>Goals:</strong> ${reportData.scorers}
+      </div>
+      
+      <div class="match-report-text">
+        ${reportData.report}
+      </div>
+      
+      <button class="ratings-toggle-btn" id="ratings-toggle-btn">
+        <i class="fas fa-star"></i> View Player Ratings
+      </button>
+      
+      <div class="ratings-list-container" id="ratings-list-container">
+        <!-- Ratings injected dynamically -->
+      </div>
+    `;
+    
+    // Inject ratings
+    const ratingsContainer = document.getElementById("ratings-list-container");
+    if (ratingsContainer) {
+      reportData.ratings.forEach(p => {
+        const ratingRow = document.createElement("div");
+        ratingRow.className = "rating-player-row";
+        
+        const isExcellent = p.rating >= 8.0;
+        const ratingClass = isExcellent ? "excellent" : "good";
+        
+        ratingRow.innerHTML = `
+          <div class="rating-player-info">
+            <div class="rating-player-name">
+              ${p.name} <span style="font-size: 0.7rem; color: var(--text-secondary); font-weight: 500;">(${p.role})</span>
+              ${p.isMotm ? '<span class="rating-motm-badge" style="margin-left: 5px;">MOTM</span>' : ''}
+            </div>
+            <div class="rating-player-comment">${p.comment}</div>
+          </div>
+          <div class="rating-score-pill ${ratingClass}">
+            ${p.rating.toFixed(1)}
+          </div>
+        `;
+        ratingsContainer.appendChild(ratingRow);
+      });
+    }
+    
+    // Setup toggle event listener
+    const toggleBtn = document.getElementById("ratings-toggle-btn");
+    const container = document.getElementById("ratings-list-container");
+    if (toggleBtn && container) {
+      toggleBtn.addEventListener("click", () => {
+        container.classList.toggle("active");
+        if (container.classList.contains("active")) {
+          toggleBtn.innerHTML = '<i class="fas fa-chevron-up"></i> Hide Player Ratings';
+        } else {
+          toggleBtn.innerHTML = '<i class="fas fa-star"></i> View Player Ratings';
+        }
+      });
+    }
+    
+  } else {
+    contentArea.innerHTML = `
+      <div class="match-report-badge upcoming">Upcoming Fixture</div>
+      <div class="match-report-title">
+        <span>Sweden</span>
+        <span class="flag-vs">🇸🇪</span>
+        <span style="color: var(--text-secondary); font-size: 0.9rem; margin: 0 0.5rem;">vs</span>
+        <span>${match.opponentFlag} ${match.opponent}</span>
+      </div>
+      <div class="match-report-meta">
+        <span><i class="far fa-calendar-alt"></i> ${match.date} at ${match.time}</span>
+        <span style="margin: 0 5px; color: var(--text-secondary);">|</span>
+        <span><i class="fas fa-map-marker-alt"></i> ${match.venue}</span>
+      </div>
+      
+      <div class="match-report-scorers" style="border-left-color: var(--sweden-blue); background: rgba(0, 106, 167, 0.05); color: var(--text-primary);">
+        <strong>Tactical Preview:</strong> ${reportData.preview.tactical}
+      </div>
+      
+      <div class="match-report-text" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+        <strong>Key Scout Stat:</strong> ${reportData.preview.keyStat}
+      </div>
+    `;
+  }
+}
+
 // 4. Locker Room Chat Messages Database (Pre-Camp Banter)
 const CHAT_MESSAGES = [
   { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Hey boys! Time to get ready for Wednesday! Packing all done?", time: "10:15", isCaptain: true },
@@ -926,6 +1134,7 @@ function initApp() {
   renderMatchSchedule();
   renderLockerChat();
   renderMusicPlayer();
+  renderMatchCenter();
   setupEventListeners();
 
   setInterval(() => {
@@ -1476,6 +1685,17 @@ function setupEventListeners() {
       updateNewsDashboard();
       tickCountdown();
     });
+  }
+
+  // Match Center Events
+  const matchSelector = document.getElementById("match-center-selector");
+  const forceUnlockReport = document.getElementById("force-unlock-report");
+  
+  if (matchSelector) {
+    matchSelector.addEventListener("change", renderMatchCenter);
+  }
+  if (forceUnlockReport) {
+    forceUnlockReport.addEventListener("change", renderMatchCenter);
   }
 }
 

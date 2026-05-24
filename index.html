@@ -178,6 +178,33 @@
           </div>
         </section>
 
+        <!-- Match Center & Ratings Card -->
+        <section class="panel-card" id="match-center-card" style="margin-bottom: 2rem;">
+          <h2 class="panel-title">
+            <i class="fas fa-trophy"></i> Match Center &amp; Ratings
+          </h2>
+          <div class="match-center-wrapper">
+            <div class="match-select-row" style="display: flex; flex-direction: column; gap: 0.3rem; margin-bottom: 1rem;">
+              <div style="display: flex; justify-content: space-between; align-items: center;">
+                <label for="match-center-selector" style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase;">Select Match:</label>
+                <label class="switch-mini" style="display: flex; align-items: center; gap: 0.4rem; font-size: 0.72rem; color: var(--sweden-yellow); cursor: pointer; font-weight: 700;">
+                  <input type="checkbox" id="force-unlock-report" style="cursor: pointer; accent-color: var(--sweden-yellow);"> Force Unlock Result
+                </label>
+              </div>
+              <select class="sim-select" id="match-center-selector" style="width: 100%; background: var(--bg-dark-700); border-color: var(--bg-dark-600); padding: 0.4rem 0.8rem; border-radius: var(--radius-md); color: var(--text-white); font-family: inherit; font-weight: 600; outline: none; cursor: pointer;">
+                <option value="match_norway">vs. Norway 🇳🇴 (Warm-up)</option>
+                <option value="match_tunisia">vs. Tunisia 🇹🇳 (World Cup)</option>
+                <option value="match_netherlands">vs. Netherlands 🇳🇱 (World Cup)</option>
+                <option value="match_japan">vs. Japan 🇯🇵 (World Cup)</option>
+              </select>
+            </div>
+            
+            <div class="match-center-content" id="match-center-content" style="background: rgba(4, 9, 18, 0.4); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: var(--radius-md); padding: 1.2rem; min-height: 150px;">
+              <!-- Dynamically populated Match Report / Preview -->
+            </div>
+          </div>
+        </section>
+
         <!-- Match Schedule Card -->
         <section class="panel-card" id="match-timeline-card">
           <h2 class="panel-title">
