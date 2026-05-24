@@ -137,70 +137,13 @@
       <!-- Right Column: Music Player, Tactical Pitch, and Match Schedule -->
       <div class="dashboard-col-right">
         
-        <!-- Music Player Card -->
-        <section class="panel-card" id="music-player-card" style="margin-bottom: 2rem;">
+        <!-- Match Schedule Card -->
+        <section class="panel-card" id="match-timeline-card" style="margin-bottom: 2rem;">
           <h2 class="panel-title">
-            <i class="fas fa-music"></i> Locker Room Playlist
+            <i class="far fa-calendar-alt"></i> Match Schedule (Group F)
           </h2>
-          <div class="music-player-wrapper">
-            <div class="music-track-info">
-              <h4 id="music-song-title">Song Title</h4>
-              <p id="music-artist">Artist</p>
-            </div>
-            <div class="music-visualizer-container" id="music-visualizer">
-              <span class="bar bar-1"></span>
-              <span class="bar bar-2"></span>
-              <span class="bar bar-3"></span>
-              <span class="bar bar-4"></span>
-              <span class="bar bar-5"></span>
-            </div>
-            <div class="music-controls">
-              <button class="music-btn" id="music-prev-btn" title="Previous"><i class="fas fa-backward"></i></button>
-              <button class="music-btn play" id="music-play-btn" title="Play / Pause"><i class="fas fa-play"></i></button>
-              <button class="music-btn" id="music-next-btn" title="Next"><i class="fas fa-forward"></i></button>
-              <a href="#" class="music-btn spotify" id="music-spotify-link" target="_blank" title="Listen on Spotify"><i class="fab fa-spotify"></i></a>
-            </div>
-            <div class="music-footer">
-              <span id="music-track-count">Song 1 of 5</span>
-            </div>
-          </div>
-        </section>
-
-        <!-- Tactical Lineup Pitch Card -->
-        <section class="panel-card" id="tactical-field-card" style="margin-bottom: 2rem;">
-          <h2 class="panel-title" id="tactical-pitch-title">
-            <i class="fas fa-chess-board"></i> Graham Potter's 3-4-2-1
-          </h2>
-          <!-- Whiteboard Tabs -->
-          <div class="news-tabs-container" style="margin-bottom: 1rem; width: 100%; display: flex; padding: 2px;">
-            <button class="news-tab-btn active" id="whiteboard-tab-3421" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
-              3-4-2-1
-            </button>
-            <button class="news-tab-btn" id="whiteboard-tab-433" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
-              4-3-3
-            </button>
-            <button class="news-tab-btn" id="whiteboard-tab-451" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
-              4-5-1
-            </button>
-          </div>
-          <div class="pitch-container">
-            <div class="tactical-pitch" id="tactical-pitch-inner">
-              <!-- Green pitch with lines and absolute player jerseys injected here -->
-            </div>
-            <div class="pitch-overlays-controls" style="display: flex; gap: 1rem; justify-content: center; margin: 0.8rem 0; font-size: 0.75rem;">
-              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-white); font-weight: 700;">
-                <input type="checkbox" id="whiteboard-show-pressing" style="accent-color: var(--sweden-yellow); cursor: pointer;"> Show Pressing Zones
-              </label>
-              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-white); font-weight: 700;">
-                <input type="checkbox" id="whiteboard-show-runs" style="accent-color: var(--sweden-yellow); cursor: pointer;"> Show Run Arrows
-              </label>
-            </div>
-            <div class="pitch-info-bar" style="margin-bottom: 0.8rem;">
-              Click a player on the pitch to see complete international stats
-            </div>
-            <div class="whiteboard-briefing-box" id="whiteboard-briefing-box" style="background: rgba(4, 9, 18, 0.45); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: var(--radius-md); padding: 0.8rem; font-size: 0.75rem; color: var(--text-secondary); line-height: 1.45;">
-              <!-- Dynamic tactical briefing here -->
-            </div>
+          <div class="match-schedule-container" id="match-schedule-container">
+            <!-- Matches timeline loaded here -->
           </div>
         </section>
 
@@ -234,13 +177,70 @@
           </div>
         </section>
 
-        <!-- Match Schedule Card -->
-        <section class="panel-card" id="match-timeline-card">
+        <!-- Music Player Card -->
+        <section class="panel-card" id="music-player-card" style="margin-bottom: 2rem;">
           <h2 class="panel-title">
-            <i class="far fa-calendar-alt"></i> Match Schedule (Group F)
+            <i class="fas fa-music"></i> Locker Room Playlist
           </h2>
-          <div class="match-schedule-container" id="match-schedule-container">
-            <!-- Matches timeline loaded here -->
+          <div class="music-player-wrapper">
+            <div class="music-track-info">
+              <h4 id="music-song-title">Song Title</h4>
+              <p id="music-artist">Artist</p>
+            </div>
+            <div class="music-visualizer-container" id="music-visualizer">
+              <span class="bar bar-1"></span>
+              <span class="bar bar-2"></span>
+              <span class="bar bar-3"></span>
+              <span class="bar bar-4"></span>
+              <span class="bar bar-5"></span>
+            </div>
+            <div class="music-controls">
+              <button class="music-btn" id="music-prev-btn" title="Previous"><i class="fas fa-backward"></i></button>
+              <button class="music-btn play" id="music-play-btn" title="Play / Pause"><i class="fas fa-play"></i></button>
+              <button class="music-btn" id="music-next-btn" title="Next"><i class="fas fa-forward"></i></button>
+              <a href="#" class="music-btn spotify" id="music-spotify-link" target="_blank" title="Listen on Spotify"><i class="fab fa-spotify"></i></a>
+            </div>
+            <div class="music-footer">
+              <span id="music-track-count">Song 1 of 5</span>
+            </div>
+          </div>
+        </section>
+
+        <!-- Tactical Lineup Pitch Card -->
+        <section class="panel-card" id="tactical-field-card">
+          <h2 class="panel-title" id="tactical-pitch-title">
+            <i class="fas fa-chess-board"></i> Graham Potter's 3-4-2-1
+          </h2>
+          <!-- Whiteboard Tabs -->
+          <div class="news-tabs-container" style="margin-bottom: 1rem; width: 100%; display: flex; padding: 2px;">
+            <button class="news-tab-btn active" id="whiteboard-tab-3421" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
+              3-4-2-1
+            </button>
+            <button class="news-tab-btn" id="whiteboard-tab-433" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
+              4-3-3
+            </button>
+            <button class="news-tab-btn" id="whiteboard-tab-451" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
+              4-5-1
+            </button>
+          </div>
+          <div class="pitch-container">
+            <div class="tactical-pitch" id="tactical-pitch-inner">
+              <!-- Green pitch with lines and absolute player jerseys injected here -->
+            </div>
+            <div class="pitch-overlays-controls" style="display: flex; gap: 1rem; justify-content: center; margin: 0.8rem 0; font-size: 0.75rem;">
+              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-white); font-weight: 700;">
+                <input type="checkbox" id="whiteboard-show-pressing" style="accent-color: var(--sweden-yellow); cursor: pointer;"> Show Pressing Zones
+              </label>
+              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-white); font-weight: 700;">
+                <input type="checkbox" id="whiteboard-show-runs" style="accent-color: var(--sweden-yellow); cursor: pointer;"> Show Run Arrows
+              </label>
+            </div>
+            <div class="pitch-info-bar" style="margin-bottom: 0.8rem;">
+              Click a player on the pitch to see complete international stats
+            </div>
+            <div class="whiteboard-briefing-box" id="whiteboard-briefing-box" style="background: rgba(4, 9, 18, 0.45); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: var(--radius-md); padding: 0.8rem; font-size: 0.75rem; color: var(--text-secondary); line-height: 1.45;">
+              <!-- Dynamic tactical briefing here -->
+            </div>
           </div>
         </section>
 

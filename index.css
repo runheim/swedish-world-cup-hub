@@ -2203,3 +2203,278 @@ input:checked + .slider:before {
   100% { transform: scale(1); opacity: 1; }
 }
 
+/* ==========================================================================
+   PREMIUM LIGHT THEME REDESIGN SYSTEM OVERRIDES
+   ========================================================================== */
+:root {
+  /* Light modern palette replacing Dark premium palette */
+  --bg-dark-900: #F8FAFC; /* Clean perimeter background (slate off-white) */
+  --bg-dark-800: #F1F5F9; /* Slate grey card background */
+  --bg-dark-700: #E2E8F0; /* Deep slate grey borders/inputs */
+  --bg-dark-600: #CBD5E1; /* Secondary slate elements */
+  
+  --text-white: #0F172A; /* Main title / headings (Dark Slate) */
+  --text-primary: #334155; /* Body text (Dark grey charcoal) */
+  --text-secondary: #64748B; /* Secondary text (Slate grey) */
+  --text-dark: #FFFFFF; /* High-contrast white element text */
+  
+  --glass-bg: rgba(255, 255, 255, 0.85); /* Frosted glass cards */
+  --glass-border: rgba(254, 204, 0, 0.25);
+  --glass-border-blue: rgba(0, 106, 167, 0.15);
+  --shadow-neon: 0 10px 30px rgba(0, 106, 167, 0.05); /* Soft premium shadow */
+  --shadow-neon-blue: 0 10px 30px rgba(0, 106, 167, 0.08); /* Soft premium shadow */
+}
+
+body {
+  background-color: var(--bg-dark-900);
+  background-image: 
+    radial-gradient(circle at 10% 20%, rgba(0, 106, 167, 0.05) 0%, transparent 45%),
+    radial-gradient(circle at 90% 80%, rgba(254, 204, 0, 0.03) 0%, transparent 45%);
+}
+
+/* Brand Header slightly shaded with light blue */
+.main-header {
+  background: linear-gradient(135deg, rgba(239, 246, 255, 0.95) 0%, rgba(219, 234, 254, 0.9) 100%) !important;
+  border: 1px solid rgba(0, 106, 167, 0.15) !important;
+  box-shadow: 0 10px 30px rgba(0, 106, 167, 0.06) !important;
+}
+
+/* Time Box Top-Right Countdown */
+.time-box {
+  background: #FFFFFF !important;
+  border: 1px solid rgba(0, 106, 167, 0.15) !important;
+}
+
+/* Brand Header Text Gradient */
+.brand-text h1 {
+  background: linear-gradient(135deg, var(--text-white) 30%, var(--sweden-blue) 100%) !important;
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent !important;
+}
+
+/* Active News/Whiteboard Tabs Text Color */
+.news-tab-btn.active {
+  color: #FFFFFF !important;
+}
+.news-tab-btn:hover {
+  color: var(--sweden-blue) !important;
+}
+
+/* News Ticker Bar */
+.news-ticker {
+  background: linear-gradient(90deg, rgba(0, 106, 167, 0.95) 0%, rgba(0, 86, 137, 0.95) 100%) !important;
+  border-bottom: 2px solid var(--sweden-yellow) !important;
+}
+.news-ticker .ticker-content {
+  color: #FFFFFF !important;
+}
+
+/* Squad Player Cards Grid */
+.player-card {
+  background: #FFFFFF !important; /* Solid white background */
+  border: 1px solid rgba(0, 106, 167, 0.1) !important;
+  box-shadow: 0 6px 20px rgba(0, 106, 167, 0.04) !important;
+}
+.player-card:hover {
+  border-color: var(--sweden-yellow) !important;
+  box-shadow: 0 12px 30px rgba(0, 106, 167, 0.08) !important;
+}
+.player-card-jersey {
+  color: rgba(0, 106, 167, 0.04) !important; /* Soft watermark */
+}
+.player-card:hover .player-card-jersey {
+  color: rgba(0, 106, 167, 0.07) !important;
+}
+.player-card-meta {
+  border-bottom: 1px solid rgba(0, 106, 167, 0.06) !important;
+}
+
+/* Locker Room Chat Console */
+.chat-console-wrapper {
+  background: rgba(0, 106, 167, 0.02) !important;
+  border: 1px solid rgba(0, 106, 167, 0.08) !important;
+  box-shadow: inset 0 2px 10px rgba(0, 106, 167, 0.02) !important;
+}
+.chat-placeholder-input {
+  background: #FFFFFF !important;
+  border: 1px solid rgba(0, 106, 167, 0.12) !important;
+  color: var(--text-secondary) !important;
+}
+
+/* Locker Room Chat Bubbles */
+.chat-bubble-content {
+  background: #FFFFFF !important; /* Clean solid white background */
+  border: 1px solid rgba(0, 106, 167, 0.12) !important;
+  box-shadow: 0 4px 10px rgba(0, 106, 167, 0.03) !important;
+}
+.chat-bubble-block.captain .chat-bubble-content {
+  border-color: rgba(254, 204, 0, 0.4) !important;
+  background: rgba(254, 204, 0, 0.05) !important; /* Soft yellow Captain focus */
+}
+.chat-bubble-text {
+  color: var(--text-primary) !important;
+}
+
+/* Music Player Panel */
+.music-player-wrapper {
+  background: #FFFFFF !important; /* Solid white background */
+  border: 1px solid rgba(0, 106, 167, 0.1) !important;
+  box-shadow: 0 6px 20px rgba(0, 106, 167, 0.04) !important;
+}
+
+/* ==========================================================================
+   LIGHT BLUEPRINT TACTICAL PITCH DESIGN
+   ========================================================================== */
+.tactical-pitch {
+  background-color: #F8FAFC !important;
+  background-image: 
+    linear-gradient(to right, rgba(0, 106, 167, 0.04) 1px, transparent 1px), 
+    linear-gradient(to bottom, rgba(0, 106, 167, 0.04) 1px, transparent 1px),
+    linear-gradient(135deg, #F1F5F9 0%, #E2E8F0 100%) !important;
+  background-size: 20px 20px, 20px 20px, 100% 100% !important;
+  border: 4px solid rgba(0, 106, 167, 0.15) !important;
+  box-shadow: inset 0 0 40px rgba(0, 106, 167, 0.04), 0 10px 25px rgba(0, 106, 167, 0.05) !important;
+}
+
+/* Soccer Field Markings (Airy blueprint white) */
+.tactical-pitch::after {
+  background: #FFFFFF !important;
+  height: 2px !important;
+}
+.pitch-center-circle {
+  border: 2px solid #FFFFFF !important;
+}
+.pitch-penalty-top, .pitch-penalty-bottom, .pitch-goal-top, .pitch-goal-bottom {
+  border: 2px solid #FFFFFF !important;
+}
+
+/* Player Nodes on Pitch */
+.jersey-node {
+  background: radial-gradient(circle, var(--sweden-yellow) 60%, var(--sweden-blue) 100%) !important;
+  color: #0F172A !important; /* Deep dark slate for maximum number contrast */
+  border: 2.5px solid #FFFFFF !important;
+  box-shadow: 0 4px 10px rgba(0, 106, 167, 0.15), 0 0 12px rgba(254, 204, 0, 0.2) !important;
+}
+.pitch-player-node:hover .jersey-node {
+  background: var(--sweden-blue) !important;
+  color: #FFFFFF !important;
+  border-color: var(--sweden-yellow) !important;
+  box-shadow: 0 0 15px rgba(0, 106, 167, 0.4) !important;
+}
+.node-name {
+  background: #FFFFFF !important;
+  border: 1px solid rgba(0, 106, 167, 0.15) !important;
+  color: var(--text-primary) !important;
+  box-shadow: 0 2px 8px rgba(0, 106, 167, 0.05) !important;
+}
+.pitch-player-node:hover .node-name {
+  color: var(--sweden-blue) !important;
+  border-color: var(--sweden-blue) !important;
+}
+
+/* Comparison Attribute Bars */
+.scout-comparison-bars {
+  background: rgba(255, 255, 255, 0.95) !important;
+  border: 1px solid rgba(0, 106, 167, 0.08) !important;
+  box-shadow: 0 4px 20px rgba(0, 106, 167, 0.03) !important;
+}
+.scout-stat-bar-bg {
+  background: rgba(0, 106, 167, 0.04) !important;
+}
+.scout-stat-name {
+  color: var(--text-primary) !important;
+}
+
+/* Whiteboard Briefing Box */
+.whiteboard-briefing-box {
+  background: #FFFFFF !important;
+  border: 1px solid rgba(0, 106, 167, 0.1) !important;
+  box-shadow: 0 4px 15px rgba(0, 106, 167, 0.02) !important;
+  color: var(--text-primary) !important;
+}
+
+/* Match center previews & logs */
+.match-center-content {
+  background: rgba(255, 255, 255, 0.9) !important;
+  border: 1px solid rgba(0, 106, 167, 0.08) !important;
+  box-shadow: 0 4px 20px rgba(0, 106, 167, 0.02) !important;
+}
+.match-report-text {
+  color: var(--text-primary) !important;
+}
+.match-report-scorers {
+  border-left-color: var(--sweden-blue) !important;
+  background: rgba(0, 106, 167, 0.04) !important;
+  color: var(--text-primary) !important;
+}
+.ratings-list-container {
+  background: #FFFFFF !important;
+}
+.rating-player-row {
+  border-bottom: 1px solid rgba(0, 106, 167, 0.05) !important;
+}
+.rating-player-name {
+  color: var(--text-white) !important;
+}
+.rating-player-comment {
+  color: var(--text-primary) !important;
+}
+
+/* Time Simulator indicators */
+.simulator-panel {
+  box-shadow: 0 10px 30px rgba(0, 106, 167, 0.04) !important;
+}
+.sched-dot {
+  background: rgba(0, 106, 167, 0.04) !important;
+  border: 1px solid rgba(0, 106, 167, 0.1) !important;
+  color: var(--text-secondary) !important;
+}
+.sched-dot.active {
+  background: var(--sweden-blue) !important;
+  color: #FFFFFF !important;
+  border-color: var(--sweden-blue) !important;
+  box-shadow: 0 0 8px rgba(0, 106, 167, 0.3) !important;
+}
+
+/* Modals overlays & close buttons */
+.modal-box {
+  background: #FFFFFF !important;
+  color: var(--text-primary) !important;
+  box-shadow: 0 15px 50px rgba(0, 106, 167, 0.15) !important;
+}
+.modal-article-title {
+  color: var(--text-white) !important;
+}
+.modal-article-meta {
+  color: var(--text-secondary) !important;
+  border-bottom: 1px solid rgba(0, 106, 167, 0.08) !important;
+}
+.modal-article-summary {
+  background: rgba(0, 106, 167, 0.03) !important;
+  border-left: 4px solid var(--sweden-blue) !important;
+  color: var(--text-primary) !important;
+}
+.player-modal-header {
+  border-bottom: 1px solid rgba(0, 106, 167, 0.08) !important;
+}
+.player-modal-title-box h2 {
+  color: var(--text-white) !important;
+}
+.player-modal-meta-box {
+  color: var(--text-secondary) !important;
+}
+.player-modal-bio {
+  color: var(--text-primary) !important;
+}
+.stat-metric-card {
+  background: rgba(0, 106, 167, 0.03) !important;
+  border: 1px solid rgba(0, 106, 167, 0.08) !important;
+}
+.metric-val {
+  color: var(--sweden-blue) !important;
+}
+.metric-lbl {
+  color: var(--text-secondary) !important;
+}
+
+
