@@ -871,6 +871,195 @@ const MATCH_REPORTS_DATABASE = {
   }
 };
 
+// 3.6 Scout Comparison Attributes Database (2026 FIFA Attributes out of 100)
+const SQUAD_ATTRIBUTES = {
+  "viktor_johansson": { pac: 76, sho: 15, pas: 78, dri: 45, def: 88, phy: 80 },
+  "kristoffer_nordfeldt": { pac: 58, sho: 12, pas: 81, dri: 38, def: 82, phy: 78 },
+  "jacob_zetterstrom": { pac: 64, sho: 10, pas: 72, dri: 35, def: 84, phy: 92 },
+  "isak_hien": { pac: 85, sho: 38, pas: 70, dri: 64, def: 88, phy: 90 },
+  "victor_lindelof": { pac: 68, sho: 55, pas: 81, dri: 72, def: 86, phy: 80 },
+  "carl_starfelt": { pac: 72, sho: 35, pas: 68, dri: 58, def: 84, phy: 86 },
+  "hjalmar_ekdal": { pac: 70, sho: 40, pas: 78, dri: 62, def: 82, phy: 78 },
+  "gabriel_gudmundsson": { pac: 90, sho: 62, pas: 76, dri: 78, def: 74, phy: 78 },
+  "emil_holm": { pac: 88, sho: 68, pas: 75, dri: 76, def: 78, phy: 84 },
+  "gustaf_lagerbielke": { pac: 66, sho: 45, pas: 70, dri: 55, def: 80, phy: 85 },
+  "eric_smith": { pac: 70, sho: 58, pas: 84, dri: 72, def: 80, phy: 82 },
+  "elliot_stroud": { pac: 84, sho: 60, pas: 74, dri: 78, def: 70, phy: 75 },
+  "daniel_svensson": { pac: 80, sho: 55, pas: 82, dri: 76, def: 78, phy: 74 },
+  "yasin_ayari": { pac: 78, sho: 70, pas: 86, dri: 84, def: 68, phy: 72 },
+  "lucas_bergvall": { pac: 82, sho: 75, pas: 88, dri: 90, def: 62, phy: 74 },
+  "jesper_karlstrom": { pac: 68, sho: 52, pas: 78, dri: 68, def: 84, phy: 86 },
+  "benjamin_nygren": { pac: 80, sho: 80, pas: 78, dri: 81, def: 45, phy: 68 },
+  "ken_sema": { pac: 78, sho: 68, pas: 76, dri: 78, def: 72, phy: 85 },
+  "mattias_svanberg": { pac: 80, sho: 82, pas: 84, dri: 80, def: 76, phy: 84 },
+  "besfort_zeneli": { pac: 82, sho: 72, pas: 80, dri: 84, def: 52, phy: 64 },
+  "taha_ali": { pac: 92, sho: 70, pas: 74, dri: 91, def: 35, phy: 60 },
+  "alexander_bernhardsson": { pac: 88, sho: 74, pas: 70, dri: 78, def: 48, phy: 72 },
+  "anthony_elanga": { pac: 93, sho: 78, pas: 75, dri: 82, def: 42, phy: 70 },
+  "viktor_gyokeres": { pac: 88, sho: 90, pas: 78, dri: 84, def: 45, phy: 92 },
+  "alexander_isak": { pac: 90, sho: 88, pas: 83, dri: 89, def: 38, phy: 76 },
+  "gustaf_nilsson": { pac: 72, sho: 80, pas: 68, dri: 70, def: 40, phy: 90 }
+};
+
+// 3.7 Simulated Match Events Chronology Database (Matches actual database results)
+const SIMULATION_EVENTS = {
+  "match_norway": [
+    { minute: 1, type: "kickoff", text: "Kick-off in Oslo! A roaring Scandinavian atmosphere at Ullevaal Stadion. Graham Potter makes his tactical debut with a 3-4-2-1 formation." },
+    { minute: 12, type: "goal_opp", text: "GOAL for Norway! Erling Haaland capitalizes on a quick turn, escaping central coverage to blast a powerful half-volley into the top corner. 1-0 Norway." },
+    { minute: 28, type: "foul", text: "Isak Hien picks up a yellow card for a robust challenge on Haaland in midfield." },
+    { minute: 45, type: "halftime", text: "Half Time in Oslo: Norway leads 1-0. Sweden has dominated possession (58%) but Haaland's early strike is the difference." },
+    { minute: 54, type: "goal_swe", text: "GOAL for Sweden! Emil Holm swings in a dangerous cross. Viktor Gyökeres rises above the defenders to plant a towering header past the keeper! 1-1!" },
+    { minute: 65, type: "sub", text: "Potter introduces Lucas Bergvall off the bench, looking to unlock the Norwegian defensive lines." },
+    { minute: 73, type: "save", text: "Heroic save! Viktor Johansson makes a fingertip save to deny Haaland's low drive. Incredible reflexes!" },
+    { minute: 82, type: "goal_swe", text: "GOAL for Sweden! Unbelievable! Lucas Bergvall picks up the ball in midfield, beats two players, and fires a sensational 25-yard dipping strike into the top corner! 2-1 Sweden!" },
+    { minute: 90, type: "fulltime", text: "Full Time! Graham Potter starts his Swedish national team era with a dramatic 2-1 comeback victory in Oslo! Bergvall's heroics seal it." }
+  ],
+  "match_tunisia": [
+    { minute: 1, type: "kickoff", text: "Kick-off in Monterrey! The sun sets in Mexico as Sweden begins their World Cup Group F campaign in front of a packed stadium." },
+    { minute: 10, type: "save", text: "Isak Hien makes a massive sliding block in the penalty box to deny Tunisia's counter-attack. Composed defending." },
+    { minute: 23, type: "goal_swe", text: "GOAL for Sweden! Emil Holm overlaps brilliantly down the right wing, cuts back a low cross to Alexander Isak, who curls a spectacular first-time shot into the top corner! 1-0 Sweden!" },
+    { minute: 35, type: "dribble", text: "Lucas Bergvall drives through the midfield with elegant body feints, creating a 3v2 transition. His final pass is blocked." },
+    { minute: 45, type: "halftime", text: "Half Time: Sweden leads 1-0. Complete dominance in possession (65%), suffocating Tunisia's low-block." },
+    { minute: 58, type: "foul", text: "Yasin Ayari wins a tactical foul in midfield, breaking up Tunisia's transition attempts." },
+    { minute: 68, type: "goal_swe", text: "GOAL for Sweden! Tunisia commits men forward and loses the ball. Yasin Ayari engineers a clinical counter, feeding Viktor Gyökeres, who holds off the defender and blasts a low finish past the keeper! 2-0!" },
+    { minute: 82, type: "save", text: "Viktor Johansson remains alert, pulling off a comfortable catch from a long-range Tunisian freekick." },
+    { minute: 90, type: "fulltime", text: "Full Time! A masterclass in tactical discipline as Sweden cruises to a 2-0 victory over Tunisia. The Potter system works flawlessly!" }
+  ],
+  "match_netherlands": [
+    { minute: 1, type: "kickoff", text: "Kick-off in Houston! A massive blockbuster matchup between Sweden and the Netherlands. The winner likely tops Group F." },
+    { minute: 15, type: "save", text: "Heroic! Viktor Johansson makes a double save to deny Gakpo and Depay. Sensational goalkeeping!" },
+    { minute: 34, type: "goal_opp", text: "GOAL for Netherlands! Cody Gakpo beats his marker on the wing, cuts inside, and curls a low shot into the bottom corner. 1-0 Netherlands." },
+    { minute: 41, type: "goal_swe", text: "GOAL for Sweden! Relentless press! Isak wins the ball in the Dutch third, spins his defender, and crosses to Viktor Gyökeres, who taps it home! 1-1!" },
+    { minute: 45, type: "halftime", text: "Half Time in Houston: 1-1. A high-tempo, physical heavyweight battle. Both teams look lethal on transitions." },
+    { minute: 58, type: "foul", text: "Victor Lindelöf makes a tactical foul on Depay, receiving a yellow card but stopping a dangerous break." },
+    { minute: 71, type: "goal_opp", text: "GOAL for Netherlands! Memphis Depay scores from the penalty spot after Carl Starfelt is ruled to have handled the ball. 2-1 Netherlands." },
+    { minute: 80, type: "sub", text: "Potter switches to a hyper-offensive format, urging wingbacks Holm and Gudmundsson to join the forward line." },
+    { minute: 88, type: "goal_swe", text: "GOAL for Sweden! Oh my word, Gyökeres has done it again! A relentless physical press from Sweden forces a mistake. Gyökeres blasts a low shot past Verbruggen! 2-2!" },
+    { minute: 90, type: "fulltime", text: "Full Time! An epic 2-2 blockbuster draw in Houston. Sweden showcases incredible resilience to grab a late equalizer through Gyökeres." }
+  ],
+  "match_japan": [
+    { minute: 1, type: "kickoff", text: "Kick-off in Dallas! The final group stage match. Sweden needs a win or draw to secure top spot in Group F." },
+    { minute: 15, type: "save", text: "Emil Holm makes a spectacular recovery sprint, sliding to block Kaoru Mitoma's crossing attempt." },
+    { minute: 32, type: "dribble", text: "Lucas Bergvall showcase high class in tight spaces, evading Japan's double-pivot to feed Alexander Isak." },
+    { minute: 45, type: "halftime", text: "Half Time in Dallas: 0-0. Japan's high-stamina pressing is restricting space, but Sweden looks dangerous between the lines." },
+    { minute: 49, type: "goal_opp", text: "GOAL for Japan! Takefusa Kubo opens the scoring, curling a fine strike from the edge of the box after a rapid combination play. 1-0 Japan." },
+    { minute: 60, type: "sub", text: "Potter introduces Anthony Elanga to provide blistering pace on the counter-attacks." },
+    { minute: 62, type: "goal_swe", text: "GOAL for Sweden! Immediate impact! Elanga runs onto a brilliant long pass from Victor Lindelöf, outpaces the defense, and slots it home! 1-1!" },
+    { minute: 79, type: "goal_swe", text: "GOAL for Sweden! Breathtaking passing sequence! Bergvall feeds Isak, who plays a quick one-two with Gyökeres and curls a beautiful finish into the corner! 2-1 Sweden!" },
+    { minute: 90, type: "fulltime", text: "Full Time! Sweden wins Group F! An intense 2-1 battle in Dallas concludes with Sweden securing top spot. The squad is officially on fire!" }
+  ]
+};
+
+function fetchGuardianReport(matchId, opponentName, matchDate) {
+  const container = document.getElementById("guardian-press-container");
+  if (!container) return;
+  
+  const fromDate = matchDate;
+  // Set window as +48 hours
+  const toDate = new Date(new Date(matchDate).getTime() + 48 * 60 * 60 * 1000).toISOString().split('T')[0];
+  
+  const url = `https://content.guardianapis.com/search?q=sweden%20AND%20(football%20OR%20soccer%20OR%20${opponentName})&from-date=${fromDate}&to-date=${toDate}&api-key=test`;
+  
+  fetch(url)
+    .then(res => res.json())
+    .then(data => {
+      const results = data.response && data.response.results ? data.response.results : [];
+      if (results.length > 0) {
+        const art = results[0];
+        container.innerHTML = `
+          <div class="press-card">
+            <div style="font-size: 1.5rem; color: #005689; display: flex; align-items: center;"><i class="far fa-newspaper"></i></div>
+            <div style="flex-grow: 1;">
+              <span style="font-size: 0.6rem; font-weight: 800; color: #60A5FA; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">The Guardian Coverage</span>
+              <a href="${art.webUrl}" target="_blank" style="font-size: 0.85rem; font-weight: 700; color: var(--text-white); text-decoration: none; border-bottom: 1px dashed rgba(255,255,255,0.2); transition: var(--transition-smooth);" onmouseover="this.style.color='var(--sweden-yellow)'" onmouseout="this.style.color='var(--text-white)'">${art.webTitle}</a>
+              <span style="font-size: 0.65rem; color: var(--text-secondary); display: block; margin-top: 3px;">Published: ${new Date(art.webPublicationDate).toLocaleDateString()}</span>
+            </div>
+          </div>
+        `;
+      } else {
+        container.innerHTML = `
+          <div class="press-card" style="opacity: 0.7;">
+            <div style="font-size: 1.2rem; color: var(--text-secondary); display: flex; align-items: center;"><i class="fas fa-info-circle"></i></div>
+            <div style="flex-grow: 1;">
+              <span style="font-size: 0.6rem; font-weight: 800; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">The Guardian Coverage</span>
+              <p style="font-size: 0.75rem; color: var(--text-secondary);">No match report in search window. <a href="https://www.theguardian.com/football" target="_blank" style="color: var(--sweden-yellow); text-decoration: none; font-weight: 700;">Browse Football Feed ➔</a></p>
+            </div>
+          </div>
+        `;
+      }
+    })
+    .catch(err => {
+      console.warn("Guardian API load failed:", err);
+      container.innerHTML = `
+        <div class="press-card" style="opacity: 0.7;">
+          <div style="font-size: 1.2rem; color: var(--text-secondary); display: flex; align-items: center;"><i class="fas fa-exclamation-triangle"></i></div>
+          <div style="flex-grow: 1;">
+            <span style="font-size: 0.6rem; font-weight: 800; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">The Guardian Coverage</span>
+            <p style="font-size: 0.75rem; color: var(--text-secondary);">Media connection offline. <a href="https://www.theguardian.com/football" target="_blank" style="color: var(--sweden-yellow); text-decoration: none; font-weight: 700;">Browse Guardian ➔</a></p>
+          </div>
+        </div>
+      `;
+    });
+}
+
+function fetchESPNNews(opponentName) {
+  const container = document.getElementById("espn-press-container");
+  if (!container) return;
+  
+  const rssUrl = "https://www.espn.com/espn/rss/soccer/news";
+  const proxyUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
+  
+  fetch(proxyUrl)
+    .then(res => res.json())
+    .then(data => {
+      const items = data.items ? data.items : [];
+      // Filter for keywords
+      const filtered = items.filter(item => {
+        const title = item.title.toLowerCase();
+        const desc = item.description ? item.description.toLowerCase() : "";
+        return title.includes("sweden") || title.includes("potter") || title.includes(opponentName.toLowerCase()) ||
+               desc.includes("sweden") || desc.includes("potter") || desc.includes(opponentName.toLowerCase());
+      });
+      
+      const displayItems = filtered.length > 0 ? filtered.slice(0, 2) : items.slice(0, 2);
+      
+      if (displayItems.length > 0) {
+        container.innerHTML = displayItems.map(item => `
+          <div class="press-card" style="margin-top: 0.8rem;">
+            <div style="font-size: 1.3rem; color: #CC0000; display: flex; align-items: center;"><i class="fas fa-rss"></i></div>
+            <div style="flex-grow: 1;">
+              <span style="font-size: 0.6rem; font-weight: 800; color: #FCA5A5; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">ESPN Soccer Wire</span>
+              <a href="${item.link}" target="_blank" style="font-size: 0.82rem; font-weight: 700; color: var(--text-white); text-decoration: none; border-bottom: 1px dashed rgba(255,255,255,0.2); transition: var(--transition-smooth);" onmouseover="this.style.color='var(--sweden-yellow)'" onmouseout="this.style.color='var(--text-white)'">${item.title}</a>
+              <p style="font-size: 0.7rem; color: var(--text-secondary); margin-top: 3px; line-height: 1.35;">${item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 100) + '...' : ''}</p>
+            </div>
+          </div>
+        `).join('');
+      } else {
+        container.innerHTML = `
+          <div class="press-card" style="opacity: 0.7;">
+            <div style="font-size: 1.2rem; color: var(--text-secondary); display: flex; align-items: center;"><i class="fas fa-info-circle"></i></div>
+            <div style="flex-grow: 1;">
+              <span style="font-size: 0.6rem; font-weight: 800; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">ESPN Soccer Wire</span>
+              <p style="font-size: 0.75rem; color: var(--text-secondary);">No sweden news active. <a href="https://www.espn.com/soccer" target="_blank" style="color: var(--sweden-yellow); text-decoration: none; font-weight: 700;">Browse Soccer Feed ➔</a></p>
+            </div>
+          </div>
+        `;
+      }
+    })
+    .catch(err => {
+      console.warn("ESPN RSS proxy load failed:", err);
+      container.innerHTML = `
+        <div class="press-card" style="opacity: 0.7;">
+          <div style="font-size: 1.2rem; color: var(--text-secondary); display: flex; align-items: center;"><i class="fas fa-exclamation-triangle"></i></div>
+          <div style="flex-grow: 1;">
+            <span style="font-size: 0.6rem; font-weight: 800; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">ESPN Soccer Wire</span>
+            <p style="font-size: 0.75rem; color: var(--text-secondary);">Media connection offline. <a href="https://www.espn.com/soccer" target="_blank" style="color: var(--sweden-yellow); text-decoration: none; font-weight: 700;">Browse ESPN ➔</a></p>
+          </div>
+        </div>
+      `;
+    });
+}
+
 function renderMatchCenter() {
   const selector = document.getElementById("match-center-selector");
   const forceUnlockCheckbox = document.getElementById("force-unlock-report");
@@ -885,44 +1074,65 @@ function renderMatchCenter() {
   if (!match || !reportData) return;
   
   const forceUnlock = forceUnlockCheckbox ? forceUnlockCheckbox.checked : false;
-  
-  // Since all match dates are in June 2026, they are naturally "Upcoming" relative to today (May 24)
-  // If forceUnlock is active, we display the completed report & ratings!
   const isCompleted = forceUnlock;
   
   if (isCompleted) {
     contentArea.innerHTML = `
-      <div class="match-report-badge completed">Final Result</div>
-      <div class="match-report-title">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.8rem; flex-wrap: wrap; gap: 0.5rem;">
+        <div class="match-report-badge completed">Final Result</div>
+        <div class="match-report-meta" style="margin-bottom: 0;">
+          <span><i class="far fa-calendar-alt"></i> ${match.date}</span>
+          <span style="margin: 0 5px; color: var(--text-secondary);">|</span>
+          <span><i class="fas fa-map-marker-alt"></i> ${match.venue}</span>
+        </div>
+      </div>
+      
+      <div class="match-report-title" style="margin-bottom: 1rem; justify-content: center; background: rgba(255,255,255,0.01); border: 1px solid rgba(255,255,255,0.03); padding: 0.8rem; border-radius: var(--radius-md);">
         <span>Sweden</span>
         <span class="flag-vs">🇸🇪</span>
-        <span style="color: var(--sweden-yellow); font-size: 1.5rem; margin: 0 0.5rem; font-family: monospace;">${reportData.score}</span>
+        <span style="color: var(--sweden-yellow); font-size: 1.7rem; margin: 0 0.8rem; font-family: monospace; font-weight: 800; text-shadow: 0 0 10px rgba(254,204,0,0.3);">${reportData.score}</span>
         <span>${match.opponentFlag} ${match.opponent}</span>
       </div>
-      <div class="match-report-meta">
-        <span><i class="far fa-calendar-alt"></i> ${match.date}</span>
-        <span style="margin: 0 5px; color: var(--text-secondary);">|</span>
-        <span><i class="fas fa-map-marker-alt"></i> ${match.venue}</span>
+
+      <!-- Tab Buttons Row -->
+      <div class="news-tabs-container" style="margin-bottom: 1.2rem; width: 100%; display: flex; padding: 2px;">
+        <button class="news-tab-btn active" id="match-tab-report" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem;">
+          <i class="far fa-newspaper"></i> Report &amp; Press
+        </button>
+        <button class="news-tab-btn" id="match-tab-ratings" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem;">
+          <i class="fas fa-star"></i> Player Ratings
+        </button>
       </div>
       
-      <div class="match-report-scorers">
-        <strong>Goals:</strong> ${reportData.scorers}
+      <!-- Tab 1 Content Area: Report & Press Feed -->
+      <div id="match-center-tab-report-content">
+        <div class="match-report-scorers">
+          <strong>Goals:</strong> ${reportData.scorers}
+        </div>
+        
+        <div class="match-report-text" style="border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 1.2rem; margin-bottom: 1.2rem;">
+          ${reportData.report}
+        </div>
+
+        <!-- Media outlets feeds -->
+        <h4 style="font-size: 0.8rem; font-weight: 800; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.4rem;"><i class="fas fa-podcast"></i> Live Media Press Room</h4>
+        <div id="guardian-press-container">
+          <p style="font-size: 0.75rem; color: var(--text-secondary); padding: 0.5rem;"><i class="fas fa-spinner fa-spin"></i> Contacting Guardian API...</p>
+        </div>
+        <div id="espn-press-container">
+          <p style="font-size: 0.75rem; color: var(--text-secondary); padding: 0.5rem;"><i class="fas fa-spinner fa-spin"></i> Connecting to ESPN Soccer Wire...</p>
+        </div>
       </div>
-      
-      <div class="match-report-text">
-        ${reportData.report}
-      </div>
-      
-      <button class="ratings-toggle-btn" id="ratings-toggle-btn">
-        <i class="fas fa-star"></i> View Player Ratings
-      </button>
-      
-      <div class="ratings-list-container" id="ratings-list-container">
-        <!-- Ratings injected dynamically -->
+
+      <!-- Tab 2 Content Area: Player Ratings Grid -->
+      <div id="match-center-tab-ratings-content" style="display: none;">
+        <div class="ratings-list-container active" id="ratings-list-container" style="max-height: 380px;">
+          <!-- Injected dynamically -->
+        </div>
       </div>
     `;
     
-    // Inject ratings
+    // Inject ratings into Tab 2
     const ratingsContainer = document.getElementById("ratings-list-container");
     if (ratingsContainer) {
       reportData.ratings.forEach(p => {
@@ -947,18 +1157,30 @@ function renderMatchCenter() {
         ratingsContainer.appendChild(ratingRow);
       });
     }
-    
-    // Setup toggle event listener
-    const toggleBtn = document.getElementById("ratings-toggle-btn");
-    const container = document.getElementById("ratings-list-container");
-    if (toggleBtn && container) {
-      toggleBtn.addEventListener("click", () => {
-        container.classList.toggle("active");
-        if (container.classList.contains("active")) {
-          toggleBtn.innerHTML = '<i class="fas fa-chevron-up"></i> Hide Player Ratings';
-        } else {
-          toggleBtn.innerHTML = '<i class="fas fa-star"></i> View Player Ratings';
-        }
+
+    // Trigger external live API fetches
+    fetchGuardianReport(matchId, match.opponent, match.date);
+    fetchESPNNews(match.opponent);
+
+    // Bind Tab Event Listeners
+    const tabReportBtn = document.getElementById("match-tab-report");
+    const tabRatingsBtn = document.getElementById("match-tab-ratings");
+    const reportContent = document.getElementById("match-center-tab-report-content");
+    const ratingsContent = document.getElementById("match-center-tab-ratings-content");
+
+    if (tabReportBtn && tabRatingsBtn && reportContent && ratingsContent) {
+      tabReportBtn.addEventListener("click", () => {
+        tabRatingsBtn.classList.remove("active");
+        tabReportBtn.classList.add("active");
+        ratingsContent.style.display = "none";
+        reportContent.style.display = "block";
+      });
+
+      tabRatingsBtn.addEventListener("click", () => {
+        tabReportBtn.classList.remove("active");
+        tabRatingsBtn.classList.add("active");
+        reportContent.style.display = "none";
+        ratingsContent.style.display = "block";
       });
     }
     
@@ -1118,6 +1340,106 @@ document.addEventListener("DOMContentLoaded", () => {
   initApp();
 });
 
+// 3.8 Graham Potter's 3 Tactical Formations coordinate mappings
+const FORMATIONS = {
+  "3421": {
+    name: "Graham Potter's signature 3-4-2-1",
+    briefing: "<strong>Potter's Briefing:</strong> Relies on overlapping wing-backs Emil Holm and Gabriel Gudmundsson to stretch the defense. Lucas Bergvall and Alexander Isak sit in creative half-spaces behind Viktor Gyökeres, creating dynamic central combinations.",
+    lineup: [
+      { id: "viktor_johansson", top: "85%", left: "50%", role: "GK" },
+      { id: "victor_lindelof", top: "67%", left: "25%", role: "LCB" },
+      { id: "isak_hien", top: "67%", left: "50%", role: "CB" },
+      { id: "carl_starfelt", top: "67%", left: "75%", role: "RCB" },
+      { id: "gabriel_gudmundsson", top: "45%", left: "12%", role: "LWB" },
+      { id: "mattias_svanberg", top: "50%", left: "35%", role: "LDM" },
+      { id: "yasin_ayari", top: "50%", left: "65%", role: "RDM" },
+      { id: "emil_holm", top: "45%", left: "88%", role: "RWB" },
+      { id: "lucas_bergvall", top: "28%", left: "33%", role: "LAM" },
+      { id: "alexander_isak", top: "28%", left: "67%", role: "RAM" },
+      { id: "viktor_gyokeres", top: "12%", left: "50%", role: "ST" }
+    ],
+    pressing: [
+      { top: "28%", left: "33%" },
+      { top: "28%", left: "67%" },
+      { top: "12%", left: "50%" }
+    ],
+    runs: [
+      { fromLeft: "88%", fromTop: "45%", toLeft: "88%", toTop: "20%" },
+      { fromLeft: "12%", fromTop: "45%", toLeft: "12%", toTop: "20%" }
+    ]
+  },
+  "433": {
+    name: "Potter's Attacking 4-3-3",
+    briefing: "<strong>Potter's Briefing:</strong> Strong midfield control and direct 1v1 threat on the wings. Fullbacks Holm and Svensson provide defensive coverage, while Elanga and Isak exploit half-spaces to feed clinical marksman Gyökeres.",
+    lineup: [
+      { id: "viktor_johansson", top: "85%", left: "50%", role: "GK" },
+      { id: "daniel_svensson", top: "67%", left: "15%", role: "LB" },
+      { id: "victor_lindelof", top: "68%", left: "37%", role: "LCB" },
+      { id: "isak_hien", top: "68%", left: "63%", role: "RCB" },
+      { id: "emil_holm", top: "67%", left: "85%", role: "RB" },
+      { id: "jesper_karlstrom", top: "50%", left: "50%", role: "DM" },
+      { id: "mattias_svanberg", top: "40%", left: "30%", role: "LCM" },
+      { id: "lucas_bergvall", top: "40%", left: "70%", role: "RCM" },
+      { id: "anthony_elanga", top: "20%", left: "20%", role: "LW" },
+      { id: "alexander_isak", top: "20%", left: "80%", role: "RW" },
+      { id: "viktor_gyokeres", top: "12%", left: "50%", role: "ST" }
+    ],
+    pressing: [
+      { top: "20%", left: "20%" },
+      { top: "20%", left: "80%" },
+      { top: "12%", left: "50%" },
+      { top: "40%", left: "70%" }
+    ],
+    runs: [
+      { fromLeft: "20%", fromTop: "20%", toLeft: "42%", toTop: "10%" },
+      { fromLeft: "80%", fromTop: "20%", toLeft: "58%", toTop: "10%" }
+    ]
+  },
+  "451": {
+    name: "Potter's Defensive 4-5-1",
+    briefing: "<strong>Potter's Briefing:</strong> Extremely compact defensively, restricting space between the lines. Ideal for protecting leads against heavyweights like the Netherlands. Midfield line of five slides horizontally to block passing lanes.",
+    lineup: [
+      { id: "viktor_johansson", top: "85%", left: "50%", role: "GK" },
+      { id: "daniel_svensson", top: "67%", left: "15%", role: "LB" },
+      { id: "victor_lindelof", top: "68%", left: "37%", role: "LCB" },
+      { id: "isak_hien", top: "68%", left: "63%", role: "RCB" },
+      { id: "emil_holm", top: "67%", left: "85%", role: "RB" },
+      { id: "ken_sema", top: "45%", left: "15%", role: "LM" },
+      { id: "mattias_svanberg", top: "48%", left: "35%", role: "LCM" },
+      { id: "jesper_karlstrom", top: "50%", left: "50%", role: "DM" },
+      { id: "yasin_ayari", top: "48%", left: "65%", role: "RCM" },
+      { id: "taha_ali", top: "45%", left: "85%", role: "RM" },
+      { id: "viktor_gyokeres", top: "15%", left: "50%", role: "ST" }
+    ],
+    pressing: [
+      { top: "50%", left: "50%" },
+      { top: "48%", left: "35%" },
+      { top: "48%", left: "65%" }
+    ],
+    runs: [
+      { fromLeft: "85%", fromTop: "45%", toLeft: "70%", toTop: "25%" },
+      { fromLeft: "15%", fromTop: "45%", toLeft: "30%", toTop: "25%" }
+    ]
+  }
+};
+
+let ACTIVE_FORMATION = "3421";
+
+// Live Match Simulator Engine Variables
+let simInterval = null;
+let simTime = 0;
+let simSpeed = 150; // default 150ms per minute
+let currentSimMatchId = "";
+let simPossession = 50;
+let simShotsSwe = 0;
+let simShotsOpp = 0;
+let simCornersSwe = 0;
+let simCornersOpp = 0;
+let simFoulsSwe = 0;
+let simFoulsOpp = 0;
+let simScoreSwe = 0;
+let simScoreOpp = 0;
+
 function initApp() {
   audioPlayer = new Audio();
   audioPlayer.preload = "auto";
@@ -1135,6 +1457,7 @@ function initApp() {
   renderLockerChat();
   renderMusicPlayer();
   renderMatchCenter();
+  initScoutRoom();
   setupEventListeners();
 
   setInterval(() => {
@@ -1311,41 +1634,141 @@ function renderPlayerGrid(playerList) {
   });
 }
 
-// Render tactical pitch positions
+// Render tactical pitch positions with smooth coordinate animations
 function renderTacticalPitch() {
   const pitch = document.getElementById("tactical-pitch-inner");
   if (!pitch) return;
 
-  pitch.innerHTML = "";
-  const lineup = [
-    { id: "viktor_johansson", top: "85%", left: "50%", role: "GK" },
-    { id: "isak_hien", top: "67%", left: "50%", role: "CB" },
-    { id: "victor_lindelof", top: "67%", left: "25%", role: "LCB" },
-    { id: "carl_starfelt", top: "67%", left: "75%", role: "RCB" },
-    { id: "emil_holm", top: "45%", left: "90%", role: "RWB" },
-    { id: "mattias_svanberg", top: "48%", left: "37%", role: "LDM" },
-    { id: "yasin_ayari", top: "48%", left: "63%", role: "RDM" },
-    { id: "gabriel_gudmundsson", top: "45%", left: "10%", role: "LWB" },
-    { id: "lucas_bergvall", top: "28%", left: "33%", role: "LAM" },
-    { id: "alexander_isak", top: "28%", left: "67%", role: "RAM" },
-    { id: "viktor_gyokeres", top: "12%", left: "50%", role: "ST" }
-  ];
+  const formation = FORMATIONS[ACTIVE_FORMATION];
+  
+  // Update pitch title
+  const pitchTitle = document.getElementById("tactical-pitch-title");
+  if (pitchTitle) {
+    pitchTitle.innerHTML = `<i class="fas fa-chess-board"></i> ${formation.name}`;
+  }
 
-  lineup.forEach(item => {
+  // Update briefing box
+  const briefingBox = document.getElementById("whiteboard-briefing-box");
+  if (briefingBox) {
+    briefingBox.innerHTML = formation.briefing;
+  }
+
+  // Get current active player nodes in the DOM
+  const existingNodes = pitch.querySelectorAll(".pitch-player-node");
+  const existingIds = Array.from(existingNodes).map(node => node.getAttribute("data-player-id"));
+
+  const targetLineup = formation.lineup;
+  const targetIds = targetLineup.map(item => item.id);
+
+  // Hide or remove nodes that are not in the new lineup
+  existingNodes.forEach(node => {
+    const id = node.getAttribute("data-player-id");
+    if (!targetIds.includes(id)) {
+      node.style.opacity = "0";
+      node.style.pointerEvents = "none";
+      setTimeout(() => {
+        if (node.parentNode === pitch && !FORMATIONS[ACTIVE_FORMATION].lineup.map(x=>x.id).includes(id)) {
+          node.style.display = "none";
+        }
+      }, 600);
+    }
+  });
+
+  // Position or create nodes in the new lineup
+  targetLineup.forEach(item => {
     const player = PLAYERS.find(p => p.id === item.id);
     if (!player) return;
 
-    const node = document.createElement("div");
-    node.className = "pitch-player-node";
-    node.style.top = item.top;
-    node.style.left = item.left;
-    node.innerHTML = `
-      <div class="jersey-node">${player.number}</div>
-      <div class="node-name">${player.name.split(" ").pop()}</div>
-    `;
-    node.addEventListener("click", () => openPlayerModal(player.id));
-    pitch.appendChild(node);
+    let node = pitch.querySelector(`.pitch-player-node[data-player-id="${item.id}"]`);
+    
+    if (!node) {
+      // Create new node
+      node = document.createElement("div");
+      node.className = "pitch-player-node";
+      node.style.transition = "top 0.6s cubic-bezier(0.25, 0.8, 0.25, 1), left 0.6s cubic-bezier(0.25, 0.8, 0.25, 1), opacity 0.4s ease";
+      node.setAttribute("data-player-id", item.id);
+      node.innerHTML = `
+        <div class="jersey-node">${player.number}</div>
+        <div class="node-name">${player.name.split(" ").pop()}</div>
+      `;
+      node.addEventListener("click", () => openPlayerModal(player.id));
+      pitch.appendChild(node);
+      
+      // Set initial position (instant)
+      node.style.top = item.top;
+      node.style.left = item.left;
+      node.style.opacity = "0";
+      node.style.display = "flex";
+      
+      // Trigger fade in
+      setTimeout(() => {
+        node.style.opacity = "1";
+      }, 50);
+    } else {
+      // Node exists, make sure it is visible and animate position
+      node.style.display = "flex";
+      node.style.pointerEvents = "auto";
+      setTimeout(() => {
+        node.style.top = item.top;
+        node.style.left = item.left;
+        node.style.opacity = "1";
+      }, 20);
+    }
   });
+
+  // Render Overlays (Pressing Zones & Run Arrows)
+  renderTacticalOverlays();
+}
+
+function renderTacticalOverlays() {
+  const pitch = document.getElementById("tactical-pitch-inner");
+  if (!pitch) return;
+
+  // Clear existing overlays
+  pitch.querySelectorAll(".pressing-zone, .tactical-run-arrow").forEach(el => el.remove());
+
+  const showPressing = document.getElementById("whiteboard-show-pressing")?.checked;
+  const showRuns = document.getElementById("whiteboard-show-runs")?.checked;
+  const formation = FORMATIONS[ACTIVE_FORMATION];
+
+  if (showPressing && formation.pressing) {
+    formation.pressing.forEach(pos => {
+      const zone = document.createElement("div");
+      zone.className = "pressing-zone";
+      zone.style.top = pos.top;
+      zone.style.left = pos.left;
+      pitch.appendChild(zone);
+    });
+  }
+
+  if (showRuns && formation.runs) {
+    const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+    svg.setAttribute("class", "tactical-run-arrow");
+    
+    svg.innerHTML = `
+      <defs>
+        <marker id="run-arrow" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+          <path d="M 0 2 L 10 5 L 0 8 z" fill="var(--sweden-yellow)" />
+        </marker>
+      </defs>
+    `;
+
+    formation.runs.forEach(run => {
+      const path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+      
+      const x1 = parseFloat(run.fromLeft) * 3.8;
+      const y1 = parseFloat(run.fromTop) * 4.8;
+      const x2 = parseFloat(run.toLeft) * 3.8;
+      const y2 = parseFloat(run.toTop) * 4.8;
+
+      path.setAttribute("d", `M ${x1} ${y1} Q ${(x1+x2)/2 - 10} ${(y1+y2)/2 - 10} ${x2} ${y2}`);
+      path.setAttribute("class", "run-path");
+      path.setAttribute("marker-end", "url(#run-arrow)");
+      svg.appendChild(path);
+    });
+
+    pitch.appendChild(svg);
+  }
 }
 
 // Render Match Schedule Timeline
@@ -1581,11 +2004,324 @@ function openPlayerModal(pId) {
   modal.classList.add("active");
 }
 
+// ==========================================================================
+// The Scout Room (Spelarkampen) Interactive Comparison Functions
+// ==========================================================================
+function initScoutRoom() {
+  const p1Select = document.getElementById("scout-player-1");
+  const p2Select = document.getElementById("scout-player-2");
+  if (!p1Select || !p2Select) return;
+
+  const sortedPlayers = [...PLAYERS].sort((a, b) => a.name.localeCompare(b.name));
+  
+  p1Select.innerHTML = sortedPlayers.map(p => `<option value="${p.id}">${p.name} (${p.position})</option>`).join('');
+  p2Select.innerHTML = sortedPlayers.map(p => `<option value="${p.id}">${p.name} (${p.position})</option>`).join('');
+
+  p1Select.value = "alexander_isak";
+  p2Select.value = "viktor_gyokeres";
+
+  renderScoutComparison();
+}
+
+function renderScoutComparison() {
+  const p1Id = document.getElementById("scout-player-1").value;
+  const p2Id = document.getElementById("scout-player-2").value;
+  
+  const p1 = PLAYERS.find(p => p.id === p1Id);
+  const p2 = PLAYERS.find(p => p.id === p2Id);
+  if (!p1 || !p2) return;
+
+  const a1 = SQUAD_ATTRIBUTES[p1Id] || { pac: 75, sho: 70, pas: 72, dri: 73, def: 55, phy: 70 };
+  const a2 = SQUAD_ATTRIBUTES[p2Id] || { pac: 75, sho: 70, pas: 72, dri: 73, def: 55, phy: 70 };
+
+  const stats = [
+    { name: "Pace", key: "pac" },
+    { name: "Shooting", key: "sho" },
+    { name: "Passing", key: "pas" },
+    { name: "Dribbling", key: "dri" },
+    { name: "Defending", key: "def" },
+    { name: "Physicality", key: "phy" }
+  ];
+
+  let p1Wins = 0;
+  let p2Wins = 0;
+  
+  stats.forEach(s => {
+    if (a1[s.key] > a2[s.key]) p1Wins++;
+    else if (a2[s.key] > a1[s.key]) p2Wins++;
+  });
+
+  const card1 = document.getElementById("scout-player-card-1");
+  const card2 = document.getElementById("scout-player-card-2");
+  
+  if (p1Wins > p2Wins) {
+    card1.className = "scout-player-card animate card-pop active-winner";
+    card2.className = "scout-player-card animate card-pop";
+  } else if (p2Wins > p1Wins) {
+    card1.className = "scout-player-card animate card-pop";
+    card2.className = "scout-player-card animate card-pop active-winner";
+  } else {
+    card1.className = "scout-player-card animate card-pop";
+    card2.className = "scout-player-card animate card-pop";
+  }
+
+  card1.innerHTML = `
+    <div class="scout-avatar-big">${p1.avatar}</div>
+    <div style="text-align: center; margin-top: 0.5rem;">
+      <h3 style="color: var(--text-white); margin-bottom: 2px;">${p1.name}</h3>
+      <span class="bullet-tag type-news">${p1.position}</span>
+    </div>
+    <div style="font-size: 0.8rem; color: var(--text-secondary); display: flex; flex-direction: column; gap: 0.4rem; background: rgba(0,0,0,0.25); padding: 0.8rem; border-radius: var(--radius-sm); margin-top: 0.5rem;">
+      <div style="display: flex; justify-content: space-between;"><span>Club:</span><strong style="color:var(--text-white);">${p1.club}</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Age:</span><strong style="color:var(--text-white);">${p1.age} yrs</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Caps/Goals:</span><strong style="color:var(--text-white);">${p1.caps} (${p1.goals} G)</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Overall Rating:</span><strong style="color:var(--sweden-yellow); font-family: monospace;">${p1Wins > p2Wins ? 'WINNER 🏆' : 'Scout Match'}</strong></div>
+    </div>
+  `;
+
+  card2.innerHTML = `
+    <div class="scout-avatar-big">${p2.avatar}</div>
+    <div style="text-align: center; margin-top: 0.5rem;">
+      <h3 style="color: var(--text-white); margin-bottom: 2px;">${p2.name}</h3>
+      <span class="bullet-tag type-blog">${p2.position}</span>
+    </div>
+    <div style="font-size: 0.8rem; color: var(--text-secondary); display: flex; flex-direction: column; gap: 0.4rem; background: rgba(0,0,0,0.25); padding: 0.8rem; border-radius: var(--radius-sm); margin-top: 0.5rem;">
+      <div style="display: flex; justify-content: space-between;"><span>Club:</span><strong style="color:var(--text-white);">${p2.club}</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Age:</span><strong style="color:var(--text-white);">${p2.age} yrs</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Caps/Goals:</span><strong style="color:var(--text-white);">${p2.caps} (${p2.goals} G)</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Overall Rating:</span><strong style="color:var(--sweden-yellow); font-family: monospace;">${p2Wins > p1Wins ? 'WINNER 🏆' : 'Scout Match'}</strong></div>
+    </div>
+  `;
+
+  const barsContainer = document.getElementById("scout-comparison-bars");
+  barsContainer.innerHTML = stats.map(s => {
+    const v1 = a1[s.key];
+    const v2 = a2[s.key];
+    const p1IsWinner = v1 > v2;
+    const p2IsWinner = v2 > v1;
+    
+    return `
+      <div class="scout-stat-bar-container">
+        <div class="scout-stat-label-row">
+          <span class="scout-stat-value p1" style="font-weight:${p1IsWinner ? '800' : '500'};">${v1} ${p1IsWinner ? '<i class="fas fa-crown scout-winner-crown"></i>' : ''}</span>
+          <span class="scout-stat-name">${s.name}</span>
+          <span class="scout-stat-value p2" style="font-weight:${p2IsWinner ? '800' : '500'};">${p2IsWinner ? '<i class="fas fa-crown scout-winner-crown"></i>' : ''} ${v2}</span>
+        </div>
+        <div class="scout-stat-bar-bg">
+          <div class="scout-stat-bar-fill-left" id="bar-fill-l-${s.key}" style="width: 0%; transform: rotate(180deg); transform-origin: right;"></div>
+          <div class="scout-stat-bar-fill-right" id="bar-fill-r-${s.key}" style="width: 0%;"></div>
+        </div>
+      </div>
+    `;
+  }).join('');
+
+  setTimeout(() => {
+    stats.forEach(s => {
+      const fillL = document.getElementById(`bar-fill-l-${s.key}`);
+      const fillR = document.getElementById(`bar-fill-r-${s.key}`);
+      if (fillL) fillL.style.width = `${a1[s.key]}%`;
+      if (fillR) fillR.style.width = `${a2[s.key]}%`;
+    });
+  }, 50);
+}
+
+// ==========================================================================
+// Live Match Day Simulator Engine Core Functions
+// ==========================================================================
+function openMatchSimulator() {
+  const selector = document.getElementById("match-center-selector");
+  if (!selector) return;
+  const matchId = selector.value;
+  currentSimMatchId = matchId;
+  const match = MATCH_SCHEDULE.find(m => m.id === matchId);
+  if (!match) return;
+
+  const modal = document.getElementById("match-simulator-modal");
+  if (!modal) return;
+
+  simTime = 0;
+  simScoreSwe = 0;
+  simScoreOpp = 0;
+  simPossession = 50;
+  simShotsSwe = 0;
+  simShotsOpp = 0;
+  simCornersSwe = 0;
+  simCornersOpp = 0;
+  simFoulsSwe = 0;
+  simFoulsOpp = 0;
+
+  if (simInterval) clearInterval(simInterval);
+  simInterval = null;
+
+  document.getElementById("sim-score-display").textContent = "0 - 0";
+  document.getElementById("sim-opp-flag").textContent = match.opponentFlag;
+  document.getElementById("sim-opp-name").textContent = match.opponent;
+  document.getElementById("sim-clock").textContent = "00:00";
+  
+  const statusPill = document.getElementById("sim-status-pill");
+  statusPill.textContent = "Not Started";
+  statusPill.style.color = "#10B981";
+  statusPill.style.background = "rgba(16,185,129,0.1)";
+
+  document.getElementById("sim-control-play").style.display = "inline-block";
+  document.getElementById("sim-control-pause").style.display = "none";
+  document.getElementById("sim-control-play").innerHTML = '<i class="fas fa-play"></i> Start Match';
+  
+  document.getElementById("sim-stat-poss-swe").textContent = "50";
+  document.getElementById("sim-stat-poss-opp").textContent = "50";
+  document.getElementById("sim-bar-poss-swe").style.width = "50%";
+  document.getElementById("sim-bar-poss-opp").style.width = "50%";
+  document.getElementById("sim-stat-shots").textContent = "0 - 0";
+  document.getElementById("sim-stat-corners").textContent = "0 - 0";
+  document.getElementById("sim-stat-fouls").textContent = "0 - 0";
+
+  const log = document.getElementById("sim-commentary-log");
+  log.innerHTML = `
+    <div class="sim-comment-bubble" style="opacity: 0.8; justify-content: center; border: none; background: transparent;">
+      <span class="sim-comment-text" style="font-weight: 700; color: var(--text-secondary);"><i class="fas fa-info-circle"></i> Ready to begin the match simulation. Click 'Start Match' above.</span>
+    </div>
+  `;
+
+  document.getElementById("sim-modal-footer").style.display = "none";
+  modal.classList.add("active");
+}
+
+function handleSimulatorTick() {
+  if (simTime >= 90) {
+    clearInterval(simInterval);
+    simInterval = null;
+    
+    const statusPill = document.getElementById("sim-status-pill");
+    statusPill.textContent = "Full Time";
+    statusPill.style.color = "#EF4444";
+    statusPill.style.background = "rgba(239,68,68,0.1)";
+
+    document.getElementById("sim-control-play").style.display = "none";
+    document.getElementById("sim-control-pause").style.display = "none";
+    document.getElementById("sim-modal-footer").style.display = "block";
+
+    const forceUnlockCheckbox = document.getElementById("force-unlock-report");
+    if (forceUnlockCheckbox) {
+      forceUnlockCheckbox.checked = true;
+    }
+    renderMatchCenter();
+    return;
+  }
+
+  simTime++;
+  
+  const timeStr = String(simTime).padStart(2, "0") + ":00";
+  document.getElementById("sim-clock").textContent = timeStr;
+
+  simPossession = Math.max(30, Math.min(70, simPossession + (Math.random() > 0.5 ? 2 : -2)));
+  document.getElementById("sim-stat-poss-swe").textContent = simPossession;
+  document.getElementById("sim-stat-poss-opp").textContent = 100 - simPossession;
+  document.getElementById("sim-bar-poss-swe").style.width = `${simPossession}%`;
+  document.getElementById("sim-bar-poss-opp").style.width = `${100 - simPossession}%`;
+
+  if (Math.random() > 0.8) {
+    if (Math.random() > 0.45) simShotsSwe++; else simShotsOpp++;
+    document.getElementById("sim-stat-shots").textContent = `${simShotsSwe} - ${simShotsOpp}`;
+  }
+  if (Math.random() > 0.85) {
+    if (Math.random() > 0.48) simCornersSwe++; else simCornersOpp++;
+    document.getElementById("sim-stat-corners").textContent = `${simCornersSwe} - ${simCornersOpp}`;
+  }
+  if (Math.random() > 0.88) {
+    if (Math.random() > 0.5) simFoulsSwe++; else simFoulsOpp++;
+    document.getElementById("sim-stat-fouls").textContent = `${simFoulsSwe} - ${simFoulsOpp}`;
+  }
+
+  const events = SIMULATION_EVENTS[currentSimMatchId] || [];
+  const event = events.find(e => e.minute === simTime);
+
+  if (event) {
+    let bubbleClass = "";
+    if (event.type === "goal_swe") {
+      bubbleClass = "event-goal";
+      simScoreSwe++;
+      document.getElementById("sim-score-display").textContent = `${simScoreSwe} - ${simScoreOpp}`;
+      
+      let scorer = "Alexander Isak";
+      if (event.text.toLowerCase().includes("gyökeres")) scorer = "Viktor Gyökeres";
+      else if (event.text.toLowerCase().includes("elanga")) scorer = "Anthony Elanga";
+      else if (event.text.toLowerCase().includes("bergvall")) scorer = "Lucas Bergvall";
+      
+      triggerGoalFlashAnimation(scorer, `${simScoreSwe} - ${simScoreOpp}`);
+    } else if (event.type === "goal_opp") {
+      bubbleClass = "event-card-red";
+      simScoreOpp++;
+      document.getElementById("sim-score-display").textContent = `${simScoreSwe} - ${simScoreOpp}`;
+    } else if (event.type === "foul") {
+      bubbleClass = "event-card-yellow";
+    }
+
+    addCommentaryLog(simTime, event.text, bubbleClass);
+  } else {
+    if (Math.random() > 0.88) {
+      const genericCommentary = [
+        "A fierce physical duel in central midfield. Both teams fighting hard for second balls.",
+        "Graham Potter gestures actively from the technical area, demanding quicker ball distribution.",
+        "Sweden is maintaining solid structural discipline, denying passing lanes down the channels.",
+        "Relentless vocal support from the traveling Swedish supporters is echoing through the stadium.",
+        "Possession recycled cleanly down the left flank as Gudmundsson looks for an opening."
+      ];
+      const randomText = genericCommentary[Math.floor(Math.random() * genericCommentary.length)];
+      addCommentaryLog(simTime, randomText, "");
+    }
+  }
+}
+
+function addCommentaryLog(minute, text, bubbleClass) {
+  const log = document.getElementById("sim-commentary-log");
+  if (!log) return;
+
+  const bubble = document.createElement("div");
+  bubble.className = `sim-comment-bubble ${bubbleClass}`;
+  bubble.innerHTML = `
+    <span class="sim-comment-minute">${minute}'</span>
+    <span class="sim-comment-text">${text}</span>
+  `;
+  
+  log.appendChild(bubble);
+  log.scrollTop = log.scrollHeight;
+}
+
+function triggerGoalFlashAnimation(scorer, scoreline) {
+  if (simInterval) {
+    clearInterval(simInterval);
+    simInterval = null;
+  }
+
+  const overlay = document.getElementById("goal-flash-overlay");
+  const scorerEl = document.getElementById("goal-flash-scorer");
+  const scoreEl = document.getElementById("goal-flash-score");
+
+  if (overlay && scorerEl && scoreEl) {
+    scorerEl.textContent = `${scorer} scores!`;
+    scoreEl.textContent = `Sverige ${scoreline}`;
+    document.body.classList.add("goal-flash-active");
+    
+    setTimeout(() => {
+      document.body.classList.remove("goal-flash-active");
+      if (document.getElementById("sim-control-pause").style.display === "inline-block") {
+        simInterval = setInterval(handleSimulatorTick, simSpeed);
+      }
+    }, 2800);
+  }
+}
+
 // Setup Event Handlers
 function setupEventListeners() {
   document.querySelectorAll(".modal-close, .modal-backdrop").forEach(el => {
     el.addEventListener("click", () => {
       document.querySelectorAll(".modal-overlay").forEach(m => m.classList.remove("active"));
+      if (simInterval) {
+        clearInterval(simInterval);
+        simInterval = null;
+        document.getElementById("sim-control-play").style.display = "inline-block";
+        document.getElementById("sim-control-pause").style.display = "none";
+      }
     });
   });
 
@@ -1696,6 +2432,120 @@ function setupEventListeners() {
   }
   if (forceUnlockReport) {
     forceUnlockReport.addEventListener("change", renderMatchCenter);
+  }
+
+  // Tactical Whiteboard Events
+  const tab3421 = document.getElementById("whiteboard-tab-3421");
+  const tab433 = document.getElementById("whiteboard-tab-433");
+  const tab451 = document.getElementById("whiteboard-tab-451");
+
+  if (tab3421 && tab433 && tab451) {
+    tab3421.addEventListener("click", () => {
+      tab433.classList.remove("active");
+      tab451.classList.remove("active");
+      tab3421.classList.add("active");
+      ACTIVE_FORMATION = "3421";
+      renderTacticalPitch();
+    });
+
+    tab433.addEventListener("click", () => {
+      tab3421.classList.remove("active");
+      tab451.classList.remove("active");
+      tab433.classList.add("active");
+      ACTIVE_FORMATION = "433";
+      renderTacticalPitch();
+    });
+
+    tab451.addEventListener("click", () => {
+      tab3421.classList.remove("active");
+      tab433.classList.remove("active");
+      tab451.classList.add("active");
+      ACTIVE_FORMATION = "451";
+      renderTacticalPitch();
+    });
+  }
+
+  const overlayPressing = document.getElementById("whiteboard-show-pressing");
+  const overlayRuns = document.getElementById("whiteboard-show-runs");
+  
+  if (overlayPressing) {
+    overlayPressing.addEventListener("change", renderTacticalOverlays);
+  }
+  if (overlayRuns) {
+    overlayRuns.addEventListener("change", renderTacticalOverlays);
+  }
+
+  // Scout Room select changes
+  const scoutP1 = document.getElementById("scout-player-1");
+  const scoutP2 = document.getElementById("scout-player-2");
+
+  if (scoutP1 && scoutP2) {
+    scoutP1.addEventListener("change", renderScoutComparison);
+    scoutP2.addEventListener("change", renderScoutComparison);
+  }
+
+  // Match Simulator Trigger Events
+  const simulateBtn = document.getElementById("match-center-simulate-btn");
+  if (simulateBtn) {
+    simulateBtn.addEventListener("click", openMatchSimulator);
+  }
+
+  const playSim = document.getElementById("sim-control-play");
+  const pauseSim = document.getElementById("sim-control-pause");
+  
+  if (playSim && pauseSim) {
+    playSim.addEventListener("click", () => {
+      const statusPill = document.getElementById("sim-status-pill");
+      statusPill.textContent = "Live";
+      statusPill.style.color = "#FECC00";
+      statusPill.style.background = "rgba(254,204,0,0.1)";
+
+      playSim.style.display = "none";
+      pauseSim.style.display = "inline-block";
+      pauseSim.innerHTML = '<i class="fas fa-pause"></i> Pause';
+
+      if (simInterval) clearInterval(simInterval);
+      simInterval = setInterval(handleSimulatorTick, simSpeed);
+    });
+
+    pauseSim.addEventListener("click", () => {
+      const statusPill = document.getElementById("sim-status-pill");
+      statusPill.textContent = "Paused";
+      statusPill.style.color = "#9CA3AF";
+      statusPill.style.background = "rgba(156,163,175,0.1)";
+
+      pauseSim.style.display = "none";
+      playSim.style.display = "inline-block";
+      playSim.innerHTML = '<i class="fas fa-play"></i> Resume';
+
+      if (simInterval) {
+        clearInterval(simInterval);
+        simInterval = null;
+      }
+    });
+  }
+
+  const speedSelect = document.getElementById("sim-speed-select");
+  if (speedSelect) {
+    speedSelect.addEventListener("change", (e) => {
+      simSpeed = Number(e.target.value);
+      if (simInterval) {
+        clearInterval(simInterval);
+        simInterval = setInterval(handleSimulatorTick, simSpeed);
+      }
+    });
+  }
+
+  const viewReportBtn = document.getElementById("sim-btn-view-report");
+  if (viewReportBtn) {
+    viewReportBtn.addEventListener("click", () => {
+      document.getElementById("match-simulator-modal").classList.remove("active");
+      const matchCenter = document.getElementById("match-center-card");
+      if (matchCenter) {
+        matchCenter.scrollIntoView({ behavior: "smooth" });
+      }
+      renderMatchCenter();
+    });
   }
 }
 
