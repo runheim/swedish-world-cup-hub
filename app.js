@@ -385,12 +385,12 @@ const TIMELINE_DATABASE = {
   "2026-05-21": {
     1: {
       timeLabel: "07:00",
-      name: "Frukost Rapport (Breakfast Camp Report)",
+      name: "Breakfast Camp Report",
       articles: [
         {
           id: "art_21_1_1",
           category: "sweden",
-          type: "Nyheter",
+          type: "News",
           title: "Potter's staff inspects Bosön training facilities ahead of May 27 gather",
           bullets: [
             "Coaching assistants tour Stockholm's elite national training complex.",
@@ -407,12 +407,12 @@ const TIMELINE_DATABASE = {
     },
     2: {
       timeLabel: "11:00",
-      name: "Presskonferens (Graham Potter Press Briefing)",
+      name: "Press Briefing",
       articles: [
         {
           id: "art_21_2_1",
           category: "sweden",
-          type: "Nyheter",
+          type: "News",
           title: "Sweden FA confirms ticketing details and safety plan for Norway warmup in Oslo",
           bullets: [
             "Ticketing portal opens for the highly anticipated friendly at Ullevaal Stadion.",
@@ -429,12 +429,12 @@ const TIMELINE_DATABASE = {
     },
     3: {
       timeLabel: "14:30",
-      name: "Träningspass (Afternoon Workouts)",
+      name: "Afternoon Workouts",
       articles: [
         {
           id: "art_21_3_1",
           category: "sweden",
-          type: "Blogg",
+          type: "Blog",
           title: "Viktor Gyökeres maintains elite gym drills at Arsenal training facility",
           bullets: [
             "Prolific forward logs individual weight lifting routines in London.",
@@ -451,7 +451,7 @@ const TIMELINE_DATABASE = {
     },
     4: {
       timeLabel: "18:00",
-      name: "Taktik & Analys (Scouting Update)",
+      name: "Scouting Update",
       articles: [
         {
           id: "art_21_4_1",
@@ -473,12 +473,12 @@ const TIMELINE_DATABASE = {
     },
     5: {
       timeLabel: "21:30",
-      name: "Kvällssnack (Late Night Camp Diary)",
+      name: "Late Night Camp Diary",
       articles: [
         {
           id: "art_21_5_1",
           category: "sweden",
-          type: "Blogg",
+          type: "Blog",
           title: "Player Blog: Emil Holm on packing bags and heading home to Gothenburg",
           bullets: [
             "Juventus wing-back shares photos of his flight luggage and travel ticket.",
@@ -497,12 +497,12 @@ const TIMELINE_DATABASE = {
   "2026-05-22": {
     1: {
       timeLabel: "07:00",
-      name: "Frukost Rapport (Breakfast Camp Report)",
+      name: "Breakfast Camp Report",
       articles: [
         {
           id: "art_22_1_1",
           category: "sweden",
-          type: "Krönika",
+          type: "Column",
           title: "Lundh's Column: Why the May 25 release deadline is crucial for Potter's team synergy",
           bullets: [
             "FIFA's mandatory player release deadline begins on Monday, May 25.",
@@ -519,12 +519,12 @@ const TIMELINE_DATABASE = {
     },
     2: {
       timeLabel: "11:00",
-      name: "Presskonferens (Graham Potter Press Briefing)",
+      name: "Press Briefing",
       articles: [
         {
           id: "art_22_2_1",
           category: "sweden",
-          type: "Nyheter",
+          type: "News",
           title: "Potter outlines Stockholm pre-camp objectives: 'It is about rhythm and physical loading'",
           bullets: [
             "Graham Potter outlines exact daily workloads for the Stockholm gathering.",
@@ -541,12 +541,12 @@ const TIMELINE_DATABASE = {
     },
     3: {
       timeLabel: "14:30",
-      name: "Träningspass (Afternoon Workouts)",
+      name: "Afternoon Workouts",
       articles: [
         {
           id: "art_22_3_1",
           category: "sweden",
-          type: "Blogg",
+          type: "Blog",
           title: "Alexander Isak completes final individual agility drills in Liverpool",
           bullets: [
             "Liverpool striker shares a training log from his local pitch workouts.",
@@ -563,7 +563,7 @@ const TIMELINE_DATABASE = {
     },
     4: {
       timeLabel: "18:00",
-      name: "Taktik & Analys (Scouting Update)",
+      name: "Scouting Update",
       articles: [
         {
           id: "art_22_4_1",
@@ -585,12 +585,12 @@ const TIMELINE_DATABASE = {
     },
     5: {
       timeLabel: "21:30",
-      name: "Kvällssnack (Late Night Camp Diary)",
+      name: "Late Night Camp Diary",
       articles: [
         {
           id: "art_22_5_1",
           category: "sweden",
-          type: "Blogg",
+          type: "Blog",
           title: "Tottenham starlet Lucas Bergvall: 'Playing a World Cup at 20 is a dream I am ready for'",
           bullets: [
             "Bergvall shares a late-night travel diary entry regarding his emotions.",
@@ -609,12 +609,12 @@ const TIMELINE_DATABASE = {
   "2026-05-23": {
     1: {
       timeLabel: "07:00",
-      name: "Frukost Rapport (Breakfast Camp Report)",
+      name: "Breakfast Camp Report",
       articles: [
         {
           id: "art_23_1_1",
           category: "sweden",
-          type: "Nyheter",
+          type: "News",
           title: "Sweden media desk gears up for Stockholm media blitz starting May 27",
           bullets: [
             "Swedish FA's press crew arrives in Stockholm to build team media center.",
@@ -647,12 +647,12 @@ const TIMELINE_DATABASE = {
     },
     2: {
       timeLabel: "11:00",
-      name: "Presskonferens (Graham Potter Press Briefing)",
+      name: "Press Briefing",
       articles: [
         {
           id: "art_23_2_1",
           category: "sweden",
-          type: "Nyheter",
+          type: "News",
           title: "Potter's finalized pre-tournament agenda: Stockholm to Dallas timeline published",
           bullets: [
             "Svenska FA publishes the detailed chronological itinerary for the final phase.",
@@ -669,12 +669,12 @@ const TIMELINE_DATABASE = {
     },
     3: {
       timeLabel: "14:30",
-      name: "Träningspass (Afternoon Workouts)",
+      name: "Afternoon Workouts",
       articles: [
         {
           id: "art_23_3_1",
           category: "sweden",
-          type: "Blogg",
+          type: "Blog",
           title: "Carl Starfelt completes ankle rehab, cleared for full practice at Bosön",
           bullets: [
             "Celta Vigo defender Starfelt completes final ankle muscle-load courses.",
@@ -691,7 +691,7 @@ const TIMELINE_DATABASE = {
     },
     4: {
       timeLabel: "18:00",
-      name: "Taktik & Analys (Scouting Update)",
+      name: "Scouting Update",
       articles: [
         {
           id: "art_23_4_1",
@@ -713,12 +713,12 @@ const TIMELINE_DATABASE = {
     },
     5: {
       timeLabel: "21:30",
-      name: "Kvällssnack (Late Night Camp Diary)",
+      name: "Late Night Camp Diary",
       articles: [
         {
           id: "art_23_5_1",
           category: "sweden",
-          type: "Blogg",
+          type: "Blog",
           title: "Captain Victor Lindelöf: 'The suitcases are packed; Stockholm, see you on Wednesday'",
           bullets: [
             "Aston Villa defender shares photos of his travel luggage on social media.",
@@ -743,60 +743,60 @@ const MATCH_SCHEDULE = [
     type: "warmup",
     date: "2026-06-01",
     time: "19:00",
-    opponent: "Norge",
+    opponent: "Norway",
     opponentFlag: "🇳🇴",
     venue: "Ullevaal Stadion, Oslo",
-    details: "Skandinaviskt klassiskt derby som fungerar som förbundskapten Graham Potters första stora taktiska test inför avresan till USA."
+    details: "A classic Scandinavian derby serving as manager Graham Potter's first major tactical test before departing for the USA."
   },
   {
     id: "match_tunisia",
     type: "worldcup",
     date: "2026-06-14",
-    time: "20:00 (Mexikotid)", // 10:00 p.m. ET is 8:00 p.m. local Monterrey time (CST)
-    opponent: "Tunisien",
+    time: "20:00 (Monterrey Time)", // 10:00 p.m. ET is 8:00 p.m. local Monterrey time (CST)
+    opponent: "Tunisia",
     opponentFlag: "🇹🇳",
-    venue: "Estadio Monterrey, Mexiko",
-    details: "VM-premiär i Grupp F! Sverige förväntas möta ett extremt disciplinerat, defensivt Tunisien i Monterrey."
+    venue: "Estadio Monterrey, Mexico",
+    details: "World Cup Group F Opener! Sweden is expected to face an extremely disciplined, defensive Tunisia in Monterrey."
   },
   {
     id: "match_netherlands",
     type: "worldcup",
     date: "2026-06-20",
-    time: "12:00 (Texastid)", // 1:00 p.m. ET is 12:00 p.m. local Houston time (CST)
-    opponent: "Nederländerna",
+    time: "12:00 (Houston Time)", // 1:00 p.m. ET is 12:00 p.m. local Houston time (CST)
+    opponent: "Netherlands",
     opponentFlag: "🇳🇱",
     venue: "Houston Stadium, Texas",
-    details: "En riktig tungviktsdrabbning i Houston som kan bli helt avgörande för gruppsegern."
+    details: "A massive heavyweight clash in Houston that could decide the top spot of the group."
   },
   {
     id: "match_japan",
     type: "worldcup",
     date: "2026-06-25",
-    time: "18:00 (Texastid)", // 7:00 p.m. ET is 6:00 p.m. local Dallas time (CST)
+    time: "18:00 (Dallas Time)", // 7:00 p.m. ET is 6:00 p.m. local Dallas time (CST)
     opponent: "Japan",
     opponentFlag: "🇯🇵",
     venue: "Dallas Stadium, Texas",
-    details: "Tredje gruppspelsmatchen. En intensiv kamp mot ett taktiskt skickligt, löpstarkt och snabbt Japan lett av Hajime Moriyasu."
+    details: "Third group stage match. An intense battle against a highly tactical, high-stamina, and fast Japan side under Hajime Moriyasu."
   }
 ];
 
 // 4. Locker Room Chat Messages Database (Pre-Camp Banter)
 const CHAT_MESSAGES = [
-  { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Tja grabbar! Dags att ladda inför onsdag! Packningen klar?", time: "10:15", isCaptain: true },
-  { sender: "Emil Holm", avatar: "🇸🇪", text: "Japp! Väskorna är fullproppade. Tar med mig Allsvenskans bästa fika upp till Stockholm på onsdag! 🇸🇪☕", time: "10:18" },
-  { sender: "Viktor Gyökeres", avatar: "🇸🇪", text: "Spara lite fika till oss anfallare, Emil! Körde sista tunga fyspasset här på Arsenals gym idag. Känner mig galet ready.", time: "10:22" },
-  { sender: "Alexander Isak", avatar: "🇸🇪", text: "Samma här i Liverpool. Kroppen känns 100%. Lucas, se till att du inte glömmer passet den här gången! 😂", time: "10:25" },
-  { sender: "Lucas Bergvall", avatar: "🇸🇪", text: "Men hallå! Det var en gång, Alex! 🙄 Har kollat passet tre gånger nu. Ska bli sjukt kul att köra igång med Potters spelsystem på Bosön.", time: "10:28" },
-  { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Grymt fokus. Kom ihåg, samling på hotellet kl 10:00 på onsdag den 27:e. Vi gör detta tillsammans, hela vägen! 🇸🇪💪", time: "10:31", isCaptain: true }
+  { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Hey boys! Time to get ready for Wednesday! Packing all done?", time: "10:15", isCaptain: true },
+  { sender: "Emil Holm", avatar: "🇸🇪", text: "Yep! Bags are packed. Bringing the best fika up to Stockholm on Wednesday! 🇸🇪☕", time: "10:18" },
+  { sender: "Viktor Gyökeres", avatar: "🇸🇪", text: "Save some fika for us forwards, Emil! Finished my last heavy gym session at Arsenal today. Feeling crazy ready.", time: "10:22" },
+  { sender: "Alexander Isak", avatar: "🇸🇪", text: "Same here in Liverpool. Body feels 100%. Lucas, make sure you don't forget your passport this time! 😂", time: "10:25" },
+  { sender: "Lucas Bergvall", avatar: "🇸🇪", text: "Oh come on, that was one time, Alex! 🙄 Checked my passport three times now. Can't wait to get started with Potter's system at Bosön.", time: "10:28" },
+  { sender: "Victor Lindelöf", avatar: "🇸🇪", text: "Great focus. Remember, gathering at the hotel at 10:00 on Wednesday the 27th. We do this together, all the way! 🇸🇪💪", time: "10:31", isCaptain: true }
 ];
 
 // 5. Locker Room Music Playlist Data (With real-world Swedish songs & Spotify Links)
 const PLAYLIST = [
-  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Klassiker", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", spotifyUrl: "https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71" },
-  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Laddning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", spotifyUrl: "https://open.spotify.com/track/7lQW7v5w8Yg7zJgU7mS1aU" },
-  { title: "In med bollen i mål", artist: "Markoolio", duration: "3:20", category: "Laddning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3", spotifyUrl: "https://open.spotify.com/search/Markoolio%20In%20med%20bollen%20i%20mål" },
-  { title: "Sverige", artist: "Kent", duration: "4:01", category: "Stämning", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", spotifyUrl: "https://open.spotify.com/search/Kent%20Sverige" },
-  { title: "Explodera", artist: "Staffan Hellstrand", duration: "3:30", category: "Klassiker", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3", spotifyUrl: "https://open.spotify.com/search/Staffan%20Hellstrand%20Explodera" }
+  { title: "När vi gräver guld i USA", artist: "GES", duration: "4:02", category: "Classic", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3", spotifyUrl: "https://open.spotify.com/track/3iAJRvvn8pywXZtvBNNP71" },
+  { title: "Mera Mål", artist: "Markoolio", duration: "3:45", category: "Hype", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3", spotifyUrl: "https://open.spotify.com/track/7lQW7v5w8Yg7zJgU7mS1aU" },
+  { title: "In med bollen i mål", artist: "Markoolio", duration: "3:20", category: "Hype", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3", spotifyUrl: "https://open.spotify.com/search/Markoolio%20In%20med%20bollen%20i%20mål" },
+  { title: "Sverige", artist: "Kent", duration: "4:01", category: "Atmosphere", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3", spotifyUrl: "https://open.spotify.com/search/Kent%20Sverige" },
+  { title: "Explodera", artist: "Staffan Hellstrand", duration: "3:30", category: "Classic", audioUrl: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3", spotifyUrl: "https://open.spotify.com/search/Staffan%20Hellstrand%20Explodera" }
 ];
 
 let currentTrackIndex = 0;
@@ -951,8 +951,8 @@ function updateNewsDashboard() {
     dateSection.className = "timeline-date-section animated fade-in";
     
     let displayDateLabel = dateStr;
-    if (dateStr === "2026-05-23") displayDateLabel = "Idag (" + dateStr + ")";
-    else if (dateStr === "2026-05-22") displayDateLabel = "Igår (" + dateStr + ")";
+    if (dateStr === "2026-05-23") displayDateLabel = "Today (" + dateStr + ")";
+    else if (dateStr === "2026-05-22") displayDateLabel = "Yesterday (" + dateStr + ")";
     
     dateSection.innerHTML = `
       <div class="timeline-date-header">
@@ -994,9 +994,9 @@ function updateNewsDashboard() {
         const stamp = generateTimelineTimestamp(dateStr, update.timeLabel);
 
         let typeClass = "type-news";
-        if (article.type === "Blogg") typeClass = "type-blog";
-        else if (article.type === "Analys") typeClass = "type-analysis";
-        else if (article.type === "Krönika") typeClass = "type-column";
+        if (article.type === "Blog") typeClass = "type-blog";
+        else if (article.type === "Analysis") typeClass = "type-analysis";
+        else if (article.type === "Column") typeClass = "type-column";
         else if (article.type === "Scouting") typeClass = "type-scout";
 
         li.innerHTML = `
@@ -1052,14 +1052,14 @@ function tickCountdown() {
   const timeEl = document.getElementById("next-update-time");
   
   if (labelEl && timeEl) {
-    labelEl.textContent = `Nästa: ${countdown.label} (${countdown.timeStr})`;
+    labelEl.textContent = `Next: ${countdown.label} (${countdown.timeStr})`;
     
     const hStr = String(countdown.hours).padStart(2, "0");
     const mStr = String(countdown.minutes).padStart(2, "0");
     const sStr = String(countdown.seconds).padStart(2, "0");
     
     timeEl.innerHTML = `
-      <span class="time-box">${hStr}t</span>
+      <span class="time-box">${hStr}h</span>
       <span class="time-separator">:</span>
       <span class="time-box">${mStr}m</span>
       <span class="time-separator">:</span>
@@ -1086,11 +1086,11 @@ function renderPlayerGrid(playerList) {
         <p class="player-card-pos">${player.position}</p>
         <div class="player-card-meta">
           <span><i class="fas fa-tshirt"></i> ${player.club}</span>
-          <span><i class="fas fa-birthday-cake"></i> ${player.age} år</span>
+          <span><i class="fas fa-birthday-cake"></i> ${player.age} yrs</span>
         </div>
         <div class="player-card-caps">
-          <span>Landskamper: <strong>${player.caps}</strong></span>
-          <span>Mål: <strong>${player.goals}</strong></span>
+          <span>Caps: <strong>${player.caps}</strong></span>
+          <span>Goals: <strong>${player.goals}</strong></span>
         </div>
         <div class="player-status-badge status-${player.status.toLowerCase()}">
           ${player.status}
@@ -1153,11 +1153,11 @@ function renderMatchSchedule() {
     item.innerHTML = `
       <div class="schedule-dot-indicator"></div>
       <div class="schedule-item-header">
-        <span class="match-badge">${isWarmup ? 'VÄNSKAPSMATCH' : 'FOTBOLLS-VM'}</span>
-        <span class="match-date-stamp"><i class="far fa-calendar-alt"></i> ${match.date} kl. ${match.time}</span>
+        <span class="match-badge">${isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP'}</span>
+        <span class="match-date-stamp"><i class="far fa-calendar-alt"></i> ${match.date} at ${match.time}</span>
       </div>
       <div class="schedule-item-body">
-        <h3 class="match-pairing">Sverige <span class="flag-vs">🇸🇪</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
+        <h3 class="match-pairing">Sweden <span class="flag-vs">🇸🇪</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
         <p class="match-venue"><i class="fas fa-map-marker-alt"></i> ${match.venue}</p>
         <p class="match-info-desc">${match.details}</p>
       </div>
@@ -1180,7 +1180,7 @@ function renderLockerChat() {
       <div class="chat-bubble-avatar">${msg.avatar}</div>
       <div class="chat-bubble-content">
         <div class="chat-bubble-meta">
-          <span class="chat-sender-name">${msg.sender} ${msg.isCaptain ? '<span class="captain-badge">Lagkapten</span>' : ''}</span>
+          <span class="chat-sender-name">${msg.sender} ${msg.isCaptain ? '<span class="captain-badge">Captain</span>' : ''}</span>
           <span class="chat-bubble-time">${msg.time}</span>
         </div>
         <div class="chat-bubble-text">${msg.text}</div>
@@ -1206,7 +1206,7 @@ function renderMusicPlayer() {
   const track = PLAYLIST[currentTrackIndex];
   songTitle.textContent = track.title;
   artist.textContent = `${track.artist} (${track.category})`;
-  songCount.textContent = `Låt ${currentTrackIndex + 1} av ${PLAYLIST.length}`;
+  songCount.textContent = `Song ${currentTrackIndex + 1} of ${PLAYLIST.length}`;
 
   if (spotifyLink) {
     spotifyLink.setAttribute("href", track.spotifyUrl);
@@ -1292,7 +1292,7 @@ function openArticleModal(artId) {
   if (article.relatedPlayers && article.relatedPlayers.length > 0) {
     const label = document.createElement("span");
     label.className = "related-label";
-    label.textContent = "Profilerade Spelare: ";
+    label.textContent = "Profiled Players: ";
     playersContainer.appendChild(label);
 
     article.relatedPlayers.forEach(pId => {
@@ -1333,9 +1333,9 @@ function openPlayerModal(pId) {
   name.innerHTML = `${player.name} <span class="modal-jersey-pill">#${player.number}</span>`;
   meta.innerHTML = `
     <span><strong>Position:</strong> ${player.position}</span>
-    <span><strong>Klubb:</strong> ${player.club}</span>
-    <span><strong>Ålder:</strong> ${player.age} år</span>
-    <span><strong>Landskamper:</strong> ${player.caps} (${player.goals} mål)</span>
+    <span><strong>Club:</strong> ${player.club}</span>
+    <span><strong>Age:</strong> ${player.age} yrs</span>
+    <span><strong>Caps:</strong> ${player.caps} (${player.goals} goals)</span>
   `;
 
   bio.textContent = player.bio;
@@ -1343,22 +1343,22 @@ function openPlayerModal(pId) {
   statBox.innerHTML = "";
   for (const [key, value] of Object.entries(player.stats)) {
     let cleanKey = key;
-    if (key === "saves") cleanKey = "Räddningar";
-    else if (key === "cleanSheets") cleanKey = "Hållna nollor";
-    else if (key === "passAccuracy") cleanKey = "Passningssäkerhet";
-    else if (key === "tackles") cleanKey = "Tacklingar";
-    else if (key === "interceptions") cleanKey = "Brytningar";
-    else if (key === "crosses") cleanKey = "Inlägg";
-    else if (key === "assists") cleanKey = "Målgivande pass";
-    else if (key === "longBalls") cleanKey = "Långbollar";
-    else if (key === "blocks") cleanKey = "Skottblockeringar";
-    else if (key === "dribblesSuccess") cleanKey = "Dribblingar (%)";
-    else if (key === "keyPasses") cleanKey = "Nyckelpassningar";
-    else if (key === "goals") cleanKey = "Mål";
-    else if (key === "shots") cleanKey = "Skott";
-    else if (key === "distanceCovered") cleanKey = "Löpsträcka";
-    else if (key === "topSpeed") cleanKey = "Topphastighet";
-    else if (key === "aerialDuelsWon") cleanKey = "Luftdueller (%)";
+    if (key === "saves") cleanKey = "Saves";
+    else if (key === "cleanSheets") cleanKey = "Clean Sheets";
+    else if (key === "passAccuracy") cleanKey = "Pass Accuracy";
+    else if (key === "tackles") cleanKey = "Tackles";
+    else if (key === "interceptions") cleanKey = "Interceptions";
+    else if (key === "crosses") cleanKey = "Crosses";
+    else if (key === "assists") cleanKey = "Assists";
+    else if (key === "longBalls") cleanKey = "Long Balls";
+    else if (key === "blocks") cleanKey = "Blocks";
+    else if (key === "dribblesSuccess") cleanKey = "Dribbles (%)";
+    else if (key === "keyPasses") cleanKey = "Key Passes";
+    else if (key === "goals") cleanKey = "Goals";
+    else if (key === "shots") cleanKey = "Shots";
+    else if (key === "distanceCovered") cleanKey = "Distance Covered";
+    else if (key === "topSpeed") cleanKey = "Top Speed";
+    else if (key === "aerialDuelsWon") cleanKey = "Aerial Duels (%)";
 
     const box = document.createElement("div");
     box.className = "stat-metric-card";

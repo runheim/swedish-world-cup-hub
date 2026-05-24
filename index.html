@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="sv">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sveriges VM-Trupp 2026 - Nyheter & Roster Hub</title>
-  <meta name="description" content="Följ Sveriges landslag under fotbolls-VM 2026. Liveuppdateringar 5 gånger per dag, interaktiv spelartrupp under förbundskapten Graham Potter.">
+  <title>Sweden 2026 World Cup Hub - News & Roster</title>
+  <meta name="description" content="Follow the Swedish National Soccer Team's 2026 FIFA World Cup campaign. Live updates 5 times a day, interactive roster directory under manager Graham Potter.">
   
   <!-- FontAwesome Icons & Stylesheet -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -21,16 +21,16 @@
       <div class="brand-section">
         <div class="crest-logo" id="portal-crest">🇸🇪</div>
         <div class="brand-text">
-          <h1>Sverige VM 2026</h1>
+          <h1>Sweden WC 2026</h1>
           <p id="portal-status-badge">Blågult Camp Hub</p>
         </div>
       </div>
       
       <div class="live-status-card" id="header-countdown-widget">
         <div class="countdown-box">
-          <span class="countdown-label" id="next-update-label">Nästa Uppdatering</span>
+          <span class="countdown-label" id="next-update-label">Next Update</span>
           <div class="countdown-timer" id="next-update-time">
-            <span class="time-box">00t</span>
+            <span class="time-box">00h</span>
             <span class="time-separator">:</span>
             <span class="time-box">00m</span>
             <span class="time-separator">:</span>
@@ -61,30 +61,30 @@
             <span class="slider"></span>
           </label>
           <div>
-            <h4 style="font-size: 0.9rem; color: var(--text-white);">Aktivera Tids-Simulering</h4>
-            <p style="font-size: 0.75rem; color: var(--text-secondary);">Testa dygnets 5 uppdateringsfönster manuellt</p>
+            <h4 style="font-size: 0.9rem; color: var(--text-white);">Enable Time Simulation</h4>
+            <p style="font-size: 0.75rem; color: var(--text-secondary);">Manually test the 5 daily update windows</p>
           </div>
         </div>
 
         <div class="sim-controls">
-          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary);" for="sim-hour">VÄLJ TIMME:</label>
+          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary);" for="sim-hour">SELECT HOUR:</label>
           <select class="sim-select" id="sim-hour">
-            <option value="5">05:00 (Inget nytt ännu)</option>
-            <option value="8" selected>08:00 (1:a uppdateringen aktiv)</option>
-            <option value="12">12:00 (2:a uppdateringen aktiv)</option>
-            <option value="15">15:00 (3:e uppdateringen aktiv)</option>
-            <option value="19">19:00 (4:e uppdateringen aktiv)</option>
-            <option value="22">22:00 (Alla 5 uppdateringar aktiva)</option>
+            <option value="5">05:00 (Nothing new yet)</option>
+            <option value="8" selected>08:00 (1st update active)</option>
+            <option value="12">12:00 (2nd update active)</option>
+            <option value="15">15:00 (3rd update active)</option>
+            <option value="19">19:00 (4th update active)</option>
+            <option value="22">22:00 (All 5 updates active)</option>
           </select>
           <div class="sim-time-tag" id="sim-current-time-display">09:40</div>
         </div>
 
         <div class="sim-schedule-indicators" id="schedule-dots-container">
-          <span class="sched-dot" id="sched-indicator-1">07:00 Frukost</span>
+          <span class="sched-dot" id="sched-indicator-1">07:00 Breakfast</span>
           <span class="sched-dot" id="sched-indicator-2">11:00 Press</span>
-          <span class="sched-dot" id="sched-indicator-3">14:30 Träning</span>
-          <span class="sched-dot" id="sched-indicator-4">18:00 Taktik</span>
-          <span class="sched-dot" id="sched-indicator-5">21:30 Kväll</span>
+          <span class="sched-dot" id="sched-indicator-3">14:30 Training</span>
+          <span class="sched-dot" id="sched-indicator-4">18:00 Tactics</span>
+          <span class="sched-dot" id="sched-indicator-5">21:30 Evening</span>
         </div>
       </div>
     </section>
@@ -102,10 +102,10 @@
             </h2>
             <div class="news-tabs-container">
               <button class="news-tab-btn active" id="tab-news-sweden">
-                <span class="flag-mini">🇸🇪</span> Blågult Nyheter &amp; Bloggar
+                <span class="flag-mini">🇸🇪</span> Sweden News &amp; Blogs
               </button>
               <button class="news-tab-btn" id="tab-news-opponent">
-                <span class="flag-mini">🌍</span> Motståndarbevakning (Grupp F)
+                <span class="flag-mini">🌍</span> Opponent Scouting (Group F)
               </button>
             </div>
           </div>
@@ -117,14 +117,14 @@
         <!-- Locker Room Chat Panel -->
         <section class="panel-card" id="locker-chat-card" style="margin-top: 2rem;">
           <h2 class="panel-title">
-            <i class="far fa-comments"></i> Omklädningsrummet (Banter Chat)
+            <i class="far fa-comments"></i> Locker Room Banter (Pre-Camp)
           </h2>
           <div class="chat-console-wrapper">
             <div class="chat-messages-container" id="chat-messages-container">
               <!-- Chat bubbles will be loaded here -->
             </div>
             <div class="chat-input-row">
-              <input type="text" class="chat-placeholder-input" placeholder="Endast utvalda spelare kan svara..." disabled>
+              <input type="text" class="chat-placeholder-input" placeholder="Only selected players can respond..." disabled>
               <button class="chat-send-btn" disabled><i class="far fa-paper-plane"></i></button>
             </div>
           </div>
@@ -137,11 +137,11 @@
         <!-- Music Player Card -->
         <section class="panel-card" id="music-player-card" style="margin-bottom: 2rem;">
           <h2 class="panel-title">
-            <i class="fas fa-music"></i> Blågult Spelare (Locker Room Vibe)
+            <i class="fas fa-music"></i> Locker Room Playlist
           </h2>
           <div class="music-player-wrapper">
             <div class="music-track-info">
-              <h4 id="music-song-title">Låtnamn</h4>
+              <h4 id="music-song-title">Song Title</h4>
               <p id="music-artist">Artist</p>
             </div>
             <div class="music-visualizer-container" id="music-visualizer">
@@ -152,13 +152,13 @@
               <span class="bar bar-5"></span>
             </div>
             <div class="music-controls">
-              <button class="music-btn" id="music-prev-btn" title="Föregående"><i class="fas fa-backward"></i></button>
-              <button class="music-btn play" id="music-play-btn" title="Spela / Pausa"><i class="fas fa-play"></i></button>
-              <button class="music-btn" id="music-next-btn" title="Nästa"><i class="fas fa-forward"></i></button>
-              <a href="#" class="music-btn spotify" id="music-spotify-link" target="_blank" title="Lyssna på Spotify"><i class="fab fa-spotify"></i></a>
+              <button class="music-btn" id="music-prev-btn" title="Previous"><i class="fas fa-backward"></i></button>
+              <button class="music-btn play" id="music-play-btn" title="Play / Pause"><i class="fas fa-play"></i></button>
+              <button class="music-btn" id="music-next-btn" title="Next"><i class="fas fa-forward"></i></button>
+              <a href="#" class="music-btn spotify" id="music-spotify-link" target="_blank" title="Listen on Spotify"><i class="fab fa-spotify"></i></a>
             </div>
             <div class="music-footer">
-              <span id="music-track-count">Låt 1 av 5</span>
+              <span id="music-track-count">Song 1 of 5</span>
             </div>
           </div>
         </section>
@@ -166,14 +166,14 @@
         <!-- Tactical Lineup Pitch Card -->
         <section class="panel-card" id="tactical-field-card" style="margin-bottom: 2rem;">
           <h2 class="panel-title">
-            <i class="fas fa-chess-board"></i> Graham Potters 3-4-2-1
+            <i class="fas fa-chess-board"></i> Graham Potter's 3-4-2-1
           </h2>
           <div class="pitch-container">
             <div class="tactical-pitch" id="tactical-pitch-inner">
               <!-- Green pitch with lines and absolute player jerseys injected here -->
             </div>
             <div class="pitch-info-bar">
-              Klicka på en spelare på spelplanen för att se fullständig landslagsstatistik
+              Click a player on the pitch to see complete international stats
             </div>
           </div>
         </section>
@@ -181,7 +181,7 @@
         <!-- Match Schedule Card -->
         <section class="panel-card" id="match-timeline-card">
           <h2 class="panel-title">
-            <i class="far fa-calendar-alt"></i> Spelschema (Grupp F)
+            <i class="far fa-calendar-alt"></i> Match Schedule (Group F)
           </h2>
           <div class="match-schedule-container" id="match-schedule-container">
             <!-- Matches timeline loaded here -->
@@ -196,22 +196,22 @@
     <section class="squad-section" id="squad-directory-section">
       
       <div class="section-header-row">
-        <h2 class="section-title">VM-Truppen 2026</h2>
+        <h2 class="section-title">World Cup 2026 Squad</h2>
         
         <div class="controls-wrapper">
           <!-- Search box -->
           <div class="search-input-wrapper">
             <i class="fas fa-search"></i>
-            <input type="text" class="search-box-input" id="player-search" placeholder="Sök spelare, klubb eller position...">
+            <input type="text" class="search-box-input" id="player-search" placeholder="Search players, clubs, or positions...">
           </div>
 
           <!-- Position Filters -->
           <div class="filters-btn-group" id="squad-filters">
-            <button class="filter-btn active" data-pos="all">Alla</button>
-            <button class="filter-btn" data-pos="goalkeeper">Målvakter</button>
-            <button class="filter-btn" data-pos="defender">Backar</button>
-            <button class="filter-btn" data-pos="midfielder">Mittfältare</button>
-            <button class="filter-btn" data-pos="forward">Anfallare</button>
+            <button class="filter-btn active" data-pos="all">All</button>
+            <button class="filter-btn" data-pos="goalkeeper">Goalkeepers</button>
+            <button class="filter-btn" data-pos="defender">Defenders</button>
+            <button class="filter-btn" data-pos="midfielder">Midfielders</button>
+            <button class="filter-btn" data-pos="forward">Forwards</button>
           </div>
         </div>
       </div>
@@ -225,8 +225,8 @@
 
     <!-- Footer branding -->
     <footer style="margin-top: 5rem; padding: 2rem; border-top: 1px solid rgba(255, 255, 255, 0.05); text-align: center; color: var(--text-secondary); font-size: 0.85rem;">
-      <p>© 2026 Svensk Fotboll VM-Portal. Alla rättigheter reserverade.</p>
-      <p style="margin-top: 5px; font-size: 0.75rem;">Designad med en stolt gul och blå tradition 🇸🇪</p>
+      <p>© 2026 Sweden Football World Cup Portal. All rights reserved.</p>
+      <p style="margin-top: 5px; font-size: 0.75rem;">Designed with a proud yellow and blue tradition 🇸🇪</p>
     </footer>
 
   </div>
@@ -235,8 +235,8 @@
   <div class="modal-overlay" id="article-reader-modal">
     <div class="modal-backdrop"></div>
     <div class="modal-box">
-      <button class="modal-close" aria-label="Stäng modal"><i class="fas fa-times"></i></button>
-      <h2 class="modal-article-title" id="modal-article-title">Artikel Rubrik</h2>
+      <button class="modal-close" aria-label="Close modal"><i class="fas fa-times"></i></button>
+      <h2 class="modal-article-title" id="modal-article-title">Article Headline</h2>
       <div class="modal-article-meta" id="modal-article-meta">
         <!-- Meta text -->
       </div>
@@ -256,18 +256,18 @@
   <div class="modal-overlay" id="player-profile-modal">
     <div class="modal-backdrop"></div>
     <div class="modal-box" style="border-color: var(--sweden-blue);">
-      <button class="modal-close" aria-label="Stäng modal"><i class="fas fa-times"></i></button>
+      <button class="modal-close" aria-label="Close modal"><i class="fas fa-times"></i></button>
       <div class="player-modal-header">
         <div class="player-modal-avatar" id="player-modal-avatar">🇸🇪</div>
         <div class="player-modal-title-box">
-          <h2 id="player-modal-name">Spelarnamn <span class="modal-jersey-pill">#0</span></h2>
+          <h2 id="player-modal-name">Player Name <span class="modal-jersey-pill">#0</span></h2>
           <div class="player-modal-meta-box" id="player-modal-meta">
             <!-- Position, club, stats -->
           </div>
         </div>
       </div>
       <div class="player-modal-bio" id="player-modal-bio">
-        Biografi text om spelaren i VM.
+        World Cup player biography.
       </div>
       <div class="player-modal-stats-grid" id="player-modal-stats-grid">
         <!-- Stats cards populated dynamically -->
