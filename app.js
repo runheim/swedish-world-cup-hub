@@ -400,7 +400,7 @@ const TIMELINE_DATABASE = {
           summary: "Graham Potter's coaching assistants, coordinated by Björn Hamberg, performed a complete site walkthrough at Bosön in Stockholm yesterday. The Swedish FA has secured Stockholm's top elite facility to act as the primary preparation base. The fields are in pristine condition, and all tactical analysis gear is configured for the players' arrival on Wednesday, May 27.",
           author: "Olof Lundh (Fotbollskanalen)",
           readTime: "3 min",
-          tag: "Bosön Läger",
+          tag: "Bosön Camp",
           relatedPlayers: []
         }
       ]
@@ -422,7 +422,7 @@ const TIMELINE_DATABASE = {
           summary: "The Swedish FA released ticketing and security protocols for the upcoming international friendly against Norway on June 1 at Ullevaal Stadion. Norwegian authorities anticipate a completely packed venue. Swedish fans have already snapped up their designated away allocation, promising an electric Scandinavian atmosphere for Potter's first match of the final phase.",
           author: "Svensk Fotboll Press",
           readTime: "2 min",
-          tag: "Biljett Intel",
+          tag: "Ticket Intel",
           relatedPlayers: []
         }
       ]
@@ -442,9 +442,9 @@ const TIMELINE_DATABASE = {
             "Gyökeres writes: 'Got my personal schedule from Graham; focusing on high-speed stamina.'"
           ],
           summary: "Sticking to an individualized conditioning program, Arsenal striker Viktor Gyökeres is spending his week performing rigorous explosive speed drills at his club's gym in London. Under instructions from Potter's staff, players not in active league matches are keeping their physical registers high so that tactical field sessions can start at maximum velocity on day one.",
-          author: "Viktor Gyökeres (Spelar-Blogg)",
+          author: "Viktor Gyökeres (Player Blog)",
           readTime: "3 min",
-          tag: "Spelar-Fokus",
+          tag: "Player Focus",
           relatedPlayers: ["viktor_gyokeres"]
         }
       ]
@@ -486,9 +486,9 @@ const TIMELINE_DATABASE = {
             "Holm: 'Stockholm and Bosön represent the final engine start. Let's make this year wild.'"
           ],
           summary: "In a personal blog post, Emil Holm expressed his excitement as he boarded a flight back to Sweden. Having concluded his Serie A campaign, Holm is taking a brief two-day rest with family in Gothenburg before reporting to the national team training camp at Bosön on Wednesday morning. 'My mind is completely locked on the yellow and blue,' Holm wrote.",
-          author: "Emil Holm (Spelar-Blogg)",
+          author: "Emil Holm (Player Blog)",
           readTime: "2 min",
-          tag: "Spelar-Resa",
+          tag: "Player Travel",
           relatedPlayers: ["emil_holm"]
         }
       ]
@@ -512,7 +512,7 @@ const TIMELINE_DATABASE = {
           summary: "As we edge closer to the mandatory FIFA player release date on May 25, Graham Potter is poised to finally take full command of his squad. The staggered endings of European club seasons have made early tactical assemblies impossible. Starting Monday, all club responsibilities cease, marking the true structural beginning of Sweden's quest to build cohesive chemistry for their Group F opener.",
           author: "Olof Lundh (Fotbollskanalen)",
           readTime: "4 min",
-          tag: "Läger-Analys",
+          tag: "Camp Analysis",
           relatedPlayers: ["alexander_isak", "viktor_gyokeres", "victor_lindelof"]
         }
       ]
@@ -534,7 +534,7 @@ const TIMELINE_DATABASE = {
           summary: "During an online media briefing today, förbundskapten Graham Potter spoke on the goals of Sweden's local Stockholm pre-camp. 'The first three days at Bosön are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before flying to Norway,' Potter explained.",
           author: "Therese Strömberg (Expressen)",
           readTime: "3 min",
-          tag: "Förbundskaptenen",
+          tag: "Manager Focus",
           relatedPlayers: []
         }
       ]
@@ -554,9 +554,9 @@ const TIMELINE_DATABASE = {
             "Isak: 'Getting the muscles tuned up. Stockholm, see you next week!'"
           ],
           summary: "Alexander Isak is not wasting his pre-camp window. The Liverpool striker has been working with a personal trainer on quick direction-change sprints to preserve his agility levels. 'The physical side of the game is vital in the opening match against Tunisia. We must be quick off the mark, and I want to be 100% sharp when we gather at Bosön,' Isak wrote in his online camp log.",
-          author: "Alexander Isak (Spelar-Blogg)",
+          author: "Alexander Isak (Player Blog)",
           readTime: "3 min",
-          tag: "Spelar-Träning",
+          tag: "Player Training",
           relatedPlayers: ["alexander_isak"]
         }
       ]
@@ -578,7 +578,7 @@ const TIMELINE_DATABASE = {
           summary: "Tunisia has arrived at their training base in Monterrey, choosing the local climate to replicate the conditions they will face against Sweden. Under coach Jalel Kadri, the Tunisians have scheduled a series of high-tempo practices designed to test their defensive compactness, particularly rehearsing how they will mark dual-forward shapes.",
           author: "Marcus Leifby (Aftonbladet)",
           readTime: "4 min",
-          tag: "Tunisien Intel",
+          tag: "Tunisia Intel",
           relatedPlayers: []
         }
       ]
@@ -598,9 +598,9 @@ const TIMELINE_DATABASE = {
             "Bergvall: 'The pressure is a privilege. I want to learn, but most of all, I want to win.'"
           ],
           summary: "In a highly candid late-night diary post, Lucas Bergvall discussed his emotions ahead of reporting to Stockholm. The 20-year-old playmaker has caught global attention at Tottenham Hotspur and is set to be Sweden's creative catalyst. 'Playing for Sweden in a World Cup is what you practice for in the garden as a kid. I'm ready to fight for my country,' Bergvall wrote.",
-          author: "Lucas Bergvall (Spelar-Blogg)",
+          author: "Lucas Bergvall (Player Blog)",
           readTime: "4 min",
-          tag: "Spelar-Dagbok",
+          tag: "Player Diary",
           relatedPlayers: ["lucas_bergvall"]
         }
       ]
@@ -624,7 +624,7 @@ const TIMELINE_DATABASE = {
           summary: "The Swedish FA's advanced media division arrived in Stockholm this morning to build the primary press room at the team's headquarters. Starting next Wednesday, players will engage in daily press briefings and mixed zones, creating high transparency and media accessibility as the nation rallies behind their players' campaign.",
           author: "Olof Lundh (Fotbollskanalen)",
           readTime: "3 min",
-          tag: "Mediaplanering",
+          tag: "Media Planning",
           relatedPlayers: []
         },
         {
@@ -1744,6 +1744,7 @@ function renderTacticalOverlays() {
   if (showRuns && formation.runs) {
     const svg = document.createElementNS("http://www.w3.org/2000/svg", "svg");
     svg.setAttribute("class", "tactical-run-arrow");
+    svg.setAttribute("viewBox", "0 0 380 480");
     
     svg.innerHTML = `
       <defs>
