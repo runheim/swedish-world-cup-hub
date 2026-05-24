@@ -640,7 +640,7 @@ const TIMELINE_DATABASE = {
           summary: "Sweden's scouting network logged excellent news for the Netherlands, but a major tactical challenge for Graham Potter. Barcelona midfielder Frenkie de Jong participated in full-contact drills today, indicating his ankle injury is fully healed. His presence means Sweden's double-pivot must prepare specialized pressing traps to disrupt de Jong's elite playmaking tempo.",
           author: "Voetbal International",
           readTime: "4 min",
-          tag: "Nederländerna Rapport",
+          tag: "Netherlands Report",
           relatedPlayers: ["yasin_ayari", "mattias_svanberg"]
         }
       ]
@@ -662,7 +662,7 @@ const TIMELINE_DATABASE = {
           summary: "Svensk Fotboll today published the official team calendar. The 26-man roster will gather in Stockholm next Wednesday, training locally for four days. On May 31, they travel to Oslo for their first friendly against Norway on June 1, and immediately board a charter flight to their primary base camp in Dallas, Texas on June 2 to begin their final tournament preparations.",
           author: "Therese Strömberg (Expressen)",
           readTime: "3 min",
-          tag: "Läger-Schema",
+          tag: "Camp Schedule",
           relatedPlayers: []
         }
       ]
@@ -682,9 +682,9 @@ const TIMELINE_DATABASE = {
             "Starfelt: 'The ankle feels rock-solid. See you guys on the pitch on Wednesday!'"
           ],
           summary: "Sweden has received a major fitness boost as center-back Carl Starfelt completed his ankle physical therapy program. Carrying a light knock from his final La Liga match, Starfelt has been training individually, but has now been given 100% clearance to join the team for full-contact training when camp gathers on Wednesday morning.",
-          author: "Carl Starfelt (Spelar-Dagbok)",
+          author: "Carl Starfelt (Player Diary)",
           readTime: "3 min",
-          tag: "Skadeuppdatering",
+          tag: "Injury Update",
           relatedPlayers: ["carl_starfelt"]
         }
       ]
@@ -728,7 +728,7 @@ const TIMELINE_DATABASE = {
           summary: "In a late-night camp diary entry, captain Victor Lindelöf shared photos of his packed travel bags. Expressing deep pride in leading *Herrlandslaget* into the 2026 World Cup, Lindelöf emphasized that Sweden's collective unity will be their primary strength. 'Gothenburg was home for a bit, but Stockholm is where the final engine starts. The team is locked in. Let's make this year unforgettable,' the captain wrote.",
           author: "Victor Lindelöf (Player Log)",
           readTime: "4 min",
-          tag: "Lagkaptenen",
+          tag: "Captain's Log",
           relatedPlayers: ["victor_lindelof"]
         }
       ]
@@ -1295,11 +1295,11 @@ function generateTimelineTimestamp(dateStr, timeLabel) {
 function getNextUpdateCountdown() {
   const currentMinutes = getCurrentTimeMinutes();
   const updateTimes = [
-    { label: "Frukost Rapport", minutes: timeToMinutes("07:00"), timeStr: "07:00" },
-    { label: "Presskonferens", minutes: timeToMinutes("11:00"), timeStr: "11:00" },
-    { label: "Träningspass", minutes: timeToMinutes("14:30"), timeStr: "14:30" },
-    { label: "Taktik & Analys", minutes: timeToMinutes("18:00"), timeStr: "18:00" },
-    { label: "Kvällssnack", minutes: timeToMinutes("21:30"), timeStr: "21:30" }
+    { label: "Breakfast Report", minutes: timeToMinutes("07:00"), timeStr: "07:00" },
+    { label: "Press Conference", minutes: timeToMinutes("11:00"), timeStr: "11:00" },
+    { label: "Training Session", minutes: timeToMinutes("14:30"), timeStr: "14:30" },
+    { label: "Tactics & Analysis", minutes: timeToMinutes("18:00"), timeStr: "18:00" },
+    { label: "Evening Talk", minutes: timeToMinutes("21:30"), timeStr: "21:30" }
   ];
 
   let nextUpdate = null;
@@ -1313,7 +1313,7 @@ function getNextUpdateCountdown() {
 
   if (!nextUpdate) {
     nextUpdate = {
-      label: "Frukost Rapport (Imorgon)",
+      label: "Breakfast Report (Tomorrow)",
       minutes: updateTimes[0].minutes + 24 * 60,
       timeStr: "07:00"
     };
@@ -1546,7 +1546,7 @@ function updateNewsDashboard() {
   if (totalArticlesRendered === 0) {
     container.innerHTML = `
       <div class="no-news-found">
-        <p><i class="fas fa-info-circle"></i> Inga artiklar tillgängliga för detta filter i nuläget.</p>
+        <p><i class="fas fa-info-circle"></i> No articles available for this filter at the moment.</p>
       </div>
     `;
   }

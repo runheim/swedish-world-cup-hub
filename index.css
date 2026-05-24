@@ -709,7 +709,7 @@ h1, h2, h3, h4, h5 {
 }
 
 .simulator-panel::before {
-  content: "⚡ SIMULERINGSPANEL";
+  content: "⚡ TIME SIMULATOR";
   position: absolute;
   top: -10px;
   left: 20px;
