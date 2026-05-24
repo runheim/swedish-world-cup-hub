@@ -1248,15 +1248,25 @@ function getCurrentTimeMinutes() {
 }
 
 function getActiveUpdatesForDate(dateStr) {
-  const targetDateVal = new Date(dateStr).getTime();
-  const todayVal = new Date("2026-05-23").getTime();
+  // Parse target date (avoiding timezone offset shift)
+  const [targetYear, targetMonth, targetDay] = dateStr.split("-").map(Number);
+  const targetDate = new Date(targetYear, targetMonth - 1, targetDay);
 
-  if (targetDateVal < todayVal) {
-    return [1, 2, 3, 4, 5];
+  // Determine current active date
+  let currentDate;
+  if (SIMULATOR_ACTIVE) {
+    currentDate = new Date(2026, 4, 23); // 2026-05-23
+  } else {
+    const now = new Date();
+    currentDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
   }
 
-  if (targetDateVal > todayVal) {
-    return [];
+  if (targetDate < currentDate) {
+    return [1, 2, 3, 4, 5]; // Full historical access
+  }
+
+  if (targetDate > currentDate) {
+    return []; // Future date
   }
 
   const currentMinutes = getCurrentTimeMinutes();
