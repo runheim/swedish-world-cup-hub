@@ -220,7 +220,7 @@ h1, h2, h3, h4, h5 {
   color: var(--text-white);
   font-size: 0.9rem;
   white-space: nowrap;
-  animation: ticker 25s linear infinite;
+  animation: ticker 50s linear infinite;
   display: flex;
   gap: 3rem;
 }
