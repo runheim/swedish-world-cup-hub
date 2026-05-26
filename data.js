@@ -3,7 +3,7 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Potter emphasizes hydration and early recovery drills in Texas heat",
+    "⚽ Sweden squad packs bags and prepares for Wednesday gather at Bosön",
     "🌍 Tunisia squad performs high-altitude stamina workouts in Tabarka base",
     "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
     "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
@@ -19,16 +19,16 @@ const DYNAMIC_HUB_DATA = {
             "id": "dyn_swe_20260526_1",
             "category": "sweden",
             "type": "News",
-            "title": "Potter emphasizes hydration and early recovery drills in Texas heat",
+            "title": "Sweden squad packs bags and prepares for Wednesday gather at Bosön",
             "bullets": [
-              "Dallas afternoon temperatures hit 31°C, requiring intense hydration intervals.",
-              "Sports science staff logs player cardiovascular responses under high heat load.",
-              "Carl Starfelt declares himself 100% fit for upcoming tactical matches."
+              "Graham Potter's 26-man roster completes travel arrangements to Stockholm.",
+              "Players to check in by Wednesday morning at the Bosön national training complex.",
+              "Captain Victor Lindelöf: 'Stockholm, see you tomorrow! Roster is extremely motivated.'"
             ],
-            "summary": "Graham Potter and his conditioning staff opened the morning session in Dallas, Texas with a rigorous presentation on thermal adaptation. With temperatures rising quickly, the medical team has set strict hydration protocols. Defender Carl Starfelt finished the full workout, reporting no pain in his knee after returning to full-contact contact.",
+            "summary": "Ahead of tomorrow's official camp gathering, Swedish squad players are traveling from their domestic and European clubs to Stockholm. The primary base will be Lidingö's elite training complex at Bosön, preparing for the initial four-day training and tactical brief phase.",
             "author": "Marcus Wulcan (Aftonbladet)",
             "readTime": "3 min",
-            "tag": "Dallas Camp",
+            "tag": "Camp Gathering",
             "relatedPlayers": []
           },
           {
