@@ -47,50 +47,9 @@
     <div class="news-ticker" id="global-news-ticker">
       <div class="ticker-label">LATEST CAMP NEWS</div>
       <div class="ticker-content" id="ticker-slider">
-        <span>⚽ Graham Potter has finalized the 26-man roster for the 2026 FIFA World Cup.</span>
-        <span>✈️ Sweden will depart for their main training facility in Dallas, Texas tomorrow morning.</span>
-        <span>💪 Viktor Gyökeres arrives in stellar goal-scoring form from his domestic campaign.</span>
-        <span>🚑 Medical staff confirms that defender Carl Starfelt has returned to full-contact training.</span>
-        <span>⭐ Lucas Bergvall designated by FIFA as one of the ultimate teenage prospects of the tournament.</span>
+        <!-- Loaded dynamically from data.js -->
       </div>
     </div>
-
-    <!-- 3. Time Simulator Dashboard Widget -->
-    <section class="simulator-panel" id="time-simulator-panel">
-      <div class="sim-grid">
-        <div class="sim-switch-box">
-          <label class="switch">
-            <input type="checkbox" id="sim-active">
-            <span class="slider"></span>
-          </label>
-          <div>
-            <h4 style="font-size: 0.9rem; color: var(--text-white);">Enable Time Simulation</h4>
-            <p style="font-size: 0.75rem; color: var(--text-secondary);">Manually test the 5 daily update windows</p>
-          </div>
-        </div>
-
-        <div class="sim-controls">
-          <label style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary);" for="sim-hour">SELECT HOUR:</label>
-          <select class="sim-select" id="sim-hour">
-            <option value="5">05:00 (Nothing new yet)</option>
-            <option value="8" selected>08:00 (1st update active)</option>
-            <option value="12">12:00 (2nd update active)</option>
-            <option value="15">15:00 (3rd update active)</option>
-            <option value="19">19:00 (4th update active)</option>
-            <option value="22">22:00 (All 5 updates active)</option>
-          </select>
-          <div class="sim-time-tag" id="sim-current-time-display">09:40</div>
-        </div>
-
-        <div class="sim-schedule-indicators" id="schedule-dots-container">
-          <span class="sched-dot" id="sched-indicator-1">07:00 Breakfast</span>
-          <span class="sched-dot" id="sched-indicator-2">11:00 Press</span>
-          <span class="sched-dot" id="sched-indicator-3">14:30 Training</span>
-          <span class="sched-dot" id="sched-indicator-4">18:00 Tactics</span>
-          <span class="sched-dot" id="sched-indicator-5">21:30 Evening</span>
-        </div>
-      </div>
-    </section>
 
     <!-- 4. Main Content Dashboard -->
     <main class="dashboard-grid">
@@ -483,6 +442,7 @@
   </div>
 
   <!-- App Core scripts -->
+  <script src="data.js"></script>
   <script src="app.js"></script>
 </body>
 </html>

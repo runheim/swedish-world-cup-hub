@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const filesToCopy = ['index.html', 'index.css', 'app.js'];
+const filesToCopy = ['index.html', 'index.css', 'app.js', 'data.js'];
 const distFolder = path.join(__dirname, 'dist');
 
 console.log('Starting Swedish World Cup Hub compilation build...');

@@ -1234,15 +1234,9 @@ let isPlaying = false;
 let audioPlayer = null; 
 
 // 6. Time Schedule & State Management
-let SIMULATOR_ACTIVE = false;
-let SIMULATED_HOUR = 9;
-let SIMULATED_MINUTE = 40;
 let ACTIVE_NEWS_TAB = "sweden";
 
 function getCurrentTimeMinutes() {
-  if (SIMULATOR_ACTIVE) {
-    return SIMULATED_HOUR * 60 + SIMULATED_MINUTE;
-  }
   const now = new Date();
   return now.getHours() * 60 + now.getMinutes();
 }
@@ -1252,14 +1246,8 @@ function getActiveUpdatesForDate(dateStr) {
   const [targetYear, targetMonth, targetDay] = dateStr.split("-").map(Number);
   const targetDate = new Date(targetYear, targetMonth - 1, targetDay);
 
-  // Determine current active date
-  let currentDate;
-  if (SIMULATOR_ACTIVE) {
-    currentDate = new Date(2026, 4, 23); // 2026-05-23
-  } else {
-    const now = new Date();
-    currentDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-  }
+  const now = new Date();
+  const currentDate = new Date(now.getFullYear(), now.getMonth(), now.getDate());
 
   if (targetDate < currentDate) {
     return [1, 2, 3, 4, 5]; // Full historical access
@@ -1284,10 +1272,6 @@ function getActiveUpdatesForDate(dateStr) {
     if (currentMinutes >= updateTimes[id]) {
       activeIds.push(Number(id));
     }
-  }
-
-  if (activeIds.length === 0) {
-    return [1]; 
   }
 
   return activeIds;
@@ -1451,6 +1435,43 @@ let simScoreSwe = 0;
 let simScoreOpp = 0;
 
 function initApp() {
+  // Merge dynamic web-researched news if available from data.js
+  if (typeof DYNAMIC_HUB_DATA !== "undefined") {
+    if (DYNAMIC_HUB_DATA.timeline) {
+      for (const date in DYNAMIC_HUB_DATA.timeline) {
+        if (!TIMELINE_DATABASE[date]) {
+          TIMELINE_DATABASE[date] = {};
+        }
+        for (const slot in DYNAMIC_HUB_DATA.timeline[date]) {
+          TIMELINE_DATABASE[date][slot] = DYNAMIC_HUB_DATA.timeline[date][slot];
+        }
+      }
+    }
+    if (DYNAMIC_HUB_DATA.matchReports) {
+      for (const matchId in DYNAMIC_HUB_DATA.matchReports) {
+        MATCH_REPORTS_DATABASE[matchId] = DYNAMIC_HUB_DATA.matchReports[matchId];
+      }
+    }
+  }
+
+  // Populate breaking news ticker dynamically
+  const tickerSlider = document.getElementById("ticker-slider");
+  if (tickerSlider) {
+    let tickerItems = [];
+    if (typeof DYNAMIC_HUB_DATA !== "undefined" && DYNAMIC_HUB_DATA.ticker && DYNAMIC_HUB_DATA.ticker.length > 0) {
+      tickerItems = DYNAMIC_HUB_DATA.ticker;
+    } else {
+      tickerItems = [
+        "⚽ Graham Potter has finalized the 26-man roster for the 2026 FIFA World Cup.",
+        "✈️ Sweden will depart for their main training facility in Dallas, Texas tomorrow morning.",
+        "💪 Viktor Gyökeres arrives in stellar goal-scoring form from his domestic campaign.",
+        "🚑 Medical staff confirms that defender Carl Starfelt has returned to full-contact training.",
+        "⭐ Lucas Bergvall designated by FIFA as one of the ultimate teenage prospects of the tournament."
+      ];
+    }
+    tickerSlider.innerHTML = tickerItems.map(item => `<span>${item}</span>`).join("");
+  }
+
   audioPlayer = new Audio();
   audioPlayer.preload = "auto";
   
@@ -1483,7 +1504,25 @@ function updateNewsDashboard() {
   container.innerHTML = "";
 
   let totalArticlesRendered = 0;
-  const dates = ["2026-05-23", "2026-05-22", "2026-05-21"];
+  
+  // Get today's local date in YYYY-MM-DD format
+  const now = new Date();
+  const yyyy = now.getFullYear();
+  const mm = String(now.getMonth() + 1).padStart(2, '0');
+  const dd = String(now.getDate()).padStart(2, '0');
+  const todayStr = `${yyyy}-${mm}-${dd}`;
+
+  // Dynamically extract and sort all available dates in the timeline database up to today
+  const dates = Object.keys(TIMELINE_DATABASE)
+    .filter(dateStr => dateStr <= todayStr)
+    .sort()
+    .reverse()
+    .slice(0, 3);
+
+  // Generate yesterday's local date dynamically
+  const yesterday = new Date();
+  yesterday.setDate(now.getDate() - 1);
+  const yStr = `${yesterday.getFullYear()}-${String(yesterday.getMonth() + 1).padStart(2, '0')}-${String(yesterday.getDate()).padStart(2, '0')}`;
 
   dates.forEach(dateStr => {
     const activeIds = getActiveUpdatesForDate(dateStr);
@@ -1493,8 +1532,8 @@ function updateNewsDashboard() {
     dateSection.className = "timeline-date-section animated fade-in";
     
     let displayDateLabel = dateStr;
-    if (dateStr === "2026-05-23") displayDateLabel = "Today (" + dateStr + ")";
-    else if (dateStr === "2026-05-22") displayDateLabel = "Yesterday (" + dateStr + ")";
+    if (dateStr === todayStr) displayDateLabel = "Today (" + dateStr + ")";
+    else if (dateStr === yStr) displayDateLabel = "Yesterday (" + dateStr + ")";
     
     dateSection.innerHTML = `
       <div class="timeline-date-header">
@@ -1583,8 +1622,6 @@ function updateNewsTimelineStylesFix() {
       dot.style.top = "18px";
     }
   });
-
-  updateSimulatorUI();
 }
 
 // Tick the countdown widget
@@ -2417,22 +2454,7 @@ function setupEventListeners() {
     });
   }
 
-  const simToggle = document.getElementById("sim-active");
-  const hourSelect = document.getElementById("sim-hour");
-  
-  if (simToggle && hourSelect) {
-    simToggle.addEventListener("change", (e) => {
-      SIMULATOR_ACTIVE = e.target.checked;
-      updateNewsDashboard();
-      tickCountdown();
-    });
 
-    hourSelect.addEventListener("change", (e) => {
-      SIMULATED_HOUR = Number(e.target.value);
-      updateNewsDashboard();
-      tickCountdown();
-    });
-  }
 
   // Match Center Events
   const matchSelector = document.getElementById("match-center-selector");
@@ -2560,25 +2582,4 @@ function setupEventListeners() {
   }
 }
 
-// Update simulator UI indicators
-function updateSimulatorUI() {
-  const currentMinutes = getCurrentTimeMinutes();
-  const timeBox = document.getElementById("sim-current-time-display");
-  if (timeBox) {
-    const h = String(Math.floor(currentMinutes / 60)).padStart(2, "0");
-    const m = String(currentMinutes % 60).padStart(2, "0");
-    timeBox.textContent = `${h}:${m}`;
-  }
 
-  const activeIds = getActiveUpdatesForDate("2026-05-23");
-  for (let id = 1; id <= 5; id++) {
-    const indicator = document.getElementById(`sched-indicator-${id}`);
-    if (indicator) {
-      if (activeIds.includes(id)) {
-        indicator.classList.add("active");
-      } else {
-        indicator.classList.remove("active");
-      }
-    }
-  }
-}
