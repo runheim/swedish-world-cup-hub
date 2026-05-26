@@ -963,7 +963,7 @@ function fetchGuardianReport(matchId, opponentName, matchDate) {
             <div style="font-size: 1.5rem; color: #0A1F3C; display: flex; align-items: center;"><i class="far fa-newspaper"></i></div>
             <div style="flex-grow: 1;">
               <span style="font-size: 0.6rem; font-weight: 800; color: #E60000; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">The Guardian Coverage</span>
-              <a href="${art.webUrl}" target="_blank" style="font-size: 0.85rem; font-weight: 700; color: var(--text-dark); text-decoration: none; border-bottom: 1px dashed rgba(10,31,60,0.2); transition: var(--transition-smooth);" onmouseover="this.style.color='var(--england-red)'" onmouseout="this.style.color='var(--text-dark)'">${art.webTitle}</a>
+              <a href="${art.webUrl}" target="_blank" style="font-size: 0.85rem; font-weight: 700; color: var(--text-white); text-decoration: none; border-bottom: 1px dashed rgba(10,31,60,0.2); transition: var(--transition-smooth);" onmouseover="this.style.color='var(--england-red)'" onmouseout="this.style.color='var(--text-white)'">${art.webTitle}</a>
               <span style="font-size: 0.65rem; color: var(--text-secondary); display: block; margin-top: 3px;">Published: ${new Date(art.webPublicationDate).toLocaleDateString()}</span>
             </div>
           </div>
@@ -1020,7 +1020,7 @@ function fetchESPNNews(opponentName) {
             <div style="font-size: 1.3rem; color: #CC0000; display: flex; align-items: center;"><i class="fas fa-rss"></i></div>
             <div style="flex-grow: 1;">
               <span style="font-size: 0.6rem; font-weight: 800; color: #FCA5A5; text-transform: uppercase; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">ESPN Soccer Wire</span>
-              <a href="${item.link}" target="_blank" style="font-size: 0.82rem; font-weight: 700; color: var(--text-dark); text-decoration: none; border-bottom: 1px dashed rgba(10,31,60,0.2); transition: var(--transition-smooth);" onmouseover="this.style.color='var(--england-red)'" onmouseout="this.style.color='var(--text-dark)'">${item.title}</a>
+              <a href="${item.link}" target="_blank" style="font-size: 0.82rem; font-weight: 700; color: var(--text-white); text-decoration: none; border-bottom: 1px dashed rgba(10,31,60,0.2); transition: var(--transition-smooth);" onmouseover="this.style.color='var(--england-red)'" onmouseout="this.style.color='var(--text-white)'">${item.title}</a>
               <p style="font-size: 0.7rem; color: var(--text-secondary); margin-top: 3px; line-height: 1.35;">${item.description ? item.description.replace(/<[^>]*>/g, '').substring(0, 100) + '...' : ''}</p>
             </div>
           </div>
@@ -1141,13 +1141,13 @@ function renderMatchCenter() {
         
         ratingRow.innerHTML = `
           <div class="rating-player-info" style="flex-grow: 1; padding-right: 1rem;">
-            <div class="rating-player-name" style="font-size: 0.88rem; font-weight: 700; color: var(--text-dark);">
+            <div class="rating-player-name" style="font-size: 0.88rem; font-weight: 700; color: var(--text-white);">
               ${p.name} <span style="font-size: 0.7rem; color: var(--text-secondary); font-weight: 500;">(${p.role})</span>
               ${p.isMotm ? '<span class="rating-motm-badge" style="margin-left: 5px; background: var(--england-red); color: white; font-size: 0.6rem; padding: 1px 4px; border-radius: 3px; font-weight:800;">MOTM</span>' : ''}
             </div>
             <div class="rating-player-comment" style="font-size: 0.78rem; color: var(--text-secondary); margin-top: 2px;">${p.comment}</div>
           </div>
-          <div class="rating-score-pill ${ratingClass}" style="font-family: monospace; font-weight: 800; font-size: 1.1rem; background: ${isExcellent ? 'rgba(230,0,0,0.1)' : 'rgba(10,31,60,0.05)'}; color: ${isExcellent ? 'var(--england-red)' : 'var(--text-dark)'}; padding: 0.2rem 0.6rem; border-radius: 4px;">
+          <div class="rating-score-pill ${ratingClass}" style="font-family: monospace; font-weight: 800; font-size: 1.1rem; background: ${isExcellent ? 'rgba(230,0,0,0.1)' : 'rgba(10,31,60,0.05)'}; color: ${isExcellent ? 'var(--england-red)' : 'var(--text-white)'}; padding: 0.2rem 0.6rem; border-radius: 4px;">
             ${p.rating.toFixed(1)}
           </div>
         `;
@@ -1183,7 +1183,7 @@ function renderMatchCenter() {
     
   } else {
     contentArea.innerHTML = `
-      <div class="match-report-badge upcoming" style="background: rgba(10,31,60,0.05); color: var(--text-dark); border-color: rgba(10,31,60,0.1); margin-bottom: 0.8rem; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem; font-weight: 800; text-transform: uppercase;">Upcoming Fixture</div>
+      <div class="match-report-badge upcoming" style="background: rgba(10,31,60,0.05); color: var(--text-white); border-color: rgba(10,31,60,0.1); margin-bottom: 0.8rem; display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 0.7rem; font-weight: 800; text-transform: uppercase;">Upcoming Fixture</div>
       <div class="match-report-title" style="font-size: 1.15rem; font-weight: 800; margin-bottom: 0.5rem; display: flex; align-items: center;">
         <span>England</span>
         <span class="flag-vs" style="margin: 0 10px;">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
@@ -1810,7 +1810,7 @@ function renderMatchSchedule() {
         <span class="match-date-stamp" style="color: var(--text-secondary);"><i class="far fa-calendar-alt"></i> ${match.date} at ${match.time}</span>
       </div>
       <div class="schedule-item-body">
-        <h3 class="match-pairing" style="color: var(--text-dark);">England <span class="flag-vs">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
+        <h3 class="match-pairing" style="color: var(--text-white);">England <span class="flag-vs">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
         <p class="match-venue" style="color: var(--text-secondary);"><i class="fas fa-map-marker-alt"></i> ${match.venue}</p>
         <p class="match-info-desc" style="color: var(--text-primary);">${match.details}</p>
       </div>
@@ -2094,13 +2094,13 @@ function renderScoutComparison() {
   card1.innerHTML = `
     <div class="scout-avatar-big">${p1.avatar}</div>
     <div style="text-align: center; margin-top: 0.5rem;">
-      <h3 style="color: var(--text-dark); margin-bottom: 2px;">${p1.name}</h3>
+      <h3 style="color: var(--text-white); margin-bottom: 2px;">${p1.name}</h3>
       <span class="bullet-tag type-news">${p1.position}</span>
     </div>
     <div style="font-size: 0.8rem; color: var(--text-secondary); display: flex; flex-direction: column; gap: 0.4rem; background: rgba(10,31,60,0.02); border: 1px solid rgba(10,31,60,0.05); padding: 0.8rem; border-radius: var(--radius-sm); margin-top: 0.5rem;">
-      <div style="display: flex; justify-content: space-between;"><span>Club:</span><strong style="color:var(--text-dark);">${p1.club}</strong></div>
-      <div style="display: flex; justify-content: space-between;"><span>Age:</span><strong style="color:var(--text-dark);">${p1.age} yrs</strong></div>
-      <div style="display: flex; justify-content: space-between;"><span>Caps/Goals:</span><strong style="color:var(--text-dark);">${p1.caps} (${p1.goals} G)</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Club:</span><strong style="color:var(--text-white);">${p1.club}</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Age:</span><strong style="color:var(--text-white);">${p1.age} yrs</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Caps/Goals:</span><strong style="color:var(--text-white);">${p1.caps} (${p1.goals} G)</strong></div>
       <div style="display: flex; justify-content: space-between;"><span>Overall Rating:</span><strong style="color:var(--england-red); font-family: monospace;">${p1Wins > p2Wins ? 'WINNER 🏆' : 'Scout Match'}</strong></div>
     </div>
   `;
@@ -2108,13 +2108,13 @@ function renderScoutComparison() {
   card2.innerHTML = `
     <div class="scout-avatar-big">${p2.avatar}</div>
     <div style="text-align: center; margin-top: 0.5rem;">
-      <h3 style="color: var(--text-dark); margin-bottom: 2px;">${p2.name}</h3>
+      <h3 style="color: var(--text-white); margin-bottom: 2px;">${p2.name}</h3>
       <span class="bullet-tag type-blog">${p2.position}</span>
     </div>
     <div style="font-size: 0.8rem; color: var(--text-secondary); display: flex; flex-direction: column; gap: 0.4rem; background: rgba(10,31,60,0.02); border: 1px solid rgba(10,31,60,0.05); padding: 0.8rem; border-radius: var(--radius-sm); margin-top: 0.5rem;">
-      <div style="display: flex; justify-content: space-between;"><span>Club:</span><strong style="color:var(--text-dark);">${p2.club}</strong></div>
-      <div style="display: flex; justify-content: space-between;"><span>Age:</span><strong style="color:var(--text-dark);">${p2.age} yrs</strong></div>
-      <div style="display: flex; justify-content: space-between;"><span>Caps/Goals:</span><strong style="color:var(--text-dark);">${p2.caps} (${p2.goals} G)</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Club:</span><strong style="color:var(--text-white);">${p2.club}</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Age:</span><strong style="color:var(--text-white);">${p2.age} yrs</strong></div>
+      <div style="display: flex; justify-content: space-between;"><span>Caps/Goals:</span><strong style="color:var(--text-white);">${p2.caps} (${p2.goals} G)</strong></div>
       <div style="display: flex; justify-content: space-between;"><span>Overall Rating:</span><strong style="color:var(--england-red); font-family: monospace;">${p2Wins > p1Wins ? 'WINNER 🏆' : 'Scout Match'}</strong></div>
     </div>
   `;
@@ -2129,9 +2129,9 @@ function renderScoutComparison() {
     return `
       <div class="scout-stat-bar-container">
         <div class="scout-stat-label-row">
-          <span class="scout-stat-value p1" style="font-weight:${p1IsWinner ? '800' : '500'}; color: var(--text-dark);">${v1} ${p1IsWinner ? '<i class="fas fa-crown scout-winner-crown" style="color: var(--england-red)"></i>' : ''}</span>
+          <span class="scout-stat-value p1" style="font-weight:${p1IsWinner ? '800' : '500'}; color: var(--text-white);">${v1} ${p1IsWinner ? '<i class="fas fa-crown scout-winner-crown" style="color: var(--england-red)"></i>' : ''}</span>
           <span class="scout-stat-name" style="color: var(--text-secondary);">${s.name}</span>
-          <span class="scout-stat-value p2" style="font-weight:${p2IsWinner ? '800' : '500'}; color: var(--text-dark);">${p2IsWinner ? '<i class="fas fa-crown scout-winner-crown" style="color: var(--england-red)"></i>' : ''} ${v2}</span>
+          <span class="scout-stat-value p2" style="font-weight:${p2IsWinner ? '800' : '500'}; color: var(--text-white);">${p2IsWinner ? '<i class="fas fa-crown scout-winner-crown" style="color: var(--england-red)"></i>' : ''} ${v2}</span>
         </div>
         <div class="scout-stat-bar-bg" style="background: rgba(10,31,60,0.06);">
           <div class="scout-stat-bar-fill-left" id="bar-fill-l-${s.key}" style="width: 0%; background: var(--england-blue); transform: rotate(180deg); transform-origin: right;"></div>
@@ -2513,7 +2513,7 @@ function setupEventListeners() {
     pauseSim.addEventListener("click", () => {
       const statusPill = document.getElementById("sim-status-pill");
       statusPill.textContent = "Paused";
-      statusPill.style.color = "var(--text-dark)";
+      statusPill.style.color = "var(--text-white)";
       statusPill.style.background = "rgba(10,31,60,0.05)";
 
       pauseSim.style.display = "none";

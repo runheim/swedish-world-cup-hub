@@ -3,84 +3,62 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
+    "⚽ Foden a 'victim' of football's packed schedule",
     "⚽ PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
-    "⚽ Football Daily | West Ham pay the price … and a lot more still has to be paid",
-    "⚽ Sources: Shaw's City salary among highest in game"
+    "⚽ Premier League 2025-26 review: our writers’ best and worst of the season"
   ],
   "timeline": {
     "2026-05-26": {
-      "1": {
-        "timeLabel": "07:00",
-        "name": "Breakfast Camp Report",
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
         "articles": [
           {
-            "id": "dyn_swe_20260526_1",
+            "id": "crawled_5422_0",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden squad packs bags and prepares for Wednesday gather at Bosön",
+            "title": "Foden a 'victim' of football's packed schedule",
             "bullets": [
-              "Graham Potter's 26-man roster completes travel arrangements to Stockholm.",
-              "Players to check in by Wednesday morning at the Bosön national training complex.",
-              "Captain Victor Lindelöf: 'Stockholm, see you tomorrow! Roster is extremely motivated.'"
+              "Manchester City midfielder Phil Foden is a \"victim\" of football's packed fixture schedule after bein...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Ahead of tomorrow's official camp gathering, Swedish squad players are traveling from their domestic and European clubs to Stockholm. The primary base will be Lidingö's elite training complex at Bosön, preparing for the initial four-day training and tactical brief phase.",
-            "author": "Marcus Wulcan (Aftonbladet)",
+            "summary": "Manchester City midfielder Phil Foden is a \"victim\" of football's packed fixture schedule after being left out of England's World Cup squad, says the chief executive of the PFA.",
+            "author": "BBC Sport Editorial Team",
             "readTime": "3 min",
-            "tag": "Camp Gathering",
+            "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "dyn_opp_20260526_1",
-            "category": "opponent",
-            "type": "Scouting",
-            "title": "Tunisia squad performs high-altitude stamina workouts in Tabarka base",
-            "bullets": [
-              "Carthage Eagles focus on rapid defensive counter transitions under Jalel Kadri.",
-              "Midfielder Ellyes Skhiri highlights their robust tactical shape to the media.",
-              "Scouts observe Tunisia utilizing compact 4-1-4-1 layouts in custom scrimmages."
-            ],
-            "summary": "Sweden's Group F opponent Tunisia is wrapping up their secondary preparation phase in the mountainous region of Tabarka. Manager Jalel Kadri has emphasized defensive shape, looking to crowd midfield spaces and launch lightning-fast counters. Eintracht Frankfurt's Ellyes Skhiri remains their tactical anchor.",
-            "author": "CBS Sports Golazo Feed",
-            "readTime": "3 min",
-            "tag": "Opponent scouting",
-            "relatedPlayers": []
-          }
-        ]
-      },
-      "2": {
-        "timeLabel": "11:00",
-        "name": "Press Briefing",
-        "articles": [
-          {
-            "id": "dyn_swe_20260526_2",
+            "id": "crawled_5422_1",
             "category": "sweden",
             "type": "News",
-            "title": "Potter's advanced media division sets up at Bosön press center",
+            "title": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
             "bullets": [
-              "Svenska FA builds primary mixed zone facilities at Bosön headquarters.",
-              "Over 120 accredited media representatives arrive to cover training.",
-              "Svensk Fotboll announces structured daily press briefing timetable."
+              "&lt;ul&gt;&lt;li&gt;&lt;p&gt;‘Not the version of Phil Foden we saw two years ago’&lt;/p&gt;&lt;/li&g...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Svensk Fotboll's media team completed mixed-zone setup at Bosön this morning, preparing for tomorrow's official media blitz. Coach Graham Potter will conduct the inaugural press conference on Wednesday to establish camp guidelines.",
-            "author": "Olof Lundh (Fotbollskanalen)",
+            "summary": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;‘Not the version of Phil Foden we saw two years ago’&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Chief executive says game being damaged by demands&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Phil Foden and Cole Palmer missed out on this summer’s World Cup because they have been overworked, according to the chief executive of the Professional Footballers’ Association.&lt;/p&gt;&lt;p&gt;Maheta Molango was speaking as new data showed that seven of the 10 players involved in the most games across Europe’s top leagues this season were at English clubs.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/26/pfa-calls-out-crazy-calendar-as-responsible-for-cole-palmer-and-phil-foden-burnout\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
             "readTime": "3 min",
-            "tag": "Media Blitz",
+            "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "dyn_opp_20260526_2",
-            "category": "opponent",
-            "type": "Scouting",
-            "title": "Norway national team trains behind closed doors at Ullevaal Stadion",
+            "id": "crawled_5422_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
             "bullets": [
-              "Ståle Solbakken hides tactical set-piece drills ahead of Sweden warm-up.",
-              "Erling Haaland works on penalty box movements against low block setups.",
-              "Norwegian FA reports away tickets for Swedish fans are completely sold out."
+              "&lt;p&gt;The Premier League season is over, but what did Guardian football writers enjoy, dislike or...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Ahead of the Scandinavian derby on June 1, Norway's head coach Ståle Solbakken has kept the media away from training to prepare custom set-piece variations. The Norwegian side wants to leverage Erling Haaland's physical presence in the box, and security prepares for over 6,000 traveling Swedes in Oslo.",
-            "author": "UEFA News Desk",
+            "summary": "&lt;p&gt;The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? &lt;/p&gt;&lt;p&gt;Goalkeepers never usually get a mention for this award but &lt;strong&gt;David Raya&lt;/strong&gt; played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third year in a row thanks to 19 clean sheets. Declan Rice and Bruno Fernandes were the outstanding outfield players. &lt;strong&gt;Ed Aarons&lt;/strong&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
             "readTime": "3 min",
-            "tag": "Opponent scouting",
+            "tag": "Camp Brief",
             "relatedPlayers": []
           }
         ]
@@ -88,5 +66,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-26 @ 14:14:24 local time"
+  "lastUpdated": "2026-05-26 @ 17:54:22 local time"
 };
