@@ -367,6 +367,10 @@ if ticker_headlines:
     existing_data["ticker"] = ticker_headlines
     print("Updated dynamic breaking news ticker headlines.")
 
+# Update last updated timestamp
+existing_data["lastUpdated"] = datetime.now().strftime("%Y-%m-%d @ %H:%M:%S local time")
+print(f"Set lastUpdated timestamp to {existing_data['lastUpdated']}")
+
 # 8. WRITE BACK TO data.js
 try:
     with open(TARGET_FILE, "w", encoding="utf-8") as f:

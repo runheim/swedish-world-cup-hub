@@ -3,8 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Sweden squad packs bags and prepares for Wednesday gather at Bosön",
-    "🌍 Tunisia squad performs high-altitude stamina workouts in Tabarka base",
+    "⚽ Potter's advanced media division sets up at Bosön press center",
+    "🌍 Norway national team trains behind closed doors at Ullevaal Stadion",
     "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
     "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
     "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
@@ -48,8 +48,47 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "dyn_swe_20260526_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Potter's advanced media division sets up at Bosön press center",
+            "bullets": [
+              "Svenska FA builds primary mixed zone facilities at Bosön headquarters.",
+              "Over 120 accredited media representatives arrive to cover training.",
+              "Svensk Fotboll announces structured daily press briefing timetable."
+            ],
+            "summary": "Svensk Fotboll's media team completed mixed-zone setup at Bosön this morning, preparing for tomorrow's official media blitz. Coach Graham Potter will conduct the inaugural press conference on Wednesday to establish camp guidelines.",
+            "author": "Olof Lundh (Fotbollskanalen)",
+            "readTime": "3 min",
+            "tag": "Media Blitz",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260526_2",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Norway national team trains behind closed doors at Ullevaal Stadion",
+            "bullets": [
+              "Ståle Solbakken hides tactical set-piece drills ahead of Sweden warm-up.",
+              "Erling Haaland works on penalty box movements against low block setups.",
+              "Norwegian FA reports away tickets for Swedish fans are completely sold out."
+            ],
+            "summary": "Ahead of the Scandinavian derby on June 1, Norway's head coach Ståle Solbakken has kept the media away from training to prepare custom set-piece variations. The Norwegian side wants to leverage Erling Haaland's physical presence in the box, and security prepares for over 6,000 traveling Swedes in Oslo.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
-  "matchReports": {}
+  "matchReports": {},
+  "lastUpdated": "2026-05-26 @ 13:36:19 local time"
 };

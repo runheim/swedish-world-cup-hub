@@ -59,8 +59,9 @@
         <!-- News Bulletin Panel -->
         <section class="panel-card" id="bulletin-board-card">
           <div class="panel-header-with-tabs">
-            <h2 class="panel-title" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+            <h2 class="panel-title" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0; display: inline-flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;">
               <i class="far fa-newspaper"></i> Live Media Desk
+              <span class="last-updated-badge" id="news-last-updated" style="font-size: 0.72rem; color: var(--text-secondary); margin-left: 0.8rem; text-transform: none; font-weight: normal; letter-spacing: normal;">Last update: --</span>
             </h2>
             <div class="news-tabs-container">
               <button class="news-tab-btn active" id="tab-news-sweden">
@@ -108,9 +109,12 @@
 
         <!-- Match Center & Ratings Card -->
         <section class="panel-card" id="match-center-card" style="margin-bottom: 2rem;">
-          <h2 class="panel-title">
-            <i class="fas fa-trophy"></i> Match Center &amp; Ratings
-          </h2>
+          <div class="panel-header-with-tabs" style="border-bottom: none; margin-bottom: 0.8rem; padding-bottom: 0;">
+            <h2 class="panel-title" style="border-bottom: none; margin-bottom: 0; padding-bottom: 0;">
+              <i class="fas fa-trophy"></i> Match Center &amp; Ratings
+            </h2>
+            <span class="last-updated-badge" id="match-last-updated" style="font-size: 0.72rem; color: var(--text-secondary); text-transform: none; font-weight: normal; letter-spacing: normal;">Last update: --</span>
+          </div>
           <div class="match-center-wrapper">
             <div class="match-select-row" style="display: flex; flex-direction: column; gap: 0.3rem; margin-bottom: 1rem;">
               <div style="display: flex; justify-content: space-between; align-items: center;">

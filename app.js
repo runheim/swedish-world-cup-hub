@@ -1452,6 +1452,13 @@ function initApp() {
         MATCH_REPORTS_DATABASE[matchId] = DYNAMIC_HUB_DATA.matchReports[matchId];
       }
     }
+    // Inject last updated timestamps to news feed and match center headers
+    if (DYNAMIC_HUB_DATA.lastUpdated) {
+      const newsStamp = document.getElementById("news-last-updated");
+      const matchStamp = document.getElementById("match-last-updated");
+      if (newsStamp) newsStamp.textContent = `Last update: ${DYNAMIC_HUB_DATA.lastUpdated}`;
+      if (matchStamp) matchStamp.textContent = `Last update: ${DYNAMIC_HUB_DATA.lastUpdated}`;
+    }
   }
 
   // Populate breaking news ticker dynamically
