@@ -1,29 +1,36 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap');
 
 :root {
-  --sweden-blue: #006AA7;
-  --sweden-blue-rgb: 0, 106, 167;
-  --sweden-yellow: #FECC00;
-  --sweden-yellow-rgb: 254, 204, 0;
-  --sweden-yellow-hover: #E0B400;
+  --england-blue: #0A1F3C;
+  --england-blue-rgb: 10, 31, 60;
+  --england-red: #E60000;
+  --england-red-rgb: 230, 0, 0;
+  --england-red-hover: #CC0000;
+
+  --sweden-blue: var(--england-blue);
+  --sweden-blue-rgb: var(--england-blue-rgb);
+  --sweden-yellow: var(--england-red);
+  --sweden-yellow-rgb: var(--england-red-rgb);
+  --sweden-yellow-hover: var(--england-red-hover);
   
-  /* Dark premium palette */
-  --bg-dark-900: #040912;
-  --bg-dark-800: #0A1220;
-  --bg-dark-700: #121F35;
-  --bg-dark-600: #1E304E;
+  /* Light premium palette */
+  --bg-dark-900: #F8FAFC;
+  --bg-dark-800: #FFFFFF;
+  --bg-dark-700: #F1F5F9;
+  --bg-dark-600: #E2E8F0;
+  --bg-dark-500: #CBD5E1;
   
-  --text-white: #FFFFFF;
-  --text-primary: #F3F4F6;
-  --text-secondary: #9CA3AF;
-  --text-dark: #1F2937;
+  --text-white: #0A1F3C;
+  --text-primary: #1E293B;
+  --text-secondary: #64748B;
+  --text-dark: #0A1F3C;
   
   --font-primary: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --glass-bg: rgba(10, 18, 32, 0.75);
-  --glass-border: rgba(254, 204, 0, 0.15);
-  --glass-border-blue: rgba(0, 106, 167, 0.3);
-  --shadow-neon: 0 0 25px rgba(254, 204, 0, 0.15);
-  --shadow-neon-blue: 0 0 25px rgba(0, 106, 167, 0.25);
+  --glass-bg: rgba(255, 255, 255, 0.85);
+  --glass-border: rgba(10, 31, 60, 0.08);
+  --glass-border-blue: rgba(10, 31, 60, 0.12);
+  --shadow-neon: 0 10px 30px rgba(10, 31, 60, 0.04);
+  --shadow-neon-blue: 0 10px 30px rgba(10, 31, 60, 0.06);
   
   --transition-smooth: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
   --radius-lg: 16px;
@@ -41,9 +48,9 @@ body {
   font-family: var(--font-primary);
   background-color: var(--bg-dark-900);
   background-image: 
-    radial-gradient(circle at 10% 20%, rgba(0, 106, 167, 0.15) 0%, transparent 45%),
-    radial-gradient(circle at 90% 80%, rgba(254, 204, 0, 0.08) 0%, transparent 45%),
-    radial-gradient(circle at 50% 50%, rgba(10, 18, 32, 0.5) 0%, #040912 100%);
+    radial-gradient(circle at 10% 20%, rgba(10, 31, 60, 0.05) 0%, transparent 45%),
+    radial-gradient(circle at 90% 80%, rgba(230, 0, 0, 0.04) 0%, transparent 45%),
+    radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.9) 0%, #F8FAFC 100%);
   background-attachment: fixed;
   color: var(--text-primary);
   line-height: 1.6;
@@ -87,7 +94,7 @@ h1, h2, h3, h4, h5 {
   align-items: center;
   margin-bottom: 2rem;
   padding: 1.5rem;
-  background: var(--glass-bg);
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.95), rgba(248, 250, 252, 0.95));
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   border: 1px solid var(--glass-border-blue);

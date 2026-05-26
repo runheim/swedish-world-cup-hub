@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Sweden 2026 World Cup Hub - News & Roster</title>
-  <meta name="description" content="Follow the Swedish National Soccer Team's 2026 FIFA World Cup campaign. Live updates 5 times a day, interactive roster directory under manager Graham Potter.">
+  <title>England Men's National Team (Three Lions) World Cup Hub</title>
+  <meta name="description" content="Follow the England Men's National Team (Three Lions) 2026 FIFA World Cup campaign. Live updates 5 times a day, interactive roster directory under manager, and tactical whiteboard.">
   
-  <!-- Favicon with high-fidelity Sweden flag vector -->
-  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 10'%3E%3Crect width='16' height='10' fill='%23006aa7'/%3E%3Crect width='2' height='10' x='5' fill='%23fecc00'/%3E%3Crect width='16' height='2' y='4' fill='%23fecc00'/%3E%3C/svg%3E">
+  <!-- Favicon with high-fidelity England St. George's Cross vector -->
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 10'%3E%3Crect width='16' height='10' fill='%23ffffff'/%3E%3Crect width='2' height='10' x='7' fill='%23e60000'/%3E%3Crect width='16' height='2' y='4' fill='%23e60000'/%3E%3C/svg%3E">
   
   <!-- FontAwesome Icons & Stylesheet -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -22,10 +22,10 @@
     <!-- 1. Brand Header & Live countdown -->
     <header class="main-header" id="main-portal-header">
       <div class="brand-section">
-        <div class="crest-logo" id="portal-crest">🇸🇪</div>
+        <div class="crest-logo" id="portal-crest">🏴󠁧󠁢󠁥󠁮󠁧󠁿</div>
         <div class="brand-text">
-          <h1>Sweden WC 2026</h1>
-          <p id="portal-status-badge">Blågult Camp Hub</p>
+          <h1>England WC 2026</h1>
+          <p id="portal-status-badge">Three Lions Camp Hub</p>
         </div>
       </div>
       
@@ -65,10 +65,10 @@
             </h2>
             <div class="news-tabs-container">
               <button class="news-tab-btn active" id="tab-news-sweden">
-                <span class="flag-mini">🇸🇪</span> Sweden News &amp; Blogs
+                <span class="flag-mini">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> England News &amp; Blogs
               </button>
               <button class="news-tab-btn" id="tab-news-opponent">
-                <span class="flag-mini">🌍</span> Opponent Scouting (Group F)
+                <span class="flag-mini">🌍</span> Opponent Scouting (Group C)
               </button>
             </div>
           </div>
@@ -100,7 +100,7 @@
         <!-- Match Schedule Card -->
         <section class="panel-card" id="match-timeline-card" style="margin-bottom: 2rem;">
           <h2 class="panel-title">
-            <i class="far fa-calendar-alt"></i> Match Schedule (Group F)
+            <i class="far fa-calendar-alt"></i> Match Schedule (Group C)
           </h2>
           <div class="match-schedule-container" id="match-schedule-container">
             <!-- Matches timeline loaded here -->
@@ -119,22 +119,22 @@
             <div class="match-select-row" style="display: flex; flex-direction: column; gap: 0.3rem; margin-bottom: 1rem;">
               <div style="display: flex; justify-content: space-between; align-items: center;">
                 <label for="match-center-selector" style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase;">Select Match:</label>
-                <label class="switch-mini" style="display: flex; align-items: center; gap: 0.4rem; font-size: 0.72rem; color: var(--sweden-yellow); cursor: pointer; font-weight: 700;">
-                  <input type="checkbox" id="force-unlock-report" style="cursor: pointer; accent-color: var(--sweden-yellow);"> Force Unlock Result
+                <label class="switch-mini" style="display: flex; align-items: center; gap: 0.4rem; font-size: 0.72rem; color: var(--england-red); cursor: pointer; font-weight: 700;">
+                  <input type="checkbox" id="force-unlock-report" style="cursor: pointer; accent-color: var(--england-red);"> Force Unlock Result
                 </label>
               </div>
-              <select class="sim-select" id="match-center-selector" style="width: 100%; background: var(--bg-dark-700); border-color: var(--bg-dark-600); padding: 0.4rem 0.8rem; border-radius: var(--radius-md); color: var(--text-white); font-family: inherit; font-weight: 600; outline: none; cursor: pointer;">
-                <option value="match_norway">vs. Norway 🇳🇴 (Warm-up)</option>
-                <option value="match_tunisia">vs. Tunisia 🇹🇳 (World Cup)</option>
-                <option value="match_netherlands">vs. Netherlands 🇳🇱 (World Cup)</option>
-                <option value="match_japan">vs. Japan 🇯🇵 (World Cup)</option>
+              <select class="sim-select" id="match-center-selector" style="width: 100%; background: var(--bg-light-700); border-color: var(--bg-light-600); padding: 0.4rem 0.8rem; border-radius: var(--radius-md); color: var(--text-dark); font-family: inherit; font-weight: 600; outline: none; cursor: pointer;">
+                <option value="match_ireland">vs. Republic of Ireland 🇮🇪 (Warm-up)</option>
+                <option value="match_usa">vs. United States 🇺🇸 (World Cup)</option>
+                <option value="match_slovenia">vs. Slovenia 🇸🇮 (World Cup)</option>
+                <option value="match_senegal">vs. Senegal 🇸🇳 (World Cup)</option>
               </select>
-              <button class="ratings-toggle-btn" id="match-center-simulate-btn" style="width: 100%; margin-top: 0.5rem; background: linear-gradient(135deg, var(--sweden-blue), rgba(0, 106, 167, 0.8)); border-color: var(--sweden-blue); font-size: 0.78rem; padding: 0.5rem; font-weight: 700; display: inline-flex; justify-content: center; align-items: center; gap: 0.5rem; transition: var(--transition-smooth); cursor: pointer;">
-                <i class="fas fa-bolt" style="color: var(--sweden-yellow);"></i> Simulate Live Match Day
+              <button class="ratings-toggle-btn" id="match-center-simulate-btn" style="width: 100%; margin-top: 0.5rem; background: linear-gradient(135deg, var(--england-blue), rgba(10, 31, 60, 0.8)); border-color: var(--england-blue); font-size: 0.78rem; padding: 0.5rem; font-weight: 700; display: inline-flex; justify-content: center; align-items: center; gap: 0.5rem; transition: var(--transition-smooth); cursor: pointer; color: var(--text-white);">
+                <i class="fas fa-bolt" style="color: var(--england-red);"></i> Simulate Live Match Day
               </button>
             </div>
             
-            <div class="match-center-content" id="match-center-content" style="background: rgba(4, 9, 18, 0.4); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: var(--radius-md); padding: 1.2rem; min-height: 150px;">
+            <div class="match-center-content" id="match-center-content" style="background: rgba(10, 31, 60, 0.03); border: 1px solid rgba(10, 31, 60, 0.05); border-radius: var(--radius-md); padding: 1.2rem; min-height: 150px; color: var(--text-primary);">
               <!-- Dynamically populated Match Report / Preview -->
             </div>
           </div>
@@ -172,18 +172,15 @@
         <!-- Tactical Lineup Pitch Card -->
         <section class="panel-card" id="tactical-field-card">
           <h2 class="panel-title" id="tactical-pitch-title">
-            <i class="fas fa-chess-board"></i> Graham Potter's 3-4-2-1
+            <i class="fas fa-chess-board"></i> Fluid 4-2-3-1 Formation
           </h2>
           <!-- Whiteboard Tabs -->
           <div class="news-tabs-container" style="margin-bottom: 1rem; width: 100%; display: flex; padding: 2px;">
-            <button class="news-tab-btn active" id="whiteboard-tab-3421" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
-              3-4-2-1
+            <button class="news-tab-btn active" id="whiteboard-tab-4231" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
+              4-2-3-1 (Fluid)
             </button>
-            <button class="news-tab-btn" id="whiteboard-tab-433" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
-              4-3-3
-            </button>
-            <button class="news-tab-btn" id="whiteboard-tab-451" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
-              4-5-1
+            <button class="news-tab-btn" id="whiteboard-tab-343" style="flex-grow: 1; justify-content: center; font-size: 0.78rem; padding: 0.4rem 0.5rem; font-weight: 700;">
+              3-4-3 (Defensive)
             </button>
           </div>
           <div class="pitch-container">
@@ -191,17 +188,17 @@
               <!-- Green pitch with lines and absolute player jerseys injected here -->
             </div>
             <div class="pitch-overlays-controls" style="display: flex; gap: 1rem; justify-content: center; margin: 0.8rem 0; font-size: 0.75rem;">
-              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-white); font-weight: 700;">
-                <input type="checkbox" id="whiteboard-show-pressing" style="accent-color: var(--sweden-yellow); cursor: pointer;"> Show Pressing Zones
+              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-primary); font-weight: 700;">
+                <input type="checkbox" id="whiteboard-show-pressing" style="accent-color: var(--england-red); cursor: pointer;"> Show Pressing Zones
               </label>
-              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-white); font-weight: 700;">
-                <input type="checkbox" id="whiteboard-show-runs" style="accent-color: var(--sweden-yellow); cursor: pointer;"> Show Run Arrows
+              <label style="cursor: pointer; display: flex; align-items: center; gap: 0.3rem; color: var(--text-primary); font-weight: 700;">
+                <input type="checkbox" id="whiteboard-show-runs" style="accent-color: var(--england-red); cursor: pointer;"> Show Run Arrows
               </label>
             </div>
             <div class="pitch-info-bar" style="margin-bottom: 0.8rem;">
               Click a player on the pitch to see complete international stats
             </div>
-            <div class="whiteboard-briefing-box" id="whiteboard-briefing-box" style="background: rgba(4, 9, 18, 0.45); border: 1px solid rgba(255, 255, 255, 0.05); border-radius: var(--radius-md); padding: 0.8rem; font-size: 0.75rem; color: var(--text-secondary); line-height: 1.45;">
+            <div class="whiteboard-briefing-box" id="whiteboard-briefing-box" style="background: rgba(10, 31, 60, 0.05); border: 1px solid rgba(10, 31, 60, 0.1); border-radius: var(--radius-md); padding: 0.8rem; font-size: 0.75rem; color: var(--text-secondary); line-height: 1.45;">
               <!-- Dynamic tactical briefing here -->
             </div>
           </div>
@@ -214,21 +211,21 @@
     <!-- 5. The Scout Room (Spelarkampen) -->
     <section class="squad-section" id="scout-room-section" style="margin-top: 4rem;">
       <h2 class="section-title"><i class="fas fa-chart-bar"></i> The Scout Room (Spelarkampen)</h2>
-      <p style="color: var(--text-secondary); font-size: 0.85rem; margin-top: -1rem; margin-bottom: 2rem;">Compare any two Swedish squad players side-by-side to analyze their tactical strengths and key attributes.</p>
+      <p style="color: var(--text-secondary); font-size: 0.85rem; margin-top: -1rem; margin-bottom: 2rem;">Compare any two England squad players side-by-side to analyze their tactical strengths and key attributes.</p>
       
-      <div class="scout-wrapper" style="background: var(--bg-dark-800); border: 1px solid rgba(255,255,255,0.05); border-radius: var(--radius-lg); padding: 2rem; display: flex; flex-direction: column; gap: 1.5rem;">
+      <div class="scout-wrapper" style="background: var(--bg-light-800); border: 1px solid rgba(10, 31, 60, 0.1); border-radius: var(--radius-lg); padding: 2rem; display: flex; flex-direction: column; gap: 1.5rem; box-shadow: var(--shadow-neon);">
         
         <!-- Selectors Row -->
         <div class="scout-selectors-row" style="display: flex; gap: 1.5rem; flex-wrap: wrap;">
           <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; gap: 0.5rem;">
             <label for="scout-player-1" style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase;">Compare Player 1:</label>
-            <select class="sim-select" id="scout-player-1" style="width: 100%; background: var(--bg-dark-700); border-color: var(--bg-dark-600); padding: 0.5rem 1rem; border-radius: var(--radius-md); color: var(--text-white); font-weight: 600; outline: none; cursor: pointer;">
+            <select class="sim-select" id="scout-player-1" style="width: 100%; background: var(--bg-light-700); border-color: var(--bg-light-600); padding: 0.5rem 1rem; border-radius: var(--radius-md); color: var(--text-dark); font-weight: 600; outline: none; cursor: pointer;">
               <!-- Filled in app.js -->
             </select>
           </div>
           <div style="flex: 1; min-width: 250px; display: flex; flex-direction: column; gap: 0.5rem;">
             <label for="scout-player-2" style="font-size: 0.8rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase;">Compare Player 2:</label>
-            <select class="sim-select" id="scout-player-2" style="width: 100%; background: var(--bg-dark-700); border-color: var(--bg-dark-600); padding: 0.5rem 1rem; border-radius: var(--radius-md); color: var(--text-white); font-weight: 600; outline: none; cursor: pointer;">
+            <select class="sim-select" id="scout-player-2" style="width: 100%; background: var(--bg-light-700); border-color: var(--bg-light-600); padding: 0.5rem 1rem; border-radius: var(--radius-md); color: var(--text-dark); font-weight: 600; outline: none; cursor: pointer;">
               <!-- Filled in app.js -->
             </select>
           </div>
@@ -238,17 +235,17 @@
         <div class="scout-dashboard-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin-top: 1rem;">
           
           <!-- Player 1 Card -->
-          <div class="scout-player-card animate card-pop" id="scout-player-card-1" style="background: rgba(0, 106, 167, 0.05); border: 1px solid rgba(0, 106, 167, 0.15); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
+          <div class="scout-player-card animate card-pop" id="scout-player-card-1" style="background: rgba(10, 31, 60, 0.03); border: 1px solid rgba(10, 31, 60, 0.1); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
             <!-- Rendered in app.js -->
           </div>
 
           <!-- Attributes Comparison Center -->
-          <div class="scout-comparison-bars" id="scout-comparison-bars" style="background: rgba(4, 9, 18, 0.3); border: 1px solid rgba(255, 255, 255, 0.02); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; gap: 1.2rem; justify-content: center;">
+          <div class="scout-comparison-bars" id="scout-comparison-bars" style="background: rgba(10, 31, 60, 0.01); border: 1px solid rgba(10, 31, 60, 0.05); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; gap: 1.2rem; justify-content: center;">
             <!-- Rendered in app.js -->
           </div>
 
           <!-- Player 2 Card -->
-          <div class="scout-player-card animate card-pop" id="scout-player-card-2" style="background: rgba(254, 204, 0, 0.03); border: 1px solid rgba(254, 204, 0, 0.1); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
+          <div class="scout-player-card animate card-pop" id="scout-player-card-2" style="background: rgba(230, 0, 0, 0.01); border: 1px solid rgba(230, 0, 0, 0.08); border-radius: var(--radius-md); padding: 1.5rem; display: flex; flex-direction: column; gap: 1rem;">
             <!-- Rendered in app.js -->
           </div>
 
@@ -289,9 +286,9 @@
     </section>
 
     <!-- Footer branding -->
-    <footer style="margin-top: 5rem; padding: 2rem; border-top: 1px solid rgba(255, 255, 255, 0.05); text-align: center; color: var(--text-secondary); font-size: 0.85rem;">
-      <p>© 2026 Sweden Football World Cup Portal. All rights reserved.</p>
-      <p style="margin-top: 5px; font-size: 0.75rem;">Designed with a proud yellow and blue tradition 🇸🇪</p>
+    <footer style="margin-top: 5rem; padding: 2rem; border-top: 1px solid rgba(10, 31, 60, 0.08); text-align: center; color: var(--text-secondary); font-size: 0.85rem;">
+      <p>© 2026 England Football World Cup Portal. All rights reserved.</p>
+      <p style="margin-top: 5px; font-size: 0.75rem;">Designed with a proud Three Lions tradition 🏴󠁧󠁢󠁥󠁮󠁧󠁿</p>
     </footer>
 
   </div>
@@ -320,10 +317,10 @@
   <!-- PLAYER PROFILE DETAIL MODAL OVERLAY -->
   <div class="modal-overlay" id="player-profile-modal">
     <div class="modal-backdrop"></div>
-    <div class="modal-box" style="border-color: var(--sweden-blue);">
+    <div class="modal-box" style="border-color: var(--england-blue);">
       <button class="modal-close" aria-label="Close modal"><i class="fas fa-times"></i></button>
       <div class="player-modal-header">
-        <div class="player-modal-avatar" id="player-modal-avatar">🇸🇪</div>
+        <div class="player-modal-avatar" id="player-modal-avatar">🏴󠁧󠁢󠁥󠁮󠁧󠁿</div>
         <div class="player-modal-title-box">
           <h2 id="player-modal-name">Player Name <span class="modal-jersey-pill">#0</span></h2>
           <div class="player-modal-meta-box" id="player-modal-meta">
@@ -343,40 +340,40 @@
   <!-- LIVE MATCH DAY SIMULATOR MODAL OVERLAY -->
   <div class="modal-overlay" id="match-simulator-modal">
     <div class="modal-backdrop"></div>
-    <div class="modal-box" style="max-width: 650px; border-color: var(--sweden-yellow); background: rgba(5, 12, 26, 0.97);">
-      <button class="modal-close" id="simulator-modal-close" aria-label="Close modal"><i class="fas fa-times"></i></button>
+    <div class="modal-box" style="max-width: 650px; border-color: var(--england-red); background: rgba(255, 255, 255, 0.98); color: var(--text-dark);">
+      <button class="modal-close" id="simulator-modal-close" aria-label="Close modal" style="color: var(--text-dark);"><i class="fas fa-times"></i></button>
       
       <!-- Simulator Header Scoreboard -->
-      <div class="sim-modal-header" style="border-bottom: 1px solid rgba(255,255,255,0.06); padding-bottom: 1rem; margin-bottom: 1.5rem; text-align: center;">
-        <span style="font-size: 0.65rem; font-weight: 800; color: var(--sweden-yellow); text-transform: uppercase; letter-spacing: 0.1em; display: block; margin-bottom: 5px;">LIVE Match Day Simulator</span>
+      <div class="sim-modal-header" style="border-bottom: 1px solid rgba(10,31,60,0.1); padding-bottom: 1rem; margin-bottom: 1.5rem; text-align: center;">
+        <span style="font-size: 0.65rem; font-weight: 800; color: var(--england-red); text-transform: uppercase; letter-spacing: 0.1em; display: block; margin-bottom: 5px;">LIVE Match Day Simulator</span>
         
         <div class="sim-scoreboard" style="display: flex; justify-content: center; align-items: center; gap: 1rem; margin: 0.8rem 0;">
           <div style="flex: 1; text-align: right;">
-            <span style="font-size: 1.2rem; font-weight: 800; color: var(--text-white);">Sverige</span>
-            <span style="font-size: 1.5rem; margin-left: 5px;">🇸🇪</span>
+            <span style="font-size: 1.2rem; font-weight: 800; color: var(--text-dark);">England</span>
+            <span style="font-size: 1.5rem; margin-left: 5px;">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
           </div>
-          <div class="sim-score-display" id="sim-score-display" style="font-family: monospace; font-size: 2.2rem; font-weight: 800; color: var(--sweden-yellow); background: var(--bg-dark-900); padding: 0.3rem 1.2rem; border-radius: var(--radius-md); letter-spacing: 2px; text-shadow: 0 0 10px rgba(254,204,0,0.3); min-width: 100px;">0 - 0</div>
+          <div class="sim-score-display" id="sim-score-display" style="font-family: monospace; font-size: 2.2rem; font-weight: 800; color: var(--england-red); background: var(--bg-light-900); padding: 0.3rem 1.2rem; border-radius: var(--radius-md); letter-spacing: 2px; text-shadow: 0 0 10px rgba(230,0,0,0.1); min-width: 100px;">0 - 0</div>
           <div style="flex: 1; text-align: left;">
-            <span style="font-size: 1.5rem; margin-right: 5px;" id="sim-opp-flag">🇳🇴</span>
-            <span style="font-size: 1.2rem; font-weight: 800; color: var(--text-white);" id="sim-opp-name">Norway</span>
+            <span style="font-size: 1.5rem; margin-right: 5px;" id="sim-opp-flag">🇮🇪</span>
+            <span style="font-size: 1.2rem; font-weight: 800; color: var(--text-dark);" id="sim-opp-name">Rep. of Ireland</span>
           </div>
         </div>
 
         <div style="display: flex; justify-content: center; align-items: center; gap: 0.8rem;">
-          <div class="sim-clock" id="sim-clock" style="font-family: monospace; font-size: 0.95rem; font-weight: 800; color: var(--text-white); background: rgba(255,255,255,0.05); padding: 0.2rem 0.6rem; border-radius: var(--radius-sm);">00:00</div>
+          <div class="sim-clock" id="sim-clock" style="font-family: monospace; font-size: 0.95rem; font-weight: 800; color: var(--text-dark); background: rgba(10,31,60,0.05); padding: 0.2rem 0.6rem; border-radius: var(--radius-sm);">00:00</div>
           <div class="sim-status-pill" id="sim-status-pill" style="font-size: 0.65rem; font-weight: 800; color: #10B981; background: rgba(16,185,129,0.1); padding: 0.2rem 0.6rem; border-radius: var(--radius-sm); text-transform: uppercase;">Not Started</div>
         </div>
       </div>
 
       <!-- Simulator Controls Row -->
-      <div class="sim-modal-controls" style="display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 1.5rem; background: rgba(255,255,255,0.02); padding: 0.6rem 1rem; border-radius: var(--radius-md); font-size: 0.8rem;">
+      <div class="sim-modal-controls" style="display: flex; justify-content: space-between; align-items: center; gap: 1rem; margin-bottom: 1.5rem; background: rgba(10,31,60,0.02); padding: 0.6rem 1rem; border-radius: var(--radius-md); font-size: 0.8rem;">
         <div style="display: flex; gap: 0.5rem;">
           <button class="filter-btn" id="sim-control-play" style="padding: 0.3rem 0.8rem; font-size: 0.75rem;"><i class="fas fa-play"></i> Start</button>
           <button class="filter-btn" id="sim-control-pause" style="padding: 0.3rem 0.8rem; font-size: 0.75rem; display: none;"><i class="fas fa-pause"></i> Pause</button>
         </div>
         <div style="display: flex; align-items: center; gap: 0.5rem; color: var(--text-secondary);">
           <span>Speed:</span>
-          <select id="sim-speed-select" class="sim-select" style="background: var(--bg-dark-700); border-color: var(--bg-dark-600); padding: 0.2rem 0.5rem; font-size: 0.75rem; color: var(--text-white); font-weight: 600; border-radius: var(--radius-sm); outline: none;">
+          <select id="sim-speed-select" class="sim-select" style="background: var(--bg-light-700); border-color: var(--bg-light-600); padding: 0.2rem 0.5rem; font-size: 0.75rem; color: var(--text-dark); font-weight: 600; border-radius: var(--radius-sm); outline: none;">
             <option value="150">1x Speed</option>
             <option value="80">2x Speed</option>
             <option value="30">5x Speed</option>
@@ -390,29 +387,29 @@
         
         <!-- Possession Bar -->
         <div style="display: flex; flex-direction: column; gap: 3px;">
-          <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-white); font-weight: 600;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: var(--text-dark); font-weight: 600;">
             <span>Possession</span>
             <span><span id="sim-stat-poss-swe">50</span>% - <span id="sim-stat-poss-opp">50</span>%</span>
           </div>
-          <div class="sim-bar-bg" style="height: 6px; background: rgba(255,255,255,0.06); border-radius: 3px; display: flex; overflow: hidden;">
-            <div id="sim-bar-poss-swe" style="width: 50%; background: var(--sweden-blue); transition: width 0.3s ease;"></div>
-            <div id="sim-bar-poss-opp" style="width: 50%; background: var(--sweden-yellow); transition: width 0.3s ease;"></div>
+          <div class="sim-bar-bg" style="height: 6px; background: rgba(10,31,60,0.06); border-radius: 3px; display: flex; overflow: hidden;">
+            <div id="sim-bar-poss-swe" style="width: 50%; background: var(--england-blue); transition: width 0.3s ease;"></div>
+            <div id="sim-bar-poss-opp" style="width: 50%; background: var(--england-red); transition: width 0.3s ease;"></div>
           </div>
         </div>
 
         <!-- Stat Row Counters -->
         <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; text-align: center; margin-top: 0.5rem;">
-          <div style="background: rgba(255,255,255,0.01); border: 1px solid rgba(255,255,255,0.03); border-radius: var(--radius-sm); padding: 0.4rem;">
+          <div style="background: rgba(10,31,60,0.02); border: 1px solid rgba(10,31,60,0.05); border-radius: var(--radius-sm); padding: 0.4rem;">
             <div style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 3px;">Shots</div>
-            <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-white); font-family: monospace;" id="sim-stat-shots">0 - 0</div>
+            <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-dark); font-family: monospace;" id="sim-stat-shots">0 - 0</div>
           </div>
-          <div style="background: rgba(255,255,255,0.01); border: 1px solid rgba(255,255,255,0.03); border-radius: var(--radius-sm); padding: 0.4rem;">
+          <div style="background: rgba(10,31,60,0.02); border: 1px solid rgba(10,31,60,0.05); border-radius: var(--radius-sm); padding: 0.4rem;">
             <div style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 3px;">Corners</div>
-            <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-white); font-family: monospace;" id="sim-stat-corners">0 - 0</div>
+            <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-dark); font-family: monospace;" id="sim-stat-corners">0 - 0</div>
           </div>
-          <div style="background: rgba(255,255,255,0.01); border: 1px solid rgba(255,255,255,0.03); border-radius: var(--radius-sm); padding: 0.4rem;">
+          <div style="background: rgba(10,31,60,0.02); border: 1px solid rgba(10,31,60,0.05); border-radius: var(--radius-sm); padding: 0.4rem;">
             <div style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 3px;">Fouls</div>
-            <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-white); font-family: monospace;" id="sim-stat-fouls">0 - 0</div>
+            <div style="font-size: 1.1rem; font-weight: 800; color: var(--text-dark); font-family: monospace;" id="sim-stat-fouls">0 - 0</div>
           </div>
         </div>
       </div>
@@ -420,14 +417,14 @@
       <!-- Scrolling Commentary Log -->
       <div class="sim-modal-commentary" style="margin-bottom: 1.5rem;">
         <h4 style="font-size: 0.75rem; font-weight: 800; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem;"><i class="far fa-comments"></i> Live Match Log</h4>
-        <div id="sim-commentary-log" style="height: 180px; overflow-y: auto; background: rgba(0,0,0,0.3); border: 1px solid rgba(255,255,255,0.04); border-radius: var(--radius-md); padding: 0.8rem; display: flex; flex-direction: column; gap: 0.6rem; font-size: 0.78rem;">
+        <div id="sim-commentary-log" style="height: 180px; overflow-y: auto; background: rgba(0,0,0,0.03); border: 1px solid rgba(10,31,60,0.06); border-radius: var(--radius-md); padding: 0.8rem; display: flex; flex-direction: column; gap: 0.6rem; font-size: 0.78rem; color: var(--text-primary);">
           <!-- Commentary bubbles loaded dynamically -->
         </div>
       </div>
 
       <!-- Match End Action row -->
-      <div class="sim-modal-footer" id="sim-modal-footer" style="display: none; border-top: 1px solid rgba(255,255,255,0.06); padding-top: 1.2rem; text-align: center;">
-        <button class="ratings-toggle-btn" id="sim-btn-view-report" style="width: auto; padding: 0.6rem 2rem; display: inline-flex; justify-content: center; align-items: center; gap: 0.5rem; font-size: 0.85rem; cursor: pointer;">
+      <div class="sim-modal-footer" id="sim-modal-footer" style="display: none; border-top: 1px solid rgba(10,31,60,0.1); padding-top: 1.2rem; text-align: center;">
+        <button class="ratings-toggle-btn" id="sim-btn-view-report" style="width: auto; padding: 0.6rem 2rem; display: inline-flex; justify-content: center; align-items: center; gap: 0.5rem; font-size: 0.85rem; cursor: pointer; color: var(--text-white);">
           <i class="fas fa-file-alt"></i> View Match Report &amp; Ratings
         </button>
       </div>
@@ -437,11 +434,11 @@
 
   <!-- GOAL FLASH OVERLAY ANIMATION PANEL -->
   <div id="goal-flash-overlay" style="display: none; position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; z-index: 10000; align-items: center; justify-content: center; pointer-events: none; transition: opacity 0.3s ease;">
-    <div id="goal-flash-bg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; background: linear-gradient(135deg, #006AA7 30%, #FECC00 70%);"></div>
-    <div id="goal-flash-banner" style="position: relative; text-align: center; transform: scale(0.5); opacity: 0; transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.5s ease; padding: 2rem 4rem; border-radius: var(--radius-lg); background: rgba(4,9,18,0.9); border: 3px solid var(--sweden-yellow); box-shadow: 0 0 50px rgba(254,204,0,0.5);">
-      <h2 style="font-size: 3.5rem; font-weight: 900; color: var(--sweden-yellow); text-transform: uppercase; letter-spacing: 0.1em; margin: 0; text-shadow: 0 0 20px rgba(254,204,0,0.6);"><i class="fas fa-futbol fa-spin"></i> GOAL!</h2>
-      <p style="font-size: 1.3rem; color: var(--text-white); font-weight: 700; margin: 0.5rem 0 0 0;" id="goal-flash-scorer">Alexander Isak scores!</p>
-      <p style="font-size: 1.8rem; font-weight: 800; color: var(--sweden-yellow); font-family: monospace; margin: 0.5rem 0 0 0;" id="goal-flash-score">Sverige 1 - 0 Tunisia</p>
+    <div id="goal-flash-bg" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0; background: linear-gradient(135deg, #0A1F3C 30%, #E60000 70%);"></div>
+    <div id="goal-flash-banner" style="position: relative; text-align: center; transform: scale(0.5); opacity: 0; transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275), opacity 0.5s ease; padding: 2rem 4rem; border-radius: var(--radius-lg); background: rgba(255,255,255,0.98); border: 3px solid var(--england-red); box-shadow: 0 0 50px rgba(230,0,0,0.3);">
+      <h2 style="font-size: 3.5rem; font-weight: 900; color: var(--england-red); text-transform: uppercase; letter-spacing: 0.1em; margin: 0; text-shadow: 0 0 20px rgba(230,0,0,0.2);"><i class="fas fa-futbol fa-spin"></i> GOAL!</h2>
+      <p style="font-size: 1.3rem; color: var(--text-dark); font-weight: 700; margin: 0.5rem 0 0 0;" id="goal-flash-scorer">Harry Kane scores!</p>
+      <p style="font-size: 1.8rem; font-weight: 800; color: var(--england-red); font-family: monospace; margin: 0.5rem 0 0 0;" id="goal-flash-score">England 1 - 0 USA</p>
     </div>
   </div>
 

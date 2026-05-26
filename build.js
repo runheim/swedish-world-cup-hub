@@ -4,7 +4,7 @@ const path = require('path');
 const filesToCopy = ['index.html', 'index.css', 'app.js', 'data.js'];
 const distFolder = path.join(__dirname, 'dist');
 
-console.log('Starting Swedish World Cup Hub compilation build...');
+console.log('Starting England Men\'s National Team World Cup Hub compilation build...');
 
 try {
   // Create dist folder if it doesn't exist

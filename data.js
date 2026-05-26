@@ -3,11 +3,9 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Potter's advanced media division sets up at Bosön press center",
-    "🌍 Norway national team trains behind closed doors at Ullevaal Stadion",
-    "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-    "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-    "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
+    "⚽ PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
+    "⚽ Football Daily | West Ham pay the price … and a lot more still has to be paid",
+    "⚽ Sources: Shaw's City salary among highest in game"
   ],
   "timeline": {
     "2026-05-26": {
@@ -90,5 +88,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-26 @ 13:36:19 local time"
+  "lastUpdated": "2026-05-26 @ 14:14:24 local time"
 };

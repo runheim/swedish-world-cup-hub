@@ -9,7 +9,7 @@ DIST_DIR = os.path.join(BASE_DIR, "dist")
 FILES_TO_CHECK = ["index.html", "index.css", "app.js", "data.js"]
 
 print("==================================================")
-print("     SWEDEN 2026 WORLD CUP PORTAL HEALTH CHECK     ")
+print("     ENGLAND 2026 WORLD CUP PORTAL HEALTH CHECK     ")
 print("==================================================")
 
 try:
