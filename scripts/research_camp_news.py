@@ -181,13 +181,13 @@ fallback_database = {
             "type": "News"
         },
         "opponent": {
-            "title": "Croatia squad performs intensive training camp sessions in Georgia base",
+            "title": "Croatia squad performs intensive training camp sessions at their US base",
             "bullets": [
-                "Croatia focus on rapid wide transition counter setups in Atlanta workouts.",
-                "Midfielder Weston McKennie highlights their robust tactical shape to the media.",
-                "Scouts observe USA utilizing compact 4-3-3 layouts in custom scrimmages."
+                "Croatia focus on rapid possession-based setups in their preparation workouts.",
+                "Captain Luka Modrić leads the technical training drills with surgical precision.",
+                "Scouts observe Croatia utilizing fluid 4-3-3 layouts in custom scrimmages."
             ],
-            "summary": "England's Group L opponent United States is wrapping up their secondary preparation phase in Georgia. Manager Gregg Berhalter has emphasized defensive shape, looking to crowd midfield spaces and launch counter attacks. Milan's Christian Modrić remains their tactical anchor.",
+            "summary": "England's Group L opener opponent Croatia is wrapping up their secondary preparation phase in the United States. Manager Zlatko Dalić has emphasized possession control, looking to dominate midfield and create chances through the flanks. Real Madrid's Luka Modrić remains their tactical anchor.",
             "author": "Fox Soccer News Desk",
             "tag": "Opponent scouting",
             "type": "Scouting"
@@ -207,13 +207,13 @@ fallback_database = {
             "type": "News"
         },
         "opponent": {
-            "title": "Ghana national team trains behind closed doors in base camp",
+            "title": "Ghana national team trains behind closed doors at their base camp",
             "bullets": [
-                "Otto Addo hides tactical set-piece drills ahead of England warm-up.",
+                "Otto Addo hides tactical set-piece drills ahead of the World Cup group match.",
                 "Mohammed Kudus works on penalty box movements against low block setups.",
-                "Slovenian FA reports away ticket allocations are completely sold out."
+                "Ghanaian FA reports ticket allocations for traveling fans are completely sold out."
             ],
-            "summary": "Ahead of the World Cup group match, Slovenia's head coach Otto Addo has kept the media away from training to prepare custom set-piece variations. The Slovenian side wants to leverage Mohammed Kudus's physical presence in the box, and security prepares for massive traveling supporters.",
+            "summary": "Ahead of the World Cup group match, Ghana's head coach Otto Addo has kept the media away from training to prepare custom set-piece variations. The Black Stars want to leverage Mohammed Kudus's creative presence in the final third, and security prepares for massive traveling supporters.",
             "author": "UEFA News Desk",
             "tag": "Opponent scouting",
             "type": "Scouting"
@@ -233,13 +233,13 @@ fallback_database = {
             "type": "Analysis"
         },
         "opponent": {
-            "title": "Panama tactical scout notes defensive organization to full running registers",
+            "title": "Panama tactical scout notes defensive organization at full running registers",
             "bullets": [
-                "Adalberto Carrasquilla participates in partial team drills in Dakar base.",
+                "Adalberto Carrasquilla participates in partial team drills at their base camp.",
                 "Canal Men manager Thomas Christiansen remains optimistic about their frontline balance.",
-                "Panama focuses on 4-3-3 transition speed with Mane and Jackson."
+                "Panama focuses on 4-3-3 transition speed with José Fajardo and Edgar Bárcenas."
             ],
-            "summary": "England's heavy-hitter group opponent Panama has received a major boost as Adalberto Carrasquilla completed running and passing blocks yesterday. Thomas Christiansen's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Sadio Mane and Jackson in 1v1 duels.",
+            "summary": "England's Group L opponent Panama has received a major boost as Adalberto Carrasquilla completed running and passing blocks yesterday. Thomas Christiansen's staff is preparing an aggressive, counter-attacking 4-3-3 shape, focusing on rapid transitions through José Fajardo and Edgar Bárcenas on the flanks.",
             "author": "ESPN FC Editorial",
             "tag": "Opponent scouting",
             "type": "Scouting"
@@ -259,13 +259,13 @@ fallback_database = {
             "type": "Column"
         },
         "opponent": {
-            "title": "Croatia locks in high-tempo possession drills at Atlanta preparation site",
+            "title": "Croatia locks in high-tempo possession drills at their preparation site",
             "bullets": [
-                "Croatia practice relentless full-pitch pressing under tactical layouts.",
-                "Christian Modrić clocks top sprinting speeds in recovery scenarios.",
-                "American scouts monitor England's tactical lineup adjustments."
+                "Croatia practice relentless full-pitch pressing under Zlatko Dalić's tactical layouts.",
+                "Luka Modrić clocks top passing accuracy in controlled possession scenarios.",
+                "Scouts monitor Croatia's tactical lineup adjustments ahead of the England opener."
             ],
-            "summary": "England's opening group stage opponent Croatia has arrived at their camp in Atlanta, immediately starting high-tempo pressing sessions. The Americans are tailoring an aggressive wide system, with Milan's Christian Modrić looking fully fit and sharp on the left wing, presenting a major threat to England's flank space.",
+            "summary": "England's opening group stage opponent Croatia has arrived at their camp in the United States, immediately starting high-tempo pressing sessions. Dalić's side is tailoring a fluid possession-oriented system, with Real Madrid's Luka Modrić looking fully fit and sharp in the midfield, presenting a major threat to England's central spaces.",
             "author": "Fox Soccer News Desk",
             "tag": "Opponent scouting",
             "type": "Scouting"
@@ -285,13 +285,13 @@ fallback_database = {
             "type": "Blog"
         },
         "opponent": {
-            "title": "Group L Analysis: Global analysts flag England vs USA as the key opener",
+            "title": "Group L Analysis: Global analysts flag England vs Croatia as the key opener",
             "bullets": [
-                "Tactical pundits predict England's width will clash with USA's athletic block.",
-                "ESPN pundits: 'Three Lions opener in Atlanta is the ultimate group decider.'",
+                "Tactical pundits predict England's width will clash with Croatia's midfield control.",
+                "ESPN pundits: 'Three Lions opener against Croatia is the ultimate group decider.'",
                 "Winner of the opener is projected to have an 85% chance of reaching the knockouts."
             ],
-            "summary": "International soccer analysts at ESPN FC designated England's opener against the USA as the absolute deciding fixture of Group L. Pundits highlighted the clash of styles: England's fluid, possession-oriented 4-2-3-1 versus Croatia's extremely rapid, pressing transitional shape.",
+            "summary": "International soccer analysts at ESPN FC designated England's opener against Croatia as the absolute deciding fixture of Group L. Pundits highlighted the clash of styles: England's fluid, possession-oriented 4-2-3-1 versus Croatia's technically masterful, Modrić-driven midfield.",
             "author": "ESPN FC Editorial",
             "tag": "WC Group L Intel",
             "type": "Analysis"
