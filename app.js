@@ -427,16 +427,16 @@ const TIMELINE_DATABASE = {
           id: "art_21_2_1",
           category: "usa",
           type: "News",
-          title: "US Soccer confirms ticketing details and safety plan for Sweden warmup in Gothenburg",
+          title: "US Soccer confirms camp training complex and logistics for Denver pre-camp",
           bullets: [
-            "Ticketing portal opens for the highly anticipated friendly at Gamla Ullevi.",
-            "Over 3,000 traveling American fans expected to pack Gothenburg's away blocks.",
-            "US Soccer releases detailed pre-match logistics for traveling supporters."
+            "State-of-the-art training complex in Denver secured for the full camp period.",
+            "US Soccer finalizes travel logistics for all 26 players arriving from Europe.",
+            "Support staff confirms all recovery, nutrition, and medical facilities are ready."
           ],
-          summary: "US Soccer released ticketing and security protocols for the upcoming international friendly against Sweden on June 1 at Gamla Ullevi. Swedish authorities anticipate a completely packed venue. American fans have already snapped up their designated away allocation, promising an electric atmosphere for Pochettino's first match of the final phase.",
+          summary: "US Soccer released full logistics details for the Denver pre-camp gathering. The federation has secured an elite high-altitude training complex with full recovery suites, tactical analysis rooms, and sports science infrastructure. All 26 players will arrive by May 27 for the intensive preparation phase before the World Cup opener against Paraguay.",
           author: "US Soccer Press Feed",
           readTime: "2 min",
-          tag: "Ticket Intel",
+          tag: "Camp Logistics",
           relatedPlayers: []
         }
       ]
@@ -545,7 +545,7 @@ const TIMELINE_DATABASE = {
             "Focuses heavily on transitional speed drills and press-resistance.",
             "Praises US Soccer's logistics division for organizing a seamless flight plan."
           ],
-          summary: "During an online media briefing today, manager Mauricio Pochettino spoke on the goals of the local Denver pre-camp. 'The first three days in Denver are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before flying to Sweden,' Pochettino explained.",
+          summary: "During an online media briefing today, manager Mauricio Pochettino spoke on the goals of the local Denver pre-camp. 'The first three days in Denver are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before heading to our main tournament base,' Pochettino explained.",
           author: "Michele Giannone (TUDN)",
           readTime: "3 min",
           tag: "Manager Focus",
@@ -667,13 +667,13 @@ const TIMELINE_DATABASE = {
           id: "art_23_2_1",
           category: "usa",
           type: "News",
-          title: "Pochettino's finalized pre-tournament agenda: Denver to Gothenburg timeline published",
+          title: "Pochettino's finalized pre-tournament agenda: Denver camp schedule published",
           bullets: [
             "US Soccer publishes the detailed chronological itinerary for the final phase.",
             "Squad reports to Denver on May 27, trains at altitude base camp.",
-            "Flights to Sweden on May 31, Sweden match June 1, departs for Dallas base on June 2."
+            "Team transitions to Dallas tournament base on June 2 for final preparations."
           ],
-          summary: "US Soccer today published the official team calendar. The 26-man roster will gather in Denver next Wednesday, training locally for four days. On May 31, they travel to Gothenburg for their first friendly against Sweden on June 1, and immediately board a charter flight to their primary base camp in Dallas, Texas on June 2 to begin their final tournament preparations.",
+          summary: "US Soccer today published the official team calendar. The 26-man roster will gather in Denver next Wednesday, training locally for six days of intensive tactical and physical preparation. On June 2, they will board a charter flight to their primary base camp in Dallas, Texas to begin their final tournament preparations ahead of the Group D opener against Paraguay.",
           author: "Michele Giannone (TUDN)",
           readTime: "3 min",
           tag: "Camp Schedule",
@@ -754,16 +754,6 @@ const TIMELINE_DATABASE = {
 // 3. Official 2026 World Cup Group D Match Schedule
 const MATCH_SCHEDULE = [
   {
-    id: "match_sweden",
-    type: "warmup",
-    date: "2026-06-01",
-    time: "19:00",
-    opponent: "Sweden",
-    opponentFlag: "🇸🇪",
-    venue: "Gamla Ullevi, Gothenburg",
-    details: "A classic warm-up friendly serving as manager Mauricio Pochettino's first major tactical test before departing for the tournament."
-  },
-  {
     id: "match_paraguay",
     type: "worldcup",
     date: "2026-06-12",
@@ -797,27 +787,6 @@ const MATCH_SCHEDULE = [
 
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
-  "match_sweden": {
-    score: "2 - 1",
-    scorers: "🇸🇪 Gyökeres (14') | 🇺🇸 Pulisic (54'), McKennie (82')",
-    report: "Mauricio Pochettino's era kicks off with a brilliant comeback victory in Gothenburg! Despite Viktor Gyökeres opening the scoring early with a powerful strike, USA dominated possession in the second half. Christian Pulisic equalized with a clinical low shot before Weston McKennie powered home a trademark header from a corner in the 82nd minute.",
-    ratings: [
-      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Made two critical saves against Gyökeres in the first half.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 7.0, comment: "Tough battle against Gyökeres, recovered well in the second half.", isMotm: false },
-      { name: "Tim Ream", role: "CB", rating: 7.5, comment: "Composed leadership. Kept the defensive line compact.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "High work rate, provided defensive coverage and dangerous crosses.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo with disciplined recycling.", isMotm: false },
-      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Energetic pressing, linked defense and attack smoothly.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Relentless overlapping runs, highly active in transition.", isMotm: false },
-      { name: "Weston McKennie", role: "CM", rating: 8.5, comment: "Sensational performance. Dominated the midfield and scored the winning header in the 82nd minute.", isMotm: true },
-      { name: "Gio Reyna", role: "AM", rating: 7.5, comment: "Highly creative in pockets. Assisted McKennie's winner.", isMotm: false },
-      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "A constant nightmare on the left. Scored a magnificent equalizing goal.", isMotm: false }
-    ],
-    preview: {
-      tactical: "Manager Mauricio Pochettino's debut match! The focus will be on transitioning to the new 4-3-3 shape and testing defensive responses to Sweden's high-speed transitions.",
-      keyStat: "First match under Pochettino. All eyes are on his tactical adaptations."
-    }
-  },
   "match_paraguay": {
     score: "2 - 0",
     scorers: "🇺🇸 Balogun (23'), Pulisic (68' pen)",
@@ -919,17 +888,6 @@ const SQUAD_ATTRIBUTES = {
 };
 
 const SIMULATION_EVENTS = {
-  "match_sweden": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Gothenburg! A roaring Scandinavian atmosphere at Gamla Ullevi. Mauricio Pochettino makes his tactical debut with a transition 4-3-3." },
-    { minute: 14, type: "goal_opp", text: "GOAL for Sweden! Viktor Gyökeres capitalizes on a quick turn, escaping central coverage to blast a powerful half-volley into the top corner. 1-0 Sweden." },
-    { minute: 28, type: "foul", text: "Chris Richards picks up a yellow card for a robust challenge on Gyökeres in midfield." },
-    { minute: 45, type: "halftime", text: "Half Time in Gothenburg: Sweden leads 1-0. USA has dominated possession (58%) but Gyökeres' early strike is the difference." },
-    { minute: 54, type: "goal_usa", text: "GOAL for USA! Antonee Robinson swings in a dangerous cross. Christian Pulisic cuts inside to plant a clinical finish past the keeper! 1-1!" },
-    { minute: 65, type: "sub", text: "Pochettino introduces Gio Reyna off the bench, looking to unlock the Swedish defensive lines." },
-    { minute: 73, type: "save", text: "Heroic save! Matt Turner makes a fingertip save to deny Gyökeres' low drive. Incredible reflexes!" },
-    { minute: 82, type: "goal_usa", text: "GOAL for USA! Unbelievable! Gio Reyna picks up the ball, floats a precise corner. Weston McKennie powers a trademark bullet header past the keeper! 2-1 USA!" },
-    { minute: 90, type: "fulltime", text: "Full Time! Mauricio Pochettino starts his USA coaching era with a dramatic 2-1 comeback victory in Sweden! McKennie's header seals it." }
-  ],
   "match_paraguay": [
     { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets as USA begins their World Cup Group D campaign in front of a packed stadium." },
     { minute: 10, type: "save", text: "Chris Richards makes a massive sliding block in the penalty box to deny Paraguay's counter-attack. Composed defending." },
@@ -1232,7 +1190,7 @@ const CHAT_MESSAGES = [
   { sender: "Weston McKennie", avatar: "🇺🇸", text: "Bags are packed, captain! 🇺🇸 Bringing a lifetime supply of ranch dressing to Colorado. Need it for the high-altitude recovery! 🍕", time: "10:18" },
   { sender: "Folarin Balogun", avatar: "🇺🇸", text: "Leave the ranch in Texas, Wes! 😂 Just finished my training session in Monaco. Feeling extremely sharp and ready.", time: "10:22" },
   { sender: "Tyler Adams", avatar: "🇺🇸", text: "Same here in Bournemouth. Let's make sure nobody forgets their passports or boots. Looking at you, Wes! 😂", time: "10:25" },
-  { sender: "Antonee Robinson", avatar: "🇺🇸", text: "Hey! I'm already in Denver doing some light sprints. High altitude is no joke, but the air is crisp. Let's get these three points in Gothenburg!", time: "10:28" },
+  { sender: "Antonee Robinson", avatar: "🇺🇸", text: "Hey! I'm already in Denver doing some light sprints. High altitude is no joke, but the air is crisp. Let's dominate that Group D opener!", time: "10:28" },
   { sender: "Christian Pulisic", avatar: "🇺🇸", text: "Love the focus. Official gathering is Wednesday May 27th at the hotel lobby at 10:00 AM. Let's make history this summer boys! 🇺🇸💪", time: "10:31", isCaptain: true }
 ];
 
@@ -1461,7 +1419,7 @@ function initApp() {
     } else {
       tickerItems = [
         "⚽ Mauricio Pochettino has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ USMNT will depart for Gothenburg, Sweden tomorrow morning for their warmup match.",
+        "✈️ USMNT squad gathering in Denver for high-altitude World Cup preparation camp.",
         "💪 Christian Pulisic arrives in stellar goal-scoring form from his AC Milan campaign.",
         "🚑 Medical staff confirms that midfielder Tyler Adams is cleared for full contact.",
         "⭐ Gio Reyna designated by FIFA as one of the ultimate creative playmakers to watch."

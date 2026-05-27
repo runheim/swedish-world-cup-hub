@@ -17,7 +17,7 @@ print("Starting USMNT 2026 World Cup Hub News Research crawler...")
 existing_data = {
     "ticker": [
         "⚽ Mauricio Pochettino has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ USMNT will depart for Gothenburg, Sweden tomorrow morning for their warmup match.",
+        "✈️ USMNT squad gathering in Denver for high-altitude World Cup preparation camp.",
         "💪 Christian Pulisic arrives in stellar goal-scoring form from his Milan campaign.",
         "🚑 Medical staff confirms that midfielder Tyler Adams is cleared for full contact.",
         "⭐ Gio Reyna designated by FIFA as one of the ultimate creative playmakers to watch."
@@ -171,7 +171,7 @@ fallback_database = {
                 "Head coach Mauricio Pochettino lays down strict camp physical guidelines.",
                 "Staff expects a 100% attendance rate for the first pitch workout tomorrow morning."
             ],
-            "summary": "The US Men's National Soccer Team has officially gathered in Denver to kick off their final World Cup preparation camp. Head coach Mauricio Pochettino and his training staff will conduct their first full high-altitude session tomorrow. The focus is to build aerobic capacity and integrate Pochettino's rapid transitional tactics before they fly to Gothenburg for a friendly against Sweden.",
+            "summary": "The US Men's National Soccer Team has officially gathered in Denver to kick off their final World Cup preparation camp. Head coach Mauricio Pochettino and his training staff will conduct their first full high-altitude session tomorrow. The focus is to build aerobic capacity and integrate Pochettino's rapid transitional tactics before they transition to their main tournament base in Dallas.",
             "author": "Doug McIntyre (Fox Sports)",
             "tag": "Denver Camp",
             "type": "News"
@@ -245,7 +245,7 @@ fallback_database = {
         "usa": {
             "title": "Pochettino implements rapid 4-3-3 transitions in tactical board sessions",
             "bullets": [
-                "USMNT technical staff reviews videography of Sweden's defensive shapes.",
+                "USMNT technical staff reviews videography of Paraguay's defensive shapes.",
                 "Weston McKennie and Yunus Musah work on horizontal passing combinations.",
                 "Staff designs custom run-paths for overlapping fullbacks on the chalkboard."
             ],
