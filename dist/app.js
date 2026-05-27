@@ -458,10 +458,10 @@ const TIMELINE_DATABASE = {
           title: "Croatia Watch: Croatia establishes high-intensity training camp in Georgia",
           bullets: [
             "Coach schedules intensive multi-sessions to simulate Southern humidity.",
-            "Modrić and Kovačić report to East Rutherford camp in excellent form.",
+            "Modrić and Kovačić report to Arlington camp in excellent form.",
             "England analysts begin drafting transitional counter-pressing templates."
           ],
-          summary: "England's tactical division has logged the schedules of their opening Group L opponents, Croatia. The Croatian national team has established their primary camp in East Rutherford to adjust to the East Coast conditions. With Luka Modrić leading tactical routines, the Croatians are focused on highly organized midfield transitions, prompting England to formulate custom pressing blocks.",
+          summary: "England's tactical division has logged the schedules of their opening Group L opponents, Croatia. The Croatian national team has established their primary camp in Arlington, Texas to adjust to the Southern conditions. With Luka Modrić leading tactical routines, the Croatians are focused on highly organized midfield transitions, prompting England to formulate custom pressing blocks.",
           author: "Tactical Analyst (The Athletic)",
           readTime: "4 min",
           tag: "Croatia Intel",
@@ -629,13 +629,13 @@ const TIMELINE_DATABASE = {
           id: "art_23_1_2",
           category: "opponent",
           type: "Scouting",
-          title: "Panama Watch: Canal Men focus on defensive solidity in Atlanta camp",
+          title: "Panama Watch: Canal Men focus on defensive solidity in East Rutherford camp",
           bullets: [
             "Panama national team practices compact low-block alignments.",
             "Adalberto Carrasquilla logs high progressive pass registers in practice matches.",
             "Scouts note Panama utilizing disciplined 5-4-1 tactical shapes in scrimmages."
           ],
-          summary: "England's final Group L opponent Panama is wrapping up their initial preparation phase in Atlanta. Head coach Thomas Christiansen has emphasized defensive shape, looking to crowd midfield spaces and launch organized counters. Houston Dynamo's Adalberto Carrasquilla remains their primary midfield engine, presenting a major assignment for England's central unit.",
+          summary: "England's final Group L opponent Panama is wrapping up their initial preparation phase in East Rutherford. Head coach Thomas Christiansen has emphasized defensive shape, looking to crowd midfield spaces and launch organized counters. Houston Dynamo's Adalberto Carrasquilla remains their primary midfield engine, presenting a major assignment for England's central unit.",
           author: "ESPN FC Editorial",
           readTime: "4 min",
           tag: "Panama Report",
@@ -651,7 +651,7 @@ const TIMELINE_DATABASE = {
           id: "art_23_2_1",
           category: "england",
           type: "News",
-          title: "FA publishes finalized pre-tournament agenda: London to Atlanta",
+          title: "FA publishes finalized pre-tournament agenda: London to Dallas",
           bullets: [
             "Squad reports to Burton on May 27, training at St George's Park for 4 days.",
             "Transit to London on June 5, New Zealand friendly at Wembley on June 6.",
@@ -763,8 +763,8 @@ const MATCH_SCHEDULE = [
     time: "16:00",
     opponent: "Croatia",
     opponentFlag: "🇭🇷",
-    venue: "MetLife Stadium, East Rutherford",
-    details: "World Cup Group L Opener! England faces their first major test in the group stage against Croatia."
+    venue: "AT&T Stadium, Arlington",
+    details: "World Cup Group L Opener! England faces their first major test in the group stage against Croatia in Dallas/Arlington."
   },
   {
     id: "match_ghana",
@@ -773,8 +773,8 @@ const MATCH_SCHEDULE = [
     time: "16:00",
     opponent: "Ghana",
     opponentFlag: "🇬🇭",
-    venue: "SoFi Stadium, Inglewood",
-    details: "Second Group Stage Match. A massive clash against the powerhouse of African football in Los Angeles."
+    venue: "Gillette Stadium, Foxborough",
+    details: "Second Group Stage Match. A massive clash against the powerhouse of African football in Boston/Foxborough."
   },
   {
     id: "match_panama",
@@ -783,8 +783,8 @@ const MATCH_SCHEDULE = [
     time: "17:00",
     opponent: "Panama",
     opponentFlag: "🇵🇦",
-    venue: "Mercedes-Benz Stadium, Atlanta",
-    details: "Third Group Stage Match. England wraps up their Group L campaign against Panama in Atlanta."
+    venue: "MetLife Stadium, East Rutherford",
+    details: "Third Group Stage Match. England wraps up their Group L campaign against Panama in East Rutherford/New Jersey."
   }
 ];
 
@@ -835,7 +835,7 @@ const MATCH_REPORTS_DATABASE = {
   "match_croatia": {
     score: "1 - 1",
     scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (68' pen) | 🇭🇷 Kramarić (34')",
-    report: "England battles to a hard-fought draw in their World Cup Group L opener in East Rutherford! Croatia took the lead through Kramarić, but England responded strongly, equalizing via skipper Harry Kane's clinical penalty. Pickford pulled off two stellar saves to preserve the draw.",
+    report: "England battles to a hard-fought draw in their World Cup Group L opener at AT&T Stadium in Arlington! Croatia took the lead through Kramarić, but England responded strongly, equalizing via skipper Harry Kane's clinical penalty. Pickford pulled off two stellar saves to preserve the draw.",
     ratings: [
       { name: "Jordan Pickford", role: "GK", rating: 8.0, comment: "Sensational performance. Prevented a late winner with elite reflexes.", isMotm: true },
       { name: "John Stones", role: "CB", rating: 7.5, comment: "Kept composure under immense high press from Croatian midfield.", isMotm: false },
@@ -849,14 +849,14 @@ const MATCH_REPORTS_DATABASE = {
       { name: "Harry Kane", role: "ST", rating: 7.5, comment: "Clinical skipper. Slammed the equalizer penalty home with complete authority.", isMotm: false }
     ],
     preview: {
-      tactical: "World Cup Group L Opener! A high-stakes clash against a tactical, experienced Croatian side featuring world-class midfield engines.",
+      tactical: "World Cup Group L Opener at AT&T Stadium in Arlington/Dallas! A high-stakes clash against a tactical, experienced Croatian side featuring world-class midfield engines.",
       keyStat: "Croatia and England have met multiple times in World Cup history, yielding epic fixtures."
     }
   },
   "match_ghana": {
     score: "2 - 1",
     scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Saka (41'), Foden (88') | 🇬🇭 Kudus (12')",
-    report: "A massive World Cup victory for England at SoFi Stadium! Despite Mohammed Kudus scoring an early stunner for Ghana, the Three Lions fought back in champion style. Bukayo Saka equalized before Phil Foden hit a sensational 88th-minute free-kick winner.",
+    report: "A massive World Cup victory for England at Gillette Stadium! Despite Mohammed Kudus scoring an early stunner for Ghana, the Three Lions fought back in champion style. Bukayo Saka equalized before Phil Foden hit a sensational 88th-minute free-kick winner.",
     ratings: [
       { name: "Jordan Pickford", role: "GK", rating: 7.5, comment: "Made two spectacular saves to block rapid Ghana counters.", isMotm: false },
       { name: "John Stones", role: "CB", rating: 7.5, comment: "Composed under central pressure, recycled possession cleanly.", isMotm: false },
@@ -870,14 +870,14 @@ const MATCH_REPORTS_DATABASE = {
       { name: "Phil Foden", role: "LW", rating: 9.0, comment: "Match-winner. Hit a magnificent free kick and led the attack.", isMotm: true }
     ],
     preview: {
-      tactical: "Second group stage match in Los Angeles. Ghana's athletic transition block presents a massive flank speed threat.",
+      tactical: "Second group stage match at Gillette Stadium in Foxborough/Boston. Ghana's athletic transition block presents a massive flank speed threat.",
       keyStat: "England is unbeaten in all historical World Cup meetings with African nations."
     }
   },
   "match_panama": {
     score: "3 - 0",
     scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (14', 44'), Bellingham (71')",
-    report: "England wins Group L! A magnificent 3-0 performance in Atlanta secures top spot for the Three Lions. Harry Kane scored a first-half brace, and Jude Bellingham sealed the points with a clinical drive after the break.",
+    report: "England wins Group L! A magnificent 3-0 performance at MetLife Stadium secures top spot for the Three Lions. Harry Kane scored a first-half brace, and Jude Bellingham sealed the points with a clinical drive after the break.",
     ratings: [
       { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Commanded his box, kept a comfortable clean sheet.", isMotm: false },
       { name: "John Stones", role: "CB", rating: 7.5, comment: "Elegant deep distribution, stepping forward into midfield lines.", isMotm: false },
@@ -891,7 +891,7 @@ const MATCH_REPORTS_DATABASE = {
       { name: "Harry Kane", role: "ST", rating: 9.0, comment: "Clinical brace inside the first half, captained with total authority.", isMotm: true }
     ],
     preview: {
-      tactical: "Final group match in Atlanta! England looks to secure top spot against a compact, physical Panama side.",
+      tactical: "Final group match at MetLife Stadium in East Rutherford/New Jersey! England looks to secure top spot against a compact, physical Panama side.",
       keyStat: "England recorded a historic 6-1 win against Panama in the 2018 World Cup."
     }
   }
@@ -947,7 +947,7 @@ const SIMULATION_EVENTS = {
     { minute: 90, type: "fulltime", text: "Full Time! England secures a beautiful 3-1 farewell victory at Wembley Stadium." }
   ],
   "match_croatia": [
-    { minute: 1, type: "kickoff", text: "Kick-off in East Rutherford! The Group L opener is underway under intense atmosphere!" },
+    { minute: 1, type: "kickoff", text: "Kick-off in Arlington! The Group L opener is underway at AT&T Stadium under intense atmosphere!" },
     { minute: 34, type: "goal_opp", text: "GOAL for Croatia! Kramarić fires a quick half-volley past Pickford from the edge of the box. 1-0 Croatia." },
     { minute: 45, type: "halftime", text: "Half Time: Croatia leads 1-0. Highly competitive half with both teams creating solid chances." },
     { minute: 67, type: "foul", text: "Penalty for England! Jude Bellingham is brought down in the box after a brilliant run." },
@@ -956,21 +956,21 @@ const SIMULATION_EVENTS = {
     { minute: 90, type: "fulltime", text: "Full Time! England battles to a hard-fought 1-1 draw against Croatia in their World Cup opener." }
   ],
   "match_ghana": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets in California as England begins their second Group L match." },
+    { minute: 1, type: "kickoff", text: "Kick-off in Foxborough! The atmosphere is electric at Gillette Stadium as England begins their second Group L match." },
     { minute: 12, type: "goal_opp", text: "GOAL for Ghana! Mohammed Kudus scores an absolute stunner from long range! 1-0 Ghana." },
     { minute: 41, type: "goal_eng", text: "GOAL for England! Bukayo Saka receives a pass from Jude Bellingham and slots it home. 1-1!" },
-    { minute: 45, type: "halftime", text: "Half Time in LA: Tied at 1-1. England is fighting back in stellar style." },
+    { minute: 45, type: "halftime", text: "Half Time in Foxborough: Tied at 1-1. England is fighting back in stellar style." },
     { minute: 73, type: "save", text: "Jordan Pickford makes a massive block in the penalty box to deny a rapid Ghana counter." },
     { minute: 88, type: "goal_eng", text: "GOAL for England! Phil Foden hits a magnificent free-kick winner into the top corner! 2-1 England!" },
-    { minute: 90, type: "fulltime", text: "Full Time! A sensational 2-1 comeback victory for England in Los Angeles!" }
+    { minute: 90, type: "fulltime", text: "Full Time! A sensational 2-1 comeback victory for England in Foxborough!" }
   ],
   "match_panama": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Atlanta! England looks to secure top spot in Group L." },
+    { minute: 1, type: "kickoff", text: "Kick-off in East Rutherford! England looks to secure top spot in Group L at MetLife Stadium." },
     { minute: 14, type: "goal_eng", text: "GOAL for England! Harry Kane scores a clinical low drive past the keeper! 1-0 England." },
     { minute: 44, type: "goal_eng", text: "GOAL for England! Harry Kane scores a magnificent second from the penalty spot! 2-0 England." },
     { minute: 45, type: "halftime", text: "Half Time: England leads 2-0." },
     { minute: 71, type: "goal_eng", text: "GOAL for England! Jude Bellingham arrives late in the box to slot home a beautiful third! 3-0!" },
-    { minute: 90, type: "fulltime", text: "Full Time! England wins Group L! A magnificent 3-0 victory in Atlanta!" }
+    { minute: 90, type: "fulltime", text: "Full Time! England wins Group L! A magnificent 3-0 victory in East Rutherford!" }
   ]
 };
 
@@ -1473,7 +1473,7 @@ function initApp() {
     } else {
       tickerItems = [
         "⚽ Harry Kane has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ England will depart for their main training facility in Atlanta, Georgia tomorrow morning.",
+        "✈️ England will depart for their main training facility in Dallas, Texas tomorrow morning.",
         "💪 Jude Bellingham arrives in stellar form from his domestic campaign.",
         "🚑 Medical staff confirms that defender Luke Shaw has returned to full-contact training.",
         "⭐ Kobbie Mainoo designated by FIFA as one of the ultimate midfield prospects of the tournament."
@@ -2609,34 +2609,34 @@ let selectedPredictorMatch = "match_croatia";
 
 const VENUES = {
   dallas: {
-    city: "Dallas, USA",
+    city: "Arlington, USA",
     stadium: "AT&T Stadium",
     capacity: "80,000",
     timezone: "America/Chicago",
-    weather: "72°F (Sunny)",
-    desc: "AT&T Stadium is a massive retractable roof stadium in Arlington, Texas. Home to the NFL's Dallas Cowboys, it will host England's highly anticipated World Cup Group C opener against Croatia.",
+    weather: "85°F (Warm)",
+    desc: "AT&T Stadium is the iconic home of the NFL's Dallas Cowboys in Arlington, Texas. Featuring the world's largest column-free interior and a massive retractable roof, it hosts England's highly anticipated World Cup Group L opener against Croatia on June 17.",
     flag: "🇺🇸",
     stadiumUrl: "https://www.attstadium.com"
   },
-  atlanta: {
-    city: "Atlanta, USA",
-    stadium: "Mercedes-Benz Stadium",
-    capacity: "71,000",
+  boston: {
+    city: "Foxborough, USA",
+    stadium: "Gillette Stadium",
+    capacity: "65,878",
     timezone: "America/New_York",
-    weather: "71°F (Sunny)",
-    desc: "Mercedes-Benz Stadium is a world-class multi-purpose venue featuring a unique retractable roof resembling a pinwheel. Nestled in downtown Atlanta, it will host England's match against Ghana.",
+    weather: "72°F (Partly Cloudy)",
+    desc: "Gillette Stadium, home to the NFL's New England Patriots, sits in Foxborough, Massachusetts, just outside Boston. Known for its electric atmosphere and iconic lighthouse feature, it hosts England's second group match against Panama on June 23.",
     flag: "🇺🇸",
-    stadiumUrl: "https://mercedesbenzstadium.com"
+    stadiumUrl: "https://www.gillettestadium.com"
   },
-  miami: {
-    city: "Miami, USA",
-    stadium: "Hard Rock Stadium",
-    capacity: "64,767",
+  newjersey: {
+    city: "East Rutherford, USA",
+    stadium: "MetLife Stadium",
+    capacity: "82,500",
     timezone: "America/New_York",
-    weather: "82°F (Humid)",
-    desc: "Hard Rock Stadium is a premier outdoor sports venue in Miami Gardens, Florida. Known for its breezy canopy and tropical atmosphere, it will host England's third group clash against Panama.",
+    weather: "78°F (Clear)",
+    desc: "MetLife Stadium is the largest stadium in the NFL, shared by the New York Giants and Jets. Located in East Rutherford, New Jersey, it will host England's final group match against Ghana on June 27, and later the World Cup Final on July 19.",
     flag: "🇺🇸",
-    stadiumUrl: "https://www.hardrockstadium.com"
+    stadiumUrl: "https://www.metlifestadium.com"
   }
 };
 
@@ -2743,15 +2743,7 @@ function calculateGroupStandings() {
     }
   }
 
-  // 1. Add background matches (Group Stage)
-  addMatch("croatia", 2, 1);
-  addMatch("ghana", 1, 2);
-
-  addMatch("panama", 0, 1);
-  addMatch("ghana", 1, 0);
-
-  addMatch("croatia", 3, 0);
-  addMatch("panama", 0, 3);
+  // Pre-tournament: All teams start at 0-0-0. Background matches will be added once the World Cup begins.
 
   // 2. Add simulated England matches
   if (SIMULATED_RESULTS.match_croatia) {
