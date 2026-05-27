@@ -749,6 +749,16 @@ const MATCH_SCHEDULE = [
     details: "A classic Scandinavian derby serving as manager Graham Potter's first major tactical test before departing for the USA."
   },
   {
+    id: "match_greece",
+    type: "warmup",
+    date: "2026-06-04",
+    time: "19:00",
+    opponent: "Greece",
+    opponentFlag: "🇬🇷",
+    venue: "Strawberry Arena, Stockholm",
+    details: "Second warm-up friendly at home in Stockholm. A final tactical rehearsal before departing for the World Cup in America."
+  },
+  {
     id: "match_tunisia",
     type: "worldcup",
     date: "2026-06-14",
@@ -801,6 +811,27 @@ const MATCH_REPORTS_DATABASE = {
     preview: {
       tactical: "Manager Graham Potter's debut match! The focus will be on transitioning to the new 3-4-2-1 formation and testing defensive responses to Erling Haaland's lethal central runs.",
       keyStat: "Last meeting ended in a 3-2 victory for Norway in 2022. Time for Sweden's revenge!"
+    }
+  },
+  "match_greece": {
+    score: "1 - 0",
+    scorers: "🇸🇪 Gyökeres (67')",
+    report: "A gritty home victory for Sweden at Strawberry Arena! Greece set up a disciplined defensive block, frustrating Sweden for over an hour. Viktor Gyökeres finally broke the deadlock with a clinical volley from Alexander Isak's cross. Potter used the match to test squad depth, with several rotated players impressing.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Comfortable night, dealt well with high crosses.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 7.0, comment: "Solid and composed, kept Greek attackers quiet.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Marshalled the defense excellently, good on the ball.", isMotm: false },
+      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "Provided dangerous width down the right.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Steady in the pivot, recycled possession cleanly.", isMotm: false },
+      { name: "Hugo Larsson", role: "DM", rating: 7.5, comment: "Impressive display as a rotated option, drove the ball forward with intent.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LWB", rating: 7.0, comment: "Energetic overlapping runs, won several corners.", isMotm: false },
+      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Provided the assist for Gyökeres' winner with a precise cross.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "Creative spark, unlocking Greek lines with quick passes.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 8.5, comment: "Match-winner. Clinical volley to break the deadlock. Physical dominance throughout.", isMotm: true }
+    ],
+    preview: {
+      tactical: "Second warm-up friendly at home in Stockholm! Potter rotates to test squad depth and fine-tune tactical patterns before the World Cup.",
+      keyStat: "Sweden have won 4 of their last 5 home matches at Strawberry Arena."
     }
   },
   "match_tunisia": {
@@ -913,6 +944,16 @@ const SIMULATION_EVENTS = {
     { minute: 73, type: "save", text: "Heroic save! Viktor Johansson makes a fingertip save to deny Haaland's low drive. Incredible reflexes!" },
     { minute: 82, type: "goal_swe", text: "GOAL for Sweden! Unbelievable! Lucas Bergvall picks up the ball in midfield, beats two players, and fires a sensational 25-yard dipping strike into the top corner! 2-1 Sweden!" },
     { minute: 90, type: "fulltime", text: "Full Time! Graham Potter starts his Swedish national team era with a dramatic 2-1 comeback victory in Oslo! Bergvall's heroics seal it." }
+  ],
+  "match_greece": [
+    { minute: 1, type: "kickoff", text: "Kick-off at Strawberry Arena! Stockholm is buzzing as Sweden hosts Greece in their second warm-up friendly." },
+    { minute: 22, type: "save", text: "Viktor Johansson makes a comfortable save from a long-range Greek free kick." },
+    { minute: 35, type: "dribble", text: "Lucas Bergvall dances past two Greek defenders on the edge of the box, but his shot deflects wide." },
+    { minute: 45, type: "halftime", text: "Half Time at Strawberry Arena: 0-0. Greece's disciplined defensive block is frustrating Sweden's attack." },
+    { minute: 55, type: "sub", text: "Potter makes three changes, bringing fresh energy into midfield and wide areas." },
+    { minute: 67, type: "goal_swe", text: "GOAL for Sweden! Alexander Isak whips in a cross from the left, and Viktor Gyökeres meets it with a powerful volley! 1-0 Sweden!" },
+    { minute: 80, type: "save", text: "Greece push forward looking for an equalizer, but Lindelöf makes a crucial interception." },
+    { minute: 90, type: "fulltime", text: "Full Time! Sweden wins 1-0 at Strawberry Arena. A professional performance ahead of the World Cup." }
   ],
   "match_tunisia": [
     { minute: 1, type: "kickoff", text: "Kick-off in Monterrey! The sun sets in Mexico as Sweden begins their World Cup Group F campaign in front of a packed stadium." },
