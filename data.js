@@ -3,8 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Potter's advanced media division sets up at Bosön press center",
-    "🌍 Norway national team trains behind closed doors at Ullevaal Stadion",
+    "⚽ Viktor Gyökeres shares pre-camp excitement: 'Stockholm, I have arrived'",
+    "🌍 Group F Analysis: Global analysts flag Sweden vs Tunisia as the key opener",
     "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
     "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
     "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
@@ -86,9 +86,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_swe_20260526_5",
+            "category": "sweden",
+            "type": "Blog",
+            "title": "Viktor Gyökeres shares pre-camp excitement: 'Stockholm, I have arrived'",
+            "bullets": [
+              "Arsenal striker checks into team hotel tonight, ready for day one.",
+              "Gyökeres highlights immense motivation to start pitch drills tomorrow.",
+              "Roster reports 100% attendance expected by Wednesday morning."
+            ],
+            "summary": "Arriving in Stockholm late tonight, star striker Viktor Gyökeres expressed his massive excitement for the tournament campaign. All 26 squad players are confirmed to check into Bosön hotel by tomorrow morning.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Player Diary",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260526_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group F Analysis: Global analysts flag Sweden vs Tunisia as the key opener",
+            "bullets": [
+              "Tactical pundits predict Sweden's width will clash with Tunisia's compact block.",
+              "CBS pundits: ' Potters' debut in a World Cup is the ultimate tactical wild card.'",
+              "Winner of the opener is projected to have an 82% chance of reaching the knockouts."
+            ],
+            "summary": "International soccer analysts at CBS Sports Golazo designated Sweden's opener against Tunisia as the absolute deciding fixture of Group F. Pundits highlighted the clash of styles: Potter's fluid, high-pressing 3-4-2-1 versus Jalel Kadri's extremely solid, defensive low block.",
+            "author": "CBS Sports Golazo Editorial",
+            "readTime": "3 min",
+            "tag": "WC Group F Intel",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-26 @ 13:36:19 local time"
+  "lastUpdated": "2026-05-26 @ 23:27:37 local time"
 };
