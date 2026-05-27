@@ -4,8 +4,9 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     "⚽ Barca agree £69m-plus deal with Newcastle for Gordon",
-    "⚽ Anthony Gordon to undergo medical at Barça before £69.3m move from Newcastle",
-    "⚽ New York and New Jersey subpoena Fifa over ‘manipulated’ World Cup ticketing"
+    "⚽ Tuchel's biggest mistake? Wharton shines after England omission",
+    "⚽ Anthony Gordon to undergo Barcelona medical before £69.3m move from Newcastle",
+    "⚽ FIFA subpoenaed over World Cup ticket practices"
   ],
   "timeline": {
     "2026-05-26": {
@@ -179,8 +180,80 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-28": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4632_0",
+            "category": "england",
+            "type": "News",
+            "title": "Barca agree £69m-plus deal with Newcastle for Gordon",
+            "bullets": [
+              "Barcelona agree a deal worth more than £69m with Newcastle United for England forward Anthony Gordon...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barcelona agree a deal worth more than £69m with Newcastle United for England forward Anthony Gordon.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4632_1",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel's biggest mistake? Wharton shines after England omission",
+            "bullets": [
+              "Adam Wharton starred as Crystal Palace won a European trophy but the midfielder will not feature at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Adam Wharton starred as Crystal Palace won a European trophy but the midfielder will not feature at this summer's World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4632_2",
+            "category": "england",
+            "type": "News",
+            "title": "Anthony Gordon to undergo Barcelona medical before £69.3m move from Newcastle",
+            "bullets": [
+              "&lt;ul&gt;&lt;li&gt;&lt;p&gt;England winger flying out for medical on Thursday&lt;/p&gt;&lt;/li&gt;&...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;England winger flying out for medical on Thursday&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Gordon could double wages to around £300,000 a week&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Anthony Gordon is due to undergo a medical in Barcelona on Thursday after the La Liga winners agreed a £69.3m transfer with Newcastle on Wednesday night. Should everything proceed to plan the England winger is set to double his wages to around £300,000 a week.&lt;/p&gt;&lt;p&gt;Bayern Munich had been favourites to sign the England winger and even saw a late bid rejected on Wednesday but Gordon’s heart was set on Barcelona and a new life at the Camp Nou. Accordingly a player who also interested Liverpool swiftly agreed personal terms before Newcastle and the Catalan club entered more protracted negotiations regarding the structure of the fee.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4632_3",
+            "category": "england",
+            "type": "News",
+            "title": "FIFA subpoenaed over World Cup ticket practices",
+            "bullets": [
+              "New York and New Jersey have subpoenaed FIFA as part of an investigation into its ticketing prices f...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New York and New Jersey have subpoenaed FIFA as part of an investigation into its ticketing prices for the 2026 World Cup, citing soaring ticket prices and reports that fans were misled about seat locations.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 23:21:07 local time"
+  "lastUpdated": "2026-05-28 @ 00:46:31 local time"
 };
