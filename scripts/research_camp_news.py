@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 import os
 import re
 import json
@@ -143,7 +144,7 @@ if crawled_news:
             # Format as timeline article
             art = {
                 "id": f"crawled_{datetime.now().strftime('%M%S')}_{len(usmnt_feed)}",
-                "category": "sweden", # keep matching index.html client filters
+                "category": "usa",
                 "type": "News",
                 "title": item["title"],
                 "bullets": [
@@ -163,7 +164,7 @@ if crawled_news:
 # 5. GENERATE Genuinely Researched Fallbacks (Strictly No Hallucinations, matching actual pre-camp status)
 fallback_database = {
     1: {
-        "sweden": {
+        "usa": {
             "title": "USMNT squad gathers in Denver to begin Pochettino's high-altitude training camp",
             "bullets": [
                 "Christian Pulisic and European-based stars check into the Denver camp team hotel.",
@@ -189,7 +190,7 @@ fallback_database = {
         }
     },
     2: {
-        "sweden": {
+        "usa": {
             "title": "Pochettino: 'We are here to make history, not just participate'",
             "bullets": [
                 "Pochettino addresses the media in his first press conference of the World Cup camp.",
@@ -215,7 +216,7 @@ fallback_database = {
         }
     },
     3: {
-        "sweden": {
+        "usa": {
             "title": "Tyler Adams and Antonee Robinson log stellar physical registers in Denver",
             "bullets": [
                 "Adams completes full team drills, showing zero signs of physical fatigue.",
@@ -241,7 +242,7 @@ fallback_database = {
         }
     },
     4: {
-        "sweden": {
+        "usa": {
             "title": "Pochettino implements rapid 4-3-3 transitions in tactical board sessions",
             "bullets": [
                 "USMNT technical staff reviews videography of Sweden's defensive shapes.",
@@ -267,7 +268,7 @@ fallback_database = {
         }
     },
     5: {
-        "sweden": {
+        "usa": {
             "title": "Christian Pulisic shares pre-camp excitement: 'Denver, the vibe is electric'",
             "bullets": [
                 "The AC Milan star expresses immense pride in captaining the Stars & Stripes.",
@@ -300,15 +301,15 @@ if not usmnt_feed:
     
     # 1. USA Article
     art_usa = {
-        "id": f"dyn_swe_{today_str.replace('-', '')}_{active_slot}",
-        "category": "sweden", # keep matching client filters
-        "type": slot_data["sweden"]["type"],
-        "title": slot_data["sweden"]["title"],
-        "bullets": slot_data["sweden"]["bullets"],
-        "summary": slot_data["sweden"]["summary"],
-        "author": slot_data["sweden"]["author"],
+        "id": f"dyn_usa_{today_str.replace('-', '')}_{active_slot}",
+        "category": "usa",
+        "type": slot_data["usa"]["type"],
+        "title": slot_data["usa"]["title"],
+        "bullets": slot_data["usa"]["bullets"],
+        "summary": slot_data["usa"]["summary"],
+        "author": slot_data["usa"]["author"],
         "readTime": "3 min",
-        "tag": slot_data["sweden"]["tag"],
+        "tag": slot_data["usa"]["tag"],
         "relatedPlayers": ["christian_pulisic", "weston_mckennie", "folarin_balogun"] if active_slot in [3, 5] else []
     }
     usmnt_feed.append(art_usa)
@@ -329,7 +330,7 @@ if not usmnt_feed:
     opponent_feed.append(art_opp)
     
     ticker_headlines = [
-        f"⚽ {slot_data['sweden']['title']}",
+        f"⚽ {slot_data['usa']['title']}",
         f"🌍 {slot_data['opponent']['title']}",
         f"💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
         f"🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
@@ -372,4 +373,4 @@ try:
     print("SUCCESS: data.js updated beautifully and compiled successfully!")
 except Exception as e:
     print(f"ERROR writing to data.js: {e}")
-    exit(1)
+    sys.exit(1)
