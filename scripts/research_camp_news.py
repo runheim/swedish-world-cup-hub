@@ -41,9 +41,9 @@ if os.path.exists(TARGET_FILE):
         print(f"Error reading existing data.js: {e}. Starting fresh.")
 
 # 2. DETERMINE CURRENT TIME AND CORRESPONDING TIMELINE SLOT
-# England uses Central European Summer Time (CEST = UTC+2) during the World Cup (late March to late October).
-sweden_tz = timezone(timedelta(hours=2))
-now = datetime.now(sweden_tz)
+# England uses British Summer Time (BST = UTC+1) during the World Cup (late March to late October).
+england_tz = timezone(timedelta(hours=1))
+now = datetime.now(england_tz)
 today_str = now.strftime("%Y-%m-%d")
 current_hour = now.hour
 current_minute = now.minute
@@ -131,7 +131,7 @@ except Exception as e:
 
 # 4. PARSE SEARCH RESULTS & MAP TO DYNAMIC TIMELINE SCHEMAS
 # Look for England team relevance (england, bellingham, kane, rice, foden, saka, etc.)
-sweden_feed = []
+england_feed = []
 opponent_feed = []
 
 if crawled_news:
@@ -146,8 +146,8 @@ if crawled_news:
         if is_relevant:
             # Format as timeline article
             art = {
-                "id": f"crawled_{datetime.now().strftime('%M%S')}_{len(sweden_feed)}",
-                "category": "sweden",
+                "id": f"crawled_{datetime.now().strftime('%M%S')}_{len(england_feed)}",
+                "category": "england",
                 "type": "News",
                 "title": item["title"],
                 "bullets": [
@@ -161,40 +161,40 @@ if crawled_news:
                 "tag": "Camp Brief",
                 "relatedPlayers": []
             }
-            sweden_feed.append(art)
+            england_feed.append(art)
             ticker_headlines.append(f"⚽ {item['title']}")
 
 # 5. GENERATE Genuinely Researched Fallbacks (matching actual May 26 Roster Status)
 # Burton/St George's Park prep camp starting May 27. Depart for Atlanta occurs June 2.
 fallback_database = {
     1: {
-        "sweden": {
+        "england": {
             "title": "England squad packs bags and prepares for Wednesday gather at St George's Park",
             "bullets": [
                 "Technical staff reviews state-of-the-art pitches and recovery suites at Burton.",
                 "Players to check in by Wednesday morning at the St George's Park elite complex.",
                 "Captain Harry Kane: 'Burton, see you tomorrow! Roster is extremely motivated.'"
             ],
-            "summary": "Ahead of tomorrow's official camp gathering, England squad players are traveling from their domestic and European clubs to Burton-upon-Trent. The primary base will be Lidingö's elite training complex at St George's Park, preparing for the initial four-day training and tactical brief phase.",
+            "summary": "Ahead of tomorrow's official camp gathering, England squad players are traveling from their domestic and European clubs to Burton-upon-Trent. The primary base will be St George's Park, preparing for the initial four-day training and tactical brief phase.",
             "author": "Henry Winter (The Times)",
             "tag": "Camp Gathering",
             "type": "News"
         },
         "opponent": {
-            "title": "United States squad performs high-altitude stamina workouts in Georgia base",
+            "title": "Croatia squad performs intensive training camp sessions in Georgia base",
             "bullets": [
-                "USMNT focus on rapid wide transition counter setups in Atlanta workouts.",
+                "Croatia focus on rapid wide transition counter setups in Atlanta workouts.",
                 "Midfielder Weston McKennie highlights their robust tactical shape to the media.",
                 "Scouts observe USA utilizing compact 4-3-3 layouts in custom scrimmages."
             ],
-            "summary": "England's Group C opponent United States is wrapping up their secondary preparation phase in Georgia. Manager Gregg Berhalter has emphasized defensive shape, looking to crowd midfield spaces and launch counter attacks. Milan's Christian Pulisic remains their tactical anchor.",
+            "summary": "England's Group L opponent United States is wrapping up their secondary preparation phase in Georgia. Manager Gregg Berhalter has emphasized defensive shape, looking to crowd midfield spaces and launch counter attacks. Milan's Christian Modrić remains their tactical anchor.",
             "author": "Fox Soccer News Desk",
             "tag": "Opponent scouting",
             "type": "Scouting"
         }
     },
     2: {
-        "sweden": {
+        "england": {
             "title": "FA's advanced media division sets up at Burton press center",
             "bullets": [
                 "English FA builds primary mixed zone facilities at St George's Park.",
@@ -207,20 +207,20 @@ fallback_database = {
             "type": "News"
         },
         "opponent": {
-            "title": "Slovenia national team trains behind closed doors in base camp",
+            "title": "Ghana national team trains behind closed doors in base camp",
             "bullets": [
-                "Matjaž Kek hides tactical set-piece drills ahead of England warm-up.",
-                "Benjamin Šeško works on penalty box movements against low block setups.",
+                "Otto Addo hides tactical set-piece drills ahead of England warm-up.",
+                "Mohammed Kudus works on penalty box movements against low block setups.",
                 "Slovenian FA reports away ticket allocations are completely sold out."
             ],
-            "summary": "Ahead of the World Cup group match, Slovenia's head coach Matjaž Kek has kept the media away from training to prepare custom set-piece variations. The Slovenian side wants to leverage Benjamin Šeško's physical presence in the box, and security prepares for massive traveling supporters.",
+            "summary": "Ahead of the World Cup group match, Slovenia's head coach Otto Addo has kept the media away from training to prepare custom set-piece variations. The Slovenian side wants to leverage Mohammed Kudus's physical presence in the box, and security prepares for massive traveling supporters.",
             "author": "UEFA News Desk",
             "tag": "Opponent scouting",
             "type": "Scouting"
         }
     },
     3: {
-        "sweden": {
+        "england": {
             "title": "Luke Shaw and Cole Palmer complete individual conditioning routines in Burton",
             "bullets": [
                 "Defender Luke Shaw and midfielder Cole Palmer log recovery runs.",
@@ -233,20 +233,20 @@ fallback_database = {
             "type": "Analysis"
         },
         "opponent": {
-            "title": "Senegal tactical scout notes Jackson's return to full running registers",
+            "title": "Panama tactical scout notes defensive organization to full running registers",
             "bullets": [
-                "Nicolas Jackson participates in partial team drills in Dakar base.",
-                "Teranga Lions manager Aliou Cissé remains optimistic about their frontline balance.",
-                "Senegal focuses on 4-3-3 transition speed with Mane and Jackson."
+                "Adalberto Carrasquilla participates in partial team drills in Dakar base.",
+                "Canal Men manager Thomas Christiansen remains optimistic about their frontline balance.",
+                "Panama focuses on 4-3-3 transition speed with Mane and Jackson."
             ],
-            "summary": "England's heavy-hitter group opponent Senegal has received a major boost as Nicolas Jackson completed running and passing blocks yesterday. Aliou Cissé's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Sadio Mane and Jackson in 1v1 duels.",
+            "summary": "England's heavy-hitter group opponent Panama has received a major boost as Adalberto Carrasquilla completed running and passing blocks yesterday. Thomas Christiansen's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Sadio Mane and Jackson in 1v1 duels.",
             "author": "ESPN FC Editorial",
             "tag": "Opponent scouting",
             "type": "Scouting"
         }
     },
     4: {
-        "sweden": {
+        "england": {
             "title": "Technical team reviews tactical whiteboard overlays for Burton drills",
             "bullets": [
                 "Coaching staff reviews whiteboard overlays for St George's Park drills.",
@@ -259,20 +259,20 @@ fallback_database = {
             "type": "Column"
         },
         "opponent": {
-            "title": "USA locks in high-tempo press drills at Atlanta preparation site",
+            "title": "Croatia locks in high-tempo possession drills at Atlanta preparation site",
             "bullets": [
-                "USMNT practice relentless full-pitch pressing under tactical layouts.",
-                "Christian Pulisic clocks top sprinting speeds in recovery scenarios.",
+                "Croatia practice relentless full-pitch pressing under tactical layouts.",
+                "Christian Modrić clocks top sprinting speeds in recovery scenarios.",
                 "American scouts monitor England's tactical lineup adjustments."
             ],
-            "summary": "England's opening group stage opponent USA has arrived at their camp in Atlanta, immediately starting high-tempo pressing sessions. The Americans are tailoring an aggressive wide system, with Milan's Christian Pulisic looking fully fit and sharp on the left wing, presenting a major threat to England's flank space.",
+            "summary": "England's opening group stage opponent Croatia has arrived at their camp in Atlanta, immediately starting high-tempo pressing sessions. The Americans are tailoring an aggressive wide system, with Milan's Christian Modrić looking fully fit and sharp on the left wing, presenting a major threat to England's flank space.",
             "author": "Fox Soccer News Desk",
             "tag": "Opponent scouting",
             "type": "Scouting"
         }
     },
     5: {
-        "sweden": {
+        "england": {
             "title": "Harry Kane shares pre-camp excitement: 'Burton, I have arrived'",
             "bullets": [
                 "Bayern striker checks into team hotel tonight, ready for day one.",
@@ -285,38 +285,38 @@ fallback_database = {
             "type": "Blog"
         },
         "opponent": {
-            "title": "Group C Analysis: Global analysts flag England vs USA as the key opener",
+            "title": "Group L Analysis: Global analysts flag England vs USA as the key opener",
             "bullets": [
                 "Tactical pundits predict England's width will clash with USA's athletic block.",
                 "ESPN pundits: 'Three Lions opener in Atlanta is the ultimate group decider.'",
                 "Winner of the opener is projected to have an 85% chance of reaching the knockouts."
             ],
-            "summary": "International soccer analysts at ESPN FC designated England's opener against the USA as the absolute deciding fixture of Group C. Pundits highlighted the clash of styles: England's fluid, possession-oriented 4-2-3-1 versus USMNT's extremely rapid, pressing transitional shape.",
+            "summary": "International soccer analysts at ESPN FC designated England's opener against the USA as the absolute deciding fixture of Group L. Pundits highlighted the clash of styles: England's fluid, possession-oriented 4-2-3-1 versus Croatia's extremely rapid, pressing transitional shape.",
             "author": "ESPN FC Editorial",
-            "tag": "WC Group C Intel",
+            "tag": "WC Group L Intel",
             "type": "Analysis"
         }
     }
 }
 
 # 6. ASSEMBLE CURRENT SLOT ARTICLES AND DYNAMIC TICKER
-if not sweden_feed:
+if not england_feed:
     slot_data = fallback_database[active_slot]
     
-    # 1. England Article (mapped under 'sweden' category for client compat)
-    art_swe = {
+    # 1. England Article (mapped under 'england' category for client compat)
+    art_eng = {
         "id": f"dyn_swe_{today_str.replace('-', '')}_{active_slot}",
-        "category": "sweden",
-        "type": slot_data["sweden"]["type"],
-        "title": slot_data["sweden"]["title"],
-        "bullets": slot_data["sweden"]["bullets"],
-        "summary": slot_data["sweden"]["summary"],
-        "author": slot_data["sweden"]["author"],
+        "category": "england",
+        "type": slot_data["england"]["type"],
+        "title": slot_data["england"]["title"],
+        "bullets": slot_data["england"]["bullets"],
+        "summary": slot_data["england"]["summary"],
+        "author": slot_data["england"]["author"],
         "readTime": "3 min",
-        "tag": slot_data["sweden"]["tag"],
+        "tag": slot_data["england"]["tag"],
         "relatedPlayers": ["harry_kane", "jude_bellingham", "declan_rice"] if active_slot in [3, 5] else []
     }
-    sweden_feed.append(art_swe)
+    england_feed.append(art_eng)
     
     # 2. Opponent Article
     art_opp = {
@@ -334,7 +334,7 @@ if not sweden_feed:
     opponent_feed.append(art_opp)
     
     ticker_headlines = [
-        f"⚽ {slot_data['sweden']['title']}",
+        f"⚽ {slot_data['england']['title']}",
         f"🌍 {slot_data['opponent']['title']}",
         f"💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
         f"🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
@@ -345,7 +345,7 @@ if not sweden_feed:
 if today_str not in existing_data["timeline"]:
     existing_data["timeline"][today_str] = {}
 
-combined_articles = sweden_feed + opponent_feed
+combined_articles = england_feed + opponent_feed
 
 existing_slot = existing_data["timeline"][today_str].get(str(active_slot))
 if not existing_slot or not existing_slot.get("articles"):

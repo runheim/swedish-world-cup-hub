@@ -126,6 +126,34 @@ if os.path.exists(app_path):
         log_result("Dynamic Data Merger", has_timeline_merge, "Merges dynamic timelines on initialization")
         log_result("Dynamic Date Key List", has_dynamic_dates, "News timeline calculates dates dynamically")
 
+
+# TEST 5: CONTAMINATION CHECK (no Swedish/wrong team leftovers)
+print("\n--- Test 5: Swedish Contamination Check ---")
+contamination_terms = {
+    "category: \"sweden\"": "app.js",
+    '\"category\": \"sweden\"': "data.js",
+    "goal_swe": "app.js",
+    "tab-news-sweden": "index.html",
+    "--sweden-": "index.css",
+    "match_usa": "app.js",
+    "match_ireland": "app.js",
+    "match_slovenia": "app.js",
+    "match_senegal": "app.js",
+    "Group C": "app.js",
+}
+
+for fname in ["index.html", "index.css", "app.js", "data.js"]:
+    fpath = os.path.join(BASE_DIR, fname)
+    if os.path.exists(fpath):
+        with open(fpath, "r", encoding="utf-8") as f:
+            content = f.read()
+        for term, expected_file in contamination_terms.items():
+            count = content.count(term)
+            if count > 0:
+                log_result(f"Contamination ({fname})", False, f"Found '{term}' x{count} — Swedish/wrong team vestige!")
+            
+log_result("Contamination Scan", failures == 0, "No Swedish or wrong-team vestiges detected in any file")
+
 # SUMMARY
 print("\n==================================================")
 print(f"HEALTH CHECK COMPLETE: {failures} FAILURES | {warnings} WARNINGS")

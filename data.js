@@ -14,7 +14,7 @@ const DYNAMIC_HUB_DATA = {
         "articles": [
           {
             "id": "crawled_5422_0",
-            "category": "sweden",
+            "category": "england",
             "type": "News",
             "title": "Foden a 'victim' of football's packed schedule",
             "bullets": [
@@ -30,7 +30,7 @@ const DYNAMIC_HUB_DATA = {
           },
           {
             "id": "crawled_5422_1",
-            "category": "sweden",
+            "category": "england",
             "type": "News",
             "title": "PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
             "bullets": [
@@ -46,7 +46,7 @@ const DYNAMIC_HUB_DATA = {
           },
           {
             "id": "crawled_5422_2",
-            "category": "sweden",
+            "category": "england",
             "type": "News",
             "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
             "bullets": [
@@ -70,7 +70,7 @@ const DYNAMIC_HUB_DATA = {
         "articles": [
           {
             "id": "crawled_3521_0",
-            "category": "sweden",
+            "category": "england",
             "type": "News",
             "title": "Foden a 'victim' of football's packed schedule",
             "bullets": [
@@ -86,7 +86,7 @@ const DYNAMIC_HUB_DATA = {
           },
           {
             "id": "crawled_3521_1",
-            "category": "sweden",
+            "category": "england",
             "type": "News",
             "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
             "bullets": [

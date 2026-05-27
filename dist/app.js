@@ -387,7 +387,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_21_1_1",
-          category: "sweden",
+          category: "england",
           type: "News",
           title: "FA inspects St George's Park facilities ahead of squad gather tomorrow",
           bullets: [
@@ -409,15 +409,15 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_21_2_1",
-          category: "sweden",
+          category: "england",
           type: "News",
-          title: "Ticketing allocation for Wembley warmup against Ireland sells out",
+          title: "Ticketing allocation for Wembley warm-up against New Zealand sells out",
           bullets: [
             "English FA reports all 90,000 Wembley seats sold out within hours.",
-            "Traveling Irish block completely filled, promising electric local atmosphere.",
+            "Traveling New Zealand block completely filled, promising electric local atmosphere.",
             "Metropolitan Police and Wembley operations finalize comprehensive transit plans."
           ],
-          summary: "Ticketing departments confirmed that England's home friendly warm-up clash against the Republic of Ireland on June 1 at Wembley is officially sold out. Over 90,000 fans will pack the iconic stadium to bid the squad farewell before they depart for their USA World Cup base in Atlanta. Irish authorities have taken up their full allocations.",
+          summary: "Ticketing departments confirmed that England's home friendly warm-up clash against New Zealand on June 6 at Wembley is officially sold out. Over 90,000 fans will pack the iconic stadium to witness the first send-off fixture. New Zealand authorities have taken up their full allocations.",
           author: "James Pearce (The Athletic)",
           readTime: "2 min",
           tag: "Ticket Intel",
@@ -431,7 +431,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_21_3_1",
-          category: "sweden",
+          category: "england",
           type: "Blog",
           title: "Declan Rice prepares massive Yorkshire Tea stash for Burton camp",
           bullets: [
@@ -458,7 +458,7 @@ const TIMELINE_DATABASE = {
           title: "Croatia Watch: Croatia establishes high-intensity training camp in Georgia",
           bullets: [
             "Coach schedules intensive multi-sessions to simulate Southern humidity.",
-            "Pulisic and McKennie report to Atlanta camp in highGoal scoring shape.",
+            "Modrić and Kovačić report to East Rutherford camp in excellent form.",
             "England analysts begin drafting transitional counter-pressing templates."
           ],
           summary: "England's tactical division has logged the schedules of their opening Group L opponents, Croatia. The Croatian national team has established their primary camp in East Rutherford to adjust to the East Coast conditions. With Luka Modrić leading tactical routines, the Croatians are focused on highly organized midfield transitions, prompting England to formulate custom pressing blocks.",
@@ -475,7 +475,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_21_5_1",
-          category: "sweden",
+          category: "england",
           type: "Blog",
           title: "Jude Bellingham checks out of Madrid, boarding flight to London",
           bullets: [
@@ -499,7 +499,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_22_1_1",
-          category: "sweden",
+          category: "england",
           type: "Column",
           title: "Why the May 25 release deadline is critical for England's system synergy",
           bullets: [
@@ -521,7 +521,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_22_2_1",
-          category: "sweden",
+          category: "england",
           type: "News",
           title: "Coaching staff outlines camp focus: 'We must build physical robustness'",
           bullets: [
@@ -543,7 +543,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_22_3_1",
-          category: "sweden",
+          category: "england",
           type: "Blog",
           title: "Harry Kane finishes private agility routines in Munich gym",
           bullets: [
@@ -587,7 +587,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_22_5_1",
-          category: "sweden",
+          category: "england",
           type: "Blog",
           title: "Bukayo Saka: 'Representing the Three Lions in a World Cup is my ultimate dream'",
           bullets: [
@@ -611,7 +611,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_23_1_1",
-          category: "sweden",
+          category: "england",
           type: "News",
           title: "England media desk builds Burton press arena for massive media blitz",
           bullets: [
@@ -649,15 +649,15 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_23_2_1",
-          category: "sweden",
+          category: "england",
           type: "News",
           title: "FA publishes finalized pre-tournament agenda: London to Atlanta",
           bullets: [
             "Squad reports to Burton on May 27, training at St George's Park for 4 days.",
-            "Transit to London on May 31, Ireland friendly at Wembley on June 1.",
-            "Charter flights to USA main camp in Atlanta scheduled for morning of June 2."
+            "Transit to London on June 5, New Zealand friendly at Wembley on June 6.",
+            "Costa Rica warm-up on June 10, then charter flights to USA main camp scheduled."
           ],
-          summary: "The FA today published the official team calendar. The 26-man roster will gather in Burton next Wednesday, training locally for four days. On May 31, they travel to London for their first friendly against Ireland on June 1, and immediately board a charter flight to their primary base camp in Atlanta, Georgia on June 2 to begin their final tournament preparations.",
+          summary: "The FA today published the official team calendar. The 26-man roster will gather at St George's Park in Burton, training locally before traveling to London. On June 6, they host New Zealand in their first warm-up friendly at Wembley, followed by Costa Rica on June 10. They then board a charter flight to their primary base camp in the United States to begin their final tournament preparations.",
           author: "Kaveh Solhekol (Sky Sports)",
           readTime: "3 min",
           tag: "Camp Schedule",
@@ -671,7 +671,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_23_3_1",
-          category: "sweden",
+          category: "england",
           type: "Blog",
           title: "Luke Shaw completes intensive knee loading program in Manchester",
           bullets: [
@@ -697,7 +697,7 @@ const TIMELINE_DATABASE = {
           type: "Scouting",
           title: "Croatia Watch: Luka Modrić displays masterclass form in Madrid warm-up",
           bullets: [
-            "Milan winger Pulisic logs two assists and a goal in closed scrimmage.",
+            "Real Madrid midfielder Modrić logs two key passes and a goal in closed scrimmage.",
             "Croatia transition schemes focus heavily on central ball retention.",
             "England analytics division drafts wide coverage blocks to brief Kyle Walker."
           ],
@@ -715,7 +715,7 @@ const TIMELINE_DATABASE = {
       articles: [
         {
           id: "art_23_5_1",
-          category: "sweden",
+          category: "england",
           type: "Blog",
           title: "Phil Foden: 'The bags are packed; Burton, see you tomorrow morning'",
           bullets: [
@@ -754,7 +754,7 @@ const MATCH_SCHEDULE = [
     opponent: "Costa Rica",
     opponentFlag: "🇨🇷",
     venue: "Wembley Stadium, London",
-    details: "Second Warm-up Friendly. The final home match at Wembley before the squad travels to their World Cup base in the USA."
+    details: "Second Warm-up Friendly. The final home match at Wembley before the squad departs for their World Cup base in the United States."
   },
   {
     id: "match_croatia",
@@ -931,19 +931,19 @@ const SQUAD_ATTRIBUTES = {
 const SIMULATION_EVENTS = {
   "match_nz": [
     { minute: 1, type: "kickoff", text: "Kick-off at Wembley! An electric home atmosphere as England begins their warm-up campaign." },
-    { minute: 24, type: "goal_swe", text: "GOAL for England! Phil Foden crosses inside, and skipper Harry Kane strikes it cleanly home! 1-0 England." },
+    { minute: 24, type: "goal_eng", text: "GOAL for England! Phil Foden crosses inside, and skipper Harry Kane strikes it cleanly home! 1-0 England." },
     { minute: 45, type: "halftime", text: "Half Time: England leads 1-0. Dominating possession, dictating play with high efficiency." },
     { minute: 65, type: "sub", text: "Cole Palmer is introduced off the bench, looking to unlock the defense." },
-    { minute: 78, type: "goal_swe", text: "GOAL for England! Cole Palmer receives a pass from Declan Rice, takes a touch, and slides a clinical low finish past the keeper! 2-0!" },
+    { minute: 78, type: "goal_eng", text: "GOAL for England! Cole Palmer receives a pass from Declan Rice, takes a touch, and slides a clinical low finish past the keeper! 2-0!" },
     { minute: 90, type: "fulltime", text: "Full Time! England cruises to a comfortable 2-0 warm-up victory at Wembley Stadium." }
   ],
   "match_cr": [
-    { minute: 1, type: "kickoff", text: "Kick-off at Wembley! The final home warm-up match before departing for the USA World Cup camp." },
-    { minute: 14, type: "goal_swe", text: "GOAL for England! Bukayo Saka cuts inside from the right and curls a spectacular dipping shot into the far corner! 1-0!" },
-    { minute: 42, type: "goal_swe", text: "GOAL for England! Jude Bellingham rises above the defense to plant a towering header home! 2-0 England." },
+    { minute: 1, type: "kickoff", text: "Kick-off at Wembley! The final home warm-up match before the squad departs for their World Cup base in the United States." },
+    { minute: 14, type: "goal_eng", text: "GOAL for England! Bukayo Saka cuts inside from the right and curls a spectacular dipping shot into the far corner! 1-0!" },
+    { minute: 42, type: "goal_eng", text: "GOAL for England! Jude Bellingham rises above the defense to plant a towering header home! 2-0 England." },
     { minute: 45, type: "halftime", text: "Half Time: England leads 2-0. Complete dominance in midfield." },
     { minute: 58, type: "goal_opp", text: "GOAL for Costa Rica! Joel Campbell gets on the end of a cross and slides it home. 2-1." },
-    { minute: 81, type: "goal_swe", text: "GOAL for England! Ollie Watkins seals it off the bench with a powerful low strike! 3-1 England!" },
+    { minute: 81, type: "goal_eng", text: "GOAL for England! Ollie Watkins seals it off the bench with a powerful low strike! 3-1 England!" },
     { minute: 90, type: "fulltime", text: "Full Time! England secures a beautiful 3-1 farewell victory at Wembley Stadium." }
   ],
   "match_croatia": [
@@ -951,25 +951,25 @@ const SIMULATION_EVENTS = {
     { minute: 34, type: "goal_opp", text: "GOAL for Croatia! Kramarić fires a quick half-volley past Pickford from the edge of the box. 1-0 Croatia." },
     { minute: 45, type: "halftime", text: "Half Time: Croatia leads 1-0. Highly competitive half with both teams creating solid chances." },
     { minute: 67, type: "foul", text: "Penalty for England! Jude Bellingham is brought down in the box after a brilliant run." },
-    { minute: 68, type: "goal_swe", text: "GOAL for England! Captain Harry Kane steps up and fires the penalty cleanly into the bottom corner! 1-1!" },
+    { minute: 68, type: "goal_eng", text: "GOAL for England! Captain Harry Kane steps up and fires the penalty cleanly into the bottom corner! 1-1!" },
     { minute: 82, type: "save", text: "Heroic save! Jordan Pickford stretches to deny Modrić's dipping effort. Crucial reflexes!" },
     { minute: 90, type: "fulltime", text: "Full Time! England battles to a hard-fought 1-1 draw against Croatia in their World Cup opener." }
   ],
   "match_ghana": [
     { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets in California as England begins their second Group L match." },
     { minute: 12, type: "goal_opp", text: "GOAL for Ghana! Mohammed Kudus scores an absolute stunner from long range! 1-0 Ghana." },
-    { minute: 41, type: "goal_swe", text: "GOAL for England! Bukayo Saka receives a pass from Jude Bellingham and slots it home. 1-1!" },
+    { minute: 41, type: "goal_eng", text: "GOAL for England! Bukayo Saka receives a pass from Jude Bellingham and slots it home. 1-1!" },
     { minute: 45, type: "halftime", text: "Half Time in LA: Tied at 1-1. England is fighting back in stellar style." },
     { minute: 73, type: "save", text: "Jordan Pickford makes a massive block in the penalty box to deny a rapid Ghana counter." },
-    { minute: 88, type: "goal_swe", text: "GOAL for England! Phil Foden hits a magnificent free-kick winner into the top corner! 2-1 England!" },
+    { minute: 88, type: "goal_eng", text: "GOAL for England! Phil Foden hits a magnificent free-kick winner into the top corner! 2-1 England!" },
     { minute: 90, type: "fulltime", text: "Full Time! A sensational 2-1 comeback victory for England in Los Angeles!" }
   ],
   "match_panama": [
     { minute: 1, type: "kickoff", text: "Kick-off in Atlanta! England looks to secure top spot in Group L." },
-    { minute: 14, type: "goal_swe", text: "GOAL for England! Harry Kane scores a clinical low drive past the keeper! 1-0 England." },
-    { minute: 44, type: "goal_swe", text: "GOAL for England! Harry Kane scores a magnificent second from the penalty spot! 2-0 England." },
+    { minute: 14, type: "goal_eng", text: "GOAL for England! Harry Kane scores a clinical low drive past the keeper! 1-0 England." },
+    { minute: 44, type: "goal_eng", text: "GOAL for England! Harry Kane scores a magnificent second from the penalty spot! 2-0 England." },
     { minute: 45, type: "halftime", text: "Half Time: England leads 2-0." },
-    { minute: 71, type: "goal_swe", text: "GOAL for England! Jude Bellingham arrives late in the box to slot home a beautiful third! 3-0!" },
+    { minute: 71, type: "goal_eng", text: "GOAL for England! Jude Bellingham arrives late in the box to slot home a beautiful third! 3-0!" },
     { minute: 90, type: "fulltime", text: "Full Time! England wins Group L! A magnificent 3-0 victory in Atlanta!" }
   ]
 };
@@ -1263,7 +1263,7 @@ let isPlaying = false;
 let audioPlayer = null; 
 
 // 6. Time Schedule & State Management
-let ACTIVE_NEWS_TAB = "sweden";
+let ACTIVE_NEWS_TAB = "england";
 
 function getCurrentTimeMinutes() {
   const now = new Date();
@@ -1428,13 +1428,13 @@ let simTime = 0;
 let simSpeed = 150; // default 150ms per minute
 let currentSimMatchId = "";
 let simPossession = 50;
-let simShotsSwe = 0;
+let simShotsEng = 0;
 let simShotsOpp = 0;
-let simCornersSwe = 0;
+let simCornersEng = 0;
 let simCornersOpp = 0;
-let simFoulsSwe = 0;
+let simFoulsEng = 0;
 let simFoulsOpp = 0;
-let simScoreSwe = 0;
+let simScoreEng = 0;
 let simScoreOpp = 0;
 
 function initApp() {
@@ -2195,14 +2195,14 @@ function openMatchSimulator() {
   if (!modal) return;
 
   simTime = 0;
-  simScoreSwe = 0;
+  simScoreEng = 0;
   simScoreOpp = 0;
   simPossession = 50;
-  simShotsSwe = 0;
+  simShotsEng = 0;
   simShotsOpp = 0;
-  simCornersSwe = 0;
+  simCornersEng = 0;
   simCornersOpp = 0;
-  simFoulsSwe = 0;
+  simFoulsEng = 0;
   simFoulsOpp = 0;
 
   if (simInterval) clearInterval(simInterval);
@@ -2222,9 +2222,9 @@ function openMatchSimulator() {
   document.getElementById("sim-control-pause").style.display = "none";
   document.getElementById("sim-control-play").innerHTML = '<i class="fas fa-play"></i> Start Match';
   
-  document.getElementById("sim-stat-poss-swe").textContent = "50";
+  document.getElementById("sim-stat-poss-eng").textContent = "50";
   document.getElementById("sim-stat-poss-opp").textContent = "50";
-  document.getElementById("sim-bar-poss-swe").style.width = "50%";
+  document.getElementById("sim-bar-poss-eng").style.width = "50%";
   document.getElementById("sim-bar-poss-opp").style.width = "50%";
   document.getElementById("sim-stat-shots").textContent = "0 - 0";
   document.getElementById("sim-stat-corners").textContent = "0 - 0";
@@ -2269,22 +2269,22 @@ function handleSimulatorTick() {
   document.getElementById("sim-clock").textContent = timeStr;
 
   simPossession = Math.max(30, Math.min(70, simPossession + (Math.random() > 0.5 ? 2 : -2)));
-  document.getElementById("sim-stat-poss-swe").textContent = simPossession;
+  document.getElementById("sim-stat-poss-eng").textContent = simPossession;
   document.getElementById("sim-stat-poss-opp").textContent = 100 - simPossession;
-  document.getElementById("sim-bar-poss-swe").style.width = `${simPossession}%`;
+  document.getElementById("sim-bar-poss-eng").style.width = `${simPossession}%`;
   document.getElementById("sim-bar-poss-opp").style.width = `${100 - simPossession}%`;
 
   if (Math.random() > 0.8) {
-    if (Math.random() > 0.45) simShotsSwe++; else simShotsOpp++;
-    document.getElementById("sim-stat-shots").textContent = `${simShotsSwe} - ${simShotsOpp}`;
+    if (Math.random() > 0.45) simShotsEng++; else simShotsOpp++;
+    document.getElementById("sim-stat-shots").textContent = `${simShotsEng} - ${simShotsOpp}`;
   }
   if (Math.random() > 0.85) {
-    if (Math.random() > 0.48) simCornersSwe++; else simCornersOpp++;
-    document.getElementById("sim-stat-corners").textContent = `${simCornersSwe} - ${simCornersOpp}`;
+    if (Math.random() > 0.48) simCornersEng++; else simCornersOpp++;
+    document.getElementById("sim-stat-corners").textContent = `${simCornersEng} - ${simCornersOpp}`;
   }
   if (Math.random() > 0.88) {
-    if (Math.random() > 0.5) simFoulsSwe++; else simFoulsOpp++;
-    document.getElementById("sim-stat-fouls").textContent = `${simFoulsSwe} - ${simFoulsOpp}`;
+    if (Math.random() > 0.5) simFoulsEng++; else simFoulsOpp++;
+    document.getElementById("sim-stat-fouls").textContent = `${simFoulsEng} - ${simFoulsOpp}`;
   }
 
   const events = SIMULATION_EVENTS[currentSimMatchId] || [];
@@ -2292,10 +2292,10 @@ function handleSimulatorTick() {
 
   if (event) {
     let bubbleClass = "";
-    if (event.type === "goal_swe") {
+    if (event.type === "goal_eng") {
       bubbleClass = "event-goal";
-      simScoreSwe++;
-      document.getElementById("sim-score-display").textContent = `${simScoreSwe} - ${simScoreOpp}`;
+      simScoreEng++;
+      document.getElementById("sim-score-display").textContent = `${simScoreEng} - ${simScoreOpp}`;
       
       let scorer = "Harry Kane";
       if (event.text.toLowerCase().includes("saka")) scorer = "Bukayo Saka";
@@ -2304,11 +2304,11 @@ function handleSimulatorTick() {
       else if (event.text.toLowerCase().includes("watkins")) scorer = "Ollie Watkins";
       else if (event.text.toLowerCase().includes("palmer")) scorer = "Cole Palmer";
       
-      triggerGoalFlashAnimation(scorer, `${simScoreSwe} - ${simScoreOpp}`);
+      triggerGoalFlashAnimation(scorer, `${simScoreEng} - ${simScoreOpp}`);
     } else if (event.type === "goal_opp") {
       bubbleClass = "event-card-red";
       simScoreOpp++;
-      document.getElementById("sim-score-display").textContent = `${simScoreSwe} - ${simScoreOpp}`;
+      document.getElementById("sim-score-display").textContent = `${simScoreEng} - ${simScoreOpp}`;
     } else if (event.type === "foul") {
       bubbleClass = "event-card-yellow";
     }
@@ -2386,19 +2386,19 @@ function setupEventListeners() {
     });
   });
 
-  const tabSweden = document.getElementById("tab-news-sweden");
+  const tabEngland = document.getElementById("tab-news-england");
   const tabOpponent = document.getElementById("tab-news-opponent");
 
-  if (tabSweden && tabOpponent) {
-    tabSweden.addEventListener("click", () => {
+  if (tabEngland && tabOpponent) {
+    tabEngland.addEventListener("click", () => {
       tabOpponent.classList.remove("active");
-      tabSweden.classList.add("active");
-      ACTIVE_NEWS_TAB = "sweden";
+      tabEngland.classList.add("active");
+      ACTIVE_NEWS_TAB = "england";
       updateNewsDashboard();
     });
 
     tabOpponent.addEventListener("click", () => {
-      tabSweden.classList.remove("active");
+      tabEngland.classList.remove("active");
       tabOpponent.classList.add("active");
       ACTIVE_NEWS_TAB = "opponent";
       updateNewsDashboard();

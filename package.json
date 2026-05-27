@@ -1,7 +1,7 @@
 {
-  "name": "swedish-world-cup-hub",
+  "name": "england-world-cup-hub",
   "version": "1.0.0",
-  "description": "Swedish World Cup Hub 2026",
+  "description": "England World Cup Hub 2026",
   "main": "app.js",
   "scripts": {
     "build": "node build.js"
