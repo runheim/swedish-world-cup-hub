@@ -3,8 +3,7 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Foden a 'victim' of football's packed schedule",
-    "⚽ Premier League 2025-26 review: our writers’ best and worst of the season"
+    "⚽ How did Arsenal become a home for Black players and fans?"
   ],
   "timeline": {
     "2026-05-26": {
@@ -101,9 +100,31 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5325_0",
+            "category": "england",
+            "type": "News",
+            "title": "How did Arsenal become a home for Black players and fans?",
+            "bullets": [
+              "&lt;p&gt;After two decades, long-suffering Gunners fans from across the diaspora have been rewarded ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;After two decades, long-suffering Gunners fans from across the diaspora have been rewarded with a Premier League win. So why has this sometimes beleaguered team earned such adulation?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/global/2024/oct/16/sign-up-for-the-long-wave-newsletter-our-weekly-black-life-and-culture-email\"&gt;&lt;strong&gt;Don’t already get The Long Wave in your inbox? Sign up here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hello and welcome to The Long Wave. As the resident Arsenal fan, I’m stepping in for Nesrine the week after my club lifted the &lt;a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\"&gt;Premier League trophy&lt;/a&gt; for the first time since 2004, prompting celebrations on a scale we rarely see, at home and across the globe.&lt;/p&gt;&lt;p&gt;Arsenal have a storied history with Black players, and its fanbase reflects that. A cursory look at the joy on Bukayo Saka and Eberechi Eze’s faces at Selhurst Park and the ensuing melee of supporters on the streets of London right through to Kampala is strong proof of that. I look at why a north London club has the love and dedication of so many in the Black diaspora – a flame that has remained lit through the good, the bad and indifferent.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/2026/may/26/how-arsenal-became-a-home-for-black-fans\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 05:35:20 local time"
+  "lastUpdated": "2026-05-27 @ 17:53:25 local time"
 };
