@@ -427,16 +427,16 @@ const TIMELINE_DATABASE = {
           id: "art_21_2_1",
           category: "usa",
           type: "News",
-          title: "US Soccer confirms ticketing details and safety plan for Sweden warmup in Gothenburg",
+          title: "US Soccer confirms camp training complex and logistics for Denver pre-camp",
           bullets: [
-            "Ticketing portal opens for the highly anticipated friendly at Gamla Ullevi.",
-            "Over 3,000 traveling American fans expected to pack Gothenburg's away blocks.",
-            "US Soccer releases detailed pre-match logistics for traveling supporters."
+            "State-of-the-art training complex in Denver secured for the full camp period.",
+            "US Soccer finalizes travel logistics for all 26 players arriving from Europe.",
+            "Support staff confirms all recovery, nutrition, and medical facilities are ready."
           ],
-          summary: "US Soccer released ticketing and security protocols for the upcoming international friendly against Sweden on June 1 at Gamla Ullevi. Swedish authorities anticipate a completely packed venue. American fans have already snapped up their designated away allocation, promising an electric atmosphere for Pochettino's first match of the final phase.",
+          summary: "US Soccer released full logistics details for the Denver pre-camp gathering. The federation has secured an elite high-altitude training complex with full recovery suites, tactical analysis rooms, and sports science infrastructure. All 26 players will arrive by May 27 for the intensive preparation phase before the World Cup opener against Paraguay.",
           author: "US Soccer Press Feed",
           readTime: "2 min",
-          tag: "Ticket Intel",
+          tag: "Camp Logistics",
           relatedPlayers: []
         }
       ]
@@ -545,7 +545,7 @@ const TIMELINE_DATABASE = {
             "Focuses heavily on transitional speed drills and press-resistance.",
             "Praises US Soccer's logistics division for organizing a seamless flight plan."
           ],
-          summary: "During an online media briefing today, manager Mauricio Pochettino spoke on the goals of the local Denver pre-camp. 'The first three days in Denver are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before flying to Sweden,' Pochettino explained.",
+          summary: "During an online media briefing today, manager Mauricio Pochettino spoke on the goals of the local Denver pre-camp. 'The first three days in Denver are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before heading to our main tournament base,' Pochettino explained.",
           author: "Michele Giannone (TUDN)",
           readTime: "3 min",
           tag: "Manager Focus",
@@ -667,13 +667,13 @@ const TIMELINE_DATABASE = {
           id: "art_23_2_1",
           category: "usa",
           type: "News",
-          title: "Pochettino's finalized pre-tournament agenda: Denver to Gothenburg timeline published",
+          title: "Pochettino's finalized pre-tournament agenda: Denver camp schedule published",
           bullets: [
             "US Soccer publishes the detailed chronological itinerary for the final phase.",
             "Squad reports to Denver on May 27, trains at altitude base camp.",
-            "Flights to Sweden on May 31, Sweden match June 1, departs for Dallas base on June 2."
+            "Team transitions to Dallas tournament base on June 2 for final preparations."
           ],
-          summary: "US Soccer today published the official team calendar. The 26-man roster will gather in Denver next Wednesday, training locally for four days. On May 31, they travel to Gothenburg for their first friendly against Sweden on June 1, and immediately board a charter flight to their primary base camp in Dallas, Texas on June 2 to begin their final tournament preparations.",
+          summary: "US Soccer today published the official team calendar. The 26-man roster will gather in Denver next Wednesday, training locally for six days of intensive tactical and physical preparation. On June 2, they will board a charter flight to their primary base camp in Dallas, Texas to begin their final tournament preparations ahead of the Group D opener against Paraguay.",
           author: "Michele Giannone (TUDN)",
           readTime: "3 min",
           tag: "Camp Schedule",
@@ -754,14 +754,24 @@ const TIMELINE_DATABASE = {
 // 3. Official 2026 World Cup Group D Match Schedule
 const MATCH_SCHEDULE = [
   {
-    id: "match_sweden",
+    id: "match_senegal",
     type: "warmup",
-    date: "2026-06-01",
-    time: "19:00",
-    opponent: "Sweden",
-    opponentFlag: "🇸🇪",
-    venue: "Gamla Ullevi, Gothenburg",
-    details: "A classic warm-up friendly serving as manager Mauricio Pochettino's first major tactical test before departing for the tournament."
+    date: "2026-05-31",
+    time: "19:30",
+    opponent: "Senegal",
+    opponentFlag: "🇸🇳",
+    venue: "Bank of America Stadium, Charlotte",
+    details: "Allstate Continental Clásico. USMNT's first warm-up friendly as Pochettino tests his tactical blueprint against an elite African side."
+  },
+  {
+    id: "match_germany",
+    type: "warmup",
+    date: "2026-06-06",
+    time: "20:00",
+    opponent: "Germany",
+    opponentFlag: "🇩🇪",
+    venue: "Soldier Field, Chicago",
+    details: "Official Send-Off Match. The final test before the World Cup begins — a marquee clash against Germany at Soldier Field."
   },
   {
     id: "match_paraguay",
@@ -797,25 +807,46 @@ const MATCH_SCHEDULE = [
 
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
-  "match_sweden": {
-    score: "2 - 1",
-    scorers: "🇸🇪 Gyökeres (14') | 🇺🇸 Pulisic (54'), McKennie (82')",
-    report: "Mauricio Pochettino's era kicks off with a brilliant comeback victory in Gothenburg! Despite Viktor Gyökeres opening the scoring early with a powerful strike, USA dominated possession in the second half. Christian Pulisic equalized with a clinical low shot before Weston McKennie powered home a trademark header from a corner in the 82nd minute.",
+  "match_senegal": {
+    score: "1 - 1",
+    scorers: "🇺🇸 Pulisic (38') | 🇸🇳 Dia (72')",
+    report: "A tough test in Charlotte as Senegal proved a formidable opponent. Christian Pulisic opened the scoring with a clinical finish after a brilliant Gio Reyna through ball. However, Senegal's physicality in the second half paid off when Boulaye Dia equalized with a powerful header from a corner. Pochettino used the match to rotate heavily in the final 20 minutes.",
     ratings: [
-      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Made two critical saves against Gyökeres in the first half.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 7.0, comment: "Tough battle against Gyökeres, recovered well in the second half.", isMotm: false },
-      { name: "Tim Ream", role: "CB", rating: 7.5, comment: "Composed leadership. Kept the defensive line compact.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "High work rate, provided defensive coverage and dangerous crosses.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo with disciplined recycling.", isMotm: false },
-      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Energetic pressing, linked defense and attack smoothly.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Relentless overlapping runs, highly active in transition.", isMotm: false },
-      { name: "Weston McKennie", role: "CM", rating: 8.5, comment: "Sensational performance. Dominated the midfield and scored the winning header in the 82nd minute.", isMotm: true },
-      { name: "Gio Reyna", role: "AM", rating: 7.5, comment: "Highly creative in pockets. Assisted McKennie's winner.", isMotm: false },
-      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "A constant nightmare on the left. Scored a magnificent equalizing goal.", isMotm: false }
+      { name: "Matt Turner", role: "GK", rating: 7.0, comment: "Made two solid saves, beaten only by a powerful header.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 7.0, comment: "Physical battle against Senegal's forwards, held firm.", isMotm: false },
+      { name: "Tim Ream", role: "CB", rating: 7.0, comment: "Composed and experienced presence in the backline.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Reliable on both sides of the ball.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo, won crucial duels.", isMotm: false },
+      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Energetic pressing, linked play smoothly.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.0, comment: "Overlapping runs created space for Pulisic.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Scored a clinical opening goal. Constant threat.", isMotm: true },
+      { name: "Gio Reyna", role: "AM", rating: 7.5, comment: "Brilliant assist for Pulisic's goal. Creative spark.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 6.5, comment: "Worked hard but couldn't find the net.", isMotm: false }
     ],
     preview: {
-      tactical: "Manager Mauricio Pochettino's debut match! The focus will be on transitioning to the new 4-3-3 shape and testing defensive responses to Sweden's high-speed transitions.",
-      keyStat: "First match under Pochettino. All eyes are on his tactical adaptations."
+      tactical: "Pochettino's first competitive test! Focus on implementing the 4-3-3 system against a physical, organized African side.",
+      keyStat: "USA and Senegal have only met twice in history, splitting the results."
+    }
+  },
+  "match_germany": {
+    score: "2 - 1",
+    scorers: "🇺🇸 Balogun (33'), Weah (71') | 🇩🇪 Wirtz (55')",
+    report: "A spectacular send-off victory at Soldier Field! Folarin Balogun opened the scoring with a clinical first-half strike. Germany equalized through Florian Wirtz's thunderous shot, but Timothy Weah sealed a memorable win with a pacey counter-attack goal in the 71st minute. The crowd of 62,000 gave the squad a rousing farewell.",
+    ratings: [
+      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Sharp reflexes, made a key save before Wirtz's goal.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 7.5, comment: "Excellent against his Bundesliga rivals, dominant aerially.", isMotm: false },
+      { name: "Cameron Carter-Vickers", role: "CB", rating: 7.0, comment: "Solid positioning, read German passing patterns well.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 7.5, comment: "Impressive attacking contribution, delivered a key assist.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 8.0, comment: "Stellar midfield anchor, broke up German transitions.", isMotm: false },
+      { name: "Weston McKennie", role: "CM", rating: 7.5, comment: "Combative display, covered enormous ground.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Relentless engine down the left flank.", isMotm: false },
+      { name: "Timothy Weah", role: "RW", rating: 8.5, comment: "Explosive pace. Scored the winning goal on a blistering counter-attack.", isMotm: true },
+      { name: "Christian Pulisic", role: "LW", rating: 7.5, comment: "Captain's display. Directed the press and created chances.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 8.0, comment: "Clinical first-half finish, strong hold-up play throughout.", isMotm: false }
+    ],
+    preview: {
+      tactical: "The official Send-Off Match at Soldier Field! A marquee test against Germany to finalize tactical patterns before the World Cup.",
+      keyStat: "USA beat Germany 2-0 in their last World Cup meeting (2014 group stage in Brazil)."
     }
   },
   "match_paraguay": {
@@ -919,16 +950,25 @@ const SQUAD_ATTRIBUTES = {
 };
 
 const SIMULATION_EVENTS = {
-  "match_sweden": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Gothenburg! A roaring Scandinavian atmosphere at Gamla Ullevi. Mauricio Pochettino makes his tactical debut with a transition 4-3-3." },
-    { minute: 14, type: "goal_opp", text: "GOAL for Sweden! Viktor Gyökeres capitalizes on a quick turn, escaping central coverage to blast a powerful half-volley into the top corner. 1-0 Sweden." },
-    { minute: 28, type: "foul", text: "Chris Richards picks up a yellow card for a robust challenge on Gyökeres in midfield." },
-    { minute: 45, type: "halftime", text: "Half Time in Gothenburg: Sweden leads 1-0. USA has dominated possession (58%) but Gyökeres' early strike is the difference." },
-    { minute: 54, type: "goal_usa", text: "GOAL for USA! Antonee Robinson swings in a dangerous cross. Christian Pulisic cuts inside to plant a clinical finish past the keeper! 1-1!" },
-    { minute: 65, type: "sub", text: "Pochettino introduces Gio Reyna off the bench, looking to unlock the Swedish defensive lines." },
-    { minute: 73, type: "save", text: "Heroic save! Matt Turner makes a fingertip save to deny Gyökeres' low drive. Incredible reflexes!" },
-    { minute: 82, type: "goal_usa", text: "GOAL for USA! Unbelievable! Gio Reyna picks up the ball, floats a precise corner. Weston McKennie powers a trademark bullet header past the keeper! 2-1 USA!" },
-    { minute: 90, type: "fulltime", text: "Full Time! Mauricio Pochettino starts his USA coaching era with a dramatic 2-1 comeback victory in Sweden! McKennie's header seals it." }
+  "match_senegal": [
+    { minute: 1, type: "kickoff", text: "Kick-off in Charlotte! Bank of America Stadium is packed for the Allstate Continental Clásico. Pochettino's tactical era begins!" },
+    { minute: 20, type: "save", text: "Matt Turner makes a sharp save to deny a powerful Senegalese free kick from distance." },
+    { minute: 38, type: "goal_usa", text: "GOAL for USA! Gio Reyna threads a brilliant through ball and Christian Pulisic finishes clinically! 1-0 USA!" },
+    { minute: 45, type: "halftime", text: "Half Time in Charlotte: USA leads 1-0. Pochettino's 4-3-3 system looking sharp in attack." },
+    { minute: 60, type: "sub", text: "Pochettino makes three changes, rotating the squad to test depth options." },
+    { minute: 72, type: "goal_opp", text: "GOAL for Senegal! Boulaye Dia rises highest at a corner to power a header past Turner. 1-1." },
+    { minute: 85, type: "save", text: "Turner makes a fingertip save to preserve the draw after a dangerous Senegalese counter." },
+    { minute: 90, type: "fulltime", text: "Full Time! A competitive 1-1 draw against Senegal. Pochettino gained valuable tactical insights." }
+  ],
+  "match_germany": [
+    { minute: 1, type: "kickoff", text: "Kick-off at Soldier Field! 62,000 fans roar as USA hosts Germany in the official World Cup Send-Off Match!" },
+    { minute: 15, type: "dribble", text: "Timothy Weah blazes past his marker with electric pace, but his cross is cleared by Rüdiger." },
+    { minute: 33, type: "goal_usa", text: "GOAL for USA! Brilliant build-up play! McKennie wins the ball, feeds Pulisic, who slides it across for Balogun to finish! 1-0 USA!" },
+    { minute: 45, type: "halftime", text: "Half Time at Soldier Field: USA leads 1-0. Commanding first-half display from Pochettino's side." },
+    { minute: 55, type: "goal_opp", text: "GOAL for Germany! Florian Wirtz unleashes a thunderous strike from 25 yards into the top corner. Nothing Turner could do. 1-1." },
+    { minute: 65, type: "sub", text: "Pochettino introduces fresh legs in midfield, looking to regain control of the game." },
+    { minute: 71, type: "goal_usa", text: "GOAL for USA! Lightning counter-attack! Scally plays a long diagonal to Timothy Weah, who outpaces the defender and finishes with power! 2-1 USA!" },
+    { minute: 90, type: "fulltime", text: "Full Time! A magnificent 2-1 Send-Off victory over Germany! Soldier Field erupts! USA heads into the World Cup with momentum!" }
   ],
   "match_paraguay": [
     { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets as USA begins their World Cup Group D campaign in front of a packed stadium." },
@@ -1232,7 +1272,7 @@ const CHAT_MESSAGES = [
   { sender: "Weston McKennie", avatar: "🇺🇸", text: "Bags are packed, captain! 🇺🇸 Bringing a lifetime supply of ranch dressing to Colorado. Need it for the high-altitude recovery! 🍕", time: "10:18" },
   { sender: "Folarin Balogun", avatar: "🇺🇸", text: "Leave the ranch in Texas, Wes! 😂 Just finished my training session in Monaco. Feeling extremely sharp and ready.", time: "10:22" },
   { sender: "Tyler Adams", avatar: "🇺🇸", text: "Same here in Bournemouth. Let's make sure nobody forgets their passports or boots. Looking at you, Wes! 😂", time: "10:25" },
-  { sender: "Antonee Robinson", avatar: "🇺🇸", text: "Hey! I'm already in Denver doing some light sprints. High altitude is no joke, but the air is crisp. Let's get these three points in Gothenburg!", time: "10:28" },
+  { sender: "Antonee Robinson", avatar: "🇺🇸", text: "Hey! I'm already in Denver doing some light sprints. High altitude is no joke, but the air is crisp. Let's dominate that Group D opener!", time: "10:28" },
   { sender: "Christian Pulisic", avatar: "🇺🇸", text: "Love the focus. Official gathering is Wednesday May 27th at the hotel lobby at 10:00 AM. Let's make history this summer boys! 🇺🇸💪", time: "10:31", isCaptain: true }
 ];
 
@@ -1461,7 +1501,7 @@ function initApp() {
     } else {
       tickerItems = [
         "⚽ Mauricio Pochettino has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ USMNT will depart for Gothenburg, Sweden tomorrow morning for their warmup match.",
+        "✈️ USMNT squad gathering in Denver for high-altitude World Cup preparation camp.",
         "💪 Christian Pulisic arrives in stellar goal-scoring form from his AC Milan campaign.",
         "🚑 Medical staff confirms that midfielder Tyler Adams is cleared for full contact.",
         "⭐ Gio Reyna designated by FIFA as one of the ultimate creative playmakers to watch."
@@ -1488,6 +1528,7 @@ function initApp() {
   renderMatchCenter();
   initScoutRoom();
   setupEventListeners();
+  initPremiumUpgrades();
 
   setInterval(() => {
     tickCountdown();
@@ -2250,6 +2291,13 @@ function handleSimulatorTick() {
     if (forceUnlockCheckbox) {
       forceUnlockCheckbox.checked = true;
     }
+    
+    // Update simulated group match results
+    if (currentSimMatchId === "match_paraguay" || currentSimMatchId === "match_australia" || currentSimMatchId === "match_turkiye") {
+      SIMULATED_RESULTS[currentSimMatchId] = { usa: simScoreUSA, opp: simScoreOpp };
+      calculateGroupStandings();
+    }
+    
     renderMatchCenter();
     return;
   }
@@ -2569,5 +2617,685 @@ function setupEventListeners() {
     });
   }
 }
+
+// ==========================================================================
+// PREMIUM UPGRADES PORTAL UPGRADE SYSTEM (USA HUB)
+// Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
+// ==========================================================================
+
+let SIMULATED_RESULTS = {
+  match_paraguay: null,
+  match_australia: null,
+  match_turkiye: null
+};
+
+let venueClockInterval = null;
+let currentTriviaIndex = 0;
+let triviaScore = 0;
+let answeredTrivia = false;
+let selectedPredictorMatch = "match_paraguay";
+
+const VENUES = {
+  la: {
+    city: "Los Angeles, USA",
+    stadium: "SoFi Stadium",
+    capacity: "70,240",
+    timezone: "America/Los_Angeles",
+    weather: "74°F (Sunny)",
+    desc: "SoFi Stadium is an indoor-outdoor stadium architectural marvel in Inglewood, California. Home to the NFL's Rams and Chargers, it will host USA's massive opening Group D World Cup match against Paraguay.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://www.sofistadium.com"
+  },
+  seattle: {
+    city: "Seattle, USA",
+    stadium: "Lumen Field",
+    capacity: "69,000",
+    timezone: "America/Los_Angeles",
+    weather: "64°F (Partly Cloudy)",
+    desc: "Famous for its sweeping roofline and deafening acoustic architecture, Lumen Field sits adjacent to downtown Seattle. It will host USA's second group match against Australia's Socceroos.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://www.lumenfield.com"
+  },
+  chicago: {
+    city: "Chicago, USA",
+    stadium: "Soldier Field",
+    capacity: "61,500",
+    timezone: "America/Chicago",
+    weather: "70°F (Breezy)",
+    desc: "Located on the Near South Side of Chicago, Soldier Field is one of the most historic sporting venues in the world. It hosted USA's spectacular 2-1 Send-Off friendly victory against Germany.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://www.soldierfield.net"
+  }
+};
+
+const TRIVIA_QUESTIONS = [
+  {
+    q: "Who is the USMNT's joint all-time leading goalscorer (tied with Landon Donovan at 57 goals)?",
+    options: ["Clint Dempsey", "Christian Pulisic", "Brian McBride", "Jozy Altidore"],
+    answer: 0,
+    hint: "He famously played for Fulham and Tottenham in the English Premier League, scoring in three World Cups!"
+  },
+  {
+    q: "The USMNT reached the Quarterfinals of the World Cup in which modern tournament?",
+    options: ["1994 in USA", "2002 in South Korea/Japan", "2010 in South Africa", "2014 in Brazil"],
+    answer: 1,
+    hint: "Led by Bruce Arena, this squad beat rivals Mexico 2-0 in the Round of 16."
+  },
+  {
+    q: "Who is the current head coach of the USMNT leading them in this 2026 campaign?",
+    options: ["Gregg Berhalter", "Jürgen Klinsmann", "Mauricio Pochettino", "Bruce Arena"],
+    answer: 2,
+    hint: "The world-class former Tottenham, PSG, and Chelsea manager hired in late 2024."
+  },
+  {
+    q: "In the 1950 World Cup, USA pulled off one of the greatest upsets in sports history by beating which heavyweight 1-0?",
+    options: ["England", "Italy", "Brazil", "Spain"],
+    answer: 0,
+    hint: "The winning goal was scored by Joe Gaetjens in Belo Horizonte, Brazil."
+  },
+  {
+    q: "Which club does USMNT captain Christian Pulisic currently play for?",
+    options: ["Chelsea", "AC Milan", "Dortmund", "Juventus"],
+    answer: 1,
+    hint: "He had a sensational Scudetto campaign in Italy playing at the San Siro."
+  }
+];
+
+function initPremiumUpgrades() {
+  initTheme();
+  initGroupTable();
+  initVenueGuide();
+  initFanZone();
+}
+
+// 1. Dual-Kit Inspired Theme Controller
+function initTheme() {
+  const savedTheme = localStorage.getItem("user-theme-usa") || "light";
+  setTheme(savedTheme);
+  
+  const chk = document.getElementById("theme-toggle-chk");
+  if (chk) {
+    chk.checked = savedTheme === "light";
+    chk.addEventListener("change", (e) => {
+      const theme = e.target.checked ? "light" : "dark";
+      setTheme(theme);
+    });
+  }
+}
+
+function setTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
+  localStorage.setItem("user-theme-usa", theme);
+  
+  const sunIcon = document.getElementById("theme-sun-icon");
+  const moonIcon = document.getElementById("theme-moon-icon");
+  if (sunIcon && moonIcon) {
+    if (theme === "light") {
+      sunIcon.style.color = "var(--us-red)";
+      moonIcon.style.color = "var(--text-secondary)";
+    } else {
+      sunIcon.style.color = "var(--text-secondary)";
+      moonIcon.style.color = "var(--us-blue)";
+    }
+  }
+}
+
+// 2. Dynamic Group Standings Table Widget
+function initGroupTable() {
+  calculateGroupStandings();
+}
+
+function calculateGroupStandings() {
+  const groupTeams = {
+    usa: { id: "usa", name: "USA", flag: "🇺🇸", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    paraguay: { id: "paraguay", name: "Paraguay", flag: "🇵🇾", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    australia: { id: "australia", name: "Australia", flag: "🇦🇺", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    turkiye: { id: "turkiye", name: "Türkiye", flag: "🇹🇷", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 }
+  };
+
+  // Helper to add match to team
+  function addMatch(teamKey, gf, ga) {
+    const t = groupTeams[teamKey];
+    t.gp++;
+    t.gf += gf;
+    t.ga += ga;
+    t.gd = t.gf - t.ga;
+    if (gf > ga) {
+      t.w++;
+      t.pts += 3;
+    } else if (gf === ga) {
+      t.d++;
+      t.pts += 1;
+    } else {
+      t.l++;
+    }
+  }
+
+  // 1. Add background matches (Group D)
+  addMatch("paraguay", 1, 0);
+  addMatch("australia", 0, 1);
+
+  addMatch("turkiye", 2, 1);
+  addMatch("australia", 1, 2);
+
+  addMatch("paraguay", 0, 2);
+  addMatch("turkiye", 2, 0);
+
+  // 2. Add simulated USA matches
+  if (SIMULATED_RESULTS.match_paraguay) {
+    addMatch("usa", SIMULATED_RESULTS.match_paraguay.usa, SIMULATED_RESULTS.match_paraguay.opp);
+    addMatch("paraguay", SIMULATED_RESULTS.match_paraguay.opp, SIMULATED_RESULTS.match_paraguay.usa);
+  }
+  
+  if (SIMULATED_RESULTS.match_australia) {
+    addMatch("usa", SIMULATED_RESULTS.match_australia.usa, SIMULATED_RESULTS.match_australia.opp);
+    addMatch("australia", SIMULATED_RESULTS.match_australia.opp, SIMULATED_RESULTS.match_australia.usa);
+  }
+  
+  if (SIMULATED_RESULTS.match_turkiye) {
+    addMatch("usa", SIMULATED_RESULTS.match_turkiye.usa, SIMULATED_RESULTS.match_turkiye.opp);
+    addMatch("turkiye", SIMULATED_RESULTS.match_turkiye.opp, SIMULATED_RESULTS.match_turkiye.usa);
+  }
+
+  // Convert map to array and sort
+  const standingsArray = Object.values(groupTeams).sort((a, b) => {
+    if (b.pts !== a.pts) return b.pts - a.pts;
+    if (b.gd !== a.gd) return b.gd - a.gd;
+    if (b.gf !== a.gf) return b.gf - a.gf;
+    return a.name.localeCompare(b.name);
+  });
+
+  renderGroupTableUI(standingsArray);
+}
+
+function renderGroupTableUI(standings) {
+  const tbody = document.getElementById("group-standings-tbody");
+  if (!tbody) return;
+
+  tbody.innerHTML = standings.map((t, idx) => {
+    const isQualifying = idx < 2;
+    const isUSA = t.id === "usa";
+    
+    return `
+      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.04); font-weight: ${isUSA ? '800' : '500'}; color: ${isUSA ? 'var(--text-white)' : 'var(--text-primary)'}; background: ${isUSA ? 'rgba(0, 86, 137, 0.12)' : 'transparent'}; transition: var(--transition-smooth);">
+        <td style="padding: 0.6rem 0.4rem; text-align: center;">
+          <span style="display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; background: ${isQualifying ? 'rgba(16, 185, 129, 0.15)' : 'transparent'}; color: ${isQualifying ? '#10B981' : 'var(--text-secondary)'}; font-size: 0.75rem; font-weight: 700;">
+            ${idx + 1}
+          </span>
+        </td>
+        <td style="padding: 0.6rem 0.8rem; display: flex; align-items: center; gap: 0.4rem;">
+          <span style="font-size: 1.1rem; line-height: 1;">${t.flag}</span>
+          <span>${t.name}</span>
+        </td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; color: var(--text-secondary); font-family: monospace;">${t.gp}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace;">${t.w}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace;">${t.d}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace;">${t.l}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace; color: ${t.gd > 0 ? '#10B981' : t.gd < 0 ? '#EF4444' : 'var(--text-secondary)'}; font-weight: 700;">
+          ${t.gd > 0 ? '+' : ''}${t.gd}
+        </td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-weight: 800; font-family: monospace; color: var(--us-red); font-size: 0.9rem;">
+          ${t.pts}
+        </td>
+      </tr>
+    `;
+  }).join('');
+}
+
+// 3. Interactive Host Venue & Stadium Guide
+function initVenueGuide() {
+  const tabsList = document.getElementById("venue-tabs-list");
+  if (!tabsList) return;
+
+  const buttons = tabsList.querySelectorAll(".news-tab-btn");
+  buttons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      buttons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      
+      const stKey = btn.getAttribute("data-stadium");
+      renderVenueGuide(stKey);
+    });
+  });
+
+  renderVenueGuide("la");
+}
+
+function renderVenueGuide(venueKey) {
+  const display = document.getElementById("venue-display-card");
+  if (!display) return;
+
+  const v = VENUES[venueKey];
+  if (!v) return;
+
+  if (venueClockInterval) clearInterval(venueClockInterval);
+
+  display.innerHTML = `
+    <div style="display: flex; flex-direction: column; gap: 0.8rem;" class="animated fade-in">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 0.6rem;">
+        <div>
+          <h3 style="color: var(--text-white); font-size: 1.1rem; display: flex; align-items: center; gap: 0.4rem;">
+            <span>${v.flag}</span> ${v.stadium}
+          </h3>
+          <p style="color: var(--text-secondary); font-size: 0.78rem; font-weight: 500;"><i class="fas fa-map-marker-alt" style="color: var(--us-red);"></i> ${v.city}</p>
+        </div>
+        <div style="text-align: right; background: rgba(0, 106, 167, 0.1); padding: 0.3rem 0.6rem; border-radius: var(--radius-sm); border: 1px solid rgba(0, 106, 167, 0.2);">
+          <span style="font-size: 0.62rem; color: var(--text-secondary); text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">Local Time</span>
+          <span style="font-size: 0.95rem; font-weight: 800; font-family: monospace; color: var(--us-red);" id="venue-clock-display">--:--:--</span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; margin: 0.2rem 0;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.04); border-radius: var(--radius-sm); padding: 0.5rem; text-align: center;">
+          <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; display: block; margin-bottom: 3px;">Seating Capacity</span>
+          <strong style="font-size: 1.1rem; color: var(--text-white);">${v.capacity}</strong>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.04); border-radius: var(--radius-sm); padding: 0.5rem; text-align: center;">
+          <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; display: block; margin-bottom: 3px;">Live Weather Info</span>
+          <strong style="font-size: 1.1rem; color: var(--us-red); display: flex; align-items: center; justify-content: center; gap: 0.3rem;"><i class="fas fa-sun" style="font-size: 0.85rem;"></i> ${v.weather}</strong>
+        </div>
+      </div>
+
+      <p style="font-size: 0.78rem; color: var(--text-secondary); line-height: 1.45;">
+        ${v.desc}
+      </p>
+      
+      <a href="${v.stadiumUrl}" target="_blank" style="align-self: flex-start; font-size: 0.72rem; color: var(--us-red); font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; margin-top: 2px; transition: var(--transition-smooth);" class="venue-link-hover">
+        Visit Official Website <i class="fas fa-external-link-alt" style="font-size: 0.65rem;"></i>
+      </a>
+    </div>
+  `;
+
+  // Start Time clock tick
+  function tickClock() {
+    const clockEl = document.getElementById("venue-clock-display");
+    if (clockEl) {
+      const options = {
+        timeZone: v.timezone,
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+      };
+      clockEl.textContent = new Intl.DateTimeFormat([], options).format(new Date());
+    }
+  }
+  
+  tickClock();
+  venueClockInterval = setInterval(tickClock, 1000);
+}
+
+// 4. Camp Fan Zone (Trivia Quiz & Score Predictor) Controller
+function initFanZone() {
+  const tabTrivia = document.getElementById("tab-fanzone-trivia");
+  const tabPredictor = document.getElementById("tab-fanzone-predictor");
+  const stageTrivia = document.getElementById("stage-fanzone-trivia");
+  const stagePredictor = document.getElementById("stage-fanzone-predictor");
+
+  if (tabTrivia && tabPredictor && stageTrivia && stagePredictor) {
+    tabTrivia.addEventListener("click", () => {
+      tabPredictor.classList.remove("active");
+      tabTrivia.classList.add("active");
+      stagePredictor.style.display = "none";
+      stageTrivia.style.display = "block";
+      renderTrivia();
+    });
+
+    tabPredictor.addEventListener("click", () => {
+      tabTrivia.classList.remove("active");
+      tabPredictor.classList.add("active");
+      stageTrivia.style.display = "none";
+      stagePredictor.style.display = "block";
+      renderPredictor();
+    });
+  }
+
+  renderTrivia();
+}
+
+function renderTrivia() {
+  const quizBox = document.getElementById("trivia-quiz-container");
+  if (!quizBox) return;
+
+  if (currentTriviaIndex >= TRIVIA_QUESTIONS.length) {
+    // Show End state Summary
+    let rating = "Bronze Scout Medal 🥉";
+    let message = "Good effort! Practice makes perfect. Review your camp notes and try again!";
+    if (triviaScore === 5) {
+      rating = "Gold Camp Medal 🏆 Confetti Time!";
+      message = "Incredible! You possess flawless knowledge of the Stars & Stripes. You're ready to sit next to Mauricio Pochettino on the bench!";
+      setTimeout(triggerConfetti, 100);
+    } else if (triviaScore >= 3) {
+      rating = "Silver Tactician Medal 🥈";
+      message = "Great job! You know your US Soccer history. Pochettino appreciates your tactical interest.";
+    }
+
+    quizBox.innerHTML = `
+      <div style="text-align: center;" class="animated scale-in">
+        <h3 style="font-size: 1.3rem; color: var(--us-red); margin-bottom: 0.5rem;"><i class="fas fa-trophy"></i> Quiz Completed!</h3>
+        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.8rem;">You scored <strong style="color:var(--text-white); font-size:1.2rem;">${triviaScore}</strong> out of <strong style="color:var(--text-white);">${TRIVIA_QUESTIONS.length}</strong></p>
+        
+        <div style="background: rgba(0,86,137,0.12); border: 1px dashed var(--us-blue); border-radius: var(--radius-sm); padding: 0.8rem; margin-bottom: 1.2rem;">
+          <h4 style="font-size: 0.95rem; color: var(--text-white); margin-bottom: 4px;">${rating}</h4>
+          <p style="font-size: 0.75rem; color: var(--text-secondary); line-height:1.4;">${message}</p>
+        </div>
+
+        <button class="ratings-toggle-btn" id="btn-trivia-restart" style="width: auto; padding: 0.5rem 1.5rem; display: inline-flex; justify-content: center; align-items: center; gap: 0.4rem; font-size: 0.8rem; cursor: pointer;">
+          <i class="fas fa-redo"></i> Play Again
+        </button>
+      </div>
+    `;
+
+    const restartBtn = document.getElementById("btn-trivia-restart");
+    if (restartBtn) {
+      restartBtn.addEventListener("click", () => {
+        currentTriviaIndex = 0;
+        triviaScore = 0;
+        answeredTrivia = false;
+        renderTrivia();
+      });
+    }
+    return;
+  }
+
+  const q = TRIVIA_QUESTIONS[currentTriviaIndex];
+  answeredTrivia = false;
+
+  quizBox.innerHTML = `
+    <div class="animated fade-in" style="display: flex; flex-direction: column; gap: 0.8rem;">
+      <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.72rem; color: var(--text-secondary); border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 0.4rem;">
+        <span>CAMP TRIVIA CHALLENGE</span>
+        <span style="font-family: monospace; font-weight: 700; color: var(--us-red);">Question ${currentTriviaIndex + 1}/${TRIVIA_QUESTIONS.length}</span>
+      </div>
+
+      <h4 style="font-size: 0.88rem; color: var(--text-white); font-weight: 600; line-height: 1.45; margin-bottom: 2px;">
+        ${q.q}
+      </h4>
+
+      <div style="display: flex; flex-direction: column; gap: 0.5rem; margin: 0.2rem 0;">
+        ${q.options.map((opt, oIdx) => {
+          return `
+            <button class="trivia-opt-btn" data-index="${oIdx}" style="width: 100%; text-align: left; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.05); border-radius: var(--radius-sm); padding: 0.5rem 0.8rem; color: var(--text-primary); font-family: inherit; font-size: 0.78rem; font-weight: 600; cursor: pointer; transition: all 0.25s ease; outline: none; display: flex; align-items: center; gap: 0.5rem;">
+              <span style="display:inline-flex; align-items:center; justify-content:center; width:18px; height:18px; border-radius:50%; background:rgba(255,255,255,0.05); color:var(--text-secondary); font-size:0.65rem; font-weight:700;">${String.fromCharCode(65 + oIdx)}</span>
+              <span>${opt}</span>
+            </button>
+          `;
+        }).join('')}
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2px;">
+        <button id="btn-trivia-hint" style="background:transparent; border:none; color:var(--text-secondary); font-size:0.7rem; font-weight:700; cursor:pointer; text-transform:uppercase; outline:none; display:flex; align-items:center; gap:0.3rem;">
+          <i class="far fa-lightbulb" style="color:var(--us-red);"></i> Show Hint
+        </button>
+        <button id="btn-trivia-next" style="display: none; background: var(--us-blue); border: 1px solid var(--us-blue); border-radius: var(--radius-sm); color: var(--text-white); padding: 0.35rem 1rem; font-size: 0.72rem; font-weight: 700; cursor: pointer; font-family: inherit;">
+          Next <i class="fas fa-chevron-right" style="font-size:0.6rem;"></i>
+        </button>
+      </div>
+      
+      <div id="trivia-hint-box" style="display: none; background: rgba(255,51,102,0.08); border: 1px solid rgba(255,51,102,0.15); border-radius: var(--radius-sm); padding: 0.6rem; font-size: 0.72rem; color: var(--text-secondary); line-height: 1.45;">
+        <strong>Hint:</strong> ${q.hint}
+      </div>
+    </div>
+  `;
+
+  // Option actions
+  const optBtns = quizBox.querySelectorAll(".trivia-opt-btn");
+  optBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      if (answeredTrivia) return;
+      answeredTrivia = true;
+
+      const selIdx = Number(btn.getAttribute("data-index"));
+      const circle = btn.querySelector("span");
+
+      if (selIdx === q.answer) {
+        triviaScore++;
+        btn.style.background = "rgba(16, 185, 129, 0.12)";
+        btn.style.borderColor = "#10B981";
+        btn.style.color = "#10B981";
+        if (circle) circle.style.background = "#10B981";
+      } else {
+        btn.style.background = "rgba(239, 68, 68, 0.12)";
+        btn.style.borderColor = "#EF4444";
+        btn.style.color = "#EF4444";
+        if (circle) circle.style.background = "#EF4444";
+
+        // Highlight correct one
+        optBtns.forEach(b => {
+          const bIdx = Number(b.getAttribute("data-index"));
+          if (bIdx === q.answer) {
+            b.style.background = "rgba(16, 185, 129, 0.08)";
+            b.style.borderColor = "#10B981";
+            b.style.color = "#10B981";
+          }
+        });
+      }
+
+      optBtns.forEach(b => b.style.cursor = "default");
+      document.getElementById("btn-trivia-next").style.display = "inline-block";
+    });
+  });
+
+  // Hint action
+  const hintBtn = document.getElementById("btn-trivia-hint");
+  const hintBox = document.getElementById("trivia-hint-box");
+  if (hintBtn && hintBox) {
+    hintBtn.addEventListener("click", () => {
+      hintBox.style.display = hintBox.style.display === "none" ? "block" : "none";
+    });
+  }
+
+  // Next action
+  const nextBtn = document.getElementById("btn-trivia-next");
+  if (nextBtn) {
+    nextBtn.addEventListener("click", () => {
+      currentTriviaIndex++;
+      renderTrivia();
+    });
+  }
+}
+
+// Full Canvas Confetti particle logic
+function triggerConfetti() {
+  const canvas = document.createElement("canvas");
+  canvas.style.position = "fixed";
+  canvas.style.top = "0";
+  canvas.style.left = "0";
+  canvas.style.width = "100vw";
+  canvas.style.height = "100vh";
+  canvas.style.pointerEvents = "none";
+  canvas.style.zIndex = "99999";
+  document.body.appendChild(canvas);
+  
+  const ctx = canvas.getContext("2d");
+  let width = canvas.width = window.innerWidth;
+  let height = canvas.height = window.innerHeight;
+  
+  const colors = ["#0A2540", "#CC0000", "#FF3366", "#00F5D4", "#FFFFFF"];
+  const particles = [];
+  
+  for (let i = 0; i < 120; i++) {
+    particles.push({
+      x: Math.random() * width,
+      y: Math.random() * height - height,
+      r: Math.random() * 5 + 3,
+      d: Math.random() * width,
+      color: colors[Math.floor(Math.random() * colors.length)],
+      tilt: Math.random() * 10 - 5,
+      tiltAngleIncremental: Math.random() * 0.05 + 0.02,
+      tiltAngle: 0
+    });
+  }
+  
+  function draw() {
+    ctx.clearRect(0, 0, width, height);
+    let active = false;
+    particles.forEach(p => {
+      p.tiltAngle += p.tiltAngleIncremental;
+      p.y += (Math.cos(p.d) + 3 + p.r / 2) / 2.5;
+      p.x += Math.sin(p.tiltAngle);
+      p.tilt = Math.sin(p.tiltAngle - p.r/2) * 4;
+      
+      if (p.y < height) active = true;
+      
+      ctx.beginPath();
+      ctx.lineWidth = p.r;
+      ctx.strokeStyle = p.color;
+      ctx.moveTo(p.x + p.tilt + p.r/2, p.y);
+      ctx.lineTo(p.x + p.tilt, p.y + p.tilt + p.r/2);
+      ctx.stroke();
+    });
+    
+    if (active) {
+      requestAnimationFrame(draw);
+    } else {
+      canvas.remove();
+    }
+  }
+  
+  draw();
+}
+
+function renderPredictor() {
+  const box = document.getElementById("predictor-widget-container");
+  if (!box) return;
+
+  const matches = [
+    { id: "match_paraguay", name: "vs. Paraguay 🇵🇾 (WC Opener)", savedKey: "pred_paraguay_usa", swePct: 74, drwPct: 18, oppPct: 8 },
+    { id: "match_australia", name: "vs. Australia 🇦🇺 (WC Match 2)", savedKey: "pred_australia_usa", swePct: 62, drwPct: 24, oppPct: 14 },
+    { id: "match_turkiye", name: "vs. Türkiye 🇹🇷 (WC Match 3)", savedKey: "pred_turkiye_usa", swePct: 50, drwPct: 30, oppPct: 20 }
+  ];
+
+  const m = matches.find(item => item.id === selectedPredictorMatch);
+  
+  // Retrieve saved prediction
+  const saved = localStorage.getItem(m.savedKey);
+  const parsed = saved ? JSON.parse(saved) : { swe: 0, opp: 0, locked: false };
+
+  box.innerHTML = `
+    <div class="animated fade-in" style="display: flex; flex-direction: column; gap: 0.8rem;">
+      <div style="display: flex; flex-direction: column; gap: 0.3rem;">
+        <label for="predictor-match-selector" style="font-size: 0.7rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase;">Select Opponent:</label>
+        <select class="sim-select" id="predictor-match-selector" style="width: 100%; background: var(--bg-dark-700); border-color: var(--bg-dark-600); padding: 0.3rem 0.6rem; border-radius: var(--radius-sm); color: var(--text-white); font-family: inherit; font-size: 0.78rem; font-weight: 600; outline: none; cursor: pointer;">
+          ${matches.map(item => `<option value="${item.id}" ${item.id === selectedPredictorMatch ? 'selected' : ''}>${item.name}</option>`).join('')}
+        </select>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.01); border: 1px solid rgba(255,255,255,0.03); border-radius: var(--radius-sm); padding: 0.8rem; text-align: center; margin: 0.2rem 0;">
+        <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; display: block; margin-bottom: 0.5rem; letter-spacing: 0.05em;">Your Score Guess</span>
+        
+        <div style="display: inline-flex; align-items: center; gap: 1rem;">
+          <div style="display: flex; align-items: center; gap: 0.4rem;">
+            <span style="font-size: 1.1rem;">🇺🇸</span>
+            <button class="pred-inc-btn" id="pred-dec-swe" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: var(--text-white); cursor: pointer; font-size: 0.78rem;">-</button>
+            <strong style="font-size: 1.5rem; font-family: monospace; min-width: 25px;" id="pred-val-swe">${parsed.swe}</strong>
+            <button class="pred-inc-btn" id="pred-inc-swe" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: var(--text-white); cursor: pointer; font-size: 0.78rem;">+</button>
+          </div>
+          <span style="color: var(--text-secondary); font-weight: 800; font-size: 1.2rem;">:</span>
+          <div style="display: flex; align-items: center; gap: 0.4rem;">
+            <button class="pred-inc-btn" id="pred-dec-opp" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: var(--text-white); cursor: pointer; font-size: 0.78rem;">-</button>
+            <strong style="font-size: 1.5rem; font-family: monospace; min-width: 25px;" id="pred-val-opp">${parsed.opp}</strong>
+            <button class="pred-inc-btn" id="pred-inc-opp" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(255,255,255,0.15); background: transparent; color: var(--text-white); cursor: pointer; font-size: 0.78rem;">+</button>
+            <span style="font-size: 1.1rem;" id="pred-flag-opp">${m.id === "match_paraguay" ? '🇵🇾' : m.id === "match_australia" ? '🇦🇺' : '🇹🇷'}</span>
+          </div>
+        </div>
+
+        <button class="ratings-toggle-btn" id="btn-pred-lock" ${parsed.locked ? 'disabled' : ''} style="width: auto; margin: 0.8rem auto 0 auto; display: block; font-size: 0.75rem; padding: 0.4rem 1.5rem;">
+          ${parsed.locked ? '<i class="fas fa-lock" style="color:var(--us-red);"></i> Guess Locked' : '<i class="fas fa-check"></i> Lock in Prediction'}
+        </button>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+        <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em;">Community Predictions</span>
+        
+        <!-- Pct Bars -->
+        <div style="display: flex; flex-direction: column; gap: 3px;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-secondary);">
+            <span>USA Win</span>
+            <strong style="color: var(--text-white);" id="comm-pct-swe">${parsed.locked ? Math.round(m.swePct + 3) + '%' : m.swePct + '%'}</strong>
+          </div>
+          <div style="height: 4px; background: rgba(255,255,255,0.05); border-radius: 2px; overflow: hidden;">
+            <div style="width: ${parsed.locked ? (m.swePct + 3) + '%' : m.swePct + '%'}; height: 100%; background: var(--us-blue);"></div>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 3px;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-secondary);">
+            <span>Draw</span>
+            <strong style="color: var(--text-white);" id="comm-pct-drw">${parsed.locked ? Math.round(m.drwPct - 1) + '%' : m.drwPct + '%'}</strong>
+          </div>
+          <div style="height: 4px; background: rgba(255,255,255,0.05); border-radius: 2px; overflow: hidden;">
+            <div style="width: ${parsed.locked ? (m.drwPct - 1) + '%' : m.drwPct + '%'}; height: 100%; background: var(--text-secondary);"></div>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 3px;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-secondary);">
+            <span>Opponent Win</span>
+            <strong style="color: var(--text-white);" id="comm-pct-opp">${parsed.locked ? Math.round(m.oppPct - 2) + '%' : m.oppPct + '%'}</strong>
+          </div>
+          <div style="height: 4px; background: rgba(255,255,255,0.05); border-radius: 2px; overflow: hidden;">
+            <div style="width: ${parsed.locked ? (m.oppPct - 2) + '%' : m.oppPct + '%'}; height: 100%; background: var(--us-red);"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  `;
+
+  // Select match handler
+  const select = document.getElementById("predictor-match-selector");
+  if (select) {
+    select.addEventListener("change", (e) => {
+      selectedPredictorMatch = e.target.value;
+      renderPredictor();
+    });
+  }
+
+  if (!parsed.locked) {
+    let sweVal = parsed.swe;
+    let oppVal = parsed.opp;
+
+    const btnDecSwe = document.getElementById("pred-dec-swe");
+    const btnIncSwe = document.getElementById("pred-inc-swe");
+    const btnDecOpp = document.getElementById("pred-dec-opp");
+    const btnIncOpp = document.getElementById("pred-inc-opp");
+    const lockBtn = document.getElementById("btn-pred-lock");
+
+    btnDecSwe.addEventListener("click", () => {
+      if (sweVal > 0) {
+        sweVal--;
+        document.getElementById("pred-val-swe").textContent = sweVal;
+      }
+    });
+    btnIncSwe.addEventListener("click", () => {
+      if (sweVal < 9) {
+        sweVal++;
+        document.getElementById("pred-val-swe").textContent = sweVal;
+      }
+    });
+
+    btnDecOpp.addEventListener("click", () => {
+      if (oppVal > 0) {
+        oppVal--;
+        document.getElementById("pred-val-opp").textContent = oppVal;
+      }
+    });
+    btnIncOpp.addEventListener("click", () => {
+      if (oppVal < 9) {
+        oppVal++;
+        document.getElementById("pred-val-opp").textContent = oppVal;
+      }
+    });
+
+    lockBtn.addEventListener("click", () => {
+      parsed.swe = sweVal;
+      parsed.opp = oppVal;
+      parsed.locked = true;
+      localStorage.setItem(m.savedKey, JSON.stringify(parsed));
+      renderPredictor();
+    });
+  }
+}
+
 
 

@@ -7,18 +7,26 @@
   --us-red-rgb: 191, 10, 48;
   --us-red-hover: #9E0022;
   
-  /* Light premium palette */
+  /* Light premium palette (Default) */
   --bg-dark-900: #F8FAFC;
   --bg-dark-800: #FFFFFF;
   --bg-dark-700: #E2E8F0;
   --bg-dark-600: #CBD5E1;
   
-  --text-white: #002868; /* Deep Navy Blue for titles to ensure ultra high contrast */
-  --text-primary: #0F172A; /* Charcoal black for primary reading copy */
-  --text-secondary: #475569; /* Slate gray for meta details */
+  --text-white: #002868; /* Deep Navy Blue for titles */
+  --text-primary: #0F172A;
+  --text-secondary: #475569;
   --text-dark: #1F2937;
   
   --font-primary: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  --page-bg: var(--bg-dark-900);
+  --card-bg: var(--glass-bg);
+  --card-border: var(--glass-border-blue);
+  --text-color: var(--text-primary);
+  --text-muted: var(--text-secondary);
+  --card-shadow: var(--shadow-neon-blue);
+  
   --glass-bg: rgba(255, 255, 255, 0.85);
   --glass-border: rgba(191, 10, 48, 0.12);
   --glass-border-blue: rgba(0, 40, 104, 0.12);
@@ -35,6 +43,29 @@
   --bg-light-600: #CBD5E1;
 }
 
+[data-theme="dark"] {
+  --page-bg: #050811;
+  --bg-dark-900: #0B132B;
+  --bg-dark-800: #1C2541;
+  --bg-dark-700: #1B263B;
+  --bg-dark-600: #415A77;
+  
+  --text-white: #FFFFFF;
+  --text-primary: #F3F4F6;
+  --text-secondary: #9CA3AF;
+  
+  --glass-bg: rgba(11, 19, 43, 0.75);
+  --glass-border-blue: rgba(191, 10, 48, 0.25);
+  --shadow-neon-blue: 0 0 25px rgba(191, 10, 48, 0.15);
+  
+  --card-bg: var(--glass-bg);
+  --card-border: var(--glass-border-blue);
+  --text-color: var(--text-primary);
+  --text-muted: var(--text-secondary);
+  --card-shadow: var(--shadow-neon-blue);
+  --us-blue: #3B82F6;
+}
+
 /* Base resets & styles */
 * {
   margin: 0;
@@ -44,16 +75,16 @@
 
 body {
   font-family: var(--font-primary);
-  background-color: var(--bg-dark-900);
+  background-color: var(--page-bg);
   background-image: 
-    radial-gradient(circle at 10% 20%, rgba(0, 40, 104, 0.04) 0%, transparent 45%),
-    radial-gradient(circle at 90% 80%, rgba(191, 10, 48, 0.03) 0%, transparent 45%),
-    radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.3) 0%, var(--bg-dark-900) 100%);
+    radial-gradient(circle at 10% 20%, rgba(0, 40, 104, 0.05) 0%, transparent 45%),
+    radial-gradient(circle at 90% 80%, rgba(191, 10, 48, 0.04) 0%, transparent 45%);
   background-attachment: fixed;
-  color: var(--text-primary);
+  color: var(--text-color);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
+  transition: background-color 0.5s ease, color 0.3s ease;
 }
 
 /* Custom Scrollbar */
@@ -100,6 +131,43 @@ h1, h2, h3, h4, h5 {
   box-shadow: var(--shadow-neon-blue);
   flex-wrap: wrap;
   gap: 1.5rem;
+}
+
+.hub-crosslinks {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.hub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(0, 40, 104, 0.06);
+  border: 1px solid rgba(0, 40, 104, 0.15);
+  color: var(--text-secondary);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.hub-link:hover {
+  background: rgba(0, 40, 104, 0.12);
+  border-color: var(--us-blue);
+  color: var(--us-blue);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 40, 104, 0.15);
+}
+
+.hub-link-flag {
+  font-size: 0.9rem;
+  line-height: 1;
 }
 
 .brand-section {
