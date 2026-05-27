@@ -35,17 +35,23 @@ jobs:
     - name: Execute News Research Crawler
       run: python scripts/research_camp_news.py
 
+    - name: Sync data.js into dist/ (so Cloudflare serves fresh data without a full rebuild)
+      run: |
+        mkdir -p dist
+        cp data.js dist/data.js
+        echo "Copied updated data.js -> dist/data.js"
+
     - name: Commit and Push Updates
       run: |
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        
-        # Check if data.js was modified
+
+        # Check if data.js or dist/data.js was modified
         git status --porcelain
-        
-        if [ -n "$(git status --porcelain data.js)" ]; then
-          echo "Changes detected in data.js. Staging, committing, and pushing..."
-          git add data.js
+
+        if [ -n "$(git status --porcelain data.js dist/data.js)" ]; then
+          echo "Changes detected. Staging, committing, and pushing..."
+          git add data.js dist/data.js
           git commit -m "data: automatic 5x daily camp news research update [skip ci]"
           git push origin swedenwc
         else
