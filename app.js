@@ -780,7 +780,7 @@ const MATCH_SCHEDULE = [
     time: "21:00 (Los Angeles Time)",
     opponent: "Paraguay",
     opponentFlag: "🇵🇾",
-    venue: "Los Angeles Stadium, Los Angeles",
+    venue: "SoFi Stadium, Los Angeles",
     details: "World Cup Group D Opener! USA faces a tough South American test against a defensive-minded, combative Paraguay."
   },
   {
@@ -790,7 +790,7 @@ const MATCH_SCHEDULE = [
     time: "15:00 (Seattle Time)",
     opponent: "Australia",
     opponentFlag: "🇦🇺",
-    venue: "Seattle Stadium, Seattle",
+    venue: "Lumen Field, Seattle",
     details: "A massive Group D clash in Seattle. The Socceroos bring a high-intensity, direct physical threat."
   },
   {
@@ -800,7 +800,7 @@ const MATCH_SCHEDULE = [
     time: "22:00 (Los Angeles Time)",
     opponent: "Türkiye",
     opponentFlag: "🇹🇷",
-    venue: "Los Angeles Stadium, Los Angeles",
+    venue: "SoFi Stadium, Los Angeles",
     details: "Third group stage match. An intense battle against a highly technical, explosive Turkish side under Vincenzo Montella."
   }
 ];
@@ -941,7 +941,7 @@ const SQUAD_ATTRIBUTES = {
   "luca_de_la_torre":       { pac: 66, sho: 58, pas: 78, dri: 74, def: 58, phy: 64 },
   // Forwards
   "christian_pulisic":      { pac: 84, sho: 78, pas: 80, dri: 86, def: 38, phy: 64 },
-  "tim_weah":               { pac: 90, sho: 70, pas: 68, dri: 78, def: 36, phy: 72 },
+  "timothy_weah":            { pac: 90, sho: 70, pas: 68, dri: 78, def: 36, phy: 72 },
   "folarin_balogun":        { pac: 82, sho: 80, pas: 66, dri: 76, def: 32, phy: 70 },
   "brenden_aaronson":       { pac: 78, sho: 64, pas: 74, dri: 76, def: 52, phy: 68 },
   "ricardo_pepi":           { pac: 74, sho: 76, pas: 60, dri: 68, def: 28, phy: 74 },

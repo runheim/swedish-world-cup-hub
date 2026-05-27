@@ -177,14 +177,14 @@ fallback_database = {
             "type": "News"
         },
         "opponent": {
-            "title": "Paraguay conducts warm-up scrimmage in Quito, focusing on high-press drills",
+            "title": "Paraguay conducts warm-up scrimmage focusing on defensive structure drills",
             "bullets": [
-                "La Tri implements high-tempo pressing configurations in deep zones.",
-                "Enner Valencia scores twice in a high-intensity 11v11 squad scrimmage.",
+                "La Albirroja implements compact defensive configurations in closed training.",
+                "Miguel Almirón drives creative playmaking in a high-intensity squad scrimmage.",
                 "Tactical analysts monitor the USMNT's transition speed setups."
             ],
-            "summary": "Paraguay's national squad wrapped up their high-altitude preparation phase in Quito under manager Sebastián Beccacece. The Paraguayian staff has prioritized defensive pressing traps to choke vertical distribution. Inter Milan's teenage star Kendry Páez looked dynamic in central playmaker roles.",
-            "author": "ESPN FC Paraguay Desk",
+            "summary": "Paraguay's national squad wrapped up their preparation phase under manager Gustavo Alfaro. The Paraguayan staff has prioritized defensive pressing traps to choke vertical distribution. Atlanta United's Miguel Almirón looked dynamic in central playmaker roles.",
+            "author": "ESPN FC South America Desk",
             "tag": "Paraguay Scout",
             "type": "Scouting"
         }
@@ -203,14 +203,14 @@ fallback_database = {
             "type": "News"
         },
         "opponent": {
-            "title": "Australia arrives in Atlanta, focusing on deep low-block defending",
+            "title": "Australia arrives in their US base, focusing on deep low-block defending",
             "bullets": [
-                "Australian team initiates their closed training sessions in Atlanta's warm conditions.",
+                "Socceroos initiate closed training sessions in warm conditions.",
                 "Manager Tony Popovic prioritizes defensive resilience and quick wing counters.",
-                "Brennan Johnson and Daniel James look fully fit for transitional sprints."
+                "Jackson Irvine and Nestory Irankunda look fully fit for the tournament."
             ],
-            "summary": "Australia has checked into their pre-tournament base in Atlanta. The technical staff has designed a highly compact low-block layout, looking to deny space in behind and utilize Brennan Johnson's rapid pace on counters to test the US defenders.",
-            "author": "BBC Australia Sport",
+            "summary": "Australia has checked into their pre-tournament base. Manager Tony Popovic has designed a highly compact low-block layout, looking to deny space in behind and utilize Nestory Irankunda's rapid pace on counters to test the US defenders.",
+            "author": "The Guardian Australia Sport",
             "tag": "Australia Scout",
             "type": "Scouting"
         }
@@ -229,14 +229,14 @@ fallback_database = {
             "type": "Analysis"
         },
         "opponent": {
-            "title": "Türkiye locks in high-tempo press drills at their Coverciano headquarters",
+            "title": "Türkiye locks in high-tempo press drills at their training headquarters",
             "bullets": [
-                "Azzurri practices swift vertical combination drills and quick shot releases.",
-                "Nicolò Barella orchestrates rapid transition flows in midfield scrimmages.",
+                "Turkish squad practices swift vertical combination drills and quick shot releases.",
+                "Hakan Çalhanoğlu orchestrates rapid transition flows in midfield scrimmages.",
                 "Tactical scouts highlight USA's physical stamina as their primary threat."
             ],
-            "summary": "Türkiye is wrapping up their final training phase in Coverciano before departing for the United States. Manager Vincenzo Montella has designed custom mid-block pressing traps, with Inter Milan's Nicolò Barella pulling the strings. Analysts warn that the USMNT's physical work-rate represents a massive challenge.",
-            "author": "Gazzetta dello Sport",
+            "summary": "Türkiye is wrapping up their final training phase before departing for the United States. Manager Vincenzo Montella has designed custom mid-block pressing traps, with Inter Milan's Hakan Çalhanoğlu pulling the strings. Analysts warn that the USMNT's physical work-rate represents a massive challenge.",
+            "author": "TRT Spor",
             "tag": "Türkiye Scout",
             "type": "Scouting"
         }
@@ -255,14 +255,14 @@ fallback_database = {
             "type": "Column"
         },
         "opponent": {
-            "title": "Paraguay tactical scout notes Valencia's lethal movement in narrow spaces",
+            "title": "Paraguay tactical scout notes Almirón's lethal movement in narrow spaces",
             "bullets": [
-                "La Tri focuses on long-diagonal balls targeting Enner Valencia's run path.",
-                "Paraguayian staff works on central double-pivot defensive screens.",
+                "La Albirroja focuses on quick-release passes targeting Almirón's run path.",
+                "Paraguayan staff works on central double-pivot defensive screens.",
                 "Scouts flag USA's high-line defensive shape as highly vulnerable to counters."
             ],
-            "summary": "Paraguayian tactical staff is preparing to exploit the USMNT's high defensive line. Scouts note that Enner Valencia's lateral movements can pull center-backs out of position, opening spaces for rapid runners.",
-            "author": "El Universo Deportes",
+            "summary": "Paraguayan tactical staff is preparing to exploit the USMNT's high defensive line. Scouts note that Miguel Almirón's lateral movements can pull center-backs out of position, opening spaces for rapid runners.",
+            "author": "ABC Color Deportes",
             "tag": "Paraguay Scout",
             "type": "Scouting"
         }
@@ -273,7 +273,7 @@ fallback_database = {
             "bullets": [
                 "The AC Milan star expresses immense pride in captaining the Stars & Stripes.",
                 "Pulisic: 'We have a special group under Poch, and we are ready to prove it.'",
-                "Players report exceptional unity and focus ahead of the Gothenburg departure."
+                "Players report exceptional unity and focus ahead of the tournament."
             ],
             "summary": "In an exclusive diary entry from the team hotel, captain Christian Pulisic expressed his immense pride in leading the squad. He highlighted that Pochettino's staff has brought elite European professionalism, and the team is completely united to make a deep World Cup run.",
             "author": "Christian Pulisic (Player Diary)",
@@ -287,7 +287,7 @@ fallback_database = {
                 "Fox Soccer: 'Pochettino's World Cup debut is the tournament's biggest spotlight.'",
                 "Winner of the opener is projected to have an 85% chance of winning the group."
             ],
-            "summary": "Soccer pundits on Fox Sports designated the USA vs Paraguay opener in Mexico City as the ultimate deciding match of Group D. Pundits highlight the clash of high-tempo styles: Pochettino's fluid transition-speed 4-3-3 versus Paraguay's aggressive, physical mid-block.",
+            "summary": "Soccer pundits on Fox Sports designated the USA vs Paraguay opener in Los Angeles as the ultimate deciding match of Group D. Pundits highlight the clash of high-tempo styles: Pochettino's fluid transition-speed 4-3-3 versus Paraguay's aggressive, physical mid-block.",
             "author": "Fox Soccer Pundit Team",
             "tag": "Group D Intel",
             "type": "Analysis"
