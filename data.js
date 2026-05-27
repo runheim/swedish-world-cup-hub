@@ -3,7 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption"
+    "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
+    "⚽ South Korea World Cup 2026 team guide"
   ],
   "timeline": {
     "2026-05-26": {
@@ -266,5 +267,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 22:21:04 local time"
+  "lastUpdated": "2026-05-27 @ 23:46:33 local time"
 };
