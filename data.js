@@ -3,7 +3,9 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ How did Arsenal become a home for Black players and fans?"
+    "⚽ New York and New Jersey subpoena Fifa over ‘manipulated’ World Cup ticketing",
+    "⚽ FIFA subpoenaed over World Cup ticket practices",
+    "⚽ Sources: Barça make offer for Newcastle's Gordon"
   ],
   "timeline": {
     "2026-05-26": {
@@ -122,9 +124,63 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1453_0",
+            "category": "england",
+            "type": "News",
+            "title": "New York and New Jersey subpoena Fifa over ‘manipulated’ World Cup ticketing",
+            "bullets": [
+              "&lt;ul&gt;&lt;li&gt;&lt;p&gt;Joint investigation run by NY and NJ attorneys general&lt;/p&gt;&lt;/li...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;Joint investigation run by NY and NJ attorneys general&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Subpoena seeks information on Fifa’s ticket practices&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Investigation centers on games at MetLife Stadium&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;The attorneys general of New York and New Jersey have launched an investigation into Fifa’s ticketing practices around the 2026 World Cup, focusing specifically on the matches due to take place at MetLife Stadium in East Rutherford, New Jersey.&lt;/p&gt;&lt;p&gt;The investigation, announced Wednesday by New York’s Letitia James and New Jersey’s Jennifer Davenport, centers on fans who say they were misled about the location of the seats and on claims that Fifa’s own public messaging around tickets has contributed to the inflated prices seen throughout the tournament.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/new-york-new-jersey-investigation-fifa-ticketing\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1453_1",
+            "category": "england",
+            "type": "News",
+            "title": "FIFA subpoenaed over World Cup ticket practices",
+            "bullets": [
+              "New York and New Jersey have subpoenaed FIFA as part of an investigation into its ticketing prices f...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New York and New Jersey have subpoenaed FIFA as part of an investigation into its ticketing prices for the 2026 World Cup, citing soaring ticket prices and reports that fans were misled about seat locations.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1453_2",
+            "category": "england",
+            "type": "News",
+            "title": "Sources: Barça make offer for Newcastle's Gordon",
+            "bullets": [
+              "Spanish champions Barcelona have made a first offer for England and Newcastle United forward Anthony...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Spanish champions Barcelona have made a first offer for England and Newcastle United forward Anthony Gordon, sources have confirmed to ESPN.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 17:53:25 local time"
+  "lastUpdated": "2026-05-27 @ 19:14:52 local time"
 };
