@@ -2642,7 +2642,7 @@ const VENUES = {
     capacity: "70,240",
     timezone: "America/Los_Angeles",
     weather: "74°F (Sunny)",
-    desc: "SoFi Stadium is an indoor-outdoor stadium architectural marvel in Inglewood, California. Home to the NFL's Rams and Chargers, it will host USA's massive opening Group D World Cup match against Paraguay.",
+    desc: "SoFi Stadium is an indoor-outdoor architectural marvel in Inglewood, California. Home to the NFL's Rams and Chargers, it hosts USA's World Cup opener against Paraguay on June 12 and the decisive third match against Türkiye on June 25.",
     flag: "🇺🇸",
     stadiumUrl: "https://www.sofistadium.com"
   },
@@ -2652,19 +2652,9 @@ const VENUES = {
     capacity: "69,000",
     timezone: "America/Los_Angeles",
     weather: "64°F (Partly Cloudy)",
-    desc: "Famous for its sweeping roofline and deafening acoustic architecture, Lumen Field sits adjacent to downtown Seattle. It will host USA's second group match against Australia's Socceroos.",
+    desc: "Famous for its sweeping roofline and deafening acoustic architecture, Lumen Field sits adjacent to downtown Seattle. Home to the MLS Sounders and NFL Seahawks, it hosts USA's second group match against Australia on June 19.",
     flag: "🇺🇸",
     stadiumUrl: "https://www.lumenfield.com"
-  },
-  chicago: {
-    city: "Chicago, USA",
-    stadium: "Soldier Field",
-    capacity: "61,500",
-    timezone: "America/Chicago",
-    weather: "70°F (Breezy)",
-    desc: "Located on the Near South Side of Chicago, Soldier Field is one of the most historic sporting venues in the world. It hosted USA's spectacular 2-1 Send-Off friendly victory against Germany.",
-    flag: "🇺🇸",
-    stadiumUrl: "https://www.soldierfield.net"
   }
 };
 
@@ -2771,15 +2761,7 @@ function calculateGroupStandings() {
     }
   }
 
-  // 1. Add background matches (Group D)
-  addMatch("paraguay", 1, 0);
-  addMatch("australia", 0, 1);
-
-  addMatch("turkiye", 2, 1);
-  addMatch("australia", 1, 2);
-
-  addMatch("paraguay", 0, 2);
-  addMatch("turkiye", 2, 0);
+  // Pre-tournament: All teams start at 0-0-0. Background matches will be added once the World Cup begins.
 
   // 2. Add simulated USA matches
   if (SIMULATED_RESULTS.match_paraguay) {
