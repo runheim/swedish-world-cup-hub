@@ -3,8 +3,9 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
+    "⚽ USMNT's Richards on bench for Conf. League final",
     "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
-    "⚽ South Africa World Cup 2026 team guide"
+    "⚽ Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well"
   ],
   "timeline": {
     "2026-05-26": {
@@ -187,9 +188,63 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1446_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Richards on bench for Conf. League final",
+            "bullets": [
+              "United States defender Chris Richards will start on the bench in Crystal Palace's UEFA Conference Le...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "United States defender Chris Richards will start on the bench in Crystal Palace's UEFA Conference League final against Rayo Vallecano after failing to come through a late fitness test.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1446_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
+            "bullets": [
+              "&lt;p&gt;Two decades of disappointment followed Parisian nightmare of Lehmann, Eto’o and all that, b...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Two decades of disappointment followed Parisian nightmare of Lehmann, Eto’o and all that, but now a first Champions League title is in sight&lt;/p&gt;&lt;p&gt;They left London in their thousands, full of hope and devotion, heading for Paris in the springtime, yet romantic anticipation lasted all of 18 minutes, which was when Arsenal’s goalkeeper, Jens Lehmann, was sent off in the &lt;a href=\"https://www.theguardian.com/football/2006/may/18/match.championsleague\"&gt;2006 Champions League final&lt;/a&gt; against Barcelona at the Stade de France.&lt;/p&gt;&lt;p&gt;Twenty years on, as Arsenal fans again travel in anticipation, this time to Budapest, for the club’s second Champions League final, you could argue that Arsenal hearts have been a little broken ever since.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/arteta-ready-to-take-final-step-on-arsenals-20-year-journey-to-redemption\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1446_2",
+            "category": "usa",
+            "type": "News",
+            "title": "Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well",
+            "bullets": [
+              "&lt;p&gt;&lt;a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"&gt;&...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;&lt;a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"&gt;&lt;strong&gt;Sign up now! Sign up now! Sign up now? Sign up now!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;As a football newsletter whose entire raison d’etre is sending people emails they are desperate to receive and read, Football Daily is fully behind Mauricio Pochettino. The Argentinian has taken a leaf out of our tried-and-trusted playbook by electing to &lt;a href=\"https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-squad-mauricio-pochettino-email-players\"&gt;use the medium of email&lt;/a&gt; to let assorted soccerball players around the world know whether or not they’d been &lt;a href=\"https://www.theguardian.com/football/2026/may/26/usmnt-world-cup-roster-2026\"&gt;selected to play for Team USA USA USA&lt;/a&gt; at this summer’s Geopolitics World Cup. His method of communication has been criticised in some quarters due to its lack of a personal touch for those who have not made the cut, with some American hacks saying those left out were at least owed an explanatory phone call from the Argentinian. Defending himself, Pochettino pointed out that as a player, he wouldn’t have wanted to converse with a manager who had just cut him from an international squad because ... well, why would you bother?&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;This is an extract from our daily football email … Football Daily. To get the full version,&lt;a href=\"https://preview.gutools.co.uk/info/2016/jan/05/the-fiver-email-sign-up\"&gt; &lt;/a&gt;&lt;a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"&gt;just visit this page and follow the instructions&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/usmnt-rejects-mauricio-pochettino-world-cup-football-daily\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 16:55:03 local time"
+  "lastUpdated": "2026-05-27 @ 18:14:46 local time"
 };
