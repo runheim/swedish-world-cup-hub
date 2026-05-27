@@ -754,6 +754,26 @@ const TIMELINE_DATABASE = {
 // 3. Official 2026 World Cup Group D Match Schedule
 const MATCH_SCHEDULE = [
   {
+    id: "match_senegal",
+    type: "warmup",
+    date: "2026-05-31",
+    time: "19:30",
+    opponent: "Senegal",
+    opponentFlag: "🇸🇳",
+    venue: "Bank of America Stadium, Charlotte",
+    details: "Allstate Continental Clásico. USMNT's first warm-up friendly as Pochettino tests his tactical blueprint against an elite African side."
+  },
+  {
+    id: "match_germany",
+    type: "warmup",
+    date: "2026-06-06",
+    time: "20:00",
+    opponent: "Germany",
+    opponentFlag: "🇩🇪",
+    venue: "Soldier Field, Chicago",
+    details: "Official Send-Off Match. The final test before the World Cup begins — a marquee clash against Germany at Soldier Field."
+  },
+  {
     id: "match_paraguay",
     type: "worldcup",
     date: "2026-06-12",
@@ -787,6 +807,48 @@ const MATCH_SCHEDULE = [
 
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
+  "match_senegal": {
+    score: "1 - 1",
+    scorers: "🇺🇸 Pulisic (38') | 🇸🇳 Dia (72')",
+    report: "A tough test in Charlotte as Senegal proved a formidable opponent. Christian Pulisic opened the scoring with a clinical finish after a brilliant Gio Reyna through ball. However, Senegal's physicality in the second half paid off when Boulaye Dia equalized with a powerful header from a corner. Pochettino used the match to rotate heavily in the final 20 minutes.",
+    ratings: [
+      { name: "Matt Turner", role: "GK", rating: 7.0, comment: "Made two solid saves, beaten only by a powerful header.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 7.0, comment: "Physical battle against Senegal's forwards, held firm.", isMotm: false },
+      { name: "Tim Ream", role: "CB", rating: 7.0, comment: "Composed and experienced presence in the backline.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Reliable on both sides of the ball.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo, won crucial duels.", isMotm: false },
+      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Energetic pressing, linked play smoothly.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.0, comment: "Overlapping runs created space for Pulisic.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Scored a clinical opening goal. Constant threat.", isMotm: true },
+      { name: "Gio Reyna", role: "AM", rating: 7.5, comment: "Brilliant assist for Pulisic's goal. Creative spark.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 6.5, comment: "Worked hard but couldn't find the net.", isMotm: false }
+    ],
+    preview: {
+      tactical: "Pochettino's first competitive test! Focus on implementing the 4-3-3 system against a physical, organized African side.",
+      keyStat: "USA and Senegal have only met twice in history, splitting the results."
+    }
+  },
+  "match_germany": {
+    score: "2 - 1",
+    scorers: "🇺🇸 Balogun (33'), Weah (71') | 🇩🇪 Wirtz (55')",
+    report: "A spectacular send-off victory at Soldier Field! Folarin Balogun opened the scoring with a clinical first-half strike. Germany equalized through Florian Wirtz's thunderous shot, but Timothy Weah sealed a memorable win with a pacey counter-attack goal in the 71st minute. The crowd of 62,000 gave the squad a rousing farewell.",
+    ratings: [
+      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Sharp reflexes, made a key save before Wirtz's goal.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 7.5, comment: "Excellent against his Bundesliga rivals, dominant aerially.", isMotm: false },
+      { name: "Cameron Carter-Vickers", role: "CB", rating: 7.0, comment: "Solid positioning, read German passing patterns well.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 7.5, comment: "Impressive attacking contribution, delivered a key assist.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 8.0, comment: "Stellar midfield anchor, broke up German transitions.", isMotm: false },
+      { name: "Weston McKennie", role: "CM", rating: 7.5, comment: "Combative display, covered enormous ground.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Relentless engine down the left flank.", isMotm: false },
+      { name: "Timothy Weah", role: "RW", rating: 8.5, comment: "Explosive pace. Scored the winning goal on a blistering counter-attack.", isMotm: true },
+      { name: "Christian Pulisic", role: "LW", rating: 7.5, comment: "Captain's display. Directed the press and created chances.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 8.0, comment: "Clinical first-half finish, strong hold-up play throughout.", isMotm: false }
+    ],
+    preview: {
+      tactical: "The official Send-Off Match at Soldier Field! A marquee test against Germany to finalize tactical patterns before the World Cup.",
+      keyStat: "USA beat Germany 2-0 in their last World Cup meeting (2014 group stage in Brazil)."
+    }
+  },
   "match_paraguay": {
     score: "2 - 0",
     scorers: "🇺🇸 Balogun (23'), Pulisic (68' pen)",
@@ -888,6 +950,26 @@ const SQUAD_ATTRIBUTES = {
 };
 
 const SIMULATION_EVENTS = {
+  "match_senegal": [
+    { minute: 1, type: "kickoff", text: "Kick-off in Charlotte! Bank of America Stadium is packed for the Allstate Continental Clásico. Pochettino's tactical era begins!" },
+    { minute: 20, type: "save", text: "Matt Turner makes a sharp save to deny a powerful Senegalese free kick from distance." },
+    { minute: 38, type: "goal_usa", text: "GOAL for USA! Gio Reyna threads a brilliant through ball and Christian Pulisic finishes clinically! 1-0 USA!" },
+    { minute: 45, type: "halftime", text: "Half Time in Charlotte: USA leads 1-0. Pochettino's 4-3-3 system looking sharp in attack." },
+    { minute: 60, type: "sub", text: "Pochettino makes three changes, rotating the squad to test depth options." },
+    { minute: 72, type: "goal_opp", text: "GOAL for Senegal! Boulaye Dia rises highest at a corner to power a header past Turner. 1-1." },
+    { minute: 85, type: "save", text: "Turner makes a fingertip save to preserve the draw after a dangerous Senegalese counter." },
+    { minute: 90, type: "fulltime", text: "Full Time! A competitive 1-1 draw against Senegal. Pochettino gained valuable tactical insights." }
+  ],
+  "match_germany": [
+    { minute: 1, type: "kickoff", text: "Kick-off at Soldier Field! 62,000 fans roar as USA hosts Germany in the official World Cup Send-Off Match!" },
+    { minute: 15, type: "dribble", text: "Timothy Weah blazes past his marker with electric pace, but his cross is cleared by Rüdiger." },
+    { minute: 33, type: "goal_usa", text: "GOAL for USA! Brilliant build-up play! McKennie wins the ball, feeds Pulisic, who slides it across for Balogun to finish! 1-0 USA!" },
+    { minute: 45, type: "halftime", text: "Half Time at Soldier Field: USA leads 1-0. Commanding first-half display from Pochettino's side." },
+    { minute: 55, type: "goal_opp", text: "GOAL for Germany! Florian Wirtz unleashes a thunderous strike from 25 yards into the top corner. Nothing Turner could do. 1-1." },
+    { minute: 65, type: "sub", text: "Pochettino introduces fresh legs in midfield, looking to regain control of the game." },
+    { minute: 71, type: "goal_usa", text: "GOAL for USA! Lightning counter-attack! Scally plays a long diagonal to Timothy Weah, who outpaces the defender and finishes with power! 2-1 USA!" },
+    { minute: 90, type: "fulltime", text: "Full Time! A magnificent 2-1 Send-Off victory over Germany! Soldier Field erupts! USA heads into the World Cup with momentum!" }
+  ],
   "match_paraguay": [
     { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets as USA begins their World Cup Group D campaign in front of a packed stadium." },
     { minute: 10, type: "save", text: "Chris Richards makes a massive sliding block in the penalty box to deny Paraguay's counter-attack. Composed defending." },
