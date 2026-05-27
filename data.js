@@ -4,7 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     "⚽ Foden a 'victim' of football's packed schedule",
-    "⚽ PFA calls out ‘crazy calendar’ as responsible for Cole Palmer and Phil Foden burnout",
     "⚽ Premier League 2025-26 review: our writers’ best and worst of the season"
   ],
   "timeline": {
@@ -63,8 +62,48 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-27": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3521_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Foden a 'victim' of football's packed schedule",
+            "bullets": [
+              "Manchester City midfielder Phil Foden is a \"victim\" of football's packed fixture schedule after bein...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City midfielder Phil Foden is a \"victim\" of football's packed fixture schedule after being left out of England's World Cup squad, says the chief executive of the PFA.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3521_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
+            "bullets": [
+              "&lt;p&gt;The Premier League season is over, but what did Guardian football writers enjoy, dislike or...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? &lt;/p&gt;&lt;p&gt;Goalkeepers never usually get a mention for this award but &lt;strong&gt;David Raya&lt;/strong&gt; played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third year in a row thanks to 19 clean sheets. Declan Rice and Bruno Fernandes were the outstanding outfield players. &lt;strong&gt;Ed Aarons&lt;/strong&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-26 @ 17:54:22 local time"
+  "lastUpdated": "2026-05-27 @ 05:35:20 local time"
 };
