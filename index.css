@@ -102,6 +102,43 @@ h1, h2, h3, h4, h5 {
   gap: 1.5rem;
 }
 
+.hub-crosslinks {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.hub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(0, 40, 104, 0.06);
+  border: 1px solid rgba(0, 40, 104, 0.15);
+  color: var(--text-secondary);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.hub-link:hover {
+  background: rgba(0, 40, 104, 0.12);
+  border-color: var(--us-blue);
+  color: var(--us-blue);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(0, 40, 104, 0.15);
+}
+
+.hub-link-flag {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
 .brand-section {
   display: flex;
   align-items: center;
