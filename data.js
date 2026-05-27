@@ -3,12 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ USMNT's final World Cup roster is classic Pochetti...",
-    "⚽ USA's 2026 World Cup roster reveal recap: Pulisic,...",
-    "⚽ Poch: 'Amazing' Reyna can be key for U.S. at WC",
-    "⚽ U.S. names 26-man World Cup roster after leaks",
-    "⚽ Socceroos shrug off U.S.'s pre-World Cup jibes",
-    "⚽ Missing a World Cup, over email? Pochettino defends communication style with tough decisions behind him"
+    "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
+    "⚽ South Africa World Cup 2026 team guide"
   ],
   "timeline": {
     "2026-05-26": {
@@ -152,8 +148,48 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-27": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5503_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
+            "bullets": [
+              "&lt;p&gt;Two decades of disappointment followed Parisian nightmare of Lehmann, Eto’o and all that, b...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Two decades of disappointment followed Parisian nightmare of Lehmann, Eto’o and all that, but now a first Champions League title is in sight&lt;/p&gt;&lt;p&gt;They left London in their thousands, full of hope and devotion, heading for Paris in the springtime, yet romantic anticipation lasted all of 18 minutes, which was when Arsenal’s goalkeeper, Jens Lehmann, was sent off in the &lt;a href=\"https://www.theguardian.com/football/2006/may/18/match.championsleague\"&gt;2006 Champions League final&lt;/a&gt; against Barcelona at the Stade de France.&lt;/p&gt;&lt;p&gt;Twenty years on, as Arsenal fans again travel in anticipation, this time to Budapest, for the club’s second Champions League final, you could argue that Arsenal hearts have been a little broken ever since.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/arteta-ready-to-take-final-step-on-arsenals-20-year-journey-to-redemption\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5503_1",
+            "category": "usa",
+            "type": "News",
+            "title": "South Africa World Cup 2026 team guide",
+            "bullets": [
+              "&lt;p&gt;Hugo Broos has transformed Bafana Bafana, creating a side strong on teamwork and held toget...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Hugo Broos has transformed Bafana Bafana, creating a side strong on teamwork and held together by Teboho Mokoena&lt;/p&gt;&lt;p&gt;&lt;em&gt;This article is part of the Guardian’s &lt;a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\"&gt;2026 World Cup Experts’ Network&lt;/a&gt;, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.&lt;/em&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/south-africa-world-cup-2026-team-guide-soccer\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-26 @ 23:57:18 local time"
+  "lastUpdated": "2026-05-27 @ 16:55:03 local time"
 };
