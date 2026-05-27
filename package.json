@@ -1,0 +1,11 @@
+{
+  "name": "us-world-cup-hub",
+  "version": "1.0.0",
+  "description": "USMNT World Cup Hub 2026",
+  "main": "app.js",
+  "scripts": {
+    "build": "python build.py"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
