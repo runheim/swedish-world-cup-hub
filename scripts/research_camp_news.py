@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import sys
 import os
 import re
 import json
@@ -381,4 +382,4 @@ try:
     print("SUCCESS: data.js updated beautifully and compiled successfully!")
 except Exception as e:
     print(f"ERROR writing to data.js: {e}")
-    exit(1)
+    sys.exit(1)

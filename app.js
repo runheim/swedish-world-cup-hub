@@ -378,7 +378,7 @@ const PLAYERS = [
   }
 ];
 
-PLAYERS.find(p => p.id === "gustaf_nilsson").number = 26;
+
 
 // 2. Chronological Pre-Camp News Timeline (May 21, 22, 23, 2026 - Geared towards genuine pre-camp activities)
 const TIMELINE_DATABASE = {
@@ -783,7 +783,7 @@ const MATCH_SCHEDULE = [
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
   "match_norway": {
-    score: "1 - 2",
+    score: "2 - 1",
     scorers: "🇳🇴 Haaland (12') | 🇸🇪 Gyökeres (54'), Bergvall (82')",
     report: "Graham Potter's era kicks off with an impressive comeback victory in Oslo! Despite Erling Haaland opening the scoring early with a powerful half-volley, Sweden dominated possession in the second half. Viktor Gyökeres equalized with a towering header before substitute Lucas Bergvall scored a sensational 25-yard winner in the 82nd minute.",
     ratings: [
@@ -1624,10 +1624,6 @@ function updateNewsTimelineStylesFix() {
   
   container.querySelectorAll(".headline-bullet-item").forEach(item => {
     item.style.paddingLeft = "1.8rem";
-    const dot = item.querySelector("::before");
-    if (dot) {
-      dot.style.top = "18px";
-    }
   });
 }
 
@@ -1888,7 +1884,7 @@ function renderMusicPlayer() {
   const visualizer = document.getElementById("music-visualizer");
   const spotifyLink = document.getElementById("music-spotify-link");
 
-  if (!songTitle) return;
+  if (!songTitle || !artist || !songCount || !playerBtn || !visualizer) return;
 
   const track = PLAYLIST[currentTrackIndex];
   songTitle.textContent = track.title;
@@ -2046,6 +2042,9 @@ function openPlayerModal(pId) {
     else if (key === "distanceCovered") cleanKey = "Distance Covered";
     else if (key === "topSpeed") cleanKey = "Top Speed";
     else if (key === "aerialDuelsWon") cleanKey = "Aerial Duels (%)";
+    else if (key === "shotConversion") cleanKey = "Shot Conversion";
+    else if (key === "sprints") cleanKey = "Sprints";
+    else if (key === "duelsWon") cleanKey = "Duels Won";
 
     const box = document.createElement("div");
     box.className = "stat-metric-card";
@@ -2079,8 +2078,11 @@ function initScoutRoom() {
 }
 
 function renderScoutComparison() {
-  const p1Id = document.getElementById("scout-player-1").value;
-  const p2Id = document.getElementById("scout-player-2").value;
+  const el1 = document.getElementById("scout-player-1");
+  const el2 = document.getElementById("scout-player-2");
+  if (!el1 || !el2) return;
+  const p1Id = el1.value;
+  const p2Id = el2.value;
   
   const p1 = PLAYERS.find(p => p.id === p1Id);
   const p2 = PLAYERS.find(p => p.id === p2Id);
