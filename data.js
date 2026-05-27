@@ -4,7 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     "⚽ Barca agree £69m-plus deal with Newcastle for Gordon",
-    "⚽ Anthony Gordon to undergo medical at Barça before £69.3m move from Newcastle"
+    "⚽ Anthony Gordon to undergo medical at Barça before £69.3m move from Newcastle",
+    "⚽ New York and New Jersey subpoena Fifa over ‘manipulated’ World Cup ticketing"
   ],
   "timeline": {
     "2026-05-26": {
@@ -181,5 +182,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 21:32:11 local time"
+  "lastUpdated": "2026-05-27 @ 23:21:07 local time"
 };
