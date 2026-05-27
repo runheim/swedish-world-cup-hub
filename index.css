@@ -110,6 +110,43 @@ h1, h2, h3, h4, h5 {
   gap: 1.5rem;
 }
 
+.hub-crosslinks {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.hub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(10, 31, 60, 0.05);
+  border: 1px solid rgba(10, 31, 60, 0.12);
+  color: var(--text-secondary);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.hub-link:hover {
+  background: rgba(10, 31, 60, 0.1);
+  border-color: var(--england-blue);
+  color: var(--england-blue);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(10, 31, 60, 0.12);
+}
+
+.hub-link-flag {
+  font-size: 0.9rem;
+  line-height: 1;
+}
+
 .brand-section {
   display: flex;
   align-items: center;
