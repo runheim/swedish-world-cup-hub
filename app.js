@@ -2658,35 +2658,35 @@ let answeredTrivia = false;
 let selectedPredictorMatch = "match_tunisia";
 
 const VENUES = {
-  seattle: {
-    city: "Seattle, USA",
-    stadium: "Lumen Field",
-    capacity: "69,000",
-    timezone: "America/Los_Angeles",
-    weather: "68°F (Sunny)",
-    desc: "Lumen Field is home to MLS Seattle Sounders FC and NFL's Seahawks. Renowned for its thunderous acoustics and panoramic views of downtown Seattle, it will host Sweden's crucial World Cup opener against Tunisia.",
+  monterrey: {
+    city: "Monterrey, Mexico",
+    stadium: "Estadio BBVA",
+    capacity: "53,500",
+    timezone: "America/Monterrey",
+    weather: "90°F (Hot & Humid)",
+    desc: "Estadio BBVA is a stunning open-air stadium in Guadalupe, near Monterrey. Home to Liga MX's CF Monterrey (Rayados), it features a striking steel and glass exterior. It hosts Sweden's World Cup opener against Tunisia on June 14.",
+    flag: "🇲🇽",
+    stadiumUrl: "https://www.estadiobbva.mx"
+  },
+  houston: {
+    city: "Houston, USA",
+    stadium: "NRG Stadium",
+    capacity: "72,220",
+    timezone: "America/Chicago",
+    weather: "88°F (Hot & Humid)",
+    desc: "NRG Stadium is a massive retractable-roof facility in Houston, Texas. Home to the NFL's Houston Texans, its climate-controlled interior will host Sweden's crucial second group match against the Netherlands on June 20.",
     flag: "🇺🇸",
-    stadiumUrl: "https://www.lumenfield.com"
+    stadiumUrl: "https://www.nrgpark.com"
   },
-  vancouver: {
-    city: "Vancouver, Canada",
-    stadium: "BC Place",
-    capacity: "54,500",
-    timezone: "America/Vancouver",
-    weather: "62°F (Partly Cloudy)",
-    desc: "BC Place is a architectural wonder featuring the world's largest cable-supported retractable roof. Nestled by Vancouver's False Creek, it will host Sweden's massive match against the Netherlands.",
-    flag: "🇨🇦",
-    stadiumUrl: "https://www.bcplace.com"
-  },
-  stockholm: {
-    city: "Stockholm, Sweden",
-    stadium: "Strawberry Arena",
-    capacity: "50,600",
-    timezone: "Europe/Stockholm",
-    weather: "59°F (Clear)",
-    desc: "Sweden's national football arena features a retractable roof and serves as the home base for AIK and the Sweden Men's National Team. It hosts the final high-profile warmup derby against Greece.",
-    flag: "🇸🇪",
-    stadiumUrl: "https://www.strawberryarena.se"
+  dallas: {
+    city: "Arlington, USA",
+    stadium: "AT&T Stadium",
+    capacity: "80,000",
+    timezone: "America/Chicago",
+    weather: "85°F (Warm)",
+    desc: "AT&T Stadium is the iconic home of the NFL's Dallas Cowboys in Arlington, Texas. Featuring the world's largest column-free interior and a massive retractable roof, it hosts Sweden's final group match against Japan on June 25.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://www.attstadium.com"
   }
 };
 
@@ -2768,16 +2768,11 @@ function initGroupTable() {
 }
 
 function calculateGroupStandings() {
-  // Pre-populated background match results in Group F:
-  // - Netherlands 1 - 1 Japan
-  // - Tunisia 0 - 1 Japan
-  // - Netherlands 2 - 0 Tunisia
-  
   let standings = [
     { id: "sweden", name: "Sweden", flag: "🇸🇪", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
-    { id: "netherlands", name: "Netherlands", flag: "🇳🇱", gp: 3, w: 2, d: 1, l: 0, gf: 4, ga: 1, gd: 3, pts: 7 },
-    { id: "japan", name: "Japan", flag: "🇯🇵", gp: 3, w: 1, d: 1, l: 1, gf: 2, ga: 2, gd: 0, pts: 4 },
-    { id: "tunisia", name: "Tunisia", flag: "🇹🇳", gp: 3, w: 0, d: 0, l: 3, gf: 0, ga: 4, gd: -4, pts: 0 }
+    { id: "netherlands", name: "Netherlands", flag: "🇳🇱", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    { id: "japan", name: "Japan", flag: "🇯🇵", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    { id: "tunisia", name: "Tunisia", flag: "🇹🇳", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 }
   ];
 
   // We overwrite Netherlands, Japan, Tunisia base states and dynamically calculate based on simulated outcomes
@@ -2807,15 +2802,7 @@ function calculateGroupStandings() {
     }
   }
 
-  // 1. Add background matches
-  addMatch("netherlands", 1, 1);
-  addMatch("japan", 1, 1);
-
-  addMatch("tunisia", 0, 1);
-  addMatch("japan", 1, 0);
-
-  addMatch("netherlands", 2, 0);
-  addMatch("tunisia", 0, 2);
+  // Pre-tournament: All teams start at 0-0-0. Background matches will be added once the World Cup begins.
 
   // 2. Add simulated Sweden matches
   if (SIMULATED_RESULTS.match_tunisia) {
@@ -2896,7 +2883,7 @@ function initVenueGuide() {
     });
   });
 
-  renderVenueGuide("seattle");
+  renderVenueGuide("monterrey");
 }
 
 function renderVenueGuide(venueKey) {
