@@ -3,7 +3,6 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well",
     "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption"
   ],
   "timeline": {
@@ -241,9 +240,31 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_2104_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
+            "bullets": [
+              "&lt;p&gt;Two decades of disappointment followed Parisian nightmare of Lehmann, Eto’o and all that, b...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Two decades of disappointment followed Parisian nightmare of Lehmann, Eto’o and all that, but now a first Champions League title is in sight&lt;/p&gt;&lt;p&gt;They left London in their thousands, full of hope and devotion, heading for Paris in the springtime, yet romantic anticipation lasted all of 18 minutes, which was when Arsenal’s goalkeeper, Jens Lehmann, was sent off in the &lt;a href=\"https://www.theguardian.com/football/2006/may/18/match.championsleague\"&gt;2006 Champions League final&lt;/a&gt; against Barcelona at the Stade de France.&lt;/p&gt;&lt;p&gt;Twenty years on, as Arsenal fans again travel in anticipation, this time to Budapest, for the club’s second Champions League final, you could argue that Arsenal hearts have been a little broken ever since.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/27/arteta-ready-to-take-final-step-on-arsenals-20-year-journey-to-redemption\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 20:32:18 local time"
+  "lastUpdated": "2026-05-27 @ 22:21:04 local time"
 };
