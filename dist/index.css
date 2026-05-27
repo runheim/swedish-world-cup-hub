@@ -41,6 +41,38 @@
   --bg-light-700: #E2E8F0;
   --bg-light-600: #CBD5E1;
   --radius-sm: 6px;
+
+  --bg-gradient-radial-1: rgba(10, 31, 60, 0.05);
+  --bg-gradient-radial-2: rgba(230, 0, 0, 0.04);
+  --bg-gradient-radial-3: rgba(255, 255, 255, 0.9);
+  --bg-gradient-radial-4: #F8FAFC;
+}
+
+[data-theme="dark"] {
+  --bg-dark-900: #040814;
+  --bg-dark-800: #0B1124;
+  --bg-dark-700: #151E36;
+  --bg-dark-600: #202D4E;
+  --bg-dark-500: #3E4E7A;
+  
+  --text-white: #FFFFFF;
+  --text-primary: #F1F5F9;
+  --text-secondary: #94A3B8;
+  --text-dark: #FFFFFF;
+  
+  --glass-bg: rgba(11, 17, 36, 0.85);
+  --glass-border: rgba(230, 0, 0, 0.25);
+  --glass-border-blue: rgba(26, 54, 93, 0.4);
+  --shadow-neon: 0 10px 30px rgba(230, 0, 0, 0.15);
+  --shadow-neon-blue: 0 10px 30px rgba(10, 31, 60, 0.3);
+  
+  --bg-gradient-radial-1: rgba(10, 31, 60, 0.3);
+  --bg-gradient-radial-2: rgba(230, 0, 0, 0.1);
+  --bg-gradient-radial-3: rgba(11, 17, 36, 0.95);
+  --bg-gradient-radial-4: #040814;
+  
+  --england-blue: #3B82F6;
+  --england-accent-blue: #3B82F6;
 }
 
 /* Base resets & styles */
@@ -54,14 +86,15 @@ body {
   font-family: var(--font-primary);
   background-color: var(--bg-dark-900);
   background-image: 
-    radial-gradient(circle at 10% 20%, rgba(10, 31, 60, 0.05) 0%, transparent 45%),
-    radial-gradient(circle at 90% 80%, rgba(230, 0, 0, 0.04) 0%, transparent 45%),
-    radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.9) 0%, #F8FAFC 100%);
+    radial-gradient(circle at 10% 20%, var(--bg-gradient-radial-1) 0%, transparent 45%),
+    radial-gradient(circle at 90% 80%, var(--bg-gradient-radial-2) 0%, transparent 45%),
+    radial-gradient(circle at 50% 50%, var(--bg-gradient-radial-3) 0%, var(--bg-gradient-radial-4) 100%);
   background-attachment: fixed;
   color: var(--text-primary);
   line-height: 1.6;
   -webkit-font-smoothing: antialiased;
   overflow-x: hidden;
+  transition: background-color 0.5s ease, color 0.3s ease, background-image 0.5s ease;
 }
 
 /* Custom Scrollbar */
@@ -108,6 +141,43 @@ h1, h2, h3, h4, h5 {
   box-shadow: var(--shadow-neon-blue);
   flex-wrap: wrap;
   gap: 1.5rem;
+}
+
+.hub-crosslinks {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.hub-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: 999px;
+  background: rgba(10, 31, 60, 0.05);
+  border: 1px solid rgba(10, 31, 60, 0.12);
+  color: var(--text-secondary);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-decoration: none;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  transition: all 0.25s ease;
+  white-space: nowrap;
+}
+
+.hub-link:hover {
+  background: rgba(10, 31, 60, 0.1);
+  border-color: var(--england-blue);
+  color: var(--england-blue);
+  transform: translateY(-1px);
+  box-shadow: 0 2px 8px rgba(10, 31, 60, 0.12);
+}
+
+.hub-link-flag {
+  font-size: 0.9rem;
+  line-height: 1;
 }
 
 .brand-section {

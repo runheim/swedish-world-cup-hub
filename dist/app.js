@@ -1500,6 +1500,7 @@ function initApp() {
   renderMatchCenter();
   initScoutRoom();
   setupEventListeners();
+  initPremiumUpgrades();
 
   setInterval(() => {
     tickCountdown();
@@ -2259,6 +2260,13 @@ function handleSimulatorTick() {
     if (forceUnlockCheckbox) {
       forceUnlockCheckbox.checked = true;
     }
+    
+    // Update simulated group match results
+    if (currentSimMatchId === "match_croatia" || currentSimMatchId === "match_ghana" || currentSimMatchId === "match_panama") {
+      SIMULATED_RESULTS[currentSimMatchId] = { eng: simScoreEng, opp: simScoreOpp };
+      calculateGroupStandings();
+    }
+    
     renderMatchCenter();
     return;
   }
@@ -2581,3 +2589,683 @@ function setupEventListeners() {
     });
   }
 }
+
+// ==========================================================================
+// PREMIUM UPGRADES PORTAL UPGRADE SYSTEM (ENGLAND HUB)
+// Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
+// ==========================================================================
+
+let SIMULATED_RESULTS = {
+  match_croatia: null,
+  match_ghana: null,
+  match_panama: null
+};
+
+let venueClockInterval = null;
+let currentTriviaIndex = 0;
+let triviaScore = 0;
+let answeredTrivia = false;
+let selectedPredictorMatch = "match_croatia";
+
+const VENUES = {
+  dallas: {
+    city: "Dallas, USA",
+    stadium: "AT&T Stadium",
+    capacity: "80,000",
+    timezone: "America/Chicago",
+    weather: "72°F (Sunny)",
+    desc: "AT&T Stadium is a massive retractable roof stadium in Arlington, Texas. Home to the NFL's Dallas Cowboys, it will host England's highly anticipated World Cup Group C opener against Croatia.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://www.attstadium.com"
+  },
+  atlanta: {
+    city: "Atlanta, USA",
+    stadium: "Mercedes-Benz Stadium",
+    capacity: "71,000",
+    timezone: "America/New_York",
+    weather: "71°F (Sunny)",
+    desc: "Mercedes-Benz Stadium is a world-class multi-purpose venue featuring a unique retractable roof resembling a pinwheel. Nestled in downtown Atlanta, it will host England's match against Ghana.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://mercedesbenzstadium.com"
+  },
+  miami: {
+    city: "Miami, USA",
+    stadium: "Hard Rock Stadium",
+    capacity: "64,767",
+    timezone: "America/New_York",
+    weather: "82°F (Humid)",
+    desc: "Hard Rock Stadium is a premier outdoor sports venue in Miami Gardens, Florida. Known for its breezy canopy and tropical atmosphere, it will host England's third group clash against Panama.",
+    flag: "🇺🇸",
+    stadiumUrl: "https://www.hardrockstadium.com"
+  }
+};
+
+const TRIVIA_QUESTIONS = [
+  {
+    q: "Who is England's all-time leading male goalscorer (with 68 goals and counting)?",
+    options: ["Wayne Rooney", "Harry Kane", "Bobby Charlton", "Gary Lineker"],
+    answer: 1,
+    hint: "The legendary striker who captains the Three Lions and led Bayern Munich's attack."
+  },
+  {
+    q: "England won their only FIFA World Cup trophy in which historic tournament?",
+    options: ["1966 at home", "1990 in Italy", "2018 in Russia", "1970 in Mexico"],
+    answer: 0,
+    hint: "They defeated West Germany 4-2 in extra time at Wembley Stadium."
+  },
+  {
+    q: "Who was England's legendary manager during their 1966 World Cup victory?",
+    options: ["Alf Ramsey", "Bobby Robson", "Gareth Southgate", "Terry Venables"],
+    answer: 0,
+    hint: "He famously predicted England would win the World Cup before the tournament started."
+  },
+  {
+    q: "England famously reached the semifinals of the 2018 World Cup in Russia under which coach?",
+    options: ["Sven-Göran Eriksson", "Fabio Capello", "Gareth Southgate", "Roy Hodgson"],
+    answer: 2,
+    hint: "The waistcoated tactician who brought high unity and penalty shootout success to the squad."
+  },
+  {
+    q: "Which English stadium is known globally as the historic 'Home of Football' and hosts the national team's domestic matches?",
+    options: ["Old Trafford", "Anfield", "Wembley Stadium", "Emirates Stadium"],
+    answer: 2,
+    hint: "It features the iconic 133-meter tall arch stretching above the stadium canopy."
+  }
+];
+
+function initPremiumUpgrades() {
+  initTheme();
+  initGroupTable();
+  initVenueGuide();
+  initFanZone();
+}
+
+// 1. Dual-Kit Inspired Theme Controller
+function initTheme() {
+  const savedTheme = localStorage.getItem("user-theme-england") || "light";
+  setTheme(savedTheme);
+  
+  const chk = document.getElementById("theme-toggle-chk");
+  if (chk) {
+    chk.checked = savedTheme === "light";
+    chk.addEventListener("change", (e) => {
+      const theme = e.target.checked ? "light" : "dark";
+      setTheme(theme);
+    });
+  }
+}
+
+function setTheme(theme) {
+  document.documentElement.setAttribute("data-theme", theme);
+  localStorage.setItem("user-theme-england", theme);
+  
+  const sunIcon = document.getElementById("theme-sun-icon");
+  const moonIcon = document.getElementById("theme-moon-icon");
+  if (sunIcon && moonIcon) {
+    if (theme === "light") {
+      sunIcon.style.color = "var(--england-red)";
+      moonIcon.style.color = "var(--text-secondary)";
+    } else {
+      sunIcon.style.color = "var(--text-secondary)";
+      moonIcon.style.color = "var(--england-blue)";
+    }
+  }
+}
+
+// 2. Dynamic Group Standings Table Widget
+function initGroupTable() {
+  calculateGroupStandings();
+}
+
+function calculateGroupStandings() {
+  const groupTeams = {
+    england: { id: "england", name: "England", flag: "🏴󠁧󠁢󠁥󠁮󠁧󠁿", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    croatia: { id: "croatia", name: "Croatia", flag: "🇭🇷", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    ghana: { id: "ghana", name: "Ghana", flag: "🇬🇭", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
+    panama: { id: "panama", name: "Panama", flag: "🇵🇦", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 }
+  };
+
+  // Helper to add match to team
+  function addMatch(teamKey, gf, ga) {
+    const t = groupTeams[teamKey];
+    t.gp++;
+    t.gf += gf;
+    t.ga += ga;
+    t.gd = t.gf - t.ga;
+    if (gf > ga) {
+      t.w++;
+      t.pts += 3;
+    } else if (gf === ga) {
+      t.d++;
+      t.pts += 1;
+    } else {
+      t.l++;
+    }
+  }
+
+  // 1. Add background matches (Group Stage)
+  addMatch("croatia", 2, 1);
+  addMatch("ghana", 1, 2);
+
+  addMatch("panama", 0, 1);
+  addMatch("ghana", 1, 0);
+
+  addMatch("croatia", 3, 0);
+  addMatch("panama", 0, 3);
+
+  // 2. Add simulated England matches
+  if (SIMULATED_RESULTS.match_croatia) {
+    addMatch("england", SIMULATED_RESULTS.match_croatia.eng, SIMULATED_RESULTS.match_croatia.opp);
+    addMatch("croatia", SIMULATED_RESULTS.match_croatia.opp, SIMULATED_RESULTS.match_croatia.eng);
+  }
+  
+  if (SIMULATED_RESULTS.match_ghana) {
+    addMatch("england", SIMULATED_RESULTS.match_ghana.eng, SIMULATED_RESULTS.match_ghana.opp);
+    addMatch("ghana", SIMULATED_RESULTS.match_ghana.opp, SIMULATED_RESULTS.match_ghana.eng);
+  }
+  
+  if (SIMULATED_RESULTS.match_panama) {
+    addMatch("england", SIMULATED_RESULTS.match_panama.eng, SIMULATED_RESULTS.match_panama.opp);
+    addMatch("panama", SIMULATED_RESULTS.match_panama.opp, SIMULATED_RESULTS.match_panama.eng);
+  }
+
+  // Convert map to array and sort
+  const standingsArray = Object.values(groupTeams).sort((a, b) => {
+    if (b.pts !== a.pts) return b.pts - a.pts;
+    if (b.gd !== a.gd) return b.gd - a.gd;
+    if (b.gf !== a.gf) return b.gf - a.gf;
+    return a.name.localeCompare(b.name);
+  });
+
+  renderGroupTableUI(standingsArray);
+}
+
+function renderGroupTableUI(standings) {
+  const tbody = document.getElementById("group-standings-tbody");
+  if (!tbody) return;
+
+  tbody.innerHTML = standings.map((t, idx) => {
+    const isQualifying = idx < 2;
+    const isEng = t.id === "england";
+    
+    return `
+      <tr style="border-bottom: 1px solid rgba(255, 255, 255, 0.04); font-weight: ${isEng ? '800' : '500'}; color: ${isEng ? 'var(--text-white)' : 'var(--text-primary)'}; background: ${isEng ? 'rgba(10, 31, 60, 0.12)' : 'transparent'}; transition: var(--transition-smooth);">
+        <td style="padding: 0.6rem 0.4rem; text-align: center;">
+          <span style="display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; border-radius: 50%; background: ${isQualifying ? 'rgba(16, 185, 129, 0.15)' : 'transparent'}; color: ${isQualifying ? '#10B981' : 'var(--text-secondary)'}; font-size: 0.75rem; font-weight: 700;">
+            ${idx + 1}
+          </span>
+        </td>
+        <td style="padding: 0.6rem 0.8rem; display: flex; align-items: center; gap: 0.4rem;">
+          <span style="font-size: 1.1rem; line-height: 1;">${t.flag}</span>
+          <span>${t.name}</span>
+        </td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; color: var(--text-secondary); font-family: monospace;">${t.gp}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace;">${t.w}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace;">${t.d}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace;">${t.l}</td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-family: monospace; color: ${t.gd > 0 ? '#10B981' : t.gd < 0 ? '#EF4444' : 'var(--text-secondary)'}; font-weight: 700;">
+          ${t.gd > 0 ? '+' : ''}${t.gd}
+        </td>
+        <td style="padding: 0.6rem 0.4rem; text-align: center; font-weight: 800; font-family: monospace; color: var(--england-red); font-size: 0.9rem;">
+          ${t.pts}
+        </td>
+      </tr>
+    `;
+  }).join('');
+}
+
+// 3. Interactive Host Venue & Stadium Guide
+function initVenueGuide() {
+  const tabsList = document.getElementById("venue-tabs-list");
+  if (!tabsList) return;
+
+  const buttons = tabsList.querySelectorAll(".news-tab-btn");
+  buttons.forEach(btn => {
+    btn.addEventListener("click", () => {
+      buttons.forEach(b => b.classList.remove("active"));
+      btn.classList.add("active");
+      
+      const stKey = btn.getAttribute("data-stadium");
+      renderVenueGuide(stKey);
+    });
+  });
+
+  renderVenueGuide("dallas");
+}
+
+function renderVenueGuide(venueKey) {
+  const display = document.getElementById("venue-display-card");
+  if (!display) return;
+
+  const v = VENUES[venueKey];
+  if (!v) return;
+
+  if (venueClockInterval) clearInterval(venueClockInterval);
+
+  display.innerHTML = `
+    <div style="display: flex; flex-direction: column; gap: 0.8rem;" class="animated fade-in">
+      <div style="display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 0.6rem;">
+        <div>
+          <h3 style="color: var(--text-white); font-size: 1.1rem; display: flex; align-items: center; gap: 0.4rem;">
+            <span>${v.flag}</span> ${v.stadium}
+          </h3>
+          <p style="color: var(--text-secondary); font-size: 0.78rem; font-weight: 500;"><i class="fas fa-map-marker-alt" style="color: var(--england-red);"></i> ${v.city}</p>
+        </div>
+        <div style="text-align: right; background: rgba(10, 31, 60, 0.1); padding: 0.3rem 0.6rem; border-radius: var(--radius-sm); border: 1px solid rgba(10, 31, 60, 0.2);">
+          <span style="font-size: 0.62rem; color: var(--text-secondary); text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em; display: block; margin-bottom: 2px;">Local Time</span>
+          <span style="font-size: 0.95rem; font-weight: 800; font-family: monospace; color: var(--england-red);" id="venue-clock-display">--:--:--</span>
+        </div>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; margin: 0.2rem 0;">
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.04); border-radius: var(--radius-sm); padding: 0.5rem; text-align: center;">
+          <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; display: block; margin-bottom: 3px;">Seating Capacity</span>
+          <strong style="font-size: 1.1rem; color: var(--text-white);">${v.capacity}</strong>
+        </div>
+        <div style="background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.04); border-radius: var(--radius-sm); padding: 0.5rem; text-align: center;">
+          <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; display: block; margin-bottom: 3px;">Live Weather Info</span>
+          <strong style="font-size: 1.1rem; color: var(--england-red); display: flex; align-items: center; justify-content: center; gap: 0.3rem;"><i class="fas fa-sun" style="font-size: 0.85rem;"></i> ${v.weather}</strong>
+        </div>
+      </div>
+
+      <p style="font-size: 0.78rem; color: var(--text-secondary); line-height: 1.45;">
+        ${v.desc}
+      </p>
+      
+      <a href="${v.stadiumUrl}" target="_blank" style="align-self: flex-start; font-size: 0.72rem; color: var(--england-red); font-weight: 700; text-decoration: none; display: inline-flex; align-items: center; gap: 0.3rem; margin-top: 2px; transition: var(--transition-smooth);" class="venue-link-hover">
+        Visit Official Website <i class="fas fa-external-link-alt" style="font-size: 0.65rem;"></i>
+      </a>
+    </div>
+  `;
+
+  // Start Time clock tick
+  function tickClock() {
+    const clockEl = document.getElementById("venue-clock-display");
+    if (clockEl) {
+      const options = {
+        timeZone: v.timezone,
+        hour: '2-digit',
+        minute: '2-digit',
+        second: '2-digit',
+        hour12: false
+      };
+      clockEl.textContent = new Intl.DateTimeFormat([], options).format(new Date());
+    }
+  }
+  
+  tickClock();
+  venueClockInterval = setInterval(tickClock, 1000);
+}
+
+// 4. Camp Fan Zone (Trivia Quiz & Score Predictor) Controller
+function initFanZone() {
+  const tabTrivia = document.getElementById("tab-fanzone-trivia");
+  const tabPredictor = document.getElementById("tab-fanzone-predictor");
+  const stageTrivia = document.getElementById("stage-fanzone-trivia");
+  const stagePredictor = document.getElementById("stage-fanzone-predictor");
+
+  if (tabTrivia && tabPredictor && stageTrivia && stagePredictor) {
+    tabTrivia.addEventListener("click", () => {
+      tabPredictor.classList.remove("active");
+      tabTrivia.classList.add("active");
+      stagePredictor.style.display = "none";
+      stageTrivia.style.display = "block";
+      renderTrivia();
+    });
+
+    tabPredictor.addEventListener("click", () => {
+      tabTrivia.classList.remove("active");
+      tabPredictor.classList.add("active");
+      stageTrivia.style.display = "none";
+      stagePredictor.style.display = "block";
+      renderPredictor();
+    });
+  }
+
+  renderTrivia();
+}
+
+function renderTrivia() {
+  const quizBox = document.getElementById("trivia-quiz-container");
+  if (!quizBox) return;
+
+  if (currentTriviaIndex >= TRIVIA_QUESTIONS.length) {
+    // Show End state Summary
+    let rating = "Bronze Scout Medal 🥉";
+    let message = "Good effort! Practice makes perfect. Review your camp notes and try again!";
+    if (triviaScore === 5) {
+      rating = "Gold Camp Medal 🏆 Confetti Time!";
+      message = "Brilliant! You possess flawless knowledge of the Three Lions. Football is truly coming home!";
+      setTimeout(triggerConfetti, 100);
+    } else if (triviaScore >= 3) {
+      rating = "Silver Tactician Medal 🥈";
+      message = "Great performance! You know your English football history. The coaching staff is very impressed.";
+    }
+
+    quizBox.innerHTML = `
+      <div style="text-align: center;" class="animated scale-in">
+        <h3 style="font-size: 1.3rem; color: var(--england-red); margin-bottom: 0.5rem;"><i class="fas fa-trophy"></i> Quiz Completed!</h3>
+        <p style="font-size: 0.85rem; color: var(--text-secondary); margin-bottom: 0.8rem;">You scored <strong style="color:var(--text-white); font-size:1.2rem;">${triviaScore}</strong> out of <strong style="color:var(--text-white);">${TRIVIA_QUESTIONS.length}</strong></p>
+        
+        <div style="background: rgba(10,31,60,0.12); border: 1px dashed var(--england-blue); border-radius: var(--radius-sm); padding: 0.8rem; margin-bottom: 1.2rem;">
+          <h4 style="font-size: 0.95rem; color: var(--text-white); margin-bottom: 4px;">${rating}</h4>
+          <p style="font-size: 0.75rem; color: var(--text-secondary); line-height:1.4;">${message}</p>
+        </div>
+
+        <button class="ratings-toggle-btn" id="btn-trivia-restart" style="width: auto; padding: 0.5rem 1.5rem; display: inline-flex; justify-content: center; align-items: center; gap: 0.4rem; font-size: 0.8rem; cursor: pointer;">
+          <i class="fas fa-redo"></i> Play Again
+        </button>
+      </div>
+    `;
+
+    const restartBtn = document.getElementById("btn-trivia-restart");
+    if (restartBtn) {
+      restartBtn.addEventListener("click", () => {
+        currentTriviaIndex = 0;
+        triviaScore = 0;
+        answeredTrivia = false;
+        renderTrivia();
+      });
+    }
+    return;
+  }
+
+  const q = TRIVIA_QUESTIONS[currentTriviaIndex];
+  answeredTrivia = false;
+
+  quizBox.innerHTML = `
+    <div class="animated fade-in" style="display: flex; flex-direction: column; gap: 0.8rem;">
+      <div style="display: flex; justify-content: space-between; align-items: center; font-size: 0.72rem; color: var(--text-secondary); border-bottom: 1px solid rgba(255,255,255,0.05); padding-bottom: 0.4rem;">
+        <span>CAMP TRIVIA CHALLENGE</span>
+        <span style="font-family: monospace; font-weight: 700; color: var(--england-red);">Question ${currentTriviaIndex + 1}/${TRIVIA_QUESTIONS.length}</span>
+      </div>
+
+      <h4 style="font-size: 0.88rem; color: var(--text-white); font-weight: 600; line-height: 1.45; margin-bottom: 2px;">
+        ${q.q}
+      </h4>
+
+      <div style="display: flex; flex-direction: column; gap: 0.5rem; margin: 0.2rem 0;">
+        ${q.options.map((opt, oIdx) => {
+          return `
+            <button class="trivia-opt-btn" data-index="${oIdx}" style="width: 100%; text-align: left; background: rgba(255,255,255,0.02); border: 1px solid rgba(255,255,255,0.05); border-radius: var(--radius-sm); padding: 0.5rem 0.8rem; color: var(--text-primary); font-family: inherit; font-size: 0.78rem; font-weight: 600; cursor: pointer; transition: all 0.25s ease; outline: none; display: flex; align-items: center; gap: 0.5rem;">
+              <span style="display:inline-flex; align-items:center; justify-content:center; width:18px; height:18px; border-radius:50%; background:rgba(255,255,255,0.05); color:var(--text-secondary); font-size:0.65rem; font-weight:700;">${String.fromCharCode(65 + oIdx)}</span>
+              <span>${opt}</span>
+            </button>
+          `;
+        }).join('')}
+      </div>
+
+      <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2px;">
+        <button id="btn-trivia-hint" style="background:transparent; border:none; color:var(--text-secondary); font-size:0.7rem; font-weight:700; cursor:pointer; text-transform:uppercase; outline:none; display:flex; align-items:center; gap:0.3rem;">
+          <i class="far fa-lightbulb" style="color:var(--england-red);"></i> Show Hint
+        </button>
+        <button id="btn-trivia-next" style="display: none; background: var(--england-blue); border: 1px solid var(--england-blue); border-radius: var(--radius-sm); color: var(--text-white); padding: 0.35rem 1rem; font-size: 0.72rem; font-weight: 700; cursor: pointer; font-family: inherit;">
+          Next <i class="fas fa-chevron-right" style="font-size:0.6rem;"></i>
+        </button>
+      </div>
+      
+      <div id="trivia-hint-box" style="display: none; background: rgba(239,10,48,0.08); border: 1px solid rgba(239,10,48,0.15); border-radius: var(--radius-sm); padding: 0.6rem; font-size: 0.72rem; color: var(--text-secondary); line-height: 1.45;">
+        <strong>Hint:</strong> ${q.hint}
+      </div>
+    </div>
+  `;
+
+  // Option actions
+  const optBtns = quizBox.querySelectorAll(".trivia-opt-btn");
+  optBtns.forEach(btn => {
+    btn.addEventListener("click", () => {
+      if (answeredTrivia) return;
+      answeredTrivia = true;
+
+      const selIdx = Number(btn.getAttribute("data-index"));
+      const circle = btn.querySelector("span");
+
+      if (selIdx === q.answer) {
+        triviaScore++;
+        btn.style.background = "rgba(16, 185, 129, 0.12)";
+        btn.style.borderColor = "#10B981";
+        btn.style.color = "#10B981";
+        if (circle) circle.style.background = "#10B981";
+      } else {
+        btn.style.background = "rgba(239, 68, 68, 0.12)";
+        btn.style.borderColor = "#EF4444";
+        btn.style.color = "#EF4444";
+        if (circle) circle.style.background = "#EF4444";
+
+        // Highlight correct one
+        optBtns.forEach(b => {
+          const bIdx = Number(b.getAttribute("data-index"));
+          if (bIdx === q.answer) {
+            b.style.background = "rgba(16, 185, 129, 0.08)";
+            b.style.borderColor = "#10B981";
+            b.style.color = "#10B981";
+          }
+        });
+      }
+
+      optBtns.forEach(b => b.style.cursor = "default");
+      document.getElementById("btn-trivia-next").style.display = "inline-block";
+    });
+  });
+
+  // Hint action
+  const hintBtn = document.getElementById("btn-trivia-hint");
+  const hintBox = document.getElementById("trivia-hint-box");
+  if (hintBtn && hintBox) {
+    hintBtn.addEventListener("click", () => {
+      hintBox.style.display = hintBox.style.display === "none" ? "block" : "none";
+    });
+  }
+
+  // Next action
+  const nextBtn = document.getElementById("btn-trivia-next");
+  if (nextBtn) {
+    nextBtn.addEventListener("click", () => {
+      currentTriviaIndex++;
+      renderTrivia();
+    });
+  }
+}
+
+// Full Canvas Confetti particle logic
+function triggerConfetti() {
+  const canvas = document.createElement("canvas");
+  canvas.style.position = "fixed";
+  canvas.style.top = "0";
+  canvas.style.left = "0";
+  canvas.style.width = "100vw";
+  canvas.style.height = "100vh";
+  canvas.style.pointerEvents = "none";
+  canvas.style.zIndex = "99999";
+  document.body.appendChild(canvas);
+  
+  const ctx = canvas.getContext("2d");
+  let width = canvas.width = window.innerWidth;
+  let height = canvas.height = window.innerHeight;
+  
+  const colors = ["#0A1F3C", "#BF0A30", "#FF3366", "#00F5D4", "#FFFFFF"];
+  const particles = [];
+  
+  for (let i = 0; i < 120; i++) {
+    particles.push({
+      x: Math.random() * width,
+      y: Math.random() * height - height,
+      r: Math.random() * 5 + 3,
+      d: Math.random() * width,
+      color: colors[Math.floor(Math.random() * colors.length)],
+      tilt: Math.random() * 10 - 5,
+      tiltAngleIncremental: Math.random() * 0.05 + 0.02,
+      tiltAngle: 0
+    });
+  }
+  
+  function draw() {
+    ctx.clearRect(0, 0, width, height);
+    let active = false;
+    particles.forEach(p => {
+      p.tiltAngle += p.tiltAngleIncremental;
+      p.y += (Math.cos(p.d) + 3 + p.r / 2) / 2.5;
+      p.x += Math.sin(p.tiltAngle);
+      p.tilt = Math.sin(p.tiltAngle - p.r/2) * 4;
+      
+      if (p.y < height) active = true;
+      
+      ctx.beginPath();
+      ctx.lineWidth = p.r;
+      ctx.strokeStyle = p.color;
+      ctx.moveTo(p.x + p.tilt + p.r/2, p.y);
+      ctx.lineTo(p.x + p.tilt, p.y + p.tilt + p.r/2);
+      ctx.stroke();
+    });
+    
+    if (active) {
+      requestAnimationFrame(draw);
+    } else {
+      canvas.remove();
+    }
+  }
+  
+  draw();
+}
+
+function renderPredictor() {
+  const box = document.getElementById("predictor-widget-container");
+  if (!box) return;
+
+  const matches = [
+    { id: "match_croatia", name: "vs. Croatia 🇭🇷 (WC Opener)", savedKey: "pred_croatia_eng", swePct: 54, drwPct: 28, oppPct: 18 },
+    { id: "match_ghana", name: "vs. Ghana 🇬🇭 (WC Match 2)", savedKey: "pred_ghana_eng", swePct: 78, drwPct: 14, oppPct: 8 },
+    { id: "match_panama", name: "vs. Panama 🇵🇦 (WC Match 3)", savedKey: "pred_panama_eng", swePct: 84, drwPct: 11, oppPct: 5 }
+  ];
+
+  const m = matches.find(item => item.id === selectedPredictorMatch);
+  
+  // Retrieve saved prediction
+  const saved = localStorage.getItem(m.savedKey);
+  const parsed = saved ? JSON.parse(saved) : { swe: 0, opp: 0, locked: false };
+
+  box.innerHTML = `
+    <div class="animated fade-in" style="display: flex; flex-direction: column; gap: 0.8rem;">
+      <div style="display: flex; flex-direction: column; gap: 0.3rem;">
+        <label for="predictor-match-selector" style="font-size: 0.7rem; font-weight: 700; color: var(--text-secondary); text-transform: uppercase;">Select Opponent:</label>
+        <select class="sim-select" id="predictor-match-selector" style="width: 100%; background: var(--bg-light-700); border-color: var(--bg-light-600); padding: 0.3rem 0.6rem; border-radius: var(--radius-sm); color: var(--text-dark); font-family: inherit; font-size: 0.78rem; font-weight: 600; outline: none; cursor: pointer;">
+          ${matches.map(item => `<option value="${item.id}" ${item.id === selectedPredictorMatch ? 'selected' : ''}>${item.name}</option>`).join('')}
+        </select>
+      </div>
+
+      <div style="background: rgba(255,255,255,0.01); border: 1px solid rgba(255,255,255,0.03); border-radius: var(--radius-sm); padding: 0.8rem; text-align: center; margin: 0.2rem 0;">
+        <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; display: block; margin-bottom: 0.5rem; letter-spacing: 0.05em;">Your Score Guess</span>
+        
+        <div style="display: inline-flex; align-items: center; gap: 1rem;">
+          <div style="display: flex; align-items: center; gap: 0.4rem;">
+            <span style="font-size: 1.1rem;">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span>
+            <button class="pred-inc-btn" id="pred-dec-swe" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); background: transparent; color: var(--text-dark); cursor: pointer; font-size: 0.78rem;">-</button>
+            <strong style="font-size: 1.5rem; font-family: monospace; min-width: 25px;" id="pred-val-swe">${parsed.swe}</strong>
+            <button class="pred-inc-btn" id="pred-inc-swe" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); background: transparent; color: var(--text-dark); cursor: pointer; font-size: 0.78rem;">+</button>
+          </div>
+          <span style="color: var(--text-secondary); font-weight: 800; font-size: 1.2rem;">:</span>
+          <div style="display: flex; align-items: center; gap: 0.4rem;">
+            <button class="pred-inc-btn" id="pred-dec-opp" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); background: transparent; color: var(--text-dark); cursor: pointer; font-size: 0.78rem;">-</button>
+            <strong style="font-size: 1.5rem; font-family: monospace; min-width: 25px;" id="pred-val-opp">${parsed.opp}</strong>
+            <button class="pred-inc-btn" id="pred-inc-opp" ${parsed.locked ? 'disabled' : ''} style="width: 22px; height: 22px; border-radius: 50%; border: 1px solid rgba(0,0,0,0.1); background: transparent; color: var(--text-dark); cursor: pointer; font-size: 0.78rem;">+</button>
+            <span style="font-size: 1.1rem;" id="pred-flag-opp">${m.id === "match_croatia" ? '🇭🇷' : m.id === "match_ghana" ? '🇬🇭' : '🇵🇦'}</span>
+          </div>
+        </div>
+
+        <button class="ratings-toggle-btn" id="btn-pred-lock" ${parsed.locked ? 'disabled' : ''} style="width: auto; margin: 0.8rem auto 0 auto; display: block; font-size: 0.75rem; padding: 0.4rem 1.5rem; color: var(--text-white);">
+          ${parsed.locked ? '<i class="fas fa-lock" style="color:var(--england-red);"></i> Guess Locked' : '<i class="fas fa-check"></i> Lock in Prediction'}
+        </button>
+      </div>
+
+      <div style="display: flex; flex-direction: column; gap: 0.4rem;">
+        <span style="font-size: 0.65rem; color: var(--text-secondary); text-transform: uppercase; font-weight: 700; letter-spacing: 0.05em;">Community Predictions</span>
+        
+        <!-- Pct Bars -->
+        <div style="display: flex; flex-direction: column; gap: 3px;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-secondary);">
+            <span>England Win</span>
+            <strong style="color: var(--text-dark);" id="comm-pct-swe">${parsed.locked ? Math.round(m.swePct + 3) + '%' : m.swePct + '%'}</strong>
+          </div>
+          <div style="height: 4px; background: rgba(0,0,0,0.05); border-radius: 2px; overflow: hidden;">
+            <div style="width: ${parsed.locked ? (m.swePct + 3) + '%' : m.swePct + '%'}; height: 100%; background: var(--england-blue);"></div>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 3px;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-secondary);">
+            <span>Draw</span>
+            <strong style="color: var(--text-dark);" id="comm-pct-drw">${parsed.locked ? Math.round(m.drwPct - 1) + '%' : m.drwPct + '%'}</strong>
+          </div>
+          <div style="height: 4px; background: rgba(0,0,0,0.05); border-radius: 2px; overflow: hidden;">
+            <div style="width: ${parsed.locked ? (m.drwPct - 1) + '%' : m.drwPct + '%'}; height: 100%; background: var(--text-secondary);"></div>
+          </div>
+        </div>
+
+        <div style="display: flex; flex-direction: column; gap: 3px;">
+          <div style="display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-secondary);">
+            <span>Opponent Win</span>
+            <strong style="color: var(--text-dark);" id="comm-pct-opp">${parsed.locked ? Math.round(m.oppPct - 2) + '%' : m.oppPct + '%'}</strong>
+          </div>
+          <div style="height: 4px; background: rgba(0,0,0,0.05); border-radius: 2px; overflow: hidden;">
+            <div style="width: ${parsed.locked ? (m.oppPct - 2) + '%' : m.oppPct + '%'}; height: 100%; background: var(--england-red);"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  `;
+
+  // Select match handler
+  const select = document.getElementById("predictor-match-selector");
+  if (select) {
+    select.addEventListener("change", (e) => {
+      selectedPredictorMatch = e.target.value;
+      renderPredictor();
+    });
+  }
+
+  if (!parsed.locked) {
+    let sweVal = parsed.swe;
+    let oppVal = parsed.opp;
+
+    const btnDecSwe = document.getElementById("pred-dec-swe");
+    const btnIncSwe = document.getElementById("pred-inc-swe");
+    const btnDecOpp = document.getElementById("pred-dec-opp");
+    const btnIncOpp = document.getElementById("pred-inc-opp");
+    const lockBtn = document.getElementById("btn-pred-lock");
+
+    btnDecSwe.addEventListener("click", () => {
+      if (sweVal > 0) {
+        sweVal--;
+        document.getElementById("pred-val-swe").textContent = sweVal;
+      }
+    });
+    btnIncSwe.addEventListener("click", () => {
+      if (sweVal < 9) {
+        sweVal++;
+        document.getElementById("pred-val-swe").textContent = sweVal;
+      }
+    });
+
+    btnDecOpp.addEventListener("click", () => {
+      if (oppVal > 0) {
+        oppVal--;
+        document.getElementById("pred-val-opp").textContent = oppVal;
+      }
+    });
+    btnIncOpp.addEventListener("click", () => {
+      if (oppVal < 9) {
+        oppVal++;
+        document.getElementById("pred-val-opp").textContent = oppVal;
+      }
+    });
+
+    lockBtn.addEventListener("click", () => {
+      parsed.swe = sweVal;
+      parsed.opp = oppVal;
+      parsed.locked = true;
+      localStorage.setItem(m.savedKey, JSON.stringify(parsed));
+      renderPredictor();
+    });
+  }
+}
+
