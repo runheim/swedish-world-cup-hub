@@ -413,13 +413,13 @@ const TIMELINE_DATABASE = {
           id: "art_21_2_1",
           category: "sweden",
           type: "News",
-          title: "Sweden FA confirms ticketing details and safety plan for Norway warmup in Oslo",
+          title: "Svensk Fotboll confirms training facilities and logistics for Bosön pre-camp",
           bullets: [
-            "Ticketing portal opens for the highly anticipated friendly at Ullevaal Stadion.",
-            "Over 6,000 traveling Swedish fans expected to pack Oslo's away blocks.",
-            "Svenska FA releases detailed pre-match logistics for traveling fans."
+            "State-of-the-art training complex at Bosön secured for the full camp period.",
+            "Svensk Fotboll finalizes travel logistics for all 26 players arriving from European clubs.",
+            "Support staff confirms all recovery, nutrition, and medical facilities are ready."
           ],
-          summary: "The Swedish FA released ticketing and security protocols for the upcoming international friendly against Norway on June 1 at Ullevaal Stadion. Norwegian authorities anticipate a completely packed venue. Swedish fans have already snapped up their designated away allocation, promising an electric Scandinavian atmosphere for Potter's first match of the final phase.",
+          summary: "Svensk Fotboll released full logistics details for the Bosön pre-camp gathering. The federation has secured elite training facilities with full recovery suites, tactical analysis rooms, and sports science infrastructure. All 26 players will arrive by May 27 for the intensive preparation phase before the World Cup opener against Tunisia.",
           author: "Svensk Fotboll Press",
           readTime: "2 min",
           tag: "Ticket Intel",
@@ -531,7 +531,7 @@ const TIMELINE_DATABASE = {
             "Focuses heavily on ball possession drills and system familiarity.",
             "Praises Sweden FA's logistics division for organizing a seamless flight plan."
           ],
-          summary: "During an online media briefing today, förbundskapten Graham Potter spoke on the goals of Sweden's local Stockholm pre-camp. 'The first three days at Bosön are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before flying to Norway,' Potter explained.",
+          summary: "During an online media briefing today, förbundskapten Graham Potter spoke on the goals of Sweden's local Stockholm pre-camp. 'The first three days at Bosön are designed to get everyone on the same physical page. Some players have had a week off, while others played club games last Sunday. We will balance player workloads and implement our core patterns before departing for our tournament base in Dallas,' Potter explained.",
           author: "Therese Strömberg (Expressen)",
           readTime: "3 min",
           tag: "Manager Focus",
@@ -653,13 +653,13 @@ const TIMELINE_DATABASE = {
           id: "art_23_2_1",
           category: "sweden",
           type: "News",
-          title: "Potter's finalized pre-tournament agenda: Stockholm to Dallas timeline published",
+          title: "Potter's finalized pre-tournament agenda: Stockholm to Dallas schedule published",
           bullets: [
             "Svenska FA publishes the detailed chronological itinerary for the final phase.",
             "Squad reports to Stockholm on May 27, trains at Bosön and Strawberry Arena.",
-            "Flights to Oslo on May 31, Norway match June 1, departs for Dallas base on June 2."
+            "Departs for Dallas tournament base on June 2 for final World Cup preparations."
           ],
-          summary: "Svensk Fotboll today published the official team calendar. The 26-man roster will gather in Stockholm next Wednesday, training locally for four days. On May 31, they travel to Oslo for their first friendly against Norway on June 1, and immediately board a charter flight to their primary base camp in Dallas, Texas on June 2 to begin their final tournament preparations.",
+          summary: "Svensk Fotboll today published the official team calendar. The 26-man roster will gather in Stockholm next Wednesday, training locally for six days of intensive tactical and physical preparation. On June 2, they will board a charter flight to their primary base camp in Dallas, Texas to begin their final tournament preparations ahead of the Group F opener against Tunisia.",
           author: "Therese Strömberg (Expressen)",
           readTime: "3 min",
           tag: "Camp Schedule",
@@ -739,16 +739,6 @@ const TIMELINE_DATABASE = {
 // 3. Official 2026 World Cup Group F Match Schedule
 const MATCH_SCHEDULE = [
   {
-    id: "match_norway",
-    type: "warmup",
-    date: "2026-06-01",
-    time: "19:00",
-    opponent: "Norway",
-    opponentFlag: "🇳🇴",
-    venue: "Ullevaal Stadion, Oslo",
-    details: "A classic Scandinavian derby serving as manager Graham Potter's first major tactical test before departing for the USA."
-  },
-  {
     id: "match_tunisia",
     type: "worldcup",
     date: "2026-06-14",
@@ -782,27 +772,6 @@ const MATCH_SCHEDULE = [
 
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
-  "match_norway": {
-    score: "2 - 1",
-    scorers: "🇳🇴 Haaland (12') | 🇸🇪 Gyökeres (54'), Bergvall (82')",
-    report: "Graham Potter's era kicks off with an impressive comeback victory in Oslo! Despite Erling Haaland opening the scoring early with a powerful half-volley, Sweden dominated possession in the second half. Viktor Gyökeres equalized with a towering header before substitute Lucas Bergvall scored a sensational 25-yard winner in the 82nd minute.",
-    ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made two critical saves against Haaland in the first half.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 7.0, comment: "Tough battle against Haaland, recovered well in the second half.", isMotm: false },
-      { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Composed leadership. Kept the defensive line compact.", isMotm: false },
-      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "High work rate, provided defensive coverage and dangerous crosses.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo with disciplined recycling.", isMotm: false },
-      { name: "Yasin Ayari", role: "DM", rating: 7.0, comment: "Energetic pressing, linked defense and attack smoothly.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LWB", rating: 6.5, comment: "Decent runs, but struggled slightly with Norway's wingers.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 8.5, comment: "Subbed on in the 65th minute. Changed the game completely with his creative dribbling and a spectacular long-range winning goal.", isMotm: true },
-      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Highly threatful between the lines. Assisted Bergvall's goal.", isMotm: false },
-      { name: "Viktor Gyökeres", role: "ST", rating: 8.0, comment: "A physical powerhouse upfront. Scored a magnificent equalizing header.", isMotm: false }
-    ],
-    preview: {
-      tactical: "Manager Graham Potter's debut match! The focus will be on transitioning to the new 3-4-2-1 formation and testing defensive responses to Erling Haaland's lethal central runs.",
-      keyStat: "Last meeting ended in a 3-2 victory for Norway in 2022. Time for Sweden's revenge!"
-    }
-  },
   "match_tunisia": {
     score: "2 - 0",
     scorers: "🇸🇪 Isak (23'), Gyökeres (68')",
@@ -903,17 +872,6 @@ const SQUAD_ATTRIBUTES = {
 
 // 3.7 Simulated Match Events Chronology Database (Matches actual database results)
 const SIMULATION_EVENTS = {
-  "match_norway": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Oslo! A roaring Scandinavian atmosphere at Ullevaal Stadion. Graham Potter makes his tactical debut with a 3-4-2-1 formation." },
-    { minute: 12, type: "goal_opp", text: "GOAL for Norway! Erling Haaland capitalizes on a quick turn, escaping central coverage to blast a powerful half-volley into the top corner. 1-0 Norway." },
-    { minute: 28, type: "foul", text: "Isak Hien picks up a yellow card for a robust challenge on Haaland in midfield." },
-    { minute: 45, type: "halftime", text: "Half Time in Oslo: Norway leads 1-0. Sweden has dominated possession (58%) but Haaland's early strike is the difference." },
-    { minute: 54, type: "goal_swe", text: "GOAL for Sweden! Emil Holm swings in a dangerous cross. Viktor Gyökeres rises above the defenders to plant a towering header past the keeper! 1-1!" },
-    { minute: 65, type: "sub", text: "Potter introduces Lucas Bergvall off the bench, looking to unlock the Norwegian defensive lines." },
-    { minute: 73, type: "save", text: "Heroic save! Viktor Johansson makes a fingertip save to deny Haaland's low drive. Incredible reflexes!" },
-    { minute: 82, type: "goal_swe", text: "GOAL for Sweden! Unbelievable! Lucas Bergvall picks up the ball in midfield, beats two players, and fires a sensational 25-yard dipping strike into the top corner! 2-1 Sweden!" },
-    { minute: 90, type: "fulltime", text: "Full Time! Graham Potter starts his Swedish national team era with a dramatic 2-1 comeback victory in Oslo! Bergvall's heroics seal it." }
-  ],
   "match_tunisia": [
     { minute: 1, type: "kickoff", text: "Kick-off in Monterrey! The sun sets in Mexico as Sweden begins their World Cup Group F campaign in front of a packed stadium." },
     { minute: 10, type: "save", text: "Isak Hien makes a massive sliding block in the penalty box to deny Tunisia's counter-attack. Composed defending." },
