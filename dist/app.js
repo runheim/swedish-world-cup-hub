@@ -353,7 +353,7 @@ const PLAYERS = [
     name: "Alexander Isak",
     number: 17,
     position: "Forward",
-    club: "Liverpool",
+    club: "Newcastle United",
     age: 26,
     caps: 52,
     goals: 18,
@@ -765,7 +765,7 @@ const MATCH_SCHEDULE = [
     time: "20:00 (Monterrey Time)", // 10:00 p.m. ET is 8:00 p.m. local Monterrey time (CST)
     opponent: "Tunisia",
     opponentFlag: "🇹🇳",
-    venue: "Estadio Monterrey, Mexico",
+    venue: "Estadio BBVA, Monterrey",
     details: "World Cup Group F Opener! Sweden is expected to face an extremely disciplined, defensive Tunisia in Monterrey."
   },
   {
@@ -775,7 +775,7 @@ const MATCH_SCHEDULE = [
     time: "12:00 (Houston Time)", // 1:00 p.m. ET is 12:00 p.m. local Houston time (CST)
     opponent: "Netherlands",
     opponentFlag: "🇳🇱",
-    venue: "Houston Stadium, Texas",
+    venue: "NRG Stadium, Houston",
     details: "A massive heavyweight clash in Houston that could decide the top spot of the group."
   },
   {
@@ -785,7 +785,7 @@ const MATCH_SCHEDULE = [
     time: "18:00 (Dallas Time)", // 7:00 p.m. ET is 6:00 p.m. local Dallas time (CST)
     opponent: "Japan",
     opponentFlag: "🇯🇵",
-    venue: "Dallas Stadium, Texas",
+    venue: "AT&T Stadium, Dallas",
     details: "Third group stage match. An intense battle against a highly tactical, high-stamina, and fast Japan side under Hajime Moriyasu."
   }
 ];
@@ -879,7 +879,7 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_japan": {
-    score: "1 - 2",
+    score: "2 - 1",
     scorers: "🇯🇵 Kubo (49') | 🇸🇪 Elanga (62'), Isak (79')",
     report: "Sweden wins Group F! An intense, high-tempo battle in Dallas ends with Sweden securing top spot. After Takefusa Kubo scored early in the second half, Graham Potter introduced Anthony Elanga, who immediately equalized with a blistering run. Alexander Isak then scored the winning goal in the 79th minute, clinical finishing after a beautiful passing sequence.",
     ratings: [
