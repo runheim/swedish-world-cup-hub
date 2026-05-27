@@ -411,16 +411,16 @@ const TIMELINE_DATABASE = {
           id: "art_21_2_1",
           category: "england",
           type: "News",
-          title: "Ticketing allocation for Wembley warm-up against New Zealand sells out",
+          title: "FA confirms St George's Park schedule and full camp logistics",
           bullets: [
-            "English FA reports all 90,000 Wembley seats sold out within hours.",
-            "Traveling New Zealand block completely filled, promising electric local atmosphere.",
-            "Metropolitan Police and Wembley operations finalize comprehensive transit plans."
+            "FA logistics team finalizes travel plans for all 26 players arriving from European clubs.",
+            "Full camp schedule published with daily training blocks and recovery windows.",
+            "Metropolitan Police coordinate security for squad arrivals and camp perimeter."
           ],
-          summary: "Ticketing departments confirmed that England's home friendly warm-up clash against New Zealand on June 6 at Wembley is officially sold out. Over 90,000 fans will pack the iconic stadium to witness the first send-off fixture. New Zealand authorities have taken up their full allocations.",
+          summary: "The FA confirmed the full logistics schedule for the St George's Park camp. All 26 players will arrive by May 27 for the intensive preparation phase ahead of the World Cup campaign. The coaching staff has designed a structured block-training program with tactical, physical, and recovery sessions distributed across the camp period.",
           author: "James Pearce (The Athletic)",
           readTime: "2 min",
-          tag: "Ticket Intel",
+          tag: "Camp Logistics",
           relatedPlayers: []
         }
       ]
@@ -651,13 +651,13 @@ const TIMELINE_DATABASE = {
           id: "art_23_2_1",
           category: "england",
           type: "News",
-          title: "FA publishes finalized pre-tournament agenda: London to Atlanta",
+          title: "FA publishes finalized pre-tournament agenda: Burton to USA base camp",
           bullets: [
-            "Squad reports to Burton on May 27, training at St George's Park for 4 days.",
-            "Transit to London on June 5, New Zealand friendly at Wembley on June 6.",
-            "Costa Rica warm-up on June 10, then charter flights to USA main camp scheduled."
+            "Squad reports to Burton on May 27, training at St George's Park for intensive sessions.",
+            "Full tactical and physical preparation program over 8 days at SGP.",
+            "Charter flights to USA main camp scheduled for early June."
           ],
-          summary: "The FA today published the official team calendar. The 26-man roster will gather at St George's Park in Burton, training locally before traveling to London. On June 6, they host New Zealand in their first warm-up friendly at Wembley, followed by Costa Rica on June 10. They then board a charter flight to their primary base camp in the United States to begin their final tournament preparations.",
+          summary: "The FA today published the official team calendar. The 26-man roster will gather at St George's Park in Burton for an extended preparation camp. The coaching staff have designed intensive tactical and physical sessions to build team cohesion before the squad boards a charter flight to their primary base camp in the United States to begin their final tournament preparations ahead of the Group L opener against Croatia.",
           author: "Kaveh Solhekol (Sky Sports)",
           readTime: "3 min",
           tag: "Camp Schedule",
@@ -737,26 +737,6 @@ const TIMELINE_DATABASE = {
 // 3. Official 2026 World Cup Group L Match Schedule
 const MATCH_SCHEDULE = [
   {
-    id: "match_nz",
-    type: "warmup",
-    date: "2026-06-06",
-    time: "16:00",
-    opponent: "New Zealand",
-    opponentFlag: "🇳🇿",
-    venue: "Wembley Stadium, London",
-    details: "International Warm-up Friendly. England hosts New Zealand at Wembley in their first major send-off fixture."
-  },
-  {
-    id: "match_cr",
-    type: "warmup",
-    date: "2026-06-10",
-    time: "16:00",
-    opponent: "Costa Rica",
-    opponentFlag: "🇨🇷",
-    venue: "Wembley Stadium, London",
-    details: "Second Warm-up Friendly. The final home match at Wembley before the squad departs for their World Cup base in the United States."
-  },
-  {
     id: "match_croatia",
     type: "worldcup",
     date: "2026-06-17",
@@ -790,48 +770,6 @@ const MATCH_SCHEDULE = [
 
 // 3.5 Match Reports & Player Ratings Database (England Adaptation)
 const MATCH_REPORTS_DATABASE = {
-  "match_nz": {
-    score: "2 - 0",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (24'), Palmer (78')",
-    report: "A solid opening warm-up victory for England at a sunny Wembley! Testing out the fluid 4-2-3-1 system, the Three Lions dominated possession. Harry Kane opened the scoring, finishing a low cross from Phil Foden. Substitute Cole Palmer secured the 2-0 win with a composed strike in the 78th minute.",
-    ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Had a quiet night, claimed high crosses with absolute security.", isMotm: false },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Stepped forward into midfield spaces beautifully, recycling play cleanly.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.5, comment: "Completely untroubled in 1v1 duels, reading the game flawlessly.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Solid defensive shift, completely shut down wide threats.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 8.0, comment: "Absolute anchor in midfield. Broke up every counter transition instantly.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 7.5, comment: "Showcased spectacular close control to slip out of tight areas.", isMotm: false },
-      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "High work rate down the left flank, delivered dangerous overlapping runs.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 7.5, comment: "Aggressive box runs, linked midfield and attack smoothly.", isMotm: false },
-      { name: "Bukayo Saka", role: "RW", rating: 7.5, comment: "Constant threat on the flank, provided great width.", isMotm: false },
-      { name: "Harry Kane", role: "ST", rating: 8.5, comment: "Clinical skipper. Opened the scoring and captained with total authority.", isMotm: true }
-    ],
-    preview: {
-      tactical: "Wembley farewell warm-up! Focus will be on standardizing the fluid 4-2-3-1 shapes and building transitional synergy.",
-      keyStat: "England is unbeaten at Wembley in their last 8 warmup matches."
-    }
-  },
-  "match_cr": {
-    score: "3 - 1",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Saka (14'), Bellingham (42'), Watkins (81') | 🇨🇷 Campbell (58')",
-    report: "England secures their second warm-up win before traveling! Bukayo Saka got the side off to a flyer before Jude Bellingham scored a stunning header. Costa Rica pulled one back in the second half, but Ollie Watkins sealed the win in the 81st minute.",
-    ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Steady performance, made one good diving save in the first half.", isMotm: false },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Excellent distribution, linked deep defense and midfielders cleanly.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Solid positioning, shut down central target runs.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Used pacing speed to close down wide attacks.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 8.0, comment: "Broke up transition drills and won multiple second balls.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 7.5, comment: "Press-resistant display in highly contested midfield spaces.", isMotm: false },
-      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "Disciplined work down the left, linked up with wingers.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 8.5, comment: "Immense physical presence. Scored a towering header in the box.", isMotm: false },
-      { name: "Bukayo Saka", role: "RW", rating: 9.0, comment: "Spectacular winger display. Opened the scoring with a sublime finish.", isMotm: true },
-      { name: "Harry Kane", role: "ST", rating: 7.5, comment: "Superb hold up play, created excellent spaces for midfielders.", isMotm: false }
-    ],
-    preview: {
-      tactical: "The final home match at Wembley! Expectations are high to finalize the starting XI and test team chemistry.",
-      keyStat: "England has won all historical matches against Costa Rica."
-    }
-  },
   "match_croatia": {
     score: "1 - 1",
     scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (68' pen) | 🇭🇷 Kramarić (34')",
@@ -929,23 +867,6 @@ const SQUAD_ATTRIBUTES = {
 
 // 3.7 Simulated Match Events Chronology Database (England Hub)
 const SIMULATION_EVENTS = {
-  "match_nz": [
-    { minute: 1, type: "kickoff", text: "Kick-off at Wembley! An electric home atmosphere as England begins their warm-up campaign." },
-    { minute: 24, type: "goal_eng", text: "GOAL for England! Phil Foden crosses inside, and skipper Harry Kane strikes it cleanly home! 1-0 England." },
-    { minute: 45, type: "halftime", text: "Half Time: England leads 1-0. Dominating possession, dictating play with high efficiency." },
-    { minute: 65, type: "sub", text: "Cole Palmer is introduced off the bench, looking to unlock the defense." },
-    { minute: 78, type: "goal_eng", text: "GOAL for England! Cole Palmer receives a pass from Declan Rice, takes a touch, and slides a clinical low finish past the keeper! 2-0!" },
-    { minute: 90, type: "fulltime", text: "Full Time! England cruises to a comfortable 2-0 warm-up victory at Wembley Stadium." }
-  ],
-  "match_cr": [
-    { minute: 1, type: "kickoff", text: "Kick-off at Wembley! The final home warm-up match before the squad departs for their World Cup base in the United States." },
-    { minute: 14, type: "goal_eng", text: "GOAL for England! Bukayo Saka cuts inside from the right and curls a spectacular dipping shot into the far corner! 1-0!" },
-    { minute: 42, type: "goal_eng", text: "GOAL for England! Jude Bellingham rises above the defense to plant a towering header home! 2-0 England." },
-    { minute: 45, type: "halftime", text: "Half Time: England leads 2-0. Complete dominance in midfield." },
-    { minute: 58, type: "goal_opp", text: "GOAL for Costa Rica! Joel Campbell gets on the end of a cross and slides it home. 2-1." },
-    { minute: 81, type: "goal_eng", text: "GOAL for England! Ollie Watkins seals it off the bench with a powerful low strike! 3-1 England!" },
-    { minute: 90, type: "fulltime", text: "Full Time! England secures a beautiful 3-1 farewell victory at Wembley Stadium." }
-  ],
   "match_croatia": [
     { minute: 1, type: "kickoff", text: "Kick-off in East Rutherford! The Group L opener is underway under intense atmosphere!" },
     { minute: 34, type: "goal_opp", text: "GOAL for Croatia! Kramarić fires a quick half-volley past Pickford from the edge of the box. 1-0 Croatia." },
