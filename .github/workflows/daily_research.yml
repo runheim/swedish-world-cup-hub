@@ -47,7 +47,7 @@ jobs:
           echo "Changes detected in data.js. Staging, committing, and pushing..."
           git add data.js
           git commit -m "data: automatic 5x daily camp news research update [skip ci]"
-          git push origin swedenwc
+          git push origin englandwc
         else
           echo "No news changes detected. Skipping commit."
         fi

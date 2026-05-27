@@ -4,7 +4,7 @@ import re
 import json
 import urllib.request
 import urllib.parse
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 # Constants
 TARGET_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data.js")
@@ -41,7 +41,9 @@ if os.path.exists(TARGET_FILE):
         print(f"Error reading existing data.js: {e}. Starting fresh.")
 
 # 2. DETERMINE CURRENT TIME AND CORRESPONDING TIMELINE SLOT
-now = datetime.now()
+# England uses Central European Summer Time (CEST = UTC+2) during the World Cup (late March to late October).
+sweden_tz = timezone(timedelta(hours=2))
+now = datetime.now(sweden_tz)
 today_str = now.strftime("%Y-%m-%d")
 current_hour = now.hour
 current_minute = now.minute
@@ -360,7 +362,7 @@ if ticker_headlines:
     existing_data["ticker"] = ticker_headlines
     print("Updated dynamic breaking news ticker headlines.")
 
-existing_data["lastUpdated"] = datetime.now().strftime("%Y-%m-%d @ %H:%M:%S local time")
+existing_data["lastUpdated"] = now.strftime("%Y-%m-%d @ %H:%M:%S local time")
 print(f"Set lastUpdated timestamp to {existing_data['lastUpdated']}")
 
 # 8. WRITE BACK TO data.js
