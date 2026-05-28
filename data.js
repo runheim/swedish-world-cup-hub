@@ -3,8 +3,10 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
-    "⚽ South Korea World Cup 2026 team guide"
+    "⚽ Brazil's Neymar (calf) may miss World Cup opener",
+    "⚽ Canada World Cup 2026 team guide",
+    "⚽ Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks",
+    "⚽ Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini"
   ],
   "timeline": {
     "2026-05-26": {
@@ -264,8 +266,80 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-28": {
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1215_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Brazil's Neymar (calf) may miss World Cup opener",
+            "bullets": [
+              "Neymar could be sidelined for up to three weeks with a muscle strain in his right calf, Brazil natio...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Neymar could be sidelined for up to three weeks with a muscle strain in his right calf, Brazil national team doctor Rodrigo Lasmar said on Thursday.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1215_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Canada World Cup 2026 team guide",
+            "bullets": [
+              "&lt;p&gt;Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern&lt;/p&gt;&lt;p&gt;&lt;em&gt;This article is part of the Guardian’s &lt;a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\"&gt;2026 World Cup Experts’ Network&lt;/a&gt;, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.&lt;/em&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1215_2",
+            "category": "usa",
+            "type": "News",
+            "title": "Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks",
+            "bullets": [
+              "&lt;p&gt;&lt;a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"&gt;&...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;&lt;a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"&gt;&lt;strong&gt;Sign up now! Sign up now! Sign up now? Sign up now!&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;Described as “a feel-good final” at kick-off by commentator Adam Summerton, last night’s Tin Pot decider between Crystal Palace and Rayo Vallecano could scarcely have been more gloopy. It was a match contested by two clubs that serve as the beating hearts of their respective working class suburbs, while acting as symbols of local identity in different capital cities dominated by the Death Star gravity of superpowers such as Real Madrid or Chelsea. Needless to say, the romance ended there, as Crystal Palace’s vastly superior financial heft ensured they &lt;a href=\"https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report\"&gt;made off with their third trophy in 12 months&lt;/a&gt;, further cluttering a silverware cabinet that until last year’s FA Cup final win had consisted solely of a solitary Kent Senior Cup and some thick dust. While both teams were punching above their traditional weight, Palace’s plucky Spanish opponents struggled to lay a glove on the eventual winners and Rayo’s 102-year wait for a trophy goes on. Far from being angry with their team, the tens of thousands of &lt;em&gt;Bukaneros &lt;/em&gt;present took Jean-Philippe Mateta’s knockout blow on the chin with commendable stoicism. “I know no greater victory than to be with you in defeat,” read the banner they unfurled within seconds of the final whistle. It was small wonder so many of their players were blubbing salty tears.&lt;/p&gt;&lt;p&gt;While she’s busy investigating Fifa, NY Attorney General Letitia James should probably take a look at NJ Transit’s $105 train ride to MetLife? After all ‘no one should be manipulated into paying sky-high prices for seats’ - especially when it’s a commuter train (normally $12.90)” – George Smith.&lt;/p&gt;&lt;p&gt;Most hilarious Football Daily ever (yesterday’s edition)! Two good knee-slappers, including ‘sending people emails they are desperate to receive and read’ and Noble Francis’s opinion of his level of pedantry. Keep up the good work. Can we try for three in the next edition?” – Steve Mintz (and, surprisingly, a few others).&lt;/p&gt;&lt;p&gt;In the penultimate game of the club season we were treated to a triple post-hit which gave commentators and pundits alike the opportunity to share their outdated exclamations that the ball has hit the woodwork. It has not. It has maybe hit fibre plastic, probably aluminium, but most definitely &lt;em&gt;NOT&lt;/em&gt; wood! It may be pedantic but it is irritating week after week that we/they get it wrong!” – Jeremy James (and no others).&lt;/p&gt;&lt;p&gt;For those 1,057 of us who are going to take no notice of the coming Trump/Infantino money-making fest and watch the cricket instead, perhaps for the duration you could try to include an alternative non-GWC related item every day. If you could put it first (noted – Football Daily Ed)“ – Bob Cushion.&lt;/p&gt;&lt;p&gt;&lt;em&gt;&lt;strong&gt;This is an extract from our daily football email … Football Daily. To get the full version,&lt;a href=\"https://preview.gutools.co.uk/info/2016/jan/05/the-fiver-email-sign-up\"&gt; &lt;/a&gt;&lt;a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"&gt;just visit this page and follow the instructions&lt;/a&gt;.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/crystal-palace-keep-good-times-rolling-but-must-now-fend-off-more-sharks\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1215_3",
+            "category": "usa",
+            "type": "News",
+            "title": "Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini",
+            "bullets": [
+              "&lt;p&gt;Inter bounced back under Cristian Chivu, Como made a splash, and Scott McTominay kept Napol...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Inter bounced back under Cristian Chivu, Como made a splash, and Scott McTominay kept Napoli ticking&lt;/p&gt;&lt;p&gt;This has not been a happy year for Italian football. The men’s national team failed to qualify for a third consecutive World Cup, while Serie A clubs endured one humiliation after another in Uefa competition.&lt;/p&gt;&lt;p&gt;Inter went from Champions League finalists to elimination in the playoff round by Bodø/Glimt, while Juventus conceded seven goals to Galatasaray. They both did better than last year’s Scudetto winners, Napoli, who failed to even get through the group stage. At least Atalanta rescued Italy from having no representatives in the last 16 for the first time in almost 40 years when they overturned a two-goal deficit against Borussia Dortmund. And then they got walloped 10-2 on aggregate by Bayern Munich.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/serie-a-2025-26-awards-our-goals-team-and-culinary-scandal-of-the-season\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 23:46:33 local time"
+  "lastUpdated": "2026-05-28 @ 12:12:15 local time"
 };
