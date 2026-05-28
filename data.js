@@ -3,6 +3,7 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
+    "⚽ Sources: USMNT coach Poch met Milan over job",
     "⚽ Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp"
   ],
   "timeline": {
@@ -382,5 +383,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 18:43:04 local time"
+  "lastUpdated": "2026-05-28 @ 21:00:10 local time"
 };
