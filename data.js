@@ -391,8 +391,64 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-29": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5334_0",
+            "category": "england",
+            "type": "News",
+            "title": "Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?",
+            "bullets": [
+              "&lt;p&gt;Some Newcastle fans are pleased to cash in, but the winger’s pedigree in the Champions Leag...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Some Newcastle fans are pleased to cash in, but the winger’s pedigree in the Champions League is unquestionable&lt;/p&gt;&lt;p&gt;José Mourinho was a man on a mission. Once the final whistle blew, he made a beeline for Anthony Gordon and not only embraced the England winger, but whispered four words in his ear. “You are too much,” was the message from Benfica’s manager after his side &lt;a href=\"https://www.theguardian.com/football/2025/oct/21/newcastle-benfica-champions-league-match-report\"&gt;lost a Champions League match 3-0 at Newcastle&lt;/a&gt; last October.&lt;/p&gt;&lt;p&gt;Gordon had scored one goal, created another and terrorised Benfica’s defence in the course of the sort of performance that explains why &lt;a href=\"https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle\"&gt;Barcelona are paying £70m&lt;/a&gt; for his turbo-charged talent.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5334_1",
+            "category": "england",
+            "type": "News",
+            "title": "Crystal Palace’s seesaw season ends in triumph … but now a new era begins",
+            "bullets": [
+              "&lt;p&gt;With Oliver Glasner departing and key players coveted by big clubs, Conference League winne...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;With Oliver Glasner departing and key players coveted by big clubs, Conference League winners’ future is unclear&lt;/p&gt;&lt;p&gt;After everything Steve Parish has been through over the past 12 months, he was just about able to compose himself. The man who fell in love with Crystal Palace as an 11-year-old schoolboy when they reached the FA Cup semi-finals for the first time in 1976 from the old Third Division and stepped in to save his club from administration in 2010 reflected with pride on the journey that has taken them to three trophies under the shrewd management of Oliver Glasner.&lt;/p&gt;&lt;p&gt;“It’s incredible,” said Parish after Jean-Philippe Mateta’s goal against Rayo Vallecano in Leipzig &lt;a href=\"https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report\"&gt;sealed their triumph in the Conference League&lt;/a&gt;. “An amazing achievement. All the ups and downs … To get to the Europa League, where we deserve to be. It just shows you: sometimes the good guys win. When I bought the club I wasn’t sure we’d ever play in Europe, let alone win a trophy. It’s a dream come true.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/crystal-palaces-seesaw-season-ends-in-triumph-but-now-a-new-era-begins\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5334_2",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 formation builder: Pick your England team",
+            "bullets": [
+              "Who should start for England at the World Cup? You decide",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should start for England at the World Cup? You decide",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 23:19:05 local time"
+  "lastUpdated": "2026-05-29 @ 00:53:31 local time"
 };
