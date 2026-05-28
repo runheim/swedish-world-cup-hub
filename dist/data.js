@@ -3,8 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
-    "🌍 Japan locks in high-tempo press drills at Dallas preparation site",
+    "⚽ Viktor Gyökeres shares pre-camp excitement: 'Stockholm, I have arrived'",
+    "🌍 Group F Analysis: Global analysts flag Sweden vs Tunisia as the key opener",
     "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
     "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
     "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
@@ -214,5 +214,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 20:14:51 local time"
+  "lastUpdated": "2026-05-27 @ 22:31:09 local time"
 };

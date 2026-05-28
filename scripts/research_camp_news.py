@@ -89,7 +89,10 @@ def search_sports_news():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     feeds = [
         ("Aftonbladet", "https://rss.aftonbladet.se/rss/s/15"), # Sports feed
-        ("Fotbollskanalen", "https://www.fotbollskanalen.se/rss/")
+        ("Fotbollskanalen", "https://www.fotbollskanalen.se/rss/"),
+        ("SVT Sport", "https://www.svt.se/nyheter/rss.xml"),
+        ("The Guardian Football", "https://www.theguardian.com/football/rss"),
+        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news")
     ]
     
     crawled_items = []
@@ -141,7 +144,8 @@ if crawled_news:
         desc_lower = item["desc"].lower()
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
-            "sweden", "potter", "gyökeres", "isak", "kulusevski", "blågult", "sverige", "landslaget"
+            "sweden", "potter", "gyökeres", "isak", "kulusevski", "blågult", "sverige", "landslaget",
+            "vm 2026", "fotboll", "world cup", "group f"
         ])
         
         if is_relevant:
