@@ -90,7 +90,8 @@ def search_sports_news():
     feeds = [
         ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
         ("The Guardian", "https://www.theguardian.com/football/rss"),
-        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news")
+        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
+        ("Sky Sports Football", "https://www.skysports.com/rss/12040")
     ]
     
     crawled_items = []
@@ -140,7 +141,8 @@ if crawled_news:
         desc_lower = item["desc"].lower()
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
-            "england", "bellingham", "kane", "rice", "foden", "saka", "three lions", "palmer", "shaw"
+            "england", "bellingham", "kane", "rice", "foden", "saka", "three lions", "palmer", "shaw",
+            "tuchel", "world cup", "group l", "gareth", "wembley", "st george's park"
         ])
         
         if is_relevant:

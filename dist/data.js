@@ -3,9 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ New York and New Jersey subpoena Fifa over ‘manipulated’ World Cup ticketing",
-    "⚽ FIFA subpoenaed over World Cup ticket practices",
-    "⚽ Sources: Barça make offer for Newcastle's Gordon"
+    "⚽ Barca agree £69m-plus deal with Newcastle for Gordon",
+    "⚽ Anthony Gordon to undergo medical at Barça before £69.3m move from Newcastle"
   ],
   "timeline": {
     "2026-05-26": {
@@ -182,5 +181,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 19:14:52 local time"
+  "lastUpdated": "2026-05-27 @ 21:32:11 local time"
 };
