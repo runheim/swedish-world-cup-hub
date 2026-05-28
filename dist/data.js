@@ -3,11 +3,9 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Viktor Gyökeres shares pre-camp excitement: 'Stockholm, I have arrived'",
-    "🌍 Group F Analysis: Global analysts flag Sweden vs Tunisia as the key opener",
-    "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-    "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-    "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
+    "⚽ Canada World Cup 2026 team guide",
+    "⚽ Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini",
+    "⚽ Brazil's Neymar (calf) may miss World Cup opener"
   ],
   "timeline": {
     "2026-05-26": {
@@ -211,8 +209,106 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-28": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_swe_20260528_5",
+            "category": "sweden",
+            "type": "Blog",
+            "title": "Viktor Gyökeres shares pre-camp excitement: 'Stockholm, I have arrived'",
+            "bullets": [
+              "Arsenal striker checks into team hotel tonight, ready for day one.",
+              "Gyökeres highlights immense motivation to start pitch drills tomorrow.",
+              "Roster reports 100% attendance expected by Wednesday morning."
+            ],
+            "summary": "Arriving in Stockholm late tonight, star striker Viktor Gyökeres expressed his massive excitement for the tournament campaign. All 26 squad players are confirmed to check into Bosön hotel by tomorrow morning.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Player Diary",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260528_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group F Analysis: Global analysts flag Sweden vs Tunisia as the key opener",
+            "bullets": [
+              "Tactical pundits predict Sweden's width will clash with Tunisia's compact block.",
+              "CBS pundits: ' Potters' debut in a World Cup is the ultimate tactical wild card.'",
+              "Winner of the opener is projected to have an 82% chance of reaching the knockouts."
+            ],
+            "summary": "International soccer analysts at CBS Sports Golazo designated Sweden's opener against Tunisia as the absolute deciding fixture of Group F. Pundits highlighted the clash of styles: Potter's fluid, high-pressing 3-4-2-1 versus Jalel Kadri's extremely solid, defensive low block.",
+            "author": "CBS Sports Golazo Editorial",
+            "readTime": "3 min",
+            "tag": "WC Group F Intel",
+            "relatedPlayers": []
+          }
+        ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1202_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Canada World Cup 2026 team guide",
+            "bullets": [
+              "&lt;p&gt;Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Jesse Marsch has developed an in-form team that has lifted the co-hosts’ hopes, though the fitness of Alphonso Davies and Moïse Bombito is a concern&lt;/p&gt;&lt;p&gt;&lt;em&gt;This article is part of the Guardian’s &lt;a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\"&gt;2026 World Cup Experts’ Network&lt;/a&gt;, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.&lt;/em&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/canada-world-cup-2026-team-guide\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1202_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini",
+            "bullets": [
+              "&lt;p&gt;Inter bounced back under Cristian Chivu, Como made a splash, and Scott McTominay kept Napol...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Inter bounced back under Cristian Chivu, Como made a splash, and Scott McTominay kept Napoli ticking&lt;/p&gt;&lt;p&gt;This has not been a happy year for Italian football. The men’s national team failed to qualify for a third consecutive World Cup, while Serie A clubs endured one humiliation after another in Uefa competition.&lt;/p&gt;&lt;p&gt;Inter went from Champions League finalists to elimination in the playoff round by Bodø/Glimt, while Juventus conceded seven goals to Galatasaray. They both did better than last year’s Scudetto winners, Napoli, who failed to even get through the group stage. At least Atalanta rescued Italy from having no representatives in the last 16 for the first time in almost 40 years when they overturned a two-goal deficit against Borussia Dortmund. And then they got walloped 10-2 on aggregate by Bayern Munich.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/serie-a-2025-26-awards-our-goals-team-and-culinary-scandal-of-the-season\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1202_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Brazil's Neymar (calf) may miss World Cup opener",
+            "bullets": [
+              "Neymar could be sidelined for up to three weeks with a muscle strain in his right calf, Brazil natio...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Neymar could be sidelined for up to three weeks with a muscle strain in his right calf, Brazil national team doctor Rodrigo Lasmar said on Thursday.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 22:31:09 local time"
+  "lastUpdated": "2026-05-28 @ 18:12:00 local time"
 };
