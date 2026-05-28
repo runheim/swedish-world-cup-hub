@@ -89,7 +89,8 @@ def search_sports_news():
         ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
         ("The Guardian", "https://www.theguardian.com/football/rss"),
         ("The Athletic Soccer", "https://theathletic.com/rss/"),
-        ("FOX Sports Soccer", "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244fk&size=30&tags=fs/soccer")
+        ("FOX Sports Soccer", "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244fk&size=30&tags=fs/soccer"),
+        ("CBS Sports Soccer", "https://www.cbssports.com/rss/headlines/soccer/")
     ]
     
     crawled_items = []
