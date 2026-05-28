@@ -140,8 +140,18 @@ if crawled_news:
         desc_lower = item["desc"].lower()
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
-            "usa", "usmnt", "pulisic", "mckennie", "balogun", "adams", "pochettino", "soccer",
-            "world cup", "group d", "us soccer", "gio reyna", "weston mckennie"
+            # Team & manager
+            "usmnt", "us men's", "usa soccer", "us soccer", "pochettino", "u.s. soccer",
+            "united states soccer", "united states men",
+            # Squad players (27-man roster surnames)
+            "matt turner", "steffen", "schulte", "scally", "antonee robinson", "carter-vickers",
+            "tim ream", "trusty", "chris richards", "miles robinson", "mckenzie",
+            "kristoffer lund", "tyler adams", "musah", "mckennie", "gio reyna", "reyna",
+            "tillman", "cardoso", "de la torre", "tessmann", "aaronson", "weah",
+            "balogun", "pulisic", "pepi", "haji wright", "sargent",
+            # World Cup group & opponents
+            "world cup usa", "world cup us", "group d", "usa vs", "vs usa",
+            "usmnt vs", "vs usmnt"
         ])
         
         if is_relevant:
