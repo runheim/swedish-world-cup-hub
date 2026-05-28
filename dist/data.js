@@ -3,9 +3,11 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Canada World Cup 2026 team guide",
-    "⚽ Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini",
-    "⚽ Brazil's Neymar (calf) may miss World Cup opener"
+    "⚽ Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
+    "🌍 Japan locks in high-tempo press drills at Dallas preparation site",
+    "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+    "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+    "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
   ],
   "timeline": {
     "2026-05-26": {
@@ -310,5 +312,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 18:12:00 local time"
+  "lastUpdated": "2026-05-28 @ 19:17:55 local time"
 };
