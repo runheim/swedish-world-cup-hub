@@ -3,6 +3,7 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
+    "⚽ Norges sensation ett faktum – klart för historisk VM-semifinal",
     "⚽ ”Nu knyts Sverige ännu närmare Ukrainas försvar”"
   ],
   "timeline": {
@@ -308,5 +309,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 20:43:08 local time"
+  "lastUpdated": "2026-05-28 @ 22:59:23 local time"
 };
