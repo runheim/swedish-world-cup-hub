@@ -3,9 +3,11 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Sources: USMNT coach Poch met Milan over job",
-    "⚽ Poch: 'Special' Pulisic will end goal drought at W...",
-    "⚽ Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp"
+    "⚽ Christian Pulisic shares pre-camp excitement: 'Denver, the vibe is electric'",
+    "🌍 Group D Analysis: Pundits tag USA vs Paraguay as the deciding opener",
+    "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+    "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+    "📈 USA World Cup Group D tickets sell out completely in under 12 minutes."
   ],
   "timeline": {
     "2026-05-26": {
@@ -438,5 +440,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 22:19:52 local time"
+  "lastUpdated": "2026-05-28 @ 23:53:40 local time"
 };
