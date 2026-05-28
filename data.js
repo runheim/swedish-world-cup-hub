@@ -3,8 +3,6 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Sources: Barcelona hopeful of signing Álvarez",
-    "⚽ Gordon arrives in Barcelona to finalize $81M move",
     "⚽ Osaka responds to 'fashion show' jibe with another bold entrance",
     "⚽ Scorecard: England vs India, first T20 international",
     "⚽ World Cup 2026 formation builder: Pick your England team"
@@ -396,5 +394,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 19:43:09 local time"
+  "lastUpdated": "2026-05-28 @ 21:59:59 local time"
 };
