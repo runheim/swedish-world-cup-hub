@@ -143,8 +143,18 @@ if crawled_news:
         desc_lower = item["desc"].lower()
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
-            "england", "bellingham", "kane", "rice", "foden", "saka", "three lions", "palmer", "shaw",
-            "tuchel", "world cup", "group l", "gareth", "wembley", "st george's park"
+            # Team & manager
+            "england", "three lions", "tuchel", "thomas tuchel", "england football",
+            "st george's park", "wembley", "the fa",
+            # Squad players (26-man roster surnames)
+            "pickford", "ramsdale", "henderson", "kyle walker", "gomez", "stones",
+            "guehi", "guéhi", "trippier", "konsa", "dunk", "luke shaw",
+            "declan rice", "alexander-arnold", "bellingham", "gallagher", "eze",
+            "cole palmer", "wharton", "mainoo", "saka", "harry kane", "foden",
+            "toney", "ollie watkins", "anthony gordon", "jarrod bowen",
+            # World Cup group & opponents
+            "world cup england", "group l", "england vs", "vs england",
+            "england world cup"
         ])
         
         if is_relevant:
