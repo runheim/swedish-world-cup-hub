@@ -3,10 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Brazil's Neymar (calf) may miss World Cup opener",
-    "⚽ Canada World Cup 2026 team guide",
-    "⚽ Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks",
-    "⚽ Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini"
+    "⚽ Sources: USMNT coach Poch met Milan over job",
+    "⚽ Mauricio Pochettino in talks with Milan amid broader interest as US open World Cup camp"
   ],
   "timeline": {
     "2026-05-26": {
@@ -341,5 +339,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 12:12:15 local time"
+  "lastUpdated": "2026-05-28 @ 13:18:01 local time"
 };
