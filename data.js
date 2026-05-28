@@ -3,8 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Osaka responds to 'fashion show' jibe with another bold entrance",
-    "⚽ Scorecard: England vs India, first T20 international",
+    "⚽ Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?",
+    "⚽ Crystal Palace’s seesaw season ends in triumph … but now a new era begins",
     "⚽ World Cup 2026 formation builder: Pick your England team"
   ],
   "timeline": {
@@ -394,5 +394,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 21:59:59 local time"
+  "lastUpdated": "2026-05-28 @ 23:19:05 local time"
 };
