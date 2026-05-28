@@ -3,12 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Clarke signs on until 2030 World Cup - a gamble SFA had to take?",
-    "⚽ Canada World Cup 2026 team guide",
-    "⚽ Football Daily | Crystal Palace keep good times rolling but must now fend off more sharks",
-    "⚽ Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?",
-    "⚽ Serie A 2025-26 awards: our goals, team and culinary scandal of the season | Nicky Bandini",
-    "⚽ Brazil's Neymar (calf) may miss World Cup opener"
+    "⚽ Sources: Barcelona hopeful of signing Álvarez",
+    "⚽ Osaka responds to 'fashion show' jibe with another bold entrance"
   ],
   "timeline": {
     "2026-05-26": {
@@ -355,9 +351,47 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1805_0",
+            "category": "england",
+            "type": "News",
+            "title": "Sources: Barcelona hopeful of signing Álvarez",
+            "bullets": [
+              "Barcelona will turn their attention to Atlético Madrid's Julián Álvarez after agreeing a deal to sig...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barcelona will turn their attention to Atlético Madrid's Julián Álvarez after agreeing a deal to sign Anthony Gordon, various sources have told ESPN.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1805_1",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka responds to 'fashion show' jibe with another bold entrance",
+            "bullets": [
+              "Former world No 1 Naomi Osaka &#8204;made another dazzling entry at the French Open on Thursday, but...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former world No 1 Naomi Osaka &#8204;made another dazzling entry at the French Open on Thursday, but she &#8204;was made to work hard to avoid the exit &#8203;door in a 7-6 (7-1) 6-4 victory over Croatian Donna Vekic in the second round.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 17:12:17 local time"
+  "lastUpdated": "2026-05-28 @ 18:18:02 local time"
 };
