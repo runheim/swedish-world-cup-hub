@@ -38,29 +38,8 @@
   --radius-md: 10px;
   --radius-sm: 6px;
 }
-
-{
-  --page-bg: #F4F6F9;
-  --bg-dark-900: #E2E6EC;
-  --bg-dark-800: #FFFFFF;
-  --bg-dark-700: #EDF0F4;
-  --bg-dark-600: #DFE3E8;
-  
-  --text-white: #040912;
-  --text-primary: #1F2937;
-  --text-secondary: #4B5563;
-  
-  --glass-bg: rgba(255, 255, 255, 0.85);
-  --glass-border-blue: rgba(0, 106, 167, 0.18);
-  --shadow-neon-blue: 0 4px 20px rgba(0, 106, 167, 0.08);
-  
-  --card-bg: var(--glass-bg);
-  --card-border: var(--glass-border-blue);
-  --text-color: var(--text-primary);
-  --text-muted: var(--text-secondary);
-  --card-shadow: var(--shadow-neon-blue);
-  --sweden-blue: #004D79;
-}
+/* Note: Previous orphaned selector-less block removed — light theme variables
+   are defined in [data-theme="light"] below. */
 
 /* Base resets & styles */
 * {
