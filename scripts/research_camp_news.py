@@ -91,7 +91,9 @@ def search_sports_news():
         ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
         ("The Guardian", "https://www.theguardian.com/football/rss"),
         ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
-        ("Sky Sports Football", "https://www.skysports.com/rss/12040")
+        ("Sky Sports Football", "https://www.skysports.com/rss/12040"),
+        ("The Athletic", "https://theathletic.com/rss/"),
+        ("The Telegraph Football", "https://www.telegraph.co.uk/football/rss.xml")
     ]
     
     crawled_items = []
