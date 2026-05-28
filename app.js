@@ -1313,24 +1313,16 @@ function getActiveUpdatesForDate(dateStr) {
     return []; // Future date
   }
 
-  const currentMinutes = getCurrentTimeMinutes();
-  const activeIds = [];
-
-  const updateTimes = {
-    1: timeToMinutes("07:00"),
-    2: timeToMinutes("11:00"),
-    3: timeToMinutes("14:30"),
-    4: timeToMinutes("18:00"),
-    5: timeToMinutes("21:30")
-  };
-
-  for (const id in updateTimes) {
-    if (currentMinutes >= updateTimes[id]) {
-      activeIds.push(Number(id));
-    }
+  // For today: show all slots that actually have data in the timeline.
+  // This avoids timezone mismatches where the crawler (running in the site's
+  // local timezone) generates a slot that wouldn't be visible yet in the
+  // user's local timezone.
+  const todayData = TIMELINE_DATABASE[dateStr];
+  if (todayData) {
+    return Object.keys(todayData).map(Number).sort((a, b) => a - b);
   }
 
-  return activeIds;
+  return [];
 }
 
 function timeToMinutes(timeStr) {
