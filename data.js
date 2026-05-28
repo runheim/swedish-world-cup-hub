@@ -356,9 +356,31 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4304_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp",
+            "bullets": [
+              "&lt;ul&gt;&lt;li&gt;&lt;p&gt;USMNT head coach has drawn broader interest, CEO says&lt;/p&gt;&lt;/li&...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;USMNT head coach has drawn broader interest, CEO says&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;World Cup camp opens after squad reveal on Tuesday&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/football/2026/mar/31/sign-up-for-the-world-behind-the-cup-a-newsletter-about-more-than-soccer\"&gt;&lt;strong&gt;Sign up for the World Behind The Cup newsletter&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;US men’s national team head coach Mauricio Pochettino has had talks with Serie A side Milan about taking over as manager next season, the Guardian can confirm.&lt;/p&gt;&lt;p&gt;Italian journalist Nicolò Schira was first to report news of Pochettino’s talks with Milan.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/mauricio-pochettino-in-talks-with-milan-amid-broader-interest-as-us-opens-world-cup-camp\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 17:49:56 local time"
+  "lastUpdated": "2026-05-28 @ 18:43:04 local time"
 };
