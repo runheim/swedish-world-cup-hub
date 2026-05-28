@@ -144,8 +144,20 @@ if crawled_news:
         desc_lower = item["desc"].lower()
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
-            "sweden", "potter", "gyökeres", "isak", "kulusevski", "blågult", "sverige", "landslaget",
-            "vm 2026", "fotboll", "world cup", "group f"
+            # Team & manager
+            "sweden", "swedish", "sverige", "svenska", "blågult", "landslaget", "graham potter",
+            "potter", "björn hamberg",
+            # Squad players (26-man roster surnames)
+            "johansson", "nordfeldt", "zetterström", "ekdal", "gudmundsson", "hien",
+            "emil holm", "lagerbielke", "lindelöf", "lindelof", "eric smith", "starfelt",
+            "stroud", "svensson", "ayari", "bergvall", "karlström", "nygren", "sema",
+            "svanberg", "zeneli", "taha ali", "bernhardsson", "elanga", "gyökeres",
+            "isak", "gustaf nilsson", "kulusevski",
+            # Swedish football terms
+            "vm 2026", "fotboll", "allsvenskan", "bosön",
+            # World Cup group & opponents
+            "world cup sweden", "group f", "sweden vs", "vs sweden",
+            "tunisia", "netherlands vs sweden", "japan vs sweden"
         ])
         
         if is_relevant:
