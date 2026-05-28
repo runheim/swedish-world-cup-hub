@@ -3,11 +3,7 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
-    "🌍 Japan locks in high-tempo press drills at Dallas preparation site",
-    "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-    "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-    "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
+    "⚽ ”Nu knyts Sverige ännu närmare Ukrainas försvar”"
   ],
   "timeline": {
     "2026-05-26": {
@@ -312,5 +308,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 19:49:22 local time"
+  "lastUpdated": "2026-05-28 @ 20:43:08 local time"
 };
