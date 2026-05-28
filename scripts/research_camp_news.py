@@ -87,7 +87,9 @@ def search_sports_news():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     feeds = [
         ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
-        ("The Guardian", "https://www.theguardian.com/football/rss")
+        ("The Guardian", "https://www.theguardian.com/football/rss"),
+        ("The Athletic Soccer", "https://theathletic.com/rss/"),
+        ("FOX Sports Soccer", "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244fk&size=30&tags=fs/soccer")
     ]
     
     crawled_items = []
@@ -137,7 +139,8 @@ if crawled_news:
         desc_lower = item["desc"].lower()
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
-            "usa", "usmnt", "pulisic", "mckennie", "balogun", "adams", "pochettino", "soccer"
+            "usa", "usmnt", "pulisic", "mckennie", "balogun", "adams", "pochettino", "soccer",
+            "world cup", "group d", "us soccer", "gio reyna", "weston mckennie"
         ])
         
         if is_relevant:

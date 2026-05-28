@@ -3,9 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ USMNT's Richards on bench for Conf. League final",
-    "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption",
-    "⚽ Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well"
+    "⚽ Football Daily | To all USMNT rejects, Mauricio Pochettino hopes this email finds you well",
+    "⚽ Arteta ready to take final step on Arsenal’s 20-year journey to redemption"
   ],
   "timeline": {
     "2026-05-26": {
@@ -246,5 +245,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-27 @ 18:14:46 local time"
+  "lastUpdated": "2026-05-27 @ 20:32:18 local time"
 };
