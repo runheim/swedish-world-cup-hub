@@ -306,8 +306,48 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-29": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1950_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Norges sensation ett faktum – klart för historisk VM-semifinal",
+            "bullets": [
+              "Norsk ishockeyhistoria har skrivits. För första gången är landslaget klart för semifinal i hockey-VM...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norsk ishockeyhistoria har skrivits. För första gången är landslaget klart för semifinal i hockey-VM. Norge slog Lettland med 2–0 i kvartsfinalen. – Jag hade aldrig i min vildaste fantasi kunnat tro det här, säger målvaktshjälten Henrik Haukeland.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1950_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "”Nu knyts Sverige ännu närmare Ukrainas försvar”",
+            "bullets": [
+              "Med Gripen-plan i Ukraina kommer Sverige spela en huvudroll i försvaret mot Ryssland. Det stärker sä...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Med Gripen-plan i Ukraina kommer Sverige spela en huvudroll i försvaret mot Ryssland. Det stärker säkerheten i hela Europa – men det finns också risker.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 22:59:23 local time"
+  "lastUpdated": "2026-05-29 @ 00:19:48 local time"
 };
