@@ -88,12 +88,9 @@ ticker_headlines = []
 def search_sports_news():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     feeds = [
-        ("Aftonbladet", "https://rss.aftonbladet.se/rss/s/15"), # Sports feed
-        ("Fotbollskanalen", "https://www.fotbollskanalen.se/rss/"),
-        ("SVT Sport", "https://www.svt.se/nyheter/rss.xml"),
         ("The Guardian Football", "https://www.theguardian.com/football/rss"),
         ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
-        ("Google News Sweden", "https://news.google.com/rss/search?q=%22Sveriges+herrlandslag%22+OR+%22Swedish+National+Team%22+OR+Bl%C3%A5gult")
+        ("Google News Sweden", "https://news.google.com/rss/search?q=%22Swedish+National+Football+Team%22+OR+%22Sweden+Football%22&hl=en-US&gl=US&ceid=US:en")
     ]
     
     crawled_items = []
@@ -146,7 +143,7 @@ if crawled_news:
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
             # Team & manager
-            "sweden", "swedish", "sverige", "svenska", "blågult", "landslaget", "graham potter",
+            "sweden", "swedish", "graham potter",
             "potter", "björn hamberg",
             # Squad players (26-man roster surnames)
             "johansson", "nordfeldt", "zetterström", "ekdal", "gudmundsson", "hien",
