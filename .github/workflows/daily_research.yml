@@ -32,6 +32,9 @@ jobs:
       with:
         python-version: '3.10'
 
+    - name: Install Dependencies
+      run: pip install deep-translator
+
     - name: Execute News Research Crawler
       run: python scripts/research_camp_news.py
 

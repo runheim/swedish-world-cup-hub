@@ -7,6 +7,7 @@ import urllib.request
 import urllib.parse
 from datetime import datetime
 from zoneinfo import ZoneInfo
+from deep_translator import GoogleTranslator
 
 # Constants
 TARGET_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data.js")
@@ -88,9 +89,12 @@ ticker_headlines = []
 def search_sports_news():
     headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
     feeds = [
+        ("Aftonbladet", "https://rss.aftonbladet.se/rss/s/15"),
+        ("Fotbollskanalen", "https://www.fotbollskanalen.se/rss/"),
+        ("SVT Sport", "https://www.svt.se/nyheter/rss.xml"),
         ("The Guardian Football", "https://www.theguardian.com/football/rss"),
         ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
-        ("Google News Sweden", "https://news.google.com/rss/search?q=%22Swedish+National+Football+Team%22+OR+%22Sweden+Football%22&hl=en-US&gl=US&ceid=US:en")
+        ("Google News Sweden", "https://news.google.com/rss/search?q=%22Sveriges+herrlandslag%22+OR+%22Swedish+National+Team%22+OR+Bl%C3%A5gult")
     ]
     
     crawled_items = []
@@ -143,7 +147,7 @@ if crawled_news:
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
             # Team & manager
-            "sweden", "swedish", "graham potter",
+            "sweden", "swedish", "sverige", "svenska", "blågult", "landslaget", "graham potter",
             "potter", "björn hamberg",
             # Squad players (26-man roster surnames)
             "johansson", "nordfeldt", "zetterström", "ekdal", "gudmundsson", "hien",
@@ -159,25 +163,34 @@ if crawled_news:
         ])
         
         if is_relevant:
+            # Auto-translate relevant items
+            try:
+                translator = GoogleTranslator(source='auto', target='en')
+                trans_title = translator.translate(item["title"]) if item["title"] else ""
+                trans_desc = translator.translate(item["desc"]) if item["desc"] else ""
+            except:
+                trans_title = item["title"]
+                trans_desc = item["desc"]
+                
             # Format as timeline article
             art = {
                 "id": f"crawled_{datetime.now().strftime('%M%S')}_{len(sweden_feed)}",
                 "category": "sweden",
                 "type": "News",
-                "title": item["title"],
+                "title": trans_title,
                 "bullets": [
-                    item["desc"][:100] + "..." if len(item["desc"]) > 100 else item["desc"],
+                    trans_desc[:100] + "..." if len(trans_desc) > 100 else trans_desc,
                     f"Reported live by {item['source']}.",
                     "Technical staff notes player physical and recovery markers look strong."
                 ],
-                "summary": item["desc"] or f"Latest real-time briefing from {item['source']} covering the Swedish national football team. The focus is high intensity, tactical integration under Graham Potter, and final physical checks before matchday.",
+                "summary": trans_desc or f"Latest real-time briefing from {item['source']} covering the Swedish national football team. The focus is high intensity, tactical integration under Graham Potter, and final physical checks before matchday.",
                 "author": f"{item['source']} Editorial Team",
                 "readTime": "3 min",
                 "tag": "Camp Brief",
                 "relatedPlayers": []
             }
             sweden_feed.append(art)
-            ticker_headlines.append(f"⚽ {item['title']}")
+            ticker_headlines.append(f"⚽ {trans_title}")
 
 # 5. GENERATE Genuinely Researched Fallbacks (Strictly No Hallucinations, matching actual May 26 Roster Status)
 # Stockholm/Bosön prep camp starting May 27. Depart for Dallas occurs June 2.
