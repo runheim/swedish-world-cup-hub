@@ -42,8 +42,8 @@ if os.path.exists(TARGET_FILE):
     except Exception as e:
         print(f"Error reading existing data.js: {e}. Starting fresh.")
 
-# 2. DETERMINE CURRENT SWEDEN TIME AND CORRESPONDING TIMELINE SLOT
-now = datetime.now(ZoneInfo("Europe/Stockholm"))
+# 2. DETERMINE CURRENT TIME AND CORRESPONDING TIMELINE SLOT
+now = datetime.now(ZoneInfo("America/New_York"))
 today_str = now.strftime("%Y-%m-%d")
 current_hour = now.hour
 current_minute = now.minute
@@ -386,7 +386,7 @@ if ticker_headlines:
     print("Updated dynamic breaking news ticker headlines.")
 
 # Update last updated timestamp
-existing_data["lastUpdated"] = datetime.now(ZoneInfo("Europe/Stockholm")).strftime("%Y-%m-%d @ %H:%M:%S local time")
+existing_data["lastUpdated"] = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d @ %H:%M:%S EDT")
 print(f"Set lastUpdated timestamp to {existing_data['lastUpdated']}")
 
 # 8. WRITE BACK TO data.js
