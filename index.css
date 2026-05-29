@@ -1,11 +1,11 @@
 /* Google Fonts loaded via HTML <link> for faster non-blocking loading */
 
 :root {
-  --england-blue: #0A1F3C;
-  --england-blue-rgb: 10, 31, 60;
-  --england-red: #E60000;
-  --england-red-rgb: 230, 0, 0;
-  --england-red-hover: #CC0000;
+  --england-blue: #0F172A; /* Deep Slate */
+  --england-blue-rgb: 15, 23, 42;
+  --england-red: #E11D48; /* Crisp Crimson */
+  --england-red-rgb: 225, 29, 72;
+  --england-red-hover: #BE123C;
 
   --england-accent-blue: var(--england-blue);
   --england-accent-blue-rgb: var(--england-blue-rgb);
@@ -20,56 +20,63 @@
   --bg-dark-600: #E2E8F0;
   --bg-dark-500: #CBD5E1;
   
-  --text-white: #0A1F3C;
+  --text-white: #0F172A;
   --text-primary: #1E293B;
   --text-secondary: #64748B;
-  --text-dark: #0A1F3C;
+  --text-dark: #0F172A;
   
-  --font-primary: 'Outfit', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --glass-bg: rgba(255, 255, 255, 0.85);
-  --glass-border: rgba(10, 31, 60, 0.08);
-  --glass-border-blue: rgba(10, 31, 60, 0.12);
-  --shadow-neon: 0 10px 30px rgba(10, 31, 60, 0.04);
-  --shadow-neon-blue: 0 10px 30px rgba(10, 31, 60, 0.06);
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   
-  --transition-smooth: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-  --radius-lg: 16px;
-  --radius-md: 10px;
-  /* Light background palette (inline style compatibility) */
+  /* Glassmorphism 2.0 */
+  --glass-bg: rgba(255, 255, 255, 0.7);
+  --glass-border: rgba(225, 29, 72, 0.15);
+  --glass-border-blue: rgba(15, 23, 42, 0.08);
+  --shadow-neon: 0 10px 40px -10px rgba(15, 23, 42, 0.08), 0 1px 3px rgba(0,0,0,0.02);
+  --shadow-neon-blue: 0 10px 40px -10px rgba(15, 23, 42, 0.08), 0 1px 3px rgba(0,0,0,0.02);
+  --shadow-hover: 0 20px 40px -10px rgba(15, 23, 42, 0.12), 0 1px 3px rgba(0,0,0,0.04);
+  --glass-blur: blur(24px) saturate(150%);
+  
+  --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+  --radius-lg: 20px;
+  --radius-md: 12px;
+  --radius-sm: 8px;
+
   --bg-light-900: #F8FAFC;
   --bg-light-800: #F1F5F9;
   --bg-light-700: #E2E8F0;
   --bg-light-600: #CBD5E1;
-  --radius-sm: 6px;
 
-  --bg-gradient-radial-1: rgba(10, 31, 60, 0.05);
-  --bg-gradient-radial-2: rgba(230, 0, 0, 0.04);
+  --bg-gradient-radial-1: rgba(15, 23, 42, 0.03);
+  --bg-gradient-radial-2: rgba(225, 29, 72, 0.03);
   --bg-gradient-radial-3: rgba(255, 255, 255, 0.9);
   --bg-gradient-radial-4: #F8FAFC;
 }
 
 [data-theme="dark"] {
-  --bg-dark-900: #040814;
-  --bg-dark-800: #0B1124;
-  --bg-dark-700: #151E36;
-  --bg-dark-600: #202D4E;
-  --bg-dark-500: #3E4E7A;
+  /* OLED Optimized Dark Mode */
+  --bg-dark-900: #0B0E14;
+  --bg-dark-800: #11151F;
+  --bg-dark-700: #1A202C;
+  --bg-dark-600: #2D3748;
+  --bg-dark-500: #4A5568;
   
   --text-white: #FFFFFF;
-  --text-primary: #F1F5F9;
+  --text-primary: #F8FAFC;
   --text-secondary: #94A3B8;
   --text-dark: #FFFFFF;
   
-  --glass-bg: rgba(11, 17, 36, 0.85);
-  --glass-border: rgba(230, 0, 0, 0.25);
-  --glass-border-blue: rgba(26, 54, 93, 0.4);
-  --shadow-neon: 0 10px 30px rgba(230, 0, 0, 0.15);
-  --shadow-neon-blue: 0 10px 30px rgba(10, 31, 60, 0.3);
+  --glass-bg: rgba(17, 21, 31, 0.65);
+  --glass-border: rgba(225, 29, 72, 0.25);
+  --glass-border-blue: rgba(255, 255, 255, 0.05);
   
-  --bg-gradient-radial-1: rgba(10, 31, 60, 0.3);
-  --bg-gradient-radial-2: rgba(230, 0, 0, 0.1);
-  --bg-gradient-radial-3: rgba(11, 17, 36, 0.95);
-  --bg-gradient-radial-4: #040814;
+  --shadow-neon: 0 10px 40px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+  --shadow-neon-blue: 0 10px 40px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255,255,255,0.05);
+  --shadow-hover: 0 20px 40px -10px rgba(0, 0, 0, 0.7), inset 0 1px 0 rgba(255,255,255,0.1), 0 0 20px rgba(225, 29, 72, 0.15);
+  
+  --bg-gradient-radial-1: rgba(59, 130, 246, 0.08);
+  --bg-gradient-radial-2: rgba(225, 29, 72, 0.08);
+  --bg-gradient-radial-3: rgba(11, 14, 20, 0.95);
+  --bg-gradient-radial-4: #0B0E14;
   
   --england-blue: #3B82F6;
   --england-accent-blue: #3B82F6;
@@ -86,8 +93,8 @@ body {
   font-family: var(--font-primary);
   background-color: var(--bg-dark-900);
   background-image: 
-    radial-gradient(circle at 10% 20%, var(--bg-gradient-radial-1) 0%, transparent 45%),
-    radial-gradient(circle at 90% 80%, var(--bg-gradient-radial-2) 0%, transparent 45%),
+    radial-gradient(circle at 0% 0%, var(--bg-gradient-radial-1) 0%, transparent 50%),
+    radial-gradient(circle at 100% 100%, var(--bg-gradient-radial-2) 0%, transparent 50%),
     radial-gradient(circle at 50% 50%, var(--bg-gradient-radial-3) 0%, var(--bg-gradient-radial-4) 100%);
   background-attachment: fixed;
   color: var(--text-primary);
@@ -330,14 +337,30 @@ h1, h2, h3, h4, h5 {
 
 .panel-card {
   background: var(--glass-bg);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: var(--glass-blur);
+  -webkit-backdrop-filter: var(--glass-blur);
   border: 1px solid var(--glass-border);
   border-radius: var(--radius-lg);
   padding: 1.8rem;
   box-shadow: var(--shadow-neon);
   overflow: hidden;
   position: relative;
+  transition: var(--transition-smooth);
+}
+
+.panel-card:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-hover);
+}
+
+@keyframes pulse-soft {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.8; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.live-badge, .last-updated-badge {
+  animation: pulse-soft 3s infinite ease-in-out;
 }
 
 .panel-card::before {
