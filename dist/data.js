@@ -3,11 +3,104 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
-    "🌍 Japan locks in high-tempo press drills at Dallas preparation site",
-    "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-    "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-    "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
+    "⚽ Alexander Isak berättar om skadan: ”En läskig upplevelse”",
+    "⚽ Föreningar drar tillbaka överklaganden mot kraftledning till SSAB",
+    "⚽ Gängkriminella blir av med svenska uppehållstillstånd",
+    "⚽ Ovanligt många diamantbröllop – Barbro och Lennart firar 60 år som gifta",
+    "⚽ Norges sensation ett faktum – klart för historisk VM-semifinal",
+    "⚽ ”Nu knyts Sverige ännu närmare Ukrainas försvar”",
+    "⚽ ”Zelenskyjs högsta dröm på väg att gå i uppfyllelse”",
+    "⚽ Svensk gängman gripen i Spanien – kopplas till grova våldsbrott",
+    "⚽ Livräddarna varnar: Dyk inte ner i vattnet under värmebölja",
+    "⚽ SVT-cheferna bakom Madame Luna-stödet – i dag chefer på Svenska filminstitutet",
+    "⚽ Hård kritik mot Svenska filminstitutet: ”Strider mot god branschsed”",
+    "⚽ Svenska EU-politiker hade minst 30 möten med snuslobbyister",
+    "⚽ Efter virala klippet – Viggo Björck har fått Sidney Crosbys klubba",
+    "⚽ Efter försvinnandet i Nyåker – nu lämnar Lucas familj Sverige",
+    "⚽ Polisman i norra Sverige omhändertog skjutvapen – köpte vapenskåpet",
+    "⚽ Graham Potter berättar om samtalet med Zlatan: ”Vet hur viktig han är”",
+    "⚽ Utredare: Bränslepriserna måste öka – med tre kronor vid pump",
+    "⚽ Graham Potter om Alexander Isaks skadeläge: ”Har en del tid kvar”",
+    "⚽ Premier League 2025-26 season review: our predictions v reality",
+    "⚽ Swedish national team announces 2026 FIFA World Cup roster - MSN",
+    "⚽ Swedish national team announces 2026 FIFA World Cup roster - NBC 5 Dallas-Fort Worth",
+    "⚽ Canucks’ Linus Karlsson hopes to end season on high note with Swedish national team - Daily Faceoff",
+    "⚽ Swedish national team for the World Cup finals in Lake Placid - ProXCskiing",
+    "⚽ Swedish national team coach Janne Andersson suffered from cancer during FIFA World Cup - Flashscore.com",
+    "⚽ UNIQLO Unveils Official Apparel for Swedish National Team - Branding in Asia",
+    "⚽ UNIQLO Unveils Official Games Uniform for Swedish National Team Competing in the 2026 Winter Major Sporting Meet, Embodying the Themes of 'Grace. Strength. Unity.' | FAST RETAILING CO., LTD. - fastretailing.com",
+    "⚽ Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
+    "⚽ Erika Holst Named New Head Coach For Swedish National Team - The Hockey News",
+    "⚽ Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com",
+    "⚽ Sandra Abston to coach Swedish National Team this summer - University of North Alabama Athletics",
+    "⚽ Asllani's retirement from the Swedish national team is postponed - KOHA.net",
+    "⚽ Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com",
+    "⚽ Swedish national team coach Tomasson under heavy fire after World Cup travesty - Flashscore.com",
+    "⚽ Kansas City Current add former Swedish National Team coach to technical staff - Kansas City Current",
+    "⚽ Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com",
+    "⚽ Disappointed Swedish national team coach Tomasson: 'Olsen has let down his teammates' - Flashscore.com",
+    "⚽ Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
+    "⚽ Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
+    "⚽ Former Swedish national team coach Tomasson turns down option to take over Norwich - Flashscore.com",
+    "⚽ SU Student Teacher Participates in Lacrosse Tournaments with Swedish National Team - Salisbury University",
+    "⚽ UMD lands Swedish national team goalie to challenge Gascon - Duluth News Tribune",
+    "⚽ The Nordic Storm sign Swedish National team lineman David Strobel - European League of Football | ELF",
+    "⚽ Swedish National Team Product Eddie Jallow Hedqvist Signs with Pacific - pacifictigers.com",
+    "⚽ Alfie Thrilled to be Back With the Swedish National Team | Ottawa Senators - NHL.com",
+    "⚽ Baseball Posts Win Over Swedish National Team - Fordham University Athletics",
+    "⚽ Elin Larsson Playing key Role With Swedish National Team - University of Portland Athletics",
+    "⚽ Four female athletes to represent Swedish National team in 2023 - racers-behindthehelmet.com",
+    "⚽ Red Wings’ Simon Edvinsson tabbed by Swedish national team - MLive.com",
+    "⚽ Elijah Clarance to Compete for Swedish National Team - Illinois State University Athletics",
+    "⚽ The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers - Turkmenportal.com",
+    "⚽ Ex-FC Copenhagen keeper quits Swedish national team as he refuses to work with Tomasson - Flashscore.co.za",
+    "⚽ Mondo is going pro: Local pole vaulter to join Swedish National team - The Daily Advertiser | Lafayette, Louisiana",
+    "⚽ Report: Swedish National Team Coach Sam Hallam Will Move To Switzerland In 2026 - Yahoo Sports Canada",
+    "⚽ Calle Halfvarsson leaves the Swedish National Team – Shifts focus - ProXCskiing",
+    "⚽ The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers - Turkmenportal.com",
+    "⚽ Jenner Named Swedish National Team Coach - SwimSwam",
+    "⚽ UVM hockey's Todd Woodcroft to assist Swedish national team at Winter Olympics - Burlington Free Press",
+    "⚽ Teen Frome swimmer sets sights on Swedish national team - Frome Times",
+    "⚽ How Kevin Backstrom's Firing from the Swedish National Team Redefined His Career for the Better - SNOWBOARDER Magazine",
+    "⚽ New coach joins Swedish national team – with focus on shooting - ProXCskiing",
+    "⚽ Kalla Leaves Swedish National Team to Train Alone; Richardsson and Olsson Are Back - FasterSkier",
+    "⚽ Swedish national team for Tour de Ski 2024/2025 - ProXCskiing",
+    "⚽ Swedish National Team Training With An Eye On The 2026 Olympics, And Summer Exhibition Against Ohio State - The Hockey News",
+    "⚽ Ibrahimovic returns to Swedish national team for World Cup | Daily Sabah - Daily Sabah",
+    "⚽ ELF: Istanbul Rams sign Swedish national team DB Noah Allsten - American Football International",
+    "⚽ Rickard Noberius: New Swedish National Team Doctor - ProXCskiing",
+    "⚽ Meet the Swedish National Team 2022/23 - International Ski and Snowboard Federation (FIS)",
+    "⚽ Former Glenville State, Marshall football assistant coaching Swedish national team - Charleston Gazette-Mail",
+    "⚽ ‘I got scared’: Sharks’ William Eklund reacts to wrist injury with Swedish national team - Daily Faceoff",
+    "⚽ Called Again The Swedish National Team, Ibrahimovic: The Return Of A God - VOI.ID",
+    "⚽ From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball",
+    "⚽ Swedish National team announced for 2021/22 - International Ski and Snowboard Federation (FIS)",
+    "⚽ Meet the Swedish National Team 2023/24 - International Ski and Snowboard Federation (FIS)",
+    "⚽ Seb in Sweden: Rising North Andover star plays on Swedish National team - Eagle-Tribune",
+    "⚽ Zlatan bids farewell to Swedish national team - The Jakarta Post",
+    "⚽ Zlatan Ibrahimovic set to play at Euros after recall to Swedish national team - The Guardian",
+    "⚽ Ibrahimovic says emotional goodbye to Swedish national team in Volvo’s latest film - digitalsport.co",
+    "⚽ Ibrahimovic hints at return to Swedish national team - Anadolu Ajansı",
+    "⚽ Svensson retires from Swedish national team - Sportsnet",
+    "⚽ Cross-country skiing: the selection of the Swedish national team for the 2025/2026 season - Nordic Mag",
+    "⚽ Dennis Cook new Head Coach of Swedish National Team - Mister Baseball",
+    "⚽ Is Zlatan really returning to the Swedish national team? - vijesti.me",
+    "⚽ Ibrahimović is getting closer to returning to the Swedish national team - vijesti.me",
+    "⚽ Ibrahimovic's return to the Swedish national team for the match against Kosovo is inevitable - Gazeta Express",
+    "⚽ Swedish National team player and LU alumni: A conversation with Zećira Mušović - Lundagard.se",
+    "⚽ Pelican Bay Hosts Swedish National Team for Training Camp - The Bahamas Weekly",
+    "⚽ It's official. Zlatan Ibrahimovic returns to the Swedish national team (March 15, 2023) - Динамо Киев от Шурика",
+    "⚽ Women football: My exploit with Gothenburg FC and the Swedish national Team is the handiwork of my personal coach and dad Peter Ijeh says 19 year old Evelyn Ijeh - Sports247 Nigeria",
+    "⚽ The former Swedish national team player died - vijesti.me",
+    "⚽ Former Swedish national team goalkeeper Jacob Rinne: I play in Saudi Arabia for the money, I think about my family - Nogomania",
+    "⚽ Zlatan Ibrahimovic in Sweden training with Manchester United on horizon – in pictures - The National",
+    "⚽ The former Swedish national team player passed away - vijesti.me",
+    "⚽ KNOW YOUR STARS: Ssewankambo continues with Swedish national team expedition - Kawowo Sports",
+    "⚽ 'Chaos' at the Swedish national team, Swedish fans with a special request to coach Tomasson - Gazeta Express",
+    "⚽ The Injury of Gyokeres: Why the Swedish National Team Left the Forward out - all the latest news today - 112.ua",
+    "⚽ FIRST FOREIGN COACH of the Swedish national team in over 60 years - İdman.Biz",
+    "⚽ Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender - The Peoples Person",
+    "⚽ The Swedish Seven – Celts and Blågult - The Celtic Star"
   ],
   "timeline": {
     "2026-05-26": {
@@ -309,8 +402,320 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-29": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5038_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Alexander Isak berättar om skadan: ”En läskig upplevelse”",
+            "bullets": [
+              "Alexander Isak berättade i dag mer ingående om den svåra benskada han råkade ut för i december och f...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexander Isak berättade i dag mer ingående om den svåra benskada han råkade ut för i december och förstörde stora delar av säsongen. – Det var en läskig upplevelse, säger Isak på dagens speeddatingintervju där SVT Sport var med.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Föreningar drar tillbaka överklaganden mot kraftledning till SSAB",
+            "bullets": [
+              "BirdLife Sverige, Föreningen Södermanlands Ornitologer och Naturskyddsföreningen Sörmland har dragit...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BirdLife Sverige, Föreningen Södermanlands Ornitologer och Naturskyddsföreningen Sörmland har dragit tillbaka sina överklaganden mot den planerade kraftledningen till SSAB i Oxelösund.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Gängkriminella blir av med svenska uppehållstillstånd",
+            "bullets": [
+              "Storskalig narkotikasmuggling, ekonomisk brottslighet, vapensmuggling och mordbeställningar – nu bli...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Storskalig narkotikasmuggling, ekonomisk brottslighet, vapensmuggling och mordbeställningar – nu blir elva utlandsbaserade personer som misstänks ägna sig åt grov kriminalitet i Sverige fråntagna sina svenska permanenta uppehållstillstånd. – Jag hoppas att de blir besvikna, säger Marcus Nilsson, chef för gränspolisenheten på Nationella operativa avdelningen.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ovanligt många diamantbröllop – Barbro och Lennart firar 60 år som gifta",
+            "bullets": [
+              "I år kan extra många fira diamantbröllop i Sverige eftersom 1966 var ett ovanligt bröllopstätt år. L...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "I år kan extra många fira diamantbröllop i Sverige eftersom 1966 var ett ovanligt bröllopstätt år. Lennart och Barbro Svensson från Molkom har i juli varit gifta i 60 år. – Vi ska nog fira det familjen, säger Barbro Svensson.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Norges sensation ett faktum – klart för historisk VM-semifinal",
+            "bullets": [
+              "Norsk ishockeyhistoria har skrivits. För första gången är landslaget klart för semifinal i hockey-VM...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norsk ishockeyhistoria har skrivits. För första gången är landslaget klart för semifinal i hockey-VM. Norge slog Lettland med 2–0 i kvartsfinalen. – Jag hade aldrig i min vildaste fantasi kunnat tro det här, säger målvaktshjälten Henrik Haukeland.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "”Nu knyts Sverige ännu närmare Ukrainas försvar”",
+            "bullets": [
+              "Med Gripen-plan i Ukraina kommer Sverige spela en huvudroll i försvaret mot Ryssland. Det stärker sä...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Med Gripen-plan i Ukraina kommer Sverige spela en huvudroll i försvaret mot Ryssland. Det stärker säkerheten i hela Europa – men det finns också risker.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "”Zelenskyjs högsta dröm på väg att gå i uppfyllelse”",
+            "bullets": [
+              "Sverige går i bräschen igen. President Zelenskyj har återkommande hyllat och tackat svenskarna – då ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sverige går i bräschen igen. President Zelenskyj har återkommande hyllat och tackat svenskarna – då Sverige varit ett av de största givarländerna per capita. Men hela tiden har den ukrainske presidenten haft något annat högt på önskelistan. Och nu tycks den drömmen vara på väg att uppfyllas.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Svensk gängman gripen i Spanien – kopplas till grova våldsbrott",
+            "bullets": [
+              "Ytterligare en svensk man har gripits i Spanien, misstänkt för inblandning i flera grova våldsbrott ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ytterligare en svensk man har gripits i Spanien, misstänkt för inblandning i flera grova våldsbrott i Sverige, meddelar polisen. Han har varit internationellt efterlyst sedan i vintras.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_8",
+            "category": "sweden",
+            "type": "News",
+            "title": "Livräddarna varnar: Dyk inte ner i vattnet under värmebölja",
+            "bullets": [
+              "Flera badande personer har dött under värmeböljan i Frankrike och Storbritannien. Att kasta sig i ka...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Flera badande personer har dött under värmeböljan i Frankrike och Storbritannien. Att kasta sig i kallt vatten när det är riktigt varmt i luften kan vara livsfarligt, enligt Mikael Olausson, talesperson på Svenska Livräddningssällskapet. – Underskatta inte kylans effekt. Rådet är att inte bara hoppa i, säger han.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_9",
+            "category": "sweden",
+            "type": "News",
+            "title": "SVT-cheferna bakom Madame Luna-stödet – i dag chefer på Svenska filminstitutet",
+            "bullets": [
+              "Daniel Espinosas storfilm ”Madame Luna” har fått nära 17 miljoner kronor i stöd från Svenska filmins...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Daniel Espinosas storfilm ”Madame Luna” har fått nära 17 miljoner kronor i stöd från Svenska filminstitutet. En långdragen upphovsrättstvist har gjort att filmen fortfarande inte nått en svensk publik. Nu kan Kulturnyheterna berätta att även SVT medverkat ekonomiskt – med omkring en halv miljon kronor för visningsrätt.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_10",
+            "category": "sweden",
+            "type": "News",
+            "title": "Hård kritik mot Svenska filminstitutet: ”Strider mot god branschsed”",
+            "bullets": [
+              "Daniel Espinosas storfilm Madame Luna fick nära 17 miljoner kronor i stöd från Svenska filminstitute...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Daniel Espinosas storfilm Madame Luna fick nära 17 miljoner kronor i stöd från Svenska filminstitutet – men eftersom filmen har fastnat i en långdragen upphovsrättstvist har den inte nått en svensk publik. Nu riktas skarp kritik mot Svenska filminstitutet – som anklagas av filmare och producenter för att agera partiskt.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_11",
+            "category": "sweden",
+            "type": "News",
+            "title": "Svenska EU-politiker hade minst 30 möten med snuslobbyister",
+            "bullets": [
+              "I år ska EU-kommissionen fatta nya beslut om hur det vita snuset ska regleras, efter att fler EU-län...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "I år ska EU-kommissionen fatta nya beslut om hur det vita snuset ska regleras, efter att fler EU-länder än Frankrike vill förbjuda snuset helt. Men svenska politiker försvarar snuset och SVT:s kartläggning visar att svenska EU-politiker har haft minst 30 möten med tobakslobbyister sedan 2024. – Det är en svensk produkt som vi tycker det är viktigt att skydda och försvara, säger EU-parlamentarikern Jessica Polfjärd (M).",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_12",
+            "category": "sweden",
+            "type": "News",
+            "title": "Efter virala klippet – Viggo Björck har fått Sidney Crosbys klubba",
+            "bullets": [
+              "Efter Sveriges VM-premiärmatch mot Kanada passade supertalangen Viggo Björck på att be om en av tide...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Efter Sveriges VM-premiärmatch mot Kanada passade supertalangen Viggo Björck på att be om en av tidernas bästa spelare Sidney Crosbys klubba. Nu har han fått den. – Den stod utanför omklädningsrummet, säger han till TT.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_13",
+            "category": "sweden",
+            "type": "News",
+            "title": "Efter försvinnandet i Nyåker – nu lämnar Lucas familj Sverige",
+            "bullets": [
+              "I söndags försvann tvåårige Lucas i Nyåker utanför Nordmaling och återfanns först efter en 15 timmar...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "I söndags försvann tvåårige Lucas i Nyåker utanför Nordmaling och återfanns först efter en 15 timmar lång sökinsats. Nu har familjen lämnat Sverige och är på väg hem till Rumänien. – Vi känner oss inte trygga i Sverige, säger Lucas mamma till Expressen.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_14",
+            "category": "sweden",
+            "type": "News",
+            "title": "Polisman i norra Sverige omhändertog skjutvapen – köpte vapenskåpet",
+            "bullets": [
+              "En polisman som beslagtog ett skjutvapen passade samtidigt på att köpa vapenskåpet. Nu får polisen e...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "En polisman som beslagtog ett skjutvapen passade samtidigt på att köpa vapenskåpet. Nu får polisen en varning av Polismyndighetens personalansvarsnämnd.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_15",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter berättar om samtalet med Zlatan: ”Vet hur viktig han är”",
+            "bullets": [
+              "Sveriges förbundskapten Graham Potter avslöjar. Han hade ett samtal med Zlatan Ibrahimovic. – Jag ve...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sveriges förbundskapten Graham Potter avslöjar. Han hade ett samtal med Zlatan Ibrahimovic. – Jag vet hur viktig han är, säger han på en presskonferens.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_16",
+            "category": "sweden",
+            "type": "News",
+            "title": "Utredare: Bränslepriserna måste öka – med tre kronor vid pump",
+            "bullets": [
+              "Höjd bensinskatt och ökad reduktionsplikt på både bensin och diesel. Samtidigt sänkt skatt på el. De...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Höjd bensinskatt och ökad reduktionsplikt på både bensin och diesel. Samtidigt sänkt skatt på el. Det föreslår regeringens utredare Svante Mandell för att Sverige ska nå klimatmålen. Han räknar med att priset vid pump måste öka med 3 kronor per liter. – Det är inte så drastiskt, vi går upp till priser i jämförbara länder. Det är inga höga priser, säger han till SVT.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_17",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter om Alexander Isaks skadeläge: ”Har en del tid kvar”",
+            "bullets": [
+              "Förbundskaptenen Graham Potter hade i dag presskonferens inför VM-förlägret i Stockholm. Det råder o...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Förbundskaptenen Graham Potter hade i dag presskonferens inför VM-förlägret i Stockholm. Det råder osäkerhet kring Alexander Isak. – Vi har en del tid kvar och har förståelse för Alex situation, säger Potter.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5038_18",
+            "category": "sweden",
+            "type": "News",
+            "title": "Premier League 2025-26 season review: our predictions v reality",
+            "bullets": [
+              "&lt;p&gt;We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderlan...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear&lt;/p&gt;&lt;p&gt;&lt;strong&gt;What we predicted: &lt;/strong&gt;Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a number of signings in his first transfer window. The question now for Arsenal supporters is whether Martín Zubimendi, Christian Nørgaard, Noni Madueke, Viktor Gyökeres, Cristhian Mosquera and Kepa Arrizabalaga can help them take that elusive final step to becoming champions for the first time since the Invincibles in 2004.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-season-review-predictions-reality-liverpool-chelsea-brentford-sunderland\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-28 @ 19:17:55 local time"
+  "lastUpdated": "2026-05-29 @ 14:51:01 local time"
 };

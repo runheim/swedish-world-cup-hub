@@ -5,7 +5,8 @@ import re
 import json
 import urllib.request
 import urllib.parse
-from datetime import datetime, timedelta, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # Constants
 TARGET_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data.js")
@@ -41,9 +42,8 @@ if os.path.exists(TARGET_FILE):
     except Exception as e:
         print(f"Error reading existing data.js: {e}. Starting fresh.")
 
-# Sweden uses Central European Summer Time (CEST = UTC+2) during the World Cup (late March to late October).
-sweden_tz = timezone(timedelta(hours=2))
-now = datetime.now(sweden_tz)
+# 2. DETERMINE CURRENT SWEDEN TIME AND CORRESPONDING TIMELINE SLOT
+now = datetime.now(ZoneInfo("Europe/Stockholm"))
 today_str = now.strftime("%Y-%m-%d")
 current_hour = now.hour
 current_minute = now.minute
@@ -92,7 +92,8 @@ def search_sports_news():
         ("Fotbollskanalen", "https://www.fotbollskanalen.se/rss/"),
         ("SVT Sport", "https://www.svt.se/nyheter/rss.xml"),
         ("The Guardian Football", "https://www.theguardian.com/football/rss"),
-        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news")
+        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
+        ("Google News Sweden", "https://news.google.com/rss/search?q=%22Sveriges+herrlandslag%22+OR+%22Swedish+National+Team%22+OR+Bl%C3%A5gult")
     ]
     
     crawled_items = []
@@ -105,7 +106,7 @@ def search_sports_news():
                 xml = response.read().decode('utf-8')
                 # Parse items via regex to keep it lightweight and zero-dependency
                 items = re.findall(r"<item>(.*?)</item>", xml, re.DOTALL)
-                for item in items[:5]:
+                for item in items:
                     title_match = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>", item) or re.search(r"<title>(.*?)</title>", item)
                     desc_match = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item) or re.search(r"<description>(.*?)</description>", item)
                     link_match = re.search(r"<link>(.*?)</link>", item)
@@ -385,7 +386,7 @@ if ticker_headlines:
     print("Updated dynamic breaking news ticker headlines.")
 
 # Update last updated timestamp
-existing_data["lastUpdated"] = now.strftime("%Y-%m-%d @ %H:%M:%S local time")
+existing_data["lastUpdated"] = datetime.now(ZoneInfo("Europe/Stockholm")).strftime("%Y-%m-%d @ %H:%M:%S local time")
 print(f"Set lastUpdated timestamp to {existing_data['lastUpdated']}")
 
 # 8. WRITE BACK TO data.js
