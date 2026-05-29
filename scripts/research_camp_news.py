@@ -4,7 +4,8 @@ import re
 import json
 import urllib.request
 import urllib.parse
-from datetime import datetime, timedelta, timezone
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # Constants
 TARGET_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data.js")
@@ -41,9 +42,7 @@ if os.path.exists(TARGET_FILE):
         print(f"Error reading existing data.js: {e}. Starting fresh.")
 
 # 2. DETERMINE CURRENT TIME AND CORRESPONDING TIMELINE SLOT
-# England uses British Summer Time (BST = UTC+1) during the World Cup (late March to late October).
-england_tz = timezone(timedelta(hours=1))
-now = datetime.now(england_tz)
+now = datetime.now(ZoneInfo("Europe/London"))
 today_str = now.strftime("%Y-%m-%d")
 current_hour = now.hour
 current_minute = now.minute
@@ -90,9 +89,10 @@ def search_sports_news():
     feeds = [
         ("BBC Sport", "https://feeds.bbci.co.uk/sport/football/rss.xml"),
         ("The Guardian", "https://www.theguardian.com/football/rss"),
-        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
+        ("The Athletic Soccer", "https://theathletic.com/rss/"),
         ("Sky Sports Football", "https://www.skysports.com/rss/12040"),
-        ("The Athletic", "https://theathletic.com/rss/"),
+        ("ESPN FC", "https://www.espn.com/espn/rss/soccer/news"),
+        ("Google News England", "https://news.google.com/rss/search?q=%22England+National+Team%22+OR+%22Three+Lions%22"),
         ("The Telegraph Football", "https://www.telegraph.co.uk/football/rss.xml")
     ]
     
@@ -106,7 +106,7 @@ def search_sports_news():
                 xml = response.read().decode('utf-8')
                 # Parse items via regex to keep it lightweight and zero-dependency
                 items = re.findall(r"<item>(.*?)</item>", xml, re.DOTALL)
-                for item in items[:5]:
+                for item in items:
                     title_match = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>", item) or re.search(r"<title>(.*?)</title>", item)
                     desc_match = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item) or re.search(r"<description>(.*?)</description>", item)
                     link_match = re.search(r"<link>(.*?)</link>", item)
@@ -376,7 +376,8 @@ if ticker_headlines:
     existing_data["ticker"] = ticker_headlines
     print("Updated dynamic breaking news ticker headlines.")
 
-existing_data["lastUpdated"] = now.strftime("%Y-%m-%d @ %H:%M:%S local time")
+# Update last updated timestamp
+existing_data["lastUpdated"] = datetime.now(ZoneInfo("Europe/London")).strftime("%Y-%m-%d @ %H:%M:%S local time")
 print(f"Set lastUpdated timestamp to {existing_data['lastUpdated']}")
 
 # 8. WRITE BACK TO data.js
