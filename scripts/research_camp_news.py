@@ -6,6 +6,7 @@ import json
 import urllib.request
 import urllib.parse
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 # Constants
 TARGET_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data.js")
@@ -42,7 +43,7 @@ if os.path.exists(TARGET_FILE):
         print(f"Error reading existing data.js: {e}. Starting fresh.")
 
 # 2. DETERMINE CURRENT US TIME AND CORRESPONDING TIMELINE SLOT
-now = datetime.now()
+now = datetime.now(ZoneInfo("America/New_York"))
 today_str = now.strftime("%Y-%m-%d")
 current_hour = now.hour
 current_minute = now.minute
@@ -90,7 +91,8 @@ def search_sports_news():
         ("The Guardian", "https://www.theguardian.com/football/rss"),
         ("The Athletic Soccer", "https://theathletic.com/rss/"),
         ("FOX Sports Soccer", "https://api.foxsports.com/v2/content/optimized-rss?partnerKey=MB0Wehpmuj2lUhuRhQaafhBjAJqaPU244fk&size=30&tags=fs/soccer"),
-        ("CBS Sports Soccer", "https://www.cbssports.com/rss/headlines/soccer/")
+        ("CBS Sports Soccer", "https://www.cbssports.com/rss/headlines/soccer/"),
+        ("Google News USMNT", "https://news.google.com/rss/search?q=USMNT+OR+%22United+States+Men%27s+National+Team%22+OR+%22Mauricio+Pochettino%22")
     ]
     
     crawled_items = []
@@ -103,7 +105,7 @@ def search_sports_news():
                 xml = response.read().decode('utf-8')
                 # Parse items via regex to keep it lightweight and zero-dependency
                 items = re.findall(r"<item>(.*?)</item>", xml, re.DOTALL)
-                for item in items[:5]:
+                for item in items:
                     title_match = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>", item) or re.search(r"<title>(.*?)</title>", item)
                     desc_match = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item) or re.search(r"<description>(.*?)</description>", item)
                     link_match = re.search(r"<link>(.*?)</link>", item)
@@ -376,7 +378,7 @@ if ticker_headlines:
     print("Updated dynamic breaking news ticker headlines.")
 
 # Update last updated timestamp
-existing_data["lastUpdated"] = datetime.now().strftime("%Y-%m-%d @ %H:%M:%S local time")
+existing_data["lastUpdated"] = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d @ %H:%M:%S EDT")
 
 # 8. WRITE BACK TO data.js
 try:
