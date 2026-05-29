@@ -21,6 +21,7 @@ const DYNAMIC_HUB_DATA = {
     "⚽ Premier League 2025-26 review: our writers’ best and worst of the season",
     "⚽ Crystal Palace’s seesaw season ends in triumph … but now a new era begins",
     "⚽ How did Arsenal become a home for Black players and fans?",
+    "⚽ Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’",
     "⚽ Quietly ruthless Régis Le Bris ready to lead revived Sunderland into Europa League",
     "⚽ Blame for West Ham’s shambolic slide to relegation sits at the feet of David Sullivan | Jacob Steinberg",
     "⚽ Arsenal’s party embodies the metropolitan swagger and angst of a divided city | Jonathan Liew",
@@ -50,56 +51,51 @@ const DYNAMIC_HUB_DATA = {
     "⚽ Three Lions earn CSC Academic All-District Team selections - University of North Alabama Athletics",
     "⚽ Three Lions Earn All-Ivy League Honors - Columbia University Athletics",
     "⚽ Pep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA - FOX Sports",
-    "⚽ Three Lions in the Top 5 at Ivy League Women’s Golf Championship - Columbia University Athletics",
-    "⚽ Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin - GlobeNewswire",
+    "⚽ Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin - Yahoo Finance UK",
     "⚽ World Cup England Outright Prediction: Betting tips for Three Lions - talkSPORT",
     "⚽ Three lions have arrived at Africa Alive in Kessingland, Suffolk - BBC",
     "⚽ Three Lions Claim Titles, Seven Place on Podium at David H. Lehman Open - Columbia University Athletics",
-    "⚽ England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions - Sky Sports",
+    "⚽ Three Lions Named to CBU Classic All-Tournament Team - Loyola Marymount University Athletics",
     "⚽ Anthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory - The Mirror",
     "⚽ The remarkable story of Three Lions by Baddiel &amp; Skinner &amp; The Lightning Seeds - Radio X",
     "⚽ Three Lions Advance to Semis on Day One of NCAA Wrestling Regionals - Lindenwood University Athletics",
     "⚽ Three Lions earn preseason all-conference awards - University of North Alabama Athletics",
-    "⚽ LMU Holds Top Spot After One Round of Play, Three Lions in Top-15 - Loyola Marymount University Athletics",
     "⚽ Three Lions earn All-ASUN postseason honors - University of North Alabama Athletics",
     "⚽ Prince William Makes a Surprise Trip to England’s Training Center Ahead of the World Cup - Town &amp; Country Magazine",
     "⚽ Three Lions - the football anthem that united a nation - BBC",
     "⚽ England FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer! - theweek.in",
     "⚽ England fans can get iconic £50 1982 retro shirt for under £10 ahead of 2026 World Cup - The Mirror",
-    "⚽ Three Lions earn football all-conference honors - University of North Alabama Athletics",
     "⚽ What to know about the England national team as they set up base camp in Kansas City - KCTV",
     "⚽ Sneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup - FOX4KC.com",
     "⚽ New Three Lions kit on sale - England Football",
     "⚽ Coral World Cup Offer: 66/1 England To Top Their Group - Squawka",
     "⚽ Central Florida soccer fans get 2 chances to watch England play in person - Orlando Sentinel",
-    "⚽ England fans snap up 1982 retro shirt worth £50 for £9.79 ahead of the World Cup - Manchester Evening News",
-    "⚽ England 2026 World Cup draw: Three Lions face Croatia, Panama, Ghana - ESPN",
     "⚽ Thousands of England fans plan late World Cup dash after ticket, flight &amp; hotel prices are slashed due to low demand - The Sun",
-    "⚽ England 0-1 Japan: Three Lions stall as Japan are crowned - Yahoo Sports",
+    "⚽ England fans snap up 1982 retro shirt worth £50 for £9.79 ahead of the World Cup - Manchester Evening News",
     "⚽ World Cup stories: David James makes case for current England star to be Three Lions great - DAZN",
     "⚽ Inter&amp;Co Stadium set to host England in Pre-World Cup match against Costa Rica on June 10 - Orlando City",
     "⚽ Prince William meets the team behind England's World Cup squad as Three Lions gear up for glory - The Irish Sun",
-    "⚽ England Struggles to Sell Tickets for Pre-World Cup Friendlies in Florida - AOL.com",
     "⚽ FIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop - The Travel Magazine",
     "⚽ World Cup 2026 Picks: Group L Winner Prediction, Schedule &amp; Team Previews - vegasodds.com",
     "⚽ Three lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them - Upworthy",
-    "⚽ Michael Owen names two ‘Golden Generation’ stars that would make England’s class of 2026 better &amp; debates whether Harry Kane or Declan Rice could oust Wayne Rooney &amp; Steven Gerrard - Goal.com",
+    "⚽ England Struggles to Sell Tickets for Pre-World Cup Friendlies in Florida - AOL.com",
     "⚽ England World Cup 2026 squad: Who has Thomas Tuchel selected? - The Sun",
     "⚽ Wharton: World Cup omission 'not the end of the world' - FotMob",
     "⚽ Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release - Radio X",
     "⚽ England’s World Cup Kits Signal Hope and Renewal for The Three Lions - New Wave Magazine",
     "⚽ Three Lions Named 2024-25 Cobalt Golf All-America Scholars - Columbia University Athletics",
-    "⚽ England discover Nations League group with Three Lions handed brutal draw on return to League A - Goal.com",
     "⚽ England resort to anti-spying Plan B after Argentina inflict psychological blow - The Sun",
-    "⚽ 122 years, 80 players, Three Lions - Tottenham Hotspur",
     "⚽ England World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow - Squawka",
     "⚽ Three Lions and three arrows: Littler teaches England squad how to hit target - The Guardian",
     "⚽ England's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history - FOX Sports",
+    "⚽ World Cup stories: France rise in Russia as fans fall for Three Lions again - DAZN",
     "⚽ England squad World Cup 2026: Which players have made it to the showpiece in USA, Mexico and Canada? - Goal.com",
     "⚽ Why England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games' - DAZN",
+    "⚽ FOOTBALL QUIZ: Test your knowledge of the England national team! - Yahoo Sports",
     "⚽ Phil Foden: Manchester City midfielder is 'victim' of fixture schedule after missing out on England spot - BBC",
+    "⚽ Saka Backs England To End Long Wait For World Cup Glory - LEADERSHIP Newspapers",
     "⚽ Who Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named - Manchester Evening News",
-    "⚽ England's World Cup 2026 fixtures, schedule and tournament route to final - how Three Lions could lift trophy on July 19 - Sky Sports",
+    "⚽ How England's dream XI could have looked for World Cup had 3 stars not rejected Three Lions - The Mirror",
     "⚽ England squad World Cup 2026: Thomas Tuchel's final 26-man selection - FourFourTwo",
     "⚽ Jack Grealish backed for England recall by Three Lions legend after Man City flop's flying start to life on loan at Everton - FOX Sports",
     "⚽ Jamie Vardy: Former Leicester and England striker Jamie Vardy leaves Cremonese - BBC",
@@ -107,24 +103,29 @@ const DYNAMIC_HUB_DATA = {
     "⚽ England squad: Thomas Tuchel's latest Three Lions squad analysed - BBC",
     "⚽ England's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins - FOX Sports",
     "⚽ World Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL) - Yahoo Sports Canada",
-    "⚽ England's iconic retro shirt falls under £10 from £50 ahead of World Cup with easy method - Manchester Evening News",
+    "⚽ England World Cup full-back at a loss on who current first choice left-back is for the Three Lions - DAZN",
     "⚽ England World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup - DAZN",
     "⚽ UPGRADE TO THREE LIONS LOUNGE - Ipswich Town FC",
+    "⚽ England's iconic retro shirt falls under £10 from £50 ahead of World Cup with easy method - Manchester Evening News",
     "⚽ England vs Uruguay LIVE - White scores on Three Lions return but Uruguay level late on - ESPN",
     "⚽ Pep Guardiola for England?! Oasis legend Noel Gallagher backs departing Man City boss to take Three Lions job to realise World Cup trophy dream - Goal.com",
-    "⚽ Prince William makes a surprise trip to England’s training center ahead of the World Cup - MSN",
     "⚽ England vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold - Opta Analyst",
+    "⚽ Prince William makes a surprise trip to England’s training center ahead of the World Cup - MSN",
     "⚽ Glenn Hoddle calls out Thomas Tuchel for 'surprising' omission from England World Cup squad - The Mirror",
     "⚽ Thomas Tuchel identifies base at US 'English cottage' for Three Lions' World Cup bid - The Mirror",
-    "⚽ Three Lions selected to CSC Academic All-District teams - East Texas A&amp;M University Athletics",
+    "⚽ England fans find World Cup deal as Three Lions shirt is cheaper to buy in NY - The Sun",
     "⚽ Calvert-Lewin earns Three Lions spot after Leeds form - Leeds United",
     "⚽ Former England international says this player should be in Three Lions lineup instead of Cole Palmer - DAZN",
     "⚽ England release 2026 World Cup kits: 'New era for the Three Lions' - ESPN",
+    "⚽ England player ratings vs Wales: Three Lions rip British rivals as Thomas Tuchel's set-piece kings secure emphatic friendly victory - Goal.com",
     "⚽ When is England v Croatia? World Cup date, kick-off time and betting - Paddy Power",
     "⚽ England World Cup Odds - Latest Odds on England to Win in 2026 - Gambling Insider",
-    "⚽ England player ratings vs Wales: Three Lions rip British rivals as Thomas Tuchel's set-piece kings secure emphatic friendly victory - Goal.com",
     "⚽ Legacy cap, the most iconic item of the England national team - nss sports",
     "⚽ What are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released? - talkSPORT",
+    "⚽ ‘There’s no better feeling than going to a World Cup, walking out before a game, seeing all the England fans there and knowing the whole world is watching’ Why Jordan Pickford thrives for the Three Lions - FourFourTwo",
+    "⚽ WATCH: Three Lions that were Raised in the EFL - The English Football League",
+    "⚽ A Wembley Nightmare: Japan stun the Three Lions - Sports Gazette",
+    "⚽ Why do England have Three Lions on their badge and has it always been the same? - talkSPORT",
     "⚽ World Cup 2026 formation builder: Pick your England team",
     "⚽ Tuchel takes aim at big-name omissions from World Cup squad",
     "⚽ Imperious Foden back to his best as City refuse to throw in the towel",
@@ -4505,9 +4506,2207 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4103_0",
+            "category": "england",
+            "type": "News",
+            "title": "Trippier verbally agrees to Wolves move after Newcastle exit",
+            "bullets": [
+              "Ex-England international Kieran Trippier due to become Wolves' first summer signing.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ex-England international Kieran Trippier due to become Wolves' first summer signing.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_1",
+            "category": "england",
+            "type": "News",
+            "title": "'It's been written' - Arsenal players look ahead to Champions League final",
+            "bullets": [
+              "Before the Champions League final against Paris Saint-Germain on Saturday, Arsenal players Leandro T...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before the Champions League final against Paris Saint-Germain on Saturday, Arsenal players Leandro Trossard, Myles Lewis-Skelly, Declan Rice and Eberechi Eze talk about what winning the trophy would mean to them.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_2",
+            "category": "england",
+            "type": "News",
+            "title": "24 Hours with Ella Toone coming soon",
+            "bullets": [
+              "Watch the trailer for a new BBC Sport documentary offering unprecedented behind-the-scenes access to...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Watch the trailer for a new BBC Sport documentary offering unprecedented behind-the-scenes access to Manchester United and England star Ella Toone as she prepares for her wedding, while still coming to terms with the loss of her father.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_3",
+            "category": "england",
+            "type": "News",
+            "title": "Watch 24 Hours with Ella Toone on BBC iPlayer",
+            "bullets": [
+              "Go behind the scenes with Manchester United and England star Ella Toone.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Go behind the scenes with Manchester United and England star Ella Toone.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_4",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins & Villa spoil Guardiola's final Man City match",
+            "bullets": [
+              "Pep Guardiola's 593rd and final game in charge of Manchester City ended in an emotional Premier Leag...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pep Guardiola's 593rd and final game in charge of Manchester City ended in an emotional Premier League defeat as Ollie Watkins scored a double for Aston Villa.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_5",
+            "category": "england",
+            "type": "News",
+            "title": "Gibbs-White sends England message as Forest draw with Bournemouth",
+            "bullets": [
+              "Nottingham Forest's Morgan Gibbs-White sends a message to England boss Thomas Tuchel, as Bournemouth...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nottingham Forest's Morgan Gibbs-White sends a message to England boss Thomas Tuchel, as Bournemouth miss out on the Champions League.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_6",
+            "category": "england",
+            "type": "News",
+            "title": "Why Gordon for Barcelona & what does it mean for Rashford?",
+            "bullets": [
+              "Anthony Gordon's goal return in Europe coupled with his speed, aggression and work ethic suggests th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anthony Gordon's goal return in Europe coupled with his speed, aggression and work ethic suggests there is a lot more to come from the England international.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_7",
+            "category": "england",
+            "type": "News",
+            "title": "Watch 24 Hours with Ella Toone on BBC iPlayer",
+            "bullets": [
+              "Go behind the scenes with Manchester United and England star Ella Toone.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Go behind the scenes with Manchester United and England star Ella Toone.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_8",
+            "category": "england",
+            "type": "News",
+            "title": "How Toone is navigating grief through football",
+            "bullets": [
+              "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for her wedding without her dad in a new BBC documentary.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_9",
+            "category": "england",
+            "type": "News",
+            "title": "How Toone is navigating grief through football",
+            "bullets": [
+              "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England and Manchester United midfielder Ella Toone opens up about grief, football and preparing for her wedding without her dad in a new BBC documentary.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_10",
+            "category": "england",
+            "type": "News",
+            "title": "The summer a golden generation lost its shine",
+            "bullets": [
+              "The summer of 2006 was meant to be England's moment. A world-class squad, celebrity partners and con...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The summer of 2006 was meant to be England's moment. A world-class squad, celebrity partners and confident fans - the hype was huge and the fall was hard.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_11",
+            "category": "england",
+            "type": "News",
+            "title": "The great number nine decline - where have England's strikers gone?",
+            "bullets": [
+              "BBC Sport takes an in-depth look at why England lack centre-forward options behind Harry Kane - a fa...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport takes an in-depth look at why England lack centre-forward options behind Harry Kane - a far cry from when the likes of Les Ferdinand only won 17 caps.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_12",
+            "category": "england",
+            "type": "News",
+            "title": "Dick Advocaat returns to Scotland with Curaçao before historic World Cup appearance",
+            "bullets": [
+              "&lt;ul&gt;&lt;li&gt;&lt;p&gt;Manager recalls Rangers tenure fondly before friendly &lt;/p&gt;&lt;/li...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;ul&gt;&lt;li&gt;&lt;p&gt;Manager recalls Rangers tenure fondly before friendly &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Steve Clarke: Scotland should be qualifing regularly &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;A smile flashed across the face of Dick Advocaat as he was reminded that, 27 years earlier to the day, he had watched his Rangers team complete a domestic treble at Hampden Park. “I was quite successful in this stadium, so you have to be careful tomorrow,” Advocaat said. Little could anyone have known in 1999 that in 2026 Advocaat would be bringing his World Cup-bound Curaçao to Glasgow for a friendly.&lt;/p&gt;&lt;p&gt;During 11 minutes on Friday, Advocaat completed a verbal whistle-stop tour of everything from Martin O’Neill’s return to Celtic to his World Cup ambitions. At 78, it is remarkable to see Advocaat in this scenario. Reflections on the past in this city were inevitable. He will become the oldest coach in World Cup history when Curaçao face Germany on 14 June.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/29/dick-advocaat-curacao-scotland-world-cup\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_13",
+            "category": "england",
+            "type": "News",
+            "title": "‘Everything just clicked right there’: the moment that made Bukayo Saka",
+            "bullets": [
+              "&lt;p&gt;Arsenal’s former head of coaching recalls the words from Freddie Ljungberg that shaped the ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Arsenal’s former head of coaching recalls the words from Freddie Ljungberg that shaped the young winger’s career&lt;/p&gt;&lt;p&gt;Jan van Loon remembers the moment well. As Arsenal’s head of coaching he was guiding Freddie Ljungberg’s first steps in management with the under-15s when Bukayo Saka joined the squad. Saka was regarded as one of the academy’s standout talents but Ljungberg soon concluded the youngster was in danger of not fulfilling his potential.&lt;/p&gt;&lt;p&gt;Towards the end of 2016, Ljungberg delivered words to Saka that, according to Van Loon, have shaped the winger’s career. It was a one-on-one evaluation, typically held twice a year in the academy, but also in the room were Van Loon, a strength and conditioning coach and Saka’s father, Yomi.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/29/moment-that-made-bukayo-saka-arsenal-england\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_14",
+            "category": "england",
+            "type": "News",
+            "title": "Direct, intense … selfish? What are Barcelona getting in Anthony Gordon?",
+            "bullets": [
+              "&lt;p&gt;Some Newcastle fans are pleased to cash in, but the winger’s pedigree in the Champions Leag...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Some Newcastle fans are pleased to cash in, but the winger’s pedigree in the Champions League is unquestionable&lt;/p&gt;&lt;p&gt;José Mourinho was a man on a mission. Once the final whistle blew, he made a beeline for Anthony Gordon and not only embraced the England winger, but whispered four words in his ear. “You are too much,” was the message from Benfica’s manager after his side &lt;a href=\"https://www.theguardian.com/football/2025/oct/21/newcastle-benfica-champions-league-match-report\"&gt;lost a Champions League match 3-0 at Newcastle&lt;/a&gt; last October.&lt;/p&gt;&lt;p&gt;Gordon had scored one goal, created another and terrorised Benfica’s defence in the course of the sort of performance that explains why &lt;a href=\"https://www.theguardian.com/football/2026/may/27/barcelona-advanced-talks-signing-anthony-gordon-newcastle\"&gt;Barcelona are paying £70m&lt;/a&gt; for his turbo-charged talent.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/direct-intense-selfish-what-are-barcelona-getting-in-anthony-gordon\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_15",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League 2025-26 review: our writers’ best and worst of the season",
+            "bullets": [
+              "&lt;p&gt;The Premier League season is over, but what did Guardian football writers enjoy, dislike or...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;The Premier League season is over, but what did Guardian football writers enjoy, dislike or marvel at over the last nine months? &lt;/p&gt;&lt;p&gt;Goalkeepers never usually get a mention for this award but &lt;strong&gt;David Raya&lt;/strong&gt; played an integral role in Arsenal finally getting over the line, winning the Premier League’s Golden Glove award for a third year in a row thanks to 19 clean sheets. Declan Rice and Bruno Fernandes were the outstanding outfield players. &lt;strong&gt;Ed Aarons&lt;/strong&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/26/premier-league-2025-26-review-our-writers-best-and-worst-of-the-season\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_16",
+            "category": "england",
+            "type": "News",
+            "title": "Crystal Palace’s seesaw season ends in triumph … but now a new era begins",
+            "bullets": [
+              "&lt;p&gt;With Oliver Glasner departing and key players coveted by big clubs, Conference League winne...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;With Oliver Glasner departing and key players coveted by big clubs, Conference League winners’ future is unclear&lt;/p&gt;&lt;p&gt;After everything Steve Parish has been through over the past 12 months, he was just about able to compose himself. The man who fell in love with Crystal Palace as an 11-year-old schoolboy when they reached the FA Cup semi-finals for the first time in 1976 from the old Third Division and stepped in to save his club from administration in 2010 reflected with pride on the journey that has taken them to three trophies under the shrewd management of Oliver Glasner.&lt;/p&gt;&lt;p&gt;“It’s incredible,” said Parish after Jean-Philippe Mateta’s goal against Rayo Vallecano in Leipzig &lt;a href=\"https://www.theguardian.com/football/2026/may/27/crystal-palace-rayo-vallecano-conference-league-final-match-report\"&gt;sealed their triumph in the Conference League&lt;/a&gt;. “An amazing achievement. All the ups and downs … To get to the Europa League, where we deserve to be. It just shows you: sometimes the good guys win. When I bought the club I wasn’t sure we’d ever play in Europe, let alone win a trophy. It’s a dream come true.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/crystal-palaces-seesaw-season-ends-in-triumph-but-now-a-new-era-begins\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_17",
+            "category": "england",
+            "type": "News",
+            "title": "How did Arsenal become a home for Black players and fans?",
+            "bullets": [
+              "&lt;p&gt;After two decades, long-suffering Gunners fans from across the diaspora have been rewarded ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;After two decades, long-suffering Gunners fans from across the diaspora have been rewarded with a Premier League win. So why has this sometimes beleaguered team earned such adulation?&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;p&gt;&lt;a href=\"https://www.theguardian.com/global/2024/oct/16/sign-up-for-the-long-wave-newsletter-our-weekly-black-life-and-culture-email\"&gt;&lt;strong&gt;Don’t already get The Long Wave in your inbox? Sign up here&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Hello and welcome to The Long Wave. As the resident Arsenal fan, I’m stepping in for Nesrine the week after my club lifted the &lt;a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-premier-league-champions-manchester-city-bournemouth\"&gt;Premier League trophy&lt;/a&gt; for the first time since 2004, prompting celebrations on a scale we rarely see, at home and across the globe.&lt;/p&gt;&lt;p&gt;Arsenal have a storied history with Black players, and its fanbase reflects that. A cursory look at the joy on Bukayo Saka and Eberechi Eze’s faces at Selhurst Park and the ensuing melee of supporters on the streets of London right through to Kampala is strong proof of that. I look at why a north London club has the love and dedication of so many in the Black diaspora – a flame that has remained lit through the good, the bad and indifferent.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/news/2026/may/26/how-arsenal-became-a-home-for-black-fans\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_18",
+            "category": "england",
+            "type": "News",
+            "title": "Sol Campbell: ‘PSG are favourites but sometimes you need a little luck’",
+            "bullets": [
+              "&lt;p&gt;Former England defender on why he walked out on Arsenal, their chances in the Champions Lea...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Former England defender on why he walked out on Arsenal, their chances in the Champions League final and Tuchel wielding the axe&lt;/p&gt;&lt;p&gt;“They’ve got a wonderful group of players and a great manager in Mikel Arteta but having come so close three times on the bounce I felt these guys needed it,” Sol Campbell says of &lt;a href=\"https://www.theguardian.com/football/2026/may/19/arsenal-win-premier-league-title-mikel-arteta-2025-26\"&gt;Arsenal winning the Premier League&lt;/a&gt; for the first time in 22 years since, in 2004, he was the cornerstone of their defence for the Invincibles. His team remained unbeaten throughout that historic league season, but the pressure on his successors has been immense.&lt;/p&gt;&lt;p&gt;“The wait has been so heavy and it was all pent up, building year after year, always coming so close but never getting over the line,” he says. “That’s why you saw such an &lt;a href=\"https://www.theguardian.com/football/2026/may/19/weve-done-it-euphoria-as-arsenal-clinch-first-league-title-in-a-generation\"&gt;outpouring of joy and togetherness&lt;/a&gt;. It’s been incredible because we’ve been waiting such a long time.”&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/28/sol-campbell-psg-favourites-luck-arsenal-champions-league-interview\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_19",
+            "category": "england",
+            "type": "News",
+            "title": "Quietly ruthless Régis Le Bris ready to lead revived Sunderland into Europa League",
+            "bullets": [
+              "&lt;p&gt;Head coach’s signing of Enzo Le Fée sparked chain of events leading to promotion and Europe...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Head coach’s signing of Enzo Le Fée sparked chain of events leading to promotion and European qualification&lt;/p&gt;&lt;p&gt;One of Régis Le Bris’s first acts as Sunderland head coach was to preside over a pre-season training camp near Alicante. It was July 2024 and, according to those present, the Breton sometimes cut a slightly isolated figure.&lt;/p&gt;&lt;p&gt;“I arrived alone, without any collaborators,” Le Bris said, reflecting on his leap of faith that involved exchanging the familiarity of Lorient for a job that, initially,&amp;nbsp;meant working with Sunderland’s existing backroom team rather than bringing hand-picked assistants.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/25/sunderland-regis-le-bris-enzo-le-fee-europa-league-qualification\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_20",
+            "category": "england",
+            "type": "News",
+            "title": "Blame for West Ham’s shambolic slide to relegation sits at the feet of David Sullivan | Jacob Steinberg",
+            "bullets": [
+              "&lt;p&gt;The club’s largest shareholder has ignored warning signs since 2022 and need only look at t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;The club’s largest shareholder has ignored warning signs since 2022 and need only look at the fate of Leicester to see what may be in store&lt;/p&gt;&lt;p&gt;West Ham jumped on the relegation train in 2022. Bereft of vision at the top of the club, they failed to realise where they were heading. One internal figure was worried but his voice did not carry enough weight. There were three consecutive years of European football and there was no impending sense of doom when &lt;a href=\"https://www.theguardian.com/football/2023/jun/07/fiorentina-west-ham-europa-conference-league-final-match-report\"&gt;West Ham beat Fiorentina&lt;/a&gt; in the Conference League final in June 2023.&lt;/p&gt;&lt;p&gt;Yet that glorious night in Prague is a distant memory. The Championship &lt;a href=\"https://www.theguardian.com/football/2026/may/24/west-ham-leeds-premier-league-match-report\"&gt;now awaits&lt;/a&gt; and, much like when West Ham &lt;a href=\"https://www.theguardian.com/football/2003/apr/27/sport.comment1\"&gt;went down in 2003&lt;/a&gt;, this is a failure that could have been avoided with better planning.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/25/blame-for-west-ham-relegation-sits-at-the-feet-of-david-sullivan\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_21",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal’s party embodies the metropolitan swagger and angst of a divided city | Jonathan Liew",
+            "bullets": [
+              "&lt;p&gt;The crowd that gathered late into the night to celebrate on the streets reflected an idea o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;The crowd that gathered late into the night to celebrate on the streets reflected an idea of London where all are welcome&lt;/p&gt;&lt;p&gt;The mounds of detritus pile up outside Finsbury Park station, like an offering to a vengeful deity. A deity gone rogue for the evening, demanding tribute specifically in the form of empty food cartons and abandoned Lime bikes. A deity that has finally decided to &lt;a href=\"https://www.theguardian.com/football/2026/may/21/numbers-sum-up-arsenal-won-premier-league\"&gt;break the habit of 22 years&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;They approach via the familiar sidestreets, Gillespie Road, Benwell Road, Hornsey Road, the little shortcut past The Plimsoll pub. The night is cool and calm and still, the air rumbling with adoration and freedom, the sensation of chains being broken. As they reach the stadium, perfect strangers grip each other by the shoulders, bound by shared memory, shared trauma, a shared hymnbook. &lt;em&gt;What do you think of shit? Tottenham! Thank you. That’s all right!&lt;/em&gt; A firework is let off, and then another. People are FaceTiming their relatives. People are getting selfies with Ian Wright. The crowd is hundreds, and then thousands, a lawless melee that in classic Arteta-ball tradition features plenty of jostling but no free-kicks awarded. Meanwhile, in the digital wilds beyond, the celebration police have laid down their truncheons and riot shields.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/24/arsenal-premier-league-title-symbol-of-the-metropolitan-swagger-and-metropolitan-angst-london\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_22",
+            "category": "england",
+            "type": "News",
+            "title": "England’s World Cup squad talking points: from Toney’s return to clarity for Bellingham",
+            "bullets": [
+              "&lt;p&gt;Thomas Tuchel has placed great faith in John Stones and Djed Spence while ignoring several ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Thomas Tuchel has placed great faith in John Stones and Djed Spence while ignoring several star names in attack&lt;/p&gt;&lt;p&gt;Thomas Tuchel said that &lt;a href=\"https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-2026-thomas-tuchel\"&gt;whittling down his 55-player longlist&lt;/a&gt; gave him “a certain edge”. There were some tough phone calls and some decisions inevitably caused outrage. But there was a pointed remark from Tuchel about how creating a winning team is not necessarily “to select the most talented 26 players”. The aim since September has been to build a brotherhood; Tuchel knows maintaining harmony within the camp will be crucial given that England hope to be together for seven weeks. “We have 26 players who know their role, who are committed to the idea of team spirit and being unselfish,” the German said. Was there a message to Harry Maguire after the defender &lt;a href=\"https://www.theguardian.com/football/2026/may/21/england-world-cup-squad-harry-maguire-thomas-tuchel\"&gt;aired his grievances&lt;/a&gt; at being overlooked? “I think it was not necessary,” Tuchel said of Maguire’s decision to go public.&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/22/englands-world-cup-squad-talking-points-from-toneys-return-to-clarity-for-bellingham\"&gt;Continue reading...&lt;/a&gt;",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_23",
+            "category": "england",
+            "type": "News",
+            "title": "McCullum and Stokes 'crystal clear' how they want to take England forward",
+            "bullets": [
+              "Head coach Brendon McCullum says England's Ashes thrashing has left himself and Ben Stokes \"crystal ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach Brendon McCullum says England's Ashes thrashing has left himself and Ben Stokes \"crystal clear\" how they want to work together as he backed the captain to rediscover his best form amid a potential move to No 7 in the batting order.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_24",
+            "category": "england",
+            "type": "News",
+            "title": "Wolves agree deal to sign Trippier",
+            "bullets": [
+              "Wolves have agreed a deal to sign former Newcastle defender Kieran Trippier.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wolves have agreed a deal to sign former Newcastle defender Kieran Trippier.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_25",
+            "category": "england",
+            "type": "News",
+            "title": "The French question - will Wigan's star man return for Challenge Cup final?",
+            "bullets": [
+              "When Wigan Warriors named their Challenge Cup final squad, one question came to the forefront: Is Be...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When Wigan Warriors named their Challenge Cup final squad, one question came to the forefront: Is Bevan French going to play at Wembley?",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_26",
+            "category": "england",
+            "type": "News",
+            "title": "New Zealand warm up for England Test series by thrashing Ireland",
+            "bullets": [
+              "New Zealand warmed up for their three-Test series against England with a crushing innings-and-79-run...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New Zealand warmed up for their three-Test series against England with a crushing innings-and-79-run victory over Ireland in a four-day game at Stormont.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_27",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup Squad, Projected Starting Lineup - PrizePicks",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOakRwUWxjZW5VaWNRZy1lZFhrOXoxZmZxT1E...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxOakRwUWxjZW5VaWNRZy1lZFhrOXoxZmZxT1E1SDhUSDZlT2pJbV93cE5IbVpuNWU4VlRpaXd6UHBQeWNOSlhBSUhXSGJwOHZTM1FBeEhjdWpfMFhEeE12TW1aX1R5SEk4c0RrLTNCRmlLOU1xS245UzZvZGFpRjVvclFHcGpsZzJYTlZZc0Nfa0huQU9UTnBZaQ?oc=5\" target=\"_blank\"&gt;England World Cup Squad, Projected Starting Lineup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;PrizePicks&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_28",
+            "category": "england",
+            "type": "News",
+            "title": "Guardiola Aims for England, the Catalan Coach Dreams of Leading the Three Lions After Leaving Manchester City - beIN SPORTS",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPNWZqSDE5WkMxc1k0OHdDSEIwaTllLU8xZHF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPNWZqSDE5WkMxc1k0OHdDSEIwaTllLU8xZHFhdmxzNDBTRGhieUNTLXU4RnVLeXZBelpfcXk2TWd4dXRfc0locGExOWNHa09ZTE5Qc3RTZ0luc1czOFUwekJJMEEyV3BTdzVaXzF2cE84QXhlWDFfUzV1YjFVa09IRFBFc1dpSWZwY19qMXY2RnFiZThPWndXX0E4N2FXbDFzWm4yYnBUMmZ5RlZhVmlPT1ExMWVxSW12OTVLUnRhTXhRd0R4Qm13UmVfWDR2Y2t6NjRBTnJiMGs4RnJaaVE5TG4tRlJvSXRzSGNvT3VQdDc2WVRBcFh3NHNRaXBWSW10TllTZ1ZDTExNU05QQUYzTw?oc=5\" target=\"_blank\"&gt;Guardiola Aims for England, the Catalan Coach Dreams of Leading the Three Lions After Leaving Manchester City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;beIN SPORTS&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_29",
+            "category": "england",
+            "type": "News",
+            "title": "Saka: I see strengths everywhere in England team - FIFA",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzdhUXJnUTU0S1l5Yk1FZS0xT2lBb0N6elh...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQbzdhUXJnUTU0S1l5Yk1FZS0xT2lBb0N6elhrS201OEVGamkzdXFYYUo1SFFBOFpfNG5WWnpCZjg5Ujh0dnVGR2QtM3c0MWc3anZwNUc4Z3dEWW9BZ1BuSWl4a2djWnV5MGxYTG9KMlF3LWUtSEtnS2xxRVh3R1dRdlRpTU9DeHJydnh6T21qeFFCV1JqanpiTkszaVVZZmJCa0lPZHpTTWpTNVBz?oc=5\" target=\"_blank\"&gt;Saka: I see strengths everywhere in England team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FIFA&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_30",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane approaching history for England soccer at World Cup - The Patriot Ledger",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3cwcTlKbXE2UlE5bEpFU0Nad0lPTTNpVHo...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNT3cwcTlKbXE2UlE5bEpFU0Nad0lPTTNpVHo4WlgtSGZNVUp4R1d2S3pjVGg0Z2dHYmZfUG9HMEcyS1o4eVZYbUswYUdhTzc5Yy1NVG9vYjhNX3FHT0duMzVBUHpVLThTd0NRRm1WalllcjRLajEtSXhPY3VJZGREUUxyN25lX3Y0Z0JUN01FZ1paYXNZaEdHQzZDRWE1dnZwdEJ1djFXcUdnNTY3cTVHY0NmZlBGWEdwU3lqdGlXWlVqTXRJYlZhV3N6YU1NYUlaX3hGenZGWl9iRDhQVFZueFRGUmFHN3pHb2hzaWdaZmItcVFNZm9INFZkSkFxQQ?oc=5\" target=\"_blank\"&gt;Harry Kane approaching history for England soccer at World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Patriot Ledger&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_31",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions UDFA’s That Will Turn Heads at 2026 OTAs - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVFDSVBNR3dfTkJqTjctZVJtMFR5VEVjbkl...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPbVFDSVBNR3dfTkJqTjctZVJtMFR5VEVjbkl2aEJIc0gzVVdyMDVxeWo0aGg0U0tRRUVIT2JhTWs3SlB0emVycjBqVmxZVTBoOXo2dWdDNFAyYVlkdGlhZmtfN3RCMGZtTGo2bHEzWk1neHIxVUE4T0gybllqNkZ1UU9OUW5RcjQ?oc=5\" target=\"_blank\"&gt;Three Lions UDFA’s That Will Turn Heads at 2026 OTAs&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_32",
+            "category": "england",
+            "type": "News",
+            "title": "England supporters can snap up their three lions on a shirt at a significant discount (Contains affiliate links) - facebook.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc2NUMW1RQmJMWXNQaV9GWHZwQlJQQzV3WXF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxQc2NUMW1RQmJMWXNQaV9GWHZwQlJQQzV3WXFJZmdBZ0Q3MEF4TEtaWUpNQnlJUW1WZXdIUEJHUjMyb1RsMVdOSDg5SjNmQUNSVmpNV2pTei04WmFRUTZmci1CNi1iVmxuaWxkR3RoU0pRanVHeGFONUQ3LXdhamtYZnBUaVR3UlIwb3M3TENQNXZJaEpydjhtRG80SktEM0JkQVhrazRrUGtydDlpUjJaZDlBcDFQMnY4YjdQM1FxSjQ4cGtUTmUxWEhBYXlJOHhpN1AxMmVmNEJVY1EzRXRuUGFiRjFuQQ?oc=5\" target=\"_blank\"&gt;England supporters can snap up their three lions on a shirt at a significant discount (Contains affiliate links)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;facebook.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_33",
+            "category": "england",
+            "type": "News",
+            "title": "England squad named for FIFA 2026 World Cup - England Football",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjFBWjh0cXRZNkpaTnVjOVVyaTQ5TnFRUmx...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQMjFBWjh0cXRZNkpaTnVjOVVyaTQ5TnFRUmxsT0RBUVBLdVhxLWljWWRKeEFqdFJBbFJVMV9BNWlzV3BpbHVHeXUzLUtvc1BHX2x3Vk94OXpxenJTZlQ3UHc0ZWN4V0dwUEUtNU40WmdaMEhhcmFHVmkxYmFlN3Fod3FLbWtGMEdjcDk5X3RfOU9qT2QwcEhxVWktY1NfaXYwVU95MWt6enNvR2dmOXVPdUR3X1prTXZwalE?oc=5\" target=\"_blank\"&gt;England squad named for FIFA 2026 World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;England Football&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_34",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane World Cup Golden Boot Odds &amp; Prediction - BetMGM",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzVoZ2F3aUxGeHY5eTVNaEhXUDQ2Vk9LcXN...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPXzVoZ2F3aUxGeHY5eTVNaEhXUDQ2Vk9LcXNmc1hzSmo5dDVPRGtNUjVLWmV0NHpZaE5WR08xVW1rLURLU1pWNzBfbmRsZTNNZUdQX0I4M3cxM0FBTi1VMklOcXE2MWs4X3FDWFV6VExXazVzeVFraUdCODEyaXU5WHVKdHU3M1diTzB6WTNwZ0J3VWp2eEpvR1N0YWp4ZjQ?oc=5\" target=\"_blank\"&gt;Harry Kane World Cup Golden Boot Odds &amp; Prediction&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BetMGM&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_35",
+            "category": "england",
+            "type": "News",
+            "title": "Pep Guardiola 'Keen' On England Role; Former Man City Boss Is FA's 'Dream' - FOX Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaUJTcUFxaHIxSWlRMEVpWVlfRUtuSW1EWGd...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxOaUJTcUFxaHIxSWlRMEVpWVlfRUtuSW1EWGdJVEVaUGxKbExlRWJFZzJpbkI3em9NMmZvMXVIQWJKRkhxVGp3Y2w5c3NuWmdpOWcxd0ZBRWQ3bGkwdndENXBfZnlQNHJUc2JkUUt4Wml5ZU5hTWhKc19qYXNkMWttYnBQNkpQbzBpMWVIdDZvc3B6UEs2Z1M2R3dwSEVyM0RKZkRTNTdvNnZabWlXd1RfZkJES3NUVFY4M0N2YTR4Nmozcmw2TmhsLUZjbV9GNXFQcEZPbmlvRW5DLXJLS2ZUZFRSM3dYZjctRThfVdIB7AFBVV95cUxQSWVhVzBzUnVGeVBxTUIzTS1FbkQ0S0FFMnh6Q0FPY2tXVUdjbGU4X2xtcHQwYWhOcGpueEN2aGlUM2dFVGFvY0EweEN6aWhVRG9EcHJSU2IxU0FDUEdZYlBMd2VTY0tPOGpvTzlIbjlIQ3JVM1lkeXd6WWFYaWdab051amJ5NHV1UGloUUxRZTdzR01oU210MFhsWEh0b0FvbDEzRlNZZGZCWlYydGtBTUUyTUVmWDliU0MyaklZNjlNMXZRanF4TzczUkE0aFpUZUt3VHlNQUtUZkNHbXdCYVRaQWlJRWRqaTM1Sg?oc=5\" target=\"_blank\"&gt;Pep Guardiola 'Keen' On England Role; Former Man City Boss Is FA's 'Dream'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX Sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_36",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions who will have bounce-back 2026 seasons - Macomb Daily",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmZsRjhjTVViOWVDLXFmUEduSmpiTXA4UXJ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOMmZsRjhjTVViOWVDLXFmUEduSmpiTXA4UXJVeG5meU9fOHZXY0p6am5uWGJvN21RUTdVZWpJaGZBdWxOMU5PSE9faXFfcnd0bjY1NEVFRjl6QTk1dUZWSVNmdTNjZGxESkVyWmY3MTcxOTF5dVkyLWc2X1p5NzcwVEMzU3Z1Y2Zya0htOWNWM1FaMHYw?oc=5\" target=\"_blank\"&gt;Three Lions who will have bounce-back 2026 seasons&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Macomb Daily&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_37",
+            "category": "england",
+            "type": "News",
+            "title": "Wayne Rooney backs Thomas Tuchel's England squad despite three 'controversial' omissions - talkSPORT",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHI2MEpUZVlOVHRpSlU0MlhJWU9QSGVwQjR...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNdHI2MEpUZVlOVHRpSlU0MlhJWU9QSGVwQjRDUDhMSXBmZHo5djN1RE5IZDhBSGFSUnYzUFRtMkFEMlFJclU0cjM3U1RPVVJVNjYxeGR2aGlGckFURS16Ul8zNHp6SFB5SGhCWDBiT2owOGhKN3NNQzRyRGtlMXl4NG04ZzJyeDVqakpUZXo0UUYySlZCSFJ0M09qOXNsZ0hncEE?oc=5\" target=\"_blank\"&gt;Wayne Rooney backs Thomas Tuchel's England squad despite three 'controversial' omissions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_38",
+            "category": "england",
+            "type": "News",
+            "title": "England’s World Cup fixtures: Dates, kick-off times and venues confirmed - The Independent",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0k0ejNjc2VURDdSSmlRbVctMldtdmN6enU...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0k0ejNjc2VURDdSSmlRbVctMldtdmN6enU2TzI1eTlOZ0ctMHVJVy1yeExzc18zYVlnbmhOcGc1U2dieDNqbnoxUWNKSDlCZlhMNEFmVjJXOUx0YThBZ0ljU2hleUlRX3Y4Q1lWd1NuT1kzT3pWV3Vxcmcwd2REN0M4MktZSHJFQk9UbkR0V1RZOXQzbW9ScUxoTU16WDJsQzRkcEVTVQ?oc=5\" target=\"_blank\"&gt;England’s World Cup fixtures: Dates, kick-off times and venues confirmed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Independent&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_39",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions named to All-ASUN conference teams - University of North Alabama Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPckR3bkdQRzd3UUx5dDk3OVNDam9na0ZSdkx...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPckR3bkdQRzd3UUx5dDk3OVNDam9na0ZSdkxDVUJoYThZXzNCMS02Q1hlUEpLbWcwVkxzX2JtZWkxQW11M3JLQkVKQk9Zdnl5UTQ3WndpZUpIckdIT2FOcEQyM1c3SF9vcnhwRzJpUFY3NkZVLVQzOWpVZmZEeEd0VXRIQV9VYnlKV2FWb3VRUlZlMjQ2RHZyNjJpV3A1RkU?oc=5\" target=\"_blank\"&gt;Three Lions named to All-ASUN conference teams&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;University of North Alabama Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_40",
+            "category": "england",
+            "type": "News",
+            "title": "England face humiliation with 50,000 TICKETS unsold for their first US game - The Sun",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGtpdlFTUlA3aUVyWV9QS0dmN1RNRGFYWC1...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGtpdlFTUlA3aUVyWV9QS0dmN1RNRGFYWC12MzNMQmk1VU16UWtyRWljY19WaFpBdEVRaW1SOFFCbFdWZ3k3M2FYbXRvWXhBZVNFU2l5MUlocHVQaUJlaURVTlBXdTZZaFlodmp2WmhDSW16Y2tKM2hudUNiMmtmNXVhdWotVWtVSU9WazVSWWFRWUZLYnRacVlaRmN2VHBQ?oc=5\" target=\"_blank\"&gt;England face humiliation with 50,000 TICKETS unsold for their first US game&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sun&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_41",
+            "category": "england",
+            "type": "News",
+            "title": "Panama edge England in key areas as mini gem ready to surprise at World Cup 2026 - The Mirror",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdG1KbHUtVU1peGNmLWdLU3hhOEhIbGxCV09...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdG1KbHUtVU1peGNmLWdLU3hhOEhIbGxCV09FdmZXTWgtUnFSeTZXZ3NMX0dWaTl6XzRzcFBFbTBKRmQ5a3lDTko2SXJIWVZ4RUY1eXpoVVpYd2RydjQ0SUVraThZTjB3NUN0YkJkNlRZSlZTdmVsVDdLMDRUTHpjSDhDRDRocjZPRVJGNEllaw?oc=5\" target=\"_blank\"&gt;Panama edge England in key areas as mini gem ready to surprise at World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mirror&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_42",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions through day one of multis at 44 Farms Team Invitational - East Texas A&amp;M University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHV2a3VIMEdnbkhWYTBiZHNqQlJISXJhWnY...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQVHV2a3VIMEdnbkhWYTBiZHNqQlJISXJhWnYwdzBoam9JTFhkc0VPVExBaGkxR2tJWGhGc2Z2LVZpZmRVT2FHWElrSEdCVGlvLS1uWUNfSFdjM1dzQ2xfenBPNFg2bDJ1TmJhckdEbDdVSFhJcjBOWWtSa2JNQ0dGelJBRC1yRDdQSjRnLUV3X3VuM0c0b3hGXzNlNGpUX0hTUXFzMm1QNWFEUkRPTmEybGJwelRHc2FBN0Nkekl0X1ZJU2VyNG9lNnBoRUN1Zw?oc=5\" target=\"_blank\"&gt;Three Lions through day one of multis at 44 Farms Team Invitational&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;East Texas A&amp;M University Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_43",
+            "category": "england",
+            "type": "News",
+            "title": "Watch: Three lions settling into new home at zoo - BBC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE45LWtnT3AzaDdudUZzM2N2Tzc1RXRKejFraEl...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE45LWtnT3AzaDdudUZzM2N2Tzc1RXRKejFraElHQk9OemVSN21JMVRfd2VySlBQb0htbHk0Tk9kNUI4Mzh5dVBXdF9ZZ1NmdWpPWnY0NzJxdw?oc=5\" target=\"_blank\"&gt;Watch: Three lions settling into new home at zoo&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BBC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_44",
+            "category": "england",
+            "type": "News",
+            "title": "England 2026 World Cup Preview: Three Lions Look to Buck the Trend - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVFdxRzd1TUx1b3hPal9jU2JheHpKcE9GZm1...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rVFdxRzd1TUx1b3hPal9jU2JheHpKcE9GZm1UaThOSG1HNW11NTlQcXdDazB3OTRFLUZqWm5XSEppY3ZkZlR6QTZiMk5nNTN2UWowZlhvQkUtOXVKT1NfSWk3MER6Qlk?oc=5\" target=\"_blank\"&gt;England 2026 World Cup Preview: Three Lions Look to Buck the Trend&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_45",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions earn CSC Academic All-District Team selections - University of North Alabama Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNT21CUkNiZF9nYmxrUWhXUVl3VWh6U25CQnJ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNT21CUkNiZF9nYmxrUWhXUVl3VWh6U25CQnJvY2FtbWVVSXJGdWtRQ1FNNVlwczUzb0F0NE1SUUYyZTFWZkFTQktYZk1nbmFYY0c0QXYzeEtOTUJRbERKaFNCXzBEOEF0M2tKWlBELWNZZThiV3ZodGdpcUFUOGdWUVh6V2FHMnZ0VWVMdmlGUGx5eFFURWxhbXllSGs1VGxtUDllZ0I2S1ZLTUh5cGxScTEtWl9GalBKOVE?oc=5\" target=\"_blank\"&gt;Three Lions earn CSC Academic All-District Team selections&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;University of North Alabama Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_46",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions Earn All-Ivy League Honors - Columbia University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQU93eER6VWJIbFlMMzNFeUE4WEZkWmdaa1l...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQU93eER6VWJIbFlMMzNFeUE4WEZkWmdaa1lITkIzZzJyU2xRYWp0bU5VbHF4bG5UMXJicjZ3dEgwa3NFSG56dmQ3TWdRYUpYNU4xZnd5Wl9PMEFnbFVhRklreUQ4OF95T3pxdktuSG1hVGxjaDJZdjFkZHRMcmhVZE9yelkxdzQ5YUVWS0dUZU9pdlpHU1ByMGdR?oc=5\" target=\"_blank\"&gt;Three Lions Earn All-Ivy League Honors&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Columbia University Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_47",
+            "category": "england",
+            "type": "News",
+            "title": "Pep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA - FOX Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYV84U2lXMTY0YWlBNHRTZ0k4N3pqb1VzUmd...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7gFBVV95cUxNYV84U2lXMTY0YWlBNHRTZ0k4N3pqb1VzUmd5akw3QlFReWJoLUZZYmFGZlFiOGZXRVNIUG1TUjNBMVJTaXJmTldtMHdjZDV6Y1pKX3AyRk41SzRXVmtEY3E4djZGOFJkdjFqeGpLNXNLZ25RVUNqSXNISzd4ZV96WGFHYzVkd1lncGRIa2Vsd3lvNFU1SUctNEFoSHRwSW8yNXM0Y2J0UWVqZGl5aW5ENERmX0hia0lpeUZodmx4UDlEbmlacWh3N2w0VHZGNVE3U1RzUmRtN2N6aUN4THZRVy1pR3dOdTMyb0gzM2h3?oc=5\" target=\"_blank\"&gt;Pep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX Sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_48",
+            "category": "england",
+            "type": "News",
+            "title": "Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin - Yahoo Finance UK",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzhNWE4tSUJ1aEt2NUNTb1ByaXFaMWVIbDJ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZzhNWE4tSUJ1aEt2NUNTb1ByaXFaMWVIbDJJd1pxMFlLR3BDOElxUlNvanhFV2gzY0oyMl9LaFRsRUxGU1VVaUpwMXcxemRrUHdEd0N3X2VoOUJSTlBOb3RXbHdTY2RnSlNSSkhnSTNpM3pOU3NmTTRfV0tfZGtQSzU0N3ZPaDc3VXBr?oc=5\" target=\"_blank\"&gt;Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Finance UK&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_49",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup England Outright Prediction: Betting tips for Three Lions - talkSPORT",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOExlVHVYU3JuVFNSRTJ5MTM0QkFfRURKN0F...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQOExlVHVYU3JuVFNSRTJ5MTM0QkFfRURKN0FmOVA3bmM5dkZzT2xNRFdKblBYWHgyTER2aHlkcUgxQURkSDJmWkVhYlBMRkNTT1ZKRm50djBXSnRWamtOQ1ZhS3hkUjNvUk1LaXlJcmR5aERMRXFQbmNFeF9JTkNPSVRxNA?oc=5\" target=\"_blank\"&gt;World Cup England Outright Prediction: Betting tips for Three Lions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_50",
+            "category": "england",
+            "type": "News",
+            "title": "Three lions have arrived at Africa Alive in Kessingland, Suffolk - BBC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HS3YzSWYzdzlxY2h2NHRMS2ZEZk9GNTMyWjN...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HS3YzSWYzdzlxY2h2NHRMS2ZEZk9GNTMyWjNnNGI2WHBNU2hhaUNnWDJVOWZQZ0h3bWhrNUotOEFrQk9Dc1FEZUN6MTVfOXRVT0RjYmItbUgwdw?oc=5\" target=\"_blank\"&gt;Three lions have arrived at Africa Alive in Kessingland, Suffolk&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BBC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_51",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions Claim Titles, Seven Place on Podium at David H. Lehman Open - Columbia University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1lhdk51eHhiNXpPLXF3NW12ay1rUldDOFh...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOV1lhdk51eHhiNXpPLXF3NW12ay1rUldDOFhUQk9SZ2lwX1c3ZnI4d2ZJTzRjbjBBYmRrNHhuaEZJa1Z2VmswMklXanVHTXV4TWRNZ1ZNeGFkZ19wSndMVGZNOFlrN2ZfY1pXTUEzUHhpV2p6RGVOYnlfeDQzQndvMWlyVkNUdnIwM2ZaZnBBdW1CTWNZYTczY2FGRndBRUR0d2U1QTUzbWdHOEJ4VE1XZXJnS0dCbERpejVBTWNn?oc=5\" target=\"_blank\"&gt;Three Lions Claim Titles, Seven Place on Podium at David H. Lehman Open&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Columbia University Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_52",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions Named to CBU Classic All-Tournament Team - Loyola Marymount University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlg2ZGQzNWxjMC1KN0ZUWHZiOHJ6Sl9mQm5...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOYlg2ZGQzNWxjMC1KN0ZUWHZiOHJ6Sl9mQm5hcXZCTHl6aXpzRzdtdllWX1k1OWhZZEJmd2ZtN3FXOEdGcmt5QTRKNVF3ekZJeTY5UnVQNUNHb2RSbkNPZnFXSUtrd2dfMWV3bWFKcjBSX3BfTFRoZG5nQllEZndXYzhqVXpaa1pMQkZ1OFplSExja2xXYXA4U3NEa3l4cVREVDdyYg?oc=5\" target=\"_blank\"&gt;Three Lions Named to CBU Classic All-Tournament Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Loyola Marymount University Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_53",
+            "category": "england",
+            "type": "News",
+            "title": "Anthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory - The Mirror",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0NZa0pMdzhhT3pWd0lPRURsLVFBY3NwVXZ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxNM0NZa0pMdzhhT3pWd0lPRURsLVFBY3NwVXZJUlVBVWNCOS1JOVp6bDN0dlRCTEI2MlhCZ2NwVzNkN2piSm92YzA4dk9oWElqT3pOT2ctaUZiV0J4MzRpTnAxSnhldXIyaEwwMjMzbTUyNU52QWRoVUhkLTBrNmpVQjBaMG42cVBnb245c3BB?oc=5\" target=\"_blank\"&gt;Anthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mirror&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_54",
+            "category": "england",
+            "type": "News",
+            "title": "The remarkable story of Three Lions by Baddiel &amp; Skinner &amp; The Lightning Seeds - Radio X",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMDZlNEtZX2o1VkpGSDA3NzdpUEl1N3RpTkt...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE4zMDZlNEtZX2o1VkpGSDA3NzdpUEl1N3RpTktJQlZmTUs4UHFUeU9lWEhwM29mbW56LU9uOGIxSTVNYnZCUHh0d1o1LUluSjVtUVFZb3E2NENWTDFsV3RRd2lDS1N6c1FYd3FLY0xMVDhNY1lkb19z?oc=5\" target=\"_blank\"&gt;The remarkable story of Three Lions by Baddiel &amp; Skinner &amp; The Lightning Seeds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Radio X&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_55",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions Advance to Semis on Day One of NCAA Wrestling Regionals - Lindenwood University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRC1FdjlPak9wUDVSZVp3cTVta3otRy16QTR...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPRC1FdjlPak9wUDVSZVp3cTVta3otRy16QTRKbGJJbV9iYVA0aUtSMXc4WEIyV2FTTzYwQ01SR2cta2Zzb3dEaDQ3MGlHdU1MY0dFcTE1bERRUlBTeXN4RGJablNndmQ4SEN0ZmJia3Jja0xwbklXdGFpaWVwaFJGZVVOVTNkTEFZa2l6ME1hY2RZem5JaVBOdzB1WlRnVUtlZlVYMFNoOWxVNG1kUjU1dUVBMmdNUm5oUVFoemtMZTdySndGc0R6bVF2eDQ?oc=5\" target=\"_blank\"&gt;Three Lions Advance to Semis on Day One of NCAA Wrestling Regionals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Lindenwood University Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_56",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions earn preseason all-conference awards - University of North Alabama Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObkxJM3ZJZUJZYVYtSkFZekF0ekZjZE44YzB...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObkxJM3ZJZUJZYVYtSkFZekF0ekZjZE44YzBQRHhGaWNENU9GSkkwN3FnYklqY1ZCU2hhWDVSaHY2OXo4ejZhUVFMM0dMbU04ZEJCZFROcWx5cXhzbnVZOUFoNVNkTHAxWHA1YWt3TzZNVDM1anV4bnBmWkhpeEtDYU5zNi1aeE1fajVPZnMyUzdFY29OZHdLU3RXRU01b0E0?oc=5\" target=\"_blank\"&gt;Three Lions earn preseason all-conference awards&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;University of North Alabama Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_57",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions earn All-ASUN postseason honors - University of North Alabama Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORUpKbVJIUzBwbGVhZlJHUW9rSzJ6UWZnb2Z...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxORUpKbVJIUzBwbGVhZlJHUW9rSzJ6UWZnb2ZTRExMSDFHOWpsaHA1M19xRDNmaDNIcXJlSzVZYlRBbjRxS0lVT2tMVUNrQ1FiSklhM0xTU1I5bUJxZGVfeGc4ZzdzRXNRd3VKamZJYXlKTHlVejY0OHRMRDVXamdVMjN5ZExBcWdyenFuVE4tWW41YVJITFQ5LWdLXzF3UklHakd2WWMxcw?oc=5\" target=\"_blank\"&gt;Three Lions earn All-ASUN postseason honors&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;University of North Alabama Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_58",
+            "category": "england",
+            "type": "News",
+            "title": "Prince William Makes a Surprise Trip to England’s Training Center Ahead of the World Cup - Town &amp; Country Magazine",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1RMb0JmUGVaeDUzODZoRTNDbVV1Mm4zVHI...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPN1RMb0JmUGVaeDUzODZoRTNDbVV1Mm4zVHI0ZnV4czhMdTlIbVZlYjUwRWVPRW9tNnJnZ254UGxTT3RxT2RBbTAzdzUwWUNLSW0tTXhrc2J4T3FIMmtteHFBZENmUUMzZDlOeU1TSXV3M0tvMVI2M18yN2NRVEJZMVhnblRjN1lfbUpMcDZ2ekZpSWdaaWhNWGwyN0pJbVhlbUNpc0xjcGdOVFJmVVpTUXhRZmpYcF9vdzFsby1ROA?oc=5\" target=\"_blank\"&gt;Prince William Makes a Surprise Trip to England’s Training Center Ahead of the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Town &amp; Country Magazine&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_59",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions - the football anthem that united a nation - BBC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iek1vQXR6U2U4R25zT0hDbmZLUFY2c2xxSVR...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iek1vQXR6U2U4R25zT0hDbmZLUFY2c2xxSVRMS1lBR1NlcTVPaUsySWtELURqbzlmUjRMVkF4NGl5NWVfTmE5NjVicG1IYXYwQzZLbEROaVRaZ2E2TVZSSmdxaXNwZDg?oc=5\" target=\"_blank\"&gt;Three Lions - the football anthem that united a nation&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BBC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_60",
+            "category": "england",
+            "type": "News",
+            "title": "England FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer! - theweek.in",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQktwRGZkaENpV21xZXprYV9zc1IyRmZQS0Y...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPQktwRGZkaENpV21xZXprYV9zc1IyRmZQS0YyQ3dpSERrcEE5ZkgxNHhXMmk5Smt3SVNBbm5nRkRBUFFqU25rOHVnd1E3N29kUU95eXZIZDFsRkNYNE5YNnR4Wi00Tzh6WUlPVkltVHNLLU0wTTN0NGxJTnVPUGE0MjE0YVlLem5iRmtpSHZwa1pLOHVhRmhRT0EyZ2xTclFsT3lEeDNiSFVvMkFJWXpYM0RrNHkxNFlteVN5ald0cENjdmZjLUgxTWFyTdIB0AFBVV95cUxQX0wwSUxOamw1RUYxVnYzQjJVNDlWaDlael91UTBlLUFrUVpZcHBPN0xyb0piZzE2WC1EdU9TeGk5SkRPa1ZxcEJSVW1lRGFDUTJubWQtZWFMd3NkS1dCNHhFRmdSMzF3cFpDTGhXWDVBV1dqVVVOM1ZJdHZRdnlEeWNSNFNWTlVIa1RkWVhwWDA1TnlqWFljTmlwREZNS3E4WGxlWkJoTG5GNlhxdzFtSDAyTXIxS2M5a1M1bTZXQnEyQU1rS295RDZoSTh1eVRW?oc=5\" target=\"_blank\"&gt;England FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;theweek.in&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_61",
+            "category": "england",
+            "type": "News",
+            "title": "England fans can get iconic £50 1982 retro shirt for under £10 ahead of 2026 World Cup - The Mirror",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRqdnhyQWFpdnVNT0pwSFRHdEJEZ2RXSUI...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUDRqdnhyQWFpdnVNT0pwSFRHdEJEZ2RXSUI0N1ZGdmZIbk1zWW82c1lWd1JMcGdfZVdHa2xGdEJ2RkhZdWNqNjJacTh4ZDNldC1HODR2c0hRUjBJQVFZWlQ2MVNfNlE4ajNWZGM5bEpJbjNtcjE4bUVUTzdCaENJMDdJVdIBiAFBVV95cUxPaUhBOUNDcUdPNFdYWTRoR1Rhcy1VaTgxdUxWT0dkUDY4a0llODNGUmFFYkt0blhRaEtWTVJVdGlfSjQ0c3M3d1ZKOXFEYkd0bFRNeVJsTi1kQlg4ZkR5dVNhRldBdk4wUGFUeFZETWV2bE5MSjU5XzRhVDhVbkRWQ29MVmg0c21Q?oc=5\" target=\"_blank\"&gt;England fans can get iconic £50 1982 retro shirt for under £10 ahead of 2026 World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mirror&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_62",
+            "category": "england",
+            "type": "News",
+            "title": "What to know about the England national team as they set up base camp in Kansas City - KCTV",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHppTGtMNG05VU1HaDI3WFFzV3BVMFBRbzI...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTHppTGtMNG05VU1HaDI3WFFzV3BVMFBRbzI1b2duOGJEMVpxaEZ5T2IwcW9wSGQybHYtd0J4d2ZxbVR2LUM5bk82V2xfejNHcnVaZVVBTk44aDl6eGtzNDQxUl9uY05seHBVMHlDQmpnVmF0UTNtUVRNaHJUMF9BSHZFYmx2b1JxVDhNOWcyaFlfa0FhMFRLUUR3LTI1ZkR3YzJhaWRRNTbSAbwBQVVfeXFMTVk5Z0EzaDkyZlFRUFhwUHVROUZlenhIbER3cmpuUm5lenJoSGlrbjhpcFhkNEpuSmdqRFdJc3NDSGo2ZC05NWtua3k5cVpocUQyVHJ1cXp6bnk1TjVTN055NXNzTERQazJKT3VsNW1aYVhGUlJMTDQxZW1ZRkdpNi1GSTRnVVBncTdjRThQVEFONzd3TVdTbUprdnRYbkVqSHladFcwZFhEaGp6bjJtOEpqbnlFWXplTTI3T0w?oc=5\" target=\"_blank\"&gt;What to know about the England national team as they set up base camp in Kansas City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KCTV&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_63",
+            "category": "england",
+            "type": "News",
+            "title": "Sneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup - FOX4KC.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDlTdGJDSGk0SUNMdHhRTlF3TDN3UGV4czd...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdDlTdGJDSGk0SUNMdHhRTlF3TDN3UGV4czdJc1h4bVktTldYYWgzcG1idDBhUDItek9EWUxPOUhPSTcwYUNsS0Zra2QzLWNrUkU2OFY3eXR2ZWw2V0JMbHFnNEhjdVVjMlFUVkxFZXo0d3hQVmpDMFl5em5tWXh3X3NfNnFObmJSaDZmX2Y1N29UWm5rZi1rZEV2T25Pd1liSzFsMF9qN2hnZ9IBrwFBVV95cUxNU0RwLS1jTVdHR0hRR3hfRWNocTBLUGE2NDZPVVZkUXdpNFNVM3puTEhRR28tQjZnOWlPTmpYc3UtV1h5dmFsNzZ6XzlGTC1RdVRFbkswOTYtVk1na0psTnluV2JnOVNsdmJrSEpNWGJOcVhsZjQ4QV9teExlclJQSDZfYTRZZ3lYUzlHR2lqNUhicU8wV2Z5Q2FTOTBCQlR6M3RYdnBIeFFVTEdvUHBn?oc=5\" target=\"_blank\"&gt;Sneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX4KC.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_64",
+            "category": "england",
+            "type": "News",
+            "title": "New Three Lions kit on sale - England Football",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZuMG8zeHdwa1hseTZoWVJDei1JR1hKdG5...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxObWZuMG8zeHdwa1hseTZoWVJDei1JR1hKdG5MUDBoMEEtRDRROFZ0UDA0SlVUdkczY0FlSWRaaU8zU29yWC0xWGtGbjZPRDV2RzlNSU05TFI1aWlYdk5pYVBlOGx0d2ZaRmtJeWlJU0E2Z2Z4ZHdWNlRuN2lVZFM3VmZGanptVmJQUTM1TE53dXBzYVJfSlBYcnk5eDV5Tkk?oc=5\" target=\"_blank\"&gt;New Three Lions kit on sale&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;England Football&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_65",
+            "category": "england",
+            "type": "News",
+            "title": "Coral World Cup Offer: 66/1 England To Top Their Group - Squawka",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQejNUZXFNVHdySk1BT01hSFV0RVlzUmxBLWJ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQejNUZXFNVHdySk1BT01hSFV0RVlzUmxBLWJPT2ZTNlJQYlRTM2VkbUg5TTFiaDBMZy1NdEZxZ3BPcjNIamUycThRNENGY1ktSzFSd18wTkdqeG1qUkdpRUV4UERTSVdBbDFGTDFvWVFHb1Q5djhaV011YnBqbWNGanFqZmVxdTVOaURFMnRBNmE?oc=5\" target=\"_blank\"&gt;Coral World Cup Offer: 66/1 England To Top Their Group&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Squawka&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_66",
+            "category": "england",
+            "type": "News",
+            "title": "Central Florida soccer fans get 2 chances to watch England play in person - Orlando Sentinel",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3Btd3FHdk5LbGV6ZV9TZk9YQ3dhdG95SUh...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxON3Btd3FHdk5LbGV6ZV9TZk9YQ3dhdG95SUhaZlk2TVp0cURuQzViVGVManBRTUtQRUtnNXFSSGpKTDVjSUdoYlJkcHZ3QjBNMlNjd2NLM3diUDU4LWNvUEhnbklWNzdnbUgwOF96b2R3ODEwN29UU09oR0lsdGdvUUJ3R25pTF9NdDhma2hyRGxNOVMxaGJaSmx1N3RUUnJXTGx2Vjg4SEYtblZJRXBpQjhFV2RJVDROZ2lNWnhXYTY?oc=5\" target=\"_blank\"&gt;Central Florida soccer fans get 2 chances to watch England play in person&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Orlando Sentinel&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_67",
+            "category": "england",
+            "type": "News",
+            "title": "Thousands of England fans plan late World Cup dash after ticket, flight &amp; hotel prices are slashed due to low demand - The Sun",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORFp2b3pncDRKWUJjc3BUNEZXYnI1WjdpeEV...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxORFp2b3pncDRKWUJjc3BUNEZXYnI1WjdpeEV0VVBNWExPUl94Q0R5RnYzVGp2OUdheTAyTFdfYlBNUXBXQVM5NTYtNHExSFFuakZaZmMxc3dRbTRIazBHa0p5bWEzTEJ1ajVJWng2R2xsUTFLMVhjcnBjTHJBNUxxM05QRHpJMzBBTVhVaXJ2MHM4ZzdCRld0ZFZHclY?oc=5\" target=\"_blank\"&gt;Thousands of England fans plan late World Cup dash after ticket, flight &amp; hotel prices are slashed due to low demand&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sun&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_68",
+            "category": "england",
+            "type": "News",
+            "title": "England fans snap up 1982 retro shirt worth £50 for £9.79 ahead of the World Cup - Manchester Evening News",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGpwTTFIc0JxQWFxTmZkUkN0aFpSR1U2a2c...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGpwTTFIc0JxQWFxTmZkUkN0aFpSR1U2a2czSHU3QlZmZlhBeVoyYkFsbHlRNk5id1NoOVhlQ1MxZk82TjFPTHlTZXVfSDRpYmpVeHlGMEplS2Z6VElrS19GaXlHTVZubXNjaUpSY3ZkN3FiX0FaOTV2eUtHQnpiN05jTVRVUTTSAYwBQVVfeXFMTm92aVFCdjMwQkJQNHFINXZjMTVDWm5EN0Y1RGhRckNRVjRsS1pPVndpZUdxaTczRUtCMHQ1ZUxvNXFMZUdVT1hOM2dTclExSmpwUTBJc1NoZ210RW1pUFAwNHhLZ0dZekhMRUpHclJtSmwwMFNfZEt4c0x3NWs0STNZU0lOOF80WTBNWEQ?oc=5\" target=\"_blank\"&gt;England fans snap up 1982 retro shirt worth £50 for £9.79 ahead of the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Manchester Evening News&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_69",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup stories: David James makes case for current England star to be Three Lions great - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDNlRHdfMzJLWnlUb29DWTVIS25SeWtTVkZ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNNDNlRHdfMzJLWnlUb29DWTVIS25SeWtTVkZLaWRkNUpxczZkc2ZmcE1Lc1dPbDFQcU5XUk5mUzJJVXJfeXFVeEFZNmdJYjVXS2FUdjVWVF9xRG95YWxnTm81VTF0eGtrbG9VRE5rcVlUbnBlRlI2c3VYc1pQOUg2Vl8wQ0ppTmhZbnFaTm41c0dEQk1iMnFqYVBlOG8zWkpQdnpBVGVaREcyRFQwNHhRS0xpLWRLZm5lV0E?oc=5\" target=\"_blank\"&gt;World Cup stories: David James makes case for current England star to be Three Lions great&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_70",
+            "category": "england",
+            "type": "News",
+            "title": "Inter&amp;Co Stadium set to host England in Pre-World Cup match against Costa Rica on June 10 - Orlando City",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWtCZ2RtOGF3Nkh4RVFlTzdELUpJRzhlTE4...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYWtCZ2RtOGF3Nkh4RVFlTzdELUpJRzhlTE41dlE4M0JNeXZxbUZCekNJTm50RG9yRjh6TTNwTWdFRnAyazh4Z3V5YWl1MlRSSVhzdGNrbmExMXF3bzIwYjN0dzNXRnZhWHdlUl9HZGRHVmlQT3FWbFJuU0FSM25nY0IxM2lVdlFwMnVmbW1tRW9MUmJCM09fMENiczVOSFFRRG9NNjRXOXlkdW1HVUN6V0JIN2x6WG81Ykx5TWM1MzRCZw?oc=5\" target=\"_blank\"&gt;Inter&amp;Co Stadium set to host England in Pre-World Cup match against Costa Rica on June 10&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Orlando City&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_71",
+            "category": "england",
+            "type": "News",
+            "title": "Prince William meets the team behind England's World Cup squad as Three Lions gear up for glory - The Irish Sun",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU29jOEstczk4SFdHdGQ0bTd2MnZLU3pUUGV...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU29jOEstczk4SFdHdGQ0bTd2MnZLU3pUUGVSZjY0SG5POUN4ajZPUW15YVJOT090UWoyTDUyb2dCZndLWnRNVi1GcENxeVd1b0hKT1oxT3ZXdlltSV9qVm1zMHJRSXEyUS1oREwzQzltTVNMbTRsYXNaVWVISGdSQUx3ZVJJcDdLdTZueS1XZ1F2c0U?oc=5\" target=\"_blank\"&gt;Prince William meets the team behind England's World Cup squad as Three Lions gear up for glory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Irish Sun&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_72",
+            "category": "england",
+            "type": "News",
+            "title": "FIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop - The Travel Magazine",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXdHcUIyNDdMaW5wdW5Yb2Fac1BybUliZWt...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPdXdHcUIyNDdMaW5wdW5Yb2Fac1BybUliZWt3Y0d1LVRJLVNfYTFEbWt4eUszc0NMTTVHbllMOG5Tb0FoVTJXSGpydHZXUHFTa1hFRER4TE9Ca3dpRzZFMVRaMEZ4NlNLQmx0blowWE9CbkpqOTFmR25wR3Mtem1uNEFmTlQ0R0JYeV9IZFJJSG1nM2FHNzF1UkVtTFk5a3VrRzQyU0RZM0QyRklBUHhySTFNUQ?oc=5\" target=\"_blank\"&gt;FIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Travel Magazine&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_73",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 Picks: Group L Winner Prediction, Schedule &amp; Team Previews - vegasodds.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUdvNlFoWFN6NEtRYjk0emR4ZjE1c0xSbXd...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNUUdvNlFoWFN6NEtRYjk0emR4ZjE1c0xSbXdXcXFoaERfemk5bUlHaE8wT004WlpZLXF3YjgyNmNPT2RlSFE3b2JDTEk4anNtNGJabjVyQUFvVUVRbFU0Y29CTzA4WGgzbmtEejBvRVVjT1ZOUDRteDZjYTh1OGI4QVFoM2Rfb1B2dE81LTBVQjBUMkpSU0FoeklWYTdHbUE?oc=5\" target=\"_blank\"&gt;World Cup 2026 Picks: Group L Winner Prediction, Schedule &amp; Team Previews&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;vegasodds.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_74",
+            "category": "england",
+            "type": "News",
+            "title": "Three lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them - Upworthy",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SmpNeE5ZUkZ1NnRlMmZtekhiRndXV3JwUWg...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11SmpNeE5ZUkZ1NnRlMmZtekhiRndXV3JwUWgzSVVzX256STJxNmREaGRoVmZJZUFWc2dUYWZQMmFxSDh0Z1Q2RXVHT2lfWEN6Y3pyQkR5M0E0V3RxMVhicUNmU3g5LUE?oc=5\" target=\"_blank\"&gt;Three lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Upworthy&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_75",
+            "category": "england",
+            "type": "News",
+            "title": "England Struggles to Sell Tickets for Pre-World Cup Friendlies in Florida - AOL.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBvQTRLc2VoV0Zub0ZUQnhKc2ptSXBwZWt...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQUTBvQTRLc2VoV0Zub0ZUQnhKc2ptSXBwZWt2Rk5ON1psbllHSnJJOHRybFZwckxoWkU2ZkViRWNkZ1NPMDFZTVJ5Y2xJMEQ1bVo3SUQ1b3Fxa0hpTzFyaFplTGdFNmVVTnhacTM2LW5IYmVuVDJKQzhhWEJlMEpYRXdDS0I?oc=5\" target=\"_blank\"&gt;England Struggles to Sell Tickets for Pre-World Cup Friendlies in Florida&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;AOL.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_76",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup 2026 squad: Who has Thomas Tuchel selected? - The Sun",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWmozWXRNemhzR3U5WW5yc0dLMEp6TzNJZ2c...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5wWmozWXRNemhzR3U5WW5yc0dLMEp6TzNJZ2cxcm1LLWI5Q24zSkZyY0hPN0NiWUdKYWYwVjNwekZJQ0FGVEFIalRZdDBmVERJclVBcG5kdHF0WjdHeGtlME9TanoxMTNGS3JhNy01dHBmbkZ4MWdpUUNXblFqRTA?oc=5\" target=\"_blank\"&gt;England World Cup 2026 squad: Who has Thomas Tuchel selected?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sun&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_77",
+            "category": "england",
+            "type": "News",
+            "title": "Wharton: World Cup omission 'not the end of the world' - FotMob",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ25lcklTVDBPNjRPS0FtQUQ0di1aQkkySG8...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ25lcklTVDBPNjRPS0FtQUQ0di1aQkkySG8zcTJSc1RvMXdXVHVBV1AxbEMzZmNXV3N5M19CNGYxeDZiR05QWGdDTktGTC13OGdWajk4emxCSTFkenNUSVdIb25jeFRXYU1uN1RBMDFvMmxyeDhtV1U1bHNpZ3ZaTXBlaDN6Q1BJOGNwN0pmeW1HS1lzZzFsWnlaaw?oc=5\" target=\"_blank\"&gt;Wharton: World Cup omission 'not the end of the world'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FotMob&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_78",
+            "category": "england",
+            "type": "News",
+            "title": "Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release - Radio X",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzNxRGRDcjRVYXM0TTN4VHdodmt0Y1FuLWt...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRzNxRGRDcjRVYXM0TTN4VHdodmt0Y1FuLWtiTWZRTkVyQno1MzY3Nm1MY2o4MkFpWTVNRUZZVEVPNkVUTUw5SVZjSk5TV1N5cDNncGpuNzhKTjVDbzhGajJLZ2ZCVTlieWhONXh2YjZPTFVoZU42c2dOYVNzNEVWVHRKQ2JlekdkWU1aMmMzT1hqRFhOc1RLVlJZdVhqWEY4Tk1WLXVnbFI?oc=5\" target=\"_blank\"&gt;Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Radio X&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_79",
+            "category": "england",
+            "type": "News",
+            "title": "England’s World Cup Kits Signal Hope and Renewal for The Three Lions - New Wave Magazine",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVBnQTdFVUxOd200bG4tVElrREk3aUtScmp...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQWVBnQTdFVUxOd200bG4tVElrREk3aUtScmpISGxHQVhhS3dGbWc1MDlwcnMxU1pVYWNIZzBHRElQUHFUbHhTZXhJUFpkc2stdGZxS2MyWlMxNXJGYWxUZElnNVBzd1dONFNfNV9faVBZcHFSSjR5UGp5a3hndC13RjZHdkxfQmNjbmRRNGlhVEZrV0IxUWc0alIzenE5QkVKcGZ5N1F5dmRPQVY1b2I0WUFB?oc=5\" target=\"_blank\"&gt;England’s World Cup Kits Signal Hope and Renewal for The Three Lions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New Wave Magazine&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_80",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions Named 2024-25 Cobalt Golf All-America Scholars - Columbia University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUowQ0VyNzA0R1gtNHlpMFJlNExkTzlteUU...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPYUowQ0VyNzA0R1gtNHlpMFJlNExkTzlteUUxT2FRUTRGX0NweHdlRFFBVUZkWmM4N0pNYkFET3dCSTMzMnlyQUwwdkhuX2lGTHV4TDdyMGNCNWdoalNTX0VQWGFIdV9Nc2tkVXdfWWNMbnl4bl84ZnVhZkdyWFRibUxFbUQyclVLVUZaZUFsaGpVZDBiNTRoQzRzUTFnaV9fQjNHLUYzRkxteDczZ1EtVg?oc=5\" target=\"_blank\"&gt;Three Lions Named 2024-25 Cobalt Golf All-America Scholars&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Columbia University Athletics&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_81",
+            "category": "england",
+            "type": "News",
+            "title": "England resort to anti-spying Plan B after Argentina inflict psychological blow - The Sun",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmlKZHJ0VF8xOTZPYnBWZnpVdXRhZkJoTjl...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOQmlKZHJ0VF8xOTZPYnBWZnpVdXRhZkJoTjlHY29JNHJYczg0T0s0U1dxQ0ZwRmJXemZiUE93RG5QNE5ib2NOUkJocWF1TEVXWDgtclRuaWVLVmNFYkl0anFiUC1pdTZROW1GTHdSTWNCaXJ6d3liVzcwMlJfTEFHaWQ1Qno4VUU?oc=5\" target=\"_blank\"&gt;England resort to anti-spying Plan B after Argentina inflict psychological blow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sun&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_82",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow - Squawka",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDRHdTBaS1NqNWRQWm9KRldiVlVpbjI1d2k...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDRHdTBaS1NqNWRQWm9KRldiVlVpbjI1d2k0X013MmJobWxVZ2RHdFExMzd6ZXZaMnREQVNWMkwydjdZdHA5YTBiTXFOVDVaLTczeklTS2VreWxHd19Jb0tSZTZ1NExmWENBTk1nbXEzNUoydkdvY3dCY1o5OHNmNlNSNXNmeEk?oc=5\" target=\"_blank\"&gt;England World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Squawka&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_83",
+            "category": "england",
+            "type": "News",
+            "title": "Three Lions and three arrows: Littler teaches England squad how to hit target - The Guardian",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjM0THlpWFFVOWhHemdCbWtwOC1jb1Bheml...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNMjM0THlpWFFVOWhHemdCbWtwOC1jb1BhemlQbXhzSFZITU5XdHotTmh4SkVkamxqWkNWTVQyaVlCZVJqN0RqazRrRmlNZHdYUjVMVzJESnZITEdMQjNjZ1B4SWJwMzZ4ZUxTODA2SU9PZDVYSGo2bVNyTnlMd1J2RVJtUERvbm1acTY3N3pFNjZiOV9LOHJPSmc0MFp5Q2pZbWpjMFBnMVpidjYyTURtUjk1WDRIWXVOeG9WOC1hdw?oc=5\" target=\"_blank\"&gt;Three Lions and three arrows: Littler teaches England squad how to hit target&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Guardian&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_84",
+            "category": "england",
+            "type": "News",
+            "title": "England's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history - FOX Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMGx3aVRDS3FCTTJmUlY4XzkwbjhENV9fNUd...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7wFBVV95cUxNMGx3aVRDS3FCTTJmUlY4XzkwbjhENV9fNUdEMHFJNF95a3E4YmVJRDNVd0JDR3RhS0lDZnhqc3pqcW0tc1R2T0lhcGFVVTYzNlVUekJEUkgxNnFzRjhNMjhUZFVNYS0wSE5IOF9vYlNhYS1taUpwbXFRUTlyOXQycnpZVlM5MlFGdkw3S1dET3pmd1dNbHZxWTBoX0kwaVQyMGJvcVlSYkxnUmMxSVJYRHVtakRZSDlPaDFFVk5Xd0RrLU1lUTFjNTVhcE5oUGRPNUZ6OUhPV3FqODlaYTNacWZTWi1sYy1sUnVkREZ1NA?oc=5\" target=\"_blank\"&gt;England's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX Sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_85",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup stories: France rise in Russia as fans fall for Three Lions again - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWNlUHpmQXgtaTNmLUxCeGZJQlV1OTlOT0V...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQWNlUHpmQXgtaTNmLUxCeGZJQlV1OTlOT0Vncnh1cVdCcmpTbm8xSkhhMDRaMUozcVdTSFY5Q1BTU0l5dVc4Ujl0X1hRT3BRbEFQVTVodmg3STJ2cnZEUjZpMF9TQU1hU2llVWdHLUN0amxQTk4wXzlOSlNvanYyOGk0Z0VlczJEYTlvX0pnal9UZy1KRDJvaHFINE1JZVEtbHZBVjQySm80NUxTMlRvNUNRbGNRWHpFeEtV?oc=5\" target=\"_blank\"&gt;World Cup stories: France rise in Russia as fans fall for Three Lions again&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_86",
+            "category": "england",
+            "type": "News",
+            "title": "England squad World Cup 2026: Which players have made it to the showpiece in USA, Mexico and Canada? - Goal.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEpyY2YwSG1TWUJDeGEwRGZEZTdMYU5xYlF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdEpyY2YwSG1TWUJDeGEwRGZEZTdMYU5xYlFsUFdXWG02T3FhWmR4TE50WlF0UEt1ZzVuZGRJWUJrREp2aDRycUxacGVRNGxPUkl2ZTc1UmpIVzQwVTZoUGFhM3E1M24yZV96c3Fna0hibV9uaFZOQTVrZmxMNl82b2pBMjFCaUtn?oc=5\" target=\"_blank\"&gt;England squad World Cup 2026: Which players have made it to the showpiece in USA, Mexico and Canada?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Goal.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_87",
+            "category": "england",
+            "type": "News",
+            "title": "Why England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games' - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUUybk96OC1TWV9QcTg1SndYM0U3NXVEMWE...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOcUUybk96OC1TWV9QcTg1SndYM0U3NXVEMWEzN3FkR2o1bnE4WXR1YnNKbTBMRFl1clpFRmZJQzhjRmV3YUdlQlNZZmxia0xjOVk4a2duN1QxQ0tNb1JuNlBtUWJvVmJaVzUyeXE0RC1feGN3NHJubXQzVU9nVkYzUnh1N1lsQV9YMzdOZzVjRV9FQ3pscjRZQmpCcm10amV2MU1jQWluclFiMjVlX05FM0pyVzNBcGR6dE5famtB?oc=5\" target=\"_blank\"&gt;Why England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_88",
+            "category": "england",
+            "type": "News",
+            "title": "FOOTBALL QUIZ: Test your knowledge of the England national team! - Yahoo Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlpBWm1lTWJiOVVYWUhnMElmQldnVkJWaE9...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlpBWm1lTWJiOVVYWUhnMElmQldnVkJWaE9tY0ZuQ0RKMVJxZUhqRWc1V2dzazRlTmdGV1kyU3NaT0dVNkU5eXpQTDJfdDBOTGp6TFIyZHVzbTNwTDQzcVdqeHpLWFczdFctRmlZTGR3bUVnVXJtVUctX2ZPcmR4YXFBNTVyek5yalFVZw?oc=5\" target=\"_blank\"&gt;FOOTBALL QUIZ: Test your knowledge of the England national team!&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_89",
+            "category": "england",
+            "type": "News",
+            "title": "Phil Foden: Manchester City midfielder is 'victim' of fixture schedule after missing out on England spot - BBC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vYWk2RDd2amk4M0hRZ1A1RzM3UTJMcFRSRWF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vYWk2RDd2amk4M0hRZ1A1RzM3UTJMcFRSRWFiWHBTNEhPUTdMLURGQmVDVUd0LTBqeGwxRmFMZ3padTJJUlRvODI5WDVBYkwtaS1HdGw1XzdzeGNjN3h1YUJUMEJ1UkE?oc=5\" target=\"_blank\"&gt;Phil Foden: Manchester City midfielder is 'victim' of fixture schedule after missing out on England spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BBC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_90",
+            "category": "england",
+            "type": "News",
+            "title": "Saka Backs England To End Long Wait For World Cup Glory - LEADERSHIP Newspapers",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlZ5cy12X1QyQ205UWpXNWFGczZsdmN6dnV...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPVlZ5cy12X1QyQ205UWpXNWFGczZsdmN6dnV4Wjh3bTc0d3RrOWJvNkRUcFFFZkM1M1BETmhZek5kSlA1VDlhMDBJLWxPVTcxQkJ3aW1RQ09YLVM3UXpjdVNIZW40OG1TTlVvWnhEa0I3d2hQZ2dHbmd3elJwb2wzYm5qa3o?oc=5\" target=\"_blank\"&gt;Saka Backs England To End Long Wait For World Cup Glory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;LEADERSHIP Newspapers&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_91",
+            "category": "england",
+            "type": "News",
+            "title": "Who Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named - Manchester Evening News",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3NvN0oxYWlXRm9tdUtGYnVwUGdESHpCWWF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3NvN0oxYWlXRm9tdUtGYnVwUGdESHpCWWFicWVtWWZ3NDUtbVlnTXRQY1d0OWY0MTNtOXV1d1YyNTU3Z21RUUswUVE0MWxPeFNVQTNFN2RmVkoxVHJCUGZhdDIxRlJrZDFuYjFlT0g4RlJmWS1UOUdlNWxXZWNTTmo1OE1OanpvblY3M0RDSU9VY0RWcTJ2c1ZlbllqcFJkUHMwYmtSRXFMaFYy0gGyAUFVX3lxTFBIcXBXeEFQTmFXR1RIMXNieG5pVEFjUnBOdEt5bTdqR1JXTEViZ3NGUURzNVVCWGM4c3JzbTlxdlNzTFMtNTNYalJjaWNhMmkzU3o0bHJvaDZKU25MN2pLNUc2UlpRLTExa3VqdkpQS2lkcjJIR1lsRUpLMTJYNWllczlkM2J2Nl9yOFlBZl94bGN6dlJmcmFXZk9BZlJiSnFtZUxmRHdELUxmMDQyWnpINmc?oc=5\" target=\"_blank\"&gt;Who Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Manchester Evening News&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_92",
+            "category": "england",
+            "type": "News",
+            "title": "How England's dream XI could have looked for World Cup had 3 stars not rejected Three Lions - The Mirror",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWtIcFkySzI5NWhjaGtYTTZJd0pYZmNKcXk...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQLWtIcFkySzI5NWhjaGtYTTZJd0pYZmNKcXk1VmVuUmJRZTJYNHdfUG1OejVFOXRBVk9GajZwWXVBRW4tZVo1RHdPZXBVUHhtMjhKczZFZDFGT19EQ2tPVmJ4VVEzMzRKY0tyYjBwMjlEaW5rSVNXaUI0N0h1UHlQRXdzUW5mM1dDRDZV0gGQAUFVX3lxTFB2M0VjaDBpdE1jYlQxcElIaFB5Ump3SFIxUm40b2JCUHRiYmRKR3JoUTNRdGY2eHk0YVRCMVhrOGYzVFRZenpYcy1lTHZfNkNOOFJPZnNpZ2VvRlAzenVNWEZUNEpnOTlnWlBZc0VmYXV4cXJxN014X0RBSXRIM3JSaFIwdmZVRWJQM2EzTEYxYg?oc=5\" target=\"_blank\"&gt;How England's dream XI could have looked for World Cup had 3 stars not rejected Three Lions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mirror&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_93",
+            "category": "england",
+            "type": "News",
+            "title": "England squad World Cup 2026: Thomas Tuchel's final 26-man selection - FourFourTwo",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ3FhQzFwZGdWamtXNjJqcG9XSHpfc21ZTkF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ3FhQzFwZGdWamtXNjJqcG9XSHpfc21ZTkF1eGtVTWdObnFtREZfcmVEOTJ4cVd1VklaN2RPMHJaamthVGcwbF9rRTVWc2hPZGF6Y3EzZ2xLaS1ydndHbHNsTktBVk1EbmtGR053RUNxN3RSbU84OUpnQ0ZFeVpWbGVPWFN4Tm1WQjIyME9BMFdyOTlOZGlHakx3UHJMUmpGYlUxbzlGSEk4QQ?oc=5\" target=\"_blank\"&gt;England squad World Cup 2026: Thomas Tuchel's final 26-man selection&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FourFourTwo&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_94",
+            "category": "england",
+            "type": "News",
+            "title": "Jack Grealish backed for England recall by Three Lions legend after Man City flop's flying start to life on loan at Everton - FOX Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUHVTd0VrNDNtbFU1TzIwNzFzT29URThTSWR...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQUHVTd0VrNDNtbFU1TzIwNzFzT29URThTSWRYREd4WExMZmxmcXVHU0tHQzc3cV92WTJUdjRjN3dCVkVnM1BSWjlFWkJXd0ctT2Z3Zl9WY0N1ampRNVVCY3dNVVV1OV9DTW9xdENFdk1DN21UU1hvQXdTWHN6eTFLUnVwTkxHaWYxZ2F5WVg5QUtZRy1KQy1rc1phNW1QRmpVMmU3eThPbl9Md3gxZzZXRnlNT2pqZk81WGJMaC14NHd1SmxuWDNuOWUtZjFkd3NzanRGcFNPdEhTQWZrRnk1ZlNfY0h5bTZnR0s3N18zdzVMWlVIdlBB?oc=5\" target=\"_blank\"&gt;Jack Grealish backed for England recall by Three Lions legend after Man City flop's flying start to life on loan at Everton&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX Sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_95",
+            "category": "england",
+            "type": "News",
+            "title": "Jamie Vardy: Former Leicester and England striker Jamie Vardy leaves Cremonese - BBC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RZW5BTzNhcV9udU5SX2M1ZG5hdHNqYVNNZ2l...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RZW5BTzNhcV9udU5SX2M1ZG5hdHNqYVNNZ2lienc1RlZJekFndDM5M2RVd3JTa2lzMXVmeVVyV1JJYlBjbXVDdkozOE9qSmRKb0VvZk5hMHFSTXM1ZmNKZ3BPdmVlY2s?oc=5\" target=\"_blank\"&gt;Jamie Vardy: Former Leicester and England striker Jamie Vardy leaves Cremonese&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BBC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_96",
+            "category": "england",
+            "type": "News",
+            "title": "FOREST'S ENGLAND INTERNATIONALS - Nottingham Forest FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWplWEdPd2NiTjRfQm1NYi1LaDNFa0JkUkh...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNYWplWEdPd2NiTjRfQm1NYi1LaDNFa0JkUkhfS0lmVzFILWlSN2tBQ3ZqN09DVFU4N2M0QnVuZjlXOGRoZ1hRMGFNTWNkdmhlRE9mVThpeU45Vm53Q05tbFRNdGh2aThicU5pMXJnbFhOREc1ZWJMX1RORThGeGFpek9WaUZNRzlKcWd0Mg?oc=5\" target=\"_blank\"&gt;FOREST'S ENGLAND INTERNATIONALS&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nottingham Forest FC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_97",
+            "category": "england",
+            "type": "News",
+            "title": "England squad: Thomas Tuchel's latest Three Lions squad analysed - BBC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zWHY3Z2EwMmdOa1I1Z0hoQ296UTgybHR6UGV...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1zWHY3Z2EwMmdOa1I1Z0hoQ296UTgybHR6UGVWdWp1bVFuNWVaVmpYeTZ0STdjYzBES1dsb1NqLW5nLUlnYTVlLUU0TVctbFNRRVVrRDVZTlFOTUtJMm5YVUZnNVFtNkU?oc=5\" target=\"_blank\"&gt;England squad: Thomas Tuchel's latest Three Lions squad analysed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;BBC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_98",
+            "category": "england",
+            "type": "News",
+            "title": "England's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins - FOX Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDFXblNWZXdLZGo4MC1peElDVEEzbXRfTVU...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8gFBVV95cUxQZDFXblNWZXdLZGo4MC1peElDVEEzbXRfTVUydU9ZYzZpby1qaFNVallZTjlpRTNIdU40QlVuZWk2RFNKXzF6aFhBQ2JYMllQaXk2QXZqU19pRnJiWTBGeTEzSmJseDh3N2tXbDY3THRPY2VCN1JmbmxQdmxwM01jVVFPZDF2UE5oMWFaSDBEbmJHQWpScXBXNFZJMnh6TVk0cU1wN21DLTZiNHJJd2RjTVJQTGtFZ25nbi1qUllIYXdPcTg2VGxFQV9mbFVjSXM2aXhCSGtDdUlfZm03VmoyMVdPdUthcE1XNzM5d1ZMUGRMZw?oc=5\" target=\"_blank\"&gt;England's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FOX Sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_99",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL) - Yahoo Sports Canada",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1kdS1wZXdMbXRNb1hpTjFBQzhjdEN4ZV8zSGV...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE1kdS1wZXdMbXRNb1hpTjFBQzhjdEN4ZV8zSGVuVzhxeGwySzA2eUZjME1Xcmh4b0tHVDNpS0xfcG9qOXQxejZmSkJmMGZfYmZVS2trRThiTHlNVTYtckVBN0lsYk1kYXUwM1FWUTZ4VGFyOFBJMVY0b1hR?oc=5\" target=\"_blank\"&gt;World Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports Canada&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_100",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup full-back at a loss on who current first choice left-back is for the Three Lions - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcVl2aEhCOWd1UDJDOWg4azBFXzQ3UTVtUW1...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9wFBVV95cUxQcVl2aEhCOWd1UDJDOWg4azBFXzQ3UTVtUW12TUxFbGdqTmtVcTcya1loM2QwWHVydmdvcEU1UG5LMUVDV1F1X29kaWE0a2FhX05vYjJQd3dydXRIbVRVQmRuZUxzbWZONEpocXc0MGdkMkJnNzNfMEtsNzBmRE1DTUtOa0JvalBCUk54MWROSXM5SWlSTHRKbTVNaEVCZ09nVXJYWnFXZVByYmtiUTYtb3ZqZGxsVlZ4cFpORzMzQTlzbmo0TWo5cDlDcXV0WkdULV9EWjd5N1BUMDdORmlYcF9SemhVaDhWOE9NR0U3cFdMaUxKYXA4?oc=5\" target=\"_blank\"&gt;England World Cup full-back at a loss on who current first choice left-back is for the Three Lions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_101",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTVsbHl2WUczOG45ZzVvX0t1X28xbTQybkN...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxONTVsbHl2WUczOG45ZzVvX0t1X28xbTQybkNzekM5VVJsbk15SVR6UlRCS0E2WjBZSWh1VVVXZ2pvaUt2aW5BblFXTkZaWVBQWTY1eFplZ2lTaEVaVXVwMUowZGg4Q05XVDY4MVc0bDI2UHFsNTNYS01sUnlodDRhN2xhYTZjTWdVUDZmUTJLd0FpVGdZTTQ4eC02T2xIWWM2SjI3amZfcU4?oc=5\" target=\"_blank\"&gt;England World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_102",
+            "category": "england",
+            "type": "News",
+            "title": "UPGRADE TO THREE LIONS LOUNGE - Ipswich Town FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2N3hoSTYzUjNqZm1yVGpTdHJLNnVfd0M1R2g...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFB2N3hoSTYzUjNqZm1yVGpTdHJLNnVfd0M1R2gwd3duOUlpV1RycDJmYlBfRTV0Sng1RjFxOWlHcFhWSE9HZ1dIT0QwMVI0Z19UTUdMSmtidWxHRzJhZ2puV2x2Q3VObzRWa1BiSkdVVDFIaVd1cVV2WGdKZHpJTGM?oc=5\" target=\"_blank\"&gt;UPGRADE TO THREE LIONS LOUNGE&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Ipswich Town FC&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_103",
+            "category": "england",
+            "type": "News",
+            "title": "England's iconic retro shirt falls under £10 from £50 ahead of World Cup with easy method - Manchester Evening News",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdU9mYzRMU0o1aXRpcVVGM0tPZjVuejRZQkJ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPdU9mYzRMU0o1aXRpcVVGM0tPZjVuejRZQkJTcEZLNkdfc1N5OFJUQ2dOZTVUc0xHWV8td25Fd3RVczZONEFVb3FfLUVpSmIwbDNCZk5HaUtVM2tmYUlJRHViQVc5QzJjODZ5eVFTbUlvbzE1eVF5aXd1ZWhlcERZTC10emdfRFdkcVFtM2hyQndjMGE3SjNxanV6bXpjR3FzUnJzeXpUcXJvbVE2RURCc9IBtgFBVV95cUxQUlNxWURJdUEza3RMVHB6ZjdORWhtLUJTa2pwX09YU2pVX0ExM3I5WGdOS3lscmNDV0lVMzNleVp6NklOenJTSDUyenpNUVJtcm9rRWdsQndwODBuX0hOQzduYW5SNDdWeDRMcHNOak83dnpqcXBybEJtTXM0SDA0eGxnOUZVeFpTam9OWFZqX2lVaEhfWTdyUWVwaDluUjRFWnVfQ0FINUt6STdabUpVYldEa0VYQQ?oc=5\" target=\"_blank\"&gt;England's iconic retro shirt falls under £10 from £50 ahead of World Cup with easy method&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Manchester Evening News&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_104",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Uruguay LIVE - White scores on Three Lions return but Uruguay level late on - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHdDRGZ0Wnc1SngwQmU2RzRMR0ZYdVdqTXp...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOTHdDRGZ0Wnc1SngwQmU2RzRMR0ZYdVdqTXpVbU1tY2FBUnVCMFk1V21IcmdaRGdxd1dQcEZlSEp5RnhsbTZJeF91ZXRNN0ZMcG9hLVdKdklMWEhRN08xRTZOekdLS1d5UHd0Zmt2YjdGV182OGZ6VlBFTlh1X3JTblFsZ0xvQWxWNjdXUmxtTFRSVXMwR014Qm5tY0R3ZXloZjVmX3ZQdjBRRUF6anNMTzlBT2k0TEozU0djamNUZw?oc=5\" target=\"_blank\"&gt;England vs Uruguay LIVE - White scores on Three Lions return but Uruguay level late on&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_105",
+            "category": "england",
+            "type": "News",
+            "title": "Pep Guardiola for England?! Oasis legend Noel Gallagher backs departing Man City boss to take Three Lions job to realise World Cup trophy dream - Goal.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVVpSc0Y0eURoX2tlUlhxYTJlVnJ5RTE1NWJ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQVVpSc0Y0eURoX2tlUlhxYTJlVnJ5RTE1NWJzX3h4TVRZNXNodDJPVUtCZTU5RHNPdFNpX01fUzlhOVF6RjN2NWl5a3J1VVMzYUFKOVA1NjBtbXJ6TzllazhWUzJmSTZHb2xxaHdKRUcwY0dWTl9laXlQUExOZUk4b243TXQzWDdFb19uSFJTVW1JOUZXY3VzT3ByZHlRTktpUWJfS3dhU2RGV2pXdmpPcFduQ1M?oc=5\" target=\"_blank\"&gt;Pep Guardiola for England?! Oasis legend Noel Gallagher backs departing Man City boss to take Three Lions job to realise World Cup trophy dream&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Goal.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_106",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold - Opta Analyst",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE05MFExSEZqUHR3a0pONjZ2dUMtZV9aMC00R0l...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE05MFExSEZqUHR3a0pONjZ2dUMtZV9aMC00R0lYUkJqdGlhekx3Y1lMZk9QSE9rc0FudDF4MlhQaFdKMDhsZnhWMmhEYmZnc0ZZZ2Vkb3hnbVE5aXhXUnFORkFCYmJoTVN1cFUyTHVjT3VEa21ESEE?oc=5\" target=\"_blank\"&gt;England vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Opta Analyst&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_107",
+            "category": "england",
+            "type": "News",
+            "title": "Prince William makes a surprise trip to England’s training center ahead of the World Cup - MSN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSnpmY2RXd3V2aHEyWG9FMThnX1BveHFfa3Z...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSnpmY2RXd3V2aHEyWG9FMThnX1BveHFfa3ZDdFJ6SnJKbmZiWVhlcHJ6Y1p4VDVmR2I1TzJKOS01MEl1T0lBekV5VFFMN1VvdmJ5VjJGOHpFaXA0SEJxYXlJdGJ4dFhzU3I2eVpPeUZpcGY4VkZ1dWNrcWV1TWxuSFVpajlZRHF4ZjZZcnRDNlMyUjcxQnh2aFVPZ2hMRnlHUFFTM0xidjdrNjM4NEdDRW9KTlZDSjlUSGJTaDN1c3FNUFBRYWl0SzdaOFQwV25YZWtHM2xfTQ?oc=5\" target=\"_blank\"&gt;Prince William makes a surprise trip to England’s training center ahead of the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_108",
+            "category": "england",
+            "type": "News",
+            "title": "Glenn Hoddle calls out Thomas Tuchel for 'surprising' omission from England World Cup squad - The Mirror",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3ZGWTJ2OUtxdFlPdVlhcnBXdUhLeG44M3Y...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3ZGWTJ2OUtxdFlPdVlhcnBXdUhLeG44M3YxTHE0dWNTaFB3TUR3bVRTbmZSNUdSUlBnMFFSbW10d0hrN3RCUzlwZ3pxMEUxRUxOVjNuTGZJd0ZIdkwyUFJRQ1FiTW9vd0xReDkyZnc4dEc0eGR2ZUktaE10cXRyUVhFWXZaNzBWVFBVdnZnUTLSAZYBQVVfeXFMTkdlOWlfaHU5VXFQWHlrdlBnWGVpbjJWXzZWZkplLXlDUkJORDMyalM2SW5PaUMzZXg1QnhzZjVkbGktOTJTaGdlQ0tnU3doZ2tnc3BoMXc5Vl9GYXppZTJrOGd6ZlhzM0UyaWFCWmNNZEkwdXdBUmdTVHlTSE9adHRNTGFOR0ZvMllFZXF2N0xGellsVWJB?oc=5\" target=\"_blank\"&gt;Glenn Hoddle calls out Thomas Tuchel for 'surprising' omission from England World Cup squad&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mirror&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_109",
+            "category": "england",
+            "type": "News",
+            "title": "Thomas Tuchel identifies base at US 'English cottage' for Three Lions' World Cup bid - The Mirror",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd051ZWEzNmczcE5uSm8weUJCNDJIcUtfQWF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd051ZWEzNmczcE5uSm8weUJCNDJIcUtfQWFvNWlGRmE2RkRva2dSTHFUSkk5S2JPQTF1WTh1RXR0d2d6T3ZURE90SDdZZ1R4YThwcE1ZMndKZzdIUi1PXzd2cmFURE9WN3hCemRqa2hWNzlEdVdfd3pzclpQUE9aeGw0bzBBSEdz0gGOAUFVX3lxTE1Zekc5UlItYUQ2OUhmYk82N3pFVFEyQWE0SlJBLTJSSVVtLXNUTHltTmpRVjRxS1pZS3lPRzZhenZUbk9IcTQtdlBXSk1hZ0NmVzYwRXNGaEJWb3B3TTdwY3d4UDF2QUlSS1ZZNGRzN25iMzhJNkNCb1RvYkFmZzFidU5ZNXJwYzQzXzhqZmc?oc=5\" target=\"_blank\"&gt;Thomas Tuchel identifies base at US 'English cottage' for Three Lions' World Cup bid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Mirror&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_110",
+            "category": "england",
+            "type": "News",
+            "title": "England fans find World Cup deal as Three Lions shirt is cheaper to buy in NY - The Sun",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0d6bHhVdllLOWxYZHVtNFVVTHVSeGVoUmF...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQU0d6bHhVdllLOWxYZHVtNFVVTHVSeGVoUmFBRGM5NThjNEVpUTd2WXNkQmlhN1FEWS10S3Z5NzRaTlRsV0IydE42WHlOOG1kUXc2ZlQ0WEtUWFFFN2FXQXZITVQzY0NzdFUwVWpoRjY2cEJjb01GeDFiaWktSVJIMWpNdnVJdzVhQ0RMN1dIMA?oc=5\" target=\"_blank\"&gt;England fans find World Cup deal as Three Lions shirt is cheaper to buy in NY&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sun&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_111",
+            "category": "england",
+            "type": "News",
+            "title": "Calvert-Lewin earns Three Lions spot after Leeds form - Leeds United",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVJQb3FyVF9GSExvbjE4RjFCZ1lpcTlMVDV...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPeVJQb3FyVF9GSExvbjE4RjFCZ1lpcTlMVDVmdENEMVlBQVNSM3UtMzZHS3NzSUdtTzV6SjBpbDNaT2ZMUjdKa2hneVNPZkk0VHlJMjJGTWpOWkloQW5sVl9QQ0F4Y0ZINFM3Mk1xVUV6YzZMMzFJOUttN1YyR2NwSk5PY181U3pGckpsQkJ0T2pkYmc?oc=5\" target=\"_blank\"&gt;Calvert-Lewin earns Three Lions spot after Leeds form&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Leeds United&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_112",
+            "category": "england",
+            "type": "News",
+            "title": "Former England international says this player should be in Three Lions lineup instead of Cole Palmer - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1NvakhKbnN2N0hmN2VzQUtyb3hzc2xZYmk...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS1NvakhKbnN2N0hmN2VzQUtyb3hzc2xZYmk3VWJwbmdMSlFUWFl6b0VrSXYydjFXc1JndTRoRmVUdTNtSDEtd1RWUlVGMGJub0dLNUNnS0dBU0NDMm00RXoxVGNMTXozVFczV1kwdUtRU1RJMFk3OVNMZk5IazRvUDhxb2NseVBjc2RTMEh2MU1qVVNzM1NublVpNFBYSG5aNXd2eDJsTjM2NTU1MTlqSTg5NEZjTVBhd3NLMWlEQk5pOUk?oc=5\" target=\"_blank\"&gt;Former England international says this player should be in Three Lions lineup instead of Cole Palmer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_113",
+            "category": "england",
+            "type": "News",
+            "title": "England release 2026 World Cup kits: 'New era for the Three Lions' - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFYwdU5JX2VzdDNUd3JudjBKSVdZZVFMc1d...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxQeFYwdU5JX2VzdDNUd3JudjBKSVdZZVFMc1dnd3ptZVFSaVl5SzNUZjJvYmRGbHRsRWFBWnU2SnBxZ1dtUUFCNE5rYW0zQWJSZFlUUVRlN3E5b2lkT0tHQjFBYm5EQ1F0Y2UyOGtYUW8yRWhCeXFUVXlBbTN6cXdjQjJ6anpuN0NZVmxQUlJSWkdLTXJYeWtXNGNJV1FicWdLazZibWZNY2dKVjhtd0VfbEZpX2twSzNzQVB5TGNSSWZySV9Pam9yV2pR?oc=5\" target=\"_blank\"&gt;England release 2026 World Cup kits: 'New era for the Three Lions'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_114",
+            "category": "england",
+            "type": "News",
+            "title": "England player ratings vs Wales: Three Lions rip British rivals as Thomas Tuchel's set-piece kings secure emphatic friendly victory - Goal.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkRtSTlycEM3VHplUFI5RzdHYkF1ZGZuN0d...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNSkRtSTlycEM3VHplUFI5RzdHYkF1ZGZuN0drdEtkQW5jMmJhMDloaDNJQlRHd0lxOWpJOFlteUptUDZPeWlGWVF1ZFhIWE9Gd0lDQWl6ajRKb1Y1MnAxRGdhbFpZa3RSUFdka0ZmQVQxNEd4ZTRPUjFLNUhfeHNRcjN5SDE1UmUzVXlYbks2Q25qYjJnX0hjZDA4T3RZd1dablBMVGozWkZ2d0g4UjV3?oc=5\" target=\"_blank\"&gt;England player ratings vs Wales: Three Lions rip British rivals as Thomas Tuchel's set-piece kings secure emphatic friendly victory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Goal.com&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_115",
+            "category": "england",
+            "type": "News",
+            "title": "When is England v Croatia? World Cup date, kick-off time and betting - Paddy Power",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVURiVWlPMFp0RTA3VFFoTzQxM2tWSHRtSXN...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQVURiVWlPMFp0RTA3VFFoTzQxM2tWSHRtSXNab0tNNUo3TkhaaElfeDRxbmpSZzl4aFc3azVzYWVYeDZKOFRadGd4X1hwam1aaHZrc1JDcVZ4aHNmM1RGTXlwVi16U1RqZHMzaVh5WndTQVFDVnUyc1huSHlqdUFia3RjcUU5SkZTWm5EbmhCSUQzMnBfSEJLNjFvLVhFRW53dTZHdU93VVNrMEdqMVdRQWNPMA?oc=5\" target=\"_blank\"&gt;When is England v Croatia? World Cup date, kick-off time and betting&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Paddy Power&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_116",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup Odds - Latest Odds on England to Win in 2026 - Gambling Insider",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZENTakRBaXRrNWMxbjhnbFpxZUxEbGM5Y1F...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9CZENTakRBaXRrNWMxbjhnbFpxZUxEbGM5Y1FHLVZ0Zk5DNDBKYm5aQjlEY2dCQW84OG9BLTNOa1FiZ2gtel9BeVNBNlVMYnJBQ3hySFJHY1lzZWR6M2E1WHVFZ3dvd3Nq?oc=5\" target=\"_blank\"&gt;England World Cup Odds - Latest Odds on England to Win in 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Gambling Insider&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_117",
+            "category": "england",
+            "type": "News",
+            "title": "Legacy cap, the most iconic item of the England national team - nss sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzNkRnpvM2lDMjdlOHY5M3dtaWtVUWRURkl...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOUzNkRnpvM2lDMjdlOHY5M3dtaWtVUWRURklydVlNN2pLZW5KZ1N5ZFNPZVFzdGtRR1NVSU9PYjVVR0paVzZsNkdBdzVmZ0hSVy15YmllVnBvX0I4VUxDUmxNV1oyUmxlOGlYZGZnWGtaXzlJclM0bUl4U05sMlQ3cWU2bHdHUlVQY2xkNzNEblVvYThQcWY0?oc=5\" target=\"_blank\"&gt;Legacy cap, the most iconic item of the England national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;nss sports&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_118",
+            "category": "england",
+            "type": "News",
+            "title": "What are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released? - talkSPORT",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ1VkeVQyYndMMjlzckxfWWVYcGhYY0VtaUY...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZ1VkeVQyYndMMjlzckxfWWVYcGhYY0VtaUYxdXdhQ0NZcU5NVVhZY0o2OEduWVh6VGNYazhVVDNCN09tdVNKcUNlcGZpWGRNT2NzeEhrUFJuV2lKZjhCRmFKTlpJbjJaT3J1Wk5IUWxpZUptVlBycUFZYVJHdFptNDU3dXB6RjAtOGZpQlplbnhBOElONkUyaVZnNW9WM0VVbC04b29waGxEbTQ?oc=5\" target=\"_blank\"&gt;What are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_119",
+            "category": "england",
+            "type": "News",
+            "title": "‘There’s no better feeling than going to a World Cup, walking out before a game, seeing all the England fans there and knowing the whole world is watching’ Why Jordan Pickford thrives for the Three Lions - FourFourTwo",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxNTk1OUXdyZ3RUaThBR3g2N0dIN2VOVzBhaE5...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AJBVV95cUxNTk1OUXdyZ3RUaThBR3g2N0dIN2VOVzBhaE5VSVRta0dvdVFHMk9fNkRISklERlZkd0hRaWJZdVZ1bE5mcFN0WEVtYlRWU0VDcU8yRTJBTVNnZmxLN2Z1cjl5UUkybW1DVU1DV2o3MU14Zk9uQjRFd051d216OEFHeXF2YXZSc1BJczFhWHJwUk1ocDFBb2lFMFltVGJXcVZZSVgxMmZRZktRNjB1cUlMQndSblFraGdpVVpFcnhXOTRJRGxDa0NMTW9hM3lNbmt4QzUwekdZNFhaWmlSTXB5dWpjanFGUmdFZmx3S0FCTlBoVkhwb0R6RlpwTmNDb2g4TlRNeGVVVHlvVlFFR1VMSnRxWkRYYzRnT2x5WWRCdXdsZ3FYOFNIczF1Vl9CQWtfanZmd2N4YlB6OXEyd2hYb2tpR05MUTJ5Rno1VjFOb0stalpiQkRJUXZtLTY?oc=5\" target=\"_blank\"&gt;‘There’s no better feeling than going to a World Cup, walking out before a game, seeing all the England fans there and knowing the whole world is watching’ Why Jordan Pickford thrives for the Three Lions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FourFourTwo&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_120",
+            "category": "england",
+            "type": "News",
+            "title": "WATCH: Three Lions that were Raised in the EFL - The English Football League",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmFmcDJxYVowQjJyY3lFSkVlTWlHelk1b0V...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOUmFmcDJxYVowQjJyY3lFSkVlTWlHelk1b0VucE1kX05kcTgySjBCWmM5ZV9sY2xtd05yY1k4SWtrVXBCMFZwRGVKRFlWU2NWbjNyVU9NSDJCR3ZoZGUxNEVsTFM5a1dyMGFmdzhYajQ5VzdGWExsdUtGZ0JaZmVWYktTSkx6S3M3ZHdPVw?oc=5\" target=\"_blank\"&gt;WATCH: Three Lions that were Raised in the EFL&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The English Football League&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_121",
+            "category": "england",
+            "type": "News",
+            "title": "A Wembley Nightmare: Japan stun the Three Lions - Sports Gazette",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9yRFhnRHprMWIzeUlLVGpVYmdwd1ZzVGVVM1R...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9yRFhnRHprMWIzeUlLVGpVYmdwd1ZzVGVVM1R6UGxzU0h5WERidjZ2eUJKM0ZNUjRDMEIyanhTSFE4ZmI5cDYxVWJKcV9uS1pQbkwzZ1RCUkFYT0lVXzhVUzZ5ZlZVT25IOEMw?oc=5\" target=\"_blank\"&gt;A Wembley Nightmare: Japan stun the Three Lions&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Gazette&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_122",
+            "category": "england",
+            "type": "News",
+            "title": "Why do England have Three Lions on their badge and has it always been the same? - talkSPORT",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcUxuaXdaTDd0QlF5UXBLZG8zaEx3MUl6VFo...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQcUxuaXdaTDd0QlF5UXBLZG8zaEx3MUl6VFoxT1pSZUJRSDVtVTZTdm1weDdiSHhGLUpMTzEwTEJ2QkV3NFNwTWFkd242R04tT1ZsYlM0UHJHZ0hzUmdUNjY2STlfeWF4STBfMlJjZ0I0S08zV1ZHRXBhS1FWUFU4QmItQjZnNm5sZV9YZkhueDIxM090LTRuSHFtX2tNZw?oc=5\" target=\"_blank\"&gt;Why do England have Three Lions on their badge and has it always been the same?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_123",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 formation builder: Pick your England team",
+            "bullets": [
+              "Who should start for England at the World Cup? You decide",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should start for England at the World Cup? You decide",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_124",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel takes aim at big-name omissions from World Cup squad",
+            "bullets": [
+              "Tuchel takes aim at big-name omissions from World Cup squad",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel takes aim at big-name omissions from World Cup squad",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_125",
+            "category": "england",
+            "type": "News",
+            "title": "Imperious Foden back to his best as City refuse to throw in the towel",
+            "bullets": [
+              "Imperious Foden back to his best as City refuse to throw in the towel",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Imperious Foden back to his best as City refuse to throw in the towel",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_126",
+            "category": "england",
+            "type": "News",
+            "title": "Kobbie Mainoo seals Man Utd double over Liverpool to secure Champions League return",
+            "bullets": [
+              "Kobbie Mainoo seals Man Utd double over Liverpool to secure Champions League return",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Kobbie Mainoo seals Man Utd double over Liverpool to secure Champions League return",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_127",
+            "category": "england",
+            "type": "News",
+            "title": "Sublime Saka rips apart Fulham in 45 minutes... then rests up for Atletico",
+            "bullets": [
+              "Sublime Saka rips apart Fulham in 45 minutes... then rests up for Atletico",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sublime Saka rips apart Fulham in 45 minutes... then rests up for Atletico",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_128",
+            "category": "england",
+            "type": "News",
+            "title": "Eze and Havertz injured as Arsenal win the hard way against Newcastle",
+            "bullets": [
+              "Eze and Havertz injured as Arsenal win the hard way against Newcastle",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Eze and Havertz injured as Arsenal win the hard way against Newcastle",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_129",
+            "category": "england",
+            "type": "News",
+            "title": "More Red Lion than Three Lions as YouTubers put on 20-goal show",
+            "bullets": [
+              "More Red Lion than Three Lions as YouTubers put on 20-goal show",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "More Red Lion than Three Lions as YouTubers put on 20-goal show",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_130",
+            "category": "england",
+            "type": "News",
+            "title": "Ollie Watkins eyes World Cup spot after joining Aston Villa’s 100 club",
+            "bullets": [
+              "Ollie Watkins eyes World Cup spot after joining Aston Villa’s 100 club",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins eyes World Cup spot after joining Aston Villa’s 100 club",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_131",
+            "category": "england",
+            "type": "News",
+            "title": "Ollie Watkins on verge of Villa greatness after sending Thomas Tuchel World Cup reminder",
+            "bullets": [
+              "Ollie Watkins on verge of Villa greatness after sending Thomas Tuchel World Cup reminder",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins on verge of Villa greatness after sending Thomas Tuchel World Cup reminder",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_132",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane and Trent Alexander-Arnold put on a show for Thomas Tuchel as Bayern beat Real",
+            "bullets": [
+              "Harry Kane and Trent Alexander-Arnold put on a show for Thomas Tuchel as Bayern beat Real",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane and Trent Alexander-Arnold put on a show for Thomas Tuchel as Bayern beat Real",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_133",
+            "category": "england",
+            "type": "News",
+            "title": "Marc Skinner calls on Manchester United to invest after ‘punch in the face’",
+            "bullets": [
+              "Marc Skinner calls on Manchester United to invest after ‘punch in the face’",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Marc Skinner calls on Manchester United to invest after ‘punch in the face’",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_134",
+            "category": "england",
+            "type": "News",
+            "title": "England are dreaming if they think they can win the World Cup",
+            "bullets": [
+              "England are dreaming if they think they can win the World Cup",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England are dreaming if they think they can win the World Cup",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_135",
+            "category": "england",
+            "type": "News",
+            "title": "White booed by England fans as second-string squad fails to impress",
+            "bullets": [
+              "White booed by England fans as second-string squad fails to impress",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "White booed by England fans as second-string squad fails to impress",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4103_136",
+            "category": "england",
+            "type": "News",
+            "title": "‘Special’ James stars as England stay perfect in World Cup qualifying",
+            "bullets": [
+              "‘Special’ James stars as England stay perfect in World Cup qualifying",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘Special’ James stars as England stay perfect in World Cup qualifying",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-29 @ 13:51:35 EDT"
+  "lastUpdated": "2026-05-29 @ 14:41:03 EDT"
 };
