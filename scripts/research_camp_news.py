@@ -149,7 +149,7 @@ if crawled_news:
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
             # Team & manager
-            "sweden", "swedish", "sverige", "svenska", "blågult", "landslaget", "graham potter",
+            "blågult", "landslaget", "svenska herrlandslaget", "svensk fotboll", "graham potter",
             "potter", "björn hamberg",
             # Squad players (26-man roster surnames)
             "johansson", "nordfeldt", "zetterström", "ekdal", "gudmundsson", "hien",
@@ -161,7 +161,7 @@ if crawled_news:
             "vm 2026", "fotboll", "allsvenskan", "bosön",
             # World Cup group & opponents
             "world cup sweden", "group f", "sweden vs", "vs sweden",
-            "tunisia", "netherlands vs sweden", "japan vs sweden"
+            "tunisia national team", "netherlands vs sweden", "japan vs sweden"
         ])
         
         if is_relevant:
