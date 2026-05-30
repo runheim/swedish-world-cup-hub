@@ -146,7 +146,7 @@ if crawled_news:
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
             # Team & manager
-            "england", "three lions", "tuchel", "thomas tuchel", "england football",
+            "england national team", "three lions", "tuchel", "thomas tuchel", "england football",
             "st george's park", "wembley", "the fa",
             # Squad players (26-man roster surnames)
             "pickford", "ramsdale", "henderson", "kyle walker", "gomez", "stones",
