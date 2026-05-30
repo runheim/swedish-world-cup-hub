@@ -110,7 +110,7 @@ def search_sports_news():
                 for item in items:
                     title_match = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>", item) or re.search(r"<title>(.*?)</title>", item)
                     desc_match = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item) or re.search(r"<description>(.*?)</description>", item)
-                    link_match = re.search(r"<link>(.*?)</link>", item)
+                    link_match = re.search(r"<link><!\[CDATA\[(.*?)\]\]></link>", item) or re.search(r"<link>(.*?)</link>", item)
                     
                     title = title_match.group(1).strip() if title_match else ""
                     desc = desc_match.group(1).strip() if desc_match else ""
