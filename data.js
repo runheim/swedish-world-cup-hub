@@ -3,47 +3,107 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
+    "⚽ Alexander Isak talks about the injury: \"A scary experience\"",
+    "⚽ Associations back down in battle over power line to SSAB in Oxelösund",
+    "⚽ Gang criminals lose their Swedish residence permits",
+    "⚽ Unusually many diamond weddings – Barbro and Lennart celebrate 60 years of marriage",
+    "⚽ Accidents in the mining industry are not reported - concern about blackmail: \"Measures are required\"",
+    "⚽ Sam Hallam's time as national team captain for Three Crowns is over: \"Should have accomplished more\"",
+    "⚽ \"Now Sweden is tied even closer to Ukraine's defense\"",
+    "⚽ Many sports facilities in Västernorrland worn out: \"The need is screaming\"",
+    "⚽ Bang for Åhman/Hellvig - first loss",
+    "⚽ \"Zelensky's highest dream about to come true\"",
+    "⚽ Swedish gang member arrested in Spain - linked to serious violent crimes",
+    "⚽ The lifeguards warn: Do not dive into the water during a heat wave",
+    "⚽ The SVT managers behind the Madame Luna support – today managers at the Swedish Film Institute",
+    "⚽ Harsh criticism of the Swedish Film Institute: \"Contrary to good industry practice\"",
+    "⚽ Swedish EU politicians had at least 30 meetings with snus lobbyists",
+    "⚽ After the viral clip – Viggo Björck has received Sidney Crosby's club",
+    "⚽ After the disappearance in Nyåker - now Lucas' family is leaving Sweden",
+    "⚽ Policeman in northern Sweden took possession of firearms - bought the gun safe",
+    "⚽ Graham Potter talks about the conversation with Zlatan: \"Knows how important he is\"",
+    "⚽ Investigator: Fuel prices must increase - by three kroner at the pump",
+    "⚽ Graham Potter on Alexander Isak's injury situation: \"Have some time left\"",
     "⚽ Premier League 2025-26 season review: our predictions v reality",
-    "⚽ Jon Dahl Tomasson Sweden football - Channels Television",
-    "⚽ Just how good is Sweden football manager Graham Potter's Swedish? - The Local Sweden",
-    "⚽ Sweden's football team discards its trainer after Kosovo loss - KosovaPress",
-    "⚽ Sweden qualify for World Cup after Viktor Gyökeres hits late winner against Poland - The Guardian",
-    "⚽ Haryana girls set for Sweden football tourney - The New Indian Express",
-    "⚽ Zlatan Ibrahimović Says Goodbye to Swedish National Football Team in New Volvo V90 Film - PR Newswire",
-    "⚽ Derby Week: Title set to be decided between rivals in Sweden's football heartland - Flashscore.com",
-    "⚽ Five players retire from Swedish national football team - Anadolu Ajansı",
-    "⚽ Sweden Extends Winless Potter's Contract Until 2030 World Cup - 조선일보",
-    "⚽ Zlatan Ibrahimović says goodbye to Swedish national football team in new Volvo V90 film - MultiVu",
-    "⚽ Sweden football team Photo Jonathan Nackstrand AFP - Cision News",
-    "⚽ Sweden Euro Cup: A glorious legacy of Sweden's football team before Euro 2024 - vocal.media",
-    "⚽ Sweden football legend Zlatan Ibrahimovic's statue fenced off as Malmo fans vent fury over Hammarby deal - Firstpost",
-    "⚽ 'Believe in your damn self': Sweden's football team switches jersey names for inspiring quotes - SBS Australia",
-    "⚽ Who are the out LGBTQ+ Swedish players confirmed to be playing in the 2025 Euros? - PinkNews",
-    "⚽ England vs Sweden football head-to-head: When did Three Lions last beat Sweden, and will Zlatan Ibrahimovic play? - talkSPORT",
-    "⚽ Sweden football fans in London: sweaty optimism gives way to a sad silence - The Guardian",
-    "⚽ Sweden Football: Second-half goals see Sweden beat Hungary in Budapest friendly - Flashscore.com",
-    "⚽ Swedish National Football Team Player Embraces Islam - Morocco World News",
-    "⚽ #EFFC25 TO TAKE PLACE IN MALMÖ, SWEDEN - Football Supporters Europe -",
-    "⚽ Sweden's football coach apologises after post-match row on live television - The Local Sweden",
-    "⚽ New Volvo V90 marketing features Sweden’s football legend Zlatan Ibrahimovic - Luxury Lifestyle Magazine",
-    "⚽ Sweden Football Star Zlatan Ibrahimovic Attacks Guardiola - Spiegel",
-    "⚽ Terrorist Attack Halts Belgium-Sweden Football Match, Two Fans Killed: Report - The Quint",
-    "⚽ Zlatan criticises Sweden football boss over Kulusevski snub - The Peninsula Qatar",
-    "⚽ Gunman kills 2 Swedes in Brussels, prompting terror alert and halt of Belgium-Sweden football match - The Malta Independent",
-    "⚽ VIDEO: Zlatan Ibrahimovic says goodbye to the Swedish national football team in new Volvo V90 film - Paul Tan",
-    "⚽ Sweden's football champion joins FC Ararat-Armenia - NEWS.am Sport",
-    "⚽ Yura Movsisyan joins Sweden football club - NEWS.am Sport",
+    "⚽ Swedish national team announces 2026 FIFA World Cup roster - MSN",
+    "⚽ Swedish national team announces 2026 FIFA World Cup roster - NBC 5 Dallas-Fort Worth",
+    "⚽ Canucks’ Linus Karlsson hopes to end season on high note with Swedish national team - Daily Faceoff",
+    "⚽ Swedish national team for the World Cup finals in Lake Placid - ProXCskiing",
+    "⚽ Swedish national team coach Janne Andersson suffered from cancer during FIFA World Cup - Flashscore.com",
+    "⚽ UNIQLO Unveils Official Apparel for Swedish National Team - Branding in Asia",
+    "⚽ UNIQLO Unveils Official Games Uniform for Swedish National Team Competing in the 2026 Winter Major Sporting Meet, Embodying the Themes of 'Grace. Strength. Unity.' | FAST RETAILING CO., LTD. - fastretailing.com",
+    "⚽ Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
+    "⚽ Erika Holst Named New Head Coach For Swedish National Team - The Hockey News",
+    "⚽ Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com",
+    "⚽ Sandra Abston to coach Swedish National Team this summer - University of North Alabama Athletics",
+    "⚽ Asllani's retirement from the Swedish national team is postponed - KOHA.net",
+    "⚽ Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com",
+    "⚽ Swedish national team coach Tomasson under heavy fire after World Cup travesty - Flashscore.com",
+    "⚽ Kansas City Current add former Swedish National Team coach to technical staff - Kansas City Current",
+    "⚽ Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com",
+    "⚽ Disappointed Swedish national team coach Tomasson: 'Olsen has let down his teammates' - Flashscore.com",
+    "⚽ Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
+    "⚽ Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
+    "⚽ Former Swedish national team coach Tomasson turns down option to take over Norwich - Flashscore.com",
+    "⚽ SU Student Teacher Participates in Lacrosse Tournaments with Swedish National Team - Salisbury University",
+    "⚽ UMD lands Swedish national team goalie to challenge Gascon - Duluth News Tribune",
+    "⚽ The Nordic Storm sign Swedish National team lineman David Strobel - European League of Football | ELF",
+    "⚽ Swedish National Team Product Eddie Jallow Hedqvist Signs with Pacific - pacifictigers.com",
+    "⚽ Alfie Thrilled to be Back With the Swedish National Team | Ottawa Senators - NHL.com",
+    "⚽ Baseball Posts Win Over Swedish National Team - Fordham University Athletics",
+    "⚽ Elin Larsson Playing key Role With Swedish National Team - University of Portland Athletics",
+    "⚽ Four female athletes to represent Swedish National team in 2023 - racers-behindthehelmet.com",
+    "⚽ Red Wings’ Simon Edvinsson tabbed by Swedish national team - MLive.com",
+    "⚽ Elijah Clarance to Compete for Swedish National Team - Illinois State University Athletics",
+    "⚽ The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers - Turkmenportal.com",
+    "⚽ Ex-FC Copenhagen keeper quits Swedish national team as he refuses to work with Tomasson - Flashscore.co.za",
+    "⚽ Mondo is going pro: Local pole vaulter to join Swedish National team - The Daily Advertiser | Lafayette, Louisiana",
+    "⚽ Report: Swedish National Team Coach Sam Hallam Will Move To Switzerland In 2026 - Yahoo Sports Canada",
+    "⚽ Calle Halfvarsson leaves the Swedish National Team – Shifts focus - ProXCskiing",
+    "⚽ The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers - Turkmenportal.com",
+    "⚽ Jenner Named Swedish National Team Coach - SwimSwam",
+    "⚽ UVM hockey's Todd Woodcroft to assist Swedish national team at Winter Olympics - Burlington Free Press",
+    "⚽ Teen Frome swimmer sets sights on Swedish national team - Frome Times",
+    "⚽ How Kevin Backstrom's Firing from the Swedish National Team Redefined His Career for the Better - SNOWBOARDER Magazine",
+    "⚽ New coach joins Swedish national team – with focus on shooting - ProXCskiing",
+    "⚽ Kalla Leaves Swedish National Team to Train Alone; Richardsson and Olsson Are Back - FasterSkier",
+    "⚽ Swedish national team for Tour de Ski 2024/2025 - ProXCskiing",
+    "⚽ Swedish National Team Training With An Eye On The 2026 Olympics, And Summer Exhibition Against Ohio State - The Hockey News",
+    "⚽ Ibrahimovic returns to Swedish national team for World Cup | Daily Sabah - Daily Sabah",
+    "⚽ ELF: Istanbul Rams sign Swedish national team DB Noah Allsten - American Football International",
+    "⚽ Rickard Noberius: New Swedish National Team Doctor - ProXCskiing",
+    "⚽ Meet the Swedish National Team 2022/23 - International Ski and Snowboard Federation (FIS)",
+    "⚽ Former Glenville State, Marshall football assistant coaching Swedish national team - Charleston Gazette-Mail",
+    "⚽ ‘I got scared’: Sharks’ William Eklund reacts to wrist injury with Swedish national team - Daily Faceoff",
+    "⚽ Called Again The Swedish National Team, Ibrahimovic: The Return Of A God - VOI.id",
+    "⚽ From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball",
+    "⚽ Swedish National team announced for 2021/22 - International Ski and Snowboard Federation (FIS)",
+    "⚽ Meet the Swedish National Team 2023/24 - International Ski and Snowboard Federation (FIS)",
+    "⚽ Seb in Sweden: Rising North Andover star plays on Swedish National team - Eagle-Tribune",
+    "⚽ Zlatan bids farewell to Swedish national team - The Jakarta Post",
+    "⚽ Zlatan Ibrahimovic set to play at Euros after recall to Swedish national team - The Guardian",
+    "⚽ Ibrahimovic says emotional goodbye to Swedish national team in Volvo’s latest film - digitalsport.co",
+    "⚽ Ibrahimovic hints at return to Swedish national team - Anadolu Ajansı",
+    "⚽ Svensson retires from Swedish national team - Sportsnet",
+    "⚽ Cross-country skiing: the selection of the Swedish national team for the 2025/2026 season - Nordic Mag",
+    "⚽ Dennis Cook new Head Coach of Swedish National Team - Mister Baseball",
+    "⚽ Is Zlatan really returning to the Swedish national team? - vijesti.me",
+    "⚽ Ibrahimović is getting closer to returning to the Swedish national team - vijesti.me",
+    "⚽ Ibrahimovic's return to the Swedish national team for the match against Kosovo is inevitable - Gazeta Express",
+    "⚽ Swedish National team player and LU alumni: A conversation with Zećira Mušović - Lundagard.se",
+    "⚽ Pelican Bay Hosts Swedish National Team for Training Camp - The Bahamas Weekly",
+    "⚽ It's official. Zlatan Ibrahimovic returns to the Swedish national team (March 15, 2023) - Dinamo Kiev by Shurik",
+    "⚽ Women football: My exploit with Gothenburg FC and the Swedish national Team is the handiwork of my personal coach and dad Peter Ijeh says 19 year old Evelyn Ijeh - Sports247 Nigeria",
+    "⚽ The former Swedish national team player died - vijesti.me",
+    "⚽ Former Swedish national team goalkeeper Jacob Rinne: I play in Saudi Arabia for the money, I think about my family - Nogomania",
     "⚽ Zlatan Ibrahimovic in Sweden training with Manchester United on horizon – in pictures - The National",
-    "⚽ Kim Seung-gyu gets ready for the match against \"tall\" Sweden - Football Tribe",
-    "⚽ World Cup 2018: The best Scandinavian bars showing England vs Sweden in London - London Evening Standard",
-    "⚽ England vs Sweden football record: What has been the results between the teams, and is Zlatan Ibrahimovic playing at the World Cup? - The Irish Sun",
-    "⚽ 15 Greatest Swedish Players in Football History [Ranked] - GiveMeSport",
-    "⚽ Sweden's football player found unconscious - REASON - İdman.Biz",
-    "⚽ England vs Sweden football record: What has been the results between the teams and is Zlatan Ibrahimovic playing for them at the World Cup? - The Sun",
-    "⚽ Victor Lindelof stops bag robbery on holiday in Sweden - Tribuna.com",
-    "⚽ Alexander Isak returns from injury to boost Liverpool and Sweden - Geo Super",
-    "⚽ Spain slip to World Cup qualifier loss in Sweden - Football Espana",
-    "⚽ Jordi Alba ready to lead Spain in Sergio Busquets’ absence against Sweden - Football Espana"
+    "⚽ The former Swedish national team player passed away - vijesti.me",
+    "⚽ KNOW YOUR STARS: Ssewankambo continues with Swedish national team expedition - Kawowo Sports",
+    "⚽ 'Chaos' at the Swedish national team, Swedish fans with a special request to coach Tomasson - Gazeta Express",
+    "⚽ The Injury of Gyokeres: Why the Swedish National Team Left the Forward out - all the latest news today - 112.ua",
+    "⚽ FIRST FOREIGN COACH of the Swedish national team in over 60 years - İdman.Biz",
+    "⚽ Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender - The Peoples Person",
+    "⚽ The Swedish Seven – Celts and Blågult - The Celtic Star"
   ],
   "timeline": {
     "2026-05-29": {
@@ -52,7 +112,343 @@ const DYNAMIC_HUB_DATA = {
         "name": "Breakfast Camp Report",
         "articles": [
           {
-            "id": "crawled_4207_0",
+            "id": "crawled_0558_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Alexander Isak talks about the injury: \"A scary experience\"",
+            "bullets": [
+              "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ru...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ruined large parts of the season. - It was a scary experience, says Isak at today's speed dating interview where SVT Sport was involved.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Associations back down in battle over power line to SSAB in Oxelösund",
+            "bullets": [
+              "BirdLife Sweden, the Association of Södermanland's Ornithologists and the Naturskyddsföreningen Sörm...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BirdLife Sweden, the Association of Södermanland's Ornithologists and the Naturskyddsföreningen Sörmland have withdrawn their appeals against the planned power line to SSAB in Oxelösund.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Gang criminals lose their Swedish residence permits",
+            "bullets": [
+              "Large-scale drug smuggling, financial crime, arms smuggling and murder orders - now eleven foreign-b...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Large-scale drug smuggling, financial crime, arms smuggling and murder orders - now eleven foreign-based people who are suspected of engaging in serious crime in Sweden will have their Swedish permanent residence permits revoked. - I hope they will be disappointed, says Marcus Nilsson, head of the border police unit at the National Operative Department.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Unusually many diamond weddings – Barbro and Lennart celebrate 60 years of marriage",
+            "bullets": [
+              "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy year for weddings. Lennart and Barbro Svensson from Molkom have been married for 60 years in July. - We will probably celebrate it as a family, says Barbro Svensson.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Accidents in the mining industry are not reported - concern about blackmail: \"Measures are required\"",
+            "bullets": [
+              "In the last ten years, there have been over 700 accidents linked to mining operations in the country...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In the last ten years, there have been over 700 accidents linked to mining operations in the country. But the number in the dark can be large – because not everything is reported. - It complicates the work of preventing accidents, says Jennifer Wänseth at the Swedish Work Environment Authority.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sam Hallam's time as national team captain for Three Crowns is over: \"Should have accomplished more\"",
+            "bullets": [
+              "The Three Kronor WC is over. And the quarter-final against Switzerland was Sam Hallam's last as Swed...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Three Kronor WC is over. And the quarter-final against Switzerland was Sam Hallam's last as Swedish national team captain. - In terms of results, we should have accomplished more, he tells SVT Sport when he sums up the four years.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "\"Now Sweden is tied even closer to Ukraine's defense\"",
+            "bullets": [
+              "With the Gripen plane in Ukraine, Sweden will play a major role in the defense against Russia. It st...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With the Gripen plane in Ukraine, Sweden will play a major role in the defense against Russia. It strengthens security throughout Europe – but there are also risks.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Many sports facilities in Västernorrland worn out: \"The need is screaming\"",
+            "bullets": [
+              "Many sports facilities in Västernorrland are in need of renovation and refreshment. This is shown by...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Many sports facilities in Västernorrland are in need of renovation and refreshment. This is shown by a survey from the National Sports Confederation. The situation in the county is the worst in the country, according to the association. - There is a need for upgrading in the entire county, not just in Sundsvall, says Håkan Melker of the Swedish Sports Confederation Västernorrland.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_8",
+            "category": "sweden",
+            "type": "News",
+            "title": "Bang for Åhman/Hellvig - first loss",
+            "bullets": [
+              "David Åhman and Jonatan Hellvig suffered their first loss in the world tour tournament in Ostrava, C...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "David Åhman and Jonatan Hellvig suffered their first loss in the world tour tournament in Ostrava, Czech Republic. The Brazilian pair Andre/Renato proved too difficult and won 2–1 in sets (23–21, 18–21, 16–14). This despite the fact that the Swedish pair played deliciously at times. - Oh, oh, oh. Is it the ball of the tournament?, exclaims SVT's commentator Johan Ejeborg about a sequence in the match.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_9",
+            "category": "sweden",
+            "type": "News",
+            "title": "\"Zelensky's highest dream about to come true\"",
+            "bullets": [
+              "Sweden is in the lead again. President Zelenskyj has repeatedly praised and thanked the Swedes - as ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden is in the lead again. President Zelenskyj has repeatedly praised and thanked the Swedes - as Sweden was one of the largest donor countries per capita. But all along, the Ukrainian president has had something else high on his wish list. And now that dream seems to be about to be fulfilled.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_10",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish gang member arrested in Spain - linked to serious violent crimes",
+            "bullets": [
+              "Another Swedish man has been arrested in Spain, suspected of involvement in several serious violent ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Another Swedish man has been arrested in Spain, suspected of involvement in several serious violent crimes in Sweden, the police announce. He has been internationally wanted since last winter.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_11",
+            "category": "sweden",
+            "type": "News",
+            "title": "The lifeguards warn: Do not dive into the water during a heat wave",
+            "bullets": [
+              "Several bathers have died during the heat wave in France and Great Britain. Throwing yourself into c...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Several bathers have died during the heat wave in France and Great Britain. Throwing yourself into cold water when it's really hot in the air can be life-threatening, according to Mikael Olausson, spokesperson at the Swedish Lifesaving Society. - Do not underestimate the effect of the cold. The advice is not to just jump in, he says.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_12",
+            "category": "sweden",
+            "type": "News",
+            "title": "The SVT managers behind the Madame Luna support – today managers at the Swedish Film Institute",
+            "bullets": [
+              "Daniel Espinosa's blockbuster \"Madame Luna\" has received close to SEK 17 million in support from the...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Daniel Espinosa's blockbuster \"Madame Luna\" has received close to SEK 17 million in support from the Swedish Film Institute. A protracted copyright dispute has meant that the film has still not reached a Swedish audience. Now Kulturnyheterna can tell you that SVT also participated financially - with around half a million kroner for viewing rights.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_13",
+            "category": "sweden",
+            "type": "News",
+            "title": "Harsh criticism of the Swedish Film Institute: \"Contrary to good industry practice\"",
+            "bullets": [
+              "Daniel Espinosa's blockbuster Madame Luna received close to SEK 17 million in support from the Swedi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Daniel Espinosa's blockbuster Madame Luna received close to SEK 17 million in support from the Swedish Film Institute - but because the film is stuck in a protracted copyright dispute, it has not reached a Swedish audience. Sharp criticism is now directed at the Swedish Film Institute - which is accused by filmmakers and producers of acting biased.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_14",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish EU politicians had at least 30 meetings with snus lobbyists",
+            "bullets": [
+              "This year, the European Commission will make new decisions on how to regulate white snus, after more...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "This year, the European Commission will make new decisions on how to regulate white snus, after more EU countries than France want to ban snus completely. But Swedish politicians defend snuff, and SVT's mapping shows that Swedish EU politicians have had at least 30 meetings with tobacco lobbyists since 2024. - It is a Swedish product that we think is important to protect and defend, says EU parliamentarian Jessica Polfjärd (M).",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_15",
+            "category": "sweden",
+            "type": "News",
+            "title": "After the viral clip – Viggo Björck has received Sidney Crosby's club",
+            "bullets": [
+              "After Sweden's World Cup premiere match against Canada, the super talent Viggo Björck took the oppor...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After Sweden's World Cup premiere match against Canada, the super talent Viggo Björck took the opportunity to ask for one of the best players of all time, Sidney Crosby's club. Now he's got it. - It was outside the dressing room, he tells TT.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_16",
+            "category": "sweden",
+            "type": "News",
+            "title": "After the disappearance in Nyåker - now Lucas' family is leaving Sweden",
+            "bullets": [
+              "Last Sunday, two-year-old Lucas disappeared in Nyåker outside Nordmaling and was only found after a ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Last Sunday, two-year-old Lucas disappeared in Nyåker outside Nordmaling and was only found after a 15-hour search effort. Now the family has left Sweden and is on its way home to Romania. - We don't feel safe in Sweden, says Lucas' mother to Expressen.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_17",
+            "category": "sweden",
+            "type": "News",
+            "title": "Policeman in northern Sweden took possession of firearms - bought the gun safe",
+            "bullets": [
+              "A policeman who confiscated a firearm took the opportunity to buy the gun safe at the same time. Now...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A policeman who confiscated a firearm took the opportunity to buy the gun safe at the same time. Now the police receive a warning from the Norwegian Police Authority's personnel responsibility board.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_18",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter talks about the conversation with Zlatan: \"Knows how important he is\"",
+            "bullets": [
+              "Sweden's national team captain Graham Potter reveals. He had a conversation with Zlatan Ibrahimovic....",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden's national team captain Graham Potter reveals. He had a conversation with Zlatan Ibrahimovic. - I know how important he is, he says at a press conference.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_19",
+            "category": "sweden",
+            "type": "News",
+            "title": "Investigator: Fuel prices must increase - by three kroner at the pump",
+            "bullets": [
+              "Increased petrol tax and increased duty to reduce both petrol and diesel. At the same time reduced t...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Increased petrol tax and increased duty to reduce both petrol and diesel. At the same time reduced tax on electricity. This is what government investigator Svante Mandell suggests in order for Sweden to reach its climate goals. He expects that the price at the pump must increase by SEK 3 per litre. - It is not that drastic, we go up to prices in comparable countries. They are not high prices, he tells SVT.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_20",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter on Alexander Isak's injury situation: \"Have some time left\"",
+            "bullets": [
+              "The national team captain Graham Potter had a press conference today before the World Cup pre-camp i...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The national team captain Graham Potter had a press conference today before the World Cup pre-camp in Stockholm. There is uncertainty surrounding Alexander Isak. - We have some time left and understand Alex's situation, says Potter.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_21",
             "category": "sweden",
             "type": "News",
             "title": "Premier League 2025-26 season review: our predictions v reality",
@@ -68,471 +464,1143 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_1",
+            "id": "crawled_0558_22",
             "category": "sweden",
             "type": "News",
-            "title": "Jon Dahl Tomasson Sweden football - Channels Television",
+            "title": "Swedish national team announces 2026 FIFA World Cup roster - MSN",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPejFQU1d5Y1NpOGlJeFpydUdibm9pVTZzZDZ...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXM1cnlyeXc2eklpSlRCTFRVVm9yNTBZbE1...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPejFQU1d5Y1NpOGlJeFpydUdibm9pVTZzZDZ3R2I5Tmh0Z3AweWR3TDgxWVdEQVNOVzJOWk5hWkZYVC1Bd1Jsb2dBR3lUSlV0Y1dpa3dONUxwQXBvTVI1MlBUaGlDdng0azZnc3E3cGJTOF9TVzdhM0JxVkYzUzVwV1pSeGVIRzF4NXFTeHc4TUVHR2lTVkFSTVRwMlk5MlVVU1FiSnJ5dnl2XzNxQzNYQ0FPdWNqOVZmSmkyc1pPU2NhZHFxYW42OHotZFhqSEU?oc=5\" target=\"_blank\"&gt;Jon Dahl Tomasson Sweden football&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Channels Television&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOcXM1cnlyeXc2eklpSlRCTFRVVm9yNTBZbE1JZzkwTVpQeUVqQkU3YXUyLWhqNGpjeHJnRTdvazRoMzJVQXBmdGh1Wmx4aGFRQzVuVWUzcGY0enhuN0JtZ29ENzM5aU5qQ3NpY1JDcmEzRXZmSGxyX1k2ZTB4aHJpd3U0aHBlTVFXQnVDV2FuUWQxMkZoU2JHREhOdE53U1lwSnB1SWNmbGJnckswT2RPOU9XMDM1NlctYXc?oc=5\" target=\"_blank\"&gt;Swedish national team announces 2026 FIFA World Cup roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MSN&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_2",
+            "id": "crawled_0558_23",
             "category": "sweden",
             "type": "News",
-            "title": "Just how good is Sweden football manager Graham Potter's Swedish? - The Local Sweden",
+            "title": "Swedish national team announces 2026 FIFA World Cup roster - NBC 5 Dallas-Fort Worth",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogNBVV95cUxNSXBVT0JTX2RWODVFYnRsQWZRei1Ka2lQZEZ...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTRzdU00aVV0bXpWdU9kQzZmZ0V6WEpuWHU...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogNBVV95cUxNSXBVT0JTX2RWODVFYnRsQWZRei1Ka2lQZEZBbFh6QXJfY3otc2oxT0dDMktIUXYxRkpaVk1OWTZhd3B3VTFrY19pdEh2SUltZUJ1OFZIMEVQLWs5Tzh5QTI3WEtaY19IZ2E0RGVjWVpqamZQcmFkOEk1Tzlqc2NwRkFqWmFNUzJaNTMtOFN5V0dtN2tUNEwxQlRtOXVxanFDWFNLSWhWQ2NMQkN4Ml82MHFscVFrTzRfT1BFTWhMZXZjYmdpT0U4WUVvQ0EtY0p6UDMtRTZHa0ZIdFU0cE42OXJ5MXFvcTBnRnR0Q0R3MjdRZDV3NGdYNzhzWVBkcTVlUmVyTUtxX3poUEVXdGp5TzhpRmVIMG05aUhlNmdQcmF0TnRJQnJVYkJqUDZrOWlVWVpJSHliU2hDSnBCLUxMWmhXcXFwS2liSUtDNEo1bmJKMVhHNkpFT0h4dXhaNG9iMTI5YXVmMnNUekszMW8wV0xNaDFGSFYxaWI0cTZFd2h3VzBtSzZzUE5KOHAwRFcycEN2TlVGU0hBLUdlNU1hVDVR?oc=5\" target=\"_blank\"&gt;Just how good is Sweden football manager Graham Potter's Swedish?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Local Sweden&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMTRzdU00aVV0bXpWdU9kQzZmZ0V6WEpuWHUxYjBNUzEwMUQ1UHZMQnJMa2RueER5N2N4MGtnbGdUV0t5Wjg0cFd0QzQ1YnRSMEtnN3BRWVpJbGhGbTIzLW54Z2k1aGdXeEtaa0dVVWthU0JGb2g2ak90YlEyZFZ1RWpBTGRMS1RjWXdfVmFiWW85c1RwQ3hpRDUwZFBSdms5QXd30gGrAUFVX3lxTE1McllYR2I5TGtJQjRBM2lmYVNtdXRVQjFmdjVqN01BWFZVUVRfQUNnNW16Qk5CWVlydFpySUYxUnBSU2tCQ0RXeXo1N1pISnhpZDdQNGVaMXVJLUcwUWNPUXh3UkVueFVKYVoxdG85Q19sbk9pMUVvMWNabVhkYU04UXJ2NjZWUGdQNVpRVWRMUi12V1VEY1o0VUtfRE1Pa0RpclNOSDg1NmtQNA?oc=5\" target=\"_blank\"&gt;Swedish national team announces 2026 FIFA World Cup roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC 5 Dallas-Fort Worth&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_3",
+            "id": "crawled_0558_24",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden's football team discards its trainer after Kosovo loss - KosovaPress",
+            "title": "Canucks’ Linus Karlsson hopes to end season on high note with Swedish national team - Daily Faceoff",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHdMMWE2WERESGMyV2Z3T1J0ZllDLVJRYnB...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTBrUmxuSEZtZGdsaDJTVkM5VHZVSFEzcFB...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNVHdMMWE2WERESGMyV2Z3T1J0ZllDLVJRYnBNa3JCeVdUcmdGM3d3VXB3V3VUd2JIWGNsZTdxbTk3SV8wN1hBem5rbVBLLVlDaWk0bUZsbklhN2ZxUkRRRlNqYlQwb0RyTkk1bU0wY2JIbjU5cHh5M0U3N09XX3o4U3MyUG5YWTVwNHVfVkNfRExJQQ?oc=5\" target=\"_blank\"&gt;Sweden's football team discards its trainer after Kosovo loss&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KosovaPress&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcTBrUmxuSEZtZGdsaDJTVkM5VHZVSFEzcFBEcHJmSDdMaEtNako3TU9CLVppWUtIWkJyYmtIVkoteUxIazlkNVY5aTA1N1lCSks4R0lpNlZwcm5pOHJXMlQwaDZLQ1YxY2pHSVNiMGY4RzdPUTJyb2I5aHZBa1g1cm96N3FkaGtCUkk0bGVtWFpuMVRUMXlkeVd5N1JVVDFmNi1rRG5HOEM3dW8?oc=5\" target=\"_blank\"&gt;Canucks’ Linus Karlsson hopes to end season on high note with Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Faceoff&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_4",
+            "id": "crawled_0558_25",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden qualify for World Cup after Viktor Gyökeres hits late winner against Poland - The Guardian",
+            "title": "Swedish national team for the World Cup finals in Lake Placid - ProXCskiing",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTFlWmwyM0tCM3lzNmNudkNTMWQ2OTZyWVJ...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVBadWFVLU5jYnRDOUk3bGxOWjdwWjVUdHY...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTFlWmwyM0tCM3lzNmNudkNTMWQ2OTZyWVJEeUV2aTBtNWtfYnZrQlhDNVYycm53Y0RMZkI4Mk5hVUZCamR2VWxYT1R5dXFnd01uYk5UNUlFQjIxTUphY2VUWWY5QXRtanFtLVFfNm0wM2txbko4ZE9JZ2pfM2FkMjdXc0ZuZFNQeGF6eldjWmlhcGRvUTc3Mg?oc=5\" target=\"_blank\"&gt;Sweden qualify for World Cup after Viktor Gyökeres hits late winner against Poland&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Guardian&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNdVBadWFVLU5jYnRDOUk3bGxOWjdwWjVUdHY0WWUtODc0Vk4xd1UxeVRxUTlDZEJKajBwbjhoMGFfdlJWNUFqeXdJc2xkMGxIbERhZWZ1RHhDa2JSbW9aamRYcF9LdUVxZkJUdGtRbmFUMG5ucE51cTBpU1hYb2xHZHhDdkcwdDFZXzZ0UU9LNklyLUs5MlR5YXpkekgxNlM2RHFHUng3NjdOWWJrNkE?oc=5\" target=\"_blank\"&gt;Swedish national team for the World Cup finals in Lake Placid&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ProXCskiing&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_5",
+            "id": "crawled_0558_26",
             "category": "sweden",
             "type": "News",
-            "title": "Haryana girls set for Sweden football tourney - The New Indian Express",
+            "title": "Swedish national team coach Janne Andersson suffered from cancer during FIFA World Cup - Flashscore.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGJTaTlvRTZjVHNWR1h6SC1tWF9GQmlqQmd...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZm1lRDBaNW5RY1N3RlFha1RBSXRnTmE0Y3Y...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWGJTaTlvRTZjVHNWR1h6SC1tWF9GQmlqQmdHTjByUGJNbHBlQzZmdnY4YXhaYWVwbjJNSDg3SzlaVjRael9QNzl0ZXRvVVlZRHNwUnVHQzZzU2hNSEx4dE5GV0NxRThYaElWbk5pcTJiS0VWcjFybTVKZjU5TUtsdEMxeVRWT2RMbV9zTFN2TVdVbTBvMWpyM1psYXI3WFE1a25FTEFBT0rSAbYBQVVfeXFMUEZlZjlRajB4ZVA5ZjlYZzRkNU81T0poMDRIWGNPUk1KM3RKSlZlUDFHVnFzS1QzTEhGdWxDRk1HQmZISkJzUlVFYlhsY1pUWTNsWUxsYWVPWkNtdTIzbFpRRW5sMG8xQXBhWUtxYzRkSnlZQWhOSkxuREVud2d2WnNPQ1VzSzF3clNEbUx2LTdpNGNCd0kzVldjZmJkMEk3NEJ6YXUyajE4MGNob21TcUZ6UFNKMlE?oc=5\" target=\"_blank\"&gt;Haryana girls set for Sweden football tourney&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New Indian Express&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNZm1lRDBaNW5RY1N3RlFha1RBSXRnTmE0Y3YxZUtXb3lyUzFqa19EWkZBSkFYMFZ0WlN1MlVvc0xHN3d0UmY2UDZ2V19JT2hpNjhjSHR2NU9qd2JkVlNfWkE5eTlHV0gyeVBMUHg5eVp4b1RETDRyT29tSjV5VFA1RkFhbHpmbVR3WkVCVnhJdnNtcXRTbzF3ZVllXzk2enJ2YW80UEVmZVl3anhmdDcxQ01iZzZqOEFOSHNGdmp3SVVsc1VqME9OLThGMnE1bzhLN2RWRDQ0NTlKVHItMkE?oc=5\" target=\"_blank\"&gt;Swedish national team coach Janne Andersson suffered from cancer during FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_6",
+            "id": "crawled_0558_27",
             "category": "sweden",
             "type": "News",
-            "title": "Zlatan Ibrahimović Says Goodbye to Swedish National Football Team in New Volvo V90 Film - PR Newswire",
+            "title": "UNIQLO Unveils Official Apparel for Swedish National Team - Branding in Asia",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkxNSzVCbVNMclRnU19zeGxsZ1pFWmxkb0M...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3BMdlQyNUloUVdaOGs3dGZjNFhremllQjN...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQkxNSzVCbVNMclRnU19zeGxsZ1pFWmxkb0M1Z3JmNjRRYzBSMDhRUm9rQmxWSDBXNXhBamRVckNwWjNLWVk3N1FDVU4tNmJIaDJZLUFMeTJlb2V6azhyNU81M2ZRM0VBR1JxOUg2Z1lNdWkwN0pJUDk2S25ucF85UFBpY1lGZGxFX0x4TGczeFMweDVIY2J2cDJCeVdTaFFkenZ4RkNEa2p1NlVKZ2pUYmR6Wl9oQzhYUTN3RlBtSVgtMkR5NkFvSER2LUlFNzYtSF9zeHJmQTEtaGNWWVE?oc=5\" target=\"_blank\"&gt;Zlatan Ibrahimović Says Goodbye to Swedish National Football Team in New Volvo V90 Film&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;PR Newswire&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQc3BMdlQyNUloUVdaOGs3dGZjNFhremllQjNxUkkzMVhvZ2o1U19BVExRdV85TmQ0djRoeTJCSFhCakJzaEhiSzhzUy1DNkFkZ3RQZjUwVHk2YXE4M21oVW92NzU3eWhTa0NmTkZGWkdfZkQzQ1ZINThBRFRENVp2LVR4RFNlRm82WmVfWkJwTGRVVXc?oc=5\" target=\"_blank\"&gt;UNIQLO Unveils Official Apparel for Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Branding in Asia&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_7",
+            "id": "crawled_0558_28",
             "category": "sweden",
             "type": "News",
-            "title": "Derby Week: Title set to be decided between rivals in Sweden's football heartland - Flashscore.com",
+            "title": "UNIQLO Unveils Official Games Uniform for Swedish National Team Competing in the 2026 Winter Major Sporting Meet, Embodying the Themes of 'Grace. Strength. Unity.' | FAST RETAILING CO., LTD. - fastretailing.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDZfZUI3NW5DOTVSQ2MwQ3JMekdHNFV4Z01...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSW4xNTczUmhsUHk4SnYya2hvZ3VsSHRvcnh...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNDZfZUI3NW5DOTVSQ2MwQ3JMekdHNFV4Z014M1A4NWlCcEpPamRSbElJTGhxRk5henBoMHdJaWpEN2d5SXpEZG5VOTVCamFWT3Nsd3c1Z2RQb3Rrdl8xQ2ZTb0dmS0g1WTVCTEZwVDdkSVpBUDlvTFA4ZG12VWxxQkhEWWJYeV8wbnJlZUtIT3VpdjBRQ0JWWWhGTTROR1dqR3NSSXUwSWtYb0p1WGpOMzB5MXFCODRObHB2NnhucmlMSUw3S2xRNlZmbjkwZ2NrdjJVUG5rY0Q?oc=5\" target=\"_blank\"&gt;Derby Week: Title set to be decided between rivals in Sweden's football heartland&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSW4xNTczUmhsUHk4SnYya2hvZ3VsSHRvcnh5cU5sa21XZU51TjdPV0M5RzJKY0k4ZW5ERjA4ZlliaWZKT3FHLXV1RDFvVDFKY0gybDlyOXZzX3haQVlvMngyWTEwVXBnQmxlZQ?oc=5\" target=\"_blank\"&gt;UNIQLO Unveils Official Games Uniform for Swedish National Team Competing in the 2026 Winter Major Sporting Meet, Embodying the Themes of 'Grace. Strength. Unity.' | FAST RETAILING CO., LTD.&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;fastretailing.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_8",
+            "id": "crawled_0558_29",
             "category": "sweden",
             "type": "News",
-            "title": "Five players retire from Swedish national football team - Anadolu Ajansı",
+            "title": "Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDY5Z290WUszRG1xS3FaY2MyQXBIWExfZ1E...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcHBnYXNsUmRTMHMyQlI2eFFNSXk5a2gtOE9...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOdDY5Z290WUszRG1xS3FaY2MyQXBIWExfZ1EyVS1JTDYxdllaVnozM1EzR2tIN1B2dlJsRUZROVl2ZkNzbzBTNkdSUlZiTXpJVTFSay1TdGdzZTNtb1M1RVdRaWNaaUhjaWloWlZ4cUFyQnVWQ3hyUDJxWnVVOHJ3a0llakRTSHowWnI2UHBUT282ZTZMUjREb1NGcw?oc=5\" target=\"_blank\"&gt;Five players retire from Swedish national football team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Anadolu Ajansı&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcHBnYXNsUmRTMHMyQlI2eFFNSXk5a2gtOE9YVzNRZnR1LXlXQVlpakQzbVdoQWEtWWRER0Q5VFZaeGVaNWd1NDNVTHRxMVpoSk04VmxyaTM3bUZfMWFsTWcxT2lXVm9HTWh4X20zSVhCSVdOZzJMQXFFQkc4cGRsNmF2cXhOajNtbk9HVDVNZnNQZ250WUhxVlotSE5iU2hFbkxOMEV4MzB4akdpSzhYRnd3WXJVRlhINXE2TDdzVmN1Vi1DcXZ3Y0hQM2NVc1M2ZmhQX0JROXFLNVhWbnlIM3M4UFZIQ00yR05iQw?oc=5\" target=\"_blank\"&gt;Alexander Isak Set for “Pre-Season” with Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Liverpool Offside&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_9",
+            "id": "crawled_0558_30",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden Extends Winless Potter's Contract Until 2030 World Cup - 조선일보",
+            "title": "Erika Holst Named New Head Coach For Swedish National Team - The Hockey News",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHF3RC1zUS1DdTdobEdPT0dDdHRQbkRYTTc...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTdDemhWNFlxRVJwSWx0NW1IeFRjQU9qVWt...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQNHF3RC1zUS1DdTdobEdPT0dDdHRQbkRYTTcwcnZoenNpTnNGMy1TRi1MdGVWNFFlZVZMb1VXc3RwaGNGc1ZBVDFRN3hab1EzX201dk9FLXU0NlhybkNrbUNUTHRiMmtFWjk5YmJsc25xTWVCUjFsSk1SZHY5OTVEU1NDS3hJdw?oc=5\" target=\"_blank\"&gt;Sweden Extends Winless Potter's Contract Until 2030 World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;조선일보&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOLTdDemhWNFlxRVJwSWx0NW1IeFRjQU9qVWtvLXpsanlOQWJ1Z2Yxb1RDc3lZaGNLRk5hSHZvaHhrNE5LdzlsdzV0c1VHZ0NoM0FBY29oR21yWnBWbHFHU0VZSENldkR0N01sV1FwbWhWcjhubUhSblcxcnF4SXlIZkt1aTdyZzl2ZUdJamVaZTdKUEh4T1pKZmczaDA?oc=5\" target=\"_blank\"&gt;Erika Holst Named New Head Coach For Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Hockey News&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_10",
+            "id": "crawled_0558_31",
             "category": "sweden",
             "type": "News",
-            "title": "Zlatan Ibrahimović says goodbye to Swedish national football team in new Volvo V90 film - MultiVu",
+            "title": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0JRdDZzREI3M05XMkVQSWpJNVowRnBmU09...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY2N0V0FlZ2FnWlRxUVhDRXBaSVRvMTVnUXp...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQb0JRdDZzREI3M05XMkVQSWpJNVowRnBmU09SZmxnN3pJa01GTy03M3pMa2w4YkJTWEVoLVZtazZLcl9MLXhhMkw2c2JndUp1ZGhTUkNNbTczeUp4Y0diOVhyTTlCWW4zNklsRzdtV1B5MFRvQjNNdVlWemJBckwzMjdkNUFUTG8ya01Hag?oc=5\" target=\"_blank\"&gt;Zlatan Ibrahimović says goodbye to Swedish national football team in new Volvo V90 film&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MultiVu&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-wFBVV95cUxQY2N0V0FlZ2FnWlRxUVhDRXBaSVRvMTVnUXpib1BRaHZxRk80Yi0wb1d3Q3dmYk9YdzdZeGhwb01hRktYSXZxZWlQOWJJYldCbGQyZWJZaTNiU2dxUC1GTmVTeVdFT0dHT0piazJOdEJnOEdFTW9TWGdwQ0hrdU9qTHlac0hJZHo1V3JBQWItTFJtZ2xINVg5Sk56MFFuVkd3azFkaERUMG9jTTZzeE5EXzVsdmc4X1Fxdm5sWkdLa3MxYTM2TkZMTlNzOFh2OVNZM3VOOW95Y1hDNE1EeERRRXF6UzZfUno1X2xfcWJCNDdCMkliYlVCN3NRSdIBgAJBVV95cUxOYlRVOXM0YjF2SlNvaFZlOExZc2NsTEh3NGdWZ0diUVZta2c3SWhncVhNQlBzUmdrbVcyRWhpRDhVenhJUnYycjZzNU1tdjE5M3RlVXVjOUVSdk03dUhUMmJnQjBUT3VESXAyRFIxQkYwdEJHcV85Rmp2M3B0Mno1OW9yLU9TaThPWG1HYUZoNEt4enpfQWVoMWhJanNxZlktc0VxWGlrMDdWcjZVa0xHLTRfX2NicWJJa3hvdm9QcmxXUkxxc214c1otTDlJSTUwNXl0bV91S1pDbDhfemxDRFpXcEpUNkItZHRoS0dGcWhlQ2xGTVVzTGprZTNzNk91?oc=5\" target=\"_blank\"&gt;Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;VAVEL.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_11",
+            "id": "crawled_0558_32",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden football team Photo Jonathan Nackstrand AFP - Cision News",
+            "title": "Sandra Abston to coach Swedish National Team this summer - University of North Alabama Athletics",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2NCR0JmSXRSSjdiQWxWZE1hY2VSbk5WZC0...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE96U19WM3Z5UkcxZXdxY2xRTDdISGk2UFk...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQU2NCR0JmSXRSSjdiQWxWZE1hY2VSbk5WZC0tU29PdlFnYlE3ZWV4ekl5bzFYby1UTTJmaHJQMFpRdVZJMzItRFFPMUIzSEFOSjEwNHJmbm4yaFBSbnMycGsyU0xfZjd0QjhnV2FmNDR4MWVwLUlpazliVVowZS1DYnUtWFJyRTZOOGROck11NXRILTUwTGdVc0hwSEFISVFv?oc=5\" target=\"_blank\"&gt;Sweden football team Photo Jonathan Nackstrand AFP&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Cision News&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOdE96U19WM3Z5UkcxZXdxY2xRTDdISGk2UFktR3BlZzZianVvd1JoVWk0aU1idWlCTjlDUWFoRFFoM29IMzNKZTBNQW45LU5aWDA0UVdKaUIxYlY1T2c3ZWR4ODRGN09wSkVhVzZYalQ0WW13enZ5NE5VQ2tpc0I0Zm9MN21TWXR2TmItVWRaZDdqOFpyaVdLaU9JSWoyS1lONlpOSjdweWJrQWNCTmVPWUpMUkRydw?oc=5\" target=\"_blank\"&gt;Sandra Abston to coach Swedish National Team this summer&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;University of North Alabama Athletics&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_12",
+            "id": "crawled_0558_33",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden Euro Cup: A glorious legacy of Sweden's football team before Euro 2024 - vocal.media",
+            "title": "Asllani's retirement from the Swedish national team is postponed - KOHA.net",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkZuZUx4N0NCdks0anlVaUIzS3hUUnAzaXN...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3prbVdBQnk0U29IeDBLNjRqTkNGQUZfd29...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNTkZuZUx4N0NCdks0anlVaUIzS3hUUnAzaXN6U1M3cERNdVpYcGtZa0hVb0xveHJadkxCcjI4ei1oeXY2YW1ScHRVamJaQkp1eUstZFdmYmQ5RjFVdkxzQ1pDQTEyZFVuaG00RU44ZVVXMldyZXRrR1lLQWs4bWltRE1vbnpRNktKTjlrZ0NCR1B4STFDVnJKTEtVWUJsM2tC?oc=5\" target=\"_blank\"&gt;Sweden Euro Cup: A glorious legacy of Sweden's football team before Euro 2024&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;vocal.media&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPU3prbVdBQnk0U29IeDBLNjRqTkNGQUZfd295Wk1pTUcyYmZIYnFvMWdsbFlnUEZqemI0RWRrMWhaRVFzV1YwbnBPRjhKYTRlTnpBNzhUdmVEcGV1RktONTVjVlUydl9ydDN4eHRJeUZvczdmNEU5QlFxM0NSMG1pRVRKVHllQzMxSGt3XzNsLTZidw?oc=5\" target=\"_blank\"&gt;Asllani's retirement from the Swedish national team is postponed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;KOHA.net&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_13",
+            "id": "crawled_0558_34",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden football legend Zlatan Ibrahimovic's statue fenced off as Malmo fans vent fury over Hammarby deal - Firstpost",
+            "title": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSTZZZGRoQXdLdkl0QlVZSEpCZDM2NVNEN20...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnhVRk4ycWNyY1JtLUFZMjAtOTZNRlJDUno...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSTZZZGRoQXdLdkl0QlVZSEpCZDM2NVNEN202dzNLbzE1eWtOTzFnXzJFb2Z1QU9CT3FyQ3RRSGhqNTA5UWg2UGdRcTZUck9nVmREQUluUWQ2MU12RFZ6dkdRR1VUTnJIUmZXd2NnTm5WYkdjcWdDX2NubVV5Zzdac1FzS0d1YTR4eHVkMnFDbUk4Mkh0bDlDUkRNX1JKMTBBQ0IxbzgzUzNYVDV4SzZpXzFyYWhjXzktZVJaYjV1Q3Q1bmdCWVRCMTVaUHVVaXlhQ1UzQk1XVXZWUmFiYjJwWkwxd9IB6AFBVV95cUxPN2RsSGVEcnJ4cHJidEtrbVpBWDNtUTlrUVl6eEJHMjlXZW5fVnl3OUFRZzdHQ3VqNjZTWXVHZnB0SmtNMEIza3hWMHRJVHZxR1U1Q2ZQaWcwcHRocm0ydWl3eUQ3V243Y1k1M3FReXY1eHpWb0ppV0pHTzlyTlJpZnBWeEh3V2E3VENRM3QwZHNNcmRyb3pOaTUzejZPQlhLTkdHb201ZmZHNmlrNXVGUmhtWHZwODdyQ0xxN0ZFQ3phTl8wY3N1NkhwNkhSaDBHdlllYmY1dkJsRy1HRjA0MC1CZE1WUm1H?oc=5\" target=\"_blank\"&gt;Sweden football legend Zlatan Ibrahimovic's statue fenced off as Malmo fans vent fury over Hammarby deal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Firstpost&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPSnhVRk4ycWNyY1JtLUFZMjAtOTZNRlJDUnotRTBpcGxWRTV5Q1AwSERyRlpxVXBxOVJlTWIxQ2R4VEhmS2R4SnVqQmY5TFBpaXVRTGhwWGZObVJ5NE9aaUlUVUlLQUF0amxPZUR3N3RkU3F6eFRKM2xPcDFVYUV1TGVnNDd3SEVoLW9Lb2FGak8tRnlmUjlEVkxkTWxnR09vRXVrbFpaSEVFaTEzLUhINXdWTEtsRDN2bjFtZC03SkN2eU9IYVB0VUxjZ1ctdw?oc=5\" target=\"_blank\"&gt;Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UEFA.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_14",
+            "id": "crawled_0558_35",
             "category": "sweden",
             "type": "News",
-            "title": "'Believe in your damn self': Sweden's football team switches jersey names for inspiring quotes - SBS Australia",
+            "title": "Swedish national team coach Tomasson under heavy fire after World Cup travesty - Flashscore.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGZubTBrdy1pbGhRZWVORUk4a24tbWRsZ1h...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkRQNFRoa3hXaUFxTk82LWVzcTFvU1dCb3l...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaGZubTBrdy1pbGhRZWVORUk4a24tbWRsZ1hpZTFPaGhjQm1RSmY2X0x6Zmpvb3c0OWFNU1J1b1lxbGVYNFBwZ2NsWGQ2Vi1CdDYzdzVVVHNJZU1qanpNNGNidDRud2VyUTJ1aXRlaGlYRDB3YkEyeGJQRU9pWHhIWldiU1p2amtJUnZRX0hQSUh5NWZhOVdla2pjcENaN3VJbU5sUHhFR2Zzc0ZmV3B6cTJ4QjdmSEtlQldfTTUyMjRyY0JzajRwNHNDRzNadFNhNEE?oc=5\" target=\"_blank\"&gt;'Believe in your damn self': Sweden's football team switches jersey names for inspiring quotes&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SBS Australia&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSkRQNFRoa3hXaUFxTk82LWVzcTFvU1dCb3l6bDU1ZTQyRmx3cEd4cWRRQ1ZOeEtnNmo5Tmpsa2oyR2dyZ3V2c243dlFvRjE3STFxVElLdDBfZnJIS0p3amtoVlZ6bEc0OG0wVmxQYXB3eV9xS2JhWDNyajYyNDNuTTcwaFNvNTkxX2JfR1VRa0hzbS1uWmRVWnpfXzNnWVNlV0RYNjJ4RWxFbm9JY3lqMVRQVTZrTk5meGZ4TTYxQmJMWXEtM3R4dlJHWkxoQkFyMnhr?oc=5\" target=\"_blank\"&gt;Swedish national team coach Tomasson under heavy fire after World Cup travesty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_15",
+            "id": "crawled_0558_36",
             "category": "sweden",
             "type": "News",
-            "title": "Who are the out LGBTQ+ Swedish players confirmed to be playing in the 2025 Euros? - PinkNews",
+            "title": "Kansas City Current add former Swedish National Team coach to technical staff - Kansas City Current",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdExJWFRFTElsQ0tlTXRjOTNXR1U4bVZmYVJ...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2QydVduU0xHcWM3TGdlcVVpNF96TjFIVG9...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdExJWFRFTElsQ0tlTXRjOTNXR1U4bVZmYVJlWGlNemxFRUdNWTJGMzkyME82ZUtRbjBGS3FUcDB0a3MtU3o0TE5sNTg2NHl2cHhDTnF4N0hmd1lfLWs0RlJDM29xQ0hDOUNYWFJXaUhjQWF6OFJiV0VkdFdZRXA3Y0ZacGFxektMSnEw?oc=5\" target=\"_blank\"&gt;Who are the out LGBTQ+ Swedish players confirmed to be playing in the 2025 Euros?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;PinkNews&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNX2QydVduU0xHcWM3TGdlcVVpNF96TjFIVG9lbVAxbHBoV2IyTFdGQnlWdHlOdV9saDdrck9QblFiUnFYNGpLRUZIeTVJSjU0ZjVPeUhVaF9UT0tZNTJ5ZVdlZ1Q3SHZUSnYxeFBtMzBHblRvS2dZMlVVNUlhMVFQcmZwbWVLNDRHbU9VQWZRdzRlQmdpVVgwRWoycWVnLUhM?oc=5\" target=\"_blank\"&gt;Kansas City Current add former Swedish National Team coach to technical staff&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Kansas City Current&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_16",
+            "id": "crawled_0558_37",
             "category": "sweden",
             "type": "News",
-            "title": "England vs Sweden football head-to-head: When did Three Lions last beat Sweden, and will Zlatan Ibrahimovic play? - talkSPORT",
+            "title": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGZ5bWo3MktyZlJ0Z0ZRUF85NFdDUkQ5cjh...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHhPVVpRWjFpZF9uajFjaTZ4Qm82M2Q5dU9...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRGZ5bWo3MktyZlJ0Z0ZRUF85NFdDUkQ5cjhoam9aT0E1b1VHRUlpR29CcTZLNWV5ZE9rbnpGNExEWGE3ZUVDbS13c2dULWJIc19jOFJuUlp5WGZ3WTNQUjNMOTlKQnp4cDhTZXd6ZGNnZzZ5WGVGWWNiY2JNcUQ4anJZZl9oV1VBZG5BLUo0TjBJZVNFbEZEdXZkSHNrU0xLT3NFV2RnZG9NNEp5enQ5RzBkVFdJQUNM?oc=5\" target=\"_blank\"&gt;England vs Sweden football head-to-head: When did Three Lions last beat Sweden, and will Zlatan Ibrahimovic play?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNOHhPVVpRWjFpZF9uajFjaTZ4Qm82M2Q5dU9UWThHSnRCNzJxclhEM2paQWEtRUF2R3hId25uUTVtMkpsVW16U0RSNFdUZktlV3dVWjBFY0syTk56SEdnTGRKN3dlMTMxMlliV1pRZXFYVUVSUVJYTld0UkJZXzl6b053RVFjVTFpNHhnb3d4ZkJvY0o4cV9sa1hlZGxkV0VPeldrY3pramplUUMzU0pnWDNuRzJGNzh6ODVyVmdkb2JOZmN1eTdLNkF0MUNVZw?oc=5\" target=\"_blank\"&gt;Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;UEFA.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_17",
+            "id": "crawled_0558_38",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden football fans in London: sweaty optimism gives way to a sad silence - The Guardian",
+            "title": "Disappointed Swedish national team coach Tomasson: 'Olsen has let down his teammates' - Flashscore.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2d1MFRDYmZ2WWZOQTU1ZzVQMjYyX1cxaGJ...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXpGZElZRjh4bGp5TnYzMjhIVk1FMlBJRFk...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQR2d1MFRDYmZ2WWZOQTU1ZzVQMjYyX1cxaGJJNjJkaG5qZGJGUmNpYnVVeDdvVFA3ZW50RzFLSlRCZ1hwN1FwbnJYVHdQQm03cEdSLTEtbmUyMnJhMGlTWXFQQmVMN0ZzaGNrMHdDUTd2bE9kcll6LVd3b2lBY0xsd3otM21lTXV1d1lVOEZmOHR2WjRIZERzeS0zbEtkTWtibmZGMWREN3h1czd4ZzhrQzUxcw?oc=5\" target=\"_blank\"&gt;Sweden football fans in London: sweaty optimism gives way to a sad silence&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Guardian&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcXpGZElZRjh4bGp5TnYzMjhIVk1FMlBJRFk2SEx6TGlzNW4wZXVyMUJtb2VyVXZDeUlkUk1TUXJEVGdOUER5VXVBU0FZVy1CT1lQd0x6ZjlUMGxOaFdGTDdCNDdtRVl6WFg5VHZXQ3E1UHJYbnFCSXFfTWItMS1OMW9ZM2oxSzdlWHVaTlNQbnQyVWhEeEtVandpQjNFQmpTTE5wUWlCSHkxMDJaWGZrd2hjMW9JdENZZDNDdVk4RGcyRXl4bFhlQWphVG1IWTVVRVItV0lXMTB0SVA0R2l2VnhMSjI?oc=5\" target=\"_blank\"&gt;Disappointed Swedish national team coach Tomasson: 'Olsen has let down his teammates'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_18",
+            "id": "crawled_0558_39",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden Football: Second-half goals see Sweden beat Hungary in Budapest friendly - Flashscore.com",
+            "title": "Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZllTVjgycTZSZDhLVVhRWnA3WGdVTklUbk5...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX01vSDhlYWxsejhpakdwbDVyblh0WlcwdzF...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNZllTVjgycTZSZDhLVVhRWnA3WGdVTklUbk5Wb1BXMkFMQ0wzSEFNeEF6c1F6bDRvWHJkSFFPYU84NXVoanlqblAybE9mQkpYLUdRaERzS1ZVQ3Y4YzdjS0RfdVVQU1l2TnNZckhRTF8wS0lhOXFnX1pLemxiT2JlZnVvQjFPeTE2emU1SzZpc25waU5CcmV5ZEFsVmtTcXVGc2tsTkNtNXdaRDJGbWs5dGl0TXc5djZxMlJEZkI3WGpoMGFnSDFFUkRLOA?oc=5\" target=\"_blank\"&gt;Sweden Football: Second-half goals see Sweden beat Hungary in Budapest friendly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPX01vSDhlYWxsejhpakdwbDVyblh0WlcwdzFLTzI1RzFhV3RkbXJLQXJmbGQyZldhbGVVRUl4d0l5aDNsZmpmRXItZWJReFQ3V1Q2MkZmTjFiWTBtTUlBSXVjaGxNMldSNDRTZUdyUU02YnkzWFQzZmtVVHJmbEJqb2JGVVI2RjluN3lvcnFVMFdHbDIwTDRjM21wdGZsb1g5UTBmcnowSjE0WUNRdXBVS3RjV2J0cWZkdjZ3RVZCSm1ZY0RxS1ozTw?oc=5\" target=\"_blank\"&gt;Graham Potter replaces Tomasson as head coach of Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_19",
+            "id": "crawled_0558_40",
             "category": "sweden",
             "type": "News",
-            "title": "Swedish National Football Team Player Embraces Islam - Morocco World News",
+            "title": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXV4djZTYUJDbUduQ2ZKbFFCUmZMVHZKMFN...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbGpSNy14Vnp5VzJHLXZXb1FzREJmOWVRVFQ...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMXV4djZTYUJDbUduQ2ZKbFFCUmZMVHZKMFNFVDJIMG5MODlBZ1FwUVhGZmx5eXFQd1h0dFU1a1FTdU94NTZPcVR1ZU0zdlY5X29tbkhvclVrYWh3ZkNYV0lxOHhreDNzcjV0NmoyV1R3ZkNBUUVpc3JrSDZiZ2FhWml1NGZBUDRBQnNBekJwbw?oc=5\" target=\"_blank\"&gt;Swedish National Football Team Player Embraces Islam&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Morocco World News&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbGpSNy14Vnp5VzJHLXZXb1FzREJmOWVRVFQzUmdBeHZVUUEzVmhaSW9lN1hidkJxRE5Kc2tHUEVfNTJJWHRiX0xaNEZWdnlqbmxxLU5rWUpxNzJiZEJfSl9IdW1CM2lXaU9rRW8zZk9jc09HQzd1TW9XbEVqOHc2b0ZuS2JTb1VSWk9wOUstUm85YmIzZk9aXzBpWW1qWWdtMy1GUzB1WTZFMjJfeTRrMG0zV09OVWpnc25kWXUtV0hqUXFzaEJPMF9HaWtxYXYzRkZnZ3NZSGwtbmM?oc=5\" target=\"_blank\"&gt;Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_20",
+            "id": "crawled_0558_41",
             "category": "sweden",
             "type": "News",
-            "title": "#EFFC25 TO TAKE PLACE IN MALMÖ, SWEDEN - Football Supporters Europe -",
+            "title": "Former Swedish national team coach Tomasson turns down option to take over Norwich - Flashscore.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5BMnZ4bkgxUTRndTE3cjBlWjRGMXZZV2IzWlo...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX01tSlBwcjVJZXRhdXBYaHZudW95TW8zcms...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5BMnZ4bkgxUTRndTE3cjBlWjRGMXZZV2IzWlo5UGVrdkc0VTdBa2V6b3VmTFNUNUg2M1huYXB6dGdsZ0VhT1JKQzNGaDU4V2hjME5UcFpqbEFYdUtKcTVkVzlCbHBlZ2NMWGQtbW1icXhxVEd6cllQRw?oc=5\" target=\"_blank\"&gt;#EFFC25 TO TAKE PLACE IN MALMÖ, SWEDEN&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Football Supporters Europe -&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3AFBVV95cUxPX01tSlBwcjVJZXRhdXBYaHZudW95TW8zcms4b3NUYWJPTktuN2VpQjVYMm1uTDlxMURFR3p0QnZTaUpPQVZsTHV4TEhhTlc2ZldwbTZiSXpFTXlrQnJTV0VwSEo3N09WUzFSZjljUlpJTnpOd1VlTTZsRGhQU1g2QTF6NVNfVEo3cHdPTF91MVhXWElhdmR4bmthS1RvdG0zQ2NDdXJ2NVFobE1VdDNDdVlPWmhQU1pNdU42UWxRS0JGem5Lcm42RUZNa056aUFqRjVZc0pfYXBmNGFH?oc=5\" target=\"_blank\"&gt;Former Swedish national team coach Tomasson turns down option to take over Norwich&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_21",
+            "id": "crawled_0558_42",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden's football coach apologises after post-match row on live television - The Local Sweden",
+            "title": "SU Student Teacher Participates in Lacrosse Tournaments with Swedish National Team - Salisbury University",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxPWFA1VTlINmJ4cDhzQW9Qbmk3cUpPM2JHakp...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOY29OalBKeUd0aDFBWXc3UGlyRi1NNmt6WUx...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwNBVV95cUxPWFA1VTlINmJ4cDhzQW9Qbmk3cUpPM2JHakpJbHY3RVNhZ0xhRGR3clJabFlDQ0YwQXB6a3VFMHU0R3JUdk9qMzNuS2d5b043c3laTXZlVnpkSW5zXy15V29mZGFQS1h6aDlMOF9mY3R5OFpaWE1tRFBwaGZFcUxUc3lESDUtRnkxbmc3QkdCZ1g5enJUTkRQbEdUbDl6aTV5eVU4emhXWkhTMHhoRE9ET0c2ampsOGEybUtQeGNJMHAzX3BHNnRCZ1NiWGhvcHJvbHJyWUtaRTMzdTVpMzgxRWttdHVNY3dsbzBPeHRJZUxrdEhDZ3o0QXZ0eFRuMnhpUHNSSUEzR3ZvVTdhaVFEaFRYTDczcFdIMVVqaHBzbXFhdzg4VmZuRTJCWWZkM21kdkV4V0N4cTFVTEZ5dTcyZkhBZ2h0bjNuZG81TldDekNNTmNHcXo3V29icnljRDdMMVR6SWRkRnVCR2VxRmxHeDhQYkQ5Z09GNU9Sa25RQUszRms3Sks3UXROOTJiQndIby00eGhXTG50c0NzR3YyVm1xRy1MMnIyT0I1MGdoUQ?oc=5\" target=\"_blank\"&gt;Sweden's football coach apologises after post-match row on live television&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Local Sweden&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxOY29OalBKeUd0aDFBWXc3UGlyRi1NNmt6WUxaYlNZdVVSMWktbzM2RWtuYWh4bTk1WTh5cjBYTmJTT01HY2pBS3B2UVJkREc3YjlqMzdXTTFKVGxPVkZxUXktcDhWN3lRSHdOdkw4TW1PUUpyd3gxaHdUSVFQRUJuS1h5aXZUVHBrSmRjMTFoMjNnNkpwWlZ4TlJyWXZiS29mZm9yREM1WGVMUndFeFBoUVQ2X0J1UE9sSGFjTjd3UzVBX0JtV2Y1Y0ZWdw?oc=5\" target=\"_blank\"&gt;SU Student Teacher Participates in Lacrosse Tournaments with Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Salisbury University&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_22",
+            "id": "crawled_0558_43",
             "category": "sweden",
             "type": "News",
-            "title": "New Volvo V90 marketing features Sweden’s football legend Zlatan Ibrahimovic - Luxury Lifestyle Magazine",
+            "title": "UMD lands Swedish national team goalie to challenge Gascon - Duluth News Tribune",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWtueDU3a3BMcnh4TmlfVjRhOXc4NEsxNHV...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONXdXZXg1TlJkN3dUWUVURjdpeXk5NXN6Qm1...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWtueDU3a3BMcnh4TmlfVjRhOXc4NEsxNHVIZXVUR1pfNXg3SVV6ZU9Lai01aWRBbnRMSG5RT0lDamU1dTJXZy16S0luR19nZUZKemQxYWpERWtVQXphTWUxNGwtZW5KcDlGaFg1MVhKMXlQcDQzYkVnMldmRkg4dlVyUnlqMEljbzRPUXFiWGRpVjJ6MEVNOEpIanc3cGVhUTJYVUdfSjBLZHkxWE5DRkZtSjVHNnNQN2M1NXdZd2haVHk5SmFkWTVjZjU?oc=5\" target=\"_blank\"&gt;New Volvo V90 marketing features Sweden’s football legend Zlatan Ibrahimovic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Luxury Lifestyle Magazine&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONXdXZXg1TlJkN3dUWUVURjdpeXk5NXN6Qm11UXB1MklkeE1ibFQzNER0SjRKdXZGdURYcU1aNmo0UTJWSjF3NXVtM3ZGS2g2czdXWVZXVUtvV0FUeHFrRGc3R0Foek5xbWdvWjRTa04tUVRxSEM1NjBmTlBvM1hQbDBRbVUzNDNQYmhLVjBXODZsUkxQMUtwUGdoNFd3T18wNkh3Y2trd3FnS3A3QXM4bTZHV1ctdw?oc=5\" target=\"_blank\"&gt;UMD lands Swedish national team goalie to challenge Gascon&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Duluth News Tribune&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_23",
+            "id": "crawled_0558_44",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden Football Star Zlatan Ibrahimovic Attacks Guardiola - Spiegel",
+            "title": "The Nordic Storm sign Swedish National team lineman David Strobel - European League of Football | ELF",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0p4N1VPa2NVMG1VamlWQkdTTlhpM2I4ZEN...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUN1WHFCWTJRUkNlaHM2TGRGNzFQWHktdk1...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ0p4N1VPa2NVMG1VamlWQkdTTlhpM2I4ZENOLWpQdDZndzdyX3BkQlhQS2ljS3RUYklJbWdJMUlGZUhTbm9xdl9tc2J6anQ3ZzZMLWxWYklXdWlFTXBOZ2l6UlZOd20tcHZfOFZJckd0QUs3ZjZXQ1Jzb2FKcXNPbm9MU0tYNEFybXJRMm9sVndmcmdXX004UW5GMWF2MS1aNmlzTkZtUkt0R0tvQWZNU2x3djh4bDdZOEE?oc=5\" target=\"_blank\"&gt;Sweden Football Star Zlatan Ibrahimovic Attacks Guardiola&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Spiegel&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUN1WHFCWTJRUkNlaHM2TGRGNzFQWHktdk1SaGRVMUc2UExjZzJqZ2RLd0pvT245cHFpcnljR3I1ZDl2ekZ6TmlLc2dHQVd6ZmlQQkptYTdGOGZSX1Npb28tM3RmNXQ3dnlZeWpZY0o2TmEzNDYzSFh5REdLbFEyUmhORW92QUd6MEtfQWhPTnlza3ZxR0h4Sjl2eTN6czdiT0pBWmxFVmpTdmM?oc=5\" target=\"_blank\"&gt;The Nordic Storm sign Swedish National team lineman David Strobel&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;European League of Football | ELF&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_24",
+            "id": "crawled_0558_45",
             "category": "sweden",
             "type": "News",
-            "title": "Terrorist Attack Halts Belgium-Sweden Football Match, Two Fans Killed: Report - The Quint",
+            "title": "Swedish National Team Product Eddie Jallow Hedqvist Signs with Pacific - pacifictigers.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTdBS2VVWEJnZVRsV2doVmJab0Nsczk0THN...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPN1h2dl9RU3FDNm1TenRrRnNqaldNUWZ4QXV...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQRTdBS2VVWEJnZVRsV2doVmJab0Nsczk0THNwOGlkUmNTQWtRMUctSlpUZXpVWUZwSzFyNEJyTGRMRDVUZXNUR0l5OTlFOVpfYi14cjlwdW5RU1hyb0p0MkpmdWNHYWNuTTJyQnktR2pFRlY5X2Z0TlR0OGM0Zk1LMkJ3c1lINWZscEQyT0pNSDBQZGtYX2g0MW82RFHSAaoBQVVfeXFMUEZOaDNYSnlkc1FydjVaZ2FFWWFiRzk5WGtEbm52MHJjTmNWYzBqZUJRZWZkY29veXh2T0NycnNhaEtDMWktOUxOQmlNUkJLa2ctVlQtQ1FtQ1lOZXFUUHQwcXZmLS1BaWVNTG8xUU1MQklfdlE3R0FHOXg0cEd5S3BrcVNkNHF0ZWhIUTN5OVZIOXZTTW51R0lfSmVwUjN5Nko2TDViTWxIQ1E?oc=5\" target=\"_blank\"&gt;Terrorist Attack Halts Belgium-Sweden Football Match, Two Fans Killed: Report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Quint&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPN1h2dl9RU3FDNm1TenRrRnNqaldNUWZ4QXVPSEZLUnFVM2pRS3JkWUxOb3lqNzZzWXJLOGp1OWUtakN3T0Y1UHR0T1JGcE95UUVTY0QzSDkyV3dmMlhTMWtsVUIyejM0LUZnY1Z2T2NpaVRpNXhiNl9ELUVOZkQ0czJJdFozcl9LUzdZX0ZOUlhxNFprV2gyQnJIZHJ5akNGWlE3alc5Rkg4RXU3RlE2Zm9iQ1ljUGJaeHZMSUx1dHR2UVNMOVE?oc=5\" target=\"_blank\"&gt;Swedish National Team Product Eddie Jallow Hedqvist Signs with Pacific&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;pacifictigers.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_25",
+            "id": "crawled_0558_46",
             "category": "sweden",
             "type": "News",
-            "title": "Zlatan criticises Sweden football boss over Kulusevski snub - The Peninsula Qatar",
+            "title": "Alfie Thrilled to be Back With the Swedish National Team | Ottawa Senators - NHL.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1VJbks4X0V1WUxON1dkckNZWnJiMGJZbEM...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFZvX3VrdjdjR2dEcDZTRS1Hb2lDNnV4b25...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1VJbks4X0V1WUxON1dkckNZWnJiMGJZbEMxcVE0elJzbGg0QmpSbGlvZUhxWkRPb3ZmdGE4bm44S0t0ZXNUaVV0UF96V2V1YUtTa3htTmxRMHRkM1U4WjU2dVk1ZHJTemE0SkZrZHRpbGJBU1Q0NUNreG40T2JxNjdzNVVRMjVmQlE0NkRFeXJEZWpkTjBYODVsV01qMjJLbHBwR25OOTZWQkVO?oc=5\" target=\"_blank\"&gt;Zlatan criticises Sweden football boss over Kulusevski snub&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Peninsula Qatar&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNRFZvX3VrdjdjR2dEcDZTRS1Hb2lDNnV4b25pMkI2UjlTU3ZVeFpMZmVUVjBKYmlhd1QycXJDU1l0WXJGbXktTnlYUlZjWDh0Q1g4ZXNaNTF6WGpBdjR6SThDWGZMeHF6andBZWp0VHNLMFFZRDVGN3E0WVk1ZHNwZURkTE1laUdlRVRGVHVfSTZ2Ynlq?oc=5\" target=\"_blank\"&gt;Alfie Thrilled to be Back With the Swedish National Team | Ottawa Senators&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NHL.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_26",
+            "id": "crawled_0558_47",
             "category": "sweden",
             "type": "News",
-            "title": "Gunman kills 2 Swedes in Brussels, prompting terror alert and halt of Belgium-Sweden football match - The Malta Independent",
+            "title": "Baseball Posts Win Over Swedish National Team - Fordham University Athletics",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWjJZYWgzRU9aWXBpemVwdUQ3X3cyQ1BJZzd...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTBqaTNKdHVZd3AzempzcTFneVhmOERFUGZ...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWjJZYWgzRU9aWXBpemVwdUQ3X3cyQ1BJZzdrd0hCSTZmeF9WdnNzeFdsdDZaQlRxOWFuYXRjNWJhZDZWdWJxVGxZT21rREY3V0NvbWkzblFqcXU3SVZPalBpS3VnZ2JZR1g3VjllcEpra3NWU1laTHdEZDBWdjNxdjBCSlFfMEdHWUQ5THdPT3F3cUZqSFgwd25rMVphcHRicnhuNkE2cHRRZEgyX2h4V0ZnNGs3ME1YbmtLczl0SkRMRUtRMFVteHJwM3AxWUNDQndMT1pKVWJtVmZUWnlVNEx5MVBxSXlTY0pzOTlXaGxDaFVsZUVTaUpqbENGUQ?oc=5\" target=\"_blank\"&gt;Gunman kills 2 Swedes in Brussels, prompting terror alert and halt of Belgium-Sweden football match&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Malta Independent&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTBqaTNKdHVZd3AzempzcTFneVhmOERFUGZ5ZUFrSWVEU2p1SHdYcjFTRHJCSWd0YWZDS3loZ0xRRW1MWlJ1anAyZUZYV0g5MXAybHowcnRKMzhQUUJfRUt0VDc0LXY4WGViYVJRSHB4NHFvQVZhZmJlZlIwLXh5dlFWSDBtZzJFSW9QR1JJOA?oc=5\" target=\"_blank\"&gt;Baseball Posts Win Over Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Fordham University Athletics&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_27",
+            "id": "crawled_0558_48",
             "category": "sweden",
             "type": "News",
-            "title": "VIDEO: Zlatan Ibrahimovic says goodbye to the Swedish national football team in new Volvo V90 film - Paul Tan",
+            "title": "Elin Larsson Playing key Role With Swedish National Team - University of Portland Athletics",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWC02c3oyREl3ZWlvTXowRUV0eFB5M3Y5QzN...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGZSX0tOQjduWFVyckNLTW1JcXhhcGNTVFZ...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQWC02c3oyREl3ZWlvTXowRUV0eFB5M3Y5QzNqVnpCOFJwTnN0MFJrLWIwMzExbEFSZ3I1cDlhaTdaMUFUc01zU0JIN09KS0pjOXRrbmZ4SURTLXM1VlNVY2NENmlzeFgtc1p5cTg2TjZXT3Z0eTh3eHpQNHRmeWw3UXBtaXppalpKaXREZTJsQURieGtZNUt2aFJwOUY3WWFLdS00d2J3SQ?oc=5\" target=\"_blank\"&gt;VIDEO: Zlatan Ibrahimovic says goodbye to the Swedish national football team in new Volvo V90 film&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Paul Tan&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQNGZSX0tOQjduWFVyckNLTW1JcXhhcGNTVFZudVREbW0wZFFNVUFldTdfZlZkSWMxd00xN0l6YW40dFktRVlzWGVRSFd2SWp0bnNKeFYwaUJfVEhaOWpsNUxSczdlUlJCU3JmUXlKZlY5Z0V0dnhud3RrdkRRaEFPdE15cGE3SnR3TU5KZE53S0w3UzF4WjlLeUc3N09FYko1VU1Bb19SZ3JBY0oyQ2c?oc=5\" target=\"_blank\"&gt;Elin Larsson Playing key Role With Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;University of Portland Athletics&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_28",
+            "id": "crawled_0558_49",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden's football champion joins FC Ararat-Armenia - NEWS.am Sport",
+            "title": "Four female athletes to represent Swedish National team in 2023 - racers-behindthehelmet.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFZLTUZwa0tIdzVrZEc4cWlhUnBxTVAyWXg...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTlYblBWUXFkZlZ0Ti15NkZTVThoaXlLQ0t...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMFZLTUZwa0tIdzVrZEc4cWlhUnBxTVAyWXg0VzVMSUd6WHA3aDhVelkwZWVEQTIzRmhPLUdrbUNSQ2tlYmotal9hSFpyLTl6OTZva183b0Y5VFdPUElfOXlvbUdIbVRpdFJYdUZHQU54bFRsRjFFcVFkMXBQV3ljY1pBWnZxeHJ0X0tGOE9iX3hqTDItTkRN?oc=5\" target=\"_blank\"&gt;Sweden's football champion joins FC Ararat-Armenia&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NEWS.am Sport&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTlYblBWUXFkZlZ0Ti15NkZTVThoaXlLQ0tCWE5NTjd4QjhUX210d2kyd3gyZHd4VXRZUkUxaGdveGYtdlN1UXhQMXNjSmtSMVpXZ1NRSHdJRG43bHNoYVh4RnVMdmJ1NnV4T0JkN3dDUTJaUTQtcFRybFo1Y295SGVXeDZ5bllwYm5QTXNGU3pfOXhYLUhTWTk1cGRWeEd2SjNtd3djcTZ1MHM?oc=5\" target=\"_blank\"&gt;Four female athletes to represent Swedish National team in 2023&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;racers-behindthehelmet.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_29",
+            "id": "crawled_0558_50",
             "category": "sweden",
             "type": "News",
-            "title": "Yura Movsisyan joins Sweden football club - NEWS.am Sport",
+            "title": "Red Wings’ Simon Edvinsson tabbed by Swedish national team - MLive.com",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWFNrSlNLSDZEaUR3SnBsdTZEYUVOd1hGZ0N...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXVGcDkwOF9fV3NmZ2VmTXpNVjhDRmlTTTJ...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWFNrSlNLSDZEaUR3SnBsdTZEYUVOd1hGZ0NvRmtSVmdMaXg2RUdKWWpMeWp4YjUxRUE0MEEwY2ROZmJyWkQ1TnRWSmNsOFZGVmZZTmZraFdCRzhBN00yWURmYVRmV0d5R3V2d1JwZlNUcWd3d2Ywb0Iwc3duTkVzM0xud3V1U2pSNHJqZmNXZVhMdkFLNkNHUHFRZHBKckhGRzVDRVg3dENWajhDTEg4U042MXBjeFRnRmhCalZpU1VlMjZNWUNqcFlMYldWTDI2Ym9YU2Zxc0x2Vi1UeHhyTGpn?oc=5\" target=\"_blank\"&gt;Yura Movsisyan joins Sweden football club&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NEWS.am Sport&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQWXVGcDkwOF9fV3NmZ2VmTXpNVjhDRmlTTTJJUGJPQjRRR2QwVjNaRGFBUGZuNHpBMHZlUl9LN2FwRWFaOElFQnl0ZkxoSmhNVUJIRHl1VlJMWWNtc2t6MUJyZlJyMXROMXFHX3ZRWnJUbWluWFMxaHRfS2JNNVVxSnVseGtleTZxejlKTTcwMGtVX3Y2dThLTHpXeEEwUllkYmM00gG3AUFVX3lxTE41blBYbjNEYl9EVU85WVpoSnp1WlFVZ3dEd2RxOXpaOG5QSUF5S3lFNnkzTzBHYml0Zy0zLWxrVVg4RURGV3ZYdkxzY2FrRHB4QWd6dUdRcWNFX3g0NDdHaEZCWlkwZHZuYTlCQmdTVWFoWENSZG5hbEYxbUlEcUxuRkpHQ0RYaldYZ2FKVzU3X3NuVU9pQnpwajU1Ukcxbm1QTkxRcFVZd2xyaWEzSjBtUVMtbWQtVQ?oc=5\" target=\"_blank\"&gt;Red Wings’ Simon Edvinsson tabbed by Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MLive.com&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_30",
+            "id": "crawled_0558_51",
+            "category": "sweden",
+            "type": "News",
+            "title": "Elijah Clarance to Compete for Swedish National Team - Illinois State University Athletics",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXBXVGFoazFZYXRES3ROaE5WVHZhTVQzTGx...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQXBXVGFoazFZYXRES3ROaE5WVHZhTVQzTGxFdm91NmgwajBReXNEMDBoVFYxV3dEY2gxeFZMZG1wbUhnNFlOOFBZeFJ3a3BQZjlnZmdSNzQwdVRzUUNvVktRbGJRY1k4bXNxYjhlMzN6YTZRUVUzc1VCMC1WeGNjSEtwdWxlaHNpZmRpMW9rZzIyNTBxcWQ2VjBNTHpSaEFEWGM4eWU1Ul9BUQ?oc=5\" target=\"_blank\"&gt;Elijah Clarance to Compete for Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Illinois State University Athletics&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_52",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers - Turkmenportal.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkZCX3pZNDluOG5hSHJlaks0ajBqQjZxamN...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPbkZCX3pZNDluOG5hSHJlaks0ajBqQjZxamNyemQtSTFVWmxETDJnUVg5cTFhQjBHYWdsdE10UldiTWprYlBvRFVhUzhxTnkyS19laE5SOTB3eTc4ckdEek5yNDVYOTE3dzF3ZTREZXFRcDR1cGZkNjRzcjJSbXFCZ2UtMGNaOFlmYUxhUkpzSVNoSW5LNFh3R1lWMHhWMWZha1YtWlFsaDAtVWxqSGJaeFAzQjFrZw?oc=5\" target=\"_blank\"&gt;The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Turkmenportal.com&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_53",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ex-FC Copenhagen keeper quits Swedish national team as he refuses to work with Tomasson - Flashscore.co.za",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaVNXeEE4M19nWDktc09SVV9YNlNZS0I4ck5...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4gFBVV95cUxQaVNXeEE4M19nWDktc09SVV9YNlNZS0I4ck5NS3N6V3VwclFXMVpUMkdOR1JGZnk5cHlwUlVHNjJibTJVMGYzUXBsT0NlWU5kVV96aUFpRGZxcW5lZkx5OVB0a0ZPTW5UakFXTUVMYlVIeVY5RVhGd25nbUhDVGo5LTl4TEp5M0prRExHQ2Z4RGV5RE5SaGdLVWo3eEdoMERiRjJ4d3Z0VUdJcDhwT0hrOW9oTXpVWUpXaTJmSld0NVhZQ2lLSGVhZ2Y5RWNKZGJTVFFTSUYwXzZNMldSMEV6ZTJB?oc=5\" target=\"_blank\"&gt;Ex-FC Copenhagen keeper quits Swedish national team as he refuses to work with Tomasson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Flashscore.co.za&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_54",
+            "category": "sweden",
+            "type": "News",
+            "title": "Mondo is going pro: Local pole vaulter to join Swedish National team - The Daily Advertiser | Lafayette, Louisiana",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUXpjY2Q3bmoxUXBvTVFfTmZCaUtmWWlmUVd...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPUXpjY2Q3bmoxUXBvTVFfTmZCaUtmWWlmUVdHdktRVHN1cTBsREdRYXUtdnBwajhqUlZWdFRQZVlpLTFwRlRpYW1saEhhN0ZBU1ZzcTkxUk9Oalk3T0R6d2JaRWZqa1R5R2ZscW9mRGFkQTg4V1VnSDZLSHhqbkwydkxDZUJkYVpLRkpKVFNWZmI3Y2lrbjJ0c0EzYXVoX0I2UmJHWC1UYkMtb0lrWFh0NWxra2xwWlNGUlFMLTZTYlFYNUlDcXBreG1EWDdvUk53N0IzMWJn?oc=5\" target=\"_blank\"&gt;Mondo is going pro: Local pole vaulter to join Swedish National team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Daily Advertiser | Lafayette, Louisiana&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_55",
+            "category": "sweden",
+            "type": "News",
+            "title": "Report: Swedish National Team Coach Sam Hallam Will Move To Switzerland In 2026 - Yahoo Sports Canada",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2RZTzUtaWFHcWhoMnktdnZTa29EdTZ3SGN...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNQ2RZTzUtaWFHcWhoMnktdnZTa29EdTZ3SGNhdk53Z0dPQjV0R2hDX2EzdDJCaFBZVHRzMmhxcnI5VlpwNGRhdzQ2clhXY0ltdkMtV0lQV0xrYWpvcjZDVnhubEZuRkhBTEhUb1N0M2I4LWxnOU9YUk5ROWM3aDdaMWFMMzRtY280dVE?oc=5\" target=\"_blank\"&gt;Report: Swedish National Team Coach Sam Hallam Will Move To Switzerland In 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports Canada&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_56",
+            "category": "sweden",
+            "type": "News",
+            "title": "Calle Halfvarsson leaves the Swedish National Team – Shifts focus - ProXCskiing",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZksxdHZPRkFsLWhzamR4V0tGMW5qbUVSTXN...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPZksxdHZPRkFsLWhzamR4V0tGMW5qbUVSTXN2cXFmcDlkOWhOWVZlRk9jRVNQYnhVYnVMMERpcl9hNHhQV2V1RzYtMnY5dno1aElzSVVUdGtwZ05uMXJKcThJVXE4djBtNGE5TWkyb0p5U0hjRm90MjFTSFdWc3Y3OF9IZmJvV1hldTBwVWlNZ0dVQ1d1alRpM1poRTJGM200c29UdW5zamMwUFU0b05yNg?oc=5\" target=\"_blank\"&gt;Calle Halfvarsson leaves the Swedish National Team – Shifts focus&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ProXCskiing&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_57",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers - Turkmenportal.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTFQc0dXblE3Z09ncjh1NlhUUTdtOEhmcGZ...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOeTFQc0dXblE3Z09ncjh1NlhUUTdtOEhmcGZHVk1PNlViZDdVNkhuNEI4b1NxWENRclNkNlg3MmoxeHZXMGU5bE1xTzBpVS13eTZRd042MHhudkpXbWZVdnFKS05CWlJtMUVyTDVIekM4elBSaEU5UWJCMjVqRjFrLVhNdjMxc3dnbk1YOFNtRHlZbkNTYllkNnhtRVY0YnRVd3NQeWo1SQ?oc=5\" target=\"_blank\"&gt;The Swedish national team called up Ibrahimovic for Euro 2024 qualifiers&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Turkmenportal.com&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_58",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jenner Named Swedish National Team Coach - SwimSwam",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldkdGRFFIcXYzbnVGZDBWeFA3bDhXOS1BTDZ...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5ldkdGRFFIcXYzbnVGZDBWeFA3bDhXOS1BTDZmbzdnSDd1b3ZRazExX2dPdGpUNmZ3UUp4WHQ3R2gtYkZVLS12bzdPVUdxMlJCb09NS3NBVUFqN2V1dmhENUFNMnRyTTF1ZVJqU0p3UQ?oc=5\" target=\"_blank\"&gt;Jenner Named Swedish National Team Coach&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SwimSwam&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_59",
+            "category": "sweden",
+            "type": "News",
+            "title": "UVM hockey's Todd Woodcroft to assist Swedish national team at Winter Olympics - Burlington Free Press",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPLWhiMUVIMXlfd3Jmc3BVTnZXLV9Kemt2OC1...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggJBVV95cUxPLWhiMUVIMXlfd3Jmc3BVTnZXLV9Kemt2OC1LdFBydnFDb0FDc3ZfaWgtaEhsdV9ldlF5TGJkdk9qblpfbHEwWWEwbXJ2RjRoM2pzdDVJM3FhY3UwTmFJWUFhd0k0bnV1RzllOWdtVDhMX1NDMjRnNVVUakJ4cUJ4MjZYUmFXaWh6ZnhfcmNfNERRQkoydFhfU3dERFhuWjNGZ2xGdVFNWW1kLWdxT2M4SmZTX2tQbl9tcjQzQTVrN0hyVHJxVngxMGxyZVhEbFd4Qi1PRjJvWWpTYlU3U2s3QU9PbUV1SUs1bHFTTU51SVhRUHkzbEdJWXIyaTJFMm1nd1E?oc=5\" target=\"_blank\"&gt;UVM hockey's Todd Woodcroft to assist Swedish national team at Winter Olympics&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Burlington Free Press&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_60",
+            "category": "sweden",
+            "type": "News",
+            "title": "Teen Frome swimmer sets sights on Swedish national team - Frome Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMjhuQmh5MzVGeFp6aU9QaVJ3Zk5YTGI5UXZ...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPMjhuQmh5MzVGeFp6aU9QaVJ3Zk5YTGI5UXZyUmNTd3ZWZ1gtWG9GcUxZRTkyVHV0V21jYnNyZlRUNTNLaVNCV3MycGhkaFRVb1VZb2NyV3JOWFdzZnBTRXZkcU5ZWVl6amNYbmtfWjhQaGxYOU9raUVrUlY2ZVd3MjQtQ2p1UVh5WTlqVTln?oc=5\" target=\"_blank\"&gt;Teen Frome swimmer sets sights on Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Frome Times&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_61",
+            "category": "sweden",
+            "type": "News",
+            "title": "How Kevin Backstrom's Firing from the Swedish National Team Redefined His Career for the Better - SNOWBOARDER Magazine",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9UZFA0VkJ3UVdwTDY2eHdEZXBQWjdtUklCTEJ...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE9UZFA0VkJ3UVdwTDY2eHdEZXBQWjdtUklCTEJmbVh1V1dRNU5nVHJMZ2djaXZOOHlSZXlqSlVGSXdKSlp3S2pWVXdra2llZmZ1NU9MdlJjMm9fV0ZsX3FhM3ZNMFFCXzJaMWVJclFKVQ?oc=5\" target=\"_blank\"&gt;How Kevin Backstrom's Firing from the Swedish National Team Redefined His Career for the Better&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;SNOWBOARDER Magazine&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_62",
+            "category": "sweden",
+            "type": "News",
+            "title": "New coach joins Swedish national team – with focus on shooting - ProXCskiing",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZl84QW5qUjFEOVIwRmhpU3ZNRy14a29CYml...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPZl84QW5qUjFEOVIwRmhpU3ZNRy14a29CYmltQkVGSG1vM3E1QjdRbE9FcVBUMFhfQXJRM3JKUnJNMnRuRU1DbFFYVC1LTUtaV1YwZXhoWGthQUhuWXBaS0dPcTJqVnFjanVGOGd6ZTdCdnc2Qzh1dTRLcGlnU2VjcGt1dVVhcGl4YU9sXzZ6bTlza0RVVU00YUVHYWRnVzg?oc=5\" target=\"_blank\"&gt;New coach joins Swedish national team – with focus on shooting&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ProXCskiing&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_63",
+            "category": "sweden",
+            "type": "News",
+            "title": "Kalla Leaves Swedish National Team to Train Alone; Richardsson and Olsson Are Back - FasterSkier",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNT21FZW0yZXkyNUsxcG9lU2ZxZGFSRk9FWHM...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNT21FZW0yZXkyNUsxcG9lU2ZxZGFSRk9FWHM2N0otNTQ4RUlkWUpCTHZzQ3BHY1J4bm90MkYweHhnNTdmVVllUHJKWDJRMmE3RkxrUHV1YkVuZU1TcHF1YWJ3TlVVb2d5ZnVPcGdtZUgweFdCVUYyQmhVdklzOFF3THk0Yjg3U3V6NzJnMXk0TXFnamhwcmVxbTR1VkNWdmVJQ1R6Z09MeDJZeHNfYW1BdlVLa0Q?oc=5\" target=\"_blank\"&gt;Kalla Leaves Swedish National Team to Train Alone; Richardsson and Olsson Are Back&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;FasterSkier&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_64",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish national team for Tour de Ski 2024/2025 - ProXCskiing",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjIwak42d0ZuRDFKZGVWYU41SVlyMHFlUkF...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPYjIwak42d0ZuRDFKZGVWYU41SVlyMHFlUkFpek44WEppQXBubmJPc1VoTXVIazdSV1FscVlkU01KenRRU2NVTFRNeDVNaTlRTlBOZmZUQXk1VTE3MmJfb01hbnNaWjY3T01tME5JdEg3ZWVnYU0teTZDTmxiTzhPTVpwQmVMZnBpNXRaSnlEcFA3dFNJSmZfUXZ3OA?oc=5\" target=\"_blank\"&gt;Swedish national team for Tour de Ski 2024/2025&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ProXCskiing&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_65",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish National Team Training With An Eye On The 2026 Olympics, And Summer Exhibition Against Ohio State - The Hockey News",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0JCdDNTVlhramtCMnh5TGJDazdjNjh0d19...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0JCdDNTVlhramtCMnh5TGJDazdjNjh0d19Gc2JQb2M1c0hTcV91MFRseEMwd2dlX3VCYlZCWklER3ZTcTR6QWgyZS1VMG4xWUZYYnRWQ3M5YUYxTG5tdUhBczVlMXpfcGtYLVI3RFVYbGpYdUFZc2xpREdZSEZ2NFJNOHkxbGJhSktUUlBsYXZ1MkRUSXhtamdQYWF4TV9kR0laX25BeVZlX3h4LUtzdi1CVGdmakFQWXgtS2dCT3hwdUt3bk5nYjB5MG1yckk3Rzk3ZWF4Q3pkcEdrOVgyZDg4VXpxdw?oc=5\" target=\"_blank\"&gt;Swedish National Team Training With An Eye On The 2026 Olympics, And Summer Exhibition Against Ohio State&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Hockey News&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_66",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ibrahimovic returns to Swedish national team for World Cup | Daily Sabah - Daily Sabah",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0xnX1R0Q19xS1FsT0NfVkc0UHFJNWplUFd...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNU0xnX1R0Q19xS1FsT0NfVkc0UHFJNWplUFdBSVN2Vzd2MkpMXzY3dU82a1g1M0hrc1VGUVFQZ1RMYkJFOVN6OHhxNVdMTVlkZGx2ZTZtNUp1SUJKaS1VbDhaTjNOYzRlbVZZOFhGV2VaM05tVnJTUFIwdDI1bElKMUoxcGhkNXhqNm9LOUtuRWJEZndmZmZNdzNJMXNFcWlBS2tB0gGoAUFVX3lxTE5TQnNwQTJQSW9VWHBRNmtBV1ZFSGo0eU1ldVFYZ2pZbnB0ZkQ5UFV2NEg5M0lqV0JhT3JKcllNcHZoeTNvSVVYX20tcE8wajdtZTFyMVpKYXVIUmoyZnd3RG5CZHc2WVBrTkxOSG5GZU4xSmlRWXNUZS1XaGlIVHRCRm9qZXdWYS03UklfcDYxYm9MQkc0dkJCX2NDZWFGUUU1QlJyVG1WWg?oc=5\" target=\"_blank\"&gt;Ibrahimovic returns to Swedish national team for World Cup | Daily Sabah&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Sabah&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_67",
+            "category": "sweden",
+            "type": "News",
+            "title": "ELF: Istanbul Rams sign Swedish national team DB Noah Allsten - American Football International",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1pXTjlTX2lWUjNVTElrQzNXeHRPOU5sbHR...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPX1pXTjlTX2lWUjNVTElrQzNXeHRPOU5sbHRqUGhaLWxYRjdXWUlrWG5kanB4akhXZ0h1V0ZkNmpQVFlkdFhhUm4wRmczelFHTm9WWF9ITEgxQUpXY241UlhCUU02VTNlSDdPMkprdnRvSDJXUFNkS01zTnl1OWZnWVZsS00xWlpVU0Z2VnBKeGhxR2xkdG92RFpaWTNBT2I3UWxUWU4tcFU0bE3SAbABQVVfeXFMTnVHWUszSVk1TDRBb1psWV9mU1g3Sk5QUl93c013eGZQSmNscGhiV1RWd0dYS0stY1pmUFlHWktDRnZ0WTdTaEdTWi10M3oxLXBDQWFjc0YxOVluRWUteWxwUnhvWnRySUVzeTJibXdWc0FZbUlFSXNGZjd4RGsyYjF0amRGOUpVQTNjbmp3dkNjcTNWbmxVUVFGXzdrd1M3Qm12dlpXNklad3lwd0RzREg?oc=5\" target=\"_blank\"&gt;ELF: Istanbul Rams sign Swedish national team DB Noah Allsten&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;American Football International&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_68",
+            "category": "sweden",
+            "type": "News",
+            "title": "Rickard Noberius: New Swedish National Team Doctor - ProXCskiing",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOeC13Y0M0a2FQTnQ4amJFWU1NdzJGaUJwbk9...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOeC13Y0M0a2FQTnQ4amJFWU1NdzJGaUJwbk9rZjhFUll5bzN6ZVJfdUVwdllZcnVzYno5aDI2Z3hsN19qVXhqX010UHA4R1IxUDFtNXc2NFpldTJ4X3ZtdGJIM2J6Q1BBc0JtR3J6WTVfUVhxV0RPZDVEMUJZbUtrZkhnbU8wN0VYSzh4SEhsRXdVNWNKZHh4LTVmUUIydw?oc=5\" target=\"_blank\"&gt;Rickard Noberius: New Swedish National Team Doctor&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ProXCskiing&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_69",
+            "category": "sweden",
+            "type": "News",
+            "title": "Meet the Swedish National Team 2022/23 - International Ski and Snowboard Federation (FIS)",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWstbDFrUHY0WE1wM1Zva1N5bC1ZcWhTb2V...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPcWstbDFrUHY0WE1wM1Zva1N5bC1ZcWhTb2VUN1p3eHJmdGE0dW1oLU8xMjVOejQ0VlBod2FJT040RXpjQXpEWHhMMG84MmE0aEhIdjdQR2ZxRkxIZjJmOHdSMWJoWWV4d05XRXVMZzVRVjdENlJaRG00MG92Z3ZRTlBpRUloaXdoR1VJaXlOZlEyRUE?oc=5\" target=\"_blank\"&gt;Meet the Swedish National Team 2022/23&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;International Ski and Snowboard Federation (FIS)&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_70",
+            "category": "sweden",
+            "type": "News",
+            "title": "Former Glenville State, Marshall football assistant coaching Swedish national team - Charleston Gazette-Mail",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOREVQbEZQUVlZNjFFZnF0SjBpNXFFYmI0OHF...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-gFBVV95cUxOREVQbEZQUVlZNjFFZnF0SjBpNXFFYmI0OHF5LTVxQ2ZqM0tSLXh3LWQybTN4NjVSRzNDWW1USEtFazVLTUliMGtRd3cxMUhaZ3NDS3gweVA2anNKeEhCbmZvV0ZKMU5xQ1UyNUd1d0hKQmtLR1NPQ2pGbGRIXzRmVlNjSzJaN3p2eTZjYWNjMnpGS1VtTXlMc3IzSXZKa1NoM0Q2b3U3ZFhYakRIS3pESVE2VS1paHNXV3RSZ0VzRzFzRGhQOUVnQjZOdHNHZFZpd1pWTmstN2pacmxQTUthOFB4ZGVoamMtNlFCUTZmMGNIRW9ZdnowNHdB?oc=5\" target=\"_blank\"&gt;Former Glenville State, Marshall football assistant coaching Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Charleston Gazette-Mail&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_71",
+            "category": "sweden",
+            "type": "News",
+            "title": "‘I got scared’: Sharks’ William Eklund reacts to wrist injury with Swedish national team - Daily Faceoff",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM1dTcVYtSkVzT21rdTB6cjI0ajdha2hxbW8...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxNM1dTcVYtSkVzT21rdTB6cjI0ajdha2hxbW84dFBTdEJCRGE3alFYTmthbERzbTRZX210Tk1BaUkxd3l5YTBFbkVpSFp6VHZuNjdzSDlLeDN4WWVYMUF3NWpJQnZOSVlqZDdvUEhxTU9DSV9ZVldBZ29ZdnZOdUFTMXVUZjlRWXBya3J6aFRBZjZMc3U3cG82OFk5SXB3YWFXc1ltVkg1bUNWay0ydmdGUmtwZFNSUDZCeXd3WHFaWlA2Q1VXSFNiajB6X294RURUMzFr?oc=5\" target=\"_blank\"&gt;‘I got scared’: Sharks’ William Eklund reacts to wrist injury with Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Daily Faceoff&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_72",
+            "category": "sweden",
+            "type": "News",
+            "title": "Called Again The Swedish National Team, Ibrahimovic: The Return Of A God - VOI.id",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1TNGp2SEswSjVNSEhhTHllVC1NZnJGSXZzUkV...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiREFVX3lxTE1TNGp2SEswSjVNSEhhTHllVC1NZnJGSXZzUkVLOExkRzJsTjJ4NnJWZ0ZMaFhqdkx4amNLd1JqSlNtVTVr0gFAQVVfeXFMUElEODFpeEVCdUJUMGdWWEJadjZmMUY4bVJrVkJubDhwUHB4by1QTzk1WTRNMW9mbEdLZk1hY3VWdQ?oc=5\" target=\"_blank\"&gt;Called Again The Swedish National Team, Ibrahimovic: The Return Of A God&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;VOI.id&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_73",
+            "category": "sweden",
+            "type": "News",
+            "title": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaDcyTFZZSFdPbTRHbV9qNExHcG5PWWk1NlR...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaDcyTFZZSFdPbTRHbV9qNExHcG5PWWk1NlRIWG5hTzRaTmVwWG1ROTIwNzFwQXAtRXZrYnJFS0d3Y3V2RThEZlo0Ymxvb084bUw5MkNOUEg3NnBzWFU4a3pTaHBzcExjM3ZCYmNWQUs2MS00UGktVXB6YzNheGEwYnM2X1VYVTh4SDhLanRFa2wxcVc2SkxPMTFkVmRfRUZFUHJYVjhVT3hXcFVrMXljYkI4QlNCRDFmeTRhY19KY0hJb1BPSDZQVURVZEh2VV9oaVpKLXUxNktIYWlvWWtYNTYzQWc5aU5qeGQ1OEJTbFJIRkU?oc=5\" target=\"_blank\"&gt;From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;OneFootball&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_74",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish National team announced for 2021/22 - International Ski and Snowboard Federation (FIS)",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzhzZXJyOWdfRG5zeU9zeDU1NzhxSTRPSkt...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQNzhzZXJyOWdfRG5zeU9zeDU1NzhxSTRPSkttVWRKS05vZ3dTYi1HVFJNZnZVbXd0cDVuYjE3eVoyRVY3T0RZMWlyeGxFbVZLb3F4b1YzSHdldTlZdU9JXzI5Z0JXOERiVnZBZDE4WG5NUXNOR01xQUN5RGJ1S1dWemUzZDVaWDFobThMOHQtTU9UeDNISE94SVNB?oc=5\" target=\"_blank\"&gt;Swedish National team announced for 2021/22&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;International Ski and Snowboard Federation (FIS)&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_75",
+            "category": "sweden",
+            "type": "News",
+            "title": "Meet the Swedish National Team 2023/24 - International Ski and Snowboard Federation (FIS)",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzV3Z1NpeXg3bERHcXlQTGdPWVZ0YkNKQmp...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQRzV3Z1NpeXg3bERHcXlQTGdPWVZ0YkNKQmp1eFdGS0hheUR5SFgxcDZ1Y2NkTEI5UXZzcGU3QW5tdFctRnRvSTEwMnBPbERhX3FNdGNXU2VBbDVZWjMtWHZ0MHVsbm9iUWV4V2plVEhha3BEcjF0aVNySmxGbGJXUkpsYzh3LU9qLXB1V2c1dE1iaUk?oc=5\" target=\"_blank\"&gt;Meet the Swedish National Team 2023/24&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;International Ski and Snowboard Federation (FIS)&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_76",
+            "category": "sweden",
+            "type": "News",
+            "title": "Seb in Sweden: Rising North Andover star plays on Swedish National team - Eagle-Tribune",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWXpsemRndElEckJxNHg1aE9NZE5sWGpESnQ...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWXpsemRndElEckJxNHg1aE9NZE5sWGpESnQ3OG9VZzZyLVFsWUtoY20zeFlYNXQtLThqSUktb1JhX1h2UVBubDlsWUR4OW51Si1YeXNET3RidXdwUTJudmZEVnUyQ1YzQTRZVnRLRm1KaU9mM1NBMlh5a0lxcWxGNDNfZzZJclFueVBreHMwcGdYLVo4VC10ODNTV0NjaVhsX3lJcUJ0VW5Od3RvT3ZiZ0NPTmhoeElaS05EWEFmdXlFYVl0a1BhbFhJaU45a0RkeVlHUnZTamhOaWs3NS0xMG5DcG9HNkhqSWlHU0Q2cFdlODJ6LU5YTEJ0OWtVdw?oc=5\" target=\"_blank\"&gt;Seb in Sweden: Rising North Andover star plays on Swedish National team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Eagle-Tribune&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_77",
+            "category": "sweden",
+            "type": "News",
+            "title": "Zlatan bids farewell to Swedish national team - The Jakarta Post",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPempwV2ZlWXdNOXRXcW1GSGQxeE9vcmtZU1E...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPempwV2ZlWXdNOXRXcW1GSGQxeE9vcmtZU1ExRFBQRm94dWpTM09qM24xcG5adEtfQmVVenhiUW93T1BaS2c1Q0R1MHNGRnRwV1VoRjVYWVhCWENKcDdLaTYwMmFsVkZhemxuNEVsOUUwVFMwSzJoOUxDTVljYkZQN05DcXNwblR0SHMyTlRreVFxVmRVV3lLWkRmNG9idw?oc=5\" target=\"_blank\"&gt;Zlatan bids farewell to Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Jakarta Post&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_78",
+            "category": "sweden",
+            "type": "News",
+            "title": "Zlatan Ibrahimovic set to play at Euros after recall to Swedish national team - The Guardian",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSllGbVR3QksyX3A3bVU2WWhIdVY5OG5scnp...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOSllGbVR3QksyX3A3bVU2WWhIdVY5OG5scnp6M2FNRlM5Y3pzeUx4MmxJU0RZckNaY3dWNGZCS2tOYXE4cDhWMGo2YVdoZzJzU3IxQUY2VkN5Z0wtOU9oREJ3WHBDYnlWNDdka05OVkd3MlNWM2pzZGRjSVM0Qy1nem1qRWxGU1hmUHFhWHhuOE0xb2xUX29yVERpNnBFclNaWS1KNlJoOXctZURaNXU2c3hILWJfczhNTlowb2tsRVhObmV3?oc=5\" target=\"_blank\"&gt;Zlatan Ibrahimovic set to play at Euros after recall to Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Guardian&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_79",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ibrahimovic says emotional goodbye to Swedish national team in Volvo’s latest film - digitalsport.co",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU05wRC1CZTJZTVhSQkFZU1hLTF9fZlg2aHY...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU05wRC1CZTJZTVhSQkFZU1hLTF9fZlg2aHYwMXllcFFCaENwNFZTR1FJdGo5dFdiWWtKNThFNnNoWVBDRFJyMTBpQnRQMW81RVduVkZUZ0hQWHN5WUNuZC1DMzZqQWVDVHFOOXhJcHdfalNSV05wLWVPRHZUM05NZWx4dHY5WG5XWDNnSlNRWGVhcVJuQkl3MnJlVmFMMmZ0Yy1QbkZmTlQ?oc=5\" target=\"_blank\"&gt;Ibrahimovic says emotional goodbye to Swedish national team in Volvo’s latest film&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;digitalsport.co&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_80",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ibrahimovic hints at return to Swedish national team - Anadolu Ajansı",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTBvRWxEbEdvak41T1A2a1FMY2VhelB2YjV...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNSTBvRWxEbEdvak41T1A2a1FMY2VhelB2YjVZUm9wU1VLd21TaGR5MlhuOGdPb3liZEhZNkNmNllsUExKdjFTVEZyZlljeFZjTW9DRTlPVmkzN29zN25HOFptQnlTOWFJWERzSW5YbGtySTE3WklMb25ieUs1QWgySVN1ZVNPRnJad2ZJOXU3X3N2SlphTWk0?oc=5\" target=\"_blank\"&gt;Ibrahimovic hints at return to Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Anadolu Ajansı&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_81",
+            "category": "sweden",
+            "type": "News",
+            "title": "Svensson retires from Swedish national team - Sportsnet",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1hTX2ZmZVR0REFOOUFydUVCU0hZcEVVWXE...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOY1hTX2ZmZVR0REFOOUFydUVCU0hZcEVVWXE1aWNVRHVDQUluY1Nrblhxa2lEc0R5elZCaXZiemE2ZlNBWHk4M1BHYjZ3d05jSmgwZUJJY0NldVMyM3Z3RGNxc3l2SHRBamtZcUlWYS1UVEcyOUtCanZxaEFaY3M5cDZn0gGLAUFVX3lxTE1DQ1N0S29GbXh2UDVicWhsbmZkY2N6a1AxbXFiaFZ6Q21qMmhXYXc0VlJKVmItMDUzUlE3Tlhpd095YUpEbFp4cHN1Q0VDeXRUN3l3bTJ2R21nbVdFaV9QcjhpaWh0NFI4Ump3b0kxNWVYeERiNlZubFF0dDhlRHVFYnFJbVh0ZTNCM2s?oc=5\" target=\"_blank\"&gt;Svensson retires from Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sportsnet&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_82",
+            "category": "sweden",
+            "type": "News",
+            "title": "Cross-country skiing: the selection of the Swedish national team for the 2025/2026 season - Nordic Mag",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUVWS09IWkZHWDdIcnpIY1ltWG5fSDBKY0V...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVUVWS09IWkZHWDdIcnpIY1ltWG5fSDBKY0VMUXpYMDVYU25GanJLWUtObXFKaGFSRG9PRXczNktGUTJMRWlEaTdzV0d3R1ZFWDQxVF9TMTFLOGZOeTEyb1JYNEhtMDhvUDdZUGxoTEhxajV6QmpEaDdnUzdySnFlTmQ2WG5vdnI5cU9zU0FWZW94c3l3TjE5YktqQjRNWkczcm9FZWRDRlY2T3FmQk5XNU9jN0NnMlViNTkxdWZrSlN6Zw?oc=5\" target=\"_blank\"&gt;Cross-country skiing: the selection of the Swedish national team for the 2025/2026 season&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nordic Mag&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_83",
+            "category": "sweden",
+            "type": "News",
+            "title": "Dennis Cook new Head Coach of Swedish National Team - Mister Baseball",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNblpTWEtlMDUxU0E1dENyRjY5NW1NeDE5Zi0...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNblpTWEtlMDUxU0E1dENyRjY5NW1NeDE5Zi02ckZjV1dNZEZtVkdRMjJ1VlQyc19jVjljY1d1VE5zN05FeVZxMUVZZFJtMVZPZ2xEVVlPeC16dmNxbi05ekJEOXp5NGtIMktUdlVBT0tNZlZpbVFGRHJWU29MRy1USmUtYw?oc=5\" target=\"_blank\"&gt;Dennis Cook new Head Coach of Swedish National Team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Mister Baseball&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_84",
+            "category": "sweden",
+            "type": "News",
+            "title": "Is Zlatan really returning to the Swedish national team? - vijesti.me",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSER0MjFfWWZ1MXQ2T1djT0wycGw3enpWWEZ...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNSER0MjFfWWZ1MXQ2T1djT0wycGw3enpWWEZQVkM0U2YwVGM0bDI3RVJkV3VSQkxoenIwTlF2bUQwR3MzTVh1bDVOSGQyN2dnenUxRDRXRS1fbmY3bUJOLUh3YWVNSXpRV0JsbVJmSmtqSXhyOFQ2Y1pzbXRCVy1XeHl3ckVyRlRmcmtPMTNsMUdJcTdqY19IYkwwcWl3NHNPVVVBdE92Z9IBkgFBVV95cUxQUDQ3eldnSmZ3THp0RHhzVHg3Z3UtdTdhNElIcmdyWTFqZVhaMGF1TFE1SkxXcGt6OEoyNDlvSFVqbUhtZHhkbGR5WGJsb09zYnZ5ZDI2TGs5OGZ6YXdCRnNmUTM1bFdNdWVFSjNvMm5yTHB5eWhzdVh2UzdDREFjdE14ZGRuYmJPZ2R6VWdPOUdjUQ?oc=5\" target=\"_blank\"&gt;Is Zlatan really returning to the Swedish national team?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;vijesti.me&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_85",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ibrahimović is getting closer to returning to the Swedish national team - vijesti.me",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXhzbHQxYXlpNUR5SjFmV3RabGdIcTBmcEI...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOaXhzbHQxYXlpNUR5SjFmV3RabGdIcTBmcEIxN2Z3Y3YzbHByS3FIM2RTLVpLTVA3eVlyU1QwalNTbHRqZzVtTnFNUlFlMGNWWWNkQXYwLXRfVjdLWFA5Nll2M29wMXh5QUhvTUFBaUdPcjRhb2FLaDM3NmhTWFRIUnJQZ3NwX2YyNW9rUjhvSXJGaWFVQUZJc3VyOXRsMWxscHQ3U3VQYWZEZWdGZTFQaVlwUlEya29nS2owdNIBpwFBVV95cUxOX0R4aERVN0FOWS1RTzJVc25mRmhlaGFFZWs3c080UjRRV0VnRUdNM1k3d013LUJ1b0ttZ2RiZndQYjQ3TU1KcW5BR3JxVFo4SmhKNVdQU2xhZ0xhME1idmNtY3VLcG9od3FPZXNlLWxwa2hxUVZ0bWFRM0EydzJjbWdVWTkwNi1pOXA1RWtNcnpqT3J2OFJHUGVXODJ4ejUyYnNjYzV3QQ?oc=5\" target=\"_blank\"&gt;Ibrahimović is getting closer to returning to the Swedish national team&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;vijesti.me&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_86",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ibrahimovic's return to the Swedish national team for the match against Kosovo is inevitable - Gazeta Express",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW9SYTNoNzNjRkJIY2U5VG9sS2NGZWctTDR...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPRW9SYTNoNzNjRkJIY2U5VG9sS2NGZWctTDRydmNhcDRoNmVCdzJnbl94VjhkdGx4RGZYNmZPXzhSWmJCcXVHTzBSNFNsZTlfdDNjUVdwZXBMNHNFTHhfUnRkZUkzRWJvbHhDOExMRmk5OGwzZ1VxMjhyUXhqR3B3ajlsb0hnc2o0WEtNbEl5eWVsSm1Ub1ZjaTZfdFIyeTRRT09oVWJHbGU3UnI3V0RRR3VJenJsN1A5OW9fRDV3?oc=5\" target=\"_blank\"&gt;Ibrahimovic's return to the Swedish national team for the match against Kosovo is inevitable&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Gazeta Express&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_87",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish National team player and LU alumni: A conversation with Zećira Mušović - Lundagard.se",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlJhYlA0ZVA3dUVpeE9fbzlycTc5dE5sMTN...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNMlJhYlA0ZVA3dUVpeE9fbzlycTc5dE5sMTNWdjhTSk85RVJhOTJ6UlVsTmNINjFuWHRud0FPY0NpdXBrUVNZMlBvTjhDUnlORmtYVGZrbElFcDQwT1RKendlLUt5RER6NXhDU1ozMkJMTHczLXhIRGxBeUVmRFJUaWpTNi1pTjRNeU9LMHdiY2F4TlhoTkxUNnlENXlfVVN1QUV6X3p6bUlPZkdubi1oUm1GOF8?oc=5\" target=\"_blank\"&gt;Swedish National team player and LU alumni: A conversation with Zećira Mušović&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Lundagard.se&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_88",
+            "category": "sweden",
+            "type": "News",
+            "title": "Pelican Bay Hosts Swedish National Team for Training Camp - The Bahamas Weekly",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSklRZms5alhKY2R5SGd6amh1dzdXUnNtcXd...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxPSklRZms5alhKY2R5SGd6amh1dzdXUnNtcXdUNXNHVWNkUDhWTzItckJLOUo1VUVPMVVETWRpNWttVjlIcHJfTzBKemRxeXAzTWl2YkRNdE54OWdGWVBrVktEYjlvdExpSFBJY3N6TnhVYTNxaWZVRGt3eEpLN1Boa2JzUDhtdTZ6YThPa2pkc0NCSkVHTmk4ZzdCYmJlUmd5SUlnMmFRdFluRnptZEZrLTFLU29wTUxrRjRYbjdRb0IzRDhnM3pNQTlQZS11RUJjUzVhM2UwZk9CZw?oc=5\" target=\"_blank\"&gt;Pelican Bay Hosts Swedish National Team for Training Camp&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Bahamas Weekly&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_89",
+            "category": "sweden",
+            "type": "News",
+            "title": "It's official. Zlatan Ibrahimovic returns to the Swedish national team (March 15, 2023) - Dinamo Kiev by Shurik",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVU2aERyQ1N3cThyVnhId2tEajdVTjFpc3l...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcVU2aERyQ1N3cThyVnhId2tEajdVTjFpc3lBOWtDaUg2bUk4WV9yMWJUN205cGNTdkMxZ1JmVnFjRGpBRTlSUFdEZTkzTTAyUDRqQTVHZ0ZRekJzLXpsY3JWWmtSV2lvRnk1cnp3ck4wUl9SbzNzdlhKdGZEc0lhWWtnbS1xbU9XUjVQTjZkQVg5LVVpZWZQNUtSNk8zSmRKalVQaUtYY0RyQQ?oc=5\" target=\"_blank\"&gt;It's official. Zlatan Ibrahimovic returns to the Swedish national team (March 15, 2023)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Динамо Киев от Шурика&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_90",
+            "category": "sweden",
+            "type": "News",
+            "title": "Women football: My exploit with Gothenburg FC and the Swedish national Team is the handiwork of my personal coach and dad Peter Ijeh says 19 year old Evelyn Ijeh - Sports247 Nigeria",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQYmV0Uy0xQWd0bW9oTUZ5YkZ2UTJrS01lV0V...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAJBVV95cUxQYmV0Uy0xQWd0bW9oTUZ5YkZ2UTJrS01lV0VBNjBmb0pUa0g0amJLQkVnUkpQcXpqNXcxRFFVUGlyTGVpZ251YWtvVWMzd1U1UWsydVNYXzNseUdLZnI5WEVTRVBaX09Ob1I0cU5YcTk0YmFVdENReGljZXRULU1Qa2hSMVFrRjN4eEI1UWRqcGNTOEhKRzhneW1Ub0pKQmNYeFFMTkZfUDlvMm8tdjQ4RHl1cTMxYnYyQmtZendwck1xTGlRMHFPTHpJTHFYMGhHNUtnc0xKTC1iOEVGbHhLaWw0T2NjMFUyN2RZZVpvdDlNWVg2TlhfNWdvbTB5Z2tULUpNNEhNblotV090U3B0a3JaVTY?oc=5\" target=\"_blank\"&gt;Women football: My exploit with Gothenburg FC and the Swedish national Team is the handiwork of my personal coach and dad Peter Ijeh says 19 year old Evelyn Ijeh&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports247 Nigeria&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_91",
+            "category": "sweden",
+            "type": "News",
+            "title": "The former Swedish national team player died - vijesti.me",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFNxS3JYbWVOMEdCRUJCZjZPUmQzcTdRYlc...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQOFNxS3JYbWVOMEdCRUJCZjZPUmQzcTdRYlctNXAwZDRMSElmMjhmcGxDdjNnQ3pkcGdmQ0t2VjF6WTdjZ05ycEsyN2oyVXlkR18wR2g0WlluMVZvTWFNM0ZNRjFmclBLX3B6U2FqRk5Tenp5VjBBTko2eDA0aXJIcHFSeEdsWmJSRVJlUHQ3cUxhU1nSAYABQVVfeXFMTXVqQTZGOGx2UHVDRVBmV3ppQVVOMFAwM1JvQTVCR0dNdXZPdFlMc1h0aE82MVRaUnJJVlU4RkNmbE81X0RESDgxZVQ5RldLWU85QVA1X2NwREpjeVBZOUxWRkVXbHE1b2ZnQ1BlVDNOaUlNZ1pBeGR5ellXYUZ1Qlg?oc=5\" target=\"_blank\"&gt;The former Swedish national team player died&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;vijesti.me&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_92",
+            "category": "sweden",
+            "type": "News",
+            "title": "Former Swedish national team goalkeeper Jacob Rinne: I play in Saudi Arabia for the money, I think about my family - Nogomania",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY2JCZEtyTERZV3RpblhWWFNrMFNobWhuQ1J...",
+              "Reported live by Google News Sweden.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxOY2JCZEtyTERZV3RpblhWWFNrMFNobWhuQ1JtVnNCYlVudkZsTy1YVy1qLW03eVRpeUFkRy1SMVNvdDZFQ0NPckVXRWx1YlhDLVVwRjJpWDVqODVsWVQ2VjVCUlZUTGhlaUJ2VHVZMHpNUjNac1JKdmpmLWNHbXkyMy10ei1qV3BaQ2ZKU21jQTRtcVBoNGs3XzdfbUVzX2prWkJIYmpIS053bXJ1TDBYX0ZpUGdSdkl4amxHNUFXUU40WThWSFNWYW1QeEt2R3VkYUhRb1ppcEtzUktEY29B?oc=5\" target=\"_blank\"&gt;Former Swedish national team goalkeeper Jacob Rinne: I play in Saudi Arabia for the money, I think about my family&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Nogomania&lt;/font&gt;",
+            "author": "Google News Sweden Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0558_93",
             "category": "sweden",
             "type": "News",
             "title": "Zlatan Ibrahimovic in Sweden training with Manchester United on horizon – in pictures - The National",
@@ -548,160 +1616,112 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_31",
+            "id": "crawled_0558_94",
             "category": "sweden",
             "type": "News",
-            "title": "Kim Seung-gyu gets ready for the match against \"tall\" Sweden - Football Tribe",
+            "title": "The former Swedish national team player passed away - vijesti.me",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONXVQcTV1UHNKbEp1NUZFYVNMUTVDV293R3B...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVJGQV83UzF5LUQ4aXpoY1AtaEZ1emphWnh...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONXVQcTV1UHNKbEp1NUZFYVNMUTVDV293R3BrQzNEY2ZJNFVPNVdTWjFXN01OWGxhU29fNVBNUHdWbmNxTU4xdEk2VHd2QlNicEpnYWUzMk1HN3ByLXVsVWo5TlBYUXBoT3plNEdzMXZuX0REY2U0Q2dzZzFPelF0T2J4VE5ITzhXUlRvRTI2eV8tOWhuZ0VLUXhZVlp1QU1QMGt5MA?oc=5\" target=\"_blank\"&gt;Kim Seung-gyu gets ready for the match against \"tall\" Sweden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Football Tribe&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVJGQV83UzF5LUQ4aXpoY1AtaEZ1emphWnhLVTRMUVAwa2ZyZEZOQ196ZERPUTZHb20xbjVyWndTVVpUNHB4UmJxNjhmLVVMRTVSVWhQLUdNMk1iWjZEODcycEI2VW5SQ3hKbUhXdEpId3N3bWlaRFVZbWZLTTFab19uRULSAYQBQVVfeXFMUElSRkFfN1MxeS1EOGl6aGNQLWhGdXpqYVp4S1U0TFFQMGtmcmRGTkNfemRET1E2R29tMW41clp3U1VaVDRweFJicTY4Zi1VTEU1UlVoUC1HTTJNYlo2RDg3MnBCNlVuUkN4Sm1IV3RKSHdzd21pWkRVWW1mS00xWm9fbkVC?oc=5\" target=\"_blank\"&gt;The former Swedish national team player passed away&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;vijesti.me&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_32",
+            "id": "crawled_0558_95",
             "category": "sweden",
             "type": "News",
-            "title": "World Cup 2018: The best Scandinavian bars showing England vs Sweden in London - London Evening Standard",
+            "title": "KNOW YOUR STARS: Ssewankambo continues with Swedish national team expedition - Kawowo Sports",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQcThLRTczd0pTTnlFbDJTMzJQWFZmYkowNVl...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk42VnU1ZzZIQW1OQjQtaDlGQ2xScWE2WlU...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQcThLRTczd0pTTnlFbDJTMzJQWFZmYkowNVlOcGNEMTVCS2pDVl9hMGRkaTBCT2ZyVVdPQVhDcnppTW5PV1lrLWhXMXdtNF9udHM5clFzSkJwN2FrdkxqNTNnazJhRVZ4THpvTEE5M2tteXJwc1VwVGtRbm41czdaOFFQR1NKZ1g2RGlUaFRGOEJmZFBGRVgzb3dZNk0zUDdmX0kzT1NIdlBEaXZSTzgwQWw1bWtpblVqY2pRb0FyT0dqTExfNHU1aFItNmdwZw?oc=5\" target=\"_blank\"&gt;World Cup 2018: The best Scandinavian bars showing England vs Sweden in London&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;London Evening Standard&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk42VnU1ZzZIQW1OQjQtaDlGQ2xScWE2WlU3eXJFbnBVekJQX01kU01kOHlaOWczVlZ4dlJJbmZlSGdhUl9Qcy03eGRhN2t1R2hZZmtkM0d2N0VXUzY3RmJQWUpiVzRYblZMZFRqV0FkSDdVVU5QSnh3QXV5MVJkWVowUE9ka2VCQmluUy1JaGtMa2QwT1E3WVFmc3pkbWExTmEwNTQzalF0ckNUb3V4NFdMRjg3MzVf?oc=5\" target=\"_blank\"&gt;KNOW YOUR STARS: Ssewankambo continues with Swedish national team expedition&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Kawowo Sports&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_33",
+            "id": "crawled_0558_96",
             "category": "sweden",
             "type": "News",
-            "title": "England vs Sweden football record: What has been the results between the teams, and is Zlatan Ibrahimovic playing at the World Cup? - The Irish Sun",
+            "title": "'Chaos' at the Swedish national team, Swedish fans with a special request to coach Tomasson - Gazeta Express",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWU1idElUTlUwMUc4T1E0eE94bnNjV1pfZkt...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWlZbWtpVDJyeGlTdExDRE1QQ2xxVHpVdGI...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi-AFBVV95cUxQWU1idElUTlUwMUc4T1E0eE94bnNjV1pfZktMaVh1ZnM1NHhVYkFfeUxDUzhOZlJCa3V5ODRWRW40aTNHdmF1UjJNVG5Dc1Y5UmVFMWJwcUtOVnRhYnZLTm03ZDlxeEIyRExxbXNheEdRM0VCMVdaclZpYjNUQnpicTdRT1RoVW92ZzhGcXBVQmJqM0NTUzI2QjF0dkFiQk1YNXBvdWFRUE1XMUpva000SE9jMjVQcTBpR1k5NjRQYUhRYUVyRWZ0TEZHX1doUVhWYkZmcWZScjFlbmNwX1FDdVFoNnhpRGV5VjNDdUFyTkxUNEpsZ2ZMVw?oc=5\" target=\"_blank\"&gt;England vs Sweden football record: What has been the results between the teams, and is Zlatan Ibrahimovic playing at the World Cup?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Irish Sun&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOeWlZbWtpVDJyeGlTdExDRE1QQ2xxVHpVdGI4RURwcFVXTU9Nb3VtVFdrem5XRDlPVkdtU1Z5YjRCTFppbDl1RHZEU25XV1prNTdOcWQ5akRPUHF0MWt6dlhqbTRkZVIwSnV0QXlOZXAxb25HOU0wMW55RVdRcW5yMi1IVEZDdGpUanYwQkx5eVRBWDdtMkpGTEZFU01rdmFBcTl1UnpTQUtlVmw5TGNnaU1KZGIxYVRnX0RvQktwcw?oc=5\" target=\"_blank\"&gt;'Chaos' at the Swedish national team, Swedish fans with a special request to coach Tomasson&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Gazeta Express&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_34",
+            "id": "crawled_0558_97",
             "category": "sweden",
             "type": "News",
-            "title": "15 Greatest Swedish Players in Football History [Ranked] - GiveMeSport",
+            "title": "The Injury of Gyokeres: Why the Swedish National Team Left the Forward out - all the latest news today - 112.ua",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThHYkg5ZXVraWlQaDJ0c3pQWlVZeEo4bl9...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUNlOE16S3NfemxuSS1ySHIyVjc4M1p6Mjl...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPLThHYkg5ZXVraWlQaDJ0c3pQWlVZeEo4bl9YUTlfcDFzbGZrUkZMRllSMEM1bllwTWFCNmNfUFk0bzFKSllJTkZTTTIwLXpETVdJdUpudDUwdzV6bTJYb3BqSGxuZ3U1VHVDeGNzMDY0OEJqZHNtMS1WYUc4UGdzOTNvMFFqYXc?oc=5\" target=\"_blank\"&gt;15 Greatest Swedish Players in Football History [Ranked]&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;GiveMeSport&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWUNlOE16S3NfemxuSS1ySHIyVjc4M1p6Mjl1RjVFZFF6UkFSekotcTRSRjkxRWQ5eFBnN01uSTVJTDhVS2hwa2JjYzRwSG5janFNaW0zd2ZRSUtNMkFONWVTY2pfNXI3UnNwR1FGQ0hUdHVFd2dKaGVVOTJtQ0lPeHVrc1dFaDBIMDRvdU9KVEhUYlNyXy10N2VrUXVmQkg1UmJwUlhhTmlYZkVsTFo1YnpRb3dwZmZ6MGNabkJidzZYZm8tcklmTVJkX2YwNXNy?oc=5\" target=\"_blank\"&gt;The Injury of Gyokeres: Why the Swedish National Team Left the Forward out - all the latest news today&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;112.ua&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_35",
+            "id": "crawled_0558_98",
             "category": "sweden",
             "type": "News",
-            "title": "Sweden's football player found unconscious - REASON - İdman.Biz",
+            "title": "FIRST FOREIGN COACH of the Swedish national team in over 60 years - İdman.Biz",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FemZYT0Z0WXlhN25oelprbTBDSC1admIxTkY...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WaFREUVJuUnRfTEN4RnNTaHpnSjhDT0RPRWV...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE9FemZYT0Z0WXlhN25oelprbTBDSC1admIxTkYwTzlfSlJWd0tEQVpaRmQ1blNKU194a2ZtZks3d0lBNzdWS1I3YUpUQzRVMTB0cDJzSi1qeVdvMHZLSGpj?oc=5\" target=\"_blank\"&gt;Sweden's football player found unconscious - REASON&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;İdman.Biz&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiV0FVX3lxTE5WaFREUVJuUnRfTEN4RnNTaHpnSjhDT0RPRWVEb0xBTjA0Um0xMzJraExQbU5pSzV3LW45bkcyR2lmeElKdnNkLW9QUWNNRFdUYjl1TmsyTQ?oc=5\" target=\"_blank\"&gt;FIRST FOREIGN COACH of the Swedish national team in over 60 years&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;İdman.Biz&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_36",
+            "id": "crawled_0558_99",
             "category": "sweden",
             "type": "News",
-            "title": "England vs Sweden football record: What has been the results between the teams and is Zlatan Ibrahimovic playing for them at the World Cup? - The Sun",
+            "title": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender - The Peoples Person",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQamZKWTZmNEJWa25ReFdfMzV1dEVtMUVIaGF...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUWUtZ0IxbXpJZFNrd3hINjlRaWh2OTl2ci1...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxQamZKWTZmNEJWa25ReFdfMzV1dEVtMUVIaGFsdjhFbC1lRTJwQWNZckdqZ1Zwd21FTUJ5cVptX2JMNWNYMFFtZ251cTBFMTRvZldKTENtYlptd2xpRlZLeEJ4UG9PWFlaSHZpM0xNWWxYYUFjNkQxWlgySHl0RjZEdGY1REt3bThYMVRTMm1vSWlQUWZ2NENIc19HakY4ZjBuX240bWx6SDdNLXlYZk5zZGtpLVhRd2x0N0ZqUGhGVV9UZnRPM1VmcnBUZGc?oc=5\" target=\"_blank\"&gt;England vs Sweden football record: What has been the results between the teams and is Zlatan Ibrahimovic playing for them at the World Cup?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Sun&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUWUtZ0IxbXpJZFNrd3hINjlRaWh2OTl2ci1DU2pvNk95SUhGOTVtek56RU1FQWNnMEVheDFXbG5hdURsbG10QUg3OEpBaU1IdXVjV2w4cGFxMHYzb2NtbW9Ob3YtbG1CSDVIcnNnTmsxdFU5S3dlTjRESW55aFJ3YnRtQXVKaHBEUXoxNHJBVlJTYTBMekxBQWlYQ1ZkbjZrc2pGY3A4T28tU2k2bTVmMldVbTZlcEU5djBkM25MRWtRUkJoRWZjOWNFbzhUcl8wOTJ3N2U2RFpPTmk3MVI2dVZwRC0?oc=5\" target=\"_blank\"&gt;Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Peoples Person&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4207_37",
+            "id": "crawled_0558_100",
             "category": "sweden",
             "type": "News",
-            "title": "Victor Lindelof stops bag robbery on holiday in Sweden - Tribuna.com",
+            "title": "The Swedish Seven – Celts and Blågult - The Celtic Star",
             "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNE8wdzdURHhBSWdvTGV3eFpnSVJLOTRDXzF...",
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11WWl2RWp4djhhcGljYmxkekhxMFlCQTVOX2Z...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQNE8wdzdURHhBSWdvTGV3eFpnSVJLOTRDXzFSUzlESF94N1I4cFJGQ0xHRHR5MzRUSEpDY09MdUZvVG1TQVhLMXNHQVhYNGN1NUs0X01NOF9Ea1IyYVRfcUw3S1dGNnhudWVTUDg1Y0E2TEZPdWhWQS1rajloRUdvTXBhVlhRLTl0TjFZSllyQ3pMOHZuODFkUUNRem1GOWQ2cHFn0gGoAUFVX3lxTE1JY1RSbm5CY0lFTXBGVjQ3Yk1seS04UTVsVXJfQlZMN2R1VllRSVRqSVFGazBnZHg2Tm1GMG9tdWFZV1VEcmhhNEd0YmxXcExKQlplYnY5cjA1elk5RnFNQS1ESGdCOWRJaEN5TUZNNnJHSDFwWUMtZ2h1Mnl5dHRQUnZmXzR5b2J3ZVd1UzFUa1pna0tKZms3WmhtdGE0NTZ0MVhUS3ZDQw?oc=5\" target=\"_blank\"&gt;Victor Lindelof stops bag robbery on holiday in Sweden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Tribuna.com&lt;/font&gt;",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4207_38",
-            "category": "sweden",
-            "type": "News",
-            "title": "Alexander Isak returns from injury to boost Liverpool and Sweden - Geo Super",
-            "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmgwNjVEZEJieHdhWUdTMmRDUTE1eUdRYy1...",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmgwNjVEZEJieHdhWUdTMmRDUTE1eUdRYy10NTBld1REcnF4OUNGa0kzQ2s0XzNLckpBZXRSd2ttb2hxTVNQUWgzYWRlSmUwUm1jXzFFVVlqLUQtTzc3TVdhM0lFWE5EcEVQUmZPbi1taVFpSm5zMnBDa0hSLWtlaktRQWoyV0EtUl8wSk9mUGlvNUM3dnfSAZIBQVVfeXFMTlpSQTNLYl9QaGRjNGRDX1FOS25uVnZWMUtNM1FHR2s3ZmMyLWVsZnRFU3dDaEUxVXZOV0JObDgwMFpndnNyTTZOS054VUtDR0FSZVA2ek51NndfMVVuWHJvcjRVWkZ0Q1BvVjA5Y0NUN2Vhd1ZlOWVnMDFBTk5BTjJiNjdlOFdsajc1alFMM0pZblE?oc=5\" target=\"_blank\"&gt;Alexander Isak returns from injury to boost Liverpool and Sweden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Geo Super&lt;/font&gt;",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4207_39",
-            "category": "sweden",
-            "type": "News",
-            "title": "Spain slip to World Cup qualifier loss in Sweden - Football Espana",
-            "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGowNURQODhPaHBXQVlVWnNfYUNtQkFrQnJ...",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPdGowNURQODhPaHBXQVlVWnNfYUNtQkFrQnJ0VGY1YlROT1BQdWJSaHBrV3d5NndjbVBFMVdQWWctZ0c4X2VPMTE2MVk3QU5IclR5c0VGMkh5aTY5WDRMSlJ2dlhWMXhDUWRVcnJ6YURrYXd4MFV1WGN0Vzd0Njg4RHNiam9EOG5JSDhnVzJnMTVTX3JiTFHSAZsBQVVfeXFMT2VkODNmcjBKTFdsemlXXzU0Z0huY0NxdGZqT0RmSGh4b2NlTXFhWmtyTDhKZXU1S2xGZlJIQzFVWG92alFFS2ZSQXJCNDlvOGhBeldSbC16TDlTbFFXZTg5Q2szUkltb2hkaFJQWjF1UmhRMk1CdW9FM09VdlpvZ3ZWVjJSdDBzUnl3ZjFPdzdwSGoxcmZkN0lhdHc?oc=5\" target=\"_blank\"&gt;Spain slip to World Cup qualifier loss in Sweden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Football Espana&lt;/font&gt;",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4207_40",
-            "category": "sweden",
-            "type": "News",
-            "title": "Jordi Alba ready to lead Spain in Sergio Busquets’ absence against Sweden - Football Espana",
-            "bullets": [
-              "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWN0MGhnVFVPbEJWVDFKVlROOE9Gakd1UWF...",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPQWN0MGhnVFVPbEJWVDFKVlROOE9Gakd1UWFrRkw1bFFjUFI5NEF2Wmp2V09IUkMtNUNzTjlZcGdfeTE3am1odnI3S3RidzIteGc1dlBOLXFQWXJlTXh5dzh0bzVieWhyRnNJS09yNEFZVndyZDYxVnBJem1JUk80akpFVC1wRlZwcXNvaXp2YlJ0Qk5EOEJ4Zl9vNll2UGdkcEVnbk5xU3RYeU9pVk16UEdkMm5NQdIBuwFBVV95cUxQbVlUTWM2Q2gtdmU4TktxdHVGWVZOMlJ6MVFqaDlYTzEtVDNlamRWNjR5ZXNWczc4Mk5WX3RMbkQ1R1pQeGVBV1VrWU5mZndyUGhQMHlEeF9qOEdMRlZ6RDdGMGFyZXBPOEhDekUxNFR5emt0ZkIyWEo3dzEtRkFKdW9KSzJmNkFWSGdSczRjOGZWeXpJSlpYR0hlMWRLbHpyNG5aUHFRajJsZkMyU1FlZDFsaXI2cU9DX1M4?oc=5\" target=\"_blank\"&gt;Jordi Alba ready to lead Spain in Sergio Busquets’ absence against Sweden&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Football Espana&lt;/font&gt;",
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE11WWl2RWp4djhhcGljYmxkekhxMFlCQTVOX2ZOVXdibnJNemhEck8zSl9RUWZIMjZ5a3Z5RlBZcGE4ZmI1WVZGTlE0UE5xbWhNbUpUaUs4R0N6V0h6aV9XTmVxXzM?oc=5\" target=\"_blank\"&gt;The Swedish Seven – Celts and Blågult&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The Celtic Star&lt;/font&gt;",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -712,5 +1732,5 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-29 @ 09:42:07 EDT"
+  "lastUpdated": "2026-05-29 @ 10:05:58 EDT"
 };
