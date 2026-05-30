@@ -1572,6 +1572,8 @@ function updateNewsDashboard() {
       filteredArticles.forEach(article => {
         const li = document.createElement("li");
         li.className = "headline-bullet-item";
+        li.style.cursor = "pointer";
+        li.setAttribute("data-article-id", article.id);
 
         const stamp = generateTimelineTimestamp(dateStr, update.timeLabel);
 
@@ -1586,7 +1588,7 @@ function updateNewsDashboard() {
             <span class="bullet-tag ${typeClass}">${article.type}</span>
             <span class="bullet-timestamp"><i class="far fa-calendar-alt"></i> ${stamp}</span>
           </div>
-          <a href="#" class="headline-link" data-article-id="${article.id}">${article.title}</a>
+          <a href="#" class="headline-link" style="pointer-events: none;" data-article-id="${article.id}">${article.title}</a>
         `;
         bulletsList.appendChild(li);
       });
@@ -1601,10 +1603,10 @@ function updateNewsDashboard() {
     `;
   }
 
-  document.querySelectorAll(".headline-link").forEach(link => {
-    link.addEventListener("click", (e) => {
+  document.querySelectorAll(".headline-bullet-item").forEach(item => {
+    item.addEventListener("click", (e) => {
       e.preventDefault();
-      const artId = link.getAttribute("data-article-id");
+      const artId = item.getAttribute("data-article-id");
       openArticleModal(artId);
     });
   });
@@ -1962,7 +1964,8 @@ function openArticleModal(artId) {
     bullets.appendChild(li);
   });
 
-  summary.innerHTML = `<p>${article.summary}</p>`;
+  const bodyContent = article.fullText || article.summary;
+  summary.innerHTML = `<p>${bodyContent.replace(/\n\n/g, '</p><p>')}</p>`;
 
   playersContainer.innerHTML = "";
   if (article.relatedPlayers && article.relatedPlayers.length > 0) {
