@@ -1509,6 +1509,8 @@ function initApp() {
         "⭐ Lucas Bergvall designated by FIFA as one of the ultimate teenage prospects of the tournament."
       ];
     }
+    // Duplicate for seamless marquee looping starting at 0%
+    tickerItems = [...tickerItems, ...tickerItems];
     tickerSlider.innerHTML = tickerItems.map(item => `<span>${item}</span>`).join("");
   }
 
