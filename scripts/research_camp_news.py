@@ -154,7 +154,7 @@ if crawled_news:
             "tillman", "cardoso", "de la torre", "tessmann", "aaronson", "weah",
             "balogun", "pulisic", "pepi", "haji wright", "sargent",
             # World Cup group & opponents
-            "world cup usa", "world cup us", "group d", "usa vs", "vs usa",
+            "world cup usa", "world cup us", "group d",
             "usmnt vs", "vs usmnt"
         ])
         
