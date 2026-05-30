@@ -7,6 +7,8 @@ import urllib.request
 import urllib.parse
 from datetime import datetime
 from zoneinfo import ZoneInfo
+import requests
+from bs4 import BeautifulSoup
 
 # Constants
 TARGET_FILE = os.path.join(os.path.dirname(os.path.dirname(__file__)), "data.js")
@@ -157,6 +159,24 @@ if crawled_news:
         ])
         
         if is_relevant:
+            # Fetch full article text
+            full_text = ""
+            if item.get("link"):
+                try:
+                    res = requests.get(item["link"], headers={'User-Agent': 'Mozilla/5.0'}, timeout=5)
+                    if res.status_code == 200:
+                        soup = BeautifulSoup(res.text, 'html.parser')
+                        paragraphs = soup.find_all('p')
+                        # Extract first 5-10 paragraphs to avoid massive payloads, filtering out very short ones
+                        content_chunks = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 50]
+                        if content_chunks:
+                            full_text = "\n\n".join(content_chunks[:10])
+                except Exception as text_e:
+                    print(f"Failed to fetch full text for {item['link']}: {text_e}")
+
+            if not full_text:
+                full_text = item["desc"] or "Full article text could not be loaded."
+
             # Format as timeline article
             art = {
                 "id": f"crawled_{datetime.now().strftime('%M%S')}_{len(usmnt_feed)}",
@@ -168,7 +188,8 @@ if crawled_news:
                     f"Reported live by {item['source']}.",
                     "Technical staff notes player physical and recovery markers look strong."
                 ],
-                "summary": item["desc"] or f"Latest real-time briefing from {item['source']} covering the US Men's National Soccer Team. The focus is high intensity, tactical integration under Mauricio Pochettino, and final physical checks before matchday.",
+                "summary": item["desc"] or f"Latest real-time briefing from {item['source']} covering the US Men's National Soccer Team.",
+                "fullText": full_text,
                 "author": f"{item['source']} Editorial Team",
                 "readTime": "3 min",
                 "tag": "Camp Brief",
@@ -323,6 +344,7 @@ if not usmnt_feed:
         "title": slot_data["usa"]["title"],
         "bullets": slot_data["usa"]["bullets"],
         "summary": slot_data["usa"]["summary"],
+        "fullText": slot_data["usa"]["summary"] + "\n\nThis is a fallback summary provided as full text since no network connection was available.",
         "author": slot_data["usa"]["author"],
         "readTime": "3 min",
         "tag": slot_data["usa"]["tag"],
@@ -338,6 +360,7 @@ if not usmnt_feed:
         "title": slot_data["opponent"]["title"],
         "bullets": slot_data["opponent"]["bullets"],
         "summary": slot_data["opponent"]["summary"],
+        "fullText": slot_data["opponent"]["summary"] + "\n\nThis is a fallback summary provided as full text since no network connection was available.",
         "author": slot_data["opponent"]["author"],
         "readTime": "3 min",
         "tag": slot_data["opponent"]["tag"],
