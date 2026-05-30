@@ -1892,7 +1892,11 @@ function renderLockerChat() {
 
   chatContainer.innerHTML = "";
 
-  CHAT_MESSAGES.forEach(msg => {
+  const banterMessages = (typeof DYNAMIC_HUB_DATA !== 'undefined' && DYNAMIC_HUB_DATA.banter && DYNAMIC_HUB_DATA.banter.length > 0) 
+    ? DYNAMIC_HUB_DATA.banter 
+    : CHAT_MESSAGES;
+
+  banterMessages.forEach(msg => {
     const msgBlock = document.createElement("div");
     msgBlock.className = `chat-bubble-block ${msg.isCaptain ? 'captain' : ''}`;
     msgBlock.innerHTML = `
