@@ -2121,5 +2121,42 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-30 @ 08:24:58 EDT"
+  "lastUpdated": "2026-05-30 @ 08:24:58 EDT",
+  "banter": [
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "08:46",
+      "isCaptain": true
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "08:47",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Early night for me. Need the recovery.",
+      "time": "08:48",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Bags packed and ready. Let's get it.",
+      "time": "08:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who saw that strike in training?! Unbelievable.",
+      "time": "08:50",
+      "isCaptain": false
+    }
+  ]
 };

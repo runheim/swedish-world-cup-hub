@@ -1,0 +1,46 @@
+name: England WC Hub - Daily Locker Room Banter
+
+on:
+  schedule:
+    # 5 AM EDT = 09:00 UTC
+    # 12 PM EDT = 16:00 UTC
+    - cron: '0 9 * * *'
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate-banter:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.10'
+
+    - name: Execute Banter Generator
+      run: python scripts/generate_banter.py
+
+    - name: Sync data.js into dist/
+      run: |
+        mkdir -p dist
+        cp data.js dist/data.js
+
+    - name: Commit and Push Updates
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        
+        git status --porcelain
+        
+        if [ -n "$(git status --porcelain data.js dist/data.js)" ]; then
+          git add data.js dist/data.js
+          git commit -m "data: generate daily locker room banter"
+          git push origin englandwc
+        fi
