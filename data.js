@@ -156,7 +156,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina",
-            "fullText": "How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina\n\nFor the complete article, search for \"How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -173,7 +173,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream named USMNT captain; Chris Richards a World Cup doubt",
-            "fullText": "Tim Ream named USMNT captain; Chris Richards a World Cup doubt",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream named USMNT captain; Chris Richards a World Cup doubt\n\nFor the complete article, search for \"Tim Ream named USMNT captain; Chris Richards a World Cup doubt - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -190,7 +190,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "The Only Correct Way to React to the USMNT Roster Announcement",
-            "fullText": "The Only Correct Way to React to the USMNT Roster Announcement",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe Only Correct Way to React to the USMNT Roster Announcement\n\nFor the complete article, search for \"The Only Correct Way to React to the USMNT Roster Announcement - Minnesota United FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -207,7 +207,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups",
-            "fullText": "USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal — How To Watch, Prediction And Projected Lineups\n\nFor the complete article, search for \"USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups - Forbes\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -224,7 +224,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups",
-            "fullText": "USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups\n\nFor the complete article, search for \"USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -241,7 +241,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "2026 World Cup Friendlies - Previewing USMNT vs. Senegal",
-            "fullText": "2026 World Cup Friendlies - Previewing USMNT vs. Senegal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n2026 World Cup Friendlies - Previewing USMNT vs. Senegal\n\nFor the complete article, search for \"2026 World Cup Friendlies - Previewing USMNT vs. Senegal - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -258,7 +258,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Four Philadelphia Union Alumni named to USMNT World Cup Roster",
-            "fullText": "Four Philadelphia Union Alumni named to USMNT World Cup Roster",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFour Philadelphia Union Alumni named to USMNT World Cup Roster\n\nFor the complete article, search for \"Four Philadelphia Union Alumni named to USMNT World Cup Roster - Philadelphia Union\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -275,7 +275,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic",
-            "fullText": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic\n\nFor the complete article, search for \"Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -292,7 +292,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty",
-            "fullText": "How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty\n\nFor the complete article, search for \"How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -309,7 +309,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026",
-            "fullText": "U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026\n\nFor the complete article, search for \"U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026 - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -326,7 +326,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Pochettino: Committed to USMNT at World Cup despite Milan talks",
-            "fullText": "Pochettino: Committed to USMNT at World Cup despite Milan talks",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPochettino: Committed to USMNT at World Cup despite Milan talks\n\nFor the complete article, search for \"Pochettino: Committed to USMNT at World Cup despite Milan talks - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -343,7 +343,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino",
-            "fullText": "Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino\n\nFor the complete article, search for \"Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino - Forbes\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -360,7 +360,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt",
-            "fullText": "USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt\n\nFor the complete article, search for \"USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -377,7 +377,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do?",
-            "fullText": "USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do?",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do?\n\nFor the complete article, search for \"USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do? - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -394,7 +394,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026",
-            "fullText": "USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026\n\nFor the complete article, search for \"USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026 - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -411,7 +411,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT names 2026 World Cup roster after leaks",
-            "fullText": "USMNT names 2026 World Cup roster after leaks",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT names 2026 World Cup roster after leaks\n\nFor the complete article, search for \"USMNT names 2026 World Cup roster after leaks - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -428,7 +428,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center",
-            "fullText": "Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nEnergized Support Greets USMNT Upon Arrival to Atlanta, National Training Center\n\nFor the complete article, search for \"Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -445,7 +445,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "26 USMNT Moments, Past to Present: Quarterfinal Glory",
-            "fullText": "26 USMNT Moments, Past to Present: Quarterfinal Glory",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n26 USMNT Moments, Past to Present: Quarterfinal Glory\n\nFor the complete article, search for \"26 USMNT Moments, Past to Present: Quarterfinal Glory - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -462,7 +462,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Meet the Team: USMNT Roster For FIFA World Cup 2026",
-            "fullText": "Meet the Team: USMNT Roster For FIFA World Cup 2026",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMeet the Team: USMNT Roster For FIFA World Cup 2026\n\nFor the complete article, search for \"Meet the Team: USMNT Roster For FIFA World Cup 2026 - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -479,7 +479,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT possible starting XI vs Senegal in pre-World Cup friendly",
-            "fullText": "USMNT possible starting XI vs Senegal in pre-World Cup friendly",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT possible starting XI vs Senegal in pre-World Cup friendly\n\nFor the complete article, search for \"USMNT possible starting XI vs Senegal in pre-World Cup friendly - Diario AS\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -496,7 +496,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal & Fan Celebration in New York City",
-            "fullText": "U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal & Fan Celebration in New York City",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal & Fan Celebration in New York City\n\nFor the complete article, search for \"U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -513,7 +513,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City",
-            "fullText": "How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City\n\nFor the complete article, search for \"How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -530,7 +530,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Aaronson gets leave from USMNT World Cup camp for his wedding",
-            "fullText": "Aaronson gets leave from USMNT World Cup camp for his wedding",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAaronson gets leave from USMNT World Cup camp for his wedding\n\nFor the complete article, search for \"Aaronson gets leave from USMNT World Cup camp for his wedding - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -547,7 +547,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Chris Richards now an injury question mark in major USMNT World Cup worry",
-            "fullText": "Chris Richards now an injury question mark in major USMNT World Cup worry",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards now an injury question mark in major USMNT World Cup worry\n\nFor the complete article, search for \"Chris Richards now an injury question mark in major USMNT World Cup worry - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -564,7 +564,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic",
-            "fullText": "USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic\n\nFor the complete article, search for \"USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -581,7 +581,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT's final World Cup roster has Pochettino taking risks",
-            "fullText": "USMNT's final World Cup roster has Pochettino taking risks",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's final World Cup roster has Pochettino taking risks\n\nFor the complete article, search for \"USMNT's final World Cup roster has Pochettino taking risks - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -598,7 +598,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth",
-            "fullText": "The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth\n\nFor the complete article, search for \"The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth - revolutionsoccer.net\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -615,7 +615,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic",
-            "fullText": "Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAnalyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic\n\nFor the complete article, search for \"Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -632,7 +632,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more",
-            "fullText": "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more\n\nFor the complete article, search for \"USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -649,7 +649,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Andrew Rick heading to the World Cup as USMNT training goalkeeper",
-            "fullText": "Andrew Rick heading to the World Cup as USMNT training goalkeeper",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAndrew Rick heading to the World Cup as USMNT training goalkeeper\n\nFor the complete article, search for \"Andrew Rick heading to the World Cup as USMNT training goalkeeper - Philadelphia Union\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -666,7 +666,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot",
-            "fullText": "Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot\n\nFor the complete article, search for \"Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -683,7 +683,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT at the World Cup: All-time results, stats",
-            "fullText": "USMNT at the World Cup: All-time results, stats",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT at the World Cup: All-time results, stats\n\nFor the complete article, search for \"USMNT at the World Cup: All-time results, stats - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -700,7 +700,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic",
-            "fullText": "Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic\n\nFor the complete article, search for \"Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -717,7 +717,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "What's the goal of USMNT's pre-World Cup friendlies?",
-            "fullText": "What's the goal of USMNT's pre-World Cup friendlies?",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhat's the goal of USMNT's pre-World Cup friendlies?\n\nFor the complete article, search for \"What's the goal of USMNT's pre-World Cup friendlies? - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -734,7 +734,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal",
-            "fullText": "USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal\n\nFor the complete article, search for \"USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -751,7 +751,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT's Pulisic unfazed by scoreless slump ahead of World Cup",
-            "fullText": "USMNT's Pulisic unfazed by scoreless slump ahead of World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's Pulisic unfazed by scoreless slump ahead of World Cup\n\nFor the complete article, search for \"USMNT's Pulisic unfazed by scoreless slump ahead of World Cup - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -768,7 +768,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’",
-            "fullText": "Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’\n\nFor the complete article, search for \"Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’ - Inquirer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -785,7 +785,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more",
-            "fullText": "USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more\n\nFor the complete article, search for \"USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -802,7 +802,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT World Cup roster confirmed: Zendejas in as Luna, Tessmann and Morris miss out",
-            "fullText": "USMNT World Cup roster confirmed: Zendejas in as Luna, Tessmann and Morris miss out",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT World Cup roster confirmed: Zendejas in as Luna, Tessmann and Morris miss out\n\nFor the complete article, search for \"USMNT World Cup roster confirmed: Zendejas in as Luna, Tessmann and Morris miss out - The Guardian\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -819,7 +819,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic",
-            "fullText": "USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic\n\nFor the complete article, search for \"USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -836,7 +836,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic",
-            "fullText": "Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic\n\nFor the complete article, search for \"Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -853,7 +853,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026",
-            "fullText": "Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026\n\nFor the complete article, search for \"Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026 - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -870,7 +870,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup",
-            "fullText": "Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nCharlotte FC's Tim Ream named USMNT captain for 2026 World Cup\n\nFor the complete article, search for \"Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup - MLSsoccer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -887,7 +887,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic",
-            "fullText": "USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic\n\nFor the complete article, search for \"USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -904,7 +904,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Questions the USMNT Have to Answer Before the World Cup",
-            "fullText": "Three Questions the USMNT Have to Answer Before the World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThree Questions the USMNT Have to Answer Before the World Cup\n\nFor the complete article, search for \"Three Questions the USMNT Have to Answer Before the World Cup - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -921,7 +921,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Who Is USMNT’s World Cup Captain—And Why Is it a Secret?",
-            "fullText": "Who Is USMNT’s World Cup Captain—And Why Is it a Secret?",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWho Is USMNT’s World Cup Captain—And Why Is it a Secret?\n\nFor the complete article, search for \"Who Is USMNT’s World Cup Captain—And Why Is it a Secret? - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -938,7 +938,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic",
-            "fullText": "How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic\n\nFor the complete article, search for \"How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -955,7 +955,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream to captain USMNT at World Cup",
-            "fullText": "Tim Ream to captain USMNT at World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream to captain USMNT at World Cup\n\nFor the complete article, search for \"Tim Ream to captain USMNT at World Cup - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -972,7 +972,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic",
-            "fullText": "USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic\n\nFor the complete article, search for \"USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -989,7 +989,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true'",
-            "fullText": "Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true'",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true'\n\nFor the complete article, search for \"Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true' - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1006,7 +1006,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out",
-            "fullText": "Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out\n\nFor the complete article, search for \"Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1023,7 +1023,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT arrives in metro Atlanta ahead of FIFA World Cup",
-            "fullText": "USMNT arrives in metro Atlanta ahead of FIFA World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT arrives in metro Atlanta ahead of FIFA World Cup\n\nFor the complete article, search for \"USMNT arrives in metro Atlanta ahead of FIFA World Cup - WSB-TV\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1040,7 +1040,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026",
-            "fullText": "Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nCristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026\n\nFor the complete article, search for \"Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 - Seattle Sounders FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1057,7 +1057,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "From Donovan to Harkes, USMNT's most stunning World Cup snubs ever",
-            "fullText": "From Donovan to Harkes, USMNT's most stunning World Cup snubs ever",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFrom Donovan to Harkes, USMNT's most stunning World Cup snubs ever\n\nFor the complete article, search for \"From Donovan to Harkes, USMNT's most stunning World Cup snubs ever - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1074,7 +1074,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report",
-            "fullText": "USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report\n\nFor the complete article, search for \"USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1091,7 +1091,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup",
-            "fullText": "Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMeet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup\n\nFor the complete article, search for \"Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup - NBC Los Angeles\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1108,7 +1108,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad",
-            "fullText": "USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad\n\nFor the complete article, search for \"USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1125,7 +1125,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT vs. Senegal friendly prediction, start time, how to watch",
-            "fullText": "USMNT vs. Senegal friendly prediction, start time, how to watch",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal friendly prediction, start time, how to watch\n\nFor the complete article, search for \"USMNT vs. Senegal friendly prediction, start time, how to watch - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1142,7 +1142,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Tim Ream named USMNT captain for World Cup: 'The leader that we want'",
-            "fullText": "Tim Ream named USMNT captain for World Cup: 'The leader that we want'",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream named USMNT captain for World Cup: 'The leader that we want'\n\nFor the complete article, search for \"Tim Ream named USMNT captain for World Cup: 'The leader that we want' - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1159,7 +1159,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star",
-            "fullText": "Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star\n\nFor the complete article, search for \"Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star - WFIN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1176,7 +1176,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster",
-            "fullText": "‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster\n\nFor the complete article, search for \"‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1193,7 +1193,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster",
-            "fullText": "Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nCharlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster\n\nFor the complete article, search for \"Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster - Charlotte FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1210,7 +1210,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it",
-            "fullText": "Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it\n\nFor the complete article, search for \"Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1227,7 +1227,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad?",
-            "fullText": "Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad?",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFive biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad?\n\nFor the complete article, search for \"Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad? - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1244,7 +1244,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule",
-            "fullText": "USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule\n\nFor the complete article, search for \"USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1261,7 +1261,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "When is USMNT 2026 World Cup roster announced? Time and how to watch",
-            "fullText": "When is USMNT 2026 World Cup roster announced? Time and how to watch",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhen is USMNT 2026 World Cup roster announced? Time and how to watch\n\nFor the complete article, search for \"When is USMNT 2026 World Cup roster announced? Time and how to watch - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1278,7 +1278,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "REPLAY | USMNT Roster Reveal Reaction Show",
-            "fullText": "REPLAY | USMNT Roster Reveal Reaction Show",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nREPLAY | USMNT Roster Reveal Reaction Show\n\nFor the complete article, search for \"REPLAY | USMNT Roster Reveal Reaction Show - Philadelphia Union\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1295,7 +1295,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Pochettino: 'Special' Pulisic will end goal drought at World Cup",
-            "fullText": "Pochettino: 'Special' Pulisic will end goal drought at World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPochettino: 'Special' Pulisic will end goal drought at World Cup\n\nFor the complete article, search for \"Pochettino: 'Special' Pulisic will end goal drought at World Cup - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1312,7 +1312,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Chemistry Coming Together as Training Kicks Off for USMNT",
-            "fullText": "Chemistry Coming Together as Training Kicks Off for USMNT",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChemistry Coming Together as Training Kicks Off for USMNT\n\nFor the complete article, search for \"Chemistry Coming Together as Training Kicks Off for USMNT - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1329,7 +1329,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Meet the 26 Players Who Will Star for the USMNT at 2026 World Cup",
-            "fullText": "Meet the 26 Players Who Will Star for the USMNT at 2026 World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMeet the 26 Players Who Will Star for the USMNT at 2026 World Cup\n\nFor the complete article, search for \"Meet the 26 Players Who Will Star for the USMNT at 2026 World Cup - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1346,7 +1346,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Columbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup",
-            "fullText": "Columbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nColumbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup\n\nFor the complete article, search for \"Columbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup - Columbus Crew\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1363,7 +1363,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT Captain For 2026 World Cup Officially Revealed",
-            "fullText": "USMNT Captain For 2026 World Cup Officially Revealed",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Captain For 2026 World Cup Officially Revealed\n\nFor the complete article, search for \"USMNT Captain For 2026 World Cup Officially Revealed - Yahoo Sports Canada\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1380,7 +1380,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "The three USMNT players who will define success or failure in historic World Cup with $50m reward",
-            "fullText": "The three USMNT players who will define success or failure in historic World Cup with $50m reward",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe three USMNT players who will define success or failure in historic World Cup with $50m reward\n\nFor the complete article, search for \"The three USMNT players who will define success or failure in historic World Cup with $50m reward - talkSPORT\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1397,7 +1397,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad?",
-            "fullText": "USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad?",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad?\n\nFor the complete article, search for \"USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad? - NBC Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1414,7 +1414,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic",
-            "fullText": "Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nSuperman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic\n\nFor the complete article, search for \"Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1431,7 +1431,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic",
-            "fullText": "Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Tim Ream is USMNT captain for World Cup, not Christian Pulisic\n\nFor the complete article, search for \"Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1448,7 +1448,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29",
-            "fullText": "Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards Scheduled to Arrive to USMNT Training Camp on May 29\n\nFor the complete article, search for \"Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29 - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1465,7 +1465,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "The USMNT have a chance to inspire a nation at the World Cup",
-            "fullText": "The USMNT have a chance to inspire a nation at the World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe USMNT have a chance to inspire a nation at the World Cup\n\nFor the complete article, search for \"The USMNT have a chance to inspire a nation at the World Cup - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1482,7 +1482,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic",
-            "fullText": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAfter fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic\n\nFor the complete article, search for \"After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1499,7 +1499,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ...",
-            "fullText": "Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ...",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ...\n\nFor the complete article, search for \"Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ... - World Soccer Talk\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1516,7 +1516,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic",
-            "fullText": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic\n\nFor the complete article, search for \"U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1533,7 +1533,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic",
-            "fullText": "USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic\n\nFor the complete article, search for \"USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1550,7 +1550,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup",
-            "fullText": "Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup\n\nFor the complete article, search for \"Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup - MARCA\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1567,7 +1567,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury",
-            "fullText": "Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury\n\nFor the complete article, search for \"Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1584,7 +1584,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Where do the USMNT's World Cup stars play professionally? Here are their clubs",
-            "fullText": "Where do the USMNT's World Cup stars play professionally? Here are their clubs",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhere do the USMNT's World Cup stars play professionally? Here are their clubs\n\nFor the complete article, search for \"Where do the USMNT's World Cup stars play professionally? Here are their clubs - NBC 5 Chicago\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1601,7 +1601,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up",
-            "fullText": "Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nCristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up\n\nFor the complete article, search for \"Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up - Seattle Sounders FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1618,7 +1618,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks",
-            "fullText": "Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFox’s USMNT World Cup Roster Reveal Spoiled by Leaks\n\nFor the complete article, search for \"Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks - Front Office Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1635,7 +1635,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "2026 World Cup Group D preview: USMNT embarks on historic journey",
-            "fullText": "2026 World Cup Group D preview: USMNT embarks on historic journey",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n2026 World Cup Group D preview: USMNT embarks on historic journey\n\nFor the complete article, search for \"2026 World Cup Group D preview: USMNT embarks on historic journey - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1652,7 +1652,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Around the game (USMNT edition)",
-            "fullText": "Around the game (USMNT edition)",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAround the game (USMNT edition)\n\nFor the complete article, search for \"Around the game (USMNT edition) - Soccer America\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1669,7 +1669,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Photos | 2026 USMNT World Cup Roster Reveal",
-            "fullText": "Photos | 2026 USMNT World Cup Roster Reveal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPhotos | 2026 USMNT World Cup Roster Reveal\n\nFor the complete article, search for \"Photos | 2026 USMNT World Cup Roster Reveal - New York City FC\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1686,7 +1686,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup",
-            "fullText": "Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nLeboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup\n\nFor the complete article, search for \"Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1703,7 +1703,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Sources: Reyna in, Tessmann out as USMNT names World Cup squad",
-            "fullText": "Sources: Reyna in, Tessmann out as USMNT names World Cup squad",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nSources: Reyna in, Tessmann out as USMNT names World Cup squad\n\nFor the complete article, search for \"Sources: Reyna in, Tessmann out as USMNT names World Cup squad - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1720,7 +1720,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal",
-            "fullText": "Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nSupercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal\n\nFor the complete article, search for \"Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1737,7 +1737,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Arfsten to Turner: Every MLS player on USMNT's World Cup roster",
-            "fullText": "Arfsten to Turner: Every MLS player on USMNT's World Cup roster",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nArfsten to Turner: Every MLS player on USMNT's World Cup roster\n\nFor the complete article, search for \"Arfsten to Turner: Every MLS player on USMNT's World Cup roster - MLSsoccer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1754,7 +1754,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "HE’S THE SKIPPER: Ream named USMNT captain for the World Cup",
-            "fullText": "HE’S THE SKIPPER: Ream named USMNT captain for the World Cup",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHE’S THE SKIPPER: Ream named USMNT captain for the World Cup\n\nFor the complete article, search for \"HE’S THE SKIPPER: Ream named USMNT captain for the World Cup - Front Row Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1771,7 +1771,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "26 USMNT Moments, Past to Present: Dos a Cero",
-            "fullText": "26 USMNT Moments, Past to Present: Dos a Cero",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n26 USMNT Moments, Past to Present: Dos a Cero\n\nFor the complete article, search for \"26 USMNT Moments, Past to Present: Dos a Cero - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1788,7 +1788,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "26 USMNT Moments, Past to Present: Against All Odds",
-            "fullText": "26 USMNT Moments, Past to Present: Against All Odds",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n26 USMNT Moments, Past to Present: Against All Odds\n\nFor the complete article, search for \"26 USMNT Moments, Past to Present: Against All Odds - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1805,7 +1805,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster",
-            "fullText": "USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster\n\nFor the complete article, search for \"USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1822,7 +1822,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022",
-            "fullText": "Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUpgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022\n\nFor the complete article, search for \"Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022 - Bleacher Report\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
