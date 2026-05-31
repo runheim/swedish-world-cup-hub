@@ -139,7 +139,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Alexander Isak Set for “Pre-Season” with Swedish National Team",
-            "fullText": "Alexander Isak Set for “Pre-Season” with Swedish National Team",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nAlexander Isak Set for “Pre-Season” with Swedish National Team\n\nFor the complete article, search for \"Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -156,7 +156,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought",
-            "fullText": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nBlågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought\n\nFor the complete article, search for \"Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -173,7 +173,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals",
-            "fullText": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nPoland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals\n\nFor the complete article, search for \"Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -190,7 +190,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025",
-            "fullText": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nDenmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025\n\nFor the complete article, search for \"Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -207,7 +207,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Graham Potter replaces Tomasson as head coach of Swedish national team",
-            "fullText": "Graham Potter replaces Tomasson as head coach of Swedish national team",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nGraham Potter replaces Tomasson as head coach of Swedish national team\n\nFor the complete article, search for \"Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -224,7 +224,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
-            "fullText": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nSwedish national team coach Tomasson defends Isak: 'We don't know the whole story'\n\nFor the complete article, search for \"Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -241,7 +241,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration",
-            "fullText": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nFrom the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration\n\nFor the complete article, search for \"From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -258,7 +258,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Svensson retires from Swedish national team",
-            "fullText": "Svensson retires from Swedish national team",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nSvensson retires from Swedish national team\n\nFor the complete article, search for \"Svensson retires from Swedish national team - Sportsnet\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -275,7 +275,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender",
-            "fullText": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nVictor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender\n\nFor the complete article, search for \"Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender - The Peoples Person\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -292,7 +292,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "The Swedish Seven – Celts and Blågult",
-            "fullText": "The Swedish Seven – Celts and Blågult",
+            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nThe Swedish Seven – Celts and Blågult\n\nFor the complete article, search for \"The Swedish Seven – Celts and Blågult - The Celtic Star\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
