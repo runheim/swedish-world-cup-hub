@@ -159,23 +159,6 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4252_4",
-            "category": "england",
-            "type": "News",
-            "title": "Dario Vidosic driven by family tragedy as Brighton chase Women’s FA Cup glory",
-            "bullets": [
-              "Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father fo...",
-              "Reported live by The Guardian.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father four months agoGrowing up in Brisbane with a big time difference to London, Dario Vidosic loved being allowed to stay up past his bedtime to watch a big Wembley final on television next to his father, Rado, before trying to recreate a great goal with him in the garden the following day.On Sunday, Rado will not only be in the Vidosic family’s thoughts but in the hearts and minds of everyone associated with Brighton as the team walk out at Wembley for the Women’s FA Cup final against Manchester City to try to win their first major trophy, four months after Rado – who was working as the women’s team’s head of coaching – died from cancer. Continue reading...",
-            "fullText": "Brighton’s head coach has led team to Wembley date with Manchester City despite losing his father four months ago",
-            "author": "The Guardian Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
             "id": "crawled_4253_5",
             "category": "england",
             "type": "News",

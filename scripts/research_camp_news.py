@@ -166,18 +166,27 @@ if crawled_news:
         title_lower = item["title"].lower()
         desc_lower = item["desc"].lower()
         # Negative keywords — reject articles that are clearly not soccer
-        is_excluded = any(neg in title_lower or neg in desc_lower for neg in [
+        neg_keywords = [
             "wedding", "married", "marriage", "birthday", "obituary", "died",
             "funeral", "recipe", "cooking", "weather forecast", "election",
             "parliament", "crime", "murder", "robbery",
             "stock market", "real estate", "housing", "apartment",
             "covid", "pandemic", "hospital", "cancer", "surgery",
             "tv show", "reality", "love island", "traffic accident", "car crash",
+            # Outdated England coaching staff exclusions
+            "southgate",
             # Women's soccer exclusions
             "lionesses", "women's", "womens", "women's national", "wsl",
             "england women", "barclays women", "women's super league",
             "women's world cup", "wwc", "she-believes", "shebelieves"
-        ])
+        ]
+        
+        combined_text = f"{title_lower} {desc_lower}"
+        is_excluded = False
+        for neg in neg_keywords:
+            if re.search(rf"\b{re.escape(neg)}\b", combined_text):
+                is_excluded = True
+                break
         
         if is_excluded:
             continue
