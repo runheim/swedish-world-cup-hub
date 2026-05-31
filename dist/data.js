@@ -10,9 +10,6 @@ const DYNAMIC_HUB_DATA = {
     "⚽ Norway's sensation a fact - ready for historic WC semi-final",
     "⚽ Premier League 2025-26 season review: our predictions v reality",
     "⚽ Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
-    "⚽ Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com",
-    "⚽ Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com",
-    "⚽ Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com",
     "⚽ Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
     "⚽ Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
     "⚽ From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball",
@@ -140,57 +137,6 @@ const DYNAMIC_HUB_DATA = {
             ],
             "summary": "Alexander Isak Set for “Pre-Season” with Swedish National Team",
             "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nAlexander Isak Set for “Pre-Season” with Swedish National Team\n\nFor the complete article, search for \"Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside\" on the Google News Sweden website or check their latest Swedish football coverage.",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4530_8",
-            "category": "sweden",
-            "type": "News",
-            "title": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com",
-            "bullets": [
-              "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought&nbs...",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought",
-            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nBlågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought\n\nFor the complete article, search for \"Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought - VAVEL.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4534_9",
-            "category": "sweden",
-            "type": "News",
-            "title": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com",
-            "bullets": [
-              "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals ...",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals",
-            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nPoland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals\n\nFor the complete article, search for \"Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4538_10",
-            "category": "sweden",
-            "type": "News",
-            "title": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com",
-            "bullets": [
-              "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO ...",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025",
-            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nDenmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025\n\nFor the complete article, search for \"Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025 - UEFA.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",

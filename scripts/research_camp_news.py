@@ -6,8 +6,9 @@ import json
 import urllib.request
 import urllib.parse
 import html
-from datetime import datetime
+from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
+from email.utils import parsedate_to_datetime
 import requests
 from bs4 import BeautifulSoup
 from deep_translator import GoogleTranslator
@@ -110,10 +111,23 @@ def search_sports_news():
                 xml = response.read().decode('utf-8')
                 # Parse items via regex to keep it lightweight and zero-dependency
                 items = re.findall(r"<item>(.*?)</item>", xml, re.DOTALL)
+                cutoff_time = datetime.now(ZoneInfo("UTC")) - timedelta(hours=24)
                 for item in items:
                     title_match = re.search(r"<title><!\[CDATA\[(.*?)\]\]></title>", item) or re.search(r"<title>(.*?)</title>", item)
                     desc_match = re.search(r"<description><!\[CDATA\[(.*?)\]\]></description>", item) or re.search(r"<description>(.*?)</description>", item)
                     link_match = re.search(r"<link><!\[CDATA\[(.*?)\]\]></link>", item) or re.search(r"<link>(.*?)</link>", item)
+                    pubdate_match = re.search(r"<pubDate>(.*?)</pubDate>", item)
+                    
+                    # Skip articles older than 24 hours
+                    if pubdate_match:
+                        try:
+                            pub_dt = parsedate_to_datetime(pubdate_match.group(1).strip())
+                            if pub_dt.tzinfo is None:
+                                pub_dt = pub_dt.replace(tzinfo=ZoneInfo("UTC"))
+                            if pub_dt < cutoff_time:
+                                continue
+                        except Exception:
+                            pass
                     
                     title = title_match.group(1).strip() if title_match else ""
                     desc = desc_match.group(1).strip() if desc_match else ""
@@ -164,7 +178,11 @@ if crawled_news:
             "stock market", "börsen", "real estate", "housing", "apartment",
             "covid", "pandemic", "hospital", "cancer", "surgery",
             "tv show", "reality", "melodifestivalen", "eurovision",
-            "traffic accident", "car crash"
+            "traffic accident", "car crash",
+            # Women's soccer exclusions
+            "damlandslaget", "women's", "womens", "women's national",
+            "damallsvenskan", "sweden women", "svenska damlandslaget",
+            "women's world cup", "wwc", "she-believes", "shebelieves"
         ])
         
         if is_excluded:
