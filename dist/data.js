@@ -27,7 +27,6 @@ const DYNAMIC_HUB_DATA = {
     "⚽ USMNT possible starting XI vs Senegal in pre-World Cup friendly - Diario AS",
     "⚽ U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer",
     "⚽ How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer",
-    "⚽ Aaronson gets leave from USMNT World Cup camp for his wedding - ESPN",
     "⚽ Chris Richards now an injury question mark in major USMNT World Cup worry - New York Post",
     "⚽ USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic - The New York Times",
     "⚽ USMNT's final World Cup roster has Pochettino taking risks - ESPN",
@@ -514,23 +513,6 @@ const DYNAMIC_HUB_DATA = {
             ],
             "summary": "How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City",
             "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City\n\nFor the complete article, search for \"How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
-            "author": "Google News USMNT Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4253_24",
-            "category": "usa",
-            "type": "News",
-            "title": "Aaronson gets leave from USMNT World Cup camp for his wedding - ESPN",
-            "bullets": [
-              "Aaronson gets leave from USMNT World Cup camp for his wedding",
-              "Reported live by Google News USMNT.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Aaronson gets leave from USMNT World Cup camp for his wedding",
-            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAaronson gets leave from USMNT World Cup camp for his wedding\n\nFor the complete article, search for \"Aaronson gets leave from USMNT World Cup camp for his wedding - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
             "author": "Google News USMNT Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
