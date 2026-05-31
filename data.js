@@ -8,10 +8,7 @@ const DYNAMIC_HUB_DATA = {
     "⚽ Örgryte recovered 0–2 after Noah Christoffersson's first two Allsvenskan goals",
     "⚽ Alexander Isak talks about the injury: \"A scary experience\"",
     "⚽ Norway's sensation a fact - ready for historic WC semi-final",
-    "⚽ Premier League 2025-26 season review: our predictions v reality",
     "⚽ Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
-    "⚽ Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
-    "⚽ Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
     "⚽ From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball",
     "⚽ Svensson retires from Swedish national team - Sportsnet",
     "⚽ Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender - The Peoples Person",
@@ -109,23 +106,6 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           },
           {
-            "id": "crawled_4521_6",
-            "category": "sweden",
-            "type": "News",
-            "title": "Premier League 2025-26 season review: our predictions v reality",
-            "bullets": [
-              "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go d...",
-              "Reported live by The Guardian Football.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dearWhat we predicted: Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a number of signings in his first transfer window. The question now for Arsenal supporters is whether Martín Zubimendi, Christian Nørgaard, Noni Madueke, Viktor Gyökeres, Cristhian Mosquera and Kepa Arrizabalaga can help them take that elusive final step to becoming champions for the first time since the Invincibles in 2004. Continue reading...",
-            "fullText": "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear\n\nWhat we predicted:Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in thePremier Leaguefor a third season in succession and the new sporting director, Andrea Berta, has delivered on a number of signings in his first transfer window. The question now for Arsenal supporters is whether Martín Zubimendi, Christian Nørgaard, Noni Madueke, Viktor Gyökeres, Cristhian Mosquera and Kepa Arrizabalaga can help them take that elusive final step to becoming champions for the first time since the Invincibles in 2004.\n\nWhat actually happened: The new signings strengthened the squad and Arteta did the business, guiding the club to their first title in 22 years and their first Champions League final since 2006.\n\nWhat we predicted:Plenty of money, about £300m, has been spent over the past eight months to get City back on track after a disastrous season by their standards. They finished a distant third and lost the FA Cup final, leaving them trophyless. The latest crop of incomings got a brief taste of life under Pep Guardiola at the Club World Cup and all showed promise. After Rodri missed most of last season, it feels as if his fitness will decide the fate of the team. If Guardiola can get him back to his best – and keep him fit – after a horrible injury, then City can feel excited once again.\n\nWhat actually happened: City pushed Arsenal all the way but missed out on the title in the final week. They did, however, win the League Cup and FA Cup, giving Guardiola some silverware in his final campaign at the club.\n\nWhat we predicted:The big hope is that Manchester United hit rock bottom last season and things cannot get any worse. Ending up 15th in the Premier League resulted in many executives, fans and players waking up in a cold sweat. Expectations within the fanbase are impressively low, not knowing what to expect from a team that stumbled through an entire campaign. There is no European distraction for Ruben Amorim, allowing him plenty of time on the training ground to get his ideas across.\n\nWhat actually happened: Amorim never did get his ideas across and United sacked him in January, just in time to save their season. They picked up 29 more points this season than last season but that upward swing was entirely due to Michael Carrick and his coaching staff, who revived the team and given the fans hope.\n\nWhat we predicted:There were plenty of positives last season, chiefly the continued emergence of Morgan Rogers and the consistent class of Youri Tielemans behind him in midfield, yet it was a campaign tinged with disappointment. Villa missed out on qualifying for the Champions League on goal difference and Unai Emery’s hunt for silverware goes on.\n\nWhat actually happened: Villa qualified for the Champions League with ease and won the Europa League in style. Goals from Youri Tielemans, Emiliano Buendía and Morgan Rogers against Freiburg in the final landed Villa their first trophy since they won the League Cup in 1996. A great season all round.",
-            "author": "The Guardian Football Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
             "id": "crawled_4526_7",
             "category": "sweden",
             "type": "News",
@@ -137,40 +117,6 @@ const DYNAMIC_HUB_DATA = {
             ],
             "summary": "Alexander Isak Set for “Pre-Season” with Swedish National Team",
             "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nAlexander Isak Set for “Pre-Season” with Swedish National Team\n\nFor the complete article, search for \"Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside\" on the Google News Sweden website or check their latest Swedish football coverage.",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4541_11",
-            "category": "sweden",
-            "type": "News",
-            "title": "Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
-            "bullets": [
-              "Graham Potter replaces Tomasson as head coach of Swedish national team",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Graham Potter replaces Tomasson as head coach of Swedish national team",
-            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nGraham Potter replaces Tomasson as head coach of Swedish national team\n\nFor the complete article, search for \"Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
-            "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4545_12",
-            "category": "sweden",
-            "type": "News",
-            "title": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
-            "bullets": [
-              "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
-              "Reported live by Google News Sweden.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
-            "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nSwedish national team coach Tomasson defends Isak: 'We don't know the whole story'\n\nFor the complete article, search for \"Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
