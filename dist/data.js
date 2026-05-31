@@ -38,7 +38,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Who will be the WC cage keeper for Sweden? Linus Kandolin was pressed about that question. - He threw me out to the wolves, says the goalkeeper coach jokingly about Graham Potter.",
-            "fullText": "- He threw me out to the wolves, says the goalkeeper coach jokingly about Graham Potter.\n\nSweden faces an important – and still uncertain – decision before the World Cup.\n\nThree goalkeepers are selected in the squad and according to the Swedish management staff, the first position is open between Kristoffer Nordfeldt, Viktor Johansson and Jacob Widell Zetterström.\n\n- The final decision will come when we get closer to the premiere, because a lot can happen until then, says goalkeeper coach Linus Kandolin.\n\nJudging by how smooth it appears to be. Is this the hardest decision you've ever made?\n\n- Somewhere, when you are in this, you are used to making difficult decisions. It's not always easy. It will be difficult, everyone wants to play a World Cup and someone will \"miss\" that opportunity.\n\nHave you, in your career, seen it be this level between three goalkeepers?\n\n- I have had even situations before. But now it's different as it's a national team and you have few matches. Based on that, it's a bit of a different situation.\n\nNordfeldt was between the posts in the playoff meetings with Ukraine and Poland in March.\n\nSweden's opening game is against Tunisia on June 15. SVT broadcasts the match.",
+            "fullText": "- He threw me out to the wolves, says the goalkeeper coach jokingly about Graham Potter.\n\nSweden faces an important – and still uncertain – decision before the World Cup.\n\nThree goalkeepers are selected in the squad and according to the Swedish management staff, the first position is open between Kristoffer Nordfeldt, Viktor Johansson and Jacob Widell Zetterström.\n\n- The final decision will come when we get closer to the premiere, because a lot can happen until then, says goalkeeper coach Linus Kandolin.\n\nJudging by how smooth it appears to be. Is this the hardest decision you've ever made?\n\n- Somewhere, when you are in this, you are used to making difficult decisions. It's not always easy. It will be difficult, everyone wants to play a World Cup and someone will \"miss\" that opportunity.\n\nHave you, in your career, seen it be this level between three goalkeepers?\n\n- I have had even situations before. But now it's different as it's a national team and you have few matches. Based on that, it's a bit of a different situation.\n\nNordfeldt was between the posts in the playoff meetings with Ukraine and Poland in March.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -55,7 +55,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Here comes a heavy message for Sweden. Emil Holm misses the WC. - MY heart is broken, writes the 26-year-old on Instagram.",
-            "fullText": "- MY heart is broken, writes the 26-year-old on Instagram.\n\nA muscle injury is the reason behind right-back Emil Holm being forced to leave the Swedish WC squad.\n\n\"This is the hardest thing I've been through as a soccer player. I fought all my life to represent my country in a World Cup championship. To be so close and on the goal line to have my legs kicked away by an injury. This hurts me so much,\" the winger writes on Instagram.\n\nHolm is replaced by Herman Johansson, a regular at FC Dallas.\n\n- It is of course sad for us and for Emil who is forced to leave us at this stage. We feel for him and wish him a speedy recovery, says national team captain Graham Potter in a statement.\n\nAssistant national team captain Sebastian Larsson explains the situation.\n\n- When Emil came in, he had an overload. We have had a communication with the medical team and we finally came to the conclusion that it would not work with the return, says Larsson.\n\nIt is also clear that Strasbourg player Sebastian Nanasi is being called in as a new reserve.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "fullText": "- MY heart is broken, writes the 26-year-old on Instagram.\n\nA muscle injury is the reason behind right-back Emil Holm being forced to leave the Swedish WC squad.\n\n\"This is the hardest thing I've been through as a soccer player. I fought all my life to represent my country in a World Cup championship. To be so close and on the goal line to have my legs kicked away by an injury. This hurts me so much,\" the winger writes on Instagram.\n\nHolm is replaced by Herman Johansson, a regular at FC Dallas.\n\n- It is of course sad for us and for Emil who is forced to leave us at this stage. We feel for him and wish him a speedy recovery, says national team captain Graham Potter in a statement.\n\nAssistant national team captain Sebastian Larsson explains the situation.\n\n- When Emil came in, he had an overload. We have had a communication with the medical team and we finally came to the conclusion that it would not work with the return, says Larsson.\n\nIt is also clear that Strasbourg player Sebastian Nanasi is being called in as a new reserve.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -72,7 +72,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Elfsborg looked to be heading for a win after double goals from Arber Zeneli. But the old man Örgryte wanted something else, and came back in seven minutes when Noah Christoffersson accounted for his first two Allsvenskan goals. - It was nice, that was it. It was very good, says Örgrytespelaren to SVT Sport.",
-            "fullText": "Elfsborg looked to be heading for a win after double goals from Arber Zeneli.\n\nBut the old man Örgryte wanted something else, and came back in seven minutes when Noah Christoffersson accounted for his first two Allsvenskan goals.\n\n- It was nice, that was it. It was very good, says Örgrytespelaren to SVT Sport.\n\nAfter a slightly shaky start, where, among other things, goalkeeper Isak Pettersson gave the ball away in his own penalty area, which meant that he had to rely on the backline's ability to cover shots, Elfsborg took over more in the second half of the first half.\n\nThen came the dividend. That after the team was awarded a penalty in the 37th, a penalty that Arber Zeneli took care of. He put it distinctly to the left.\n\nAnd Zeneli had a good day in Gothenburg. In the 67th he came free after Julius Beck swooped down and slid the ball to Zeneli in the center, who finished by lobbing the ball into the goal.\n\n2–0 didn't last very long. Three minutes later, Noah Christoffersson scored his first Allsvenskan goal. And seven minutes later, it was time again for Christoffersson who, after a defensive miss from Elfsborg, got a shot to the right where he equalized from a weak angle to make it 2-2.\n\n- It's a bit typical of my goals, especially the second one. So it was nice to know that I can do it this year too, says Christoffersson to SVT Sport.\n\nThe goal was the last of the match, which means that Elfsborg have now crossed four rounds in a row. Jumbon Örgryte broke a four-game losing streak.\n\n- Of course when we are 2-0 we are very disappointed that we lose the three points. If you are 2-0 away, you have to be a little more clinical in your own penalty area and we weren't that today. Then we unfortunately lose, says Elfsborg's coach Björn Hamberg to SVT Sport.",
+            "fullText": "Elfsborg looked to be heading for a win after double goals from Arber Zeneli.\n\nBut the old man Örgryte wanted something else, and came back in seven minutes when Noah Christoffersson accounted for his first two Allsvenskan goals.\n\n- It was nice, that was it. It was very good, says Örgrytespelaren to SVT Sport.\n\nAfter a slightly shaky start, where, among other things, goalkeeper Isak Pettersson gave the ball away in his own penalty area, which meant that he had to rely on the backline's ability to cover shots, Elfsborg took over more in the second half of the first half.\n\nThen came the dividend. That after the team was awarded a penalty in the 37th, a penalty that Arber Zeneli took care of. He put it distinctly to the left.\n\nAnd Zeneli had a good day in Gothenburg. In the 67th he came free after Julius Beck swooped down and slid the ball to Zeneli in the center, who finished by lobbing the ball into the goal.\n\n2–0 didn't last very long. Three minutes later, Noah Christoffersson scored his first Allsvenskan goal. And seven minutes later, it was time again for Christoffersson who, after a defensive miss from Elfsborg, got a shot to the right where he equalized from a weak angle to make it 2-2.\n\n- It's a bit typical of my goals, especially the second one. So it was nice to know that I can do it this year too, says Christoffersson to SVT Sport.\n\nThe goal was the last of the match, which means that Elfsborg have now crossed four rounds in a row. Jumbon Örgryte broke a four-game losing streak.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -89,7 +89,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ruined large parts of the season. - It was a scary experience, says Isak at today's speed dating interview where SVT Sport was involved.",
-            "fullText": "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ruined large parts of the season.\n\n- It was a scary experience, says Isak at today's speed dating interview where SVT Sport was involved.\n\nLiverpool's record signing was injured in a game against Tottenham just before Christmas in the same sequence he scored. As he put the ball into the goal, he was tackled by Tottenham defender Micky van de Ven and suffered a fractured ankle.\n\nThis meant that he missed the playoff matches against Ukraine and Poland, which took Sweden to the WC at the end of March.\n\n- It was a complicated injury and I noticed quite quickly that it had been too early to play then, says Isak.\n\nIt was injured Isak's first operation after an injury.\n\n- I don't like watching injury videos, says Isak and explains in the clip above why he watched the sequence that injured him so badly after all.\n\nIsak is now training with the aim of taking a place in the team.\n\n- I feel well but have had some injury concerns. The important thing is that I arrive in good condition for the World Cup premiere, says Isak, who will probably play both international matches against Norway and Greece on June 1 and 4.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "fullText": "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ruined large parts of the season.\n\n- It was a scary experience, says Isak at today's speed dating interview where SVT Sport was involved.\n\nLiverpool's record signing was injured in a game against Tottenham just before Christmas in the same sequence he scored. As he put the ball into the goal, he was tackled by Tottenham defender Micky van de Ven and suffered a fractured ankle.\n\nThis meant that he missed the playoff matches against Ukraine and Poland, which took Sweden to the WC at the end of March.\n\n- It was a complicated injury and I noticed quite quickly that it had been too early to play then, says Isak.\n\nIt was injured Isak's first operation after an injury.\n\n- I don't like watching injury videos, says Isak and explains in the clip above why he watched the sequence that injured him so badly after all.\n\nIsak is now training with the aim of taking a place in the team.\n\n- I feel well but have had some injury concerns. The important thing is that I arrive in good condition for the World Cup premiere, says Isak, who will probably play both international matches against Norway and Greece on June 1 and 4.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -106,7 +106,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy year for weddings. Lennart and Barbro Svensson from Molkom have been married for 60 years in July. - We will probably celebrate it as a family, says Barbro Svensson.",
-            "fullText": "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy year for weddings. Lennart and Barbro Svensson from Molkom have been married for 60 years in July.\n\n- We will probably celebrate it as a family, says Barbro Svensson.\n\nAccording to the central statistical office, SCB, one of the reasons why so many can celebrate their 60th wedding anniversary this year is that we are living longer.\n\nLennart and Barbro Svensson have almost been married for 60 years, but the first time they met Barbro was only 13 years old.\n\n- He had a motorcycle, a big motorcycle. A tough guy, she says.\n\nAccording to Barbro Svensson, the key to a long marriage is showing each other respect.\n\n- You have to take each other into consideration and balance a little, she says.\n\n- I'm sure we've had different opinions at times, but then we've taken a walk and that's how it's resolved, says Lennart Svensson.\n\nAnd despite the fact that 70 years have passed since the couple first met, they still enjoy each other.\n\n- I am always surprised, how could I be so lucky? I still don't understand it today, says Lennart Svensson.",
+            "fullText": "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy year for weddings. Lennart and Barbro Svensson from Molkom have been married for 60 years in July.\n\n- We will probably celebrate it as a family, says Barbro Svensson.\n\nAccording to the central statistical office, SCB, one of the reasons why so many can celebrate their 60th wedding anniversary this year is that we are living longer.\n\nLennart and Barbro Svensson have almost been married for 60 years, but the first time they met Barbro was only 13 years old.\n\n- He had a motorcycle, a big motorcycle. A tough guy, she says.\n\nAccording to Barbro Svensson, the key to a long marriage is showing each other respect.\n\n- You have to take each other into consideration and balance a little, she says.\n\n- I'm sure we've had different opinions at times, but then we've taken a walk and that's how it's resolved, says Lennart Svensson.\n\nAnd despite the fact that 70 years have passed since the couple first met, they still enjoy each other.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -123,7 +123,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Norwegian ice hockey history has been written. For the first time, the national team is ready for the semi-finals of the Hockey World Cup. Norway beat Latvia 2–0 in the quarter-finals. - Never in my wildest imagination could I have believed this, says goalkeeper hero Henrik Haukeland.",
-            "fullText": "For the first time, the national team is ready for the semi-finals of the Hockey World Cup. Norway beat Latvia 2–0 in the quarter-finals.\n\n- Never in my wildest imagination could I have believed this, says goalkeeper hero Henrik Haukeland.\n\nNorway's Ice Hockey World Cup 2026 will go down in history as the best of all time.\n\nAfter a strong group game and a second place, they got Latvia as an opponent in the quarter-finals and avoided big favorites such as Canada, Finland and Switzerland.\n\nAnd Norway took the chance. Tinus Luc Koblar, now a Rögle player and formerly in Leksand, gave the team the lead in the second period with his sixth WC goal.\n\nNorway eventually won 2–0 after an empty net goal and is thus ready for the semi-finals for the first time. In 1951, they finished fourth in the WC, which was then decided in a single group game.\n\n- Norway is by far the biggest positive surprise during this WC tournament. What they get out of this team is insane. None of their players had placed in Sweden or any other top team, but they are still in the semi-finals, says SVT's expert Jonas Andersson.\n\nEven reaching the quarter-finals is rare. This year was only the fourth time and the first time in 14 years for our neighboring country. The giant of the match was goalkeeper Henrik Haukeland, who kept a clean sheet for the third time in the tournament.\n\n- We know what team we are and this is what is so fantastic about team sports. I am so proud to be Norwegian today, says the former SHL goalkeeper in Viaplay.\n\nIn the semi-finals, Norway faces Switzerland, who knocked out Tre Kronor in their quarter-final.",
+            "fullText": "For the first time, the national team is ready for the semi-finals of the Hockey World Cup. Norway beat Latvia 2–0 in the quarter-finals.\n\n- Never in my wildest imagination could I have believed this, says goalkeeper hero Henrik Haukeland.\n\nNorway's Ice Hockey World Cup 2026 will go down in history as the best of all time.\n\nAfter a strong group game and a second place, they got Latvia as an opponent in the quarter-finals and avoided big favorites such as Canada, Finland and Switzerland.\n\nAnd Norway took the chance. Tinus Luc Koblar, now a Rögle player and formerly in Leksand, gave the team the lead in the second period with his sixth WC goal.\n\nNorway eventually won 2–0 after an empty net goal and is thus ready for the semi-finals for the first time. In 1951, they finished fourth in the WC, which was then decided in a single group game.\n\n- Norway is by far the biggest positive surprise during this WC tournament. What they get out of this team is insane. None of their players had placed in Sweden or any other top team, but they are still in the semi-finals, says SVT's expert Jonas Andersson.\n\nEven reaching the quarter-finals is rare. This year was only the fourth time and the first time in 14 years for our neighboring country. The giant of the match was goalkeeper Henrik Haukeland, who kept a clean sheet for the third time in the tournament.\n\n- We know what team we are and this is what is so fantastic about team sports. I am so proud to be Norwegian today, says the former SHL goalkeeper in Viaplay.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -140,7 +140,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dearWhat we predicted: Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in the Premier League for a third season in succession and the new sporting director, Andrea Berta, has delivered on a number of signings in his first transfer window. The question now for Arsenal supporters is whether Martín Zubimendi, Christian Nørgaard, Noni Madueke, Viktor Gyökeres, Cristhian Mosquera and Kepa Arrizabalaga can help them take that elusive final step to becoming champions for the first time since the Invincibles in 2004. Continue reading...",
-            "fullText": "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear\n\nWhat we predicted:Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in thePremier Leaguefor a third season in succession and the new sporting director, Andrea Berta, has delivered on a number of signings in his first transfer window. The question now for Arsenal supporters is whether Martín Zubimendi, Christian Nørgaard, Noni Madueke, Viktor Gyökeres, Cristhian Mosquera and Kepa Arrizabalaga can help them take that elusive final step to becoming champions for the first time since the Invincibles in 2004.\n\nWhat actually happened: The new signings strengthened the squad and Arteta did the business, guiding the club to their first title in 22 years and their first Champions League final since 2006.\n\nWhat we predicted:Plenty of money, about £300m, has been spent over the past eight months to get City back on track after a disastrous season by their standards. They finished a distant third and lost the FA Cup final, leaving them trophyless. The latest crop of incomings got a brief taste of life under Pep Guardiola at the Club World Cup and all showed promise. After Rodri missed most of last season, it feels as if his fitness will decide the fate of the team. If Guardiola can get him back to his best – and keep him fit – after a horrible injury, then City can feel excited once again.\n\nWhat actually happened: City pushed Arsenal all the way but missed out on the title in the final week. They did, however, win the League Cup and FA Cup, giving Guardiola some silverware in his final campaign at the club.\n\nWhat we predicted:The big hope is that Manchester United hit rock bottom last season and things cannot get any worse. Ending up 15th in the Premier League resulted in many executives, fans and players waking up in a cold sweat. Expectations within the fanbase are impressively low, not knowing what to expect from a team that stumbled through an entire campaign. There is no European distraction for Ruben Amorim, allowing him plenty of time on the training ground to get his ideas across.\n\nWhat actually happened: Amorim never did get his ideas across and United sacked him in January, just in time to save their season. They picked up 29 more points this season than last season but that upward swing was entirely due to Michael Carrick and his coaching staff, who revived the team and given the fans hope.\n\nWhat we predicted:There were plenty of positives last season, chiefly the continued emergence of Morgan Rogers and the consistent class of Youri Tielemans behind him in midfield, yet it was a campaign tinged with disappointment. Villa missed out on qualifying for the Champions League on goal difference and Unai Emery’s hunt for silverware goes on.\n\nWhat actually happened: Villa qualified for the Champions League with ease and won the Europa League in style. Goals from Youri Tielemans, Emiliano Buendía and Morgan Rogers against Freiburg in the final landed Villa their first trophy since they won the League Cup in 1996. A great season all round.\n\nWhat we predicted:Champions for a record-equalling 20th time, and by a comfortable margin, first-choice transfer targets secured in an ambitious recruitment drive and the possibility of Alexander Isak arriving too:Liverpoollook in outstanding shape to celebrate their 21st title this season. A seventh Champions League triumph will also be considered a realistic target by Arne Slot.",
+            "fullText": "We picked Liverpool as champions, Chelsea as challengers and tipped Brentford and Sunderland to go down. Oh dear\n\nWhat we predicted:Mikel Arteta vowed this would be a “big summer” after finishing as runners-up in thePremier Leaguefor a third season in succession and the new sporting director, Andrea Berta, has delivered on a number of signings in his first transfer window. The question now for Arsenal supporters is whether Martín Zubimendi, Christian Nørgaard, Noni Madueke, Viktor Gyökeres, Cristhian Mosquera and Kepa Arrizabalaga can help them take that elusive final step to becoming champions for the first time since the Invincibles in 2004.\n\nWhat actually happened: The new signings strengthened the squad and Arteta did the business, guiding the club to their first title in 22 years and their first Champions League final since 2006.\n\nWhat we predicted:Plenty of money, about £300m, has been spent over the past eight months to get City back on track after a disastrous season by their standards. They finished a distant third and lost the FA Cup final, leaving them trophyless. The latest crop of incomings got a brief taste of life under Pep Guardiola at the Club World Cup and all showed promise. After Rodri missed most of last season, it feels as if his fitness will decide the fate of the team. If Guardiola can get him back to his best – and keep him fit – after a horrible injury, then City can feel excited once again.\n\nWhat actually happened: City pushed Arsenal all the way but missed out on the title in the final week. They did, however, win the League Cup and FA Cup, giving Guardiola some silverware in his final campaign at the club.\n\nWhat we predicted:The big hope is that Manchester United hit rock bottom last season and things cannot get any worse. Ending up 15th in the Premier League resulted in many executives, fans and players waking up in a cold sweat. Expectations within the fanbase are impressively low, not knowing what to expect from a team that stumbled through an entire campaign. There is no European distraction for Ruben Amorim, allowing him plenty of time on the training ground to get his ideas across.\n\nWhat actually happened: Amorim never did get his ideas across and United sacked him in January, just in time to save their season. They picked up 29 more points this season than last season but that upward swing was entirely due to Michael Carrick and his coaching staff, who revived the team and given the fans hope.\n\nWhat we predicted:There were plenty of positives last season, chiefly the continued emergence of Morgan Rogers and the consistent class of Youri Tielemans behind him in midfield, yet it was a campaign tinged with disappointment. Villa missed out on qualifying for the Champions League on goal difference and Unai Emery’s hunt for silverware goes on.\n\nWhat actually happened: Villa qualified for the Champions League with ease and won the Europa League in style. Goals from Youri Tielemans, Emiliano Buendía and Morgan Rogers against Freiburg in the final landed Villa their first trophy since they won the League Cup in 1996. A great season all round.",
             "author": "The Guardian Football Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -152,12 +152,12 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
             "bullets": [
-              "Alexander Isak Set for “Pre-Season” with Swedish National Team&nbsp;&nbsp;The Liverpool Offside",
+              "Alexander Isak Set for “Pre-Season” with Swedish National Team",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Alexander Isak Set for “Pre-Season” with Swedish National Team&nbsp;&nbsp;The Liverpool Offside",
-            "fullText": "Alexander Isak Set for “Pre-Season” with Swedish National Team&nbsp;&nbsp;The Liverpool Offside",
+            "summary": "Alexander Isak Set for “Pre-Season” with Swedish National Team",
+            "fullText": "Alexander Isak Set for “Pre-Season” with Swedish National Team",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -173,8 +173,8 @@ const DYNAMIC_HUB_DATA = {
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought&nbsp;&nbsp;VAVEL.com",
-            "fullText": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought&nbsp;&nbsp;VAVEL.com",
+            "summary": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought",
+            "fullText": "Blågult on the brink: Sweden's UEFA Women's Euro 2025 preview as they aim to end 41-year drought",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -186,12 +186,12 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals - UEFA.com",
             "bullets": [
-              "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals&nbsp;...",
+              "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals ...",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals&nbsp;&nbsp;UEFA.com",
-            "fullText": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals&nbsp;&nbsp;UEFA.com",
+            "summary": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals",
+            "fullText": "Poland 0-3 Sweden highlights: Hat-trick of headers send Blågult to Women's EURO quarter-finals",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -207,8 +207,8 @@ const DYNAMIC_HUB_DATA = {
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025&nbsp;&nbsp;UEFA.com",
-            "fullText": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025&nbsp;&nbsp;UEFA.com",
+            "summary": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025",
+            "fullText": "Denmark 0-1 Sweden highlights: Filippa Angeldahl earns Blågult hard-fought win at UEFA Women's EURO 2025",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -220,12 +220,12 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Graham Potter replaces Tomasson as head coach of Swedish national team - Flashscore.com",
             "bullets": [
-              "Graham Potter replaces Tomasson as head coach of Swedish national team&nbsp;&nbsp;Flashscore.com",
+              "Graham Potter replaces Tomasson as head coach of Swedish national team",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Graham Potter replaces Tomasson as head coach of Swedish national team&nbsp;&nbsp;Flashscore.com",
-            "fullText": "Graham Potter replaces Tomasson as head coach of Swedish national team&nbsp;&nbsp;Flashscore.com",
+            "summary": "Graham Potter replaces Tomasson as head coach of Swedish national team",
+            "fullText": "Graham Potter replaces Tomasson as head coach of Swedish national team",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -237,12 +237,12 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story' - Flashscore.com",
             "bullets": [
-              "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'&nbsp;&nbsp;Flashs...",
+              "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'&nbsp;&nbsp;Flashscore.com",
-            "fullText": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'&nbsp;&nbsp;Flashscore.com",
+            "summary": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
+            "fullText": "Swedish national team coach Tomasson defends Isak: 'We don't know the whole story'",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -258,8 +258,8 @@ const DYNAMIC_HUB_DATA = {
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration&nbsp;&nbsp;OneFootball",
-            "fullText": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration&nbsp;&nbsp;OneFootball",
+            "summary": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration",
+            "fullText": "From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -271,12 +271,12 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Svensson retires from Swedish national team - Sportsnet",
             "bullets": [
-              "Svensson retires from Swedish national team&nbsp;&nbsp;Sportsnet",
+              "Svensson retires from Swedish national team",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Svensson retires from Swedish national team&nbsp;&nbsp;Sportsnet",
-            "fullText": "Svensson retires from Swedish national team&nbsp;&nbsp;Sportsnet",
+            "summary": "Svensson retires from Swedish national team",
+            "fullText": "Svensson retires from Swedish national team",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -292,8 +292,8 @@ const DYNAMIC_HUB_DATA = {
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender&nbsp;&nbsp;The Peoples Person",
-            "fullText": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender&nbsp;&nbsp;The Peoples Person",
+            "summary": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender",
+            "fullText": "Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -305,12 +305,12 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "The Swedish Seven – Celts and Blågult - The Celtic Star",
             "bullets": [
-              "The Swedish Seven – Celts and Blågult&nbsp;&nbsp;The Celtic Star",
+              "The Swedish Seven – Celts and Blågult",
               "Reported live by Google News Sweden.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
-            "summary": "The Swedish Seven – Celts and Blågult&nbsp;&nbsp;The Celtic Star",
-            "fullText": "The Swedish Seven – Celts and Blågult&nbsp;&nbsp;The Celtic Star",
+            "summary": "The Swedish Seven – Celts and Blågult",
+            "fullText": "The Swedish Seven – Celts and Blågult",
             "author": "Google News Sweden Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
