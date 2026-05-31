@@ -249,6 +249,31 @@ h1, h2, h3, h4, h5 {
   box-shadow: inset 0 0 15px rgba(0, 106, 167, 0.1);
 }
 
+/* World Cup Trophy flanking countdown */
+.countdown-trophy {
+  height: 52px;
+  width: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 0 8px rgba(255, 190, 11, 0.4));
+  animation: trophy-glow 3s ease-in-out infinite alternate;
+  flex-shrink: 0;
+}
+
+.countdown-trophy-left {
+  transform: scaleX(-1);
+}
+
+@keyframes trophy-glow {
+  0% { filter: drop-shadow(0 0 6px rgba(255, 190, 11, 0.3)); }
+  100% { filter: drop-shadow(0 0 14px rgba(255, 190, 11, 0.6)); }
+}
+
+@media (max-width: 600px) {
+  .countdown-trophy {
+    height: 36px;
+  }
+}
+
 .countdown-box {
   display: flex;
   flex-direction: column;
