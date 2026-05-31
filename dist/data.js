@@ -108,23 +108,6 @@ const DYNAMIC_HUB_DATA = {
         "name": "Breakfast Camp Report",
         "articles": [
           {
-            "id": "crawled_4246_0",
-            "category": "england",
-            "type": "News",
-            "title": "Seagulls fans flock to Wembley for FA Cup final",
-            "bullets": [
-              "Fans head to London before Brighton & Hove Albion take on Man City in the Women's FA Cup final.",
-              "Reported live by BBC Sport.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "Fans head to London before Brighton & Hove Albion take on Man City in the Women's FA Cup final.",
-            "fullText": "Anticipation is building as Brighton & Hove Albion fans head to Wembley for the Women's FA Cup final.",
-            "author": "BBC Sport Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
             "id": "crawled_4247_1",
             "category": "england",
             "type": "News",
@@ -324,23 +307,6 @@ const DYNAMIC_HUB_DATA = {
             "summary": "Thomas Tuchel has placed great faith in John Stones and Djed Spence while ignoring several star names in attackThomas Tuchel said that whittling down his 55-player longlist gave him “a certain edge”. There were some tough phone calls and some decisions inevitably caused outrage. But there was a pointed remark from Tuchel about how creating a winning team is not necessarily “to select the most talented 26 players”. The aim since September has been to build a brotherhood; Tuchel knows maintaining harmony within the camp will be crucial given that England hope to be together for seven weeks. “We have 26 players who know their role, who are committed to the idea of team spirit and being unselfish,” the German said. Was there a message to Harry Maguire after the defender aired his grievances at being overlooked? “I think it was not necessary,” Tuchel said of Maguire’s decision to go public. Continue reading...",
             "fullText": "Thomas Tuchel has placed great faith in John Stones and Djed Spence while ignoring several star names in attack",
             "author": "The Guardian Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4305_13",
-            "category": "england",
-            "type": "News",
-            "title": "Youthful Wigan surpass St Helens in clear power shift – 'Change is coming at Saints'",
-            "bullets": [
-              "For four years in a row between 2021 and 2024, St Helens experienced Women's Challenge Cup glory. In...",
-              "Reported live by Sky Sports Football.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "For four years in a row between 2021 and 2024, St Helens experienced Women's Challenge Cup glory. In the two years since, though, Wigan Warriors have dispatched Saints in two Wembley finals.",
-            "fullText": "Georgia Wilson, Eva Hunter (four), Beri Salihi, Anna Davies (two), Grace Banks, Remi Wilton score tries as Wigan Warriors demolish St Helens in 2026 Women's Challenge Cup final at Wembley;watch every game of Super League live on Sky Sports this season",
-            "author": "Sky Sports Football Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []
