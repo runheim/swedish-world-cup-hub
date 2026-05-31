@@ -7,7 +7,6 @@ const DYNAMIC_HUB_DATA = {
     "⚽ The message: Emil Holm misses the WC",
     "⚽ Örgryte recovered 0–2 after Noah Christoffersson's first two Allsvenskan goals",
     "⚽ Alexander Isak talks about the injury: \"A scary experience\"",
-    "⚽ Unusually many diamond weddings – Barbro and Lennart celebrate 60 years of marriage",
     "⚽ Norway's sensation a fact - ready for historic WC semi-final",
     "⚽ Premier League 2025-26 season review: our predictions v reality",
     "⚽ Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
@@ -90,23 +89,6 @@ const DYNAMIC_HUB_DATA = {
             ],
             "summary": "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ruined large parts of the season. - It was a scary experience, says Isak at today's speed dating interview where SVT Sport was involved.",
             "fullText": "Alexander Isak spoke in more detail today about the severe leg injury he suffered in December and ruined large parts of the season.\n\n- It was a scary experience, says Isak at today's speed dating interview where SVT Sport was involved.\n\nLiverpool's record signing was injured in a game against Tottenham just before Christmas in the same sequence he scored. As he put the ball into the goal, he was tackled by Tottenham defender Micky van de Ven and suffered a fractured ankle.\n\nThis meant that he missed the playoff matches against Ukraine and Poland, which took Sweden to the WC at the end of March.\n\n- It was a complicated injury and I noticed quite quickly that it had been too early to play then, says Isak.\n\nIt was injured Isak's first operation after an injury.\n\n- I don't like watching injury videos, says Isak and explains in the clip above why he watched the sequence that injured him so badly after all.\n\nIsak is now training with the aim of taking a place in the team.\n\n- I feel well but have had some injury concerns. The important thing is that I arrive in good condition for the World Cup premiere, says Isak, who will probably play both international matches against Norway and Greece on June 1 and 4.",
-            "author": "SVT Sport Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          },
-          {
-            "id": "crawled_4448_4",
-            "category": "sweden",
-            "type": "News",
-            "title": "Unusually many diamond weddings – Barbro and Lennart celebrate 60 years of marriage",
-            "bullets": [
-              "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy ...",
-              "Reported live by SVT Sport.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy year for weddings. Lennart and Barbro Svensson from Molkom have been married for 60 years in July. - We will probably celebrate it as a family, says Barbro Svensson.",
-            "fullText": "This year, extra people can celebrate diamond weddings in Sweden because 1966 was an unusually busy year for weddings. Lennart and Barbro Svensson from Molkom have been married for 60 years in July.\n\n- We will probably celebrate it as a family, says Barbro Svensson.\n\nAccording to the central statistical office, SCB, one of the reasons why so many can celebrate their 60th wedding anniversary this year is that we are living longer.\n\nLennart and Barbro Svensson have almost been married for 60 years, but the first time they met Barbro was only 13 years old.\n\n- He had a motorcycle, a big motorcycle. A tough guy, she says.\n\nAccording to Barbro Svensson, the key to a long marriage is showing each other respect.\n\n- You have to take each other into consideration and balance a little, she says.\n\n- I'm sure we've had different opinions at times, but then we've taken a walk and that's how it's resolved, says Lennart Svensson.\n\nAnd despite the fact that 70 years have passed since the couple first met, they still enjoy each other.",
             "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",

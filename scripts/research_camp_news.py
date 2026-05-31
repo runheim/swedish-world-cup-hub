@@ -156,14 +156,28 @@ if crawled_news:
         title_lower = item["title"].lower()
         desc_lower = item["desc"].lower()
         
+        # Negative keywords — reject articles that are clearly not soccer
+        is_excluded = any(neg in title_lower or neg in desc_lower for neg in [
+            "wedding", "bröllop", "diamond wedding", "married", "marriage", "birthday",
+            "obituary", "died", "funeral", "recipe", "cooking", "weather forecast",
+            "election", "parliament", "riksdag", "crime", "murder", "robbery",
+            "stock market", "börsen", "real estate", "housing", "apartment",
+            "covid", "pandemic", "hospital", "cancer", "surgery",
+            "tv show", "reality", "melodifestivalen", "eurovision",
+            "traffic accident", "car crash"
+        ])
+        
+        if is_excluded:
+            continue
+        
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
             # Team & manager
             "blågult", "landslaget", "svenska herrlandslaget", "svensk fotboll", "graham potter",
-            "potter", "björn hamberg",
-            # Squad players (26-man roster surnames)
-            "johansson", "nordfeldt", "zetterström", "ekdal", "gudmundsson", "hien",
+            "björn hamberg",
+            # Squad players (26-man roster — use full names where surname is common)
+            "robin johansson", "nordfeldt", "zetterström", "ekdal", "gudmundsson", "hien",
             "emil holm", "lagerbielke", "lindelöf", "lindelof", "eric smith", "starfelt",
-            "stroud", "svensson", "ayari", "bergvall", "karlström", "nygren", "sema",
+            "stroud", "mattias svensson", "ayari", "bergvall", "karlström", "nygren", "sema",
             "svanberg", "zeneli", "taha ali", "bernhardsson", "elanga", "gyökeres",
             "isak", "gustaf nilsson", "kulusevski",
             # Swedish football terms
