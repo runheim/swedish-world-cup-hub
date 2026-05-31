@@ -150,6 +150,18 @@ if crawled_news:
     for item in crawled_news:
         title_lower = item["title"].lower()
         desc_lower = item["desc"].lower()
+        # Negative keywords — reject articles that are clearly not soccer
+        is_excluded = any(neg in title_lower or neg in desc_lower for neg in [
+            "wedding", "married", "marriage", "birthday", "obituary", "died",
+            "funeral", "recipe", "cooking", "weather forecast", "election",
+            "parliament", "congress", "crime", "murder", "robbery",
+            "stock market", "real estate", "housing", "apartment",
+            "covid", "pandemic", "hospital", "cancer", "surgery",
+            "tv show", "reality", "bachelor", "traffic accident", "car crash"
+        ])
+        
+        if is_excluded:
+            continue
         
         is_relevant = any(kw in title_lower or kw in desc_lower for kw in [
             # Team & manager
