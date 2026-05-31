@@ -3,109 +3,107 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ 'Matured' Reyna tired of talking WC controversy",
     "⚽ Why is the USMNT playing meaningless friendlies ri...",
-    "⚽ Mauricio Pochettino in talks with Milan over head coach’s role as US open World Cup camp",
-    "⚽ U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026 - US Soccer",
-    "⚽ Andrew Rick heading to the World Cup as USMNT training goalkeeper - Philadelphia Union",
-    "⚽ How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty - Yahoo Sports",
-    "⚽ What's the goal of USMNT's pre-World Cup friendlies? - ESPN",
-    "⚽ USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad? - NBC Sports",
+    "⚽ USA World Cup 2026 team guide",
+    "⚽ How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina - US Soccer",
+    "⚽ Tim Ream named USMNT captain; Chris Richards a World Cup doubt - ESPN",
+    "⚽ USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups - Forbes",
     "⚽ The Only Correct Way to React to the USMNT Roster Announcement - Minnesota United FC",
-    "⚽ USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic - The New York Times",
-    "⚽ USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal - Stars and Stripes FC",
-    "⚽ The Unique Reason Why Brenden Aaronson Missed USMNT Training Days Before World Cup Tune Up - Sports Illustrated",
-    "⚽ USMNT at the World Cup: All-time results, stats - ESPN",
-    "⚽ USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more - Yahoo Sports",
-    "⚽ U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City - US Soccer",
+    "⚽ USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups - Sports Illustrated",
+    "⚽ 2026 World Cup Friendlies - Previewing USMNT vs. Senegal - Stars and Stripes FC",
+    "⚽ Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
+    "⚽ USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt - Yahoo Sports",
     "⚽ Four Philadelphia Union Alumni named to USMNT World Cup Roster - Philadelphia Union",
-    "⚽ Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic - The New York Times",
+    "⚽ U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026 - US Soccer",
     "⚽ Pochettino: Committed to USMNT at World Cup despite Milan talks - ESPN",
-    "⚽ Meet the Team: USMNT Roster For FIFA World Cup 2026 - US Soccer",
+    "⚽ Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino - Forbes",
+    "⚽ How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty - Yahoo Sports",
+    "⚽ USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do? - The New York Times",
+    "⚽ USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026 - US Soccer",
     "⚽ USMNT names 2026 World Cup roster after leaks - ESPN",
-    "⚽ How To Watch &amp; Live Stream: USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City - US Soccer",
-    "⚽ USMNT's final World Cup roster has Pochettino taking risks - ESPN",
-    "⚽ Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot - ESPN",
-    "⚽ Photos | 2026 USMNT World Cup Roster Reveal - New York City FC",
-    "⚽ Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29 - US Soccer",
-    "⚽ Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic - The New York Times",
-    "⚽ Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup - NBC 6 South Florida",
-    "⚽ USMNT World Cup roster officially revealed - Stars and Stripes FC",
-    "⚽ The USMNT have a chance to inspire a nation at the World Cup - Stars and Stripes FC",
-    "⚽ Brenden Aaronson misses USMNT World Cup training for good reason: His wedding - The Athletic - The New York Times",
-    "⚽ USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic - The New York Times",
-    "⚽ 26 USMNT Moments, Past to Present: Against All Odds - US Soccer",
-    "⚽ 2026 World Cup Group D preview: USMNT embarks on historic journey - Stars and Stripes FC",
-    "⚽ ‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster - Sports Illustrated",
-    "⚽ From Donovan to Harkes, USMNT's most stunning World Cup snubs ever - ESPN",
-    "⚽ USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic - The New York Times",
-    "⚽ USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic - The New York Times",
-    "⚽ USMNT World Cup tune-ups: can Pulisic end his drought and who is Pochettino’s super-sub? - The Guardian",
-    "⚽ Mauricio Pochettino Grows Defensive, Heated Following USMNT World Cup Roster Reveal - Sports Illustrated",
-    "⚽ USMNT’s Predicted World Cup Lineup Following Roster Reveal - Sports Illustrated",
-    "⚽ Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 - Seattle Sounders FC",
-    "⚽ How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic - The New York Times",
-    "⚽ Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out - CBS Sports",
-    "⚽ USMNT snubs? Tanner Tessmann, Diego Luna among notable names left off official U.S. 2026 World Cup roster - Yahoo Sports",
-    "⚽ USMNT World Cup roster news: Gio Reyna called in, Diego Luna out; more Pochettino squad decisions - The Athletic - The New York Times",
-    "⚽ Pochettino: 'Special' Pulisic will end goal drought at World Cup - ESPN",
-    "⚽ USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad - USA Today",
-    "⚽ USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule - Sports Illustrated",
-    "⚽ USMNT boss Mauricio Pochettino could head back to Europe - Atlanta News First",
-    "⚽ REPORTS: Mauricio Pochettino Eyes AC Milan - Morning Footy Stream of Soccer - CBS Sports",
-    "⚽ USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic - The New York Times",
-    "⚽ ‘Trying So Hard’—Mauricio Pochettino Makes World Cup Guarantee for Christian Pulisic - Sports Illustrated",
-    "⚽ Birmingham native Chris Richards named to USMNT 2026 World Cup roster - Bham Now",
-    "⚽ USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report - CBS Sports",
-    "⚽ USMNT roster watch: As World Cup camp opens, optimism comes with a layer of murkiness - Yahoo Sports",
-    "⚽ For USMNT’s Gio Reyna, four years have made difference - Field Level Media",
-    "⚽ Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster - Charlotte FC",
-    "⚽ When is USMNT 2026 World Cup roster announced? Time and how to watch - USA Today",
-    "⚽ USMNT’s Gio Reyna: ‘Literally tiring’ to keep facing questions about 2022 World Cup saga - New York Post",
-    "⚽ REPLAY | USMNT Roster Reveal Reaction Show - Philadelphia Union",
-    "⚽ USMNT midfielder Brenden Aaronson misses World Cup training to get married - USA Today",
-    "⚽ Gio Reyna focused on current World Cup, not past USMNT controversy - SBI Soccer - SBI Soccer",
-    "⚽ Columbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup - Columbus Crew",
-    "⚽ Sources: Reyna in, Tessmann out as USMNT names World Cup squad - ESPN",
-    "⚽ How to watch USMNT vs Senegal live: international friendly stream, TV channel, team news, prediction - NBC Sports",
-    "⚽ USMNT star Gio Reyna shuts down 2022 drama with clear mindset for 2026 World Cup - Yahoo Sports",
-    "⚽ Sebastian Berhalter had the burden of being a coach’s kid, but he earned his USMNT World Cup ticket - Inquirer.com",
-    "⚽ Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal - Sports Illustrated",
-    "⚽ Alex Zendejas is the USMNT's good vibes guy making his case for a surprise World Cup showing - CBS Sports",
-    "⚽ USMNT boss Mauricio Pochettino addresses AC Milan links as World Cup nears - Yahoo Sports",
+    "⚽ 26 USMNT Moments, Past to Present: Quarterfinal Glory - US Soccer",
     "⚽ Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center - US Soccer",
-    "⚽ Where do the USMNT's World Cup stars play professionally? Here are their clubs - NBC 5 Chicago",
-    "⚽ For Mauricio Pochettino, picking the World Cup team was ‘painful’ — and unlike anything in his career - Inquirer.com",
-    "⚽ Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022 - Bleacher Report",
-    "⚽ Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks - Front Office Sports",
-    "⚽ Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up - Seattle Sounders FC",
-    "⚽ Vazquez, Joyner, Medina headline USMNT U-20 June roster - SBI Soccer - SBI Soccer",
-    "⚽ Chemistry Coming Together as Training Kicks Off for USMNT - US Soccer",
-    "⚽ After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
-    "⚽ Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad? - USA Today",
-    "⚽ Who could make the USMNT's starting XI? - Atlanta News First",
+    "⚽ Meet the Team: USMNT Roster For FIFA World Cup 2026 - US Soccer",
+    "⚽ U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City - US Soccer",
+    "⚽ How To Watch &amp; Live Stream: USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City - US Soccer",
+    "⚽ Aaronson gets leave from USMNT World Cup camp for his wedding - ESPN",
+    "⚽ Chris Richards now an injury question mark in major USMNT World Cup worry - New York Post",
+    "⚽ The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth - revolutionsoccer.net",
+    "⚽ USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic - The New York Times",
+    "⚽ USMNT's final World Cup roster has Pochettino taking risks - ESPN",
+    "⚽ USMNT possible starting XI vs Senegal in pre-World Cup friendly - Diario AS",
+    "⚽ USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more - CBS Sports",
+    "⚽ Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic - The New York Times",
+    "⚽ Andrew Rick heading to the World Cup as USMNT training goalkeeper - Philadelphia Union",
+    "⚽ Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot - ESPN",
+    "⚽ Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic - The New York Times",
+    "⚽ USMNT's Pulisic unfazed by scoreless slump ahead of World Cup - ESPN",
+    "⚽ Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’ - Inquirer.com",
+    "⚽ What's the goal of USMNT's pre-World Cup friendlies? - ESPN",
+    "⚽ USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal - Stars and Stripes FC",
+    "⚽ Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times",
+    "⚽ Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026 - US Soccer",
+    "⚽ USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more - Yahoo Sports",
+    "⚽ USMNT World Cup roster confirmed: Zendejas in as Luna, Tessmann and Morris miss out - The Guardian",
+    "⚽ USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic - The New York Times",
+    "⚽ Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup - MLSsoccer.com",
+    "⚽ USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic - The New York Times",
+    "⚽ Three Questions the USMNT Have to Answer Before the World Cup - Sports Illustrated",
+    "⚽ Tim Ream to captain USMNT at World Cup - Stars and Stripes FC",
+    "⚽ Who Is USMNT’s World Cup Captain—And Why Is it a Secret? - Sports Illustrated",
+    "⚽ How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic - The New York Times",
+    "⚽ USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic - The New York Times",
+    "⚽ Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true' - Yahoo Sports",
+    "⚽ Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out - CBS Sports",
     "⚽ USMNT arrives in metro Atlanta ahead of FIFA World Cup - WSB-TV",
+    "⚽ Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 - Seattle Sounders FC",
+    "⚽ From Donovan to Harkes, USMNT's most stunning World Cup snubs ever - ESPN",
+    "⚽ Tim Ream named USMNT captain for World Cup: 'The leader that we want' - USA Today",
+    "⚽ USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report - CBS Sports",
+    "⚽ USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad - USA Today",
+    "⚽ Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup - NBC Los Angeles",
+    "⚽ USMNT Strikers Enter Senegal Matchup Eager to Score on Biggest Stage - Yahoo Sports Canada",
+    "⚽ Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star - WFIN",
+    "⚽ USMNT vs. Senegal friendly prediction, start time, how to watch - USA Today",
+    "⚽ ‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster - Sports Illustrated",
+    "⚽ Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it - New York Post",
+    "⚽ Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster - Charlotte FC",
+    "⚽ Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad? - Yahoo Sports",
+    "⚽ USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule - Sports Illustrated",
+    "⚽ When is USMNT 2026 World Cup roster announced? Time and how to watch - USA Today",
+    "⚽ REPLAY | USMNT Roster Reveal Reaction Show - Philadelphia Union",
+    "⚽ Pochettino: 'Special' Pulisic will end goal drought at World Cup - ESPN",
+    "⚽ Meet the 26 Players Who Will Star for the USMNT at 2026 World Cup - Sports Illustrated",
+    "⚽ Chemistry Coming Together as Training Kicks Off for USMNT - US Soccer",
+    "⚽ USMNT Captain For 2026 World Cup Officially Revealed - Yahoo Sports Canada",
+    "⚽ Columbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup - Columbus Crew",
+    "⚽ Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic - The New York Times",
+    "⚽ The three USMNT players who will define success or failure in historic World Cup with $50m reward - talkSPORT",
+    "⚽ Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic - Yahoo Sports",
+    "⚽ USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad? - NBC Sports",
+    "⚽ Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ... - World Soccer Talk",
+    "⚽ After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
+    "⚽ Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29 - US Soccer",
+    "⚽ The USMNT have a chance to inspire a nation at the World Cup - Stars and Stripes FC",
+    "⚽ Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury - CBS Sports",
+    "⚽ Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup - MARCA",
+    "⚽ USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic - The New York Times",
     "⚽ U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
-    "⚽ Arfsten to Turner: Every MLS player on USMNT's World Cup roster - MLSsoccer.com",
-    "⚽ USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster - US Soccer",
-    "⚽ USMNT World Cup expectations &amp; ASU Football updates | FOX 10 Sports Exchange - FOX 10 Phoenix",
-    "⚽ Full-length Replay: 2026 FIFA World Cup™ superlatives, Mauricio Pochettino to AC Milan, UCL final preview and more - FOX Sports",
-    "⚽ Mauricio Pochettino discusses USMNT roster flexibility - Yahoo Sports",
-    "⚽ World Cup 2026: Mauricio Pochettino’s USMNT squad – in pictures - The Guardian",
-    "⚽ Stu Holden Backs Mauricio Pochettino After Diego Luna Omission: ‘Zendejas Is a Better Player’ - Yahoo Sports",
-    "⚽ How to Watch USMNT 2026 World Cup Roster Reveal - Sports Illustrated",
-    "⚽ 26 USMNT Moments, Past to Present: Dos a Cero - US Soccer",
-    "⚽ USMNT coach Mauricio Pochettino insists he's focused on World Cup prep, despite interest from AC Milan and others - Yahoo Sports",
-    "⚽ Why didn't Diego Luna make USMNT World Cup roster? - USA Today",
-    "⚽ USMNT head coach Mauricio Pochettino lashes out at the Milan rumors: “They just want to cause trouble” - MARCA",
-    "⚽ ‘100%’—U.S. Soccer Sends Firm Response to Mauricio Pochettino’s Milan Meeting - Sports Illustrated",
-    "⚽ 'Diabolical' — Ex-USMNT striker slams Pochettino for email roster rejection - USA Today",
+    "⚽ Where do the USMNT's World Cup stars play professionally? Here are their clubs - NBC 5 Chicago",
+    "⚽ Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up - Seattle Sounders FC",
+    "⚽ Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks - Front Office Sports",
     "⚽ Around the game (USMNT edition) - Soccer America",
-    "⚽ Sebastian Berhalter out to carve his own path with USMNT two years after dad’s ouster - New York Post",
-    "⚽ 'Matured' Gio Reyna tired of discussing World Cup controversy - ESPN",
-    "⚽ Aaronson to Zendejas: Every MLS export on USMNT's World Cup roster - MLSsoccer.com",
-    "⚽ USMNT’s Mauricio Pochettino already talking next job in potential World Cup distraction - Yahoo Sports",
-    "⚽ Mauricio Pochettino’s USMNT World Cup squad is official after 19 months of evaluation - Yahoo Sports"
+    "⚽ 2026 World Cup Group D preview: USMNT embarks on historic journey - Stars and Stripes FC",
+    "⚽ Photos | 2026 USMNT World Cup Roster Reveal - New York City FC",
+    "⚽ HE’S THE SKIPPER: Ream named USMNT captain for the World Cup - Front Row Soccer",
+    "⚽ Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup - ESPN",
+    "⚽ Sources: Reyna in, Tessmann out as USMNT names World Cup squad - ESPN",
+    "⚽ Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal - Sports Illustrated",
+    "⚽ Arfsten to Turner: Every MLS player on USMNT's World Cup roster - MLSsoccer.com",
+    "⚽ 26 USMNT Moments, Past to Present: Dos a Cero - US Soccer",
+    "⚽ 26 USMNT Moments, Past to Present: Against All Odds - US Soccer",
+    "⚽ USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster - US Soccer",
+    "⚽ Tim Ream named as captain of USMNT for 2026 World Cup - MSN"
   ],
   "timeline": {
     "2026-05-30": {
@@ -1866,10 +1864,1735 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-05-31": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1549_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Why is the USMNT playing meaningless friendlies ri...",
+            "bullets": [
+              "Before the USMNT starts the World Cup, the Americans will play two friendlies: Why add meaningless g...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before the USMNT starts the World Cup, the Americans will play two friendlies: Why add meaningless games to their busy summer?",
+            "fullText": "The biggestFIFA World Cupin history is less than two weeks away. Over the course of 39 days, 103 crucial games -- and one meaningless third-place game -- will be played en route to deciding a global champion.\n\nThe stakes are high. So, what better way to lead into the festivities than with ... a bunch of friendly games that don't matter?\n\nLike the nations flying to its shores, theUnited States men's national teamwill play a pair of friendlies just before the World Cup begins: the USMNT faceSenegalon May 31 and thenGermanyon June 6.\n\nThe results won't count for anything. No points will hit the board for the USMNT until its group stage campaign begins againstParaguayoutside Los Angeles on June 12.\n\nSo, then, what's the point of these friendlies that sit on the schedule just before the World Cup? Are they needless distractions and just added risk of players getting injured -- or valuable exercises to prepare for the tournament ahead?\n\nWell, for one thing, national teams play World Cup tuneups because FIFA says they can.\n\nWith clubs on the hook to pay player salaries, FIFA only obligates them to release players for national team duty in select international windows, and national teams have precious few opportunities to get together throughout the year. Based onFIFA's men's international match calendar, there were only five such windows available for every nation in 2025. Before this summer, there were just two allotted for 2026.\n\nThe scarcity of national team games sets the stage for why all parties involved -- from sponsors to performance staffers and coaches -- are eager to see two games on the calendar before the World Cup even starts.\n\nWith national teams engaged in sponsorship agreements and committed to media broadcast deals with rights holders, ensuring games happen as often as possible is crucial for federations around the world. The USMNT's upcoming friendly with Senegal? That's not just any friendly. It's the \"Allstate Continental Clasico,\" thank you very much. It will be televised on the platforms the U.S. Soccer Federation has signed lucrative rights deals with, too -- according to theSports Business Journal, U.S. Soccer nets around $25 million for their English television rights.\n\nIn other words, pre-World Cup friendlies help fund the federation, which has more than a pair of senior national teams -- there are also extended national teams, youth national teams, employees, and other expenses -- to budget for. These friendlies, then, are good for the bank account.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1550_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USA World Cup 2026 team guide",
+            "bullets": [
+              "&lt;p&gt;Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;p&gt;Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify fans’ considerable outlay on tickets&lt;/p&gt;&lt;p&gt;&lt;em&gt;This article is part of the Guardian’s &lt;a href=\"https://www.theguardian.com/football/series/world-cup-2026-guardian-experts-network\"&gt;2026 World Cup Experts’ Network&lt;/a&gt;, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.&lt;/em&gt;&lt;/p&gt; &lt;a href=\"https://www.theguardian.com/football/2026/may/31/usa-world-cup-2026-team-guide\"&gt;Continue reading...&lt;/a&gt;",
+            "fullText": "Optimism is not high for Mauricio Pochettino’s co-hosts, who are under pressure to justify fans’ considerable outlay on tickets\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nHost nations get a direct runway to the tournament field, but a qualifying campaign would have likely helped clarify the USA’s ideal approach.\n\nWhile Mauricio Pochettino has overseen immense tactical fluctuation throughout his half-cycle in charge, the aim is always to retain at least shared custody of proceedings. The USA had about 60% of possession against lower-ranked opponents such as Paraguay, Australia, and Ecuador last autumn, while clashes with presumed favorites (recently: Uruguay, Japan, and Belgium) saw closer to a 50/50 split. Pochettino’s longtime penchant for high pressing has largely been absent in this role, instead focusing on establishing a mid-block defense to try limiting the opponent’s final-third touches.\n\nIn possession, the USA works to string passing sequences up the channel, recently utilising a pair of attacking midfielders and a double-pivot behind them to better navigate the middle of the park. Width almost entirely falls on full-backs or wingbacks, with midfielders occasionally drifting off-center to create numerical advantages.\n\n12 Junev Paraguay, Los Angeles (6pm local, 13 June 2am  BST, 13 June 11am AEST)\n\n19 Junev Australia, Seattle (noon local, 8pm BST, 20 June 5am AEST)\n\n25 Junev Turkey, Los Angeles (7pm local, 26 June 3am  BST, 26 June noon AEST)\n\nDespite a thin center-back corps, Pochettino saw great success with a back three and wingbacks last fall … only to revert to a 4-2-3-1 ina disastrous 5-2 thrashingagainst Belgium in March.\n\nBoth formations largely operate the same, with a 3-2-5 in possession and a 4-4-2 or 5-3-2 when defending. It’s a classic predicament of personnel: will Pochettino get his team in its best structure with five defenders (the 5-1 win over Uruguay), or get more of his best players on the pitch in spite of the tactical ramifications (the Belgium bummer)?",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1551_2",
+            "category": "usa",
+            "type": "News",
+            "title": "How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0x1Q2VPNm94Q3pyNnNxVHZ1Q0xrTm1uSjZ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0x1Q2VPNm94Q3pyNnNxVHZ1Q0xrTm1uSjZqLXcxa1FMUzJmRG9UeGtPRHc1amVBQ2Jld1d1LWRkSV92QmFGcWg4VlE0MzROY1ZIYWlFVDZub285aktnSVJjRTE0YXVsazkzZGpSdkJZYzlBTkhEWU5ONGF1SVhNT2VMSGpQMGo0MUpCWmNndERPcVMzalBibVNUbjEzXzNhQ3A0WUV3OEFrS2tQVFNyZjVuTHRmdEU?oc=5\" target=\"_blank\"&gt;How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNN0x1Q2VPNm94Q3pyNnNxVHZ1Q0xrTm1uSjZqLXcxa1FMUzJmRG9UeGtPRHc1amVBQ2Jld1d1LWRkSV92QmFGcWg4VlE0MzROY1ZIYWlFVDZub285aktnSVJjRTE0YXVsazkzZGpSdkJZYzlBTkhEWU5ONGF1SVhNT2VMSGpQMGo0MUpCWmNndERPcVMzalBibVNUbjEzXzNhQ3A0WUV3OEFrS2tQVFNyZjVuTHRmdEU?oc=5\" target=\"_blank\"&gt;How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1552_3",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream named USMNT captain; Chris Richards a World Cup doubt - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUxGV0MxLXJTazZsY21nQ3gxQzBjTTZVc1V...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUxGV0MxLXJTazZsY21nQ3gxQzBjTTZVc1VTQnB4bUFKVGItRUd0RVFpZTRCa1VqOUFUNm9pYlpoNW1Rc1pNaHgwWHd0UDVwc3RJYUlvWEI5OGRVdmZXNUR0aVdaMkdsMDlIelRHUTJ2ckZoYTljVkhnMzdMRm1zM3FEeGZjYndNVmhtUjg3aXJieHFseWc?oc=5\" target=\"_blank\"&gt;Tim Ream named USMNT captain; Chris Richards a World Cup doubt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQWUxGV0MxLXJTazZsY21nQ3gxQzBjTTZVc1VTQnB4bUFKVGItRUd0RVFpZTRCa1VqOUFUNm9pYlpoNW1Rc1pNaHgwWHd0UDVwc3RJYUlvWEI5OGRVdmZXNUR0aVdaMkdsMDlIelRHUTJ2ckZoYTljVkhnMzdMRm1zM3FEeGZjYndNVmhtUjg3aXJieHFseWc?oc=5\" target=\"_blank\"&gt;Tim Ream named USMNT captain; Chris Richards a World Cup doubt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1554_4",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups - Forbes",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORW1TVGE2djcxR0JDVVZWOWlHRDZGTGRHbUt...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORW1TVGE2djcxR0JDVVZWOWlHRDZGTGRHbUt2aUdadzl6clA3cnBiUWM4dDBsVjE2MDZla3M0ZFlsSnZRSHNZSEdFMHk5cGo2dnV6WlRweTVSZ1UxOHRlRGtIZGc3VXgxY3JaX2dhb21xYnpReENsZGhja3E3ZFFyM3pvQTNhcENuemVveExLbHF4Q1B1WVNZc21SXzZlN1BpQ0pza01XWmpzOVVZOWZZS04wQmNfbXM?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxORW1TVGE2djcxR0JDVVZWOWlHRDZGTGRHbUt2aUdadzl6clA3cnBiUWM4dDBsVjE2MDZla3M0ZFlsSnZRSHNZSEdFMHk5cGo2dnV6WlRweTVSZ1UxOHRlRGtIZGc3VXgxY3JaX2dhb21xYnpReENsZGhja3E3ZFFyM3pvQTNhcENuemVveExLbHF4Q1B1WVNZc21SXzZlN1BpQ0pza01XWmpzOVVZOWZZS04wQmNfbXM?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1555_5",
+            "category": "usa",
+            "type": "News",
+            "title": "The Only Correct Way to React to the USMNT Roster Announcement - Minnesota United FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGpycHM3dkV6S2d5ZkFza0RlaWZTOE81NTF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGpycHM3dkV6S2d5ZkFza0RlaWZTOE81NTFBblBqNEVBd3kzLVpjSWFpWE91eDNRWjlOWWk5cGk1UFB2RU9KcWR1dHlhNXRiMC1fMWl6bUFHWk04dndrTnV2TFA3Nk5rMGhSZGtHallTZUFWbkl5ZF9HZzNIT1h2cnBxcTFVUjBwcUVjV3dzMzItSkE?oc=5\" target=\"_blank\"&gt;The Only Correct Way to React to the USMNT Roster Announcement&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Minnesota United FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPRGpycHM3dkV6S2d5ZkFza0RlaWZTOE81NTFBblBqNEVBd3kzLVpjSWFpWE91eDNRWjlOWWk5cGk1UFB2RU9KcWR1dHlhNXRiMC1fMWl6bUFHWk04dndrTnV2TFA3Nk5rMGhSZGtHallTZUFWbkl5ZF9HZzNIT1h2cnBxcTFVUjBwcUVjV3dzMzItSkE?oc=5\" target=\"_blank\"&gt;The Only Correct Way to React to the USMNT Roster Announcement&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Minnesota United FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1556_6",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVNGdjZySkZ3dVY5bGZrODM1SEo4Y0R3cHd...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVNGdjZySkZ3dVY5bGZrODM1SEo4Y0R3cHdrOHFFc1R2OS1KX1hCOEE5U196R1ZxaFZMa21qQno5cnNGbF8yN2JaMTNydDJvUXV3TTdGd3FZUTlMa3FMNEs3cEQ5b1JMSnBkYjl6UzRROHZjQ1B0NU00bnBFOVdHZW1WTW94VDR4Zi1DM3I4d3g4Vks4UVZmS3czWW1yaEJhNVJB?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNbVNGdjZySkZ3dVY5bGZrODM1SEo4Y0R3cHdrOHFFc1R2OS1KX1hCOEE5U196R1ZxaFZMa21qQno5cnNGbF8yN2JaMTNydDJvUXV3TTdGd3FZUTlMa3FMNEs3cEQ5b1JMSnBkYjl6UzRROHZjQ1B0NU00bnBFOVdHZW1WTW94VDR4Zi1DM3I4d3g4Vks4UVZmS3czWW1yaEJhNVJB?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1557_7",
+            "category": "usa",
+            "type": "News",
+            "title": "2026 World Cup Friendlies - Previewing USMNT vs. Senegal - Stars and Stripes FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG15S3pLR1VsbmoxY21hZ1RzR0hzRXFVZjh...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG15S3pLR1VsbmoxY21hZ1RzR0hzRXFVZjh2V0hyYy1NR29EaWozVC13U3ZjOC1LRVdzckhpTVpXOF9SSlVSZnZwMWRqODlVZmRFN28yYUdVc3FNd1I0OU5iRlh3VU1GMno5U3lMdXBXbDNPTXNyVjVWaGM0dl8tankydTFqM0hiN0pOT2l2ZG82a0dGam1kRnMxLXptSXdLMEgwUXc4QQ?oc=5\" target=\"_blank\"&gt;2026 World Cup Friendlies - Previewing USMNT vs. Senegal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOG15S3pLR1VsbmoxY21hZ1RzR0hzRXFVZjh2V0hyYy1NR29EaWozVC13U3ZjOC1LRVdzckhpTVpXOF9SSlVSZnZwMWRqODlVZmRFN28yYUdVc3FNd1I0OU5iRlh3VU1GMno5U3lMdXBXbDNPTXNyVjVWaGM0dl8tankydTFqM0hiN0pOT2l2ZG82a0dGam1kRnMxLXptSXdLMEgwUXc4QQ?oc=5\" target=\"_blank\"&gt;2026 World Cup Friendlies - Previewing USMNT vs. Senegal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1558_8",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2VnUThmNTdqMzR2b2d5TzEyOGJaSGRaUlF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2VnUThmNTdqMzR2b2d5TzEyOGJaSGRaUlFjUTBaYVMxVEhCN0ZLMm0wYllETjVGNDNHcEFDNDZZN3lhMl9pck4zeVg3bkxyZnl5VFZ2NGNubEJpVzFlTzk4YTZ5eWdEdEp6ZVJOVl9wOExaZ2FGTGtEMG9SSzFtc3NaZHF4V2ctN0VJc09rSTBoSmZmSzkyT0xub2ZrY2MzdzBlSlgxaHI?oc=5\" target=\"_blank\"&gt;Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPU2VnUThmNTdqMzR2b2d5TzEyOGJaSGRaUlFjUTBaYVMxVEhCN0ZLMm0wYllETjVGNDNHcEFDNDZZN3lhMl9pck4zeVg3bkxyZnl5VFZ2NGNubEJpVzFlTzk4YTZ5eWdEdEp6ZVJOVl9wOExaZ2FGTGtEMG9SSzFtc3NaZHF4V2ctN0VJc09rSTBoSmZmSzkyT0xub2ZrY2MzdzBlSlgxaHI?oc=5\" target=\"_blank\"&gt;Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1559_9",
+            "category": "usa",
+            "type": "News",
+            "title": "Four Philadelphia Union Alumni named to USMNT World Cup Roster - Philadelphia Union",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDJNM2pRT002aHRHaGtVMGNIOTNSVGZOeE5...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDJNM2pRT002aHRHaGtVMGNIOTNSVGZOeE5PT1dNV3YzbnE0Rk0wa0NSWnNnRG1XeXoyY1hyUFhweWs1RGtjQldzR2oxeV8xU1RHTGlJTjgyRnpXdTkyMDI2aVhQLU1XOXRsVDNlTjQ0N3d1UExWRXRtWTFucFJJdkFuc01RcmVyRF9rc0JGMlpQaEF3cTU0Z0NjQkFHWVVoRngw?oc=5\" target=\"_blank\"&gt;Four Philadelphia Union Alumni named to USMNT World Cup Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Philadelphia Union&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDJNM2pRT002aHRHaGtVMGNIOTNSVGZOeE5PT1dNV3YzbnE0Rk0wa0NSWnNnRG1XeXoyY1hyUFhweWs1RGtjQldzR2oxeV8xU1RHTGlJTjgyRnpXdTkyMDI2aVhQLU1XOXRsVDNlTjQ0N3d1UExWRXRtWTFucFJJdkFuc01RcmVyRF9rc0JGMlpQaEF3cTU0Z0NjQkFHWVVoRngw?oc=5\" target=\"_blank\"&gt;Four Philadelphia Union Alumni named to USMNT World Cup Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Philadelphia Union&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1559_10",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt - Yahoo Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWXJrakFzSTM5Z3VoOHlDUXBkNFB4SkhVeXp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWXJrakFzSTM5Z3VoOHlDUXBkNFB4SkhVeXpKQWI3LWxCSWNlRkJlNFVGblJURmh4SGd2aDZVbkdoWmRPMHhPTWVrOUdDLUNiMUNoY21CaDZkUXFRUFlxdFpWeUxsbVFNalAzSUxBaFRuVmxvWGFRYndONE4zNC05NVd6SzlGTmJRU0hHQkFsanAxMmpJNkt0NFV3WkdFbDJZZ0RNM3poMFcwbXlwTG56VEZnMHMyWlFJdjJ1YUhld1BfRWgwSE1OeXpXclFKV2EwNnIta2Vn?oc=5\" target=\"_blank\"&gt;USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWXJrakFzSTM5Z3VoOHlDUXBkNFB4SkhVeXpKQWI3LWxCSWNlRkJlNFVGblJURmh4SGd2aDZVbkdoWmRPMHhPTWVrOUdDLUNiMUNoY21CaDZkUXFRUFlxdFpWeUxsbVFNalAzSUxBaFRuVmxvWGFRYndONE4zNC05NVd6SzlGTmJRU0hHQkFsanAxMmpJNkt0NFV3WkdFbDJZZ0RNM3poMFcwbXlwTG56VEZnMHMyWlFJdjJ1YUhld1BfRWgwSE1OeXpXclFKV2EwNnIta2Vn?oc=5\" target=\"_blank\"&gt;USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1601_11",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026 - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxfeFVrY3VlR2RNZVhSeUJaQzB2dC1FMDF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxfeFVrY3VlR2RNZVhSeUJaQzB2dC1FMDFDYjVuQWtXUGIweG96WlRZN1pNRmJMU2dTc0U5VHRMdGxvQUpqSkxzVzBCTE01d0JLRGZGdjlIaFFpVE9KUXExQ2s5aTZQNlZBVE51MVE1RVVyeUgxMzM1eXBnbXFCUXV1NmhUQzRTd2dXNktfVllTTGRON1BZRmlGb25BT0d1X3BudFcwWndYYTRwLXlqWHdoWHNpRnNERkZnVU1kWXpYbTV1UFlQU1FjOUM0MnJwdjN6QWhTMkoydw?oc=5\" target=\"_blank\"&gt;U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTGxfeFVrY3VlR2RNZVhSeUJaQzB2dC1FMDFDYjVuQWtXUGIweG96WlRZN1pNRmJMU2dTc0U5VHRMdGxvQUpqSkxzVzBCTE01d0JLRGZGdjlIaFFpVE9KUXExQ2s5aTZQNlZBVE51MVE1RVVyeUgxMzM1eXBnbXFCUXV1NmhUQzRTd2dXNktfVllTTGRON1BZRmlGb25BT0d1X3BudFcwWndYYTRwLXlqWHdoWHNpRnNERkZnVU1kWXpYbTV1UFlQU1FjOUM0MnJwdjN6QWhTMkoydw?oc=5\" target=\"_blank\"&gt;U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1602_12",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino: Committed to USMNT at World Cup despite Milan talks - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjJtaWJPRDhjRk8xbV83ckI0UG5nLUFHTU4...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjJtaWJPRDhjRk8xbV83ckI0UG5nLUFHTU4yQlRVOHhuaF9HTE0xeHliMUxvbkE5N2lLMUM2VlJXRk44bmJDRXFaRFdWUE1taTRmTzBNVWt1V1JOYmljS2xJRHhNT0dWU2NQcUpzVkh4Q1hIbDY0dGNrN0g3V0NfTUVNV3ktX0lqYVdSMnNxanJwZEdweFVaaGQ4U3RvTTBnVjhobEMxZGRlZw?oc=5\" target=\"_blank\"&gt;Pochettino: Committed to USMNT at World Cup despite Milan talks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRjJtaWJPRDhjRk8xbV83ckI0UG5nLUFHTU4yQlRVOHhuaF9HTE0xeHliMUxvbkE5N2lLMUM2VlJXRk44bmJDRXFaRFdWUE1taTRmTzBNVWt1V1JOYmljS2xJRHhNT0dWU2NQcUpzVkh4Q1hIbDY0dGNrN0g3V0NfTUVNV3ktX0lqYVdSMnNxanJwZEdweFVaaGQ4U3RvTTBnVjhobEMxZGRlZw?oc=5\" target=\"_blank\"&gt;Pochettino: Committed to USMNT at World Cup despite Milan talks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1603_13",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino - Forbes",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVGJNeGlrY3UtRlVCLXlxLXpkaDJDMVlvZG1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVGJNeGlrY3UtRlVCLXlxLXpkaDJDMVlvZG1qVWt0Q2NyXzJDNlBFNFkzYmg5elluclBTekpZQjdqNFdyT3JJMFA1VDZuR2htcFlCZjFyaE1WNTV3VUJGQm1pelF2aEt2ZVZaMVh0NmN4YmpqMnVKWEtpSHRWeHhlOFR4Q196aG9NbkR2LWJWYUxVR2thZC05akQtNm0tVVRQRnFPcC1SMnlvX2Y0dmI5YVFUelhQUno3VzRVQncxVQ?oc=5\" target=\"_blank\"&gt;Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPVGJNeGlrY3UtRlVCLXlxLXpkaDJDMVlvZG1qVWt0Q2NyXzJDNlBFNFkzYmg5elluclBTekpZQjdqNFdyT3JJMFA1VDZuR2htcFlCZjFyaE1WNTV3VUJGQm1pelF2aEt2ZVZaMVh0NmN4YmpqMnVKWEtpSHRWeHhlOFR4Q196aG9NbkR2LWJWYUxVR2thZC05akQtNm0tVVRQRnFPcC1SMnlvX2Y0dmI5YVFUelhQUno3VzRVQncxVQ?oc=5\" target=\"_blank\"&gt;Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Forbes&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1604_14",
+            "category": "usa",
+            "type": "News",
+            "title": "How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty - Yahoo Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUDA2cWkyY1lobUNPYUxUOFNpdnRFNWJiRXR...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUDA2cWkyY1lobUNPYUxUOFNpdnRFNWJiRXRDX3JjaWFsQlQ2SnZLdnMtc3VnWjRQSmpKY1pDenZoZ2I2NHpwX2dhMzZ0OUJ0VTktYWx3clk2Y1lvbmlpR1VKamN4OUQ3MmgxbERYakZxQUtZWVpUMnc2bWxqMGpkcUNESUh6eUZTajE3ci0zUXRCTmFoaDVtbG1rTkFWSkVJcWpXLWxNV3NvUVB6cDZObHAwSXlubkxCOEZiVXpjXzFRWkVHTUExRVdMN19xbEI2ZG9Tdi1qSkU?oc=5\" target=\"_blank\"&gt;How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUDA2cWkyY1lobUNPYUxUOFNpdnRFNWJiRXRDX3JjaWFsQlQ2SnZLdnMtc3VnWjRQSmpKY1pDenZoZ2I2NHpwX2dhMzZ0OUJ0VTktYWx3clk2Y1lvbmlpR1VKamN4OUQ3MmgxbERYakZxQUtZWVpUMnc2bWxqMGpkcUNESUh6eUZTajE3ci0zUXRCTmFoaDVtbG1rTkFWSkVJcWpXLWxNV3NvUVB6cDZObHAwSXlubkxCOEZiVXpjXzFRWkVHTUExRVdMN19xbEI2ZG9Tdi1qSkU?oc=5\" target=\"_blank\"&gt;How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1605_15",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do? - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNakxDQmNha2ZpVHY2U01Yc3NlY29mRzgwS2Z...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNakxDQmNha2ZpVHY2U01Yc3NlY29mRzgwS2ZGQ19GVWFrVDdEVmpjdFpTZ0tEcDhUa19vRFZIOFBrd2F0SkJKRGVtci12VXRDQXhjQmlZS24yRXp0WU1PcTNDd3R1MnR4X2FSOVVqMElnVEh5TjVVbGhRVy1ibk9NWmNoUzBWWDhDXzlIb182VXhZU0Js?oc=5\" target=\"_blank\"&gt;USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNakxDQmNha2ZpVHY2U01Yc3NlY29mRzgwS2ZGQ19GVWFrVDdEVmpjdFpTZ0tEcDhUa19vRFZIOFBrd2F0SkJKRGVtci12VXRDQXhjQmlZS24yRXp0WU1PcTNDd3R1MnR4X2FSOVVqMElnVEh5TjVVbGhRVy1ibk9NWmNoUzBWWDhDXzlIb182VXhZU0Js?oc=5\" target=\"_blank\"&gt;USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1606_16",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Strikers Enter Senegal Matchup Eager to Score on Biggest Stage - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDltdzVBc240T2UzNlBLdm5CQ0haLWxoQ0h...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDltdzVBc240T2UzNlBLdm5CQ0haLWxoQ0h4OF9UNV83bEpRc2g0ZlRvR2ZxTzUwMjBhN3I3SWlnWmVFcmNpTm1jMmgyTmpra1FoUEVWcVh5ekx1dzFzeXdTTlVXNkRhcUxPM0FQYTNYZzBWQzdJYXoxSHRPSHBLN3JjQlBsNmFWbEdock5KWG9ENFRMTHhWUVVZcFBJT0pjTVpJMEFn?oc=5\" target=\"_blank\"&gt;USMNT Strikers Enter Senegal Matchup Eager to Score on Biggest Stage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDltdzVBc240T2UzNlBLdm5CQ0haLWxoQ0h4OF9UNV83bEpRc2g0ZlRvR2ZxTzUwMjBhN3I3SWlnWmVFcmNpTm1jMmgyTmpra1FoUEVWcVh5ekx1dzFzeXdTTlVXNkRhcUxPM0FQYTNYZzBWQzdJYXoxSHRPSHBLN3JjQlBsNmFWbEdock5KWG9ENFRMTHhWUVVZcFBJT0pjTVpJMEFn?oc=5\" target=\"_blank\"&gt;USMNT Strikers Enter Senegal Matchup Eager to Score on Biggest Stage&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1608_17",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT names 2026 World Cup roster after leaks - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNT0FQU0tpWFg5TXJrd2NGdE11YS1RNGNnWmd...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNT0FQU0tpWFg5TXJrd2NGdE11YS1RNGNnWmd6RVpFWUxmckItYnc5UXdVdjBrNm13cG1XazJDQWU4SUFERlE0d1l0NXN1VnNEZWNLM2lqUVBtbnBHenU2NFR5aENHRG1ibDZMUTB3NnY4UU9vbnZNbG1Fc29TME9vTkM0LVU0a3VQbTZqb1dQOTFWeWt6TkFDYWNtb3FKWTY2cF90T3p2bVFjOUhIYXUta0VB?oc=5\" target=\"_blank\"&gt;USMNT names 2026 World Cup roster after leaks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNT0FQU0tpWFg5TXJrd2NGdE11YS1RNGNnWmd6RVpFWUxmckItYnc5UXdVdjBrNm13cG1XazJDQWU4SUFERlE0d1l0NXN1VnNEZWNLM2lqUVBtbnBHenU2NFR5aENHRG1ibDZMUTB3NnY4UU9vbnZNbG1Fc29TME9vTkM0LVU0a3VQbTZqb1dQOTFWeWt6TkFDYWNtb3FKWTY2cF90T3p2bVFjOUhIYXUta0VB?oc=5\" target=\"_blank\"&gt;USMNT names 2026 World Cup roster after leaks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1609_18",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Quarterfinal Glory - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeENoTV92dGJmOUhiekJUeE5XSFRJcHNhWVF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeENoTV92dGJmOUhiekJUeE5XSFRJcHNhWVFmS0h4dTlzNlNtVUlZVDI0TXpjLWQ3YW1wc1E4OG5nMlpkU1NLTzU3OS1XZ2NtQlVpN2hiTlJ0MVJBV0plX2UxZk54WS1ZendWYmRWRjJHYmRxY1Q0QTBwY3RaYlRLVk5TZXBZY1cwRjBVVTA0U3ZzUV81WlE?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Quarterfinal Glory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNeENoTV92dGJmOUhiekJUeE5XSFRJcHNhWVFmS0h4dTlzNlNtVUlZVDI0TXpjLWQ3YW1wc1E4OG5nMlpkU1NLTzU3OS1XZ2NtQlVpN2hiTlJ0MVJBV0plX2UxZk54WS1ZendWYmRWRjJHYmRxY1Q0QTBwY3RaYlRLVk5TZXBZY1cwRjBVVTA0U3ZzUV81WlE?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Quarterfinal Glory&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1610_19",
+            "category": "usa",
+            "type": "News",
+            "title": "Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXV6T2dfNTdLZnVaYWNYMTFvRmVUVGYwSlR...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXV6T2dfNTdLZnVaYWNYMTFvRmVUVGYwSlRPNlVQU0hwWUpUakJDdXZkQUtjODJQWGU4ekxnQjJubFN4MGd1TzJ1RC1zaTZsRjRFbWVMSmhsMThyaGpBdnA4dFlnQWRXWW9HZ19jM1doeENpSC1rUVV5WURZVXZDcW1HMDg5c0VjTW5YbkQybWMxakVtZV83Nk53?oc=5\" target=\"_blank\"&gt;Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNQXV6T2dfNTdLZnVaYWNYMTFvRmVUVGYwSlRPNlVQU0hwWUpUakJDdXZkQUtjODJQWGU4ekxnQjJubFN4MGd1TzJ1RC1zaTZsRjRFbWVMSmhsMThyaGpBdnA4dFlnQWRXWW9HZ19jM1doeENpSC1rUVV5WURZVXZDcW1HMDg5c0VjTW5YbkQybWMxakVtZV83Nk53?oc=5\" target=\"_blank\"&gt;Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1611_20",
+            "category": "usa",
+            "type": "News",
+            "title": "Meet the Team: USMNT Roster For FIFA World Cup 2026 - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUVfWnEwcEljZHlPUGxQTHpuRHR1a28zTU5...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUVfWnEwcEljZHlPUGxQTHpuRHR1a28zTU5xaFBXV01Md3VTamxtSnl6VUZVQUlLa0gxRDBLM29obVU4N1NIUFc4S2F2RkctTEloQVdJRWZqQXRpV3hUbjA1MDEwZUFYM25UX0dLVGJCSnJ5TGs0cVgzVEh1QQ?oc=5\" target=\"_blank\"&gt;Meet the Team: USMNT Roster For FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE5FQUVfWnEwcEljZHlPUGxQTHpuRHR1a28zTU5xaFBXV01Md3VTamxtSnl6VUZVQUlLa0gxRDBLM29obVU4N1NIUFc4S2F2RkctTEloQVdJRWZqQXRpV3hUbjA1MDEwZUFYM25UX0dLVGJCSnJ5TGs0cVgzVEh1QQ?oc=5\" target=\"_blank\"&gt;Meet the Team: USMNT Roster For FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1612_21",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG1nc1o0X3BiXzJUUW5GV2Y4anpKNVBueXN...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG1nc1o0X3BiXzJUUW5GV2Y4anpKNVBueXNOWmpYVHpnUloxdjM1azUtMVFGbUtWbWF1b2dVQkFMbHZIWWRjVmdXeEczR1JEbEVTNVBQX3h5RkhBZFhKUzFCN2VNcV96ZWFTV196ZkhLUFJhSHh0c1ZLOEZuWEs2NTVpZ1R5ZGVFWkpERl81cGdsbmFDZURsaXl2S29udHBQdE04?oc=5\" target=\"_blank\"&gt;U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNMG1nc1o0X3BiXzJUUW5GV2Y4anpKNVBueXNOWmpYVHpnUloxdjM1azUtMVFGbUtWbWF1b2dVQkFMbHZIWWRjVmdXeEczR1JEbEVTNVBQX3h5RkhBZFhKUzFCN2VNcV96ZWFTV196ZkhLUFJhSHh0c1ZLOEZuWEs2NTVpZ1R5ZGVFWkpERl81cGdsbmFDZURsaXl2S29udHBQdE04?oc=5\" target=\"_blank\"&gt;U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1613_22",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026 - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1VUb0FHMWx6MjVJUDJ4TFRvaV9mRjE5WU1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1VUb0FHMWx6MjVJUDJ4TFRvaV9mRjE5WU1uOWpUOE44eHdxX1FQeXJ1TklEazFKVDV3SWlHbEJ5a0c0SlA2UlpLbjJEcGtOY3d1LW5IZUV5TDdxRDhReXJsYkdPVHUxYk8wUDFvUF9sdUpEZjlTUjE1MXlFaEtDelp0ZGJYZjVKc3lMZnJCX3R0NW13WE93?oc=5\" target=\"_blank\"&gt;USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPd1VUb0FHMWx6MjVJUDJ4TFRvaV9mRjE5WU1uOWpUOE44eHdxX1FQeXJ1TklEazFKVDV3SWlHbEJ5a0c0SlA2UlpLbjJEcGtOY3d1LW5IZUV5TDdxRDhReXJsYkdPVHUxYk8wUDFvUF9sdUpEZjlTUjE1MXlFaEtDelp0ZGJYZjVKc3lMZnJCX3R0NW13WE93?oc=5\" target=\"_blank\"&gt;USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1614_23",
+            "category": "usa",
+            "type": "News",
+            "title": "How To Watch &amp; Live Stream: USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOem9Vbk5uUVVGM2xNZUJqeUNsLWxPRUpHQUw...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOem9Vbk5uUVVGM2xNZUJqeUNsLWxPRUpHQUw5RXZ4WEd6T2dQYmppT21ZM1MxT3lkV3FwcXpjNFo5WDg5N3lFckJTa2s4aXBxel9CZ28yYlpXcV9zV3lCYlpyZ0I3VVhvSU5pSjYzNHFleXVMZ3huVkxNWWMydnFWT0VRLWJpRHkyX0l5Yk91RmV6ZDhESjI0V2lGb2VTQQ?oc=5\" target=\"_blank\"&gt;How To Watch &amp; Live Stream: USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOem9Vbk5uUVVGM2xNZUJqeUNsLWxPRUpHQUw5RXZ4WEd6T2dQYmppT21ZM1MxT3lkV3FwcXpjNFo5WDg5N3lFckJTa2s4aXBxel9CZ28yYlpXcV9zV3lCYlpyZ0I3VVhvSU5pSjYzNHFleXVMZ3huVkxNWWMydnFWT0VRLWJpRHkyX0l5Yk91RmV6ZDhESjI0V2lGb2VTQQ?oc=5\" target=\"_blank\"&gt;How To Watch &amp; Live Stream: USMNT World Cup Roster Reveal &amp; Fan Celebration in New York City&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1615_24",
+            "category": "usa",
+            "type": "News",
+            "title": "Aaronson gets leave from USMNT World Cup camp for his wedding - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1JUVlhUTXJ4YlZLUHgybVVjcHQyYTJkeDM...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1JUVlhUTXJ4YlZLUHgybVVjcHQyYTJkeDMzbkRkOGE0RFFUaXlIa2ljX2RtVUJxOGFQWXJkQllNVUVsUDZzWHVWUl8yNVhWX2hiXzdwQmZIdW1hc3J1OFJNOFE3eE9zRFk2Q1RPTGVnZHprZmJkaC1vNy0wR0xldnJSSWZjcXNDYWYxUG9nV3hIY3dCLWc?oc=5\" target=\"_blank\"&gt;Aaronson gets leave from USMNT World Cup camp for his wedding&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ1JUVlhUTXJ4YlZLUHgybVVjcHQyYTJkeDMzbkRkOGE0RFFUaXlIa2ljX2RtVUJxOGFQWXJkQllNVUVsUDZzWHVWUl8yNVhWX2hiXzdwQmZIdW1hc3J1OFJNOFE3eE9zRFk2Q1RPTGVnZHprZmJkaC1vNy0wR0xldnJSSWZjcXNDYWYxUG9nV3hIY3dCLWc?oc=5\" target=\"_blank\"&gt;Aaronson gets leave from USMNT World Cup camp for his wedding&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1616_25",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards now an injury question mark in major USMNT World Cup worry - New York Post",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUJWLUFwd0wzZGwzbTlXc2NWbkZLbzlzeVJ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUJWLUFwd0wzZGwzbTlXc2NWbkZLbzlzeVJyNW02c1M0SWl0V1ZRVHpuS19mN3paSmQ2amZWYXdyb0taWlVLZDhST0FrbWFUamNHQ3h5TnBCQVJLVXAwN2VnaUZsWU1BNFVKc1NVeFVLS21HMTc0MWhGYjNobjByVUh2RGN3VkpXUEhHVDlFelJpVnhCTnEtS3BkcTFQTmIt?oc=5\" target=\"_blank\"&gt;Chris Richards now an injury question mark in major USMNT World Cup worry&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOaUJWLUFwd0wzZGwzbTlXc2NWbkZLbzlzeVJyNW02c1M0SWl0V1ZRVHpuS19mN3paSmQ2amZWYXdyb0taWlVLZDhST0FrbWFUamNHQ3h5TnBCQVJLVXAwN2VnaUZsWU1BNFVKc1NVeFVLS21HMTc0MWhGYjNobjByVUh2RGN3VkpXUEhHVDlFelJpVnhCTnEtS3BkcTFQTmIt?oc=5\" target=\"_blank\"&gt;Chris Richards now an injury question mark in major USMNT World Cup worry&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1617_26",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1Q4ZXN1MTNNMVJlczhpYnZ5XzBSVmY1cVV...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1Q4ZXN1MTNNMVJlczhpYnZ5XzBSVmY1cVVTdkhOcjg1VzZGNl9XQ1k5bXhWMEdFSnBoaTFrc0d2eXc1Tm4tNHVnc2o1YXh0Y2hFMGc3R28yanhrMkROelVJNTdLZ0p5OGRDVlA5WFBrVDlqSGhNQU96OGxwZ0xiaVBJMUNsTXdEYWpUZ3ZmSjAwcFV2elBSMFpyWV96RXdvWjRF?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOM1Q4ZXN1MTNNMVJlczhpYnZ5XzBSVmY1cVVTdkhOcjg1VzZGNl9XQ1k5bXhWMEdFSnBoaTFrc0d2eXc1Tm4tNHVnc2o1YXh0Y2hFMGc3R28yanhrMkROelVJNTdLZ0p5OGRDVlA5WFBrVDlqSGhNQU96OGxwZ0xiaVBJMUNsTXdEYWpUZ3ZmSjAwcFV2elBSMFpyWV96RXdvWjRF?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1618_27",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup roster officially revealed - Stars and Stripes FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1NjeEN3UUF4RUFnTFJGeHQ0Y2tVUDRjWW9...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1NjeEN3UUF4RUFnTFJGeHQ0Y2tVUDRjWW9UcXBRT0Nxb0JWTFcyWEdFUFppVnVjM083REJJVFItX1FXcmJXc3pJdDFBdGtUaHZlNWcxNEZCR19KZWtfb2VXbWdtWUlTN1hsYkdNOTdKd05pRDYzYnRXLXZsLUxvc29NS214QmRkczNzOExhRkU1Zw?oc=5\" target=\"_blank\"&gt;USMNT World Cup roster officially revealed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1NjeEN3UUF4RUFnTFJGeHQ0Y2tVUDRjWW9UcXBRT0Nxb0JWTFcyWEdFUFppVnVjM083REJJVFItX1FXcmJXc3pJdDFBdGtUaHZlNWcxNEZCR19KZWtfb2VXbWdtWUlTN1hsYkdNOTdKd05pRDYzYnRXLXZsLUxvc29NS214QmRkczNzOExhRkU1Zw?oc=5\" target=\"_blank\"&gt;USMNT World Cup roster officially revealed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1619_28",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's final World Cup roster has Pochettino taking risks - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzZfdWxuaW9HREUzdklRdzZnMHpkeFhmWVV...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzZfdWxuaW9HREUzdklRdzZnMHpkeFhmWVVMY0RPNUltVU8zZ0w0WGwteTBRV2hjYk16cGNfS1A0cV9uRi1oWldNR29rMnA1STZ6VW1ZLXg2OEdxcndUeVRfaU5WQld1WTRIWkFQNGo4YWRUYTlDb25wRHJjQXVvMTdUU1ZfeFhHc3Z3aDdYaUNQU1l6cmdGMTMtQVh3dWdTaGc?oc=5\" target=\"_blank\"&gt;USMNT's final World Cup roster has Pochettino taking risks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxQMzZfdWxuaW9HREUzdklRdzZnMHpkeFhmWVVMY0RPNUltVU8zZ0w0WGwteTBRV2hjYk16cGNfS1A0cV9uRi1oWldNR29rMnA1STZ6VW1ZLXg2OEdxcndUeVRfaU5WQld1WTRIWkFQNGo4YWRUYTlDb25wRHJjQXVvMTdUU1ZfeFhHc3Z3aDdYaUNQU1l6cmdGMTMtQVh3dWdTaGc?oc=5\" target=\"_blank\"&gt;USMNT's final World Cup roster has Pochettino taking risks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1620_29",
+            "category": "usa",
+            "type": "News",
+            "title": "The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth - revolutionsoccer.net",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQREdleG1OTlVVSnJ4TFp0X1UtWFhfaC1ObjE...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQREdleG1OTlVVSnJ4TFp0X1UtWFhfaC1ObjE5MVB5RFREWHRlN1kzQ2VyeEdXREFBR201WU1iM0d3LVpEYkJkLUtqcWl3MGgycGNBQ2k0dW5RUXdxb1M4YW1Td0hOeFBONlRITlhWUzJWOWY2bEw2NGJyZ0ZOVGcyQjVSWklLZkRyTUpaZ3BocWJBZw?oc=5\" target=\"_blank\"&gt;The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;revolutionsoccer.net&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQREdleG1OTlVVSnJ4TFp0X1UtWFhfaC1ObjE5MVB5RFREWHRlN1kzQ2VyeEdXREFBR201WU1iM0d3LVpEYkJkLUtqcWl3MGgycGNBQ2k0dW5RUXdxb1M4YW1Td0hOeFBONlRITlhWUzJWOWY2bEw2NGJyZ0ZOVGcyQjVSWklLZkRyTUpaZ3BocWJBZw?oc=5\" target=\"_blank\"&gt;The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;revolutionsoccer.net&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1621_30",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT possible starting XI vs Senegal in pre-World Cup friendly - Diario AS",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTVvT3dpUUhJcjJNOHhMNS01NXZsSWxES3Z...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTVvT3dpUUhJcjJNOHhMNS01NXZsSWxES3ZHNjdUcFY4OXhqc1RIckJab21kb1kxdDZmZnNIVl9NbFlKTndJMzRNdE1VRk1pWUN4ZjVFQkoybXBpdkVZMkc5MHAtQ3JoY1FEVUY4d1lPWGpzeFAzcHVsTV9aeWUwcWNaN2haak9WZE9zUDF5ZVJxT2ZueHFfcFU5VHBUV1JzaHfSAbYBQVVfeXFMTnlYUFVKeG1DN0NmaU1BdmVkdUZNay1JeU1EUjNRQkVmbUdmQ3FPLXNRQ29zb3ltM2RDU21QT2ZpbmdTZExIYlF4VjhZMXlSZHpiLTNwakwtM1lPbGRvVWhiMGdZVFk3V1NFM3ZBRThScFNiYkNaTzZ4ZlhrUWhPT1NEcXBibk95emJEOWNVZXZUWFpZYjRpM3JEY1V2ZG52SkxxQmJDS0FKZDhnSFROeVpuam5GRXc?oc=5\" target=\"_blank\"&gt;USMNT possible starting XI vs Senegal in pre-World Cup friendly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Diario AS&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOWTVvT3dpUUhJcjJNOHhMNS01NXZsSWxES3ZHNjdUcFY4OXhqc1RIckJab21kb1kxdDZmZnNIVl9NbFlKTndJMzRNdE1VRk1pWUN4ZjVFQkoybXBpdkVZMkc5MHAtQ3JoY1FEVUY4d1lPWGpzeFAzcHVsTV9aeWUwcWNaN2haak9WZE9zUDF5ZVJxT2ZueHFfcFU5VHBUV1JzaHfSAbYBQVVfeXFMTnlYUFVKeG1DN0NmaU1BdmVkdUZNay1JeU1EUjNRQkVmbUdmQ3FPLXNRQ29zb3ltM2RDU21QT2ZpbmdTZExIYlF4VjhZMXlSZHpiLTNwakwtM1lPbGRvVWhiMGdZVFk3V1NFM3ZBRThScFNiYkNaTzZ4ZlhrUWhPT1NEcXBibk95emJEOWNVZXZUWFpZYjRpM3JEY1V2ZG52SkxxQmJDS0FKZDhnSFROeVpuam5GRXc?oc=5\" target=\"_blank\"&gt;USMNT possible starting XI vs Senegal in pre-World Cup friendly&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Diario AS&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1622_31",
+            "category": "usa",
+            "type": "News",
+            "title": "Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFd5N3k3YnFqVGdZcHlFckNnSmxsZXh6c3M...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFd5N3k3YnFqVGdZcHlFckNnSmxsZXh6c3MxRjRuVkhoT0pxSjVDci1DZk15amZheXY5YVppR3lLRUJKdG03cHFmdURZY1VZbGd5OUZwcFJBbGpUQWpYQjJDVGxsTXptMU5uLUNhTmZrZlV4OEFKdFlZRkFTME5kcnlzSWZRRlNwVXo5OHNZSkl4QllESTk5WGc3b2dIRlVPaXhB?oc=5\" target=\"_blank\"&gt;Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPMFd5N3k3YnFqVGdZcHlFckNnSmxsZXh6c3MxRjRuVkhoT0pxSjVDci1DZk15amZheXY5YVppR3lLRUJKdG03cHFmdURZY1VZbGd5OUZwcFJBbGpUQWpYQjJDVGxsTXptMU5uLUNhTmZrZlV4OEFKdFlZRkFTME5kcnlzSWZRRlNwVXo5OHNZSkl4QllESTk5WGc3b2dIRlVPaXhB?oc=5\" target=\"_blank\"&gt;Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1623_32",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more - CBS Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUk1LN1lMTGxiTm9BbGVxeklCSDlPMG1FU09...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUk1LN1lMTGxiTm9BbGVxeklCSDlPMG1FU09XLS0zWmdJMXRmOUxyTG1FS0dqb1ZZTG5rMUVSZGh5QWMtdGxWdktQeC1jakdrZF9ObFB3akJTT0hBRTVTT1c1YWFzSzRrZ3RjRmI3SThCZlFzMGM2UTZ5V3dHanp3V1BBaktzV0ZTYVJicVVuWVhrZXp4QlFqemlBb1M0bGN6RnVnUFhuUUpISXdkT0piYkpEYUVRZjlnd0ZDREQ3OWZndEVyc255bFFSRQ?oc=5\" target=\"_blank\"&gt;USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxPUk1LN1lMTGxiTm9BbGVxeklCSDlPMG1FU09XLS0zWmdJMXRmOUxyTG1FS0dqb1ZZTG5rMUVSZGh5QWMtdGxWdktQeC1jakdrZF9ObFB3akJTT0hBRTVTT1c1YWFzSzRrZ3RjRmI3SThCZlFzMGM2UTZ5V3dHanp3V1BBaktzV0ZTYVJicVVuWVhrZXp4QlFqemlBb1M0bGN6RnVnUFhuUUpISXdkT0piYkpEYUVRZjlnd0ZDREQ3OWZndEVyc255bFFSRQ?oc=5\" target=\"_blank\"&gt;USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1624_33",
+            "category": "usa",
+            "type": "News",
+            "title": "Andrew Rick heading to the World Cup as USMNT training goalkeeper - Philadelphia Union",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2FRWTJ2elhzZDhTOHZ4TzVqQTl3cXYxc0N...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2FRWTJ2elhzZDhTOHZ4TzVqQTl3cXYxc0NaU1pPNG54STJ3UnNjQ05mMWk5NDA0bDI4T3JsMFI5aUNqWWNyYXRITHVqLVlaODFlYTBmTTNSd0lEUzQxVDl1bHFRNkNUNjJVYU04UjYwSG9TeFZ1ekhoWHQ0c1l4dEZSbndwQmxXN3N3ci02X3draGZwcDdQWk14em5vSFNaM24wRW1yaHFVMV9aZUdsZndxeU1lemVWa3JjcmNzT2g0bWh3eTJOZw?oc=5\" target=\"_blank\"&gt;Andrew Rick heading to the World Cup as USMNT training goalkeeper&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Philadelphia Union&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNX2FRWTJ2elhzZDhTOHZ4TzVqQTl3cXYxc0NaU1pPNG54STJ3UnNjQ05mMWk5NDA0bDI4T3JsMFI5aUNqWWNyYXRITHVqLVlaODFlYTBmTTNSd0lEUzQxVDl1bHFRNkNUNjJVYU04UjYwSG9TeFZ1ekhoWHQ0c1l4dEZSbndwQmxXN3N3ci02X3draGZwcDdQWk14em5vSFNaM24wRW1yaHFVMV9aZUdsZndxeU1lemVWa3JjcmNzT2g0bWh3eTJOZw?oc=5\" target=\"_blank\"&gt;Andrew Rick heading to the World Cup as USMNT training goalkeeper&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Philadelphia Union&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1625_34",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcng0SWJMc1BqSUJHZnhpNEZoT2VpQ09ZWjU...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcng0SWJMc1BqSUJHZnhpNEZoT2VpQ09ZWjU0WGlFUzVWbnN3TFdPM2QxSTc3WTE4LVlBNEQ1Y2NKdVFRU2t5STZXcVp0MUxWUnEwWmxGTkRCNVpjTDE1Q1p4Ums1dThLNVBldUFZbENzS2x6ODhRa2NlUUhxUUl5VGp2bXZ0VnJ5b0hjdWloR0s0R1AzRHI3ZGZLWWpncDg4Zmg1NkN3?oc=5\" target=\"_blank\"&gt;Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOcng0SWJMc1BqSUJHZnhpNEZoT2VpQ09ZWjU0WGlFUzVWbnN3TFdPM2QxSTc3WTE4LVlBNEQ1Y2NKdVFRU2t5STZXcVp0MUxWUnEwWmxGTkRCNVpjTDE1Q1p4Ums1dThLNVBldUFZbENzS2x6ODhRa2NlUUhxUUl5VGp2bXZ0VnJ5b0hjdWloR0s0R1AzRHI3ZGZLWWpncDg4Zmg1NkN3?oc=5\" target=\"_blank\"&gt;Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1626_35",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlM4Qm1RY0dqek5sLVZFWlhTcXFpX1lwcGo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlM4Qm1RY0dqek5sLVZFWlhTcXFpX1lwcGo5NllCdEs3dnl6ZUxNanF1RG1KNlpxUEZlR203QlZPSkFwQlVEcEplTnpaSm13ZVMyNkxTYXh4eHF3aExhYkFFVmxUOTc1N2FtdEY1eExZRVVuVmg4WUxsNWhXQjJvN2pLbEkwak1BLV9UYjV2SWtqQm9vZWhudTVjbU12cklNMEVZVk4tQQ?oc=5\" target=\"_blank\"&gt;Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQUlM4Qm1RY0dqek5sLVZFWlhTcXFpX1lwcGo5NllCdEs3dnl6ZUxNanF1RG1KNlpxUEZlR203QlZPSkFwQlVEcEplTnpaSm13ZVMyNkxTYXh4eHF3aExhYkFFVmxUOTc1N2FtdEY1eExZRVVuVmg4WUxsNWhXQjJvN2pLbEkwak1BLV9UYjV2SWtqQm9vZWhudTVjbU12cklNMEVZVk4tQQ?oc=5\" target=\"_blank\"&gt;Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1627_36",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’ - Inquirer.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUW1FbFotYzZJcUQzM29ackFWdWhCeEhwR2x...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUW1FbFotYzZJcUQzM29ackFWdWhCeEhwR2xhYUR5ZFBKNm11a3BZN2pPc0oyM2ttSWFrQVJ5NGFJaFNDRmthZGtUZXJmOG1tVFVuNTVJZDRVUm5BUWx6YkstLUxUMzVyUzNMNkRrSHVETlVBVklEZjdDbjZVVGdHRzlxRFJWNDZab0JVbEZRbXBZbWV6dmxYMkpoU3ZuX1k?oc=5\" target=\"_blank\"&gt;Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Inquirer.com&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUW1FbFotYzZJcUQzM29ackFWdWhCeEhwR2xhYUR5ZFBKNm11a3BZN2pPc0oyM2ttSWFrQVJ5NGFJaFNDRmthZGtUZXJmOG1tVFVuNTVJZDRVUm5BUWx6YkstLUxUMzVyUzNMNkRrSHVETlVBVklEZjdDbjZVVGdHRzlxRFJWNDZab0JVbEZRbXBZbWV6dmxYMkpoU3ZuX1k?oc=5\" target=\"_blank\"&gt;Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Inquirer.com&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1628_37",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Pulisic unfazed by scoreless slump ahead of World Cup - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzAyd3VEWnRtVmcxeXlCN3dId1lxcHg1N1g...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzAyd3VEWnRtVmcxeXlCN3dId1lxcHg1N1gtX1gyb1BNcE5VekZ2QkhMVDBOSTY0bWpMSjVteXYtb05YQWE3WWdyZi1XUVlBVi1IN3p6MmsxQWdVNjM0aE1iQVF3SFFrZDdQREswMEd4M2hYeE0tSE54cmRvcWthcFlpSWY2ODhTS3BQMDRfX2R6dWZhNVBVT1ppc3F1cXFlZGc?oc=5\" target=\"_blank\"&gt;USMNT's Pulisic unfazed by scoreless slump ahead of World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPYzAyd3VEWnRtVmcxeXlCN3dId1lxcHg1N1gtX1gyb1BNcE5VekZ2QkhMVDBOSTY0bWpMSjVteXYtb05YQWE3WWdyZi1XUVlBVi1IN3p6MmsxQWdVNjM0aE1iQVF3SFFrZDdQREswMEd4M2hYeE0tSE54cmRvcWthcFlpSWY2ODhTS3BQMDRfX2R6dWZhNVBVT1ppc3F1cXFlZGc?oc=5\" target=\"_blank\"&gt;USMNT's Pulisic unfazed by scoreless slump ahead of World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1629_38",
+            "category": "usa",
+            "type": "News",
+            "title": "What's the goal of USMNT's pre-World Cup friendlies? - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2kyMzY0NHkyOURzRVUtYXl5amlxeElVVmV...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2kyMzY0NHkyOURzRVUtYXl5amlxeElVVmVIVnk3enM0Q25teE5BUDFnZ1N1VDY5UUZ5SldLNVo4eDFDVHRpZExUaFo5MUlCSXBDa3lJTW5ETmRjaEpfZWlOOGx0aDlsd1FrVXB4S0RkZjdkTXRZMzZZQ0VrcXdqOURpcm5pakxMaEpN?oc=5\" target=\"_blank\"&gt;What's the goal of USMNT's pre-World Cup friendlies?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQb2kyMzY0NHkyOURzRVUtYXl5amlxeElVVmVIVnk3enM0Q25teE5BUDFnZ1N1VDY5UUZ5SldLNVo4eDFDVHRpZExUaFo5MUlCSXBDa3lJTW5ETmRjaEpfZWlOOGx0aDlsd1FrVXB4S0RkZjdkTXRZMzZZQ0VrcXdqOURpcm5pakxMaEpN?oc=5\" target=\"_blank\"&gt;What's the goal of USMNT's pre-World Cup friendlies?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1630_39",
+            "category": "usa",
+            "type": "News",
+            "title": "USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal - Stars and Stripes FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWdMY3FyVjdwSUZ2Nmt2TGNtdVZ0RE82TVd...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWdMY3FyVjdwSUZ2Nmt2TGNtdVZ0RE82TVdlaF9qS3ZDd0lYdnZOazViMWNaalcwamd5NGh2emdoazc5N0NhQzYzWjAyU2drMDFxeDEyUFlwczJwVU5ucDdJd2FXYzFvUk1FY1Jud1pycERTZmVGMlVwaEFzT2QyZDJROWpxVGhKT3ZNbzJ4R2prUTk0cGpRNGpKUFQ0OHNEalJ4eA?oc=5\" target=\"_blank\"&gt;USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWdMY3FyVjdwSUZ2Nmt2TGNtdVZ0RE82TVdlaF9qS3ZDd0lYdnZOazViMWNaalcwamd5NGh2emdoazc5N0NhQzYzWjAyU2drMDFxeDEyUFlwczJwVU5ucDdJd2FXYzFvUk1FY1Jud1pycERTZmVGMlVwaEFzT2QyZDJROWpxVGhKT3ZNbzJ4R2prUTk0cGpRNGpKUFQ0OHNEalJ4eA?oc=5\" target=\"_blank\"&gt;USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1631_40",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDN5X1JCYTdQZ1JPVWRNY2hYdDRjS1hScU9...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDN5X1JCYTdQZ1JPVWRNY2hYdDRjS1hScU9FV0NMTG9QRWk5MTRIYTl4VGQwOGlSclFNdUxiTkFjVzVHZUdibkV0M19WZURNQXhUZVRTdHBFTDVPMzNKdjQxdGZrVXVjQnNva3RXVFhzTjV4blo1OTZCcGN6bHhFRTBhQUhqcnduWGl6N0ZxN3lRbXpqVFdMOHNiZEo?oc=5\" target=\"_blank\"&gt;Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxPaDN5X1JCYTdQZ1JPVWRNY2hYdDRjS1hScU9FV0NMTG9QRWk5MTRIYTl4VGQwOGlSclFNdUxiTkFjVzVHZUdibkV0M19WZURNQXhUZVRTdHBFTDVPMzNKdjQxdGZrVXVjQnNva3RXVFhzTjV4blo1OTZCcGN6bHhFRTBhQUhqcnduWGl6N0ZxN3lRbXpqVFdMOHNiZEo?oc=5\" target=\"_blank\"&gt;Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1632_41",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026 - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFN1UHlRNnQwUldoYkw3aS01WE9oMHc2aW5...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFN1UHlRNnQwUldoYkw3aS01WE9oMHc2aW5OVVlzNlVPdExsU09fZUI0cURESURWYWhKemtUWDd6blJCT1ZwbVFfZHBwdGRGV0FpUzVMTldISTI5WlhCektxLWlQOXFBWFpRVTN5N2dHSEpnMTJhLW5nMGxrNnkwZ3BVZWU4VkdWSEF1aFpJZGZlc1RobEFCVFF3?oc=5\" target=\"_blank\"&gt;Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOVFN1UHlRNnQwUldoYkw3aS01WE9oMHc2aW5OVVlzNlVPdExsU09fZUI0cURESURWYWhKemtUWDd6blJCT1ZwbVFfZHBwdGRGV0FpUzVMTldISTI5WlhCektxLWlQOXFBWFpRVTN5N2dHSEpnMTJhLW5nMGxrNnkwZ3BVZWU4VkdWSEF1aFpJZGZlc1RobEFCVFF3?oc=5\" target=\"_blank\"&gt;Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1633_42",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkxMWjRNV1A4MU52QUVZQWl3ZFpQcnMyUE1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkxMWjRNV1A4MU52QUVZQWl3ZFpQcnMyUE1iZmFraS02cTh2SVNqZ1cwcVcxdUVlUFVxRG1sNzFtbHJDcmdNeWFnbEF0REJzVjRmUWtDYmE2VVNfSm82a1B5SEhUQzNOTzZKa2VvdXBtX202VlhfTzdHQ1FKeVRLRjkzX3ZURXdWNVFrYzNvMHU5QkFERHF3NlphNjRfY0k?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQbkxMWjRNV1A4MU52QUVZQWl3ZFpQcnMyUE1iZmFraS02cTh2SVNqZ1cwcVcxdUVlUFVxRG1sNzFtbHJDcmdNeWFnbEF0REJzVjRmUWtDYmE2VVNfSm82a1B5SEhUQzNOTzZKa2VvdXBtX202VlhfTzdHQ1FKeVRLRjkzX3ZURXdWNVFrYzNvMHU5QkFERHF3NlphNjRfY0k?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1634_43",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more - Yahoo Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS3gzdG80NnBkUWFCZUlCaWJSUFdybEZBOF9...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS3gzdG80NnBkUWFCZUlCaWJSUFdybEZBOF9CZ1A2c0JlcEpSam1PNHV3NktEU042UzdPVktRSDNad0s5YUd0Q3VBZE5GRVVEeU04bUhRZGVFRTl4bHE1UmcwRy0tTEVwU0dYTzR2RkQ5dWVsR1dMenAwOGRBQ1otY0RtcnQwUDg3dk40N0ZjaUJkV05GVGJsS2kwZG1DVzBoclFwNFZYQkdEb21sbGFxYzRWM0MwRF9RRnVOZWZkUlVaWDVqT1B5OUV5TmpOR19EcmQzZndEd1JuYkhnY0kzRWdzejdPaFdIc0Q2ZmprRFlUSFVy?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxPS3gzdG80NnBkUWFCZUlCaWJSUFdybEZBOF9CZ1A2c0JlcEpSam1PNHV3NktEU042UzdPVktRSDNad0s5YUd0Q3VBZE5GRVVEeU04bUhRZGVFRTl4bHE1UmcwRy0tTEVwU0dYTzR2RkQ5dWVsR1dMenAwOGRBQ1otY0RtcnQwUDg3dk40N0ZjaUJkV05GVGJsS2kwZG1DVzBoclFwNFZYQkdEb21sbGFxYzRWM0MwRF9RRnVOZWZkUlVaWDVqT1B5OUV5TmpOR19EcmQzZndEd1JuYkhnY0kzRWdzejdPaFdIc0Q2ZmprRFlUSFVy?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1635_44",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Against All Odds - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOakpWODRyTUEyUGotSV91Y2JjdjdmR3o1Q3B...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOakpWODRyTUEyUGotSV91Y2JjdjdmR3o1Q3BKekwwaGoxaUJkeS1GeHdHQ3ZMWG9aYVROOFduRzd6NlZwaDlDWUd4ejBSX2VPQmFrU3VJcmN4bXI4UFJSZS0wQXg3UnQ1cW5feHFBYURENDl1RUs1ajROa3hYV3JPU2JPN1kwQVZZWmRZSzQzTQ?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Against All Odds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOakpWODRyTUEyUGotSV91Y2JjdjdmR3o1Q3BKekwwaGoxaUJkeS1GeHdHQ3ZMWG9aYVROOFduRzd6NlZwaDlDWUd4ejBSX2VPQmFrU3VJcmN4bXI4UFJSZS0wQXg3UnQ1cW5feHFBYURENDl1RUs1ajROa3hYV3JPU2JPN1kwQVZZWmRZSzQzTQ?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Against All Odds&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1636_45",
+            "category": "usa",
+            "type": "News",
+            "title": "Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup - MLSsoccer.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGk1VndrUmVWVjNuSzZtWXY4bEpUbzFmSTN...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGk1VndrUmVWVjNuSzZtWXY4bEpUbzFmSTNjd2tnMG0zNk45TFFMYUkzMUxuTnYxZjI5Nk4xa3M1M3g2cElVRlBvSFNLOURJVC1uMnJMV0szSENQb0V4TjdyMDFDOTFGdmZ6cDlGa0ZVWXNhM3hLVFBpLTdJcXJWNmtWQ1ZSeXVHdFRNS0FXajYxUVJzbUZqXw?oc=5\" target=\"_blank\"&gt;Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MLSsoccer.com&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGk1VndrUmVWVjNuSzZtWXY4bEpUbzFmSTNjd2tnMG0zNk45TFFMYUkzMUxuTnYxZjI5Nk4xa3M1M3g2cElVRlBvSFNLOURJVC1uMnJMV0szSENQb0V4TjdyMDFDOTFGdmZ6cDlGa0ZVWXNhM3hLVFBpLTdJcXJWNmtWQ1ZSeXVHdFRNS0FXajYxUVJzbUZqXw?oc=5\" target=\"_blank\"&gt;Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MLSsoccer.com&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1637_46",
+            "category": "usa",
+            "type": "News",
+            "title": "USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNei1KTDJfcWdlc2FWMVh6NV9faGI5d3lyN0h...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNei1KTDJfcWdlc2FWMVh6NV9faGI5d3lyN0h0SnlZS0ZHdzA5XzNIc0JBMkdYeVE0WFZhNkZQbnJiRUQtcUVHTmh0aldiTmZMVUM0T2ZrZ1kxbjN4TDJYRnRLQ1ZQenhqVlhOVld1U3ZVdUYwYmJKUkdRTXpLcUIwWDBlN255SlA4LXdBU01rTUc2MHN1Vkxlc0hsTjVQYXAwS1pMUG1tZERfb29ZRjhJ?oc=5\" target=\"_blank\"&gt;USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNei1KTDJfcWdlc2FWMVh6NV9faGI5d3lyN0h0SnlZS0ZHdzA5XzNIc0JBMkdYeVE0WFZhNkZQbnJiRUQtcUVHTmh0aldiTmZMVUM0T2ZrZ1kxbjN4TDJYRnRLQ1ZQenhqVlhOVld1U3ZVdUYwYmJKUkdRTXpLcUIwWDBlN255SlA4LXdBU01rTUc2MHN1Vkxlc0hsTjVQYXAwS1pMUG1tZERfb29ZRjhJ?oc=5\" target=\"_blank\"&gt;USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1638_47",
+            "category": "usa",
+            "type": "News",
+            "title": "Three Questions the USMNT Have to Answer Before the World Cup - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnFzdHR3ckgwbldsaFpYbmNCTkxHOGoyTHB...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnFzdHR3ckgwbldsaFpYbmNCTkxHOGoyTHBOLTJLVVJBdHE3Z1NLWVdvMzMzMmhDLXktZmVOanBZQmVteFZKbElNWW1FbjExRW1WTy12cGlVaXdKcnJqMU9EYlR4MHkydmZWTnNVNmhLdmliaS1wSWpBNWhtUkNUcE95c0NQUQ?oc=5\" target=\"_blank\"&gt;Three Questions the USMNT Have to Answer Before the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOQnFzdHR3ckgwbldsaFpYbmNCTkxHOGoyTHBOLTJLVVJBdHE3Z1NLWVdvMzMzMmhDLXktZmVOanBZQmVteFZKbElNWW1FbjExRW1WTy12cGlVaXdKcnJqMU9EYlR4MHkydmZWTnNVNmhLdmliaS1wSWpBNWhtUkNUcE95c0NQUQ?oc=5\" target=\"_blank\"&gt;Three Questions the USMNT Have to Answer Before the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1640_48",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream to captain USMNT at World Cup - Stars and Stripes FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzNHb3hYSHViRU1JU0RXYUt3aVhJYTVFSUY...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzNHb3hYSHViRU1JU0RXYUt3aVhJYTVFSUYzRGVERDBtTWtvY2JfeGhkODVNRnQ1aEkzcWM4bXVwSERkemNiZHhzV244RGxyLU9oemhIb1pXa3Q0TVB6amRRVjQzTy1xNXJ1cGZuMDFXRXFiLXA4N0FCNkROdFlVV0hDUmdMenVUQTQxUw?oc=5\" target=\"_blank\"&gt;Tim Ream to captain USMNT at World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNzNHb3hYSHViRU1JU0RXYUt3aVhJYTVFSUYzRGVERDBtTWtvY2JfeGhkODVNRnQ1aEkzcWM4bXVwSERkemNiZHhzV244RGxyLU9oemhIb1pXa3Q0TVB6amRRVjQzTy1xNXJ1cGZuMDFXRXFiLXA4N0FCNkROdFlVV0hDUmdMenVUQTQxUw?oc=5\" target=\"_blank\"&gt;Tim Ream to captain USMNT at World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1641_49",
+            "category": "usa",
+            "type": "News",
+            "title": "Who Is USMNT’s World Cup Captain—And Why Is it a Secret? - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvblliWEt1c0tyNWhiN2ZxbGdEbXp6b1E4OVp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvblliWEt1c0tyNWhiN2ZxbGdEbXp6b1E4OVpyZ25GRU8xLTVqcUdYeW1GV3NQTjV2VTFRclUtOTVFWGsyVWpiNno4NmJIdmxxZzhIbTdxMGI3cVVxOUt4c2RLZ0NEcVBMVm1TRjJ2NERFQQ?oc=5\" target=\"_blank\"&gt;Who Is USMNT’s World Cup Captain—And Why Is it a Secret?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBvblliWEt1c0tyNWhiN2ZxbGdEbXp6b1E4OVpyZ25GRU8xLTVqcUdYeW1GV3NQTjV2VTFRclUtOTVFWGsyVWpiNno4NmJIdmxxZzhIbTdxMGI3cVVxOUt4c2RLZ0NEcVBMVm1TRjJ2NERFQQ?oc=5\" target=\"_blank\"&gt;Who Is USMNT’s World Cup Captain—And Why Is it a Secret?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1641_50",
+            "category": "usa",
+            "type": "News",
+            "title": "How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWk0NWtFbkJlSWxtQzZhOFJCUzdyNGRJWUV...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWk0NWtFbkJlSWxtQzZhOFJCUzdyNGRJWUVqckpuQjQ2WXRkZmJYbWhhbmtybFJFNUJicnZXU2xndTBtMk9GckhqcFZ3Zjg1TXNNMURORTVhREYtVEswbnB5dF9vT0NEYTRORnNOVl85OVMzX3Fma0JoOHhTYzUzUUVpdVFWRUt0Ukw2QTlXX1ZFcGM?oc=5\" target=\"_blank\"&gt;How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWk0NWtFbkJlSWxtQzZhOFJCUzdyNGRJWUVqckpuQjQ2WXRkZmJYbWhhbmtybFJFNUJicnZXU2xndTBtMk9GckhqcFZ3Zjg1TXNNMURORTVhREYtVEswbnB5dF9vT0NEYTRORnNOVl85OVMzX3Fma0JoOHhTYzUzUUVpdVFWRUt0Ukw2QTlXX1ZFcGM?oc=5\" target=\"_blank\"&gt;How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1642_51",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3Z1VXMyNGF3M09YWEJ2eDg1YzgwM3o0V1h...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3Z1VXMyNGF3M09YWEJ2eDg1YzgwM3o0V1hZV2dNYmk0SVFBd3dtMlEyYUQ3bEl5QmtmQm9LOERpTTJXQ1B4bDc3Nm9sWG8yc2I1YTFOY0tJZXdCZzhPcTA3QTNHWllzQWFIUEk0STVNT0pvLVV1T21fQ1l1RFBPcmkxbE9HVmZyTVhBb0hIUFc1X2FMRVVMdTRNdHJsd2hoUlE?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOa3Z1VXMyNGF3M09YWEJ2eDg1YzgwM3o0V1hZV2dNYmk0SVFBd3dtMlEyYUQ3bEl5QmtmQm9LOERpTTJXQ1B4bDc3Nm9sWG8yc2I1YTFOY0tJZXdCZzhPcTA3QTNHWllzQWFIUEk0STVNT0pvLVV1T21fQ1l1RFBPcmkxbE9HVmZyTVhBb0hIUFc1X2FMRVVMdTRNdHJsd2hoUlE?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1643_52",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true' - Yahoo Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGpENDJyY1JNVVh1Q0FKdDVnbFVSdWlaRU1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGpENDJyY1JNVVh1Q0FKdDVnbFVSdWlaRU11TUQ0NEFLaDVyNTd6LTBuMDdRYnM1UWRZZ1JjakhPTDJQNFpHZWphQUZla1l3TEZtMDNCZUV1SUZqd3V3R0xYSk9vQW5mdnFfYzJhNUlRRUw3Uld6QlRsN3FzaHgyUmI1eFp0ZlhSSk51RVBBMmxZTEFnVEZydUxPeUZ1TzNoS1BYaV9NbUdKbVRuLVdxMkI1Unk2cWhRNm5kQUlEd3E1MHd4NXhQUGxtdFFMR3JUdDF3Z0loeGZqcnM3UEE?oc=5\" target=\"_blank\"&gt;Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi3gFBVV95cUxPTGpENDJyY1JNVVh1Q0FKdDVnbFVSdWlaRU11TUQ0NEFLaDVyNTd6LTBuMDdRYnM1UWRZZ1JjakhPTDJQNFpHZWphQUZla1l3TEZtMDNCZUV1SUZqd3V3R0xYSk9vQW5mdnFfYzJhNUlRRUw3Uld6QlRsN3FzaHgyUmI1eFp0ZlhSSk51RVBBMmxZTEFnVEZydUxPeUZ1TzNoS1BYaV9NbUdKbVRuLVdxMkI1Unk2cWhRNm5kQUlEd3E1MHd4NXhQUGxtdFFMR3JUdDF3Z0loeGZqcnM3UEE?oc=5\" target=\"_blank\"&gt;Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1644_53",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out - CBS Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1wc3ctamxSLTRhTU5wUF9UU2pzZDJ2dGtQTnd...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1wc3ctamxSLTRhTU5wUF9UU2pzZDJ2dGtQTndhT1RGTTZkVWlsa2pwVkFvT0J4SjVwbXZGdmxpVldEODBPVWJFZkRvN2huS2ZLVGJVbDl5Qzd1UXlEcnZMV0dyQmUya00xSTFIRXg2d0p5SjdKQUtMU2hUQQ?oc=5\" target=\"_blank\"&gt;Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE1wc3ctamxSLTRhTU5wUF9UU2pzZDJ2dGtQTndhT1RGTTZkVWlsa2pwVkFvT0J4SjVwbXZGdmxpVldEODBPVWJFZkRvN2huS2ZLVGJVbDl5Qzd1UXlEcnZMV0dyQmUya00xSTFIRXg2d0p5SjdKQUtMU2hUQQ?oc=5\" target=\"_blank\"&gt;Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1646_54",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT arrives in metro Atlanta ahead of FIFA World Cup - WSB-TV",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3ozWVlyQ0ZGYUMtXzJBb2N0dHpxSmJCZ19...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3ozWVlyQ0ZGYUMtXzJBb2N0dHpxSmJCZ19oYk1tdXZqU2VtWVgyNVU3ZXlWdmtUdTNPR3Y4Xzl5WXRLT1VxQ3RoZkRtTFlGOWZ2djQydjJwQmh3Mm52NldhVkxNTlJ2T0s1QV9fV29Kck5jQ0dUSTcxQ1kxNENqYVl0WE1Wbi1RZk4wWXBmb3VjbGlKMlFkSnVZd2VfOFRrNFAyTmx2cFRHQVFtd3BmUE91aFkxeW00aDlMOGptV2VmNG05b0lzMU1FWHR2aU1xRkJTcmk3WdIB6wFBVV95cUxObzJEWWpwd0labHRLSjZwUTIyLVgzOWJhNGVuVDU0OHRucnpJVXVEMTJqRHozNkl0aE9KWnNuWmRUQkZkenVhVEc1UVNlXy1YTVJMRm5aLTF0SmZwYkJNOWVvXzhEUlhSdWhQRmxTTDE0TldpdWpyQVJsNXVLS3NQWV9EOGxPdzlWa0xQenZMOEcweHU2LXQwSFlFcjAyWXU1V3dwdjhfQUt6U3NUdjQzdF9KWUJ4R0Q2YUpVREk0U09TTjZoSF85VnhQZFJxMXhvSi1Vc3ZrOVRGSWVtQU1STEZRTnNibEJ5T3lB?oc=5\" target=\"_blank\"&gt;USMNT arrives in metro Atlanta ahead of FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WSB-TV&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM3ozWVlyQ0ZGYUMtXzJBb2N0dHpxSmJCZ19oYk1tdXZqU2VtWVgyNVU3ZXlWdmtUdTNPR3Y4Xzl5WXRLT1VxQ3RoZkRtTFlGOWZ2djQydjJwQmh3Mm52NldhVkxNTlJ2T0s1QV9fV29Kck5jQ0dUSTcxQ1kxNENqYVl0WE1Wbi1RZk4wWXBmb3VjbGlKMlFkSnVZd2VfOFRrNFAyTmx2cFRHQVFtd3BmUE91aFkxeW00aDlMOGptV2VmNG05b0lzMU1FWHR2aU1xRkJTcmk3WdIB6wFBVV95cUxObzJEWWpwd0labHRLSjZwUTIyLVgzOWJhNGVuVDU0OHRucnpJVXVEMTJqRHozNkl0aE9KWnNuWmRUQkZkenVhVEc1UVNlXy1YTVJMRm5aLTF0SmZwYkJNOWVvXzhEUlhSdWhQRmxTTDE0TldpdWpyQVJsNXVLS3NQWV9EOGxPdzlWa0xQenZMOEcweHU2LXQwSFlFcjAyWXU1V3dwdjhfQUt6U3NUdjQzdF9KWUJ4R0Q2YUpVREk0U09TTjZoSF85VnhQZFJxMXhvSi1Vc3ZrOVRGSWVtQU1STEZRTnNibEJ5T3lB?oc=5\" target=\"_blank\"&gt;USMNT arrives in metro Atlanta ahead of FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WSB-TV&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1646_55",
+            "category": "usa",
+            "type": "News",
+            "title": "Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 - Seattle Sounders FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0NGbGtGdENLeUNZMjBZYXFyVXEwbnVhWkx...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0NGbGtGdENLeUNZMjBZYXFyVXEwbnVhWkxPT3BKQkViQ242RE9mbmtodGhvelFkNm9ibEV5X25FeVdxcVZScC0wYjl4MkIxSWtyQTU2T2RRY3BBdjhucFkxeFdsc0FHZm5wcnJLek9JWnFHMEN0VTkwd2NmSWF5X3pqX1pzdUN6SEtSaVVta2xYNVA3bDl6VHBlTlRmMzB1NUIzYVpEdEFkVjFRLTBvcjFKR1VRS2ZTRC1XOFR1Nl8?oc=5\" target=\"_blank\"&gt;Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Seattle Sounders FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZ0NGbGtGdENLeUNZMjBZYXFyVXEwbnVhWkxPT3BKQkViQ242RE9mbmtodGhvelFkNm9ibEV5X25FeVdxcVZScC0wYjl4MkIxSWtyQTU2T2RRY3BBdjhucFkxeFdsc0FHZm5wcnJLek9JWnFHMEN0VTkwd2NmSWF5X3pqX1pzdUN6SEtSaVVta2xYNVA3bDl6VHBlTlRmMzB1NUIzYVpEdEFkVjFRLTBvcjFKR1VRS2ZTRC1XOFR1Nl8?oc=5\" target=\"_blank\"&gt;Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Seattle Sounders FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1647_56",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Soccer Saved by Vision - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjBXamJrMlVOWWwzMm94cFR4a0pYdm9HWG1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjBXamJrMlVOWWwzMm94cFR4a0pYdm9HWG1HZ0JmUW9fa1BQc2RGQlNiRnlEQ1g3bWFzSm92bWRJaDJSSi03cHNVTkpaMFZ6dWUtVDJsV0NfZjY1RHNpNEtSTUFvbE8yRUJKakQ2YUZHT2NPM1BqVFRZb3FaTi1kOGZoUzZ6MjZBT1Z1bVlzZWF4RXlNTmhKTUdKZ0pvTnc?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Soccer Saved by Vision&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNVjBXamJrMlVOWWwzMm94cFR4a0pYdm9HWG1HZ0JmUW9fa1BQc2RGQlNiRnlEQ1g3bWFzSm92bWRJaDJSSi03cHNVTkpaMFZ6dWUtVDJsV0NfZjY1RHNpNEtSTUFvbE8yRUJKakQ2YUZHT2NPM1BqVFRZb3FaTi1kOGZoUzZ6MjZBT1Z1bVlzZWF4RXlNTmhKTUdKZ0pvTnc?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Soccer Saved by Vision&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1648_57",
+            "category": "usa",
+            "type": "News",
+            "title": "From Donovan to Harkes, USMNT's most stunning World Cup snubs ever - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTJYdmVmaU9TaXRKQThDU2tjTC05QkhxY2N...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTJYdmVmaU9TaXRKQThDU2tjTC05QkhxY2NiYnN2WWZZY3d4TGZZblpWbkJtaTdmTHRmeFAzX0VOZml5aTliQjg5U3pTU3dBTjlPMXFtUkRfZEY4d2Z1OWZ0bmljd09hVmh2WURWOUhjQ014QUZvM3FUYk9NT1llUjlmMlhlMkgyM1Z1M3ZDVGIyNzI0b1psYnhnN0NuSE1sQ1Z1RTJR?oc=5\" target=\"_blank\"&gt;From Donovan to Harkes, USMNT's most stunning World Cup snubs ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOaTJYdmVmaU9TaXRKQThDU2tjTC05QkhxY2NiYnN2WWZZY3d4TGZZblpWbkJtaTdmTHRmeFAzX0VOZml5aTliQjg5U3pTU3dBTjlPMXFtUkRfZEY4d2Z1OWZ0bmljd09hVmh2WURWOUhjQ014QUZvM3FUYk9NT1llUjlmMlhlMkgyM1Z1M3ZDVGIyNzI0b1psYnhnN0NuSE1sQ1Z1RTJR?oc=5\" target=\"_blank\"&gt;From Donovan to Harkes, USMNT's most stunning World Cup snubs ever&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1650_58",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream named USMNT captain for World Cup: 'The leader that we want' - USA Today",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVi1UTlBoQ0JwMjA2RXZpajV2Y3VHRGh6VEp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVi1UTlBoQ0JwMjA2RXZpajV2Y3VHRGh6VEpmaFMzNFkxS0FvcU5ZWUpZMTJZT2RVbVI2UzVzN1BCSnNOM2lXQ2JNTnpCTWR2ajBHc0hCMzV4R1pkLXpXS0ItSWZmVnRUT0dDQk1sdWM2NWNLZ0FaYjJBN0xMRktMOU5wN2ppSFhhNl9iWGt6VGtaaHAxZnVtRlk1OXB1a2Y5ZHNJMk1CSUYyMlE1OTNPcU9fY2NMQQ?oc=5\" target=\"_blank\"&gt;Tim Ream named USMNT captain for World Cup: 'The leader that we want'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNVi1UTlBoQ0JwMjA2RXZpajV2Y3VHRGh6VEpmaFMzNFkxS0FvcU5ZWUpZMTJZT2RVbVI2UzVzN1BCSnNOM2lXQ2JNTnpCTWR2ajBHc0hCMzV4R1pkLXpXS0ItSWZmVnRUT0dDQk1sdWM2NWNLZ0FaYjJBN0xMRktMOU5wN2ppSFhhNl9iWGt6VGtaaHAxZnVtRlk1OXB1a2Y5ZHNJMk1CSUYyMlE1OTNPcU9fY2NMQQ?oc=5\" target=\"_blank\"&gt;Tim Ream named USMNT captain for World Cup: 'The leader that we want'&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1651_59",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad - USA Today",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUW5hY0xKZ19vaVhLdEYxRS1xTC1leU0xODI...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUW5hY0xKZ19vaVhLdEYxRS1xTC1leU0xODI4QUNqMXh3aW5MdF9TY2V0VlJ4TlpITGpWbmF6SmxIcUhjb2NhM2xQVVk4TWNnU3U3LURfak0xMWxvMmlNdUlZdmtKMXI1US1qbVlQRXVHdElCT01JRndTMTYwR1J6SDdQM3M5QXg3WkN0RXB1NU8tcDRoSTk4MHB6OUlIcTVJVGtKWE5XeEdDM0pHM1Vzd05XSEFya3lnekgtNHlFTDVYU3BXYmtlOVpuMU5yV1B3U0dmWHJyUQ?oc=5\" target=\"_blank\"&gt;USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxPUW5hY0xKZ19vaVhLdEYxRS1xTC1leU0xODI4QUNqMXh3aW5MdF9TY2V0VlJ4TlpITGpWbmF6SmxIcUhjb2NhM2xQVVk4TWNnU3U3LURfak0xMWxvMmlNdUlZdmtKMXI1US1qbVlQRXVHdElCT01JRndTMTYwR1J6SDdQM3M5QXg3WkN0RXB1NU8tcDRoSTk4MHB6OUlIcTVJVGtKWE5XeEdDM0pHM1Vzd05XSEFya3lnekgtNHlFTDVYU3BXYmtlOVpuMU5yV1B3U0dmWHJyUQ?oc=5\" target=\"_blank\"&gt;USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1652_60",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report - CBS Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkstanNFM19kSGpPZnFTaUFIV3F1YVg5QTJ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkstanNFM19kSGpPZnFTaUFIV3F1YVg5QTJGSnVnY3dkdlFkZ3VTS19XU0JVSl9Vek5YYk1XdDhCODRSb3hDMml4MDRqZ0xFTngzVXBpSjFVVzBGenZXSlpGY0pmOTJOb0tNcnNBTlI0Ulg4ZWFnRU5Hc0VIbTh3UEFVaHZxa2pjWmtHeksxRzYxcTFBclA5dXpFNC1faWljTHFTWDlRTVRVdw?oc=5\" target=\"_blank\"&gt;USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTkstanNFM19kSGpPZnFTaUFIV3F1YVg5QTJGSnVnY3dkdlFkZ3VTS19XU0JVSl9Vek5YYk1XdDhCODRSb3hDMml4MDRqZ0xFTngzVXBpSjFVVzBGenZXSlpGY0pmOTJOb0tNcnNBTlI0Ulg4ZWFnRU5Hc0VIbTh3UEFVaHZxa2pjWmtHeksxRzYxcTFBclA5dXpFNC1faWljTHFTWDlRTVRVdw?oc=5\" target=\"_blank\"&gt;USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1653_61",
+            "category": "usa",
+            "type": "News",
+            "title": "Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup - NBC Los Angeles",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzB3OFhZZjRoQnJ5cU9SNXRBeXl1S3RCS2l...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzB3OFhZZjRoQnJ5cU9SNXRBeXl1S3RCS2lMQ0xDcmhpYkgxVGRvb0w5UGQzb0t4N1YxWEFNdmluLXYySXYxTHY1NEFEV2VDNV9XZTgyRTVDYktTRldXWmg5ZXl3ZHJ2emtGMHJ2Z09rU0ZkNW9NSzBnWV9FRnZQS1RUTktYYXB2Wm5jQ1BwUWpZejFOVVBN0gGfAUFVX3lxTE9aVTVQYzlvVEZEakRvUmMwbGJndGlNSk5uRTVhQTZuWXNyMzZVZkwtaXRYTXplTFJDZkdIN3dyZ2o1aTMtTFhtZUhxZ2dndzQ0VTdTWFZsbHpmek5kdFZZT0g0TUxmNkN1YlNuZUtCc2NBR1NKMldYN3lqUVlGVVllNkRLQV9OYTczXzhFZ1RJWWNfMGpBZldSUEE1N0Vubw?oc=5\" target=\"_blank\"&gt;Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Los Angeles&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOSzB3OFhZZjRoQnJ5cU9SNXRBeXl1S3RCS2lMQ0xDcmhpYkgxVGRvb0w5UGQzb0t4N1YxWEFNdmluLXYySXYxTHY1NEFEV2VDNV9XZTgyRTVDYktTRldXWmg5ZXl3ZHJ2emtGMHJ2Z09rU0ZkNW9NSzBnWV9FRnZQS1RUTktYYXB2Wm5jQ1BwUWpZejFOVVBN0gGfAUFVX3lxTE9aVTVQYzlvVEZEakRvUmMwbGJndGlNSk5uRTVhQTZuWXNyMzZVZkwtaXRYTXplTFJDZkdIN3dyZ2o1aTMtTFhtZUhxZ2dndzQ0VTdTWFZsbHpmek5kdFZZT0g0TUxmNkN1YlNuZUtCc2NBR1NKMldYN3lqUVlGVVllNkRLQV9OYTczXzhFZ1RJWWNfMGpBZldSUEE1N0Vubw?oc=5\" target=\"_blank\"&gt;Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Los Angeles&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1655_62",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star - WFIN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTE10Nm13ZjdSZmVuRWRFSnFtQWpCTHUyMDV...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTE10Nm13ZjdSZmVuRWRFSnFtQWpCTHUyMDVWTGo2TTNVeU1keVpNa2V0WUlnZHlYNFFDaTNBWEczQUoxZjVic0p1SG5rQXhmcUNEZjNOaHdZTTNPOGFrWDY0Z1RMYTVfdkpYZE95VUIzaHlqZVptQ0pWTldId1BNSGJ5MUt4RU9fVVlVSFgycVVRZkFDT0RqSkVzdWEzOVhtd3U0eFFMM0x4V3FwX3JzOGticmNjdWJoSkpOY1NBT0dtTlYtdUdKT0Y4R21id1ZDLXVQZg?oc=5\" target=\"_blank\"&gt;Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WFIN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTE10Nm13ZjdSZmVuRWRFSnFtQWpCTHUyMDVWTGo2TTNVeU1keVpNa2V0WUlnZHlYNFFDaTNBWEczQUoxZjVic0p1SG5rQXhmcUNEZjNOaHdZTTNPOGFrWDY0Z1RMYTVfdkpYZE95VUIzaHlqZVptQ0pWTldId1BNSGJ5MUt4RU9fVVlVSFgycVVRZkFDT0RqSkVzdWEzOVhtd3U0eFFMM0x4V3FwX3JzOGticmNjdWJoSkpOY1NBT0dtTlYtdUdKT0Y4R21id1ZDLXVQZg?oc=5\" target=\"_blank\"&gt;Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;WFIN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1656_63",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal friendly prediction, start time, how to watch - USA Today",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmJBa3JlM2p4UjZSZkNpQWszLUNEVFhySGs...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmJBa3JlM2p4UjZSZkNpQWszLUNEVFhySGs0cnhWR0dUMHlxVlFMRno1aExKS0hQalUyVDBacklkRFpBeDNGa3JsbzQ3Z2NtVmVyOGQ5XzQzdk9NV1BZOTZmemVHRHFxMC1TNzhyR1NmYmJfZ252MkptXzBBc21NWDlQQVgxTi1YYUdjckhRdHdTMm0ySkdITHBzZXE4RHlSU2tFSnlPaE5ZZ2tVQkZka3RETk43c0dzdmY1VTk5QVM5YWIxTVE4VFJNdVdKamNSVkN3?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal friendly prediction, start time, how to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmJBa3JlM2p4UjZSZkNpQWszLUNEVFhySGs0cnhWR0dUMHlxVlFMRno1aExKS0hQalUyVDBacklkRFpBeDNGa3JsbzQ3Z2NtVmVyOGQ5XzQzdk9NV1BZOTZmemVHRHFxMC1TNzhyR1NmYmJfZ252MkptXzBBc21NWDlQQVgxTi1YYUdjckhRdHdTMm0ySkdITHBzZXE4RHlSU2tFSnlPaE5ZZ2tVQkZka3RETk43c0dzdmY1VTk5QVM5YWIxTVE4VFJNdVdKamNSVkN3?oc=5\" target=\"_blank\"&gt;USMNT vs. Senegal friendly prediction, start time, how to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1657_64",
+            "category": "usa",
+            "type": "News",
+            "title": "‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTRBSUhnUDNfVGdobGU2RVA4c0hYVkptVXJ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTRBSUhnUDNfVGdobGU2RVA4c0hYVkptVXJ1SkVSTk91SGlPNXJxcWJMblA4X3owWXUyOHptaEFBRnNXSUUzWk55QXlJaDVuR2dEb3QzQ05zUVlucC1nZXV0c1BkTTU4dVRna2hNc054OVRuUmxqeU1VdEpMcW0yYWtXb2V2UlNWRGZ6aTlHU1JoemlfN19UZg?oc=5\" target=\"_blank\"&gt;‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPRTRBSUhnUDNfVGdobGU2RVA4c0hYVkptVXJ1SkVSTk91SGlPNXJxcWJMblA4X3owWXUyOHptaEFBRnNXSUUzWk55QXlJaDVuR2dEb3QzQ05zUVlucC1nZXV0c1BkTTU4dVRna2hNc054OVRuUmxqeU1VdEpMcW0yYWtXb2V2UlNWRGZ6aTlHU1JoemlfN19UZg?oc=5\" target=\"_blank\"&gt;‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1658_65",
+            "category": "usa",
+            "type": "News",
+            "title": "Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster - Charlotte FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3F0cGhuUE9DS2FPSFJrQWplLWJ1ZjY0d3B...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3F0cGhuUE9DS2FPSFJrQWplLWJ1ZjY0d3BzNm8tLVRHWlJQa0N6SjFpNGl1Y1VKYWQtRUk1cE1PNzU2Y2NKUVRaWDhSS2lONnZxTzA2a21yZUNmZE5JNGExb0M5WXhKdUdETUxnOGhBUmtFVm55LWhISk9ucWRBWkM4VDNOaWRuc21fd19rdVRCTmtmbEtNNi1hYUFBNlVKbldkRTBMYjJfYjdVdEVEYkFYSmRnS19vWHlESlo2OHJ6OGxhT1FoV0xJRUNRdnd6aFN5ZWpBZ2NDdkE?oc=5\" target=\"_blank\"&gt;Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Charlotte FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxNS3F0cGhuUE9DS2FPSFJrQWplLWJ1ZjY0d3BzNm8tLVRHWlJQa0N6SjFpNGl1Y1VKYWQtRUk1cE1PNzU2Y2NKUVRaWDhSS2lONnZxTzA2a21yZUNmZE5JNGExb0M5WXhKdUdETUxnOGhBUmtFVm55LWhISk9ucWRBWkM4VDNOaWRuc21fd19rdVRCTmtmbEtNNi1hYUFBNlVKbldkRTBMYjJfYjdVdEVEYkFYSmRnS19vWHlESlo2OHJ6OGxhT1FoV0xJRUNRdnd6aFN5ZWpBZ2NDdkE?oc=5\" target=\"_blank\"&gt;Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Charlotte FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1700_66",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk5VXzBpdEdhTGYzYjk3ZEU5UEN5YmxPNC1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk5VXzBpdEdhTGYzYjk3ZEU5UEN5YmxPNC1PbDk3Um5hai1tXzJJOHdBNWVTcEJGbGRsRXlWa0VRNFN5VVhYek10eVlvSUFYRE9icHNDdnhOMS1FMUVjUUM2WWNxRkZZVHJkdDVtQTNQMzlTWko0bDdqR0dqd3p1MmNOT1ZsckpHT0FJYUkwRjJ5LWx1UEFPSGFVSVpkUlNV?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOTk5VXzBpdEdhTGYzYjk3ZEU5UEN5YmxPNC1PbDk3Um5hai1tXzJJOHdBNWVTcEJGbGRsRXlWa0VRNFN5VVhYek10eVlvSUFYRE9icHNDdnhOMS1FMUVjUUM2WWNxRkZZVHJkdDVtQTNQMzlTWko0bDdqR0dqd3p1MmNOT1ZsckpHT0FJYUkwRjJ5LWx1UEFPSGFVSVpkUlNV?oc=5\" target=\"_blank\"&gt;USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1701_67",
+            "category": "usa",
+            "type": "News",
+            "title": "When is USMNT 2026 World Cup roster announced? Time and how to watch - USA Today",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOThaX3dzOHd1eU9qbFlBM2pia01ETlZheFZ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOThaX3dzOHd1eU9qbFlBM2pia01ETlZheFZzRFFJYXBPdGJGZ2thTExzZ2pET1R1ckpfRS1NMllINm5EVUlvQ29ad0VmaDNfSGRkRF9laDd4R0xfZVp2Z2hudnBySjBiUHRjdzdIdnZmZXZOaUQzYmtTRDBpWUcwWnI1WGRFSG9meFRKX19hLUJDODNDN0JUYzJsV1JUYl9MYUtObXA0dndxbkYyRk5GMVlfd3phYWdyV0hYZlJ4THFUVzg?oc=5\" target=\"_blank\"&gt;When is USMNT 2026 World Cup roster announced? Time and how to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOThaX3dzOHd1eU9qbFlBM2pia01ETlZheFZzRFFJYXBPdGJGZ2thTExzZ2pET1R1ckpfRS1NMllINm5EVUlvQ29ad0VmaDNfSGRkRF9laDd4R0xfZVp2Z2hudnBySjBiUHRjdzdIdnZmZXZOaUQzYmtTRDBpWUcwWnI1WGRFSG9meFRKX19hLUJDODNDN0JUYzJsV1JUYl9MYUtObXA0dndxbkYyRk5GMVlfd3phYWdyV0hYZlJ4THFUVzg?oc=5\" target=\"_blank\"&gt;When is USMNT 2026 World Cup roster announced? Time and how to watch&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1701_68",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it - New York Post",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQW9BRFdsNXpfbGFpV1loOXZzRmtDNWk5M0N...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQW9BRFdsNXpfbGFpV1loOXZzRmtDNWk5M0NLM01uVUEwYUJBOUJ3WHlFOW4xN2N2OW5yMFZnZ0VLeEQwNVQtVE1PdXRuVk9SaXEtZHZMdmNCajdiR3pBc0hiS25tSEVSWVBGTzkyTkpydXhzYzVWVUZRWkMtYXRDYXJrX0FZODkxd2JHYjZNTDUtZFEyNnNyMkZDT3FXZw?oc=5\" target=\"_blank\"&gt;Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOQW9BRFdsNXpfbGFpV1loOXZzRmtDNWk5M0NLM01uVUEwYUJBOUJ3WHlFOW4xN2N2OW5yMFZnZ0VLeEQwNVQtVE1PdXRuVk9SaXEtZHZMdmNCajdiR3pBc0hiS25tSEVSWVBGTzkyTkpydXhzYzVWVUZRWkMtYXRDYXJrX0FZODkxd2JHYjZNTDUtZFEyNnNyMkZDT3FXZw?oc=5\" target=\"_blank\"&gt;Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York Post&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1702_69",
+            "category": "usa",
+            "type": "News",
+            "title": "REPLAY | USMNT Roster Reveal Reaction Show - Philadelphia Union",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEFzaFByU082ZmZBTy14RFg0Tnp6Rmc1dWo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEFzaFByU082ZmZBTy14RFg0Tnp6Rmc1dWowQ2lrVjM1RWx6a0ZWRkpIWkRwTnVzNjJzYUpFU09BaXhyYVltUEdYNVBadmpjX0FZM3E4RGM3azlTY2dxN3VWWDdEdVMzRWNqS2hTUk1uZkRZb2ZGbmRseWZUMG1xT2tKWGlDejZnczhwR2VFTlRUeGtqLUJIOWUydF92bUVpMXJ2WklR?oc=5\" target=\"_blank\"&gt;REPLAY | USMNT Roster Reveal Reaction Show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Philadelphia Union&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQbEFzaFByU082ZmZBTy14RFg0Tnp6Rmc1dWowQ2lrVjM1RWx6a0ZWRkpIWkRwTnVzNjJzYUpFU09BaXhyYVltUEdYNVBadmpjX0FZM3E4RGM3azlTY2dxN3VWWDdEdVMzRWNqS2hTUk1uZkRZb2ZGbmRseWZUMG1xT2tKWGlDejZnczhwR2VFTlRUeGtqLUJIOWUydF92bUVpMXJ2WklR?oc=5\" target=\"_blank\"&gt;REPLAY | USMNT Roster Reveal Reaction Show&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Philadelphia Union&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1703_70",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino: 'Special' Pulisic will end goal drought at World Cup - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2xwNy1nWXlmWlZYNWJ2MS1iZ2hFNmxQUFJ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2xwNy1nWXlmWlZYNWJ2MS1iZ2hFNmxQUFJNWWc2dFRpODhiVTNwT3Q3TGU5OEs1bGdPLWhLWU5MTlIySWcxV0NaLXpKdS1yclZ6MXVrRlA1aFdEUm1jQzlqT2dJU3RQWWlMWE5McEx6bkw4M19VRWYxSlFvTmlRb3h5OGhRRVhES0IwVkZHSUhEX21CR1Rodjd1N0lEaGh5XzFIT0g0dw?oc=5\" target=\"_blank\"&gt;Pochettino: 'Special' Pulisic will end goal drought at World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPb2xwNy1nWXlmWlZYNWJ2MS1iZ2hFNmxQUFJNWWc2dFRpODhiVTNwT3Q3TGU5OEs1bGdPLWhLWU5MTlIySWcxV0NaLXpKdS1yclZ6MXVrRlA1aFdEUm1jQzlqT2dJU3RQWWlMWE5McEx6bkw4M19VRWYxSlFvTmlRb3h5OGhRRVhES0IwVkZHSUhEX21CR1Rodjd1N0lEaGh5XzFIT0g0dw?oc=5\" target=\"_blank\"&gt;Pochettino: 'Special' Pulisic will end goal drought at World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1704_71",
+            "category": "usa",
+            "type": "News",
+            "title": "Chemistry Coming Together as Training Kicks Off for USMNT - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU03YnBQRkhIT2x1LXhxZEdEdE5vME9sNmx...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU03YnBQRkhIT2x1LXhxZEdEdE5vME9sNmxPektCLWFYQ3NXdlcwWVN0OFF4UEE1Z21TVEVfcUdtV2twenJxYm1rNy1ETFBXcjBIeEh4ZW84SDVVMk9MSjZodmFkaHhfQXlJb1B5SEpQUEI5N1FnZUtEX094eDN3UkwyZlVibzNTUFBMSU9vS05TdmFRT2Zrd2RMQkZIREk?oc=5\" target=\"_blank\"&gt;Chemistry Coming Together as Training Kicks Off for USMNT&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOQU03YnBQRkhIT2x1LXhxZEdEdE5vME9sNmxPektCLWFYQ3NXdlcwWVN0OFF4UEE1Z21TVEVfcUdtV2twenJxYm1rNy1ETFBXcjBIeEh4ZW84SDVVMk9MSjZodmFkaHhfQXlJb1B5SEpQUEI5N1FnZUtEX094eDN3UkwyZlVibzNTUFBMSU9vS05TdmFRT2Zrd2RMQkZIREk?oc=5\" target=\"_blank\"&gt;Chemistry Coming Together as Training Kicks Off for USMNT&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1705_72",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Captain For 2026 World Cup Officially Revealed - Yahoo Sports Canada",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFFRbmFPWjNnRlk4a0RuQTBTM05ScktBSnZ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFFRbmFPWjNnRlk4a0RuQTBTM05ScktBSnZCTGpiaG5WaGlXakt2bXlmQlJXdFFoa29DOS11X2NxdFRzSzBFSkpxZW8xTzNJaW1xSmZtM1poQzg5UW9QZmFqYjRwWlRmY2x6dUtLMm5tREdMRHFVMGpKRDRhMHVfLWp3?oc=5\" target=\"_blank\"&gt;USMNT Captain For 2026 World Cup Officially Revealed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports Canada&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNUFFRbmFPWjNnRlk4a0RuQTBTM05ScktBSnZCTGpiaG5WaGlXakt2bXlmQlJXdFFoa29DOS11X2NxdFRzSzBFSkpxZW8xTzNJaW1xSmZtM1poQzg5UW9QZmFqYjRwWlRmY2x6dUtLMm5tREdMRHFVMGpKRDRhMHVfLWp3?oc=5\" target=\"_blank\"&gt;USMNT Captain For 2026 World Cup Officially Revealed&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports Canada&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1706_73",
+            "category": "usa",
+            "type": "News",
+            "title": "Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEpXdC1NZnhCRzk3TVpKdDIyemE3ajRsa1l...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEpXdC1NZnhCRzk3TVpKdDIyemE3ajRsa1lLQ2pCekNqU2lacGVUMTNiZWVhRTlVT1ZCNTV6a3lpWWprMzgwTWFmanNRbGhoRkxveG02ZE9WNHpLTTFYdGVtYUxEeHlrdlNJUkFZMlJrbjlkcjhuam84UHlpNTZSMWYzODlTcWNJVVVOVQ?oc=5\" target=\"_blank\"&gt;Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNVEpXdC1NZnhCRzk3TVpKdDIyemE3ajRsa1lLQ2pCekNqU2lacGVUMTNiZWVhRTlVT1ZCNTV6a3lpWWprMzgwTWFmanNRbGhoRkxveG02ZE9WNHpLTTFYdGVtYUxEeHlrdlNJUkFZMlJrbjlkcjhuam84UHlpNTZSMWYzODlTcWNJVVVOVQ?oc=5\" target=\"_blank\"&gt;Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1707_74",
+            "category": "usa",
+            "type": "News",
+            "title": "The three USMNT players who will define success or failure in historic World Cup with $50m reward - talkSPORT",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkRLU281MnUwNFk3NGpWaG9YdElPQkVmTC1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkRLU281MnUwNFk3NGpWaG9YdElPQkVmTC1aa1BnNnhzYVhDejdMcUl4cmxZUkV3LTVfMURqaHVCUzJ0ZDZMdjlyZkRMb3NNS0hDRGw1cjRlbVIzMC1FNkNTSll2amJvd0NoSFBqSHRuV082cUY2bnRvcnU1Q3JOWFBkWlR1X2hBSjA1Q2MzdDladC1BVFdtWDhwTzkydGJJc3VRdW1ocGNEWmZLaG9VZA?oc=5\" target=\"_blank\"&gt;The three USMNT players who will define success or failure in historic World Cup with $50m reward&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQkRLU281MnUwNFk3NGpWaG9YdElPQkVmTC1aa1BnNnhzYVhDejdMcUl4cmxZUkV3LTVfMURqaHVCUzJ0ZDZMdjlyZkRMb3NNS0hDRGw1cjRlbVIzMC1FNkNTSll2amJvd0NoSFBqSHRuV082cUY2bnRvcnU1Q3JOWFBkWlR1X2hBSjA1Q2MzdDladC1BVFdtWDhwTzkydGJJc3VRdW1ocGNEWmZLaG9VZA?oc=5\" target=\"_blank\"&gt;The three USMNT players who will define success or failure in historic World Cup with $50m reward&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;talkSPORT&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1709_75",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic - Yahoo Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWdsaU5ucEJLVy16TWt4OTduYzdTY3N4amR...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWdsaU5ucEJLVy16TWt4OTduYzdTY3N4amRWNy1Gb2RrRGxWYkU3WjRmNmRoVlFlU3Rkd1VnY2thZkVYNFVjTGxfMzg0bTdJaHNlOWNuTlU1dUdXU181TDQyOE81V3BZTGQ3TzBDWjBKREF5MG02MFo5d3lUakJRaA?oc=5\" target=\"_blank\"&gt;Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNcWdsaU5ucEJLVy16TWt4OTduYzdTY3N4amRWNy1Gb2RrRGxWYkU3WjRmNmRoVlFlU3Rkd1VnY2thZkVYNFVjTGxfMzg0bTdJaHNlOWNuTlU1dUdXU181TDQyOE81V3BZTGQ3TzBDWjBKREF5MG02MFo5d3lUakJRaA?oc=5\" target=\"_blank\"&gt;Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Yahoo Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1710_76",
+            "category": "usa",
+            "type": "News",
+            "title": "When is the next USMNT game? Schedule, how to watch upcoming games - Times Union",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjNLajRyVWpDc05rNVVsSEN0bTdySnJma2Y...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjNLajRyVWpDc05rNVVsSEN0bTdySnJma2YzVmxPRkc2RllTSDJlOXNJdDkxQzRsUVFsQ293eUxmb2l4NEFTb21CdEhnREphc2VBZVJlVHdwemFCNW1MS29vdWMwbXVnQW5VNmNaeXg1dFl6dE9vZmpMMk9mS2xjQWhKLTcwblRCX2tXaTVVemZBajNjMS05TUdYb1YzNEJranRmRQ?oc=5\" target=\"_blank\"&gt;When is the next USMNT game? Schedule, how to watch upcoming games&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Times Union&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxQYjNLajRyVWpDc05rNVVsSEN0bTdySnJma2YzVmxPRkc2RllTSDJlOXNJdDkxQzRsUVFsQ293eUxmb2l4NEFTb21CdEhnREphc2VBZVJlVHdwemFCNW1MS29vdWMwbXVnQW5VNmNaeXg1dFl6dE9vZmpMMk9mS2xjQWhKLTcwblRCX2tXaTVVemZBajNjMS05TUdYb1YzNEJranRmRQ?oc=5\" target=\"_blank\"&gt;When is the next USMNT game? Schedule, how to watch upcoming games&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Times Union&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1711_77",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad? - NBC Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb001QldUMHZXWDJwYzZZWWdSY2sxQmlxMHd...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb001QldUMHZXWDJwYzZZWWdSY2sxQmlxMHdYQjlnQV9peW5GUElhZEVlU1Zjdk93LTBxMWtUcWJfNlRqbEpFZW55Sm1ia0YzUWRHbFdHdUFESVVqZnNUZF9NRU82OFlsTUpyZTNrSmlSSEQtVk03VkFaZUpveDkzYXRSQ3ZMOTBsWEloNTg1b1RFSUFGNmtGUjRSMFM2bFk0SDMwTXRvLWFSc0xWM3k0ZU5qNzgzenMzVHNFQ3Q3b1ZUdw?oc=5\" target=\"_blank\"&gt;USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxOb001QldUMHZXWDJwYzZZWWdSY2sxQmlxMHdYQjlnQV9peW5GUElhZEVlU1Zjdk93LTBxMWtUcWJfNlRqbEpFZW55Sm1ia0YzUWRHbFdHdUFESVVqZnNUZF9NRU82OFlsTUpyZTNrSmlSSEQtVk03VkFaZUpveDkzYXRSQ3ZMOTBsWEloNTg1b1RFSUFGNmtGUjRSMFM2bFk0SDMwTXRvLWFSc0xWM3k0ZU5qNzgzenMzVHNFQ3Q3b1ZUdw?oc=5\" target=\"_blank\"&gt;USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;NBC Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1712_78",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ... - World Soccer Talk",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS2dEVTNuX2Y2dDRTZDVuNC1CVlFndzNtNmh...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS2dEVTNuX2Y2dDRTZDVuNC1CVlFndzNtNmh5c0ZvTTV5em1OYXgwbW5xRmVEdjFqd3dkbWR3YmlwTUs5Q1ZmX05keURta3lXaEFDMVRmUnowWDl1VEZDY3FYYlVOSzdXdV81NDVadVotTE1lOG4yNHFSVXZxWnF2X0tsZnBhZUJFaUItNVFwRktieUQtemRoM0VHN0dDdHNUdlZFV0pHWmZsNnY3ZHZtNlNPYlQ0V0tyZG5oZC14Z1Y1bWV4amNhUjVTVUtlbTVXemRaQXhINlc1SEZYYWtPclVmb9IB5wFBVV95cUxNTE9lemFxaWZrTEtVaEJoVXNiS1dFQTgtcG5tdEhzUUtSNk5lclV4T3RkVV9raUxUTFFrcWlySzVWN05KcUVlVkt3UGJlMjRtc1ZtT0NDNjM4S09VN2phdXRTbUV0SkgxOXRaR3BZRm1adHhDUC16UUk3Z3RIa1ZHWG5nNC0zcmNRTDNhYjdOQy01MGNSbkpfUDBtU0RtRU9FdFlkMmZ4ZG5TNEJHLVBPUUs2V3lubDFWdzY2eVNmWmVkTTVWcEZtVTF4RFRkYjk3djgxbXVvZ3RfTi1zcjQwRDdPb3BKbmM?oc=5\" target=\"_blank\"&gt;Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;World Soccer Talk&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi4wFBVV95cUxPS2dEVTNuX2Y2dDRTZDVuNC1CVlFndzNtNmh5c0ZvTTV5em1OYXgwbW5xRmVEdjFqd3dkbWR3YmlwTUs5Q1ZmX05keURta3lXaEFDMVRmUnowWDl1VEZDY3FYYlVOSzdXdV81NDVadVotTE1lOG4yNHFSVXZxWnF2X0tsZnBhZUJFaUItNVFwRktieUQtemRoM0VHN0dDdHNUdlZFV0pHWmZsNnY3ZHZtNlNPYlQ0V0tyZG5oZC14Z1Y1bWV4amNhUjVTVUtlbTVXemRaQXhINlc1SEZYYWtPclVmb9IB5wFBVV95cUxNTE9lemFxaWZrTEtVaEJoVXNiS1dFQTgtcG5tdEhzUUtSNk5lclV4T3RkVV9raUxUTFFrcWlySzVWN05KcUVlVkt3UGJlMjRtc1ZtT0NDNjM4S09VN2phdXRTbUV0SkgxOXRaR3BZRm1adHhDUC16UUk3Z3RIa1ZHWG5nNC0zcmNRTDNhYjdOQy01MGNSbkpfUDBtU0RtRU9FdFlkMmZ4ZG5TNEJHLVBPUUs2V3lubDFWdzY2eVNmWmVkTTVWcEZtVTF4RFRkYjk3djgxbXVvZ3RfTi1zcjQwRDdPb3BKbmM?oc=5\" target=\"_blank\"&gt;Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ...&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;World Soccer Talk&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1713_79",
+            "category": "usa",
+            "type": "News",
+            "title": "USA squad for 2026 World Cup: All players, captain, shirt numbers and Mauricio Pochettino's coaching staff - DAZN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcDlnZWUyYmV3NHppSmZpVWREX3lzVVNGUVF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcDlnZWUyYmV3NHppSmZpVWREX3lzVVNGUVFsMFY3dXN2cVQweDVHMXpoazdaelBiZE5sVjE2b3Z3QUlUZ3psWWNEQkNFaEhOdEtKWk5KWjBvVF8zNE9qdDJMQ0pnWkQyQkZSdjl0N0x0RTNZU29ZclRzWjRteUg1ZTRYdUpHRW51R2ktR1E1NHZMNFlhbHBMUW0tb1R6UWREamVPaE1faWtzVFoxUTMzNDBQdVhDbkdubkVTSDZrOWhGcmMwVXY4dWVWckNMdWhUVkgwUlItX1RvSWxEdXBIUjhoVDJyaW9iNjJxeVZ6QzBpeXRf?oc=5\" target=\"_blank\"&gt;USA squad for 2026 World Cup: All players, captain, shirt numbers and Mauricio Pochettino's coaching staff&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcDlnZWUyYmV3NHppSmZpVWREX3lzVVNGUVFsMFY3dXN2cVQweDVHMXpoazdaelBiZE5sVjE2b3Z3QUlUZ3psWWNEQkNFaEhOdEtKWk5KWjBvVF8zNE9qdDJMQ0pnWkQyQkZSdjl0N0x0RTNZU29ZclRzWjRteUg1ZTRYdUpHRW51R2ktR1E1NHZMNFlhbHBMUW0tb1R6UWREamVPaE1faWtzVFoxUTMzNDBQdVhDbkdubkVTSDZrOWhGcmMwVXY4dWVWckNMdWhUVkgwUlItX1RvSWxEdXBIUjhoVDJyaW9iNjJxeVZ6QzBpeXRf?oc=5\" target=\"_blank\"&gt;USA squad for 2026 World Cup: All players, captain, shirt numbers and Mauricio Pochettino's coaching staff&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;DAZN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1714_80",
+            "category": "usa",
+            "type": "News",
+            "title": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGlkWWRuLVdIV3JTY21xZkpJS0pCLUR0XzM...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGlkWWRuLVdIV3JTY21xZkpJS0pCLUR0XzMwc3VwM1pzMmIwc2hzZ0daTWk0YURIMkpfRHJKd1FXdmxtQjBCbkYteEprMmFWd1ViYm5yYlY0YUtlTkxlVklTWjFPRVdzc3BKNEdyU2RnNGxXZ3VqM2Y1RzZ3Z2NHNV9IZUdaeGstUlpYeEpDN2pzdnVPMFlvNGh1UmJYSk1jZm9LR3Bn?oc=5\" target=\"_blank\"&gt;After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZGlkWWRuLVdIV3JTY21xZkpJS0pCLUR0XzMwc3VwM1pzMmIwc2hzZ0daTWk0YURIMkpfRHJKd1FXdmxtQjBCbkYteEprMmFWd1ViYm5yYlY0YUtlTkxlVklTWjFPRVdzc3BKNEdyU2RnNGxXZ3VqM2Y1RzZ3Z2NHNV9IZUdaeGstUlpYeEpDN2pzdnVPMFlvNGh1UmJYSk1jZm9LR3Bn?oc=5\" target=\"_blank\"&gt;After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1715_81",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29 - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0ZBVXc0YkJSZzJ0MDhKalI2aFNCN0J6MDV...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0ZBVXc0YkJSZzJ0MDhKalI2aFNCN0J6MDVrdHlCQUFoMEVHSVVtSHF2akZjZDZwZjRGUEtaZkg1Tjg2V25DaXJwTFY4ZEdQQnZ2WHl6TlM0eVpsYUQ0SHFGYk13OXR0SzBuUjU3VDctbGdVX3FxcEpWcUd0ZllFOWVEaFVQMXdyZ21NTENFYjMxMmM?oc=5\" target=\"_blank\"&gt;Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOU0ZBVXc0YkJSZzJ0MDhKalI2aFNCN0J6MDVrdHlCQUFoMEVHSVVtSHF2akZjZDZwZjRGUEtaZkg1Tjg2V25DaXJwTFY4ZEdQQnZ2WHl6TlM0eVpsYUQ0SHFGYk13OXR0SzBuUjU3VDctbGdVX3FxcEpWcUd0ZllFOWVEaFVQMXdyZ21NTENFYjMxMmM?oc=5\" target=\"_blank\"&gt;Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1717_82",
+            "category": "usa",
+            "type": "News",
+            "title": "The USMNT have a chance to inspire a nation at the World Cup - Stars and Stripes FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXl3UW14TzZOci1FSVdkR3Z4cDJnMkJvOHB...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXl3UW14TzZOci1FSVdkR3Z4cDJnMkJvOHBmRGpLMjBGaGtRSm04SEd3ZFVRQUc3VnVTcC1HSWtLWER4RHJiT1hxSG9xcUhwNTZrWU5YbXVjRUhxMHZHLVBYN0Nkc0labERKcUxtcXR6Q195M3RNdWRVR0VjYVItQkZPdlV0dTFKVm1BTVdDcmhXTXBnMGFIU3Nmam1uN0N0Z2pRMi1TTWRjZw?oc=5\" target=\"_blank\"&gt;The USMNT have a chance to inspire a nation at the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMXl3UW14TzZOci1FSVdkR3Z4cDJnMkJvOHBmRGpLMjBGaGtRSm04SEd3ZFVRQUc3VnVTcC1HSWtLWER4RHJiT1hxSG9xcUhwNTZrWU5YbXVjRUhxMHZHLVBYN0Nkc0labERKcUxtcXR6Q195M3RNdWRVR0VjYVItQkZPdlV0dTFKVm1BTVdDcmhXTXBnMGFIU3Nmam1uN0N0Z2pRMi1TTWRjZw?oc=5\" target=\"_blank\"&gt;The USMNT have a chance to inspire a nation at the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1718_83",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury - CBS Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzNJNkNUVE5xSHhmenhSMk15SDBwNzQ1b28...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzNJNkNUVE5xSHhmenhSMk15SDBwNzQ1b282ZmVtc3FsT2d2VzdpcUFDSW1acWN5VndoWG1IejJRSnFaQUJmQUdxVlY3VDRCeU1BRHc2NWdoeVc2N3BiZ09lMmhlSE4xd3QxT1AzUW5qX09FTXVBWFlpVjN6b0lsa291OTZwTkpGN0JfaTMzRUZEWHY5eExQSFpEMXZGeGZKNzRZZ3A3aE1NMEtRc29OUkVYWFQzaENobnFoag?oc=5\" target=\"_blank\"&gt;Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOQzNJNkNUVE5xSHhmenhSMk15SDBwNzQ1b282ZmVtc3FsT2d2VzdpcUFDSW1acWN5VndoWG1IejJRSnFaQUJmQUdxVlY3VDRCeU1BRHc2NWdoeVc2N3BiZ09lMmhlSE4xd3QxT1AzUW5qX09FTXVBWFlpVjN6b0lsa291OTZwTkpGN0JfaTMzRUZEWHY5eExQSFpEMXZGeGZKNzRZZ3A3aE1NMEtRc29OUkVYWFQzaENobnFoag?oc=5\" target=\"_blank\"&gt;Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;CBS Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1720_84",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup - MARCA",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckt5cjhBRk1OZ2FVQkJ2eWx0ZV90R1FPWnh...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckt5cjhBRk1OZ2FVQkJ2eWx0ZV90R1FPWnhfYmxKalBnX2UtOWZXaEM3cC1oYlA1a0Yyenh2YzM4c3FNU0NrcWlkRXliWnItM21EZVFROVRzaHNWWVZ5cUpfcnl5M2xLY3BUeHFwSkN3LTU2YUZBc1dxRnNpejVmMVFDcTFpZmpUT3V0eXI3Vlowc1NSNjFuTG1kdUh2cXhUbGt4ZDNMTzZ6SUVsY0ptZ01ZQVV4S2Z3b2Q0Wk5iaWxXbkNhVUNhdDF1eEFFeXNPX2fSAdIBQVVfeXFMT3lSNWJXZEJ0cFNZWkNjTGRlUlpjVlRoZVhsZTZuTzZNYmQxVlNsRXJTbTNsTTBNOFZJZFBaSm0zNW9mRVI5Nm5TZmxSdEZsa21JcDVCNGpOUmhKckhJS1M4czZVLThiNm81UjZqQWlpQ254dkkyY0NhWjRhaEl0ekRxWHVhMmtDN3hYVnNyWml6Qm1tZERaN1NBQVJSVGRvSXVFcE5Wc3VSYmN3MmpxU240dTZsSV9PamNNVVVRdGpGMmhSQ2RhWFRLRjM4N0Fpcm53?oc=5\" target=\"_blank\"&gt;Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MARCA&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxQckt5cjhBRk1OZ2FVQkJ2eWx0ZV90R1FPWnhfYmxKalBnX2UtOWZXaEM3cC1oYlA1a0Yyenh2YzM4c3FNU0NrcWlkRXliWnItM21EZVFROVRzaHNWWVZ5cUpfcnl5M2xLY3BUeHFwSkN3LTU2YUZBc1dxRnNpejVmMVFDcTFpZmpUT3V0eXI3Vlowc1NSNjFuTG1kdUh2cXhUbGt4ZDNMTzZ6SUVsY0ptZ01ZQVV4S2Z3b2Q0Wk5iaWxXbkNhVUNhdDF1eEFFeXNPX2fSAdIBQVVfeXFMT3lSNWJXZEJ0cFNZWkNjTGRlUlpjVlRoZVhsZTZuTzZNYmQxVlNsRXJTbTNsTTBNOFZJZFBaSm0zNW9mRVI5Nm5TZmxSdEZsa21JcDVCNGpOUmhKckhJS1M4czZVLThiNm81UjZqQWlpQ254dkkyY0NhWjRhaEl0ekRxWHVhMmtDN3hYVnNyWml6Qm1tZERaN1NBQVJSVGRvSXVFcE5Wc3VSYmN3MmpxU240dTZsSV9PamNNVVVRdGpGMmhSQ2RhWFRLRjM4N0Fpcm53?oc=5\" target=\"_blank\"&gt;Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MARCA&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1720_85",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1pxYm8wcWpLVElyWjdGZzFjZHE5NllQbEF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1pxYm8wcWpLVElyWjdGZzFjZHE5NllQbEFRZ2pOeGFDMVpMVVVkal94M0hyaDF6MGwtaUViS2J0cTBWYlBTVnVzSHhmTWxKajBPNTl1RmdhLVM0VFJfRzNpN3pxNjhlNUZNMTlLUHlocHdPdThqbFRMdmItckhZamlJblNhVFFRMWZ5YzlFd1lnWU5DZ1JVNlZR?oc=5\" target=\"_blank\"&gt;U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNV1pxYm8wcWpLVElyWjdGZzFjZHE5NllQbEFRZ2pOeGFDMVpMVVVkal94M0hyaDF6MGwtaUViS2J0cTBWYlBTVnVzSHhmTWxKajBPNTl1RmdhLVM0VFJfRzNpN3pxNjhlNUZNMTlLUHlocHdPdThqbFRMdmItckhZamlJblNhVFFRMWZ5YzlFd1lnWU5DZ1JVNlZR?oc=5\" target=\"_blank\"&gt;U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1721_86",
+            "category": "usa",
+            "type": "News",
+            "title": "Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad? - USA Today",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRU5EVTZhWFR2aUVEWXVIR3k1a3ZHZVctWUt...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRU5EVTZhWFR2aUVEWXVIR3k1a3ZHZVctWUtVZnlEZ19Jd2lhWEVEdHBySF9EbGxnOUI3OFBWNTJfS2hBb2t5aTBxWkxzaXdpZUM2QVNFQ3ozcHdPb1lXM0ZXTWhBejg0b3JnRTZiQks4S3dCdW1xWWlGdGFkV2pHM3VvSy1Gbmtua1B2cEVORGpSQlNRTnBNamdIV1k4bVFNWHN3ZXRSV0pMY2E3eG01Mg?oc=5\" target=\"_blank\"&gt;Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNRU5EVTZhWFR2aUVEWXVIR3k1a3ZHZVctWUtVZnlEZ19Jd2lhWEVEdHBySF9EbGxnOUI3OFBWNTJfS2hBb2t5aTBxWkxzaXdpZUM2QVNFQ3ozcHdPb1lXM0ZXTWhBejg0b3JnRTZiQks4S3dCdW1xWWlGdGFkV2pHM3VvSy1Gbmtua1B2cEVORGpSQlNRTnBNamdIV1k4bVFNWHN3ZXRSV0pMY2E3eG01Mg?oc=5\" target=\"_blank\"&gt;Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad?&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;USA Today&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1723_87",
+            "category": "usa",
+            "type": "News",
+            "title": "Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up - Seattle Sounders FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORUZmazJtT0V3a1JwRDFiWkdzYjFKMjhneGp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORUZmazJtT0V3a1JwRDFiWkdzYjFKMjhneGpJQXlqZjhIRURXd2FNUF83WGE2RHdMQlhBUTBvNVVCOEVCNHMtT2taUXBLU1NxZEp3WnBPZ2pOTmp5VTJncmFsRGtEV0VXYmxnR1pmdmpFN3Nna2RsOHl6RVVUM1piaVZSa3hnV0tyT3ViQ3JXcXk5NU5Ud3FhRFJhNW9ndUxPOUJNNEozeDZKTk5uZkZWOGwzMTZoQQ?oc=5\" target=\"_blank\"&gt;Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Seattle Sounders FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxORUZmazJtT0V3a1JwRDFiWkdzYjFKMjhneGpJQXlqZjhIRURXd2FNUF83WGE2RHdMQlhBUTBvNVVCOEVCNHMtT2taUXBLU1NxZEp3WnBPZ2pOTmp5VTJncmFsRGtEV0VXYmxnR1pmdmpFN3Nna2RsOHl6RVVUM1piaVZSa3hnV0tyT3ViQ3JXcXk5NU5Ud3FhRFJhNW9ndUxPOUJNNEozeDZKTk5uZkZWOGwzMTZoQQ?oc=5\" target=\"_blank\"&gt;Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Seattle Sounders FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1724_88",
+            "category": "usa",
+            "type": "News",
+            "title": "Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks - Front Office Sports",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlTmV4ZGxuNkJCcU1DdURhZFBxQUxlNDJ2WFN...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlTmV4ZGxuNkJCcU1DdURhZFBxQUxlNDJ2WFNlZzRhTUctelR3MEZxUlVpc3NLWnp2YmZjYlRBeWJxT19ObHdmUFRrSVVsNlNsYWtYc0RiZndwa3ItYU0zMmNOV1Q?oc=5\" target=\"_blank\"&gt;Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Front Office Sports&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBlTmV4ZGxuNkJCcU1DdURhZFBxQUxlNDJ2WFNlZzRhTUctelR3MEZxUlVpc3NLWnp2YmZjYlRBeWJxT19ObHdmUFRrSVVsNlNsYWtYc0RiZndwa3ItYU0zMmNOV1Q?oc=5\" target=\"_blank\"&gt;Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Front Office Sports&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1725_89",
+            "category": "usa",
+            "type": "News",
+            "title": "Around the game (USMNT edition) - Soccer America",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAyczBadS1ZcWY0TVp0d2JNMzc4SW5nOXQ0aEZ...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAyczBadS1ZcWY0TVp0d2JNMzc4SW5nOXQ0aEZPN01KZTRvZjNvUmZVNkdMZ3ZrdkNIdm9MQUNIY0NsQUd5UVJEXzVuZkMzTmE3Rzlpc0FidWJ0TE0wRXNrZ3NXWFVEcHQ1c0E0dw?oc=5\" target=\"_blank\"&gt;Around the game (USMNT edition)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Soccer America&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFAyczBadS1ZcWY0TVp0d2JNMzc4SW5nOXQ0aEZPN01KZTRvZjNvUmZVNkdMZ3ZrdkNIdm9MQUNIY0NsQUd5UVJEXzVuZkMzTmE3Rzlpc0FidWJ0TE0wRXNrZ3NXWFVEcHQ1c0E0dw?oc=5\" target=\"_blank\"&gt;Around the game (USMNT edition)&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Soccer America&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1726_90",
+            "category": "usa",
+            "type": "News",
+            "title": "2026 World Cup Group D preview: USMNT embarks on historic journey - Stars and Stripes FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkNxSVZMVnBRTUF2TVBGQU9teTJINnpiTjF...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkNxSVZMVnBRTUF2TVBGQU9teTJINnpiTjFRVGQzR24zTmpjYjJMMkR3T0k2aTZmT1EyS1A3TllyM1E5ek9aRXhadkF5ZkoyeUtoVWNXOWlyMV9HSzJGOU9SQWlyZnJnNE5RcDE5RzYxZnZNWGJjOVdSSnFlTHpqYlpSVDEyMFRYMVhpZVBUWkhxdFY5UFlfQWdMUUlqS19EbkZtY2RpTzFSS3hGVWpZ?oc=5\" target=\"_blank\"&gt;2026 World Cup Group D preview: USMNT embarks on historic journey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNVkNxSVZMVnBRTUF2TVBGQU9teTJINnpiTjFRVGQzR24zTmpjYjJMMkR3T0k2aTZmT1EyS1A3TllyM1E5ek9aRXhadkF5ZkoyeUtoVWNXOWlyMV9HSzJGOU9SQWlyZnJnNE5RcDE5RzYxZnZNWGJjOVdSSnFlTHpqYlpSVDEyMFRYMVhpZVBUWkhxdFY5UFlfQWdMUUlqS19EbkZtY2RpTzFSS3hGVWpZ?oc=5\" target=\"_blank\"&gt;2026 World Cup Group D preview: USMNT embarks on historic journey&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Stars and Stripes FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1728_91",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic - The New York Times",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTFFLUdzREZaUzlJQzBSa1FEMDY4em10Z3c...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTFFLUdzREZaUzlJQzBSa1FEMDY4em10Z3c2N1JteFFnRnhsS2NPWnRnaXhKNUxvUTRjNTlqNTZHNjlQRGFUTnRpbll3Q3JMTW5PMjg5QmZULTZtTzlsbkpvTTUtcHB2Zl9DQm5OZDJnMlR1LWVwRll6VV94UHBJV0dpMUN0RlpKV0FHT05QM0V4NFpxbTEw?oc=5\" target=\"_blank\"&gt;USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYTFFLUdzREZaUzlJQzBSa1FEMDY4em10Z3c2N1JteFFnRnhsS2NPWnRnaXhKNUxvUTRjNTlqNTZHNjlQRGFUTnRpbll3Q3JMTW5PMjg5QmZULTZtTzlsbkpvTTUtcHB2Zl9DQm5OZDJnMlR1LWVwRll6VV94UHBJV0dpMUN0RlpKV0FHT05QM0V4NFpxbTEw?oc=5\" target=\"_blank\"&gt;USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;The New York Times&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1729_92",
+            "category": "usa",
+            "type": "News",
+            "title": "Photos | 2026 USMNT World Cup Roster Reveal - New York City FC",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObHVFc1FmX05CNjdrZ2lzTDMyMXZHaTNseUU...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObHVFc1FmX05CNjdrZ2lzTDMyMXZHaTNseUU4WE94TFZmd244VFUycmZoanIzZ0sycjloSFNPc19kZXJTMXVEd2xSTndEeXlkcm9Yb0p5bDZRY0Y5Z3M3Zm1nMGkxMU1WY0RKbWlvalJqQUdoUGlhdWg3MHh6UXNObXFCRUU?oc=5\" target=\"_blank\"&gt;Photos | 2026 USMNT World Cup Roster Reveal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York City FC&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxObHVFc1FmX05CNjdrZ2lzTDMyMXZHaTNseUU4WE94TFZmd244VFUycmZoanIzZ0sycjloSFNPc19kZXJTMXVEd2xSTndEeXlkcm9Yb0p5bDZRY0Y5Z3M3Zm1nMGkxMU1WY0RKbWlvalJqQUdoUGlhdWg3MHh6UXNObXFCRUU?oc=5\" target=\"_blank\"&gt;Photos | 2026 USMNT World Cup Roster Reveal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;New York City FC&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1730_93",
+            "category": "usa",
+            "type": "News",
+            "title": "HE’S THE SKIPPER: Ream named USMNT captain for the World Cup - Front Row Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSm9xbHh3VVM5V1FXYXhhLUN6WVFEd1hPekx...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSm9xbHh3VVM5V1FXYXhhLUN6WVFEd1hPekxQeEJWOUhReEp3SEdlbzU1TFRJWnAzWjRFRlhaU0M3Sjc0QmpLTUthZGxHQnZrcTJWY1R5TzhiZDZRZXZld1d3VUF1Zk9JQzRtZnRhZ2tNUHVHaWFQblJWME90U3FkNFRsU2xQLXV0LVd3bldOME95ak5qZ1g5VE9aWENrazJEMUk0?oc=5\" target=\"_blank\"&gt;HE’S THE SKIPPER: Ream named USMNT captain for the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Front Row Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxPSm9xbHh3VVM5V1FXYXhhLUN6WVFEd1hPekxQeEJWOUhReEp3SEdlbzU1TFRJWnAzWjRFRlhaU0M3Sjc0QmpLTUthZGxHQnZrcTJWY1R5TzhiZDZRZXZld1d3VUF1Zk9JQzRtZnRhZ2tNUHVHaWFQblJWME90U3FkNFRsU2xQLXV0LVd3bldOME95ak5qZ1g5VE9aWENrazJEMUk0?oc=5\" target=\"_blank\"&gt;HE’S THE SKIPPER: Ream named USMNT captain for the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Front Row Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1731_94",
+            "category": "usa",
+            "type": "News",
+            "title": "Sources: Reyna in, Tessmann out as USMNT names World Cup squad - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNzWjlmb3hwdC0yYjFxLVpKRU5TM0wzNks...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNzWjlmb3hwdC0yYjFxLVpKRU5TM0wzNks2Smg1YlBHOTR5VjN6ZjhuRGt2dkhWcmlSeFhNMFpuNk55MW9TdVFlbzZUSmh4Qm9wSHN6cHMxUUttejltTmloRW9nWGFjeVhoVmFfQVJncmdLd0g3OHgtNUlyYUdLTXVvN3ZZdjhXMWVnXzA5ZHJBNE9KczNDWnBycHNjakFNT2pWWS1n?oc=5\" target=\"_blank\"&gt;Sources: Reyna in, Tessmann out as USMNT names World Cup squad&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNzWjlmb3hwdC0yYjFxLVpKRU5TM0wzNks2Smg1YlBHOTR5VjN6ZjhuRGt2dkhWcmlSeFhNMFpuNk55MW9TdVFlbzZUSmh4Qm9wSHN6cHMxUUttejltTmloRW9nWGFjeVhoVmFfQVJncmdLd0g3OHgtNUlyYUdLTXVvN3ZZdjhXMWVnXzA5ZHJBNE9KczNDWnBycHNjakFNT2pWWS1n?oc=5\" target=\"_blank\"&gt;Sources: Reyna in, Tessmann out as USMNT names World Cup squad&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1732_95",
+            "category": "usa",
+            "type": "News",
+            "title": "Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup - ESPN",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUFTWGpGaUdXVV8wcGN1SHVCWGc4YkIzZlc...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUFTWGpGaUdXVV8wcGN1SHVCWGc4YkIzZlc5MnZsM1FUZ19oYVY1cjNwQkp2MnUydGtuYVAtMkxWd0JpazQzQzEzaFh5LUdfdUZWZ0diREpuSVZOS1Y3aDgycW93MVNkV3FRNTBJa21ZVENJWTBkZlQzX1l0VTRBbjB4SDNYb1NTckpfaEFRTE10VWxGdTZObGxxREFrdkhBd1E?oc=5\" target=\"_blank\"&gt;Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUFTWGpGaUdXVV8wcGN1SHVCWGc4YkIzZlc5MnZsM1FUZ19oYVY1cjNwQkp2MnUydGtuYVAtMkxWd0JpazQzQzEzaFh5LUdfdUZWZ0diREpuSVZOS1Y3aDgycW93MVNkV3FRNTBJa21ZVENJWTBkZlQzX1l0VTRBbjB4SDNYb1NTckpfaEFRTE10VWxGdTZObGxxREFrdkhBd1E?oc=5\" target=\"_blank\"&gt;Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;ESPN&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1733_96",
+            "category": "usa",
+            "type": "News",
+            "title": "Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal - Sports Illustrated",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFBWXhTTUpNVU9uX2FIekF5TmVDY3ZHZEp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFBWXhTTUpNVU9uX2FIekF5TmVDY3ZHZEp6RXVkMmRQbkhYR2hIMUlETmYwU1NNaW9kZTRGb25kbW9nX3J6eDg4c09FVVBjYm5SdjFhalVyTGhZOXhVVmw3ZkxIUDRMaTF3ckVnSTF6bmJhY0lRT3JCUHNEc1VrU2xiM3hfbEtaMS1CeEo4ZXJSR0tPRHhIMEhIWWZrNnFmRnpZ?oc=5\" target=\"_blank\"&gt;Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNUjFBWXhTTUpNVU9uX2FIekF5TmVDY3ZHZEp6RXVkMmRQbkhYR2hIMUlETmYwU1NNaW9kZTRGb25kbW9nX3J6eDg4c09FVVBjYm5SdjFhalVyTGhZOXhVVmw3ZkxIUDRMaTF3ckVnSTF6bmJhY0lRT3JCUHNEc1VrU2xiM3hfbEtaMS1CeEo4ZXJSR0tPRHhIMEhIWWZrNnFmRnpZ?oc=5\" target=\"_blank\"&gt;Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Sports Illustrated&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1734_97",
+            "category": "usa",
+            "type": "News",
+            "title": "Arfsten to Turner: Every MLS player on USMNT's World Cup roster - MLSsoccer.com",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlQ0T2FsVklwRmF6enhibElhcmxGLUxMTG8...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlQ0T2FsVklwRmF6enhibElhcmxGLUxMTG8xXzhxY3VXNzIxQVp5U3lLenR0U09jaHdkV1oyTHpDVmQ0UG5GUW9EQmk2VW84cHBDVjVDY25JWmtwdzlQck8yaTROYm5PNkd6SkpORlBZUVR1X2YzMXJ6UjhtRjZVZ1BmM1RDc1ZNdzdNSA?oc=5\" target=\"_blank\"&gt;Arfsten to Turner: Every MLS player on USMNT's World Cup roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MLSsoccer.com&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNTlQ0T2FsVklwRmF6enhibElhcmxGLUxMTG8xXzhxY3VXNzIxQVp5U3lLenR0U09jaHdkV1oyTHpDVmQ0UG5GUW9EQmk2VW84cHBDVjVDY25JWmtwdzlQck8yaTROYm5PNkd6SkpORlBZUVR1X2YzMXJ6UjhtRjZVZ1BmM1RDc1ZNdzdNSA?oc=5\" target=\"_blank\"&gt;Arfsten to Turner: Every MLS player on USMNT's World Cup roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;MLSsoccer.com&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1736_98",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Dos a Cero - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFY1Z0ZTVlhsZVEzS3RQUEJaU3dfS0pBMS1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFY1Z0ZTVlhsZVEzS3RQUEJaU3dfS0pBMS14cmNGMXdCanFzc1FiWVJGaVlCMTRxOExNVVpCMEpiN2pLVXl6YUEwX1Fmc0JlUFhXWGpPYTRUOXk5VzlRNUxhb1FZTUhpdGI4a1VHUldIM0JjaGZ1czExbEQ2RGV4OFhaM1hnSXJMUm1KTm1jRQ?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Dos a Cero&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSFY1Z0ZTVlhsZVEzS3RQUEJaU3dfS0pBMS14cmNGMXdCanFzc1FiWVJGaVlCMTRxOExNVVpCMEpiN2pLVXl6YUEwX1Fmc0JlUFhXWGpPYTRUOXk5VzlRNUxhb1FZTUhpdGI4a1VHUldIM0JjaGZ1czExbEQ2RGV4OFhaM1hnSXJMUm1KTm1jRQ?oc=5\" target=\"_blank\"&gt;26 USMNT Moments, Past to Present: Dos a Cero&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1737_99",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster - US Soccer",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZLTTFXaVVNV0FvZTk2dHdkMk13VmNrdW1...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZLTTFXaVVNV0FvZTk2dHdkMk13VmNrdW1FMkhUeGZaSzJHcUhNVVdvZzV5eTJveFIwdFhYd2hkc0tUNUdmSEhlTmhtaGllTXc5RHNSSlVZWDhsdUhoZGl6UmprajljQURBZVVnWHQySDc0dFpsWmdHdzVLR1VPNjBDRGVrU2VKWVp3N0JTX2ZuaDctSEZVOUVQUzh5Z3htNnc?oc=5\" target=\"_blank\"&gt;USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPazZLTTFXaVVNV0FvZTk2dHdkMk13VmNrdW1FMkhUeGZaSzJHcUhNVVdvZzV5eTJveFIwdFhYd2hkc0tUNUdmSEhlTmhtaGllTXc5RHNSSlVZWDhsdUhoZGl6UmprajljQURBZVVnWHQySDc0dFpsWmdHdzVLR1VPNjBDRGVrU2VKWVp3N0JTX2ZuaDctSEZVOUVQUzh5Z3htNnc?oc=5\" target=\"_blank\"&gt;USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;US Soccer&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1738_100",
+            "category": "usa",
+            "type": "News",
+            "title": "Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022 - Bleacher Report",
+            "bullets": [
+              "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ25PUnhFNzdGV0NLMkdDTmxpQV9ibjJaUWd...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ25PUnhFNzdGV0NLMkdDTmxpQV9ibjJaUWd2UVlmWVd4VUxGWTVLV0FtdTk5dk5YUFhoSlRpOC1CamRGSTQxQ3FYYWJDVHNLNU1ueldlazJ5SDBYQl9TMDhjeGt6MTR5X2Zta2NSUXdXb084blVCSFZ2M05uVmdJZ0lpQkM3ZVNpLWwwRnNWLVRGbHlaMlRFQ280RXl1V1BTNkx3eG5uVjVSc1E?oc=5\" target=\"_blank\"&gt;Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bleacher Report&lt;/font&gt;",
+            "fullText": "&lt;a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ25PUnhFNzdGV0NLMkdDTmxpQV9ibjJaUWd2UVlmWVd4VUxGWTVLV0FtdTk5dk5YUFhoSlRpOC1CamRGSTQxQ3FYYWJDVHNLNU1ueldlazJ5SDBYQl9TMDhjeGt6MTR5X2Zta2NSUXdXb084blVCSFZ2M05uVmdJZ0lpQkM3ZVNpLWwwRnNWLVRGbHlaMlRFQ280RXl1V1BTNkx3eG5uVjVSc1E?oc=5\" target=\"_blank\"&gt;Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022&lt;/a&gt;&amp;nbsp;&amp;nbsp;&lt;font color=\"#6f6f6f\"&gt;Bleacher Report&lt;/font&gt;",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-30 @ 08:24:57 EDT",
+  "lastUpdated": "2026-05-31 @ 07:20:21 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
