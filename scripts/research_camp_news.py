@@ -4,6 +4,7 @@ import re
 import json
 import urllib.request
 import urllib.parse
+import html
 from datetime import datetime
 from zoneinfo import ZoneInfo
 import requests
@@ -118,6 +119,8 @@ def search_sports_news():
                     link = link_match.group(1).strip() if link_match else ""
                     
                     # Basic cleanup of html tags
+                    title = html.unescape(title)
+                    desc = html.unescape(desc)
                     title = re.sub(r"<[^>]*>", "", title)
                     desc = re.sub(r"<[^>]*>", "", desc)
                     
