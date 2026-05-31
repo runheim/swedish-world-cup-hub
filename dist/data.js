@@ -389,7 +389,7 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026 - US Soccer",
             "bullets": [
-              "USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026 &nbsp...",
+              "USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026  ...",
               "Reported live by Google News USMNT.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
@@ -627,7 +627,7 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more - CBS Sports",
             "bullets": [
-              "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more&nbsp...",
+              "USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more ...",
               "Reported live by Google News USMNT.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
@@ -695,7 +695,7 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic - The New York Times",
             "bullets": [
-              "Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic&nbsp...",
+              "Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic ...",
               "Reported live by Google News USMNT.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
@@ -1035,7 +1035,7 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 - Seattle Sounders FC",
             "bullets": [
-              "Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 &nbsp...",
+              "Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026  ...",
               "Reported live by Google News USMNT.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
