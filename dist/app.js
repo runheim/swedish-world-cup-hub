@@ -1499,6 +1499,8 @@ function initApp() {
         "⭐ Gio Reyna designated by FIFA as one of the ultimate creative playmakers to watch."
       ];
     }
+    // Duplicate for seamless marquee looping starting at 0%
+    tickerItems = [...tickerItems, ...tickerItems];
     tickerSlider.innerHTML = tickerItems.map(item => `<span>${item}</span>`).join("");
   }
 
@@ -1616,8 +1618,10 @@ function updateNewsDashboard() {
             <span class="bullet-tag ${typeClass}">${article.type}</span>
             <span class="bullet-timestamp"><i class="far fa-calendar-alt"></i> ${stamp}</span>
           </div>
-          <a href="#" class="headline-link" data-article-id="${article.id}">${article.title}</a>
+          <a href="#" class="headline-link" style="pointer-events: none;" data-article-id="${article.id}">${article.title}</a>
         `;
+        li.setAttribute("data-article-id", article.id);
+        li.style.cursor = "pointer";
         bulletsList.appendChild(li);
       });
     }
@@ -1631,10 +1635,10 @@ function updateNewsDashboard() {
     `;
   }
 
-  document.querySelectorAll(".headline-link").forEach(link => {
-    link.addEventListener("click", (e) => {
+  document.querySelectorAll(".headline-bullet-item").forEach(item => {
+    item.addEventListener("click", (e) => {
       e.preventDefault();
-      const artId = link.getAttribute("data-article-id");
+      const artId = item.getAttribute("data-article-id");
       openArticleModal(artId);
     });
   });
@@ -1884,7 +1888,11 @@ function renderLockerChat() {
 
   chatContainer.innerHTML = "";
 
-  CHAT_MESSAGES.forEach(msg => {
+  const banterMessages = (typeof DYNAMIC_HUB_DATA !== 'undefined' && DYNAMIC_HUB_DATA.banter && DYNAMIC_HUB_DATA.banter.length > 0) 
+    ? DYNAMIC_HUB_DATA.banter 
+    : CHAT_MESSAGES;
+
+  banterMessages.forEach(msg => {
     const msgBlock = document.createElement("div");
     msgBlock.className = `chat-bubble-block ${msg.isCaptain ? 'captain' : ''}`;
     msgBlock.innerHTML = `
@@ -1997,7 +2005,8 @@ function openArticleModal(artId) {
     bullets.appendChild(li);
   });
 
-  summary.innerHTML = `<p>${article.summary}</p>`;
+  const bodyContent = article.fullText || article.summary;
+  summary.innerHTML = `<p>${bodyContent.replace(/\n\n/g, '</p><p>')}</p>`;
 
   playersContainer.innerHTML = "";
   if (article.relatedPlayers && article.relatedPlayers.length > 0) {
