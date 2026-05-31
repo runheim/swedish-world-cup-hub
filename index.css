@@ -320,6 +320,7 @@ h1, h2, h3, h4, h5 {
   animation: ticker 150s linear infinite;
   display: flex;
   gap: 3rem;
+  width: max-content;
 }
 
 .ticker-content span {
