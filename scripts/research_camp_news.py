@@ -184,19 +184,45 @@ if crawled_news:
             full_text = ""
             if item.get("link"):
                 try:
-                    res = requests.get(item["link"], headers={'User-Agent': 'Mozilla/5.0'}, timeout=5)
+                    fetch_url = item["link"]
+                    if 'news.google.com' in fetch_url:
+                        import urllib.parse
+                        parsed = urllib.parse.urlparse(fetch_url)
+                        params = urllib.parse.parse_qs(parsed.query)
+                        if 'url' in params:
+                            fetch_url = params['url'][0]
+                    
+                    res = requests.get(fetch_url, headers={
+                        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+                    }, timeout=8, allow_redirects=True)
+                    
                     if res.status_code == 200:
                         soup = BeautifulSoup(res.text, 'html.parser')
-                        paragraphs = soup.find_all('p')
+                        meta_refresh = soup.find('meta', attrs={'http-equiv': 'refresh'})
+                        if meta_refresh and meta_refresh.get('content'):
+                            redirect_match = re.search(r'url=(.*)', meta_refresh['content'], re.IGNORECASE)
+                            if redirect_match:
+                                real_url = redirect_match.group(1).strip().strip("'\"")
+                                res = requests.get(real_url, headers={
+                                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+                                }, timeout=8, allow_redirects=True)
+                                if res.status_code == 200:
+                                    soup = BeautifulSoup(res.text, 'html.parser')
+                        
+                        article_body = soup.find('article') or soup.find('div', class_=re.compile(r'article|story|content|post-body', re.I)) or soup.find('main')
+                        search_scope = article_body if article_body else soup
+                        paragraphs = search_scope.find_all('p')
                         content_chunks = [p.get_text(strip=True) for p in paragraphs if len(p.get_text(strip=True)) > 50]
                         if content_chunks:
-                            full_text = "\n\n".join(content_chunks[:10])
+                            full_text = "\n\n".join(content_chunks[:12])
                 except Exception as text_e:
                     print(f"Failed to fetch full text for {item['link']}: {text_e}")
 
             if not full_text:
                 clean_desc = re.sub(r'\s{2,}.*$', '', item['desc']).strip()
-                full_text = clean_desc if clean_desc else f"Latest real-time briefing from {item['source']} covering the England national football team."
+                source_name = item['source']
+                title_text = item['title']
+                full_text = f"This article was sourced from {source_name}. The full text could not be automatically retrieved from the original publication.\n\n{clean_desc}\n\nFor the complete article, search for \"{title_text}\" on the {source_name} website or check their latest England football coverage."
 
             # Format as timeline article
             art = {

@@ -152,7 +152,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "BBC Sport takes an in-depth look at why England lack centre-forward options behind Harry Kane - a far cry from when the likes of Les Ferdinand only won 17 caps.",
-            "fullText": "The great number nine decline - where have England's strikers gone?",
+            "fullText": "This article was sourced from BBC Sport. The full text could not be automatically retrieved from the original publication.\n\nThe great number nine decline - where have England's strikers gone?\n\nFor the complete article, search for \"The great number nine decline - where have England's strikers gone?\" on the BBC Sport website or check their latest England football coverage.",
             "author": "BBC Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -356,7 +356,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Wigan Warriors scored seven tries as they cruised to a 40-10 victory over Hull KR in the Challenge Cup final at Wembley Stadium.",
-            "fullText": "Tries:Farrimond (4,36),",
+            "fullText": "This article was sourced from Sky Sports Football. The full text could not be automatically retrieved from the original publication.\n\nTries:Farrimond (4,36),\n\nFor the complete article, search for \"Wigan cruise to Challenge Cup win over Hull KR\" on the Sky Sports Football website or check their latest England football coverage.",
             "author": "Sky Sports Football Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -407,7 +407,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England National Team: The Three Lions and the Tuchel Transformation",
-            "fullText": "England National Team: The Three Lions and the Tuchel Transformation",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland National Team: The Three Lions and the Tuchel Transformation\n\nFor the complete article, search for \"England National Team: The Three Lions and the Tuchel Transformation - 365Scores\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -424,7 +424,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Palace Skateboards x Nike Go Official With England in a \"Three Lions\" World Cup Capsule",
-            "fullText": "Palace Skateboards x Nike Go Official With England in a \"Three Lions\" World Cup Capsule",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nPalace Skateboards x Nike Go Official With England in a \"Three Lions\" World Cup Capsule\n\nFor the complete article, search for \"Palace Skateboards x Nike Go Official With England in a \"Three Lions\" World Cup Capsule - Hypebeast\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -441,7 +441,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Palace, Nike, England Team Up on Three Lions Soccer-inspired Capsule",
-            "fullText": "Palace, Nike, England Team Up on Three Lions Soccer-inspired Capsule",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nPalace, Nike, England Team Up on Three Lions Soccer-inspired Capsule\n\nFor the complete article, search for \"Palace, Nike, England Team Up on Three Lions Soccer-inspired Capsule - WWD\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -458,7 +458,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Harry Kane approaching history for England soccer at World Cup",
-            "fullText": "Harry Kane approaching history for England soccer at World Cup",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nHarry Kane approaching history for England soccer at World Cup\n\nFor the complete article, search for \"Harry Kane approaching history for England soccer at World Cup - The Patriot Ledger\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -475,7 +475,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Saka: I see strengths everywhere in England team",
-            "fullText": "Saka: I see strengths everywhere in England team",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nSaka: I see strengths everywhere in England team\n\nFor the complete article, search for \"Saka: I see strengths everywhere in England team - FIFA\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -492,7 +492,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions UDFA’s That Will Turn Heads at 2026 OTAs",
-            "fullText": "Three Lions UDFA’s That Will Turn Heads at 2026 OTAs",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions UDFA’s That Will Turn Heads at 2026 OTAs\n\nFor the complete article, search for \"Three Lions UDFA’s That Will Turn Heads at 2026 OTAs - Sports Illustrated\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -509,7 +509,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England squad named for FIFA 2026 World Cup",
-            "fullText": "England squad named for FIFA 2026 World Cup",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland squad named for FIFA 2026 World Cup\n\nFor the complete article, search for \"England squad named for FIFA 2026 World Cup - England Football\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -526,7 +526,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Guardiola Aims for England, the Catalan Coach Dreams of Leading the Three Lions After Leaving Manchester City",
-            "fullText": "Guardiola Aims for England, the Catalan Coach Dreams of Leading the Three Lions After Leaving Manchester City",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nGuardiola Aims for England, the Catalan Coach Dreams of Leading the Three Lions After Leaving Manchester City\n\nFor the complete article, search for \"Guardiola Aims for England, the Catalan Coach Dreams of Leading the Three Lions After Leaving Manchester City - beIN SPORTS\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -543,7 +543,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England World Cup Squad, Projected Starting Lineup",
-            "fullText": "England World Cup Squad, Projected Starting Lineup",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup Squad, Projected Starting Lineup\n\nFor the complete article, search for \"England World Cup Squad, Projected Starting Lineup - PrizePicks\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -560,7 +560,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England face humiliation with 50,000 TICKETS unsold for Three Lions’ first game in America",
-            "fullText": "England face humiliation with 50,000 TICKETS unsold for Three Lions’ first game in America",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland face humiliation with 50,000 TICKETS unsold for Three Lions’ first game in America\n\nFor the complete article, search for \"England face humiliation with 50,000 TICKETS unsold for Three Lions’ first game in America - The Sun\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -577,7 +577,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions named to All-ASUN conference teams",
-            "fullText": "Three Lions named to All-ASUN conference teams",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions named to All-ASUN conference teams\n\nFor the complete article, search for \"Three Lions named to All-ASUN conference teams - University of North Alabama Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -594,7 +594,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions through day one of multis at 44 Farms Team Invitational",
-            "fullText": "Three Lions through day one of multis at 44 Farms Team Invitational",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions through day one of multis at 44 Farms Team Invitational\n\nFor the complete article, search for \"Three Lions through day one of multis at 44 Farms Team Invitational - East Texas A&M University Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -611,7 +611,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions who will have bounce-back 2026 seasons",
-            "fullText": "Three Lions who will have bounce-back 2026 seasons",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions who will have bounce-back 2026 seasons\n\nFor the complete article, search for \"Three Lions who will have bounce-back 2026 seasons - Macomb Daily\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -628,7 +628,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England 2026 World Cup Preview: Three Lions Look to Buck the Trend",
-            "fullText": "England 2026 World Cup Preview: Three Lions Look to Buck the Trend",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland 2026 World Cup Preview: Three Lions Look to Buck the Trend\n\nFor the complete article, search for \"England 2026 World Cup Preview: Three Lions Look to Buck the Trend - Sports Illustrated\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -645,7 +645,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Men’s Golf climbs to second as three Lions finish in top six",
-            "fullText": "Men’s Golf climbs to second as three Lions finish in top six",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nMen’s Golf climbs to second as three Lions finish in top six\n\nFor the complete article, search for \"Men’s Golf climbs to second as three Lions finish in top six - University of North Alabama Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -662,7 +662,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions earn CSC Academic All-District Team selections",
-            "fullText": "Three Lions earn CSC Academic All-District Team selections",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions earn CSC Academic All-District Team selections\n\nFor the complete article, search for \"Three Lions earn CSC Academic All-District Team selections - University of North Alabama Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -679,7 +679,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions Earn All-Ivy League Honors",
-            "fullText": "Three Lions Earn All-Ivy League Honors",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions Earn All-Ivy League Honors\n\nFor the complete article, search for \"Three Lions Earn All-Ivy League Honors - Columbia University Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -696,7 +696,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "2026 World Cup Group L preview: Can England get over the line?",
-            "fullText": "2026 World Cup Group L preview: Can England get over the line?",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n2026 World Cup Group L preview: Can England get over the line?\n\nFor the complete article, search for \"2026 World Cup Group L preview: Can England get over the line? - MSN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -713,7 +713,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Palace and Nike’s England Football Collection Releases June 12",
-            "fullText": "Palace and Nike’s England Football Collection Releases June 12",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nPalace and Nike’s England Football Collection Releases June 12\n\nFor the complete article, search for \"Palace and Nike’s England Football Collection Releases June 12 - House of Heat°\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -730,7 +730,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Watch: Three lions settling into new home at zoo",
-            "fullText": "Watch: Three lions settling into new home at zoo",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWatch: Three lions settling into new home at zoo\n\nFor the complete article, search for \"Watch: Three lions settling into new home at zoo - BBC\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -747,7 +747,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "2026 World Cup Group L preview: Can England get over the line?",
-            "fullText": "2026 World Cup Group L preview: Can England get over the line?",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n2026 World Cup Group L preview: Can England get over the line?\n\nFor the complete article, search for \"2026 World Cup Group L preview: Can England get over the line? - Barca Blaugranes\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -764,7 +764,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin",
-            "fullText": "Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nSolomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin\n\nFor the complete article, search for \"Solomon Global Heralds ‘Year of the Three Lions’ with Latest Royal Mint Gold Coin - Yahoo Finance UK\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -781,7 +781,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three lions have arrived at Africa Alive in Kessingland, Suffolk",
-            "fullText": "Three lions have arrived at Africa Alive in Kessingland, Suffolk",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree lions have arrived at Africa Alive in Kessingland, Suffolk\n\nFor the complete article, search for \"Three lions have arrived at Africa Alive in Kessingland, Suffolk - BBC\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -798,7 +798,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions Claim Titles, Seven Place on Podium at David H. Lehman Open",
-            "fullText": "Three Lions Claim Titles, Seven Place on Podium at David H. Lehman Open",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions Claim Titles, Seven Place on Podium at David H. Lehman Open\n\nFor the complete article, search for \"Three Lions Claim Titles, Seven Place on Podium at David H. Lehman Open - Columbia University Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -815,7 +815,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions Named to CBU Classic All-Tournament Team",
-            "fullText": "Three Lions Named to CBU Classic All-Tournament Team",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions Named to CBU Classic All-Tournament Team\n\nFor the complete article, search for \"Three Lions Named to CBU Classic All-Tournament Team - Loyola Marymount University Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -832,7 +832,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Pep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA",
-            "fullText": "Pep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nPep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA\n\nFor the complete article, search for \"Pep Guardiola 'keen' on becoming England manager one day with departing Man City icon still a 'dream' target for the FA - FOX Sports\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -849,7 +849,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions Advance to Semis on Day One of NCAA Wrestling Regionals",
-            "fullText": "Three Lions Advance to Semis on Day One of NCAA Wrestling Regionals",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions Advance to Semis on Day One of NCAA Wrestling Regionals\n\nFor the complete article, search for \"Three Lions Advance to Semis on Day One of NCAA Wrestling Regionals - Lindenwood University Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -866,7 +866,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions earn preseason all-conference awards",
-            "fullText": "Three Lions earn preseason all-conference awards",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions earn preseason all-conference awards\n\nFor the complete article, search for \"Three Lions earn preseason all-conference awards - University of North Alabama Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -883,7 +883,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "The remarkable story of Three Lions by Baddiel & Skinner & The Lightning Seeds",
-            "fullText": "The remarkable story of Three Lions by Baddiel & Skinner & The Lightning Seeds",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThe remarkable story of Three Lions by Baddiel & Skinner & The Lightning Seeds\n\nFor the complete article, search for \"The remarkable story of Three Lions by Baddiel & Skinner & The Lightning Seeds - Radio X\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -900,7 +900,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Sneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup",
-            "fullText": "Sneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nSneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup\n\nFor the complete article, search for \"Sneak peek: ‘Swope Soccer Village’ crews prepare to host Three Lions for World Cup - FOX4KC.com\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -917,7 +917,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Coach Tuchel can take England to Canaan his way, or be damned",
-            "fullText": "Coach Tuchel can take England to Canaan his way, or be damned",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nCoach Tuchel can take England to Canaan his way, or be damned\n\nFor the complete article, search for \"Coach Tuchel can take England to Canaan his way, or be damned - Daily Nation\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -934,7 +934,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions - the football anthem that united a nation",
-            "fullText": "Three Lions - the football anthem that united a nation",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions - the football anthem that united a nation\n\nFor the complete article, search for \"Three Lions - the football anthem that united a nation - BBC\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -951,7 +951,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions earn All-ASUN postseason honors",
-            "fullText": "Three Lions earn All-ASUN postseason honors",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions earn All-ASUN postseason honors\n\nFor the complete article, search for \"Three Lions earn All-ASUN postseason honors - University of North Alabama Athletics\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -968,7 +968,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Harry Kane World Cup Golden Boot Odds & Prediction",
-            "fullText": "Harry Kane World Cup Golden Boot Odds & Prediction",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nHarry Kane World Cup Golden Boot Odds & Prediction\n\nFor the complete article, search for \"Harry Kane World Cup Golden Boot Odds & Prediction - BetMGM\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -985,7 +985,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "What to know about the England national team as they set up base camp in Kansas City",
-            "fullText": "What to know about the England national team as they set up base camp in Kansas City",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWhat to know about the England national team as they set up base camp in Kansas City\n\nFor the complete article, search for \"What to know about the England national team as they set up base camp in Kansas City - KCTV\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1002,7 +1002,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Wayne Rooney backs Thomas Tuchel's England squad despite three 'controversial' omissions",
-            "fullText": "Wayne Rooney backs Thomas Tuchel's England squad despite three 'controversial' omissions",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWayne Rooney backs Thomas Tuchel's England squad despite three 'controversial' omissions\n\nFor the complete article, search for \"Wayne Rooney backs Thomas Tuchel's England squad despite three 'controversial' omissions - talkSPORT\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1019,7 +1019,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "New Three Lions kit on sale",
-            "fullText": "New Three Lions kit on sale",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nNew Three Lions kit on sale\n\nFor the complete article, search for \"New Three Lions kit on sale - England Football\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1036,7 +1036,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "World Cup England Outright Prediction: Betting tips for Three Lions",
-            "fullText": "World Cup England Outright Prediction: Betting tips for Three Lions",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWorld Cup England Outright Prediction: Betting tips for Three Lions\n\nFor the complete article, search for \"World Cup England Outright Prediction: Betting tips for Three Lions - talkSPORT\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1053,7 +1053,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England 2026 World Cup draw: Three Lions face Croatia, Panama, Ghana",
-            "fullText": "England 2026 World Cup draw: Three Lions face Croatia, Panama, Ghana",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland 2026 World Cup draw: Three Lions face Croatia, Panama, Ghana\n\nFor the complete article, search for \"England 2026 World Cup draw: Three Lions face Croatia, Panama, Ghana - ESPN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1070,7 +1070,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England 0-1 Japan: Three Lions stall as Japan are crowned",
-            "fullText": "England 0-1 Japan: Three Lions stall as Japan are crowned",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland 0-1 Japan: Three Lions stall as Japan are crowned\n\nFor the complete article, search for \"England 0-1 Japan: Three Lions stall as Japan are crowned - Yahoo Sports\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1087,7 +1087,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games",
-            "fullText": "England’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games\n\nFor the complete article, search for \"England’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games - The Independent\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1104,7 +1104,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "World Cup stories: David James makes case for current England star to be Three Lions great",
-            "fullText": "World Cup stories: David James makes case for current England star to be Three Lions great",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWorld Cup stories: David James makes case for current England star to be Three Lions great\n\nFor the complete article, search for \"World Cup stories: David James makes case for current England star to be Three Lions great - DAZN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1121,7 +1121,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "FIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop",
-            "fullText": "FIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nFIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop\n\nFor the complete article, search for \"FIFA World Cup 2026: Why the Three Lions Traded London for Kansas BBQ and Bebop - The Travel Magazine\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1138,7 +1138,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Barcelona Signs Anthony Gordon for 80 Million Euros",
-            "fullText": "Barcelona Signs Anthony Gordon for 80 Million Euros",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nBarcelona Signs Anthony Gordon for 80 Million Euros\n\nFor the complete article, search for \"Barcelona Signs Anthony Gordon for 80 Million Euros - 조선일보\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1155,7 +1155,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them",
-            "fullText": "Three lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them\n\nFor the complete article, search for \"Three lions have the most beautiful reaction to a man singing a Guns N’ Roses song to them - Upworthy\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1172,7 +1172,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England World Cup 2026 squad: Who has Thomas Tuchel selected?",
-            "fullText": "England World Cup 2026 squad: Who has Thomas Tuchel selected?",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup 2026 squad: Who has Thomas Tuchel selected?\n\nFor the complete article, search for \"England World Cup 2026 squad: Who has Thomas Tuchel selected? - The Sun\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1189,7 +1189,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "World Cup 2026 Picks: Group L Winner Prediction, Schedule & Team Previews",
-            "fullText": "World Cup 2026 Picks: Group L Winner Prediction, Schedule & Team Previews",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWorld Cup 2026 Picks: Group L Winner Prediction, Schedule & Team Previews\n\nFor the complete article, search for \"World Cup 2026 Picks: Group L Winner Prediction, Schedule & Team Previews - vegasodds.com\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1206,7 +1206,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Three Lions and three arrows: Littler teaches England squad how to hit target",
-            "fullText": "Three Lions and three arrows: Littler teaches England squad how to hit target",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThree Lions and three arrows: Littler teaches England squad how to hit target\n\nFor the complete article, search for \"Three Lions and three arrows: Littler teaches England squad how to hit target - The Guardian\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1223,7 +1223,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England’s World Cup Kits Signal Hope and Renewal for The Three Lions",
-            "fullText": "England’s World Cup Kits Signal Hope and Renewal for The Three Lions",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland’s World Cup Kits Signal Hope and Renewal for The Three Lions\n\nFor the complete article, search for \"England’s World Cup Kits Signal Hope and Renewal for The Three Lions - New Wave Magazine\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1240,7 +1240,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release",
-            "fullText": "Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nBaddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release\n\nFor the complete article, search for \"Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release - Radio X\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1257,7 +1257,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer!",
-            "fullText": "England FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer!",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer!\n\nFor the complete article, search for \"England FIFA World Cup ONLINE GAME: Only true Three Lions fans can beat the timer! - theweek.in\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1274,7 +1274,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Wharton: World Cup omission 'not the end of the world'",
-            "fullText": "Wharton: World Cup omission 'not the end of the world'",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWharton: World Cup omission 'not the end of the world'\n\nFor the complete article, search for \"Wharton: World Cup omission 'not the end of the world' - FotMob\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1291,7 +1291,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow",
-            "fullText": "England World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow\n\nFor the complete article, search for \"England World Cup 2026 squad: 26-man squad named by Three Lions as World Cup hopes begin to grow - Squawka\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1308,7 +1308,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Euro 96 at 30: When ‘Three Lions’ echoed across England and Zidane lit up St James’ Park",
-            "fullText": "Euro 96 at 30: When ‘Three Lions’ echoed across England and Zidane lit up St James’ Park",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEuro 96 at 30: When ‘Three Lions’ echoed across England and Zidane lit up St James’ Park\n\nFor the complete article, search for \"Euro 96 at 30: When ‘Three Lions’ echoed across England and Zidane lit up St James’ Park - Chronicle Live\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1325,7 +1325,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Turpentine Creek Wildlife Refuge welcomes three lions rescued from Honduras",
-            "fullText": "Turpentine Creek Wildlife Refuge welcomes three lions rescued from Honduras",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nTurpentine Creek Wildlife Refuge welcomes three lions rescued from Honduras\n\nFor the complete article, search for \"Turpentine Creek Wildlife Refuge welcomes three lions rescued from Honduras - OzarksFirst.com\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1342,7 +1342,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history",
-            "fullText": "England's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history\n\nFor the complete article, search for \"England's first World Cup warm up game revealed with Three Lions set to take on nation for just third time in history - FOX Sports\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1359,7 +1359,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Who Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named",
-            "fullText": "Who Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWho Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named\n\nFor the complete article, search for \"Who Thomas Tuchel has called up for England during Three Lions reign as World Cup squad named - Manchester Evening News\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1376,7 +1376,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Group L World Cup 2026 Prediction: England and Croatia have wide doors to advance",
-            "fullText": "Group L World Cup 2026 Prediction: England and Croatia have wide doors to advance",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nGroup L World Cup 2026 Prediction: England and Croatia have wide doors to advance\n\nFor the complete article, search for \"Group L World Cup 2026 Prediction: England and Croatia have wide doors to advance - Laodong.vn\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1393,7 +1393,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Why England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games'",
-            "fullText": "Why England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games'",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWhy England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games'\n\nFor the complete article, search for \"Why England vs Uruguay is almost like Thomas Tuchel's Three Lions 'Hunger Games' - DAZN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1410,7 +1410,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins",
-            "fullText": "England's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins\n\nFor the complete article, search for \"England's future No. 9? Tottenham prospect trains alongside senior Three Lions as search for Harry Kane's successor begins - FOX Sports\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1427,7 +1427,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "FOOTBALL QUIZ: Test your knowledge of the England national team!",
-            "fullText": "FOOTBALL QUIZ: Test your knowledge of the England national team!",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nFOOTBALL QUIZ: Test your knowledge of the England national team!\n\nFor the complete article, search for \"FOOTBALL QUIZ: Test your knowledge of the England national team! - Yahoo Sports\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1444,7 +1444,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England squad World Cup 2026: Thomas Tuchel's final 26-man selection",
-            "fullText": "England squad World Cup 2026: Thomas Tuchel's final 26-man selection",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland squad World Cup 2026: Thomas Tuchel's final 26-man selection\n\nFor the complete article, search for \"England squad World Cup 2026: Thomas Tuchel's final 26-man selection - FourFourTwo\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1461,7 +1461,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Anthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory",
-            "fullText": "Anthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nAnthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory\n\nFor the complete article, search for \"Anthony Barry once watched 17,000 throw-ins for his coursework, now he's plotting England World Cup glory - The Mirror\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1478,7 +1478,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England squad: Thomas Tuchel's latest Three Lions squad analysed",
-            "fullText": "England squad: Thomas Tuchel's latest Three Lions squad analysed",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland squad: Thomas Tuchel's latest Three Lions squad analysed\n\nFor the complete article, search for \"England squad: Thomas Tuchel's latest Three Lions squad analysed - BBC\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1495,7 +1495,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "World Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL)",
-            "fullText": "World Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL)",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWorld Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL)\n\nFor the complete article, search for \"World Cup 2026 (Q): the Three Lions squad has been announced! (OFFICIAL) - Yahoo Sports Canada\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1512,7 +1512,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England World Cup full-back at a loss on who current first choice left-back is for the Three Lions",
-            "fullText": "England World Cup full-back at a loss on who current first choice left-back is for the Three Lions",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup full-back at a loss on who current first choice left-back is for the Three Lions\n\nFor the complete article, search for \"England World Cup full-back at a loss on who current first choice left-back is for the Three Lions - DAZN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1529,7 +1529,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold",
-            "fullText": "England vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold\n\nFor the complete article, search for \"England vs Japan Prediction: Harry Kane Among Three Lions Regulars Back in the Fold - Opta Analyst\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1546,7 +1546,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup",
-            "fullText": "England World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup\n\nFor the complete article, search for \"England World Cup hero pinpoints the Three Lions biggest problem area ahead of World Cup - DAZN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1563,7 +1563,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "UPGRADE TO THREE LIONS LOUNGE",
-            "fullText": "UPGRADE TO THREE LIONS LOUNGE",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nUPGRADE TO THREE LIONS LOUNGE\n\nFor the complete article, search for \"UPGRADE TO THREE LIONS LOUNGE - Ipswich Town FC\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1580,7 +1580,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Calvert-Lewin earns Three Lions spot after Leeds form",
-            "fullText": "Calvert-Lewin earns Three Lions spot after Leeds form",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nCalvert-Lewin earns Three Lions spot after Leeds form\n\nFor the complete article, search for \"Calvert-Lewin earns Three Lions spot after Leeds form - Leeds United\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1597,7 +1597,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England release 2026 World Cup kits: 'New era for the Three Lions'",
-            "fullText": "England release 2026 World Cup kits: 'New era for the Three Lions'",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland release 2026 World Cup kits: 'New era for the Three Lions'\n\nFor the complete article, search for \"England release 2026 World Cup kits: 'New era for the Three Lions' - ESPN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1614,7 +1614,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Former England international says this player should be in Three Lions lineup instead of Cole Palmer",
-            "fullText": "Former England international says this player should be in Three Lions lineup instead of Cole Palmer",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nFormer England international says this player should be in Three Lions lineup instead of Cole Palmer\n\nFor the complete article, search for \"Former England international says this player should be in Three Lions lineup instead of Cole Palmer - DAZN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1631,7 +1631,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England 1-1 Uruguay: Rotated Three Lions fail to impress",
-            "fullText": "England 1-1 Uruguay: Rotated Three Lions fail to impress",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland 1-1 Uruguay: Rotated Three Lions fail to impress\n\nFor the complete article, search for \"England 1-1 Uruguay: Rotated Three Lions fail to impress - VAVEL.com\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1648,7 +1648,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "What are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released?",
-            "fullText": "What are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released?",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWhat are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released?\n\nFor the complete article, search for \"What are the full lyrics to Three Lions and when was 'Football's Coming Home' anthem released? - talkSPORT\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1665,7 +1665,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Legacy cap, the most iconic item of the England national team",
-            "fullText": "Legacy cap, the most iconic item of the England national team",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nLegacy cap, the most iconic item of the England national team\n\nFor the complete article, search for \"Legacy cap, the most iconic item of the England national team - nss sports\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1682,7 +1682,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "WATCH: Three Lions that were Raised in the EFL",
-            "fullText": "WATCH: Three Lions that were Raised in the EFL",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWATCH: Three Lions that were Raised in the EFL\n\nFor the complete article, search for \"WATCH: Three Lions that were Raised in the EFL - The English Football League\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1699,7 +1699,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England's World Cup 2026 squad ladder: Cole Palmer in danger of dropping out but Jude Bellingham's importance grows",
-            "fullText": "England's World Cup 2026 squad ladder: Cole Palmer in danger of dropping out but Jude Bellingham's importance grows",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland's World Cup 2026 squad ladder: Cole Palmer in danger of dropping out but Jude Bellingham's importance grows\n\nFor the complete article, search for \"England's World Cup 2026 squad ladder: Cole Palmer in danger of dropping out but Jude Bellingham's importance grows - Goal.com\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1716,7 +1716,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "Why do England have Three Lions on their badge and has it always been the same?",
-            "fullText": "Why do England have Three Lions on their badge and has it always been the same?",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWhy do England have Three Lions on their badge and has it always been the same?\n\nFor the complete article, search for \"Why do England have Three Lions on their badge and has it always been the same? - talkSPORT\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1733,7 +1733,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "A Wembley Nightmare: Japan stun the Three Lions",
-            "fullText": "A Wembley Nightmare: Japan stun the Three Lions",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nA Wembley Nightmare: Japan stun the Three Lions\n\nFor the complete article, search for \"A Wembley Nightmare: Japan stun the Three Lions - Sports Gazette\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
@@ -1750,7 +1750,7 @@ const DYNAMIC_HUB_DATA = {
               "Technical staff notes player physical and recovery markers look strong."
             ],
             "summary": "England World Cup quiz: How well do you know the Three Lions?",
-            "fullText": "England World Cup quiz: How well do you know the Three Lions?",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup quiz: How well do you know the Three Lions?\n\nFor the complete article, search for \"England World Cup quiz: How well do you know the Three Lions? - ESPN\" on the Google News England website or check their latest England football coverage.",
             "author": "Google News England Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
