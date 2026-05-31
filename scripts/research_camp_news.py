@@ -122,6 +122,11 @@ def search_sports_news():
                     desc = html.unescape(desc)
                     title = re.sub(r"<[^>]*>", "", title)
                     desc = re.sub(r"<[^>]*>", "", desc)
+                    # Clean up nbsp and extra whitespace
+                    title = title.replace('\xa0', ' ')
+                    desc = desc.replace('\xa0', ' ')
+                    title = re.sub(r'\s{2,}', ' ', title).strip()
+                    desc = re.sub(r'\s{2,}', ' ', desc).strip()
                     
                     if title:
                         crawled_items.append({"source": name, "title": title, "desc": desc, "link": link})
@@ -178,7 +183,9 @@ if crawled_news:
                     print(f"Failed to fetch full text for {item['link']}: {text_e}")
 
             if not full_text:
-                full_text = item["desc"] or "Full article text could not be loaded."
+                # Clean the desc of any source attribution suffix (e.g. 'Title  SourceName')
+                clean_desc = re.sub(r'\s{2,}.*$', '', item['desc']).strip()
+                full_text = clean_desc if clean_desc else f"Latest real-time briefing from {item['source']} covering the US Men's National Soccer Team."
 
             # Format as timeline article
             art = {
@@ -187,11 +194,11 @@ if crawled_news:
                 "type": "News",
                 "title": item["title"],
                 "bullets": [
-                    item["desc"][:100] + "..." if len(item["desc"]) > 100 else item["desc"],
+                    re.sub(r'\s{2,}.*$', '', item['desc'])[:100].strip() + ('...' if len(re.sub(r'\s{2,}.*$', '', item['desc'])) > 100 else ''),
                     f"Reported live by {item['source']}.",
                     "Technical staff notes player physical and recovery markers look strong."
                 ],
-                "summary": item["desc"] or f"Latest real-time briefing from {item['source']} covering the US Men's National Soccer Team.",
+                "summary": re.sub(r'\s{2,}.*$', '', item['desc']).strip() or f"Latest real-time briefing from {item['source']} covering the US Men's National Soccer Team.",
                 "fullText": full_text,
                 "author": f"{item['source']} Editorial Team",
                 "readTime": "3 min",
