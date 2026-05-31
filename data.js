@@ -1082,7 +1082,7 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "England’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games - The Independent",
             "bullets": [
-              "England’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games&nbsp...",
+              "England’s World Cup 2026 fixtures: Dates, kick-off times and venues confirmed for Group L games ...",
               "Reported live by Google News England.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
@@ -1235,7 +1235,7 @@ const DYNAMIC_HUB_DATA = {
             "type": "News",
             "title": "Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release - Radio X",
             "bullets": [
-              "Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release &nbsp...",
+              "Baddiel, Skinner and the Lightning Seeds' Three Lions set for 30th anniversary re-release  ...",
               "Reported live by Google News England.",
               "Technical staff notes player physical and recovery markers look strong."
             ],
