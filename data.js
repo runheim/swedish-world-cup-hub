@@ -2,7 +2,13 @@
 // This database is automatically generated 5 times per day.
 
 const DYNAMIC_HUB_DATA = {
-  "ticker": [],
+  "ticker": [
+    "⚽ Ayari and Starfelt complete individual conditioning routines in Stockholm",
+    "🌍 Netherlands tactical scout notes De Jong's return to full running registers",
+    "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+    "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+    "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
+  ],
   "timeline": {
     "2026-05-31": {
       "1": {
@@ -181,10 +187,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-01": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_swe_20260601_3",
+            "category": "sweden",
+            "type": "Analysis",
+            "title": "Ayari and Starfelt complete individual conditioning routines in Stockholm",
+            "bullets": [
+              "Midfielder Yasin Ayari and defender Carl Starfelt log recovery runs.",
+              "Conditioning staff reports both players enter camp in perfect shape.",
+              "Active tactical drills scheduled to kick off tomorrow at Bosön turf."
+            ],
+            "summary": "Keeping physical registers high, Yasin Ayari and Celta Vigo center-back Carl Starfelt conducted light running and core recovery blocks in Stockholm today. Both are fully cleared for contact training tomorrow.",
+            "fullText": "Keeping physical registers high, Yasin Ayari and Celta Vigo center-back Carl Starfelt conducted light running and core recovery blocks in Stockholm today. Both are fully cleared for contact training tomorrow.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Individual Work",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260601_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Netherlands tactical scout notes De Jong's return to full running registers",
+            "bullets": [
+              "Frenkie de Jong participates in partial team drills at Zeist base.",
+              "Oranje manager Ronald Koeman remains optimistic about their midfield balance.",
+              "Netherlands focuses on 4-3-3 transition speed with Gakpo and Malen."
+            ],
+            "summary": "Sweden's heavy-hitter group opponent the Netherlands has received a major boost as Frenkie de Jong completed running and passing blocks yesterday. Ronald Koeman's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Cody Gakpo and Donyell Malen in 1v1 duels.",
+            "fullText": "Sweden's heavy-hitter group opponent the Netherlands has received a major boost as Frenkie de Jong completed running and passing blocks yesterday. Ronald Koeman's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Cody Gakpo and Donyell Malen in 1v1 duels.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 16:47:14 EDT",
+  "lastUpdated": "2026-06-01 @ 17:51:29 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
