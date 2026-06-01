@@ -10,7 +10,7 @@ const DYNAMIC_HUB_DATA = {
     "⚽ There it is! England's plane touches down in US ahead of World Cup",
     "⚽ Kane and Tuchel lead England squad as they arrive at hotel in US for pre-World Cup training camp in stormy Miami - The Sun",
     "⚽ Palace and Nike Reveal \"The Three Lions\" Capsule for England - dscene magazine",
-    "⚽ Team GB x Three Lions! How Olympic Games expertise is aiding England’s quest for World Cup glory in the sweltering heat of North America - Yahoo Sports UK",
+    "⚽ Team GB x Three Lions! How Olympic Games expertise is aiding England’s quest for World Cup glory in the sweltering heat of North America - Goal.com",
     "⚽ England arrive in Miami as Three Lions camp begins in bid to end 60 years of hurt - lbc.co.uk",
     "⚽ England World Cup 2026, Thomas Tuchel Travels to the USA With Confidence and Strategies to Overcome the Heat - beIN SPORTS",
     "⚽ Tuchel has 'full belief' England can win the World Cup - FotMob",
@@ -19,10 +19,11 @@ const DYNAMIC_HUB_DATA = {
     "⚽ England hired Thomas Tuchel to win the 2026 World Cup - anything less should be considered failure - Goal.com",
     "⚽ Inside England's World Cup squad - Thomas Tuchel's 21-man plan as Harry Maguire point proven - The Mirror",
     "⚽ Under fire anthem Three Lions could help England win the World Cup says experts - Daily Star",
-    "⚽ 'I'm worried about England' - Roy Keane pinpoints Three Lions' World Cup flaw - The Sun",
     "⚽ England World Cup stars will have special online police team investigating abuse - The Mirror",
+    "⚽ 'I'm worried about England' - Roy Keane pinpoints Three Lions' World Cup flaw - The Sun",
     "⚽ England World Cup 2026 guide: Fixtures, prediction, key player and odds - London Evening Standard",
     "⚽ World Cup preview: Group L: Manuel Cardoni: England’s talent comes with high expectations - RTL Today",
+    "⚽ Drop Jude Bellingham! England tipped to bench Real Madrid superstar as Alan Shearer explains how to bring the best out of Harry Kane at 2026 World Cup - Goal.com",
     "⚽ England World Cup star cleared to travel to US despite still being on bail for assault at swanky London bar - The Sun",
     "⚽ The cheapest places to buy England World Cup shirts ahead of tournament - with prices from just £3.50 - The Sun"
   ],
@@ -2363,7 +2364,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 19:12:01 EDT",
+  "lastUpdated": "2026-06-01 @ 19:59:36 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
