@@ -3,8 +3,8 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Ayari and Starfelt complete individual conditioning routines in Stockholm",
-    "🌍 Netherlands tactical scout notes De Jong's return to full running registers",
+    "⚽ Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
+    "🌍 Japan locks in high-tempo press drills at Dallas preparation site",
     "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
     "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
     "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
@@ -232,11 +232,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_swe_20260601_4",
+            "category": "sweden",
+            "type": "Column",
+            "title": "Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
+            "bullets": [
+              "Technical team reviews tactical whiteboard overlays for Bosön drills.",
+              "Coaches focus on midfield spacing and transition pressing triggers.",
+              "Björn Hamberg: 'Bosön turf is prepared; the tactical shape is locked.'"
+            ],
+            "summary": "Graham Potter, Björn Hamberg, and coaching staff met at Lidingö's training complex this afternoon to finalize tomorrow's practice agenda. The focus is rapid transitions and midfield spacing triggers.",
+            "fullText": "Graham Potter, Björn Hamberg, and coaching staff met at Lidingö's training complex this afternoon to finalize tomorrow's practice agenda. The focus is rapid transitions and midfield spacing triggers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Planning",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260601_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Japan locks in high-tempo press drills at Dallas preparation site",
+            "bullets": [
+              "Samurai Blue practice relentless full-pitch pressing under Hajime Moriyasu.",
+              "Kaoru Mitoma clocks top sprinting speeds in winger recovery scenarios.",
+              "Japan scouts monitor Sweden's tactical lineup adjustments in Dallas."
+            ],
+            "summary": "Sweden's final group stage opponent Japan has arrived at their camp in Dallas, immediately starting high-tempo pressing sessions. Moriyasu's side has focused on wide overloads, with Brighton's Kaoru Mitoma looking fully fit and sharp on the left wing, presenting a major threat to Sweden's back three.",
+            "fullText": "Sweden's final group stage opponent Japan has arrived at their camp in Dallas, immediately starting high-tempo pressing sessions. Moriyasu's side has focused on wide overloads, with Brighton's Kaoru Mitoma looking fully fit and sharp on the left wing, presenting a major threat to Sweden's back three.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 17:51:29 EDT",
+  "lastUpdated": "2026-06-01 @ 18:26:43 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
