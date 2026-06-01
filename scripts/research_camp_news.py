@@ -184,7 +184,7 @@ if crawled_news:
             # Women's soccer exclusions
             "damlandslaget", "women's", "womens", "women's national",
             "damallsvenskan", "sweden women", "svenska damlandslaget",
-            "women's world cup", "wwc", "she-believes", "shebelieves"
+            "women's world cup", "wwc", "she-believes", "shebelieves", "battery", "batteri", "batteripark", "ellevio", "elnät", "electricity", "power grid"
         ]
         
         combined_text = f"{title_lower} {desc_lower}"

@@ -2,9 +2,7 @@
 // This database is automatically generated 5 times per day.
 
 const DYNAMIC_HUB_DATA = {
-  "ticker": [
-    "⚽ The battery park in Mora is complete - will strengthen the electricity grid throughout the country"
-  ],
+  "ticker": [],
   "timeline": {
     "2026-05-31": {
       "1": {
@@ -177,31 +175,6 @@ const DYNAMIC_HUB_DATA = {
             "summary": "The Swedish Seven – Celts and Blågult",
             "fullText": "This article was sourced from Google News Sweden. The full text could not be automatically retrieved from the original publication.\n\nThe Swedish Seven – Celts and Blågult\n\nFor the complete article, search for \"The Swedish Seven – Celts and Blågult - The Celtic Star\" on the Google News Sweden website or check their latest Swedish football coverage.",
             "author": "Google News Sweden Editorial Team",
-            "readTime": "3 min",
-            "tag": "Camp Brief",
-            "relatedPlayers": []
-          }
-        ]
-      }
-    },
-    "2026-06-01": {
-      "3": {
-        "timeLabel": "14:30",
-        "name": "Training Session",
-        "articles": [
-          {
-            "id": "crawled_2226_0",
-            "category": "sweden",
-            "type": "News",
-            "title": "The battery park in Mora is complete - will strengthen the electricity grid throughout the country",
-            "bullets": [
-              "A new battery park almost as big as a football pitch has been built in Mora. It is part of Ellevio's...",
-              "Reported live by SVT Sport.",
-              "Technical staff notes player physical and recovery markers look strong."
-            ],
-            "summary": "A new battery park almost as big as a football pitch has been built in Mora. It is part of Ellevio's billion-dollar investment in the electricity grid, which will primarily be used to strengthen the stability of the electricity system. - There is also an opportunity to be able to use this in crisis situations in the future, says Daniel Gabrielsson, project manager at Ellevio.",
-            "fullText": "A new battery park almost as big as a football pitch has been built in Mora. It is part of Ellevio's billion-dollar investment in the electricity grid, which will primarily be used to strengthen the stability of the electricity system.\n\n- There is also an opportunity to be able to use this in crisis situations in the future, says Daniel Gabrielsson, project manager at Ellevio.\n\nEllevio has invested a total of half a billion kroner in two new battery parks, one in Mora and one in Söderala in Hälsingland. The battery park in Mora has a capacity of 40 MW/40 MWH, which makes it one of the largest in the country.\n\n- I think that more of this type of energy storage will be built in Sweden, there is a need, says Daniel Gabrielsson\n\nToday, the facility in Mora does not have the ability to be connected as a so-called island operation system, that is, it can function as a standby solution in the event of a power outage to operate, for example, the infirmary in Mora.\n\nBut it is something that Elevio is working on to be able to do in the future.\n\n- We are working on a project in Värmland now where we are testing how the facility can function in an emergency situation, says Daniel Gabrielsson.\n\nDo installations like this affect the electricity bill in any way? - No, they don't. We are building this to establish a good energy level on the network, says Daniel Gabrielsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
-            "author": "SVT Sport Editorial Team",
             "readTime": "3 min",
             "tag": "Camp Brief",
             "relatedPlayers": []

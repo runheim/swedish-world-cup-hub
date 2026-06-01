@@ -2,18 +2,7 @@
 // This database is automatically generated 5 times per day.
 
 const DYNAMIC_HUB_DATA = {
-  "ticker": [
-    "⚽ Linus Kandolin is under pressure: \"Threw me out to the wolves\"",
-    "⚽ The message: Emil Holm misses the WC",
-    "⚽ Örgryte recovered 0–2 after Noah Christoffersson's first two Allsvenskan goals",
-    "⚽ Alexander Isak talks about the injury: \"A scary experience\"",
-    "⚽ Norway's sensation a fact - ready for historic WC semi-final",
-    "⚽ Alexander Isak Set for “Pre-Season” with Swedish National Team - The Liverpool Offside",
-    "⚽ From the German 3 Liga to the Swedish national team in two seasons: Gustaf Nilsson returns to international consideration - OneFootball",
-    "⚽ Svensson retires from Swedish national team - Sportsnet",
-    "⚽ Victor Lindelof injury: Swedish National Team manager gives gloomy update on Manchester United defender - The Peoples Person",
-    "⚽ The Swedish Seven – Celts and Blågult - The Celtic Star"
-  ],
+  "ticker": [],
   "timeline": {
     "2026-05-31": {
       "1": {
@@ -195,7 +184,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-31 @ 07:46:01 EDT",
+  "lastUpdated": "2026-06-01 @ 15:22:26 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
