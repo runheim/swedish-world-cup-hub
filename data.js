@@ -21,9 +21,8 @@ const DYNAMIC_HUB_DATA = {
     "⚽ England World Cup stars will have special online police team investigating abuse - The Mirror",
     "⚽ 'I'm worried about England' - Roy Keane pinpoints Three Lions' World Cup flaw - The Sun",
     "⚽ World Cup preview: Group L: Manuel Cardoni: England’s talent comes with high expectations - RTL Today",
-    "⚽ The cheapest places to buy England World Cup shirts ahead of tournament - with prices from just £3.50 - The Sun",
     "⚽ England World Cup star cleared to travel to US despite still being on bail for assault at swanky London bar - The Sun",
-    "⚽ Frank Skinner says FA wants to cancel Three Lions - dailystar.co.uk"
+    "⚽ The cheapest places to buy England World Cup shirts ahead of tournament - with prices from just £3.50 - The Sun"
   ],
   "timeline": {
     "2026-05-31": {
@@ -1999,7 +1998,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 16:18:21 EDT",
+  "lastUpdated": "2026-06-01 @ 16:47:16 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
