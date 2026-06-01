@@ -3,23 +3,22 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Alderete and Gomez in Paraguay World Cup squad",
     "⚽ Champions League team of the season: Lamine Yamal, Harry Kane … and a Spurs player",
     "⚽ Tuchel reveals Team GB have been helping England get ready for World Cup heat",
+    "⚽ Sabalenka breezes past Osaka and into French Open quarter-finals",
     "⚽ There it is! England's plane touches down in US ahead of World Cup",
-    "⚽ Transfer rumors, news: Real Madrid show interest i...",
     "⚽ England stars touch down in US for pre-World Cup training camp as Harry Kane leads players off plane in stormy Miami - The Sun",
     "⚽ Palace and Nike Reveal \"The Three Lions\" Capsule for England - dscene magazine",
     "⚽ Team GB x Three Lions! How Olympic Games expertise is aiding England’s quest for World Cup glory in the sweltering heat of North America - Yahoo Sports UK",
-    "⚽ Three Lions on the way! England squad flies out to Miami for the World Cup - lbc.co.uk",
     "⚽ England World Cup 2026, Thomas Tuchel Travels to the USA With Confidence and Strategies to Overcome the Heat - beIN SPORTS",
+    "⚽ Three Lions on the way! England squad flies out to Miami for the World Cup - lbc.co.uk",
     "⚽ Tuchel has 'full belief' England can win the World Cup - FotMob",
     "⚽ England predicted line-up for World Cup opener: Expected Three Lions XI vs Croatia according to the odds - The Sun",
-    "⚽ Inside England's World Cup squad - Thomas Tuchel's 21-man plan as Harry Maguire point proven - The Mirror",
     "⚽ England hired Thomas Tuchel to win the 2026 World Cup - anything less should be considered failure - Goal.com",
     "⚽ England World Cup 2026 guide: Fixtures, prediction, key player and odds - London Evening Standard",
-    "⚽ England World Cup stars will have special online police team investigating abuse - The Mirror",
+    "⚽ Under fire anthem Three Lions could help England win the World Cup says experts - dailystar.co.uk",
     "⚽ 'I'm worried about England' - Roy Keane pinpoints Three Lions' World Cup flaw - The Sun",
+    "⚽ England World Cup stars will have special online police team investigating abuse - The Mirror",
     "⚽ World Cup preview: Group L: Manuel Cardoni: England’s talent comes with high expectations - RTL Today",
     "⚽ England World Cup star cleared to travel to US despite still being on bail for assault at swanky London bar - The Sun",
     "⚽ The cheapest places to buy England World Cup shirts ahead of tournament - with prices from just £3.50 - The Sun"
@@ -1998,7 +1997,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 16:47:16 EDT",
+  "lastUpdated": "2026-06-01 @ 17:51:23 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
