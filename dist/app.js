@@ -1130,7 +1130,17 @@ function renderMatchCenter() {
   if (!match || !reportData) return;
   
   const forceUnlock = forceUnlockCheckbox ? forceUnlockCheckbox.checked : false;
-  const isCompleted = forceUnlock;
+  const matchDateStr = match.date;
+  let timePassed = false;
+  try {
+    const matchTimeStr = match.time.split(" ")[0];
+    const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
+    const now = new Date();
+    timePassed = now >= matchDateTime;
+  } catch (e) {
+    console.error("Error parsing match date/time:", e);
+  }
+  const isCompleted = forceUnlock || timePassed;
   
   if (isCompleted) {
     contentArea.innerHTML = `
