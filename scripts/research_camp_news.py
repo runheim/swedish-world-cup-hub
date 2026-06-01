@@ -177,7 +177,7 @@ if crawled_news:
             # Women's soccer exclusions
             "uswnt", "women's", "womens", "women's national", "nwsl",
             "u.s. women", "us women", "united states women", "she-believes",
-            "shebelieves", "women's world cup", "wwc", "w league"
+            "shebelieves", "women's world cup", "wwc", "w league", "battery", "batteri", "batteripark", "ellevio", "elnät", "electricity", "power grid"
         ]
         
         combined_text = f"{title_lower} {desc_lower}"
