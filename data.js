@@ -3,106 +3,73 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Why is the USMNT playing meaningless friendlies ri...",
-    "⚽ USA World Cup 2026 team guide",
-    "⚽ How to Watch: USMNT vs. Senegal on Sunday, May 31 in Charlotte, North Carolina - US Soccer",
-    "⚽ Tim Ream named USMNT captain; Chris Richards a World Cup doubt - ESPN",
-    "⚽ The Only Correct Way to React to the USMNT Roster Announcement - Minnesota United FC",
-    "⚽ USMNT vs. Senegal — How To Watch, Prediction And Projected Lineups - Forbes",
-    "⚽ USMNT vs. Senegal—International Friendly: Preview, Predictions and Lineups - Sports Illustrated",
-    "⚽ 2026 World Cup Friendlies - Previewing USMNT vs. Senegal - Stars and Stripes FC",
-    "⚽ Four Philadelphia Union Alumni named to USMNT World Cup Roster - Philadelphia Union",
+    "⚽ 'This is a starting point': U.S. Soccer's new home...",
+    "⚽ USMNT builds World Cup momentum by beating Senegal...",
+    "⚽ How wing-backs and chemistry helped the US break through against Senegal",
+    "⚽ Christian Pulisic wanted to talk about something else. Now he can",
+    "⚽ Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup - Yahoo Sports",
+    "⚽ The USMNT Is Still Stuck In The Middle - Defector",
+    "⚽ USMNT vs. Senegal: Match Recap & Highlights - US Soccer",
+    "⚽ USMNT builds World Cup momentum by beating Senegal but questions remain - ESPN",
     "⚽ Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
-    "⚽ How Alex Zendejas, USMNT's No. 26, earned his World Cup moment after months of uncertainty - Yahoo Sports",
-    "⚽ U.S. Men's National Team Head Coach Mauricio Pochettino Names 26-Player Roster for FIFA World Cup 2026 - US Soccer",
-    "⚽ Pochettino: Committed to USMNT at World Cup despite Milan talks - ESPN",
-    "⚽ Why Ream Is The Perfect World Cup Captain For USMNT Coach Pochettino - Forbes",
-    "⚽ USMNT's Chris Richards to miss Senegal friendly, leaving his World Cup status in doubt - Yahoo Sports",
-    "⚽ USMNT have named Tim Ream as their World Cup captain — does it matter? What do soccer captains do? - The New York Times",
-    "⚽ USMNT Hosts Senegal in Charlotte in First of Final Two Matches Before FIFA World Cup 2026 - US Soccer",
-    "⚽ USMNT names 2026 World Cup roster after leaks - ESPN",
-    "⚽ Energized Support Greets USMNT Upon Arrival to Atlanta, National Training Center - US Soccer",
-    "⚽ 26 USMNT Moments, Past to Present: Quarterfinal Glory - US Soccer",
-    "⚽ Meet the Team: USMNT Roster For FIFA World Cup 2026 - US Soccer",
-    "⚽ USMNT possible starting XI vs Senegal in pre-World Cup friendly - Diario AS",
-    "⚽ U.S. Soccer to Host First-Ever Live USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer",
-    "⚽ How To Watch & Live Stream: USMNT World Cup Roster Reveal & Fan Celebration in New York City - US Soccer",
-    "⚽ Chris Richards now an injury question mark in major USMNT World Cup worry - New York Post",
-    "⚽ USMNT 2026 World Cup roster: Pochettino’s full 26-man USA squad confirmed - The Athletic - The New York Times",
-    "⚽ USMNT's final World Cup roster has Pochettino taking risks - ESPN",
-    "⚽ The Soccer Show | USMNT World Cup roster reaction with Davies and Dunseth - revolutionsoccer.net",
-    "⚽ Analyzing USMNT’s 2026 World Cup squad: Pochettino’s top stars, key players and weaknesses - The Athletic - The New York Times",
-    "⚽ USMNT burning questions: Can Tyler Adams stay healthy? Can Chris Richards get healthy, and more - CBS Sports",
-    "⚽ Andrew Rick heading to the World Cup as USMNT training goalkeeper - Philadelphia Union",
-    "⚽ Pochettino: 'Amazing' Reyna deserves USMNT World Cup roster spot - ESPN",
-    "⚽ USMNT at the World Cup: All-time results, stats - ESPN",
-    "⚽ Pochettino’s one curious USMNT World Cup roster choice raises a glaring question - The Athletic - The New York Times",
-    "⚽ What's the goal of USMNT's pre-World Cup friendlies? - ESPN",
-    "⚽ USA vs. Senegal, 2026 USMNT Friendly: Scouting Senegal - Stars and Stripes FC",
-    "⚽ USMNT's Pulisic unfazed by scoreless slump ahead of World Cup - ESPN",
-    "⚽ Tim Ream will captain the USMNT at the World Cup: ‘We’re so lucky to have a player like him’ - Inquirer.com",
-    "⚽ USMNT vs. Senegal: How to watch this weekend's pre-World Cup friendly, TV channel, where to stream free, and more - Yahoo Sports",
-    "⚽ USMNT World Cup roster confirmed: Zendejas in as Luna, Tessmann and Morris miss out - The Guardian",
-    "⚽ USMNT 2026 World Cup squad roundtable: Debating Pochettino’s choices, USA’s chances - The Athletic - The New York Times",
-    "⚽ Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times",
-    "⚽ Tim Ream Named Captain For U.S. Men's National Team Ahead of FIFA World Cup 2026 - US Soccer",
-    "⚽ Charlotte FC's Tim Ream named USMNT captain for 2026 World Cup - MLSsoccer.com",
-    "⚽ USA’s World Cup captain might be Mauricio Pochettino’s worst-kept secret - The Athletic - The New York Times",
-    "⚽ Three Questions the USMNT Have to Answer Before the World Cup - Sports Illustrated",
-    "⚽ Who Is USMNT’s World Cup Captain—And Why Is it a Secret? - Sports Illustrated",
-    "⚽ How far will the USMNT advance now that the World Cup roster is set? Here’s what the odds say - The Athletic - The New York Times",
-    "⚽ Tim Ream to captain USMNT at World Cup - Stars and Stripes FC",
-    "⚽ USMNT 2026 World Cup roster snubs: Luna, Tessmann and others who miss out - The Athletic - The New York Times",
-    "⚽ Tim Ream's long road leads to USMNT World Cup captaincy: 'This is more than a dream come true' - Yahoo Sports",
-    "⚽ Mauricio Pochettino names 26-man USMNT roster for 2026 World Cup: Gio Reyna is in, Diego Luna misses out - CBS Sports",
-    "⚽ USMNT arrives in metro Atlanta ahead of FIFA World Cup - WSB-TV",
-    "⚽ Cristian Roldan Named to United States Men’s National Team Roster for FIFA World Cup 2026 - Seattle Sounders FC",
-    "⚽ From Donovan to Harkes, USMNT's most stunning World Cup snubs ever - ESPN",
-    "⚽ USMNT coach Mauricio Pochettino met with AC Milan about open coaching job days ahead of World Cup, per report - CBS Sports",
-    "⚽ Meet Mauricio Pochettino, the USMNT coach for the 2026 FIFA World Cup - NBC Los Angeles",
-    "⚽ USMNT World Cup roster: Four thoughts on Pochettino's full 2026 squad - USA Today",
-    "⚽ USMNT vs. Senegal friendly prediction, start time, how to watch - USA Today",
-    "⚽ Tim Ream named USMNT captain for World Cup: 'The leader that we want' - USA Today",
-    "⚽ Chris Richards won’t travel for USMNT friendly as ankle injury clouds World Cup preparations for breakout star - WFIN",
-    "⚽ ‘Upset’— How Players Learned They Were Cut From the USMNT’s World Cup Roster - Sports Illustrated",
-    "⚽ Charlotte FC Defender Tim Ream Named to United States Men’s National Team FIFA World Cup 2026 Roster - Charlotte FC",
-    "⚽ Christian Pulisic not worried about lengthy scoring drought with USMNT friendly a chance to snap it - New York Post",
-    "⚽ Five biggest USMNT World Cup roster snubs: Who missed out on Pochettino's squad? - Yahoo Sports",
-    "⚽ USMNT 2026 World Cup Roster Confirmed: Full List of Players, Stars and Schedule - Sports Illustrated",
-    "⚽ When is USMNT 2026 World Cup roster announced? Time and how to watch - USA Today",
-    "⚽ REPLAY | USMNT Roster Reveal Reaction Show - Philadelphia Union",
-    "⚽ Pochettino: 'Special' Pulisic will end goal drought at World Cup - ESPN",
-    "⚽ Chemistry Coming Together as Training Kicks Off for USMNT - US Soccer",
-    "⚽ Meet the 26 Players Who Will Star for the USMNT at 2026 World Cup - Sports Illustrated",
-    "⚽ Columbus Crew’s Max Arfsten named to United States Men’s National Team Roster for 2026 FIFA World Cup - Columbus Crew",
-    "⚽ USMNT Captain For 2026 World Cup Officially Revealed - Yahoo Sports Canada",
-    "⚽ The three USMNT players who will define success or failure in historic World Cup with $50m reward - talkSPORT",
-    "⚽ USMNT roster for 2026 World Cup — How will Yanks line up, and who's missing from the squad? - NBC Sports",
-    "⚽ Superman, Batman and Pulisic? U.S. Soccer, DC Comics produce a USMNT fan’s fever dream - The Athletic - The New York Times",
-    "⚽ Why Tim Ream is USMNT captain for World Cup, not Christian Pulisic - Yahoo Sports",
-    "⚽ Chris Richards Scheduled to Arrive to USMNT Training Camp on May 29 - US Soccer",
-    "⚽ The USMNT have a chance to inspire a nation at the World Cup - Stars and Stripes FC",
+    "⚽ Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated",
+    "⚽ In USMNT win over Senegal, attack clicks but defense wobbles - Cronkite News",
+    "⚽ Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com",
+    "⚽ USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC",
+    "⚽ Pulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal - ESPN",
+    "⚽ 26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer",
+    "⚽ Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence - Sports Illustrated",
+    "⚽ USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN",
+    "⚽ Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times",
+    "⚽ USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated",
+    "⚽ USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago",
+    "⚽ Pre-World Cup friendly live updates: USMNT look sharp in win over Senegal - ESPN",
     "⚽ After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
-    "⚽ Christian Pulisic won’t captain USMNT at the World Cup as coach Mauricio Pochettino backs Tim Ream for the ... - World Soccer Talk",
     "⚽ U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
-    "⚽ USMNT’s Mauricio Pochettino met with Milan over vacant head coach role - The Athletic - The New York Times",
-    "⚽ Mauricio Pochettino's pick for USMNT captain shocks fans ahead of 2026 FIFA World Cup - MARCA",
-    "⚽ Chris Richards to miss USMNT's pre-World Cup friendly vs. Senegal with ankle injury - CBS Sports",
-    "⚽ Where do the USMNT's World Cup stars play professionally? Here are their clubs - NBC 5 Chicago",
-    "⚽ Cristian Roldan earns return to soccer’s biggest stage with USMNT, World Cup call-up - Seattle Sounders FC",
-    "⚽ Fox’s USMNT World Cup Roster Reveal Spoiled by Leaks - Front Office Sports",
-    "⚽ 2026 World Cup Group D preview: USMNT embarks on historic journey - Stars and Stripes FC",
-    "⚽ Around the game (USMNT edition) - Soccer America",
-    "⚽ Photos | 2026 USMNT World Cup Roster Reveal - New York City FC",
-    "⚽ Leboeuf: Mauricio Pochettino should avoid AC Milan questions during the World Cup - ESPN",
-    "⚽ Sources: Reyna in, Tessmann out as USMNT names World Cup squad - ESPN",
-    "⚽ Supercomputer Predicts USMNT’s 2026 World Cup Chances Following Roster Reveal - Sports Illustrated",
-    "⚽ Arfsten to Turner: Every MLS player on USMNT's World Cup roster - MLSsoccer.com",
-    "⚽ HE’S THE SKIPPER: Ream named USMNT captain for the World Cup - Front Row Soccer",
-    "⚽ 26 USMNT Moments, Past to Present: Dos a Cero - US Soccer",
-    "⚽ 26 USMNT Moments, Past to Present: Against All Odds - US Soccer",
-    "⚽ USMNT Players ‘Over the Moon’ To Be Part of FIFA World Cup 2026 Roster - US Soccer",
-    "⚽ Upgrade or Downgrade: Comparing the 2026 USMNT World Cup Squad to 2022 - Bleacher Report"
+    "⚽ USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal",
+    "⚽ Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast",
+    "⚽ Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports",
+    "⚽ Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic - The New York Times",
+    "⚽ New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US",
+    "⚽ USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta",
+    "⚽ How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports",
+    "⚽ USMNT player ratings vs Senegal: Who starred for the Americans in notable home win? - NBC Sports",
+    "⚽ American Outlaws face uncertainty over USMNT tickets - Sports Business Journal",
+    "⚽ USMNT tops Senegal in Charlotte ahead of World Cup - Axios",
+    "⚽ Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post",
+    "⚽ USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup - Sports Illustrated",
+    "⚽ USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports",
+    "⚽ USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News",
+    "⚽ ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now",
+    "⚽ Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports",
+    "⚽ WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match - FOX Carolina News",
+    "⚽ Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com",
+    "⚽ Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times",
+    "⚽ USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal",
+    "⚽ With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times",
+    "⚽ Alexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd - Fox News",
+    "⚽ USMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way - NBC Sports Bay Area & California",
+    "⚽ Can Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup? - CBS Sports",
+    "⚽ Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted - New York Post",
+    "⚽ USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’ - FotMob",
+    "⚽ USMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview - Yahoo Sports",
+    "⚽ What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks - CBS Sports",
+    "⚽ USMNT top Senegal in pre-World Cup friendly - MLSsoccer.com",
+    "⚽ Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian",
+    "⚽ WATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte - FOX Carolina News",
+    "⚽ Nicol: Pulisic's form key for USMNT's World Cup momentum - ESPN",
+    "⚽ 3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal - Yahoo Sports",
+    "⚽ USMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time - USA Today",
+    "⚽ New York Life launches USMNT docuseries “The Assist” - Coverager",
+    "⚽ USMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athletic - The New York Times",
+    "⚽ SBI USMNT Man of the Match: Christian Pulisic - SBI Soccer - SBI Soccer",
+    "⚽ USMNT coach Pochettino turns to laptop in-game during match with Senegal - TSN",
+    "⚽ USMNT makes impressive statement before World Cup with friendly win over Senegal - New York Post",
+    "⚽ Drought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run - Yahoo Sports",
+    "⚽ Christian Pulisic wanted to talk about something else. Now he can - The Guardian",
+    "⚽ Pulisic Finds Form for USMNT Before World Cup - 247Sports",
+    "⚽ USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - FOX Carolina News",
+    "⚽ USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - KCRG"
   ],
   "timeline": {
     "2026-05-31": {
@@ -1812,10 +1779,1157 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-01": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2245_0",
+            "category": "usa",
+            "type": "News",
+            "title": "'This is a starting point': U.S. Soccer's new home...",
+            "bullets": [
+              "U.S. Soccer never had a permanent home for its players. Now it does, and it stands to change the way...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "U.S. Soccer never had a permanent home for its players. Now it does, and it stands to change the way future stars and coaches learn the game.",
+            "fullText": "This article was sourced from ESPN FC. The full text could not be automatically retrieved from the original publication.\n\nU.S. Soccer never had a permanent home for its players. Now it does, and it stands to change the way future stars and coaches learn the game.\n\nFor the complete article, search for \"'This is a starting point': U.S. Soccer's new home...\" on the ESPN FC website or check their latest USMNT coverage.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2245_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT builds World Cup momentum by beating Senegal...",
+            "bullets": [
+              "Mauricio Pochettino's plans for this team are beginning to come into clearer focus.",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino's plans for this team are beginning to come into clearer focus.",
+            "fullText": "This article was sourced from ESPN FC. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino's plans for this team are beginning to come into clearer focus.\n\nFor the complete article, search for \"USMNT builds World Cup momentum by beating Senegal...\" on the ESPN FC website or check their latest USMNT coverage.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2246_2",
+            "category": "usa",
+            "type": "News",
+            "title": "How wing-backs and chemistry helped the US break through against Senegal",
+            "bullets": [
+              "Sergiño Dest scored the US’s opener on Sunday thanks a collection of little actions from his teammat...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sergiño Dest scored the US’s opener on Sunday thanks a collection of little actions from his teammatesThe US men’s national team has undergone considerable change from one window to the next throughout Mauricio Pochettino’s tenure. And it makes some sense; the Argentinian had plenty of first-hand assessments to conduct, limiting the core group’s ability to iron out patterns of play and forge partnerships.Still, amid all that turnover, Antonee Robinson and Sergiño Dest were expected to remain the first-choice options at full-back (or wing-back, depending on the system) for the 2026 World Cup. Both had been essential in the 2022 cycle, after all, and continued to fare well when healthy for their club teams (Fulham for Robinson, and PSV Eindhoven for Dest). That “when healthy” caveat has worked overtime throughout Pochettino’s 19 months in charge, though, with Dest suffering a torn ACL just before the 2024 Copa América and Robinson missing for much of last fall due to knee issues. Continue reading...",
+            "fullText": "Sergiño Dest scored the US’s opener on Sunday thanks a collection of little actions from his teammates\n\nThe US men’s national team has undergone considerable change from one window to the next throughout Mauricio Pochettino’s tenure. And it makes some sense; the Argentinian had plenty of first-hand assessments to conduct, limiting the core group’s ability to iron out patterns of play and forge partnerships.\n\nStill, amid all that turnover, Antonee Robinson and Sergiño Dest were expected to remain the first-choice options at full-back (or wing-back, depending on the system) for the 2026 World Cup. Both had been essential in the 2022 cycle, after all, and continued to fare well when healthy for their club teams (Fulham for Robinson, and PSV Eindhoven for Dest). That “when healthy” caveat has worked overtime throughout Pochettino’s 19 months in charge, though, with Dest suffering a torn ACL just before the 2024 Copa América and Robinson missing for much of last fall due to knee issues.\n\nOn Sunday, in Pochettino’s 25th game as USMNT boss, he picked Robinson and Dest as starters together for the first time. With the tandem restored, the US looked like a much more thrilling and dependable version of themselves.\n\nRobinson and Dest fit the modern job description for wide defenders, although they’re hardly clones. Robinson is more positionally measured, comfortable staying along the touchline and occasionally dropping into the channel to join the midfield. Dest carries a bit more dynamism, popping up all over the field to capitalize on whatever opponents offer. Both players have shown a knack for the give-and-go, and are able to forge passing triangles in tandem with defenders, midfielders and forwards alike.\n\nThey’re complementary profiles who dovetail nicely with the other presumptive US starters. The benefits each player brings were on full display on the opening goal in a 3-2 win over Senegal.\n\nFive minutes after the opening whistle, Ricardo Pepi – making his first US start since 18 November 2024 –forced Senegal goalkeeper Mory Diawto clear the ball toward midfield thanks to some tireless one-man pressing. Thereafter Pochettino’s side began a lengthy sequence of possession, with Dest joining the line of attackers beneath Pepi while right center-back Alex Freeman shifted wider, occupying a traditional station for a right-back. The 21-year-old’s Freeman’s rapid rise from the Orlando City academy to the USMNT and Villarreal has been among the US player pool’s most vital developments. The son of former NFL great Antonio, Freeman has exceptional vision and understanding of how to maximize the freedom that accompanies a wide center-back role.\n\nIn this instance, his versatility in shifting wide allowed Dest to stay in the US’s most advanced line as Tim Ream prodded the ball to Robinson along the opposite flank.\n\nMeanwhile, Christian Pulisic and Pepi scampered off the ball to offer Robinson his next option. With Krépin Diatta committing to close down Robinson’s dribbling lane along the touchline, the wing-back opted for Pepi’s lateral run into the channel.\n\nOften an understudy since Folarin Balogun committed to the US over England and Nigeria, Pepi is still arguably the pool’s best hold-up forward – an argument aided by what he did next. As two opponents converged to force him into a turnover, Pepi spotted Pulisic making a direct run up the channel with minimal obstruction remaining between him and the goalkeeper.\n\nWith the defenders committed, Pepi paid homage to his time in the Eredivisie with his take on a Cruyff turn, threading a ball between them and into Pulisic’s stride without overpowering it back into open territory.\n\nHere is where Dest’s loitering paid off. With Pepi having drifted wide to help with the buildup, the nominal right back offered Pulisic a potential target in the box.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2247_3",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic wanted to talk about something else. Now he can",
+            "bullets": [
+              "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see moreSign up for the World Behind The Cup newsletterIt wasn’t hard to see how annoyed US men’s national team star Christian Pulisic was getting. Another US camp, another friendly on the road to an all-important World Cup at home, and another batch of questions about his goal-scoring drought, and the pressure it created for him and the team.Before Sunday, the Milan midfielder hadn’t scored a goal for club or country in nearly six months. His dry spell just with the national team stretched back even further, with Pulisic having last found the back of the net on 18 November 2024, during a Nations League match against Jamaica. Continue reading...",
+            "fullText": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more\n\nIt wasn’t hard to see how annoyed US men’s national team starChristian Pulisicwas getting. Another US camp, another friendly on the road to an all-important World Cup at home, and another batch of questions about his goal-scoring drought, and the pressure it created for him and the team.\n\nBefore Sunday, the Milan midfielder hadn’t scored a goal for club or country in nearly six months. His dry spell just with the national team stretched back even further, with Pulisic having last found the back of the net on 18 November 2024, during a Nations League match against Jamaica.\n\nBy this past March, the US standout sounded exhausted by questions about the drought, always insisting he felt good about his game and expressing confidence in a return to form. Lackluster performances against Belgium and Portugal did little to end the inquiries. When the US roster was revealed last Tuesday in New York, Pulisic had all but given up trying to hide his annoyance.\n\nPulisic was arguably the most consequential player on the field for the US in a much-needed positive result,a 3-2 win against Senegalthat restores some measure of good vibes to the World Cup co-hosts. After a lovely assist to Sergiño Dest on the US opener, Pulisic showed off an even better finish on their second goal, rounding the goalkeeper and finishing neatly from a tough angle off a nice feed behind the backline from Ricardo Pepi.\n\nJust like that, Pulisic found himself sprinting, finally, towards the corner flag. He was mobbed by teammates. The celebration felt emotional, visceral even.\n\nThe questions Pulisic faced in the mixed zone after the match were more easily answered.\n\n“Hopefully now people can stop talking about it,” Pulisic told reporters, sounding relieved he could talk about breaking the spell, not extending it.\n\n“It felt great,” said Pulisic. “I’ve felt this confidence [the whole time]. I’ve played really well in recent months … I feel good and now, obviously this was just a friendly – we have big games ahead and I have to be ready.”\n\nUS head coach Mauricio Pochettino has expressed confidence in Pulisic, even playing him as a center forward in March in a bid for him to snap out of his funk. At times, though, Pochettino’s praise of his playmaker has felt a bit tempered. That was the case Sunday, when he answered a reporter’s question about Pulisic’s game and immediately addressed the entire group, not Pulisic alone.\n\n“I think for the first time, or second or maybe the third time that we can’t complain that [everyone] had the right attitude and right commitment for the 22 players [that played],” Pochettino said in his press conference. “That’s the attitude that we’re trying to find, the commitment … [Pulisic’s] performance today in 45 minutes was really really good, but I think he still has potential to improve.”\n\nIt’s worth noting that Pochettino has also provided helpings of no-strings praise toward Pulisic in the past. As recently as last week, he told media thathe was certain his star player would score at the World Cup, a ringing endorsement – or a bit of pressure – offered to the man many hope will finish his career as the greatest player in the history of American men’s soccer.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2248_4",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup - Yahoo Sports",
+            "bullets": [
+              "Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup&nbsp;&nbsp;Yahoo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2249_5",
+            "category": "usa",
+            "type": "News",
+            "title": "The USMNT Is Still Stuck In The Middle - Defector",
+            "bullets": [
+              "The USMNT Is Still Stuck In The Middle&nbsp;&nbsp;Defector",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The USMNT Is Still Stuck In The Middle&nbsp;&nbsp;Defector",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe USMNT Is Still Stuck In The Middle&nbsp;&nbsp;Defector\n\nFor the complete article, search for \"The USMNT Is Still Stuck In The Middle - Defector\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2250_6",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal: Match Recap & Highlights - US Soccer",
+            "bullets": [
+              "USMNT vs. Senegal: Match Recap & Highlights&nbsp;&nbsp;US Soccer",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT vs. Senegal: Match Recap & Highlights&nbsp;&nbsp;US Soccer",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal: Match Recap & Highlights&nbsp;&nbsp;US Soccer\n\nFor the complete article, search for \"USMNT vs. Senegal: Match Recap & Highlights - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2251_7",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT builds World Cup momentum by beating Senegal but questions remain - ESPN",
+            "bullets": [
+              "USMNT builds World Cup momentum by beating Senegal but questions remain&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT builds World Cup momentum by beating Senegal but questions remain&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT builds World Cup momentum by beating Senegal but questions remain&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"USMNT builds World Cup momentum by beating Senegal but questions remain - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2252_8",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
+            "bullets": [
+              "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&nbs...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2253_9",
+            "category": "usa",
+            "type": "News",
+            "title": "Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated",
+            "bullets": [
+              "Who is USMNT World Cup Manager Mauricio Pochettino?&nbsp;&nbsp;Sports Illustrated",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who is USMNT World Cup Manager Mauricio Pochettino?&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWho is USMNT World Cup Manager Mauricio Pochettino?&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2253_10",
+            "category": "usa",
+            "type": "News",
+            "title": "In USMNT win over Senegal, attack clicks but defense wobbles - Cronkite News",
+            "bullets": [
+              "In USMNT win over Senegal, attack clicks but defense wobbles&nbsp;&nbsp;Cronkite News",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In USMNT win over Senegal, attack clicks but defense wobbles&nbsp;&nbsp;Cronkite News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nIn USMNT win over Senegal, attack clicks but defense wobbles&nbsp;&nbsp;Cronkite News\n\nFor the complete article, search for \"In USMNT win over Senegal, attack clicks but defense wobbles - Cronkite News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2254_11",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com",
+            "bullets": [
+              "Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup&nbsp;&nbsp;Inquirer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup&nbsp;&nbsp;Inquirer.com\n\nFor the complete article, search for \"Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2255_12",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC",
+            "bullets": [
+              "USMNT gets past Senegal in first World Cup tune-up&nbsp;&nbsp;Stars and Stripes FC",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT gets past Senegal in first World Cup tune-up&nbsp;&nbsp;Stars and Stripes FC",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT gets past Senegal in first World Cup tune-up&nbsp;&nbsp;Stars and Stripes FC\n\nFor the complete article, search for \"USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2257_13",
+            "category": "usa",
+            "type": "News",
+            "title": "Pulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal - ESPN",
+            "bullets": [
+              "Pulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"Pulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2257_14",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer",
+            "bullets": [
+              "26 USMNT Moments, Past to Present: Sweet Revenge&nbsp;&nbsp;US Soccer",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "26 USMNT Moments, Past to Present: Sweet Revenge&nbsp;&nbsp;US Soccer",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n26 USMNT Moments, Past to Present: Sweet Revenge&nbsp;&nbsp;US Soccer\n\nFor the complete article, search for \"26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2258_15",
+            "category": "usa",
+            "type": "News",
+            "title": "Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence - Sports Illustrated",
+            "bullets": [
+              "Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence&nbsp;&nbsp;Sports Illu...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFour Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2259_16",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN",
+            "bullets": [
+              "USMNT's Pulisic breaks goal drought, hopes people stop 'talking'&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT's Pulisic breaks goal drought, hopes people stop 'talking'&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's Pulisic breaks goal drought, hopes people stop 'talking'&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2300_17",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times",
+            "bullets": [
+              "Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic&n...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2302_18",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated",
+            "bullets": [
+              "USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It?&nbsp;&nbsp;Spor...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It?&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It?&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2303_19",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago",
+            "bullets": [
+              "USMNT prepares for hosting FIFA World Cup&nbsp;&nbsp;FOX 32 Chicago",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT prepares for hosting FIFA World Cup&nbsp;&nbsp;FOX 32 Chicago",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT prepares for hosting FIFA World Cup&nbsp;&nbsp;FOX 32 Chicago\n\nFor the complete article, search for \"USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2304_20",
+            "category": "usa",
+            "type": "News",
+            "title": "Pre-World Cup friendly live updates: USMNT look sharp in win over Senegal - ESPN",
+            "bullets": [
+              "Pre-World Cup friendly live updates: USMNT look sharp in win over Senegal&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pre-World Cup friendly live updates: USMNT look sharp in win over Senegal&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPre-World Cup friendly live updates: USMNT look sharp in win over Senegal&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"Pre-World Cup friendly live updates: USMNT look sharp in win over Senegal - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2305_21",
+            "category": "usa",
+            "type": "News",
+            "title": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
+            "bullets": [
+              "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The A...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAfter fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2305_22",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
+            "bullets": [
+              "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2306_23",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal",
+            "bullets": [
+              "USMNT delivers win in pre-World Cup match in Charlotte&nbsp;&nbsp;Sports Business Journal",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT delivers win in pre-World Cup match in Charlotte&nbsp;&nbsp;Sports Business Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT delivers win in pre-World Cup match in Charlotte&nbsp;&nbsp;Sports Business Journal\n\nFor the complete article, search for \"USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2307_24",
+            "category": "usa",
+            "type": "News",
+            "title": "Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast",
+            "bullets": [
+              "Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection&nbsp;&nbsp;Hypebeast",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection&nbsp;&nbsp;Hypebeast",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNike Teases Virgil Abloh Archive for USMNT Lifestyle Collection&nbsp;&nbsp;Hypebeast\n\nFor the complete article, search for \"Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2308_25",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports",
+            "bullets": [
+              "Mauricio Pochettino explains why he doesn't like water breaks&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino explains why he doesn't like water breaks&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino explains why he doesn't like water breaks&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2309_26",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic - The New York Times",
+            "bullets": [
+              "Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Ath...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2310_27",
+            "category": "usa",
+            "type": "News",
+            "title": "New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US",
+            "bullets": [
+              "New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’&nbsp;&nbsp;Campaign US",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’&nbsp;&nbsp;Campaign US",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNew York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’&nbsp;&nbsp;Campaign US\n\nFor the complete article, search for \"New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2311_28",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta",
+            "bullets": [
+              "USMNT secures 3-2 victory over Senegal in World Cup warmup&nbsp;&nbsp;FOX 5 Atlanta",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT secures 3-2 victory over Senegal in World Cup warmup&nbsp;&nbsp;FOX 5 Atlanta",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT secures 3-2 victory over Senegal in World Cup warmup&nbsp;&nbsp;FOX 5 Atlanta\n\nFor the complete article, search for \"USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2312_29",
+            "category": "usa",
+            "type": "News",
+            "title": "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports",
+            "bullets": [
+              "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2313_30",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT player ratings vs Senegal: Who starred for the Americans in notable home win? - NBC Sports",
+            "bullets": [
+              "USMNT player ratings vs Senegal: Who starred for the Americans in notable home win?&nbsp;&nbsp;NBC S...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT player ratings vs Senegal: Who starred for the Americans in notable home win?&nbsp;&nbsp;NBC Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT player ratings vs Senegal: Who starred for the Americans in notable home win?&nbsp;&nbsp;NBC Sports\n\nFor the complete article, search for \"USMNT player ratings vs Senegal: Who starred for the Americans in notable home win? - NBC Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2313_31",
+            "category": "usa",
+            "type": "News",
+            "title": "American Outlaws face uncertainty over USMNT tickets - Sports Business Journal",
+            "bullets": [
+              "American Outlaws face uncertainty over USMNT tickets&nbsp;&nbsp;Sports Business Journal",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "American Outlaws face uncertainty over USMNT tickets&nbsp;&nbsp;Sports Business Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAmerican Outlaws face uncertainty over USMNT tickets&nbsp;&nbsp;Sports Business Journal\n\nFor the complete article, search for \"American Outlaws face uncertainty over USMNT tickets - Sports Business Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2314_32",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT tops Senegal in Charlotte ahead of World Cup - Axios",
+            "bullets": [
+              "USMNT tops Senegal in Charlotte ahead of World Cup&nbsp;&nbsp;Axios",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT tops Senegal in Charlotte ahead of World Cup&nbsp;&nbsp;Axios",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT tops Senegal in Charlotte ahead of World Cup&nbsp;&nbsp;Axios\n\nFor the complete article, search for \"USMNT tops Senegal in Charlotte ahead of World Cup - Axios\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2315_33",
+            "category": "usa",
+            "type": "News",
+            "title": "Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post",
+            "bullets": [
+              "Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on ho...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nRicardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2316_34",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup - Sports Illustrated",
+            "bullets": [
+              "USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup&nbsp;&nbsp;Spo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2317_35",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports",
+            "bullets": [
+              "USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven socc...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2318_36",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News",
+            "bullets": [
+              "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal&nbsp;&nbsp;Fox Ne...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal&nbsp;&nbsp;Fox News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal&nbsp;&nbsp;Fox News\n\nFor the complete article, search for \"USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2319_37",
+            "category": "usa",
+            "type": "News",
+            "title": "ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now",
+            "bullets": [
+              "ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern&nbsp;&nbsp;American Soccer Now",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern&nbsp;&nbsp;American Soccer Now\n\nFor the complete article, search for \"ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2320_38",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports",
+            "bullets": [
+              "Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup&...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2321_39",
+            "category": "usa",
+            "type": "News",
+            "title": "WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match - FOX Carolina News",
+            "bullets": [
+              "WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match&nbsp;&nbsp;FOX Car...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match&nbsp;&nbsp;FOX Carolina News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match&nbsp;&nbsp;FOX Carolina News\n\nFor the complete article, search for \"WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match - FOX Carolina News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2322_40",
+            "category": "usa",
+            "type": "News",
+            "title": "Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com",
+            "bullets": [
+              "Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more&nbsp;&nbsp;Inquirer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nQ&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more&nbsp;&nbsp;Inquirer.com\n\nFor the complete article, search for \"Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2323_41",
+            "category": "usa",
+            "type": "News",
+            "title": "Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times",
+            "bullets": [
+              "Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic&nbsp;&nbsp;The N...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nEven more crucial than winning, USMNT showcases its World Cup upside - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2323_42",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal",
+            "bullets": [
+              "USMNT downs Senegal 3-2 in World Cup Preperation&nbsp;&nbsp;KC Soccer Journal",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT downs Senegal 3-2 in World Cup Preperation&nbsp;&nbsp;KC Soccer Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT downs Senegal 3-2 in World Cup Preperation&nbsp;&nbsp;KC Soccer Journal\n\nFor the complete article, search for \"USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2324_43",
+            "category": "usa",
+            "type": "News",
+            "title": "With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times",
+            "bullets": [
+              "With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic&n...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWith goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2325_44",
+            "category": "usa",
+            "type": "News",
+            "title": "Alexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd - Fox News",
+            "bullets": [
+              "Alexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd&nbsp;&nbsp;Fox News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAlexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd&nbsp;&nbsp;Fox News\n\nFor the complete article, search for \"Alexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd - Fox News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2326_45",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way - NBC Sports Bay Area & California",
+            "bullets": [
+              "USMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way&nbsp;&nbsp;NBC Sports...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way&nbsp;&nbsp;NBC Sports Bay Area & California",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way&nbsp;&nbsp;NBC Sports Bay Area & California\n\nFor the complete article, search for \"USMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way - NBC Sports Bay Area & California\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2326_46",
+            "category": "usa",
+            "type": "News",
+            "title": "Can Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup? - CBS Sports",
+            "bullets": [
+              "Can Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup?&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Can Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup?&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nCan Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup?&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"Can Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup? - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2327_47",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted - New York Post",
+            "bullets": [
+              "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted&nbsp;&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2328_48",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’ - FotMob",
+            "bullets": [
+              "USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’&nbsp;&nbsp;FotM...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’&nbsp;&nbsp;FotMob",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’&nbsp;&nbsp;FotMob\n\nFor the complete article, search for \"USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’ - FotMob\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2329_49",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview - Yahoo Sports",
+            "bullets": [
+              "USMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview&nbsp;&nbsp;Yah...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"USMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2330_50",
+            "category": "usa",
+            "type": "News",
+            "title": "What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks - CBS Sports",
+            "bullets": [
+              "What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhat's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2331_51",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT top Senegal in pre-World Cup friendly - MLSsoccer.com",
+            "bullets": [
+              "USMNT top Senegal in pre-World Cup friendly&nbsp;&nbsp;MLSsoccer.com",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT top Senegal in pre-World Cup friendly&nbsp;&nbsp;MLSsoccer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT top Senegal in pre-World Cup friendly&nbsp;&nbsp;MLSsoccer.com\n\nFor the complete article, search for \"USMNT top Senegal in pre-World Cup friendly - MLSsoccer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2332_52",
+            "category": "usa",
+            "type": "News",
+            "title": "Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian",
+            "bullets": [
+              "Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment&nbsp;&nbs...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment&nbsp;&nbsp;The Guardian",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nGathered around a laptop, the USMNT create their World Cup journey’s first memeable moment&nbsp;&nbsp;The Guardian\n\nFor the complete article, search for \"Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2333_53",
+            "category": "usa",
+            "type": "News",
+            "title": "WATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte - FOX Carolina News",
+            "bullets": [
+              "WATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte&nbsp;&nbsp;FO...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "WATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte&nbsp;&nbsp;FOX Carolina News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte&nbsp;&nbsp;FOX Carolina News\n\nFor the complete article, search for \"WATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte - FOX Carolina News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2334_54",
+            "category": "usa",
+            "type": "News",
+            "title": "Nicol: Pulisic's form key for USMNT's World Cup momentum - ESPN",
+            "bullets": [
+              "Nicol: Pulisic's form key for USMNT's World Cup momentum&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nicol: Pulisic's form key for USMNT's World Cup momentum&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNicol: Pulisic's form key for USMNT's World Cup momentum&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"Nicol: Pulisic's form key for USMNT's World Cup momentum - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2335_55",
+            "category": "usa",
+            "type": "News",
+            "title": "3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal - Yahoo Sports",
+            "bullets": [
+              "3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2335_56",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time - USA Today",
+            "bullets": [
+              "USMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time&nbsp;&nbsp;USA Today",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"USMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2336_57",
+            "category": "usa",
+            "type": "News",
+            "title": "New York Life launches USMNT docuseries “The Assist” - Coverager",
+            "bullets": [
+              "New York Life launches USMNT docuseries “The Assist”&nbsp;&nbsp;Coverager",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New York Life launches USMNT docuseries “The Assist”&nbsp;&nbsp;Coverager",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNew York Life launches USMNT docuseries “The Assist”&nbsp;&nbsp;Coverager\n\nFor the complete article, search for \"New York Life launches USMNT docuseries “The Assist” - Coverager\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2337_58",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athletic - The New York Times",
+            "bullets": [
+              "USMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athl...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2338_59",
+            "category": "usa",
+            "type": "News",
+            "title": "SBI USMNT Man of the Match: Christian Pulisic - SBI Soccer - SBI Soccer",
+            "bullets": [
+              "SBI USMNT Man of the Match: Christian Pulisic - SBI Soccer&nbsp;&nbsp;SBI Soccer",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "SBI USMNT Man of the Match: Christian Pulisic - SBI Soccer&nbsp;&nbsp;SBI Soccer",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nSBI USMNT Man of the Match: Christian Pulisic - SBI Soccer&nbsp;&nbsp;SBI Soccer\n\nFor the complete article, search for \"SBI USMNT Man of the Match: Christian Pulisic - SBI Soccer - SBI Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2339_60",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT coach Pochettino turns to laptop in-game during match with Senegal - TSN",
+            "bullets": [
+              "USMNT coach Pochettino turns to laptop in-game during match with Senegal&nbsp;&nbsp;TSN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT coach Pochettino turns to laptop in-game during match with Senegal&nbsp;&nbsp;TSN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT coach Pochettino turns to laptop in-game during match with Senegal&nbsp;&nbsp;TSN\n\nFor the complete article, search for \"USMNT coach Pochettino turns to laptop in-game during match with Senegal - TSN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2340_61",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT makes impressive statement before World Cup with friendly win over Senegal - New York Post",
+            "bullets": [
+              "USMNT makes impressive statement before World Cup with friendly win over Senegal&nbsp;&nbsp;New York...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT makes impressive statement before World Cup with friendly win over Senegal&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT makes impressive statement before World Cup with friendly win over Senegal&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"USMNT makes impressive statement before World Cup with friendly win over Senegal - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2341_62",
+            "category": "usa",
+            "type": "News",
+            "title": "Drought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run - Yahoo Sports",
+            "bullets": [
+              "Drought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run&nbsp;&nbsp;Y...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Drought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nDrought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Drought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2342_63",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic wanted to talk about something else. Now he can - The Guardian",
+            "bullets": [
+              "Christian Pulisic wanted to talk about something else. Now he can&nbsp;&nbsp;The Guardian",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic wanted to talk about something else. Now he can&nbsp;&nbsp;The Guardian",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic wanted to talk about something else. Now he can&nbsp;&nbsp;The Guardian\n\nFor the complete article, search for \"Christian Pulisic wanted to talk about something else. Now he can - The Guardian\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2343_64",
+            "category": "usa",
+            "type": "News",
+            "title": "Pulisic Finds Form for USMNT Before World Cup - 247Sports",
+            "bullets": [
+              "Pulisic Finds Form for USMNT Before World Cup&nbsp;&nbsp;247Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pulisic Finds Form for USMNT Before World Cup&nbsp;&nbsp;247Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPulisic Finds Form for USMNT Before World Cup&nbsp;&nbsp;247Sports\n\nFor the complete article, search for \"Pulisic Finds Form for USMNT Before World Cup - 247Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2344_65",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - FOX Carolina News",
+            "bullets": [
+              "USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal&nbsp;&nbsp;FOX Carolina News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal&nbsp;&nbsp;FOX Carolina News\n\nFor the complete article, search for \"USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - FOX Carolina News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2345_66",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - KCRG",
+            "bullets": [
+              "USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal&nbsp;&nbsp;KCRG",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal&nbsp;&nbsp;KCRG\n\nFor the complete article, search for \"USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - KCRG\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-05-31 @ 07:44:54 EDT",
+  "lastUpdated": "2026-06-01 @ 15:23:45 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
