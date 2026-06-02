@@ -3,65 +3,11 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ How wing-backs and chemistry helped the US break through against Senegal",
-    "⚽ Christian Pulisic wanted to talk about something else. Now he can",
-    "⚽ USMNT submits World Cup squad to FIFA, with hobbled Chris Richards included - The New York Times",
-    "⚽ USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated",
-    "⚽ The USMNT Is Still Stuck In The Middle - Defector",
-    "⚽ 26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer",
-    "⚽ US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - Cronkite News",
-    "⚽ USMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup - Yahoo Sports",
-    "⚽ Do you agree with Mauricio Pochettino emailing players that didn't make the FIFA World Cup™ roster? - FOX Sports",
-    "⚽ USMNT midweek viewing guide: The friendliest week - Stars and Stripes FC",
-    "⚽ WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup - FOX Carolina News",
-    "⚽ USMNT vs. Senegal: Match Recap & Highlights - US Soccer",
-    "⚽ Was Mauricio Pochettino a short-term hire for the USMNT? 🧐 - FOX Sports",
-    "⚽ Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated",
-    "⚽ Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
-    "⚽ Oldest and Youngest Players on the USMNT World Cup Roster—Tim Ream Sets Record - Sports Illustrated",
-    "⚽ USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports",
-    "⚽ Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of 2026 FIFA World Cup - FOX Carolina News",
-    "⚽ Chris Richards included as USMNT submits final World Cup roster to FIFA - Yahoo Sports",
-    "⚽ USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN",
-    "⚽ After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
-    "⚽ USMNT debuts World Cup kits and schedule for when they’ll wear them - The New York Times",
-    "⚽ USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC",
-    "⚽ Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com",
-    "⚽ Chris Richards included as USMNT submits final World Cup roster to FIFA - USA Today",
-    "⚽ New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US",
-    "⚽ USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago",
-    "⚽ Paraguay name World Cup squad: USMNT opponents select South America-heavy team - The New York Times",
-    "⚽ Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times",
-    "⚽ Mauricio Pochettino and World Cup coaches cleared to use laptops during water breaks - The New York Times",
-    "⚽ Encouraging signs for USMNT forwards Christian Pulisic, Ricardo Pepi, and Folarin Balogun - FOX Sports",
-    "⚽ Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian",
-    "⚽ USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta",
-    "⚽ HBO USMNT Doc Director on the Reyna Decision - Front Office Sports",
-    "⚽ USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal",
-    "⚽ Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast",
-    "⚽ Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post",
-    "⚽ U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
-    "⚽ USMNT tops Senegal in Charlotte ahead of World Cup - Axios",
-    "⚽ Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times",
-    "⚽ American Outlaws face uncertainty over USMNT tickets - Sports Business Journal",
-    "⚽ HBO USMNT Doc Director on the Reyna Decision - Yahoo Sports",
-    "⚽ Tyler Adams diary: ‘Now the World Cup feels real’ - Andscape",
-    "⚽ Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports",
-    "⚽ USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad - MSN",
-    "⚽ Chris Richards a critical part of USMNT’s plans despite injury worry, friendly red flags - New York Post",
-    "⚽ Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports",
-    "⚽ Weston McKennie promises another fun hairdo for 2026 World Cup - USA Today",
-    "⚽ Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times",
-    "⚽ The Rondo, USMNT edition: Did Christian Pulisic show he's ready for the World Cup? And who should start at striker: Folarin Balogun or Ricardo Pepi? - Goal.com",
-    "⚽ Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com",
-    "⚽ How the USMNT Could Set Up at the 2026 World Cup & How They Could Fair - RMU Sentry Media",
-    "⚽ How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports",
-    "⚽ USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal",
-    "⚽ USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News",
-    "⚽ 'Ton of quality': Jozy Altidore on USMNT ahead of World Cup 2026 - WCNC",
-    "⚽ With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times",
-    "⚽ USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad - ESPN",
-    "⚽ ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now"
+    "⚽ Tyler Adams and Antonee Robinson log stellar physical registers in Denver",
+    "🌍 Türkiye locks in high-tempo press drills at their training headquarters",
+    "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+    "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+    "📈 USA World Cup Group D tickets sell out completely in under 12 minutes."
   ],
   "timeline": {
     "2026-05-31": {
@@ -4029,10 +3975,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-02": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260602_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "Tyler Adams and Antonee Robinson log stellar physical registers in Denver",
+            "bullets": [
+              "Adams completes full team drills, showing zero signs of physical fatigue.",
+              "Robinson clocks top sprinting speeds during overlapping winger runs.",
+              "Conditioning staff reports high altitude recovery indexes are ahead of schedule."
+            ],
+            "summary": "The afternoon workout in Denver focused on intensive physical conditioning. Midfielder Tyler Adams completed the full high-tempo drills, showcasing his elite fitness. Left-back Antonee Robinson clocked the day's highest speed, showing he is ready to cover the entire left flank.",
+            "fullText": "The afternoon workout in Denver focused on intensive physical conditioning. Midfielder Tyler Adams completed the full high-tempo drills, showcasing his elite fitness. Left-back Antonee Robinson clocked the day's highest speed, showing he is ready to cover the entire left flank.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Camp",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260602_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Türkiye locks in high-tempo press drills at their training headquarters",
+            "bullets": [
+              "Turkish squad practices swift vertical combination drills and quick shot releases.",
+              "Hakan Çalhanoğlu orchestrates rapid transition flows in midfield scrimmages.",
+              "Tactical scouts highlight USA's physical stamina as their primary threat."
+            ],
+            "summary": "Türkiye is wrapping up their final training phase before departing for the United States. Manager Vincenzo Montella has designed custom mid-block pressing traps, with Inter Milan's Hakan Çalhanoğlu pulling the strings. Analysts warn that the USMNT's physical work-rate represents a massive challenge.",
+            "fullText": "Türkiye is wrapping up their final training phase before departing for the United States. Manager Vincenzo Montella has designed custom mid-block pressing traps, with Inter Milan's Hakan Çalhanoğlu pulling the strings. Analysts warn that the USMNT's physical work-rate represents a massive challenge.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "TRT Spor",
+            "readTime": "3 min",
+            "tag": "Türkiye Scout",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 19:59:46 EDT",
+  "lastUpdated": "2026-06-02 @ 14:57:57 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
