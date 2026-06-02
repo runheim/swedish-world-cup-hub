@@ -3,29 +3,30 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Champions League team of the season: Lamine Yamal, Harry Kane … and a Spurs player",
-    "⚽ Tuchel reveals Team GB have been helping England get ready for World Cup heat",
-    "⚽ Sabalenka breezes past Osaka and into French Open quarter-finals",
-    "⚽ Wyatt-Hodge expecting 'fireworks' from struggling opening partner Dunkley",
-    "⚽ There it is! England's plane touches down in US ahead of World Cup",
-    "⚽ Kane and Tuchel lead England squad as they arrive at hotel in US for pre-World Cup training camp in stormy Miami - The Sun",
-    "⚽ Palace and Nike Reveal \"The Three Lions\" Capsule for England - dscene magazine",
-    "⚽ Team GB x Three Lions! How Olympic Games expertise is aiding England’s quest for World Cup glory in the sweltering heat of North America - Goal.com",
-    "⚽ England arrive in Miami as Three Lions camp begins in bid to end 60 years of hurt - lbc.co.uk",
-    "⚽ England World Cup 2026, Thomas Tuchel Travels to the USA With Confidence and Strategies to Overcome the Heat - beIN SPORTS",
-    "⚽ Tuchel has 'full belief' England can win the World Cup - FotMob",
-    "⚽ Three Lions on the way! England squad flies out to Miami for the World Cup - lbc.co.uk",
-    "⚽ England predicted line-up for World Cup opener: Expected Three Lions XI vs Croatia according to the odds - The Sun",
-    "⚽ England hired Thomas Tuchel to win the 2026 World Cup - anything less should be considered failure - Goal.com",
-    "⚽ Inside England's World Cup squad - Thomas Tuchel's 21-man plan as Harry Maguire point proven - The Mirror",
+    "⚽ Bellingham is No 10 in England World Cup squad",
+    "⚽ Tuchel tackles questions from team of under-11s",
+    "⚽ Manchester City do the double and Jill Scott joins the pod – Women’s Football Weekly",
+    "⚽ 'Absolutely ludicrous' - pundits react to Archer's extended absence",
+    "⚽ England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports",
+    "⚽ 'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Goal.com",
+    "⚽ Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com",
+    "⚽ 'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award - FOX Sports",
+    "⚽ England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun",
+    "⚽ Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN",
+    "⚽ 'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Yahoo! Sports UK",
+    "⚽ ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC",
+    "⚽ 2026 World Cup Group L preview: Can England get over the line? - MSN",
+    "⚽ 'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com",
+    "⚽ England arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt - lbc.co.uk",
+    "⚽ Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm - The Mirror",
+    "⚽ Tuchel names one immediate ‘challenge’ England must overcome to win World Cup - Football365",
+    "⚽ Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision - The Mirror",
+    "⚽ England's World Cup squad numbers as Thomas Tuchel drops major lineup hint - The Mirror",
+    "⚽ The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No.. - 매일경제",
+    "⚽ Harry Kane insists winning the World Cup ‘must be’ England’s goal - Get French Football News",
     "⚽ Under fire anthem Three Lions could help England win the World Cup says experts - Daily Star",
-    "⚽ England World Cup stars will have special online police team investigating abuse - The Mirror",
-    "⚽ 'I'm worried about England' - Roy Keane pinpoints Three Lions' World Cup flaw - The Sun",
-    "⚽ England World Cup 2026 guide: Fixtures, prediction, key player and odds - London Evening Standard",
-    "⚽ World Cup preview: Group L: Manuel Cardoni: England’s talent comes with high expectations - RTL Today",
-    "⚽ Drop Jude Bellingham! England tipped to bench Real Madrid superstar as Alan Shearer explains how to bring the best out of Harry Kane at 2026 World Cup - Goal.com",
-    "⚽ England World Cup star cleared to travel to US despite still being on bail for assault at swanky London bar - The Sun",
-    "⚽ The cheapest places to buy England World Cup shirts ahead of tournament - with prices from just £3.50 - The Sun"
+    "⚽ England to win World Cup odds: Player & Group L analysis - talkSPORT",
+    "⚽ FIFA 'leak' gives major hint to England World Cup team - Cork's 96FM"
   ],
   "timeline": {
     "2026-05-31": {
@@ -2361,10 +2362,426 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-02": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5821_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham is No 10 in England World Cup squad",
+            "bullets": [
+              "England's squad numbers for the World Cup have been announced - but how much do the choices hint at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's squad numbers for the World Cup have been announced - but how much do the choices hint at Thomas Tuchel's thinking?",
+            "fullText": "Jude Bellingham also wore the number 10 shirt at Euro 2024\n\nEngland's squad numbers for this summer's World Cup have been announced - but how much do the choices hint at Thomas Tuchel's thinking when it comes to his starting XI?\n\nReal Madrid's Jude Bellingham, whose place in Tuchel's plans has been called into question in recent months, has been handed the coveted No 10 shirt. Is that an indication he is set to win the race to play in the central attacking role ahead of Aston Villa's Morgan Rogers, who is No 17?\n\nElsewhere, Manchester City's Nico O'Reilly has been given No 3 - a decision that will reinforce the general thought he will head into the tournament as the team's first-choice left-back.\n\nNewcastle's Dan Burn, who can also play at left-back, will wear No 15.\n\nElliott Anderson's emergence as a key player for Tuchel appears to have been cemented by the Nottingham Forest midfielder being handed No 8.\n\nBrentford's Jordan Henderson, who has previously worn that shirt, will wear 14, which he took during his successful spell at Liverpool.\n\nManchester City's John Stones and Marc Guehi have been given No 5 and No 6 respectively, which may indicate their positions as England's first-choice central-defensive pairing.\n\nUp front, Marcus Rashford will end a season spent at Barcelona by wearing the No 11 shirt, which may suggest he is ahead of Barca newcomer Anthony Gordon, who has No 18, in the race to play on the left.\n\nThose looking to glean any hints should bear in mind there is one glaring anomaly - Reece James is almost certain to start the tournament as first-choice right-back wearing 24, just as he does at Chelsea.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5821_1",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel tackles questions from team of under-11s",
+            "bullets": [
+              "England head coach Thomas Tuchel fields questions from under-11 players before his team head to the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel fields questions from under-11 players before his team head to the World Cup.",
+            "fullText": "England head coach Thomas Tuchel answers questions posed to him by under-11 players from the West Midlands-based Starz Academy.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5822_2",
+            "category": "england",
+            "type": "News",
+            "title": "Manchester City do the double and Jill Scott joins the pod – Women’s Football Weekly",
+            "bullets": [
+              "Suzy Wrack is joined by Tom Garry, Emily Keogh and Ameé Ruszkai to discuss Manchester City’s FA Cup ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Suzy Wrack is joined by Tom Garry, Emily Keogh and Ameé Ruszkai to discuss Manchester City’s FA Cup triumph, England’s huge qualifier against Spain and Jill Scott’s epic Sport Relief challenge.On today’s pod: Manchester City complete a historic domestic double after a commanding 4-0 win over Brighton in the Women’s FA Cup final at Wembley.The panel discuss City’s ruthless performance, Bunny Shaw’s starring role after signing a new long-term contract and whether Andrée Jeglertz’s side can now build a period of dominance with Champions League football returning next season. Continue reading...",
+            "fullText": "Suzy Wrackis joined byTom Garry,Emily KeoghandAmeé Ruszkaito discuss Manchester City’s FA Cup triumph, England’s huge qualifier against Spain andJill Scott’s epic Sport Relief challenge.\n\nOn today’s pod: Manchester City complete a historic domestic double aftera commanding 4-0 win over Brightonin the Women’s FA Cup final at Wembley.\n\nThe panel discuss City’s ruthless performance,Bunny Shaw’s starring roleafter signing a new long-term contract and whether Andrée Jeglertz’s side can now build a period of dominance with Champions League football returning next season.\n\nMeanwhile, Brighton fall short in their first major final but continue to earn plaudits for their progress under Dario Vidosic. The panel ask what they need in the summer to turn cup runs into consistent top-end WSL contention.\n\nAttention then turns to the international break as England prepare for another huge meeting with Spain in Mallorca. The panel preview the decisive World Cup qualifier, discuss Leah Williamson’s injury absence and ask whether Sarina Wiegman’s side can finish top of the group.\n\nPlus: Tom reports back from the latest World Sevens tournament, and Jill Scott joins the pod to talk about her extraordinary 400-mile Sport Relief challenge from Wembley to Sunderland.\n\nSign up for our women’s football newsletter – all you need to do is search “Moving the Goalposts sign up” orfollow this link.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5822_3",
+            "category": "england",
+            "type": "News",
+            "title": "'Absolutely ludicrous' - pundits react to Archer's extended absence",
+            "bullets": [
+              "Simon Doull - former Black Caps seamer - has criticised Jofra Archer’s omission from England’s Test ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Simon Doull - former Black Caps seamer - has criticised Jofra Archer’s omission from England’s Test squad to face New Zealand, calling it \"absolutely ludicrous\" amid reports that the fast bowler may miss the opening two matches of the series.",
+            "fullText": "The Sky Sports Cricket experts react to Jofra Archer's absence from Brendon McCullum's first Test squad and discuss his replacements;watch the first Test against New Zealand, live on Sky Sports Cricket from 10am on Thursday (first ball 11am)",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5822_4",
+            "category": "england",
+            "type": "News",
+            "title": "England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports",
+            "bullets": [
+              "England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed k...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts&nbsp;&nbsp;Sky Sports",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts&nbsp;&nbsp;Sky Sports\n\nFor the complete article, search for \"England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5822_5",
+            "category": "england",
+            "type": "News",
+            "title": "'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Goal.com",
+            "bullets": [
+              "'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5823_6",
+            "category": "england",
+            "type": "News",
+            "title": "Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com",
+            "bullets": [
+              "Nike and Palace collab for star-studded England Three Lions capsule collection&nbsp;&nbsp;Goal.com",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nike and Palace collab for star-studded England Three Lions capsule collection&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nNike and Palace collab for star-studded England Three Lions capsule collection&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5823_7",
+            "category": "england",
+            "type": "News",
+            "title": "'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award - FOX Sports",
+            "bullets": [
+              "'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifie...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award - FOX Sports\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5823_8",
+            "category": "england",
+            "type": "News",
+            "title": "England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun",
+            "bullets": [
+              "England squad numbers: What are Three Lions players wearing on their backs at World Cup?&nbsp;&nbsp;...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England squad numbers: What are Three Lions players wearing on their backs at World Cup?&nbsp;&nbsp;The Sun",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland squad numbers: What are Three Lions players wearing on their backs at World Cup?&nbsp;&nbsp;The Sun\n\nFor the complete article, search for \"England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5823_9",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN",
+            "bullets": [
+              "Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers&nbsp;&nbsp;DAZN",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers&nbsp;&nbsp;DAZN",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nBellingham keeps the number 10 shirt as England reveal World Cup squad numbers&nbsp;&nbsp;DAZN\n\nFor the complete article, search for \"Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5824_10",
+            "category": "england",
+            "type": "News",
+            "title": "'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Yahoo! Sports UK",
+            "bullets": [
+              "'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA ...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target&nbsp;&nbsp;Yahoo! Sports UK",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target&nbsp;&nbsp;Yahoo! Sports UK\n\nFor the complete article, search for \"'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Yahoo! Sports UK\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5824_11",
+            "category": "england",
+            "type": "News",
+            "title": "ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC",
+            "bullets": [
+              "ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD&nbsp;&nbsp;Nottingham Forest FC",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD&nbsp;&nbsp;Nottingham Forest FC",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD&nbsp;&nbsp;Nottingham Forest FC\n\nFor the complete article, search for \"ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5824_12",
+            "category": "england",
+            "type": "News",
+            "title": "2026 World Cup Group L preview: Can England get over the line? - MSN",
+            "bullets": [
+              "2026 World Cup Group L preview: Can England get over the line?&nbsp;&nbsp;MSN",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "2026 World Cup Group L preview: Can England get over the line?&nbsp;&nbsp;MSN",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n2026 World Cup Group L preview: Can England get over the line?&nbsp;&nbsp;MSN\n\nFor the complete article, search for \"2026 World Cup Group L preview: Can England get over the line? - MSN\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5825_13",
+            "category": "england",
+            "type": "News",
+            "title": "'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com",
+            "bullets": [
+              "'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he high...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5825_14",
+            "category": "england",
+            "type": "News",
+            "title": "England arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt - lbc.co.uk",
+            "bullets": [
+              "England arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt&nbsp;&nb...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt&nbsp;&nbsp;lbc.co.uk",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt&nbsp;&nbsp;lbc.co.uk\n\nFor the complete article, search for \"England arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt - lbc.co.uk\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5825_15",
+            "category": "england",
+            "type": "News",
+            "title": "Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm - The Mirror",
+            "bullets": [
+              "Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm&nbsp;&nbs...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm&nbsp;&nbsp;The Mirror",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nOllie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm&nbsp;&nbsp;The Mirror\n\nFor the complete article, search for \"Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm - The Mirror\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5825_16",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel names one immediate ‘challenge’ England must overcome to win World Cup - Football365",
+            "bullets": [
+              "Tuchel names one immediate ‘challenge’ England must overcome to win World Cup&nbsp;&nbsp;Football365",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel names one immediate ‘challenge’ England must overcome to win World Cup&nbsp;&nbsp;Football365",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nTuchel names one immediate ‘challenge’ England must overcome to win World Cup&nbsp;&nbsp;Football365\n\nFor the complete article, search for \"Tuchel names one immediate ‘challenge’ England must overcome to win World Cup - Football365\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5826_17",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision - The Mirror",
+            "bullets": [
+              "Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision&nbsp;&nbs...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision&nbsp;&nbsp;The Mirror",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nHarry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision&nbsp;&nbsp;The Mirror\n\nFor the complete article, search for \"Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision - The Mirror\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5826_18",
+            "category": "england",
+            "type": "News",
+            "title": "England's World Cup squad numbers as Thomas Tuchel drops major lineup hint - The Mirror",
+            "bullets": [
+              "England's World Cup squad numbers as Thomas Tuchel drops major lineup hint&nbsp;&nbsp;The Mirror",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup squad numbers as Thomas Tuchel drops major lineup hint&nbsp;&nbsp;The Mirror",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland's World Cup squad numbers as Thomas Tuchel drops major lineup hint&nbsp;&nbsp;The Mirror\n\nFor the complete article, search for \"England's World Cup squad numbers as Thomas Tuchel drops major lineup hint - The Mirror\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5826_19",
+            "category": "england",
+            "type": "News",
+            "title": "The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No.. - 매일경제",
+            "bullets": [
+              "The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No..&nbsp;&nbsp;매일경제",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThe goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No..&nbsp;&nbsp;매일경제\n\nFor the complete article, search for \"The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No.. - 매일경제\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5827_20",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane insists winning the World Cup ‘must be’ England’s goal - Get French Football News",
+            "bullets": [
+              "Harry Kane insists winning the World Cup ‘must be’ England’s goal&nbsp;&nbsp;Get French Football New...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane insists winning the World Cup ‘must be’ England’s goal&nbsp;&nbsp;Get French Football News",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nHarry Kane insists winning the World Cup ‘must be’ England’s goal&nbsp;&nbsp;Get French Football News\n\nFor the complete article, search for \"Harry Kane insists winning the World Cup ‘must be’ England’s goal - Get French Football News\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5827_21",
+            "category": "england",
+            "type": "News",
+            "title": "Under fire anthem Three Lions could help England win the World Cup says experts - Daily Star",
+            "bullets": [
+              "Under fire anthem Three Lions could help England win the World Cup says experts&nbsp;&nbsp;Daily Sta...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Under fire anthem Three Lions could help England win the World Cup says experts&nbsp;&nbsp;Daily Star",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nUnder fire anthem Three Lions could help England win the World Cup says experts&nbsp;&nbsp;Daily Star\n\nFor the complete article, search for \"Under fire anthem Three Lions could help England win the World Cup says experts - Daily Star\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5827_22",
+            "category": "england",
+            "type": "News",
+            "title": "England to win World Cup odds: Player & Group L analysis - talkSPORT",
+            "bullets": [
+              "England to win World Cup odds: Player & Group L analysis&nbsp;&nbsp;talkSPORT",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England to win World Cup odds: Player & Group L analysis&nbsp;&nbsp;talkSPORT",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland to win World Cup odds: Player & Group L analysis&nbsp;&nbsp;talkSPORT\n\nFor the complete article, search for \"England to win World Cup odds: Player & Group L analysis - talkSPORT\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5827_23",
+            "category": "england",
+            "type": "News",
+            "title": "FIFA 'leak' gives major hint to England World Cup team - Cork's 96FM",
+            "bullets": [
+              "FIFA 'leak' gives major hint to England World Cup team&nbsp;&nbsp;Cork's 96FM",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FIFA 'leak' gives major hint to England World Cup team&nbsp;&nbsp;Cork's 96FM",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nFIFA 'leak' gives major hint to England World Cup team&nbsp;&nbsp;Cork's 96FM\n\nFor the complete article, search for \"FIFA 'leak' gives major hint to England World Cup team - Cork's 96FM\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 19:59:36 EDT",
+  "lastUpdated": "2026-06-02 @ 14:58:27 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
