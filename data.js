@@ -3,11 +3,39 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Tyler Adams and Antonee Robinson log stellar physical registers in Denver",
-    "🌍 Türkiye locks in high-tempo press drills at their training headquarters",
-    "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-    "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-    "📈 USA World Cup Group D tickets sell out completely in under 12 minutes."
+    "⚽ USMNT FIFA World Cup schedule: Times, dates and group stage matchups - NBC10 Philadelphia",
+    "⚽ USMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The Athletic - The New York Times",
+    "⚽ U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup - Field Level Media",
+    "⚽ USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup - MLS Multiplex",
+    "⚽ USMNT cheat sheet: Everything to know for the 2026 FIFA World Cup - MLSsoccer.com",
+    "⚽ World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory - amNewYork",
+    "⚽ Eight Former College Players Make USMNT Roster - College Soccer News",
+    "⚽ Why Tim Ream's leadership matters for USMNT - NBC Los Angeles",
+    "⚽ ‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994 - Sports Illustrated",
+    "⚽ Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense - KTVU",
+    "⚽ Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today",
+    "⚽ St. Louis native Tim Ream will captain the USMNT at the World Cup - St. Louis Magazine",
+    "⚽ USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation - MLS Multiplex",
+    "⚽ OneFootball University: Can the USMNT win World Cup 2026? - Yahoo Sports",
+    "⚽ Ex-USMNT star sets USA's benchmark for successful World Cup, talks excitement of final being in his home state - Fox News",
+    "⚽ Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing - USA Today",
+    "⚽ ‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub - Athlon Sports",
+    "⚽ Why U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health - NBC 5 Chicago",
+    "⚽ USMNT World Cup Roster Reaction | Chasing the Cup - WPRI.com",
+    "⚽ Mauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result in a World Cup to remember? - Goal.com",
+    "⚽ WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup - FOX Carolina News",
+    "⚽ My New Favorite Futbolista: Tim Ream - NBC Los Angeles",
+    "⚽ McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay - hitc.com",
+    "⚽ USMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup - Yahoo Sports",
+    "⚽ USMNT secret weapon is water breaks - Yahoo Sports",
+    "⚽ FIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over Senegal - CBS Sports",
+    "⚽ Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of 2026 FIFA World Cup - FOX Carolina News",
+    "⚽ USMNT supporters gear up for match against Senegal - Yahoo Sports",
+    "⚽ Potential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer - CBS Sports",
+    "⚽ FIFA revealed the USMNT's kit schedule for the World Cup group stage - USA Today",
+    "⚽ US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - The Gila Herald",
+    "⚽ Exclusive: Jozy Altidore Believes USMNT Can Win the 2026 World Cup - heavy.com",
+    "⚽ Jozy Altidore discusses the leadership of USMNT captain Tim Ream - USA Today"
   ],
   "timeline": {
     "2026-05-31": {
@@ -4024,7 +4052,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-02 @ 14:57:57 EDT",
+  "lastUpdated": "2026-06-02 @ 16:23:53 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
