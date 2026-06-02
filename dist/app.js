@@ -793,20 +793,20 @@ const MATCH_SCHEDULE = [
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
   "match_norway": {
-    score: "2 - 1",
-    scorers: "🇳🇴 Haaland (12') | 🇸🇪 Gyökeres (54'), Bergvall (82')",
-    report: "Graham Potter's era kicks off with an impressive comeback victory in Oslo! Despite Erling Haaland opening the scoring early with a powerful half-volley, Sweden dominated possession in the second half. Viktor Gyökeres equalized with a towering header before substitute Lucas Bergvall scored a sensational 25-yard winner in the 82nd minute.",
+    score: "1 - 3",
+    scorers: "Alexander Isak (54') | Jørgen Strand Larsen (12', 48'), Antonio Nusa (82')",
+    report: "Sweden suffered a tough 1-3 defeat against Norway at Ullevaal Stadion in Oslo. Ståle Solbakken's side dominated the physical duels, with Jørgen Strand Larsen netting early in the 12th minute before doubling Norway's lead shortly after halftime (48'). Alexander Isak gave Graham Potter's side hope with a clinical goal in the 54th minute, but Antonio Nusa sealed Norway's victory with an 82nd-minute strike following a defensive transition lapse. A valuable learning opportunity for Potter's squad before heading to the United States.",
     ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made two critical saves against Haaland in the first half.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 7.0, comment: "Tough battle against Haaland, recovered well in the second half.", isMotm: false },
-      { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Composed leadership. Kept the defensive line compact.", isMotm: false },
-      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "High work rate, provided defensive coverage and dangerous crosses.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo with disciplined recycling.", isMotm: false },
-      { name: "Yasin Ayari", role: "DM", rating: 7.0, comment: "Energetic pressing, linked defense and attack smoothly.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LWB", rating: 6.5, comment: "Decent runs, but struggled slightly with Norway's wingers.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 8.5, comment: "Subbed on in the 65th minute. Changed the game completely with his creative dribbling and a spectacular long-range winning goal.", isMotm: true },
-      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Highly threatful between the lines. Assisted Bergvall's goal.", isMotm: false },
-      { name: "Viktor Gyökeres", role: "ST", rating: 8.0, comment: "A physical powerhouse upfront. Scored a magnificent equalizing header.", isMotm: false }
+      { name: "Viktor Johansson", role: "GK", rating: 5.5, comment: "Made a couple of sharp saves but was left exposed by defensive transitions.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 5.5, comment: "Tough battle against Larsen, struggled with physical duels.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 5.0, comment: "Experienced presence but struggled to organize the defensive line under pressure.", isMotm: false },
+      { name: "Carl Starfelt", role: "CB", rating: 5.0, comment: "Left exposed on transition plays by Norway's quick counters.", isMotm: false },
+      { name: "Samuel Dahl", role: "LWB", rating: 5.5, comment: "Worked hard on the flank but struggled to deal with Antonio Nusa's trickery.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 6.0, comment: "Recycled possession but could not establish midfield control.", isMotm: false },
+      { name: "Yasin Ayari", role: "DM", rating: 6.0, comment: "Energetic pressing, but was overrun by Norway's compact midfield.", isMotm: false },
+      { name: "Dejan Kulusevski", role: "AM", rating: 6.5, comment: "Attempted creative plays and set up Alexander Isak's goal beautifully.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 6.0, comment: "Subbed on in the second half, showed promising creative sparks in possession.", isMotm: false },
+      { name: "Alexander Isak", role: "ST", rating: 7.5, comment: "Scored the lone goal for Sweden with a clinical finish. Sweden's most threatful attacker.", isMotm: true }
     ],
     preview: {
       tactical: "Manager Graham Potter's debut match! The focus will be on transitioning to the new 3-4-2-1 formation and testing defensive responses to Erling Haaland's lethal central runs.",
