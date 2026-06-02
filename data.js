@@ -5,10 +5,12 @@ const DYNAMIC_HUB_DATA = {
   "ticker": [
     "⚽ Bellingham is No 10 in England World Cup squad",
     "⚽ Tuchel tackles questions from team of under-11s",
+    "⚽ Jude Bellingham handed World Cup boost for England after being given No 10 shirt",
     "⚽ Manchester City do the double and Jill Scott joins the pod – Women’s Football Weekly",
     "⚽ 'Absolutely ludicrous' - pundits react to Archer's extended absence",
+    "⚽ Transfer rumors, news: Barcelona to turn to Kane i...",
     "⚽ England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports",
-    "⚽ 'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Goal.com",
+    "⚽ Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com",
     "⚽ Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com",
     "⚽ 'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award - FOX Sports",
     "⚽ England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun",
@@ -16,17 +18,17 @@ const DYNAMIC_HUB_DATA = {
     "⚽ 'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Yahoo! Sports UK",
     "⚽ ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC",
     "⚽ 2026 World Cup Group L preview: Can England get over the line? - MSN",
+    "⚽ England's secret World Cup weapon named as Tuchel's side set to battle heat - talkSPORT",
+    "⚽ Tuchel names one immediate ‘challenge’ England must overcome to win World Cup - Football365",
     "⚽ 'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com",
+    "⚽ Harry Kane insists winning the World Cup ‘must be’ England’s goal - Yahoo Sports Canada",
     "⚽ England arrive in Miami as Three Lions camp begins in bid to end 60 years of World Cup hurt - lbc.co.uk",
     "⚽ Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm - The Mirror",
-    "⚽ Tuchel names one immediate ‘challenge’ England must overcome to win World Cup - Football365",
     "⚽ Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision - The Mirror",
     "⚽ England's World Cup squad numbers as Thomas Tuchel drops major lineup hint - The Mirror",
     "⚽ The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No.. - 매일경제",
-    "⚽ Harry Kane insists winning the World Cup ‘must be’ England’s goal - Get French Football News",
-    "⚽ Under fire anthem Three Lions could help England win the World Cup says experts - Daily Star",
     "⚽ England to win World Cup odds: Player & Group L analysis - talkSPORT",
-    "⚽ FIFA 'leak' gives major hint to England World Cup team - Cork's 96FM"
+    "⚽ Under fire anthem Three Lions could help England win the World Cup says experts - Daily Star"
   ],
   "timeline": {
     "2026-05-31": {
@@ -2781,7 +2783,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-02 @ 14:58:27 EDT",
+  "lastUpdated": "2026-06-02 @ 16:23:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
