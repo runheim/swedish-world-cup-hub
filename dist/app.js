@@ -808,20 +808,20 @@ const MATCH_SCHEDULE = [
 // 3.5 Match Reports & Player Ratings Database
 const MATCH_REPORTS_DATABASE = {
   "match_senegal": {
-    score: "1 - 1",
-    scorers: "🇺🇸 Pulisic (38') | 🇸🇳 Dia (72')",
-    report: "A tough test in Charlotte as Senegal proved a formidable opponent. Christian Pulisic opened the scoring with a clinical finish after a brilliant Gio Reyna through ball. However, Senegal's physicality in the second half paid off when Boulaye Dia equalized with a powerful header from a corner. Pochettino used the match to rotate heavily in the final 20 minutes.",
+    score: "3 - 2",
+    scorers: "Sergiño Dest (7'), Christian Pulisic (20'), Folarin Balogun (63') | Sadio Mané (44', 53')",
+    report: "A highly entertaining 3-2 victory for the USA at Bank of America Stadium in Charlotte! Sergiño Dest opened the scoring in the 7th minute with a stunning strike before captain Christian Pulisic doubled the lead in the 20th minute, ending his recent international scoring slump. However, Senegal fought back through a Sadio Mané double (44', 53') exploiting transition gaps in the US defense. Halftime substitute Folarin Balogun restored the lead and secured the win with a clinical strike in the 63rd minute. Mauricio Pochettino rotated 10 players at halftime to experiment extensively before the World Cup.",
     ratings: [
-      { name: "Matt Turner", role: "GK", rating: 7.0, comment: "Made two solid saves, beaten only by a powerful header.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 7.0, comment: "Physical battle against Senegal's forwards, held firm.", isMotm: false },
-      { name: "Tim Ream", role: "CB", rating: 7.0, comment: "Composed and experienced presence in the backline.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Reliable on both sides of the ball.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Controlled the midfield tempo, won crucial duels.", isMotm: false },
-      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Energetic pressing, linked play smoothly.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.0, comment: "Overlapping runs created space for Pulisic.", isMotm: false },
-      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Scored a clinical opening goal. Constant threat.", isMotm: true },
-      { name: "Gio Reyna", role: "AM", rating: 7.5, comment: "Brilliant assist for Pulisic's goal. Creative spark.", isMotm: false },
-      { name: "Folarin Balogun", role: "ST", rating: 6.5, comment: "Worked hard but couldn't find the net.", isMotm: false }
+      { name: "Matt Turner", role: "GK", rating: 6.0, comment: "Conceded twice to Mané, made a couple of saves but faced transition vulnerabilities.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 5.5, comment: "Struggled against Mané's physical threat and speed on transitions.", isMotm: false },
+      { name: "Tim Ream", role: "CB", rating: 5.5, comment: "Composed but was caught off-guard by Senegal's quick counters in the second half.", isMotm: false },
+      { name: "Sergiño Dest", role: "RB", rating: 8.0, comment: "Opened the scoring with a brilliant early goal and was extremely active going forward.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 7.0, comment: "Won crucial duels in the first half, anchoring the midfield shape.", isMotm: false },
+      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Energetic pressing, linked play smoothly in transition.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.0, comment: "High work rate, overlapping runs created spaces on the left flank.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 8.5, comment: "A stellar captain's performance. Ended his scoring drought with a goal and an assist in the first 20 minutes.", isMotm: true },
+      { name: "Gio Reyna", role: "AM", rating: 7.5, comment: "Creative spark in the final third, provided a brilliant assist for Pulisic's goal.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 7.5, comment: "Halftime sub. Scored the decisive winning goal in the 63rd minute with a clinical finish.", isMotm: false }
     ],
     preview: {
       tactical: "Pochettino's first competitive test! Focus on implementing the 4-3-3 system against a physical, organized African side.",
