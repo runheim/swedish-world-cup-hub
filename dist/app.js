@@ -794,19 +794,20 @@ const MATCH_SCHEDULE = [
 const MATCH_REPORTS_DATABASE = {
   "match_norway": {
     score: "1 - 3",
-    scorers: "Alexander Isak (54') | Jørgen Strand Larsen (12', 48'), Antonio Nusa (82')",
-    report: "Sweden suffered a tough 1-3 defeat against Norway at Ullevaal Stadion in Oslo. Ståle Solbakken's side dominated the physical duels, with Jørgen Strand Larsen netting early in the 12th minute before doubling Norway's lead shortly after halftime (48'). Alexander Isak gave Graham Potter's side hope with a clinical goal in the 54th minute, but Antonio Nusa sealed Norway's victory with an 82nd-minute strike following a defensive transition lapse. A valuable learning opportunity for Potter's squad before heading to the United States.",
+    scorers: "Alexander Isak (76') | Jørgen Strand Larsen (9', 37'), Antonio Nusa (18')",
+    report: "Sweden suffered a tough 1-3 defeat against Norway at Ullevaal Stadion in Oslo. Ståle Solbakken's side dominated the physical duels, with Jørgen Strand Larsen netting twice in the first half (9', 37') and Antonio Nusa adding a third in the 18th minute. Alexander Isak came on as a substitute and gave Graham Potter's side hope with a clinical goal in the 76th minute, assisted by Mattias Svanberg, but Sweden could not bridge the gap. A valuable learning opportunity for Potter's squad in his debut match before heading to the United States.",
     ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 5.5, comment: "Made a couple of sharp saves but was left exposed by defensive transitions.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 5.5, comment: "Tough battle against Larsen, struggled with physical duels.", isMotm: false },
-      { name: "Victor Lindelöf", role: "CB", rating: 5.0, comment: "Experienced presence but struggled to organize the defensive line under pressure.", isMotm: false },
-      { name: "Carl Starfelt", role: "CB", rating: 5.0, comment: "Left exposed on transition plays by Norway's quick counters.", isMotm: false },
-      { name: "Samuel Dahl", role: "LWB", rating: 5.5, comment: "Worked hard on the flank but struggled to deal with Antonio Nusa's trickery.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 6.0, comment: "Recycled possession but could not establish midfield control.", isMotm: false },
-      { name: "Yasin Ayari", role: "DM", rating: 6.0, comment: "Energetic pressing, but was overrun by Norway's compact midfield.", isMotm: false },
-      { name: "Dejan Kulusevski", role: "AM", rating: 6.5, comment: "Attempted creative plays and set up Alexander Isak's goal beautifully.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 6.0, comment: "Subbed on in the second half, showed promising creative sparks in possession.", isMotm: false },
-      { name: "Alexander Isak", role: "ST", rating: 7.5, comment: "Scored the lone goal for Sweden with a clinical finish. Sweden's most threatful attacker.", isMotm: true }
+      { name: "Jacob Widell Zetterström", role: "GK", rating: 5.5, comment: "Made a couple of decent saves but was left exposed by defensive transition lapses.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 5.5, comment: "Tough battle against Larsen, struggled to handle his physical runs.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 6.0, comment: "Subbed on in the 62nd minute. Composed presence in the second half.", isMotm: false },
+      { name: "Eric Smith", role: "CB", rating: 5.0, comment: "Had difficulty managing Norway's high-pressing attackers in transition.", isMotm: false },
+      { name: "Gustaf Lagerbielke", role: "CB", rating: 5.0, comment: "Faced severe pressure and was caught out of position during Larsen's second goal.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Subbed on at halftime. Assisted Alexander Isak's goal with a beautiful, precise pass.", isMotm: false },
+      { name: "Yasin Ayari", role: "DM", rating: 6.0, comment: "Energetic pressing, but was overrun by Norway's compact midfield shape in the first half.", isMotm: false },
+      { name: "Anthony Elanga", role: "LW", rating: 6.0, comment: "Used his pace on the counter but struggled to create clean chances.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 6.0, comment: "Started in midfield and showed creative promise but found it hard to unlock the defense.", isMotm: false },
+      { name: "Gustaf Nilsson", role: "ST", rating: 6.0, comment: "Worked hard upfront pressing Norway's line but received very limited service.", isMotm: false },
+      { name: "Alexander Isak", role: "ST", rating: 7.5, comment: "Subbed on in the 63rd minute. Scored the lone goal for Sweden with a clinical finish.", isMotm: true }
     ],
     preview: {
       tactical: "Manager Graham Potter's debut match! The focus will be on transitioning to the new 3-4-2-1 formation and testing defensive responses to Erling Haaland's lethal central runs.",
