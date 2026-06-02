@@ -7,17 +7,17 @@ const DYNAMIC_HUB_DATA = {
     "⚽ USMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The Athletic - The New York Times",
     "⚽ U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup - Field Level Media",
     "⚽ USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup - MLS Multiplex",
+    "⚽ How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
     "⚽ World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory - amNewYork",
     "⚽ USMNT cheat sheet: Everything to know for 2026 FIFA World Cup - MLSsoccer.com",
-    "⚽ How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
-    "⚽ You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports",
+    "⚽ FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated",
+    "⚽ Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today",
     "⚽ Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing - USA Today",
     "⚽ ‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994 - Sports Illustrated",
     "⚽ Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense - KTVU",
     "⚽ Why Tim Ream's leadership matters for USMNT - NBC Los Angeles",
     "⚽ Eight Former College Players Make USMNT Roster - College Soccer News",
     "⚽ St. Louis native Tim Ream will captain the USMNT at the World Cup - St. Louis Magazine",
-    "⚽ Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today",
     "⚽ OneFootball University: Can the USMNT win World Cup 2026? - Yahoo Sports",
     "⚽ USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation - MLS Multiplex",
     "⚽ ‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub - Athlon Sports",
@@ -25,17 +25,15 @@ const DYNAMIC_HUB_DATA = {
     "⚽ Why U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health - NBC 5 Chicago",
     "⚽ USMNT Legend Tim Howard Predicts the World Cup Winner - Athlon Sports",
     "⚽ USMNT World Cup Roster Reaction | Chasing the Cup - WPRI.com",
-    "⚽ Mauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result in a World Cup to remember? - Goal.com",
-    "⚽ McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay - hitc.com",
     "⚽ My New Favorite Futbolista: Tim Ream - NBC Los Angeles",
-    "⚽ WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup - FOX Carolina News",
-    "⚽ USMNT secret weapon is water breaks - Yahoo Sports",
+    "⚽ McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay - hitc.com",
     "⚽ Potential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer - CBS Sports",
+    "⚽ USMNT secret weapon is water breaks - Yahoo Sports",
+    "⚽ WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup - FOX Carolina News",
     "⚽ FIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over Senegal - CBS Sports",
-    "⚽ USMNT supporters gear up for match against Senegal - Yahoo Sports",
     "⚽ FIFA revealed the USMNT's kit schedule for the World Cup group stage - USA Today",
-    "⚽ US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - The Gila Herald",
-    "⚽ USMNT Announces World Cup Squad + Lionel Messi Status Ahead of FIFA World Cup 2026 - FOX 5 New York"
+    "⚽ USMNT supporters gear up for match against Senegal - Yahoo Sports",
+    "⚽ US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - The Gila Herald"
   ],
   "timeline": {
     "2026-05-31": {
@@ -4619,7 +4617,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-02 @ 18:10:24 EDT",
+  "lastUpdated": "2026-06-02 @ 19:09:44 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
