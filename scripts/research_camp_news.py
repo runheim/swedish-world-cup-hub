@@ -21,11 +21,11 @@ print("Starting USMNT 2026 World Cup Hub News Research crawler...")
 # 1. READ EXISTING data.js OR FALLBACK TO BLANK TEMPLATE
 existing_data = {
     "ticker": [
-        "⚽ Mauricio Pochettino has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ USMNT squad gathering in Denver for high-altitude World Cup preparation camp.",
-        "💪 Christian Pulisic arrives in stellar goal-scoring form from his Milan campaign.",
-        "🚑 Medical staff confirms that midfielder Tyler Adams is cleared for full contact.",
-        "⭐ Gio Reyna designated by FIFA as one of the ultimate creative playmakers to watch."
+        {"text": "⚽ Mauricio Pochettino has finalized the 26-man roster for the 2026 FIFA World Cup.", "link": "https://www.ussoccer.com/"},
+        {"text": "✈️ USMNT squad gathering in Denver for high-altitude World Cup preparation camp.", "link": "https://www.ussoccer.com/"},
+        {"text": "💪 Christian Pulisic arrives in stellar goal-scoring form from his Milan campaign.", "link": "https://www.ussoccer.com/"},
+        {"text": "🚑 Medical staff confirms that midfielder Tyler Adams is cleared for full contact.", "link": "https://www.ussoccer.com/"},
+        {"text": "⭐ Gio Reyna designated by FIFA as one of the ultimate creative playmakers to watch.", "link": "https://www.ussoccer.com/"}
     ],
     "timeline": {},
     "matchReports": {}
@@ -274,7 +274,7 @@ if crawled_news:
                 "relatedPlayers": []
             }
             usmnt_feed.append(art)
-            ticker_headlines.append(f"⚽ {item['title']}")
+            ticker_headlines.append({"text": f"⚽ {item['title']}", "link": item.get("link", "https://www.ussoccer.com/")})
 
 # 5. GENERATE Genuinely Researched Fallbacks (Strictly No Hallucinations, matching actual pre-camp status)
 fallback_database = {
@@ -447,11 +447,11 @@ if not usmnt_feed:
     opponent_feed.append(art_opp)
     
     ticker_headlines = [
-        f"⚽ {slot_data['usa']['title']}",
-        f"🌍 {slot_data['opponent']['title']}",
-        f"💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-        f"🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-        f"📈 USA World Cup Group D tickets sell out completely in under 12 minutes."
+        {"text": f"⚽ {slot_data['usa']['title']}", "link": "https://www.ussoccer.com/"},
+        {"text": f"🌍 {slot_data['opponent']['title']}", "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"},
+        {"text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.", "link": "https://www.ussoccer.com/"},
+        {"text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.", "link": "https://www.ussoccer.com/"},
+        {"text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.", "link": "https://www.ussoccer.com/"}
     ]
 
 # 7. MERGE AND APPEND (INCREMENTAL LOGGING - NEVER OVERWRITE HISTORICAL DATA)

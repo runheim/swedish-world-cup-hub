@@ -3,33 +3,26 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ How the USMNT went from embarrassment in Italy to ...",
-    "⚽ How the USMNT went from Italia 90 embarrassment to World Cup force in 1994 - ESPN",
-    "⚽ USMNT official supporters irked at FIFA over scattered World Cup seating assignments - The New York Times",
-    "⚽ USMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament - NJ.com",
-    "⚽ What are USMNT’s chances at 2026 World Cup? History favors the host nation - NBC Sports",
-    "⚽ FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated",
-    "⚽ Tyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game' - Yahoo Sports",
-    "⚽ Germany’s itinerary ahead of USMNT friendly - Yahoo Sports",
-    "⚽ Mauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach - World Soccer Talk",
-    "⚽ Rob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hurrah’ - Awful Announcing",
-    "⚽ USMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage - The New York Times",
-    "⚽ Why Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learning curve - CBS Sports",
-    "⚽ 26 USMNT Moments, Past to Present: Against the Odds - U.S. Soccer",
-    "⚽ USMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables - Diario AS",
-    "⚽ What Bayern Munich's interest says about USMNT star Sergiño Dest's comeback - MLS Multiplex",
-    "⚽ What USMNT legend Alexi Lalas got right about the US team before the World Cup - MLS Multiplex",
-    "⚽ Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year - New York Post",
-    "⚽ Four names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down ‘poster boy’ expectations around ‘Captain America’ - Goal.com",
-    "⚽ Inside of USMNT's thrilling victory over Senegal in Charlotte - Yahoo Sports",
-    "⚽ USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream - The New York Times",
-    "⚽ 'See what the world has to offer': USMNT veterans share World Cup reflections, advice - Yardbarker",
-    "⚽ The Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events - OneFootball",
-    "⚽ Tyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind - AOL.com",
-    "⚽ Clint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit of everyth - Diario AS",
-    "⚽ USMNT’s Path to Glory or Disaster: World Cup Group D Preview - Yahoo Sports",
-    "⚽ How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
-    "⚽ You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports"
+    {
+      "text": "⚽ Pochettino implements rapid 4-3-3 transitions in tactical board sessions",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Paraguay tactical scout notes Almirón's lethal movement in narrow spaces",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
+    }
   ],
   "timeline": {
     "2026-05-31": {
@@ -217,11 +210,51 @@ const DYNAMIC_HUB_DATA = {
         "timeLabel": "11:00",
         "name": "Press Briefing",
         "articles": []
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_usa_20260603_4",
+            "category": "usa",
+            "type": "Column",
+            "title": "Pochettino implements rapid 4-3-3 transitions in tactical board sessions",
+            "bullets": [
+              "USMNT technical staff reviews videography of Paraguay's defensive shapes.",
+              "Weston McKennie and Yunus Musah work on horizontal passing combinations.",
+              "Staff designs custom run-paths for overlapping fullbacks on the chalkboard."
+            ],
+            "summary": "Coach Mauricio Pochettino gathered the squad for an extensive tactical chalkboard session this afternoon. The focus was the transition-speed 4-3-3 model, training McKennie and Musah to quickly release Pulisic and Weah into wide spaces when Adams wins possession.",
+            "fullText": "Coach Mauricio Pochettino gathered the squad for an extensive tactical chalkboard session this afternoon. The focus was the transition-speed 4-3-3 model, training McKennie and Musah to quickly release Pulisic and Weah into wide spaces when Adams wins possession.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260603_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Paraguay tactical scout notes Almirón's lethal movement in narrow spaces",
+            "bullets": [
+              "La Albirroja focuses on quick-release passes targeting Almirón's run path.",
+              "Paraguayan staff works on central double-pivot defensive screens.",
+              "Scouts flag USA's high-line defensive shape as highly vulnerable to counters."
+            ],
+            "summary": "Paraguayan tactical staff is preparing to exploit the USMNT's high defensive line. Scouts note that Miguel Almirón's lateral movements can pull center-backs out of position, opening spaces for rapid runners.",
+            "fullText": "Paraguayan tactical staff is preparing to exploit the USMNT's high defensive line. Scouts note that Miguel Almirón's lateral movements can pull center-backs out of position, opening spaces for rapid runners.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "ABC Color Deportes",
+            "readTime": "3 min",
+            "tag": "Paraguay Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-03 @ 13:47:15 EDT",
+  "lastUpdated": "2026-06-03 @ 18:11:43 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",

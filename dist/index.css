@@ -19,7 +19,7 @@
   --text-dark: #1E293B;
   
   --font-primary: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  --font-display: 'Space Grotesk', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: 'Newsreader', Georgia, serif;
   
   --page-bg: var(--bg-dark-900);
   --card-bg: var(--glass-bg);
@@ -360,6 +360,17 @@ h1, h2, h3, h4, h5, h6,
   display: flex;
   align-items: center;
   gap: 0.5rem;
+}
+
+.ticker-content a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.ticker-content a:hover {
+  color: var(--us-red);
+  opacity: 0.9;
 }
 
 /* Grid Layout Sections */
