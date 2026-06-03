@@ -3,38 +3,33 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ England players will be ready for heat, says Henderson",
+    "⚽ England should expose themselves to Florida heat, says Henderson",
     "⚽ Bellingham is No 10 in England World Cup squad",
-    "⚽ Tuchel tackles questions from team of under-11s",
-    "⚽ Football Daily",
     "⚽ Jude Bellingham handed World Cup boost for England after being given No 10 shirt",
     "⚽ Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
-    "⚽ Manchester United tie up £35m deal to make Éderson first signing of Carrick reign",
-    "⚽ Manchester City do the double and Jill Scott joins the pod – Women’s Football Weekly",
-    "⚽ 'Absolutely ludicrous' - pundits react to Archer's extended absence",
     "⚽ England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports",
-    "⚽ Tuchel's private plan for England squad comes to light as Maguire point proven - The Mirror",
-    "⚽ England's World Cup squad numbers as Thomas Tuchel drops major lineup hint - The Mirror",
-    "⚽ England National Team trains in Palm Beach Gardens ahead of World Cup - WPBF",
-    "⚽ England football news: Live updates, schedule and analysis of Thomas Tuchel's Three Lions - Sky Sports",
     "⚽ Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com",
-    "⚽ Harry Kane On Ballon d'Or: 'I'd Be One Of The Favorites' If England Wins World Cup - FOX Sports",
+    "⚽ Harry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida - Open Magazine",
+    "⚽ England National Team trains in Palm Beach Gardens ahead of World Cup - WPBF",
+    "⚽ England World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions - London Evening Standard",
+    "⚽ Will free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can make history in 2026 - Yahoo! Sports UK",
+    "⚽ England vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds - Yahoo! Sports UK",
     "⚽ England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun",
+    "⚽ ‘We’re here for a reason’ – Henderson defends the England World Cup squad - hayters.com",
     "⚽ ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC",
-    "⚽ Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN",
-    "⚽ 'The mission is very, very clear... England want to be world champions' - Three Lions arrive in USA as Thomas Tuchel & Harry Kane outline World Cup glory target - Yahoo! Sports UK",
-    "⚽ England's secret World Cup weapon named as Tuchel's side set to battle heat - talkSPORT",
-    "⚽ 2026 World Cup Group L preview: Can England get over the line? - MSN",
-    "⚽ 'I'd be one of the favourites' - Harry Kane opens up on Ballon d'Or battle as England star identifies his main rivals for top award - FOX Sports",
+    "⚽ England World Cup 2026 squad numbers hint at Eze walkout risk - Football365",
     "⚽ 'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com",
-    "⚽ Harry Kane insists winning the World Cup ‘must be’ England’s goal - Yahoo Sports Canada",
-    "⚽ Tuchel names one immediate ‘challenge’ England must overcome to win World Cup - Football365",
-    "⚽ Ollie Watkins rejects Jude Bellingham criticism as he backs him to take World Cup by storm - The Mirror",
-    "⚽ Harry Kane breaks silence on England World Cup squad after Thomas Tuchel's brutal decision - The Mirror",
-    "⚽ England World Cup 2026 guide: Fixtures, prediction, key player and odds - London Evening Standard",
-    "⚽ The goal of England's national football team, Thomas Tuchel, is clear. The team won the 2026 FIFA No.. - 매일경제",
-    "⚽ England star Kobbie Mainoo personally thanks Michael Carrick for World Cup spot - talkSPORT",
-    "⚽ England to win World Cup odds: Player & Group L analysis - talkSPORT"
+    "⚽ Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN",
+    "⚽ England's secret World Cup weapon named as Tuchel's side set to battle heat - talkSPORT",
+    "⚽ England vs New Zealand LIVE commentary: Date, UK kick-off time and how to follow World Cup warm-up - talkSPORT",
+    "⚽ Tuchel Calls Up Four Young Talents to England National Team Camp - Zamin.uz",
+    "⚽ Jordan Henderson reveals exactly what his England role will be at the World Cup - talkSPORT",
+    "⚽ 'Proud moment' - Harry Kane poses with his Madame Tussauds waxwork as England striker is honoured ahead of World Cup - Goal.com",
+    "⚽ Marcus Rashford singled out by England World Cup team-mate as Man United could face regret - Manchester Evening News",
+    "⚽ Thomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for England at the World Cup over Marcus Rashford - Goal.com",
+    "⚽ John Stones ‘expected to start’ in England’s World Cup opener against Croatia - Read Man City",
+    "⚽ Pompey hero among goals after England World Cup call-up for popular ex-Fratton trio - portsmouth.co.uk",
+    "⚽ Steven Gerrard used to explain why Arsenal talisman Declan Rice is not a Ballon d’Or contender ‘just yet’ - Goal.com"
   ],
   "timeline": {
     "2026-05-31": {
@@ -3319,10 +3314,477 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-03": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5316_0",
+            "category": "england",
+            "type": "News",
+            "title": "England should expose themselves to Florida heat, says Henderson",
+            "bullets": [
+              "Jordan Henderson urges England's players to expose themselves to the sweltering Florida conditions s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jordan Henderson urges England's players to expose themselves to the sweltering Florida conditions so they can acclimatise to the intense heat expected at the World Cup.",
+            "fullText": "Midfielder Jordan Henderson has been capped 89 times by England\n\nJordan Henderson has urged England's players to \"expose\" themselves to the sweltering Florida conditions so they can acclimatise to the intense heat expected at the World Cup.\n\nThe majority of the England squad have arrived in the United States ahead of the tournament which begins next week, though five players - Declan Rice and Bukayo Saka among them - will join later this week.\n\nThomas Tuchel's side have located themselves in Florida â known as the Sunshine State â with a view to helping the players adapt to the brutal US heat.\n\nDuring the team's first training session in West Palm Beach on Tuesday, temperatures reached 32C.\n\nIndeed, studies have shown that nearly a quarter of all World Cup games are likely to be played in temperatures higher than 26C.\n\nBBC Sport revealed on Sunday that England boss Tuchel advised his players to holiday in the USA after the domestic season to help adapt themselves to the heat and changes in time zone.\n\nEngland forward Marcus Rashford was among the players who took their post-season break in the US.\n\nHenderson, who is set to play in his seventh major tournament, said it is important England's players are able to cope with the temperatures.\n\n\"You just build your capacity to these conditions,\" said the Brentford midfielder.\n\n\"I know that depends on where you're playing in the country, it can be different all over so it's hard to really adapt but it's about this week to build that capacity, to get used to the heat a little bit.\n\nEngland are scheduled to play two World Cup warm-up games against New Zealand on 6 June and Costa Rica on 10 June",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5317_1",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham is No 10 in England World Cup squad",
+            "bullets": [
+              "England's squad numbers for the World Cup have been announced - but how much do the choices hint at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's squad numbers for the World Cup have been announced - but how much do the choices hint at Thomas Tuchel's thinking?",
+            "fullText": "Jude Bellingham also wore the number 10 shirt at Euro 2024\n\nEngland's squad numbers for this summer's World Cup have been announced - but how much do the choices hint at Thomas Tuchel's thinking when it comes to his starting XI?\n\nReal Madrid's Jude Bellingham, whose place in Tuchel's plans has been called into question in recent months, has been handed the coveted No 10 shirt. Is that an indication he is set to win the race to play in the central attacking role ahead of Aston Villa's Morgan Rogers, who is No 17?\n\nElsewhere, Manchester City's Nico O'Reilly has been given No 3 - a decision that will reinforce the general thought he will head into the tournament as the team's first-choice left-back.\n\nNewcastle's Dan Burn, who can also play at left-back, will wear No 15.\n\nElliot Anderson's emergence as a key player for Tuchel appears to have been cemented by the Nottingham Forest midfielder being handed No 8.\n\nBrentford's Jordan Henderson, who has previously worn that shirt, will wear 14, which he took during his successful spell at Liverpool.\n\nManchester City's John Stones and Marc Guehi have been given No 5 and No 6 respectively, which may indicate their positions as England's first-choice central-defensive pairing.\n\nUp front, Marcus Rashford will end a season spent at Barcelona by wearing the No 11 shirt, which may suggest he is ahead of Barca newcomer Anthony Gordon, who has No 18, in the race to play on the left.\n\nThose looking to glean any hints should bear in mind there is one glaring anomaly - Reece James is almost certain to start the tournament as first-choice right-back wearing 24, just as he does at Chelsea.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5317_2",
+            "category": "england",
+            "type": "News",
+            "title": "Jude Bellingham handed World Cup boost for England after being given No 10 shirt",
+            "bullets": [
+              "Bellingham takes coveted shirt with Anderson given No 8England train for first time in Florida ahead...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham takes coveted shirt with Anderson given No 8England train for first time in Florida ahead of World CupJude Bellingham has received a boost from Thomas Tuchel after being handed the coveted No 10 shirt for England’s World Cup campaign.Preparations began at a training camp in Florida on Tuesday and the midfielder Kobbie Mainoo said the squad believe “100%” that they can win the tournament. With two weeks to go until England’s opening World Cup fixture, 21 of Tuchel’s 26-man squad are in West Palm Beach for a week-long camp and the squad numbers were confirmed on Tuesday. Continue reading...",
+            "fullText": "Bellingham takes coveted shirt with Anderson given No 8\n\nEngland train for first time in Florida ahead of World Cup\n\nJude Bellingham has received a boost from Thomas Tuchel after being handed the coveted No 10 shirt for England’s World Cup campaign.\n\nPreparations began at a training camp in Florida on Tuesday and the midfielder Kobbie Mainoo said the squad believe “100%” that they can win the tournament. With two weeks to go until England’s opening World Cup fixture, 21 ofTuchel’s 26-man squadare in West Palm Beach for a week-long camp and the squad numbers were confirmed on Tuesday.\n\nBellingham, the Real Madrid midfielder, takes the No 10 shirt ahead of his rivals Morgan Rogers and Eberechi Eze. Elliot Anderson, who made hisEnglanddebut less than a year ago, secured No 8.\n\n1Jordan Pickford2Ezri Konsa3Nico O’Reilly4Declan Rice5John Stones6Marc Guéhi7Bukayo Saka8Elliot Anderson9Harry Kane10Jude Bellingham11Marcus Rashford12Tino Livramento13Dean Henderson14Jordan Henderson15Dan Burn16Kobbie Mainoo17Morgan Rogers18Anthony Gordon19Ollie Watkins20Noni Madueke21Eberechi Eze22Ivan Toney23James Trafford24Reece James25Djed Spence26Jarell Quansah\n\nAfter training in temperatures that reached 33C, England players addressed the media and Mainoo was asked whether the squad believe they can win the 48-team tournament which begins next Thursday and runs until 19 July.\n\n“One hundred per cent,” the Manchester United midfielder said. “I feel like everyone in the squad and the staff believes we can win it but it doesn’t come easy and the first game, the second game, we have to build and build.”\n\nJordan Henderson, who at 35 is at his fourthWorld Cup, talked through the standards the squad hope to hit by the time they open against Croatia on 17 June. “It’s about bringing the best version of ourselves, individually and collectively, and working every day to achieve our dreams,” he said. “We all know the talent this squad has and how we can hurt teams. But we know we have to be ready to do all the invisible work too.”\n\nOn the weather conditions, Henderson said: “It’s hard to really adapt but this week is about building capacity. We’ve got an amazing team behind the team working on how we cool down and recover. Hopefully that can give us an edge.”\n\nEarlier the Football Association’s chief executive, Mark Bullingham, said it was “going to be hard” for England to bring home the trophy. “It’s only twice in history that a European team has won a World Cup outside Europe,” he told the Performance People podcast. “There’s a reason for that. It’s very hard to win in heat, altitude, humidity and so on. Other countries are better at dealing with that because they’ve grown up with it. So it is going to be hard, but we’ll be doing everything we can to go as far as possible.”\n\nArsenal’s Declan Rice, Noni Madueke, Eze and Bukayo Saka, and the Crystal Palace goalkeeper Dean Henderson will join the group late after taking part in European finals last week. In the meantime, Tuchel has supplemented his numbers by including Liverpool’s Rio Ngumoha, Fulham’s Josh King, Arsenal’s Ethan Nwaneri and Alex Scott of Bournemouth as part of the Florida group.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5318_3",
+            "category": "england",
+            "type": "News",
+            "title": "Lewis Koumas snatches Wales draw to ruin Ghana’s World Cup sendoff",
+            "bullets": [
+              "For Antoine Semenyo, it was not so much a case of wrapped up in cotton wool but rather enveloped in ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "For Antoine Semenyo, it was not so much a case of wrapped up in cotton wool but rather enveloped in a grey Ghana tracksuit. A couple of weeks out from their World Cup opener against Panama in Toronto, Ghana are in no position to take risks and so the Manchester City forward was rested in this friendly against Wales. He was one of the last players to join up with the squad at their base in Newport, his old stomping ground and where he spent six months on loan as a teenager.Ghana thought they would fly to Washington on Wednesday for a training camp with a victory finally under their belts and England, their second Group L opponents this summer, soon in their sights. After five straight friendly defeats since qualifying for the World Cup last October, they had to settle for a draw in Carlos Queiroz’s first game in charge after Lewis Koumas headed in a stoppage-time equaliser. Continue reading...",
+            "fullText": "For Antoine Semenyo, it was not so much a case of wrapped up in cotton wool but rather enveloped in a grey Ghana tracksuit. A couple of weeks out from their World Cup opener against Panama in Toronto, Ghana are in no position to take risks and so the Manchester City forward was rested in this friendly againstWales. He was one of the last players to join up with the squad at their base in Newport, his old stomping ground and where he spent six months on loan as a teenager.\n\nGhana thought they would fly to Washington on Wednesday for a training camp with a victory finally under their belts and England, their second Group L opponents this summer, soon in their sights. After five straight friendly defeats since qualifying for the World Cup last October, they had to settle for a draw in Carlos Queiroz’s first game in charge after Lewis Koumas headed in a stoppage-time equaliser.\n\n“I believe with the next programme of 10 days of training sessions, we will make a lot of progress and be much more consistent,” said an upbeat but realistic Queiroz. “The win was in our pocket, but it’s time to learn. When we are winning 1-0, there’s no way that we can let the win escape from our pocket, but unfortunately it happens.”\n\nPresumably Thomas Tuchel, five hours behind Cardiff in time-zone, hunkered down somewhere in West Palm Beach to watch. If Tuchel had the sound on, he would not have needed to listen too hard to hear the Ghana supporters present delight in the substitute Caleb Yirenkyi’s second-half opener, but they were denied victory when Koumas glanced in a superb cross from Neco Williams.\n\nCraig Bellamy’s verdict on Ghana cut to the chase. “You have a tough group, a new manager,” the Wales head coach said, replying to a question from a Ghanaian journalist. “You’re a dangerous team in transition because of the speed you always have in the top line. Your first game is Panama … Your tournament is going to be decided by that game.\n\n“If you win one game, you might get into the knockout stage. Croatia and England are going to be two really difficult games … the way you support your team, you never know.”\n\nFor the noisy Ghanaian contingent that tried to turn this into something of an occasion – only Wales’s second against African opponents and the first since a 4-0 defeat in Tunisia in 1998 – there was little to whet the appetite for when the real thing begins until Yirenkyi’s strike midway through the second half. For Queiroz, though, this was a significant contest, this not only his first game in the job, but potentially his last before their World Cup opener. Ghana may yet organise a friendly to enhance their preparations in the US.\n\n“One training session is better than zero, two better than one, three better than two,” Queiroz said afterwards with a smile. “We will do as much work as possible before the first game against Panama. We have to be very straightforward, have cooperation, an open mind and heart to improve and progress. It’s not time to make big changes, it’s time to tune what they have been doing well and make things better.”\n\nThe Portuguese said he had no qualms over naming Thomas Partey, now of Villarreal, in his 26-man squad. Partey is due to stand trial next year after pleading not guilty to seven charges of rape and one count of sexual assault relating to allegations by four different women between 2020 and 2022.\n\nRomelu Lukaku scored on his first international appearance in more than a year as Belgium beat Croatia 2-0 in Rijeka. The forward scored in stoppage time in Belgium’s penultimate match before their World Cup opener against Egypt on 15 June. The 33-year-old has played just 64 minutes for Napoli this season due to a hip injury.AFP\n\nQueiroz handed the former Arsenal midfielder a start and, in truth, if this was not a friendly the Swedish referee, Oscar Johnson, may have sent off Partey before the interval. The 32-year-old was booked for a foul on Dan James, who twice hit the woodwork in the first half, but escaped further punishment after scything down an advancing David Brooks on the edge of the area.\n\nQueiroz conceded he and Ghana will have to learn on the job. Ghana are without their first-choice centre-back partnership and Mohammed Kudus this summer through injury. Jerome Opoku, the London-born defender, put it succinctly. “I think the key word is time: with the amount of time we’ve been together, to be able to put that performance out there it shows with more time we can only get better,” he said, sitting alongside Queiroz, appointed to succeed Otto Addo in April. “Thank you, see you at the World Cup,” the 73-year-old said as he left the room.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5318_4",
+            "category": "england",
+            "type": "News",
+            "title": "England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports",
+            "bullets": [
+              "England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed k...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts&nbsp;&nbsp;Sky Sports",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts&nbsp;&nbsp;Sky Sports\n\nFor the complete article, search for \"England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5318_5",
+            "category": "england",
+            "type": "News",
+            "title": "Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com",
+            "bullets": [
+              "Nike and Palace collab for star-studded England Three Lions capsule collection&nbsp;&nbsp;Goal.com",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nike and Palace collab for star-studded England Three Lions capsule collection&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nNike and Palace collab for star-studded England Three Lions capsule collection&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"Nike and Palace collab for star-studded England Three Lions capsule collection - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5319_6",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida - Open Magazine",
+            "bullets": [
+              "Harry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida&nbsp;&nbsp;Open Maga...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida&nbsp;&nbsp;Open Magazine",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nHarry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida&nbsp;&nbsp;Open Magazine\n\nFor the complete article, search for \"Harry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida - Open Magazine\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5319_7",
+            "category": "england",
+            "type": "News",
+            "title": "England National Team trains in Palm Beach Gardens ahead of World Cup - WPBF",
+            "bullets": [
+              "England National Team trains in Palm Beach Gardens ahead of World Cup&nbsp;&nbsp;WPBF",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England National Team trains in Palm Beach Gardens ahead of World Cup&nbsp;&nbsp;WPBF",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland National Team trains in Palm Beach Gardens ahead of World Cup&nbsp;&nbsp;WPBF\n\nFor the complete article, search for \"England National Team trains in Palm Beach Gardens ahead of World Cup - WPBF\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5319_8",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions - London Evening Standard",
+            "bullets": [
+              "England World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions&nbsp;&nbsp;Lond...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions&nbsp;&nbsp;London Evening Standard",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions&nbsp;&nbsp;London Evening Standard\n\nFor the complete article, search for \"England World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions - London Evening Standard\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5319_9",
+            "category": "england",
+            "type": "News",
+            "title": "Will free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can make history in 2026 - Yahoo! Sports UK",
+            "bullets": [
+              "Will free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Will free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can make history in 2026&nbsp;&nbsp;Yahoo! Sports UK",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nWill free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can make history in 2026&nbsp;&nbsp;Yahoo! Sports UK\n\nFor the complete article, search for \"Will free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can make history in 2026 - Yahoo! Sports UK\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5319_10",
+            "category": "england",
+            "type": "News",
+            "title": "England vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds - Yahoo! Sports UK",
+            "bullets": [
+              "England vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds&nbs...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds&nbsp;&nbsp;Yahoo! Sports UK",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds&nbsp;&nbsp;Yahoo! Sports UK\n\nFor the complete article, search for \"England vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds - Yahoo! Sports UK\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5320_11",
+            "category": "england",
+            "type": "News",
+            "title": "England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun",
+            "bullets": [
+              "England squad numbers: What are Three Lions players wearing on their backs at World Cup?&nbsp;&nbsp;...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England squad numbers: What are Three Lions players wearing on their backs at World Cup?&nbsp;&nbsp;The Sun",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland squad numbers: What are Three Lions players wearing on their backs at World Cup?&nbsp;&nbsp;The Sun\n\nFor the complete article, search for \"England squad numbers: What are Three Lions players wearing on their backs at World Cup? - The Sun\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5320_12",
+            "category": "england",
+            "type": "News",
+            "title": "‘We’re here for a reason’ – Henderson defends the England World Cup squad - hayters.com",
+            "bullets": [
+              "‘We’re here for a reason’ – Henderson defends the England World Cup squad&nbsp;&nbsp;hayters.com",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘We’re here for a reason’ – Henderson defends the England World Cup squad&nbsp;&nbsp;hayters.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n‘We’re here for a reason’ – Henderson defends the England World Cup squad&nbsp;&nbsp;hayters.com\n\nFor the complete article, search for \"‘We’re here for a reason’ – Henderson defends the England World Cup squad - hayters.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5320_13",
+            "category": "england",
+            "type": "News",
+            "title": "ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC",
+            "bullets": [
+              "ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD&nbsp;&nbsp;Nottingham Forest FC",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD&nbsp;&nbsp;Nottingham Forest FC",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD&nbsp;&nbsp;Nottingham Forest FC\n\nFor the complete article, search for \"ANDERSON TOUCHES DOWN IN MIAMI WITH ENGLAND WORLD CUP SQUAD - Nottingham Forest FC\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5320_14",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup 2026 squad numbers hint at Eze walkout risk - Football365",
+            "bullets": [
+              "England World Cup 2026 squad numbers hint at Eze walkout risk&nbsp;&nbsp;Football365",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England World Cup 2026 squad numbers hint at Eze walkout risk&nbsp;&nbsp;Football365",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland World Cup 2026 squad numbers hint at Eze walkout risk&nbsp;&nbsp;Football365\n\nFor the complete article, search for \"England World Cup 2026 squad numbers hint at Eze walkout risk - Football365\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5320_15",
+            "category": "england",
+            "type": "News",
+            "title": "'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com",
+            "bullets": [
+              "'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he high...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"'A better chance than Germany!' - England's World Cup hopes assessed by ex-Tottenham star as he highlights Thomas Tuchel's one big weakness - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5321_16",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN",
+            "bullets": [
+              "Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers&nbsp;&nbsp;DAZN",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers&nbsp;&nbsp;DAZN",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nBellingham keeps the number 10 shirt as England reveal World Cup squad numbers&nbsp;&nbsp;DAZN\n\nFor the complete article, search for \"Bellingham keeps the number 10 shirt as England reveal World Cup squad numbers - DAZN\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5321_17",
+            "category": "england",
+            "type": "News",
+            "title": "England's secret World Cup weapon named as Tuchel's side set to battle heat - talkSPORT",
+            "bullets": [
+              "England's secret World Cup weapon named as Tuchel's side set to battle heat&nbsp;&nbsp;talkSPORT",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's secret World Cup weapon named as Tuchel's side set to battle heat&nbsp;&nbsp;talkSPORT",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland's secret World Cup weapon named as Tuchel's side set to battle heat&nbsp;&nbsp;talkSPORT\n\nFor the complete article, search for \"England's secret World Cup weapon named as Tuchel's side set to battle heat - talkSPORT\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5321_18",
+            "category": "england",
+            "type": "News",
+            "title": "England vs New Zealand LIVE commentary: Date, UK kick-off time and how to follow World Cup warm-up - talkSPORT",
+            "bullets": [
+              "England vs New Zealand LIVE commentary: Date, UK kick-off time and how to follow World Cup warm-up&n...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England vs New Zealand LIVE commentary: Date, UK kick-off time and how to follow World Cup warm-up&nbsp;&nbsp;talkSPORT",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nEngland vs New Zealand LIVE commentary: Date, UK kick-off time and how to follow World Cup warm-up&nbsp;&nbsp;talkSPORT\n\nFor the complete article, search for \"England vs New Zealand LIVE commentary: Date, UK kick-off time and how to follow World Cup warm-up - talkSPORT\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5321_19",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel Calls Up Four Young Talents to England National Team Camp - Zamin.uz",
+            "bullets": [
+              "Tuchel Calls Up Four Young Talents to England National Team Camp&nbsp;&nbsp;Zamin.uz",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel Calls Up Four Young Talents to England National Team Camp&nbsp;&nbsp;Zamin.uz",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nTuchel Calls Up Four Young Talents to England National Team Camp&nbsp;&nbsp;Zamin.uz\n\nFor the complete article, search for \"Tuchel Calls Up Four Young Talents to England National Team Camp - Zamin.uz\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5321_20",
+            "category": "england",
+            "type": "News",
+            "title": "Jordan Henderson reveals exactly what his England role will be at the World Cup - talkSPORT",
+            "bullets": [
+              "Jordan Henderson reveals exactly what his England role will be at the World Cup&nbsp;&nbsp;talkSPORT",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jordan Henderson reveals exactly what his England role will be at the World Cup&nbsp;&nbsp;talkSPORT",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nJordan Henderson reveals exactly what his England role will be at the World Cup&nbsp;&nbsp;talkSPORT\n\nFor the complete article, search for \"Jordan Henderson reveals exactly what his England role will be at the World Cup - talkSPORT\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5322_21",
+            "category": "england",
+            "type": "News",
+            "title": "'Proud moment' - Harry Kane poses with his Madame Tussauds waxwork as England striker is honoured ahead of World Cup - Goal.com",
+            "bullets": [
+              "'Proud moment' - Harry Kane poses with his Madame Tussauds waxwork as England striker is honoured ah...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'Proud moment' - Harry Kane poses with his Madame Tussauds waxwork as England striker is honoured ahead of World Cup&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\n'Proud moment' - Harry Kane poses with his Madame Tussauds waxwork as England striker is honoured ahead of World Cup&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"'Proud moment' - Harry Kane poses with his Madame Tussauds waxwork as England striker is honoured ahead of World Cup - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5322_22",
+            "category": "england",
+            "type": "News",
+            "title": "Marcus Rashford singled out by England World Cup team-mate as Man United could face regret - Manchester Evening News",
+            "bullets": [
+              "Marcus Rashford singled out by England World Cup team-mate as Man United could face regret&nbsp;&nbs...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Marcus Rashford singled out by England World Cup team-mate as Man United could face regret&nbsp;&nbsp;Manchester Evening News",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nMarcus Rashford singled out by England World Cup team-mate as Man United could face regret&nbsp;&nbsp;Manchester Evening News\n\nFor the complete article, search for \"Marcus Rashford singled out by England World Cup team-mate as Man United could face regret - Manchester Evening News\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5322_23",
+            "category": "england",
+            "type": "News",
+            "title": "Thomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for England at the World Cup over Marcus Rashford - Goal.com",
+            "bullets": [
+              "Thomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for Engla...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for England at the World Cup over Marcus Rashford&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nThomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for England at the World Cup over Marcus Rashford&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"Thomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for England at the World Cup over Marcus Rashford - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5322_24",
+            "category": "england",
+            "type": "News",
+            "title": "John Stones ‘expected to start’ in England’s World Cup opener against Croatia - Read Man City",
+            "bullets": [
+              "John Stones ‘expected to start’ in England’s World Cup opener against Croatia&nbsp;&nbsp;Read Man Ci...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones ‘expected to start’ in England’s World Cup opener against Croatia&nbsp;&nbsp;Read Man City",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nJohn Stones ‘expected to start’ in England’s World Cup opener against Croatia&nbsp;&nbsp;Read Man City\n\nFor the complete article, search for \"John Stones ‘expected to start’ in England’s World Cup opener against Croatia - Read Man City\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5322_25",
+            "category": "england",
+            "type": "News",
+            "title": "Pompey hero among goals after England World Cup call-up for popular ex-Fratton trio - portsmouth.co.uk",
+            "bullets": [
+              "Pompey hero among goals after England World Cup call-up for popular ex-Fratton trio&nbsp;&nbsp;ports...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pompey hero among goals after England World Cup call-up for popular ex-Fratton trio&nbsp;&nbsp;portsmouth.co.uk",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nPompey hero among goals after England World Cup call-up for popular ex-Fratton trio&nbsp;&nbsp;portsmouth.co.uk\n\nFor the complete article, search for \"Pompey hero among goals after England World Cup call-up for popular ex-Fratton trio - portsmouth.co.uk\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5322_26",
+            "category": "england",
+            "type": "News",
+            "title": "Steven Gerrard used to explain why Arsenal talisman Declan Rice is not a Ballon d’Or contender ‘just yet’ - Goal.com",
+            "bullets": [
+              "Steven Gerrard used to explain why Arsenal talisman Declan Rice is not a Ballon d’Or contender ‘just...",
+              "Reported live by Google News England.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Steven Gerrard used to explain why Arsenal talisman Declan Rice is not a Ballon d’Or contender ‘just yet’&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News England. The full text could not be automatically retrieved from the original publication.\n\nSteven Gerrard used to explain why Arsenal talisman Declan Rice is not a Ballon d’Or contender ‘just yet’&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"Steven Gerrard used to explain why Arsenal talisman Declan Rice is not a Ballon d’Or contender ‘just yet’ - Goal.com\" on the Google News England website or check their latest England football coverage.",
+            "author": "Google News England Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-02 @ 19:09:32 EDT",
+  "lastUpdated": "2026-06-03 @ 08:53:22 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
