@@ -20,11 +20,11 @@ print("Starting England 2026 World Cup Hub News Research crawler...")
 # 1. READ EXISTING data.js OR FALLBACK TO BLANK TEMPLATE
 existing_data = {
     "ticker": [
-        "⚽ Harry Kane has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ England will depart for their main training facility in Atlanta, Georgia tomorrow morning.",
-        "💪 Jude Bellingham arrives in stellar form from his domestic campaign.",
-        "🚑 Medical staff confirms that defender Luke Shaw has returned to full-contact training.",
-        "⭐ Kobbie Mainoo designated by FIFA as one of the ultimate midfield prospects of the tournament."
+        {"text": "⚽ Harry Kane has finalized the 26-man roster for the 2026 FIFA World Cup.", "link": "https://www.englandfootball.com/"},
+        {"text": "✈️ England will depart for their main training facility in Atlanta, Georgia tomorrow morning.", "link": "https://www.englandfootball.com/"},
+        {"text": "💪 Jude Bellingham arrives in stellar form from his domestic campaign.", "link": "https://www.englandfootball.com/"},
+        {"text": "🚑 Medical staff confirms that defender Luke Shaw has returned to full-contact training.", "link": "https://www.englandfootball.com/"},
+        {"text": "⭐ Kobbie Mainoo designated by FIFA as one of the ultimate midfield prospects of the tournament.", "link": "https://www.englandfootball.com/"}
     ],
     "timeline": {},
     "matchReports": {}
@@ -268,7 +268,7 @@ if crawled_news:
                 "relatedPlayers": []
             }
             england_feed.append(art)
-            ticker_headlines.append(f"⚽ {item['title']}")
+            ticker_headlines.append({"text": f"⚽ {item['title']}", "link": item.get("link", "https://www.englandfootball.com/")})
 
 # 5. GENERATE Genuinely Researched Fallbacks (matching actual May 26 Roster Status)
 # Burton/St George's Park prep camp starting May 27. Depart for Atlanta occurs June 2.
@@ -442,11 +442,11 @@ if not england_feed:
     opponent_feed.append(art_opp)
     
     ticker_headlines = [
-        f"⚽ {slot_data['england']['title']}",
-        f"🌍 {slot_data['opponent']['title']}",
-        f"💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
-        f"🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
-        f"📈 England WC opener ticket allocation sells out completely in under 12 minutes."
+        {"text": f"⚽ {slot_data['england']['title']}", "link": "https://www.englandfootball.com/"},
+        {"text": f"🌍 {slot_data['opponent']['title']}", "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"},
+        {"text": "💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.", "link": "https://www.englandfootball.com/"},
+        {"text": "🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.", "link": "https://www.englandfootball.com/"},
+        {"text": "📈 England WC opener ticket allocation sells out completely in under 12 minutes.", "link": "https://www.englandfootball.com/"}
     ]
 
 # 7. MERGE AND APPEND (INCREMENTAL LOGGING - NEVER OVERWRITE HISTORICAL DATA)

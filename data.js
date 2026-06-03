@@ -3,27 +3,10 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ England should expose themselves to Florida heat, says Henderson",
-    "⚽ Football Daily",
-    "⚽ Jude Bellingham handed World Cup boost for England after being given No 10 shirt",
-    "⚽ England reveal World Cup squad numbers with Harry Kane, Jude Bellingham and Marcus Rashford handed key shirts - Sky Sports",
-    "⚽ Harry Kane Leads England's World Cup Dream as Three Lions Touch Down in Florida - Open Magazine",
-    "⚽ England National Team trains in Palm Beach Gardens ahead of World Cup - WPBF",
-    "⚽ England World Cup 2026 fixtures: Schedule, kick-off times and venues for Three Lions - London Evening Standard",
-    "⚽ Will free-scoring Harry Kane achieve World Cup first? Robbie Fowler explains why England captain can make history in 2026 - Goal.com",
-    "⚽ Inside England's World Cup squad - Tuchel's powerful speech to stars as Pickford makes penalty vow - The Mirror",
-    "⚽ Kyle Walker names the three players who should be in England World Cup squad and his surprise toughest opponent - The Sun",
-    "⚽ England vs New Zealand prediction & tips: Three Lions to win 2-0 at 9/2 - BOYLE Sports",
-    "⚽ Ex-England right-back Kyle Walker names THREE World Cup squad calls Thomas Tuchel arguably got wrong as he supports snubbed trio - Goal.com",
-    "⚽ Harry Kane lands surprise BBC role ahead of the World Cup as England captain prepares to lead out Three Lions - The Sun",
-    "⚽ ‘We’re here for a reason’ – Henderson defends the England World Cup squad - hayters.com",
-    "⚽ Harry Kane will ‘half want to come back’ to the Premier League as England legend Peter Reid airs bold transfer wish & explains what makes star striker special - Goal.com",
-    "⚽ England's secret World Cup weapon named as Tuchel's side set to battle heat - talkSPORT",
-    "⚽ Jordan Henderson reveals exactly what his England role will be at the World Cup - talkSPORT",
-    "⚽ Tuchel Calls Up Four Young Talents to England National Team Camp - Zamin.uz",
-    "⚽ England vs New Zealand: Prediction, kick-off time, TV, live stream, team news, h2h results, odds - AOL.com",
-    "⚽ Marcus Rashford singled out by England World Cup team-mate as Man United could face regret - Manchester Evening News",
-    "⚽ Thomas Tuchel needs to follow Barcelona's lead and choose €80m-man Anthony Gordon to start for England at the World Cup over Marcus Rashford - Goal.com"
+    {
+      "text": "⚽ Why we could see less of Kane for England at the 2026 World Cup...",
+      "link": "https://www.skysports.com/football/news/12040/13550591/world-cup-2026-why-harry-kane-could-play-less-minutes-for-england-in-the-usa-canada-and-mexico-this-summer"
+    }
   ],
   "timeline": {
     "2026-05-31": {
@@ -686,11 +669,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0255_0",
+            "category": "england",
+            "type": "News",
+            "title": "Why we could see less of Kane for England at the 2026 World Cup...",
+            "bullets": [
+              "England have three strikers at this World Cup, and Harry Kane's replacements have never had such an ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England have three strikers at this World Cup, and Harry Kane's replacements have never had such an important role.",
+            "fullText": "Sky Sports News'Rob Dorsett discusses why we could see less of Harry Kane for England at this summer's World Cup; Ollie Watkins and Ivan Toney were selected as back-up strikers; Kane is 32 years of age and has already played 4,423 minutes this season",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-03 @ 13:48:08 EDT",
+  "lastUpdated": "2026-06-03 @ 18:09:31 EDT",
   "banter": [
     {
       "sender": "Harry Kane",

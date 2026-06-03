@@ -361,6 +361,17 @@ h1, h2, h3, h4, h5, h6,
   gap: 0.5rem;
 }
 
+.ticker-content a {
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease, opacity 0.2s ease;
+}
+
+.ticker-content a:hover {
+  color: var(--england-red);
+  opacity: 0.9;
+}
+
 /* Grid Layout Sections */
 .dashboard-grid {
   display: grid;
