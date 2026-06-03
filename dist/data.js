@@ -2,7 +2,9 @@
 // This database is automatically generated 5 times per day.
 
 const DYNAMIC_HUB_DATA = {
-  "ticker": [],
+  "ticker": [
+    "⚽ Sweden World Cup 2026 team guide"
+  ],
   "timeline": {
     "2026-05-31": {
       "1": {
@@ -181,10 +183,230 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-01": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_swe_20260601_3",
+            "category": "sweden",
+            "type": "Analysis",
+            "title": "Ayari and Starfelt complete individual conditioning routines in Stockholm",
+            "bullets": [
+              "Midfielder Yasin Ayari and defender Carl Starfelt log recovery runs.",
+              "Conditioning staff reports both players enter camp in perfect shape.",
+              "Active tactical drills scheduled to kick off tomorrow at Bosön turf."
+            ],
+            "summary": "Keeping physical registers high, Yasin Ayari and Celta Vigo center-back Carl Starfelt conducted light running and core recovery blocks in Stockholm today. Both are fully cleared for contact training tomorrow.",
+            "fullText": "Keeping physical registers high, Yasin Ayari and Celta Vigo center-back Carl Starfelt conducted light running and core recovery blocks in Stockholm today. Both are fully cleared for contact training tomorrow.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Individual Work",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260601_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Netherlands tactical scout notes De Jong's return to full running registers",
+            "bullets": [
+              "Frenkie de Jong participates in partial team drills at Zeist base.",
+              "Oranje manager Ronald Koeman remains optimistic about their midfield balance.",
+              "Netherlands focuses on 4-3-3 transition speed with Gakpo and Malen."
+            ],
+            "summary": "Sweden's heavy-hitter group opponent the Netherlands has received a major boost as Frenkie de Jong completed running and passing blocks yesterday. Ronald Koeman's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Cody Gakpo and Donyell Malen in 1v1 duels.",
+            "fullText": "Sweden's heavy-hitter group opponent the Netherlands has received a major boost as Frenkie de Jong completed running and passing blocks yesterday. Ronald Koeman's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Cody Gakpo and Donyell Malen in 1v1 duels.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_swe_20260601_4",
+            "category": "sweden",
+            "type": "Column",
+            "title": "Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
+            "bullets": [
+              "Technical team reviews tactical whiteboard overlays for Bosön drills.",
+              "Coaches focus on midfield spacing and transition pressing triggers.",
+              "Björn Hamberg: 'Bosön turf is prepared; the tactical shape is locked.'"
+            ],
+            "summary": "Graham Potter, Björn Hamberg, and coaching staff met at Lidingö's training complex this afternoon to finalize tomorrow's practice agenda. The focus is rapid transitions and midfield spacing triggers.",
+            "fullText": "Graham Potter, Björn Hamberg, and coaching staff met at Lidingö's training complex this afternoon to finalize tomorrow's practice agenda. The focus is rapid transitions and midfield spacing triggers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Planning",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260601_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Japan locks in high-tempo press drills at Dallas preparation site",
+            "bullets": [
+              "Samurai Blue practice relentless full-pitch pressing under Hajime Moriyasu.",
+              "Kaoru Mitoma clocks top sprinting speeds in winger recovery scenarios.",
+              "Japan scouts monitor Sweden's tactical lineup adjustments in Dallas."
+            ],
+            "summary": "Sweden's final group stage opponent Japan has arrived at their camp in Dallas, immediately starting high-tempo pressing sessions. Moriyasu's side has focused on wide overloads, with Brighton's Kaoru Mitoma looking fully fit and sharp on the left wing, presenting a major threat to Sweden's back three.",
+            "fullText": "Sweden's final group stage opponent Japan has arrived at their camp in Dallas, immediately starting high-tempo pressing sessions. Moriyasu's side has focused on wide overloads, with Brighton's Kaoru Mitoma looking fully fit and sharp on the left wing, presenting a major threat to Sweden's back three.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
+      }
+    },
+    "2026-06-02": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_swe_20260602_3",
+            "category": "sweden",
+            "type": "Analysis",
+            "title": "Ayari and Starfelt complete individual conditioning routines in Stockholm",
+            "bullets": [
+              "Midfielder Yasin Ayari and defender Carl Starfelt log recovery runs.",
+              "Conditioning staff reports both players enter camp in perfect shape.",
+              "Active tactical drills scheduled to kick off tomorrow at Bosön turf."
+            ],
+            "summary": "Keeping physical registers high, Yasin Ayari and Celta Vigo center-back Carl Starfelt conducted light running and core recovery blocks in Stockholm today. Both are fully cleared for contact training tomorrow.",
+            "fullText": "Keeping physical registers high, Yasin Ayari and Celta Vigo center-back Carl Starfelt conducted light running and core recovery blocks in Stockholm today. Both are fully cleared for contact training tomorrow.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Individual Work",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260602_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Netherlands tactical scout notes De Jong's return to full running registers",
+            "bullets": [
+              "Frenkie de Jong participates in partial team drills at Zeist base.",
+              "Oranje manager Ronald Koeman remains optimistic about their midfield balance.",
+              "Netherlands focuses on 4-3-3 transition speed with Gakpo and Malen."
+            ],
+            "summary": "Sweden's heavy-hitter group opponent the Netherlands has received a major boost as Frenkie de Jong completed running and passing blocks yesterday. Ronald Koeman's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Cody Gakpo and Donyell Malen in 1v1 duels.",
+            "fullText": "Sweden's heavy-hitter group opponent the Netherlands has received a major boost as Frenkie de Jong completed running and passing blocks yesterday. Ronald Koeman's staff is preparing an aggressive, possession-oriented 4-3-3 shape, focusing on isolating wingers Cody Gakpo and Donyell Malen in 1v1 duels.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_swe_20260602_4",
+            "category": "sweden",
+            "type": "Column",
+            "title": "Potter meets coaching staff Björn Hamberg and Reid at Bosön base",
+            "bullets": [
+              "Technical team reviews tactical whiteboard overlays for Bosön drills.",
+              "Coaches focus on midfield spacing and transition pressing triggers.",
+              "Björn Hamberg: 'Bosön turf is prepared; the tactical shape is locked.'"
+            ],
+            "summary": "Graham Potter, Björn Hamberg, and coaching staff met at Lidingö's training complex this afternoon to finalize tomorrow's practice agenda. The focus is rapid transitions and midfield spacing triggers.",
+            "fullText": "Graham Potter, Björn Hamberg, and coaching staff met at Lidingö's training complex this afternoon to finalize tomorrow's practice agenda. The focus is rapid transitions and midfield spacing triggers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Planning",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260602_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Japan locks in high-tempo press drills at Dallas preparation site",
+            "bullets": [
+              "Samurai Blue practice relentless full-pitch pressing under Hajime Moriyasu.",
+              "Kaoru Mitoma clocks top sprinting speeds in winger recovery scenarios.",
+              "Japan scouts monitor Sweden's tactical lineup adjustments in Dallas."
+            ],
+            "summary": "Sweden's final group stage opponent Japan has arrived at their camp in Dallas, immediately starting high-tempo pressing sessions. Moriyasu's side has focused on wide overloads, with Brighton's Kaoru Mitoma looking fully fit and sharp on the left wing, presenting a major threat to Sweden's back three.",
+            "fullText": "Sweden's final group stage opponent Japan has arrived at their camp in Dallas, immediately starting high-tempo pressing sessions. Moriyasu's side has focused on wide overloads, with Brighton's Kaoru Mitoma looking fully fit and sharp on the left wing, presenting a major threat to Sweden's back three.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
+      }
+    },
+    "2026-06-03": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5353_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden World Cup 2026 team guide",
+            "bullets": [
+              "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff succes...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff successThis article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June. Continue reading...",
+            "fullText": "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff success\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nSweden’s attempts to qualify for theWorld Cupcould hardly have gone worse, picking up just one point from the first four games under Jon Dahl Tomasson before, in October 2025, the Dane was sacked after a 1-0 defeat against Kosovo.\n\nIn came Graham Potter, who had his breakthrough in coaching at Swedish side Östersund between 2011 and 2017, taking them from the fourth tier to the Allsvenskan, winning the cup and beating Arsenal in the Europa League.\n\nUnder Potter’s leadership the focus shifted to more traditional values associated with the Swedish national team with a stubborn defence coupled with effective counterattacks. Having initially said he prefers a back four he set up with a 5-3-2 in the playoffs, with a focus on keeping things quiet at the back.\n\n14 Junev Tunisia, Monterrey (8pm local, 15 June 3am BST, 15 June noon AEST)\n\n20 Junev Netherlands, Houston (noon local, 6pm BST, 21 June 3am AEST)\n\n25 Junev Japan, Dallas (6pm local, 26 June 12am BST, 26 June 9am AEST)\n\nWith the Nations League having offered Sweden a route back into the World Cup qualifying process, they put in an impressive performance against Ukraine in Spain in the semi-finals, winning 3-1 after a Viktor Gyökeres hat-trick. The final, against Poland, was much tougher to watch with the visitors better for much of the game but Gyökeres again stepped up,scoring an 88th-minute winner in a 3-2 thriller.\n\n“It’s hard to explain, hard to describe,” said a delighted Potter. “Just an incredible evening, just so proud to be part of that and obviously proud to experience it. It was just the best night I’ve had in football. Incredible, like I was having some sort of out-of-body experience. I’m looking at the goal and suddenly all our bench is running and you’re thinking: ‘Am I here?’ I’m just grateful to be part of that.”\n\nSoSwedenmade it to the World Cup despite collecting two points from six games in their qualifying group. They now face Tunisia, Netherlands and Japan with hope of getting into the knockout stages – that’s the Potter effect for you.\n\nInjury wise they are without captain Dejan Kulusevski, whose influence on this team cannot be overstated. They will miss him in North America. There are also huge question marks over Alexander Isak’s form and fitness, although he did score in a worryingly one-sided 3-1 defeat against Norway on 1 June after coming on as a substitute.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4620_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden World Cup 2026 team guide",
+            "bullets": [
+              "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff succes...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff successThis article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June. Continue reading...",
+            "fullText": "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff success\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nSweden’s attempts to qualify for theWorld Cupcould hardly have gone worse, picking up just one point from the first four games under Jon Dahl Tomasson before, in October 2025, the Dane was sacked after a 1-0 defeat against Kosovo.\n\nIn came Graham Potter, who had his breakthrough in coaching at Swedish side Östersund between 2011 and 2017, taking them from the fourth tier to the Allsvenskan, winning the cup and beating Arsenal in the Europa League.\n\nUnder Potter’s leadership the focus shifted to more traditional values associated with the Swedish national team with a stubborn defence coupled with effective counterattacks. Having initially said he prefers a back four he set up with a 5-3-2 in the playoffs, with a focus on keeping things quiet at the back.\n\n14 Junev Tunisia, Monterrey (8pm local, 15 June 3am BST, 15 June noon AEST)\n\n20 Junev Netherlands, Houston (noon local, 6pm BST, 21 June 3am AEST)\n\n25 Junev Japan, Dallas (6pm local, 26 June 12am BST, 26 June 9am AEST)\n\nWith the Nations League having offered Sweden a route back into the World Cup qualifying process, they put in an impressive performance against Ukraine in Spain in the semi-finals, winning 3-1 after a Viktor Gyökeres hat-trick. The final, against Poland, was much tougher to watch with the visitors better for much of the game but Gyökeres again stepped up,scoring an 88th-minute winner in a 3-2 thriller.\n\n“It’s hard to explain, hard to describe,” said a delighted Potter. “Just an incredible evening, just so proud to be part of that and obviously proud to experience it. It was just the best night I’ve had in football. Incredible, like I was having some sort of out-of-body experience. I’m looking at the goal and suddenly all our bench is running and you’re thinking: ‘Am I here?’ I’m just grateful to be part of that.”\n\nSoSwedenmade it to the World Cup despite collecting two points from six games in their qualifying group. They now face Tunisia, Netherlands and Japan with hope of getting into the knockout stages – that’s the Potter effect for you.\n\nInjury wise they are without captain Dejan Kulusevski, whose influence on this team cannot be overstated. They will miss him in North America. There are also huge question marks over Alexander Isak’s form and fitness, although he did score in a worryingly one-sided 3-1 defeat against Norway on 1 June after coming on as a substitute.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 15:22:26 EDT",
+  "lastUpdated": "2026-06-03 @ 13:46:20 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
@@ -254,6 +476,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇸🇪",
       "text": "Vilket mål på träningen! Jag tror jag hittat formen.",
       "time": "07:26",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Någon som är sugen på lite FIFA ikväll?",
+      "time": "13:46",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "13:47",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "13:48",
+      "isCaptain": true
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "Bara några dagar kvar nu. Känner ni peppen?",
+      "time": "13:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Träningen idag var intensiv, precis som det ska vara.",
+      "time": "13:50",
       "isCaptain": false
     }
   ]
