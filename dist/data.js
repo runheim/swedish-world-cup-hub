@@ -3,73 +3,33 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ 'This is a starting point': U.S. Soccer's new home...",
-    "⚽ USMNT builds World Cup momentum by beating Senegal...",
-    "⚽ How wing-backs and chemistry helped the US break through against Senegal",
-    "⚽ Christian Pulisic wanted to talk about something else. Now he can",
-    "⚽ Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup - Yahoo Sports",
-    "⚽ The USMNT Is Still Stuck In The Middle - Defector",
-    "⚽ USMNT vs. Senegal: Match Recap & Highlights - US Soccer",
-    "⚽ USMNT builds World Cup momentum by beating Senegal but questions remain - ESPN",
-    "⚽ Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
-    "⚽ Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated",
-    "⚽ In USMNT win over Senegal, attack clicks but defense wobbles - Cronkite News",
-    "⚽ Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com",
-    "⚽ USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC",
-    "⚽ Pulisic an 8/10, USMNT's best player in pre-World Cup win over Senegal - ESPN",
-    "⚽ 26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer",
-    "⚽ Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence - Sports Illustrated",
-    "⚽ USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN",
-    "⚽ Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times",
-    "⚽ USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated",
-    "⚽ USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago",
-    "⚽ Pre-World Cup friendly live updates: USMNT look sharp in win over Senegal - ESPN",
-    "⚽ After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
-    "⚽ U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
-    "⚽ USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal",
-    "⚽ Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast",
-    "⚽ Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports",
-    "⚽ Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic - The New York Times",
-    "⚽ New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US",
-    "⚽ USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta",
-    "⚽ How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports",
-    "⚽ USMNT player ratings vs Senegal: Who starred for the Americans in notable home win? - NBC Sports",
-    "⚽ American Outlaws face uncertainty over USMNT tickets - Sports Business Journal",
-    "⚽ USMNT tops Senegal in Charlotte ahead of World Cup - Axios",
-    "⚽ Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post",
-    "⚽ USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup - Sports Illustrated",
-    "⚽ USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports",
-    "⚽ USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News",
-    "⚽ ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now",
-    "⚽ Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports",
-    "⚽ WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match - FOX Carolina News",
-    "⚽ Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com",
-    "⚽ Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times",
-    "⚽ USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal",
-    "⚽ With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times",
-    "⚽ Alexi Lalas on Christian Pulisic, USMNT’s home World Cup, Best odds | FULL INTERVIEW | The Herd - Fox News",
-    "⚽ USMNT beats Senegal 3-2 in World Cup warmup as Christian Pulisic leads the way - NBC Sports Bay Area & California",
-    "⚽ Can Christian Pulisic carry his breakthrough USMNT goal-scoring performance into the World Cup? - CBS Sports",
-    "⚽ Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted - New York Post",
-    "⚽ USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’ - FotMob",
-    "⚽ USMNT Beat Senegal 3-2! Pulisic Is Back, MLS Call-Up Debate & Germany Warm-Up Preview - Yahoo Sports",
-    "⚽ What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks - CBS Sports",
-    "⚽ USMNT top Senegal in pre-World Cup friendly - MLSsoccer.com",
-    "⚽ Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian",
-    "⚽ WATCH: USMNT Captain, Charlotte FC defender Tim Ream after facing Senegal in Charlotte - FOX Carolina News",
-    "⚽ Nicol: Pulisic's form key for USMNT's World Cup momentum - ESPN",
-    "⚽ 3 Hot Takes From the USMNT’s World Cup Tune-Up Win vs Senegal - Yahoo Sports",
-    "⚽ USMNT vs. Senegal player ratings: Pulisic breaks out of slump at perfect time - USA Today",
-    "⚽ New York Life launches USMNT docuseries “The Assist” - Coverager",
-    "⚽ USMNT uses water breaks vs. Senegal for laptop film study; unsure if allowed at World Cup - The Athletic - The New York Times",
-    "⚽ SBI USMNT Man of the Match: Christian Pulisic - SBI Soccer - SBI Soccer",
-    "⚽ USMNT coach Pochettino turns to laptop in-game during match with Senegal - TSN",
-    "⚽ USMNT makes impressive statement before World Cup with friendly win over Senegal - New York Post",
-    "⚽ Drought over: How Christian Pulisic’s goal vs. Senegal could fuel a USMNT World Cup run - Yahoo Sports",
-    "⚽ Christian Pulisic wanted to talk about something else. Now he can - The Guardian",
-    "⚽ Pulisic Finds Form for USMNT Before World Cup - 247Sports",
-    "⚽ USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - FOX Carolina News",
-    "⚽ USMNT forward, \"Captain America\" Christian Pulisic on goal scored in friendly match vs. Senegal - KCRG"
+    "⚽ How the USMNT went from embarrassment in Italy to ...",
+    "⚽ How the USMNT went from Italia 90 embarrassment to World Cup force in 1994 - ESPN",
+    "⚽ USMNT official supporters irked at FIFA over scattered World Cup seating assignments - The New York Times",
+    "⚽ USMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament - NJ.com",
+    "⚽ What are USMNT’s chances at 2026 World Cup? History favors the host nation - NBC Sports",
+    "⚽ FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated",
+    "⚽ Tyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game' - Yahoo Sports",
+    "⚽ Germany’s itinerary ahead of USMNT friendly - Yahoo Sports",
+    "⚽ Mauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach - World Soccer Talk",
+    "⚽ Rob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hurrah’ - Awful Announcing",
+    "⚽ USMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage - The New York Times",
+    "⚽ Why Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learning curve - CBS Sports",
+    "⚽ 26 USMNT Moments, Past to Present: Against the Odds - U.S. Soccer",
+    "⚽ USMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables - Diario AS",
+    "⚽ What Bayern Munich's interest says about USMNT star Sergiño Dest's comeback - MLS Multiplex",
+    "⚽ What USMNT legend Alexi Lalas got right about the US team before the World Cup - MLS Multiplex",
+    "⚽ Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year - New York Post",
+    "⚽ Four names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down ‘poster boy’ expectations around ‘Captain America’ - Goal.com",
+    "⚽ Inside of USMNT's thrilling victory over Senegal in Charlotte - Yahoo Sports",
+    "⚽ USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream - The New York Times",
+    "⚽ 'See what the world has to offer': USMNT veterans share World Cup reflections, advice - Yardbarker",
+    "⚽ The Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events - OneFootball",
+    "⚽ Tyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind - AOL.com",
+    "⚽ Clint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit of everyth - Diario AS",
+    "⚽ USMNT’s Path to Glory or Disaster: World Cup Group D Preview - Yahoo Sports",
+    "⚽ How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
+    "⚽ You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports"
   ],
   "timeline": {
     "2026-05-31": {
@@ -2925,11 +2885,2599 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2643_0",
+            "category": "usa",
+            "type": "News",
+            "title": "'This is a starting point': U.S. Soccer's new home...",
+            "bullets": [
+              "U.S. Soccer never had a permanent home for its players. Now it does, and it stands to change the way...",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "U.S. Soccer never had a permanent home for its players. Now it does, and it stands to change the way future stars and coaches learn the game.",
+            "fullText": "This article was sourced from ESPN FC. The full text could not be automatically retrieved from the original publication.\n\nU.S. Soccer never had a permanent home for its players. Now it does, and it stands to change the way future stars and coaches learn the game.\n\nFor the complete article, search for \"'This is a starting point': U.S. Soccer's new home...\" on the ESPN FC website or check their latest USMNT coverage.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2643_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT builds World Cup momentum by beating Senegal...",
+            "bullets": [
+              "Mauricio Pochettino's plans for this team are beginning to come into clearer focus.",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino's plans for this team are beginning to come into clearer focus.",
+            "fullText": "This article was sourced from ESPN FC. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino's plans for this team are beginning to come into clearer focus.\n\nFor the complete article, search for \"USMNT builds World Cup momentum by beating Senegal...\" on the ESPN FC website or check their latest USMNT coverage.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2643_2",
+            "category": "usa",
+            "type": "News",
+            "title": "How wing-backs and chemistry helped the US break through against Senegal",
+            "bullets": [
+              "Sergiño Dest scored the US’s opener on Sunday thanks a collection of little actions from his teammat...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sergiño Dest scored the US’s opener on Sunday thanks a collection of little actions from his teammatesThe US men’s national team has undergone considerable change from one window to the next throughout Mauricio Pochettino’s tenure. And it makes some sense; the Argentinian had plenty of first-hand assessments to conduct, limiting the core group’s ability to iron out patterns of play and forge partnerships.Still, amid all that turnover, Antonee Robinson and Sergiño Dest were expected to remain the first-choice options at full-back (or wing-back, depending on the system) for the 2026 World Cup. Both had been essential in the 2022 cycle, after all, and continued to fare well when healthy for their club teams (Fulham for Robinson, and PSV Eindhoven for Dest). That “when healthy” caveat has worked overtime throughout Pochettino’s 19 months in charge, though, with Dest suffering a torn ACL just before the 2024 Copa América and Robinson missing for much of last fall due to knee issues. Continue reading...",
+            "fullText": "Sergiño Dest scored the US’s opener on Sunday thanks a collection of little actions from his teammates\n\nThe US men’s national team has undergone considerable change from one window to the next throughout Mauricio Pochettino’s tenure. And it makes some sense; the Argentinian had plenty of first-hand assessments to conduct, limiting the core group’s ability to iron out patterns of play and forge partnerships.\n\nStill, amid all that turnover, Antonee Robinson and Sergiño Dest were expected to remain the first-choice options at full-back (or wing-back, depending on the system) for the 2026 World Cup. Both had been essential in the 2022 cycle, after all, and continued to fare well when healthy for their club teams (Fulham for Robinson, and PSV Eindhoven for Dest). That “when healthy” caveat has worked overtime throughout Pochettino’s 19 months in charge, though, with Dest suffering a torn ACL just before the 2024 Copa América and Robinson missing for much of last fall due to knee issues.\n\nOn Sunday, in Pochettino’s 25th game as USMNT boss, he picked Robinson and Dest as starters together for the first time. With the tandem restored, the US looked like a much more thrilling and dependable version of themselves.\n\nRobinson and Dest fit the modern job description for wide defenders, although they’re hardly clones. Robinson is more positionally measured, comfortable staying along the touchline and occasionally dropping into the channel to join the midfield. Dest carries a bit more dynamism, popping up all over the field to capitalize on whatever opponents offer. Both players have shown a knack for the give-and-go, and are able to forge passing triangles in tandem with defenders, midfielders and forwards alike.\n\nThey’re complementary profiles who dovetail nicely with the other presumptive US starters. The benefits each player brings were on full display on the opening goal in a 3-2 win over Senegal.\n\nFive minutes after the opening whistle, Ricardo Pepi – making his first US start since 18 November 2024 –forced Senegal goalkeeper Mory Diawto clear the ball toward midfield thanks to some tireless one-man pressing. Thereafter Pochettino’s side began a lengthy sequence of possession, with Dest joining the line of attackers beneath Pepi while right center-back Alex Freeman shifted wider, occupying a traditional station for a right-back. The 21-year-old’s Freeman’s rapid rise from the Orlando City academy to the USMNT and Villarreal has been among the US player pool’s most vital developments. The son of former NFL great Antonio, Freeman has exceptional vision and understanding of how to maximize the freedom that accompanies a wide center-back role.\n\nIn this instance, his versatility in shifting wide allowed Dest to stay in the US’s most advanced line as Tim Ream prodded the ball to Robinson along the opposite flank.\n\nMeanwhile, Christian Pulisic and Pepi scampered off the ball to offer Robinson his next option. With Krépin Diatta committing to close down Robinson’s dribbling lane along the touchline, the wing-back opted for Pepi’s lateral run into the channel.\n\nOften an understudy since Folarin Balogun committed to the US over England and Nigeria, Pepi is still arguably the pool’s best hold-up forward – an argument aided by what he did next. As two opponents converged to force him into a turnover, Pepi spotted Pulisic making a direct run up the channel with minimal obstruction remaining between him and the goalkeeper.\n\nWith the defenders committed, Pepi paid homage to his time in the Eredivisie with his take on a Cruyff turn, threading a ball between them and into Pulisic’s stride without overpowering it back into open territory.\n\nHere is where Dest’s loitering paid off. With Pepi having drifted wide to help with the buildup, the nominal right back offered Pulisic a potential target in the box.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2643_3",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic wanted to talk about something else. Now he can",
+            "bullets": [
+              "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see moreSign up for the World Behind The Cup newsletterIt wasn’t hard to see how annoyed US men’s national team star Christian Pulisic was getting. Another US camp, another friendly on the road to an all-important World Cup at home, and another batch of questions about his goal-scoring drought, and the pressure it created for him and the team.Before Sunday, the Milan midfielder hadn’t scored a goal for club or country in nearly six months. His dry spell just with the national team stretched back even further, with Pulisic having last found the back of the net on 18 November 2024, during a Nations League match against Jamaica. Continue reading...",
+            "fullText": "The US forward’s imperious 45 minutes against Senegal put some questions to rest, while his manager still wants to see more\n\nIt wasn’t hard to see how annoyed US men’s national team starChristian Pulisicwas getting. Another US camp, another friendly on the road to an all-important World Cup at home, and another batch of questions about his goal-scoring drought, and the pressure it created for him and the team.\n\nBefore Sunday, the Milan midfielder hadn’t scored a goal for club or country in nearly six months. His dry spell just with the national team stretched back even further, with Pulisic having last found the back of the net on 18 November 2024, during a Nations League match against Jamaica.\n\nBy this past March, the US standout sounded exhausted by questions about the drought, always insisting he felt good about his game and expressing confidence in a return to form. Lackluster performances against Belgium and Portugal did little to end the inquiries. When the US roster was revealed last Tuesday in New York, Pulisic had all but given up trying to hide his annoyance.\n\nPulisic was arguably the most consequential player on the field for the US in a much-needed positive result,a 3-2 win against Senegalthat restores some measure of good vibes to the World Cup co-hosts. After a lovely assist to Sergiño Dest on the US opener, Pulisic showed off an even better finish on their second goal, rounding the goalkeeper and finishing neatly from a tough angle off a nice feed behind the backline from Ricardo Pepi.\n\nJust like that, Pulisic found himself sprinting, finally, towards the corner flag. He was mobbed by teammates. The celebration felt emotional, visceral even.\n\nThe questions Pulisic faced in the mixed zone after the match were more easily answered.\n\n“Hopefully now people can stop talking about it,” Pulisic told reporters, sounding relieved he could talk about breaking the spell, not extending it.\n\n“It felt great,” said Pulisic. “I’ve felt this confidence [the whole time]. I’ve played really well in recent months … I feel good and now, obviously this was just a friendly – we have big games ahead and I have to be ready.”\n\nUS head coach Mauricio Pochettino has expressed confidence in Pulisic, even playing him as a center forward in March in a bid for him to snap out of his funk. At times, though, Pochettino’s praise of his playmaker has felt a bit tempered. That was the case Sunday, when he answered a reporter’s question about Pulisic’s game and immediately addressed the entire group, not Pulisic alone.\n\n“I think for the first time, or second or maybe the third time that we can’t complain that [everyone] had the right attitude and right commitment for the 22 players [that played],” Pochettino said in his press conference. “That’s the attitude that we’re trying to find, the commitment … [Pulisic’s] performance today in 45 minutes was really really good, but I think he still has potential to improve.”\n\nIt’s worth noting that Pochettino has also provided helpings of no-strings praise toward Pulisic in the past. As recently as last week, he told media thathe was certain his star player would score at the World Cup, a ringing endorsement – or a bit of pressure – offered to the man many hope will finish his career as the greatest player in the history of American men’s soccer.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2643_4",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup - Yahoo Sports",
+            "bullets": [
+              "Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup&nbsp;&nbsp;Yahoo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Mauricio Pochettino's unique USMNT tactics raise questions ahead of FIFA World Cup - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2644_5",
+            "category": "usa",
+            "type": "News",
+            "title": "The USMNT Is Still Stuck In The Middle - Defector",
+            "bullets": [
+              "The USMNT Is Still Stuck In The Middle&nbsp;&nbsp;Defector",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The USMNT Is Still Stuck In The Middle&nbsp;&nbsp;Defector",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe USMNT Is Still Stuck In The Middle&nbsp;&nbsp;Defector\n\nFor the complete article, search for \"The USMNT Is Still Stuck In The Middle - Defector\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2644_6",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal: Match Recap & Highlights - US Soccer",
+            "bullets": [
+              "USMNT vs. Senegal: Match Recap & Highlights&nbsp;&nbsp;US Soccer",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT vs. Senegal: Match Recap & Highlights&nbsp;&nbsp;US Soccer",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal: Match Recap & Highlights&nbsp;&nbsp;US Soccer\n\nFor the complete article, search for \"USMNT vs. Senegal: Match Recap & Highlights - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2644_7",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT builds World Cup momentum by beating Senegal but questions remain - ESPN",
+            "bullets": [
+              "USMNT builds World Cup momentum by beating Senegal but questions remain&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT builds World Cup momentum by beating Senegal but questions remain&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT builds World Cup momentum by beating Senegal but questions remain&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"USMNT builds World Cup momentum by beating Senegal but questions remain - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2644_8",
+            "category": "usa",
+            "type": "News",
+            "title": "US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - Cronkite News",
+            "bullets": [
+              "US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do&nbsp;&nbsp;Cronkite News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUS attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do&nbsp;&nbsp;Cronkite News\n\nFor the complete article, search for \"US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - Cronkite News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2644_9",
+            "category": "usa",
+            "type": "News",
+            "title": "Do you agree with Mauricio Pochettino emailing players that didn't make the FIFA World Cup™ roster? - FOX Sports",
+            "bullets": [
+              "Do you agree with Mauricio Pochettino emailing players that didn't make the FIFA World Cup™ roster?&...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Do you agree with Mauricio Pochettino emailing players that didn't make the FIFA World Cup™ roster?&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nDo you agree with Mauricio Pochettino emailing players that didn't make the FIFA World Cup™ roster?&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"Do you agree with Mauricio Pochettino emailing players that didn't make the FIFA World Cup™ roster? - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2645_10",
+            "category": "usa",
+            "type": "News",
+            "title": "Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated",
+            "bullets": [
+              "Who is USMNT World Cup Manager Mauricio Pochettino?&nbsp;&nbsp;Sports Illustrated",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who is USMNT World Cup Manager Mauricio Pochettino?&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWho is USMNT World Cup Manager Mauricio Pochettino?&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"Who is USMNT World Cup Manager Mauricio Pochettino? - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2645_11",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT submits World Cup squad to FIFA, with hobbled Chris Richards included - The New York Times",
+            "bullets": [
+              "USMNT submits World Cup squad to FIFA, with hobbled Chris Richards included&nbsp;&nbsp;The New York...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT submits World Cup squad to FIFA, with hobbled Chris Richards included&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT submits World Cup squad to FIFA, with hobbled Chris Richards included&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT submits World Cup squad to FIFA, with hobbled Chris Richards included - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2645_12",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup - Yahoo Sports",
+            "bullets": [
+              "USMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup&nbsp;&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"USMNT star discloses Mauricio Pochettino’s message to the players ahead of the World Cup - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2645_13",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated",
+            "bullets": [
+              "USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It?&nbsp;&nbsp;Spor...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It?&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It?&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"USMNT's Bizarre Water Break Tactic Could Revolutionize World Cup—Will FIFA Allow It? - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2645_14",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times",
+            "bullets": [
+              "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&nbs...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Chris Richards out for Senegal friendly, USMNT World Cup status remains uncertain - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2645_15",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer",
+            "bullets": [
+              "26 USMNT Moments, Past to Present: Sweet Revenge&nbsp;&nbsp;US Soccer",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "26 USMNT Moments, Past to Present: Sweet Revenge&nbsp;&nbsp;US Soccer",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n26 USMNT Moments, Past to Present: Sweet Revenge&nbsp;&nbsp;US Soccer\n\nFor the complete article, search for \"26 USMNT Moments, Past to Present: Sweet Revenge - US Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2646_16",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN",
+            "bullets": [
+              "USMNT's Pulisic breaks goal drought, hopes people stop 'talking'&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT's Pulisic breaks goal drought, hopes people stop 'talking'&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT's Pulisic breaks goal drought, hopes people stop 'talking'&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"USMNT's Pulisic breaks goal drought, hopes people stop 'talking' - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2646_17",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT midweek viewing guide: The friendliest week - Stars and Stripes FC",
+            "bullets": [
+              "USMNT midweek viewing guide: The friendliest week&nbsp;&nbsp;Stars and Stripes FC",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT midweek viewing guide: The friendliest week&nbsp;&nbsp;Stars and Stripes FC",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT midweek viewing guide: The friendliest week&nbsp;&nbsp;Stars and Stripes FC\n\nFor the complete article, search for \"USMNT midweek viewing guide: The friendliest week - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2646_18",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards included as USMNT submits final World Cup roster to FIFA - Yahoo Sports",
+            "bullets": [
+              "Chris Richards included as USMNT submits final World Cup roster to FIFA&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chris Richards included as USMNT submits final World Cup roster to FIFA&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards included as USMNT submits final World Cup roster to FIFA&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Chris Richards included as USMNT submits final World Cup roster to FIFA - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2646_19",
+            "category": "usa",
+            "type": "News",
+            "title": "Oldest and Youngest Players on the USMNT World Cup Roster—Tim Ream Sets Record - Sports Illustrated",
+            "bullets": [
+              "Oldest and Youngest Players on the USMNT World Cup Roster—Tim Ream Sets Record&nbsp;&nbsp;Sports Ill...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Oldest and Youngest Players on the USMNT World Cup Roster—Tim Ream Sets Record&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nOldest and Youngest Players on the USMNT World Cup Roster—Tim Ream Sets Record&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"Oldest and Youngest Players on the USMNT World Cup Roster—Tim Ream Sets Record - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2646_20",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com",
+            "bullets": [
+              "Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup&nbsp;&nbsp;Inquirer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup&nbsp;&nbsp;Inquirer.com\n\nFor the complete article, search for \"Christian Pulisic’s first USMNT goal since 2024 lifts a big burden ahead of the World Cup - Inquirer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2647_21",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC",
+            "bullets": [
+              "USMNT gets past Senegal in first World Cup tune-up&nbsp;&nbsp;Stars and Stripes FC",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT gets past Senegal in first World Cup tune-up&nbsp;&nbsp;Stars and Stripes FC",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT gets past Senegal in first World Cup tune-up&nbsp;&nbsp;Stars and Stripes FC\n\nFor the complete article, search for \"USMNT gets past Senegal in first World Cup tune-up - Stars and Stripes FC\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2647_22",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago",
+            "bullets": [
+              "USMNT prepares for hosting FIFA World Cup&nbsp;&nbsp;FOX 32 Chicago",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT prepares for hosting FIFA World Cup&nbsp;&nbsp;FOX 32 Chicago",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT prepares for hosting FIFA World Cup&nbsp;&nbsp;FOX 32 Chicago\n\nFor the complete article, search for \"USMNT prepares for hosting FIFA World Cup - FOX 32 Chicago\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2647_23",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times",
+            "bullets": [
+              "Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic&n...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Why Liverpool acted on Slot – Iraola next up? Plus: Pulisic ends USMNT goal drought - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2647_24",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’ - Sports Illustrated",
+            "bullets": [
+              "USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’&nbsp;&nbsp;Spor...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"USMNT Stock Up, Stock Down: Pulisic Better Than Ever; Pochettino Finds His ‘Monster’ - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2647_25",
+            "category": "usa",
+            "type": "News",
+            "title": "Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian",
+            "bullets": [
+              "Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment&nbsp;&nbs...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment&nbsp;&nbsp;The Guardian",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nGathered around a laptop, the USMNT create their World Cup journey’s first memeable moment&nbsp;&nbsp;The Guardian\n\nFor the complete article, search for \"Gathered around a laptop, the USMNT create their World Cup journey’s first memeable moment - The Guardian\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2647_26",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards included as USMNT submits final World Cup roster to FIFA - USA Today",
+            "bullets": [
+              "Chris Richards included as USMNT submits final World Cup roster to FIFA&nbsp;&nbsp;USA Today",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chris Richards included as USMNT submits final World Cup roster to FIFA&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards included as USMNT submits final World Cup roster to FIFA&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"Chris Richards included as USMNT submits final World Cup roster to FIFA - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2648_27",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports",
+            "bullets": [
+              "USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven socc...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"USMNT World Cup 2026 picks, odds, predictions: Top props, best bets for United States by proven soccer expert - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2648_28",
+            "category": "usa",
+            "type": "News",
+            "title": "Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence - Sports Illustrated",
+            "bullets": [
+              "Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence&nbsp;&nbsp;Sports Illu...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFour Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"Four Key Takeaways From USMNT’s Confidence-Building Win, Pulisic’s Resurgence - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2648_29",
+            "category": "usa",
+            "type": "News",
+            "title": "Paraguay name World Cup squad: USMNT opponents select South America-heavy team - The New York Times",
+            "bullets": [
+              "Paraguay name World Cup squad: USMNT opponents select South America-heavy team&nbsp;&nbsp;The New Yo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Paraguay name World Cup squad: USMNT opponents select South America-heavy team&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nParaguay name World Cup squad: USMNT opponents select South America-heavy team&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Paraguay name World Cup squad: USMNT opponents select South America-heavy team - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2648_30",
+            "category": "usa",
+            "type": "News",
+            "title": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times",
+            "bullets": [
+              "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The A...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAfter fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"After fumbling through reply on Milan talks, Mauricio Pochettino reiterates USMNT commitment - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2648_31",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino and World Cup coaches cleared to use laptops during water breaks - The New York Times",
+            "bullets": [
+              "Mauricio Pochettino and World Cup coaches cleared to use laptops during water breaks&nbsp;&nbsp;The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino and World Cup coaches cleared to use laptops during water breaks&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino and World Cup coaches cleared to use laptops during water breaks&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Mauricio Pochettino and World Cup coaches cleared to use laptops during water breaks - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2648_32",
+            "category": "usa",
+            "type": "News",
+            "title": "HBO USMNT Doc Director on the Reyna Decision - Front Office Sports",
+            "bullets": [
+              "HBO USMNT Doc Director on the Reyna Decision&nbsp;&nbsp;Front Office Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "HBO USMNT Doc Director on the Reyna Decision&nbsp;&nbsp;Front Office Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHBO USMNT Doc Director on the Reyna Decision&nbsp;&nbsp;Front Office Sports\n\nFor the complete article, search for \"HBO USMNT Doc Director on the Reyna Decision - Front Office Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2649_33",
+            "category": "usa",
+            "type": "News",
+            "title": "Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast",
+            "bullets": [
+              "Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection&nbsp;&nbsp;Hypebeast",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection&nbsp;&nbsp;Hypebeast",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNike Teases Virgil Abloh Archive for USMNT Lifestyle Collection&nbsp;&nbsp;Hypebeast\n\nFor the complete article, search for \"Nike Teases Virgil Abloh Archive for USMNT Lifestyle Collection - Hypebeast\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2649_34",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal",
+            "bullets": [
+              "USMNT delivers win in pre-World Cup match in Charlotte&nbsp;&nbsp;Sports Business Journal",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT delivers win in pre-World Cup match in Charlotte&nbsp;&nbsp;Sports Business Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT delivers win in pre-World Cup match in Charlotte&nbsp;&nbsp;Sports Business Journal\n\nFor the complete article, search for \"USMNT delivers win in pre-World Cup match in Charlotte - Sports Business Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2649_35",
+            "category": "usa",
+            "type": "News",
+            "title": "Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post",
+            "bullets": [
+              "Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on ho...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nRicardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Ricardo Pepi, Matt Turner forcing Mauricio Pochettino to rethink lineup with USMNT assumptions on hold - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2649_36",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times",
+            "bullets": [
+              "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"U.S. Soccer CEO: USMNT’s Mauricio Pochettino ‘100%’ focused on World Cup despite Milan meeting - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2649_37",
+            "category": "usa",
+            "type": "News",
+            "title": "Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times",
+            "bullets": [
+              "Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic&nbsp;&nbsp;The New Yor...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Tim Ream named USMNT’s World Cup captain, Pochettino announces - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2650_38",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT tops Senegal in Charlotte ahead of World Cup - Axios",
+            "bullets": [
+              "USMNT tops Senegal in Charlotte ahead of World Cup&nbsp;&nbsp;Axios",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT tops Senegal in Charlotte ahead of World Cup&nbsp;&nbsp;Axios",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT tops Senegal in Charlotte ahead of World Cup&nbsp;&nbsp;Axios\n\nFor the complete article, search for \"USMNT tops Senegal in Charlotte ahead of World Cup - Axios\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2650_39",
+            "category": "usa",
+            "type": "News",
+            "title": "American Outlaws face uncertainty over USMNT tickets - Sports Business Journal",
+            "bullets": [
+              "American Outlaws face uncertainty over USMNT tickets&nbsp;&nbsp;Sports Business Journal",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "American Outlaws face uncertainty over USMNT tickets&nbsp;&nbsp;Sports Business Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAmerican Outlaws face uncertainty over USMNT tickets&nbsp;&nbsp;Sports Business Journal\n\nFor the complete article, search for \"American Outlaws face uncertainty over USMNT tickets - Sports Business Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2650_40",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta",
+            "bullets": [
+              "USMNT secures 3-2 victory over Senegal in World Cup warmup&nbsp;&nbsp;FOX 5 Atlanta",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT secures 3-2 victory over Senegal in World Cup warmup&nbsp;&nbsp;FOX 5 Atlanta",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT secures 3-2 victory over Senegal in World Cup warmup&nbsp;&nbsp;FOX 5 Atlanta\n\nFor the complete article, search for \"USMNT secures 3-2 victory over Senegal in World Cup warmup - FOX 5 Atlanta\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2650_41",
+            "category": "usa",
+            "type": "News",
+            "title": "New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US",
+            "bullets": [
+              "New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’&nbsp;&nbsp;Campaign US",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’&nbsp;&nbsp;Campaign US",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNew York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’&nbsp;&nbsp;Campaign US\n\nFor the complete article, search for \"New York Life and USMNT team up for docuseries ‘hat trick’ honoring ‘Assists’ - Campaign US\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2650_42",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports",
+            "bullets": [
+              "Mauricio Pochettino explains why he doesn't like water breaks&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino explains why he doesn't like water breaks&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino explains why he doesn't like water breaks&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Mauricio Pochettino explains why he doesn't like water breaks - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2650_43",
+            "category": "usa",
+            "type": "News",
+            "title": "HBO USMNT Doc Director on the Reyna Decision - Yahoo Sports",
+            "bullets": [
+              "HBO USMNT Doc Director on the Reyna Decision&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "HBO USMNT Doc Director on the Reyna Decision&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHBO USMNT Doc Director on the Reyna Decision&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"HBO USMNT Doc Director on the Reyna Decision - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_44",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports",
+            "bullets": [
+              "Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup&...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Christian Pulisic ends goal drought as USMNT star highlights key area to improve ahead of World Cup - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_45",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad - MSN",
+            "bullets": [
+              "USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad&nbsp;&nbsp;MSN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad&nbsp;&nbsp;MSN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad&nbsp;&nbsp;MSN\n\nFor the complete article, search for \"USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad - MSN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_46",
+            "category": "usa",
+            "type": "News",
+            "title": "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports",
+            "bullets": [
+              "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"How Mauricio Pochettino's USMNT vision was on display as Christian Pulisic and squad excel in World Cup prep - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_47",
+            "category": "usa",
+            "type": "News",
+            "title": "Weston McKennie promises another fun hairdo for 2026 World Cup - USA Today",
+            "bullets": [
+              "Weston McKennie promises another fun hairdo for 2026 World Cup&nbsp;&nbsp;USA Today",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Weston McKennie promises another fun hairdo for 2026 World Cup&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWeston McKennie promises another fun hairdo for 2026 World Cup&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"Weston McKennie promises another fun hairdo for 2026 World Cup - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_48",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic - The New York Times",
+            "bullets": [
+              "Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Ath...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Pochettino hails Pulisic’s performance, USMNT’s ‘attitude, commitment’ in win over Senegal - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_49",
+            "category": "usa",
+            "type": "News",
+            "title": "Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times",
+            "bullets": [
+              "Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic&nbsp;&nbsp;The N...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nEven more crucial than winning, USMNT showcases its World Cup upside - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"Even more crucial than winning, USMNT showcases its World Cup upside - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2652_50",
+            "category": "usa",
+            "type": "News",
+            "title": "Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com",
+            "bullets": [
+              "Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more&nbsp;&nbsp;Inquirer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nQ&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more&nbsp;&nbsp;Inquirer.com\n\nFor the complete article, search for \"Q&A: USMNT World Cup documentary creator explains video process, relationship with Tyler Adams, and more - Inquirer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2652_51",
+            "category": "usa",
+            "type": "News",
+            "title": "ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now",
+            "bullets": [
+              "ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern&nbsp;&nbsp;American Soccer Now",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern&nbsp;&nbsp;American Soccer Now\n\nFor the complete article, search for \"ASN article: USMNT defeats Senegal 3-2 in pre-World Cup friendly, showing signs of hope & concern - American Soccer Now\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2652_52",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News",
+            "bullets": [
+              "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal&nbsp;&nbsp;Fox Ne...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal&nbsp;&nbsp;Fox News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal&nbsp;&nbsp;Fox News\n\nFor the complete article, search for \"USMNT star Christian Pulisic finally ends lengthy goal drought in win over Senegal - Fox News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2652_53",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal",
+            "bullets": [
+              "USMNT downs Senegal 3-2 in World Cup Preperation&nbsp;&nbsp;KC Soccer Journal",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT downs Senegal 3-2 in World Cup Preperation&nbsp;&nbsp;KC Soccer Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT downs Senegal 3-2 in World Cup Preperation&nbsp;&nbsp;KC Soccer Journal\n\nFor the complete article, search for \"USMNT downs Senegal 3-2 in World Cup Preperation - KC Soccer Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2652_54",
+            "category": "usa",
+            "type": "News",
+            "title": "How the USMNT Could Set Up at the 2026 World Cup & How They Could Fair - RMU Sentry Media",
+            "bullets": [
+              "How the USMNT Could Set Up at the 2026 World Cup & How They Could Fair&nbsp;&nbsp;RMU Sentry Media",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How the USMNT Could Set Up at the 2026 World Cup & How They Could Fair&nbsp;&nbsp;RMU Sentry Media",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow the USMNT Could Set Up at the 2026 World Cup & How They Could Fair&nbsp;&nbsp;RMU Sentry Media\n\nFor the complete article, search for \"How the USMNT Could Set Up at the 2026 World Cup & How They Could Fair - RMU Sentry Media\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2652_55",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards a critical part of USMNT’s plans despite injury worry, friendly red flags - New York Post",
+            "bullets": [
+              "Chris Richards a critical part of USMNT’s plans despite injury worry, friendly red flags&nbsp;&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chris Richards a critical part of USMNT’s plans despite injury worry, friendly red flags&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChris Richards a critical part of USMNT’s plans despite injury worry, friendly red flags&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Chris Richards a critical part of USMNT’s plans despite injury worry, friendly red flags - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2653_56",
+            "category": "usa",
+            "type": "News",
+            "title": "'Ton of quality': Jozy Altidore on USMNT ahead of World Cup 2026 - WCNC",
+            "bullets": [
+              "'Ton of quality': Jozy Altidore on USMNT ahead of World Cup 2026&nbsp;&nbsp;WCNC",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'Ton of quality': Jozy Altidore on USMNT ahead of World Cup 2026&nbsp;&nbsp;WCNC",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n'Ton of quality': Jozy Altidore on USMNT ahead of World Cup 2026&nbsp;&nbsp;WCNC\n\nFor the complete article, search for \"'Ton of quality': Jozy Altidore on USMNT ahead of World Cup 2026 - WCNC\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2653_57",
+            "category": "usa",
+            "type": "News",
+            "title": "With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times",
+            "bullets": [
+              "With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic&n...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWith goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"With goal drought over, Christian Pulisic can look with relief to USMNT’s World Cup - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2653_58",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup - Sports Illustrated",
+            "bullets": [
+              "USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup&nbsp;&nbsp;Spo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"USMNT vs. Senegal Player Ratings: Pulisic Shows Best Form in Years Ahead of World Cup - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2653_59",
+            "category": "usa",
+            "type": "News",
+            "title": "WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match - FOX Carolina News",
+            "bullets": [
+              "WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match&nbsp;&nbsp;FOX Car...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match&nbsp;&nbsp;FOX Carolina News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match&nbsp;&nbsp;FOX Carolina News\n\nFor the complete article, search for \"WATCH: USMNT’s Christian Pulisic after scoring goal vs. Senegal in friendly match - FOX Carolina News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2653_60",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad - ESPN",
+            "bullets": [
+              "USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"USMNT snub in 2022 helped Ricardo Pepi make 2026 World Cup squad - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2654_61",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted - New York Post",
+            "bullets": [
+              "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted&nbsp;&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Christian Pulisic wastes no time ending five-month goal drought in huge USMNT weight lifted - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2654_62",
+            "category": "usa",
+            "type": "News",
+            "title": "What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks - CBS Sports",
+            "bullets": [
+              "What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhat's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"What's with Mauricio Pochettino laptop? How USMNT coach is trying to revolutionize cooling breaks - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2654_63",
+            "category": "usa",
+            "type": "News",
+            "title": "Pepi recalls father's tears of joy after making USMNT's Wor… - theScore",
+            "bullets": [
+              "Pepi recalls father's tears of joy after making USMNT's Wor…&nbsp;&nbsp;theScore",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pepi recalls father's tears of joy after making USMNT's Wor…&nbsp;&nbsp;theScore",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPepi recalls father's tears of joy after making USMNT's Wor…&nbsp;&nbsp;theScore\n\nFor the complete article, search for \"Pepi recalls father's tears of joy after making USMNT's Wor… - theScore\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2654_64",
+            "category": "usa",
+            "type": "News",
+            "title": "New York Life launches USMNT docuseries “The Assist” - Coverager",
+            "bullets": [
+              "New York Life launches USMNT docuseries “The Assist”&nbsp;&nbsp;Coverager",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New York Life launches USMNT docuseries “The Assist”&nbsp;&nbsp;Coverager",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nNew York Life launches USMNT docuseries “The Assist”&nbsp;&nbsp;Coverager\n\nFor the complete article, search for \"New York Life launches USMNT docuseries “The Assist” - Coverager\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
+    },
+    "2026-06-02": {
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260602_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "Tyler Adams and Antonee Robinson log stellar physical registers in Denver",
+            "bullets": [
+              "Adams completes full team drills, showing zero signs of physical fatigue.",
+              "Robinson clocks top sprinting speeds during overlapping winger runs.",
+              "Conditioning staff reports high altitude recovery indexes are ahead of schedule."
+            ],
+            "summary": "The afternoon workout in Denver focused on intensive physical conditioning. Midfielder Tyler Adams completed the full high-tempo drills, showcasing his elite fitness. Left-back Antonee Robinson clocked the day's highest speed, showing he is ready to cover the entire left flank.",
+            "fullText": "The afternoon workout in Denver focused on intensive physical conditioning. Midfielder Tyler Adams completed the full high-tempo drills, showcasing his elite fitness. Left-back Antonee Robinson clocked the day's highest speed, showing he is ready to cover the entire left flank.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Camp",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260602_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Türkiye locks in high-tempo press drills at their training headquarters",
+            "bullets": [
+              "Turkish squad practices swift vertical combination drills and quick shot releases.",
+              "Hakan Çalhanoğlu orchestrates rapid transition flows in midfield scrimmages.",
+              "Tactical scouts highlight USA's physical stamina as their primary threat."
+            ],
+            "summary": "Türkiye is wrapping up their final training phase before departing for the United States. Manager Vincenzo Montella has designed custom mid-block pressing traps, with Inter Milan's Hakan Çalhanoğlu pulling the strings. Analysts warn that the USMNT's physical work-rate represents a massive challenge.",
+            "fullText": "Türkiye is wrapping up their final training phase before departing for the United States. Manager Vincenzo Montella has designed custom mid-block pressing traps, with Inter Milan's Hakan Çalhanoğlu pulling the strings. Analysts warn that the USMNT's physical work-rate represents a massive challenge.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "TRT Spor",
+            "readTime": "3 min",
+            "tag": "Türkiye Scout",
+            "relatedPlayers": []
+          }
+        ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1017_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT FIFA World Cup schedule: Times, dates and group stage matchups - NBC Los Angeles",
+            "bullets": [
+              "USMNT FIFA World Cup schedule: Times, dates and group stage matchups&nbsp;&nbsp;NBC Los Angeles",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT FIFA World Cup schedule: Times, dates and group stage matchups&nbsp;&nbsp;NBC Los Angeles",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT FIFA World Cup schedule: Times, dates and group stage matchups&nbsp;&nbsp;NBC Los Angeles\n\nFor the complete article, search for \"USMNT FIFA World Cup schedule: Times, dates and group stage matchups - NBC Los Angeles\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1017_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The Athletic - The New York Times",
+            "bullets": [
+              "USMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The Athletic&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The Athletic&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT to wear ‘stripes’ kit in World Cup opener, France in green vs Norway, four black jerseys - The Athletic - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1017_2",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup - Field Level Media",
+            "bullets": [
+              "U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup&nbsp;&nbsp;Field Level Media",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup&nbsp;&nbsp;Field Level Media",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup&nbsp;&nbsp;Field Level Media\n\nFor the complete article, search for \"U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup - Field Level Media\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1017_3",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup - MLS Multiplex",
+            "bullets": [
+              "USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup&nbsp;&nbsp;MLS Multiple...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup&nbsp;&nbsp;MLS Multiplex",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup&nbsp;&nbsp;MLS Multiplex\n\nFor the complete article, search for \"USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup - MLS Multiplex\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1018_4",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory - amNewYork",
+            "bullets": [
+              "World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory&nbsp;&nbsp;amNewYork",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWorld Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory&nbsp;&nbsp;amNewYork\n\nFor the complete article, search for \"World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory - amNewYork\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1018_5",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT cheat sheet: Everything to know for 2026 FIFA World Cup - MLSsoccer.com",
+            "bullets": [
+              "USMNT cheat sheet: Everything to know for 2026 FIFA World Cup&nbsp;&nbsp;MLSsoccer.com",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT cheat sheet: Everything to know for 2026 FIFA World Cup&nbsp;&nbsp;MLSsoccer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT cheat sheet: Everything to know for 2026 FIFA World Cup&nbsp;&nbsp;MLSsoccer.com\n\nFor the complete article, search for \"USMNT cheat sheet: Everything to know for 2026 FIFA World Cup - MLSsoccer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1018_6",
+            "category": "usa",
+            "type": "News",
+            "title": "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
+            "bullets": [
+              "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1018_7",
+            "category": "usa",
+            "type": "News",
+            "title": "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports",
+            "bullets": [
+              "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nYou won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1019_8",
+            "category": "usa",
+            "type": "News",
+            "title": "Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing - USA Today",
+            "bullets": [
+              "Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing&nbsp;&nbsp;USA...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nLandon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1019_9",
+            "category": "usa",
+            "type": "News",
+            "title": "‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994 - Sports Illustrated",
+            "bullets": [
+              "‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994&nbsp;&nbsp;Sports Illu...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"‘A Responsibility’—USMNT Legend Predicts 2026 World Cup Run, Reflects on 1994 - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1019_10",
+            "category": "usa",
+            "type": "News",
+            "title": "Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense - KTVU",
+            "bullets": [
+              "Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense&nbsp;&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense&nbsp;&nbsp;KTVU",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFormer US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense&nbsp;&nbsp;KTVU\n\nFor the complete article, search for \"Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense - KTVU\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1019_11",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Tim Ream's leadership matters for USMNT - NBC Los Angeles",
+            "bullets": [
+              "Why Tim Ream's leadership matters for USMNT&nbsp;&nbsp;NBC Los Angeles",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Tim Ream's leadership matters for USMNT&nbsp;&nbsp;NBC Los Angeles",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Tim Ream's leadership matters for USMNT&nbsp;&nbsp;NBC Los Angeles\n\nFor the complete article, search for \"Why Tim Ream's leadership matters for USMNT - NBC Los Angeles\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1020_12",
+            "category": "usa",
+            "type": "News",
+            "title": "Eight Former College Players Make USMNT Roster - College Soccer News",
+            "bullets": [
+              "Eight Former College Players Make USMNT Roster&nbsp;&nbsp;College Soccer News",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Eight Former College Players Make USMNT Roster&nbsp;&nbsp;College Soccer News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nEight Former College Players Make USMNT Roster&nbsp;&nbsp;College Soccer News\n\nFor the complete article, search for \"Eight Former College Players Make USMNT Roster - College Soccer News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1020_13",
+            "category": "usa",
+            "type": "News",
+            "title": "St. Louis native Tim Ream will captain the USMNT at the World Cup - St. Louis Magazine",
+            "bullets": [
+              "St. Louis native Tim Ream will captain the USMNT at the World Cup&nbsp;&nbsp;St. Louis Magazine",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St. Louis native Tim Ream will captain the USMNT at the World Cup&nbsp;&nbsp;St. Louis Magazine",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nSt. Louis native Tim Ream will captain the USMNT at the World Cup&nbsp;&nbsp;St. Louis Magazine\n\nFor the complete article, search for \"St. Louis native Tim Ream will captain the USMNT at the World Cup - St. Louis Magazine\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1020_14",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today",
+            "bullets": [
+              "Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup&nbsp;&nbsp;USA Today",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Ex-USMNT star Jozy Altidore isn't worried about team for World Cup&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1020_15",
+            "category": "usa",
+            "type": "News",
+            "title": "OneFootball University: Can the USMNT win World Cup 2026? - Yahoo Sports",
+            "bullets": [
+              "OneFootball University: Can the USMNT win World Cup 2026?&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "OneFootball University: Can the USMNT win World Cup 2026?&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nOneFootball University: Can the USMNT win World Cup 2026?&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"OneFootball University: Can the USMNT win World Cup 2026? - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1021_16",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation - MLS Multiplex",
+            "bullets": [
+              "USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation&nbsp;&nbsp;MLS Multiplex",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation&nbsp;&nbsp;MLS Multiplex",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT legend Tim Howard raises concerns about USMNT goalkeeping situation&nbsp;&nbsp;MLS Multiplex\n\nFor the complete article, search for \"USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation - MLS Multiplex\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1021_17",
+            "category": "usa",
+            "type": "News",
+            "title": "‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub - Athlon Sports",
+            "bullets": [
+              "‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub&nbsp;&nbsp;Athlon Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub&nbsp;&nbsp;Athlon Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub&nbsp;&nbsp;Athlon Sports\n\nFor the complete article, search for \"‘Wow’: USMNT Legend Tim Howard Reacts to Diego Luna Roster Snub - Athlon Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1021_18",
+            "category": "usa",
+            "type": "News",
+            "title": "Ex-USMNT star sets USA's benchmark for successful World Cup, talks excitement of final being in his home state - Fox News",
+            "bullets": [
+              "Ex-USMNT star sets USA's benchmark for successful World Cup, talks excitement of final being in his...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ex-USMNT star sets USA's benchmark for successful World Cup, talks excitement of final being in his home state&nbsp;&nbsp;Fox News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nEx-USMNT star sets USA's benchmark for successful World Cup, talks excitement of final being in his home state&nbsp;&nbsp;Fox News\n\nFor the complete article, search for \"Ex-USMNT star sets USA's benchmark for successful World Cup, talks excitement of final being in his home state - Fox News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1021_19",
+            "category": "usa",
+            "type": "News",
+            "title": "Why U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health - NBC 5 Chicago",
+            "bullets": [
+              "Why U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health&nbsp;&nbsp;NBC 5 Chicago",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health&nbsp;&nbsp;NBC 5 Chicago",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health&nbsp;&nbsp;NBC 5 Chicago\n\nFor the complete article, search for \"Why U.S. men's soccer captain Tim Ream uses LEGOs to manage mental health - NBC 5 Chicago\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1021_20",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Legend Tim Howard Predicts the World Cup Winner - Athlon Sports",
+            "bullets": [
+              "USMNT Legend Tim Howard Predicts the World Cup Winner&nbsp;&nbsp;Athlon Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT Legend Tim Howard Predicts the World Cup Winner&nbsp;&nbsp;Athlon Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Legend Tim Howard Predicts the World Cup Winner&nbsp;&nbsp;Athlon Sports\n\nFor the complete article, search for \"USMNT Legend Tim Howard Predicts the World Cup Winner - Athlon Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1022_21",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup Roster Reaction | Chasing the Cup - WPRI.com",
+            "bullets": [
+              "USMNT World Cup Roster Reaction | Chasing the Cup&nbsp;&nbsp;WPRI.com",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT World Cup Roster Reaction | Chasing the Cup&nbsp;&nbsp;WPRI.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT World Cup Roster Reaction | Chasing the Cup&nbsp;&nbsp;WPRI.com\n\nFor the complete article, search for \"USMNT World Cup Roster Reaction | Chasing the Cup - WPRI.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1022_22",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result in a World Cup to remember? - Goal.com",
+            "bullets": [
+              "Mauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result in a World Cup to remember?&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result in a World Cup to remember?&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"Mauricio Pochettino wants everyone to believe in the USMNT - but will his American adventure result in a World Cup to remember? - Goal.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1022_23",
+            "category": "usa",
+            "type": "News",
+            "title": "McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay - hitc.com",
+            "bullets": [
+              "McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay&nbsp;&nbs...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay&nbsp;&nbsp;hitc.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMcKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay&nbsp;&nbsp;hitc.com\n\nFor the complete article, search for \"McKenzie opens up on what USMNT are doing in training ahead of World Cup opener v Paraguay - hitc.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1023_24",
+            "category": "usa",
+            "type": "News",
+            "title": "My New Favorite Futbolista: Tim Ream - NBC Los Angeles",
+            "bullets": [
+              "My New Favorite Futbolista: Tim Ream&nbsp;&nbsp;NBC Los Angeles",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "My New Favorite Futbolista: Tim Ream&nbsp;&nbsp;NBC Los Angeles",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMy New Favorite Futbolista: Tim Ream&nbsp;&nbsp;NBC Los Angeles\n\nFor the complete article, search for \"My New Favorite Futbolista: Tim Ream - NBC Los Angeles\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1023_25",
+            "category": "usa",
+            "type": "News",
+            "title": "WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup - FOX Carolina News",
+            "bullets": [
+              "WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup&nbsp;&nbsp;FOX Carolina News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup&nbsp;&nbsp;FOX Carolina News\n\nFor the complete article, search for \"WATCH: Fans flock to Charlotte for friendly match between USMNT and Senegal ahead of World Cup - FOX Carolina News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1023_26",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT secret weapon is water breaks - Yahoo Sports",
+            "bullets": [
+              "USMNT secret weapon is water breaks&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT secret weapon is water breaks&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT secret weapon is water breaks&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"USMNT secret weapon is water breaks - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1023_27",
+            "category": "usa",
+            "type": "News",
+            "title": "Potential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer - CBS Sports",
+            "bullets": [
+              "Potential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer&nbsp;&nbsp;CBS Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Potential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPotential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"Potential USMNT World Cup Scenarios - Call It What You Want Stream of Soccer - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1024_28",
+            "category": "usa",
+            "type": "News",
+            "title": "FIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over Senegal - CBS Sports",
+            "bullets": [
+              "FIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over Senegal&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over Senegal&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"FIFA World Cup 2026 Power Rankings: Spain sit top, but USMNT lurk in top 12 after friendly win over Senegal - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1024_29",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT supporters gear up for match against Senegal - Yahoo Sports",
+            "bullets": [
+              "USMNT supporters gear up for match against Senegal&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT supporters gear up for match against Senegal&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT supporters gear up for match against Senegal&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"USMNT supporters gear up for match against Senegal - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1024_30",
+            "category": "usa",
+            "type": "News",
+            "title": "FIFA revealed the USMNT's kit schedule for the World Cup group stage - USA Today",
+            "bullets": [
+              "FIFA revealed the USMNT's kit schedule for the World Cup group stage&nbsp;&nbsp;USA Today",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FIFA revealed the USMNT's kit schedule for the World Cup group stage&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFIFA revealed the USMNT's kit schedule for the World Cup group stage&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"FIFA revealed the USMNT's kit schedule for the World Cup group stage - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1024_31",
+            "category": "usa",
+            "type": "News",
+            "title": "US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - The Gila Herald",
+            "bullets": [
+              "US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do&nbsp;&nbsp;The Gila Herald",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUS attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do&nbsp;&nbsp;The Gila Herald\n\nFor the complete article, search for \"US attack clicks in pre-World Cup win over Senegal, but wobbly defense means Mauricio Pochettino has work to do - The Gila Herald\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1024_32",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT Announces World Cup Squad + Lionel Messi Status Ahead of FIFA World Cup 2026 - FOX 5 New York",
+            "bullets": [
+              "USMNT Announces World Cup Squad + Lionel Messi Status Ahead of FIFA World Cup 2026&nbsp;&nbsp;FOX 5...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT Announces World Cup Squad + Lionel Messi Status Ahead of FIFA World Cup 2026&nbsp;&nbsp;FOX 5 New York",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT Announces World Cup Squad + Lionel Messi Status Ahead of FIFA World Cup 2026&nbsp;&nbsp;FOX 5 New York\n\nFor the complete article, search for \"USMNT Announces World Cup Squad + Lionel Messi Status Ahead of FIFA World Cup 2026 - FOX 5 New York\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
+    },
+    "2026-06-03": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5407_0",
+            "category": "usa",
+            "type": "News",
+            "title": "How the USMNT went from Italia 90 embarrassment to World Cup force in 1994 - ESPN",
+            "bullets": [
+              "How the USMNT went from Italia 90 embarrassment to World Cup force in 1994&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How the USMNT went from Italia 90 embarrassment to World Cup force in 1994&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow the USMNT went from Italia 90 embarrassment to World Cup force in 1994&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"How the USMNT went from Italia 90 embarrassment to World Cup force in 1994 - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5408_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT FIFA World Cup schedule: Times, dates and group stage matchups - NBC4 Washington",
+            "bullets": [
+              "USMNT FIFA World Cup schedule: Times, dates and group stage matchups&nbsp;&nbsp;NBC4 Washington",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT FIFA World Cup schedule: Times, dates and group stage matchups&nbsp;&nbsp;NBC4 Washington",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT FIFA World Cup schedule: Times, dates and group stage matchups&nbsp;&nbsp;NBC4 Washington\n\nFor the complete article, search for \"USMNT FIFA World Cup schedule: Times, dates and group stage matchups - NBC4 Washington\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5408_2",
+            "category": "usa",
+            "type": "News",
+            "title": "FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated",
+            "bullets": [
+              "FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup&nbsp;&nbsp;Sports Illustrated",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5408_3",
+            "category": "usa",
+            "type": "News",
+            "title": "Germany’s itinerary ahead of USMNT friendly - Yahoo Sports",
+            "bullets": [
+              "Germany’s itinerary ahead of USMNT friendly&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Germany’s itinerary ahead of USMNT friendly&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nGermany’s itinerary ahead of USMNT friendly&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Germany’s itinerary ahead of USMNT friendly - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5409_4",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT cheat sheet: Everything to know for 2026 FIFA World Cup - MLSsoccer.com",
+            "bullets": [
+              "USMNT cheat sheet: Everything to know for 2026 FIFA World Cup&nbsp;&nbsp;MLSsoccer.com",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT cheat sheet: Everything to know for 2026 FIFA World Cup&nbsp;&nbsp;MLSsoccer.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT cheat sheet: Everything to know for 2026 FIFA World Cup&nbsp;&nbsp;MLSsoccer.com\n\nFor the complete article, search for \"USMNT cheat sheet: Everything to know for 2026 FIFA World Cup - MLSsoccer.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5409_5",
+            "category": "usa",
+            "type": "News",
+            "title": "Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year - New York Post",
+            "bullets": [
+              "Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAntonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5409_6",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream - The New York Times",
+            "bullets": [
+              "USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream&nbsp;&nbsp;The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5410_7",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory - amNewYork",
+            "bullets": [
+              "World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory&nbsp;&nbsp;amNewYork",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWorld Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory&nbsp;&nbsp;amNewYork\n\nFor the complete article, search for \"World Cup 2026: Mauricio Pochettino wants USMNT to balance pragmatism with push for glory - amNewYork\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5410_8",
+            "category": "usa",
+            "type": "News",
+            "title": "U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup - Field Level Media",
+            "bullets": [
+              "U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup&nbsp;&nbsp;Field Level Media",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup&nbsp;&nbsp;Field Level Media",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nU.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup&nbsp;&nbsp;Field Level Media\n\nFor the complete article, search for \"U.S.’s Mauricio Pochettino, other coaches can use laptops in World Cup - Field Level Media\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5410_9",
+            "category": "usa",
+            "type": "News",
+            "title": "Inside of USMNT's thrilling victory over Senegal in Charlotte - Yahoo Sports",
+            "bullets": [
+              "Inside of USMNT's thrilling victory over Senegal in Charlotte&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Inside of USMNT's thrilling victory over Senegal in Charlotte&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nInside of USMNT's thrilling victory over Senegal in Charlotte&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Inside of USMNT's thrilling victory over Senegal in Charlotte - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5410_10",
+            "category": "usa",
+            "type": "News",
+            "title": "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
+            "bullets": [
+              "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5411_11",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup - MLS Multiplex",
+            "bullets": [
+              "USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup&nbsp;&nbsp;MLS Multiple...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup&nbsp;&nbsp;MLS Multiplex",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup&nbsp;&nbsp;MLS Multiplex\n\nFor the complete article, search for \"USMNT coach Mauricio Pochettino addresses AC Milan interest before World Cup - MLS Multiplex\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5411_12",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT’s Path to Glory or Disaster: World Cup Group D Preview - Yahoo Sports",
+            "bullets": [
+              "USMNT’s Path to Glory or Disaster: World Cup Group D Preview&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT’s Path to Glory or Disaster: World Cup Group D Preview&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT’s Path to Glory or Disaster: World Cup Group D Preview&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"USMNT’s Path to Glory or Disaster: World Cup Group D Preview - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5411_13",
+            "category": "usa",
+            "type": "News",
+            "title": "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports",
+            "bullets": [
+              "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nYou won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5412_14",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic ends scoring drought, USMNT beats Senegal in World Cup warmup | Soccer | Sports - Las Vegas Review-Journal",
+            "bullets": [
+              "Christian Pulisic ends scoring drought, USMNT beats Senegal in World Cup warmup | Soccer | Sports&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Pulisic ends scoring drought, USMNT beats Senegal in World Cup warmup | Soccer | Sports&nbsp;&nbsp;Las Vegas Review-Journal",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nChristian Pulisic ends scoring drought, USMNT beats Senegal in World Cup warmup | Soccer | Sports&nbsp;&nbsp;Las Vegas Review-Journal\n\nFor the complete article, search for \"Christian Pulisic ends scoring drought, USMNT beats Senegal in World Cup warmup | Soccer | Sports - Las Vegas Review-Journal\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5412_15",
+            "category": "usa",
+            "type": "News",
+            "title": "Eight Former College Players Make USMNT World Cup Roster - College Soccer News",
+            "bullets": [
+              "Eight Former College Players Make USMNT World Cup Roster&nbsp;&nbsp;College Soccer News",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Eight Former College Players Make USMNT World Cup Roster&nbsp;&nbsp;College Soccer News",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nEight Former College Players Make USMNT World Cup Roster&nbsp;&nbsp;College Soccer News\n\nFor the complete article, search for \"Eight Former College Players Make USMNT World Cup Roster - College Soccer News\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5412_16",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation - MLS Multiplex",
+            "bullets": [
+              "USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation&nbsp;&nbsp;MLS Multiplex",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation&nbsp;&nbsp;MLS Multiplex",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT legend Tim Howard raises concerns about USMNT goalkeeping situation&nbsp;&nbsp;MLS Multiplex\n\nFor the complete article, search for \"USMNT legend Tim Howard raises concerns about USMNT goalkeeping situation - MLS Multiplex\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5413_17",
+            "category": "usa",
+            "type": "News",
+            "title": "Barça set to let go of young USMNT prospect - Diario AS",
+            "bullets": [
+              "Barça set to let go of young USMNT prospect&nbsp;&nbsp;Diario AS",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barça set to let go of young USMNT prospect&nbsp;&nbsp;Diario AS",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nBarça set to let go of young USMNT prospect&nbsp;&nbsp;Diario AS\n\nFor the complete article, search for \"Barça set to let go of young USMNT prospect - Diario AS\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5413_18",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today",
+            "bullets": [
+              "Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup&nbsp;&nbsp;USA Today",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Ex-USMNT star Jozy Altidore isn't worried about team for World Cup&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"Why Ex-USMNT star Jozy Altidore isn't worried about team for World Cup - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5413_19",
+            "category": "usa",
+            "type": "News",
+            "title": "Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing - USA Today",
+            "bullets": [
+              "Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing&nbsp;&nbsp;USA...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing&nbsp;&nbsp;USA Today",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nLandon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing&nbsp;&nbsp;USA Today\n\nFor the complete article, search for \"Landon Donovan says USMNT can beat anybody at World Cup ... if they do this one thing - USA Today\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5414_20",
+            "category": "usa",
+            "type": "News",
+            "title": "Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense - KTVU",
+            "bullets": [
+              "Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense&nbsp;&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense&nbsp;&nbsp;KTVU",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFormer US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense&nbsp;&nbsp;KTVU\n\nFor the complete article, search for \"Former US World Cup soccer star Marcelo Balboa 'a little concerned' with USMNT's defense - KTVU\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5414_21",
+            "category": "usa",
+            "type": "News",
+            "title": "Pepi, Dest, Pulisic part of 2026 USMNT roster - Roanoke Times",
+            "bullets": [
+              "Pepi, Dest, Pulisic part of 2026 USMNT roster&nbsp;&nbsp;Roanoke Times",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pepi, Dest, Pulisic part of 2026 USMNT roster&nbsp;&nbsp;Roanoke Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nPepi, Dest, Pulisic part of 2026 USMNT roster&nbsp;&nbsp;Roanoke Times\n\nFor the complete article, search for \"Pepi, Dest, Pulisic part of 2026 USMNT roster - Roanoke Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5414_22",
+            "category": "usa",
+            "type": "News",
+            "title": "22 players in 90 minutes: The story behind the USMNT's heavy rotation in advance of the World Cup - Yardbarker",
+            "bullets": [
+              "22 players in 90 minutes: The story behind the USMNT's heavy rotation in advance of the World Cup&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "22 players in 90 minutes: The story behind the USMNT's heavy rotation in advance of the World Cup&nbsp;&nbsp;Yardbarker",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n22 players in 90 minutes: The story behind the USMNT's heavy rotation in advance of the World Cup&nbsp;&nbsp;Yardbarker\n\nFor the complete article, search for \"22 players in 90 minutes: The story behind the USMNT's heavy rotation in advance of the World Cup - Yardbarker\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4646_0",
+            "category": "usa",
+            "type": "News",
+            "title": "How the USMNT went from embarrassment in Italy to ...",
+            "bullets": [
+              "A World Cup on home soil looms. The last time America hosted, things were very different.",
+              "Reported live by ESPN FC.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A World Cup on home soil looms. The last time America hosted, things were very different.",
+            "fullText": "This article was sourced from ESPN FC. The full text could not be automatically retrieved from the original publication.\n\nA World Cup on home soil looms. The last time America hosted, things were very different.\n\nFor the complete article, search for \"How the USMNT went from embarrassment in Italy to ...\" on the ESPN FC website or check their latest USMNT coverage.",
+            "author": "ESPN FC Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4647_1",
+            "category": "usa",
+            "type": "News",
+            "title": "How the USMNT went from Italia 90 embarrassment to World Cup force in 1994 - ESPN",
+            "bullets": [
+              "How the USMNT went from Italia 90 embarrassment to World Cup force in 1994&nbsp;&nbsp;ESPN",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How the USMNT went from Italia 90 embarrassment to World Cup force in 1994&nbsp;&nbsp;ESPN",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow the USMNT went from Italia 90 embarrassment to World Cup force in 1994&nbsp;&nbsp;ESPN\n\nFor the complete article, search for \"How the USMNT went from Italia 90 embarrassment to World Cup force in 1994 - ESPN\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4648_2",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT official supporters irked at FIFA over scattered World Cup seating assignments - The New York Times",
+            "bullets": [
+              "USMNT official supporters irked at FIFA over scattered World Cup seating assignments&nbsp;&nbsp;The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT official supporters irked at FIFA over scattered World Cup seating assignments&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT official supporters irked at FIFA over scattered World Cup seating assignments&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT official supporters irked at FIFA over scattered World Cup seating assignments - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4650_3",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament - NJ.com",
+            "bullets": [
+              "USMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament&nbsp;&nbsp;NJ.com",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament&nbsp;&nbsp;NJ.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament&nbsp;&nbsp;NJ.com\n\nFor the complete article, search for \"USMNT World Cup Gear Guide: The best merch to rep during the 2026 tournament - NJ.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4650_4",
+            "category": "usa",
+            "type": "News",
+            "title": "What are USMNT’s chances at 2026 World Cup? History favors the host nation - NBC Sports",
+            "bullets": [
+              "What are USMNT’s chances at 2026 World Cup? History favors the host nation&nbsp;&nbsp;NBC Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What are USMNT’s chances at 2026 World Cup? History favors the host nation&nbsp;&nbsp;NBC Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhat are USMNT’s chances at 2026 World Cup? History favors the host nation&nbsp;&nbsp;NBC Sports\n\nFor the complete article, search for \"What are USMNT’s chances at 2026 World Cup? History favors the host nation - NBC Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4651_5",
+            "category": "usa",
+            "type": "News",
+            "title": "FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated",
+            "bullets": [
+              "FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup&nbsp;&nbsp;Sports Illustrated",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup&nbsp;&nbsp;Sports Illustrated",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup&nbsp;&nbsp;Sports Illustrated\n\nFor the complete article, search for \"FIFA Rules on USMNT’s Bizarre Water Break Strategy for 2026 World Cup - Sports Illustrated\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4652_6",
+            "category": "usa",
+            "type": "News",
+            "title": "Tyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game' - Yahoo Sports",
+            "bullets": [
+              "Tyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game'&nbsp;&nbsp;Yahoo Spo...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game'&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game'&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Tyler Adams on USMNT's 2026 FIFA World Cup mission 'to win' and 'grow the game' - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4654_7",
+            "category": "usa",
+            "type": "News",
+            "title": "Germany’s itinerary ahead of USMNT friendly - Yahoo Sports",
+            "bullets": [
+              "Germany’s itinerary ahead of USMNT friendly&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Germany’s itinerary ahead of USMNT friendly&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nGermany’s itinerary ahead of USMNT friendly&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Germany’s itinerary ahead of USMNT friendly - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4655_8",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach - World Soccer Talk",
+            "bullets": [
+              "Mauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach&nb...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach&nbsp;&nbsp;World Soccer Talk",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nMauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach&nbsp;&nbsp;World Soccer Talk\n\nFor the complete article, search for \"Mauricio Pochettino may leave USMNT as AC Milan reportedly agree to €5M deal with Argentine coach - World Soccer Talk\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4656_9",
+            "category": "usa",
+            "type": "News",
+            "title": "Rob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hurrah’ - Awful Announcing",
+            "bullets": [
+              "Rob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hur...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Rob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hurrah’&nbsp;&nbsp;Awful Announcing",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nRob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hurrah’&nbsp;&nbsp;Awful Announcing\n\nFor the complete article, search for \"Rob Stone talks FIFA World Cup coverage, USMNT’s potential ‘crash out’, and Fox’s possible ‘last hurrah’ - Awful Announcing\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4657_10",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage - The New York Times",
+            "bullets": [
+              "USMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage&nbsp;&nbsp;The New...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT welcomes a rarity in time for World Cup: An impactful home-crowd advantage - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4658_11",
+            "category": "usa",
+            "type": "News",
+            "title": "Why Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learning curve - CBS Sports",
+            "bullets": [
+              "Why Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learni...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learning curve&nbsp;&nbsp;CBS Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhy Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learning curve&nbsp;&nbsp;CBS Sports\n\nFor the complete article, search for \"Why Mauricio Pochettino’s fluid tactics are unlocking a dangerous USMNT attack after a brutal learning curve - CBS Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4659_12",
+            "category": "usa",
+            "type": "News",
+            "title": "26 USMNT Moments, Past to Present: Against the Odds - U.S. Soccer",
+            "bullets": [
+              "26 USMNT Moments, Past to Present: Against the Odds&nbsp;&nbsp;U.S. Soccer",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "26 USMNT Moments, Past to Present: Against the Odds&nbsp;&nbsp;U.S. Soccer",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n26 USMNT Moments, Past to Present: Against the Odds&nbsp;&nbsp;U.S. Soccer\n\nFor the complete article, search for \"26 USMNT Moments, Past to Present: Against the Odds - U.S. Soccer\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4701_13",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables - Diario AS",
+            "bullets": [
+              "USMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables&nbsp;&nbsp;Diario AS",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables&nbsp;&nbsp;Diario AS\n\nFor the complete article, search for \"USMNT legend Brad Friedel says Pulisic and these other four are Pochettino’s untouchables - Diario AS\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4702_14",
+            "category": "usa",
+            "type": "News",
+            "title": "What Bayern Munich's interest says about USMNT star Sergiño Dest's comeback - MLS Multiplex",
+            "bullets": [
+              "What Bayern Munich's interest says about USMNT star Sergiño Dest's comeback&nbsp;&nbsp;MLS Multiplex",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What Bayern Munich's interest says about USMNT star Sergiño Dest's comeback&nbsp;&nbsp;MLS Multiplex",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhat Bayern Munich's interest says about USMNT star Sergiño Dest's comeback&nbsp;&nbsp;MLS Multiplex\n\nFor the complete article, search for \"What Bayern Munich's interest says about USMNT star Sergiño Dest's comeback - MLS Multiplex\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4703_15",
+            "category": "usa",
+            "type": "News",
+            "title": "What USMNT legend Alexi Lalas got right about the US team before the World Cup - MLS Multiplex",
+            "bullets": [
+              "What USMNT legend Alexi Lalas got right about the US team before the World Cup&nbsp;&nbsp;MLS Multip...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What USMNT legend Alexi Lalas got right about the US team before the World Cup&nbsp;&nbsp;MLS Multiplex",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nWhat USMNT legend Alexi Lalas got right about the US team before the World Cup&nbsp;&nbsp;MLS Multiplex\n\nFor the complete article, search for \"What USMNT legend Alexi Lalas got right about the US team before the World Cup - MLS Multiplex\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4705_16",
+            "category": "usa",
+            "type": "News",
+            "title": "Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year - New York Post",
+            "bullets": [
+              "Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year&nbsp;&nbsp;New York Post",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nAntonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year&nbsp;&nbsp;New York Post\n\nFor the complete article, search for \"Antonee Robinson says it was ‘massive relief’ to make USMNT roster after up and down year - New York Post\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4706_17",
+            "category": "usa",
+            "type": "News",
+            "title": "Four names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down ‘poster boy’ expectations around ‘Captain America’ - Goal.com",
+            "bullets": [
+              "Four names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Four names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down ‘poster boy’ expectations around ‘Captain America’&nbsp;&nbsp;Goal.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nFour names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down ‘poster boy’ expectations around ‘Captain America’&nbsp;&nbsp;Goal.com\n\nFor the complete article, search for \"Four names placed alongside Christian Pulisic in USMNT ‘undroppable’ pool as Brad Friedel plays down ‘poster boy’ expectations around ‘Captain America’ - Goal.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4706_18",
+            "category": "usa",
+            "type": "News",
+            "title": "Inside of USMNT's thrilling victory over Senegal in Charlotte - Yahoo Sports",
+            "bullets": [
+              "Inside of USMNT's thrilling victory over Senegal in Charlotte&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Inside of USMNT's thrilling victory over Senegal in Charlotte&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nInside of USMNT's thrilling victory over Senegal in Charlotte&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"Inside of USMNT's thrilling victory over Senegal in Charlotte - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4707_19",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream - The New York Times",
+            "bullets": [
+              "USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream&nbsp;&nbsp;The...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream&nbsp;&nbsp;The New York Times",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream&nbsp;&nbsp;The New York Times\n\nFor the complete article, search for \"USMNT’s self-proclaimed ‘goofy guy’ has earned the chance to live his World Cup dream - The New York Times\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4708_20",
+            "category": "usa",
+            "type": "News",
+            "title": "'See what the world has to offer': USMNT veterans share World Cup reflections, advice - Yardbarker",
+            "bullets": [
+              "'See what the world has to offer': USMNT veterans share World Cup reflections, advice&nbsp;&nbsp;Yar...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "'See what the world has to offer': USMNT veterans share World Cup reflections, advice&nbsp;&nbsp;Yardbarker",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\n'See what the world has to offer': USMNT veterans share World Cup reflections, advice&nbsp;&nbsp;Yardbarker\n\nFor the complete article, search for \"'See what the world has to offer': USMNT veterans share World Cup reflections, advice - Yardbarker\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4710_21",
+            "category": "usa",
+            "type": "News",
+            "title": "The Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events - OneFootball",
+            "bullets": [
+              "The Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events&nbsp;&nbsp;OneFootball",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events&nbsp;&nbsp;OneFootball",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nThe Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events&nbsp;&nbsp;OneFootball\n\nFor the complete article, search for \"The Urban Pitch Podcast: USMNT Roster Takes and Upcoming Hype Events - OneFootball\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4711_22",
+            "category": "usa",
+            "type": "News",
+            "title": "Tyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind - AOL.com",
+            "bullets": [
+              "Tyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind&nbsp;&nbsp...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind&nbsp;&nbsp;AOL.com",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nTyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind&nbsp;&nbsp;AOL.com\n\nFor the complete article, search for \"Tyler Adams on USMNT World Cup 'responsibility', Mauricio Pochettino and one goal in mind - AOL.com\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4712_23",
+            "category": "usa",
+            "type": "News",
+            "title": "Clint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit of everyth - Diario AS",
+            "bullets": [
+              "Clint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Clint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit of everyth&nbsp;&nbsp;Diario AS",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nClint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit of everyth&nbsp;&nbsp;Diario AS\n\nFor the complete article, search for \"Clint Dempsey shares who he thinks should be the starting USMNT striker: “He gives you a little bit of everyth - Diario AS\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4713_24",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT’s Path to Glory or Disaster: World Cup Group D Preview - Yahoo Sports",
+            "bullets": [
+              "USMNT’s Path to Glory or Disaster: World Cup Group D Preview&nbsp;&nbsp;Yahoo Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USMNT’s Path to Glory or Disaster: World Cup Group D Preview&nbsp;&nbsp;Yahoo Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nUSMNT’s Path to Glory or Disaster: World Cup Group D Preview&nbsp;&nbsp;Yahoo Sports\n\nFor the complete article, search for \"USMNT’s Path to Glory or Disaster: World Cup Group D Preview - Yahoo Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4714_25",
+            "category": "usa",
+            "type": "News",
+            "title": "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports",
+            "bullets": [
+              "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nHow far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"How far can this year's USMNT squad go in the FIFA World Cup? 🤔🇺🇸⚽️🏆 - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4715_26",
+            "category": "usa",
+            "type": "News",
+            "title": "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports",
+            "bullets": [
+              "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;...",
+              "Reported live by Google News USMNT.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;&nbsp;FOX Sports",
+            "fullText": "This article was sourced from Google News USMNT. The full text could not be automatically retrieved from the original publication.\n\nYou won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match&nbsp;&nbsp;FOX Sports\n\nFor the complete article, search for \"You won't believe what happened the night before the USMNT's 1994 FIFA World Cup opening match - FOX Sports\" on the Google News USMNT website or check their latest USMNT coverage.",
+            "author": "Google News USMNT Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-01 @ 15:23:45 EDT",
+  "lastUpdated": "2026-06-03 @ 13:47:15 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
@@ -2964,6 +5512,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇺🇸",
       "text": "Ready to make history this summer. Let's go!",
       "time": "08:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Just saw the training kit. Actually looks fire this year.",
+      "time": "13:47",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "13:48",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "13:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "13:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "13:51",
       "isCaptain": false
     }
   ]
