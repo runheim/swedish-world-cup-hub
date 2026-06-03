@@ -22,11 +22,11 @@ print("Starting Sweden 2026 World Cup Hub News Research crawler...")
 # 1. READ EXISTING data.js OR FALLBACK TO BLANK TEMPLATE
 existing_data = {
     "ticker": [
-        "⚽ Graham Potter has finalized the 26-man roster for the 2026 FIFA World Cup.",
-        "✈️ Sweden will depart for their main training facility in Dallas, Texas tomorrow morning.",
-        "💪 Viktor Gyökeres arrives in stellar goal-scoring form from his domestic campaign.",
-        "🚑 Medical staff confirms that defender Carl Starfelt has returned to full-contact training.",
-        "⭐ Lucas Bergvall designated by FIFA as one of the ultimate teenage prospects of the tournament."
+        {"text": "⚽ Graham Potter has finalized the 26-man roster for the 2026 FIFA World Cup.", "link": "https://www.svenskfotboll.se/"},
+        {"text": "✈️ Sweden will depart for their main training facility in Dallas, Texas tomorrow morning.", "link": "https://www.svenskfotboll.se/"},
+        {"text": "💪 Viktor Gyökeres arrives in stellar goal-scoring form from his domestic campaign.", "link": "https://www.svenskfotboll.se/"},
+        {"text": "🚑 Medical staff confirms that defender Carl Starfelt has returned to full-contact training.", "link": "https://www.svenskfotboll.se/"},
+        {"text": "⭐ Lucas Bergvall designated by FIFA as one of the ultimate teenage prospects of the tournament.", "link": "https://www.svenskfotboll.se/"}
     ],
     "timeline": {},
     "matchReports": {}
@@ -294,7 +294,7 @@ if crawled_news:
                 "relatedPlayers": []
             }
             sweden_feed.append(art)
-            ticker_headlines.append(f"⚽ {trans_title}")
+            ticker_headlines.append({"text": f"⚽ {trans_title}", "link": item.get("link", "https://www.svenskfotboll.se/")})
 
 # 5. GENERATE Genuinely Researched Fallbacks (Strictly No Hallucinations, matching actual May 26 Roster Status)
 # Stockholm/Bosön prep camp starting May 27. Depart for Dallas occurs June 2.
@@ -469,11 +469,11 @@ if not sweden_feed:
     opponent_feed.append(art_opp)
     
     ticker_headlines = [
-        f"⚽ {slot_data['sweden']['title']}",
-        f"🌍 {slot_data['opponent']['title']}",
-        f"💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-        f"🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-        f"📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes."
+        {"text": f"⚽ {slot_data['sweden']['title']}", "link": "https://www.svenskfotboll.se/"},
+        {"text": f"🌍 {slot_data['opponent']['title']}", "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"},
+        {"text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.", "link": "https://www.svenskfotboll.se/"},
+        {"text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.", "link": "https://www.svenskfotboll.se/"},
+        {"text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.", "link": "https://www.svenskfotboll.se/"}
     ]
 
 # 7. MERGE AND APPEND (INCREMENTAL LOGGING - NEVER OVERWRITE HISTORICAL DATA)

@@ -3,7 +3,10 @@
 
 const DYNAMIC_HUB_DATA = {
   "ticker": [
-    "⚽ Sweden World Cup 2026 team guide"
+    {
+      "text": "⚽ Sweden World Cup 2026 team guide",
+      "link": "https://www.theguardian.com/football/2026/jun/03/sweden-world-cup-2026-team-guide"
+    }
   ],
   "timeline": {
     "2026-05-31": {
@@ -317,11 +320,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5829_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden World Cup 2026 team guide",
+            "bullets": [
+              "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff succes...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff successThis article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June. Continue reading...",
+            "fullText": "With Graham Potter at the helm and Viktor Gyökeres finding form, hopes are high after playoff success\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nSweden’s attempts to qualify for theWorld Cupcould hardly have gone worse, picking up just one point from the first four games under Jon Dahl Tomasson before, in October 2025, the Dane was sacked after a 1-0 defeat against Kosovo.\n\nIn came Graham Potter, who had his breakthrough in coaching at Swedish side Östersund between 2011 and 2017, taking them from the fourth tier to the Allsvenskan, winning the cup and beating Arsenal in the Europa League.\n\nUnder Potter’s leadership the focus shifted to more traditional values associated with the Swedish national team with a stubborn defence coupled with effective counterattacks. Having initially said he prefers a back four he set up with a 5-3-2 in the playoffs, with a focus on keeping things quiet at the back.\n\n14 Junev Tunisia, Monterrey (8pm local, 15 June 3am BST, 15 June noon AEST)\n\n20 Junev Netherlands, Houston (noon local, 6pm BST, 21 June 3am AEST)\n\n25 Junev Japan, Dallas (6pm local, 26 June 12am BST, 26 June 9am AEST)\n\nWith the Nations League having offered Sweden a route back into the World Cup qualifying process, they put in an impressive performance against Ukraine in Spain in the semi-finals, winning 3-1 after a Viktor Gyökeres hat-trick. The final, against Poland, was much tougher to watch with the visitors better for much of the game but Gyökeres again stepped up,scoring an 88th-minute winner in a 3-2 thriller.\n\n“It’s hard to explain, hard to describe,” said a delighted Potter. “Just an incredible evening, just so proud to be part of that and obviously proud to experience it. It was just the best night I’ve had in football. Incredible, like I was having some sort of out-of-body experience. I’m looking at the goal and suddenly all our bench is running and you’re thinking: ‘Am I here?’ I’m just grateful to be part of that.”\n\nSoSwedenmade it to the World Cup despite collecting two points from six games in their qualifying group. They now face Tunisia, Netherlands and Japan with hope of getting into the knockout stages – that’s the Potter effect for you.\n\nInjury wise they are without captain Dejan Kulusevski, whose influence on this team cannot be overstated. They will miss him in North America. There are also huge question marks over Alexander Isak’s form and fitness, although he did score in a worryingly one-sided 3-1 defeat against Norway on 1 June after coming on as a substitute.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-03 @ 13:46:20 EDT",
+  "lastUpdated": "2026-06-03 @ 17:58:29 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",

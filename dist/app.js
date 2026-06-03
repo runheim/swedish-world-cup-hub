@@ -1522,7 +1522,12 @@ function initApp() {
     }
     // Duplicate for seamless marquee looping starting at 0%
     tickerItems = [...tickerItems, ...tickerItems];
-    tickerSlider.innerHTML = tickerItems.map(item => `<span>${item}</span>`).join("");
+    tickerSlider.innerHTML = tickerItems.map(item => {
+      const isObj = typeof item === 'object' && item !== null;
+      const text = isObj ? item.text : item;
+      const link = isObj ? item.link : "https://www.svenskfotboll.se/";
+      return `<a href="${link}" target="_blank"><span>${text}</span></a>`;
+    }).join("");
   }
 
   audioPlayer = new Audio();
