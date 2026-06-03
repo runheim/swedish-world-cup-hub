@@ -254,10 +254,8 @@ if crawled_news:
                     print(f"Failed to fetch full text for {item['link']}: {text_e}")
 
             if not full_text:
-                clean_desc = re.sub(r'\s{2,}.*$', '', item['desc']).strip()
-                source_name = item['source']
-                title_text = item['title']
-                full_text = f"This article was sourced from {source_name}. The full text could not be automatically retrieved from the original publication.\n\n{clean_desc}\n\nFor the complete article, search for \"{title_text}\" on the {source_name} website or check their latest Swedish football coverage."
+                print(f"Skipping article '{item['title']}' because full text could not be retrieved.")
+                continue
 
             # Auto-translate relevant items and full text
             try:
