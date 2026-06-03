@@ -252,12 +252,8 @@ if crawled_news:
                     print(f"Failed to fetch full text for {item['link']}: {text_e}")
 
             if not full_text:
-                # Clean the desc of any source attribution suffix
-                clean_desc = re.sub(r'\s{2,}.*$', '', item['desc']).strip()
-                # Generate a meaningful placeholder instead of repeating the headline
-                source_name = item['source']
-                title_text = item['title']
-                full_text = f"This article was sourced from {source_name}. The full text could not be automatically retrieved from the original publication.\n\n{clean_desc}\n\nFor the complete article, search for \"{title_text}\" on the {source_name} website or check their latest USMNT coverage."
+                print(f"Skipping article '{item['title']}' because full text could not be retrieved.")
+                continue
 
             # Format as timeline article
             art = {
