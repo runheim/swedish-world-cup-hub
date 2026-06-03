@@ -26,14 +26,15 @@
   --text-dark: #0F172A;
   
   --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
   
   /* Glassmorphism 2.0 */
   --glass-bg: rgba(255, 255, 255, 0.7);
   --glass-border: rgba(225, 29, 72, 0.15);
   --glass-border-blue: rgba(15, 23, 42, 0.08);
-  --shadow-neon: 0 10px 40px -10px rgba(15, 23, 42, 0.08), 0 1px 3px rgba(0,0,0,0.02);
-  --shadow-neon-blue: 0 10px 40px -10px rgba(15, 23, 42, 0.08), 0 1px 3px rgba(0,0,0,0.02);
-  --shadow-hover: 0 20px 40px -10px rgba(15, 23, 42, 0.12), 0 1px 3px rgba(0,0,0,0.04);
+  --shadow-neon: 0 10px 40px -10px rgba(15, 23, 42, 0.05), inset 0 1px 0 0 rgba(255, 255, 255, 0.6);
+  --shadow-neon-blue: 0 10px 40px -10px rgba(15, 23, 42, 0.05), inset 0 1px 0 0 rgba(255, 255, 255, 0.6);
+  --shadow-hover: 0 20px 40px -10px rgba(15, 23, 42, 0.12), inset 0 1px 0 0 rgba(255, 255, 255, 0.8), 0 0 20px rgba(225, 29, 72, 0.12);
   --glass-blur: blur(24px) saturate(150%);
   
   --transition-smooth: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
@@ -69,9 +70,9 @@
   --glass-border: rgba(225, 29, 72, 0.25);
   --glass-border-blue: rgba(255, 255, 255, 0.05);
   
-  --shadow-neon: 0 10px 40px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255,255,255,0.05);
-  --shadow-neon-blue: 0 10px 40px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 rgba(255,255,255,0.05);
-  --shadow-hover: 0 20px 40px -10px rgba(0, 0, 0, 0.7), inset 0 1px 0 rgba(255,255,255,0.1), 0 0 20px rgba(225, 29, 72, 0.15);
+  --shadow-neon: 0 10px 40px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 0 rgba(255, 255, 255, 0.08);
+  --shadow-neon-blue: 0 10px 40px -10px rgba(0, 0, 0, 0.5), inset 0 1px 0 0 rgba(255, 255, 255, 0.08);
+  --shadow-hover: 0 20px 40px -10px rgba(0, 0, 0, 0.7), inset 0 1px 0 0 rgba(255, 255, 255, 0.15), 0 0 20px rgba(225, 29, 72, 0.2);
   
   --bg-gradient-radial-1: rgba(59, 130, 246, 0.08);
   --bg-gradient-radial-2: rgba(225, 29, 72, 0.08);
@@ -128,7 +129,20 @@ body {
 }
 
 /* Elegant Typography */
-h1, h2, h3, h4, h5 {
+h1, h2, h3, h4, h5, h6,
+.panel-title,
+.hub-link,
+.ticker-label,
+.countdown-timer,
+.countdown-label,
+.news-tab-btn,
+.player-name,
+.jersey-node,
+.time-box,
+.chat-sender-name,
+.scout-compare-btn,
+.sim-control-btn {
+  font-family: var(--font-display);
   font-weight: 700;
   letter-spacing: -0.02em;
 }
