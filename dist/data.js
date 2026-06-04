@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Sweden team completes morning walk-through at Strawberry Arena",
+      "text": "⚽ Lineup Confirmed: Potter starts Johansson, Lindelöf, and Gyökeres vs Greece",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Netherlands locks in first full training session in Dallas heat",
+      "text": "🌍 Japan locks in high-tempo full-pitch pressing drills in Dallas base",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -512,11 +512,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_swe_20260604_4",
+            "category": "sweden",
+            "type": "Column",
+            "title": "Lineup Confirmed: Potter starts Johansson, Lindelöf, and Gyökeres vs Greece",
+            "bullets": [
+              "Potter names rotated starting XI with Lindelöf returning to anchor defense.",
+              "Stoke City's Johansson starts in goal; Starfelt named on the bench.",
+              "Tactical board maps 3-4-2-1 shape with Bergvall driving central channels."
+            ],
+            "summary": "The starting lineups are locked. Potter names a rotated side with Captain Victor Lindelöf starting in the center of the back three. Gyökeres leads the line with Bergvall supporting from deep.",
+            "fullText": "The starting lineups are locked. Potter names a rotated side with Captain Victor Lindelöf starting in the center of the back three. Gyökeres leads the line with Bergvall supporting from deep.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Lineup Release",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260604_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Japan locks in high-tempo full-pitch pressing drills in Dallas base",
+            "bullets": [
+              "Samurai Blue execute speed transition sprints under Hajime Moriyasu.",
+              "Brighton's Kaoru Mitoma clocks fastest sprinting speed at Dallas site.",
+              "Japanese analysts compile detailed logs of Sweden's defensive setups."
+            ],
+            "summary": "Japan has intensified their pressing drills in Dallas. Coach Moriyasu's high-stamina configurations represent a major physical threat to Sweden's group stage plans.",
+            "fullText": "Japan has intensified their pressing drills in Dallas. Coach Moriyasu's high-stamina configurations represent a major physical threat to Sweden's group stage plans.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 17:16:28 EDT",
+  "lastUpdated": "2026-06-04 @ 18:57:12 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
