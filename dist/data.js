@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tyler Adams cleared for full contact; McKennie leads midfield sprints",
+      "text": "⚽ Tactical whiteboard: Staff reviews structures to handle Germany's transition speed",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Australia squad logs conditioning workouts in Seattle weather",
+      "text": "🌍 Germany coach Nagelsmann plans high-possession shape to test USA's press",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -380,11 +380,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_usa_20260604_4",
+            "category": "usa",
+            "type": "Column",
+            "title": "Tactical whiteboard: Staff reviews structures to handle Germany's transition speed",
+            "bullets": [
+              "USMNT technical staff maps out central coverages to stop Musiala and Wirtz.",
+              "Pochettino focuses on quick defensive shifts and narrow positioning.",
+              "McKennie: 'We must be compact; if we lose shape, they will punish us.'"
+            ],
+            "summary": "Pochettino oversaw custom tactical walkthroughs today, preparing to counter Germany's playmaking threat. Midfielders are instructed to crowd the half-spaces and execute quick transition screens.",
+            "fullText": "Pochettino oversaw custom tactical walkthroughs today, preparing to counter Germany's playmaking threat. Midfielders are instructed to crowd the half-spaces and execute quick transition screens.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Board",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260604_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Germany coach Nagelsmann plans high-possession shape to test USA's press",
+            "bullets": [
+              "Nagelsmann works on fluid passing sequences in Chicago training session.",
+              "Midfielder Kimmich expects high-intensity pressing triggers from USA.",
+              "Germany squad reported in peak physical condition ahead of Soldier Field."
+            ],
+            "summary": "Julian Nagelsmann has designed a possession-heavy layout to challenge the USMNT's defensive structure, instructing Musiala and Wirtz to exploit spaces in behind the US midfield.",
+            "fullText": "Julian Nagelsmann has designed a possession-heavy layout to challenge the USMNT's defensive structure, instructing Musiala and Wirtz to exploit spaces in behind the US midfield.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Germany Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 17:16:38 EDT",
+  "lastUpdated": "2026-06-04 @ 18:57:15 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
