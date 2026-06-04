@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Belgium World Cup 2026 team guide",
+      "link": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide"
+    },
+    {
       "text": "⚽ Why we could see less of Kane for England at the 2026 World Cup...",
       "link": "https://www.skysports.com/football/news/12040/13550591/world-cup-2026-why-harry-kane-could-play-less-minutes-for-england-in-the-usa-canada-and-mexico-this-summer"
     }
@@ -696,7 +700,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-03 @ 18:09:31 EDT",
+  "lastUpdated": "2026-06-03 @ 20:22:20 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
