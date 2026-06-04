@@ -1593,12 +1593,37 @@ function updateNewsDashboard() {
             <span class="update-time"><i class="far fa-clock"></i> ${update.timeLabel}</span>
             <span class="update-title">${update.name}</span>
           </div>
-          <a href="#" class="headline-link" style="pointer-events: none;" data-article-id="${article.id}">${article.title}</a>
+          <ul class="headline-bullets-list" id="bullets-list-${dateStr.replace(/-/g, '')}-${updateId}"></ul>
         `;
-        bulletsList.appendChild(li);
-      });
-    }
-  });
+
+        updatesSubContainer.appendChild(updateSection);
+
+        const bulletsList = updateSection.querySelector(`#bullets-list-${dateStr.replace(/-/g, '')}-${updateId}`);
+        filteredArticles.forEach(article => {
+          const li = document.createElement("li");
+          li.className = "headline-bullet-item";
+          li.style.cursor = "pointer";
+          li.setAttribute("data-article-id", article.id);
+
+          const stamp = generateTimelineTimestamp(dateStr, update.timeLabel);
+
+          let typeClass = "type-news";
+          if (article.type === "Blog") typeClass = "type-blog";
+          else if (article.type === "Analysis") typeClass = "type-analysis";
+          else if (article.type === "Column") typeClass = "type-column";
+          else if (article.type === "Scouting") typeClass = "type-scout";
+
+          li.innerHTML = `
+            <div class="headline-meta-row">
+              <span class="bullet-tag ${typeClass}">${article.type}</span>
+              <span class="bullet-timestamp"><i class="far fa-calendar-alt"></i> ${stamp}</span>
+            </div>
+            <a href="#" class="headline-link" style="pointer-events: none;" data-article-id="${article.id}">${article.title}</a>
+          `;
+          bulletsList.appendChild(li);
+        });
+      }
+    });
 
   if (totalArticlesRendered === 0) {
     container.innerHTML = `
@@ -1617,6 +1642,7 @@ function updateNewsDashboard() {
   });
 
   updateNewsTimelineStylesFix();
+  }, 220);
 }
 
 function updateNewsTimelineStylesFix() {
