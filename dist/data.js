@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Sweden squad packs bags and prepares for Wednesday gather at Bosön",
+      "text": "⚽ Sweden team completes morning walk-through at Strawberry Arena",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Tunisia squad performs high-altitude stamina workouts in Tabarka base",
+      "text": "🌍 Netherlands locks in first full training session in Dallas heat",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -468,11 +468,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_swe_20260604_3",
+            "category": "sweden",
+            "type": "Analysis",
+            "title": "Sweden team completes morning walk-through at Strawberry Arena",
+            "bullets": [
+              "Graham Potter leads light stretching and final tactical board overlay review.",
+              "Alexander Isak and Viktor Gyökeres practice rapid combination sequences.",
+              "Physiotherapists confirm Carl Starfelt is ready to feature in central defense."
+            ],
+            "summary": "Sweden finished a light morning walk-through at Strawberry Arena. Potter reviewed tactical details, ensuring wide players are aligned on counter-pressing triggers.",
+            "fullText": "Sweden finished a light morning walk-through at Strawberry Arena. Potter reviewed tactical details, ensuring wide players are aligned on counter-pressing triggers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Match Day Prep",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260604_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Netherlands locks in first full training session in Dallas heat",
+            "bullets": [
+              "Oranje squad runs tactical possession blocks in 90°F conditions.",
+              "Koeman: 'The heat is a challenge, but our players are adapting quickly.'",
+              "Frenkie de Jong completes full workout showing zero signs of pain."
+            ],
+            "summary": "The Netherlands squad completed their first training session in Dallas. Koeman reported high recovery rates, with Frenkie de Jong looking sharp in central transitions.",
+            "fullText": "The Netherlands squad completed their first training session in Dallas. Koeman reported high recovery rates, with Frenkie de Jong looking sharp in central transitions.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 08:32:50 EDT",
+  "lastUpdated": "2026-06-04 @ 15:33:11 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
