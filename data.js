@@ -4,20 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Wembley defeat, another manager sacked - what's going on at Salford City?",
-      "link": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Like father like son - international goals run in the family",
       "link": "https://www.bbc.com/sport/football/articles/cwy20rjkn3ko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
-      "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere"
+      "text": "⚽ Wembley defeat, another manager sacked - what's going on at Salford City?",
+      "link": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Belgium World Cup 2026 team guide",
       "link": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide"
+    },
+    {
+      "text": "⚽ Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
+      "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere"
     }
   ],
   "timeline": {
@@ -864,7 +864,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 14:37:42 EDT",
+  "lastUpdated": "2026-06-04 @ 17:16:35 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
