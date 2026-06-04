@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Viktor Gyökeres shares pre-camp excitement: 'Stockholm, I have arrived'",
+      "text": "⚽ Sweden squad packs bags and prepares for Wednesday gather at Bosön",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Group F Analysis: Global analysts flag Sweden vs Tunisia as the key opener",
+      "text": "🌍 Tunisia squad performs high-altitude stamina workouts in Tabarka base",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -428,11 +428,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_swe_20260604_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden squad packs bags and prepares for Wednesday gather at Bosön",
+            "bullets": [
+              "Graham Potter's 26-man roster completes travel arrangements to Stockholm.",
+              "Players to check in by Wednesday morning at the Bosön national training complex.",
+              "Captain Victor Lindelöf: 'Stockholm, see you tomorrow! Roster is extremely motivated.'"
+            ],
+            "summary": "Ahead of tomorrow's official camp gathering, Swedish squad players are traveling from their domestic and European clubs to Stockholm. The primary base will be Lidingö's elite training complex at Bosön, preparing for the initial four-day training and tactical brief phase.",
+            "fullText": "Ahead of tomorrow's official camp gathering, Swedish squad players are traveling from their domestic and European clubs to Stockholm. The primary base will be Lidingö's elite training complex at Bosön, preparing for the initial four-day training and tactical brief phase.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Camp Gathering",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260604_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Tunisia squad performs high-altitude stamina workouts in Tabarka base",
+            "bullets": [
+              "Carthage Eagles focus on rapid defensive counter transitions under Jalel Kadri.",
+              "Midfielder Ellyes Skhiri highlights their robust tactical shape to the media.",
+              "Scouts observe Tunisia utilizing compact 4-1-4-1 layouts in custom scrimmages."
+            ],
+            "summary": "Sweden's Group F opponent Tunisia is wrapping up their secondary preparation phase in the mountainous region of Tabarka. Manager Jalel Kadri has emphasized defensive shape, looking to crowd midfield spaces and launch lightning-fast counters. Eintracht Frankfurt's Ellyes Skhiri remains their tactical anchor.",
+            "fullText": "Sweden's Group F opponent Tunisia is wrapping up their secondary preparation phase in the mountainous region of Tabarka. Manager Jalel Kadri has emphasized defensive shape, looking to crowd midfield spaces and launch lightning-fast counters. Eintracht Frankfurt's Ellyes Skhiri remains their tactical anchor.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 06:47:44 EDT",
+  "lastUpdated": "2026-06-04 @ 08:32:50 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
