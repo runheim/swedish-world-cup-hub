@@ -4,6 +4,14 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Wembley defeat, another manager sacked - what's going on at Salford City?",
+      "link": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
+      "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere"
+    },
+    {
       "text": "⚽ Belgium World Cup 2026 team guide",
       "link": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide"
     }
@@ -717,11 +725,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3248_0",
+            "category": "england",
+            "type": "News",
+            "title": "Wembley defeat, another manager sacked - what's going on at Salford City?",
+            "bullets": [
+              "Famous owners but stuck in League Two with another manager sacked - what's happening at Salford City...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Famous owners but stuck in League Two with another manager sacked - what's happening at Salford City?",
+            "fullText": "Salford co-owner David Beckham (left) and football director Paul Scholes sat either side of chief executive Gavin Fleig at Wembley for the play-off defeat by Notts County\n\nPaul Scholes was as stony faced walking through the mixed zone at Wembley as he had been sitting close to former Manchester United team-mate David Beckham in the Royal Box as Salford City's 3-0 play-off final defeat by Notts County unfolded.\n\nScholes had just been into the losing dressing room to offer what condolences he could after such ashattering loss.\n\n'Time for a word, Paul?' Scholes was asked as he walked past reporters on his way out. The former England midfielder turned, scoffed and continued on his way.\n\n\"We were beaten in every area of the pitch,\" said manager Karl Robinson when he stood in roughly the same place a few minutes later.\n\n\"I apologise to the supporters that we couldn't give them what they wanted.\"\n\nSalford's defeat triggered the expected sarcasm on social media around co-owner Gary Neville offering blunt opinions on Sky Sports about how other clubs should be run, while failing at his own.\n\nFormer joint manager Anthony Johnson was among those to offer his view.\n\nJohnson - together with Bernard Morley - led Salford to promotion three times. They starred in the popular Out of their League series on the BBC, which charted the early years of the new ownership, beforebeing releasedfollowing promotion to the National League in 2018.\n\n\"We left Salford City eight years ago after winning three promotions,\" he wrote on X. \"Since then they've won one promotion, and that was the season after we'd left with the majority of the squad we put together. I do sometimes wonderâ¦\"\n\nNine days later,Robinson was sacked.In an eight-line statement, Salford said the decision had \"not been easy\" but had been reached \"unanimously\".\n\nContrary to widespread opinion, Robinson's sacking was not instigated by Neville. Scholes - as chief football adviser - and chief executive Gavin Fleig offer guidance on football decisions of this magnitude. Those opinions are put to the executive team and signed off by the wider ownership, of which Neville is just one part.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3249_1",
+            "category": "england",
+            "type": "News",
+            "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
+            "bullets": [
+              "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel fre...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell backWhat the world needs now is one last hot take on Arsenal and the Champions League final before we are all brought together in beautiful symbiotic harmony by the World Cup.Key questions such as: was it a good game? Was this the perfect way to take on the best midfield and attack in world football or the ultimate illustration of footballing cowardice? Why didn’t all the people in the UK want Arsenal to win? Why did some Arsenal fans find that annoying? Could it possibly be that people are different and want different things from football matches they consume in very different ways? Continue reading...",
+            "fullText": "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell back\n\nWhat the world needs now is one last hot take onArsenal and the Champions League finalbefore we are all brought together in beautiful symbiotic harmony by the World Cup.\n\nKey questions such as: was it a good game? Was this the perfect way to take on the best midfield and attack in world football or the ultimate illustration of footballing cowardice? Why didn’t all the people in the UK wantArsenalto win? Why did some Arsenal fans find that annoying? Could it possibly be that people are different and want different things from football matches they consume in very different ways?\n\nThe big question is about Arsenal’s approach to the final. I am not totally comfortable saying the words “game state” out loud, but it is clearMikel Artetahad a decision to make once Arsenal went 1-0 up after six minutes. A decision, we presume, he had made a long time before Kai Havertz roofed it over Matvey Safonov and into the Paris Saint-Germain goal.\n\nDoes he keep attacking or does he take the best defence in the world, who have won the Premier League by being defensively brilliant, and see whether PSG can break them down? It seems the most sensible decision he could make at that time.\n\nIt is not without risks. Not having the ball is physically and mentally exhausting. PSG, despite not creating a clear chance in the first half, were so close with quite a few final balls. That is the hard bit of breaking down a low block: choosing when to try the difficult pass, choosing who makes it, choosing who receives it. That was this game in microcosm: move the defence around until a tiny gap appears.\n\nParking the bus is often used as a criticism. But parking a bus is presumably incredibly difficult – as is maintaining your shape, keeping your discipline and deciding when you have to go to ground to block or make a last-ditch tackle. So maybe Arsenal did park the bus and maybe we’ve got that phrase wrong all along.\n\nBut aren’t Arsenal the best team in the best league in the world? Surely they can offer more than that? It’s an understandable question. This Arsenal team were not going to go all-out attack, especially once they had a lead. So what’s the choice? Defend as they did or attack 5% or 10% more? What does that look like? And do you by definition leave yourself 5% or 10% more open, making those PSG final balls 5%-10% easier? Arsenal had the only other clear chance in the first half. It was almost perfect.\n\nIt is fair to criticise Arteta’s substitutions and their inability to change things after the equaliser, but that is perhaps as much down to the fact that despite building a brilliant squad, with two excellent players in each position, they are agaláticoor two, or three, behind PSG.\n\nAnd it didn’t work. Eventually a through ball pierced the backline and Cristhian Mosquera fouled Khvicha Kvaratskhelia. PSG are better at football. That’s quite a key part in all of this.\n\nIt feels as if this was Arteta’s best plan for winning the Champions League and to be clear I did not want Arsenal to win this game (although I’m not entirely sure I wanted PSG and their project to win it either).\n\nWas it a good game? Once Arsenal scored, I was completely invested in watching the best attack try to break down the best defence. Yet there is a high chance I’ve watched very similar games with teams in different shirts in different competitions and found them insipidly boring. There is a high chance I’ll watch England struggle to break down a low block in a few weeks’ time and start moaning about handbrakes (Handbremse, if you want to yell at Thomas Tuchel in his native tongue). I have four decades of match-worn scars watching the Three Lions do that.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3249_2",
+            "category": "england",
+            "type": "News",
+            "title": "Belgium World Cup 2026 team guide",
+            "bullets": [
+              "Not much of the fabled golden generation remains, but the Red Devils have a winnable group and posse...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Not much of the fabled golden generation remains, but the Red Devils have a winnable group and possess genuine quality in De Bruyne and DokuThis article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June. Continue reading...",
+            "fullText": "Not much of the fabled golden generation remains, but the Red Devils have a winnable group and possess genuine quality in De Bruyne and Doku\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nThe head coach, Rudi Garcia, is well aware that the Red Devils’ strength lies in attack. Kevin De Bruyne, Jérémy Doku and Romelu Lukaku can each make a difference in their own way. The defence is, except for goalkeeper Thibaut Courtois, the weak point after the golden generation of Toby Alderweireld, Vincent Kompany, Thomas Vermaelen and Jan Vertonghen gradually retired. “That is why I will always choose four defenders and not five,” Garcia explains. “With five defenders I have to sacrifice an attacking player and that would be a shame.”\n\nGarcia usually opts for a medium block to support the attack and not put too much pressure on the defenders. His reasoning could be described as flawed because there is a problem with Lukaku. He played only 64 minutes for Napoli this season and none for the national team because of injuries until coming off the bench in Tuesday night’s 2-0 win against Croatia, scoring the second goal in added time. He was also deeply affected by the death of his father. Belgium’s all time top scorer – 90 goals – will therefore start theWorld Cupwithout any kind of match rhythm.\n\n15 Junev Egypt, Seattle (noon local, 8pm BST, 16 June 5am AEST)\n\n21 Junev Iran, Los Angeles (noon local, 8pm BST, 22 June 5am AEST)\n\n26 Junev New Zealand, Vancouver (8pm local, 27 June 4am BST, 27 June noon AEST)\n\nQualifying went smoothly against Wales, North Macedonia, Kazakhstan and Liechtenstein. Despite going undefeated, the level of play was not high and there were three draws, two against North Macedonia and one in Kazakhstan. With 29 goals in eight games,Belgiumunderlined where their strengths lay. It’s clear there will be plenty of attention on Doku in attack and Courtois to prevent goals at the other end.\n\nGarcia has been in charge since January 2025 and said at his unveiling: “I am ready to take on the challenge. It will take time to learn, even though we don’t have much of it. It’s not about trying, it’s about doing, that’s my motto.” Hard work is key, according to the Frenchman. “We must focus on the mindset. We must wear the jersey with pride, and give everything for the national team.”\n\nRudi Garciais a national coach for the first time in his career and so will be making his World Cup debut in North America. The 62-year-old succeeded Domenico Tedesco in January 2025 and has plenty of experience, having been in charge at Lille, Roma, Marseille, Lyon, Al Nassr and Napoli among others. The Frenchman is old school, rejecting data-led analysis, and has restored a positive atmosphere to the national squad. “What matters to me is that there is a team on the field,” he says. “My experience shows that you get the furthest that way.”\n\nJérémy Dokuis the most popular player in the squad. The 24-year-old Manchester City attacker is still making giant steps in his development. Having relied solely on his impressive speed, he has developed his crossing ability of late and scored some important goals in the closing stages of the Premier League season. “I know my qualities and know that I have to work on my statistics,” he said. “But I’m not there yet.”\n\nMatias Fernandez-Pardowas not in Garcia’s plans until early May. The 21-year-old Lille striker, who holds Spanish and Belgian passports, had declared he would choose Spain. When the Belgian FA sounded him out again due to the doubts surrounding Lukaku and the decline of Loïs Openda at Juventus, he changed his mind. His speed, dribbling skills and opportunism have earned him a slot in the World Cup squad. Fernandez-Pardo left Gent in August 2024 as a winger, but the Lille coach Bruno Génésio has deployed him as a striker, leading to eight goals and five assists in 29 league games in 2025-26.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 06:48:19 EDT",
+  "lastUpdated": "2026-06-04 @ 08:32:53 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
