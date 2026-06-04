@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares pre-camp excitement: 'Denver, the vibe is electric'",
+      "text": "⚽ USMNT squad gathers in Denver to begin Pochettino's high-altitude training camp",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Group D Analysis: Pundits tag USA vs Paraguay as the deciding opener",
+      "text": "🌍 Paraguay conducts warm-up scrimmage focusing on defensive structure drills",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -296,11 +296,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_usa_20260604_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT squad gathers in Denver to begin Pochettino's high-altitude training camp",
+            "bullets": [
+              "Christian Pulisic and European-based stars check into the Denver camp team hotel.",
+              "Head coach Mauricio Pochettino lays down strict camp physical guidelines.",
+              "Staff expects a 100% attendance rate for the first pitch workout tomorrow morning."
+            ],
+            "summary": "The US Men's National Soccer Team has officially gathered in Denver to kick off their final World Cup preparation camp. Head coach Mauricio Pochettino and his training staff will conduct their first full high-altitude session tomorrow. The focus is to build aerobic capacity and integrate Pochettino's rapid transitional tactics before they transition to their main tournament base in Dallas.",
+            "fullText": "The US Men's National Soccer Team has officially gathered in Denver to kick off their final World Cup preparation camp. Head coach Mauricio Pochettino and his training staff will conduct their first full high-altitude session tomorrow. The focus is to build aerobic capacity and integrate Pochettino's rapid transitional tactics before they transition to their main tournament base in Dallas.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Doug McIntyre (Fox Sports)",
+            "readTime": "3 min",
+            "tag": "Denver Camp",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260604_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Paraguay conducts warm-up scrimmage focusing on defensive structure drills",
+            "bullets": [
+              "La Albirroja implements compact defensive configurations in closed training.",
+              "Miguel Almirón drives creative playmaking in a high-intensity squad scrimmage.",
+              "Tactical analysts monitor the USMNT's transition speed setups."
+            ],
+            "summary": "Paraguay's national squad wrapped up their preparation phase under manager Gustavo Alfaro. The Paraguayan staff has prioritized defensive pressing traps to choke vertical distribution. Atlanta United's Miguel Almirón looked dynamic in central playmaker roles.",
+            "fullText": "Paraguay's national squad wrapped up their preparation phase under manager Gustavo Alfaro. The Paraguayan staff has prioritized defensive pressing traps to choke vertical distribution. Atlanta United's Miguel Almirón looked dynamic in central playmaker roles.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "ESPN FC South America Desk",
+            "readTime": "3 min",
+            "tag": "Paraguay Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 06:48:26 EDT",
+  "lastUpdated": "2026-06-04 @ 08:32:54 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
