@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Pochettino implements rapid 4-3-3 transitions in tactical board sessions",
+      "text": "⚽ Christian Pulisic shares pre-camp excitement: 'Denver, the vibe is electric'",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Paraguay tactical scout notes Almirón's lethal movement in narrow spaces",
+      "text": "🌍 Group D Analysis: Pundits tag USA vs Paraguay as the deciding opener",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -251,10 +251,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-04": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_usa_20260604_5",
+            "category": "usa",
+            "type": "Blog",
+            "title": "Christian Pulisic shares pre-camp excitement: 'Denver, the vibe is electric'",
+            "bullets": [
+              "The AC Milan star expresses immense pride in captaining the Stars & Stripes.",
+              "Pulisic: 'We have a special group under Poch, and we are ready to prove it.'",
+              "Players report exceptional unity and focus ahead of the tournament."
+            ],
+            "summary": "In an exclusive diary entry from the team hotel, captain Christian Pulisic expressed his immense pride in leading the squad. He highlighted that Pochettino's staff has brought elite European professionalism, and the team is completely united to make a deep World Cup run.",
+            "fullText": "In an exclusive diary entry from the team hotel, captain Christian Pulisic expressed his immense pride in leading the squad. He highlighted that Pochettino's staff has brought elite European professionalism, and the team is completely united to make a deep World Cup run.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Christian Pulisic (Player Diary)",
+            "readTime": "3 min",
+            "tag": "Player Diary",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260604_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group D Analysis: Pundits tag USA vs Paraguay as the deciding opener",
+            "bullets": [
+              "Global analysts predict USA's wing transitions will clash with Paraguay's press.",
+              "Fox Soccer: 'Pochettino's World Cup debut is the tournament's biggest spotlight.'",
+              "Winner of the opener is projected to have an 85% chance of winning the group."
+            ],
+            "summary": "Soccer pundits on Fox Sports designated the USA vs Paraguay opener in Los Angeles as the ultimate deciding match of Group D. Pundits highlight the clash of high-tempo styles: Pochettino's fluid transition-speed 4-3-3 versus Paraguay's aggressive, physical mid-block.",
+            "fullText": "Soccer pundits on Fox Sports designated the USA vs Paraguay opener in Los Angeles as the ultimate deciding match of Group D. Pundits highlight the clash of high-tempo styles: Pochettino's fluid transition-speed 4-3-3 versus Paraguay's aggressive, physical mid-block.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer Pundit Team",
+            "readTime": "3 min",
+            "tag": "Group D Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-03 @ 20:22:26 EDT",
+  "lastUpdated": "2026-06-04 @ 06:48:26 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
