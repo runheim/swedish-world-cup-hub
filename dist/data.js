@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Belgium World Cup 2026 team guide",
       "link": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide"
-    },
-    {
-      "text": "⚽ Why we could see less of Kane for England at the 2026 World Cup...",
-      "link": "https://www.skysports.com/football/news/12040/13550591/world-cup-2026-why-harry-kane-could-play-less-minutes-for-england-in-the-usa-canada-and-mexico-this-summer"
     }
   ],
   "timeline": {
@@ -697,10 +693,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-04": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4814_0",
+            "category": "england",
+            "type": "News",
+            "title": "Belgium World Cup 2026 team guide",
+            "bullets": [
+              "Not much of the fabled golden generation remains, but the Red Devils have a winnable group and posse...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Not much of the fabled golden generation remains, but the Red Devils have a winnable group and possess genuine quality in De Bruyne and DokuThis article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June. Continue reading...",
+            "fullText": "Not much of the fabled golden generation remains, but the Red Devils have a winnable group and possess genuine quality in De Bruyne and Doku\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nThe head coach, Rudi Garcia, is well aware that the Red Devils’ strength lies in attack. Kevin De Bruyne, Jérémy Doku and Romelu Lukaku can each make a difference in their own way. The defence is, except for goalkeeper Thibaut Courtois, the weak point after the golden generation of Toby Alderweireld, Vincent Kompany, Thomas Vermaelen and Jan Vertonghen gradually retired. “That is why I will always choose four defenders and not five,” Garcia explains. “With five defenders I have to sacrifice an attacking player and that would be a shame.”\n\nGarcia usually opts for a medium block to support the attack and not put too much pressure on the defenders. His reasoning could be described as flawed because there is a problem with Lukaku. He played only 64 minutes for Napoli this season and none for the national team because of injuries until coming off the bench in Tuesday night’s 2-0 win against Croatia, scoring the second goal in added time. He was also deeply affected by the death of his father. Belgium’s all time top scorer – 90 goals – will therefore start theWorld Cupwithout any kind of match rhythm.\n\n15 Junev Egypt, Seattle (noon local, 8pm BST, 16 June 5am AEST)\n\n21 Junev Iran, Los Angeles (noon local, 8pm BST, 22 June 5am AEST)\n\n26 Junev New Zealand, Vancouver (8pm local, 27 June 4am BST, 27 June noon AEST)\n\nQualifying went smoothly against Wales, North Macedonia, Kazakhstan and Liechtenstein. Despite going undefeated, the level of play was not high and there were three draws, two against North Macedonia and one in Kazakhstan. With 29 goals in eight games,Belgiumunderlined where their strengths lay. It’s clear there will be plenty of attention on Doku in attack and Courtois to prevent goals at the other end.\n\nGarcia has been in charge since January 2025 and said at his unveiling: “I am ready to take on the challenge. It will take time to learn, even though we don’t have much of it. It’s not about trying, it’s about doing, that’s my motto.” Hard work is key, according to the Frenchman. “We must focus on the mindset. We must wear the jersey with pride, and give everything for the national team.”\n\nRudi Garciais a national coach for the first time in his career and so will be making his World Cup debut in North America. The 62-year-old succeeded Domenico Tedesco in January 2025 and has plenty of experience, having been in charge at Lille, Roma, Marseille, Lyon, Al Nassr and Napoli among others. The Frenchman is old school, rejecting data-led analysis, and has restored a positive atmosphere to the national squad. “What matters to me is that there is a team on the field,” he says. “My experience shows that you get the furthest that way.”\n\nJérémy Dokuis the most popular player in the squad. The 24-year-old Manchester City attacker is still making giant steps in his development. Having relied solely on his impressive speed, he has developed his crossing ability of late and scored some important goals in the closing stages of the Premier League season. “I know my qualities and know that I have to work on my statistics,” he said. “But I’m not there yet.”\n\nMatias Fernandez-Pardowas not in Garcia’s plans until early May. The 21-year-old Lille striker, who holds Spanish and Belgian passports, had declared he would choose Spain. When the Belgian FA sounded him out again due to the doubts surrounding Lukaku and the decline of Loïs Openda at Juventus, he changed his mind. His speed, dribbling skills and opportunism have earned him a slot in the World Cup squad. Fernandez-Pardo left Gent in August 2024 as a winger, but the Lille coach Bruno Génésio has deployed him as a striker, leading to eight goals and five assists in 29 league games in 2025-26.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-03 @ 20:22:20 EDT",
+  "lastUpdated": "2026-06-04 @ 06:48:19 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
