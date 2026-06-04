@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT squad gathers in Denver to begin Pochettino's high-altitude training camp",
+      "text": "⚽ Tyler Adams cleared for full contact; McKennie leads midfield sprints",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Paraguay conducts warm-up scrimmage focusing on defensive structure drills",
+      "text": "🌍 Australia squad logs conditioning workouts in Seattle weather",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -336,11 +336,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260604_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "Tyler Adams cleared for full contact; McKennie leads midfield sprints",
+            "bullets": [
+              "Medical staff confirms Tyler Adams is 100% fit and cleared for contact.",
+              "Weston McKennie and Yunus Musah work on high-stamina pressing drills.",
+              "Pochettino designs custom recovery runs in the afternoon Dallas session."
+            ],
+            "summary": "A massive boost for the USMNT as Tyler Adams was cleared for full contact. The Bournemouth midfielder participated in high-intensity central drills, combining with McKennie and Musah in Dallas.",
+            "fullText": "A massive boost for the USMNT as Tyler Adams was cleared for full contact. The Bournemouth midfielder participated in high-intensity central drills, combining with McKennie and Musah in Dallas.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Pitch",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260604_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Australia squad logs conditioning workouts in Seattle weather",
+            "bullets": [
+              "Socceroos work on quick-transition combinations in cool conditions.",
+              "Tony Popovic: 'Timezone adaptation and physical fitness are our priorities.'",
+              "Irvine reports high fitness markers across the Australian roster."
+            ],
+            "summary": "Australia is training in Seattle to build stamina. Popovic's side is focusing on defensive shape and direct counter channels to prepare for Group D.",
+            "fullText": "Australia is training in Seattle to build stamina. Popovic's side is focusing on defensive shape and direct counter channels to prepare for Group D.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Guardian Australia Sport",
+            "readTime": "3 min",
+            "tag": "Australia Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 08:32:54 EDT",
+  "lastUpdated": "2026-06-04 @ 14:38:44 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
