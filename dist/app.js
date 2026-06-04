@@ -1549,116 +1549,128 @@ function updateNewsDashboard() {
   const container = document.getElementById("bulletin-container");
   if (!container) return;
 
-  container.innerHTML = "";
+  // Render skeleton loader layout
+  container.innerHTML = `
+    <div class="skeleton-news-loader">
+      <div class="skeleton-news-date"></div>
+      <div class="skeleton-news-card"></div>
+      <div class="skeleton-news-card"></div>
+    </div>
+  `;
 
-  let totalArticlesRendered = 0;
-  
-  // Get today's local date in YYYY-MM-DD format
-  const now = new Date();
-  const yyyy = now.getFullYear();
-  const mm = String(now.getMonth() + 1).padStart(2, '0');
-  const dd = String(now.getDate()).padStart(2, '0');
-  const todayStr = `${yyyy}-${mm}-${dd}`;
+  // 220ms delay to display the premium skeleton pulse transition
+  setTimeout(() => {
+    container.innerHTML = "";
 
-  // Dynamically extract and sort all available dates in the timeline database up to today
-  const dates = Object.keys(TIMELINE_DATABASE)
-    .filter(dateStr => dateStr <= todayStr)
-    .sort()
-    .reverse()
-    .slice(0, 3);
-
-  // Generate yesterday's local date dynamically
-  const yesterday = new Date();
-  yesterday.setDate(now.getDate() - 1);
-  const yStr = `${yesterday.getFullYear()}-${String(yesterday.getMonth() + 1).padStart(2, '0')}-${String(yesterday.getDate()).padStart(2, '0')}`;
-
-  dates.forEach(dateStr => {
-    const activeIds = getActiveUpdatesForDate(dateStr);
-    if (activeIds.length === 0) return;
-
-    const dateSection = document.createElement("div");
-    dateSection.className = "timeline-date-section animated fade-in";
+    let totalArticlesRendered = 0;
     
-    let displayDateLabel = dateStr;
-    if (dateStr === todayStr) displayDateLabel = "Today (" + dateStr + ")";
-    else if (dateStr === yStr) displayDateLabel = "Yesterday (" + dateStr + ")";
-    
-    dateSection.innerHTML = `
-      <div class="timeline-date-header">
-        <span><i class="far fa-calendar-check"></i> ${displayDateLabel}</span>
-      </div>
-      <div class="date-updates-container" id="updates-for-${dateStr.replace(/-/g, '')}"></div>
-    `;
-    container.appendChild(dateSection);
+    // Get today's local date in YYYY-MM-DD format
+    const now = new Date();
+    const yyyy = now.getFullYear();
+    const mm = String(now.getMonth() + 1).padStart(2, '0');
+    const dd = String(now.getDate()).padStart(2, '0');
+    const todayStr = `${yyyy}-${mm}-${dd}`;
 
-    const updatesSubContainer = dateSection.querySelector(`#updates-for-${dateStr.replace(/-/g, '')}`);
+    // Dynamically extract and sort all available dates in the timeline database up to today
+    const dates = Object.keys(TIMELINE_DATABASE)
+      .filter(dateStr => dateStr <= todayStr)
+      .sort()
+      .reverse()
+      .slice(0, 3);
 
-    for (let i = activeIds.length - 1; i >= 0; i--) {
-      const updateId = activeIds[i];
-      const update = TIMELINE_DATABASE[dateStr][updateId];
-      if (!update) continue;
+    // Generate yesterday's local date dynamically
+    const yesterday = new Date();
+    yesterday.setDate(now.getDate() - 1);
+    const yStr = `${yesterday.getFullYear()}-${String(yesterday.getMonth() + 1).padStart(2, '0')}-${String(yesterday.getDate()).padStart(2, '0')}`;
 
-      const filteredArticles = update.articles.filter(art => art.category === ACTIVE_NEWS_TAB);
-      if (filteredArticles.length === 0) continue;
+    dates.forEach(dateStr => {
+      const activeIds = getActiveUpdatesForDate(dateStr);
+      if (activeIds.length === 0) return;
 
-      totalArticlesRendered += filteredArticles.length;
-
-      const updateSection = document.createElement("div");
-      updateSection.className = "update-block";
-      updateSection.innerHTML = `
-        <div class="update-block-header">
-          <span class="update-time"><i class="far fa-clock"></i> ${update.timeLabel}</span>
-          <span class="update-title">${update.name}</span>
+      const dateSection = document.createElement("div");
+      dateSection.className = "timeline-date-section animated fade-in";
+      
+      let displayDateLabel = dateStr;
+      if (dateStr === todayStr) displayDateLabel = "Today (" + dateStr + ")";
+      else if (dateStr === yStr) displayDateLabel = "Yesterday (" + dateStr + ")";
+      
+      dateSection.innerHTML = `
+        <div class="timeline-date-header">
+          <span><i class="far fa-calendar-check"></i> ${displayDateLabel}</span>
         </div>
-        <ul class="headline-bullets-list" id="bullets-list-${dateStr.replace(/-/g, '')}-${updateId}"></ul>
+        <div class="date-updates-container" id="updates-for-${dateStr.replace(/-/g, '')}"></div>
       `;
+      container.appendChild(dateSection);
 
-      updatesSubContainer.appendChild(updateSection);
+      const updatesSubContainer = dateSection.querySelector(`#updates-for-${dateStr.replace(/-/g, '')}`);
 
-      const bulletsList = updateSection.querySelector(`#bullets-list-${dateStr.replace(/-/g, '')}-${updateId}`);
-      filteredArticles.forEach(article => {
-        const li = document.createElement("li");
-        li.className = "headline-bullet-item";
+      for (let i = activeIds.length - 1; i >= 0; i--) {
+        const updateId = activeIds[i];
+        const update = TIMELINE_DATABASE[dateStr][updateId];
+        if (!update) continue;
 
-        const stamp = generateTimelineTimestamp(dateStr, update.timeLabel);
+        const filteredArticles = update.articles.filter(art => art.category === ACTIVE_NEWS_TAB);
+        if (filteredArticles.length === 0) continue;
 
-        let typeClass = "type-news";
-        if (article.type === "Blog") typeClass = "type-blog";
-        else if (article.type === "Analysis") typeClass = "type-analysis";
-        else if (article.type === "Column") typeClass = "type-column";
-        else if (article.type === "Scouting") typeClass = "type-scout";
+        totalArticlesRendered += filteredArticles.length;
 
-        li.innerHTML = `
-          <div class="headline-meta-row">
-            <span class="bullet-tag ${typeClass}">${article.type}</span>
-            <span class="bullet-timestamp"><i class="far fa-calendar-alt"></i> ${stamp}</span>
+        const updateSection = document.createElement("div");
+        updateSection.className = "update-block";
+        updateSection.innerHTML = `
+          <div class="update-block-header">
+            <span class="update-time"><i class="far fa-clock"></i> ${update.timeLabel}</span>
+            <span class="update-title">${update.name}</span>
           </div>
-          <a href="#" class="headline-link" style="pointer-events: none;" data-article-id="${article.id}">${article.title}</a>
+          <ul class="headline-bullets-list" id="bullets-list-${dateStr.replace(/-/g, '')}-${updateId}"></ul>
         `;
-        li.setAttribute("data-article-id", article.id);
-        li.style.cursor = "pointer";
-        bulletsList.appendChild(li);
-      });
-    }
-  });
 
-  if (totalArticlesRendered === 0) {
-    container.innerHTML = `
-      <div class="no-news-found">
-        <p><i class="fas fa-info-circle"></i> No articles available for this filter at the moment.</p>
-      </div>
-    `;
-  }
+        updatesSubContainer.appendChild(updateSection);
 
-  document.querySelectorAll(".headline-bullet-item").forEach(item => {
-    item.addEventListener("click", (e) => {
-      e.preventDefault();
-      const artId = item.getAttribute("data-article-id");
-      openArticleModal(artId);
+        const bulletsList = updateSection.querySelector(`#bullets-list-${dateStr.replace(/-/g, '')}-${updateId}`);
+        filteredArticles.forEach(article => {
+          const li = document.createElement("li");
+          li.className = "headline-bullet-item";
+
+          const stamp = generateTimelineTimestamp(dateStr, update.timeLabel);
+
+          let typeClass = "type-news";
+          if (article.type === "Blog") typeClass = "type-blog";
+          else if (article.type === "Analysis") typeClass = "type-analysis";
+          else if (article.type === "Column") typeClass = "type-column";
+          else if (article.type === "Scouting") typeClass = "type-scout";
+
+          li.innerHTML = `
+            <div class="headline-meta-row">
+              <span class="bullet-tag ${typeClass}">${article.type}</span>
+              <span class="bullet-timestamp"><i class="far fa-calendar-alt"></i> ${stamp}</span>
+            </div>
+            <a href="#" class="headline-link" style="pointer-events: none;" data-article-id="${article.id}">${article.title}</a>
+          `;
+          li.setAttribute("data-article-id", article.id);
+          li.style.cursor = "pointer";
+          bulletsList.appendChild(li);
+        });
+      }
     });
-  });
 
-  updateNewsTimelineStylesFix();
+    if (totalArticlesRendered === 0) {
+      container.innerHTML = `
+        <div class="no-news-found">
+          <p><i class="fas fa-info-circle"></i> No articles available for this filter at the moment.</p>
+        </div>
+      `;
+    }
+
+    document.querySelectorAll(".headline-bullet-item").forEach(item => {
+      item.addEventListener("click", (e) => {
+        e.preventDefault();
+        const artId = item.getAttribute("data-article-id");
+        openArticleModal(artId);
+      });
+    });
+
+    updateNewsTimelineStylesFix();
+  }, 220);
 }
 
 function updateNewsTimelineStylesFix() {
