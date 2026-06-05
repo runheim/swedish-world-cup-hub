@@ -8,28 +8,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ England to use palm-cooling devices at World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/cj0p0e90z9vo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ World Cup quiz: Name every player in England's squad",
       "link": "https://www.bbc.com/sport/football/articles/c202yprg4z2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ The familiar phone call after Morrison's NI debut",
-      "link": "https://www.bbc.com/sport/football/articles/c2d2dx73j31o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Tell us your stories of Scotland's World Cup",
       "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Tell us your stories of Scotland's World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ World Cup 2026 news; Al-Mubarak on City’s 134 charges; Newcastle’s £24m Jaouen deal: football– live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live"
-    },
-    {
-      "text": "⚽ England’s heatseekers begin World Cup countdown with Tampa test",
-      "link": "https://www.theguardian.com/football/2026/jun/05/england-world-cup-countdown-new-zealand-friendly-tampa-heat"
     }
   ],
   "timeline": {
@@ -1232,11 +1220,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3323_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+            "bullets": [
+              "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
+            "fullText": "Rice (left) and Raya have both been shortlisted for the Professional Footballers' Association men's player of the year\n\nArsenal's Declan Rice, Gabriel and David Raya have been nominated for the Professional Footballers' Association men's player of the year award alongside Manchester United's Bruno Fernandes and Manchester City duo Erling Haaland and Rayan Cherki.\n\nEarlier this month, Fernandes, 31, won the Football Writers' Association's men'sfootballer of the year award.\n\nThat award is often an indicator of who is the frontrunner to be named the PFA player of the year.\n\nThe Portugal midfielder registered a record 21 Premier League assists to help United finish third.\n\nMidfielder Rice, defender Gabriel and goalkeeper Raya were all key players for Arsenal, who won the Premier League for the first time in 22 years.\n\nStriker Haaland bagged 27 goals to win the league's golden boot, while Cherki enjoyed a successful first season in the Premier League.\n\nFormer Liverpool winger Mohamed Salahwon the award last yearafter scoring 29 times to help the Reds win the Premier League.\n\nThe winners will be honoured on Tuesday, 25 August at the 53rd annual PFA Awards Ceremony in Manchester.\n\nCherki scored four goals and added 12 assists in the Premier League\n\nCherki has also been nominated for the PFA young player of the year, alongside City team-mate and England international Nico O'Reilly, who was named as the Premier League's young player of the season last week.\n\nManchester United midfielder Kobbie Mainoo, another England international, is also among the nominees after playing a key role in Michael Carrick's side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3324_1",
+            "category": "england",
+            "type": "News",
+            "title": "England to use palm-cooling devices at World Cup",
+            "bullets": [
+              "Midfielder Jordan Henderson praises the \"top level research\" on \"cool down and recovery\" by the \"tea...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder Jordan Henderson praises the \"top level research\" on \"cool down and recovery\" by the \"team behind the team\" as England continue to prepare for the World Cup.",
+            "fullText": "England have been training in sweltering heat in Florida this week\n\nEngland players are set to use high-tech palm-cooling devices in the United States to help combat the heat during the World Cup.\n\nThe expected hot and humid conditions during the tournament will be a crucial factor with studies showing that at least a third of the games during the World Cup will be played in temperatures higher than 26C.\n\nOn Tuesday, temperatures reached 32C during England's opening training session in West Palm Beach, Florida.\n\nThe use of palm-cooling equipment is becoming popular among professional athletes, with Manchester United known to use the technology.\n\nResearch shows that cooling the palms can significantly lower core body temperature which can prove vital for in-game recovery and ultimately enhance performance.\n\nIt is understood England will use them in training sessions and during the planned water breaks during World Cup matches.\n\nWhen asked about the importance of acclimatising, Jordan Henderson said that this first week was being used to \"build capacity to the conditions\", adding \"the warm-up games will be good for that\".\n\nThe Brentford midfielder praised the \"team behind the team\" for the \"top level research\" that has been done on \"cool down and recovery\".\n\n\"Hopefully that can give us a little edge when we get into the tournament,\" he added.\n\nEngland play friendly matches against New Zealand on Saturday, 6 June (21:00 BST) and Costa Rica on Wednesday, 10 June (21:00).\n\nThomas Tuchel's side start their World Cup campaign against Croatia on Wednesday, 17 June (21:00) before playing Ghana on 23 June (21:00) and Panama on 27 June (22:00).",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3324_2",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup quiz: Name every player in England's squad",
+            "bullets": [
+              "There are just 12 days until England play their World Cup opener against Croatia - but can you name ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There are just 12 days until England play their World Cup opener against Croatia - but can you name ever member of the squad picked by Thomas Tuchel?",
+            "fullText": "There are just 12 days until England play their World Cup opener against Croatia in Dallas on 17 June (21:00 BST).\n\nCan you name every player in manager Thomas Tuchel's squad?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWorld Cup quiz: Name every player in Scotland's squad\n\nCan you name every player with 100 Premier League goals?\n\nFootball quiz: Name every club in the Premier League and EFL\n\nCan you name the 10 Lionesses with most England caps?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3324_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the game, travelling to the USA, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 08:24:10 EDT",
+  "lastUpdated": "2026-06-05 @ 13:33:29 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
