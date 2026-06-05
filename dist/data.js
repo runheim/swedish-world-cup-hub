@@ -4,20 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Like father like son - international goals run in the family",
-      "link": "https://www.bbc.com/sport/football/articles/cwy20rjkn3ko?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+      "link": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Wembley defeat, another manager sacked - what's going on at Salford City?",
-      "link": "https://www.bbc.com/sport/football/articles/c98rxxpw1jno?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ World Cup quiz: Name every player in England's squad",
+      "link": "https://www.bbc.com/sport/football/articles/c202yprg4z2o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ The familiar phone call after Morrison's NI debut",
+      "link": "https://www.bbc.com/sport/football/articles/c2d2dx73j31o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Tell us your stories of Scotland's World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Tell us your stories of Scotland's World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ World Cup 2026 news, PFA awards shortlists, transfer latest and more: football– live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live"
     },
     {
       "text": "⚽ Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
       "link": "https://www.theguardian.com/football/2026/jun/04/spain-iraq-friendly-international-match-report"
-    },
-    {
-      "text": "⚽ Belgium World Cup 2026 team guide",
-      "link": "https://www.theguardian.com/football/2026/jun/04/belgium-world-cup-2026-team-guide"
     },
     {
       "text": "⚽ Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
@@ -956,10 +968,154 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-05": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5947_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+            "bullets": [
+              "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
+            "fullText": "Rice (left) and Raya have both been shortlisted for the Professional Footballers' Association men's player of the year\n\nArsenal's Declan Rice, Gabriel and David Raya have been nominated for the Professional Footballers' Association men's player of the year award alongside Manchester United's Bruno Fernandes and Manchester City duo Erling Haaland and Rayan Cherki.\n\nEarlier this month, Fernandes, 31, won the Football Writers' Association's men'sfootballer of the year award.\n\nThat award is often an indicator of who is the frontrunner to be named the PFA player of the year.\n\nThe Portugal midfielder registered a record 21 Premier League assists to help United finish third.\n\nMidfielder Rice, defender Gabriel and goalkeeper Raya were all key players for Arsenal, who won the Premier League for the first time in 22 years.\n\nStriker Haaland bagged 27 goals to win the league's golden boot, while Cherki enjoyed a successful first season in the Premier League.\n\nFormer Liverpool winger Mohamed Salahwon the award last yearafter scoring 29 times to help the Reds win the Premier League.\n\nThe winners will be honoured on Tuesday, 25 August at the 53rd annual PFA Awards Ceremony in Manchester.\n\nCherki scored four goals and added 12 assists in the Premier League\n\nCherki has also been nominated for the PFA young player of the year, alongside City team-mate and England international Nico O'Reilly, who was named as the Premier League's young player of the season last week.\n\nManchester United midfielder Kobbie Mainoo, another England international, is also among the nominees after playing a key role in Michael Carrick's side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5948_1",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup quiz: Name every player in England's squad",
+            "bullets": [
+              "There are just 12 days until England play their World Cup opener against Croatia - but can you name ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There are just 12 days until England play their World Cup opener against Croatia - but can you name ever member of the squad picked by Thomas Tuchel?",
+            "fullText": "There are just 12 days until England play their World Cup opener against Croatia in Dallas on 17 June (21:00 BST).\n\nCan you name every player in manager Thomas Tuchel's squad?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWorld Cup quiz: Name every player in Scotland's squad\n\nCan you name every player with 100 Premier League goals?\n\nFootball quiz: Name every club in the Premier League and EFL\n\nCan you name the 10 Lionesses with most England caps?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5948_2",
+            "category": "england",
+            "type": "News",
+            "title": "The familiar phone call after Morrison's NI debut",
+            "bullets": [
+              "Liverpool teenager Kieran Morrison said he was \"buzzing\" to make his senior Northern Ireland debut a...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool teenager Kieran Morrison said he was \"buzzing\" to make his senior Northern Ireland debut against Guinea on Thursday.",
+            "fullText": "Liverpool teenager Kieran Morrison made his Northern Ireland debut against Guinea\n\nThroughout his young career to date, Kieran Morrison takes a phone call from his dad after every game.\n\nIt was no different as he made his senior Northern Ireland debut against Guinea on Thursday.\n\nStanding on the pitch in the sweltering La Linea sun, under the shadow of the Rock of Gibraltar, he spoke to his dad about his first 45 minutes in a green shirt.\n\n\"He was telling me what I could have done better and what I done well,\" a proud Morrison said.\n\n\"He does that every game. He's my coach and he has been since I was four years old.\n\n\"After every game he calls me until I answer. I'm glad I have that type of person in my corner, sometimes it's to give me criticism and other times it's to offer praise.\"\n\nDespite only making two senior Liverpool appearances under the now-departed Arne Slot, in the EFL Cup and FA Cup, Morrison was called into Michael O'Neill's senior squad for the World Cup play-off with Italy in March.\n\nHe did not feature in Bergamo, or in the friendly with Wales that followed, but he got his chance in the 1-0 win over Guinea in Spain.\n\n\"At the start of the season I wouldn't have expected to hear that,\" he said on what it felt like to be called a Northern Ireland international.\n\n\"I'm very proud and my family is very proud too. I'm buzzing.\"\n\nWearing the number nine shirt, famous for David Healy's goalscoring exploits at the turn of the century, Morrison played the opening 45 minutes of the friendly against the African side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the game, travelling to the USA, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the game, travelling to the USA, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_5",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 news, PFA awards shortlists, transfer latest and more: football– live",
+            "bullets": [
+              "⚽️ Latest football news before a big weekend of action⚽️ Get in touch: email Dave | And follow us on...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Latest football news before a big weekend of action⚽️ Get in touch: email Dave | And follow us on TikTokThe shortlists for the Men’s and Women’s PFA players’ awards have been revealed. Arsenal’s Premier League-winning trio of Declan Rice, Gabriel and David Raya all feature while Bunny Shaw and Yui Hasegawa have both been nominated for the Women’s Player of the Year award after helping Manchester City to title glory.Men’s Players’ Player of the Year nominations Continue reading...",
+            "fullText": "Louise writes:“My compliments for the Bracketology. Already having a lot of fun with it with friends! Hope it will stay active in the coming weeks so we can adjust.”\n\nKrish writes:“What are the chances of a USA - Iran knockout game and could you please pass on a request to David Squires to sketch Trump’s reaction should they lose that game?”\n\nUsing our online wizardry, I’ve worked out that if the USA win Group D and Iran finish second in Group G, they wouldn’t play each other until the final. If Iran finish third, it would be the semis.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_6",
+            "category": "england",
+            "type": "News",
+            "title": "Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
+            "bullets": [
+              "Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via N...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via Nashville, but seven of the eight men who made their debuts in the final preparation game before the World Cup will not be on board with them. Nor will the seleccion be flying west with a victory after they bid adios with a 1-1 draw against Iraq at Estadio Riazor. Which may not sound very good – and it really was not very good either, a 22-minute cameo from Mikel Merino about the best thing about it – but is no cause for alarm.Luis de la Fuente’s side will still be among the favourites in the US, Canada and Mexico and rightly so; this was not really his side, at least not recognisably so. Continue reading...",
+            "fullText": "Spain will depart from Santiago de Compostela at 10am on Friday morning bound for Chattanooga, via Nashville, but seven of the eight men who made their debuts in the final preparation game before the World Cup will not be on board with them. Nor will theseleccionbe flying west with a victory after they bidadioswith a 1-1 draw against Iraq at Estadio Riazor. Which may not sound very good – and it really was not very good either, a 22-minute cameo from Mikel Merino about the best thing about it – but is no cause for alarm.\n\nLuis de la Fuente’s side will still be among the favourites in the US, Canada and Mexico and rightly so; this was not really his side, at least not recognisably so.\n\nIf anyone came for clues as to what Spain will be like at the World Cup, they did not find them in La Coruña. How could they when it played out like this? When the fifth and final group of players to report for duty at their Las Rozas HQ, 25km northwest of Madrid, had only arrived at quarter to nine on Wednesday night, 24 hours and 15 minutes before kick-off? When there were 11 substitutions made? When of the coach’s preferred XI, it’s plausible that only two or perhaps three started here? And when the players who probably most enjoyed this, for whom it most mattered, aren’t going to the US at all?\n\nTen of the men who did travel to the US, were not included. It was not just those that had played the Champions League final – Fabián Ruiz, David Raya and Martín Zubimendi – who were left out. De la Fuente took care of Nico Williams, who had played just six of the past 15 club games, and Lamine Yamal, who has not made an appearance since 22 April because of a torn hamstring, was also left out. Lamine Yamal remains the big question for everyone. Rodri, Pedri, Mikel Oyarzabal, Marc Cucurella and Víctor Muñoz sat in the stands too.\n\nDown on the pitch, only Pedro Porro, Aymeric Laporte and perhaps Dani Olmo are natural starters. Two of those that began the match – Marc Bernal and Jon Martín – are not going to the World Cup, and seven of those who sat on the subs’ bench at kick-off are not either, with De la Fuente giving an opportunity to the support squad, invited to join Spain in training over the past week. Every one of them was given a game. Along with Marc Pubill, that made eight debutants in a single night, which will be a good quiz question one day.\n\nSpain have a settled squad and a settled side, with few positions still to be fought for, so this felt a little superfluous. If this was an opportunity for Joan García to make a claim on the goalkeeping spot, a national debate right now, Iraq’s goal did not strengthen his case. If it was an opportunity for Gavi, after a season of injury, it did not do the Barcelona midfielder any harm. He was his usual busy presence and it was no surprise when he was booked.\n\nThe structure of the side looked a little different too, the 4-2-3-1 a bit more defined than it might be in the US, where it’s likely to look like 4-3-3. In the absence of Lamine Yamal, Williams and Muñoz, the wingers were Álex Baena and Ferran Torres, men with a tendency to come inside, lacking the directness De la Fuente embraced to such effect at the Euros, so that too offered little insight.\n\nOne thing that will have pleased the head coach was the ease with which Laporte took responsibility for bringing the ball out. He was the one intercepting and stepping out to start the move that gave Spain the lead on 15 minutes. An incisive forward pass divided Iraq, breaking through the first line of pressure, and found Olmo who, just as swiftly, moved it on another line. Borja Iglesias let it run through his legs and Torres took it on, dashing through from the right, too fast for Zaid Tahseen, and scoring with a low finish.\n\nThis, perhaps predictably, was a Spanish monologue and was soon accompanied byolésand Mexican waves but more goals did not follow and nor did much football. Iraq equalised through Merchas Doski. If he meant it, it was outrageous. The position, out on the left wing, suggested a cross; the swing and the contact with the ball did not. García got a bit of his right hand on it but could not keep it out. At the other end Torres hit the bar and Olmo volleyed over but there were no more goals before half-time when Spain made five changes. Jesus Rodríguez had been on just 18 seconds when he dashed through and shot wide.\n\nThree more changes were made on 59 minutes, all of them debutants: Atlético Madrid centre-back Pubill, who is going to the US, and Beñat Turrientes and Javi Guerra who are not. Seven minutes after that came a more significant introduction: Merino, whose 28 minutes on the final day of the Premier League season were the only time he had played since January, was introduced to take another step towards full rehabilitation, wearing the captain’s armband. He was then followed by Leo Román and Rodríguez but no goals.\n\nThey won’t be on the flight to Nashville but 26 men will and they will land in the US with a week still to prepare and as favourites.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_7",
+            "category": "england",
+            "type": "News",
+            "title": "Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
+            "bullets": [
+              "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel fre...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell backWhat the world needs now is one last hot take on Arsenal and the Champions League final before we are all brought together in beautiful symbiotic harmony by the World Cup.Key questions such as: was it a good game? Was this the perfect way to take on the best midfield and attack in world football or the ultimate illustration of footballing cowardice? Why didn’t all the people in the UK want Arsenal to win? Why did some Arsenal fans find that annoying? Could it possibly be that people are different and want different things from football matches they consume in very different ways? Continue reading...",
+            "fullText": "Opinions, the game loves them, and after Arsenal’s hugely divisive final, here’s my truth – feel free to yell back\n\nWhat the world needs now is one last hot take onArsenal and the Champions League finalbefore we are all brought together in beautiful symbiotic harmony by the World Cup.\n\nKey questions such as: was it a good game? Was this the perfect way to take on the best midfield and attack in world football or the ultimate illustration of footballing cowardice? Why didn’t all the people in the UK wantArsenalto win? Why did some Arsenal fans find that annoying? Could it possibly be that people are different and want different things from football matches they consume in very different ways?\n\nThe big question is about Arsenal’s approach to the final. I am not totally comfortable saying the words “game state” out loud, but it is clearMikel Artetahad a decision to make once Arsenal went 1-0 up after six minutes. A decision, we presume, he had made a long time before Kai Havertz roofed it over Matvey Safonov and into the Paris Saint-Germain goal.\n\nDoes he keep attacking or does he take the best defence in the world, who have won the Premier League by being defensively brilliant, and see whether PSG can break them down? It seems the most sensible decision he could make at that time.\n\nIt is not without risks. Not having the ball is physically and mentally exhausting. PSG, despite not creating a clear chance in the first half, were so close with quite a few final balls. That is the hard bit of breaking down a low block: choosing when to try the difficult pass, choosing who makes it, choosing who receives it. That was this game in microcosm: move the defence around until a tiny gap appears.\n\nParking the bus is often used as a criticism. But parking a bus is presumably incredibly difficult – as is maintaining your shape, keeping your discipline and deciding when you have to go to ground to block or make a last-ditch tackle. So maybe Arsenal did park the bus and maybe we’ve got that phrase wrong all along.\n\nBut aren’t Arsenal the best team in the best league in the world? Surely they can offer more than that? It’s an understandable question. This Arsenal team were not going to go all-out attack, especially once they had a lead. So what’s the choice? Defend as they did or attack 5% or 10% more? What does that look like? And do you by definition leave yourself 5% or 10% more open, making those PSG final balls 5% to 10% easier? Arsenal had the only other clear chance in the first half. It was almost perfect.\n\nIt is fair to criticise Arteta’s substitutions and their inability to change things after the equaliser, but that is perhaps as much down to the fact that despite building a brilliant squad, with two excellent players in each position, they are agaláticoor two, or three, behind PSG.\n\nIt didn’t work. Eventually a through ball pierced the backline and Cristhian Mosquera fouled Khvicha Kvaratskhelia. PSG are better at football. That’s quite a key part in all of this.\n\nIt feels as if this was Arteta’s best plan for winning the Champions League and to be clear I did not want Arsenal to win this game (although I’m not entirely sure I wanted PSG and their project to win it either).\n\nWas it a good game? Once Arsenal scored, I was completely invested in watching the best attack try to break down the best defence. Yet there is a high chance I’ve watched very similar games with teams in different shirts in different competitions and found them insipidly boring. There is a high chance I’ll watch England struggle to break down a low block in a few weeks’ time and start moaning about handbrakes (Handbremse”, if you want to yell at Thomas Tuchel in his native tongue). I have four decades of match-worn scars watching the Three Lions do that.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 18:57:14 EDT",
+  "lastUpdated": "2026-06-05 @ 06:59:52 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
