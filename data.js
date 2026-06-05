@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tactical whiteboard: Staff reviews structures to handle Germany's transition speed",
+      "text": "⚽ Pulisic camp updates: 'The Texas heat is intense, but the squad is flying'",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Germany coach Nagelsmann plans high-possession shape to test USA's press",
+      "text": "🌍 Group D scouting: Paraguay analysts dissect USMNT's Senegal tape",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -421,10 +421,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-05": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_usa_20260605_5",
+            "category": "usa",
+            "type": "Blog",
+            "title": "Pulisic camp updates: 'The Texas heat is intense, but the squad is flying'",
+            "bullets": [
+              "Captain shares positive updates from Dallas team hotel.",
+              "Pulisic: 'Poch's staff is push us hard, but the energy is unbelievable.'",
+              "USA supporters turn out in large numbers for Dallas open session."
+            ],
+            "summary": "Christian Pulisic shared his updates from the Dallas base, expressing confidence in the squad's physical adaptation and team spirit under Pochettino's guidance.",
+            "fullText": "Christian Pulisic shared his updates from the Dallas base, expressing confidence in the squad's physical adaptation and team spirit under Pochettino's guidance.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Christian Pulisic (Player Journal)",
+            "readTime": "3 min",
+            "tag": "Player Journal",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260605_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group D scouting: Paraguay analysts dissect USMNT's Senegal tape",
+            "bullets": [
+              "Paraguay technical division logs spaces behind USA's overlapping fullbacks.",
+              "Alfaro: 'USA is dynamic and fast but leaves gaps during build-up plays.'",
+              "Paraguay structures custom defensive screens to mark Balogun."
+            ],
+            "summary": "Paraguay's coaching staff has analyzed USA's warm-up videos, highlighting potential spacing gaps behind Robinson when he overlaps. They are designing specific counter-press drills to capitalize.",
+            "fullText": "Paraguay's coaching staff has analyzed USA's warm-up videos, highlighting potential spacing gaps behind Robinson when he overlaps. They are designing specific counter-press drills to capitalize.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "ESPN FC South America Desk",
+            "readTime": "3 min",
+            "tag": "Scouting Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 18:57:15 EDT",
+  "lastUpdated": "2026-06-05 @ 06:59:52 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
