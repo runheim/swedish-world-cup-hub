@@ -24,16 +24,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026 news, PFA awards shortlists, transfer latest and more: football– live",
+      "text": "⚽ World Cup 2026 news; Al-Mubarak on City’s 134 charges; Newcastle’s £24m Jaouen deal: football– live",
       "link": "https://www.theguardian.com/football/live/2026/jun/05/world-cup-2026-buildup-transfer-latest-and-lionesses-in-spain-football-news-live"
     },
     {
-      "text": "⚽ Doski stunner earns Iraq draw against understrength Spain in World Cup warm-up",
-      "link": "https://www.theguardian.com/football/2026/jun/04/spain-iraq-friendly-international-match-report"
-    },
-    {
-      "text": "⚽ Griping about Tuchel’s handbrake or Arteta’s bus makes the bantersphere tick | Max Rushden",
-      "link": "https://www.theguardian.com/football/2026/jun/04/griping-thomas-tuchel-handbrake-mikel-arteta-bus-england-arsenal-bantersphere"
+      "text": "⚽ England’s heatseekers begin World Cup countdown with Tampa test",
+      "link": "https://www.theguardian.com/football/2026/jun/05/england-world-cup-countdown-new-zealand-friendly-tampa-heat"
     }
   ],
   "timeline": {
@@ -1111,11 +1107,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2402_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+            "bullets": [
+              "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
+            "fullText": "Rice (left) and Raya have both been shortlisted for the Professional Footballers' Association men's player of the year\n\nArsenal's Declan Rice, Gabriel and David Raya have been nominated for the Professional Footballers' Association men's player of the year award alongside Manchester United's Bruno Fernandes and Manchester City duo Erling Haaland and Rayan Cherki.\n\nEarlier this month, Fernandes, 31, won the Football Writers' Association's men'sfootballer of the year award.\n\nThat award is often an indicator of who is the frontrunner to be named the PFA player of the year.\n\nThe Portugal midfielder registered a record 21 Premier League assists to help United finish third.\n\nMidfielder Rice, defender Gabriel and goalkeeper Raya were all key players for Arsenal, who won the Premier League for the first time in 22 years.\n\nStriker Haaland bagged 27 goals to win the league's golden boot, while Cherki enjoyed a successful first season in the Premier League.\n\nFormer Liverpool winger Mohamed Salahwon the award last yearafter scoring 29 times to help the Reds win the Premier League.\n\nThe winners will be honoured on Tuesday, 25 August at the 53rd annual PFA Awards Ceremony in Manchester.\n\nCherki scored four goals and added 12 assists in the Premier League\n\nCherki has also been nominated for the PFA young player of the year, alongside City team-mate and England international Nico O'Reilly, who was named as the Premier League's young player of the season last week.\n\nManchester United midfielder Kobbie Mainoo, another England international, is also among the nominees after playing a key role in Michael Carrick's side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2403_1",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup quiz: Name every player in England's squad",
+            "bullets": [
+              "There are just 12 days until England play their World Cup opener against Croatia - but can you name ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There are just 12 days until England play their World Cup opener against Croatia - but can you name ever member of the squad picked by Thomas Tuchel?",
+            "fullText": "There are just 12 days until England play their World Cup opener against Croatia in Dallas on 17 June (21:00 BST).\n\nCan you name every player in manager Thomas Tuchel's squad?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWorld Cup quiz: Name every player in Scotland's squad\n\nCan you name every player with 100 Premier League goals?\n\nFootball quiz: Name every club in the Premier League and EFL\n\nCan you name the 10 Lionesses with most England caps?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2404_2",
+            "category": "england",
+            "type": "News",
+            "title": "The familiar phone call after Morrison's NI debut",
+            "bullets": [
+              "Liverpool teenager Kieran Morrison said he was \"buzzing\" to make his senior Northern Ireland debut a...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool teenager Kieran Morrison said he was \"buzzing\" to make his senior Northern Ireland debut against Guinea on Thursday.",
+            "fullText": "Liverpool teenager Kieran Morrison made his Northern Ireland debut against Guinea\n\nThroughout his young career to date, Kieran Morrison takes a phone call from his dad after every game.\n\nIt was no different as he made his senior Northern Ireland debut against Guinea on Thursday.\n\nStanding on the pitch in the sweltering La Linea sun, under the shadow of the Rock of Gibraltar, he spoke to his dad about his first 45 minutes in a green shirt.\n\n\"He was telling me what I could have done better and what I done well,\" a proud Morrison said.\n\n\"He does that every game. He's my coach and he has been since I was four years old.\n\n\"After every game he calls me until I answer. I'm glad I have that type of person in my corner, sometimes it's to give me criticism and other times it's to offer praise.\"\n\nDespite only making two senior Liverpool appearances under the now-departed Arne Slot, in the EFL Cup and FA Cup, Morrison was called into Michael O'Neill's senior squad for the World Cup play-off with Italy in March.\n\nHe did not feature in Bergamo, or in the friendly with Wales that followed, but he got his chance in the 1-0 win over Guinea in Spain.\n\n\"At the start of the season I wouldn't have expected to hear that,\" he said on what it felt like to be called a Northern Ireland international.\n\n\"I'm very proud and my family is very proud too. I'm buzzing.\"\n\nWearing the number nine shirt, famous for David Healy's goalscoring exploits at the turn of the century, Morrison played the opening 45 minutes of the friendly against the African side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2404_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the game, travelling to the USA, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2404_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the game, travelling to the USA, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2404_5",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 news; Al-Mubarak on City’s 134 charges; Newcastle’s £24m Jaouen deal: football– live",
+            "bullets": [
+              "⚽️ Latest football news before a big weekend of action⚽️ Get in touch: email David | And follow us o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Latest football news before a big weekend of action⚽️ Get in touch: email David | And follow us on TikTokThe shortlists for the Men’s and Women’s PFA players’ awards have been revealed. Arsenal’s Premier League-winning trio of Declan Rice, Gabriel and David Raya all feature while Bunny Shaw and Yui Hasegawa have both been nominated for the Women’s Player of the Year award after helping Manchester City to title glory.Men’s Players’ Player of the Year nominations Continue reading...",
+            "fullText": "Tottenham have unveiled a truly inspirational video welcoming Andy Robertson to the club ahead of his move from Liverpool.\n\nStarring ex-Tottenham defender Michael Dawson, a former teammate of Robertson’s at Hull, he sends this heartwarming message:\n\n“This shirt, the cockerel, that’s us since 1882. Worn by those who came before you, and everyone supporting from the stands.\n\n“This club has been family to me, and we always have room for someone new.\n\n“On the back, where your name is, that’s your chance to add something of your own to our story. As your old teammate and captain, I’m proud that I can welcome you to Spurs. Robbo, this is yours now too.”\n\nThe Scotland captain will officially join on 1 July when his Liverpool contract expires.\n\nSporting Director, Johan Lange, said: “We are delighted to welcome Andy to the club.\n\n“First and foremost, he is an outstanding left-back - one of the best of all time in the Premier League, and someone who will improve our squad.\n\n“In addition, his quality, character and leadership have been evident throughout a career in which he has regularly competed for - and won - major honours.\n\n“Andy’s professionalism and commitment will also be invaluable to the development of our squad, and he shares our ambition and determination to bring success back to the Club.\n\n“We are excited for Andy’s new chapter with us and look forward to having him here after the World Cup.”\n\nHead Coach, Roberto De Zerbi, said: “Andy is someone I’ve admired for a number of years and he will bring outstanding technical qualities, experience, leadership and mentality to our team.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2405_6",
+            "category": "england",
+            "type": "News",
+            "title": "England’s heatseekers begin World Cup countdown with Tampa test",
+            "bullets": [
+              "The FA’s data-driven approach towards the World Cup is into its final stages as Tuchel’s side take o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The FA’s data-driven approach towards the World Cup is into its final stages as Tuchel’s side take on New Zealand“It was hot in ’94,” thundered Alexi Lalas, the former USA defender turned Fox Sports analyst, who starred for his country when they were the sole World Cup hosts that year. “And guess what? It’s going to be hot again this time.”Lalas’s booming address came last December at the draw in Washington DC for this summer’s tournament and, to digress slightly, it was difficult not to fixate on his sheer vocality. Lalas is loud and confident, outspoken and there was the moment when he considered England’s chances at the finals. Notoriously, they failed to qualify 32 years ago. Continue reading...",
+            "fullText": "The FA’s data-driven approach towards the World Cup is into its final stages as Tuchel’s side take on New Zealand\n\n“It was hot in ’94,” thundered Alexi Lalas, the former USA defender turned Fox Sports analyst, who starred for his country when they were the soleWorld Cuphosts that year. “And guess what? It’s going to be hot again this time.”\n\nLalas’s booming address came last December at the draw in Washington DC for this summer’s tournament and, to digress slightly, it was difficult not to fixate on his sheer vocality. Lalas is loud and confident, outspoken and there was the moment when he considered England’s chances at the finals. Notoriously, they failed to qualify 32 years ago.\n\nTo sum up, Lalas made it plain that England were coming to his turf with the express intention of making off with the trophy, bringing it home and so on and he, for one, was absolutely not OK with that. What does he have against England? It was unclear. Anyway …\n\nLalas’s main point about the heat and humidity was that he was in no mood to hear any moaning about it and the message appeared to be directed at the European heavyweights, including England. Just deal with it, lads. It is the same for everybody.\n\nEngland are dealing with it. There is a reason whyThomas Tuchelwanted to oversee his first training session of the summer in West Palm Beach on Tuesday – 15 days before England kick-off the mission to add a second star to the shirt against Croatia in Dallas. The manager has been keen for his players to acclimatise as early as possible and there is no more testing environment than Florida. Some of Tuchel’s squad came over to the Sunshine State in the final week of May, partly for a holiday but also to begin the process of getting used to the conditions.\n\nIt was 32C and 79% humidity in West Palm Beach for Tuesday’s session, and the stadium in Miami isthe tournament’s highest-risk venuein terms of heat. The one in Kansas City, the area in which England will base themselves for the duration of the finals, is second on the list. If England win their group and progress, they would play their quarter-final in Miami. Before that, they would have a last-16 tie in Mexico City and the high altitude which can affect breathing would be an additional challenge.\n\nEngland play their opening warm-up game against New Zealand on Saturday at 4pm local time (9pm BST) in Tampa, roughly four hours by road from West Palm Beach. The temperature at kick-off is forecast to be 32C, albeit with less humidity than in West Palm Beach, and it talks to the buzz phrase that has done the rounds at the Football Association. They want the players to be “comfortable being uncomfortable”.\n\nThere is no doubt that extreme heat does not make for great football. The hotter it is, the less players run – at all speeds. The data from the Club World Cup in the US last summer showed this. Tuchel’s assistant, Anthony Barry, is on record as saying “the environments [in North America] do not facilitate world-class football. You’re not going to see the best team playing the best football. The team that wins the World Cup will be one of moments.”\n\nEvery England fan worries that the conditions will be one of the greatest obstacles, with almost all of Tuchel’s players coming off a physically draining Premier League season. Some are carrying injury niggles. The FA is clear that this World Cup will be the most challenging ever – the hottest since 1994; the biggest with the expansion to 48 nations; the most logistically demanding across not only the US but Mexico and Canada, the other hosts. From east to west, there are four time zones.\n\nThe team that win will be the one that cope best with the variables and from an England point of view the “heat-proof game model” – which takes in selections, rotations and substitutions – and recovery strategies are key.\n\nThe FA has invested a significant amount of planning and infrastructure into working out how they get the players to and through the tournament in the best possible physical state. Most of the acclimatisation is taking place in Florida – England have a second friendly against Costa Rica in Orlando on Wednesday – but the groundwork began last June, when Tuchel took the squad to Girona for a week of warm-weather training.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 06:59:52 EDT",
+  "lastUpdated": "2026-06-05 @ 08:24:10 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
