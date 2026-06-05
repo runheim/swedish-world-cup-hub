@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Lineup Confirmed: Potter starts Johansson, Lindelöf, and Gyökeres vs Greece",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Japan locks in high-tempo full-pitch pressing drills in Dallas base",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Degerfors IF wanted to show the football World Cup on the big screen - backed out because of the price of over half a million kroner",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/degerfors-if-ville-visa-vm-pa-storbild-backade-pa-grund-av-priset-pa-en-halv-miljon-kronor"
     }
   ],
   "timeline": {
@@ -553,10 +537,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-05": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5931_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Degerfors IF wanted to show the football World Cup on the big screen - backed out because of the price of over half a million kroner",
+            "bullets": [
+              "Degerfors IF had thoughts of showing Sweden's match against the Netherlands in the World Cup in fron...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Degerfors IF had thoughts of showing Sweden's match against the Netherlands in the World Cup in front of a large audience at their home arena. However, after learning of the price, the plans were scrapped. - Unfortunately, many people back off, says Timmie Falk, press manager at Degerfors IF.",
+            "fullText": "Degerfors IF had thoughts of showing Sweden's match against the Netherlands in the World Cup in front of a large audience at their home arena.\n\nHowever, after learning of the price, the plans were scrapped.\n\n- Unfortunately, many people back off, says Timmie Falk, press manager at Degerfors IF.\n\nIn order to show the World Cup publicly, it is necessary to pay for it.\n\nDegerfors IF was interested in showing Sweden's match against the Netherlands on Midsummer's Day. The cost would be almost SEK 540,000, excluding VAT, because between 2,000 and 3,000 people were expected at Stora Valla and they intended to serve alcohol.\n\n- With license, big screen, alcohol and food costs, it becomes too big a risk, says Timmie Falk.\n\nThe reason the price tag for a single match is so high is that you have to pay to broadcast the entire World Cup.\n\nThis is how Allente, who handles the sale and administration of the licenses on behalf of the Swedish rights holders SVT and TV4, explains why you cannot buy individual matches:\n\n\"The model is based on the license covering the entire tournament. It is determined by the rights holders and applies to all actors who want to arrange public screenings,\" writes PR and communications manager Susanne Nylén in an email to SVT.\n\nAllente refers other questions regarding the overall price model and rights structure to TV4 and SVT.\n\nDo you think that many pubs will show the matches anyway, without paying a license?\n\n\"It is difficult to assess. However, checks will be carried out on an ongoing basis by external inspection companies at a large number of locations around Sweden. The aim is to ensure that public viewing takes place in accordance with the rights and rules that apply to the championship. At the same time, our experience is that most serious players want to do the right thing for themselves and sign the required licenses,\" writes Nylén.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-04 @ 18:57:12 EDT",
+  "lastUpdated": "2026-06-05 @ 06:59:31 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
