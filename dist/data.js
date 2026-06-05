@@ -12,10 +12,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England to use palm-cooling devices at World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/cj0p0e90z9vo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Tell us your stories of Scotland's World Cup",
       "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -1410,11 +1406,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4453_0",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel will not let Tampa pitch affect selection",
+            "bullets": [
+              "England head coach Thomas Tuchel says reports about the state of the pitch at the venue for his side...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel says reports about the state of the pitch at the venue for his side's friendly against New Zealand will not influence team selection.",
+            "fullText": "Thomas Tuchel took over as England head coach in January 2025\n\nEngland head coach Thomas Tuchel says reports about the state of the pitch for his team's friendly against New Zealand will not influence which players are involved.\n\nTheDaily Mail,externalsaid the playing surface for the match at the Raymond James Stadium, home of the NFL's Tampa Bay Buccaneers, was a 'plug and play' pitch laid just a week ago.\n\nSeveral pitches for World Cup matches are being played in stadiums that usually have artificial surfaces but which have been relaid with grass.\n\nTravelling ground staff from the Football Association were reported to be liaising with the venue over the pitch which appeared in pictures to be slightly disjointed in parts.\n\nEngland have no injury concerns and despite the start of the World Cup being so close, Tuchel said the condition of the pitch \"will not affect my team selection\". He said that he has \"heard\" it \"will be OK\".\n\n\"I saw a photo from a journalist which made me a little bit worried and concerned, but let's decide when we are there,\" Tuchel told a news conference on Friday.\n\n\"If there are any issues, we can always react to it. The plan is to play 45 minutes with two complete teams, to expose everyone to the same amount of minutes.\n\n\"Then we can continue for the next three days with the same load of training. That is the plan and at the moment we are sticking to it.\"\n\nEngland are in Florida for a pre-World Cup camp in West Palm Beach and will play New Zealand on Saturday (21:00 BST).\n\nThe game is the first of two warm-ups, with the other being against Costa Rica on 10 June (21:00 BST), before the World Cup officially starts on 11 June.\n\nEngland trained with 27 players on Friday in a session which did not include Arsenal players Eberechi Eze, Noni Madueke, Declan Rice and Bukayo Saka as they were involved in the Champions League final on 30 May.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4453_1",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal trio & Fernandes on PFA men's player of the year shortlist",
+            "bullets": [
+              "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice, Gabriel, David Raya, Bruno Fernandes, Erling Haaland and Rayan Cherki are nominated for the Professional Footballers' Association men's player of the year award.",
+            "fullText": "Rice (left) and Raya have both been shortlisted for the Professional Footballers' Association men's player of the year\n\nArsenal's Declan Rice, Gabriel and David Raya have been nominated for the Professional Footballers' Association men's player of the year award alongside Manchester United's Bruno Fernandes and Manchester City duo Erling Haaland and Rayan Cherki.\n\nEarlier this month, Fernandes, 31, won the Football Writers' Association's men'sfootballer of the year award.\n\nThat award is often an indicator of who is the frontrunner to be named the PFA player of the year.\n\nThe Portugal midfielder registered a record 21 Premier League assists to help United finish third.\n\nMidfielder Rice, defender Gabriel and goalkeeper Raya were all key players for Arsenal, who won the Premier League for the first time in 22 years.\n\nStriker Haaland bagged 27 goals to win the league's golden boot, while Cherki enjoyed a successful first season in the Premier League.\n\nFormer Liverpool winger Mohamed Salahwon the award last yearafter scoring 29 times to help the Reds win the Premier League.\n\nThe winners will be honoured on Tuesday, 25 August at the 53rd annual PFA Awards Ceremony in Manchester.\n\nCherki scored four goals and added 12 assists in the Premier League\n\nCherki has also been nominated for the PFA young player of the year, alongside City team-mate and England international Nico O'Reilly, who was named as the Premier League's young player of the season last week.\n\nManchester United midfielder Kobbie Mainoo, another England international, is also among the nominees after playing a key role in Michael Carrick's side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4453_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the game, travelling to the USA, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4453_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup",
+            "bullets": [
+              "Head coach says Bayern Munich striker is in ‘top shape’England face New Zealand in warm-up on Saturd...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach says Bayern Munich striker is in ‘top shape’England face New Zealand in warm-up on SaturdayThomas Tuchel has said that Harry Kane is in top shape and ready to lead England to glory at the World Cup. The Bayern Munich striker has been short of fitness at previous major tournaments but he has enjoyed a brilliant season in Germany and has looked in peak physical condition in training this week.England have prepared for the intense heat expected at the World Cup by heading to Florida to acclimatise to the weather and have been working in testing conditions at their pre-tournament base in West Palm Beach. Continue reading...",
+            "fullText": "Head coach says Bayern Munich striker is in ‘top shape’\n\nThomas Tuchel has said that Harry Kane is in top shape and ready to lead England to glory at the World Cup. The Bayern Munich striker has been short of fitness at previous major tournaments but he has enjoyed a brilliant season in Germany and has looked in peak physical condition in training this week.\n\nEngland have prepared for the intense heat expected at theWorld Cupby heading to Florida to acclimatise to the weather and have been working in testing conditions at their pre-tournament base in West Palm Beach.\n\nTuchel is focused on recovery and knows that the team’s hopes of glory will rest heavily on Kane staying injury-free. The country’s record goalscorer remains a talismanic figure, despite struggling for form and fitness at Euro 2024, and has the backing of his manager beforeEnglandcross Florida to face New Zealand in Tampa in their first warm-up game on Saturday.\n\n“He looks in top shape,” Tuchel said. “He looks lean, sharp and he trains at the highest level. We had a defensive training session today and he was leading the intensity. He is so used to the high press from Bayern Munich and the intensive game that they play in the opponents’ half. He is leading by example. I think he is in the best shape.\n\n“He is ready to go. We don’t have to be worried about him at all, even if it is hot in June. He has showed me the whole week that he is ready. He is our key player.”\n\nThe New Zealand game will kick off at 4pm local time (9pm BST), when the temperature is forecast to be 32C and the humidity levels at about 40%. Tuchel intends to play two different lineups in each half at the Raymond James Stadium and is focused on building his side’s energy levels.\n\n“Some of them need a load, some of them need a recovery,” the German said. “We give 45 to everyone. We will try to keep Harry fit and play him as much as possible but hopefully we will have the chance to not need to play him every match 90 or 120 minutes.”\n\nTuchel indicated that Ollie Watkins will be Kane’s understudy, with Ivan Toney seen as more of a wildcard to use in specific situations. “I think Ollie is more the guy we need to start for Harry, if we think Harry should not start a match,” he said. “He can keep the intensity up, to keep the press going.\n\n“Ivan is kind of a finisher for us. Maybe it’s a special task to take the attention off Harry. Then we have a second striker who’s very, very good in the box. He’s a good penalty taker. He trains on a high level. I’m very happy with him. He just showed that it was right to take him. He has a brilliant attitude. We have some options but Harry is, of course, the main guy in front.”\n\nTuchel downplayed concerns over the state of the pitch in Tampa, which is home to the NFL’s Tampa Bay Buccaneers. “We have a greenkeeper who takes care of it and I hope it will be all right,” he said. “It is an American football pitch. We are told it is OK. I saw just a photo, that made me a little bit worried but let’s decide when we are there.”\n\nEngland’s final friendly is against Costa Rica in Orlando on Wednesday. They do not play their first game in Group L until facing Croatia in Dallas on 15 June, giving them time to adjust to the hot weather. The squad’s Arsenal contingent will not be involved against New Zealand, having been given permission to arrive in Florida late after last weekend’s Champions League final.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4454_4",
+            "category": "england",
+            "type": "News",
+            "title": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
+            "bullets": [
+              "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in the United States - and there was a lot to cover.",
+            "fullText": "Thomas Tuchel has spoken for the first time since England landed in the USA for the World Cup; the England boss discussed Harry Kane's fitness alongside whether his players can change clubs during the tournament; Tuchel also expressed concerns over Saturday's friendly pitch and IFAB rules",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 17:01:15 EDT",
+  "lastUpdated": "2026-06-05 @ 18:44:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
