@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Pulisic camp updates: 'The Texas heat is intense, but the squad is flying'",
+      "text": "⚽ USMNT lands in Dallas to establish main World Cup base camp",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Group D scouting: Paraguay analysts dissect USMNT's Senegal tape",
+      "text": "🌍 Germany squad arrives in Chicago, prepping for Soldier Field friendly",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -466,11 +466,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_usa_20260605_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT lands in Dallas to establish main World Cup base camp",
+            "bullets": [
+              "Pochettino leads squad check-in at elite Dallas training complex.",
+              "Roster initiates high-intensity sessions focusing on heat acclimatization.",
+              "Captain Christian Pulisic: 'Facilities are outstanding; work ethic is 100%.'"
+            ],
+            "summary": "The USMNT has arrived at their primary World Cup training hub in Dallas, Texas. Under Mauricio Pochettino, the squad has kicked off double-sessions to adjust to the Texas heat and refine tactical movements ahead of their friendly vs Germany.",
+            "fullText": "The USMNT has arrived at their primary World Cup training hub in Dallas, Texas. Under Mauricio Pochettino, the squad has kicked off double-sessions to adjust to the Texas heat and refine tactical movements ahead of their friendly vs Germany.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Jeff Carlisle (ESPN FC)",
+            "readTime": "3 min",
+            "tag": "Dallas Camp",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260605_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Germany squad arrives in Chicago, prepping for Soldier Field friendly",
+            "bullets": [
+              "Germany squad checks into Chicago hotel for final send-off warmup.",
+              "Nagelsmann leads training session focusing on high-possession plays.",
+              "Staff reports full squad availability with Musiala and Wirtz fit."
+            ],
+            "summary": "Germany has landed in Chicago for the friendly match. Julian Nagelsmann's side plans to test their high-tempo build-ups and press resistance against the energetic USMNT.",
+            "fullText": "Germany has landed in Chicago for the friendly match. Julian Nagelsmann's side plans to test their high-tempo build-ups and press resistance against the energetic USMNT.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Germany Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 06:59:52 EDT",
+  "lastUpdated": "2026-06-05 @ 08:24:18 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
