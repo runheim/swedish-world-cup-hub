@@ -685,11 +685,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4504_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Degerfors IF wanted to show the football World Cup on the big screen - backed out because of the price of over half a million kroner",
+            "bullets": [
+              "Degerfors IF had thoughts of showing Sweden's match against the Netherlands in the World Cup in fron...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Degerfors IF had thoughts of showing Sweden's match against the Netherlands in the World Cup in front of a large audience at their home arena. However, after learning of the price, the plans were scrapped. - Unfortunately, many people back off, says Timmie Falk, press manager at Degerfors IF.",
+            "fullText": "Degerfors IF had thoughts of showing Sweden's match against the Netherlands in the World Cup in front of a large audience at their home arena.\n\nHowever, after learning of the price, the plans were scrapped.\n\n- Unfortunately, many people back off, says Timmie Falk, press manager at Degerfors IF.\n\nIn order to show the World Cup publicly, it is necessary to pay for it.\n\nDegerfors IF was interested in showing Sweden's match against the Netherlands on Midsummer's Day. The cost would be almost SEK 540,000, excluding VAT, because between 2,000 and 3,000 people were expected at Stora Valla and they intended to serve alcohol.\n\n- With license, big screen, alcohol and food costs, it becomes too big a risk, says Timmie Falk.\n\nThe reason the price tag for a single match is so high is that you have to pay to broadcast the entire World Cup.\n\nThis is how Allente, who handles the sale and administration of the licenses on behalf of the Swedish rights holders SVT and TV4, explains why you cannot buy individual matches:\n\n\"The model is based on the license covering the entire tournament. It is determined by the rights holders and applies to all actors who want to arrange public screenings,\" writes PR and communications manager Susanne Nylén in an email to SVT.\n\nAllente refers other questions regarding the overall price model and rights structure to TV4 and SVT.\n\nDo you think that many pubs will show the matches anyway, without paying a license?\n\n\"It is difficult to assess. However, checks will be carried out on an ongoing basis by external inspection companies at a large number of locations around Sweden. The aim is to ensure that public viewing takes place in accordance with the rights and rules that apply to the championship. At the same time, our experience is that most serious players want to do the right thing for themselves and sign the required licenses,\" writes Nylén.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4506_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter: ‘I feel very Swedish when I’m working – I look a bit Swedish’",
+            "bullets": [
+              "Head coach looks forward to leading Sweden at World Cup after reflecting on failures with Chelsea an...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach looks forward to leading Sweden at World Cup after reflecting on failures with Chelsea and West HamIf management has taught Graham Potter anything it is that there is no point in trying to run away from failure. “You’ve got to face the bad stuff,” the 51-year‑old says as he thinks about how he recovered from bruising spells at Chelsea and West Ham. “The more you face it, the more chance your life is better. Then you get these beautiful moments.”Potter is in reflective, occasionally punchy mood during a long conversation about a rollercoaster few years and the brutal life of a football manager. He points out there have also been some successes – he has, after all, lifted Sweden out of the doldrums and led them into the World Cup – but knows people tend to focus on the lows. Potter lasted seven months at Chelsea after leaving the stability of Brighton in September 2022. Then, after a long spell out, he was tempted back when West Ham came calling at the start of last year. Continue reading...",
+            "fullText": "Head coach looks forward to leading Sweden at World Cup after reflecting on failures with Chelsea and West Ham\n\nIf management has taught Graham Potter anything it is that there is no point in trying to run away from failure. “You’ve got to face the bad stuff,” the 51-year‑old says as he thinks about how he recovered from bruising spells at Chelsea and West Ham. “The more you face it, the more chance your life is better. Then you get these beautiful moments.”\n\nPotter is in reflective, occasionally punchy mood during a long conversation about a rollercoaster few years and the brutal life of a football manager. He points out there have also been some successes – he has, after all,lifted Sweden out of the doldrumsand led them into the World Cup – but knows people tend to focus on the lows. Potter lasted seven months at Chelsea after leaving the stability of Brighton in September 2022. Then, after a long spell out, he was tempted back when West Ham came calling at the start of last year.\n\nIt was the wrong choice for Potter, who was lost in West Ham’s dysfunction. He won six of his 25 games, made a terrible start to his first full season and found himself at a crossroads afterlosing his job last September. What next? A career that promised so much was in danger of drifting into irrelevance.\n\n“I have had enough life experience to be able to put all these things into perspective,” he says. “I’m grateful for all the experiences I have had, pluses and minuses. In the end, you have to deal with what life throws at you. After West Ham, I could have done two things. I could have sat around and done media. Or you can go and work.”\n\nThe approach from Sweden was on the way. They were in dire straits in theirWorld Cupqualifying group and needed a replacement for the Dane Jon Dahl Tomasson. First, though, Potter had to look at himself. He spoke to people around him and discussed how to leave West Ham in the past.\n\n“You have to deal with the failure,” Potter says. “But I think you become a better person for it. And then sometimes in football you just can’t rationalise it. You just go: ‘Maybe it wasn’t meant to be.’ Then you try to move on with your life.\n\nThe learnings you take from these experiences, they’re painful. I won’t share my learnings with you because it’s hurt me to get them. I think it should because that’s how you improve.”\n\nPotter blocks out the outside noise. “If I worry about what people think about me that’s a miserable life,” he says. Equally, Potter understood what was at stake when heagreed to become Sweden’s manageron a short-term deal in October. He could not get them out of their qualifying group but they were handed a second chance thanks to their Nations League performances earning a spot in the playoffs. Failing again would have put another dent in his reputation.\n\nEverything changed whenSwedengot to work in March. They were cool and composed during the playoffs. Viktor Gyökeres scored a hat-trick in the 3-1 semi‑final win against Ukraine and an 88th-minute winner in the 3-2 victory over Poland in the decider in Stockholm.\n\n“You go on to YouTube and go into the Swedish commentary of the game; I looked at it a couple of months afterwards and it’s the emotion in the voice,” Potter says. “Viktor scores and it’s like an out-of-body experience. All our subs are just running on the pitch. There’s 15 players on the pitch and I’m thinking: ‘That’s yellow cards, that’s problems.’ But it’s a World Cup, so all the rules are out the door.”\n\nPotter has extended his contract until 2030. The Englishman has found a deep connection with his adopted country. He was not an outsider when he took the Sweden job, having made his name during a seven-year spell with Östersund, carrying them out of the fourth tier and into the Europa League.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 17:00:34 EDT",
+  "lastUpdated": "2026-06-05 @ 18:45:06 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
