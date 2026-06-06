@@ -615,10 +615,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-06": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0620_0",
+            "category": "usa",
+            "type": "News",
+            "title": "In Iran the World Cup used to trigger joy on our streets. It feels very different now",
+            "bullets": [
+              "A growing divide between fans and team, coupled with economic hardship and war, has dampened the moo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A growing divide between fans and team, coupled with economic hardship and war, has dampened the moodAbbas Kiarostami, the late Iranian director, made a film called Life, and Nothing More …, set during the 1990 World Cup in Italy. The film tells the story of a father and son who, during the tournament, travel to an earthquake-stricken village that had served as the location for Kiarostami’s earlier films. The son, eager to watch Argentina play Brazil, finds a villager who, despite having lost several family members, is busy adjusting a television antenna to watch the game between the two South American football giants.Kiarostami later wrote about this scene: “This sequence is directly drawn from a similar experience during my trip to the earthquake‑stricken region in the early days after the disaster. [The man] had his left arm in a cast, was shirtless, and with his right hand was striking one stone against another at the base of the antenna to secure it. I saw that after that event, what mattered there was life – and then football.” Continue reading...",
+            "fullText": "A growing divide between fans and team, coupled with economic hardship and war, has dampened the mood\n\nAbbas Kiarostami, the late Iranian director, made a film called Life, and Nothing More …, set during the 1990World Cupin Italy. The film tells the story of a father and son who, during the tournament, travel to an earthquake-stricken village that had served as the location for Kiarostami’s earlier films. The son, eager to watch Argentina play Brazil, finds a villager who, despite having lost several family members, is busy adjusting a television antenna to watch the game between the two South American football giants.\n\nKiarostami later wrote about this scene: “This sequence is directly drawn from a similar experience during my trip to the earthquake‑stricken region in the early days after the disaster. [The man] had his left arm in a cast, was shirtless, and with his right hand was striking one stone against another at the base of the antenna to secure it. I saw that after that event, what mattered there was life – and then football.”\n\nAt one time football and the World Cup held such importance for Iranians that they symbolised hope for continuing life.\n\nQualifying for the 1998 World Cup – after defeating Australia over two legs – was celebrated for years like a national occasion, with special programmes, interviews and repeated broadcasts of match highlights on national television.\n\nFour decades later, football – and specifically the national team – has become one of the most controversial aspects of Iranian life at a critical historical moment; a controversy with roots in politics and Iran’s collective memory.\n\nIran have missed two World Cups since 1998 and each qualification has been accompanied by street celebrations – except the most recent one. While videos of past qualification celebrations are easily found online, there are virtually no videos on social media of festivities marking qualification for this World up.\n\nA segment of Iranian society began distancing itself from the national team after September 2022, when thedeath of Mahsa Aminiin police custody triggered one of the most intensewaves of protestssince the Islamic Revolution. These protests became known as the “Woman, Life, Freedom” movement.\n\nAt the time, just before the Qatar World Cup, protesters believed national-team players had not taken a clear stance against the suppression of the demonstrations.Even the players’ act of solidaritybefore the first match, against England, standing in silence during the national anthem in memory of those killed in the unrest, did not bring protesters closer to the team. From that point, for some Iranians, the national team became “the regime’s team”, and this divide has widened.\n\nNima, 42, who has lived outside Iran for years, says: “Iran’s national team has gone from being a team that represented the people during the war with Iraq or the 1998 World Cup, to a team that now promotes the regime. That’s why I no longer care what results they get.”\n\nEconomic pressure, declining purchasing power and the shadow of war (which had not yet happened) contributed to football’s importance for Iranians falling to its lowest level in decades. There is a stark contrast to the atmosphere around the 2014 World Cup, when even a1–0 loss to Argentinain the second group game led to hopeful street celebrations. During the 2018 World Cup the team’s matches were shown on the big screens at Azadi Stadium and received a great response.\n\nArya, 38, says: “I’ve never seen the World Cup feel this unimportant and lacking in excitement for me. Part of it is due to war-related issues, economic conditions and all the hardships of the past year. On top of that, there’s been a growing gap between the national team and the people in recent years.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0620_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
+            "bullets": [
+              "Pochettino ‘not happy’ with Palace’s injury assessmentRichards missed Conference League finalPredict...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino ‘not happy’ with Palace’s injury assessmentRichards missed Conference League finalPredict your World Cup bracket | Complete player guideChris Richards will not take part in the United States’ final World Cup tune-up friendly against Germany, head coach Mauricio Pochettino said in Friday’s pre-match press conference.While Pochettino awaits further assessments, the defender’s status for the World Cup is decidedly in doubt. Continue reading...",
+            "fullText": "Pochettino ‘not happy’ with Palace’s injury assessment\n\nPredict your World Cup bracket|Complete player guide\n\nChris Richards will not take part in the United States’ finalWorld Cuptune-up friendly against Germany, head coach Mauricio Pochettino said in Friday’s pre-match press conference.\n\nWhile Pochettino awaits further assessments, the defender’s status for the World Cup is decidedly in doubt.\n\n“He’s still not ready to compete and play,” Pochettino said Friday. “I think we are going to have that opportunity in the next few days to assess him and see his ankle, and then to make a decision.”\n\nRichards suffered an ankle injury in Crystal Palace’s second-to-last match of its Premier League season against Brentford. The exact nature of the injury is not known, except for Palace manager Oliver Glasner saying that he hadtorn ligamentsin his ankle. He missed their league finale against Arsenal and did not play in the Conference League final against Rayo Vallecano. Ahead of the Arsenal match, Glasner said Richards could be available for the European final, an assessment that had cast a rosier projection of Richards’s readiness for the World Cup – boosted by several reports that there was little doubt in Richards’s camp about his availability for this summer’s tournament.\n\nOn Friday, Pochettino admitted he believed Richards was closer to match fitness given Glasner’s comments that the defender could potentially feature in the Conference League final.\n\nInstead, Pochettino and his staff will have to make a decision on a key player’s readiness to contribute at this World Cup given the shrinking window of recovery between now and the group stage’s opener 12 June against Paraguay.\n\n“There was a line of information where we were thinking that he could play that final against Rayo Vallecano in Conference League,” Pochettino said in Spanish on Friday. “He was on the bench of subs, you remember? After that, [we thought] he could maybe be [involved] against Senegal. In the end, the timelines [are] lengthening and [it] angers me a bit. I’m not happy, because we know Chris Richards is an important player. Of course we all know it.”\n\nRichards spent his time in pre-World Cup camp rehabbing by himself until a session at the National Training Center on Wednesday, when he took the training field with the rest of his teammates. While they partook in the customary pre-training stretch circles and rondos, Richards was off to the side on a second field with a pair of trainers, doing resistance band work while working on his lateral motion.\n\n“We are never going to take a decision to play with some player that [has a] minimum risk,” Pochettino said on Friday. We prefer to not take [a] risk. That’s why all of the players that are going to start, or players that’s going to come from the bench, it’s because they are healthy, and they are 100% fit to play.”\n\nWith Richards unavailable for last weekend’s3-2 winover Senegal, Mark McKenzie was stationed at the heart of the center-back trio. Tim Ream broke lines from the left side, while Alex Freeman served as an elbow back to drop deeper in defensive phases and help with build-up in a wider position.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 18:45:08 EDT",
+  "lastUpdated": "2026-06-06 @ 04:06:29 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
