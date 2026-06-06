@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gustaf Lagerbielke is singled out as the heir to the Swedish throne: \"Extremely unlikely\"",
+      "text": "⚽ Gustaf Lagerbielke is singled out as the heir to the Swedish throne: \"The Riksdag can decide\"",
       "link": "https://www.svt.se/sport/fotboll/gustaf-lagerbielke-pekas-ut-som-svensk-tronarvinge-extremt-osannolikt"
     },
     {
@@ -767,11 +767,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5349_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Gustaf Lagerbielke is singled out as the heir to the Swedish throne: \"The Riksdag can decide\"",
+            "bullets": [
+              "Can WC star Gustaf Lagerbielke become Sweden's next king? In the international media, the centre-bac...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Can WC star Gustaf Lagerbielke become Sweden's next king? In the international media, the centre-back is painted as one of the heirs to the throne. - It does not affect my daily life. People like to speculate, says Lagerbielke.",
+            "fullText": "Can WC star Gustaf Lagerbielke become Sweden's next king?\n\nIn the international media, the centre-back is painted as one of the heirs to the throne.\n\n- It does not affect my daily life. People like to speculate, says Lagerbielke.\n\nThis is how Lagerbielke can get to the throne - see historian Dick Harrison's answer in the clip: \"He must do very well\"\n\nGustaf Lagerbielke is one of the key players in the Swedish WC team. The centre-back scored in the playoff against Poland and is believed to play an important role during this summer's championship.\n\nBut in addition to his efforts on the field, the 26-year-old is surrounded by completely different writings. The English newspaper The Guardian mentions Lagerbielke as 254th in line to take over the Swedish throne.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5351_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Benfica's recipe for success: Recruiting five-year-olds",
+            "bullets": [
+              "Benfica's football academy ranks as the best in the world. Behind the success is a stated plan: To r...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Benfica's football academy ranks as the best in the world. Behind the success is a stated plan: To recruit young boys. - We try to find talent as early as possible, says U16 coach Rui Silva in SVT's program series \"The hunt for the next Lamine Yamal\".",
+            "fullText": "Benfica's football academy ranks as the best in the world. Behind the success is a stated plan: To recruit young boys. - We try to find talent as early as possible, says U16 coach Rui Silva in SVT's program series \"The hunt for the next Lamine Yamal\".\n\nThe Portuguese big club Benfica has brought up great players like Bernardo Silva, Ederson and Swedish Victor Nilsson Lindelöf.\n\nLast winter, the International Center for Sports Studies (CIES) listed the academy as the best in the world, and several players who will play in the World Cup this summer have been trained there.\n\nIn SVT's program series \"The hunt for next Lamine Yamal\", one thing returns: The club's ability to find talent at an early age.\n\nAlready from the age of five, they start recruiting players for their ventures.\n\n- It sounds crazy when you say it, because it is very early, says Ricardo Prudencio who is responsible for Benfica's scouting of players up to 13 years of age, and explains that they have managed to find many at an early age:\n\n- If you look at our A team, B team and U19, you can see that most of the players came to Benfica when they were six or eight years old. Bernardo Silva was very early here, and Joao Neves also came here early, as an example.\n\nIn Sweden, there is a fierce debate about early selection and topping, where the arguments against it are that it is not possible to see at an early age which players will be good or not. And that many give up their sport early because they were chosen at an early age.\n\nOne person who is negative about the phenomenon of early selection is Johan Norberg, who is a professor of sports science at the Center for Sports Research and Malmö University.\n\n- I think this is both regrettable and quite unnecessary, actually. Because in the end, that's not how we get talent, he says to SVT Sport.\n\nWatch the professor develop his reasoning in the player below.\n\nReportaget is a collaboration with Finnish Yle, Norwegian NRK and Danish DR.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 05:32:57 EDT",
+  "lastUpdated": "2026-06-06 @ 11:53:51 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
