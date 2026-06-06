@@ -1890,16 +1890,40 @@ function renderMatchSchedule() {
 
   MATCH_SCHEDULE.forEach(match => {
     const isWarmup = match.type === "warmup";
+    const matchDateStr = match.date;
+    let isCompleted = false;
+    try {
+      const matchTimeStr = match.time.split(" ")[0];
+      const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
+      const now = new Date();
+      isCompleted = (now >= matchDateTime) || (SIMULATED_RESULTS && !!SIMULATED_RESULTS[match.id]);
+    } catch (e) {
+      console.error("Error parsing match date/time:", e);
+    }
+
+    const reportData = MATCH_REPORTS_DATABASE[match.id];
+    let scoreText = "vs.";
+    let badgeText = isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP';
+    
+    if (SIMULATED_RESULTS && SIMULATED_RESULTS[match.id]) {
+      const simRes = SIMULATED_RESULTS[match.id];
+      scoreText = `<strong style="color: var(--us-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${simRes.usa} - ${simRes.opp}</strong>`;
+      badgeText += " - SIMULATED";
+    } else if (isCompleted && reportData) {
+      scoreText = `<strong style="color: var(--us-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${reportData.score}</strong>`;
+      badgeText += " - FINAL RESULT";
+    }
+
     const item = document.createElement("div");
-    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'}`;
+    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'} ${isCompleted ? 'completed' : ''}`;
     item.innerHTML = `
-      <div class="schedule-dot-indicator"></div>
+      <div class="schedule-dot-indicator" style="background: ${isCompleted ? 'var(--us-red)' : 'var(--us-blue)'}"></div>
       <div class="schedule-item-header">
-        <span class="match-badge">${isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP'}</span>
+        <span class="match-badge" style="border-color: ${isCompleted ? 'var(--us-red)' : 'rgba(255,255,255,0.1)'}">${badgeText}</span>
         <span class="match-date-stamp"><i class="far fa-calendar-alt"></i> ${match.date} at ${match.time}</span>
       </div>
       <div class="schedule-item-body">
-        <h3 class="match-pairing">USA <span class="flag-vs">🇺🇸</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
+        <h3 class="match-pairing">USA <span class="flag-vs">🇺🇸</span> ${scoreText} ${match.opponentFlag} ${match.opponent}</h3>
         <p class="match-venue"><i class="fas fa-map-marker-alt"></i> ${match.venue}</p>
         <p class="match-info-desc">${match.details}</p>
       </div>
@@ -2323,10 +2347,18 @@ function handleSimulatorTick() {
     // Update simulated group match results
     if (currentSimMatchId === "match_paraguay" || currentSimMatchId === "match_australia" || currentSimMatchId === "match_turkiye") {
       SIMULATED_RESULTS[currentSimMatchId] = { usa: simScoreUSA, opp: simScoreOpp };
+      if (currentSimMatchId === "match_paraguay") {
+        SIMULATED_RESULTS["match_aus_tur"] = { team1: 1, team2: 2 };
+      } else if (currentSimMatchId === "match_australia") {
+        SIMULATED_RESULTS["match_tur_par"] = { team1: 2, team2: 0 };
+      } else if (currentSimMatchId === "match_turkiye") {
+        SIMULATED_RESULTS["match_par_aus"] = { team1: 1, team2: 1 };
+      }
       calculateGroupStandings();
     }
     
     renderMatchCenter();
+    renderMatchSchedule();
     return;
   }
 
@@ -2654,7 +2686,10 @@ function setupEventListeners() {
 let SIMULATED_RESULTS = {
   match_paraguay: null,
   match_australia: null,
-  match_turkiye: null
+  match_turkiye: null,
+  match_aus_tur: null,
+  match_tur_par: null,
+  match_par_aus: null
 };
 
 let venueClockInterval = null;
@@ -2789,22 +2824,99 @@ function calculateGroupStandings() {
     }
   }
 
-  // Pre-tournament: All teams start at 0-0-0. Background matches will be added once the World Cup begins.
+  function isMatchCompleted(matchId) {
+    if (SIMULATED_RESULTS[matchId]) return true;
+    const match = MATCH_SCHEDULE.find(m => m.id === matchId);
+    if (!match) return false;
+    try {
+      const matchTimeStr = match.time.split(" ")[0];
+      const matchDateTime = new Date(`${match.date}T${matchTimeStr}:00`);
+      const now = new Date();
+      return now >= matchDateTime;
+    } catch (e) {
+      return false;
+    }
+  }
 
-  // 2. Add simulated USA matches
-  if (SIMULATED_RESULTS.match_paraguay) {
-    addMatch("usa", SIMULATED_RESULTS.match_paraguay.usa, SIMULATED_RESULTS.match_paraguay.opp);
-    addMatch("paraguay", SIMULATED_RESULTS.match_paraguay.opp, SIMULATED_RESULTS.match_paraguay.usa);
+  // 1. USA vs Paraguay & Australia vs Türkiye
+  if (isMatchCompleted("match_paraguay")) {
+    let usaScore = 2, oppScore = 0; // Default real score
+    if (SIMULATED_RESULTS["match_paraguay"]) {
+      usaScore = SIMULATED_RESULTS["match_paraguay"].usa;
+      oppScore = SIMULATED_RESULTS["match_paraguay"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_paraguay"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        usaScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("usa", usaScore, oppScore);
+    addMatch("paraguay", oppScore, usaScore);
+
+    // Other match: Australia vs Türkiye
+    let ausScore = 1, turScore = 2; // Default
+    if (SIMULATED_RESULTS["match_aus_tur"]) {
+      ausScore = SIMULATED_RESULTS["match_aus_tur"].team1;
+      turScore = SIMULATED_RESULTS["match_aus_tur"].team2;
+    }
+    addMatch("australia", ausScore, turScore);
+    addMatch("turkiye", turScore, ausScore);
   }
-  
-  if (SIMULATED_RESULTS.match_australia) {
-    addMatch("usa", SIMULATED_RESULTS.match_australia.usa, SIMULATED_RESULTS.match_australia.opp);
-    addMatch("australia", SIMULATED_RESULTS.match_australia.opp, SIMULATED_RESULTS.match_australia.usa);
+
+  // 2. USA vs Australia & Türkiye vs Paraguay
+  if (isMatchCompleted("match_australia")) {
+    let usaScore = 2, oppScore = 2; // Default real score
+    if (SIMULATED_RESULTS["match_australia"]) {
+      usaScore = SIMULATED_RESULTS["match_australia"].usa;
+      oppScore = SIMULATED_RESULTS["match_australia"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_australia"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        usaScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("usa", usaScore, oppScore);
+    addMatch("australia", oppScore, usaScore);
+
+    // Other match: Türkiye vs Paraguay
+    let turScore = 2, parScore = 0; // Default
+    if (SIMULATED_RESULTS["match_tur_par"]) {
+      turScore = SIMULATED_RESULTS["match_tur_par"].team1;
+      parScore = SIMULATED_RESULTS["match_tur_par"].team2;
+    }
+    addMatch("turkiye", turScore, parScore);
+    addMatch("paraguay", parScore, turScore);
   }
-  
-  if (SIMULATED_RESULTS.match_turkiye) {
-    addMatch("usa", SIMULATED_RESULTS.match_turkiye.usa, SIMULATED_RESULTS.match_turkiye.opp);
-    addMatch("turkiye", SIMULATED_RESULTS.match_turkiye.opp, SIMULATED_RESULTS.match_turkiye.usa);
+
+  // 3. USA vs Türkiye & Paraguay vs Australia
+  if (isMatchCompleted("match_turkiye")) {
+    let usaScore = 2, oppScore = 1; // Default real score
+    if (SIMULATED_RESULTS["match_turkiye"]) {
+      usaScore = SIMULATED_RESULTS["match_turkiye"].usa;
+      oppScore = SIMULATED_RESULTS["match_turkiye"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_turkiye"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        usaScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("usa", usaScore, oppScore);
+    addMatch("turkiye", oppScore, usaScore);
+
+    // Other match: Paraguay vs Australia
+    let parScore = 1, ausScore = 1; // Default
+    if (SIMULATED_RESULTS["match_par_aus"]) {
+      parScore = SIMULATED_RESULTS["match_par_aus"].team1;
+      ausScore = SIMULATED_RESULTS["match_par_aus"].team2;
+    }
+    addMatch("paraguay", parScore, ausScore);
+    addMatch("australia", ausScore, parScore);
   }
 
   // Convert map to array and sort
