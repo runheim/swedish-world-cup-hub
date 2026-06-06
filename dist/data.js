@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ In Iran the World Cup used to trigger joy on our streets. It feels very different now",
-      "link": "https://www.theguardian.com/football/2026/jun/05/iran-world-cup-mood-streets"
-    },
-    {
       "text": "⚽ Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
       "link": "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup"
     }
@@ -660,7 +656,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 04:06:29 EDT",
+  "lastUpdated": "2026-06-06 @ 05:33:06 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
