@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel will not let Tampa pitch affect selection",
-      "link": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Defending champions Bath book home semi-final as Exeter, Leicester progress",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress"
     }
   ],
   "timeline": {
@@ -1618,11 +1618,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5917_0",
+            "category": "england",
+            "type": "News",
+            "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+            "bullets": [
+              "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
+            "fullText": "Harry Kane will carry England's hopes into the World Cup as their record goalscorer\n\nHarry Kane's final task of the finest season of a magnificent career is to attend to unfinished business as England's World Cup captain.\n\nKane is England's 'Mr Irreplaceable' - as proved when Thomas Tuchel's side were ominously toothless whendrawing with Uruguaythenlosing to Japanin March friendlies at Wembley.\n\nThe 32-year-old's fitness will be Tuchel's biggest concern as they prepare to start their World Cup campaign against Croatia in Dallas on 17 June, not simply because of his status as England's all-time record scorer with 78 goals in 112 games, but also because they have no-one remotely in Kane's class.\n\nIf Kane stays fit, and in the remarkable form that brought him 66 goals in 56 games for Bayern Munich this season, England's hopes will soar.\n\nAs former England striker Chris Sutton told BBC Sport: \"Harry Kane is so important that if he announced his international retirement this afternoon, everyone would instantly view England's World Cup chances in a different, more pessimistic light.\"\n\nSilverware has come late in Kane's career after barren years at Tottenham Hotspur, when even his stunning goalscoring numbers could not bring glory.\n\nHe is now making up for lost time by winning a second successive Bundesliga with Bayern Munich, then scoring a hat-trick as theybeat Stuttgart 3-0in the German Cup final.\n\nAnd Kane now has his sights set on delivering the biggest prize of all as he leads England on their latest quest to end the search for men's success stretching back to the 1966 World Cup win.\n\nEngland's countdown to their opening World Cup game continues when they play New Zealand in a friendly at Raymond James Stadium in Tampa, Florida, on Saturday (21:00 BST).\n\nKane has suffered the disappointment of losing successive European Championship finals with England to Italy and Spain, as well as a World Cup semi-final defeat by Croatia in 2018 and a quarter-final loss to France in Qatar.\n\nNow Kane's stellar form and fitness suggest the time might be right for England and their talisman to overcome the barrier that has brought 60 years of pain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5918_1",
+            "category": "england",
+            "type": "News",
+            "title": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
+            "bullets": [
+              "Bath secured home advantage in the Gallagher Prem play-offs after beating Leicester 24-22 at a rains...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bath secured home advantage in the Gallagher Prem play-offs after beating Leicester 24-22 at a rainswept Recreation Ground.",
+            "fullText": "The full round-up from the final day of action in the Gallagher Prem before the play-offs get under way",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 11:53:51 EDT",
+  "lastUpdated": "2026-06-06 @ 14:59:25 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
