@@ -985,6 +985,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Need more ranch dressing at the buffet immediately.",
       "time": "10:58",
       "isCaptain": true
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "16:20",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Just watched the film from training. We look sharp.",
+      "time": "16:21",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Anyone else still jetlagged?",
+      "time": "16:22",
+      "isCaptain": true
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "16:23",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "16:24",
+      "isCaptain": false
     }
   ]
 };
