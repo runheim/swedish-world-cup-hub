@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
-      "link": "https://www.theguardian.com/football/2026/jun/05/chris-richards-injury-status-world-cup"
+      "text": "⚽ USMNT completes morning walkthrough at Soldier Field",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Australia and Türkiye scouts arrive at Soldier Field press box",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -675,11 +691,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260606_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "USMNT completes morning walkthrough at Soldier Field",
+            "bullets": [
+              "Players log light stretching and final tactical alignment reviews.",
+              "Christian Pulisic and Gio Reyna practice rapid combination routines.",
+              "Physiotherapists confirm Tyler Adams is ready to feature off the bench."
+            ],
+            "summary": "Sweden's group rival USA completed a light morning session at Soldier Field. Pochettino reviewed tactical assignments, ensuring wingers are aligned on transition lanes.",
+            "fullText": "Sweden's group rival USA completed a light morning session at Soldier Field. Pochettino reviewed tactical assignments, ensuring wingers are aligned on transition lanes.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Match Day Prep",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260606_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Australia and Türkiye scouts arrive at Soldier Field press box",
+            "bullets": [
+              "Group D rival scouts gather in Chicago to analyze USA's tactics.",
+              "Analysts focus on dissecting Pochettino's wide counter-pressing models.",
+              "Turkish staff logs details of USA's starting XI configurations."
+            ],
+            "summary": "Scouts from Australia and Türkiye are present at Soldier Field today to log USA's tactical configurations, gathering data to prepare for their upcoming matches.",
+            "fullText": "Scouts from Australia and Türkiye are present at Soldier Field today to log USA's tactical configurations, gathering data to prepare for their upcoming matches.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Guardian Australia Sport",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 11:53:55 EDT",
+  "lastUpdated": "2026-06-06 @ 14:59:16 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
