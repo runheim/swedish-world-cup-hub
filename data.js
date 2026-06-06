@@ -8,6 +8,14 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ England 1-0 New Zealand: World Cup 2026 warm-up – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/06/england-v-new-zealand-world-cup-2026-warm-up-live"
+    },
+    {
+      "text": "⚽ US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+      "link": "https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report"
+    },
+    {
       "text": "⚽ Defending champions Bath book home semi-final as Exeter, Leicester progress",
       "link": "https://www.skysports.com/rugby-union/news/12040/13551440/gallagher-prem-defending-champions-bath-book-home-semi-final-as-exeter-chiefs-leicester-tigers-progress"
     }
@@ -1658,11 +1666,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1634_0",
+            "category": "england",
+            "type": "News",
+            "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+            "bullets": [
+              "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
+            "fullText": "Harry Kane will carry England's hopes into the World Cup as their record goalscorer\n\nHarry Kane's final task of the finest season of a magnificent career is to attend to unfinished business as England's World Cup captain.\n\nKane is England's 'Mr Irreplaceable' - as proved when Thomas Tuchel's side were ominously toothless whendrawing with Uruguaythenlosing to Japanin March friendlies at Wembley.\n\nThe 32-year-old's fitness will be Tuchel's biggest concern as they prepare to start their World Cup campaign against Croatia in Dallas on 17 June, not simply because of his status as England's all-time record scorer with 78 goals in 112 games, but also because they have no-one remotely in Kane's class.\n\nIf Kane stays fit, and in the remarkable form that brought him 66 goals in 56 games for Bayern Munich this season, England's hopes will soar.\n\nAs former England striker Chris Sutton told BBC Sport: \"Harry Kane is so important that if he announced his international retirement this afternoon, everyone would instantly view England's World Cup chances in a different, more pessimistic light.\"\n\nSilverware has come late in Kane's career after barren years at Tottenham Hotspur, when even his stunning goalscoring numbers could not bring glory.\n\nHe is now making up for lost time by winning a second successive Bundesliga with Bayern Munich, then scoring a hat-trick as theybeat Stuttgart 3-0in the German Cup final.\n\nAnd Kane now has his sights set on delivering the biggest prize of all as he leads England on their latest quest to end the search for men's success stretching back to the 1966 World Cup win.\n\nEngland's countdown to their opening World Cup game continues when they play New Zealand in a friendly at Raymond James Stadium in Tampa, Florida, on Saturday (21:00 BST).\n\nKane has suffered the disappointment of losing successive European Championship finals with England to Italy and Spain, as well as a World Cup semi-final defeat by Croatia in 2018 and a quarter-final loss to France in Qatar.\n\nNow Kane's stellar form and fitness suggest the time might be right for England and their talisman to overcome the barrier that has brought 60 years of pain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1634_1",
+            "category": "england",
+            "type": "News",
+            "title": "England 1-0 New Zealand: World Cup 2026 warm-up – live",
+            "bullets": [
+              "Pre-World Cup friendly updates from 9pm UK timeWho might England play if they reach final?You can em...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pre-World Cup friendly updates from 9pm UK timeWho might England play if they reach final?You can email Scott with your thoughtsThomas Tuchel is asked about the state of the slightly tatty pitch – a few squares of turf curling up at the edges - on ITV. “I haven’t been out there … we just decided that we will blame the pitch if it doesn’t go so well! … but jokes aside … New Zealand trained yesterday and said it doesn’t look good but it’s playable … let’s see.”Morgan Rogers talks to ITV from a hot and humid Raymond James Stadium in Tampa. “So excited … it’s a young boy’s dream to be in this position, to represent my country in a World Cup … it being so close, the excitement gets bigger every day … it’s hot, as expected … we’ve got a job to do … acclimatise … get used to it and be in the best possible shape when the time comes … we’re going to have to push ourselves to the limit … strategy will be a big thing at the tournament.” Continue reading...",
+            "fullText": "Post-match postbag. “Well, we’ve already had our first major shock of this summer before the official opening: an outdoor match was played in Tampa in a late afternoon in summer and there wasn’t a lightning delay. As someone who recalls multiple NFL games in this stadium with a similar kick-off running so late the final score update was given midway through the Sunday night game, I can assure you this is not something that should have been expected” David Howell\n\n“When does the debate about the new World Cup ball, the Trionda, kick off? Does the ‘three waves’ promise two new (Canadian and US) versions of the Mexican wave? Will Scott McTominay be able to perform his bicycle kicks accurately with such a ball when Scotland arrive at the Final?” – Justin Kavanagh\n\n“So, a Scotland vEnglandfinal then, meaning it’s definitely coming home” – Simon McMahon",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1634_2",
+            "category": "england",
+            "type": "News",
+            "title": "US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+            "bullets": [
+              "Antonee Robinson scores the Americans’ only goalUS open World Cup on 12 June against ParaguayWorld C...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Antonee Robinson scores the Americans’ only goalUS open World Cup on 12 June against ParaguayWorld Cup newsletter | Daily podcast | Get the appReady or not, here comes the group stage.The US men concluded their pre-World Cup preparations with a 2-1 loss against Germany on Saturday at Soldier Field, in front of a lively sellout crowd of 63,636. The fans made their way to the historic venue on a Chicago summer afternoon which alternated palpable heat with occasional drizzling rain. Continue reading...",
+            "fullText": "The US men concluded their pre-World Cup preparations with a 2-1 loss against Germany on Saturday at Soldier Field, in front of a lively sellout crowd of 63,636. The fans made their way to the historic venue on a Chicago summer afternoon which alternated palpable heat with occasional drizzling rain.\n\nAntonee Robinson scored the United States’ only goal on a thunderbolt volley, with German goals coming on either side.\n\nMuch of this cycle has been messy for the US, but Saturday’s showing validated this group’s readiness less than a week from Group D kicking off.\n\nThere are still questions about how to adequately get service to the nimble Balogun, who managed to make just 20 touches in 72 minutes as he was marked closely by the burly Jonathan Tah. Christian Pulisic and Sergiño Dest struggled to make much of an impact from the wing, a testament to Germany’s structure and eagerness to close the US down before they could gain a head of steam.\n\nEven after conceding, the US seldom appeared to switch off and make compounding mistakes, which in itself showed progress from March’s friendlies against Belgium and Portugal.\n\nGermany wasted no time in setting a dominant tone. After Tyler Adams committed a foul near the box, Joshua Kimmich sent in a curling indirect free kick. Some clever screening separated Kai Havertz from his mark (Tim Ream) while Miles Robinson lingered a step behind the Arsenal midfielder. Havertz comfortably prodded an unobstructed header from inside eight yards beyond Matt Freese, doubling a damping effect on the home faithful that coincided with a brief passage of rain.\n\nClouds parted around the 12th minute, opening the US’s first strong passage of play after Havertz’s’ opener. Pochettino’s side operated with a free-flowing structure; Dest made anotherproactive interpretationof his wing-back role, with Alex Freeman often operating more as a right-back than part of a center-back trio. The US competently retained possession for extended sequences and showed determination to make quick regains whenever Germany forced a loose ball. However, a long shot from Dest flew over the bar, while subsequent attempts were blocked and hopeful crosses were cleared away before finding their target.\n\nThe 23rd minute cooling break halted momentum. The game struggled to regain its verve, with some ambitious passes going unconverted and both teams exchanging chippy fouls.\n\nAt last, Antonee Robinson sent the host’s fans into rapture. Robinson lingered just outside the box as a corner kick looped his way after an initial header. The Fulham defender struck the ball before it hit the ground, sending a powerful volley beyond Oliver Baumann for his fifth international goal.\n\nThe Germans continued to play with considerable physicality. Tim Ream was brought down near his neck at one stage, while Pulisic was briefly on the ground clutching his back after a tackle from behind by Leroy Sané. Chilean official Piero Mazo – who is not among the referees for the World Cup – let both teams get a shoulder or foot in without many blows of his whistle, frustrating the home fans at time as Germany entered half-time without a yellow card. Overall, there was plenty of encouragement to be found from how the US responded to an early deficit.\n\nBoth sides kept all eleven starters on the field to open the second half, with Germany’s defensive structure making it tricky for the US to further threaten Baumann.\n\nThe job was made harder after Germany took the lead. A quick through-ball from Jamal Musiala found Sané in the channel, a half-step ahead of a trailing Tyler Adams. Sané placed his shot to the far post beyond a diving Freese before Miles Robinson could converge, restoring Germany’s one-goal advantage in the 57th minute.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1635_3",
+            "category": "england",
+            "type": "News",
+            "title": "Defending champions Bath book home semi-final as Exeter, Leicester progress",
+            "bullets": [
+              "Bath secured home advantage in the Gallagher Prem play-offs after beating Leicester 24-22 at a rains...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bath secured home advantage in the Gallagher Prem play-offs after beating Leicester 24-22 at a rainswept Recreation Ground.",
+            "fullText": "The full round-up from the final day of action in the Gallagher Prem before the play-offs get under way",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 14:59:25 EDT",
+  "lastUpdated": "2026-06-06 @ 18:16:39 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
