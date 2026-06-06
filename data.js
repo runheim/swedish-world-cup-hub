@@ -4,20 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+      "link": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Tuchel will not let Tampa pitch affect selection",
       "link": "https://www.bbc.com/sport/football/articles/c87q7q45gp2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Arsenal trio & Fernandes on PFA men's player of the year shortlist",
-      "link": "https://www.bbc.com/sport/football/articles/c4g4gkmmge9o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Tell us your stories of Scotland's World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup",
       "link": "https://www.theguardian.com/football/2026/jun/05/tuchel-confident-sharp-kane-is-in-perfect-form-to-lead-england-at-world-cup"
+    },
+    {
+      "text": "⚽ Why England players wanting a transfer face a logistical NIGHTMARE",
+      "link": "https://www.skysports.com/football/news/12040/13551277/englands-world-cup-schedule-why-its-a-logistical-nightmare-for-three-lions-players-wanting-a-transfer-this-summer-under-thomas-tuchels-rules"
     },
     {
       "text": "⚽ Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
@@ -1498,10 +1498,103 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-06": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0619_0",
+            "category": "england",
+            "type": "News",
+            "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+            "bullets": [
+              "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
+            "fullText": "Harry Kane will carry England's hopes into the World Cup as their record goalscorer\n\nHarry Kane's final task of the finest season of a magnificent career is to attend to unfinished business as England's World Cup captain.\n\nKane is England's 'Mr Irreplaceable' - as proved when Thomas Tuchel's side were ominously toothless whendrawing with Uruguaythenlosing to Japanin March friendlies at Wembley.\n\nThe 32-year-old's fitness will be Tuchel's biggest concern as they prepare to start their World Cup campaign against Croatia in Dallas on 17 June, not simply because of his status as England's all-time record scorer with 78 goals in 112 games, but also because they have no-one remotely in Kane's class.\n\nIf Kane stays fit, and in the remarkable form that brought him 64 goals in 56 games for Bayern Munich this season, England's hopes will soar.\n\nAs former England striker Chris Sutton told BBC Sport: \"Harry Kane is so important that if he announced his international retirement this afternoon, everyone would instantly view England's World Cup chances in a different, more pessimistic light.\"\n\nSilverware has come late in Kane's career after barren years at Tottenham Hotspur, when even his stunning goalscoring numbers could not bring glory.\n\nHe is now making up for lost time by winning a second successive Bundesliga with Bayern Munich, then scoring a hat-trick as theybeat Stuttgart 3-0in the German Cup final.\n\nAnd Kane now has his sights set on delivering the biggest prize of all as he leads England on their latest quest to end the search for men's success stretching back to the 1966 World Cup win.\n\nEngland's countdown to their opening World Cup game continues when they play New Zealand in a friendly at Raymond James Stadium in Tampa, Florida, on Saturday (21:00 BST).\n\nKane has suffered the disappointment of losing successive European Championship finals with England to Italy and Spain, as well as a World Cup semi-final defeat by Croatia in 2018 and a quarter-final loss to France in Qatar.\n\nNow Kane's stellar form and fitness suggest the time might be right for England and their talisman to overcome the barrier that has brought 60 years of pain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0619_1",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel will not let Tampa pitch affect selection",
+            "bullets": [
+              "England head coach Thomas Tuchel says reports about the state of the pitch at the venue for his side...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel says reports about the state of the pitch at the venue for his side's friendly against New Zealand will not influence team selection.",
+            "fullText": "Thomas Tuchel took over as England head coach in January 2025\n\nEngland head coach Thomas Tuchel says reports about the state of the pitch for his team's friendly against New Zealand will not influence which players are involved.\n\nTheDaily Mail,externalsaid the playing surface for the match at the Raymond James Stadium, home of the NFL's Tampa Bay Buccaneers, was a 'plug and play' pitch laid just a week ago.\n\nSeveral pitches for World Cup matches are being played in stadiums that usually have artificial surfaces but which have been relaid with grass.\n\nTravelling ground staff from the Football Association were reported to be liaising with the venue over the pitch which appeared in pictures to be slightly disjointed in parts.\n\nEngland have no injury concerns and despite the start of the World Cup being so close, Tuchel said the condition of the pitch \"will not affect my team selection\". He said that he has \"heard\" it \"will be OK\".\n\n\"I saw a photo from a journalist which made me a little bit worried and concerned, but let's decide when we are there,\" Tuchel told a news conference on Friday.\n\n\"If there are any issues, we can always react to it. The plan is to play 45 minutes with two complete teams, to expose everyone to the same amount of minutes.\n\n\"Then we can continue for the next three days with the same load of training. That is the plan and at the moment we are sticking to it.\"\n\nEngland are in Florida for a pre-World Cup camp in West Palm Beach and will play New Zealand on Saturday (21:00 BST).\n\nThe game is the first of two warm-ups, with the other being against Costa Rica on 10 June (21:00 BST), before the World Cup officially starts on 11 June.\n\nEngland trained with 27 players on Friday in a session which did not include Arsenal players Eberechi Eze, Noni Madueke, Declan Rice and Bukayo Saka as they were involved in the Champions League final on 30 May.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0620_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel confident ‘sharp’ Kane is in perfect form to lead England at World Cup",
+            "bullets": [
+              "Head coach says Bayern Munich striker is in ‘top shape’England face New Zealand in warm-up on Saturd...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach says Bayern Munich striker is in ‘top shape’England face New Zealand in warm-up on SaturdayThomas Tuchel has said that Harry Kane is in top shape and ready to lead England to glory at the World Cup. The Bayern Munich striker has been short of fitness at previous major tournaments but he has enjoyed a brilliant season in Germany and has looked in peak physical condition in training this week.England have prepared for the intense heat expected at the World Cup by heading to Florida to acclimatise to the weather and have been working in testing conditions at their pre-tournament base in West Palm Beach. Continue reading...",
+            "fullText": "Head coach says Bayern Munich striker is in ‘top shape’\n\nThomas Tuchel has said that Harry Kane is in top shape and ready to lead England to glory at the World Cup. The Bayern Munich striker has been short of fitness at previous major tournaments but he has enjoyed a brilliant season in Germany and has looked in peak physical condition in training this week.\n\nEngland have prepared for the intense heat expected at theWorld Cupby heading to Florida to acclimatise to the weather and have been working in testing conditions at their pre-tournament base in West Palm Beach.\n\nTuchel is focused on recovery and knows that the team’s hopes of glory will rest heavily on Kane staying injury-free. The country’s record goalscorer remains a talismanic figure, despite struggling for form and fitness at Euro 2024, and has the backing of his manager beforeEnglandcross Florida to face New Zealand in Tampa in their first warm-up game on Saturday.\n\n“He looks in top shape,” Tuchel said. “He looks lean, sharp and he trains at the highest level. We had a defensive training session today and he was leading the intensity. He is so used to the high press from Bayern Munich and the intensive game that they play in the opponents’ half. He is leading by example. I think he is in the best shape.\n\n“He is ready to go. We don’t have to be worried about him at all, even if it is hot in June. He has showed me the whole week that he is ready. He is our key player.”\n\nThe New Zealand game will kick off at 4pm local time (9pm BST), when the temperature is forecast to be 32C and the humidity levels at about 40%. Tuchel intends to play two different lineups in each half at the Raymond James Stadium and is focused on building his side’s energy levels.\n\n“Some of them need a load, some of them need a recovery,” the German said. “We give 45 to everyone. We will try to keep Harry fit and play him as much as possible but hopefully we will have the chance to not need to play him every match 90 or 120 minutes.”\n\nTuchel indicated that Ollie Watkins will be Kane’s understudy, with Ivan Toney seen as more of a wildcard to use in specific situations. “I think Ollie is more the guy we need to start for Harry, if we think Harry should not start a match,” he said. “He can keep the intensity up, to keep the press going.\n\n“Ivan is kind of a finisher for us. Maybe it’s a special task to take the attention off Harry. Then we have a second striker who’s very, very good in the box. He’s a good penalty taker. He trains on a high level. I’m very happy with him. He just showed that it was right to take him. He has a brilliant attitude. We have some options but Harry is, of course, the main guy in front.”\n\nTuchel downplayed concerns over the state of the pitch in Tampa, which is home to the NFL’s Tampa Bay Buccaneers. “We have a greenkeeper who takes care of it and I hope it will be all right,” he said. “It is an American football pitch. We are told it is OK. I saw just a photo, that made me a little bit worried but let’s decide when we are there.”\n\nEngland’s final friendly is against Costa Rica in Orlando on Wednesday. They do not play their first game in Group L until facing Croatia in Dallas on 15 June, giving them time to adjust to the hot weather. The squad’s Arsenal contingent will not be involved against New Zealand, having been given permission to arrive in Florida late after last weekend’s Champions League final.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0621_3",
+            "category": "england",
+            "type": "News",
+            "title": "Why England players wanting a transfer face a logistical NIGHTMARE",
+            "bullets": [
+              "Thomas Tuchel says he does have some concerns that transfer speculation could become a distraction f...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says he does have some concerns that transfer speculation could become a distraction for some members of his squad during this World Cup, but he also says it is unavoidable.",
+            "fullText": "Several England players are subject to transfer speculation this summer, including Elliot Anderson, Morgan Rogers, John Stones and Marcus Rashford; Thomas Tuchel's rules about securing transfers during the World Cup have created logistical nightmares for those players wanting moves...",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0622_4",
+            "category": "england",
+            "type": "News",
+            "title": "Kane fitness, pitch concerns and transfers - what we learned from Tuchel",
+            "bullets": [
+              "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel gave his first World Cup press conference since touching down with the England team in the United States - and there was a lot to cover.",
+            "fullText": "Thomas Tuchel has spoken for the first time since England landed in the USA for the World Cup; the England boss discussed Harry Kane's fitness alongside whether his players can change clubs during the tournament; Tuchel also expressed concerns over Saturday's friendly pitch and IFAB rules",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-05 @ 18:44:59 EDT",
+  "lastUpdated": "2026-06-06 @ 04:06:28 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
