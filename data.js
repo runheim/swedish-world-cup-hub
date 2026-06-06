@@ -771,7 +771,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 04:06:34 EDT",
+  "lastUpdated": "2026-06-06 @ 05:32:57 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
