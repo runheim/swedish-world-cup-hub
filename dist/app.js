@@ -815,20 +815,19 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_greece": {
-    score: "1 - 0",
-    scorers: "🇸🇪 Gyökeres (67')",
-    report: "A gritty home victory for Sweden at Strawberry Arena! Greece set up a disciplined defensive block, frustrating Sweden for over an hour. Viktor Gyökeres finally broke the deadlock with a clinical volley from Alexander Isak's cross. Potter used the match to test squad depth, with several rotated players impressing.",
+    score: "2 - 2",
+    scorers: "🇸🇪 Gyökeres (53'), Nilsson (69') | 🇬🇷 Tsimikas (10'), Masouras (90+5')",
+    report: "An entertaining and dramatic 2-2 draw at Strawberry Arena! Greece took an early lead through a Kostas Tsimikas strike in the 10th minute, silencing Stockholm. Sweden responded in the second half, with Viktor Gyökeres equalizing via a magnificent curled free kick in the 53rd minute. Sweden then went ahead in the 69th minute when Gustaf Nilsson finished a precise pass from Alexander Isak. However, Greece snatched a draw in the 95th minute as Giorgos Masouras scored a dramatic stoppage-time equalizer.",
     ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Comfortable night, dealt well with high crosses.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 7.0, comment: "Solid and composed, kept Greek attackers quiet.", isMotm: false },
-      { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Marshalled the defense excellently, good on the ball.", isMotm: false },
-      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "Provided dangerous width down the right.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Steady in the pivot, recycled possession cleanly.", isMotm: false },
-      { name: "Hugo Larsson", role: "DM", rating: 7.5, comment: "Impressive display as a rotated option, drove the ball forward with intent.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LWB", rating: 7.0, comment: "Energetic overlapping runs, won several corners.", isMotm: false },
-      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Provided the assist for Gyökeres' winner with a precise cross.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "Creative spark, unlocking Greek lines with quick passes.", isMotm: false },
-      { name: "Viktor Gyökeres", role: "ST", rating: 8.5, comment: "Match-winner. Clinical volley to break the deadlock. Physical dominance throughout.", isMotm: true }
+      { name: "Viktor Johansson", role: "GK", rating: 6.0, comment: "Conceded twice, but made a couple of key stops. Helpless on the late Masouras equalizer.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 6.5, comment: "Fought hard but was caught out of position during Greek counter-attacks.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 7.0, comment: "Composed display. Marshalled the backline but suffered from late pressure.", isMotm: false },
+      { name: "Emil Holm", role: "RWB", rating: 6.5, comment: "Relentless engine, but had defensive difficulties with Tsimikas overlapping.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 6.5, comment: "Recycled possession but was occasionally overrun by Greek midfield numbers.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "A creative spark, creating transitions and linking up play elegantly.", isMotm: false },
+      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Delivered a great performance. Set up Gustaf Nilsson's goal with a superb pass.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 8.0, comment: "Scored a stunning free-kick equalizer. Dynamic physical presence throughout.", isMotm: true },
+      { name: "Gustaf Nilsson", role: "ST", rating: 8.0, comment: "Subbed on and scored Sweden's second goal with a clinical finish. Displayed great target-man instincts.", isMotm: false }
     ],
     preview: {
       tactical: "Second warm-up friendly at home in Stockholm! Potter rotates to test squad depth and fine-tune tactical patterns before the World Cup.",
@@ -948,13 +947,15 @@ const SIMULATION_EVENTS = {
   ],
   "match_greece": [
     { minute: 1, type: "kickoff", text: "Kick-off at Strawberry Arena! Stockholm is buzzing as Sweden hosts Greece in their second warm-up friendly." },
-    { minute: 22, type: "save", text: "Viktor Johansson makes a comfortable save from a long-range Greek free kick." },
+    { minute: 10, type: "goal_opp", text: "GOAL for Greece! Kostas Tsimikas overlaps down the left wing and fires a low shot into the bottom corner. 1-0 Greece." },
+    { minute: 22, type: "save", text: "Viktor Johansson makes a fantastic save to deny Greece a second goal from a quick counter-attack." },
     { minute: 35, type: "dribble", text: "Lucas Bergvall dances past two Greek defenders on the edge of the box, but his shot deflects wide." },
-    { minute: 45, type: "halftime", text: "Half Time at Strawberry Arena: 0-0. Greece's disciplined defensive block is frustrating Sweden's attack." },
-    { minute: 55, type: "sub", text: "Potter makes three changes, bringing fresh energy into midfield and wide areas." },
-    { minute: 67, type: "goal_swe", text: "GOAL for Sweden! Alexander Isak whips in a cross from the left, and Viktor Gyökeres meets it with a powerful volley! 1-0 Sweden!" },
-    { minute: 80, type: "save", text: "Greece push forward looking for an equalizer, but Lindelöf makes a crucial interception." },
-    { minute: 90, type: "fulltime", text: "Full Time! Sweden wins 1-0 at Strawberry Arena. A professional performance ahead of the World Cup." }
+    { minute: 45, type: "halftime", text: "Half Time at Strawberry Arena: 1-0 to Greece. Greece's disciplined defensive block and early goal are the difference." },
+    { minute: 53, type: "goal_swe", text: "GOAL for Sweden! Viktor Gyökeres hits a magnificent curled free kick from 25 yards out, flying past the keeper! 1-1!" },
+    { minute: 69, type: "goal_swe", text: "GOAL for Sweden! Alexander Isak plays a precise pass to Gustaf Nilsson, who finishes clinically inside the box! Sweden leads 2-1!" },
+    { minute: 80, type: "save", text: "Greece push forward looking for an equalizer, but Lindelöf makes a crucial goal-line clearance." },
+    { minute: 95, type: "goal_opp", text: "GOAL for Greece! A dramatic stoppage-time equalizer! Giorgos Masouras drills a low shot home after a defensive scramble. 2-2!" },
+    { minute: 96, type: "fulltime", text: "Full Time! An action-packed match ends in a 2-2 draw at Strawberry Arena. Valuable lessons learned." }
   ],
   "match_tunisia": [
     { minute: 1, type: "kickoff", text: "Kick-off in Monterrey! The sun sets in Mexico as Sweden begins their World Cup Group F campaign in front of a packed stadium." },
@@ -1897,16 +1898,40 @@ function renderMatchSchedule() {
 
   MATCH_SCHEDULE.forEach(match => {
     const isWarmup = match.type === "warmup";
+    const matchDateStr = match.date;
+    let isCompleted = false;
+    try {
+      const matchTimeStr = match.time.split(" ")[0];
+      const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
+      const now = new Date();
+      isCompleted = (now >= matchDateTime) || (SIMULATED_RESULTS && !!SIMULATED_RESULTS[match.id]);
+    } catch (e) {
+      console.error("Error parsing match date/time:", e);
+    }
+
+    const reportData = MATCH_REPORTS_DATABASE[match.id];
+    let scoreText = "vs.";
+    let badgeText = isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP';
+    
+    if (SIMULATED_RESULTS && SIMULATED_RESULTS[match.id]) {
+      const simRes = SIMULATED_RESULTS[match.id];
+      scoreText = `<strong style="color: var(--sweden-yellow); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${simRes.swe} - ${simRes.opp}</strong>`;
+      badgeText += " - SIMULATED";
+    } else if (isCompleted && reportData) {
+      scoreText = `<strong style="color: var(--sweden-yellow); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${reportData.score}</strong>`;
+      badgeText += " - FINAL RESULT";
+    }
+
     const item = document.createElement("div");
-    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'}`;
+    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'} ${isCompleted ? 'completed' : ''}`;
     item.innerHTML = `
-      <div class="schedule-dot-indicator"></div>
+      <div class="schedule-dot-indicator" style="background: ${isCompleted ? 'var(--sweden-yellow)' : 'var(--sweden-blue)'}"></div>
       <div class="schedule-item-header">
-        <span class="match-badge">${isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP'}</span>
+        <span class="match-badge" style="border-color: ${isCompleted ? 'var(--sweden-yellow)' : 'rgba(255,255,255,0.1)'}">${badgeText}</span>
         <span class="match-date-stamp"><i class="far fa-calendar-alt"></i> ${match.date} at ${match.time}</span>
       </div>
       <div class="schedule-item-body">
-        <h3 class="match-pairing">Sweden <span class="flag-vs">🇸🇪</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
+        <h3 class="match-pairing">Sweden <span class="flag-vs">🇸🇪</span> ${scoreText} ${match.opponentFlag} ${match.opponent}</h3>
         <p class="match-venue"><i class="fas fa-map-marker-alt"></i> ${match.venue}</p>
         <p class="match-info-desc">${match.details}</p>
       </div>
@@ -2336,10 +2361,18 @@ function handleSimulatorTick() {
     // Update simulated group match results
     if (currentSimMatchId === "match_tunisia" || currentSimMatchId === "match_netherlands" || currentSimMatchId === "match_japan") {
       SIMULATED_RESULTS[currentSimMatchId] = { swe: simScoreSwe, opp: simScoreOpp };
+      if (currentSimMatchId === "match_tunisia") {
+        SIMULATED_RESULTS["match_ned_jap"] = { team1: 2, team2: 1 };
+      } else if (currentSimMatchId === "match_netherlands") {
+        SIMULATED_RESULTS["match_jap_tun"] = { team1: 1, team2: 0 };
+      } else if (currentSimMatchId === "match_japan") {
+        SIMULATED_RESULTS["match_tun_ned"] = { team1: 0, team2: 2 };
+      }
       calculateGroupStandings();
     }
     
     renderMatchCenter();
+    renderMatchSchedule();
     return;
   }
 
@@ -2677,7 +2710,10 @@ function setupEventListeners() {
 let SIMULATED_RESULTS = {
   match_tunisia: null,
   match_netherlands: null,
-  match_japan: null
+  match_japan: null,
+  match_ned_jap: null,
+  match_jap_tun: null,
+  match_tun_ned: null
 };
 
 let venueClockInterval = null;
@@ -2797,15 +2833,6 @@ function initGroupTable() {
 }
 
 function calculateGroupStandings() {
-  let standings = [
-    { id: "sweden", name: "Sweden", flag: "🇸🇪", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
-    { id: "netherlands", name: "Netherlands", flag: "🇳🇱", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
-    { id: "japan", name: "Japan", flag: "🇯🇵", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
-    { id: "tunisia", name: "Tunisia", flag: "🇹🇳", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 }
-  ];
-
-  // We overwrite Netherlands, Japan, Tunisia base states and dynamically calculate based on simulated outcomes
-  // Let's clear their base records and calculate completely dynamically!
   const groupTeams = {
     sweden: { id: "sweden", name: "Sweden", flag: "🇸🇪", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
     netherlands: { id: "netherlands", name: "Netherlands", flag: "🇳🇱", gp: 0, w: 0, d: 0, l: 0, gf: 0, ga: 0, gd: 0, pts: 0 },
@@ -2831,24 +2858,99 @@ function calculateGroupStandings() {
     }
   }
 
-  // Pre-tournament: All teams start at 0-0-0. Background matches will be added once the World Cup begins.
+  function isMatchCompleted(matchId) {
+    if (SIMULATED_RESULTS[matchId]) return true;
+    const match = MATCH_SCHEDULE.find(m => m.id === matchId);
+    if (!match) return false;
+    try {
+      const matchTimeStr = match.time.split(" ")[0];
+      const matchDateTime = new Date(`${match.date}T${matchTimeStr}:00`);
+      const now = new Date();
+      return now >= matchDateTime;
+    } catch (e) {
+      return false;
+    }
+  }
 
-  // 2. Add simulated Sweden matches
-  if (SIMULATED_RESULTS.match_tunisia) {
-    addMatch("sweden", SIMULATED_RESULTS.match_tunisia.swe, SIMULATED_RESULTS.match_tunisia.opp);
-    addMatch("tunisia", SIMULATED_RESULTS.match_tunisia.opp, SIMULATED_RESULTS.match_tunisia.swe);
-  } else {
-    // If not simulated, add realistic placeholders or keep empty
+  // 1. Sweden vs Tunisia & Netherlands vs Japan
+  if (isMatchCompleted("match_tunisia")) {
+    let sweScore = 2, oppScore = 0; // Default real score
+    if (SIMULATED_RESULTS["match_tunisia"]) {
+      sweScore = SIMULATED_RESULTS["match_tunisia"].swe;
+      oppScore = SIMULATED_RESULTS["match_tunisia"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_tunisia"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        sweScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("sweden", sweScore, oppScore);
+    addMatch("tunisia", oppScore, sweScore);
+
+    // Other match: Netherlands vs Japan
+    let nedScore = 2, japScore = 1; // Default
+    if (SIMULATED_RESULTS["match_ned_jap"]) {
+      nedScore = SIMULATED_RESULTS["match_ned_jap"].team1;
+      japScore = SIMULATED_RESULTS["match_ned_jap"].team2;
+    }
+    addMatch("netherlands", nedScore, japScore);
+    addMatch("japan", japScore, nedScore);
   }
-  
-  if (SIMULATED_RESULTS.match_netherlands) {
-    addMatch("sweden", SIMULATED_RESULTS.match_netherlands.swe, SIMULATED_RESULTS.match_netherlands.opp);
-    addMatch("netherlands", SIMULATED_RESULTS.match_netherlands.opp, SIMULATED_RESULTS.match_netherlands.swe);
+
+  // 2. Sweden vs Netherlands & Japan vs Tunisia
+  if (isMatchCompleted("match_netherlands")) {
+    let sweScore = 2, oppScore = 2; // Default real score
+    if (SIMULATED_RESULTS["match_netherlands"]) {
+      sweScore = SIMULATED_RESULTS["match_netherlands"].swe;
+      oppScore = SIMULATED_RESULTS["match_netherlands"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_netherlands"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        sweScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("sweden", sweScore, oppScore);
+    addMatch("netherlands", oppScore, sweScore);
+
+    // Other match: Japan vs Tunisia
+    let japScore = 1, tunScore = 0; // Default
+    if (SIMULATED_RESULTS["match_jap_tun"]) {
+      japScore = SIMULATED_RESULTS["match_jap_tun"].team1;
+      tunScore = SIMULATED_RESULTS["match_jap_tun"].team2;
+    }
+    addMatch("japan", japScore, tunScore);
+    addMatch("tunisia", tunScore, japScore);
   }
-  
-  if (SIMULATED_RESULTS.match_japan) {
-    addMatch("sweden", SIMULATED_RESULTS.match_japan.swe, SIMULATED_RESULTS.match_japan.opp);
-    addMatch("japan", SIMULATED_RESULTS.match_japan.opp, SIMULATED_RESULTS.match_japan.swe);
+
+  // 3. Sweden vs Japan & Tunisia vs Netherlands
+  if (isMatchCompleted("match_japan")) {
+    let sweScore = 2, oppScore = 1; // Default real score
+    if (SIMULATED_RESULTS["match_japan"]) {
+      sweScore = SIMULATED_RESULTS["match_japan"].swe;
+      oppScore = SIMULATED_RESULTS["match_japan"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_japan"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        sweScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("sweden", sweScore, oppScore);
+    addMatch("japan", oppScore, sweScore);
+
+    // Other match: Tunisia vs Netherlands
+    let tunScore = 0, nedScore = 2; // Default
+    if (SIMULATED_RESULTS["match_tun_ned"]) {
+      tunScore = SIMULATED_RESULTS["match_tun_ned"].team1;
+      nedScore = SIMULATED_RESULTS["match_tun_ned"].team2;
+    }
+    addMatch("tunisia", tunScore, nedScore);
+    addMatch("netherlands", nedScore, tunScore);
   }
 
   // Convert map to array and sort
