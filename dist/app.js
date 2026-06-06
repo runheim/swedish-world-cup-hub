@@ -1858,16 +1858,40 @@ function renderMatchSchedule() {
 
   MATCH_SCHEDULE.forEach(match => {
     const isWarmup = match.type === "warmup";
+    const matchDateStr = match.date;
+    let isCompleted = false;
+    try {
+      const matchTimeStr = match.time.split(" ")[0];
+      const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
+      const now = new Date();
+      isCompleted = (now >= matchDateTime) || (SIMULATED_RESULTS && !!SIMULATED_RESULTS[match.id]);
+    } catch (e) {
+      console.error("Error parsing match date/time:", e);
+    }
+
+    const reportData = MATCH_REPORTS_DATABASE[match.id];
+    let scoreText = "vs.";
+    let badgeText = isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP';
+    
+    if (SIMULATED_RESULTS && SIMULATED_RESULTS[match.id]) {
+      const simRes = SIMULATED_RESULTS[match.id];
+      scoreText = `<strong style="color: var(--england-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${simRes.eng} - ${simRes.opp}</strong>`;
+      badgeText += " - SIMULATED";
+    } else if (isCompleted && reportData) {
+      scoreText = `<strong style="color: var(--england-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${reportData.score}</strong>`;
+      badgeText += " - FINAL RESULT";
+    }
+
     const item = document.createElement("div");
-    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'}`;
+    item.className = `schedule-item ${isWarmup ? 'type-warmup' : 'type-wc'} ${isCompleted ? 'completed' : ''}`;
     item.innerHTML = `
-      <div class="schedule-dot-indicator" style="border-color: ${isWarmup ? 'var(--england-blue)' : 'var(--england-red)'};"></div>
+      <div class="schedule-dot-indicator" style="background: ${isCompleted ? 'var(--england-red)' : 'var(--england-blue)'}; border-color: ${isCompleted ? 'var(--england-red)' : 'var(--england-blue)'};"></div>
       <div class="schedule-item-header">
-        <span class="match-badge" style="background: ${isWarmup ? 'rgba(10,31,60,0.1)' : 'rgba(230,0,0,0.08)'}; color: ${isWarmup ? 'var(--england-blue)' : 'var(--england-red)'};">${isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP'}</span>
+        <span class="match-badge" style="border-color: ${isCompleted ? 'var(--england-red)' : 'rgba(255,255,255,0.1)'}; background: ${isCompleted ? 'rgba(230,0,0,0.08)' : 'rgba(10,31,60,0.1)'}; color: ${isCompleted ? 'var(--england-red)' : 'var(--england-blue)'};">${badgeText}</span>
         <span class="match-date-stamp" style="color: var(--text-secondary);"><i class="far fa-calendar-alt"></i> ${match.date} at ${match.time}</span>
       </div>
       <div class="schedule-item-body">
-        <h3 class="match-pairing" style="color: var(--text-white);">England <span class="flag-vs">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> vs. ${match.opponentFlag} ${match.opponent}</h3>
+        <h3 class="match-pairing" style="color: var(--text-white);">England <span class="flag-vs">🏴󠁧󠁢󠁥󠁮󠁧󠁿</span> ${scoreText} ${match.opponentFlag} ${match.opponent}</h3>
         <p class="match-venue" style="color: var(--text-secondary);"><i class="fas fa-map-marker-alt"></i> ${match.venue}</p>
         <p class="match-info-desc" style="color: var(--text-primary);">${match.details}</p>
       </div>
@@ -2290,7 +2314,15 @@ function handleSimulatorTick() {
     // Update simulated group match results
     if (currentSimMatchId === "match_croatia" || currentSimMatchId === "match_ghana" || currentSimMatchId === "match_panama") {
       SIMULATED_RESULTS[currentSimMatchId] = { eng: simScoreEng, opp: simScoreOpp };
+      if (currentSimMatchId === "match_croatia") {
+        SIMULATED_RESULTS["match_gha_pan"] = { team1: 2, team2: 0 };
+      } else if (currentSimMatchId === "match_ghana") {
+        SIMULATED_RESULTS["match_pan_cro"] = { team1: 0, team2: 2 };
+      } else if (currentSimMatchId === "match_panama") {
+        SIMULATED_RESULTS["match_cro_gha"] = { team1: 1, team2: 1 };
+      }
       calculateGroupStandings();
+      renderMatchSchedule();
     }
     
     renderMatchCenter();
@@ -2624,7 +2656,10 @@ function setupEventListeners() {
 let SIMULATED_RESULTS = {
   match_croatia: null,
   match_ghana: null,
-  match_panama: null
+  match_panama: null,
+  match_gha_pan: null,
+  match_pan_cro: null,
+  match_cro_gha: null
 };
 
 let venueClockInterval = null;
@@ -2769,22 +2804,99 @@ function calculateGroupStandings() {
     }
   }
 
-  // Pre-tournament: All teams start at 0-0-0. Background matches will be added once the World Cup begins.
+  function isMatchCompleted(matchId) {
+    if (SIMULATED_RESULTS[matchId]) return true;
+    const match = MATCH_SCHEDULE.find(m => m.id === matchId);
+    if (!match) return false;
+    try {
+      const matchTimeStr = match.time.split(" ")[0];
+      const matchDateTime = new Date(`${match.date}T${matchTimeStr}:00`);
+      const now = new Date();
+      return now >= matchDateTime;
+    } catch (e) {
+      return false;
+    }
+  }
 
-  // 2. Add simulated England matches
-  if (SIMULATED_RESULTS.match_croatia) {
-    addMatch("england", SIMULATED_RESULTS.match_croatia.eng, SIMULATED_RESULTS.match_croatia.opp);
-    addMatch("croatia", SIMULATED_RESULTS.match_croatia.opp, SIMULATED_RESULTS.match_croatia.eng);
+  // 1. England vs Croatia & Ghana vs Panama
+  if (isMatchCompleted("match_croatia")) {
+    let engScore = 1, oppScore = 1; // Default real score
+    if (SIMULATED_RESULTS["match_croatia"]) {
+      engScore = SIMULATED_RESULTS["match_croatia"].eng;
+      oppScore = SIMULATED_RESULTS["match_croatia"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_croatia"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        engScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("england", engScore, oppScore);
+    addMatch("croatia", oppScore, engScore);
+
+    // Other match: Ghana vs Panama
+    let ghaScore = 2, panScore = 0; // Default
+    if (SIMULATED_RESULTS["match_gha_pan"]) {
+      ghaScore = SIMULATED_RESULTS["match_gha_pan"].team1;
+      panScore = SIMULATED_RESULTS["match_gha_pan"].team2;
+    }
+    addMatch("ghana", ghaScore, panScore);
+    addMatch("panama", panScore, ghaScore);
   }
-  
-  if (SIMULATED_RESULTS.match_ghana) {
-    addMatch("england", SIMULATED_RESULTS.match_ghana.eng, SIMULATED_RESULTS.match_ghana.opp);
-    addMatch("ghana", SIMULATED_RESULTS.match_ghana.opp, SIMULATED_RESULTS.match_ghana.eng);
+
+  // 2. England vs Ghana & Panama vs Croatia
+  if (isMatchCompleted("match_ghana")) {
+    let engScore = 2, oppScore = 1; // Default real score
+    if (SIMULATED_RESULTS["match_ghana"]) {
+      engScore = SIMULATED_RESULTS["match_ghana"].eng;
+      oppScore = SIMULATED_RESULTS["match_ghana"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_ghana"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        engScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("england", engScore, oppScore);
+    addMatch("ghana", oppScore, engScore);
+
+    // Other match: Panama vs Croatia
+    let panScore = 0, croScore = 2; // Default
+    if (SIMULATED_RESULTS["match_pan_cro"]) {
+      panScore = SIMULATED_RESULTS["match_pan_cro"].team1;
+      croScore = SIMULATED_RESULTS["match_pan_cro"].team2;
+    }
+    addMatch("panama", panScore, croScore);
+    addMatch("croatia", croScore, panScore);
   }
-  
-  if (SIMULATED_RESULTS.match_panama) {
-    addMatch("england", SIMULATED_RESULTS.match_panama.eng, SIMULATED_RESULTS.match_panama.opp);
-    addMatch("panama", SIMULATED_RESULTS.match_panama.opp, SIMULATED_RESULTS.match_panama.eng);
+
+  // 3. England vs Panama & Croatia vs Ghana
+  if (isMatchCompleted("match_panama")) {
+    let engScore = 3, oppScore = 0; // Default real score
+    if (SIMULATED_RESULTS["match_panama"]) {
+      engScore = SIMULATED_RESULTS["match_panama"].eng;
+      oppScore = SIMULATED_RESULTS["match_panama"].opp;
+    } else {
+      const report = MATCH_REPORTS_DATABASE["match_panama"];
+      if (report && report.score) {
+        const parts = report.score.split("-").map(s => parseInt(s.trim()));
+        engScore = parts[0];
+        oppScore = parts[1];
+      }
+    }
+    addMatch("england", engScore, oppScore);
+    addMatch("panama", oppScore, engScore);
+
+    // Other match: Croatia vs Ghana
+    let croScore = 1, ghaScore = 1; // Default
+    if (SIMULATED_RESULTS["match_cro_gha"]) {
+      croScore = SIMULATED_RESULTS["match_cro_gha"].team1;
+      ghaScore = SIMULATED_RESULTS["match_cro_gha"].team2;
+    }
+    addMatch("croatia", croScore, ghaScore);
+    addMatch("ghana", ghaScore, croScore);
   }
 
   // Convert map to array and sort
