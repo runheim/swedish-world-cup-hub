@@ -652,11 +652,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5338_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Chris Richards’s World Cup in doubt as ankle injury rules USMNT defender out for Germany friendly",
+            "bullets": [
+              "Pochettino ‘not happy’ with Palace’s injury assessmentRichards missed Conference League finalPredict...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino ‘not happy’ with Palace’s injury assessmentRichards missed Conference League finalPredict your World Cup bracket | Complete player guideChris Richards will not take part in the United States’ final World Cup tune-up friendly against Germany, head coach Mauricio Pochettino said in Friday’s pre-match press conference.While Pochettino awaits further assessments, the defender’s status for the World Cup is decidedly in doubt. Continue reading...",
+            "fullText": "Pochettino ‘not happy’ with Palace’s injury assessment\n\nPredict your World Cup bracket|Complete player guide\n\nChris Richards will not take part in the United States’ finalWorld Cuptune-up friendly against Germany, head coach Mauricio Pochettino said in Friday’s pre-match press conference.\n\nWhile Pochettino awaits further assessments, the defender’s status for the World Cup is decidedly in doubt.\n\n“He’s still not ready to compete and play,” Pochettino said Friday. “I think we are going to have that opportunity in the next few days to assess him and see his ankle, and then to make a decision.”\n\nRichards suffered an ankle injury in Crystal Palace’s second-to-last match of its Premier League season against Brentford. The exact nature of the injury is not known, except for Palace manager Oliver Glasner saying that he hadtorn ligamentsin his ankle. He missed their league finale against Arsenal and did not play in the Conference League final against Rayo Vallecano. Ahead of the Arsenal match, Glasner said Richards could be available for the European final, an assessment that had cast a rosier projection of Richards’s readiness for the World Cup – boosted by several reports that there was little doubt in Richards’s camp about his availability for this summer’s tournament.\n\nOn Friday, Pochettino admitted he believed Richards was closer to match fitness given Glasner’s comments that the defender could potentially feature in the Conference League final.\n\nInstead, Pochettino and his staff will have to make a decision on a key player’s readiness to contribute at this World Cup given the shrinking window of recovery between now and the group stage’s opener 12 June against Paraguay.\n\n“There was a line of information where we were thinking that he could play that final against Rayo Vallecano in Conference League,” Pochettino said in Spanish on Friday. “He was on the bench of subs, you remember? After that, [we thought] he could maybe be [involved] against Senegal. In the end, the timelines [are] lengthening and [it] angers me a bit. I’m not happy, because we know Chris Richards is an important player. Of course we all know it.”\n\nRichards spent his time in pre-World Cup camp rehabbing by himself until a session at the National Training Center on Wednesday, when he took the training field with the rest of his teammates. While they partook in the customary pre-training stretch circles and rondos, Richards was off to the side on a second field with a pair of trainers, doing resistance band work while working on his lateral motion.\n\n“We are never going to take a decision to play with some player that [has a] minimum risk,” Pochettino said on Friday. We prefer to not take [a] risk. That’s why all of the players that are going to start, or players that’s going to come from the bench, it’s because they are healthy, and they are 100% fit to play.”\n\nWith Richards unavailable for last weekend’s3-2 winover Senegal, Mark McKenzie was stationed at the heart of the center-back trio. Tim Ream broke lines from the left side, while Alex Freeman served as an elbow back to drop deeper in defensive phases and help with build-up in a wider position.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 05:33:06 EDT",
+  "lastUpdated": "2026-06-06 @ 11:53:55 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
