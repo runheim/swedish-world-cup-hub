@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT completes morning walkthrough at Soldier Field",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Australia and Türkiye scouts arrive at Soldier Field press box",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+      "link": "https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report"
     }
   ],
   "timeline": {
@@ -735,11 +719,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1719_0",
+            "category": "usa",
+            "type": "News",
+            "title": "US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
+            "bullets": [
+              "Antonee Robinson scores the Americans’ only goalUS open World Cup on 12 June against ParaguayWorld C...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Antonee Robinson scores the Americans’ only goalUS open World Cup on 12 June against ParaguayWorld Cup newsletter | Daily podcast | Get the appReady or not, here comes the group stage.The US men concluded their pre-World Cup preparations with a 2-1 loss against Germany on Saturday at Soldier Field, in front of a lively sellout crowd of 63,636. The fans made their way to the historic venue on a Chicago summer afternoon which alternated palpable heat with occasional drizzling rain. Continue reading...",
+            "fullText": "The US men concluded their pre-World Cup preparations with a 2-1 loss against Germany on Saturday at Soldier Field, in front of a lively sellout crowd of 63,636. The fans made their way to the historic venue on a Chicago summer afternoon which alternated palpable heat with occasional drizzling rain.\n\nAntonee Robinson scored the United States’ only goal on a thunderbolt volley, with German goals coming on either side.\n\nMuch of this cycle has been messy for the US, but Saturday’s showing validated this group’s readiness less than a week from Group D kicking off.\n\nThere are still questions about how to adequately get service to the nimble Balogun, who managed to make just 20 touches in 72 minutes as he was marked closely by the burly Jonathan Tah. Christian Pulisic and Sergiño Dest struggled to make much of an impact from the wing, a testament to Germany’s structure and eagerness to close the US down before they could gain a head of steam.\n\nEven after conceding, the US seldom appeared to switch off and make compounding mistakes, which in itself showed progress from March’s friendlies against Belgium and Portugal.\n\nGermany wasted no time in setting a dominant tone. After Tyler Adams committed a foul near the box, Joshua Kimmich sent in a curling indirect free kick. Some clever screening separated Kai Havertz from his mark (Tim Ream) while Miles Robinson lingered a step behind the Arsenal midfielder. Havertz comfortably prodded an unobstructed header from inside eight yards beyond Matt Freese, doubling a damping effect on the home faithful that coincided with a brief passage of rain.\n\nClouds parted around the 12th minute, opening the US’s first strong passage of play after Havertz’s’ opener. Pochettino’s side operated with a free-flowing structure; Dest made anotherproactive interpretationof his wing-back role, with Alex Freeman often operating more as a right-back than part of a center-back trio. The US competently retained possession for extended sequences and showed determination to make quick regains whenever Germany forced a loose ball. However, a long shot from Dest flew over the bar, while subsequent attempts were blocked and hopeful crosses were cleared away before finding their target.\n\nThe 23rd minute cooling break halted momentum. The game struggled to regain its verve, with some ambitious passes going unconverted and both teams exchanging chippy fouls.\n\nAt last, Antonee Robinson sent the host’s fans into rapture. Robinson lingered just outside the box as a corner kick looped his way after an initial header. The Fulham defender struck the ball before it hit the ground, sending a powerful volley beyond Oliver Baumann for his fifth international goal.\n\nThe Germans continued to play with considerable physicality. Tim Ream was brought down near his neck at one stage, while Pulisic was briefly on the ground clutching his back after a tackle from behind by Leroy Sané. Chilean official Piero Mazo – who is not among the referees for the World Cup – let both teams get a shoulder or foot in without many blows of his whistle, frustrating the home fans at time as Germany entered half-time without a yellow card. Overall, there was plenty of encouragement to be found from how the US responded to an early deficit.\n\nBoth sides kept all eleven starters on the field to open the second half, with Germany’s defensive structure making it tricky for the US to further threaten Baumann.\n\nThe job was made harder after Germany took the lead. A quick through-ball from Jamal Musiala found Sané in the channel, a half-step ahead of a trailing Tyler Adams. Sané placed his shot to the far post beyond a diving Freese before Miles Robinson could converge, restoring Germany’s one-goal advantage in the 57th minute.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 14:59:16 EDT",
+  "lastUpdated": "2026-06-06 @ 18:17:31 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
