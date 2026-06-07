@@ -2569,6 +2569,15 @@ function setupEventListeners() {
 // Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
 // ==========================================================================
 
+let SIMULATED_RESULTS = {
+  match_paraguay: null,
+  match_australia: null,
+  match_turkiye: null,
+  match_aus_tur: null,
+  match_tur_par: null,
+  match_par_aus: null
+};
+
 
 let venueClockInterval = null;
 let currentTriviaIndex = 0;
@@ -3296,14 +3305,3 @@ function renderPredictor() {
     });
   }
 }
-
-
-  const res4 = getScore("match_tur_aus");
-  if (res4) { addMatch("turkiye", res4[0], res4[1]); addMatch("australia", res4[1], res4[0]); }
-  const res5 = getScore("match_par_aus");
-  if (res5) { addMatch("paraguay", res5[0], res5[1]); addMatch("australia", res5[1], res5[0]); }
-  const res6 = getScore("match_tur_par");
-  if (res6) { addMatch("turkiye", res6[0], res6[1]); addMatch("paraguay", res6[1], res6[0]); }
-  
-
-

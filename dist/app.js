@@ -829,8 +829,8 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_germany": {
-    score: "2 - 1",
-    scorers: "🇺🇸 Balogun (33'), Weah (71') | 🇩🇪 Wirtz (55')",
+    score: "1 - 2",
+    scorers: "🇺🇸 Robinson (37') | 🇩🇪 Havertz (2'), Sané (57')",
     report: "A spectacular send-off victory at Soldier Field! Folarin Balogun opened the scoring with a clinical first-half strike. Germany equalized through Florian Wirtz's thunderous shot, but Timothy Weah sealed a memorable win with a pacey counter-attack goal in the 71st minute. The crowd of 62,000 gave the squad a rousing farewell.",
     ratings: [
       { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Sharp reflexes, made a key save before Wirtz's goal.", isMotm: false },
@@ -849,66 +849,17 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "USA beat Germany 2-0 in their last World Cup meeting (2014 group stage in Brazil)."
     }
   },
-  "match_paraguay": {
-    score: "2 - 0",
-    scorers: "🇺🇸 Balogun (23'), Pulisic (68' pen)",
-    report: "A perfect start to USA's World Cup campaign! Mauricio Pochettino's 4-3-3 formation worked flawlessly, suffocating Paraguay's physical defense. Folarin Balogun opened the scoring with a brilliant curled strike into the bottom corner. Christian Pulisic sealed the three points in the second half by converting a clinical penalty won by Weston McKennie.",
-    ratings: [
-      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Had a quiet night but remained alert, keeping a clean sheet.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 7.5, comment: "Completely shut down Paraguay's central attacks with dominant clearances.", isMotm: false },
-      { name: "Cameron Carter-Vickers", role: "CB", rating: 7.5, comment: "Solid defensive display, comfortable on the ball under pressure.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Defensively sound, shut down Almirón's flank runs.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 8.0, comment: "Stellar performance. Creative anchor who broke up transitions.", isMotm: false },
-      { name: "Weston McKennie", role: "CM", rating: 8.0, comment: "Combative and direct. Won the penalty for Pulisic's sealer.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Constant overlapping threat. Provided a pinpoint assist for Balogun.", isMotm: false },
-      { name: "Christian Pulisic", role: "LW", rating: 8.5, comment: "A world-class display. Captained the team brilliantly and scored the second goal.", isMotm: true },
-      { name: "Timothy Weah", role: "RW", rating: 7.5, comment: "Silky dribbling, outpaced Paraguayan full-backs with ease.", isMotm: false },
-      { name: "Folarin Balogun", role: "ST", rating: 8.0, comment: "Relentless physical press. Opened the scoring with a clinical finish.", isMotm: false }
-    ],
-    preview: {
+  "match_paraguay": {preview: {
       tactical: "Group D opener in Los Angeles! USA must break down Paraguay's compact, low-block defense. Expect heavy reliance on Robinson and Scally to stretch the pitch.",
       keyStat: "Paraguay kept key clean sheets during South American qualifiers. Breaking them down is key."
     }
   },
-  "match_australia": {
-    score: "2 - 2",
-    scorers: "🇦🇺 Irvine (34'), Irankunda (71') | 🇺🇸 Balogun (41'), Pepi (88')",
-    report: "An epic blockbuster in Seattle! USA showcased incredible resilience to grab a dramatic draw against the Australian visitors. Nestory Irankunda put Australia ahead in the 71st minute, but USA's relentless press paid off in the 88th minute when substitute Ricardo Pepi scored a dramatic late equalizer, tapping home a rebound.",
-    ratings: [
-      { name: "Matt Turner", role: "GK", rating: 8.0, comment: "Heroic performance. Made four critical saves to keep USA in the game.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 6.5, comment: "Struggled slightly against Australia's physical presence, but made key blocks.", isMotm: false },
-      { name: "Tim Ream", role: "CB", rating: 7.0, comment: "Kept the backline organized under immense Australian pressure.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 6.5, comment: "Had a tough defensive assignment against Irankunda's sprints.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Massive distance covered. Shielded the defense tiresomely.", isMotm: false },
-      { name: "Yunus Musah", role: "CM", rating: 7.0, comment: "Press-resistant play under high pressure, recycled ball cleanly.", isMotm: false },
-      { name: "Weston McKennie", role: "CM", rating: 7.5, comment: "Aggressive in central duels, assisted Balogun's first-half goal.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.0, comment: "Relentless overlapping runs, provided dangerous crosses.", isMotm: false },
-      { name: "Christian Pulisic", role: "LW", rating: 7.5, comment: "Highly threatful between the lines. Spearheaded the late attack.", isMotm: false },
-      { name: "Folarin Balogun", role: "ST", rating: 8.0, comment: "Outstanding first-half goal, fought hard against Australian center-backs.", isMotm: false },
-      { name: "Ricardo Pepi", role: "ST", rating: 8.5, comment: "Subbed on in 75th minute. Nightmarish presence for Australia, scoring the dramatic late equalizer.", isMotm: true }
-    ],
-    preview: {
+  "match_australia": {preview: {
       tactical: "The Group D home clash in Seattle! A high-tempo tactical test against Australia. USA's central pivot must prepare aggressive pressing traps to stifle wide counters.",
       keyStat: "Australia scored in all their recent warm-up fixtures. USA's defense must lock in."
     }
   },
-  "match_turkiye": {
-    score: "2 - 1",
-    scorers: "🇹🇷 Çalhanoğlu (49') | 🇺🇸 Reyna (62'), Balogun (79')",
-    report: "USA wins Group D! An intense, high-tempo battle in Los Angeles ends with USA securing top spot. After Hakan Çalhanoğlu scored early in the second half, Mauricio Pochettino introduced Gio Reyna, who immediately equalized with a curled strike. Folarin Balogun then scored the winning goal in the 79th minute, a clinical finish after a beautiful passing sequence.",
-    ratings: [
-      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Made three spectacular saves against Türkiye's quick central attacks.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 7.5, comment: "Dominant physical presence, stopped key central attacks from Yılmaz.", isMotm: false },
-      { name: "Cameron Carter-Vickers", role: "CB", rating: 7.0, comment: "Solid positioning, tracked vertical runs diligently.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Tough defensive shift against Yıldız, limited his options.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 8.0, comment: "Combative in midfield, won crucial second balls. Assisted Balogun's winner.", isMotm: true },
-      { name: "Weston McKennie", role: "CM", rating: 7.0, comment: "Excellent passing accuracy, controlled the tempo in the second half.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Relentless engine, contributed heavily to high press.", isMotm: false },
-      { name: "Yunus Musah", role: "CM", rating: 7.5, comment: "Press-resistant runs through midfield, creating transition spaces.", isMotm: false },
-      { name: "Gio Reyna", role: "AM", rating: 8.0, comment: "Super-sub. Equalized with a breathtaking curled finish into the top corner.", isMotm: false },
-      { name: "Folarin Balogun", role: "ST", rating: 8.5, comment: "Match-winner. Scored the decider with pure clinical brilliance.", isMotm: false }
-    ],
-    preview: {
+  "match_turkiye": {preview: {
       tactical: "Final group stage battle in Los Angeles! Montella's highly disciplined side will exploit central spaces. Wingers must track back rapidly to restrict wide threats.",
       keyStat: "USA is unbeaten at home in their last 5 international fixtures."
     }
@@ -1896,20 +1847,16 @@ function renderMatchSchedule() {
       const matchTimeStr = match.time.split(" ")[0];
       const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
       const now = new Date();
-      isCompleted = (now >= matchDateTime) || (SIMULATED_RESULTS && !!SIMULATED_RESULTS[match.id]);
+      isCompleted = (now >= matchDateTime) && MATCH_REPORTS_DATABASE[match.id] && MATCH_REPORTS_DATABASE[match.id].score;
     } catch (e) {
       console.error("Error parsing match date/time:", e);
     }
 
     const reportData = MATCH_REPORTS_DATABASE[match.id];
-    let scoreText = "vs.";
+    let scoreText = `<span style="font-size: 0.9rem; font-weight: 500; margin: 0 0.6rem; color: var(--text-secondary);">Upcoming ${isWarmup ? "Friendly" : "World Cup Match"}</span>`;
     let badgeText = isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP';
     
-    if (SIMULATED_RESULTS && SIMULATED_RESULTS[match.id]) {
-      const simRes = SIMULATED_RESULTS[match.id];
-      scoreText = `<strong style="color: var(--us-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${simRes.usa} - ${simRes.opp}</strong>`;
-      badgeText += " - SIMULATED";
-    } else if (isCompleted && reportData) {
+    if (isCompleted && reportData) {
       scoreText = `<strong style="color: var(--us-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${reportData.score}</strong>`;
       badgeText += " - FINAL RESULT";
     }
@@ -2614,68 +2561,7 @@ function setupEventListeners() {
   }
 
   // Match Simulator Trigger Events
-  const simulateBtn = document.getElementById("match-center-simulate-btn");
-  if (simulateBtn) {
-    simulateBtn.addEventListener("click", openMatchSimulator);
-  }
-
-  const playSim = document.getElementById("sim-control-play");
-  const pauseSim = document.getElementById("sim-control-pause");
   
-  if (playSim && pauseSim) {
-    playSim.addEventListener("click", () => {
-      const statusPill = document.getElementById("sim-status-pill");
-      statusPill.textContent = "Live";
-      statusPill.style.color = "#FECC00";
-      statusPill.style.background = "rgba(254,204,0,0.1)";
-
-      playSim.style.display = "none";
-      pauseSim.style.display = "inline-block";
-      pauseSim.innerHTML = '<i class="fas fa-pause"></i> Pause';
-
-      if (simInterval) clearInterval(simInterval);
-      simInterval = setInterval(handleSimulatorTick, simSpeed);
-    });
-
-    pauseSim.addEventListener("click", () => {
-      const statusPill = document.getElementById("sim-status-pill");
-      statusPill.textContent = "Paused";
-      statusPill.style.color = "#9CA3AF";
-      statusPill.style.background = "rgba(156,163,175,0.1)";
-
-      pauseSim.style.display = "none";
-      playSim.style.display = "inline-block";
-      playSim.innerHTML = '<i class="fas fa-play"></i> Resume';
-
-      if (simInterval) {
-        clearInterval(simInterval);
-        simInterval = null;
-      }
-    });
-  }
-
-  const speedSelect = document.getElementById("sim-speed-select");
-  if (speedSelect) {
-    speedSelect.addEventListener("change", (e) => {
-      simSpeed = Number(e.target.value);
-      if (simInterval) {
-        clearInterval(simInterval);
-        simInterval = setInterval(handleSimulatorTick, simSpeed);
-      }
-    });
-  }
-
-  const viewReportBtn = document.getElementById("sim-btn-view-report");
-  if (viewReportBtn) {
-    viewReportBtn.addEventListener("click", () => {
-      document.getElementById("match-simulator-modal").classList.remove("active");
-      const matchCenter = document.getElementById("match-center-card");
-      if (matchCenter) {
-        matchCenter.scrollIntoView({ behavior: "smooth" });
-      }
-      renderMatchCenter();
-    });
-  }
 }
 
 // ==========================================================================
@@ -2691,6 +2577,7 @@ let SIMULATED_RESULTS = {
   match_tur_par: null,
   match_par_aus: null
 };
+
 
 let venueClockInterval = null;
 let currentTriviaIndex = 0;
@@ -3418,6 +3305,3 @@ function renderPredictor() {
     });
   }
 }
-
-
-
