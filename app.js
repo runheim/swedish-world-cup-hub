@@ -2591,6 +2591,15 @@ function setupEventListeners() {
 // Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
 // ==========================================================================
 
+let SIMULATED_RESULTS = {
+  match_tunisia: null,
+  match_netherlands: null,
+  match_japan: null,
+  match_ned_jap: null,
+  match_jap_tun: null,
+  match_tun_ned: null
+};
+
 
 let venueClockInterval = null;
 let currentTriviaIndex = 0;
@@ -3328,14 +3337,3 @@ function renderPredictor() {
     });
   }
 }
-
-
-  const res4 = getScore("match_jap_net");
-  if (res4) { addMatch("japan", res4[0], res4[1]); addMatch("netherlands", res4[1], res4[0]); }
-  const res5 = getScore("match_tun_net");
-  if (res5) { addMatch("tunisia", res5[0], res5[1]); addMatch("netherlands", res5[1], res5[0]); }
-  const res6 = getScore("match_tun_jap");
-  if (res6) { addMatch("tunisia", res6[0], res6[1]); addMatch("japan", res6[1], res6[0]); }
-  
-
-
