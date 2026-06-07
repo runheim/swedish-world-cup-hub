@@ -834,11 +834,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1842_0",
+            "category": "usa",
+            "type": "News",
+            "title": "‘It’s Bible time’: How religion became part of the USMNT’s World Cup identity",
+            "bullets": [
+              "From Christian Pulisic to Weston McKennie, many of the team’s biggest stars have been open about the...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "From Christian Pulisic to Weston McKennie, many of the team’s biggest stars have been open about their faith, creating a new dynamic for a home World Cup• World Cup newsletter | Daily podcast | Get the appIn the third episode of the interminable, nine-part Pulisic docuseries, its subject, Christian Pulisic, sits down at a dining table, pink orchids blooming behind him.“It is what time?” a friend asks him, holding a camera in Pulisic’s face. Continue reading...",
+            "fullText": "From Christian Pulisic to Weston McKennie, many of the team’s biggest stars have been open about their faith, creating a new dynamic for a home World Cup\n\nIn the third episode of the interminable, nine-part Pulisic docuseries, its subject,Christian Pulisic, sits down at a dining table, pink orchids blooming behind him.\n\n“It is what time?” a friend asks him, holding a camera in Pulisic’s face.\n\n“Bible time,” Pulisic answers, thumbing through the good book with a pencil perched between his fingers, a notepad turned to a fresh blank page poised beside it. The ever-present cross dangles from his necklace.\n\nPulisic’s faith was not a revelation. He hasposted picturesofunderlined passagesin his Bible on Instagram, too.\n\nHis fellow United States men’s national team star Weston McKennie’sInstagram bioconsists of just four words: “All glory to God.” In his profile picture, McKennie points two index fingers up at the sky, his cross-shaped diamond earrings secured to his lobes.\n\nDefender Chris Richards, meanwhile, has also beenoutspoken about his faith. He once shared that he and 10 or so fellow Crystal Palace playerspray together before games, and conduct Bible study.\n\nWhen goalkeeper Matt Freese joined the USMNT, the devout Catholic mentioned in an off-handed comment that he had already met Pulisic in a Bible study session.\n\nThe team’s head coach, Mauricio Pochettino, is Catholic and almost always wears a bracelet depicting a patron saint. When he took over Espanyol in his first managerial gig in 2009, Pochettinohiked the 7.5 miles up to the Montserrat religious shrineoutside Barcelona to pray for the club to be saved from relegation (it worked).\n\nAt the last World Cup, the USMNT’s roster included Walker Zimmerman, the son of a pastor who used his platform toproclaim his own faith; Yunus Musah, a Muslim whofasted even on match-days during Ramadan; and DeAndre Yedlin, a practicing Buddhist who led several teammates inbarefoot post-match meditationsout on the pitch after every game in Qatar.\n\nThis all represents a rather radical change in the team’s public engagement with religion, or really with personal beliefs of any kind.\n\nAlthough demographics suggest that at least some national team stars of the past would have been religious, hardly any were ever vocal about it. Clint Dempsey seems to have givena single interview about his faith to Sports Spectrum, a religious media outlet, around the 2014 World Cup. (Sports Spectrum, as it happens, also recordeda recent podcaston faith with surprise World Cup roster omission Tanner Tessmann.) Tim Howard wasa member of the Fellowship of Christian Athletes, butvery rarely spokeabout his beliefs publicly. Jozy Altidoresaidlate in his career that he was “raised as a Jehovah’s Witness” but didn’t elaborate further. Landon Donovanappearsto be an atheist.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 15:57:45 EDT",
+  "lastUpdated": "2026-06-07 @ 18:18:53 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
