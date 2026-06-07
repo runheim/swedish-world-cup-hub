@@ -2497,6 +2497,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "That training session was proper intense.",
       "time": "11:16",
       "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Can't wait to get back out there. Focus is 100%.",
+      "time": "16:41",
+      "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Don't forget the media duties at 2pm lads.",
+      "time": "16:42",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "16:43",
+      "isCaptain": false
+    },
+    {
+      "sender": "Trent Alexander-Arnold",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who's got control of the playlist today? Needs sorting out.",
+      "time": "16:44",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "16:45",
+      "isCaptain": true
     }
   ]
 };
