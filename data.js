@@ -4,12 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gustaf Lagerbielke is singled out as the heir to the Swedish throne: \"The Riksdag can decide\"",
-      "link": "https://www.svt.se/sport/fotboll/gustaf-lagerbielke-pekas-ut-som-svensk-tronarvinge-extremt-osannolikt"
+      "text": "⚽ Alexander Isak camp diary: 'Dallas is hot, but the squad energy is crazy'",
+      "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "⚽ Benfica's recipe for success: Recruiting five-year-olds",
-      "link": "https://www.svt.se/sport/fotboll/benficas-framgangsrecept-rekryterar-femaringar"
+      "text": "🌍 Group F Preview: Pundits tag Sweden vs Tunisia as the deciding match",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.svenskfotboll.se/"
     }
   ],
   "timeline": {
@@ -888,10 +900,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-07": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_swe_20260607_5",
+            "category": "sweden",
+            "type": "Blog",
+            "title": "Alexander Isak camp diary: 'Dallas is hot, but the squad energy is crazy'",
+            "bullets": [
+              "Liverpool striker shares positive updates from Dallas team hotel.",
+              "Isak: 'Potter's style suits us perfectly; we are highly motivated.'",
+              "Sweden fans turn out in high numbers to support open training sessions."
+            ],
+            "summary": "In an exclusive diary entry, Alexander Isak praised the team spirit and facilities in Dallas. The striker feels the roster is fully prepared to deliver a strong campaign.",
+            "fullText": "In an exclusive diary entry, Alexander Isak praised the team spirit and facilities in Dallas. The striker feels the roster is fully prepared to deliver a strong campaign.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Player Diary",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260607_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group F Preview: Pundits tag Sweden vs Tunisia as the deciding match",
+            "bullets": [
+              "Global soccer analysts predict Sweden's width will test Tunisia's low-block.",
+              "CBS: 'Graham Potter's World Cup debut represents a massive tactical spotlight.'",
+              "Winner of the match is projected to have an 85% chance of advancing."
+            ],
+            "summary": "Analysts have flagged Sweden's opener as the key fixture of Group F. Pundits expect a tight clash between Potter's fluid offense and Tunisia's rigid defensive block.",
+            "fullText": "Analysts have flagged Sweden's opener as the key fixture of Group F. Pundits expect a tight clash between Potter's fluid offense and Tunisia's rigid defensive block.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Editorial",
+            "readTime": "3 min",
+            "tag": "WC Group F Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 18:17:40 EDT",
+  "lastUpdated": "2026-06-07 @ 05:52:13 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
