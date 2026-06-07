@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Alexander Isak camp diary: 'Dallas is hot, but the squad energy is crazy'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Group F Preview: Pundits tag Sweden vs Tunisia as the deciding match",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ The expert's tip for the WC nights: \"Don't overdramatize\"",
+      "link": "https://www.svt.se/sport/fotboll/expertens-tips-infor-vm-natterna-overdramatisera-inte"
     }
   ],
   "timeline": {
@@ -949,7 +933,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 05:52:13 EDT",
+  "lastUpdated": "2026-06-07 @ 06:36:31 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
