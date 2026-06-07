@@ -791,8 +791,8 @@ const MATCH_SCHEDULE = [
 // 3.5 Match Reports & Player Ratings Database (England Adaptation)
 const MATCH_REPORTS_DATABASE = {
   "match_nz": {
-    score: "2 - 0",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (24'), Palmer (78')",
+    score: "1 - 0",
+    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (45+1')",
     report: "A solid opening warm-up victory for England at a sunny Wembley! Testing out the fluid 4-2-3-1 system, the Three Lions dominated possession. Harry Kane opened the scoring, finishing a low cross from Phil Foden. Substitute Cole Palmer secured the 2-0 win with a composed strike in the 78th minute.",
     ratings: [
       { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Had a quiet night, claimed high crosses with absolute security.", isMotm: false },
@@ -832,65 +832,17 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "England has won all historical matches against Costa Rica."
     }
   },
-  "match_croatia": {
-    score: "1 - 1",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (68' pen) | 🇭🇷 Kramarić (34')",
-    report: "England battles to a hard-fought draw in their World Cup Group L opener at AT&T Stadium in Arlington! Croatia took the lead through Kramarić, but England responded strongly, equalizing via skipper Harry Kane's clinical penalty. Pickford pulled off two stellar saves to preserve the draw.",
-    ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 8.0, comment: "Sensational performance. Prevented a late winner with elite reflexes.", isMotm: true },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Kept composure under immense high press from Croatian midfield.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Physically dominant in central aerial duels, solid block.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Disciplined defensive cover, tracked wide overlaps with diligence.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 7.5, comment: "Stout shield. Covered massive mileage to intercept central passes.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 7.0, comment: "Fought hard in contested midfield areas, keeping possession alive.", isMotm: false },
-      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "Provided vital defensive support, limited flank spacing.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 7.5, comment: "Linked transition sequences, won the penalty for the equalizer.", isMotm: false },
-      { name: "Bukayo Saka", role: "RW", rating: 7.0, comment: "Kept wide markers occupied, stretching play on the flank.", isMotm: false },
-      { name: "Harry Kane", role: "ST", rating: 7.5, comment: "Clinical skipper. Slammed the equalizer penalty home with complete authority.", isMotm: false }
-    ],
-    preview: {
+  "match_croatia": {preview: {
       tactical: "World Cup Group L Opener at AT&T Stadium in Arlington/Dallas! A high-stakes clash against a tactical, experienced Croatian side featuring world-class midfield engines.",
       keyStat: "Croatia and England have met multiple times in World Cup history, yielding epic fixtures."
     }
   },
-  "match_ghana": {
-    score: "2 - 1",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Saka (41'), Foden (88') | 🇬🇭 Kudus (12')",
-    report: "A massive World Cup victory for England at Gillette Stadium! Despite Mohammed Kudus scoring an early stunner for Ghana, the Three Lions fought back in champion style. Bukayo Saka equalized before Phil Foden hit a sensational 88th-minute free-kick winner.",
-    ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 7.5, comment: "Made two spectacular saves to block rapid Ghana counters.", isMotm: false },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Composed under central pressure, recycled possession cleanly.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Dominant block, limited physical threat of Ghana strikers.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.5, comment: "Used blistering speed to intercept several critical overlapping crosses.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 8.0, comment: "Absolute shield. Won key tackles in midfield, recycling play instantly.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 7.5, comment: "Excellent passing accuracy, controlled the tempo in the second half.", isMotm: false },
-      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "Reliable defensive engine, contributed heavily to the high press.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 8.0, comment: "High creativity. Assisted Saka's goal with a visionary pass.", isMotm: false },
-      { name: "Bukayo Saka", role: "RW", rating: 8.0, comment: "Scored the equalizer goal with a clinical far-post slot.", isMotm: false },
-      { name: "Phil Foden", role: "LW", rating: 9.0, comment: "Match-winner. Hit a magnificent free kick and led the attack.", isMotm: true }
-    ],
-    preview: {
+  "match_ghana": {preview: {
       tactical: "Second group stage match at Gillette Stadium in Foxborough/Boston. Ghana's athletic transition block presents a massive flank speed threat.",
       keyStat: "England is unbeaten in all historical World Cup meetings with African nations."
     }
   },
-  "match_panama": {
-    score: "3 - 0",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (14', 44'), Bellingham (71')",
-    report: "England wins Group L! A magnificent 3-0 performance at MetLife Stadium secures top spot for the Three Lions. Harry Kane scored a first-half brace, and Jude Bellingham sealed the points with a clinical drive after the break.",
-    ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Commanded his box, kept a comfortable clean sheet.", isMotm: false },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Elegant deep distribution, stepping forward into midfield lines.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.5, comment: "Untroubled central duels, completely shut down counters.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Solid positioning, tracked runs diligently.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 8.0, comment: "Dominant midfield anchor, won crucial second balls cleanly.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 7.5, comment: "Showcased spectacular close control to slip out of tight areas.", isMotm: false },
-      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "High work rate down the left, solid overlapping runs.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 8.5, comment: "Late box runs paid off beautifully with a sublime finish.", isMotm: false },
-      { name: "Bukayo Saka", role: "RW", rating: 7.5, comment: "Stretched the play, delivered precise cross-field passes.", isMotm: false },
-      { name: "Harry Kane", role: "ST", rating: 9.0, comment: "Clinical brace inside the first half, captained with total authority.", isMotm: true }
-    ],
-    preview: {
+  "match_panama": {preview: {
       tactical: "Final group match at MetLife Stadium in East Rutherford/New Jersey! England looks to secure top spot against a compact, physical Panama side.",
       keyStat: "England recorded a historic 6-1 win against Panama in the 2018 World Cup."
     }
@@ -1864,20 +1816,16 @@ function renderMatchSchedule() {
       const matchTimeStr = match.time.split(" ")[0];
       const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
       const now = new Date();
-      isCompleted = (now >= matchDateTime) || (SIMULATED_RESULTS && !!SIMULATED_RESULTS[match.id]);
+      isCompleted = (now >= matchDateTime) && MATCH_REPORTS_DATABASE[match.id] && MATCH_REPORTS_DATABASE[match.id].score;
     } catch (e) {
       console.error("Error parsing match date/time:", e);
     }
 
     const reportData = MATCH_REPORTS_DATABASE[match.id];
-    let scoreText = "vs.";
+    let scoreText = `<span style="font-size: 0.9rem; font-weight: 500; margin: 0 0.6rem; color: var(--text-secondary);">Upcoming ${isWarmup ? "Friendly" : "World Cup Match"}</span>`;
     let badgeText = isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP';
     
-    if (SIMULATED_RESULTS && SIMULATED_RESULTS[match.id]) {
-      const simRes = SIMULATED_RESULTS[match.id];
-      scoreText = `<strong style="color: var(--england-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${simRes.eng} - ${simRes.opp}</strong>`;
-      badgeText += " - SIMULATED";
-    } else if (isCompleted && reportData) {
+    if (isCompleted && reportData) {
       scoreText = `<strong style="color: var(--england-red); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${reportData.score}</strong>`;
       badgeText += " - FINAL RESULT";
     }
@@ -2584,68 +2532,7 @@ function setupEventListeners() {
   }
 
   // Match Simulator Trigger Events
-  const simulateBtn = document.getElementById("match-center-simulate-btn");
-  if (simulateBtn) {
-    simulateBtn.addEventListener("click", openMatchSimulator);
-  }
-
-  const playSim = document.getElementById("sim-control-play");
-  const pauseSim = document.getElementById("sim-control-pause");
   
-  if (playSim && pauseSim) {
-    playSim.addEventListener("click", () => {
-      const statusPill = document.getElementById("sim-status-pill");
-      statusPill.textContent = "Live";
-      statusPill.style.color = "white";
-      statusPill.style.background = "var(--england-red)";
-
-      playSim.style.display = "none";
-      pauseSim.style.display = "inline-block";
-      pauseSim.innerHTML = '<i class="fas fa-pause"></i> Pause';
-
-      if (simInterval) clearInterval(simInterval);
-      simInterval = setInterval(handleSimulatorTick, simSpeed);
-    });
-
-    pauseSim.addEventListener("click", () => {
-      const statusPill = document.getElementById("sim-status-pill");
-      statusPill.textContent = "Paused";
-      statusPill.style.color = "var(--text-white)";
-      statusPill.style.background = "rgba(10,31,60,0.05)";
-
-      pauseSim.style.display = "none";
-      playSim.style.display = "inline-block";
-      playSim.innerHTML = '<i class="fas fa-play"></i> Resume';
-
-      if (simInterval) {
-        clearInterval(simInterval);
-        simInterval = null;
-      }
-    });
-  }
-
-  const speedSelect = document.getElementById("sim-speed-select");
-  if (speedSelect) {
-    speedSelect.addEventListener("change", (e) => {
-      simSpeed = Number(e.target.value);
-      if (simInterval) {
-        clearInterval(simInterval);
-        simInterval = setInterval(handleSimulatorTick, simSpeed);
-      }
-    });
-  }
-
-  const viewReportBtn = document.getElementById("sim-btn-view-report");
-  if (viewReportBtn) {
-    viewReportBtn.addEventListener("click", () => {
-      document.getElementById("match-simulator-modal").classList.remove("active");
-      const matchCenter = document.getElementById("match-center-card");
-      if (matchCenter) {
-        matchCenter.scrollIntoView({ behavior: "smooth" });
-      }
-      renderMatchCenter();
-    });
-  }
 }
 
 // ==========================================================================
@@ -2653,14 +2540,6 @@ function setupEventListeners() {
 // Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
 // ==========================================================================
 
-let SIMULATED_RESULTS = {
-  match_croatia: null,
-  match_ghana: null,
-  match_panama: null,
-  match_gha_pan: null,
-  match_pan_cro: null,
-  match_cro_gha: null
-};
 
 let venueClockInterval = null;
 let currentTriviaIndex = 0;
@@ -3398,4 +3277,12 @@ function renderPredictor() {
     });
   }
 }
+  const res4 = getScore("match_gha_pan");
+  if (res4) { addMatch("ghana", res4[0], res4[1]); addMatch("panama", res4[1], res4[0]); }
+  const res5 = getScore("match_cro_pan");
+  if (res5) { addMatch("croatia", res5[0], res5[1]); addMatch("panama", res5[1], res5[0]); }
+  const res6 = getScore("match_cro_gha");
+  if (res6) { addMatch("croatia", res6[0], res6[1]); addMatch("ghana", res6[1], res6[0]); }
+  
+
 
