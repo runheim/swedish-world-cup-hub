@@ -2540,6 +2540,15 @@ function setupEventListeners() {
 // Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
 // ==========================================================================
 
+let SIMULATED_RESULTS = {
+  match_croatia: null,
+  match_ghana: null,
+  match_panama: null,
+  match_gha_pan: null,
+  match_pan_cro: null,
+  match_cro_gha: null
+};
+
 
 let venueClockInterval = null;
 let currentTriviaIndex = 0;
@@ -3277,12 +3286,3 @@ function renderPredictor() {
     });
   }
 }
-  const res4 = getScore("match_gha_pan");
-  if (res4) { addMatch("ghana", res4[0], res4[1]); addMatch("panama", res4[1], res4[0]); }
-  const res5 = getScore("match_cro_pan");
-  if (res5) { addMatch("croatia", res5[0], res5[1]); addMatch("panama", res5[1], res5[0]); }
-  const res6 = getScore("match_cro_gha");
-  if (res6) { addMatch("croatia", res6[0], res6[1]); addMatch("ghana", res6[1], res6[0]); }
-  
-
-
