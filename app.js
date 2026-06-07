@@ -834,68 +834,17 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "Sweden have won 4 of their last 5 home matches at Strawberry Arena."
     }
   },
-  "match_tunisia": {
-    score: "2 - 0",
-    scorers: "🇸🇪 Isak (23'), Gyökeres (68')",
-    report: "A perfect start to Sweden's World Cup campaign! Graham Potter's 3-4-2-1 formation worked flawlessly, suffocating Tunisia's defensive low-block. Alexander Isak opened the scoring with a brilliant curled strike into the top corner. Viktor Gyökeres sealed the three points in the second half by capitalizing on a clinical counter-attack engineered by Yasin Ayari.",
-    ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Had a quiet night but remained alert, keeping a clean sheet.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Completely shut down Tunisia's aerial attacks with dominant clearances.", isMotm: false },
-      { name: "Carl Starfelt", role: "RCB", rating: 7.0, comment: "Solid defensive display, comfortable on the ball.", isMotm: false },
-      { name: "Victor Lindelöf", role: "LCB", rating: 7.5, comment: "Excellent positioning, initiated attacks from deep.", isMotm: false },
-      { name: "Emil Holm", role: "RWB", rating: 8.0, comment: "Constant overlapping threat. Provided a pinpoint assist for Isak's goal.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Shielded the back three reliably, broke up transitions.", isMotm: false },
-      { name: "Yasin Ayari", role: "DM", rating: 8.0, comment: "Stellar performance. Creative playmaker who assisted Gyökeres with a visionary pass.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LWB", rating: 7.0, comment: "Defensively sound and highly active in transitions.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 7.5, comment: "Creative linking, dribbled past defenders with ease.", isMotm: false },
-      { name: "Alexander Isak", role: "AM", rating: 8.5, comment: "A world-class display. Opened the scoring with a spectacular solo goal and was a constant threat.", isMotm: true },
-      { name: "Viktor Gyökeres", role: "ST", rating: 8.0, comment: "Relentless physical press. Scored Sweden's second goal with a powerful finish.", isMotm: false }
-    ],
-    preview: {
+  "match_tunisia": {preview: {
       tactical: "Group F opener in Monterrey! Sweden must break down Tunisia's disciplined, compact low-block. Expect heavy reliance on wing-backs Holm and Gudmundsson to stretch the pitch.",
       keyStat: "Tunisia kept 4 clean sheets during African qualifiers. Breaking them down is key."
     }
   },
-  "match_netherlands": {
-    score: "2 - 2",
-    scorers: "🇳🇱 Gakpo (34'), Depay (71') | 🇸🇪 Gyökeres (41', 88')",
-    report: "An epic blockbuster in Houston! Sweden showcased incredible resilience to grab a dramatic draw against the Dutch favorites. Memphis Depay put the Netherlands ahead in the 71st minute, but Sweden's relentless press paid off in the 88th minute when Viktor Gyökeres scored his second of the game, blasting a low shot past Bart Verbruggen.",
-    ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 8.0, comment: "Heroic performance. Made five critical saves to keep Sweden in the game.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 6.5, comment: "Struggled slightly against Gakpo's pace, but made key blocks.", isMotm: false },
-      { name: "Carl Starfelt", role: "RCB", rating: 6.5, comment: "Gave away a penalty, but recovered to win crucial aerial duels.", isMotm: false },
-      { name: "Victor Lindelöf", role: "LCB", rating: 7.0, comment: "Kept the backline organized under immense Dutch pressure.", isMotm: false },
-      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "Tough battle against Gakpo, made excellent recoveries.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.5, comment: "Massive distance covered. Shielded the defense tirelessly.", isMotm: false },
-      { name: "Yasin Ayari", role: "DM", rating: 7.0, comment: "Press-resistant play under high pressure, recycled ball cleanly.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LWB", rating: 6.5, comment: "Had a tough defensive assignment but contributed to transitions.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "Showcased high class in tight spaces before being subbed.", isMotm: false },
-      { name: "Alexander Isak", role: "AM", rating: 7.5, comment: "Assisted Gyökeres' first goal with a brilliant turn and cross.", isMotm: false },
-      { name: "Viktor Gyökeres", role: "ST", rating: 9.0, comment: "Sensational brace. A constant nightmare for Virgil van Dijk, scoring the dramatic late equalizer.", isMotm: true }
-    ],
-    preview: {
+  "match_netherlands": {preview: {
       tactical: "The Group F blockbuster in Houston! A heavy-duty tactical test against Koeman's highly fluent Dutch setup. Sweden's central pivot must prepare aggressive pressing traps.",
       keyStat: "Netherlands scored 18 goals in their last 6 matches. Sweden's defense must lock in."
     }
   },
-  "match_japan": {
-    score: "2 - 1",
-    scorers: "🇯🇵 Kubo (49') | 🇸🇪 Elanga (62'), Isak (79')",
-    report: "Sweden wins Group F! An intense, high-tempo battle in Dallas ends with Sweden securing top spot. After Takefusa Kubo scored early in the second half, Graham Potter introduced Anthony Elanga, who immediately equalized with a blistering run. Alexander Isak then scored the winning goal in the 79th minute, clinical finishing after a beautiful passing sequence.",
-    ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made three spectacular saves against Japan's quick counters.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Dominant physical presence, stopped key central attacks.", isMotm: false },
-      { name: "Carl Starfelt", role: "RCB", rating: 7.0, comment: "Solid positioning, tracked runs diligently.", isMotm: false },
-      { name: "Victor Lindelöf", role: "LCB", rating: 7.5, comment: "Organized defense, launched transitions with precise long balls.", isMotm: false },
-      { name: "Emil Holm", role: "RWB", rating: 7.0, comment: "Tough defensive shift against Mitoma, limited his options.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Combative in midfield, won crucial second balls.", isMotm: false },
-      { name: "Yasin Ayari", role: "DM", rating: 7.5, comment: "Excellent passing accuracy, controlled the tempo in the second half.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LWB", rating: 7.0, comment: "Relentless engine, contributed heavily to high press.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 7.0, comment: "Showcased high creativity before being replaced by Elanga.", isMotm: false },
-      { name: "Anthony Elanga", role: "AM", rating: 8.0, comment: "Super-sub of the tournament. Equalized with a lightning-fast sprint and finish.", isMotm: false },
-      { name: "Alexander Isak", role: "AM", rating: 8.5, comment: "Match-winner. Scored the decider with pure clinical brilliance and generalled the entire attack.", isMotm: true }
-    ],
-    preview: {
+  "match_japan": {preview: {
       tactical: "Final group stage battle in Dallas! Moriyasu's high-stamina side will exploit transitional spaces. Wing-backs must track back rapidly to restrict Kubo and Mitoma.",
       keyStat: "Sweden is unbeaten in their last 3 meetings with Japan."
     }
@@ -1904,20 +1853,16 @@ function renderMatchSchedule() {
       const matchTimeStr = match.time.split(" ")[0];
       const matchDateTime = new Date(`${matchDateStr}T${matchTimeStr}:00`);
       const now = new Date();
-      isCompleted = (now >= matchDateTime) || (SIMULATED_RESULTS && !!SIMULATED_RESULTS[match.id]);
+      isCompleted = (now >= matchDateTime) && MATCH_REPORTS_DATABASE[match.id] && MATCH_REPORTS_DATABASE[match.id].score;
     } catch (e) {
       console.error("Error parsing match date/time:", e);
     }
 
     const reportData = MATCH_REPORTS_DATABASE[match.id];
-    let scoreText = "vs.";
+    let scoreText = `<span style="font-size: 0.9rem; font-weight: 500; margin: 0 0.6rem; color: var(--text-secondary);">Upcoming ${isWarmup ? "Friendly" : "World Cup Match"}</span>`;
     let badgeText = isWarmup ? 'WARM-UP FRIENDLY' : 'FIFA WORLD CUP';
     
-    if (SIMULATED_RESULTS && SIMULATED_RESULTS[match.id]) {
-      const simRes = SIMULATED_RESULTS[match.id];
-      scoreText = `<strong style="color: var(--sweden-yellow); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${simRes.swe} - ${simRes.opp}</strong>`;
-      badgeText += " - SIMULATED";
-    } else if (isCompleted && reportData) {
+    if (isCompleted && reportData) {
       scoreText = `<strong style="color: var(--sweden-yellow); font-family: monospace; font-size: 1.1rem; margin: 0 0.6rem;">${reportData.score}</strong>`;
       badgeText += " - FINAL RESULT";
     }
@@ -2638,68 +2583,7 @@ function setupEventListeners() {
   }
 
   // Match Simulator Trigger Events
-  const simulateBtn = document.getElementById("match-center-simulate-btn");
-  if (simulateBtn) {
-    simulateBtn.addEventListener("click", openMatchSimulator);
-  }
-
-  const playSim = document.getElementById("sim-control-play");
-  const pauseSim = document.getElementById("sim-control-pause");
   
-  if (playSim && pauseSim) {
-    playSim.addEventListener("click", () => {
-      const statusPill = document.getElementById("sim-status-pill");
-      statusPill.textContent = "Live";
-      statusPill.style.color = "#FECC00";
-      statusPill.style.background = "rgba(254,204,0,0.1)";
-
-      playSim.style.display = "none";
-      pauseSim.style.display = "inline-block";
-      pauseSim.innerHTML = '<i class="fas fa-pause"></i> Pause';
-
-      if (simInterval) clearInterval(simInterval);
-      simInterval = setInterval(handleSimulatorTick, simSpeed);
-    });
-
-    pauseSim.addEventListener("click", () => {
-      const statusPill = document.getElementById("sim-status-pill");
-      statusPill.textContent = "Paused";
-      statusPill.style.color = "#9CA3AF";
-      statusPill.style.background = "rgba(156,163,175,0.1)";
-
-      pauseSim.style.display = "none";
-      playSim.style.display = "inline-block";
-      playSim.innerHTML = '<i class="fas fa-play"></i> Resume';
-
-      if (simInterval) {
-        clearInterval(simInterval);
-        simInterval = null;
-      }
-    });
-  }
-
-  const speedSelect = document.getElementById("sim-speed-select");
-  if (speedSelect) {
-    speedSelect.addEventListener("change", (e) => {
-      simSpeed = Number(e.target.value);
-      if (simInterval) {
-        clearInterval(simInterval);
-        simInterval = setInterval(handleSimulatorTick, simSpeed);
-      }
-    });
-  }
-
-  const viewReportBtn = document.getElementById("sim-btn-view-report");
-  if (viewReportBtn) {
-    viewReportBtn.addEventListener("click", () => {
-      document.getElementById("match-simulator-modal").classList.remove("active");
-      const matchCenter = document.getElementById("match-center-card");
-      if (matchCenter) {
-        matchCenter.scrollIntoView({ behavior: "smooth" });
-      }
-      renderMatchCenter();
-    });
-  }
 }
 
 // ==========================================================================
@@ -2707,14 +2591,6 @@ function setupEventListeners() {
 // Includes: Theme Toggling, Group Standings, Host Venue Guide, Trivia Quiz & Predictor
 // ==========================================================================
 
-let SIMULATED_RESULTS = {
-  match_tunisia: null,
-  match_netherlands: null,
-  match_japan: null,
-  match_ned_jap: null,
-  match_jap_tun: null,
-  match_tun_ned: null
-};
 
 let venueClockInterval = null;
 let currentTriviaIndex = 0;
@@ -3453,5 +3329,13 @@ function renderPredictor() {
   }
 }
 
+
+  const res4 = getScore("match_jap_net");
+  if (res4) { addMatch("japan", res4[0], res4[1]); addMatch("netherlands", res4[1], res4[0]); }
+  const res5 = getScore("match_tun_net");
+  if (res5) { addMatch("tunisia", res5[0], res5[1]); addMatch("netherlands", res5[1], res5[0]); }
+  const res6 = getScore("match_tun_jap");
+  if (res6) { addMatch("tunisia", res6[0], res6[1]); addMatch("japan", res6[1], res6[0]); }
+  
 
 
