@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gio Reyna camp diary: 'Roster is in the zone and ready for opener'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D Preview: Pundits project USA and Paraguay opener as decider",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ US show the fight Pochettino wanted – just in time for the World Cup",
+      "link": "https://www.theguardian.com/football/2026/jun/07/usmnt-germany-world-cup-friendly-pochettino-robinson"
     }
   ],
   "timeline": {
@@ -804,11 +788,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5412_0",
+            "category": "usa",
+            "type": "News",
+            "title": "US show the fight Pochettino wanted – just in time for the World Cup",
+            "bullets": [
+              "The defeat hurt, but the Americans’ response to an early German goal provided perhaps the clearest e...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The defeat hurt, but the Americans’ response to an early German goal provided perhaps the clearest evidence yet that their manager’s message is taking rootA sunshower began dousing the fans at Soldier Field as Matt Freese picked the ball out of his net. It was only the second minute of the United States’ final friendly before the World Cup, and mighty Germany had already opened the scoring with plenty of talent to turn the occasion into a rout.On this occasion, however, “when it rains, it pours” did not befit the US performance. By the time the precipitation subsided after 10 minutes or so, Pochettino’s starters stepped into the sunlight, determined to not be embarrassed by the four-time world champions. The hosts seldom looked over-run despite trailing, setting the stage for Antonee Robinson to volley an emphatic equalizer past Hoffenheim’s Oliver Baumann in the 37th minute. Continue reading...",
+            "fullText": "The defeat hurt, but the Americans’ response to an early German goal provided perhaps the clearest evidence yet that their manager’s message is taking root\n\nA sunshower began dousing the fans at Soldier Field as Matt Freese picked the ball out of his net. It was only the second minute of the United States’ final friendly before theWorld Cup, and mighty Germany had already opened the scoring with plenty of talent to turn the occasion into a rout.\n\nOn this occasion, however, “when it rains, it pours” did not befit the US performance. By the time the precipitation subsided after 10 minutes or so, Pochettino’s starters stepped into the sunlight, determined to not be embarrassed by the four-time world champions. The hosts seldom looked over-run despite trailing, setting the stage for Antonee Robinson to volley an emphatic equalizer past Hoffenheim’s Oliver Baumann in the 37th minute.\n\n“I was thinking that we were lucky [to face this scenario],” Pochettino said afterSaturday’s 2-1 defeat, “To see how we react, how we show character, how we show [togetherness], how we start to play under pressure. In the moment, I was upset, of course, but after that, I think it’s lucky. I think it’s good for us to see the reaction of the team. The reaction was amazing, it was really positive.”\n\nEarly in Pochettino’s tenure, and especially in 2025, the US often compounded mistakes after conceding and struggled to get back into contests. At the time, he leaned on the fire of players who were often on the outside of the national team before he was hired, especially Patrick Agyemang and Diego Luna. One wild-card pick that January, Matko Miljevic, was selected despite being a free agent due to a passion his coach chalked up to the midfielder’s development through Argentine soccer.\n\nNone of that trio is on this squad, but much of the competitiveness that Pochettino craved yesteryear was on display against Senegal andGermany. And it’s not all huffing and puffing; the team’s press has functioned better in these friendlies than against Belgium and Portugal. And while it’s not like the US created a bounty of plum chances, a volume-shooting approach kept Germany from stationing too far upfield, keeping the game credibly balanced.\n\n“Sometimes when you get punched in the mouth,you gotta stand back up and punch back,” Tim Ream said afterwards. “All the guys stepped up, flying around [with] tackles, and really getting into the one-v-one duels. Just making life really, really difficult after conceding so early. It was a really, really encouraging response, for sure.”\n\nReam lost his mark as Nico Schlotterbeck set a pick on the Charlotte defender, a sequence which Ream said is often cited as an area of emphasis for officials to monitor that still goes overlooked far too often. (“[Officials have] told us that if you get blocked and nudged, they’re going to be calling that, even if the guy’s not offside. Obviously, they don’t.”) Rather than dwell on the sequence too long, Ream played a crucial role in helping the team’s progression, working in combination with former Fulham teammate Robinson to get the ball upfield down the left flank.\n\nWhile Robinson’s audacious volley was the clear highlight of the team’s performance, the 28-year-old found some of the game’s more mundane moments to be just as encouraging.\n\n“We knew there were going to be tests, but trying to find a way to win a game is going to be crucial in the World Cup,” Robinson said. “[I’m] disappointed that we lost, but [there are] many positives to take. Conceding that early, we could have easily crumbled, and it could have been a very, very bad day to be going into the tournament.”\n\nThe tune-up friendlies have provided Pochettino and his staff with a crucial 180-minute sample to study their tournament roster. There will be tough decisions to make, especially concerning which defenders give this team its most stable bedrock and how to calibrate a two-tiered midfield. There has also been a relative dearth of service provided up the central third of the pitch, though Sebastian Berhalter helped quite a bit with hisline-breaking distributionin a half-hour shift off the bench.\n\nStill, the intangibles and togetherness were on full display even after Leroy Sané beat Freese for the match-winner. Early in second-half stoppage time, Tim Weah made a two-footed sliding tackle that, while avoiding a clattering with Waldemar Anton, came in with some power behind it. Schlotterbeck took offense and began to approach Weah with a couple of teammates in tow, only for several members of the US team (including starters who had since taken up seats on the bench) to rush to Weah’s defense.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 06:36:39 EDT",
+  "lastUpdated": "2026-06-07 @ 11:54:23 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
