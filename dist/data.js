@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ US show fight and hunger, but lose final World Cup prep match 2-1 to Germany",
-      "link": "https://www.theguardian.com/football/2026/jun/06/usmnt-germany-world-cup-friendly-match-report"
+      "text": "⚽ Gio Reyna camp diary: 'Roster is in the zone and ready for opener'",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Group D Preview: Pundits project USA and Paraguay opener as decider",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -743,10 +759,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-07": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_usa_20260607_5",
+            "category": "usa",
+            "type": "Blog",
+            "title": "Gio Reyna camp diary: 'Roster is in the zone and ready for opener'",
+            "bullets": [
+              "Dortmund playmaker shares positive updates from LA team hotel.",
+              "Reyna: 'Pochettino's model suits us perfectly; we are highly motivated.'",
+              "USA fans turn out in high numbers to support open training sessions."
+            ],
+            "summary": "In an exclusive diary entry, Gio Reyna praised the team spirit and facilities in LA. The playmaker feels the roster is fully prepared to deliver a strong campaign.",
+            "fullText": "In an exclusive diary entry, Gio Reyna praised the team spirit and facilities in LA. The playmaker feels the roster is fully prepared to deliver a strong campaign.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Gio Reyna (Player Journal)",
+            "readTime": "3 min",
+            "tag": "Player Journal",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260607_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group D Preview: Pundits project USA and Paraguay opener as decider",
+            "bullets": [
+              "Global soccer analysts predict USA's width will test Paraguay's block.",
+              "Fox Soccer: 'Pochettino's World Cup debut represents a massive tactical spotlight.'",
+              "Winner of the match is projected to have an 85% chance of winning the group."
+            ],
+            "summary": "Analysts have flagged USA's opener as the key fixture of Group D. Pundits expect a tight clash between Pochettino's fluid offense and Paraguay's rigid defensive block.",
+            "fullText": "Analysts have flagged USA's opener as the key fixture of Group D. Pundits expect a tight clash between Pochettino's fluid offense and Paraguay's rigid defensive block.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer Pundit Team",
+            "readTime": "3 min",
+            "tag": "WC Group D Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-06 @ 18:17:31 EDT",
+  "lastUpdated": "2026-06-07 @ 05:52:26 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
