@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Rice to be England's vice-captain at World Cup",
+      "link": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ This was a training game - England and Tuchel now need to get serious",
       "link": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,8 +16,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel relishes Rashford v Gordon in search for round pegs in round holes",
-      "link": "https://www.theguardian.com/football/2026/jun/07/tuchel-relishes-rashford-v-gordon-in-search-for-round-pegs-in-round-holes"
+      "text": "⚽ Declan Rice named as England vice-captain by Tuchel for World Cup bid",
+      "link": "https://www.theguardian.com/football/2026/jun/07/declan-rice-named-england-vice-captain-thomas-tuchel-world-cup-2026"
     },
     {
       "text": "⚽ North America’s wide and wild World Cup will be an experience like no other | Emma Hayes",
@@ -2142,11 +2146,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1834_0",
+            "category": "england",
+            "type": "News",
+            "title": "Rice to be England's vice-captain at World Cup",
+            "bullets": [
+              "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+            "fullText": "Declan Rice and his Arsenal team-mates linked up with the England squad in Florida on Saturday\n\nArsenal midfielder Declan Rice will be England's vice-captain for the World Cup.\n\nRice has earned 72 caps for the Three Lions and will be one of the most experienced players in Thomas Tuchel's starting line-up.\n\nThe 27-year-old has just helped Arsenal win the Premier League for the first time since 2003-04 and reach the Champions League final, which they lost on penalties to Paris St-Germain last weekend.\n\nRice filled in as captain during Harry Kane's absence for the October friendly against Wales, when Ollie Watkins replaced Kane in the England attack.\n\n\"I think I would say Declan is my vice-captain,\" Tuchel said afterSaturday's friendly win over New Zealand.\n\nAsked whether Rice knows he has that role, the England manager added: \"That is a good question. I was just thinking about it. Whether it is an official thing or not.\n\n\"But I think we had this talk when Harry was not in camp with us. We started with Ollie and I think Declan was captain. That was where I told him.\"\n\nRice and his Arsenal team-mates Bukayo Saka, Noni Madueke and Eberechi Eze have now joined England's training camp in the United States and began work with the group in Florida on Sunday.\n\nTuchel's side have one more friendly against Costa Rica in Orlando on Wednesday and will play a behind-closed-doors game with Miami FC before travelling to their Kansas City base on Saturday.\n\nThe Three Lions begin their World Cup campaign on 17 June against Croatia and also face Ghana and Panama in Group L.\n\nThis was a training game - England and Tuchel now need to get serious",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1834_1",
+            "category": "england",
+            "type": "News",
+            "title": "This was a training game - England and Tuchel now need to get serious",
+            "bullets": [
+              "England have one more game to prepare for their World Cup campaign - and they must use it wisely, wr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England have one more game to prepare for their World Cup campaign - and they must use it wisely, writes Phil McNulty.",
+            "fullText": "Thomas Tuchel's England have scored just twice in their past three matches\n\nEngland head coach Thomas Tuchel's pre-World Cup experimentation must surely end here and now.\n\nTuchel's long examination of the options open to him continued on Saturday with the sight of two separate teams, one for each half, tackling a low-key friendly against New Zealand in Tampa's searing heat.\n\nThe clock is ticking down to England's opening tournament game against Croatia in Dallas on Wednesday, 17 June.\n\nWith the Tampa game out of the way, Tuchel should be ready to reveal more of what he hopes will be his winning hand.\n\nIt was perfectly understandable that Tuchel wanted to give England's squad time to get minutes in the bank in testing, strength-sapping conditions.\n\nWhat it meant was that the 1-0 win - Harry Kane the goalscorer again - came from effectively a glorified training session carried out under the guise of international football.\n\nThis was the first time since June 2004, when England played Iceland before leaving for the European Championship in Portugal, that they have played 22 different players in a match.\n\nEngland play their final friendly before the World Cup starts when they face Costa Rica in Orlando on Wednesday â and that is when Tuchel has the chance to wheel out the big guns.\n\nTuchel's recent selections have not been anywhere near what could be considered a World Cup starting line-up. In Tampa he was without key Arsenal figures and certain starters Declan Rice and Bukayo Saka, afforded a rest after their Premier League title-winning exertions and the Champions League final loss to Paris St-Germain.\n\n\"To put it in context, a lot of our players last played together in November,\" said Tuchel. \"That's half a year ago. We had four training sessions together, then mixed the team up completely.\"\n\nEngland beat World Cup's lowest-ranked team New Zealand in warm-up game",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1834_2",
+            "category": "england",
+            "type": "News",
+            "title": "Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
+            "bullets": [
+              "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane has been described as irreplaceable for England, but will the World Cup provide the stage for him to prove he is now the best?",
+            "fullText": "Harry Kane will carry England's hopes into the World Cup as their record goalscorer\n\nHarry Kane's final task of the finest season of a magnificent career is to attend to unfinished business as England's World Cup captain.\n\nKane is England's 'Mr Irreplaceable' - as proved when Thomas Tuchel's side were ominously toothless whendrawing with Uruguaythenlosing to Japanin March friendlies at Wembley.\n\nHe further underlined his importance on his return to the team against New Zealand on Saturday, scoring the only goalin a 1-0 win.\n\nThe 32-year-old's fitness will be Tuchel's biggest concern as they prepare to start their World Cup campaign against Croatia in Dallas on 17 June, not simply because of his status as England's all-time record scorer with 79 goals in 113 games, but also because they have no-one remotely in Kane's class.\n\nIf Kane stays fit, and in the remarkable form that brought him 66 goals in 56 games for Bayern Munich this season, England's hopes will soar.\n\nAs former England striker Chris Sutton told BBC Sport: \"Harry Kane is so important that if he announced his international retirement this afternoon, everyone would instantly view England's World Cup chances in a different, more pessimistic light.\"\n\nSilverware has come late in Kane's career after barren years at Tottenham Hotspur, when even his stunning goalscoring numbers could not bring glory.\n\nHe is now making up for lost time by winning a second successive Bundesliga with Bayern Munich, then scoring a hat-trick as theybeat Stuttgart 3-0in the German Cup final.\n\nAnd Kane now has his sights set on delivering the biggest prize of all as he leads England on their latest quest to end the search for men's success stretching back to the 1966 World Cup win.\n\nKane has suffered the disappointment of losing successive European Championship finals with England to Italy and Spain, as well as a World Cup semi-final defeat by Croatia in 2018 and a quarter-final loss to France in Qatar.\n\nNow Kane's stellar form and fitness suggest the time might be right for England and their talisman to overcome the barrier that has brought 60 years of pain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1834_3",
+            "category": "england",
+            "type": "News",
+            "title": "Declan Rice named as England vice-captain by Tuchel for World Cup bid",
+            "bullets": [
+              "Bellingham wore armband in second half v New ZealandTuchel unsure if Arsenal quartet play against Co...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham wore armband in second half v New ZealandTuchel unsure if Arsenal quartet play against Costa RicaDeclan Rice has been named England’s vice-captain by Thomas Tuchel, who has played down the significance of Jude Bellingham wearing the armband during the second half of the 1-0 victory against New&nbsp;Zealand.Although Bellingham captained the side after coming off the bench in Saturday’s World Cup warm-up in Tampa, Tuchel said that was simply because the midfielder was the player on the pitch with the most ­international appearances. Continue reading...",
+            "fullText": "Bellingham wore armband in second half v New Zealand\n\nTuchel unsure if Arsenal quartet play against Costa Rica\n\nDeclan Rice has been named England’s vice-captain by Thomas Tuchel, who has played down the significance of Jude Bellingham wearing the armband during the second half of the 1-0victory against New Zealand.\n\nAlthough Bellingham captained the side after coming off the bench in Saturday’s World Cup warm-up in Tampa, Tuchel said that was simply because the midfielder was the player on the pitch with the most ­international appearances.\n\nThe head coach was clear that the situation would have been different if Rice, who is a key member of England’s leadership group, had been part of the matchday squad at the Raymond James Stadium. The midfielder, who was one of four Arsenal players given time off by Tuchel after the Champions League final, captained England when Harry Kane was unavailable againstWales last October.\n\n“I would say Declan is my vice-captain,” Tuchel said after being asked if anyone has been appointed to the role. “I was just thinking about it – whether it is an official thing or not. But I think we had this talk when Harry was not in camp with us. Was it against Wales? Did Harry miss a game against Wales? We started with Ollie [Watkins] and I think Declan was captain. That was where I told him.”\n\nEngland are using their time in Florida to acclimatise to the heat and the New Zealand game was essentially a training exercise. Tuchel playeddifferent XIs in each half, with Kane coming off after scoring the winner late in the first half. Bellingham was introduced at half-time but Tuchel smiled and urged reporters not to read too much into the 22-year-old taking the armband in Kane’s absence. “He had just the most caps,” the German said. “You can check it out.”\n\nTuchel, who refused to reveal whether Bellingham is part of the leadership group, will adopt a different approach to selection whenEnglandhead to Orlando to face Costa Rica in their final warm-up before opening their tournament against Croatia in Group L on 17 June. He said some players will play for over an hour against Costa Rica but is unsure if he will send out his preferred starting XI for the World Cup.\n\nThe big question is whether Tuchel sees Bellingham starting as the No 10 in his best side. Morgan Rogers has credit in the bank after impressing during England’s qualifying campaign. The Aston Villa attacker played the first half against New Zealand. Bellingham caught the eye after coming on but Tuchel stressed that the Real Madrid man is fighting for his place.\n\n“He is,” said the former Chelsea manager. “He’s one of the starters, he knows that, he’s one of the starters but there are 14, 15 potential starters. Then there’s a special group and then there is a leadership group. Then there’s guys who finish matches for us and get the energy right and have more the role of setting the standards and accepting their roles for challenging. And these roles can always change but in my head there are 15, 14 proper starters and Jude is one of them.”\n\nThe Arsenal contingent arrived at England’s pre-tournament base in West Palm Beach on Saturday but Tuchel is unsure if Rice, Eberechi Eze, Noni Madueke and Bukayo Saka will be involved against Costa Rica. “Let’s see how they come back,” he said. “Three training days and let’s see. We have one more match behind closed doors to manage all the minutes. If someone plays 70 minutes against Costa Rica and someone else only plays 20, that is also not enough. There will be players who only had 20 or 30 minutes and will play the next day again.”\n\nOne complicating factor against New Zealand was a questionable pitch. “We wanted to be here because of the heat first and foremost, which I thought we dealt with pretty well,” Kane said. “The pitch wasn’t great, so we’re having to deal with that. That’s going to happen in the tournament. We like to play quick, we like to play sharp and that wasn’t always possible on that pitch. It was a bit sticky and dry. It is the first week and the match was another step in our preparation.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1835_4",
+            "category": "england",
+            "type": "News",
+            "title": "North America’s wide and wild World Cup will be an experience like no other | Emma Hayes",
+            "bullets": [
+              "Teams must be prepared for challenging travel and a cauldron of heat but will also encounter fantast...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Teams must be prepared for challenging travel and a cauldron of heat but will also encounter fantastic fans and a beautiful football cultureThis World Cup will be incomparable to anything we have seen before. Why? The pure scope of the tournament: 104 matches in three different countries played across 16 venues in three different time zones.If you have not travelled around the United States, it is hard to imagine just how vast this country is. The land mass of England could fit comfortably into the state of Georgia. Imagine a World Cup being played across Europe. Imagine having to playing a game in Siberia and then your next match in the Algarve. Fifa has done its best to minimise it, but travelling around America, Canada and Mexico will be intense. Fun, for sure, but it will be taxing for fans who are already being squeezed by high&nbsp;ticket&nbsp;prices. Continue reading...",
+            "fullText": "Teams must be prepared for challenging travel and a cauldron of heat but will also encounter fantastic fans and a beautiful football culture\n\nThisWorld Cupwill be incomparable to anything we have seen before. Why? The pure scope of the tournament: 104 matches in three different countries played across 16 venues in three different time zones.\n\nIf you have not travelled around the United States, it is hard to imagine just how vast this country is. The land mass of England could fit comfortably into the state of Georgia. Imagine a World Cup being played across Europe. Imagine having to playing a game in Siberia and then your next match in the Algarve. Fifa has done its best to minimise it, but travelling around America, Canada and Mexico will be intense. Fun, for sure, but it will be taxing for fans who are already being squeezed by high ticket prices.\n\nTeams will be crossing time zones, switching from sea level up to high altitude (if you have to play in Mexico City or Monterrey), and then, in several of the host cities, having to contend with a cauldron of heat. And I don’t just mean the temperature. Everyone will have to respect the humidity. It definitely could impact matches.\n\nEngland have chosen Kansas City, Missouri as their World Cup base. I was a bit surprised to hear that, because while the people of Missouri are among the nicest you will ever meet and the midwest hospitality is wonderful, the heat and humidity can be oppressive. As a London-born girl who enjoys an overcast day for a football match, I know it will take the lads a bit to get acclimatised, but I’m sure that is the goal. If you can run your butt off in Missouri in the summer, you can do it anywhere.\n\nArgentina have a wonderful training base across the border in Kansas, while the Netherlands are training at the home of the Kansas City Current, a world-class training centre. They will love it there.\n\nWith three of the world’s best teams set up in Missouri and Kansas it is set to be a fun summer for football fans in the midwest, but it’s clear that playing a World Cup in America will suit possession‑based teams.\n\nSpain are the favourites, in my opinion, for lots of reasons. Their playing style will suit all the conditions they will meet, plus they’ve got great experience and they’ve shown in the Nations League how good they are.\n\nBehind them, England have a great shout. Thomas Tuchel is a tremendous manager. The keys for England are Declan Rice and Harry Kane. Rice has been my player of the season in the Premier League and, in a tournament where set pieces will really matter, he could be definitive. Kane’s probably had the best season of his career, so those two are crucial for England. And Bukayo Saka’s coming into form too.\n\nEngland also have experiences of the near misses. Look atArsenal winning the Premier LeagueandManchester City winning the Women’s Super Leaguethis year. Both went close several times previously before lifting trophies. In the losses come your biggest learnings. Those senior England players will have etched into the brains the small margins needed to go one step further.\n\nFrance with their flair, their individual quality up front and their experience, will be strong. Similarly, Argentina’s team is built for major tournaments. I recently watched the2022 France v Argentinafinal again – what an extraordinary final that was, the best World Cup final ever. With Lionel Messi still producing the goods, they’ll be knocking on the door.\n\nMy dark horses are the Netherlands, Senegal and Japan. Senegal have performed consistently, again and again, while in Ronald Koeman, the Netherlands have a coach with great experience and in Virgil van Dijk they’ve got the best defender in the world and a fantastic leader. I did commentary for ITV when England played Japan recently and, wow, Japan impressed me so much. That win exemplified the progression they’ve made over the last four years, and the way they develop players in their youth system is second only to Spain.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1835_5",
+            "category": "england",
+            "type": "News",
+            "title": "England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
+            "bullets": [
+              "Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak linkEngland may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding down, but there is no doubting his importance before the World Cup. It had to be Kane calming the nerves as England warmed up with a win over New Zealand in testing conditions in Tampa. Continue reading...",
+            "fullText": "Bellingham will have been happy to take the armband, O’Reilly is a midfield option but Stones looks a weak link\n\nEngland may as well pack their bags and go home if Harry Kane picks up an injury. The captain laboured through Euro 2024, leaving some to wonder if his international career was winding down, but there is no doubting his importance before the World Cup. It had to be Kane calming the nervesas England warmed up with a winover New Zealand in testing conditions in Tampa.\n\nIt was slow going for much of the first half – the heat, an uneven surface and a disjointed team selection from Thomas Tuchel were complications – but Kane would not be denied. The striker dropped deep, turning and testing Max Crocombe from long range. He had a header tipped over. Half-time approached andNew Zealand, the lowest-ranked side at the World Cup, were holding firm. Yet class told. Djed Spence crossed from the left and Kane was clever, using the pace of the ball to guide a beautiful glancing header past Crocombe.\n\nThe 32-year-old is not slowing down. It was Kane’s 79th goal forEngland. The numbers are astonishing, the output relentless. Kane has no equal in this squad. England toiled when he was missing in March. They need their record goalscorer to stay fit.\n\nIt was smart man management from Tuchel to give the captain’s armband toJude Bellinghamwhen the midfielder came on at half-time. It was a good way to kill any unwanted noise about Bellingham watching from the bench at first. Even so, the 22-year-old cannot be sure that he will start when England open their campaign against Croatia in Dallas on 17 June. There is fierce competition from Morgan Rogers, although the Aston Villa man did not quite take his chance in the No 10 position against New Zealand. Rogers looked anxious to impress and much of what he tried failed to come off.\n\nAlthough there was one perceptive ball to send Marcus Rashford away, Tuchel wanted to see more. The head coach thought there was too much “freestyling” from England during the first half. He did not like the counterpress, was unhappy with his side’s positional work and felt there were too many shots from long range.\n\nEngland were short of invention and there was more urgency after Bellingham’s arrival. There was an instant flash of class from the Real Madrid midfielder, a brilliant pass with the outside of his right boot to Anthony Gordon creating a chance. It was an encouraging workout for Bellingham. He demanded the ball, added more bite and will hope to start against Costa Rica in Orlando on Wednesday. England saw what they were missing when they were without Bellingham against Japan and Uruguay in March. Tuchel was smiling when he discussed Bellingham’s performance.\n\nTuchel was short of options on the right after giving Bukayo Saka and Noni Madueke extra time to recover from Arsenal’s appearance in the Champions League final. Unfortunately, England’s adjustment meant a square peg in a round hole, with Ollie Watkins a surprising selection out wide.\n\nWatkins worked hard but he is not a winger. The striker had an early chance, only to scuff wide after being released by Jordan Henderson, and he could not produce a final ball. Rio Ngumoha, one of four teenagers invited to train with the main group this week, was far more exciting after coming on at half-time.\n\nAs for the battle on the left, it was a good afternoon for the man who has seen one of his England colleagues complicate his hopes of earning a permanent move to Barcelona. Rashford’s attitude was excellent. The Manchester United forward impressed after joining Barça on loan last summer and he could have sulked after seeing the champions of Spain sign Gordon last week.\n\nIt did not go unnoticed when the Football Association’s social media pages featured cheerful images of Rashford and Gordon this week. There is a fascinating edge to their rivalry now thatGordon plays for Barça. Rashford cannot let his head drop, though, and he was dangerous against New Zealand. He ran at the All Whites, produced teasing deliveries, flashed a shot over from 20 yards and was unlucky not to earn an assist after crossing for Kane to head on goal. Gordon, by contrast, was not quite as effective in the second half. He drove down the left but was not as dangerous as Rashford.\n\nIt is safe to say that something will have gone badly wrong if England’s starting midfield duo against Croatia is Henderson and Kobbie Mainoo. Elliot Anderson and Declan Rice lead the way, although Tuchel has ways to mix things up. He has full-backs who can invert. He has spoken about using Reece James as a No 6 and he had a look at Nico O’Reilly, who is likely to be first choice at left-back this summer, alongside Anderson in the second half here. Versatility is an asset, while O’Reilly and Anderson offered more control than Henderson and Mainoo.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1840_6",
+            "category": "england",
+            "type": "News",
+            "title": "Lacklustre warm-up victory proved one thing: England are the Harry Kane team",
+            "bullets": [
+              "Lacklustre warm-up victory proved one thing: England are the Harry Kane team",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lacklustre warm-up victory proved one thing: England are the Harry Kane team",
+            "fullText": "As promised Thomas Tuchel used 22 players in England’s first warm-up here in Florida before the World Cup. But they remain dependent on the one: Harry Kane. They are, whatever the personnel and permutations, the Harry Kane team.\n\nAgainst New Zealand the England captain made the late first-half breakthrough with the cleverest of headers to claim what was his 79th goal for his country – in 113 games – to burst into the top 10 on the all-time list of international goalscorers.\n\nHAD TO BE HIM 🔥\"And finally England's American adventure starts, and of course it's starts with a Harry Kane goal\"England enter the break ahead against the All Whites 1️⃣-0️⃣pic.twitter.com/b7jPSmPdXa\n\nIn doing so Kane drew level with Brazil’s Neymar, who achieved the total in 128 appearances (and Zambia’s Godfrey Chitalu) and five behind the legendary Ferenc Puskas. Despite that landmark this was the most lacking of lustre performances.\n\nNever mind concerns over the pitch – which became trickier as it dried out in the heat after a pre-match soaking. What about concerns over the state of the England team? At the home of the Glazer family’s Tampa Bay Buccaneers NFL team they were far from buccaneering.\n\nIs that expecting too much? Probably and certainly too much can be read into such fixtures, glorified training matches rather than full friendlies and certainly not intense World Cup ties. But, equally, how you go into these tournaments, and the momentum you show, matter.\n\nAs recently as Euro 2024, England arrived on the back of a poor 1-0 defeat to Iceland at Wembley and while they made the final it set the tone in what was a grim campaign.\n\nFamously before the World Cup in 2010, they laboured against the semi-professional South African side Platinum All-Stars. And we saw how that unfolded. Similarly in 2014, the last time they were in Florida, it was far from good in bore draws against Ecuador and Honduras. And England fared even worse in that tournament.\n\nBut at least they were more credible opposition than New Zealand who were beaten 4-0 by Haiti, the third lowest-ranked nation at the World Cup, and one of Scotland’s group opponents, in Fort Lauderdale on Tuesday. While England dominated, their opponents were not overrun.\n\nOne-nil against New Zealand, the lowest-ranked nation, is, frankly, quite an embarrassing result even with all the changes. England did not inspire. England did not excite.\n\nAfterwards the New Zealand head coach – the English former Watford defender Darren Bazeley summed it up: “England didn’t overly hurt us. England were good today but they need to be better if they are to win the World Cup.”\n\nEngland good? That bit was courteously charitable. England have a lot of days before they kick-off against Croatia on June 17 to get it right. But that has to start when they face Costa Rica in Orlando on Wednesday with the squad at full-strength and the Arsenal players integrated. After that there is a behind-closed-doors friendly against Miami United the next day.",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 15:57:43 EDT",
+  "lastUpdated": "2026-06-07 @ 18:18:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
