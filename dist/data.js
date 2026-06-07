@@ -952,11 +952,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5738_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The expert's tip for the WC nights: \"Don't overdramatize\"",
+            "bullets": [
+              "Time for the football World Cup and time for all football fans to bring out the night owl in them. B...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Time for the football World Cup and time for all football fans to bring out the night owl in them. But what should you think about when you turn the clock this summer? - It will be a challenge, says sleep researcher Christian Benedict.",
+            "fullText": "Time for the football World Cup and time for all football fans to bring out the night owl in them.\n\nBut what should you think about when you turn the clock this summer?\n\n- It will be a challenge, says sleep researcher Christian Benedict.\n\nDuring the football World Cup, matches with start times between 18.00 and 06.00 await. This means many awake nights for the biggest football fans.\n\nChristian Benedict, sleep researcher and professor of pharmacology at Uppsala University, believes that there are things you can do - but that you shouldn't stress too much about sleep.\n\n- It is a \"once in a lifetime\" chance to see a fantastic World Cup final, he says.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 11:54:34 EDT",
+  "lastUpdated": "2026-06-07 @ 15:57:38 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
