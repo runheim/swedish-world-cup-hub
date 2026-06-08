@@ -8,16 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
-      "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Bellingham has fight to start for England - Tuchel",
       "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Rice to be England's vice-captain at World Cup",
-      "link": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
+      "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
@@ -2540,7 +2536,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 15:37:18 EDT",
+  "lastUpdated": "2026-06-08 @ 17:28:48 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
