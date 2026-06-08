@@ -4,12 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Bellingham has fight to start for England - Tuchel",
-      "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Rashford 'dead cert to start for me' - Walcott",
+      "link": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
       "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Bellingham has fight to start for England - Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Rice to be England's vice-captain at World Cup",
@@ -20,24 +24,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: Scotland labelled ‘unprofessional’ by Norway, England latest, and more: football news – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/08/world-cup-2026-countdown-news-england-iran-usa-mexico-canada-football-live"
-    },
-    {
       "text": "⚽ How to win the World Cup – video explainer",
       "link": "https://www.theguardian.com/football/video/2026/jun/08/how-to-win-the-world-cup-video-explainer"
-    },
-    {
-      "text": "⚽ Bayern’s best ever? Harry Kane goes to World Cup in Ballon d’Or conversation",
-      "link": "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich"
-    },
-    {
-      "text": "⚽ ‘They picked the wrong artist’: How a Dallas mural cover-up led to a $25m lawsuit against Fifa",
-      "link": "https://www.theguardian.com/football/2026/jun/08/dallas-fifa-mural-lawsuit-robert-wyland"
-    },
-    {
-      "text": "⚽ Bellingham has a fight on his hands for England starting spot, Tuchel says",
-      "link": "https://www.skysports.com/football/news/12040/13551807/jude-bellingham-england-boss-thomas-tuchel-claims-real-madrid-star-has-a-fight-on-his-hands-to-earn-world-cup-starting-spot"
     }
   ],
   "timeline": {
@@ -2440,11 +2428,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3712_0",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford 'dead cert to start for me' - Walcott",
+            "bullets": [
+              "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at the World Cup.",
+            "fullText": "Marcus Rashford has scored 18 goals in 71 England appearances\n\nFormer England winger Theo Walcott says Marcus Rashford is the Three Lions player he is \"most psyched about\" at the upcoming World Cup.\n\nRashford was left out of Gareth Southgate's Euro 2024 squad and did not play for his country for 12 months between March 2024 and 2025.\n\nRe-introduced by Thomas Tuchel, he has featured in every Three Lions squad under the German other than in June 2025 when a hamstring injury ruled him out.\n\nA loan spell at Barcelona, where he scored 14 goals and registered 14 assists in 47 games for the La Liga champions, has revitalised the 28-year-old Manchester United forward's career.\n\nHe startedEngland's 1-0 friendly winover New Zealand on Saturday and while Tuchel said there were \"no hidden messages\" within his first-half line-up, Walcott believes Rashford has to start at the World Cup.\n\n\"Rashford this year has been outstanding,\" Walcott said on The Wayne Rooney Show.\n\n\"I've watched him quite a lot. I found the love of watching Barcelona again and took more of an interest with Rashford going out there. It's been great for him.\n\n\"He would be a dead cert to start for me. The way he's played, that freedom, that enjoyment. We want to see that smile.\"\n\nRashford was England's bright spark in the first half against New Zealand, creating five chances.\n\n\"Rashford's going to be a major part of this tournament,\" Walcott added. \"I'm looking forward to watching him. Out of all the players, I'm most psyched about him.\n\n\"I think he's brave to go abroad - it's great when English players go. I wasn't brave enough, but for him to do that shows good character.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3712_1",
+            "category": "england",
+            "type": "News",
+            "title": "Inside the fairytale journey of Scotland captain Robertson",
+            "bullets": [
+              "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+            "fullText": "Inside the fairytale journey of Scotland captain Robertson\n\nAt Scotland's training camp in Turkey before their crucial World Cup qualifiers against Greece and Denmark in November, Andy Robertson turned into Claudia Winkleman.\n\nThe captain had devised a 'Traitors' game for the squad to play, complete with blackboards and mini shields. The chosen ones had to report to his room each night to elect who they were going to 'kill'.\n\nA week-long quest to find the Traitors ensued, as the players got involved in challenges and capers in the build-up to two of the biggest games of their lives.\n\nIt was Robertson's way of bringing the team together and injecting some fun amid the pressure. It is a small but significant example of the 32-year-old's influence.\n\nAs a player, team-mate and captain, 'Robbo' has made an indelible mark with this group of Scotland players.\n\nAnd his journey from working at the Hampden ticket office to captaining Scotland to their first men's World Cup in 28 years makes him a national icon.\n\nClarke has 'some decisions to make' - but what are they?\n\nPatient, precise, clinical - are Scotland ready to make World Cup mark?\n\nHow Scotland reached the World Cup - told by those who made it happen\n\nRobertson's value to Liverpool has been lauded over the last fortnight as he said goodbye to Anfield at the end of his nine-year spell.\n\nFrom a raw attacking full-back who - in Jurgen Klopp's view - could not defend when he arrived from Hull City in 2017, Robertson became one of the world's best.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3712_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham has fight to start for England - Tuchel",
+            "bullets": [
+              "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, says manager Thomas Tuchel.",
+            "fullText": "Jude Bellingham has scored six goals in 47 appearances for England\n\nThomas Tuchel says Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup because he has \"14 or 15 potential starters\" in his squad.\n\nThe Real Madrid midfielder has only started four times since the German took over as England boss in January 2025, with a further three appearances off the bench.\n\nTuchel has instead preferred Aston Villa's Morgan Rogers, who has featured in 12 of his 13 matches in charge and was the only player involved in each of England's eight World Cup qualifying matches.\n\nWhen asked if Bellingham has a fight on his hands to be in the starting XI, Tuchel told reporters: \"Yes, he has.\n\n\"He is one of the starters, he knows he is one of the starters, but we have 14 or 15 potential starters.\n\n\"These roles can always change, but at the moment I think there are 14 or 15 proper starters and Jude is one of them.\"\n\nBellingham missed just 29 minutes of England's Euro 2024 campaign, starting all seven matches, but his fortunes have changed under Gareth Southgate's replacement.\n\nThe 22-year-old missed two qualifying matches last September because of a shoulder injury but wasoverlooked for October's international camp,including a qualifier against Latvia.\n\nHe returned to the squad in November but was forced to miss friendlies in March with a persistent hamstring issue.\n\nHis relationship with Tuchel has frequently come under scrutiny, with the manager describing Bellingham's on-field behaviour during last June's defeat by Senegal as \"repulsive\" âa remark Tuchel later apologised for.\n\nIn November, Tuchel said he would \"review\" Bellingham's behaviour following hisreaction to being substitutedduring a qualifier against Albania.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3713_3",
+            "category": "england",
+            "type": "News",
+            "title": "Rice to be England's vice-captain at World Cup",
+            "bullets": [
+              "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+            "fullText": "Declan Rice and his Arsenal team-mates linked up with the England squad in Florida on Saturday\n\nArsenal midfielder Declan Rice will be England's vice-captain for the World Cup.\n\nRice has earned 72 caps for the Three Lions and will be one of the most experienced players in Thomas Tuchel's starting line-up.\n\nThe 27-year-old has just helped Arsenal win the Premier League for the first time since 2003-04 and reach the Champions League final, which they lost on penalties to Paris St-Germain last weekend.\n\nRice filled in as captain during Harry Kane's absence for the October friendly against Wales, when Ollie Watkins replaced Kane in the England attack.\n\n\"I think I would say Declan is my vice-captain,\" Tuchel said afterSaturday's friendly win over New Zealand.\n\nAsked whether Rice knows he has that role, the England manager added: \"That is a good question. I was just thinking about it. Whether it is an official thing or not.\n\n\"But I think we had this talk when Harry was not in camp with us. We started with Ollie and I think Declan was captain. That was where I told him.\"\n\nRice and his Arsenal team-mates Bukayo Saka, Noni Madueke and Eberechi Eze have now joined England's training camp in the United States and began work with the group in Florida on Sunday.\n\nTuchel's side have one more friendly against Costa Rica in Orlando on Wednesday and will play a behind-closed-doors game with Miami FC before travelling to their Kansas City base on Saturday.\n\nThe Three Lions begin their World Cup campaign on 17 June against Croatia and also face Ghana and Panama in Group L.\n\nThis was a training game - England and Tuchel now need to get serious",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3713_4",
+            "category": "england",
+            "type": "News",
+            "title": "Inside the fairytale journey of Scotland captain Robertson",
+            "bullets": [
+              "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+            "fullText": "Inside the fairytale journey of Scotland captain Robertson\n\nAt Scotland's training camp in Turkey before their crucial World Cup qualifiers against Greece and Denmark in November, Andy Robertson turned into Claudia Winkleman.\n\nThe captain had devised a 'Traitors' game for the squad to play, complete with blackboards and mini shields. The chosen ones had to report to his room each night to elect who they were going to 'kill'.\n\nA week-long quest to find the Traitors ensued, as the players got involved in challenges and capers in the build-up to two of the biggest games of their lives.\n\nIt was Robertson's way of bringing the team together and injecting some fun amid the pressure. It is a small but significant example of the 32-year-old's influence.\n\nAs a player, team-mate and captain, 'Robbo' has made an indelible mark with this group of Scotland players.\n\nAnd his journey from working at the Hampden ticket office to captaining Scotland to their first men's World Cup in 28 years makes him a national icon.\n\nClarke has 'some decisions to make' - but what are they?\n\nPatient, precise, clinical - are Scotland ready to make World Cup mark?\n\nHow Scotland reached the World Cup - told by those who made it happen\n\nRobertson's value to Liverpool has been lauded over the last fortnight as he said goodbye to Anfield at the end of his nine-year spell.\n\nFrom a raw attacking full-back who - in Jurgen Klopp's view - could not defend when he arrived from Hull City in 2017, Robertson became one of the world's best.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3713_5",
+            "category": "england",
+            "type": "News",
+            "title": "How to win the World Cup – video explainer",
+            "bullets": [
+              "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessarily.As the 2026 World Cup begins, the largest ever, we analysed all 22 past tournaments to find the common threads that link every single champion. From the tactical innovations that shocked the world to the political forces that fuelled past victories, history shows there are eight distinct ways to lift the famous trophy.Bracketology: predict a path to World Cup victoryWorld Cup 2026: guide to all 1,248 players Continue reading...",
+            "fullText": "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessarily.\n\nAs the 2026 World Cup begins, the largest ever, we analysed all 22 past tournaments to find the common threads that link every single champion.\n\nFrom the tactical innovations that shocked the world to the political forces that fuelled past victories, history shows there are eight distinct ways to lift the famous trophy.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 10:55:08 EDT",
+  "lastUpdated": "2026-06-08 @ 15:37:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
