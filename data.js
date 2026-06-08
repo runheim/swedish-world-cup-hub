@@ -28,7 +28,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/video/2026/jun/08/how-to-win-the-world-cup-video-explainer"
     },
     {
-      "text": "⚽ Bayern’s best ever? Kane in Ballon d’Or conversation but World Cup is pivotal",
+      "text": "⚽ Bayern’s best ever? Harry Kane goes to World Cup in Ballon d’Or conversation",
       "link": "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich"
     },
     {
@@ -2444,7 +2444,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 09:55:56 EDT",
+  "lastUpdated": "2026-06-08 @ 10:55:08 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
