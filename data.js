@@ -4,32 +4,40 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Bellingham has fight to start for England - Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
+      "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Rice to be England's vice-captain at World Cup",
       "link": "https://www.bbc.com/sport/football/articles/cn4r74yjpxvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ This was a training game - England and Tuchel now need to get serious",
-      "link": "https://www.bbc.com/sport/football/articles/c3ryd490rz7o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
+      "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Mr Irreplaceable and Ballon d'Or contender - is this Kane's time?",
-      "link": "https://www.bbc.com/sport/football/articles/cvgzx1e7l1jo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ World Cup 2026: Scotland labelled ‘unprofessional’ by Norway, England latest, and more: football news – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/08/world-cup-2026-countdown-news-england-iran-usa-mexico-canada-football-live"
     },
     {
-      "text": "⚽ Declan Rice named as England vice-captain by Tuchel for World Cup bid",
-      "link": "https://www.theguardian.com/football/2026/jun/07/declan-rice-named-england-vice-captain-thomas-tuchel-world-cup-2026"
+      "text": "⚽ How to win the World Cup – video explainer",
+      "link": "https://www.theguardian.com/football/video/2026/jun/08/how-to-win-the-world-cup-video-explainer"
     },
     {
-      "text": "⚽ North America’s wide and wild World Cup will be an experience like no other | Emma Hayes",
-      "link": "https://www.theguardian.com/football/2026/jun/07/north-americas-wide-and-wild-world-cup-will-be-an-experience-like-no-other"
+      "text": "⚽ Bayern’s best ever? Kane in Ballon d’Or conversation but World Cup is pivotal",
+      "link": "https://www.theguardian.com/football/2026/jun/08/england-harry-kane-world-cup-ballon-dor-bayern-munich"
     },
     {
-      "text": "⚽ England 1-0 New Zealand: five talking points from the World Cup warm-up | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jun/06/england-1-0-new-zealand-five-talking-points-from-the-world-cup-warm-up"
+      "text": "⚽ ‘They picked the wrong artist’: How a Dallas mural cover-up led to a $25m lawsuit against Fifa",
+      "link": "https://www.theguardian.com/football/2026/jun/08/dallas-fifa-mural-lawsuit-robert-wyland"
     },
     {
-      "text": "⚽ Lacklustre warm-up victory proved one thing: England are the Harry Kane team",
-      "link": "https://www.telegraph.co.uk/football/2026/06/06/england-vs-new-zealand-live-score-latest-updates-lineups/"
+      "text": "⚽ Bellingham has a fight on his hands for England starting spot, Tuchel says",
+      "link": "https://www.skysports.com/football/news/12040/13551807/jude-bellingham-england-boss-thomas-tuchel-claims-real-madrid-star-has-a-fight-on-his-hands-to-earn-world-cup-starting-spot"
     }
   ],
   "timeline": {
@@ -2272,10 +2280,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-08": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5550_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham has fight to start for England - Tuchel",
+            "bullets": [
+              "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, says manager Thomas Tuchel.",
+            "fullText": "Jude Bellingham has scored six goals in 47 appearances for England\n\nThomas Tuchel says Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup because he has \"14 or 15 potential starters\" in his squad.\n\nThe Real Madrid midfielder has only started four times since the German took over as England boss in January 2025, with a further three appearances off the bench.\n\nTuchel has instead preferred Aston Villa's Morgan Rogers, who has featured in 12 of his 13 matches in charge and was the only player involved in each of England's eight World Cup qualifying matches.\n\nWhen asked if Bellingham has a fight on his hands to be in the starting XI, Tuchel told reporters: \"Yes, he has.\n\n\"He is one of the starters, he knows he is one of the starters, but we have 14 or 15 potential starters.\n\n\"These roles can always change, but at the moment I think there are 14 or 15 proper starters and Jude is one of them.\"\n\nWhy Olise can be one of France's very best - Clichy\n\nBellingham missed just 29 minutes of England's Euro 2024 campaign, starting all seven matches, but his fortunes have changed under Gareth Southgate's replacement.\n\nThe 22-year-old missed two qualifying matches last September because of a shoulder injury but wasoverlooked for October's international camp,including a qualifier against Latvia.\n\nHe returned to the squad in November but was forced to miss friendlies in March with a persistent hamstring issue.\n\nHis relationship with Tuchel has frequently come under scrutiny, with the manager describing Bellingham's on-field behaviour during last June's defeat by Senegal as \"repulsive\" âa remark Tuchel later apologised for.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5550_1",
+            "category": "england",
+            "type": "News",
+            "title": "Inside the fairytale journey of Scotland captain Robertson",
+            "bullets": [
+              "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+            "fullText": "Inside the fairytale journey of Scotland captain Robertson\n\nAt Scotland's training camp in Turkey before their crucial World Cup qualifiers against Greece and Denmark in November, Andy Robertson turned into Claudia Winkleman.\n\nThe captain had devised a 'Traitors' game for the squad to play, complete with blackboards and mini shields. The chosen ones had to report to his room each night to elect who they were going to 'kill'.\n\nA week-long quest to find the Traitors ensued, as the players got involved in challenges and capers in the build-up to two of the biggest games of their lives.\n\nIt was Robertson's way of bringing the team together and injecting some fun amid the pressure. It is a small but significant example of the 32-year-old's influence.\n\nAs a player, team-mate and captain, 'Robbo' has made an indelible mark with this group of Scotland players.\n\nAnd his journey from working at the Hampden ticket office to captaining Scotland to their first men's World Cup in 28 years makes him a national icon.\n\nClarke has 'some decisions to make' - but what are they?\n\nPatient, precise, clinical - are Scotland ready to make World Cup mark?\n\nHow Scotland reached the World Cup - told by those who made it happen\n\nRobertson's value to Liverpool has been lauded over the last fortnight as he said goodbye to Anfield at the end of his nine-year spell.\n\nFrom a raw attacking full-back who - in Jurgen Klopp's view - could not defend when he arrived from Hull City in 2017, Robertson became one of the world's best.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5550_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rice to be England's vice-captain at World Cup",
+            "bullets": [
+              "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal midfielder Declan Rice will be England's vice-captain for the World Cup.",
+            "fullText": "Declan Rice and his Arsenal team-mates linked up with the England squad in Florida on Saturday\n\nArsenal midfielder Declan Rice will be England's vice-captain for the World Cup.\n\nRice has earned 72 caps for the Three Lions and will be one of the most experienced players in Thomas Tuchel's starting line-up.\n\nThe 27-year-old has just helped Arsenal win the Premier League for the first time since 2003-04 and reach the Champions League final, which they lost on penalties to Paris St-Germain last weekend.\n\nRice filled in as captain during Harry Kane's absence for the October friendly against Wales, when Ollie Watkins replaced Kane in the England attack.\n\n\"I think I would say Declan is my vice-captain,\" Tuchel said afterSaturday's friendly win over New Zealand.\n\nAsked whether Rice knows he has that role, the England manager added: \"That is a good question. I was just thinking about it. Whether it is an official thing or not.\n\n\"But I think we had this talk when Harry was not in camp with us. We started with Ollie and I think Declan was captain. That was where I told him.\"\n\nRice and his Arsenal team-mates Bukayo Saka, Noni Madueke and Eberechi Eze have now joined England's training camp in the United States and began work with the group in Florida on Sunday.\n\nTuchel's side have one more friendly against Costa Rica in Orlando on Wednesday and will play a behind-closed-doors game with Miami FC before travelling to their Kansas City base on Saturday.\n\nThe Three Lions begin their World Cup campaign on 17 June against Croatia and also face Ghana and Panama in Group L.\n\nThis was a training game - England and Tuchel now need to get serious",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5550_3",
+            "category": "england",
+            "type": "News",
+            "title": "Inside the fairytale journey of Scotland captain Robertson",
+            "bullets": [
+              "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+            "fullText": "Inside the fairytale journey of Scotland captain Robertson\n\nAt Scotland's training camp in Turkey before their crucial World Cup qualifiers against Greece and Denmark in November, Andy Robertson turned into Claudia Winkleman.\n\nThe captain had devised a 'Traitors' game for the squad to play, complete with blackboards and mini shields. The chosen ones had to report to his room each night to elect who they were going to 'kill'.\n\nA week-long quest to find the Traitors ensued, as the players got involved in challenges and capers in the build-up to two of the biggest games of their lives.\n\nIt was Robertson's way of bringing the team together and injecting some fun amid the pressure. It is a small but significant example of the 32-year-old's influence.\n\nAs a player, team-mate and captain, 'Robbo' has made an indelible mark with this group of Scotland players.\n\nAnd his journey from working at the Hampden ticket office to captaining Scotland to their first men's World Cup in 28 years makes him a national icon.\n\nClarke has 'some decisions to make' - but what are they?\n\nPatient, precise, clinical - are Scotland ready to make World Cup mark?\n\nHow Scotland reached the World Cup - told by those who made it happen\n\nRobertson's value to Liverpool has been lauded over the last fortnight as he said goodbye to Anfield at the end of his nine-year spell.\n\nFrom a raw attacking full-back who - in Jurgen Klopp's view - could not defend when he arrived from Hull City in 2017, Robertson became one of the world's best.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5550_4",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Scotland labelled ‘unprofessional’ by Norway, England latest, and more: football news – live",
+            "bullets": [
+              "Tuchel criticises England’s ‘freestyle’ approachPlayer guide | Bracketology | Wallchart | Mail Micha...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel criticises England’s ‘freestyle’ approachPlayer guide | Bracketology | Wallchart | Mail MichaelIf you think Messi is knocking on a bit, he’s not even one of the 10 oldest players at the 2026 World Cup. Modern science, eh.FIFA published the top 20 last week and it’s an early win for Scotland. Continue reading...",
+            "fullText": "Here’s Rob Draper on Harry Kane’s chances of winning the Ballon d’Or and why theWorld Cupmight be critical to his chances of being named the best player in the world.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5551_5",
+            "category": "england",
+            "type": "News",
+            "title": "How to win the World Cup – video explainer",
+            "bullets": [
+              "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessarily.As the 2026 World Cup begins, the largest ever, we analysed all 22 past tournaments to find the common threads that link every single champion. From the tactical innovations that shocked the world to the political forces that fuelled past victories, history shows there are eight distinct ways to lift the famous trophy.Bracketology: predict a path to World Cup victoryWorld Cup 2026: guide to all 1,248 players Continue reading...",
+            "fullText": "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessarily.\n\nAs the 2026 World Cup begins, the largest ever, we analysed all 22 past tournaments to find the common threads that link every single champion.\n\nFrom the tactical innovations that shocked the world to the political forces that fuelled past victories, history shows there are eight distinct ways to lift the famous trophy.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5551_6",
+            "category": "england",
+            "type": "News",
+            "title": "Bayern’s best ever? Kane in Ballon d’Or conversation but World Cup is pivotal",
+            "bullets": [
+              "The England captain has finally assumed his place at the pinnacle of the game – it has been a long r...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The England captain has finally assumed his place at the pinnacle of the game – it has been a long road to this pointThe Bayern Munich president, Uli Hoeness, has a propensity for hyperbole, so when he labelled Harry Kane as the best transfer the club has ever made in the wake of the DFB-Pokal cup final, which Bayern won 3-0 thanks to a Kane hat-trick, you wondered whether he was simply dialling up the rhetoric. A month on, emotion subsided, it appears not. “He absolutely is the best we’ve had,” another Bayern insider confirms.It’s impossible to overstate the unfussy way Kane has won over not just Bayern Munich but, perhaps, global football opinion. Kane’s travails through Euro 2024, when he still had yet to win a trophy, suggested a player on the downslide. Combined with the scepticism that met his Golden Boot at Russia 2018 among foreign observers – “top goalscorer despite not having scored from the quarter-finals on,” sniffed Le Journal du Dimanche – indicated that his six most productive years as a pro might have been regarded a tireless yet vain effort. Continue reading...",
+            "fullText": "The England captain has finally assumed his place at the pinnacle of the game – it has been a long road to this point\n\nThe Bayern Munich president, Uli Hoeness, has a propensity for hyperbole, so when he labelled Harry Kane as the best transfer the club has ever made in the wake of the DFB-Pokal cup final, which Bayernwon 3-0 thanks to a Kane hat-trick, you wondered whether he was simply dialling up the rhetoric. A month on, emotion subsided, it appears not. “He absolutely is the best we’ve had,” another Bayern insider confirms.\n\nIt’s impossible to overstate the unfussy way Kane has won over not just Bayern Munich but, perhaps, global football opinion.Kane’s travails through Euro 2024, when he still had yet to win a trophy, suggested a player on the downslide. Combined with the scepticism that methis Golden Boot at Russia 2018among foreign observers – “top goalscorer despite not having scored from the quarter-finals on,” sniffedLe Journal du Dimanche– indicated that his six most productive years as a pro might have been regarded a tireless yet vain effort.\n\nWhenTimechose the iconic faces of the game for thisWorld Cup, Lionel Messi, Cristiano Ronaldo, Neymar, Kylian Mbappé, Lamine Yamal and Jude Bellingham were perhaps predictable. Yet there also stood Kane, finally having earned himself a place at football’s top table. “When we bought him for more than €100m, that was new territory for us and a crazy risk,” said Hoeness. “But he’s paid back every single euro. Not just because he scores so many goals, but because he is a role model in the dressing room.”\n\nHoeness relays stories of Kane encouraging younger players, putting an arm around the less experienced. It doesn’t matter he isn’t fluent in German – Kane still takes lessons, as stipulated by his contract – because so many of Bayern’s key figures are effectively native English speakers and Vincent Kompany runs the dressing room mainly in English. Hoeness, a World Cup winner in 1974, also offered an ex-pro’s perspective, citing how much and how hard defenders kick Kane in the Bundesliga and how he never wavers. “I think you’d have to cut off his head or his arm to stop him playing,” said Hoeness.\n\nThose observing the dressing room say that only Manuel Neuer and Thomas Müller in his later years have had such an impact, and both are bona fide Bayern legends, with Müller born and bred at the club. When the Kane family initially delayed moving wholesale to Munich, some might have thought that Kane was the typical British player abroad. Ian Rush never actually said being at Juventus was “like living in a foreign country” – he has Kenny Dalglish to thank for that attribution – but it summed up the archetype. Yet Kane and his wife, Kate, have settled in a beautiful rural home, inherited from the former Bayern defender Lucas Hernández, near the plush suburb of Grünwald. Talking to Kane about family life, it is noticeable how Kate and the children – Ivy, 9, Vivienne, 7, Louis, 5, and Henry, 4 – embrace Bavarian pursuits, such as skiing in the winter. Kane himself is naturally barred from partaking but enjoys Alpine trips to Garmisch.\n\nKane’s trip to a fan day at Kirchweidach, a village of 2,000 people deep in rural Bavaria by the Austrian border, saw him seasoning the soup as Bavarian wedding couples traditionally do (the symbolism was that he was now united with Bavaria), as well as playing a form of skittles but with litre beer steins rather than bowling balls. With British understatement, Kane labelled it all “a bit crazy” but fully embraced the day.\n\nWhile Bayern knew they were signing a world-class player even they have been surprised by how dominant Kane is and the range of technical brilliance he brings to the team. Since finallybreaking the trophy drought with the Bundesliga titlein 2025 – he has added another league title and DFB-Pokal since – Kane has emerged over the subsequent two years as a player who looks leaner, fitter, sharper and better than ever. His goal against Atalanta in the Champions League perhaps tops the list, a drag-back and turn eliminating two defenders before a characteristic crisp finish. Yet the goal that effectively won the cup final, his second on 80 minutes, perhaps illustrates Kane’s growth beyond the six-yard-box finisher. Initially his fearsome curling strike from outside the box rebounded off the bar; when the ball fell back to Kane, he executed a drag-back and turn to create his own space before finishing.\n\nWith 61 goals for Bayern he is the only player in Europe’s major leagues replicating Messi and Ronaldo’s extraordinary scoring numbers, with only Erling Haaland, also alongside him on the Time photoshoot, coming close. Ronaldo once scored 66 goals in a season, admittedly in a year without a tournament, and Messi 73. Kane, after Saturday’s game against New Zealand in Tampa, has 67. At Bayern, though, he also regularly drops deep into a No 6 position to pick up the ball when out of possession. His passing range is almost as good as his goalscoring, as his assist for Luis Díaz in the Champions League semi-final first leg against Paris Saint-Germain demonstrated. It seems certain Thomas Tuchel will persist with the Bayern plan at the World Cup.\n\nKane was never in the Ballon d’Or conversation while at Tottenham. Now, as a regular in the latter stages of the Champions League and finally winning trophies, he is among the contenders, though clearly pretty much everything depends on this World Cup. Yet if you wanted to project a meta narrative on to the 32-year-old’s career, you might suggest this summer is building towards a moment of destiny, the slow starter who finally assumes his place at the pinnacle of the game. He is definitely tortoise rather than hare in football’s game of life.\n\nSpurs youth coaches remember a young teenager who, by elite sport’s standards, was slightly overweight, lacked speed and wasn’t the best technically. “You would never have thought that he would be what he is now,” said one. “But at 14 he had a growth spurt and started to show technical improvements, and the quality of his striking stood out. Any message you relayed to him, he only needed telling once, whether that was gym work or finishing practice.”\n\nAn unhappy loan spell at Norwich was defined by an awful, high-profile miss on his debut against West Ham and being hauled off at half-time during an inglorious FA Cup exit to non-league Luton in his last game for the club. Inbetween those landmarks, he ended up being dropped to play with Norwich’s under-21s, where they wouldn’t let him take penalties because he wasn’t considered good enough. During his loan spell at Leicester he started on the bench with Jamie Vardy for both legs of their 2013 Championship playoff semi-final with Watford.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5551_7",
+            "category": "england",
+            "type": "News",
+            "title": "‘They picked the wrong artist’: How a Dallas mural cover-up led to a $25m lawsuit against Fifa",
+            "bullets": [
+              "Robert Wyland’s depiction of ocean life was covered up for a World Cup promotion – now he wants retr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Robert Wyland’s depiction of ocean life was covered up for a World Cup promotion – now he wants retribution• World Cup newsletter | Daily podcast | Get the appFlorida-based artist Robert Wyland – he’s almost always referred to as simply “Wyland” – was busy in his studio in the Florida Keys a few weeks ago doing what he always does: painting or sculpting vibrant, vivid scenes of aquatic life. Then his assistant walked in.Wyland, 69, has earned international acclaim for his “whaling walls,” a series of larger-than-life murals across the United States and abroad, many which have become iconic parts of the fabric of American cities. Peacefully depicting the largest mammals on earth on warehouses and office buildings, the murals’ whales lumber along gracefully, offering city goers a moment or two of tranquillity amid chaos. Continue reading...",
+            "fullText": "Robert Wyland’s depiction of ocean life was covered up for a World Cup promotion – now he wants retribution\n\nFlorida-based artist Robert Wyland – he’s almost always referred to as simply “Wyland” – was busy in his studio in the Florida Keys a few weeks ago doing what he always does: painting or sculpting vibrant, vivid scenes of aquatic life. Then his assistant walked in.\n\nWyland, 69, has earned international acclaim for his “whaling walls,” a series of larger-than-life murals across the United States and abroad, many which have become iconic parts of the fabric of American cities. Peacefully depicting the largest mammals on earth on warehouses and office buildings, the murals’ whales lumber along gracefully, offering city goers a moment or two of tranquillity amid chaos.\n\nIn the late 90s, Wyland threw one such mural, dubbed Ocean Life, up in Dallas, Texas. At 82 feet tall, it was among his favorites. Over the ensuing thirty years, folks in the city grew attached to it. And like everything else around it, the mural started to age a little bit, too – the blues and blacks started to fade, and cracks began to show in the paint.\n\nWyland frequently touches up his work, and doing so to Ocean Life had long been on his list of future projects. At least it was, until Wyland’s assistant delivered him the bad news.\n\n“She told me someone had called and told her that they were whitewashing the wall, or blue-washing it, I guess,” Wyland told the Guardian. “I was shocked. It really caught me off guard.”\n\nSure enough, photos of the wall soon cropped up on social media, and on Wyland’s phone. At first, it was unclear why this longstanding piece of public art had been painted over. Wyland, along with others at his foundation, struggled to get their bearings. Some of the artist’s work has disappeared over the years – usually when a building gets torn down – but neither Wyland or anybody around him had been consulted or even warned that this was coming.\n\nWhat has ensued has thrust the artist into a battle with the most powerful sporting organization in the world, a local organizing committee, and has sparked a long-needed debate about the ownership and importance of public art.\n\nIn time, Wyland learned that his work had been entirely erased to make way for a new mural promoting the upcoming FifaWorld Cup. Almost immediately, Wyland’s team filed a cease and desist. Days later, they filed a lawsuit against Fifa seeking $25m in damages.\n\n“This is a David and Goliath thing for sure,” said Wyland. “They are a multi-billion dollar [organization], and I am a single artist with a small foundation, But I tell you, they picked the wrong artist and the wrong artwork. I am not going to stand by and let them get away with this.”\n\nWyland’s fascination with ocean life began at age 14 on a family trip to California. His exposure to it was understandably limited in Detroit, his home town, but the vacation took him to Laguna Beach, where a pod of grey whales were undertaking their yearly migration journey – a 12,000-mile, round-trip swim from the Arctic to warmer waters in Mexico. When a young Wyland saw them breaching in the distance, he was hooked, growing up to idolize famed oceanographer and film-maker Jacques Cousteau.\n\nAbout a year later, he tried his hand at painting a mural for the first time. He’d long been obsessed with art, but when one of his teachers wanted a snowy mountain scene painted on the side of the ice cream and burger shack he owned, Wyland took the assignment. It paid $100. For the next few years, he took any work he could find, eventually moving to California to try to hack it full-time. Things were so lean at one point, Wyland will tell you, that he was subsisting on a single Snickers bar a day.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5552_8",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham has a fight on his hands for England starting spot, Tuchel says",
+            "bullets": [
+              "Thomas Tuchel says Jude Bellingham has a battle on his hands to secure an England starting place, as...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says Jude Bellingham has a battle on his hands to secure an England starting place, as the competition for World Cup places hots up under the West Palm Beach sun.",
+            "fullText": "England boss Thomas Tuchel has said Jude Bellingham is \"one of 14 or 15 potential starters\" at the World Cup; Real Madrid star captained side in the second half of the 1-0 win over New Zealand on Saturday; Bellingham featured in just four of the qualifiers; Declan Rice named vice-captain",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 18:18:40 EDT",
+  "lastUpdated": "2026-06-08 @ 09:55:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
