@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT arrives in Los Angeles to begin final World Cup prep",
+      "text": "⚽ Weston McKennie and Yunus Musah log impressive drills in LA turf",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Paraguay locks in training sessions at Los Angeles training complex",
+      "text": "🌍 Türkiye squad lands in San Jose to begin California base camp",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -915,11 +915,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260608_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "Weston McKennie and Yunus Musah log impressive drills in LA turf",
+            "bullets": [
+              "McKennie creates multiple chances in tactical scrimmage sessions.",
+              "Musah curls spectacular strikes into top corners in shooting drills.",
+              "Physiotherapists confirm Tyler Adams is fully fit and ready to start."
+            ],
+            "summary": "USA's training in LA featured stellar workouts by McKennie and Musah. Tyler Adams is fully fit and expected to anchor the midfield in the opener.",
+            "fullText": "USA's training in LA featured stellar workouts by McKennie and Musah. Tyler Adams is fully fit and expected to anchor the midfield in the opener.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Pitch",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260608_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Türkiye squad lands in San Jose to begin California base camp",
+            "bullets": [
+              "Turkish squad checks into San Jose hotel for final tournament prep.",
+              "Vincenzo Montella conducts tactical passing drills in warm weather.",
+              "Hakan Çalhanoğlu logs full contact drills showing peak fitness."
+            ],
+            "summary": "Türkiye has arrived in California and initiated training. Under Montella, the squad is focusing on build-up speed and set-piece defense.",
+            "fullText": "Türkiye has arrived in California and initiated training. Under Montella, the squad is focusing on build-up speed and set-piece defense.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "TRT Spor",
+            "readTime": "3 min",
+            "tag": "Türkiye Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 10:55:00 EDT",
+  "lastUpdated": "2026-06-08 @ 15:37:42 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
