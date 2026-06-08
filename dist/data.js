@@ -1130,11 +1130,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0423_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Elliot Stroud's move during the World Cup: \"My decision\"",
+            "bullets": [
+              "Mjällby's Elliot Stroud, 23, is clear. He does not want to hear about negotiations about a possible ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mjällby's Elliot Stroud, 23, is clear. He does not want to hear about negotiations about a possible move during the WC. - Afterwards we'll see what happens, he says.",
+            "fullText": "He does not want to hear about negotiations about a possible move during the WC.\n\nThe left-back was one of the outstanding players in Mjällby's gold-winning team last year and has so far stood for a strong spring season.\n\nWorld Cup winner Elliot Stroud is on a contract that extends to the end of the season and Aftonbladet recently reported foreign interest.\n\nSo how does he, who is in Dallas with the Swedish national team, handle such a thing during an ongoing championship?\n\n- Now it's not that much that reaches me like that. I am mostly focused on the WC and the days and weeks here. Afterwards you can see what happens. But there is nothing that takes the focus away from this task, he says.\n\nIs it you who chose to be like that, like calm during the WC?\n\n- Yes, but it is probably partly my decision. That you can have as much focus on this (WC) as possible and do it as well as I can. It is absolutely a lot.\n\nIt can possibly be interpreted as the agent should only get in touch if things are really hot.\n\n- Roughly so. So that there is not so much redundant information coming in as well.\n\nHe admits that he thrives in Mjällby and that he continues to develop in the environment. But.\n\n- It is clear that I feel ready to try something new. Then we will see if it will be in the summer, winter, in two or three years.\n\n- If it were to become something, it should be a team that believes in you. League, series or team does not matter much, but you must have a chance to compete for playing time.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0429_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Supports his girlfriend after the comments: \"There are always idiots\"",
+            "bullets": [
+              "Jesper Karlström and his girlfriend are expecting a child. They have been reached by condescending c...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jesper Karlström and his girlfriend are expecting a child. They have been reached by condescending comments. - I try to support her, says Blågult's midfielder.",
+            "fullText": "- I try to support her, says Blågult's midfielder.\n\nThe Udinese midfielder and girlfriend Josefin Rådestad are expected to become parents \"at any time\".\n\n- It can happen at any time really. It could be within a week or two. It is especially clear not being able to be there, says Jesper Karlström.\n\nJust. As Karlström is in Dallas for Sweden's preparations for the World Cup opener against Tunisia, he will miss the birth.\n\n- It's still okay, there are always idiots who write stuff. I don't care. It's more that you try to be there for her, if it would be difficult for her, he says.\n\nThe 30-year-old says that childbirth is of course on his mind.\n\n- It would be really crazy otherwise. You can call home as often as possible, but then my girlfriend has support at home with both my family and hers.\n\nThese are two dreams that you have always wanted to achieve, starting a family and playing in the WC. We still had time to prepare for a while and accepted the idea. It still feels safe.\n\nSweden's WC premiere is on June 15, 04.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0435_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish stars' words after Christian Eriksen's collapse: \"Getting scared\"",
+            "bullets": [
+              "Christian Eriksen collapsed on the pitch. The blue-yellow WC stars were affected by the news. - You ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Eriksen collapsed on the pitch. The blue-yellow WC stars were affected by the news. - You get scared and sad, says midfielder Jesper Karlström.",
+            "fullText": "- You get scared and sad, says midfielder Jesper Karlström.\n\nIt was in a training international match between Denmark and Ukraine that Christian Eriksen tied the knot on the grass. The match was suspended.\n\nThe news has of course reached the Swedish national team, which is currently in Dallas to load up for the World Cup opener against Tunisia.\n\n- It's clear that we all saw it, you get scared and sad when you read such news. When I read it, you could see that it had gone well, considering the circumstances, but of course it's not fun, says Jesper Karlström.\n\nThe 34-year-old, who spent the night at the hospital in Odense, has spoken out.\n\n\"I want everyone to know that I'm fine and with my family. As you can probably understand, the shock I received from my pacemaker played a big role for both me and my family, but I want to clarify that this was a completely different situation than what happened in 2021,\" writes the Dane on Instagram.\n\nDuring European Championship 2021, Eriksen suffered a cardiac arrest at the Park in Copenhagen, during a match.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0442_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Liam glues history to electrical cabinets - the color splashes should reduce the scribbling in Västerås",
+            "bullets": [
+              "This week, 26 electrical cabinets in central Västerås will be decorated with historical images and s...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "This week, 26 electrical cabinets in central Västerås will be decorated with historical images and stories from the city. The city of Västerås hopes to reduce graffiti and vandalism. - We want to raise Västerå's identity. Then we think that electric cabinets and electrification are part of Västerå's history, says Ingela Isaksson, project manager from the city of Västerås.",
+            "fullText": "This week, 26 electrical cabinets in central Västerås will be decorated with historical images and stories from the city. The city of Västerås hopes to reduce graffiti and vandalism.\n\n- We want to raise Västerå's identity. Then we think that electric cabinets and electrification are part of Västerå's history, says Ingela Isaksson, project manager from the city of Västerås.\n\nThe cost amounts to approximately SEK 120,000 for the 26 cabinets in the city. The oldest pictures are from the early 20th century and come from the Västerås city archives and the Västmanland county museum. The project is a collaboration between the city of Västerås and Mälarenergi, which owns the electrical cabinets. More electric cabinets will get a facelift in the future.\n\n- We will continue with this until 2028 and put up more pictures, says Ingela Isaksson, project manager and city gardener in the city of Västerås.\n\nIn the clip: SVT was there when one of the electrical cabinets in the city got a new look.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0444_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Geopolitics World Cup Week is upon us, baby. We s...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Geopolitics World Cup Week is upon us, baby. We stand on the edge of greatness. Who will dream, who will dare to stay up on Friday night for the 3am (BST) kick-off of South Korea v Czechia, and live to tell the tale? Stop all the clocks, cut off the telephone. Prevent the dog from barking with a juicy bone. Silence the pianos and, with muffled drum, bring out the television, let the morning come.Podcast-wise, I only listen to Football Weekly of course (ahem …) but I did happen to hear an interview with Jürgen Klinsmann. What’s fascinating about him is that whenever he’s interviewed he always trots out a story about Diego Maradona at Napoli doing a famous warm-up with ‘Live is Life’ playing in the background with him and his teammates warming up in the corner of the pitch and looking at him in awe. The problem is, that happened in a game in 1989 between Bayern Munich and Napoli in the semi-final of the old Big Vase but Klinsmann was at Stuttgart at the time. Stuttgart did play Napoli in the final, but Maradona didn’t do that warmup then, so he must have seen footage of the warmup so many times that he’s conflated the two. Memory is a funny old thing” – Noble Francis.Re: Graham Potter’s claim to be the best non-Swede to take the country to the World Cup (Friday’s Quote of the Day). Either he is unaware of the remarkable achievement of the English manager George Rayner who took them to the 1958 final (where they lost to Pelé’s Brazil) or he expects to win the whole damn thing! I’m weighing up whether to put this month’s housekeeping on them at 150-1” – Bob WilcoxImagine my shock when I read Friday’s Football Daily only to find that Neale Redington – whom I’m sure meant nothing by it – suggested that my questioning whether Andoni Iraola really wanted the potentially thankless job of Liverpool gaffer/convenient target meant that I might be a fan of Tottenham. But in the interest of full disclosure: no. I don’t really have a horse in the Premier League race, other than enjoying recent seasons of Manchester City for the sake of watching Erling Haaland turn world-class defenders into so many kanelsnurr. The team of my heart is the San Jose Earthquakes, but while I pull for a club that hasn’t won anything in quite some time, I still do not have the level of masochism necessary to be a Spurs supporter. Sorry. Wishing Iraola luck (he’s likely to need it)” –Ray Anselmo.May I ask who this Ricardo Lopes is who plays for Cape Verde and ‘Shamrock’? It couldn’t possibly be Roberto “Pico” Lopes of Shamrock Rovers, could it?” – Neill McGowan (and 1,056 others). Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nGeopolitics World Cup Week is upon us, baby. We stand on the edge of greatness. Who will dream, who will dare to stay up on Friday night for the 3am (BST) kick-off of South Korea v Czechia, and live to tell the tale? Stop all the clocks, cut off the telephone. Prevent the dog from barking with a juicy bone. Silence the pianos and, with muffled drum, bring out the television, let the morning come.\n\nYes, the undercooked boiled eggs at Fifa might have tried to ruin the World Cup with theirextortionate ticket prices and other concernsbut after nearly four years of waiting, we are now just three days away from the start of football’s greatest spectacle. Everywhere Football Daily looks there is a feast for the eyes. The Côte d’Ivoire squad checked into their hotel in Delawarewearing jacketsthat would make the Tango Orange Man blush. Brazil were also typically understated in their arrival after the plane carrying the Seleção squad wasliterally baptised by fire engines on the runway– Carlo Ancelotti’s side arrived safe in the USA USA USA before they beat Egypt in their final warmup match that featuredmovable corner flags.\n\nThe internet is already awash with #content – Big Website’ssnazzy player guideandBracketology gameare live live live, glossy pre-tournament adverts from sportswear giants (including one that featuresChanning Tatum as Erling Haaland) have started doing the rounds, while Edgar Davids and Didier Drogba have beenspotted playing cage footballwith Steve Nash in New York City. And is there a bigger dopamine hit than watching England fansrefusing to do the Mexican Waveduring the1-0 warm-up win over New Zealand?\n\nLet’s hope the GWC lives up to the considerable hype. US-based boffins at the Washington University in St Louishave revealedthat dopamine can actually peak during anticipation of an event rather than during the event itself – apparently an evolutionary mechanism that helped our ancestors stay motivated during long hunts and gathering expeditions. Which is basically a nerdy way of saying that this week, this small euphoric window before the tournament begins, bursting with hope, memes and dreams, might be as good as it gets before the crushing disappointment of actually watching England/Scotland/Brazil/your favourite team crash out in the first knockout round. Roll on Thursday!\n\n“I consider myself one of the greatest players ever. An 11 out of 10” – there’s gold inthis here chatbetween the ever-modest Romário and Thiago Rabelo.\n\ndouble quotation markPodcast-wise, I only listen toFootball Weeklyof course (ahem …) but I did happen to hear an interview with Jürgen Klinsmann. What’s fascinating about him is that whenever he’s interviewed he always trots out a story aboutDiego Maradona at Napoli doing a famous warm-up with ‘Live is Life’ playing in the backgroundwith him and his teammates warming up in the corner of the pitch and looking at him in awe. The problem is, that happened in a game in 1989 between Bayern Munich and Napoli in the semi-final of the old Big Vase but Klinsmann was at Stuttgart at the time. Stuttgart did play Napoli in the final, but Maradona didn’t do that warmup then, so he must have seen footage of the warmup so many times that he’s conflated the two. Memory is a funny old thing” – Noble Francis.\n\ndouble quotation markRe: Graham Potter’s claim to be the best non-Swede to take the country to the World Cup (Friday’s Quote of the Day). Either he is unaware of the remarkable achievement of the English manager George Rayner who took them to the 1958 final (where they lost to Pelé’s Brazil) or he expects to win the whole damn thing! I’m weighing up whether to put this month’s housekeeping on them at 150-1” – Bob Wilcox\n\ndouble quotation markImagine my shock when I read Friday’s Football Daily only to find that Neale Redington – whom I’m sure meant nothing by it – suggested that my questioning whether Andoni Iraola really wanted the potentially thankless job of Liverpool gaffer/convenient target meant that I might be a fan of Tottenham. But in the interest of full disclosure: no. I don’t really have a horse in the Premier League race, other than enjoying recent seasons of Manchester City for the sake of watching Erling Haaland turn world-class defenders into so manykanelsnurr. The team of my heart is the San Jose Earthquakes, but while I pull for a club that hasn’t won anything in quite some time, I still do not have the level of masochism necessary to be a Spurs supporter. Sorry. Wishing Iraola luck (he’s likely to need it)” –Ray Anselmo.\n\ndouble quotation markMay I ask who this Ricardo Lopes is who plays for Cape Verde and ‘Shamrock’? It couldn’t possibly be Roberto “Pico” Lopes of Shamrock Rovers, could it?” – Neill McGowan (and 1,056 others).\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Noble Francis. Terms and conditions for our competitions, when we run them, arehere.\n\nNorway have the hump with Scotland and it’s not over fishing rights in the North Sea. No, this is connected to the Scots cancelling a training-ground friendly between the two sides that had been scheduled for Monday. Peeved Norway head coach Ståle Solbakken has branded Scotland boss Steve Clarke“unprofessional”while team manager, Brede Hangeland, has been chuntering away to Norwegian TV about “gentleman’s agreements” being broken. The official line from Scotland is that they have several injury niggles and don’t want to take any risks but Football Daily has two other theories. One, Scotland don’t want to come down from the high of stickingfour first-half goals past Boliviaduring the friendly win in New Jersey at the weekend. Two, they’ve seen the picture below and decided if Erling Haaland isn’t even one of the taller members of the Norwegian squad, we’ll leave it, thanks.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 17:28:46 EDT",
+  "lastUpdated": "2026-06-08 @ 19:04:44 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
