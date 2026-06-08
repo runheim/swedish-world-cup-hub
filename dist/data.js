@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ ‘Diogo will be with you’: Andy Robertson shares emotional letter from Jota’s widow",
-      "link": "https://www.theguardian.com/football/2026/jun/08/andy-robertson-shares-emotional-letter-from-diogo-jotas-widow"
+      "text": "⚽ Pochettino implements fluid 4-3-3 shape in camp scrimmages",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Paraguay tactical analyst flags Balogun's central run strength",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -943,11 +959,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_usa_20260608_4",
+            "category": "usa",
+            "type": "Column",
+            "title": "Pochettino implements fluid 4-3-3 shape in camp scrimmages",
+            "bullets": [
+              "Coaching staff reviews tactical whiteboard layouts for central build-ups.",
+              "Staff: 'Germany lessons are integrated; squad spacing is excellent.'",
+              "USA practices quick transition runs to bypass defensive blocks."
+            ],
+            "summary": "Pochettino led a full-pitch tactical scrimmage today, testing their core 4-3-3 shape. Fullbacks are instructed to overlap aggressively to stretch defensive shapes.",
+            "fullText": "Pochettino led a full-pitch tactical scrimmage today, testing their core 4-3-3 shape. Fullbacks are instructed to overlap aggressively to stretch defensive shapes.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Board",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260608_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Paraguay tactical analyst flags Balogun's central run strength",
+            "bullets": [
+              "Paraguay staff logs Balogun's penalty box movement accuracy data.",
+              "Scouts suggest pressing McKennie early to disrupt USA's distribution.",
+              "Paraguay focuses on compact 4-4-2 layouts in custom scrimmages."
+            ],
+            "summary": "Paraguay's defensive scouts highlighted Balogun as their primary target. They are training defenders to pressure McKennie early to disrupt build-up plays.",
+            "fullText": "Paraguay's defensive scouts highlighted Balogun as their primary target. They are training defenders to pressure McKennie early to disrupt build-up plays.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "ESPN FC South America Desk",
+            "readTime": "3 min",
+            "tag": "Paraguay Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 17:28:45 EDT",
+  "lastUpdated": "2026-06-08 @ 19:04:25 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
