@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Wolves sign Trippier and in Jimenez talks",
+      "link": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Rashford 'dead cert to start for me' - Walcott",
       "link": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -18,6 +22,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
       "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ ‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+      "link": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw"
     },
     {
       "text": "⚽ How to win the World Cup – video explainer",
@@ -2532,11 +2540,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0419_0",
+            "category": "england",
+            "type": "News",
+            "title": "Wolves sign Trippier and in Jimenez talks",
+            "bullets": [
+              "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer.",
+            "fullText": "Jimenez was among the scorers in a 5-1 win against Serbia in Mexico's final World Cup warm-up match on Friday\n\nWolves are in talks to re-sign former striker Raul Jimenez on a free transfer\n\nJimenez, 35, was listed by Fulham on Monday among a group of players set to leave the Premier League club when his contract expires at the end of the month.\n\nIt is understood negotiations have begun over a return to Molineux, where he scored 57 goals in 166 games between 2018 and 2023.\n\nHis 40 Premier League goals make him Wolves' top scorer in the English top flight.\n\nJimenez is currently on international duty with World Cup hosts Mexico, who begin the tournament against South Africa on Thursday.\n\nWolves are looking to rebuild after finishing bottom of the Premier League last season and being relegated to the Championship.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0419_1",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford 'dead cert to start for me' - Walcott",
+            "bullets": [
+              "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at the World Cup.",
+            "fullText": "Marcus Rashford has scored 18 goals in 71 England appearances\n\nFormer England winger Theo Walcott says Marcus Rashford is the Three Lions player he is \"most psyched about\" at the upcoming World Cup.\n\nRashford was left out of Gareth Southgate's Euro 2024 squad and did not play for his country for 12 months between March 2024 and 2025.\n\nRe-introduced by Thomas Tuchel, he has featured in every Three Lions squad under the German other than in June 2025 when a hamstring injury ruled him out.\n\nA loan spell at Barcelona, where he scored 14 goals and registered 14 assists in 47 games for the La Liga champions, has revitalised the 28-year-old Manchester United forward's career.\n\nHe startedEngland's 1-0 friendly winover New Zealand on Saturday and while Tuchel said there were \"no hidden messages\" within his first-half line-up, Walcott believes Rashford has to start at the World Cup.\n\n\"Rashford this year has been outstanding,\" Walcott said on The Wayne Rooney Show.\n\n\"I've watched him quite a lot. I found the love of watching Barcelona again and took more of an interest with Rashford going out there. It's been great for him.\n\n\"He would be a dead cert to start for me. The way he's played, that freedom, that enjoyment. We want to see that smile.\"\n\nRashford was England's bright spark in the first half against New Zealand, creating five chances.\n\n\"Rashford's going to be a major part of this tournament,\" Walcott added. \"I'm looking forward to watching him. Out of all the players, I'm most psyched about him.\n\n\"I think he's brave to go abroad - it's great when English players go. I wasn't brave enough, but for him to do that shows good character.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0420_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham has fight to start for England - Tuchel",
+            "bullets": [
+              "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup, says manager Thomas Tuchel.",
+            "fullText": "Jude Bellingham has scored six goals in 47 appearances for England\n\nThomas Tuchel says Jude Bellingham has a fight on his hands to feature in England's starting line-up at the World Cup because he has \"14 or 15 potential starters\" in his squad.\n\nThe Real Madrid midfielder has only started four times since the German took over as England boss in January 2025, with a further three appearances off the bench.\n\nTuchel has instead preferred Aston Villa's Morgan Rogers, who has featured in 12 of his 13 matches in charge and was the only player involved in each of England's eight World Cup qualifying matches.\n\nWhen asked if Bellingham has a fight on his hands to be in the starting XI, Tuchel told reporters: \"Yes, he has.\n\n\"He is one of the starters, he knows he is one of the starters, but we have 14 or 15 potential starters.\n\n\"These roles can always change, but at the moment I think there are 14 or 15 proper starters and Jude is one of them.\"\n\nBellingham missed just 29 minutes of England's Euro 2024 campaign, starting all seven matches, but his fortunes have changed under Gareth Southgate's replacement.\n\nThe 22-year-old missed two qualifying matches last September because of a shoulder injury but wasoverlooked for October's international camp,including a qualifier against Latvia.\n\nHe returned to the squad in November but was forced to miss friendlies in March with a persistent hamstring issue.\n\nHis relationship with Tuchel has frequently come under scrutiny, with the manager describing Bellingham's on-field behaviour during last June's defeat by Senegal as \"repulsive\" âa remark Tuchel later apologised for.\n\nIn November, Tuchel said he would \"review\" Bellingham's behaviour following hisreaction to being substitutedduring a qualifier against Albania.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0420_3",
+            "category": "england",
+            "type": "News",
+            "title": "Inside the fairytale journey of Scotland captain Robertson",
+            "bullets": [
+              "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+            "fullText": "Inside the fairytale journey of Scotland captain Robertson\n\nAt Scotland's training camp in Turkey before their crucial World Cup qualifiers against Greece and Denmark in November, Andy Robertson turned into Claudia Winkleman.\n\nThe captain had devised a 'Traitors' game for the squad to play, complete with blackboards and mini shields. The chosen ones had to report to his room each night to elect who they were going to 'kill'.\n\nA week-long quest to find the Traitors ensued, as the players got involved in challenges and capers in the build-up to two of the biggest games of their lives.\n\nIt was Robertson's way of bringing the team together and injecting some fun amid the pressure. It is a small but significant example of the 32-year-old's influence.\n\nAs a player, team-mate and captain, 'Robbo' has made an indelible mark with this group of Scotland players.\n\nAnd his journey from working at the Hampden ticket office to captaining Scotland to their first men's World Cup in 28 years makes him a national icon.\n\nClarke has 'some decisions to make' - but what are they?\n\nPatient, precise, clinical - are Scotland ready to make World Cup mark?\n\nHow Scotland reached the World Cup - told by those who made it happen\n\nRobertson's value to Liverpool has been lauded over the last fortnight as he said goodbye to Anfield at the end of his nine-year spell.\n\nFrom a raw attacking full-back who - in Jurgen Klopp's view - could not defend when he arrived from Hull City in 2017, Robertson became one of the world's best.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0420_4",
+            "category": "england",
+            "type": "News",
+            "title": "Inside the fairytale journey of Scotland captain Robertson",
+            "bullets": [
+              "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andy Robertson has come a long way since playing amateur football. Now he is edging towards become Scotland's most capped men's player.",
+            "fullText": "Inside the fairytale journey of Scotland captain Robertson\n\nAt Scotland's training camp in Turkey before their crucial World Cup qualifiers against Greece and Denmark in November, Andy Robertson turned into Claudia Winkleman.\n\nThe captain had devised a 'Traitors' game for the squad to play, complete with blackboards and mini shields. The chosen ones had to report to his room each night to elect who they were going to 'kill'.\n\nA week-long quest to find the Traitors ensued, as the players got involved in challenges and capers in the build-up to two of the biggest games of their lives.\n\nIt was Robertson's way of bringing the team together and injecting some fun amid the pressure. It is a small but significant example of the 32-year-old's influence.\n\nAs a player, team-mate and captain, 'Robbo' has made an indelible mark with this group of Scotland players.\n\nAnd his journey from working at the Hampden ticket office to captaining Scotland to their first men's World Cup in 28 years makes him a national icon.\n\nClarke has 'some decisions to make' - but what are they?\n\nPatient, precise, clinical - are Scotland ready to make World Cup mark?\n\nHow Scotland reached the World Cup - told by those who made it happen\n\nRobertson's value to Liverpool has been lauded over the last fortnight as he said goodbye to Anfield at the end of his nine-year spell.\n\nFrom a raw attacking full-back who - in Jurgen Klopp's view - could not defend when he arrived from Hull City in 2017, Robertson became one of the world's best.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0420_5",
+            "category": "england",
+            "type": "News",
+            "title": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+            "bullets": [
+              "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effortIn the disorientation of the moment, as Djed Spence lay on the turf, the pain radiating from the left side of his jaw, it was tempting to wonder what flashed through his mind. The Tottenham full-back had been cleaned out by the elbow of Chelsea’s Liam Delap in the closing stages of the penultimate game of the Premier League season. Spence had eyes only for the high ball while Delap looked directly at his opponent before spinning and throwing out his left arm.For starters, there had to be surprise that Delap was not sent off. “Yeah, it was a crazy challenge,” Spence says. What about his involvement in Spurs’ final match of their relegation battle at home against Everton? And beyond that, the World Cup? Did he fear it might be all over for him? Continue reading...",
+            "fullText": "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effort\n\nIn the disorientation of the moment, as Djed Spence lay on the turf, the pain radiating from the left side of his jaw, it was tempting to wonder what flashed through his mind. The Tottenham full-back had been cleaned out by the elbow of Chelsea’s Liam Delap in the closing stages of the penultimate game of the Premier League season. Spence had eyes only for the high ball while Delap looked directly at his opponent before spinning and throwing out his left arm.\n\nFor starters, there had to be surprise that Delap was not sent off. “Yeah, it was a crazy challenge,” Spence says. What about his involvement in Spurs’ final match of their relegation battleat home against Everton? And beyond that, the World Cup? Did he fear it might be all over for him?\n\nPerhaps Spence did not realise he had broken his jaw because he picked himself up and played on until the end ofSpurs’ 2-1 defeat– a result that meant they had to get at least a draw against Everton to stay up. Or maybe his competitive courage overrode everything. But Spence’s answer is certainly a good one; revealing, too. He was not worried about anything. “No, not really,” he says. “It was painful but luckily I play football with my feet and not my jaw. So I was all good.”\n\nSpence is in the US with the England squad, looking ahead to Wednesday’s final warm-up game against Costa Rica in Orlando and the opening World Cup group matchversus Croatia in Dallason the Wednesday after that. He has made it with the assistance of a protective jaw brace. The 25-year-old wore it against Everton as Spurs won 1-0 to avoid the unthinkable. He wore itagainst New Zealand in England’s first warm-up friendlyon Saturday in Tampa; another 1-0 win, Spence setting up the goal with a perfect cross for Harry Kane. And he will continue to wear it in matches for the duration of the summer. He remains supremely unruffled.\n\n“It’s a little bit uncomfortable but it is what it is,” Spence says. “I’ve got a broken jaw so I have to wear it throughout the tournament. It’s something I will have to get used to. It’ll be three months until it’s fully healed, so it’s a long time. I’ve been wearing it in training, getting used to it in the heat and just trying to fit in it properly, break it in.”\n\nSpence’s selection by Thomas Tuchel was met with surprise in some quarters. Why did the manager not prefer Myles Lewis-Skelly or Lewis Hall at left-back? Or even Luke Shaw? But Tuchel has picked Spence in each one of his squads this season. Lewis-Skelly was in the two at the outset, Hall the one in March. Tuchel has never selected Shaw.\n\nTuchel likes Spence for reasons that go beyond his toughness. Spence is the fastest player in theWorld Cupsquad. He is excellent in defensive one-on-ones. And then there is his versatility; Spence is a right-back by trade but he has been repurposed by Spurs on the left side in the past two seasons. Tuchel has Reece James and Tino Livramento as his main right-backs but both have had fitness issues.\n\n“I’m naturally a right-back, but I’ve been playing left-back for a couple of years now,” Spence says. “I’m still learning the position, still trying to get better, but versatility is a good strength to have. I haven’t played on the right for a long time, but it’s still a strong position for me and hopefully I might be out there on the right in this tournament. But, if not, I’m happy to be there on the left. It’s my position now.”\n\nSpence played well against New Zealand and he picked a good time to produce his first assist of the season in his 48th game for club and country. He is also yet to score and he knows he must do more in attacking terms. “Yeah, definitely,” he admits. “Everyone knows how good I am one v one but going forward is a bit different playing on the left because it’s not my natural side going forward. There’s still stuff I can improve on and I’ve got to try to get more numbers.”\n\nSpence is not a guy to hide his light under a bushel and he has joked on social media about how he has locked up opposing wingers. Arsenal turned the tables on him after their derby win at Spurs in February, posting a video of Spence being dispossessed by Bukayo Saka and Cristhian Mosquera with the caption “locked up” and a padlock emoji. Spence retaliated after Arsenal’s Champions League penalty shootout defeat against Paris Saint-Germain, replying to their three-month-old post with the eyes emoji and one for an open padlock.\n\nSaka and Arsenal’s otherEnglandplayers Declan Rice, Noni Madueke and Eberechi Eze joined up with the squad on Saturday night, having been given the week off after the PSG gamefinal. Did Spence expect a bit back from them? “No,” he says. “No jokes, no jokes. We have to focus on the tournament and hopefully it’s going to be a good one. We can joke afterwards.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0420_6",
+            "category": "england",
+            "type": "News",
+            "title": "How to win the World Cup – video explainer",
+            "bullets": [
+              "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessarily.As the 2026 World Cup begins, the largest ever, we analysed all 22 past tournaments to find the common threads that link every single champion. From the tactical innovations that shocked the world to the political forces that fuelled past victories, history shows there are eight distinct ways to lift the famous trophy.Bracketology: predict a path to World Cup victoryWorld Cup 2026: guide to all 1,248 players Continue reading...",
+            "fullText": "What does it actually take to win a World Cup? Talent? Tactics? A functioning democracy? Not necessarily.\n\nAs the 2026 World Cup begins, the largest ever, we analysed all 22 past tournaments to find the common threads that link every single champion.\n\nFrom the tactical innovations that shocked the world to the political forces that fuelled past victories, history shows there are eight distinct ways to lift the famous trophy.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 17:28:48 EDT",
+  "lastUpdated": "2026-06-08 @ 19:04:29 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
