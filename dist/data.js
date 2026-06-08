@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Weston McKennie and Yunus Musah log impressive drills in LA turf",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Türkiye squad lands in San Jose to begin California base camp",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ ‘Diogo will be with you’: Andy Robertson shares emotional letter from Jota’s widow",
+      "link": "https://www.theguardian.com/football/2026/jun/08/andy-robertson-shares-emotional-letter-from-diogo-jotas-widow"
     }
   ],
   "timeline": {
@@ -963,7 +947,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 15:37:42 EDT",
+  "lastUpdated": "2026-06-08 @ 17:28:45 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
