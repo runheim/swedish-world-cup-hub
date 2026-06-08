@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Elliot Stroud's move during the World Cup: \"My decision\"",
+      "link": "https://www.svt.se/sport/fotboll/elliot-strouds-drag-under-vm-mitt-beslut"
+    },
+    {
       "text": "⚽ Supports his girlfriend after the comments: \"There are always idiots\"",
       "link": "https://www.svt.se/sport/fotboll/stottar-sin-flickvan-efter-kommentarerna-finns-alltid-idioter"
     },
@@ -1130,7 +1134,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 15:37:59 EDT",
+  "lastUpdated": "2026-06-08 @ 17:28:46 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
