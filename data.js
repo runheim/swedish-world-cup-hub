@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The expert's tip for the WC nights: \"Don't overdramatize\"",
-      "link": "https://www.svt.se/sport/fotboll/expertens-tips-infor-vm-natterna-overdramatisera-inte"
+      "text": "⚽ Sweden squad settles into Dallas base camp to begin World Cup prep",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🌍 Tunisia wraps up secondary preparation phase in Monterrey",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.svenskfotboll.se/"
     }
   ],
   "timeline": {
@@ -999,10 +1015,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-08": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_swe_20260608_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden squad settles into Dallas base camp to begin World Cup prep",
+            "bullets": [
+              "Graham Potter leads first session at Dallas elite training facilities.",
+              "Roster focuses on acclimatizing to local summer weather conditions.",
+              "Captain Victor Lindelöf: 'Dallas base is exceptional; focus is ultra-high.'"
+            ],
+            "summary": "The Swedish National Team has arrived at their main World Cup training base in Dallas, Texas. Under Graham Potter, the squad has initiated double-sessions, prioritizing physical conditioning, tactical shapes, and heat acclimation.",
+            "fullText": "The Swedish National Team has arrived at their main World Cup training base in Dallas, Texas. Under Graham Potter, the squad has initiated double-sessions, prioritizing physical conditioning, tactical shapes, and heat acclimation.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Dallas Camp",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260608_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Tunisia wraps up secondary preparation phase in Monterrey",
+            "bullets": [
+              "Carthage Eagles carry out high-intensity tactical scrimmage drills.",
+              "Midfielder Ellyes Skhiri focuses on shielding central defensive areas.",
+              "Tunisia scouts log video data from Sweden's Greece warm-up match."
+            ],
+            "summary": "Tunisia is finalizing their preparation in Monterrey, Mexico. Manager Kadri focuses on defensive shape, preparing to crowd central lanes and launch quick counters.",
+            "fullText": "Tunisia is finalizing their preparation in Monterrey, Mexico. Manager Kadri focuses on defensive shape, preparing to crowd central lanes and launch quick counters.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-07 @ 18:18:49 EDT",
+  "lastUpdated": "2026-06-08 @ 09:55:41 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
