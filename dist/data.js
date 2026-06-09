@@ -4,12 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ England taking care of Saka before World Cup - Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Palmer and Joao Pedro feature in Madonna video",
       "link": "https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
+      "link": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe"
+    },
+    {
+      "text": "⚽ Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup kick-off looms",
+      "link": "https://www.theguardian.com/football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup"
+    },
+    {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
+    },
+    {
+      "text": "⚽ Tuchel: England 'not favourites' for World Cup",
+      "link": "https://www.skysports.com/football/news/12040/13552469/world-cup-2026-england-boss-thomas-tuchel-says-three-lions-not-favourites-for-tournament"
     }
   ],
   "timeline": {
@@ -2964,7 +2980,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 14:33:28 EDT",
+  "lastUpdated": "2026-06-09 @ 17:24:35 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
