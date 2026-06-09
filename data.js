@@ -8,16 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/isak-hien-om-stoppade-vm-domaren-det-ar-trakigt"
     },
     {
-      "text": "⚽ Elliot Stroud's move during the World Cup: \"My decision\"",
-      "link": "https://www.svt.se/sport/fotboll/elliot-strouds-drag-under-vm-mitt-beslut"
-    },
-    {
-      "text": "⚽ Supports his girlfriend after the comments: \"There are always idiots\"",
-      "link": "https://www.svt.se/sport/fotboll/stottar-sin-flickvan-efter-kommentarerna-finns-alltid-idioter"
-    },
-    {
-      "text": "⚽ Swedish stars' words after Christian Eriksen's collapse: \"Getting scared\"",
-      "link": "https://www.svt.se/sport/fotboll/svenska-stjarnornas-ord-efter-christian-eriksens-kollaps-blir-radd"
+      "text": "⚽ Lionesses ease past Ukraine but must navigate playoffs to qualify for World Cup",
+      "link": "https://www.theguardian.com/football/2026/jun/09/enlgand-ukraine-womens-world-cup-2027-qualifying-match-report"
     },
     {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
@@ -1608,7 +1600,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 14:34:29 EDT",
+  "lastUpdated": "2026-06-09 @ 17:24:28 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
