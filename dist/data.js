@@ -8,16 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Wolves sign Trippier and in Jimenez talks",
-      "link": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
-    },
-    {
-      "text": "⚽ Ally Pally heroes Lim, Sakai, Leung and Kumar in World Cup of Darts action",
-      "link": "https://www.skysports.com/darts/news/12040/13551189/world-cup-of-darts-2026-players-to-watch-with-paul-lim-motomu-sakai-man-lok-leung-and-nitin-kumar-in-action"
     }
   ],
   "timeline": {
@@ -2928,11 +2920,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3324_0",
+            "category": "england",
+            "type": "News",
+            "title": "Palmer and Joao Pedro feature in Madonna video",
+            "bullets": [
+              "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Mad...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Madonna's new album.",
+            "fullText": "Joao Pedro (left) and Cole Palmer will not feature at this summer's World Cup\n\nChelseaforwards Cole Palmer and Joao Pedro swapped the football pitch for the movie set as they made a surprise appearance in a promotional film for pop star Madonna's new album.\n\nPalmer and Joao Pedro, who were left out of the England and Brazil World Cup squads respectively, are among the high-profile names included in Confessions II - The Film.\n\nThe 14-minute video was unveiled by Madonna at the Tribeca Festival in New York on Friday and uploaded to her YouTube channel on Monday.\n\nPalmer and Joao Pedro appear about six minutes into the video when they are approached by Madonna while at a urinal.\n\nAward-winning British actor Benedict Cumberbatch features later in the film.\n\nPalmer missed out on England's 26-man squad for the World Cup in the US, Canada and Mexico after a season affected by injuries.\n\nJoao Pedro was overlooked by Brazil despite scoring 20 goals in all competitions in his first season atChelsea.\n\nSeven-time Grammy winner Madonna is a regular watcher ofChelsea's men's and women's teams and was at Stamford Bridge in October when the men's side beatLiverpool2-1 in the Premier League.\n\nLast month she was among the celebrities who launchedChelsea's new home kit for the 2026-27 season when she appeared in a Twitch stream alongside British influencer Gymskin.\n\nMadonna's new album - Confessions On A Dance Floor: Part II - will be released on 3 July.\n\nMadonna and her partner Akeem Morris attended Chelsea's Women's Super League match against Tottenham in February",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3324_1",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 preview: Groups E-H | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Gro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1On the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.In Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.Group G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?Chapters:00:00 - Coming up...01:22 Group E and group F26:25 Group G37:56 Sid Lowe joins to discuss Group H50:38 Quick fire roundGuardian Football Weekly podcast:Apple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007Spotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453Follow Guardian Football Weekly:Instagram ► https://www.instagram.com/guardian_footballweekly/TikTok ► https://www.tiktok.com/@guardian_footballweekly#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview Continue reading...",
+            "fullText": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.\n\nSubscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1\n\nOn the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.\n\nIn Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.\n\nGroup G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?\n\nApple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007\n\nSpotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453\n\nInstagram ► https://www.instagram.com/guardian_footballweekly/\n\nTikTok ► https://www.tiktok.com/@guardian_footballweekly\n\n#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 12:13:09 EDT",
+  "lastUpdated": "2026-06-09 @ 14:33:28 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
