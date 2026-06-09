@@ -16,16 +16,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/svenska-stjarnornas-ord-efter-christian-eriksens-kollaps-blir-radd"
     },
     {
-      "text": "⚽ Liam glues history to electrical cabinets - the color splashes should reduce the scribbling in Västerås",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/liam-limmar-historia-pa-elskap-fargklickarna-ska-minska-klottret-i-vasteras"
-    },
-    {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
-    },
-    {
-      "text": "⚽ Football Daily | It’s World Cup week – will the hope, memes and dreams be as good as it gets?",
-      "link": "https://www.theguardian.com/football/2026/jun/08/world-cup-week-football-daily-newsletter"
     }
   ],
   "timeline": {
@@ -1443,11 +1435,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1216_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Elliot Stroud's move during the World Cup: \"My decision\"",
+            "bullets": [
+              "Mjällby's Elliot Stroud, 23, is clear. He does not want to hear about negotiations about a possible ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mjällby's Elliot Stroud, 23, is clear. He does not want to hear about negotiations about a possible move during the WC. - Afterwards we'll see what happens, he says.",
+            "fullText": "He does not want to hear about negotiations about a possible move during the WC.\n\nThe left-back was one of the outstanding players in Mjällby's gold-winning team last year and has so far stood for a strong spring season.\n\nWorld Cup winner Elliot Stroud is on a contract that extends to the end of the season and Aftonbladet recently reported foreign interest.\n\nSo how does he, who is in Dallas with the Swedish national team, handle such a thing during an ongoing championship?\n\n- Now it's not that much that reaches me like that. I am mostly focused on the WC and the days and weeks here. Afterwards you can see what happens. But there is nothing that takes the focus away from this task, he says.\n\nIs it you who chose to be like that, like calm during the WC?\n\n- Yes, but it is probably partly my decision. That you can have as much focus on this (WC) as possible and do it as well as I can. It is absolutely a lot.\n\nIt can possibly be interpreted as the agent should only get in touch if things are really hot.\n\n- Roughly so. So that there is not so much redundant information coming in as well.\n\nHe admits that he thrives in Mjällby and that he continues to develop in the environment. But.\n\n- It is clear that I feel ready to try something new. Then we will see if it will be in the summer, winter, in two or three years.\n\n- If it were to become something, it should be a team that believes in you. League, series or team does not matter much, but you must have a chance to compete for playing time.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1242_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Supports his girlfriend after the comments: \"There are always idiots\"",
+            "bullets": [
+              "Jesper Karlström and his girlfriend are expecting a child. They have been reached by condescending c...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jesper Karlström and his girlfriend are expecting a child. They have been reached by condescending comments. - I try to support her, says Blågult's midfielder.",
+            "fullText": "- I try to support her, says Blågult's midfielder.\n\nThe Udinese midfielder and girlfriend Josefin Rådestad are expected to become parents \"at any time\".\n\n- It can happen at any time really. It could be within a week or two. It is especially clear not being able to be there, says Jesper Karlström.\n\nJust. As Karlström is in Dallas for Sweden's preparations for the World Cup opener against Tunisia, he will miss the birth.\n\n- It's still okay, there are always idiots who write stuff. I don't care. It's more that you try to be there for her, if it would be difficult for her, he says.\n\nThe 30-year-old says that childbirth is of course on his mind.\n\n- It would be really crazy otherwise. You can call home as often as possible, but then my girlfriend has support at home with both my family and hers.\n\nThese are two dreams that you have always wanted to achieve, starting a family and playing in the WC. We still had time to prepare for a while and accepted the idea. It still feels safe.\n\nSweden's WC premiere is on June 15, 04.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1308_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish stars' words after Christian Eriksen's collapse: \"Getting scared\"",
+            "bullets": [
+              "Christian Eriksen föll ihop på planen. The blue-yellow WC stars were affected by the news. - You get...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Christian Eriksen föll ihop på planen. The blue-yellow WC stars were affected by the news. - You get scared and sad, says midfielder Jesper Karlström.",
+            "fullText": "- You get scared and sad, says midfielder Jesper Karlström.\n\nIt was in a training international match between Denmark and Ukraine that Christian Eriksen tied the knot on the grass. The match was suspended.\n\nThe news has of course reached the Swedish national team, which is currently in Dallas to load up for the World Cup opener against Tunisia.\n\n- It's clear that we all saw it, you get scared and sad when you read such news. When I read it, you could see that it had gone well, considering the circumstances, but of course it's not fun, says Jesper Karlström.\n\nThe 34-year-old, who spent the night at the hospital in Odense, has spoken out.\n\n\"I want everyone to know that I'm fine and with my family. As you can probably understand, the shock I received from my pacemaker played a big role for both me and my family, but I want to clarify that this was a completely different situation than what happened in 2021,\" writes the Dane on Instagram.\n\nDuring European Championship 2021, Eriksen suffered a cardiac arrest at the Park in Copenhagen, during a match.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1332_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "World Cup 2026 preview: Groups E-H | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Gro...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1On the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.In Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.Group G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?Chapters:00:00 - Coming up...01:22 Group E and group F26:25 Group G37:56 Sid Lowe joins to discuss Group H50:38 Quick fire roundGuardian Football Weekly podcast:Apple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007Spotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453Follow Guardian Football Weekly:Instagram ► https://www.instagram.com/guardian_footballweekly/TikTok ► https://www.tiktok.com/@guardian_footballweekly#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview Continue reading...",
+            "fullText": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.\n\nSubscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1\n\nOn the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.\n\nIn Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.\n\nGroup G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?\n\nApple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007\n\nSpotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453\n\nInstagram ► https://www.instagram.com/guardian_footballweekly/\n\nTikTok ► https://www.tiktok.com/@guardian_footballweekly\n\n#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 08:23:22 EDT",
+  "lastUpdated": "2026-06-09 @ 12:13:32 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
