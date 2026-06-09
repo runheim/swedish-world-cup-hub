@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Meet the philosopher-in-training who will be at the VAR monitor this World Cup",
+      "link": "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup"
+    },
+    {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
     }
@@ -1054,11 +1058,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3331_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Meet the philosopher-in-training who will be at the VAR monitor this World Cup",
+            "bullets": [
+              "Joe Dickerson is one of North America’s best referees, but he’ll be off the field in a high-pressure...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Joe Dickerson is one of North America’s best referees, but he’ll be off the field in a high-pressure position when the World Cup begins• Predict the winner | Daily podcast | Download our appJoe Dickerson never set out to be a referee. As a player, he was told that reffing would be to make money on the side, learn responsibility, and – more pertinent to his team – learn the sport and begin to understand it on a granular level.Those early assignments in the San Jose area have blossomed into a career that saw Dickerson honored as US Soccer’s male referee of the year in 2025. All of it has been driven by his ability to drill into details – something he’ll be doing a lot of as a VAR official in the replay booth for this summer’s World Cup. Continue reading...",
+            "fullText": "Joe Dickerson is one of North America’s best referees, but he’ll be off the field in a high-pressure position when the World Cup begins\n\nJoe Dickerson never set out to be a referee. As a player, he was told that reffing would be to make money on the side, learn responsibility, and – more pertinent to his team – learn the sport and begin to understand it on a granular level.\n\nThose early assignments in the San Jose area have blossomed into a career that saw Dickerson honored as US Soccer’s male referee of the year in 2025. All of it has been driven by his ability to drill into details – something he’ll be doing a lot of as a VAR official in the replay booth for this summer’sWorld Cup.\n\n“There was a time when early in my career – and part of this goes through today: I hate going to the monitor,” Dickerson told the Guardian. “I hate it because it means I’ve probably made a mistake and I want to be perfect on the field.”\n\nOver time, Dickerson has learned to stop worrying and, if not love, tolerate the monitor. And that’s a good thing. He’ll be dealing with it plenty in the VAR booth at stadiums around North America this summer.\n\nAs one of many officials worldwide observed by Fifa throughout the World Cup cycle, Dickerson was in contention for either center officiating or video work for the tournament. He’ll be a voice in the ear of the referee to notify them of contentious plays being checked. He’ll call up those replays to help the official. He said the same initial reluctance to use the monitor will help him get the tone right as he asks a game’s official to take a second look.\n\n“The vast majority of mistakes made at a World Cup by the best referees in the world are minor,” Dickerson said. “Well, minor’s the wrong word; they’re really difficult. They’re subtle, specific, or they were really hard to see. These are the ones that nobody ever faults referees for missing.”\n\nOutside his day job, Dickerson is working on his master’s degree at the University of Chicago. His thesis will be on Machiavelli’s political philosophy, and he expects to do a case study on how it relates to refereeing. The link may seem odd to some, but it is evident from his vantage point.\n\n“The short version is, I think Machiavelli makes a case for empathy and leadership through some hidden teachings in his otherwise very amoral pragmatism in his writing,” Dickerson said. “I also really like Nietzsche and Confucius. The reason I bring that up is because I think that a lot of these things that we learn in refereeing are very philosophical, and they can apply to many aspects of life.”\n\nIndeed, VAR has been at the center of a philosophical debate within soccer circles almost since its introduction. But that criticism has become more common in the last year, with a series of contentious momentsbecoming subplotsoftitle racesand battles ofpromotion and relegation. In February, Uefa’s director of refereeing warned that the process wasgetting “too microscopic”. By the end of the European club season, thePremier League had voted against extending VAR’s powerto include potential corner kicks, which will be part of this World Cup’s checks at Fifa’s request.\n\nDickerson sees the inherent differences between international and club football as working in the referees’ favor for this World Cup. In a league season, there are so many games over a series of months that any outliers will remain lightning rods.\n\n“All Fifa events, and specifically the World Cups, are unique in that they are tournaments,” Dickerson said, “and they are highly visible, very short tournaments.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3331_1",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026 preview: Groups E-H | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Gro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1On the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.In Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.Group G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?Chapters:00:00 - Coming up...01:22 Group E and group F26:25 Group G37:56 Sid Lowe joins to discuss Group H50:38 Quick fire roundGuardian Football Weekly podcast:Apple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007Spotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453Follow Guardian Football Weekly:Instagram ► https://www.instagram.com/guardian_footballweekly/TikTok ► https://www.tiktok.com/@guardian_footballweekly#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview Continue reading...",
+            "fullText": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.\n\nSubscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1\n\nOn the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.\n\nIn Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.\n\nGroup G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?\n\nApple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007\n\nSpotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453\n\nInstagram ► https://www.instagram.com/guardian_footballweekly/\n\nTikTok ► https://www.tiktok.com/@guardian_footballweekly\n\n#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 12:13:30 EDT",
+  "lastUpdated": "2026-06-09 @ 14:33:45 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
