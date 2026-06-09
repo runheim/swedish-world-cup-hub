@@ -831,22 +831,22 @@ const MATCH_REPORTS_DATABASE = {
   "match_germany": {
     score: "1 - 2",
     scorers: "🇺🇸 Robinson (37') | 🇩🇪 Havertz (2'), Sané (57')",
-    report: "A spectacular send-off victory at Soldier Field! Folarin Balogun opened the scoring with a clinical first-half strike. Germany equalized through Florian Wirtz's thunderous shot, but Timothy Weah sealed a memorable win with a pacey counter-attack goal in the 71st minute. The crowd of 62,000 gave the squad a rousing farewell.",
+    report: "A tough 1-2 defeat at a packed Soldier Field in Chicago. Germany struck early in the 2nd minute when Kai Havertz headed in the opener, catching the U.S. defense off-guard. The USMNT responded brilliantly as Antonee Robinson equalized in the 37th minute with a spectacular volleyed finish. However, Leroy Sané restored Germany's lead in the 57th minute after a sharp transition sequence. Despite late pressure from Mauricio Pochettino's side, Germany held on for the win in this final World Cup send-off match.",
     ratings: [
-      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Sharp reflexes, made a key save before Wirtz's goal.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 7.5, comment: "Excellent against his Bundesliga rivals, dominant aerially.", isMotm: false },
-      { name: "Cameron Carter-Vickers", role: "CB", rating: 7.0, comment: "Solid positioning, read German passing patterns well.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.5, comment: "Impressive attacking contribution, delivered a key assist.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 8.0, comment: "Stellar midfield anchor, broke up German transitions.", isMotm: false },
-      { name: "Weston McKennie", role: "CM", rating: 7.5, comment: "Combative display, covered enormous ground.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Relentless engine down the left flank.", isMotm: false },
-      { name: "Timothy Weah", role: "RW", rating: 8.5, comment: "Explosive pace. Scored the winning goal on a blistering counter-attack.", isMotm: true },
-      { name: "Christian Pulisic", role: "LW", rating: 7.5, comment: "Captain's display. Directed the press and created chances.", isMotm: false },
-      { name: "Folarin Balogun", role: "ST", rating: 8.0, comment: "Clinical first-half finish, strong hold-up play throughout.", isMotm: false }
+      { name: "Matt Turner", role: "GK", rating: 6.0, comment: "Conceded twice, made a few decent saves but was caught slightly out of position on the opening header.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 6.5, comment: "Fought hard defensively but had difficulty tracking Germany's quick transition runs.", isMotm: false },
+      { name: "Cameron Carter-Vickers", role: "CB", rating: 6.0, comment: "Had some composed moments but struggled against Germany's fluid front line.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 6.5, comment: "Active down the right flank, though was caught out of position defensively on the winning goal.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 6.5, comment: "Broke up several German attacks, but was involved in the sequence leading to the second goal.", isMotm: false },
+      { name: "Weston McKennie", role: "CM", rating: 6.5, comment: "Solid physical presence in midfield, though quieter than usual in offensive link-ups.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 8.0, comment: "Scored a stunning volley to equalize and was the most dangerous outlet for the US. Man of the Match.", isMotm: true },
+      { name: "Timothy Weah", role: "RW", rating: 6.5, comment: "Had a few burst runs down the wing, but found it tough to penetrate Germany's compact defense.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 6.5, comment: "Showed flashes of creativity and work rate, but was well-monitored by German defenders.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 6.0, comment: "Isolated for long stretches against Germany's solid central defense and had few clear chances.", isMotm: false }
     ],
     preview: {
       tactical: "The official Send-Off Match at Soldier Field! A marquee test against Germany to finalize tactical patterns before the World Cup.",
-      keyStat: "USA beat Germany 2-0 in their last World Cup meeting (2014 group stage in Brazil)."
+      keyStat: "Germany won the last meeting between the two sides 3-1 in a friendly back in October 2023."
     }
   },
   "match_paraguay": {preview: {
