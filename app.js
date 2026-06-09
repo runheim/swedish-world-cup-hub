@@ -793,7 +793,7 @@ const MATCH_REPORTS_DATABASE = {
   "match_nz": {
     score: "1 - 0",
     scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (45+1')",
-    report: "A solid opening warm-up victory for England at a sunny Wembley! Testing out the fluid 4-2-3-1 system, the Three Lions dominated possession. Harry Kane opened the scoring, finishing a low cross from Phil Foden. Substitute Cole Palmer secured the 2-0 win with a composed strike in the 78th minute.",
+    report: "A solid warm-up victory for England in Florida! Testing out the fluid 4-2-3-1 system, the Three Lions dominated possession. Harry Kane scored the only goal of the game with a clinical header in first-half stoppage time, finishing a precise cross. Despite extensive rotation in the second half, England kept a clean sheet and secured a 1-0 win to kick off their pre-tournament preparations.",
     ratings: [
       { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Had a quiet night, claimed high crosses with absolute security.", isMotm: false },
       { name: "John Stones", role: "CB", rating: 7.5, comment: "Stepped forward into midfield spaces beautifully, recycling play cleanly.", isMotm: false },
