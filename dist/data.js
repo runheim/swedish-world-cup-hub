@@ -16,10 +16,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ ‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
-      "link": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw"
-    },
-    {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
     },
@@ -2771,11 +2767,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2319_0",
+            "category": "england",
+            "type": "News",
+            "title": "Wolves sign Trippier and in Jimenez talks",
+            "bullets": [
+              "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer.",
+            "fullText": "Raul Jimenez was among the scorers in a 5-1 win against Serbia in Mexico's final World Cup warm-up match on Friday\n\nWolves have signed former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer.\n\nTrippierleft Newcastle at the end of the seasonwhen his contract expired and has signed a two-year deal at Molineux.\n\nThe 35-year-old played 160 times for Newcastle after joining from Atletico Madrid in January 2022, and made 54 appearances for England between 2017 and 2024.\n\n\"We know what we've lacked this year, and we know what we need next year - experience, leadership, resilient characters and strong characters,\" saidhead coach Rob Edwards,external.\n\n\"That's what we're going to need in abundance, and Tripps ticks every box.\"\n\nJimenez, 35, was listed by Fulham on Monday among a group of players set to leave the Premier League club when his contract expires at the end of the month.\n\nIt is understood negotiations have begun over a return to Molineux, where he scored 57 goals in 166 games between 2018 and 2023.\n\nHis 40 Premier League goals make him Wolves' top scorer in the English top flight.\n\nJimenez is on international duty with World Cup hosts Mexico, who begin the tournament against South Africa on Thursday.\n\nWolves are looking to rebuild after finishing bottom of the Premier League last season and being relegated to the Championship.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2319_1",
+            "category": "england",
+            "type": "News",
+            "title": "Palmer and Joao Pedro feature in Madonna video",
+            "bullets": [
+              "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Mad...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Madonna's new album.",
+            "fullText": "Joao Pedro (left) and Cole Palmer will not feature at this summer's World Cup\n\nChelseaforwards Cole Palmer and Joao Pedro swapped the football pitch for the movie set as they made a surprise appearance in a promotional film for pop star Madonna's new album.\n\nPalmer and Joao Pedro, who were left out of the England and Brazil World Cup squads respectively, are among the high-profile names included in Confessions II - The Film.\n\nThe 14-minute video was unveiled by Madonna at the Tribeca Festival in New York on Friday and uploaded to her YouTube channel on Monday.\n\nPalmer and Joao Pedro appear about six minutes into the video when they are approached by Madonna while at a urinal.\n\nAward-winning British actor Benedict Cumberbatch features later in the film.\n\nPalmer missed out on England's 26-man squad for the World Cup in the US, Canada and Mexico after a season affected by injuries.\n\nJoao Pedro was overlooked by Brazil despite scoring 20 goals in all competitions in his first season atChelsea.\n\nSeven-time Grammy winner Madonna is a regular watcher ofChelsea's men's and women's teams and was at Stamford Bridge in October when the men's side beatLiverpool2-1 in the Premier League.\n\nLast month she was among the celebrities who launchedChelsea's new home kit for the 2026-27 season when she appeared in a Twitch stream alongside British influencer Gymskin.\n\nMadonna's new album - Confessions On A Dance Floor: Part II - will be released on 3 July.\n\nMadonna and her partner Akeem Morris attended Chelsea's Women's Super League match against Tottenham in February",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2319_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford 'dead cert to start for me' - Walcott",
+            "bullets": [
+              "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at the World Cup.",
+            "fullText": "Marcus Rashford has scored 18 goals in 71 England appearances\n\nFormer England winger Theo Walcott says Marcus Rashford is the Three Lions player he is \"most psyched about\" at the upcoming World Cup.\n\nRashford was left out of Gareth Southgate's Euro 2024 squad and did not play for his country for 12 months between March 2024 and 2025.\n\nRe-introduced by Thomas Tuchel, he has featured in every Three Lions squad under the German other than in June 2025 when a hamstring injury ruled him out.\n\nA loan spell at Barcelona, where he scored 14 goals and registered 14 assists in 47 games for the La Liga champions, has revitalised the 28-year-old Manchester United forward's career.\n\nHe startedEngland's 1-0 friendly winover New Zealand on Saturday and while Tuchel said there were \"no hidden messages\" within his first-half line-up, Walcott believes Rashford has to start at the World Cup.\n\n\"Rashford this year has been outstanding,\" Walcott said on The Wayne Rooney Show.\n\n\"I've watched him quite a lot. I found the love of watching Barcelona again and took more of an interest with Rashford going out there. It's been great for him.\n\n\"He would be a dead cert to start for me. The way he's played, that freedom, that enjoyment. We want to see that smile.\"\n\nRashford was England's bright spark in the first half against New Zealand, creating five chances.\n\n\"Rashford's going to be a major part of this tournament,\" Walcott added. \"I'm looking forward to watching him. Out of all the players, I'm most psyched about him.\n\n\"I think he's brave to go abroad - it's great when English players go. I wasn't brave enough, but for him to do that shows good character.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2319_3",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 preview: Groups E-H | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Gro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1On the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.In Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.Group G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?Chapters:00:00 - Coming up...01:22 Group E and group F26:25 Group G37:56 Sid Lowe joins to discuss Group H50:38 Quick fire roundGuardian Football Weekly podcast:Apple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007Spotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453Follow Guardian Football Weekly:Instagram ► https://www.instagram.com/guardian_footballweekly/TikTok ► https://www.tiktok.com/@guardian_footballweekly#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview Continue reading...",
+            "fullText": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.\n\nSubscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1\n\nOn the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.\n\nIn Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.\n\nGroup G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?\n\nApple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007\n\nSpotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453\n\nInstagram ► https://www.instagram.com/guardian_footballweekly/\n\nTikTok ► https://www.tiktok.com/@guardian_footballweekly\n\n#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2320_4",
+            "category": "england",
+            "type": "News",
+            "title": "Ally Pally heroes Lim, Sakai, Leung and Kumar in World Cup of Darts action",
+            "bullets": [
+              "The World Cup of Darts is just around the corner and there will be some hidden gems taking part in F...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The World Cup of Darts is just around the corner and there will be some hidden gems taking part in Frankfurt from June 11-14, live on Sky Sports.",
+            "fullText": "Outside the top four seeded teams at the World Cup of Darts, there are some darting legends taking part who delighted crowds at Alexandra Palace over the years;you can watch the World Cup of Darts live on Sky Sports in Frankfurt from June 11-14",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 06:45:57 EDT",
+  "lastUpdated": "2026-06-09 @ 08:23:28 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
