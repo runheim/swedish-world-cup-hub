@@ -1558,6 +1558,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Who took my boots?! Not funny guys.",
       "time": "13:34",
       "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "18:01",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Just watched the film from training. We look sharp.",
+      "time": "18:02",
+      "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "18:03",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Early night for me. Big day tomorrow.",
+      "time": "18:04",
+      "isCaptain": true
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Anyone else still jetlagged?",
+      "time": "18:05",
+      "isCaptain": false
     }
   ]
 };
