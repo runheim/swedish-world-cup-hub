@@ -8,28 +8,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c70yz917vkko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Palmer and Joao Pedro feature in Madonna video",
+      "link": "https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Rashford 'dead cert to start for me' - Walcott",
       "link": "https://www.bbc.com/sport/football/articles/c07yepr7xj0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Bellingham has fight to start for England - Tuchel",
-      "link": "https://www.bbc.com/sport/football/articles/clyel3mxryvo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
-      "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Inside the fairytale journey of Scotland captain Robertson",
-      "link": "https://www.bbc.com/sport/football/articles/cdep137k1z5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ ‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
       "link": "https://www.theguardian.com/football/2026/jun/08/djed-spence-england-world-cup-broken-jaw"
     },
     {
-      "text": "⚽ How to win the World Cup – video explainer",
-      "link": "https://www.theguardian.com/football/video/2026/jun/08/how-to-win-the-world-cup-video-explainer"
+      "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
+      "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
+    },
+    {
+      "text": "⚽ Ally Pally heroes Lim, Sakai, Leung and Kumar in World Cup of Darts action",
+      "link": "https://www.skysports.com/darts/news/12040/13551189/world-cup-of-darts-2026-players-to-watch-with-paul-lim-motomu-sakai-man-lok-leung-and-nitin-kumar-in-action"
     }
   ],
   "timeline": {
@@ -2666,10 +2662,120 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-09": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4550_0",
+            "category": "england",
+            "type": "News",
+            "title": "Wolves sign Trippier and in Jimenez talks",
+            "bullets": [
+              "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wolves sign former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer.",
+            "fullText": "Raul Jimenez was among the scorers in a 5-1 win against Serbia in Mexico's final World Cup warm-up match on Friday\n\nWolves have signed former England full-back Kieran Trippier and are in talks to re-sign former striker Raul Jimenez on a free transfer.\n\nTrippierleft Newcastle at the end of the seasonwhen his contract expired and has signed a two-year deal at Molineux.\n\nThe 35-year-old played 160 times for Newcastle after joining from Atletico Madrid in January 2022, and made 54 appearances for England between 2017 and 2024.\n\n\"We know what we've lacked this year, and we know what we need next year - experience, leadership, resilient characters and strong characters,\" saidhead coach Rob Edwards,external.\n\n\"That's what we're going to need in abundance, and Tripps ticks every box.\"\n\nJimenez, 35, was listed by Fulham on Monday among a group of players set to leave the Premier League club when his contract expires at the end of the month.\n\nIt is understood negotiations have begun over a return to Molineux, where he scored 57 goals in 166 games between 2018 and 2023.\n\nHis 40 Premier League goals make him Wolves' top scorer in the English top flight.\n\nJimenez is on international duty with World Cup hosts Mexico, who begin the tournament against South Africa on Thursday.\n\nWolves are looking to rebuild after finishing bottom of the Premier League last season and being relegated to the Championship.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4550_1",
+            "category": "england",
+            "type": "News",
+            "title": "Palmer and Joao Pedro feature in Madonna video",
+            "bullets": [
+              "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Mad...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea forwards Cole Palmer and Joao Pedro make a surprise appearance in a promotional film for Madonna's new album.",
+            "fullText": "Joao Pedro (left) and Cole Palmer will not feature at this summer's World Cup\n\nChelseaforwards Cole Palmer and Joao Pedro swapped the football pitch for the movie set as they made a surprise appearance in a promotional film for pop star Madonna's new album.\n\nPalmer and Joao Pedro, who were left out of the England and Brazil World Cup squads respectively, are among the high-profile names included in Confessions II - The Film.\n\nThe 14-minute video was unveiled by Madonna at the Tribeca Festival in New York on Friday and uploaded to her YouTube channel on Monday.\n\nPalmer and Joao Pedro appear about six minutes into the video when they are approached by Madonna while at a urinal.\n\nAward-winning British actor Benedict Cumberbatch features later in the film.\n\nPalmer missed out on England's 26-man squad for the World Cup in the US, Canada and Mexico after a season affected by injuries.\n\nJoao Pedro was overlooked by Brazil despite scoring 20 goals in all competitions in his first season atChelsea.\n\nSeven-time Grammy winner Madonna is a regular watcher ofChelsea's men's and women's teams and was at Stamford Bridge in October when the men's side beatLiverpool2-1 in the Premier League.\n\nLast month she was among the celebrities who launchedChelsea's new home kit for the 2026-27 season when she appeared in a Twitch stream alongside British influencer Gymskin.\n\nMadonna's new album - Confessions On A Dance Floor: Part II - will be released on 3 July.\n\nMadonna and her partner Akeem Morris attended Chelsea's Women's Super League match against Tottenham in February",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4550_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford 'dead cert to start for me' - Walcott",
+            "bullets": [
+              "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England winger Theo Walcott is \"most psyched\" about Marcus Rashford for the Three Lions at the World Cup.",
+            "fullText": "Marcus Rashford has scored 18 goals in 71 England appearances\n\nFormer England winger Theo Walcott says Marcus Rashford is the Three Lions player he is \"most psyched about\" at the upcoming World Cup.\n\nRashford was left out of Gareth Southgate's Euro 2024 squad and did not play for his country for 12 months between March 2024 and 2025.\n\nRe-introduced by Thomas Tuchel, he has featured in every Three Lions squad under the German other than in June 2025 when a hamstring injury ruled him out.\n\nA loan spell at Barcelona, where he scored 14 goals and registered 14 assists in 47 games for the La Liga champions, has revitalised the 28-year-old Manchester United forward's career.\n\nHe startedEngland's 1-0 friendly winover New Zealand on Saturday and while Tuchel said there were \"no hidden messages\" within his first-half line-up, Walcott believes Rashford has to start at the World Cup.\n\n\"Rashford this year has been outstanding,\" Walcott said on The Wayne Rooney Show.\n\n\"I've watched him quite a lot. I found the love of watching Barcelona again and took more of an interest with Rashford going out there. It's been great for him.\n\n\"He would be a dead cert to start for me. The way he's played, that freedom, that enjoyment. We want to see that smile.\"\n\nRashford was England's bright spark in the first half against New Zealand, creating five chances.\n\n\"Rashford's going to be a major part of this tournament,\" Walcott added. \"I'm looking forward to watching him. Out of all the players, I'm most psyched about him.\n\n\"I think he's brave to go abroad - it's great when English players go. I wasn't brave enough, but for him to do that shows good character.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4550_3",
+            "category": "england",
+            "type": "News",
+            "title": "‘Luckily I play with my feet’: Spence talks up World Cup hopes despite broken jaw",
+            "bullets": [
+              "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effortIn the disorientation of the moment, as Djed Spence lay on the turf, the pain radiating from the left side of his jaw, it was tempting to wonder what flashed through his mind. The Tottenham full-back had been cleaned out by the elbow of Chelsea’s Liam Delap in the closing stages of the penultimate game of the Premier League season. Spence had eyes only for the high ball while Delap looked directly at his opponent before spinning and throwing out his left arm.For starters, there had to be surprise that Delap was not sent off. “Yeah, it was a crazy challenge,” Spence says. What about his involvement in Spurs’ final match of their relegation battle at home against Everton? And beyond that, the World Cup? Did he fear it might be all over for him? Continue reading...",
+            "fullText": "England defender getting used to protective brace and hopeful of contributing to Tuchel’s tournament effort\n\nIn the disorientation of the moment, as Djed Spence lay on the turf, the pain radiating from the left side of his jaw, it was tempting to wonder what flashed through his mind. The Tottenham full-back had been cleaned out by the elbow of Chelsea’s Liam Delap in the closing stages of the penultimate game of the Premier League season. Spence had eyes only for the high ball while Delap looked directly at his opponent before spinning and throwing out his left arm.\n\nFor starters, there had to be surprise that Delap was not sent off. “Yeah, it was a crazy challenge,” Spence says. What about his involvement in Spurs’ final match of their relegation battleat home against Everton? And beyond that, the World Cup? Did he fear it might be all over for him?\n\nPerhaps Spence did not realise he had broken his jaw because he picked himself up and played on until the end ofSpurs’ 2-1 defeat– a result that meant they had to get at least a draw against Everton to stay up. Or maybe his competitive courage overrode everything. But Spence’s answer is certainly a good one; revealing, too. He was not worried about anything. “No, not really,” he says. “It was painful but luckily I play football with my feet and not my jaw. So I was all good.”\n\nSpence is in the US with the England squad, looking ahead to Wednesday’s final warm-up game against Costa Rica in Orlando and the opening World Cup group matchversus Croatia in Dallason the Wednesday after that. He has made it with the assistance of a protective jaw brace. The 25-year-old wore it against Everton as Spurs won 1-0 to avoid the unthinkable. He wore itagainst New Zealand in England’s first warm-up friendlyon Saturday in Tampa; another 1-0 win, Spence setting up the goal with a perfect cross for Harry Kane. And he will continue to wear it in matches for the duration of the summer. He remains supremely unruffled.\n\n“It’s a little bit uncomfortable but it is what it is,” Spence says. “I’ve got a broken jaw so I have to wear it throughout the tournament. It’s something I will have to get used to. It’ll be three months until it’s fully healed, so it’s a long time. I’ve been wearing it in training, getting used to it in the heat and just trying to fit in it properly, break it in.”\n\nSpence’s selection by Thomas Tuchel was met with surprise in some quarters. Why did the manager not prefer Myles Lewis-Skelly or Lewis Hall at left-back? Or even Luke Shaw? But Tuchel has picked Spence in each one of his squads this season. Lewis-Skelly was in the two at the outset, Hall the one in March. Tuchel has never selected Shaw.\n\nTuchel likes Spence for reasons that go beyond his toughness. Spence is the fastest player in theWorld Cupsquad. He is excellent in defensive one-on-ones. And then there is his versatility; Spence is a right-back by trade but he has been repurposed by Spurs on the left side in the past two seasons. Tuchel has Reece James and Tino Livramento as his main right-backs but both have had fitness issues.\n\n“I’m naturally a right-back, but I’ve been playing left-back for a couple of years now,” Spence says. “I’m still learning the position, still trying to get better, but versatility is a good strength to have. I haven’t played on the right for a long time, but it’s still a strong position for me and hopefully I might be out there on the right in this tournament. But, if not, I’m happy to be there on the left. It’s my position now.”\n\nSpence played well against New Zealand and he picked a good time to produce his first assist of the season in his 48th game for club and country. He is also yet to score and he knows he must do more in attacking terms. “Yeah, definitely,” he admits. “Everyone knows how good I am one v one but going forward is a bit different playing on the left because it’s not my natural side going forward. There’s still stuff I can improve on and I’ve got to try to get more numbers.”\n\nSpence is not a guy to hide his light under a bushel and he has joked on social media about how he has locked up opposing wingers. Arsenal turned the tables on him after their derby win at Spurs in February, posting a video of Spence being dispossessed by Bukayo Saka and Cristhian Mosquera with the caption “locked up” and a padlock emoji. Spence retaliated after Arsenal’s Champions League penalty shootout defeat against Paris Saint-Germain, replying to their three-month-old post with the eyes emoji and one for an open padlock.\n\nSaka and Arsenal’s otherEnglandplayers Declan Rice, Noni Madueke and Eberechi Eze joined up with the squad on Saturday night, having been given the week off after the PSG gamefinal. Did Spence expect a bit back from them? “No,” he says. “No jokes, no jokes. We have to focus on the tournament and hopefully it’s going to be a good one. We can joke afterwards.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4550_4",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026 preview: Groups E-H | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Gro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1On the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.In Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.Group G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?Chapters:00:00 - Coming up...01:22 Group E and group F26:25 Group G37:56 Sid Lowe joins to discuss Group H50:38 Quick fire roundGuardian Football Weekly podcast:Apple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007Spotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453Follow Guardian Football Weekly:Instagram ► https://www.instagram.com/guardian_footballweekly/TikTok ► https://www.tiktok.com/@guardian_footballweekly#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview Continue reading...",
+            "fullText": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.\n\nSubscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1\n\nOn the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.\n\nIn Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.\n\nGroup G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?\n\nApple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007\n\nSpotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453\n\nInstagram ► https://www.instagram.com/guardian_footballweekly/\n\nTikTok ► https://www.tiktok.com/@guardian_footballweekly\n\n#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4550_5",
+            "category": "england",
+            "type": "News",
+            "title": "Ally Pally heroes Lim, Sakai, Leung and Kumar in World Cup of Darts action",
+            "bullets": [
+              "The World Cup of Darts is just around the corner and there will be some hidden gems taking part in F...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The World Cup of Darts is just around the corner and there will be some hidden gems taking part in Frankfurt from June 11-14, live on Sky Sports.",
+            "fullText": "Outside the top four seeded teams at the World Cup of Darts, there are some darting legends taking part who delighted crowds at Alexandra Palace over the years;you can watch the World Cup of Darts live on Sky Sports in Frankfurt from June 11-14",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-08 @ 19:04:29 EDT",
+  "lastUpdated": "2026-06-09 @ 06:45:57 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
