@@ -8,10 +8,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/isak-hien-om-stoppade-vm-domaren-det-ar-trakigt"
     },
     {
-      "text": "⚽ Lionesses ease past Ukraine but must navigate playoffs to qualify for World Cup",
-      "link": "https://www.theguardian.com/football/2026/jun/09/enlgand-ukraine-womens-world-cup-2027-qualifying-match-report"
-    },
-    {
       "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
     }
@@ -1596,11 +1592,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0542_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien about stopping the WC referee: \"It's boring\"",
+            "bullets": [
+              "Soccer referee Omar Artan was stopped from entering the United States. Something that resonated. - I...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Soccer referee Omar Artan was stopped from entering the United States. Something that resonated. - It's boring, of course, says national team star Isak Hien.",
+            "fullText": "Soccer referee Omar Artan was stopped from entering the United States.\n\n- It's boring, of course, says national team star Isak Hien.\n\nHear Isak Hien's thoughts on the stopped WC referee in the video above: \"I can imagine it's a dream for him\".\n\nIt was in the days that referee Omar Artan tried to get to the USA to work during the World Cup.\n\nHe has previously had difficulty obtaining a visa prior to entry, but managed to obtain a diplomatic passport with the help of the Somali embassy. However, the referee was stopped and had to turn around at passport control, according to AFP.\n\nFifa has previously announced that it stands behind the US decision to reject Artan.\n\n\"Fifa is not involved in the host country's immigration processes, including visa examinations, and has been informed by the authorities that Artan's status will not change at this time. In accordance with previous Fifa events, it is ultimately the host country's government that decides who is granted a visa and who is allowed into the country,\" writes Fifa in a statement according to NBC News.\n\nOmar Artan was named Africa's best referee in 2025.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0544_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "World Cup 2026 preview: Groups E-H | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Gro...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.Subscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1On the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.In Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.Group G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?Chapters:00:00 - Coming up...01:22 Group E and group F26:25 Group G37:56 Sid Lowe joins to discuss Group H50:38 Quick fire roundGuardian Football Weekly podcast:Apple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007Spotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453Follow Guardian Football Weekly:Instagram ► https://www.instagram.com/guardian_footballweekly/TikTok ► https://www.tiktok.com/@guardian_footballweekly#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview Continue reading...",
+            "fullText": "Max Rushden is joined by Barry Glendenning, Jonathan Wilson, Paul Watson and Sid Lowe to preview Groups E-H.\n\nSubscribe to The Guardian Football Weekly ► https://www.youtube.com/@FootballWeeklyPodcast?sub_confirmation=1\n\nOn the podcast today; the second of our World Cup previews. We begin at Group E. A group that features Germany, Ecuador, Ivory Coast and Curaçao. It also features a 40-year-old goalkeeper and a 78-year-old manager. The panel debate whether Germany’s recent poor performances at major tournaments qualifies them as dark horses and what we can expect from debutants Curaçao.\n\nIn Group F, are the Netherlands very good actually or will there be a time-honoured implosion? Can Japan maintain their dark horse status without Kaoru Mitoma? Tunisia and Graham Potter’s Sweden also feature.\n\nGroup G looks straightforward for Belgium as they take on Egypt, Iran and New Zealand. And then finally to Group D, as Sid Lowe joins to discuss Spain. They line up against Uruguay, Cape Verde and Saudi Arabia. Are Spain the favourites?\n\nApple ► https://podcasts.apple.com/gb/podcast/football-weekly/id188674007\n\nSpotify ► https://open.spotify.com/show/6w8qWe0kjgHEHSWDSDGoLW?si=231c666f7f5a4453\n\nInstagram ► https://www.instagram.com/guardian_footballweekly/\n\nTikTok ► https://www.tiktok.com/@guardian_footballweekly\n\n#footballweekly #football #sport #fifa #worldcup #worldcup2026 #worldcuppreview",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 17:24:28 EDT",
+  "lastUpdated": "2026-06-09 @ 19:05:44 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
