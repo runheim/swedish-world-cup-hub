@@ -8,7 +8,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England v Costa Rica: World Cup 2026 warm-up delayed by storm – live",
+      "text": "⚽ England v Costa Rica: World Cup 2026 warm-up – live",
       "link": "https://www.theguardian.com/football/live/2026/jun/10/england-v-costa-rica-world-cup-2026-warm-up-live"
     },
     {
@@ -3256,11 +3256,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2726_0",
+            "category": "england",
+            "type": "News",
+            "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
+            "bullets": [
+              "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
+            "fullText": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup\n\nWhen Glenn Hoddle's England started their World Cup campaign in France in 1998, Thomas Tuchel was still working a student job at a bar in Stuttgart.\n\nAlmost 30 years later, Tuchel is now the England manager tasked with doing what Hoddle and so many others failed to do - win the World Cup for the Three Lions.\n\nThe 52-year-old German is known as one of the game's keenest minds, a coach obsessed with detail and blessed with a special gift for analysis.\n\nIt is hard to imagine that in the late 1990s, Tuchel was working at the wildest parties in Stuttgart and hanging out with some of Germany's biggest hip-hop stars.\n\nYet it was there, having almost given up on football entirely, that Tuchel began his journey to World Cup management.\n\nLast year, respected German coach Ralf Rangnick recalled the story of how he launched Tuchel's career as a coach.\n\n\"When I found out that he was working in a bar in Stuttgart to earn his living, I could hardly believe it,\" Rangnicktold the BBC,externalin an interview with former Germany and Aston Villa midfielder Thomas Hitzlsperger.\n\n\"I called him and I said, 'what are you doing?' He said 'I have to earn my living there'. I said to him, 'Thomas, please, why don't you come to us in Stuttgart and work as a youth-team coach?'\n\n\"I brought him together with the academy director and that's how his coaching career started.\"\n\nFrom bartender to England manager - Rangnick reflects on Tuchel's journey\n\nTuchel had played under Rangnick at SSV Ulm and the two had long admired each other.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2726_1",
+            "category": "england",
+            "type": "News",
+            "title": "England v Costa Rica: World Cup 2026 warm-up – live",
+            "bullets": [
+              "Storm delays friendly: kick-off 10pm BST, 5pm EDTPlayer guide | Bracketology | Wallchart | Mail Scot...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Storm delays friendly: kick-off 10pm BST, 5pm EDTPlayer guide | Bracketology | Wallchart | Mail ScottEngland: Pickford, Konsa, O’Reilly, Stones, James, Rice, Anderson, Bellingham, Gordon, Madueke, Kane.Subs: D Henderson, Guehi, Saka, Rashford, Livramento, J Henderson, Burn, Mainoo, Rogers, Watkins, Eze, Toney, Spence, Quansah, Trafford.Costa Rica: Sequeira, Johnson, Mitchell, Faerron, Araya, Salazar, Carlos Mora, Galo, Soto, Alcocer, Ugalde.Subs: Bayron Mora, Madriz, Peraza, Ruiz, Nunez, Flores, Sinclair, Quiros, Rodriguez. Continue reading...",
+            "fullText": "58 min:Sequeira appears to have pulled something while drop-kicking upfield. On comes the doctor.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2727_2",
+            "category": "england",
+            "type": "News",
+            "title": "Carragher fears over Bellingham’s England role at World Cup",
+            "bullets": [
+              "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate ai...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate airwaves” this summer.",
+            "fullText": "Jamie Carragher on Jude Bellingham's England role: \"I don't think Jude Bellingham is going to start the first game, I'd be surprised if he does. He hasn't had a great season, he's had his injuries but that will be really interesting to see how the tournament goes on\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 15:55:41 EDT",
+  "lastUpdated": "2026-06-10 @ 18:27:33 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
