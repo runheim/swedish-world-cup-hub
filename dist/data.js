@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Folarin Balogun is the USMNT’s focal point, whether he’s getting touches or not",
-      "link": "https://www.theguardian.com/football/2026/jun/10/folarin-balogun-usmnt-world-cup"
+      "text": "⚽ Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
+      "link": "https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not"
     }
   ],
   "timeline": {
@@ -1159,11 +1159,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5601_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
+            "bullets": [
+              "The men’s head coach discusses his ‘American dream’ at the World Cup and tempering the host nation’s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The men’s head coach discusses his ‘American dream’ at the World Cup and tempering the host nation’s ‘arrogant’ expectationsThis American dream begins in small-town Murphy, Santa Fe. That’s Santa Fe, Argentina, at a little club where the old folk played bochas, a kind of boules, and they had one of the few colour television sets. It was 1978, Mauricio Pochettino was six years old and he can see it perfectly, still feel the meaning of it all.“I lived in a prefab with my grandmother and my older brother because my parents were off working the land, then at the weekend we would go to the club,” he says. “There were three courts and I remember standing there, hanging on to my dad’s pocket, watching the World Cup. The ticker-tape at River [Plate], that image engraved. Passarella, Ardiles, Luque, Bertoni, Kempes, Fillol, Tarantini … my heroes.” Continue reading...",
+            "fullText": "The men’s head coach discusses his ‘American dream’ at the World Cup and tempering the host nation’s ‘arrogant’ expectations\n\nThis American dream begins in small-town Murphy, Santa Fe. That’s Santa Fe, Argentina, at a little club where the old folk playedbochas, a kind of boules, and they had one of the few colour television sets. It was 1978,Mauricio Pochettinowas six years old and he can see it perfectly, still feel the meaning of it all.\n\n“I lived in a prefab with my grandmother and my older brother because my parents were off working the land, then at the weekend we would go to the club,” he says. “There were three courts and I remember standing there, hanging on to my dad’s pocket, watching theWorld Cup. The ticker-tape at River [Plate], that image engraved. Passarella, Ardiles, Luque, Bertoni, Kempes, Fillol, Tarantini … my heroes.”\n\nThere’s a smile. “I lived near Ossie Ardiles in north London and I always told him: ‘You were my idol.’ He says: ‘Bah, you don’t remember that; you were too small. I say: ‘Bloody hell, Ossie!’ Whenever I’m with him I think: ‘Wow, here I am with a world champion. Me, from Murphy, and a world champion.’ That’s for ever.”\n\nAnd now, all that hope, that meaning, a whole country watching. Mauricio from Murphy, the head coach of the United States of America, World Cup co-hosts. “Well, if you think of it like that,” Pochettino says, “it’s very hard to sleep at night.”\n\nSitting in the morning sunshine stirring a coffee, Pochettino is engaging, entertaining company and doesn’t seem like a man who has trouble sleeping. “From the day we accepted this challenge, we took that responsibility as motivation, energy,” he says. “And no one sees the US as a [contender]. But you analyse other World Cups and think: ‘Why not?’ Being hosts can create synergy with the people, a support players feel. Let it give us the freedom to fly. Why not?\n\n“Sometimes,” he says, laughing, of the reasons why, “you’re in the US tracksuit and people say: ‘What sport do you guys play?’ ‘Soccer.’ ‘Soccer, but what …?’ ‘The US national team.’ ‘Ah.’ ‘We’re preparing [for] the World Cup.’ ‘Oh, OK.’”\n\nSo why take it on? Pochettino grins at his assistant Jesús Pérez, sitting to his right. “So that they know who we are! Jesús likes to say: ‘We’re masked heroes,’” Pochettino replies, cracking up again. “No, no. Because we like the challenge.\n\n“After Chelseawe thought: ‘A World Cup is something we’re missing’. And just then the US appears, other national teams too. This challenge is special, and being hosts is part of that. It was a good moment to get out of our comfort zone. How do you prepare a national team? How do you work with little time, in a demanding country, in a cultural idiosyncrasy that’s different? How do you change things? It’s soccer, not football. If you don’t understand that, you’re going to bash your head against the wall.\n\n“You gather the staff, talk, find out how people think culturally, how we can help. We get together, talk. We always said we’re not going to educate, to impose. We’ll bring our experience but we went to create something together that we all feel part of.”\n\nThe idea remains of the World Cup as an opportunity not just for the team but the game, a shift in sporting culture; the coach as agent of change, the US seen through Argentinian eyes and placed in Argentinian hands. That brings opportunity – but pressure, too. The way Pochettino tells it, it’s transformative.\n\n“Football doesn’t exist like in Argentina,” he says. “But the feeling [in the US] is much deeper [than it was]. The federation has done a great job unifying MLS, universities, colleges. There are people with big economic capacity who love football, have a passion, want to be a soccer country too. I have players in Europe, MLS is growing. Messi has had an enormous impact. And it’s the Messi who’s world champion. An MLS player says: ‘I play against the best in the world,’ which brings belief. All of that is a process we’re still in.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 08:47:14 EDT",
+  "lastUpdated": "2026-06-10 @ 15:56:20 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
