@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Caution over Saka as Tuchel says England must dare to dream",
-      "link": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ The wild hip-hop parties that started Tuchel's journey to England boss",
+      "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Palmer and Joao Pedro feature in Madonna video",
-      "link": "https://www.bbc.com/sport/football/articles/c4gyl574drwo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Caution over Saka as Tuchel says England must dare to dream",
+      "link": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
@@ -24,12 +24,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/09/harry-kane-england-team-thomas-tuchel-world-cup"
     },
     {
-      "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
-      "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
-    },
-    {
-      "text": "⚽ Tuchel: England 'not favourites' for World Cup",
-      "link": "https://www.skysports.com/football/news/12040/13552469/world-cup-2026-england-boss-thomas-tuchel-says-three-lions-not-favourites-for-tournament"
+      "text": "⚽ Mo Touré: Australia’s Ter-Mo-Nator who just wants to be seen as a ‘good person’",
+      "link": "https://www.theguardian.com/football/2026/jun/10/mohamed-mo-toure-socceroos-australia-world-cup-interview"
     }
   ],
   "timeline": {
@@ -3106,10 +3102,120 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-10": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4830_0",
+            "category": "england",
+            "type": "News",
+            "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
+            "bullets": [
+              "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
+            "fullText": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup\n\nWhen Glenn Hoddle's England started their World Cup campaign in France in 1998, Thomas Tuchel was still working a student job at a bar in Stuttgart.\n\nAlmost 30 years later, Tuchel is now the England manager tasked with doing what Hoddle and so many others failed to do - win the World Cup for the Three Lions.\n\nThe 52-year-old German is known as one of the game's keenest minds, a coach obsessed with detail and blessed with a special gift for analysis.\n\nIt is hard to imagine that in the late 1990s, Tuchel was working at the wildest parties in Stuttgart and hanging out with some of Germany's biggest hip-hop stars.\n\nYet it was there, having almost given up on football entirely, that Tuchel began his journey to World Cup management.\n\nLast year, respected German coach Ralf Rangnick recalled the story of how he launched Tuchel's career as a coach.\n\n\"When I found out that he was working in a bar in Stuttgart to earn his living, I could hardly believe it,\" Rangnicktold the BBC,externalin an interview with former Germany and Aston Villa midfielder Thomas Hitzlsperger.\n\n\"I called him and I said, 'what are you doing?' He said 'I have to earn my living there'. I said to him, 'Thomas, please, why don't you come to us in Stuttgart and work as a youth-team coach?'\n\n\"I brought him together with the academy director and that's how his coaching career started.\"\n\nFrom bartender to England manager - Rangnick reflects on Tuchel's journey\n\nTuchel had played under Rangnick at SSV Ulm and the two had long admired each other.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4831_1",
+            "category": "england",
+            "type": "News",
+            "title": "Caution over Saka as Tuchel says England must dare to dream",
+            "bullets": [
+              "England head coach Thomas Tuchel says Bukayo Saka's fitness is being managed with a \"little bit of c...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel says Bukayo Saka's fitness is being managed with a \"little bit of care\" heading into the World Cup.",
+            "fullText": "Bukayo Saka won his first cap for England in October 2020\n\nThomas Tuchel says Bukayo Saka needs to be carefully steered back to full fitness as England head into a World Cup where they must \"dare to dream\".\n\nHistory is against 1966 winners England, head coach Tuchel pointed out.\n\nBut his view is that \"a bit of luck\", plus sharp focus and self-belief, could make his team serious trophy challengers if they come through the early rounds.\n\nHaving his most important players available may be key, and Saka ranks highly among that contingent.\n\nThe Arsenal winger missed part of the climax to the domestic season because of an Achilles injury, though he did return in time for the club's run-in as they won the Premier League title.\n\nTuchel said Saka, who has scored 14 goals in 48 appearances for the Three Lions, still requires careful attention before the tournament - which has raised some concerns given he is a key player.\n\n\"We still have to take a little bit of care for Bukayo [Saka] who had an injury in March and carried it through the club campaign,\" Tuchel told a news conference.\n\n\"He made himself available at the end of the season and did so brilliantly, but he was managed in between matches. That continues a bit at the moment - we are building him up.\n\n\"We just came from training and everyone was involved including Bukayo.\"\n\nTuchel said he must assess Saka and the rest of his England squad before deciding who starts the final warm-up match against Costa Rica on Wednesday (21:00 BST).\n\nHaving made 11 changes at half-time in Saturday's1-0 win against New Zealand, Tuchel will give some players a longer run-out to build their fitness before the tournament opener with Croatia on 17 June.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4831_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
+            "bullets": [
+              "Arsenal forward still struggling with achilles injury‘Bukayo is just not there yet. Some things are ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal forward still struggling with achilles injury‘Bukayo is just not there yet. Some things are missing’Bukayo Saka continues to play through the pain of an achilles injury, according to the England manager, Thomas Tuchel, and must be managed carefully as the start of the World Cup looms large.The Arsenal winger joined up with the England squad in West Palm Beach on Saturday after being given an extra week off after his involvement in the Champions League final against Paris Saint-Germain. Tuchel gave a similar break to his other Arsenal players Declan Rice, Eberechi Eze and Noni Madueke. Continue reading...",
+            "fullText": "Arsenal forward still struggling with achilles injury\n\n‘Bukayo is just not there yet. Some things are missing’\n\nBukayo Saka continues to play through the pain of an achilles injury, according to the England manager,Thomas Tuchel, and must be managed carefully as the start of the World Cup looms large.\n\nThe Arsenal winger joined up with the England squad in West Palm Beach on Saturday after being given an extra week off after his involvement in theChampions League final against Paris Saint-Germain. Tuchel gave a similar break to his other Arsenal players Declan Rice, Eberechi Eze and Noni Madueke.\n\nBut while Tuchel said those three were at 100% fitness, the picture is less encouraging for Saka, who was substituted in the 83rd minute of the PSG game,which Arsenal lost on penalties. It would normally be unthinkable for Saka not to play all of such a showpiece.\n\nTuchel said in March, after Saka and Rice were forced to withdraw from the friendly against Japan, that they were pushing through at 70% and had been feeling discomfort for “quite a while”. While Rice is now better, Saka is still struggling.\n\n“Declan is on 100% and Bukayo is still getting there, playing through discomfort at the end of the season … obviously managing it and playing at a high level but still not on his 100%,” Tuchel said. “He is the one we are building and taking care of in training. Declan is 100%, Ebs is 100%, Noni is 100%.\n\n“Bukayo is just not there yet. Some things are missing … consecutive trainings. They took very good care of him [at Arsenal] and were very aware of it and we will do a little bit the same. He is at the moment not able to do every training session through the week and then play. He is still going to be managed.\n\n“Arsenal brought him back [at the end of April] and he was straight away decisive. And then they decided together – Bukayo and Arsenal – to let him play through his pain and discomfort, even if it was not possible to train the whole week in the buildups. I think it is very unlikely Bukayo starts and finishes all the matches from now on.”\n\nTuchel said that Morgan Rogers and Marcus Rashford could play on the right wing but Madueke is really his only other pure option in the position. “Clarity is the most important thing … players know where they can compete,” he added. “We will hopefully not have a lot of experiments in the tournament.”\n\nEngland play Costa Rica in their second and final warm-up game in Orlando on Wednesday and kick off theirWorld Cupagainst Croatia in Dallas next Wednesday. Tuchel has a few major decisions to make for his starting XI and arguably none bigger than Rogers versus Jude Bellingham in the No 10 role. Tuchel, though, is keen for the public to stop obsessing about whether Bellingham starts.\n\n“We have a lot of proof we can win football matches without Jude and that’s the more important headline,” Tuchel said. “Jude is with us. Jude is in amazing form but we have to stop talking about individuals. Jude will not win this World Cup alone. It’s simply impossible. No one will win this World Cup alone. We win it as a team.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4831_3",
+            "category": "england",
+            "type": "News",
+            "title": "Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
+            "bullets": [
+              "Questioned in France but championed from afar, the departing head coach has forged a legacy that no ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Questioned in France but championed from afar, the departing head coach has forged a legacy that no one – bar, perhaps, himself – would dare disputeFollow the verdant path towards the Château de Clairefontaine and you are met by a three-metre replica of the World Cup trophy accompanied by two stars, representing France’s World Cup triumphs. Didier Deschamps had his hand in both of them, captaining his side to victory in 1998 before repeating the feat as manager in 2018.The ‘98 World Cup final was France’s first ever but Les Bleus have now participated in four of the last seven end games, with Deschamps involved in three of them. In North America, he will have one final shot at reaching another. These are the expectations, moulded by past success. Deschamps has taken France to three major finals in his 14-year stint as manager. “We’re among the favourites,” he says as he sits down for the interview. “It isn’t a taboo word for me. If we have this status today, which seems logical and legitimate to me, it’s because of everything that we have done, the results we achieved.” Continue reading...",
+            "fullText": "Questioned in France but championed from afar, the departing head coach has forged a legacy that no one – bar, perhaps, himself – would dare dispute\n\nFollow the verdant path towards the Château de Clairefontaine and you are met by a three-metre replica of the World Cup trophy accompanied by two stars, representing France’s World Cup triumphs. Didier Deschamps had his hand in both of them, captaining his sideto victory in 1998 beforerepeating the feat as manager in 2018.\n\nThe ‘98World Cupfinal was France’s first ever butLes Bleushave now participated in four of the last seven end games, with Deschamps involved in three of them. In North America, he will have one final shot at reaching another. These are the expectations, moulded by past success. Deschamps has taken France to three major finals in his 14-year stint as manager. “We’re among the favourites,” he says as he sits down for the interview. “It isn’t a taboo word for me. If we have this status today, which seems logical and legitimate to me, it’s because of everything that we have done, the results we achieved.”\n\nAs we speak to Deschamps, his assistant, Guy Stéphan, pops his head through the door. “You’ve got the best,” he jokes. TheFrancemanager replies with a smile: “He is always very objective.” Deschamps’ record as a player and then as a manager makes Stéphan’s comment difficult to refute.\n\nAs always, however, there is a subjectivity. “Abroad there is perhaps more recognition,” says Deschamps. “I know very well, since I also travel a lot abroad, that the feeling abroad is different from the one in France.”The qualms from within the country concern the playing style. Before addressing the topic, he lets out a small chuckle: “It depends what you mean by ‘play style’. Internationally, that’s one thing, but then there’s France and God knows that, if the France team has been categorised as a [team with a] defensive, restrictive game, it didn’t prevent us from getting results.”\n\nBut Deschamps is not someone concerned about legacy. He insists that “it doesn’t matter” and nor does it interest him. He adds: “The most important thing is today and tomorrow, and tomorrow is the World Cup. After that, everyone will have their own … interpretation, their own feeling.”\n\nPublic opinion is one thing, but how he is perceived by colleagues is another. Gareth Southgate was a disciple while Deschamps reveals he has also exchanged messages with Thomas Tuchel – “a very good manager that I like a lot, too, and with whom I have the chance to talk a lot,” – Brazil’s Carlo Ancelotti, and the former Germany head coach Hansi Flick. Three major finals in 14 years and a Nations League title have made Deschamps the godfather of modern international football.\n\nYet he says there is not a secret formula to emulate. “I have a magic word: adaptation … I say to myself, ‘In relation to the person I have in front of me, I adapt.’ And so it leads to modifications … It’s not because we did this and it worked well that we shouldn’t change. It’s not about changing for the sake of changing either,” he says.\n\nBeyond the tactical element there is the man management, where adaptation is also essential. “The generation from when I started in 2012 is not the same as today … the new generation need more exchanges,” says Deschamps, who has presided over a changing of the guard in the France dressing room.\n\nSince the2022 World Cup final defeat to Argentina, the likes of Hugo Lloris, Olivier Giroud, Raphaël Varane and Antoine Griezmann have all retired from international football. “The baton has been passed,” says Deschamps, who named Kylian Mbappé as the successor to France’s most-capped player of all time, Lloris.\n\n“Kylian, today, who is our captain, before being captain, he listened, he looked, he doesn’t do things like Hugo. It’s not at all the same character and personality. He takes on this leadership outside, on the pitch as well, and he knows that when he speaks, he doesn’t speak in his own name, but he speaks in the name of all the players as well.” Deschamps also defended his use of the Real Madrid forward: “I must be stupid, and there must have been a lot of stupid people who he has had as coaches to put him in the middle of the attack within the teams he has played … for the past two years at Real and his last year at PSG … it’s been three years that he has played in a central position.”\n\nMbappé underwhelmed at Euro 2024.Breaking his nose in the openeragainst Austria certainly didn’t help while Deschamps also says that his preparation for the tournament was “suboptimal”, adding: “He arrived following his final six months with PSG, which were very, very difficult. He didn’t have much playing time.” Mbappé heads to this World Cup one goal shy of Giroud’s all-time scoring record for France (57) and that is a justification in itself for Deschamps, whose choices are always scrutinised, often criticised, but almost invariably the right ones.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4831_4",
+            "category": "england",
+            "type": "News",
+            "title": "Kane is in scorching form but England will need others to step up with goals | Jacob Steinberg",
+            "bullets": [
+              "With fears about an overreliance on the goalscoring captain, Tuchel needs more from his other attack...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With fears about an overreliance on the goalscoring captain, Tuchel needs more from his other attackersIf Thomas Tuchel requires proof there are worse things to be than the Harry Kane team, he need only hear how underwhelming the future looked when an England second string bid farewell to the 2014 World Cup with a desperate&nbsp;0-0 draw against Costa Rica in Belo&nbsp;Horizonte.Those were dark times. England’s race was run after defeats in their first two group games in Brazil and the worry for the Football Association was that the&nbsp;humiliations no longer felt like a surprise. Continue reading...",
+            "fullText": "With fears about an overreliance on the goalscoring captain, Tuchel needs more from his other attackers\n\nIf Thomas Tuchel requires proof there are worse things to be than the Harry Kane team, he need only hear how underwhelming the future looked when an England second string bid farewell to the 2014 World Cup with adesperate 0-0 draw against Costa Ricain Belo Horizonte.\n\nThose were dark times. England’s race was run after defeats in their first two group games in Brazil and the worry for the Football Association was that the humiliations no longer felt like a surprise.\n\nRoy Hodgson talked about a team “in a realm of despair” and somehow limped on to the nadir oflosing to Iceland at Euro 2016. Yet those disappointments belong to a different age. Gareth Southgate led the rebirth, restoring a bruised young squad’s pride and unity beforestepping down after one last near missat Euro 2024, and nobody could accuse Tuchel of being delusional when he took over and talked about putting a second star on the shirt.\n\nYet while England are optimistic about their chances at the 2026 World Cup, there are concerns over their increasing reliance on Kane for goals. Tuchel, for his part, was not too worried after the captain’s clever header made the difference in last Saturday’swarm-up victory over New Zealandin Tampa. Kane is in scorching form. The striker scored61 goals in all competitions for Bayern Munichthis season and will be a leading contender to win the Ballon d’Or if he helps England’s men claim silverware for the first time since 1966.\n\nThe numbers are relentless. But those nagging thoughts persist. What happens to England if Kane is marked out of a game? Or the unthinkable occurs and he rolls an ankle on a sticky American pitch?\n\nTuchel’s two backup No 9s have quality but are not elite. Ollie Watkins finished the season in excellent form for Aston Villa and can stretch tiring defences, but he scuffed his one opening against New Zealand. Ivan Toney was also wasteful against the All Whites and has been selected mainly for his ability to draw attention away from Kane if England are chasing a late goal.\n\nThis is not so much about Watkins and Toney, then, more about the wide players and No 10s.\n\nTuchel needs more from the attackers who will start around Kane and he could do with at least one wearing their shooting boots when England head to Orlando to face Costa Rica in their final warm-up game on Wednesday night. Marcus Rashford, with 18 goals in 71 appearances, is the squad’s second-highest scorer but was tentative with chances against New Zealand. More conviction is required. Bukayo Saka, whose record of 14 goals in 48 appearances gives him a better strike rate than Rashford, has few equals on the flanks. Anthony Gordon has two goals for England and Noni Madueke one. As for the creators, Jude Bellingham has six goals, Eberechi Eze three and Morgan Rogers one.\n\n“The pure numbers of our players on the wing and wherever are not the outstanding numbers we expect,” Tuchel said in March. The German wanted more from his creative players at club level. If he looks at England’s rivals, he will note Ousmane Dembélé and Kylian Mbappé standing to one side as Michael Olise scored a hat-trick in France’s win over Northern Ireland on Monday. He will see that Spain had Pedri surging from midfield to score in a 3-1 win over Peru. Argentina, Brazil, Portugal, Germany and Belgium have also shared the goals around.\n\nEngland need more variety in attack; individuals other than Kane deciding games. Rashford, who is competing with Gordon for a spot on the left, had a good season for Barcelona but has not scored in open play for England for almost three years. Somehow, despite all the talent at their disposal, England have never really found a replacement for Raheem Sterling, who was an excellent foil for Kane and so adept at running in from the wing to convert crosses from close range during his peak years.\n\nSaka has two goals since the Euros. Bellingham has not scored for Tuchel. The Costa Rica game is a chance for Kane’s teammates to build confidence. For all the talk about England’s threat at set pieces, it is significant that officials will be closely watching grappling and blocking in the box. Replicating Premier League tactics at corners may not be easy; if so, England will need to show more invention in open play.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4832_5",
+            "category": "england",
+            "type": "News",
+            "title": "Mo Touré: Australia’s Ter-Mo-Nator who just wants to be seen as a ‘good person’",
+            "bullets": [
+              "The rising Socceroos star isn’t interested in celebrity and heads into his first World Cup with a st...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The rising Socceroos star isn’t interested in celebrity and heads into his first World Cup with a strong connection to his roots and feet firmly on the groundThe 22-year-old was surprised but not unhappy when he saw the image on social media. “Mohamed Touré is … The Ter-Mo-Nator,” the poster mock-up read, crafted in Photoshop or an AI tool, with Touré’s left eye glowing red. “Target acquired.”Touré – whose nickname is Mo – has sparked the most excitement in Australian football fans for a Socceroos striker since Mark Viduka, who emerged at Melbourne Knights close to four decades ago. As one of the faces of the Socceroos’ current World Cup campaign, the hype is something Touré is starting to get used to. Continue reading...",
+            "fullText": "The rising Socceroos star isn’t interested in celebrity and heads into his first World Cup with a strong connection to his roots and feet firmly on the ground\n\nThe 22-year-old was surprised but not unhappy when he saw the image on social media. “Mohamed Touré is … The Ter-Mo-Nator,” the poster mock-up read, crafted in Photoshop or an AI tool, with Touré’s left eye glowing red. “Target acquired.”\n\nTouré – whose nickname is Mo – has sparked the most excitement in Australian football fans for a Socceroos striker since Mark Viduka, who emerged at Melbourne Knights close to four decades ago. As one of the faces of the Socceroos’ currentWorld Cupcampaign, the hype is something Touré is starting to get used to.\n\nThe comparison to Arnold Schwarzenegger, however, is new. “Maybe some people have described me with similar traits, of being always serious or playing hard, but no one’s ever called me a Terminator,” Touré says from camp in California ahead of the opening clash against Turkey on Sunday.\n\nIs he the ruthless killer of the original film, or the one who saves John Connor in the second? “No, I’m the friendly one,” he says. “I can’t be evil.”\n\nIt’s a consistent theme in the conversation – Touré being drawn towards good and away from bad. When asked to describe how he would like to be introduced to Australians tuning into football for the first time in four years, it’s the first thing that comes to mind. “Some people love to be superstars,” he says. “I just want to be seen as a good person.”\n\nThis article includes content provided byInstagram. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. To view this content,click 'Allow and continue'.\n\nStrikers can have a reputation for being selfish, for enjoying the spotlight, for counting goal tallies more than team victories. Touré runs like one, finishes like one: he is the on-field archetype of a lead forward, with pace and nous and skill. But Touré is no showboater, rather a key cog in Tony Popovic’s cohesive unit designed to frustrate and surprise their Group D opponents.\n\nHis parents having fled Liberia, Touré was born in a refugee camp in Guinea, before arriving in Australia at seven months. His parents were there in that camp for 14 years. “I have a story before football, the same story after football,” Touré says.\n\nThe current story started in Adelaide, where the young striker showed promise after debuting in the A-League Men as a 15-year-old in 2020. He remains the youngest scorer in the league’s history. Then, there was a debut in France for Ligue 1 side Reims at 19. In 2024, a double against powerhouse club Brøndby when playing for Randers FC in the Danish Superliga. Two goals for the Socceroos against New Zealand in late 2025. And, after a move in January, nine in 11 league matches for Norwich in the Championship last season.\n\nTouré’s football story is not, however, one of linear improvement. There has been regular news of injury, and many transfer windows with him on the move. He has played at five clubs in four years. The injury curse has hung over him since his time at Adelaide United. The balance between his explosive speed, a growth spurt and the demands of professional football proved more difficult to resolve than his moral compass.\n\n“When I went to Europe, some of those injuries followed along and I re-injured them and re-injured them,” he says. “I feel like I had to do something, and I had to change something or they would have [kept] occurring, reccurring.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 19:05:47 EDT",
+  "lastUpdated": "2026-06-10 @ 07:48:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
