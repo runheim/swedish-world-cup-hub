@@ -4,12 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Meet the philosopher-in-training who will be at the VAR monitor this World Cup",
-      "link": "https://www.theguardian.com/football/2026/jun/09/meet-the-philosopher-in-training-who-will-be-at-the-var-monitor-this-world-cup"
-    },
-    {
-      "text": "⚽ World Cup 2026 preview: Groups E-H | Football Weekly – video",
-      "link": "https://www.theguardian.com/football/video/2026/jun/09/world-cup-2026-preview-groups-e-h-football-weekly-video"
+      "text": "⚽ Folarin Balogun is the USMNT’s focal point, whether he’s getting touches or not",
+      "link": "https://www.theguardian.com/football/2026/jun/10/folarin-balogun-usmnt-world-cup"
     }
   ],
   "timeline": {
@@ -1139,10 +1135,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-10": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4831_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Folarin Balogun is the USMNT’s focal point, whether he’s getting touches or not",
+            "bullets": [
+              "The Monaco striker’s impact on the US attack will vary depending on how the team builds up, and wher...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Monaco striker’s impact on the US attack will vary depending on how the team builds up, and where that buildup happens• Free newsletter | Daily podcast | Download our appSome strikers are gregarious personalities who ensure attention even when they struggle. Folarin Balogun prefers to speak softly and maintain a healthy goalscoring record. The 24-year-old has still been making himself known to his country of birth – he was born in New York but raised in London – after committing to the US over England and Nigeria. This past season, he finished fourth in Ligue 1 scoring with 13 goals, priming him for an emergent World Cup on home soil.Balogun’s recruitment was closely monitored by US fans, desperate for a dependable goalscorer. Continue reading...",
+            "fullText": "The Monaco striker’s impact on the US attack will vary depending on how the team builds up, and where that buildup happens\n\nSome strikers are gregarious personalities who ensure attention even when they struggle. Folarin Balogun prefers to speak softly and maintain a healthy goalscoring record. The 24-year-old has still been making himself known to his country of birth – he was born in New York but raised in London – aftercommitting to the US over England and Nigeria. This past season, he finished fourth in Ligue 1 scoring with 13 goals, priming him for an emergent World Cup on home soil.\n\nBalogun’s recruitment was closely monitored by US fans, desperate for a dependable goalscorer.\n\n“What we would say in England is how sharp he is,” the USMNT captain, Tim Ream, said. “Just with his movement: left, right, being able to hold the ball up and bring other players in, and then his movement in behind and getting himself in the goalscoring positions is something that we’ve been crying out for for a long time with the team and this group. He’s probably the most annoying striker for me to have to deal with in training because he is so quick with his movements, physically strong and able to seemingly glide past people.”\n\nBalogun has played at least 45 minutes in six of the United States’ 10 friendlies since last summer’s Gold Cup, each of which was played against a team in the World Cup field. In total, this sample comprises 423 minutes, with five of his shifts checking in between 71 and 81 minutes. He’s managed to make 26.4 touches per 90 in these games, each of which came after Mauricio Pochettino changed his team shape to its current structure. Crucially, 24.1% of these touches came in the opposition box, with high marks of nine against Japan, eight against Ecuador, and six in a 45-minute shift against Senegal.\n\nOf those, the US’s final pre-tournament friendlies against Senegal and Germany provided possibly the most representative test of the system’s readiness for the World Cup – and some of the areas for improvement. In particular, the Germany game exposed a growing instinct to build up the left channel, led by Ream’s circulation to former Fulham teammate Antonee Robinson. Working upfield along the left gets Christian Pulisic on the ball a bit more regularly, but can leave Balogun isolated as his teammates try getting the ball back into the more congested central third.\n\nYet even that may not be a huge problem. Balogun’s mobility is a vital asset to keep him in the back of opponents’ minds even as the service outlets run dry. He’s prone to dragging center-backs as he shifts from side to side, creating openings for teammates to sprint into for wider breaks beyond the back. Balogun fits an advanced striker’s archetype and plays less of a role in buildup, seldom dropping into midfield or the defensive half.\n\nBut for high stakes games like the ones ahead, getting the team’s most in-form forward his shooting looks is mandatory.\n\n“Every game is different,” Balogun said of the left-skewing buildup against Germany. “I think in the game against Senegal, I had a good amount of opportunities. I felt involved in a short amount of time. As a striker, that’s what you want to do. That’s how you want to feel. The game against Germany was a bit more difficult. Of course, they’re a better opposition, so that’s to be expected.”\n\nParaguay, the US’s first group-stage opponent, will present a different if not unfamiliar challenge. The US faced off againstLa Albirrojain a friendly last November, with Balogun scoring the second goal for the hosts, starting up top in the 2-1 win.\n\nThe lineup that day lacked many presumptive World Cup starters including Pulisic, Robinson, Tyler Adams, Weston McKennie, and Sergiño Dest and it showed – Balogun did not have many chances in that game. Having his preferred attacking midfielders, wide defenders and defensive midfield could help get the ball to Balogun a bit quicker than a more rotated alternative.\n\nStill, his performance against the Paraguayan low-block showed he doesn’t need a bounty of looks to make his mark. Balogun made just 15 touches in 75 minutes, his least involved shift among his six extended run-outs after the Gold Cup. Only one of those 15 touches came in the Paraguayan box.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-09 @ 19:05:47 EDT",
+  "lastUpdated": "2026-06-10 @ 07:48:49 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
