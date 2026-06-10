@@ -8,12 +8,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England v Costa Rica: World Cup 2026 warm-up – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/10/england-v-costa-rica-world-cup-2026-warm-up-live"
+      "text": "⚽ Gordon makes his point as England breeze past Costa Rica in final World Cup warm-up",
+      "link": "https://www.theguardian.com/football/2026/jun/11/england-costa-rica-world-cup-2026-warmup-match-report"
     },
     {
-      "text": "⚽ Carragher fears over Bellingham’s England role at World Cup",
-      "link": "https://www.skysports.com/football/news/12040/13552649/jude-bellingham-jamie-carragher-fears-real-madrid-stars-england-role-could-dominate-airwaves-at-world-cup"
+      "text": "⚽ Saracens' Willis wins Prem player of the season",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13552894/gallagher-prem-tom-wills-crowned-prem-player-of-the-season-ahead-of-bordeaux-switch"
+    },
+    {
+      "text": "⚽ England player ratings: Has Bellingham done enough?",
+      "link": "https://www.skysports.com/football/news/12040/13552806/england-player-ratings-anthony-gordon-proves-his-value-but-has-jude-bellingham-done-enough-to-guarantee-world-cup-start"
+    },
+    {
+      "text": "⚽ Gordon and Bellingham shine as England’s attack clicks into gear",
+      "link": "https://www.telegraph.co.uk/football/2026/06/10/england-vs-costa-rica-live-score-latest-world-cup-warm-up/"
     }
   ],
   "timeline": {
@@ -3317,7 +3325,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 18:27:33 EDT",
+  "lastUpdated": "2026-06-10 @ 19:56:05 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
