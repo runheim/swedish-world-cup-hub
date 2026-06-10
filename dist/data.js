@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Olof Mellberg reacts to Gudmundsson's absence: \"Worrying\"",
+      "link": "https://www.svt.se/sport/fotboll/olof-mellbergs-reagerar-pa-gudmundssons-franvaro-orovackande"
+    },
+    {
       "text": "⚽ Isak Hien in photo mess: \"They were probably hotter at Gyökeres\"",
       "link": "https://www.svt.se/sport/fotboll/isak-hien-i-fotorora-de-var-nog-hetare-pa-gyokeres"
     },
@@ -18,10 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ That's why the mood is so bad between the FIFA World Cup host nations",
       "link": "https://www.svt.se/nyheter/utrikes/darfor-ar-stamningen-sa-dalig-mellan-fotbolls-vms-vardnationer"
-    },
-    {
-      "text": "⚽ Isak Hien about stopping the WC referee: \"It's boring\"",
-      "link": "https://www.svt.se/sport/fotboll/isak-hien-om-stoppade-vm-domaren-det-ar-trakigt"
     }
   ],
   "timeline": {
@@ -1737,11 +1737,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5604_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Olof Mellberg reacts to Gudmundsson's absence: \"Worrying\"",
+            "bullets": [
+              "Bang for Sweden ahead of the World Cup premiere. Gabriel Gudmundsson has missed two training session...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bang for Sweden ahead of the World Cup premiere. Gabriel Gudmundsson has missed two training sessions and due to symptoms of illness. - It is quite worrying, says SVT's WC expert Olof Mellberg, on site in Dallas.",
+            "fullText": "Gabriel Gudmundsson has missed two training sessions and due to symptoms of illness.\n\n- It is quite worrying, says SVT's WC expert Olof Mellberg, on site in Dallas.\n\nLeft back Gabriel Gudmundsson was missing during yesterday's training and he was not present at today's session either.\n\nThe reason is that, according to press manager Petra Thorén, he is \"crazy\" and has symptoms of illness.\n\n- It is quite worrying, above all considering that I think Gudmundsson has been very good for a long time, says SVT's WC expert Olof Mellberg.\n\nThe press manager does not give any information about whether Gudmundsson's condition has improved or worsened compared to yesterday.\n\n- He keeps to himself, as you should do when you are crass. He is crass, she said in connection with the session at the FC Dallas Stadium.\n\nSweden's World Cup opener against Tunisia will be played in Monterrey on June 15, starting at 04.00, Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5607_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien in photo mess: \"They were probably hotter at Gyökeres\"",
+            "bullets": [
+              "Two Swedish stars stepped forward for \"selfies\" with invited supporters at WC training. Quite simply...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Two Swedish stars stepped forward for \"selfies\" with invited supporters at WC training. Quite simply, it wasn't for one: Isak Hien. - Someone thought I was Alexander Isak, he says.",
+            "fullText": "Two Swedish stars stepped forward for \"selfies\" with invited supporters at WC training.\n\n- Someone thought I was Alexander Isak, he says.\n\nSweden's third training session on American soil involved an open training session with spectators in front of invited supporters and media.\n\nAfterwards, several players stepped forward to sign autographs. At the same time, there were two who had a \"meet and greet\" - where they took \"selfies\". Viktor Gyökeres and Isak Hien.\n\n- It was nice. Always fun with children who want to take pictures and such, then they were probably hotter at Gyökeres than at me, says Hien with a smile and continues:\n\n- It's just as fun that so many people are involved and come here and check out our training sessions.\n\nIn addition, there were some who didn't really know who the center back was.\n\n- There was someone who thought I was Alexander Isak, but you have to accept that.\n\nAnother one who was also popular among the guests was wingback Herman Johansson, who has the arena as his base as he is based in FC Dallas.\n\n- Nice to be back anyway. The fans recognize one here, so it was a positive surprise. It's fun, you've still created a bond with the fans, only positive.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5610_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Herman Johansson's meeting with Potter - before the cancellation: \"Don't be there\"",
+            "bullets": [
+              "Herman Johansson was forced to throw in the towel before Sweden's playoff clash against Poland. He r...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Herman Johansson was forced to throw in the towel before Sweden's playoff clash against Poland. He reveals the meeting with union captain Graham Potter where he made the announcement. - I wasn't there, he says.",
+            "fullText": "Herman Johansson was forced to throw in the towel before Sweden's playoff clash against Poland.\n\nHe reveals the meeting with union captain Graham Potter where he made the announcement.\n\nHe made his first match from the start when Sweden defeated Ukraine in the first World Cup play-off match and admitted afterwards that the nervousness before had been enormous.\n\nAnd for the decision against Poland, he was completely out of the match squad.\n\n- I didn't feel fully recovered, neither mentally nor physically and then it was better that someone else played, says the FC Dallas player.\n\n- It was probably a lot of everything at once. I didn't feel right there.\n\nJohansson explains that he had a meeting with national team captain Graham Potter.\n\nAt first, Herman Johansson was listed as a reserve in the current World Cup squad. If the Poland return may have played a role in him not being included at first?\n\n- I can't answer that, you'll have to ask Graham about that.\n\nThe 28-year-old admits, however, that the situation as a reserve has been special.\n\n- You are there, but not with. Then of course it is always a matter of pride. It was sad that it turned out that way for Emil (Holm, dropped out of the WC squad due to injury), but it opened things up for me.\n\nThere is a big chance that you will get to start the WC premiere. How are you going to deal with it?",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5612_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Kosovar Asllani on standing on the side in Blågult: \"Burns sometimes\"",
+            "bullets": [
+              "Sweden's ladies have had a difficult WC qualification. Long-term injured team captain Kosovare Aslla...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden's ladies have had a difficult WC qualification. Long-term injured team captain Kosovare Asllani finds it difficult to stand on the sidelines and watch the young team. - I could never take losing against Denmark. Twice, she tells SVT Sport.",
+            "fullText": "Long-term injured team captain Kosovare Asllani finds it difficult to stand on the sidelines and watch the young team.\n\n- I could never take losing against Denmark. Twice, she tells SVT Sport.\n\nIn the clip, Asllani tells what it's like to follow the qualifiers from the sidelines and also states that Sweden will go to the WC - with 100 percent certainty.\n\nSweden can focus on playoff games for the football World Cup in Brazil after a tough qualification where they lost two games against rival Denmark, among other things.\n\nIn addition to Asllani, seasoned centre-back Nathalie Björn is also missing due to injury, while several veterans have resigned or are being poked.\n\nThe Swedish team now consists of several young and new players.\n\nSEE MORE: In a longer interview with SVT Sport, Kosovare Asllani talks about the injury for the first time\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5613_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "That's why the mood is so bad between the FIFA World Cup host nations",
+            "bullets": [
+              "Thursday, June 11, the World Cup kicks off. But the relations between the host countries USA, Canada...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thursday, June 11, the World Cup kicks off. But the relations between the host countries USA, Canada and Mexico are only getting frostier and frostier.",
+            "fullText": "But the relations between the host countries USA, Canada and Mexico are only getting frostier and frostier.\n\nNever before have three countries hosted the party that a football World Cup entails. But since the president has been replaced in one of the countries, the party mood has been blown away.\n\nSee more about the tours between the World Cup countries in the video.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 08:47:14 EDT",
+  "lastUpdated": "2026-06-10 @ 15:56:13 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
