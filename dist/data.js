@@ -8,24 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Caution over Saka as Tuchel says England must dare to dream",
-      "link": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
-      "link": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe"
-    },
-    {
-      "text": "⚽ Kane is in scorching form but England will need others to step up with goals | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jun/09/harry-kane-england-team-thomas-tuchel-world-cup"
-    },
-    {
-      "text": "⚽ Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
-      "link": "https://www.theguardian.com/football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup"
-    },
-    {
-      "text": "⚽ Mo Touré: Australia’s Ter-Mo-Nator who just wants to be seen as a ‘good person’",
-      "link": "https://www.theguardian.com/football/2026/jun/10/mohamed-mo-toure-socceroos-australia-world-cup-interview"
+      "text": "⚽ England v Costa Rica: World Cup 2026 warm-up delayed by storm – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/10/england-v-costa-rica-world-cup-2026-warm-up-live"
     },
     {
       "text": "⚽ Carragher fears over Bellingham’s England role at World Cup",
@@ -3215,11 +3199,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5534_0",
+            "category": "england",
+            "type": "News",
+            "title": "The wild hip-hop parties that started Tuchel's journey to England boss",
+            "bullets": [
+              "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup. BBC Sport charts the start of his journey to becoming England boss.",
+            "fullText": "Thomas Tuchel is bidding to become the first foreign manager to win the World Cup\n\nWhen Glenn Hoddle's England started their World Cup campaign in France in 1998, Thomas Tuchel was still working a student job at a bar in Stuttgart.\n\nAlmost 30 years later, Tuchel is now the England manager tasked with doing what Hoddle and so many others failed to do - win the World Cup for the Three Lions.\n\nThe 52-year-old German is known as one of the game's keenest minds, a coach obsessed with detail and blessed with a special gift for analysis.\n\nIt is hard to imagine that in the late 1990s, Tuchel was working at the wildest parties in Stuttgart and hanging out with some of Germany's biggest hip-hop stars.\n\nYet it was there, having almost given up on football entirely, that Tuchel began his journey to World Cup management.\n\nLast year, respected German coach Ralf Rangnick recalled the story of how he launched Tuchel's career as a coach.\n\n\"When I found out that he was working in a bar in Stuttgart to earn his living, I could hardly believe it,\" Rangnicktold the BBC,externalin an interview with former Germany and Aston Villa midfielder Thomas Hitzlsperger.\n\n\"I called him and I said, 'what are you doing?' He said 'I have to earn my living there'. I said to him, 'Thomas, please, why don't you come to us in Stuttgart and work as a youth-team coach?'\n\n\"I brought him together with the academy director and that's how his coaching career started.\"\n\nFrom bartender to England manager - Rangnick reflects on Tuchel's journey\n\nTuchel had played under Rangnick at SSV Ulm and the two had long admired each other.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5535_1",
+            "category": "england",
+            "type": "News",
+            "title": "England v Costa Rica: World Cup 2026 warm-up delayed by storm – live",
+            "bullets": [
+              "Kick-off in Orlando friendly now 10pm BST, 5pm EDTPlayer guide | Bracketology | Wallchart | Mail Sco...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Kick-off in Orlando friendly now 10pm BST, 5pm EDTPlayer guide | Bracketology | Wallchart | Mail ScottEngland: Pickford, Konsa, O’Reilly, Rice, Stones, Anderson, Kane, Bellingham, Gordon, Madueke, James.Subs: Guehi, Saka, Rashford, Livramento, D Henderson, J Henderson, Burn, Mainoo, Rogers, Watkins, Eze, Toney, Trafford, Spence, Quansah.Costa Rica: to come Continue reading...",
+            "fullText": "There will most likely be a lot of this sort of hanging about during thisWorld Cup.Just as well, then, that the Guardian has created this marvellous monument to time-wasting: Bracketology, in which you can curate your very own World Cup story. Or you can simply hit “shuffle” and see whose name pops up as champion. I’ve just done that, and can exclusively report that DR Congo beat Germany in the final. England didn’t get out of their group, meanwhile. I’d love to know what happened against Panama. Anyway, give it a go, and I’ll see you back here in three hours. We’ll wait for you.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5535_2",
+            "category": "england",
+            "type": "News",
+            "title": "Carragher fears over Bellingham’s England role at World Cup",
+            "bullets": [
+              "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate ai...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jamie Carragher fears Jude Bellingham’s role in the England team at the World Cup could “dominate airwaves” this summer.",
+            "fullText": "Jamie Carragher on Jude Bellingham's England role: \"I don't think Jude Bellingham is going to start the first game, I'd be surprised if he does. He hasn't had a great season, he's had his injuries but that will be really interesting to see how the tournament goes on\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 08:47:16 EDT",
+  "lastUpdated": "2026-06-10 @ 15:55:41 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
