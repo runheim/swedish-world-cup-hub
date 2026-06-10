@@ -12,10 +12,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cq61ll2p5pzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
-      "link": "https://www.theguardian.com/football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup"
-    },
-    {
       "text": "⚽ Didier Deschamps: ‘Mbappé knows that when he speaks, he speaks for all the players’",
       "link": "https://www.theguardian.com/football/2026/jun/09/didier-deschamps-france-world-cup-kylian-mbappe"
     },
@@ -24,8 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/09/harry-kane-england-team-thomas-tuchel-world-cup"
     },
     {
+      "text": "⚽ Bukayo Saka is playing through pain barrier, says Tuchel, as World Cup looms",
+      "link": "https://www.theguardian.com/football/2026/jun/09/bukayo-saka-playing-through-pain-barrier-tuchel-world-cup"
+    },
+    {
       "text": "⚽ Mo Touré: Australia’s Ter-Mo-Nator who just wants to be seen as a ‘good person’",
       "link": "https://www.theguardian.com/football/2026/jun/10/mohamed-mo-toure-socceroos-australia-world-cup-interview"
+    },
+    {
+      "text": "⚽ Carragher fears over Bellingham’s England role at World Cup",
+      "link": "https://www.skysports.com/football/news/12040/13552649/jude-bellingham-jamie-carragher-fears-real-madrid-stars-england-role-could-dominate-airwaves-at-world-cup"
     }
   ],
   "timeline": {
@@ -3215,7 +3219,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 07:48:40 EDT",
+  "lastUpdated": "2026-06-10 @ 08:47:16 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
