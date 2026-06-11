@@ -4,24 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Pochettino: 'We are entering the tournament with high confidence'",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ The United States enter a charged World Cup asking: what is enough?",
+      "link": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview"
     },
     {
-      "text": "🌍 Australia squad settles in Seattle base camp to start workouts",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ World Cup Group D view from Turkey: young team can shake off ‘dark horses’ tag | Emre Sarigul",
+      "link": "https://www.theguardian.com/football/blog/2026/jun/12/world-cup-group-d-matches-turkey-national-football-team-strengths-weaknesses"
     }
   ],
   "timeline": {
@@ -1303,11 +1291,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0029_0",
+            "category": "usa",
+            "type": "News",
+            "title": "The United States enter a charged World Cup asking: what is enough?",
+            "bullets": [
+              "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sportWorld Cup newsletter | Daily podcast | Download the appMauricio Pochettino paused. The microphone signal flickered. He tried, for a second time, to say a few things to the 5,500 fans who had gathered in the sun Monday at Championship Soccer Stadium in Irvine, California – the United States’ World Cup home base – for an open training session. Nothing. Then something. More choppy audio. By the time things came back online, he had developed a quip.“We are in the greatest country in the world,” he said in his Rioplatense-accented English. “But the technology does not work.” Continue reading...",
+            "fullText": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sport\n\nWorld Cup newsletter|Daily podcast|Download the app\n\nMauricio Pochettino paused. The microphone signal flickered. He tried, for a second time, to say a few things to the 5,500 fans who had gathered in the sun Monday at Championship Soccer Stadium in Irvine, California – the United States’World Cuphome base – for an open training session. Nothing. Then something. More choppy audio. By the time things came back online, he had developed a quip.\n\n“We are in the greatest country in the world,” he said in his Rioplatense-accented English. “But the technology does not work.”\n\nPochettino’s adaptation to the US soccer scene has not been without hiccups. The Argentinian arrived on a $6m-per-year contract (the largest outlay for a coach in US Soccer history) with a résumé featuring some of the most famous clubs and players in the world. His job: to lead a nation more known for excellence in other sports to a historic finish at a World Cup they would co-host.\n\nOver his 22 months in charge, the results – 15 wins, 10 losses, and a draw – are hardly indicative that a run of that magnitude is coming. His side have looked unsettled in their structure at various points, alternating brilliant passages with lackadaisical moments, full of fight one minute then meek the next. Yet Pochettino has fed into the hype, saying repeatedly that the US can win the World Cup. (“Why not?”, he is fond of asking.)\n\nMany observers argue that it’s just as easy to see the team crash out in the group stage, or exit at the first knockout round, as they did at Qatar 2022. There are no pushovers in a group with Paraguay, Australia and Turkey. And the team have struggled against the type of quality sides they may face in the Round of 32, last 16, and beyond.\n\nWhat is enough? It’s the uncomfortably vague question that looms over the US more than most at this tournament. The elite, like Spain, France, Brazil and Argentina, enter the World Cup knowing that anything less than winning the trophy will be a failure. Minnows – the likes of Curaçao, Jordan and Cape Verde – know that simply giving a good account of themselves will count for a whole lot.\n\nThe US performance, meanwhile, will be read as a referendum not just on a group of players considered to be the most talented in the history of the men’s program, but on the potential of American soccer itself.\n\n“We want to do this for ourselves and for our own country,” Christian Pulisic, the team’s biggest star, told reporters earlier this month. “We have really good players playing in top clubs in the world, we have a good team. We’re going to do the best we can to prove ourselves right.”\n\nThe coach believes. The players believe. But what would be enough to make their country believe? The sport is no longer anathema here, but it is dominated by foreign powers – the Premier League, Mexico’s Liga MX and the Champions League all have a vice grip on what the public considers to be top-class soccer worth watching. What would be enough to make American soccer dominate soccer in America? To unleash an avalanche of attention that, for once, may match that given to baseball, basketball and American football? To hoover up an influx of commercial dollars that could –could– be put to good use and help solidify a domestic soccer culture in the American mainstream?\n\n“The first gift an Argentinian gets is a football; here, it’s a baseball bat, a basketball, an oval ball,” Pochettinotold the Guardian. “Changing that’s not today or tomorrow. But there are almost 400 million people, 80 million Latinos, who already have that football DNA, and there’s space [for all sports]. What’s the problem? That people want results now.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0029_1",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup Group D view from Turkey: young team can shake off ‘dark horses’ tag | Emre Sarigul",
+            "bullets": [
+              "Australia, the US and Paraguay will have their work cut out to match the Crescent Stars’ young midfi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Australia, the US and Paraguay will have their work cut out to match the Crescent Stars’ young midfield but a shaky defence is a genuine concernTurkey coach Vincenzo Montella has been building one of the nation’s strongest teams in living memory. A youth-driven squad with two genuine stars – Arda Guler and Kenan Yildiz – several players were not even born when the Crescent Stars last qualified for a World Cup and finished third in 2002.In past tournaments, Turkey were often labelled as “dark horses” – which turned out to be more of a curse than a blessing. This time, Montella has constructed a squad that sits among those on the rung below heavyweights Spain, France and Argentina. Continue reading...",
+            "fullText": "Australia, the US and Paraguay will have their work cut out to match the Crescent Stars’ young midfield but a shaky defence is a genuine concern\n\nTurkey coach Vincenzo Montella has been buildingone of the nation’s strongest teams in living memory. A youth-driven squad with two genuine stars – Arda Guler and Kenan Yildiz – several players were not even born when the Crescent Stars lastqualified for a World Cupand finished third in 2002.\n\nIn past tournaments,Turkeywere often labelled as “dark horses” – which turned out to be more of a curse than a blessing. This time, Montella has constructed a squad that sits among those on the rung below heavyweights Spain, France and Argentina.\n\nTurkey enter Group D alongside Australia, Paraguay and co-hosts the United States fancying their chances of progressing. This is a young team but there is plenty of top level experience, and while Guler and Yildiz are both 21 they play with a maturity beyond their years. Hakan Calhanoglu is the elder statesmen and will be pulling strings in midfield.\n\nGuler gave Turkey a major injury scare a few weeks ago but he has made a full recovery and will be fit for their opening game against Australia. The Real Madrid midfielder has the weight of the nation on his young shoulders but is relishing the challenge. “If there is pressure, I am here for it,” Guler said.\n\nTurkey’s main strength is in midfield and attack. Expect this side to try to dominate their Group D opposition with possession of the ball and to dictate the tempo of play.\n\nNo team has ever won theWorld Cupwith a foreign manager but Montella, born near Naples in Italy, has completely immersed himself in the socio-cultural fabric of Turkish football. “The culture that raised me and the culture I encountered in Turkey are incredibly similar,” he said. “I can think like a Turk. I eat like a Turk. I act like a Turk. That’s why I feel like a Turk.”\n\nTurkish football has a reputation for being melodramatic. So it has been a pleasant surprise that the team camp has been uncharacteristically tranquil. No drama, major fights, or feuding factions that have marred the national team in the past. The media has been surprisingly supportive as have the fans. It’s a far cry from the intense – at times toxic – pressure and scrutiny the manager and team usually receive ahead of a major tournament.\n\nMontella has engineered a tactically fluid, high-intensity 4-2-3-1 system which he often tweaks to try to get the best out of his key players – especially for Guler. But Turkey is not built around Guler, with Yildiz a star in his own right, while the influence of Calhanoglu, Orkun Kokcu and the full-backs give Montella flexibility and ensure the coach is not overly reliant on the Real Madrid midfielder.\n\nCalhanoglu is the conductor of this Turkish side. The Inter Milan midfielder has evolved into a deep-lying regista of the highest order. And the in-form Kokcu is adept at keeping the ball and doing defensive work as well as contributing to attacking moves.\n\nThe main area of concern for Turkey is in defence. It is where the team is most unpredictable and at times lacking discipline and organisation. That is precisely the reason Australia could pose a problem. Abdulkerim Bardakci and Merih Demiral are the likely centre-back pairing. Both are physical, commanding defenders who are strong in the air and tough in the tackle. They do sometimes lack synergy, have never played together at club level and have slipped up on occasion.\n\nThe Socceroos’ threat on counterattacksand from set pieces is a genuine concern. Turkey have struggled against well-drilled, defensive sides who bring an aerial threat. And while Turkey will probably dominate possession, Montella has yet to find his leading man up front and is still experimenting with his striker selection. This has made it tricky to unlock stubborn defences.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 11:05:11 EDT",
+  "lastUpdated": "2026-06-11 @ 16:00:50 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
