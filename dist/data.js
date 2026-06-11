@@ -14,14 +14,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Carl Starfelt was forced to various \"tricks\": \"Tried everything\"",
       "link": "https://www.svt.se/sport/fotboll/carl-starfelt-tvingades-till-olika-knep-testat-det-mesta"
-    },
-    {
-      "text": "⚽ Ekdal was pitted against Gyökeres in training: \"It hurts to face him\"",
-      "link": "https://www.svt.se/sport/fotboll/ekdal-stalldes-mot-gyokeres-pa-traning-det-gor-ont-att-mota-honom"
-    },
-    {
-      "text": "⚽ Nottingham Forest reject Manchester City’s £122m bid for Elliot Anderson",
-      "link": "https://www.theguardian.com/football/2026/jun/10/nottingham-forest-reject-manchester-citys-122m-bid-for-elliot-anderson"
     }
   ],
   "timeline": {
@@ -2262,11 +2254,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2026_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Louise will watch the World Cup premiere: \"The best thing is cohesion\"",
+            "bullets": [
+              "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are pe...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are people?",
+            "fullText": "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are people?\n\nThe first match of this year's World Cup is being played today. In the premiere, Mexico faces South Africa, with kick-off at 9:00 p.m.\n\nThe championship is played in the USA and the time difference means that several of Sweden's matches will be decided in the middle of the night Swedish time.\n\nHow excited are the residents of Eskilstuna for the football World Cup - and can they stay awake when the matches are played in the middle of the night? Hear their answers in the video above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2028_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Stina Isaksson expelled from SD: \"Unreasonable punishment\"",
+            "bullets": [
+              "The Sweden Democrats' party board decides to exclude Hylte politician Stina Isaksson from the party ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Sweden Democrats' party board decides to exclude Hylte politician Stina Isaksson from the party with immediate effect. \"We can confirm that Stina Isaksson has today been excluded from the Sweden Democrats. This is by decision of the party board,\" writes the Sweden Democrats' press department to SVT.",
+            "fullText": "The Sweden Democrats' party board decides to exclude Hylte politician Stina Isaksson from the party with immediate effect.\n\n\"We can confirm that Stina Isaksson has today been excluded from the Sweden Democrats. This is by decision of the party board,\" writes the Sweden Democrats' press department to SVT.\n\nOn Thursday, the Sweden Democrats' party board announced its announcement. They write in the message that they take a serious view of SD in Hylte handing out flyers with the text \"Stop social services taking care of your children\".\n\n- It feels very hard, says Stina Isaksson (-), who now plans to remain a political savage.\n\nStart the clip to hear how she comments on the flyers and the Sweden Democrats' future in Hylte municipality.\n\nThe chairman of the Sweden Democrats in Halland, Lars Larsson, writes in an SMS to SVT that Stina Isaksson leaves a void in the party locally and regionally, but that they of course respect the party board's decision.\n\n\"We have a strong team and our focus now will be to gather the party to take new steps with the aim of making as good an election as possible in the whole of Halland\", writes Lars Larsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2030_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Carl Starfelt was forced to various \"tricks\": \"Tried everything\"",
+            "bullets": [
+              "Many tricks to heal the body. The Swedish national team defender Carl Starfelt has tested that. - I ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Many tricks to heal the body. The Swedish national team defender Carl Starfelt has tested that. - I have tried most things, says the 31-year-old.",
+            "fullText": "The Swedish national team defender Carl Starfelt has tested that.\n\nHear Carl Starfelt about how he recovered from his back injury.\n\nThe defender got playing time against Greece in the World Cup general rep. Before that, however, he had been missing for his Celta Vigo after Sweden's playoff upset against Poland.\n\n- It feels very good actually, it has gone as well as I had hoped. I have trained fully now, he says.\n\nAfter an injury, the body can feel rusty. Or?\n\n- Although a little less than I actually thought. I've been away for quite a while though.\n\nWhen asked if it could be 90 minutes against Tunisia, Starfelt replies:\n\n- I am absolutely ready to play. Then, exactly how many minutes and how we would put it up I don't know. I feel in okay shape.\n\nSweden's World Cup opener against Tunisia on June 15, 04.00, Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 16:01:15 EDT",
+  "lastUpdated": "2026-06-11 @ 18:20:30 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
