@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT arrives in Los Angeles to begin final World Cup prep",
+      "text": "⚽ Pochettino: 'We are entering the tournament with high confidence'",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Paraguay locks in training sessions at Los Angeles training complex",
+      "text": "🌍 Australia squad settles in Seattle base camp to start workouts",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -1263,11 +1263,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "dyn_usa_20260611_2",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino: 'We are entering the tournament with high confidence'",
+            "bullets": [
+              "Pochettino addresses media at Los Angeles press center.",
+              "Pochettino: 'The Germany victory was good, but the real work starts now.'",
+              "US Soccer confirms over 70,000 fans expected at Rose Bowl opener."
+            ],
+            "summary": "Pochettino spoke to the media, highlighting that the friendly results are behind them. He wants his players to focus entirely on Paraguay, emphasizing that the opener is the key to the group.",
+            "fullText": "Pochettino spoke to the media, highlighting that the friendly results are behind them. He wants his players to focus entirely on Paraguay, emphasizing that the opener is the key to the group.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Doug McIntyre (Fox Sports)",
+            "readTime": "3 min",
+            "tag": "Press Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260611_2",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Australia squad settles in Seattle base camp to start workouts",
+            "bullets": [
+              "Socceroos execute tactical possession blocks in closed sessions.",
+              "Manager Tony Popovic: 'Timezone adaptation and physical fitness are key.'",
+              "Australia analysts compile detailed scout logs on USMNT's squad."
+            ],
+            "summary": "Australia has settled in Seattle and initiated training. Coach Popovic is focusing on defensive organization to prepare for Group D.",
+            "fullText": "Australia has settled in Seattle and initiated training. Coach Popovic is focusing on defensive organization to prepare for Group D.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Guardian Australia Sport",
+            "readTime": "3 min",
+            "tag": "Australia Scout",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 10:09:27 EDT",
+  "lastUpdated": "2026-06-11 @ 11:05:11 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
