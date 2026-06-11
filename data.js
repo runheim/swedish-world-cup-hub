@@ -20,10 +20,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/ekdal-stalldes-mot-gyokeres-pa-traning-det-gor-ont-att-mota-honom"
     },
     {
-      "text": "⚽ Olof Mellberg reacts to Gudmundsson's absence: \"Worrying\"",
-      "link": "https://www.svt.se/sport/fotboll/olof-mellbergs-reagerar-pa-gudmundssons-franvaro-orovackande"
-    },
-    {
       "text": "⚽ Nottingham Forest reject Manchester City’s £122m bid for Elliot Anderson",
       "link": "https://www.theguardian.com/football/2026/jun/10/nottingham-forest-reject-manchester-citys-122m-bid-for-elliot-anderson"
     }
@@ -2175,11 +2171,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0106_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Louise will watch the World Cup premiere: \"The best thing is cohesion\"",
+            "bullets": [
+              "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are pe...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are people?",
+            "fullText": "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are people?\n\nThe first match of this year's World Cup is being played today. In the premiere, Mexico faces South Africa, with kick-off at 9:00 p.m.\n\nThe championship is played in the USA and the time difference means that several of Sweden's matches will be decided in the middle of the night Swedish time.\n\nHow excited are the residents of Eskilstuna for the football World Cup - and can they stay awake when the matches are played in the middle of the night? Hear their answers in the video above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0110_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Stina Isaksson expelled from SD: \"Unreasonable punishment\"",
+            "bullets": [
+              "The Sweden Democrats' party board decides to exclude Hylte politician Stina Isaksson from the party ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Sweden Democrats' party board decides to exclude Hylte politician Stina Isaksson from the party with immediate effect. \"We can confirm that Stina Isaksson has today been excluded from the Sweden Democrats. This is by decision of the party board,\" writes the Sweden Democrats' press department to SVT.",
+            "fullText": "The Sweden Democrats' party board decides to exclude Hylte politician Stina Isaksson from the party with immediate effect.\n\n\"We can confirm that Stina Isaksson has today been excluded from the Sweden Democrats. This is by decision of the party board,\" writes the Sweden Democrats' press department to SVT.\n\nOn Thursday, the Sweden Democrats' party board announced its announcement. They write in the message that they take a serious view of SD in Hylte handing out flyers with the text \"Stop social services taking care of your children\".\n\n- It feels very hard, says Stina Isaksson (-), who now plans to remain a political savage.\n\nStart the clip to hear how she comments on the flyers and the Sweden Democrats' future in Hylte municipality.\n\nThe chairman of the Sweden Democrats in Halland, Lars Larsson, writes in an SMS to SVT that Stina Isaksson leaves a void in the party locally and regionally, but that they of course respect the party board's decision.\n\n\"We have a strong team and our focus now will be to gather the party to take new steps with the aim of making as good an election as possible in the whole of Halland\", writes Lars Larsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0112_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Carl Starfelt was forced to various \"tricks\": \"Tried everything\"",
+            "bullets": [
+              "Many tricks to heal the body. The Swedish national team defender Carl Starfelt has tested that. - I ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Many tricks to heal the body. The Swedish national team defender Carl Starfelt has tested that. - I have tried most things, says the 31-year-old.",
+            "fullText": "The Swedish national team defender Carl Starfelt has tested that.\n\nHear Carl Starfelt about how he recovered from his back injury.\n\nThe defender got playing time against Greece in the World Cup general rep. Before that, however, he had been missing for his Celta Vigo after Sweden's playoff upset against Poland.\n\n- It feels very good actually, it has gone as well as I had hoped. I have trained fully now, he says.\n\nAfter an injury, the body can feel rusty. Or?\n\n- Although a little less than I actually thought. I've been away for quite a while though.\n\nWhen asked if it could be 90 minutes against Tunisia, Starfelt replies:\n\n- I am absolutely ready to play. Then, exactly how many minutes and how we would put it up I don't know. I feel in okay shape.\n\nSweden's World Cup opener against Tunisia on June 15, 04.00, Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0114_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Ekdal was pitted against Gyökeres in training: \"It hurts to face him\"",
+            "bullets": [
+              "Hjalmar Ekdal was hot on the heels of Viktor Gyökeres. It heated up. - He complains all the time, sa...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Hjalmar Ekdal was hot on the heels of Viktor Gyökeres. It heated up. - He complains all the time, says the centre-back with a twinkle in his eye.",
+            "fullText": "- He complains all the time, says the centre-back with a twinkle in his eye.\n\nIt was during Tuesday's open national team training at FC Dallas Stadium that the defender had a clear task.\n\n- It is part of my game to be tough and aggressive and to tear the shirt and be hard on whoever I meet. I know that when I do that to Gyökeres, it will be three times as hard back. Then he would sink me with the force, says Ekdal.\n\nThe duo know each other since a period as teammates in BP.\n\n- He knows how to use his body. He also whines all the time, says Ekdal and explains that it is a positive characteristic.\n\n- He has a damn winner's head, he gets grumpy when I step hard. You have to be smart and not step in too hard, then you get back harder.\n\nThe 27-year-old, who is owned by Burnley, believes that the duels with the Arsenal striker are felt.\n\n- It hurts to meet him. Then you know he is tagged.\n\nPart of the upload for the World Cup premiere against Tunisia on June 15, starting at 04:00, Swedish time, that is.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0115_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Nottingham Forest reject Manchester City’s £122m bid for Elliot Anderson",
+            "bullets": [
+              "City intensify their pursuit of England midfielderForest want fee to match British record £125m for ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "City intensify their pursuit of England midfielderForest want fee to match British record £125m for IsakManchester City have made a second bid worth £122m for Elliot Anderson which has been rejected by Nottingham Forest, who want a British record transfer fee of £125m before any add-ons for the England midfielder.City’s offer follows an initial bid of £80m for the 23-year-old and is worth a guaranteed £106m plus £16m in potential add-ons. This would break the club’s record transfer of £100m paid to Aston Villa for Jack Grealish in August 2021. Continue reading...",
+            "fullText": "Forest want fee to match British record £125m for Isak\n\nManchester City have made a second bid worth £122m for Elliot Anderson which has been rejected byNottingham Forest, who want a British record transfer fee of £125m before any add-ons for the England midfielder.\n\nCity’s offer follows an initial bid of £80m for the 23-year-old and is worth a guaranteed £106m plus £16m in potential add-ons. This would break the club’s record transfer of £100m paidto Aston Villa for Jack Grealishin August 2021.\n\nThat was also the highest fee paid by a British club, though this mark is now the £125m Newcastle receivedfrom Liverpool for Alexander Isaklast summer. This is the basic fee Evangelos Marinakis, Forest’s owner, is understood to want for Anderson.\n\nManchester United have been intenton trying to beat their cross-town rivals to Anderson, but whether Sir Jim Ratcliffe, the club’s football chief, gives the green light to an effort to outbid City with the fee now so high remains to be seen. It is understood United may end their interest.\n\nThomas Tuchel is expected to name Anderson to start in England’s opening World Cup match against Croatia on Wednesday. While the German is a realist and understands that players may need to firm up any potential move during the tournament, he wants this to be done in an orderly fashion so as not to disrupt England’s prospects.\n\nThis may be why Hugo Viana, City’s director of football, decided to make the second bid for Anderson to Forest eight days before the Croatia game in order to cause the player and England the least possible distraction. As this has now been turned down, Viana may now return with a third – and possibly final – offer by the end of the week.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 11:05:29 EDT",
+  "lastUpdated": "2026-06-11 @ 16:01:15 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
