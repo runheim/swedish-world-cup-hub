@@ -4,23 +4,19 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The wild hip-hop parties that started Tuchel's journey to England boss",
-      "link": "https://www.bbc.com/sport/football/articles/cvgqevklyx1o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Gordon makes his point as England breeze past Costa Rica in final World Cup warm-up",
-      "link": "https://www.theguardian.com/football/2026/jun/11/england-costa-rica-world-cup-2026-warmup-match-report"
+      "text": "⚽ The Welsh doctor who sang Back Home on Top of the Pops with the England team",
+      "link": "https://www.bbc.com/news/articles/cd6evxwy9dzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Saracens' Willis wins Prem player of the season",
-      "link": "https://www.skysports.com/rugby-union/news/12040/13552894/gallagher-prem-tom-wills-crowned-prem-player-of-the-season-ahead-of-bordeaux-switch"
+      "text": "⚽ Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg",
+      "link": "https://www.theguardian.com/football/2026/jun/11/jude-bellingham-england-world-cup-opener-kane-tuchel-costa-rica-analysis"
     },
     {
-      "text": "⚽ England player ratings: Has Bellingham done enough?",
-      "link": "https://www.skysports.com/football/news/12040/13552806/england-player-ratings-anthony-gordon-proves-his-value-but-has-jude-bellingham-done-enough-to-guarantee-world-cup-start"
-    },
-    {
-      "text": "⚽ Gordon and Bellingham shine as England’s attack clicks into gear",
+      "text": "⚽ Tuchel proves Bellingham and Rogers can play together",
       "link": "https://www.telegraph.co.uk/football/2026/06/10/england-vs-costa-rica-live-score-latest-world-cup-warm-up/"
     }
   ],
@@ -3322,10 +3318,86 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-11": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3344_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+            "bullets": [
+              "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to face Croatia?",
+            "fullText": "Thomas Tuchel's England have won both of their World Cup warm-up games, against New Zealand and Costa Rica\n\nEngland's final friendly before the World Cup was delayed by violent storms rattling around Orlando's Inter&Co Stadium â but when it finally got under way it was well worth the wait for head coach Thomas Tuchel.\n\nTuchel was unhappy with England's lack of intensity in their opening friendly against New Zealand in Tampa, the 1-0 win effectively a glorified training session as he fielded two different teams in each half.\n\nThe 3-0 victory over Costa Rica was a sharp contrast, a fierce physical test with plenty of helpful pointers for Tuchel before England face Croatia in Dallas on 17 June.\n\nWhen asked by BBC Radio 5 Live after the game whether his starting line-up on Wednesday would be the same as for that opening group game, he answered simply: \"Maybe.\"\n\nThe German then added: \"But we will always keep our cards in our hand. We will not give any decisions away because my thoughts at the moment are not for Croatia, they're for here today.\n\n\"It was a very strong line-up but it was a very strong bench as well.\"\n\nSo what will Tuchel be considering before he names his starting line-up?\n\nEngland impress to beat Costa Rica in final World Cup warm-up\n\nIs England v Costa Rica delay a sign of things to come?\n\nTuchel has spent recent months deflecting debate about whether Real Madrid's Jude Bellingham or Morgan Rogers of Aston Villa should take England's number 10 role when the stakes are at their highest.\n\nThe German boss has seemed happy to foster healthy competition between the two boyhood friends, but now decision time is coming.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3344_1",
+            "category": "england",
+            "type": "News",
+            "title": "The Welsh doctor who sang Back Home on Top of the Pops with the England team",
+            "bullets": [
+              "Annie Onions said her dad was proud to be doctor for the England football team at the '66 World Cup.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Annie Onions said her dad was proud to be doctor for the England football team at the '66 World Cup.",
+            "fullText": "Kicking off their World Cup campaign against Croatia, England are hoping to become world champions for a second time and end 60 years of hurt.\n\nBut the man who was responsible for tending to any pain for players before they lifted the Jules Rimet trophy hailed from Malvern, Worcestershire.\n\nDr Neil Phillips, who died in 2015 aged 83, was the team doctor for the famed 1966 winning squad and worked with stars like Bobby Moore and Sir Geoff Hurst.\n\n\"He was so proud to be doctor to the England football team,\" his daughter Annie Onions recalls ahead of this summer's tournament in North America.\n\n\"What amazed him when he was on the pitch in 1966 before the final [was that] he was from Wales, his favourite sports were cricket and rugby, he spent six months doing gynaecology as part of his training, and he ends up doctor to the England World Cup team.\"\n\n\"It was always a pinch me moment [for him] standing there on that pitch and being part of it,\" she added.\n\nPhillips' role landed him an appearance on Top of the Pops alongside the Three Lions squad when their World Cup song, 'Back Home', shot to fame four years on from their World Cup triumph.\n\nHis bond with England skipper Moore was one of the highlights of his stint with the national team.\n\nOnions said she remembered trips to the West Ham legend's leather factory in London during her childhood whenever the family visited the capital.\n\n\"I had a bright red waistcoat in suede with all the tassels at the bottom,\" she said.\n\n\"From a very early age I was in love with Bobby Moore, I thought he was the greatest thing in the world and going there was just fabulous.\"\n\nHowever, the job did not come without challenges, particularly as part of a small team, with Phillips even having to use his holiday allowance to tend to the team during competitions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3345_2",
+            "category": "england",
+            "type": "News",
+            "title": "Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg",
+            "bullets": [
+              "Midfielder delivered complete performance against Costa Rica that should make up Thomas Tuchel’s min...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder delivered complete performance against Costa Rica that should make up Thomas Tuchel’s mind for himIt only took eight seconds for Jude Bellingham to steal the lightning’s thunder. Given the nod over Morgan Rogers, Bellingham set the tone for England when their friendly against Costa Rica finally got under way. The No 10 pressed from the front, racing to charge down a clearance from Darril Araya, and was key to the way Thomas Tuchel’s side made light of the unpredictable Florida weather by imposing themselves on inferior opposition from the first whistle.The skies had cleared by the time the game kicked off an hour later than advertised. The torrential downpour earlier in the day arrived after a three-week drought in Orlando, giving England a taste of what they can expect at the World Cup. Will they cope with the ups and downs of an American summer? Here at the agreeably compact Inter&amp;Co Stadium, Tuchel had an encouraging response. The lineup looked close to the one that will face Croatia in Group L next Wednesday and, after last Saturday’s glorified training exercise against New Zealand, there was a sense of England’s level rising as they eased to a 3-0 win. Continue reading...",
+            "fullText": "Midfielder delivered complete performance against Costa Rica that should make up Thomas Tuchel’s mind for him\n\nIt only took eight seconds forJude Bellinghamto steal the lightning’s thunder. Given the nod over Morgan Rogers, Bellingham set the tone for England when their friendly against Costa Rica finally got under way. The No 10 pressed from the front, racing to charge down a clearance from Darril Araya, and was key to the way Thomas Tuchel’s side made light of the unpredictable Florida weather by imposing themselves on inferior opposition from the first whistle.\n\nThe skies had cleared by the time the game kicked off an hour later than advertised. The torrential downpour earlier in the day arrived after a three-week drought in Orlando, giving England a taste of what they can expect at the World Cup. Will they cope with the ups and downs of an American summer? Here at the agreeably compact Inter&Co Stadium, Tuchel had an encouraging response. The lineup looked close to the one that will face Croatia in Group L next Wednesday and, after last Saturday’sglorified training exercise against New Zealand, there was a sense of England’s level rising as they eased toa 3-0 win.\n\nSharp combinations, positive dribbling and intelligent movement off the ball suggested a lot of good work has been done on patterns of play in training. Tuchel had to be happy. He was critical ofEngland’s “freestyle” first halfagainst New Zealand, pointing to a lack of positional discipline, but this was better. Reece James inverted from right-back, giving England an extra man in midfield. The wingers were high and wide. Anthony Gordon, who is battling with Marcus Rashford for a place on the left, crackled with menace and clicked with Nico O’Reilly, whose dynamic surges from left-back were a constant feature of England’s early play.\n\nReally, though, this was mostly about whether Bellingham could do enough to force his way into the starting XI. The 22-year-old played with the hunger of someone with a point to prove. As much as Tuchel has tried to direct attention elsewhere, arguing that theWorld Cupwill not be decided by one individual, the fascination around Bellingham’s place in the pecking order is inevitable. That No 10 spot is not his to lose. Rogers has been in the ascendancy under Tuchel, in part because of his ability to link play and work out of possession.\n\nIt is worth keeping in mind that Tuchel does not want his No 10 to mooch around and only come alive with the ball. Crucially Bellingham got the message. That his first action was to press showed he had the attitude. He worked hard and made four defensive contributions inside the first 12 minutes.\n\nNot that it was all about the unfashionable stuff. Bellingham spun early on and saw a fierce shot deflected just wide.Englandled after 10 minutes, Gordon storming past right-back Shawn Johnson and pulling the ball back for Declan Rice to sweep past Patrick Sequeira in Costa Rica’s goal.\n\nA metronomic midfield display from Elliot Anderson,subject of a £122m bidfrom Manchester City, meant Rice had licence to roam. Making those little relationships work is vital. Further forward, there were hints of Bellingham and Harry Kane clicking in a way they never did at Euro 2024.\n\nTheir partnership is still a work in progress. They have combined for only one goal in open play in 39 appearances. There wasthe debacle against Denmarkat the Euros, England floundering, Kane and Bellingham only passing to each other once. This was a world away from that shambles. At one point Kane and Bellingham could not stop passing to each other. There was one beautiful exchange during the first half in Orlando. It started with a Kane flick. Bellingham moved into space and threaded a pass through to Noni Madueke, who moved in from the right and rounded Sequeira, only to hit the post with the goal gaping.\n\nEngland should have scored more than three. What mattered more, though, is that Kane and Bellingham worked together. Bellingham was disciplined and clever in his movement. He moved high and vacated the space when Kane dropped back. There was a focus on making sure they did not get in each other’s way.\n\nTuchel has food for thought before facing Croatia. He made a flurry of changes after the hour. The substitutes made an impact, Ollie Watkins heading in the third after Rogers had a shot pushed away.\n\nEngland, who had 18 shots, were flexible and versatile. Bellingham took the armband when Kane went off. He soon produced a moment of brilliance, dancing in from the left, wriggling through the bodies and creating the chance that led to Eberechi Eze winning the penalty for Gordon to make it 2-0.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3356_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel proves Bellingham and Rogers can play together",
+            "bullets": [
+              "Tuchel proves Bellingham and Rogers can play together",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel proves Bellingham and Rogers can play together",
+            "fullText": "England’s final warm-up game before the World Cup was delayed by an hour because of a thunderstorm. It is a situation they might have to get used to during this tournament.\n\nBut when the game finally began there were more than a few forks of lightning out on the pitch: Anthony Gordon was razor-sharp and confirmed that he is Harry Kane’s understudy when it comes to taking (and scoring) penalties. Elliot Anderson looked every bit the midfielder that Manchester Cityvalue at north of £100m, and then there was Jude Bellingham. He rumbled around making things happen. Provoking and creating. His presence was felt.\n\nStarting in his preferred role as a No 10, Bellingham looked like a player ready to make an impact at this tournament. There is an incisiveness to his football and, intriguingly, for a few minutes at least, Thomas Tuchel tried him as a striker, a No 9, with substitute Morgan Rogers close to him. That helped force England’s second goal, through a fine dribble from Bellingham aided by Rogers’s pass. The combination caught the eye.\n\nBellingham and Rogers – close friends – in the team together, rather than rivals? Tuchel had said it was possible. And it was also possible for Eberechi Eze to get in – and that happened, too. He was true to his word.\n\nAgainst Costa Rica – who were without half of their strongest XI, in fairness – England should have won far more convincingly but, thankfully, they were better than in theflat 1-0 victory over New Zealandon Saturday.\n\nThere was sharpness, there was speed and aggression and there was a desire to go for goals. Did we also see Tuchel play his hand with his starting XI for next Wednesday’s first group game against Croatia?\n\nMaybe so. There was no Marc Guéhi, Marcus Rashford, Bukayo Saka or Rogers, and they will all have a say. But it was close and thankfully, it was effective.\n\nBellingham made a difference. The 22-year-old does not do friendlies and there were clashes and cross words with the Costa Ricans – who were undercooked but not averse to putting their foot in, as they racked up yellow cards – that lifted England.\n\nBellingham looked like a player with a point to prove and, as Tuchel tries to create competition and a bit of “jeopardy” in his squad, there is no harm in that.\n\nInterestingly it was the first time that Bellingham, Kane, Anderson and Declan Rice had started together under Tuchel and it was Rice who made an early mark, sweeping England into the lead.\n\nIt came as Gordon – hugely dangerous in his audition for the left-wing spot ahead of Rashford – burst to the byline and pulled the ball back. Not for the last time. Rice’s first-time shot took a deflection, but still ended up in the net. Fresh from being publicly confirmed as England’s vice-captain, it was an immediate impact from Rice, one of the four Arsenal players to join up late after the Champions League final.\n\nA rapid start from the THREE LIONS! 🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿Declan Rice tucks it away to give England the lead 💥pic.twitter.com/K04zePrnwQ",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 19:56:05 EDT",
+  "lastUpdated": "2026-06-11 @ 08:33:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
