@@ -3566,11 +3566,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2105_0",
+            "category": "england",
+            "type": "News",
+            "title": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+            "bullets": [
+              "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when dropping deep so often? Thomas Tuchel knows - and England might now feel the benefit.",
+            "fullText": "Harry Kane has scored 61 goals for Bayern Munich over the season just gone\n\nThere has been much debate about how England should use Harry Kane. But Thomas Tuchel's opinion is clear. He wants his captain to drop deep.\n\nPundits and fans alike have questioned Kane's positioning in the past. Why, they ask, would such a prolific scorer not stay in the box when England need goals?\n\nBut dropping deep might enable Kane to strike gold at this World Cup. Explaining why requires a look at the role he has been playing for Bayern over the past few months.\n\nKane has just enjoyed the most prolific season of his club career. In 51 games for Bayern Munich, he scored 61 goals.\n\nIt is a ridiculous tally for any striker, never mind one tasked with contributing to a side's build-up play as he has for Bayern over the season just completed.\n\nEngland fans will want to see this goal-happy version of Kane in the World Cup. But  it is worth noting that he achieved his remarkable total playing in an increasingly free role, encouraged to drop as deep as his full-backs at times.\n\nAnd so Tuchel has decided that building the squad around this version of Kane makes the most sense.\n\nBayern lacked a natural link player between their defence and attack for much of the season because of the injuries that plagued midfielder Jamal Musiala.\n\n\"When Jamal's playing, it's a bit different. Getting the ball off defenders, driving... when we were playing together, it was better for him to go and do that,\" Kane said.\n\n\"This season, it's allowed me to play a little bit deeper, use my qualities in that sense of turning and playing it forward, then arriving later in the box.\"\n\nKane executed the role brilliantly, possessing a remarkable passing quality from deep - helping find runners ahead of him in dangerous attacking positions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2106_1",
+            "category": "england",
+            "type": "News",
+            "title": "Players organise England team-bonding dinner in Miami",
+            "bullets": [
+              "England players organise a team-bonding dinner in Miami with Thomas Tuchel giving them time off from...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players organise a team-bonding dinner in Miami with Thomas Tuchel giving them time off from their gruelling Florida pre-World Cup training camp.",
+            "fullText": "England face Croatia in their opening World Cup match on 17 June\n\nEngland's players have organised a team-bonding dinner in Miami after Thomas Tuchel gave them time off from their gruelling Florida pre-World Cup training camp.\n\nHaving arrived at their base in West Palm Beach on 1 June, the players have completed a number of intense training sessions in the searing heat as they look to prepare themselves for the hot and humid conditions they are likely to face during the tournament held in the United States, Mexico and Canada.\n\nAnd the trip to Miami will provide a final opportunity for them to unwind before flying on Saturday to Kansas City, where they will be based for the final.\n\nSources close to the England camp say not all players are attending and will stay around West Palm Beach.\n\nEngland defeated Costa Rica 3-0 in their final warm-up game on Wednesday in Orlando, before immediately flying back to West Palm Beach for a behind-closed-doors match against local side Miami United  - which they won - on Thursday.\n\nBut once that training exercise is over, boss Tuchel has promised his squad a day and a half off before their flight to Kansas City - and told them to return to their base on Friday evening following the planned dinner.\n\nTuchel has tried to nurture a relaxed atmosphere during the team's training camp, although it is understood he forcibly expressed his displeasure at half-time during the laboured 1-0 win over New Zealand for what he felt was an underwhelming performance.\n\nThe players have enjoyed rounds of golf after training and were joined by American five-time Major winner Brooks Koepka on the course, while European Ryder Cup hero Ian Poulter also visited after the Costa Rica game.\n\nFamilies have been allowed into the camp and generally players' time has been their own after training.\n\nBut when they arrive in Kansas City over the weekend, the reins are likely to be tightened.\n\nDuring major tournaments under former boss Gareth Southgate, players were generally allowed to see their family members immediately after games and then the following day.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2106_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+            "bullets": [
+              "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to face Croatia?",
+            "fullText": "Thomas Tuchel's England have won both of their World Cup warm-up games, against New Zealand and Costa Rica\n\nEngland's final friendly before the World Cup was delayed by violent storms rattling around Orlando's Inter&Co Stadium â but when it finally got under way it was well worth the wait for head coach Thomas Tuchel.\n\nTuchel was unhappy with England's lack of intensity in their opening friendly against New Zealand in Tampa, the 1-0 win effectively a glorified training session as he fielded two different teams in each half.\n\nThe 3-0 victory over Costa Rica was a sharp contrast, a fierce physical test with plenty of helpful pointers for Tuchel before England face Croatia in Dallas on 17 June.\n\nWhen asked by BBC Radio 5 Live after the game whether his starting line-up on Wednesday would be the same as for that opening group game, he answered simply: \"Maybe.\"\n\nThe German then added: \"But we will always keep our cards in our hand. We will not give any decisions away because my thoughts at the moment are not for Croatia, they're for here today.\n\n\"It was a very strong line-up but it was a very strong bench as well.\"\n\nSo what will Tuchel be considering before he names his starting line-up?\n\nEngland impress to beat Costa Rica in final World Cup warm-up\n\nIs England v Costa Rica delay a sign of things to come?\n\nTuchel has spent recent months deflecting debate about whether Real Madrid's Jude Bellingham or Morgan Rogers of Aston Villa should take England's number 10 role when the stakes are at their highest.\n\nThe German boss has seemed happy to foster healthy competition between the two boyhood friends, but now decision time is coming.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2106_3",
+            "category": "england",
+            "type": "News",
+            "title": "‘They are adults’: Tuchel grants England players day off with few strings attached",
+            "bullets": [
+              "Manager says team must ‘live up to the trust’ on rest daysGerman suggests Bellingham may play as a ‘...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manager says team must ‘live up to the trust’ on rest daysGerman suggests Bellingham may play as a ‘free role’ No 9Thomas Tuchel is confident that his England players will not abuse his trust, as he granted them time off with few strings attached at the end of their pre-World Cup training camp in Florida.The manager said he was happy for them to do whatever they wanted – as long as it did not involve air travel – before they fly on Saturday to Kansas City, their base for the tournament. Tuchel oversaw a training game against the amateur club Miami United in Palm Beach Gardens on Thursday before giving the players the rest of the day and Friday off. Continue reading...",
+            "fullText": "Manager says team must ‘live up to the trust’ on rest days\n\nGerman suggests Bellingham may play as a ‘free role’ No 9\n\nThomas Tuchel is confident that his England players will not abuse his trust, as he granted them time off with few strings attached at the end of their pre-World Cup training camp in Florida.\n\nThe manager said he was happy for them to do whatever they wanted – as long as it did not involve air travel – before they fly on Saturday to Kansas City, their base for the tournament. Tuchel oversaw a training game against the amateur club Miami United in Palm Beach Gardens on Thursday before giving the players the rest of the day and Friday off.\n\nThe move was in keeping with the tone of the period in Florida, which has brought hard work on the training ground and two warm‑up matches but plenty of downtime with family and friends. Since the players’ arrival in West Palm Beach on the Monday of last week, they have been able to go out in the evenings and have not really been bothered or photographed.\n\nEnglanddefeated New Zealand 1-0 in Tampalast Saturday beforewinning 3-0 against Costa Rica in Orlandoon Wednesday. The focus will narrow when they get to Kansas City before their opening World Cup group game against Croatia in Dallas next Wednesday.\n\n“The players are getting one and a half days off to relax and switch off, not only physically but mentally and then we start the next chapter,” Tuchel said. “The next chapter is the group stage and I’m happy that we switch location. This location has been amazing but it’s good to switch the brain.\n\n“The players can almost do what they want [with the free time]. For example, they can’t take a flight. We said no flights because hopefully we have a lot of flights through the tournament.\n\n“No one has asked for a flight. They are adults. They are determined, as well, so the trust is not only a one‑way street. We expect them to live up to the trust, the responsibility, we give them. Everything I have seen of them is [that they are] a determined group who have a dream but know what it takes. I have full belief and trust that they will not gamble on that.”\n\nTuchel said Jude Bellingham could play as a No 9 during theWorld Cupafter he used him briefly there against Costa Rica. Bellingham pushed up into the role after Tuchel introduced Morgan Rogers for Harry Kane in the 63rd minute. Bellingham was withdrawn eight minutes later but not before his mazy run and pass teed up another substitute, Eberechi Eze, for the shot that led to a penalty for handball. Anthony Gordon scored it.\n\n“Maybe … we’ll see in the tournament,” Tuchel said. “It’s easy. Jude can play as the No 9 almost like in a free role; come into midfield, drop into midfield, drop into half spaces, start more dribbling, Harry then starts more assisting.\n\n“Jude has the personality to score, to be decisive and to arrive in the box so it is an option to play with him and Morgan. I wanted to see that for a few minutes, at least. Let’s see.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2106_4",
+            "category": "england",
+            "type": "News",
+            "title": "England World Cup 2026 team guide",
+            "bullets": [
+              "Thomas Tuchel wants to ‘put a second star on the shirt’ after making big selection calls, but what w...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel wants to ‘put a second star on the shirt’ after making big selection calls, but what will be Jude Bellingham’s role?This article is part of the Guardian’s 2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June. Continue reading...",
+            "fullText": "Thomas Tuchel wants to ‘put a second star on the shirt’ after making big selection calls, but what will be Jude Bellingham’s role?\n\nThis article is part of the Guardian’s2026 World Cup Experts’ Network, a cooperation between some of the best media organisations from the 48 countries who qualified. theguardian.com is running previews from three countries each day in the run-up to the tournament kicking off on 11 June.\n\nQualifying was a doddle.Englandcruised through it, recording eight wins from eight games, 22 goals scored and none conceded, but the opposition was hardly taxing. As so often the question is how the Three Lions will fare when they come up against the very best in a knockout tie.\n\nOver to Thomas Tuchel, then. Brought in after a series of near misses under Gareth Southgate, the German has been tasked with getting England over the line, ending 60 years of hurt for the men’s side. The aim, Tuchel said at his unveiling in October 2024, is to “to try and put a second star on the shirt”. But the former Chelsea manager is realistic about his side’s hopes this summer. “We can’t be one of the favourites as we haven’t won it for so long,” Tuchel said this week. “There are proven winners within the tournament. These are the favourites.”\n\n17 Junev Croatia, Dallas (3pm local, 9pm BST, 18 June 6am AEST)\n\n23 Junev Ghana, Boston (4pm local, 9pm BST, 24 June 6am AEST)\n\n27 Junev Panama, New York/New Jersey (5pm local, 10pm BST, 28 June 7am AEST)\n\nIt has not been the easiest build. There have been some missteps under Tuchel – performances against Andorra and Senegal last summer drew a negative response – but there have been some fine outings. England are good when they have a shared purpose. Tuchel has talked about building a brotherhood. He has looked to implement the right culture in the camp and he has a talented squad. He made some bold calls with his squad, omitting Phil Foden, Cole Palmer and Trent Alexander-Arnold but taking Ivan Toney, and appears to have found clarity.\n\nExpect England to line up in a 4-2-3-1 system. They have enviable attacking options, a host of No 10s and Declan Rice, one of the best midfielders in the world. There are, however, question marks over the defensive options and, as ever, fitness concerns over key players. As for Tuchel’s relationship with Jude Bellingham, that will need to be handled carefully. If the Real Madrid midfielder is in the mood, he could be the player who helps England lift the trophy.\n\nIt was important that Bellingham played well as England eased to warm-up wins over New Zealand and Costa Rica in Florida. “This will hopefully be an amazing experience,” Tuchel said after beating Costa Rica.\n\nA German managing England? It might be jarring to some, but the thing aboutThomas Tuchelis that he is an anglophile. He gets the culture and he is one of the best managers in the world. Tuchel won league titles with Bayern Munich and Paris Saint-Germain, while winning the Champions League with Chelsea in 2021 showcased his mastery of knockout football. However, this is his first foray into international football. Southgate was outstanding at creating the right environment during a tournament. Can Tuchel, who recently extended his contract through to Euro 2028, make sure that the shirt does not feel heavy?\n\nTo think that there were doubts overHarry Kane’s England future when he was substituted during the defeat against Spain in the final of Euro 2024. The striker laboured through that tournament, his performances those of a player who was clearly not at 100%, but he remains the team’s inspiration and leader. Quite simply, England do not function without their captain and record goalscorer. Tuchel needs Kane to be fresh. The Bayern Munich striker has had another prolific season and a strongWorld Cupwill put him in contention for the Ballon d’Or.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2115_5",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel proves Bellingham and Rogers can play together",
+            "bullets": [
+              "Tuchel proves Bellingham and Rogers can play together",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel proves Bellingham and Rogers can play together",
+            "fullText": "England’s final warm-up game before the World Cup was delayed by an hour because of a thunderstorm. It is a situation they might have to get used to during this tournament.\n\nBut when the game finally began there were more than a few forks of lightning out on the pitch: Anthony Gordon was razor-sharp and confirmed that he is Harry Kane’s understudy when it comes to taking (and scoring) penalties. Elliot Anderson looked every bit the midfielder that Manchester Cityvalue at north of £100m, and then there was Jude Bellingham. He rumbled around making things happen. Provoking and creating. His presence was felt.\n\nStarting in his preferred role as a No 10, Bellingham looked like a player ready to make an impact at this tournament. There is an incisiveness to his football and, intriguingly, for a few minutes at least, Thomas Tuchel tried him as a striker, a No 9, with substitute Morgan Rogers close to him. That helped force England’s second goal, through a fine dribble from Bellingham aided by Rogers’s pass. The combination caught the eye.\n\nBellingham and Rogers – close friends – in the team together, rather than rivals? Tuchel had said it was possible. And it was also possible for Eberechi Eze to get in – and that happened, too. He was true to his word.\n\nAgainst Costa Rica – who were without half of their strongest XI, in fairness – England should have won far more convincingly but, thankfully, they were better than in theflat 1-0 victory over New Zealandon Saturday.\n\nThere was sharpness, there was speed and aggression and there was a desire to go for goals. Did we also see Tuchel play his hand with his starting XI for next Wednesday’s first group game against Croatia?\n\nMaybe so. There was no Marc Guéhi, Marcus Rashford, Bukayo Saka or Rogers, and they will all have a say. But it was close and thankfully, it was effective.\n\nBellingham made a difference. The 22-year-old does not do friendlies and there were clashes and cross words with the Costa Ricans – who were undercooked but not averse to putting their foot in, as they racked up yellow cards – that lifted England.\n\nBellingham looked like a player with a point to prove and, as Tuchel tries to create competition and a bit of “jeopardy” in his squad, there is no harm in that.\n\nInterestingly it was the first time that Bellingham, Kane, Anderson and Declan Rice had started together under Tuchel and it was Rice who made an early mark, sweeping England into the lead.\n\nIt came as Gordon – hugely dangerous in his audition for the left-wing spot ahead of Rashford – burst to the byline and pulled the ball back. Not for the last time. Rice’s first-time shot took a deflection, but still ended up in the net. Fresh from being publicly confirmed as England’s vice-captain, it was an immediate impact from Rice, one of the four Arsenal players to join up late after the Champions League final.\n\nA rapid start from the THREE LIONS! 🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿Declan Rice tucks it away to give England the lead 💥pic.twitter.com/K04zePrnwQ",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 16:00:38 EDT",
+  "lastUpdated": "2026-06-11 @ 18:21:15 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
