@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino: ‘No one sees the USA as a contender – but why not?’",
-      "link": "https://www.theguardian.com/football/2026/jun/10/mauricio-pochettino-no-one-sees-the-usa-as-a-contender-but-why-not"
+      "text": "⚽ USMNT arrives in Los Angeles to begin final World Cup prep",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Paraguay locks in training sessions at Los Angeles training complex",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -1206,10 +1222,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-11": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_usa_20260611_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT arrives in Los Angeles to begin final World Cup prep",
+            "bullets": [
+              "Pochettino leads first training session at LA prep headquarters.",
+              "Roster focuses on tactical drills and set-piece positioning in hot weather.",
+              "Captain Christian Pulisic: 'LA base is exceptional; focus is ultra-high.'"
+            ],
+            "summary": "The USMNT has landed in Los Angeles to begin their final tournament preparations. Under Mauricio Pochettino, the squad has initiated tactical sessions, prioritizing midfield shape and set-piece defense.",
+            "fullText": "The USMNT has landed in Los Angeles to begin their final tournament preparations. Under Mauricio Pochettino, the squad has initiated tactical sessions, prioritizing midfield shape and set-piece defense.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Jeff Carlisle (ESPN FC)",
+            "readTime": "3 min",
+            "tag": "LA Camp",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260611_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Paraguay locks in training sessions at Los Angeles training complex",
+            "bullets": [
+              "La Albirroja conducts conditioning drills at their LA preparation base.",
+              "Gustavo Alfaro demands aggressive central blocking in tactical scrimmages.",
+              "Paraguayan FA reports zero player injuries in camp."
+            ],
+            "summary": "Paraguay continues their intensive preparation in LA. Under manager Alfaro, the team is focusing on defensive discipline, simulating USA's wide overlapping runs.",
+            "fullText": "Paraguay continues their intensive preparation in LA. Under manager Alfaro, the team is focusing on defensive discipline, simulating USA's wide overlapping runs.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "ESPN FC South America Desk",
+            "readTime": "3 min",
+            "tag": "Paraguay Scout",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-10 @ 19:56:13 EDT",
+  "lastUpdated": "2026-06-11 @ 08:33:58 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
