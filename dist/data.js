@@ -2071,7 +2071,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 08:33:12 EDT",
+  "lastUpdated": "2026-06-11 @ 10:10:10 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
@@ -2666,41 +2666,6 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇸🇪",
       "text": "Bara några dagar kvar nu. Känner ni peppen?",
       "time": "18:36",
-      "isCaptain": false
-    },
-    {
-      "sender": "Jesper Karlsson",
-      "avatar": "🇸🇪",
-      "text": "Vilket mål på träningen! Jag tror jag hittat formen.",
-      "time": "10:09",
-      "isCaptain": false
-    },
-    {
-      "sender": "Emil Krafth",
-      "avatar": "🇸🇪",
-      "text": "Hörni, samling i teorisalen om 10 minuter.",
-      "time": "10:10",
-      "isCaptain": false
-    },
-    {
-      "sender": "Alexander Isak",
-      "avatar": "🇸🇪",
-      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
-      "time": "10:11",
-      "isCaptain": false
-    },
-    {
-      "sender": "Carl Starfelt",
-      "avatar": "🇸🇪",
-      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
-      "time": "10:12",
-      "isCaptain": false
-    },
-    {
-      "sender": "Dejan Kulusevski",
-      "avatar": "🇸🇪",
-      "text": "Bara några dagar kvar nu. Känner ni peppen?",
-      "time": "10:13",
       "isCaptain": false
     }
   ]
