@@ -12,12 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/news/articles/cd6evxwy9dzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Jude Bellingham clicks alongside Kane at last. He should start in England’s World Cup opener | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jun/11/jude-bellingham-england-world-cup-opener-kane-tuchel-costa-rica-analysis"
-    },
-    {
-      "text": "⚽ Tuchel proves Bellingham and Rogers can play together",
-      "link": "https://www.telegraph.co.uk/football/2026/06/10/england-vs-costa-rica-live-score-latest-world-cup-warm-up/"
+      "text": "⚽ Canadian soccer, finally on stable ground, tightens in anticipation of a historic World Cup",
+      "link": "https://www.theguardian.com/football/2026/jun/11/canada-world-cup-opening-game-jesse-marsch"
     }
   ],
   "timeline": {
@@ -3397,7 +3393,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 08:33:56 EDT",
+  "lastUpdated": "2026-06-11 @ 10:08:53 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
@@ -3992,6 +3988,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "text": "Don't forget the media duties at 2pm lads.",
       "time": "18:36",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Don't forget the media duties at 2pm lads.",
+      "time": "10:09",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "That training session was proper intense.",
+      "time": "10:10",
+      "isCaptain": false
+    },
+    {
+      "sender": "Trent Alexander-Arnold",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Early night for me. Need the recovery.",
+      "time": "10:11",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "10:12",
+      "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "10:13",
       "isCaptain": false
     }
   ]

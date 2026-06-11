@@ -753,8 +753,8 @@ const MATCH_SCHEDULE = [
     time: "16:00",
     opponent: "Costa Rica",
     opponentFlag: "🇨🇷",
-    venue: "Wembley Stadium, London",
-    details: "Second Warm-up Friendly. The final home match at Wembley before the squad departs for their World Cup base in the United States."
+    venue: "Inter&Co Stadium, Orlando",
+    details: "Second Warm-up Friendly. Florida pre-camp send-off under severe thunderstorm delays in Orlando."
   },
   {
     id: "match_croatia",
@@ -812,24 +812,24 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_cr": {
-    score: "3 - 1",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Saka (14'), Bellingham (42'), Watkins (81') | 🇨🇷 Campbell (58')",
-    report: "England secures their second warm-up win before traveling! Bukayo Saka got the side off to a flyer before Jude Bellingham scored a stunning header. Costa Rica pulled one back in the second half, but Ollie Watkins sealed the win in the 81st minute.",
+    score: "3 - 0",
+    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Rice (9'), Gordon (66' pen), Watkins (84')",
+    report: "England secured a comfortable 3-0 victory over Costa Rica in Orlando in their final pre-World Cup friendly. The match was delayed by an hour due to severe thunderstorms in the area, but the Three Lions quickly adapted to the conditions. Declan Rice opened the scoring in the 9th minute with a clinical strike. Anthony Gordon doubled the lead from the penalty spot in the 66th minute after being fouled in the box. Late in the second half, substitute Ollie Watkins sealed the win with a neat finish. Thomas Tuchel's side controlled over 80% of the possession and registered 28 shots in a dominant display.",
     ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Steady performance, made one good diving save in the first half.", isMotm: false },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Excellent distribution, linked deep defense and midfielders cleanly.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Solid positioning, shut down central target runs.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Used pacing speed to close down wide attacks.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 8.0, comment: "Broke up transition drills and won multiple second balls.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 7.5, comment: "Press-resistant display in highly contested midfield spaces.", isMotm: false },
-      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "Disciplined work down the left, linked up with wingers.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 8.5, comment: "Immense physical presence. Scored a towering header in the box.", isMotm: false },
-      { name: "Bukayo Saka", role: "RW", rating: 9.0, comment: "Spectacular winger display. Opened the scoring with a sublime finish.", isMotm: true },
-      { name: "Harry Kane", role: "ST", rating: 7.5, comment: "Superb hold up play, created excellent spaces for midfielders.", isMotm: false }
+      { name: "Jordan Pickford", role: "GK", rating: 6.5, comment: "Had a very quiet night in Orlando, making one comfortable save. Tidy distribution throughout.", isMotm: false },
+      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Solid defensive display on the right, keeping Costa Rica's wide threats completely quiet.", isMotm: false },
+      { name: "John Stones", role: "CB", rating: 7.0, comment: "Stepped up into midfield with confidence, recycling possession and initiating attacks cleanly.", isMotm: false },
+      { name: "Ezri Konsa", role: "CB", rating: 7.0, comment: "Composed and untroubled at the back, managing Costa Rica's counter-attacking runs with ease.", isMotm: false },
+      { name: "Luke Shaw", role: "LB", rating: 7.0, comment: "Showed good fitness levels down the left flank, delivering dangerous overlapping runs.", isMotm: false },
+      { name: "Declan Rice", role: "DM", rating: 8.0, comment: "Commanded the midfield and scored a brilliant opening goal in the 9th minute. Absolute anchor.", isMotm: false },
+      { name: "Kobbie Mainoo", role: "CM", rating: 7.5, comment: "Showcased press-resistance and tidy passing in tight central spaces, connecting play well.", isMotm: false },
+      { name: "Bukayo Saka", role: "RW", rating: 7.0, comment: "Active on the right flank, stretching Costa Rica's low-block defense and creating space.", isMotm: false },
+      { name: "Anthony Gordon", role: "LW", rating: 8.5, comment: "Standout performer. Constant threat with his speed, won and converted the 66th minute penalty. Man of the Match.", isMotm: true },
+      { name: "Ollie Watkins", role: "ST", rating: 8.0, comment: "Subbed on late and sealed the 3-0 win with a clinical, sharp finish in the 84th minute.", isMotm: false }
     ],
     preview: {
-      tactical: "The final home match at Wembley! Expectations are high to finalize the starting XI and test team chemistry.",
-      keyStat: "England has won all historical matches against Costa Rica."
+      tactical: "The final warm-up friendly in Orlando, Florida. Focus will be on final adjustments and testing tactical variations under severe conditions.",
+      keyStat: "England has won all three of their historical friendly matches against Costa Rica."
     }
   },
   "match_croatia": {preview: {
