@@ -8,12 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ The Welsh doctor who sang Back Home on Top of the Pops with the England team",
-      "link": "https://www.bbc.com/news/articles/cd6evxwy9dzo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Canadian soccer, finally on stable ground, tightens in anticipation of a historic World Cup",
       "link": "https://www.theguardian.com/football/2026/jun/11/canada-world-cup-opening-game-jesse-marsch"
+    },
+    {
+      "text": "⚽ Tuchel proves Bellingham and Rogers can play together",
+      "link": "https://www.telegraph.co.uk/football/2026/06/10/england-vs-costa-rica-live-score-latest-world-cup-warm-up/"
     }
   ],
   "timeline": {
@@ -3389,11 +3389,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0509_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
+            "bullets": [
+              "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup preparations are complete, so who will now make it into Thomas Tuchel's team to face Croatia?",
+            "fullText": "Thomas Tuchel's England have won both of their World Cup warm-up games, against New Zealand and Costa Rica\n\nEngland's final friendly before the World Cup was delayed by violent storms rattling around Orlando's Inter&Co Stadium â but when it finally got under way it was well worth the wait for head coach Thomas Tuchel.\n\nTuchel was unhappy with England's lack of intensity in their opening friendly against New Zealand in Tampa, the 1-0 win effectively a glorified training session as he fielded two different teams in each half.\n\nThe 3-0 victory over Costa Rica was a sharp contrast, a fierce physical test with plenty of helpful pointers for Tuchel before England face Croatia in Dallas on 17 June.\n\nWhen asked by BBC Radio 5 Live after the game whether his starting line-up on Wednesday would be the same as for that opening group game, he answered simply: \"Maybe.\"\n\nThe German then added: \"But we will always keep our cards in our hand. We will not give any decisions away because my thoughts at the moment are not for Croatia, they're for here today.\n\n\"It was a very strong line-up but it was a very strong bench as well.\"\n\nSo what will Tuchel be considering before he names his starting line-up?\n\nEngland impress to beat Costa Rica in final World Cup warm-up\n\nIs England v Costa Rica delay a sign of things to come?\n\nTuchel has spent recent months deflecting debate about whether Real Madrid's Jude Bellingham or Morgan Rogers of Aston Villa should take England's number 10 role when the stakes are at their highest.\n\nThe German boss has seemed happy to foster healthy competition between the two boyhood friends, but now decision time is coming.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0509_1",
+            "category": "england",
+            "type": "News",
+            "title": "Canadian soccer, finally on stable ground, tightens in anticipation of a historic World Cup",
+            "bullets": [
+              "Jesse Marsch leads a hopeful squad aiming to capture the nation’s attention after a false start last...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jesse Marsch leads a hopeful squad aiming to capture the nation’s attention after a false start last time out• World Cup newsletter | Daily podcast | Download the appCanada’s best had about as close to a day off as you get in Jesse Marsch’s world Wednesday morning. The national team have taken over the training campus of Toronto FC in the city’s northern crust and Matchday-minus-2 was a light session, jogging pace mostly, players doing some limbering, and a lot of looking.The place is pancake flat, as you’d expect from a disused airport, so looming over the whole area is Rogers Stadium, an outdoor concert venue which rose out of the runway and holds 52,000 people ...for now. Noted poet of life and football Liam Gallagher helped inaugurate it last August when he saluted fans in “those stupid fucking stands up there that were built about 30 fucking minutes ago”. Continue reading...",
+            "fullText": "Jesse Marsch leads a hopeful squad aiming to capture the nation’s attention after a false start last time out\n\nWorld Cup newsletter|Daily podcast|Download the app\n\nCanada’s best had about as close to a day off as you get in Jesse Marsch’s world Wednesday morning. The national team have taken over the training campus of Toronto FC in the city’s northern crust and Matchday-minus-2 was a light session, jogging pace mostly, players doing some limbering, and a lot of looking.\n\nThe place is pancake flat, as you’d expect from a disused airport, so looming over the whole area is Rogers Stadium, an outdoor concert venue which rose out of the runway and holds 52,000 people ...for now. Noted poet of life and football Liam Gallagher helped inaugurate it last August when he saluted fans in “those stupid fucking stands up there that were built about 30 fucking minutes ago”.\n\nRogers Stadium is temporary. The 17,000 seats added to BMO Field downtown to turn it into Toronto Stadium for itsWorld Cupmoment this summer are, also, temporary. The getting has been awfully good for the scaffolding men and rivet women of Canada in recent times.\n\nWhat the football public here crave now and over the next five and a half weeks is something permanent. A legacy which can last. Marsch and his players do too, desperately so. The most gifted squad Canada have ever assembled sometimes talk about having already turned their homeland into a football country. At others they reference it as an ambition. The truth is somewhere in the middle – a work in progress, one which maybe feels closer to its start than finish. Which makes Friday afternoon’s World Cup opener, and all that follows, so precious.\n\nFour years ago Canada’s men made their World Cup return after nearly four decades and it was the most fleeting of things. They were the first country sent home, the only team to join hosts Qatar in putting a zero on the board. John Herdman’s claim that he’d already turned Canada into a football nation looked as naive as his tactics proved on the biggest stage.\n\n“Ahhhh. That was one of our biggest regrets in Qatar,” defender Alistair Johnston told the Guardian this week. “We knew the whole country was right there. We couldn’t give them something to really grasp on to and ride the coat tails of. This summer now, we’re so much more experienced, less naive, less deer in the headlights. We’re ready for this moment and, this time, instead of having to feel that passion halfway around the world, it’s going to be right there in the stands, in the streets.”\n\nJohnston and his teammates felt it up close on Monday with a raucous community training session, hundreds of schoolchildren creating one hell of a din. They were loudest when Canada’s captain came by, “Phonzieee, Phonzieee!” the cry.\n\nAlphonso Davies is the face of this golden generation, a prolific winner with Bayern Munich. In Qatar he scored Canada’s first World Cup goal, the liftoff moment until Croatia scored four in reply. Along with Celtic’s Johnston, Jonathan David at Juventus, Tajon Buchanan and Tani Oluwaseyi at Villarreal, Ismaël Koné at Sassuolo and a clutch of others, Davies spends his club days among Europe’s upper end. In two whirlwind years under Marsch, upwards of a third of this squad have earned moves from MLS to Europe or from smaller European outposts into big five leagues.\n\nInterest has grown and grown. The run to the Copa América semi-finals months after Marsch took charge relit the fire after the post-Qatar lull. The American’s magnetism and willingness to push back against US President Donald Trump’s 51st State rhetoric won new fans. Expectations have risen and so a team that under Herdman carried a ceremonial sword as a symbol (gimmick?) of their warrior spirit now find themselves with a double-edged one.\n\nAs co-hosts, the draw and schedule was soft and favourable. In Group B, Marsch’s team kicks off against Bosnia and Herzegovina here Friday before making for Vancouver to face Qatar and Switzerland. A golden path, staying home through two knockout rounds, is on offer if they can top the group. Marsch has spoken of achieving that goal, of his “people’s team lighting the country on fire”.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0518_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel proves Bellingham and Rogers can play together",
+            "bullets": [
+              "Tuchel proves Bellingham and Rogers can play together",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel proves Bellingham and Rogers can play together",
+            "fullText": "England’s final warm-up game before the World Cup was delayed by an hour because of a thunderstorm. It is a situation they might have to get used to during this tournament.\n\nBut when the game finally began there were more than a few forks of lightning out on the pitch: Anthony Gordon was razor-sharp and confirmed that he is Harry Kane’s understudy when it comes to taking (and scoring) penalties. Elliot Anderson looked every bit the midfielder that Manchester Cityvalue at north of £100m, and then there was Jude Bellingham. He rumbled around making things happen. Provoking and creating. His presence was felt.\n\nStarting in his preferred role as a No 10, Bellingham looked like a player ready to make an impact at this tournament. There is an incisiveness to his football and, intriguingly, for a few minutes at least, Thomas Tuchel tried him as a striker, a No 9, with substitute Morgan Rogers close to him. That helped force England’s second goal, through a fine dribble from Bellingham aided by Rogers’s pass. The combination caught the eye.\n\nBellingham and Rogers – close friends – in the team together, rather than rivals? Tuchel had said it was possible. And it was also possible for Eberechi Eze to get in – and that happened, too. He was true to his word.\n\nAgainst Costa Rica – who were without half of their strongest XI, in fairness – England should have won far more convincingly but, thankfully, they were better than in theflat 1-0 victory over New Zealandon Saturday.\n\nThere was sharpness, there was speed and aggression and there was a desire to go for goals. Did we also see Tuchel play his hand with his starting XI for next Wednesday’s first group game against Croatia?\n\nMaybe so. There was no Marc Guéhi, Marcus Rashford, Bukayo Saka or Rogers, and they will all have a say. But it was close and thankfully, it was effective.\n\nBellingham made a difference. The 22-year-old does not do friendlies and there were clashes and cross words with the Costa Ricans – who were undercooked but not averse to putting their foot in, as they racked up yellow cards – that lifted England.\n\nBellingham looked like a player with a point to prove and, as Tuchel tries to create competition and a bit of “jeopardy” in his squad, there is no harm in that.\n\nInterestingly it was the first time that Bellingham, Kane, Anderson and Declan Rice had started together under Tuchel and it was Rice who made an early mark, sweeping England into the lead.\n\nIt came as Gordon – hugely dangerous in his audition for the left-wing spot ahead of Rashford – burst to the byline and pulled the ball back. Not for the last time. Rice’s first-time shot took a deflection, but still ended up in the net. Fresh from being publicly confirmed as England’s vice-captain, it was an immediate impact from Rice, one of the four Arsenal players to join up late after the Champions League final.\n\nA rapid start from the THREE LIONS! 🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿Declan Rice tucks it away to give England the lead 💥pic.twitter.com/K04zePrnwQ",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 10:08:53 EDT",
+  "lastUpdated": "2026-06-11 @ 11:05:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
