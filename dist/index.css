@@ -2970,7 +2970,27 @@ body {
 #venue-guide-card { grid-column: span 12 !important; }
 
 @media (max-width: 1200px) {
-  .dashboard-grid > .panel-card {
+  /* Override ID selector specificity and force full width on mobile */
+  #bulletin-board-card,
+  #match-timeline-card,
+  #match-center-card,
+  #group-standings-card,
+  #tactical-field-card,
+  #fanzone-card,
+  #locker-chat-card,
+  #music-player-card,
+  #venue-guide-card {
     grid-column: span 12 !important;
   }
+
+  /* Set visual order for cellphone layouts */
+  #bulletin-board-card { order: 1; }
+  #match-timeline-card { order: 2; }
+  #group-standings-card { order: 3; }
+  #match-center-card { order: 4; }
+  #locker-chat-card { order: 5; }
+  #fanzone-card { order: 6; }
+  #music-player-card { order: 7; }
+  #tactical-field-card { order: 8; }
+  #venue-guide-card { order: 9; }
 }
