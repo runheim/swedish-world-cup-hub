@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ The United States enter a charged World Cup asking: what is enough?",
       "link": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview"
-    },
-    {
-      "text": "⚽ World Cup Group D view from Turkey: young team can shake off ‘dark horses’ tag | Emre Sarigul",
-      "link": "https://www.theguardian.com/football/blog/2026/jun/12/world-cup-group-d-matches-turkey-national-football-team-strengths-weaknesses"
     }
   ],
   "timeline": {
@@ -1331,11 +1327,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2107_0",
+            "category": "usa",
+            "type": "News",
+            "title": "The United States enter a charged World Cup asking: what is enough?",
+            "bullets": [
+              "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sportWorld Cup newsletter | Daily podcast | Download the appMauricio Pochettino paused. The microphone signal flickered. He tried, for a second time, to say a few things to the 5,500 fans who had gathered in the sun Monday at Championship Soccer Stadium in Irvine, California – the United States’ World Cup home base – for an open training session. Nothing. Then something. More choppy audio. By the time things came back online, he had developed a quip.“We are in the greatest country in the world,” he said in his Rioplatense-accented English. “But the technology does not work.” Continue reading...",
+            "fullText": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sport\n\nWorld Cup newsletter|Daily podcast|Download the app\n\nMauricio Pochettino paused. The microphone signal flickered. He tried, for a second time, to say a few things to the 5,500 fans who had gathered in the sun Monday at Championship Soccer Stadium in Irvine, California – the United States’World Cuphome base – for an open training session. Nothing. Then something. More choppy audio. By the time things came back online, he had developed a quip.\n\n“We are in the greatest country in the world,” he said in his Rioplatense-accented English. “But the technology does not work.”\n\nPochettino’s adaptation to the US soccer scene has not been without hiccups. The Argentinian arrived on a $6m-per-year contract (the largest outlay for a coach in US Soccer history) with a résumé featuring some of the most famous clubs and players in the world. His job: to lead a nation more known for excellence in other sports to a historic finish at a World Cup they would co-host.\n\nOver his 22 months in charge, the results – 15 wins, 10 losses, and a draw – are hardly indicative that a run of that magnitude is coming. His side have looked unsettled in their structure at various points, alternating brilliant passages with lackadaisical moments, full of fight one minute then meek the next. Yet Pochettino has fed into the hype, saying repeatedly that the US can win the World Cup. (“Why not?”, he is fond of asking.)\n\nMany observers argue that it’s just as easy to see the team crash out in the group stage, or exit at the first knockout round, as they did at Qatar 2022. There are no pushovers in a group with Paraguay, Australia and Turkey. And the team have struggled against the type of quality sides they may face in the Round of 32, last 16, and beyond.\n\nWhat is enough? It’s the uncomfortably vague question that looms over the US more than most at this tournament. The elite, like Spain, France, Brazil and Argentina, enter the World Cup knowing that anything less than winning the trophy will be a failure. Minnows – the likes of Curaçao, Jordan and Cape Verde – know that simply giving a good account of themselves will count for a whole lot.\n\nThe US performance, meanwhile, will be read as a referendum not just on a group of players considered to be the most talented in the history of the men’s program, but on the potential of American soccer itself.\n\n“We want to do this for ourselves and for our own country,” Christian Pulisic, the team’s biggest star, told reporters earlier this month. “We have really good players playing in top clubs in the world, we have a good team. We’re going to do the best we can to prove ourselves right.”\n\nThe coach believes. The players believe. But what would be enough to make their country believe? The sport is no longer anathema here, but it is dominated by foreign powers – the Premier League, Mexico’s Liga MX and the Champions League all have a vice grip on what the public considers to be top-class soccer worth watching. What would be enough to make American soccer dominate soccer in America? To unleash an avalanche of attention that, for once, may match that given to baseball, basketball and American football? To hoover up an influx of commercial dollars that could –could– be put to good use and help solidify a domestic soccer culture in the American mainstream?\n\n“The first gift an Argentinian gets is a football; here, it’s a baseball bat, a basketball, an oval ball,” Pochettinotold the Guardian. “Changing that’s not today or tomorrow. But there are almost 400 million people, 80 million Latinos, who already have that football DNA, and there’s space [for all sports]. What’s the problem? That people want results now.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 16:00:50 EDT",
+  "lastUpdated": "2026-06-11 @ 18:21:31 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
