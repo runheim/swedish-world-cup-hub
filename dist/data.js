@@ -4344,6 +4344,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Can't wait to get back out there. Focus is 100%.",
       "time": "15:25",
       "isCaptain": false
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Rest up tonight boys. Massive week ahead.",
+      "time": "18:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "18:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "18:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Pitch is looking immaculate out there.",
+      "time": "18:32",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Bags packed and ready. Let's get it.",
+      "time": "18:33",
+      "isCaptain": false
     }
   ]
 };
