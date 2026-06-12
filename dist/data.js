@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
       "link": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup"
-    },
-    {
-      "text": "⚽ The United States enter a charged World Cup asking: what is enough?",
-      "link": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview"
     }
   ],
   "timeline": {
@@ -1400,7 +1396,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-12 @ 07:55:29 EDT",
+  "lastUpdated": "2026-06-12 @ 08:44:49 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
