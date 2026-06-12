@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ TV4 blew the World Cup viewers on Shakira: \"Unfortunate\"",
       "link": "https://www.svt.se/kultur/tv4-blaste-vm-tittarna-pa-shakira"
-    },
-    {
-      "text": "⚽ Louise will watch the World Cup premiere: \"The best thing is cohesion\"",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/louise-ska-kolla-vm-premiaren-det-basta-ar-sammanhallningen"
     }
   ],
   "timeline": {
@@ -2353,7 +2349,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-12 @ 07:55:11 EDT",
+  "lastUpdated": "2026-06-12 @ 08:44:33 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
