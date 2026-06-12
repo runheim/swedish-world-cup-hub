@@ -4744,6 +4744,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Bags packed and ready. Let's get it.",
       "time": "13:47",
       "isCaptain": true
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "18:03",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "18:04",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Morning lads! Just checking in.",
+      "time": "18:05",
+      "isCaptain": true
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "18:06",
+      "isCaptain": false
+    },
+    {
+      "sender": "Trent Alexander-Arnold",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "18:07",
+      "isCaptain": false
     }
   ]
 };
