@@ -4,32 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Players organise England team-bonding dinner in Miami",
-      "link": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ We need to feel love playing for England - Bellingham",
+      "link": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Drop deep, cash in - why Kane can be England's free-scoring false nine",
       "link": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
-      "link": "https://www.bbc.com/sport/football/articles/cz9lxld1892o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Players organise England team-bonding dinner in Miami",
+      "link": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ ‘They are adults’: Tuchel grants England players day off with few strings attached",
-      "link": "https://www.theguardian.com/football/2026/jun/11/they-are-adults-tuchel-grants-england-players-day-off-with-few-strings-attached"
+      "text": "⚽ Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+      "link": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup"
     },
     {
-      "text": "⚽ England World Cup 2026 team guide",
-      "link": "https://www.theguardian.com/football/2026/jun/11/england-world-cup-2026-team-guide"
+      "text": "⚽ Bellingham: England got things wrong off the pitch at Euro 2024",
+      "link": "https://www.skysports.com/football/news/12040/13553275/jude-bellingham-england-got-things-wrong-off-the-pitch-at-euro-2024"
     },
     {
-      "text": "⚽ Trippier could cancel Wolves move after Edwards sacking",
-      "link": "https://www.skysports.com/football/news/12040/13553188/wolves-kieran-trippier-could-cancel-molineux-move-after-rob-edwards-sacking"
-    },
-    {
-      "text": "⚽ Tuchel proves Bellingham and Rogers can play together",
-      "link": "https://www.telegraph.co.uk/football/2026/06/10/england-vs-costa-rica-live-score-latest-world-cup-warm-up/"
+      "text": "⚽ Neville: England team is built around Kane - he's the only world-class talent",
+      "link": "https://www.skysports.com/football/news/12040/13553281/world-cup-2026-england-team-is-built-around-harry-kane-hes-the-only-genuine-world-class-player-in-squad-says-gary-neville"
     }
   ],
   "timeline": {
@@ -3679,10 +3675,120 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-12": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5507_0",
+            "category": "england",
+            "type": "News",
+            "title": "We need to feel love playing for England - Bellingham",
+            "bullets": [
+              "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to help the Three Lions enjoy World Cup success this summer.",
+            "fullText": "Jude Bellingham scored once for England at Euro 2024\n\nMidfielder Jude Bellingham has stressed the importance of players needing to \"feel loved\" as he looks to help England enjoy World Cup success this summer.\n\nThe tournament in North America got under way on Thursday as Mexico - hosts alongside USA and Canada -beat South Africa 2-0.\n\nEngland's tournament does not get under way until next Wednesday, when they take on Croatia in Arlington, Texas.\n\nBellingham was part of the England squad that reached the final of Euro 2024, where they were beaten by Spain.\n\nHowever, the national team - then managed by Gareth Southgate - were often accused of playing poorly in that tournament, with Bellingham saying previouslyhe felt like a bit of a scapegoatfor England's failure to win that tournament.\n\nBellingham admitted something felt that the group were \"not quite connected\" during the Euros but has stressed there is a different feel around the camp now.\n\n\"At the Euros we got some things a little bit wrong off the pitch,\" he said on England's Lions' Den show.\n\n\"I don't feel like the group connected as well as it could have for a number of reasons. Expectation was part of it - we had done well in 2018 and done well in Qatar [for the 2022 World Cup] and when it came to that tournament we were seen as one of two or three teams that should win it.\n\n\"We were not playing particularly well so even when we were winning you didn't get the feeling you were as happy as you should be.\n\n\"There has to be that element of relentless and wanting to win but it is the nature of football that wins go out of the system quickly and we should hold on to that moment a little more.\n\n\"I think this time round having those experiences... and knowing, for example, that the guy who scores the winning goal in the World Cup final isn't always the one you'd bet your house on so you've always got to be ready, everyone's got to feel loved and feel a huge part of the team. The other thing is just to enjoy it.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5507_1",
+            "category": "england",
+            "type": "News",
+            "title": "Drop deep, cash in - why Kane can be England's free-scoring false nine",
+            "bullets": [
+              "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How has Harry Kane managed to enjoy the best goalscoring season of his career at Bayern Munich when dropping deep so often? Thomas Tuchel knows - and England might now feel the benefit.",
+            "fullText": "Harry Kane has scored 61 goals for Bayern Munich over the season just gone\n\nThere has been much debate about how England should use Harry Kane. But Thomas Tuchel's opinion is clear. He wants his captain to drop deep.\n\nPundits and fans alike have questioned Kane's positioning in the past. Why, they ask, would such a prolific scorer not stay in the box when England need goals?\n\nBut dropping deep might enable Kane to strike gold at this World Cup. Explaining why requires a look at the role he has been playing for Bayern over the past few months.\n\nKane has just enjoyed the most prolific season of his club career. In 51 games for Bayern Munich, he scored 61 goals.\n\nIt is a ridiculous tally for any striker, never mind one tasked with contributing to a side's build-up play as he has for Bayern over the season just completed.\n\nEngland fans will want to see this goal-happy version of Kane in the World Cup. But  it is worth noting that he achieved his remarkable total playing in an increasingly free role, encouraged to drop as deep as his full-backs at times.\n\nAnd so Tuchel has decided that building the squad around this version of Kane makes the most sense.\n\nBayern lacked a natural link player between their defence and attack for much of the season because of the injuries that plagued midfielder Jamal Musiala.\n\n\"When Jamal's playing, it's a bit different. Getting the ball off defenders, driving... when we were playing together, it was better for him to go and do that,\" Kane said.\n\n\"This season, it's allowed me to play a little bit deeper, use my qualities in that sense of turning and playing it forward, then arriving later in the box.\"\n\nKane executed the role brilliantly, possessing a remarkable passing quality from deep - helping find runners ahead of him in dangerous attacking positions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5507_2",
+            "category": "england",
+            "type": "News",
+            "title": "Players organise England team-bonding dinner in Miami",
+            "bullets": [
+              "England players organise a team-bonding dinner in Miami with Thomas Tuchel giving them time off from...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players organise a team-bonding dinner in Miami with Thomas Tuchel giving them time off from their gruelling Florida pre-World Cup training camp.",
+            "fullText": "England face Croatia in their opening World Cup match on 17 June\n\nEngland's players have organised a team-bonding dinner in Miami after Thomas Tuchel gave them time off from their gruelling Florida pre-World Cup training camp.\n\nHaving arrived at their base in West Palm Beach on 1 June, the players have completed a number of intense training sessions in the searing heat as they look to prepare themselves for the hot and humid conditions they are likely to face during the tournament held in the United States, Mexico and Canada.\n\nAnd the trip to Miami will provide a final opportunity for them to unwind before flying on Saturday to Kansas City, where they will be based for the final.\n\nSources close to the England camp say not all players are attending and will stay around West Palm Beach.\n\nEngland defeated Costa Rica 3-0 in their final warm-up game on Wednesday in Orlando, before immediately flying back to West Palm Beach for a behind-closed-doors match against local side Miami United  - which they won - on Thursday.\n\nBut once that training exercise is over, boss Tuchel has promised his squad a day and a half off before their flight to Kansas City - and told them to return to their base on Friday evening following the planned dinner.\n\nTuchel has tried to nurture a relaxed atmosphere during the team's training camp, although it is understood he forcibly expressed his displeasure at half-time during the laboured 1-0 win over New Zealand for what he felt was an underwhelming performance.\n\nThe players have enjoyed rounds of golf after training and were joined by American five-time Major winner Brooks Koepka on the course, while European Ryder Cup hero Ian Poulter also visited after the Costa Rica game.\n\nFamilies have been allowed into the camp and generally players' time has been their own after training.\n\nBut when they arrive in Kansas City over the weekend, the reins are likely to be tightened.\n\nDuring major tournaments under former boss Gareth Southgate, players were generally allowed to see their family members immediately after games and then the following day.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5507_3",
+            "category": "england",
+            "type": "News",
+            "title": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+            "bullets": [
+              "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to die on his swordIn Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.Thomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time. I’ve seen him work at Chelsea. I’ve watched him in training and I’m a huge fan. He’s honest with his players and very direct. He doesn’t waste time – this is business, this is serious – but he’s also a fantastic guy. Continue reading...",
+            "fullText": "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to die on his sword\n\nInThomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.\n\nThomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time. I’ve seen him work at Chelsea. I’ve watched him in training and I’m a huge fan. He’s honest with his players and very direct. He doesn’t waste time – this is business, this is serious – but he’s also a fantastic guy.\n\nHe’s warm, friendly, open and he built great relationships with the Chelsea staff. He would invite the women’s staff to watch his sessions and he always made me feel very welcome. I will never forget when we won the 2021 Fifa Best men’s and women’s coach of the year awards, at home during Covid, both watching on a Zoom call. When Thomas won, I was so happy for him.\n\nIt has been three weeks since Thomas picked his 26-player squad for thisWorld Cupand I know how carefully he will have thought through every decision. He’s the kind of coach who is going to die on his sword. Sometimes we get caught up in the wrong things when a squad is announced for a major tournament. There are always going to be top-quality players left out. That’s a given.\n\nThomas has been very clear – he’s got 14 or 15 core players who will be involved in almost every game. Any changes to the starting XI are likely to come from within that group, so sometimes we get too caught up on the whole “26 players”. The reality for a head coach is you need a squad that can come away for 50 days, be together and accept their roles, because plenty of them won’t play. So what are their behaviours like? What are their contributions to the team like? You have to factor in all of those things because you still have to keep the harmony. A common goal requires sacrifice and the right ego. You can also see he has also gone for very athletic and durable players.\n\nThis is never a quick decision for a coach like Thomas. The decision-making process starts with what he wants in terms of his game model and who can cope with the demands, the environmental conditions, playing in great humidity and in heat. He’s had enough opportunity during England’s impeccable qualification process – eight wins out of eight and no goals conceded – to see these players inside-out.\n\nYou can’t evaluate things just on what players are doing for clubs. You have the benefit of knowing how they respond in the international environment. Somebody like Bukayo Saka has built up credit for England over a long period of time.\n\nWhen you leave players out, it is never an easy phone call. There is no great way to tell someone that news and it is not a fun thing to do. Sometimes it’s very quick: “Listen, you haven’t made the group and I just wanted you to know that” – and that’s that. Sometimes it’s: “If you’ve got any questions, you can ask” – and more often than not, they’re like: “No”. Every manager will have their own methods.\n\nPhil Foden and Cole Palmer are exceptional talents and it’s disappointing when players are left out. But you can’t leave Jude Bellingham out of the squad, and I think Eberechi Eze has also had a good second half of the season, so I understand Thomas’s decision to include him.\n\nIf there was one call I was a bit surprised by, it was Palmer. I thought Palmer might have snuck in because when you haven’t got Jack Grealish and Foden, sometimes having that little bit of magic can be a big help. I know he’s scored only seven goals since the start of 2026 and hasn’t been at his top level, but he’s a special player with special feet. At the same time, I understand the decision. Every time I hear Thomas speaking about it, he’s very clear on the profile he’s looking for.\n\nHe will have also wanted to ensure he has a group that can cope well at set pieces, which will be a huge factor. He has picked plenty of quality in the front areas. Ollie Watkins finished the season strongly. Some might argue Dominic Solanke could have been closer to a place if he were fit, although I don’t think he’s had a great season, and Dominic Calvin-Lewin was an option, but Ivan Toney is an exceptional finisher.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5508_4",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham: England got things wrong off the pitch at Euro 2024",
+            "bullets": [
+              "Jude Bellingham has claimed things were not right off the pitch in England's camp at Euro 2024.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has claimed things were not right off the pitch in England's camp at Euro 2024.",
+            "fullText": "England kick off their 2026 World Cup campaign against Croatia at the AT&T Stadium on Wednesday night; Jude Bellingham and Morgan Rogers are battling for the No 10 role in Thomas Tuchel's side; the Real Madrid playmaker has claimed things were not right off the pitch at Euro 2024",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5509_5",
+            "category": "england",
+            "type": "News",
+            "title": "Neville: England team is built around Kane - he's the only world-class talent",
+            "bullets": [
+              "Gary Neville believes the England team has been built around Harry Kane, who he considers the only g...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gary Neville believes the England team has been built around Harry Kane, who he considers the only genuine world-class player in the squad.",
+            "fullText": "Harry Kane is leading England into the World Cup after the best season of his career; striker netted 61 goals in 51 appearances for Bayern Munich; Sky Sports' Gary Neville believes Thomas Tuchel has built the England team around Kane; England face Croatia in first Group L game on Wednesday",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 20:07:44 EDT",
+  "lastUpdated": "2026-06-12 @ 07:55:12 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
