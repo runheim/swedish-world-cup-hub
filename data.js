@@ -2368,11 +2368,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1900_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "TV4 blew the World Cup viewers on Shakira: \"Unfortunate\"",
+            "bullets": [
+              "TV4's viewers missed large parts of the opening of the soccer World Cup. The channel did not broadca...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "TV4's viewers missed large parts of the opening of the soccer World Cup. The channel did not broadcast when Shakira sang the WC song \"Dai dai\". Several viewers were later affected by technical problems during the premiere match. - We follow it up very carefully to ensure that everything flows forward, says TV4's sports director Johan Cederqvist.",
+            "fullText": "TV4's viewers missed large parts of the opening of the soccer World Cup. The channel did not broadcast when Shakira sang the WC song \"Dai dai\".\n\nSeveral viewers were later affected by technical problems during the premiere match.\n\n- We follow it up very carefully to ensure that everything flows forward, says TV4's sports director Johan Cederqvist.\n\nWhen the time came for the opening of the World Cup at the Azteca Stadium in Mexico City, many viewers expected to see the grand party. But when it came time for Shakira to perform the WC song together with Burna Boy, there was studio talk in the box instead.\n\nSeveral viewers wrote in SVT's direct report and complained.\n\n\"Sitting and listening to uninteresting analyzes instead of hearing world artists is not encouraging...\".\n\nTV4's presenter profile Steffo Törnquist criticized the own channel in Nyhetsmorgon on Friday.\n\n- That's where we lost ourselves on TV4. We went to the studio when Shakira was going to sing, he says.\n\nTV4's sports manager Johan Cederqvist comments on the incident in an email to SVT Kulturnyheterna.\n\n\"We were unable to read from FIFA information about the timings of the various performances in the opening ceremony. Unfortunately, this led to us not showing Shakira live. It is unfortunate, but we have had millions of consumption of those clips afterwards. Tonight we will show the American opening ceremony in a special broadcast on TV4 Play.\"\n\nDuring the premiere match between Mexico and South Africa, several viewers were then affected by technical problems with TV4 Play.\n\nUsers were kicked out of the app, experienced the image as poor and had difficulty purchasing subscriptions. Many were met with error messages.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-12 @ 14:22:42 EDT",
+  "lastUpdated": "2026-06-12 @ 17:19:00 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
