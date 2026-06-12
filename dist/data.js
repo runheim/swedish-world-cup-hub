@@ -4,6 +4,14 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Bellingham set to start, but no Guehi - England's expected team",
+      "link": "https://www.bbc.com/sport/football/articles/cx2dn77m8gwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Richards 'understands' but disagrees with Tuchel's England squad selection",
+      "link": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ We need to feel love playing for England - Bellingham",
       "link": "https://www.bbc.com/sport/football/articles/cvg5mkemp1go?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -3871,11 +3879,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1902_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham set to start, but no Guehi - England's expected team",
+            "bullets": [
+              "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi cou...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
+            "fullText": "Jude Bellingham has represented England four times this season\n\nDuring his first media briefing here in the United States, England manager Thomas Tuchel said he had \"14 or 15\" players in mind to start their World Cup opener against Croatia next week.\n\nOf course, it's in the best interests of every manager to keep people guessing on his team selection.\n\nBut did Tuchel give away clues in his team's final World Cup warm-up game against Costa Rica on Wednesday?\n\nWell, there is certainly a sense within the camp that the team that started in Orlando, barring maybe one or two exceptions, will be the side that begins the tournament.\n\nCrucially, that would mean Jude Bellingham is set to win the race ahead of Morgan Rogers to play in the coveted No 10 role.\n\nThe Bellingham or Rogers debate has been among the most fiercely debated heading into the tournament.\n\nBellingham's ability and history of producing special moments in an England shirt is unquestionable.\n\nThe fact he plays in the pressurised environment of Real Madrid merely serves to fuel the sense that he should start here in the USA.\n\nBut the emergence of Rogers as a more than viable option in the central attacking position has led to some uncertainty over Bellingham's role.\n\nNevertheless, with sources indicating that the team that started in the3-0 win over Costa Ricawill be close to the team that Tuchel picks against Croatia on Wednesday â then Rogers will likely have to settle for a place on the bench.\n\nWe need to feel love playing for England - Bellingham",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1903_1",
+            "category": "england",
+            "type": "News",
+            "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
+            "bullets": [
+              "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel fo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, adding he would have selected one of Cole Palmer or Phil Foden.",
+            "fullText": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with all of Tuchel's selections.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1903_2",
+            "category": "england",
+            "type": "News",
+            "title": "We need to feel love playing for England - Bellingham",
+            "bullets": [
+              "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder Jude Bellingham stresses the importance of needing to 'feel loved' as he looks to help the Three Lions enjoy World Cup success this summer.",
+            "fullText": "Jude Bellingham scored once for England at Euro 2024\n\nMidfielder Jude Bellingham has stressed the importance of players needing to \"feel loved\" as he looks to help England enjoy World Cup success this summer.\n\nThe tournament in North America got under way on Thursday as Mexico - hosts alongside USA and Canada -beat South Africa 2-0.\n\nEngland's tournament does not get under way until next Wednesday, when they take on Croatia in Arlington, Texas.\n\nBellingham was part of the England squad that reached the final of Euro 2024, where they were beaten by Spain.\n\nHowever, the national team - then managed by Gareth Southgate - were often accused of playing poorly in that tournament, with Bellingham saying previouslyhe felt like a bit of a scapegoatfor England's failure to win that tournament.\n\nBellingham admitted something felt that the group were \"not quite connected\" during the Euros but has stressed there is a different feel around the camp now.\n\n\"At the Euros we got some things a little bit wrong off the pitch,\" he said on England's Lions' Den show.\n\n\"I don't feel like the group connected as well as it could have for a number of reasons. Expectation was part of it - we had done well in 2018 and done well in Qatar [for the 2022 World Cup] and when it came to that tournament we were seen as one of two or three teams that should win it.\n\n\"We were not playing particularly well so even when we were winning you didn't get the feeling you were as happy as you should be.\n\n\"There has to be that element of relentless and wanting to win but it is the nature of football that wins go out of the system quickly and we should hold on to that moment a little more.\n\n\"I think this time round having those experiences... and knowing, for example, that the guy who scores the winning goal in the World Cup final isn't always the one you'd bet your house on so you've always got to be ready, everyone's got to feel loved and feel a huge part of the team. The other thing is just to enjoy it.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1903_3",
+            "category": "england",
+            "type": "News",
+            "title": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+            "bullets": [
+              "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his swordIn Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.Thomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time. Continue reading...",
+            "fullText": "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his sword\n\nInThomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.\n\nThomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time.\n\nI’ve seen him work at Chelsea. I’ve watched him in training and I’m a huge fan. He’s honest with his players and very direct. He doesn’t waste time – this is business, this is serious – but he’s also a fantastic guy.\n\nHe’s warm, friendly, open and he built great relationships with the Chelsea staff. He would invite the women’s staff to watch his sessions and he always made me feel very welcome. I will never forget when we won the 2021 Fifa Best awards for men’s and women’s coach of the year, at home during Covid, both watching on a Zoom call. When Thomas won, I was so happy for him.\n\nIt has been three weeks since Thomas picked his 26-player squad for thisWorld Cupfinals tournament and I know how carefully he will have thought through every decision. He’s the kind of coach who is going to die on his sword. Sometimes we get caught up in the wrong things when a squad is announced for a major tournament. There are always going to be top-quality players left out. That’s a given.\n\nThomas has been very clear – he’s got 14 or 15 core players who will be involved in almost every game. Any changes to the starting XI are likely to come from within that group, so sometimes we get too caught up on the whole “26 players”. The reality for a head coach is you need a squad that can come away for 50 days, be together and accept their roles, because plenty of them won’t play. So what are their behaviours like? What are their contributions to the team like? You have to factor in all of those things because you still have to keep the harmony. A common goal requires sacrifice and the right ego. You can see he has also gone for very athletic and durable players.\n\nThis is never a quick decision for a coach such as Thomas. The decision-making process starts with what he wants in terms of his game model and who can cope with the demands, the environmental conditions, playing in great humidity and in heat. He’s had enough opportunity during England’s impeccable qualification process – eight wins out of eight and no goals conceded – to see these players inside-out.\n\nYou can’t evaluate things just on what players are doing for clubs. You have the benefit of knowing how they respond in the international environment. Somebody such as Bukayo Saka has built up credit for England over a long period of time.\n\nWhen you leave players out, it is never an easy phone call. There is no great way to tell someone that news and it is not a fun thing to do. Sometimes it’s very quick: “Listen, you haven’t made the group and I just wanted you to know that” – and that’s that. Sometimes it’s: “If you’ve got any questions, you can ask” – and more often than not, they’re like: “No”. Every manager will have their own methods.\n\nPhil Foden and Cole Palmer are exceptional talents and it’s disappointing when players are left out. But you can’t leave Jude Bellingham out of the squad, and I think Eberechi Eze has also had a good second half of the season, so I understand Thomas’s decision to include him.\n\nIf there was one call I was a bit surprised by, it was Palmer. I thought Palmer might have snuck in because when you haven’t got Jack Grealish and Foden, sometimes having that little bit of magic can be a big help. I know he’s scored only seven goals since the start of 2026 and hasn’t been at his top level, but he’s a special player with special feet. At the same time, I understand the decision. Every time I hear Thomas speaking about it, he’s very clear on the profile he’s looking for.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1903_4",
+            "category": "england",
+            "type": "News",
+            "title": "‘More pressure than the president’: Ancelotti sets out to end Brazil’s World Cup drought",
+            "bullets": [
+              "Last triumph was in 2002 but Italian head coach, without Neymar against Morocco, brings ‘joy and ent...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Last triumph was in 2002 but Italian head coach, without Neymar against Morocco, brings ‘joy and enthusiasm’It is Marcio Santos who best sums up the predicament Brazil’s players found themselves in before the 1994 World Cup. “We hadn’t won in 24 years. That’s way too long for the Brazilian people,” says the former defender in the new Netflix documentary USA 94: Brazil’s Return to Glory.Having suffered the ignominy of a first defeat in qualifying that prompted the manager, Carlos Alberto Parreira, to offer to step down, the fabled Romário and Bebeto strike partnership inspired the Seleção to win a fourth World Cup the last time the tournament was held on American soil. Continue reading...",
+            "fullText": "Last triumph was in 2002 but Italian head coach, without Neymar against Morocco, brings ‘joy and enthusiasm’\n\nIt is Marcio Santos who best sums up the predicament Brazil’s players found themselves in before the 1994World Cup. “We hadn’t won in 24 years. That’s way too long for the Brazilian people,” says the former defender in the new Netflix documentary USA 94: Brazil’s Return to Glory.\n\nHaving suffered the ignominy of a first defeat in qualifying that prompted the manager, Carlos Alberto Parreira, to offer to step down, the fabled Romário and Bebeto strike partnership inspired theSeleçãoto win a fourth World Cup the last time the tournament was held on American soil.\n\nThirty-two years on, Brazil supporters will be hoping history is about to repeat itself for Carlo Ancelotti’s side as they prepare for the most awkward ofopening matches against Moroccoon Saturday, who became the first African country to reach the last four, in 2022.\n\nThe World Cup’s most successful nation has made it past the quarter-final stage once since Ronaldo, Ronaldinho and Rivaldo sealed a fifth title in 2002. That this is now the joint-longestBrazilhave gone without winning the World Cup is not the only parallel with 1994. A disastrous qualifying campaign meant they finished a lowly fifth after six defeats – more than any of the five other South American teams that made it to the World Cup – and many have written off their chances.\n\nAncelotti has had mixed success since leaving Real Madrid last year totake his first steps in international management. Yet despite criticism of his decision to omit Chelsea’s João Pedro and recall 34-year-old Neymar for the first time since 2023, the Italian still has the tools at his disposal to become the third manager to win the World Cup and Champions League, after Marcello Lippi and Vicente del Bosque.\n\nNeymar is the only surviving squad member fromthe 7-1 semi-final thrashingagainst Germany in 2014 – aka theMineiraço– albeit he was forced to watch the nightmare unfold from the sidelines after being injured against Colombia in the previous round.\n\n“Since Ancelotti’s arrival, the environment has been transformed. He carries a strong presence and gives us the tranquility of an environment focused on work, without controversy,” said the Liverpool goalkeeper Alisson this week.\n\n“He’s a multi-champion. He has won everything in football and is here with joy and enthusiasm. His position perhaps has more pressure than being the president of the country.”\n\nIf anyone can cope with that it is Ancelotti. But he must find the right balance in attack to build on a defence that should be one of the strongest in the tournament. The partnership between the captain, Marquinhos, and Arsenal’s Gabriel Magalhães – who was immediately consoled by his Brazil teammate after missing the crucial penalty inthe Champions League finala fortnight ago – is the foundation of that, even if the full-back positions are more of a concern.\n\nA traditional strength – think Carlos Alberto in 1970, Branca and Jorginho in 1994 and Cafu and Roberto Carlos in 2002 – now relies on thirtysomethings Douglas Santos, Danilo and Alex Sandro.\n\nThe calf injury Neymar sustained a couple of days after being called up means he is likely to sit out the opening game, with the teenager Endrick vying with Brentford’s Igor Thiago to lead the line. Vinícius Júnior – who thrived in Madrid under Ancelotti and has been backed to produce his best form at the World Cup – and Raphinha provide the spark in attack, while a rejuvenated Casemiro will anchor a strong midfield also featuring Newcastle’s Bruno Guimarães.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1903_5",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!There’s an elemental force to football that can n...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!There’s an elemental force to football that can never be bottled and sold off. For reasons only known to Gianni Infantino and attendant pen pushers, the Azteca has been renamed the Mexico City Stadium for the Geopolitics World Cup. You can change a name for admin purposes, make punters pay through the nose for tickets, and charge 280 pesos ($17) for a beer (!) but legacy endures. It cannot be costed, sliced and diced. The ghosts of 1970 and 1986 were present and correct, just as present as JJ Balvin, Salma Hayek, David Guetta, EJAE and Andrea Bocelli were for a decent enough opening ceremony as these autotune extravaganzas go. Few would term Mexico 2-0 South Africa a classic tournament opener for the GWC but it served plenty of reminders this still actually means more.At the Euros I think we got a few things wrong off the pitch, I don’t feel the group connected as well as it could have for a number of reasons. When it came to the tournament, we were seen as one of two or three teams that could win it. We weren’t playing well, which doesn’t help, so even when we were winning, we didn’t get the feeling that we were as happy as we should be” – Jude Bellingham, there, suggesting that England were lacking vibes at the Euros. Where was Conor Coady when they needed him?Back in the 1994 World Cup, it was suggested the games should be split into four quarters to pander to increased advertising revenue. Needless to say, this idea was treated with the intense derision that it deserved and quickly booted into touch before it was implemented. Thirty-two years later we have ‘hydration breaks’ splitting the game into quarters and two extra advertising breaks. The more things change, the more they stay the same” – Nigel Sanders.Re: yesterday’s Football Daily. Apologies if this sounds like a story meant for a campfire but it’s hard to convey the feelings and the emotion that this tournament brings to the surface. The first tournament I distinctly remember was the 2002 World Cup – I was in India and the time difference was perfect to catch a game or two after school. I saw it all – Ronaldinho’s smile, the Ronaldo haircut, Oliver Kahn’s intimidating presence and the South Koreans going far (shout out to Turkey). The tournaments that followed were great but it never reached the same levels (for me). I swore as a 12-year-old (in 2002) that I’d go to one tournament in my lifetime; I came close in 2022 but it never came to be. Now we are in 2026, I am to be a citizen of a country that is co-hosting this tournament and, despite the ticket lottery and Fifa circus, I have secured tickets to two games. Twenty-four years later the promise is being kept. The little boy from 2002 will be proud” – Girish Chandra.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nThere’s an elemental force to football that can never be bottled and sold off. For reasons only known to Gianni Infantino and attendant pen pushers, the Azteca has been renamed the Mexico City Stadium for the Geopolitics World Cup. You can change a name for admin purposes, make punters pay through the nose for tickets, and charge 280 pesos ($17) for a beer (!) but legacy endures. It cannot be costed, sliced and diced. The ghosts of 1970 and 1986 were present and correct, just as present as JJ Balvin, Salma Hayek, David Guetta, EJAE and Andrea Bocelli were for a decent enough opening ceremony as these autotune extravaganzas go. Few would termMexico 2-0 South Africaa classic tournament opener for the GWC but it served plenty of reminders this still actually means more.\n\nEternal infamy for Yaya Sithole, whose second-half red card was probably salvation after an all-timer in defensive calamity. The unsheathing of that red, and two others, made the Brazilian referee Wilton Sampaio his own history. There was a lovely moment for Raúl Jiménez, too, as he got on the scoresheet before the Mexican fans booed their team for not piling on the agony for a South African side whose performance was so dreadful it left Quinton Fortune, Aaron Mokoena and Benni McCarthy, South African TV pundits, in speechless catatonia. “What do we say, what went wrong in this game?” asked the anchorman. Answer came there none.\n\nThe emotions of the Mexican scorers were diametrically opposed to the deep misery of the vanquished Bafana Bafana. Still, it might help that South Africa’s coach, Hugo Broos is a positive thinker bordering on delusion. “I saw a desperate Mexico,” he roared. “They didn’t know what to do with the ball. The organisation was perfect defensively.” OK, mate. Up in the stands of the “Azteca”, Infantino was surrounded by his praetorian guard of football legends, Roberto Baggio directly behind him. Mexican protests against real-life issues had not affected the big kick-off too drastically, and though journalists in the media tribune complained of fading wifi, the whole thing passed off as uneventfully as might be hoped.\n\nThere was, though, a coda. Guadalajara hosted the second match, a rather entertaining comebackwin for South Korea over Czechia, attacking football triumphing over a set-piece approach that resembled Dave Bassett’s Wimbledon on steroids. Vladimir Coufal was the long-throwing man with the golden arm who set up Ladislav Krejci’s opener before neat strikes from Hwang In-beom and Oh Hyeon-gyu won it. Classic group-stage fare, though the headlines went elsewhere. The official Fifa attendance figure was 44,985, suggesting 700 empty seats though the television pictures painted a different picture. A football-mad city had voted with its feet. Fifa’s immediate reaction? To stay as mute as those South African pundits.\n\nJohn Brewin will once again take the GWC news blog through to 6pm BST (1pm EDT). Taha Hashim is then due to helm minute-by-minute coverage of Canada 1-1 Bosnia and Herzegovina from 8pm BST (3pm EDT). The last action of the day will see USA USA USA battling to a 1-0 victory over Paraguay, with Beau Dure, kicking off at Saturday 2am BST (9pm EDT).\n\ndouble quotation markAt the Euros I think we got a few things wrong off the pitch, I don’t feel the group connected as well as it could have for a number of reasons. When it came to the tournament, we were seen as one of two or three teams that could win it. We weren’t playing well, which doesn’t help, so even when we were winning, we didn’t get the feeling that we were as happy as we should be” – Jude Bellingham,there, suggesting that England were lacking vibes at the Euros. Where was Conor Coady when they needed him?\n\nEverything you need to know (and more) about every squad member at the GWC. All 1,248 of them,in our essential interactive guide.\n\ndouble quotation markBack in the 1994 World Cup, it was suggested the games should be split into four quarters to pander to increased advertising revenue. Needless to say, this idea was treated with the intense derision that it deserved and quickly booted into touch before it was implemented. Thirty-two years later we have ‘hydration breaks’ splitting the game into quarters and two extra advertising breaks. The more things change, the more they stay the same” – Nigel Sanders.\n\ndouble quotation markRe:yesterday’s Football Daily. Apologies if this sounds like a story meant for a campfire but it’s hard to convey the feelings and the emotion that this tournament brings to the surface. The first tournament I distinctly remember was the 2002 World Cup – I was in India and the time difference was perfect to catch a game or two after school. I saw it all – Ronaldinho’s smile, the Ronaldo haircut, Oliver Kahn’s intimidating presence and the South Koreans going far (shout out to Turkey). The tournaments that followed were great but it never reached the same levels (for me). I swore as a 12-year-old (in 2002) that I’d go to one tournament in my lifetime; I came close in 2022 but it never came to be. Now we are in 2026, I am to be a citizen of a country that is co-hosting this tournament and, despite the ticket lottery and Fifa circus, I have secured tickets to two games. Twenty-four years later the promise is being kept. The little boy from 2002 will be proud” – Girish Chandra.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Girish Chandra. Terms and conditions for our competitions, when we run them, arehere.\n\nListen up!It’s the first World Cup Daily podcast. Join Max Rushden, Barry Glendenning, Barney Ronay, Jeff Rueter and Jonathan Wilson as they look back on the big kick-off at the GWC.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1904_6",
+            "category": "england",
+            "type": "News",
+            "title": "Norris pips Russell to top Barcelona practice with Antonelli off pace",
+            "bullets": [
+              "Lando Norris pipped George Russell to the fastest time of second practice at the Barcelona-Catalunya...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lando Norris pipped George Russell to the fastest time of second practice at the Barcelona-Catalunya Grand Prix with Kimi Antonelli only fifth as McLaren impressed to outpace Mercedes.",
+            "fullText": "World champions McLaren outpace championship leaders Mercedes on the opening day in Spain; Ferrari and Red Bull both with work to do to find more pace;watch final practice at 11.30am on Saturday followed by Qualifying at 3pm live on Sky Sports F1",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-12 @ 14:22:15 EDT",
+  "lastUpdated": "2026-06-12 @ 17:19:07 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
