@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ TV4 blew the World Cup viewers on Shakira: \"Unfortunate\"",
+      "link": "https://www.svt.se/kultur/tv4-blaste-vm-tittarna-pa-shakira"
+    },
+    {
       "text": "⚽ Louise will watch the World Cup premiere: \"The best thing is cohesion\"",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/louise-ska-kolla-vm-premiaren-det-basta-ar-sammanhallningen"
-    },
-    {
-      "text": "⚽ Stina Isaksson expelled from SD: \"Unreasonable punishment\"",
-      "link": "https://www.svt.se/nyheter/lokalt/halland/stina-isaksson-utesluts-ur-sd-delar-beskedet-i-sociala-medier"
-    },
-    {
-      "text": "⚽ Carl Starfelt was forced to various \"tricks\": \"Tried everything\"",
-      "link": "https://www.svt.se/sport/fotboll/carl-starfelt-tvingades-till-olika-knep-testat-det-mesta"
     }
   ],
   "timeline": {
@@ -2312,10 +2308,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-12": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5509_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "TV4 blew the World Cup viewers on Shakira: \"Unfortunate\"",
+            "bullets": [
+              "TV4's viewers missed large parts of the opening of the soccer World Cup. The channel did not broadca...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "TV4's viewers missed large parts of the opening of the soccer World Cup. The channel did not broadcast when Shakira sang the WC song \"Dai dai\". Several viewers were later affected by technical problems during the premiere match. - We follow it up very carefully to ensure that everything flows forward, says TV4's sports manager Johan Cederqvist.",
+            "fullText": "TV4's viewers missed large parts of the opening of the soccer World Cup. The channel did not broadcast when Shakira sang the WC song \"Dai dai\".\n\nSeveral viewers were later affected by technical problems during the premiere match.\n\n- We follow it up very carefully to ensure that everything flows forward, says TV4's sports manager Johan Cederqvist.\n\nWhen the time came for the opening of the World Cup at the Azteca Stadium in Mexico City, many viewers expected to see the grand party. But when it came time for Shakira to perform the WC song together with Burna Boy, there was studio talk in the box instead.\n\nSeveral viewers wrote in SVT's direct report and complained.\n\n\"Sitting and listening to uninteresting analyzes instead of hearing world artists is not encouraging...\".\n\nTV4's presenter profile Steffo Törnquist criticized the own channel in Nyhetsmorgon on Friday.\n\n- That's where we lost ourselves on TV4. We went to the studio when Shakira was going to sing, he says.\n\nTV4's sports manager Johan Cederqvist comments on the incident in an email to SVT Kulturnyheterna.\n\n\"We were unable to read from FIFA information about the timings of the various performances in the opening ceremony. Unfortunately, this led to us not showing Shakira live. It is unfortunate, but we have had millions of consumption of those clips afterwards. Tonight we will show the American opening ceremony in a special broadcast on TV4 Play.\"\n\nDuring the premiere match between Mexico and South Africa, several viewers were then affected by technical problems with TV4 Play.\n\nUsers were kicked out of the app, experienced the image as poor and had difficulty purchasing subscriptions. Many were met with error messages.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5511_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Louise will watch the World Cup premiere: \"The best thing is cohesion\"",
+            "bullets": [
+              "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are pe...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are people?",
+            "fullText": "On Thursday, the World Cup kicks off. We went out into town in Eskilstuna to check: How smart are people?\n\nThe first match of this year's World Cup is being played today. In the premiere, Mexico faces South Africa, with kick-off at 9:00 p.m.\n\nThe championship is played in the USA and the time difference means that several of Sweden's matches will be decided in the middle of the night Swedish time.\n\nHow excited are the residents of Eskilstuna for the football World Cup - and can they stay awake when the matches are played in the middle of the night? Hear their answers in the video above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 20:07:44 EDT",
+  "lastUpdated": "2026-06-12 @ 07:55:11 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
