@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Drop deep, cash in - why Kane can be England's free-scoring false nine",
-      "link": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Players organise England team-bonding dinner in Miami",
       "link": "https://www.bbc.com/sport/football/articles/cx2xv86xqg5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Drop deep, cash in - why Kane can be England's free-scoring false nine",
+      "link": "https://www.bbc.com/sport/articles/c14y083zv3eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Bellingham at number 10? Will Saka start? It's decision time for Tuchel",
@@ -22,6 +22,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ England World Cup 2026 team guide",
       "link": "https://www.theguardian.com/football/2026/jun/11/england-world-cup-2026-team-guide"
+    },
+    {
+      "text": "⚽ Trippier could cancel Wolves move after Edwards sacking",
+      "link": "https://www.skysports.com/football/news/12040/13553188/wolves-kieran-trippier-could-cancel-molineux-move-after-rob-edwards-sacking"
     },
     {
       "text": "⚽ Tuchel proves Bellingham and Rogers can play together",
@@ -3678,7 +3682,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 18:21:15 EDT",
+  "lastUpdated": "2026-06-11 @ 20:07:44 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
