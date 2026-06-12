@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+      "link": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup"
+    },
+    {
       "text": "⚽ The United States enter a charged World Cup asking: what is enough?",
       "link": "https://www.theguardian.com/football/2026/jun/11/usmnt-world-cup-preview"
     }
@@ -1351,10 +1355,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-12": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5508_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+            "bullets": [
+              "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to die on his swordIn Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.Thomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time. I’ve seen him work at Chelsea. I’ve watched him in training and I’m a huge fan. He’s honest with his players and very direct. He doesn’t waste time – this is business, this is serious – but he’s also a fantastic guy. Continue reading...",
+            "fullText": "Leaving Cole Palmer at home surprised me but I know Thomas from Chelsea – he’s the type of coach to die on his sword\n\nInThomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.\n\nThomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time. I’ve seen him work at Chelsea. I’ve watched him in training and I’m a huge fan. He’s honest with his players and very direct. He doesn’t waste time – this is business, this is serious – but he’s also a fantastic guy.\n\nHe’s warm, friendly, open and he built great relationships with the Chelsea staff. He would invite the women’s staff to watch his sessions and he always made me feel very welcome. I will never forget when we won the 2021 Fifa Best men’s and women’s coach of the year awards, at home during Covid, both watching on a Zoom call. When Thomas won, I was so happy for him.\n\nIt has been three weeks since Thomas picked his 26-player squad for thisWorld Cupand I know how carefully he will have thought through every decision. He’s the kind of coach who is going to die on his sword. Sometimes we get caught up in the wrong things when a squad is announced for a major tournament. There are always going to be top-quality players left out. That’s a given.\n\nThomas has been very clear – he’s got 14 or 15 core players who will be involved in almost every game. Any changes to the starting XI are likely to come from within that group, so sometimes we get too caught up on the whole “26 players”. The reality for a head coach is you need a squad that can come away for 50 days, be together and accept their roles, because plenty of them won’t play. So what are their behaviours like? What are their contributions to the team like? You have to factor in all of those things because you still have to keep the harmony. A common goal requires sacrifice and the right ego. You can also see he has also gone for very athletic and durable players.\n\nThis is never a quick decision for a coach like Thomas. The decision-making process starts with what he wants in terms of his game model and who can cope with the demands, the environmental conditions, playing in great humidity and in heat. He’s had enough opportunity during England’s impeccable qualification process – eight wins out of eight and no goals conceded – to see these players inside-out.\n\nYou can’t evaluate things just on what players are doing for clubs. You have the benefit of knowing how they respond in the international environment. Somebody like Bukayo Saka has built up credit for England over a long period of time.\n\nWhen you leave players out, it is never an easy phone call. There is no great way to tell someone that news and it is not a fun thing to do. Sometimes it’s very quick: “Listen, you haven’t made the group and I just wanted you to know that” – and that’s that. Sometimes it’s: “If you’ve got any questions, you can ask” – and more often than not, they’re like: “No”. Every manager will have their own methods.\n\nPhil Foden and Cole Palmer are exceptional talents and it’s disappointing when players are left out. But you can’t leave Jude Bellingham out of the squad, and I think Eberechi Eze has also had a good second half of the season, so I understand Thomas’s decision to include him.\n\nIf there was one call I was a bit surprised by, it was Palmer. I thought Palmer might have snuck in because when you haven’t got Jack Grealish and Foden, sometimes having that little bit of magic can be a big help. I know he’s scored only seven goals since the start of 2026 and hasn’t been at his top level, but he’s a special player with special feet. At the same time, I understand the decision. Every time I hear Thomas speaking about it, he’s very clear on the profile he’s looking for.\n\nHe will have also wanted to ensure he has a group that can cope well at set pieces, which will be a huge factor. He has picked plenty of quality in the front areas. Ollie Watkins finished the season strongly. Some might argue Dominic Solanke could have been closer to a place if he were fit, although I don’t think he’s had a great season, and Dominic Calvin-Lewin was an option, but Ivan Toney is an exceptional finisher.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5508_1",
+            "category": "usa",
+            "type": "News",
+            "title": "The United States enter a charged World Cup asking: what is enough?",
+            "bullets": [
+              "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sportWorld Cup newsletter | Daily podcast | Download the appMauricio Pochettino paused. The microphone signal flickered. He tried, for a second time, to say a few things to the 5,500 fans who had gathered in the sun Monday at Championship Soccer Stadium in Irvine, California – the United States’ World Cup home base – for an open training session. Nothing. Then something. More choppy audio. By the time things came back online, he had developed a quip.“We are in the greatest country in the world,” he said in his Rioplatense-accented English. “But the technology does not work.” Continue reading...",
+            "fullText": "Unlike most other countries, the US are playing the 2026 World Cup not just for themselves, but for the future of their voice in the sport\n\nWorld Cup newsletter|Daily podcast|Download the app\n\nMauricio Pochettino paused. The microphone signal flickered. He tried, for a second time, to say a few things to the 5,500 fans who had gathered in the sun Monday at Championship Soccer Stadium in Irvine, California – the United States’World Cuphome base – for an open training session. Nothing. Then something. More choppy audio. By the time things came back online, he had developed a quip.\n\n“We are in the greatest country in the world,” he said in his Rioplatense-accented English. “But the technology does not work.”\n\nPochettino’s adaptation to the US soccer scene has not been without hiccups. The Argentinian arrived on a $6m-per-year contract (the largest outlay for a coach in US Soccer history) with a résumé featuring some of the most famous clubs and players in the world. His job: to lead a nation more known for excellence in other sports to a historic finish at a World Cup they would co-host.\n\nOver his 22 months in charge, the results – 15 wins, 10 losses, and a draw – are hardly indicative that a run of that magnitude is coming. His side have looked unsettled in their structure at various points, alternating brilliant passages with lackadaisical moments, full of fight one minute then meek the next. Yet Pochettino has fed into the hype, saying repeatedly that the US can win the World Cup. (“Why not?”, he is fond of asking.)\n\nMany observers argue that it’s just as easy to see the team crash out in the group stage, or exit at the first knockout round, as they did at Qatar 2022. There are no pushovers in a group with Paraguay, Australia and Turkey. And the team have struggled against the type of quality sides they may face in the Round of 32, last 16, and beyond.\n\nWhat is enough? It’s the uncomfortably vague question that looms over the US more than most at this tournament. The elite, like Spain, France, Brazil and Argentina, enter the World Cup knowing that anything less than winning the trophy will be a failure. Minnows – the likes of Curaçao, Jordan and Cape Verde – know that simply giving a good account of themselves will count for a whole lot.\n\nThe US performance, meanwhile, will be read as a referendum not just on a group of players considered to be the most talented in the history of the men’s program, but on the potential of American soccer itself.\n\n“We want to do this for ourselves and for our own country,” Christian Pulisic, the team’s biggest star, told reporters earlier this month. “We have really good players playing in top clubs in the world, we have a good team. We’re going to do the best we can to prove ourselves right.”\n\nThe coach believes. The players believe. But what would be enough to make their country believe? The sport is no longer anathema here, but it is dominated by foreign powers – the Premier League, Mexico’s Liga MX and the Champions League all have a vice grip on what the public considers to be top-class soccer worth watching. What would be enough to make American soccer dominate soccer in America? To unleash an avalanche of attention that, for once, may match that given to baseball, basketball and American football? To hoover up an influx of commercial dollars that could –could– be put to good use and help solidify a domestic soccer culture in the American mainstream?\n\n“The first gift an Argentinian gets is a football; here, it’s a baseball bat, a basketball, an oval ball,” Pochettinotold the Guardian. “Changing that’s not today or tomorrow. But there are almost 400 million people, 80 million Latinos, who already have that football DNA, and there’s space [for all sports]. What’s the problem? That people want results now.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-11 @ 20:08:03 EDT",
+  "lastUpdated": "2026-06-12 @ 07:55:29 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
