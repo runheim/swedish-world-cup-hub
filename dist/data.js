@@ -6,6 +6,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
       "link": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup"
+    },
+    {
+      "text": "⚽ World Cup Group D view from Paraguay: the reborn team no one wants to face | Christian Pérez",
+      "link": "https://www.theguardian.com/football/blog/2026/jun/13/world-cup-group-d-matches-paraguay-national-football-team-strengths-weaknesses"
     }
   ],
   "timeline": {
@@ -1392,11 +1396,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2211_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
+            "bullets": [
+              "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his swordIn Thomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.Thomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time. Continue reading...",
+            "fullText": "Leaving Cole Palmer at home surprised me, but I know Thomas from Chelsea – he’s the type of coach to die on his sword\n\nInThomas Tuchel, England have an elite coach. Don’t underestimate him. In my 12 years working at Chelsea, he and Mauricio Pochettino were my two favourite managers.\n\nThomas is a great communicator, he’s demanding and he articulates himself really well. I admire the way he transfers information to the press and to players in a clear, concise way that is methodical, inspirational and detailed, all at the same time.\n\nI’ve seen him work at Chelsea. I’ve watched him in training and I’m a huge fan. He’s honest with his players and very direct. He doesn’t waste time – this is business, this is serious – but he’s also a fantastic guy.\n\nHe’s warm, friendly, open and he built great relationships with the Chelsea staff. He would invite the women’s staff to watch his sessions and he always made me feel very welcome. I will never forget when we won the 2021 Fifa Best awards for men’s and women’s coach of the year, at home during Covid, both watching on a Zoom call. When Thomas won, I was so happy for him.\n\nIt has been three weeks since Thomas picked his 26-player squad for thisWorld Cupfinals tournament and I know how carefully he will have thought through every decision. He’s the kind of coach who is going to die on his sword. Sometimes we get caught up in the wrong things when a squad is announced for a major tournament. There are always going to be top-quality players left out. That’s a given.\n\nThomas has been very clear – he’s got 14 or 15 core players who will be involved in almost every game. Any changes to the starting XI are likely to come from within that group, so sometimes we get too caught up on the whole “26 players”. The reality for a head coach is you need a squad that can come away for 50 days, be together and accept their roles, because plenty of them won’t play. So what are their behaviours like? What are their contributions to the team like? You have to factor in all of those things because you still have to keep the harmony. A common goal requires sacrifice and the right ego. You can see he has also gone for very athletic and durable players.\n\nThis is never a quick decision for a coach such as Thomas. The decision-making process starts with what he wants in terms of his game model and who can cope with the demands, the environmental conditions, playing in great humidity and in heat. He’s had enough opportunity during England’s impeccable qualification process – eight wins out of eight and no goals conceded – to see these players inside-out.\n\nYou can’t evaluate things just on what players are doing for clubs. You have the benefit of knowing how they respond in the international environment. Somebody such as Bukayo Saka has built up credit for England over a long period of time.\n\nWhen you leave players out, it is never an easy phone call. There is no great way to tell someone that news and it is not a fun thing to do. Sometimes it’s very quick: “Listen, you haven’t made the group and I just wanted you to know that” – and that’s that. Sometimes it’s: “If you’ve got any questions, you can ask” – and more often than not, they’re like: “No”. Every manager will have their own methods.\n\nPhil Foden and Cole Palmer are exceptional talents and it’s disappointing when players are left out. But you can’t leave Jude Bellingham out of the squad, and I think Eberechi Eze has also had a good second half of the season, so I understand Thomas’s decision to include him.\n\nIf there was one call I was a bit surprised by, it was Palmer. I thought Palmer might have snuck in because when you haven’t got Jack Grealish and Foden, sometimes having that little bit of magic can be a big help. I know he’s scored only seven goals since the start of 2026 and hasn’t been at his top level, but he’s a special player with special feet. At the same time, I understand the decision. Every time I hear Thomas speaking about it, he’s very clear on the profile he’s looking for.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2212_1",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup Group D view from Paraguay: the reborn team no one wants to face | Christian Pérez",
+            "bullets": [
+              "Australia, the USA and Turkey should not underestimate La Albirroja, who have gone from mockery to o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Australia, the USA and Turkey should not underestimate La Albirroja, who have gone from mockery to one of the most feared teams in South AmericaParaguay are back at a World Cup after almost two decades of absence and tribulations – and ready to give Australia, the USA and Turkey a run for their money. Their last appearance was at South Africa 2010, their best performance to date, when they reached the quarter-finals before saying goodbye with a loss against the greatest Spain team of all time.La Albirroja seemed lost for years. But after a dismal 2024 Copa América, everything changed. Destiny delivered Gustavo Alfaro, the man who saved Paraguay from what looked like another impending catastrophe. Continue reading...",
+            "fullText": "Australia, the USA and Turkey should not underestimate La Albirroja, who have gone from mockery to one of the most feared teams in South America\n\nParaguay are back at aWorld Cupafter almost two decades of absence and tribulations – and ready to give Australia, the USA and Turkey a run for their money. Their last appearance was at South Africa 2010, their best performance to date, when they reached the quarter-finals before saying goodbye with a loss against the greatest Spain team of all time.\n\nLa Albirroja seemed lost for years. But after a dismal 2024 Copa América, everything changed. Destiny delivered Gustavo Alfaro, the man who savedParaguayfrom what looked like another impending catastrophe.\n\nThe 63-year-old Argentinian breathed new life into a hopeless team. He restored morale, revived belief and strengthened the side both individually and, more importantly, collectively. From a team that was widely mocked to one of the most feared in South America, La Albirroja have made the continent tremble – and should pose problems for Australia, the US and Turkey. In qualification, they defeated Brazil and the reigning world champions Argentina – coming from behind in the latter match to record a famous victory in Asunción.\n\nNone of the teams in Group D can afford to underestimate La Albirroja. They have recovered, consolidated and added countless strengths. “I would love people to see Paraguay again as the team no one wants to face,” Alfaro said upon his arrival in August 2024. Although his appointment initially raised doubts, his words have proved prophetic.\n\nUnder Alfaro, Paraguay lost just one away match in the qualifiers – to Brazil – and, alongside Ecuador and Argentina, finished as one of the strongest teams in the competition under the man they call “the hunter of utopias”.\n\nLa Albirroja have regained their historic strengths: an almost unbreakable defence and excellent structural balance. They do not apply a high press; instead, they press in midfield, which can become a dangerous trap for opponents.\n\nThanks to their tactical discipline, they consistently frustrate the opposition’s creativity. While rivals become disorganised in attack, Paraguay strike with rapid transitions and clinical accuracy. They usually set up in a 4-2-3-1 during midfield pressing phases, but drop into a compact 4-4-2 when defending deep.\n\nParaguay are not a high-scoring or overly attacking side, but they rely on effectiveness and efficiency to get results. Dominating possession against them can be risky, because it often plays into exactly what Alfaro wants. That might be more of a potential problem for Turkey, who are expected to enjoy more possession than their opponents, than for Australia or the US.\n\nDefence has always been a hallmark of Paraguayan football. Under Alfaro, La Albirroja have not only recovered this virtue but have evolved it, adding progressive buildup play. Central defender Omar Alderete has been outstanding, while captain Gustavo Gómez remains one of the best centre-backs in South America. As proof of their solidity, Paraguay conceded just 10 goals in 18 qualifiers – the best defensive record in the competition.\n\nThe heart of the team is Vancouver Whitecaps’ Andrés Cubas. The defensive midfielder closes spaces, reads the game superbly and brings relentless aggression. At just 1.66m, he may not look imposing, but his intensity often leaves opponents stunned.\n\nIn attack, they rely heavily on the creativity of Julio Enciso. The Strasbourg player is arguably the greatest Paraguayan talent produced in the past 30 years. He possesses every attribute of a gamechanger: dribbling, speed, creativity, power, and a potent mid-range shot. Yet, in concerning news for the South Americans the 22-year-old went down with a thigh injury in the pre-tournament friendly against Nicaragua in Asunción, just a week out from their opener against the USA. He remains in the squad and his recovery will be closely monitored.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-12 @ 08:44:49 EDT",
+  "lastUpdated": "2026-06-12 @ 14:22:25 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
