@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ In a USA win for the history books, what stood out most was the ‘fun’ and free nature of it",
-      "link": "https://www.theguardian.com/football/2026/jun/13/in-a-usa-win-for-the-history-books-what-stood-out-most-was-the-fun-and-free-nature-of-it"
-    },
-    {
       "text": "⚽ USA blast out of the blocks and Canada get first ever point | World Cup Daily",
       "link": "https://www.theguardian.com/football/video/2026/jun/13/usa-blast-out-of-the-blocks-and-canada-get-first-ever-point-world-cup-daily"
     }
@@ -1712,11 +1708,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_3708_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USA blast out of the blocks and Canada get first ever point | World Cup Daily",
+            "bullets": [
+              "On the podcast today: the USA … might actually be very good? They blew Paraguay away in their openin...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On the podcast today: the USA … might actually be very good? They blew Paraguay away in their opening game in LA. Christian Pulisic, we owe you a huge apology. Elsewhere; Canada come back to draw with Bosnia and Herzegovina, an inspired triple substitution from Jesse Marsch turning things around, and if not for some brilliant Bosnian blocks they should have won it. Plus, a preview of the next batch of games including Haiti v Scotland, the developing domestic bliss between Max and Barry, and your questions answered. Continue reading...",
+            "fullText": "On the podcast today: theUSA… might actually be very good? They blew Paraguay away in their opening game in LA. Christian Pulisic, we owe you a huge apology. Elsewhere; Canada come back to draw with Bosnia and Herzegovina, an inspired triple substitution from Jesse Marsch turning things around, and if not for some brilliant Bosnian blocks they should have won it. Plus, a preview of the next batch of games including Haiti v Scotland, the developing domestic bliss between Max and Barry, and your questions answered.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 16:07:36 EDT",
+  "lastUpdated": "2026-06-13 @ 18:37:25 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
