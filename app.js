@@ -849,7 +849,25 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "Germany won the last meeting between the two sides 3-1 in a friendly back in October 2023."
     }
   },
-  "match_paraguay": {preview: {
+  "match_paraguay": {
+    score: "4 - 1",
+    scorers: "🇺🇸 Bobadilla (7' OG), Balogun (31', 45+5'), Reyna (90+8') | 🇵🇾 Maurício (73')",
+    report: "A historic 4-1 victory for the USA at SoFi Stadium in Los Angeles! The USMNT kick-started their 2026 World Cup Group D campaign in absolute style in front of a sold-out crowd of 70,492. A deflected cross from Weston McKennie led to a Damián Bobadilla own goal in the 7th minute. Folarin Balogun then took center stage, scoring a clinical first-half brace (31', 45+5') with beautiful assists from Christian Pulisic and Malik Tillman, making it 3-0 at halftime. Paraguay pulled one back in the 73rd minute through Maurício after being set up by Julio Enciso, but second-half substitute Gio Reyna sealed a record-breaking four-goal World Cup performance with a spectacular strike from outside the box in the 98th minute. The dominant win puts Mauricio Pochettino's squad at the top of Group D.",
+    ratings: [
+      { name: "Matt Turner", role: "GK", rating: 6.5, comment: "Made a couple of key saves. Conceded once but was generally solid in his actions.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Disciplined defensive display, keeping Paraguay's wide attackers in check.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 7.0, comment: "Strong physical presence in the air, winning important defensive duels.", isMotm: false },
+      { name: "Tim Ream", role: "CB", rating: 7.5, comment: "Led the backline with composure and excellent organization. Crucial interceptions.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Untiring work rate down the left flank, providing both width and tracking back rapidly.", isMotm: false },
+      { name: "Weston McKennie", role: "CM", rating: 8.0, comment: "High intensity in midfield. His cross forced the opening own-goal and he dominated duels.", isMotm: false },
+      { name: "Yunus Musah", role: "CM", rating: 7.5, comment: "Excellent ball progression and energy, keeping Paraguay on their heels in midfield.", isMotm: false },
+      { name: "Malik Tillman", role: "AM", rating: 8.5, comment: "Sensational playmaking display. Provided a sublime assist for Balogun's second goal.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Involved in everything going forward, assisted Balogun's first goal and created multiple chances.", isMotm: false },
+      { name: "Timothy Weah", role: "RW", rating: 7.0, comment: "Stretched the opponent's defense with his speed and dangerous runs.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 9.5, comment: "Sensational performance. Scored a clinical first-half brace to put the game to bed. Man of the Match.", isMotm: true },
+      { name: "Gio Reyna", role: "SUB", rating: 8.0, comment: "Subbed on and sealed the historic win with a spectacular strike in stoppage time.", isMotm: false }
+    ],
+    preview: {
       tactical: "Group D opener in Los Angeles! USA must break down Paraguay's compact, low-block defense. Expect heavy reliance on Robinson and Scally to stretch the pitch.",
       keyStat: "Paraguay kept key clean sheets during South American qualifiers. Breaking them down is key."
     }
