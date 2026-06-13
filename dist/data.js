@@ -2563,11 +2563,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_3721_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Viktor Gyökere's confusion: \"Or do we? No, ok\"",
+            "bullets": [
+              "Viktor Gyökeres is standing in front of one of the biggest things he has been part of: a WC premiere...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres is standing in front of one of the biggest things he has been part of: a WC premiere. But he was not aware that he is not allowed to train at the match arena in Monterrey. - No ok, he said and laughed in front of the press gathering.",
+            "fullText": "Viktor Gyökeres is standing in front of one of the biggest things he has been part of: a WC premiere.\n\nBut he was not aware that he is not allowed to train at the match arena in Monterrey.\n\n- No ok, he said and laughed in front of the press gathering.\n\nWatch the clip when Gyökeres gets confused at the press conference\n\nSweden's brightest national team star was in a brilliant mood when he met the media ahead of the WC premiere against Tunisia. He hasn't had much rest after a long season with Arsenal that ended with league gold and the Champions League final.\n\n- I got a few days' rest, says Gyökeres. But with the World Cup, it's better to keep your body and everything else going to be ready.\n\nOn the national team's day off, he played golf with Viktor Johansson, Mattias Svanberg and Hjalmar Ekdal.\n\n- I don't even have a handicap, said Gyökeres, who thought the swing was a bit stiff.\n\n- Of course. But it was Viktor Johansson who carried the team so it was mostly because of him.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3725_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "This is how Sweden will hurt Tunisia: \"Then they will have to run a lot\"",
+            "bullets": [
+              "Sweden faces Tunisia in the World Cup. There is of course a plan. - Then they have to move from side...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden faces Tunisia in the World Cup. There is of course a plan. - Then they have to move from side to side, reasons centre-back Eric Smith about Blågult's idea of ​​how to hurt the premier opposition.",
+            "fullText": "- Then they have to move from side to side, reasons centre-back Eric Smith about Blågult's idea of ​​how to hurt the premier opposition.\n\nHear Eric Smith on how Sweden will hurt Tunisia in the player above.\n\nTunisia, the Netherlands and Japan. It is Sweden's group opponent - and the first-mentioned nation will be the first in the premiere.\n\n- It is a team that is good at defending low and they are good at getting out of it to counter, says Eric Smith.\n\nSo how do you deal with counterattacks in a defensive direction?\n\n- We need to get better at recapturing pressure and we have been working on that. If you have good positions there, you can save power and running meters for many teammates. In this heat, it becomes extra important, says Gustaf Lagerbielke.\n\nBesfort Zeneli points to the collective of the premier opposition.\n\n- They work hard for each other and are strong defensively. This makes them good at hurting opponents on counter attacks.\n\nSweden's World Cup opener against Tunisia will be played at Estadio Monterrey on the night of Monday, starting at 04.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 16:07:34 EDT",
+  "lastUpdated": "2026-06-13 @ 18:37:25 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
