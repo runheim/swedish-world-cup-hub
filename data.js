@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Viktor Gyökere's confusion: \"Or do we? No, ok\"",
+      "link": "https://www.svt.se/sport/fotboll/viktor-gyokeres-forvirring-eller-gor-vi-det-nej-ok"
+    },
+    {
       "text": "⚽ This is how Sweden will hurt Tunisia: \"Then they will have to run a lot\"",
       "link": "https://www.svt.se/sport/fotboll/sa-ska-sverige-sara-tunisien-da-far-de-springa-mycket"
     }
@@ -2443,7 +2447,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 05:46:10 EDT",
+  "lastUpdated": "2026-06-13 @ 06:39:53 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
