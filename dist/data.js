@@ -1672,11 +1672,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0720_0",
+            "category": "usa",
+            "type": "News",
+            "title": "In a USA win for the history books, what stood out most was the ‘fun’ and free nature of it",
+            "bullets": [
+              "The United States are no longer a workmanlike outfit built on grit and grind – and Mauricio Pochetti...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The United States are no longer a workmanlike outfit built on grit and grind – and Mauricio Pochettino says they are ‘winning a lot of fans’To find a precedent for the United States’ win over Paraguay, one must return to a time when World Cup teams were forced to drop out due to the Great Depression, and the ones who did make it arrived via ship, playing with a leather ball held together by seam and laces.The dominant 4-1 win matched a 96-year-old landmark – the largest margin of victory for the USA in a men’s World Cup game (they won 3-0 twice in the inaugural 1930 tournament, against Belgium and, in a neat bit of symmetry, Paraguay). Continue reading...",
+            "fullText": "The United States are no longer a workmanlike outfit built on grit and grind – and Mauricio Pochettino says they are ‘winning a lot of fans’\n\nTo find a precedent for the United States’ win over Paraguay, one must return to a time whenWorld Cupteams were forced to drop out due to the Great Depression, and the ones who did make it arrived via ship, playing with a leather ball held together by seam and laces.\n\nThedominant 4-1 winmatched a 96-year-old landmark – the largest margin of victory for the USA in a men’s World Cup game (they won 3-0 twice in the inaugural 1930 tournament, against Belgium and, in a neat bit of symmetry, Paraguay).\n\nFriday’s four-goal romp also marked the most goals scored by theUSAat a men’s World Cup. It featured a 3-0 first-half blitz that matches the previous most unexpected 45 minutes of World Cup soccer played in the modern history of the program: the 3-0 lead built in 2002 against Portugal, a result the ESPN commentator Jack Edwards famously guaranteed was “stopping traffic all over Europe”.\n\nThe result will live on in the record books for these reasons. But it will hold a special place in the hearts and minds of US fans because of the ethereal, less-fungible stuff.\n\n“I think we are winning a lot of fans, and adding fans for this sport,” Mauricio Pochettino said of his side’s performance. “I think it was a great match; was amazing for our fans to see this type of game.”\n\nNo longer were the USA the same workmanlike outfit that had featured at previous World Cups, white-knuckling through on the strength of their grit and grind (though they showed some of that too, not letting a second-halfParaguaygoal knock them off course).\n\nThe iconic element of the USA’s opening victory was the very manner of it. Combinations flowed freely in midfield, defenders were split and dragged with alacrity. Neat finishes off moves well-worked enough to make the opening Paraguayan own goal an afterthought. Oohs and aahs stirred in the sold-out crowd of 70,492 at Los Angeles Stadium.\n\n“It’s pretty special to watch,” said Christian Pulisic, who was on a heater of his own before being pulled at half-time due to a knock picked up in the first half, and later brushed off as nothing serious. “It’s fun to look around and know that there’s different guys that can pull off these different skills and moves and things going on. It’s great. I feel like there’s such a good connection between us right now.”\n\nThe USA midfielders tied Paraguay’s defensive unit in knots with rotations, in a manner that the Paraguay manager, Gustavo Alfaro, compared with “floating”. “This is a team that is complex, because they have answers to every element you throw at them,” Alfaro said. “We knew they were a very complex rival. We knew they have coordination, broadness, triangulations, and we were not ready … They dominated technically, tactically and physically as well.”\n\nOne could call it, by some distance, the best World Cup performance ever by a USA men’s team. And it contained within it two of the best individual performances by US players at a World Cup.\n\nPulisic became USA’s leader for World Cup assists and was dangerous throughout his 45 minutes. And in Folarin Balogun’s double, the US has its first multi-goal scorer in a single World Cup game since 1930 – that year again – when Bert Patenaude put three past, you guessed it, Paraguay.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0720_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USA blast out of the blocks and Canada get first ever point | World Cup Daily",
+            "bullets": [
+              "On the podcast today: the USA … might actually be very good? They blew Paraguay away in their openin...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On the podcast today: the USA … might actually be very good? They blew Paraguay away in their opening game in LA. Christian Pulisic, we owe you a huge apology. Elsewhere; Canada come back to draw with Bosnia and Herzegovina, an inspired triple substitution from Jesse Marsch turning things around, and if not for some brilliant Bosnian blocks they should have won it. Plus, a preview of the next batch of games including Haiti v Scotland, the developing domestic bliss between Max and Barry, and your questions answered. Continue reading...",
+            "fullText": "On the podcast today: theUSA… might actually be very good? They blew Paraguay away in their opening game in LA. Christian Pulisic, we owe you a huge apology. Elsewhere; Canada come back to draw with Bosnia and Herzegovina, an inspired triple substitution from Jesse Marsch turning things around, and if not for some brilliant Bosnian blocks they should have won it. Plus, a preview of the next batch of games including Haiti v Scotland, the developing domestic bliss between Max and Barry, and your questions answered.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 12:04:50 EDT",
+  "lastUpdated": "2026-06-13 @ 16:07:36 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
