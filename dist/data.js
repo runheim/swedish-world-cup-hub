@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/13/los-angeles-conjures-up-irresistible-spectacle-as-usa-sparkle-in-opening-act-world-cup-2026"
     },
     {
+      "text": "⚽ USA blast out of the blocks and Canada get first ever point | World Cup Daily",
+      "link": "https://www.theguardian.com/football/video/2026/jun/13/usa-blast-out-of-the-blocks-and-canada-get-first-ever-point-world-cup-daily"
+    },
+    {
       "text": "⚽ Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
       "link": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup"
     }
@@ -1579,7 +1583,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 05:47:03 EDT",
+  "lastUpdated": "2026-06-13 @ 06:39:56 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
