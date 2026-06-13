@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ TV4 blew the World Cup viewers on Shakira: \"Unfortunate\"",
-      "link": "https://www.svt.se/kultur/tv4-blaste-vm-tittarna-pa-shakira"
+      "text": "⚽ This is how Sweden will hurt Tunisia: \"Then they will have to run a lot\"",
+      "link": "https://www.svt.se/sport/fotboll/sa-ska-sverige-sara-tunisien-da-far-de-springa-mycket"
     }
   ],
   "timeline": {
@@ -2415,10 +2415,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-13": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4610_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "This is how Sweden will hurt Tunisia: \"Then they will have to run a lot\"",
+            "bullets": [
+              "Sweden faces Tunisia in the World Cup. There is of course a plan. - Then they have to move from side...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden faces Tunisia in the World Cup. There is of course a plan. - Then they have to move from side to side, argues centre-back Eric Smith regarding Blågult's idea of ​​how to hurt the premier opposition.",
+            "fullText": "- Then they have to move from side to side, argues centre-back Eric Smith regarding Blågult's idea of ​​how to hurt the premier opposition.\n\nHear Eric Smith on how Sweden will hurt Tunisia in the player above.\n\nTunisia, the Netherlands and Japan. It is Sweden's group opponent - and the first-mentioned nation will be the first in the premiere.\n\n- It is a team that is good at defending low and they are good at getting out of it to counter, says Eric Smith.\n\nSo how do you deal with counterattacks in a defensive direction?\n\n- We need to get better at recapturing pressure and we have been working on that. If you have good positions there, you can save power and running meters for many teammates. In this heat, it becomes extra important, says Gustaf Lagerbielke.\n\nBesfort Zeneli points to the collective of the premier opposition.\n\n- They work hard for each other and are strong defensively. This makes them good at hurting opponents on counter attacks.\n\nSweden's World Cup opener against Tunisia will be played at Estadio Monterrey on the night of Monday, starting at 04.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-12 @ 19:04:34 EDT",
+  "lastUpdated": "2026-06-13 @ 05:46:10 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
