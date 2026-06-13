@@ -12,20 +12,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/videos/cn07xjyyzwjo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: USA light up LA; England’s boots stolen; Scotland’s big return – live",
+      "text": "⚽ World Cup 2026: Scotland gear up for Haiti; Ghana hit out at ‘unfair’ Partey visa denial, and more – live",
       "link": "https://www.theguardian.com/football/live/2026/jun/13/world-cup-2026-usa-light-up-la-englands-boots-stolen-scotlands-big-return-live"
-    },
-    {
-      "text": "⚽ ‘We can do much’: how feeling for family helped end Haiti’s long World Cup absence",
-      "link": "https://www.theguardian.com/football/2026/jun/13/we-can-do-much-how-feeling-for-family-helped-end-haitis-long-world-cup-absence"
     },
     {
       "text": "⚽ ‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
       "link": "https://www.theguardian.com/football/2026/jun/13/making-england-declan-rice-world-cup-west-ham-arsenal"
-    },
-    {
-      "text": "⚽ Nobody should underestimate what Thomas Tuchel can do with England | Emma Hayes",
-      "link": "https://www.theguardian.com/football/2026/jun/12/thomas-tuchel-england-world-cup"
     },
     {
       "text": "⚽ Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
@@ -4256,11 +4248,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3729_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham set to start, but no Guehi - England's expected team",
+            "bullets": [
+              "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi cou...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham is expected to start England's opening game of the 2026 World Cup, as Marc Guehi could start on the bench.",
+            "fullText": "Jude Bellingham has represented England four times this season\n\nDuring his first media briefing here in the United States, England manager Thomas Tuchel said he had \"14 or 15\" players in mind to start their World Cup opener against Croatia next week.\n\nOf course, it's in the best interests of every manager to keep people guessing on his team selection.\n\nBut did Tuchel give away clues in his team's final World Cup warm-up game against Costa Rica on Wednesday?\n\nWell, there is certainly a sense within the camp that the team that started in Orlando, barring maybe one or two exceptions, will be the side that begins the tournament.\n\nCrucially, that would mean Jude Bellingham is set to win the race ahead of Morgan Rogers to play in the coveted No 10 role.\n\nThe Bellingham or Rogers debate has been among the most fiercely debated heading into the tournament.\n\nBellingham's ability and history of producing special moments in an England shirt is unquestionable.\n\nThe fact he plays in the pressurised environment of Real Madrid merely serves to fuel the sense that he should start here in the USA.\n\nBut the emergence of Rogers as a more than viable option in the central attacking position has led to some uncertainty over Bellingham's role.\n\nNevertheless, with sources indicating that the team that started in the3-0 win over Costa Ricawill be close to the team that Tuchel picks against Croatia on Wednesday â then Rogers will likely have to settle for a place on the bench.\n\nWe need to feel love playing for England - Bellingham",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3730_1",
+            "category": "england",
+            "type": "News",
+            "title": "Richards 'understands' but disagrees with Tuchel's England squad selection",
+            "bullets": [
+              "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel fo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with Tuchel's selections, adding he would have selected one of Cole Palmer or Phil Foden.",
+            "fullText": "BBC pundit Micah Richards says he \"understands\" the squad picked by England manager Thomas Tuchel for the 2026 World Cup, but does not agree with all of Tuchel's selections.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3732_2",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Scotland gear up for Haiti; Ghana hit out at ‘unfair’ Partey visa denial, and more – live",
+            "bullets": [
+              "⚽️ Latest news and discussion as tournament continues⚽️ USA 4-1 Paraguay | Scotland become faithfuls...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Latest news and discussion as tournament continues⚽️ USA 4-1 Paraguay | Scotland become faithfuls or traitors ⚽️ Player guide | Bracketology | Wallchart | Mail RobLooking for some extra reading? Jacob Steinberg and David Hytner have delved into the making of Declan Rice, England’s midfield powerhouse, whose performances could feasibly be the difference between success and failure at this tournament.An optimistic prediction for Scotland here. While Haiti thrashing New Zealand 4-0 raised a few worried eyebrows, it should be noted that they lost 2-1 to Peru three days later. It’s always hard to judge a team by their warm-up matches given the wholesale changes, and Haiti do have some danger men like Duckens Nazon and Sunderland’s Wilson Isidor, but Steve Clarke’s side are still favourites. Continue reading...",
+            "fullText": "I remember the great Scott Murrayhighlighting the F-word after one of Jurgen Klopp’s first games as Liverpool manager. They’d won 4-1 (I think) at the Etihad, and in his post-match interview Adam Lallana said it had been “fun”.\n\nIt’s not a word you hear much in elite sport, which issad, but there was plenty of fun in Los Angeles last night.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3734_3",
+            "category": "england",
+            "type": "News",
+            "title": "‘I thought – gosh, he’s going to be some player’: the making of England’s Declan Rice",
+            "bullets": [
+              "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty fro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World CupThree years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets were in hot demand and Rice, who was due to play a European semi-final for West Ham two days later, could not understand why so many people were interested in what he had to say.The audience was packed with marketing directors and CEOs, all eager to hear the England midfielder speak. To Rice, though, it just seemed weird. Why him? What made him so special? The answer lay in his everyman appeal. It was because of his ability to form connections with everyone he comes across. It was because Rice, who goes into the World Cup fresh from winning the Premier League with Arsenal, would be a leader in any setting. More than anything, it was because England’s new vice-captain is authentic, genuine and always ready to charm, no matter if the 27-year-old is speaking to a room of high-powered executives or heading back to his old school to spend an afternoon with a group of awestruck kids. Continue reading...",
+            "fullText": "Rejected by Chelsea, honed by West Ham and a league winner at Arsenal, the midfielder has plenty from his footballing journey wishing him well at the World Cup\n\nThree years ago Declan Rice was the star guest at a Soho House event about the power of effective leadership. Tickets were in hot demand and Rice, who was due toplay a European semi-final for West Ham two days later, could not understand why so many people were interested in what he had to say.\n\nThe audience was packed with marketing directors and CEOs, all eager to hear the England midfielder speak. To Rice, though, it just seemed weird. Why him? What made him so special? The answer lay in his everyman appeal. It was because of his ability to form connections with everyone he comes across. It was because Rice, who goes into the World Cup fresh fromwinning the Premier League with Arsenal, would be a leader in any setting. More than anything, it was becauseEngland’s new vice-captainis authentic, genuine and always ready to charm, no matter if the 27-year-old is speaking to a room of high-powered executives or heading back to his old school to spend an afternoon with a group of awestruck kids.\n\nPerhaps this world-class footballer’s superpower is to be both normal and extraordinary. “He’s hardly changed,” Stephen Willmore, Rice’s old PE teacher, says. The stories are positive no matter who tells them. An 11-year-old Rice was part of Chelsea’s academy when he started at Grey Court school in Ham, south-west London. There was no arrogance, though. Rice still captained the school football team. Harry Kane is not going anywhere any time soon but the expectation is that Rice will take over from England’s captain one day.\n\n“He never missed a game for us,” Willmore says. “If we had to change the kick-off times he would always want to play for the school and then go to training with Chelsea afterwards. He was a leader already. Even though he was so young he was hugely respected for the fact that he always wanted to play for the school team.\n\n“He didn’t hold back. He would play for us and go straight off to training, but he would give his all within that time with us. He was charismatic. He had a great personality. We’d go on away journeys in the minibus and he would be the central figure. He was just a really nice young man who’s carried on in that way. I still see that Declan you see now.”\n\nRice does not use a traditional agent. He leans heavily on his two older brothers, his father and a handful of close friends. Rice has never lost touch with his roots and is still in touch with his old schoolmates. He was a good student and loved his sport. He liked tennis and cross country running. On the football pitch, he was a driving force from midfield. He passed well and dominated. At Chelsea, though, standards were high. Rice, who comes from a family of Chelsea fans, faced dejection when released from his boyhood club at the age of 14.\n\n“That shock of my dad telling me, I just burst into tears,” Rice said in 2019. He had to be resilient. Rice had an immediate offer to join West Ham. The east London club had tracked him since he was nine and could not believe their luck when Chelsea let the youngster go.\n\nAcademy staff had never seen a better trialist at West Ham. Rice had gone through a growth spurt and his physique needed attention, but offering him a deal was the right call. Staff trusted him. Rice was the type of person who would tell the coaches if another boy was struggling emotionally.\n\nThat speaks volumes for his character given that joining West Ham meant Rice had to cross London and leave the family home in Kingston. He comes from a tightknit family and had to get over his homesickness. “His mum and dad were always really supportive,” Willmore says. “He had really nice parents.”\n\nThe path was never straightforward. There were times when West Ham’s youth coaches were divided over whether to keep Rice. But his development continued, he was handedhis first-team debutby Slaven Bilic in May 2017 and he caught the eye of senior players when he joined training.\n\nMark Noble, West Ham’s former captain, remembers Rice stepping out of defence to “hit a diagonal ball out to the left wing with a lovely bit of fade on it”. Noble suspected Rice would take his place in midfield one day. Rice was a teenager but his attitude set him apart.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3736_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | The ‘Azteca’ delivers as hosts and ghosts give us that World Cup feeling",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!There’s an elemental force to football that can n...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!There’s an elemental force to football that can never be bottled and sold off. For reasons only known to Gianni Infantino and attendant pen pushers, the Azteca has been renamed the Mexico City Stadium for the Geopolitics World Cup. You can change a name for admin purposes, make punters pay through the nose for tickets, and charge 280 pesos ($17) for a beer (!) but legacy endures. It cannot be costed, sliced and diced. The ghosts of 1970 and 1986 were present and correct, just as present as JJ Balvin, Salma Hayek, David Guetta, EJAE and Andrea Bocelli were for a decent enough opening ceremony as these autotune extravaganzas go. Few would term Mexico 2-0 South Africa a classic tournament opener for the GWC but it served plenty of reminders this still actually means more.At the Euros I think we got a few things wrong off the pitch, I don’t feel the group connected as well as it could have for a number of reasons. When it came to the tournament, we were seen as one of two or three teams that could win it. We weren’t playing well, which doesn’t help, so even when we were winning, we didn’t get the feeling that we were as happy as we should be” – Jude Bellingham, there, suggesting that England were lacking vibes at the Euros. Where was Conor Coady when they needed him?Back in the 1994 World Cup, it was suggested the games should be split into four quarters to pander to increased advertising revenue. Needless to say, this idea was treated with the intense derision that it deserved and quickly booted into touch before it was implemented. Thirty-two years later we have ‘hydration breaks’ splitting the game into quarters and two extra advertising breaks. The more things change, the more they stay the same” – Nigel Sanders.Re: yesterday’s Football Daily. Apologies if this sounds like a story meant for a campfire but it’s hard to convey the feelings and the emotion that this tournament brings to the surface. The first tournament I distinctly remember was the 2002 World Cup – I was in India and the time difference was perfect to catch a game or two after school. I saw it all – Ronaldinho’s smile, the Ronaldo haircut, Oliver Kahn’s intimidating presence and the South Koreans going far (shout out to Turkey). The tournaments that followed were great but it never reached the same levels (for me). I swore as a 12-year-old (in 2002) that I’d go to one tournament in my lifetime; I came close in 2022 but it never came to be. Now we are in 2026, I am to be a citizen of a country that is co-hosting this tournament and, despite the ticket lottery and Fifa circus, I have secured tickets to two games. Twenty-four years later the promise is being kept. The little boy from 2002 will be proud” – Girish Chandra.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nThere’s an elemental force to football that can never be bottled and sold off. For reasons only known to Gianni Infantino and attendant pen pushers, the Azteca has been renamed the Mexico City Stadium for the Geopolitics World Cup. You can change a name for admin purposes, make punters pay through the nose for tickets, and charge 280 pesos ($17) for a beer (!) but legacy endures. It cannot be costed, sliced and diced. The ghosts of 1970 and 1986 were present and correct, just as present as JJ Balvin, Salma Hayek, David Guetta, EJAE and Andrea Bocelli were for a decent enough opening ceremony as these autotune extravaganzas go. Few would termMexico 2-0 South Africaa classic tournament opener for the GWC but it served plenty of reminders this still actually means more.\n\nEternal infamy for Yaya Sithole, whose second-half red card was probably salvation after an all-timer in defensive calamity. The unsheathing of that red, and two others, made the Brazilian referee Wilton Sampaio his own history. There was a lovely moment for Raúl Jiménez, too, as he got on the scoresheet before the Mexican fans booed their team for not piling on the agony for a South African side whose performance was so dreadful it left Quinton Fortune, Aaron Mokoena and Benni McCarthy, South African TV pundits, in speechless catatonia. “What do we say, what went wrong in this game?” asked the anchorman. Answer came there none.\n\nThe emotions of the Mexican scorers were diametrically opposed to the deep misery of the vanquished Bafana Bafana. Still, it might help that South Africa’s coach, Hugo Broos is a positive thinker bordering on delusion. “I saw a desperate Mexico,” he roared. “They didn’t know what to do with the ball. The organisation was perfect defensively.” OK, mate. Up in the stands of the “Azteca”, Infantino was surrounded by his praetorian guard of football legends, Roberto Baggio directly behind him. Mexican protests against real-life issues had not affected the big kick-off too drastically, and though journalists in the media tribune complained of fading wifi, the whole thing passed off as uneventfully as might be hoped.\n\nThere was, though, a coda. Guadalajara hosted the second match, a rather entertaining comebackwin for South Korea over Czechia, attacking football triumphing over a set-piece approach that resembled Dave Bassett’s Wimbledon on steroids. Vladimir Coufal was the long-throwing man with the golden arm who set up Ladislav Krejci’s opener before neat strikes from Hwang In-beom and Oh Hyeon-gyu won it. Classic group-stage fare, though the headlines went elsewhere. The official Fifa attendance figure was 44,985, suggesting 700 empty seats though the television pictures painted a different picture. A football-mad city had voted with its feet. Fifa’s immediate reaction? To stay as mute as those South African pundits.\n\nJohn Brewin will once again take the GWC news blog through to 6pm BST (1pm EDT). Taha Hashim is then due to helm minute-by-minute coverage of Canada 1-1 Bosnia and Herzegovina from 8pm BST (3pm EDT). The last action of the day will see USA USA USA battling to a 1-0 victory over Paraguay, with Beau Dure, kicking off at Saturday 2am BST (9pm EDT).\n\ndouble quotation markAt the Euros I think we got a few things wrong off the pitch, I don’t feel the group connected as well as it could have for a number of reasons. When it came to the tournament, we were seen as one of two or three teams that could win it. We weren’t playing well, which doesn’t help, so even when we were winning, we didn’t get the feeling that we were as happy as we should be” – Jude Bellingham,there, suggesting that England were lacking vibes at the Euros. Where was Conor Coady when they needed him?\n\nEverything you need to know (and more) about every squad member at the GWC. All 1,248 of them,in our essential interactive guide.\n\ndouble quotation markBack in the 1994 World Cup, it was suggested the games should be split into four quarters to pander to increased advertising revenue. Needless to say, this idea was treated with the intense derision that it deserved and quickly booted into touch before it was implemented. Thirty-two years later we have ‘hydration breaks’ splitting the game into quarters and two extra advertising breaks. The more things change, the more they stay the same” – Nigel Sanders.\n\ndouble quotation markRe:yesterday’s Football Daily. Apologies if this sounds like a story meant for a campfire but it’s hard to convey the feelings and the emotion that this tournament brings to the surface. The first tournament I distinctly remember was the 2002 World Cup – I was in India and the time difference was perfect to catch a game or two after school. I saw it all – Ronaldinho’s smile, the Ronaldo haircut, Oliver Kahn’s intimidating presence and the South Koreans going far (shout out to Turkey). The tournaments that followed were great but it never reached the same levels (for me). I swore as a 12-year-old (in 2002) that I’d go to one tournament in my lifetime; I came close in 2022 but it never came to be. Now we are in 2026, I am to be a citizen of a country that is co-hosting this tournament and, despite the ticket lottery and Fifa circus, I have secured tickets to two games. Twenty-four years later the promise is being kept. The little boy from 2002 will be proud” – Girish Chandra.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Girish Chandra. Terms and conditions for our competitions, when we run them, arehere.\n\nListen up!It’s the first World Cup Daily podcast. Join Max Rushden, Barry Glendenning, Barney Ronay, Jeff Rueter and Jonathan Wilson as they look back on the big kick-off at the GWC.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 06:39:45 EDT",
+  "lastUpdated": "2026-06-13 @ 09:37:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
@@ -5030,6 +5113,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "text": "Anyone up for some darts in the games room?",
       "time": "18:07",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Morning lads! Just checking in.",
+      "time": "09:38",
+      "isCaptain": true
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who's got control of the playlist today? Needs sorting out.",
+      "time": "09:39",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "09:40",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Rest up tonight boys. Massive week ahead.",
+      "time": "09:41",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "09:42",
       "isCaptain": false
     }
   ]
