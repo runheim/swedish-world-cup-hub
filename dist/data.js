@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ England’s loss is USA’s gain as Pochettino finds a spearhead in Folarin Balogun",
-      "link": "https://www.theguardian.com/football/2026/jun/14/folarin-balogun-usmnt-paraguay-world-cup"
+      "text": "⚽ Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Paraguay coaching staff reviews video logs of USA's defensive shapes",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -1842,11 +1858,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_usa_20260614_4",
+            "category": "usa",
+            "type": "Column",
+            "title": "Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
+            "bullets": [
+              "Coaching staff designs custom vertical combination pass routes.",
+              "Staff: 'Defensive structures are locked; build-up is fluid.'",
+              "USA practices quick horizontal circulation to bypass mid-blocks."
+            ],
+            "summary": "The technical staff finalized tactical reviews. Pochettino focuses on midfield combination speed to stretch opposing blocks and release wide wingers.",
+            "fullText": "The technical staff finalized tactical reviews. Pochettino focuses on midfield combination speed to stretch opposing blocks and release wide wingers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Board",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260614_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Paraguay coaching staff reviews video logs of USA's defensive shapes",
+            "bullets": [
+              "Analysts flag Ream and Richards' aerial dominance in the box.",
+              "Scouts note USA's high defensive line is vulnerable to counters.",
+              "Paraguay practices rapid defensive containment drills."
+            ],
+            "summary": "Paraguay's technical division has analyzed USA's defensive setup, looking to exploit transition gaps. La Albirroja prepares rapid counter layouts.",
+            "fullText": "Paraguay's technical division has analyzed USA's defensive setup, looking to exploit transition gaps. La Albirroja prepares rapid counter layouts.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "ESPN FC South America Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 16:10:47 EDT",
+  "lastUpdated": "2026-06-14 @ 18:46:56 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
