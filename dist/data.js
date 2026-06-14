@@ -1819,11 +1819,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1040_0",
+            "category": "usa",
+            "type": "News",
+            "title": "England’s loss is USA’s gain as Pochettino finds a spearhead in Folarin Balogun",
+            "bullets": [
+              "Against Paraguay, the Monaco striker provided the ruthless finishing the USMNT have often missed in...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Against Paraguay, the Monaco striker provided the ruthless finishing the USMNT have often missed in recent yearsWorld Cup newsletter | Daily podcast | Download the appEven after they conceded an early goal on Friday, Paraguay kept affording the United States ample room up the channel. As the ball reached Malik Tillman and Weston McKennie in midfield, their disoriented opponents never quite seemed to know how to station themselves to stem the tide. The US’s off-ball movement further complicated those efforts, dizzying Paraguay’s defense before it could establish an ideal structure.“I just tried to run in behind,” McKennie said after the US had completed their 4-1 victory. “I think I realized early on that they were struggling to follow my deep runs. If it’s not broken, don’t fix it. I keep trying to do it until they figure something out. I was able to find more space than usual, and it was fun. I really enjoyed to get on the ball as much as I did.” Continue reading...",
+            "fullText": "Against Paraguay, the Monaco striker provided the ruthless finishing the USMNT have often missed in recent years\n\nWorld Cup newsletter|Daily podcast|Download the app\n\nEven after they conceded an early goal on Friday, Paraguay kept affording the United States ample room up the channel. As the ball reached Malik Tillman and Weston McKennie in midfield, their disoriented opponents never quite seemed to know how to station themselves to stem the tide. The US’s off-ball movement further complicated those efforts, dizzying Paraguay’s defense before it could establish an ideal structure.\n\n“I just tried to run in behind,” McKennie said after the UShad completed their 4-1 victory. “I think I realized early on that they were struggling to follow my deep runs. If it’s not broken, don’t fix it. I keep trying to do it until they figure something out. I was able to find more space than usual, and it was fun. I really enjoyed to get on the ball as much as I did.”\n\nThroughout a remarkable first half, the heart of the park seemed fully in the co-hosts’ control. The spacing between Tyler Adams and the more advanced tandem of McKennie and Tillman seldom proved an issue as Paraguay struggled to position themselves in the passing lanes. In those rare moments, the US weren’t shy to recirculate, knowing the on-ball acumen of the defensive trio.\n\nThroughout the 2022 World Cup, the USat times resembled a club team, in part because of how effectively their midfield trio operated. In Qatar, Adams and McKennie were joined by Yunus Musah for an “MMA” engine room that kept the ball moving and shifted itself accordingly to be sturdy when defending. Musah’s club career has since stagnated and he was barely in contention for this summer’s World Cup, but Tillman’s progress and the emergence of others – such as Johnny Cardoso, Sebastian Berhalter, Tanner Tessmann and Aidan Morris – made Musah’s regression a non-issue for Mauricio Pochettino.\n\nWhile the personnel have changed, the dimensions of the field have not. The extra spaces McKennie scampered into on Friday weren’t due to some quirk concocted by this summer’s co-hosts. It’s an evolution of Pochettino’s design, built on the back of the progress of the US’s best players since Qatar.\n\nBy the time the Copa América came around in 2024, the midfield seemed to be theonlydependably functional facet of Gregg Berhalter’s USMNT. Teams could operate in a low-to-mid defensive block, allowing the US to advance into the attacking half where they’d quickly run out of ideas. It had become clear that the system was designed to funnel the attack through Christian Pulisic, and opponents planned accordingly.\n\nThe one real boon to emerge from getting grouped at the Copa was the validation of Chris Richards’s bona fides. At that point, he had two seasons under his belt with Crystal Palace, but only became a regular starter along their backline after Oliver Glasner arrived in February 2024. Richards’s partnership with Tim Ream kept the US in games, but wasn’t enough to produce positive results against Panama and Uruguay.\n\nRichards has since evolved further. He’s become even more vital to Palace since Marc Guéhi’s departure, and loggedthe most minutesof any player in the club’s triumphant 2024-25 FA Cup campaign. He was similarly regular as the club captured the Uefa Conference League this past season.\n\nRichards has gained confidence from his success with Palace as well as his recovery from an ankle injury sustained late in the season, and he didn’t put a foot wrong against Paraguay.He set a World Cup recordfor passes with a 100% success rate (83), and worked with Adams to assess the Paraguayan structure before dishing off to Ream (to his left) or Alex Freeman (to his right) to begin the next advance upfield.\n\nThis article includes content hosted onembed.bsky.app. We ask for your permission before anything is loaded, as the provider may be using cookies and other technologies. To view this content,click 'Allow and continue'.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 12:13:55 EDT",
+  "lastUpdated": "2026-06-14 @ 16:10:47 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
