@@ -3606,6 +3606,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
       "time": "16:53",
       "isCaptain": false
+    },
+    {
+      "sender": "Dejan Kulusevski",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "11:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Träningen idag var intensiv, precis som det ska vara.",
+      "time": "11:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "God morgon! Är alla redo för dagens första pass?",
+      "time": "11:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Dags att vila. Viktig dag imorgon.",
+      "time": "11:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
+      "time": "11:32",
+      "isCaptain": false
     }
   ]
 };
