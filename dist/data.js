@@ -2687,11 +2687,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1648_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "So many Swedes watch Sweden's World Cup premiere in Mexico: \"A big thank you\"",
+            "bullets": [
+              "The Swedes will show off in Monterrey, Mexico. Thousands of supporters are expected in place during ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Swedes will show off in Monterrey, Mexico. Thousands of supporters are expected in place during the World Cup opener against Tunisia. - We will do our absolute utmost to make them proud, says team captain Victor Nilsson Lindelöf.",
+            "fullText": "The Swedes will show off in Monterrey, Mexico.\n\nThousands of supporters are expected in place during the World Cup opener against Tunisia.\n\n- We will do our absolute utmost to make them proud, says team captain Victor Nilsson Lindelöf.\n\nHear confederation captain Potter and Nilsson Lindelöf about the supporters in the player above.\n\n47,000 out of 53,000 tickets sold for the match played at Estadio Monterrey.\n\nThe Swedish Football Association, for its part, has managed to sell 2,300 from its quota. In addition, a total of around 4,000 blue-and-yellow supporters are expected to be present at the stadium in connection with the match.\n\n- It is incredible. For me and for the team, says national team captain Graham Potter.\n\n– De har tagit sin tid och lagt ner pengar på att komma hit och stötta oss. It's not something we take for granted. Vi kommer att göra vårt absolut yttersta för att göra dem stolta. A big thank you to them.\n\nSweden's World Cup opener against Tunisia will be played on the night of Monday, starting at 04.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1659_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The WC stars provoke each other - with punishment: \"Very free play\"",
+            "bullets": [
+              "A World Cup bubble. So what do the stars get up to in their free time? - We call it \"ping bang\", say...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A World Cup bubble. So what do the stars get up to in their free time? - We call it \"ping bang\", says Gustaf Lagerbielke.",
+            "fullText": "- We call it \"ping bang\", says Gustaf Lagerbielke.\n\nHear national team star Gustaf Lagerbielke about the excitement during Sweden's ping-pong game in the player above.\n\nThe blue-and-yellow players have fully loaded ahead of the soccer World Cup opener against Tunisia. Last Thursday, however, an opportunity was given to recharge the batteries and regain new strength with a little time off.\n\n- There was a bit of pool hanging out, party games and recovery, says Gustaf Lagerbielke.\n\nBesides that, they watched the WC premiere together and some, including Benjamin Nygren and Lucas Bergvall, played golf.\n\n- It's very free play. Table tennis, a little different game. Sometimes it's a game for 40 minutes and then on to the next. You feel a bit like small children. It's just fun all the time, says Lagerbielke.\n\nFor their part, Besfort Zeneli and Yasin Ayari took a battle in pickleball. There, according to the former, it was clear who stood out.\n\n- Put it on me. Then we also played basketball, where I was superior. I ran over him, says Zeneli.\n\n- He was actually calm. More calm than usual. It wasn't that serious. But still fun to win, he says with a tan.\n\nSoon it will be time for the first group stage match. The meeting with Tunisia will be played on the night of Monday, 04.00 Swedish time. The match will be broadcast on SVT.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1702_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Football World Cup 2026: News of the night 14 June",
+            "bullets": [
+              "The matches replace each other in the football World Cup and now the giant Brazil has played for the...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The matches replace each other in the football World Cup and now the giant Brazil has played for the first time. Here we summarize the most important headlines from the night.",
+            "fullText": "The matches replace each other in the football World Cup and now the giant Brazil has played for the first time.\n\nHere we summarize the most important headlines from the night.\n\nThe Australia-Turkey match has been going on since 06.00 - follow it and the rest of the World Cup day in SVT's live report.\n\nSee the entire game schedule and all television times in SVT's big guide.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1713_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Several restaurants are investing heavily in the soccer World Cup – despite the high costs of permits",
+            "bullets": [
+              "Immediately after Sweden secured the WC ticket, several restaurants were doubtful. But the closer th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Immediately after Sweden secured the WC ticket, several restaurants were doubtful. But the closer the tournament gets, the more people have decided to bet – despite late night matches and high fees. - It's the folk festival we want to eat, says restaurateur George Mourad in Sala.",
+            "fullText": "Immediately after Sweden secured the WC ticket, several restaurants were doubtful. But the closer the tournament gets, the more people have decided to bet – despite late night matches and high fees.\n\n- It's the folk festival we want to eat, says restaurateur George Mourad in Sala.\n\nOver 400 pubs and restaurants around the country will stay open longer than usual to show the soccer World Cup, according to trade association Visita.\n\nThat's not how it looked in April when SVT Nyheter Västmanland did a check among pubs. Carl Gustaf Forssbeck, at Ruth's Ölhus in Västerås, was clear that they would opt out of a WC venture due to the high costs. But a few weeks ago he changed his mind.\n\n- I love the WC. It can cost whatever it wants. I want to create memories in my restaurant that will stick forever. It is about the risk of missing a World Cup where Sweden is doing well. I don't want to have it on my conscience, he now says to SVT.\n\nAlso at O'Learys in Köping and Ågården's restaurant in Arboga are examples of restaurants where there is a World Cup party despite expensive rights costs.\n\n- It's pointless. It's way too expensive. But I'm someone who wants to give back to Arboga, says Andreas Haglind, who owns Ågården's restaurant.\n\nThey have shown sport in previous championships and are initially betting on the match against the Netherlands on Midsummer's Day and the final group stage match against Japan\n\nSeveral of the restaurants say that they have received many bookings for Sweden's group stage matches, in some places even fully booked. But even so, more people say that it takes a financial risk.\n\nAccording to Carl Gustaf Forssbeck, he has made an investment that cost over 120,000 kroner, for, among other things, an extended alcohol license, display rights and technology.\n\n- If we are to count this home, it must go well for Sweden, he says.\n\nIn Västerås, several actors will show the football World Cup and the municipality has been positive about it. But in Sala, according to the municipality's alcohol and tobacco unit, only one application for a temporarily changed serving permit linked to the WC has been received.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 06:33:54 EDT",
+  "lastUpdated": "2026-06-14 @ 07:17:13 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
