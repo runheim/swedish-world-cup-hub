@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USA blast out of the blocks and Canada get first ever point | World Cup Daily",
-      "link": "https://www.theguardian.com/football/video/2026/jun/13/usa-blast-out-of-the-blocks-and-canada-get-first-ever-point-world-cup-daily"
+      "text": "⚽ World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/14/world-cup-2026-news-scotland-react-to-first-world-cup-victory-in-36-years-as-australia-beat-turkey"
     }
   ],
   "timeline": {
@@ -1732,10 +1732,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-14": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3333_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Scotland react to first victory in 36 years as Australia beat Turkey – live",
+            "bullets": [
+              "News, buildup and reaction from North AmericaPlayer guide | Bracketology | Wallchart | Mail us hereH...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "News, buildup and reaction from North AmericaPlayer guide | Bracketology | Wallchart | Mail us hereHow Group D stands after the opening games…Group D also continued today, with Australia earning a 2-0 win over Turkey in Vancouver. You can recap the action below. Continue reading...",
+            "fullText": "Brazil got off to a slow start, shall we say, against Morocco.\n\nHow ponderous were Brazil. That midfield has all the dynamism of treacle.\n\nThe starting midfield pairing of Casemiro and Bruno Guimarães was not great … but swapping Casemiro and Fabinho at half-time didn’t seem to make much difference. Carlo Ancelotti looks very short of options in that area – Atalanta’s Ederson was left on the bench.\n\nMorocco meanwhile are pretty blessed in midfield – I thought Ayyoub Bouaddi was excellent alongside Neil El Aynaoui. The 18-year-old is currently studying for a maths and physics degree.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-13 @ 18:37:25 EDT",
+  "lastUpdated": "2026-06-14 @ 06:33:51 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
