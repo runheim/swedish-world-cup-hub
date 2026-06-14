@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ England-Croatia referee was called Grade E by Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ BBC Sport pundits choose England World Cup XIs - who would you pick?",
       "link": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -4804,11 +4808,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4630_0",
+            "category": "england",
+            "type": "News",
+            "title": "England-Croatia referee was called Grade E by Tuchel",
+            "bullets": [
+              "Clement Turpin is appointed referee for England's opening World Cup game against Croatia on Wednesda...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Clement Turpin is appointed referee for England's opening World Cup game against Croatia on Wednesday - and was once labelled a \"Grade E\" official by head coach Thomas Tuchel.",
+            "fullText": "Clement Turpin sent Thomas Tuchel to the stands in the Champions League against Manchester City\n\nClement Turpin has been appointed referee for England's opening World Cup game against Croatia on Wednesday - and was once labelled a \"Grade E\" official by head coach Thomas Tuchel.\n\nThe Frenchman showed then Bayern Munich boss Tuchel two yellow cards in the German club's Champions League quarter-final second legagainst Manchester Cityin April 2023, sending him to the stands.\n\nTurpin produced five yellow cards in the first half at Allianz Arena and a straight red for Bayern defender Dayot Upamecano for a last-man challenge on Erling Haaland, but an offside call from the video assistant referee (VAR) reversed the decision.\n\nBayern's 4-1 aggregate loss prompted Tuchel to criticise Turpin post-match, saying: \"Two things couldn't keep up with the level - the pitch wasn't in good condition and also the referee, unfortunately, was Grade E.\n\n\"I'd give him a one out of 10. He was absolutely terrible. It's unbelievable at this level.\n\n\"He was whistling for everything and anything. Everything was against us.\n\n\"In the end, we were never in a position to turn things around with three men against us. That's a fact.\"\n\nBBC Sport pundits choose England World Cup XIs - who would you pick?\n\nEngland midfielder Jude Bellingham has also seen Turpin's no-nonsense approach first-hand.\n\nWhile playing for Real Madrid, Bellingham was pushed away from the penalty spot by Turpin while trying to put Bayern's Harry Kane off taking a penalty.\n\nDespite his run-ins with Tuchel and Bellingham, Turpin is regarded as one of Europe's best referees - taking charge of the 2021 Europa League final and 2022 Champions League final.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4631_1",
+            "category": "england",
+            "type": "News",
+            "title": "BBC Sport pundits choose England World Cup XIs - who would you pick?",
+            "bullets": [
+              "Thomas Tuchel will pick his first England World Cup team on Wednesday, when the Three Lions take on ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel will pick his first England World Cup team on Wednesday, when the Three Lions take on Croatia. BBC Sport pundits choose their starting XIs - who would you pick?",
+            "fullText": "As Thomas Tuchel's side countdown to their opening game against Croatia on 17 June (21:00 BST), BBC Sport pundits have chosen their starting XI for their first World Cup game in Dallas.\n\nWould you start Manchester City defensive duo, Marc Guehi and John Stones or would you pair one of those players with Aston Villa's Ezri Konsa?\n\nJude Bellingham will wear the number 10 shirt for the World Cup, but will he have a starting shirt in the Three Lions' opening game?\n\nYou can make your selection too and share it with friends.\n\nIt is an easy pick, Jordan Pickford as the goalkeeper. I would start Reece James, if he is fully fit.\n\nI would go with John Stones instead of Ezri Konsa, even though Konsa has been really reliable. I just believe on the ball at international football Stones can dictate and if we need to keep the ball in a game, he is one that can certainly do that.\n\nGuehi starting is self-explanatory. He has been excellent for Crystal Palace and Manchester City this season. At left-back, Nico O'Reilly. I know Djed Spence started at their in the friendly against New Zealand, but if I had to pick one it would definitely be O'Reilly.\n\nElliot Anderson and Declan Rice - pretty much what everyone expects. I like Anderson because he can also start attacks. I know he is in there to break up play, but when he plays the ball through the lines he plays it with really good quality.\n\nRice, we all know why he starts. Jude Bellingham, I would start him ahead of Morgan Rogers in a number 10 position because he is a big game player. I think he is a genuine superstar. I think there is two genuine stars in him and Harry Kane.\n\nI would go with Marcus Rashford over Anthony Gordon, but I wouldn't mind putting Rogers there as well.\n\nBukayo Saka speaks for himself and then Harry Kane is obviously upfront.\n\nI hate doing stuff like this... I have picked this XI as I think it is the most well-balanced team to set the tournament up.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4631_2",
+            "category": "england",
+            "type": "News",
+            "title": "‘Why wouldn’t I?’: Eze would take England penalty despite Arsenal shootout miss",
+            "bullets": [
+              "Eze dismisses idea of changing spot-kick technique‘If there is a penalty to take I’ll be there again...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Eze dismisses idea of changing spot-kick technique‘If there is a penalty to take I’ll be there again’Eberechi Eze says he will not let his missed penalty in the Champions League final stop him from stepping up in a shootout for England in the World Cup.The attacking midfielder sent his kick wide when Arsenal lost on penalties against Paris Saint-Germain in Budapest last month but he is determined not to let the disappointment define him and is confident in his technique. Eze, who also had softly-struck penalties saved for Crystal Palace in games against Liverpool and Newcastle last year, dismissed the idea that it is time to move away from his stuttering runup to the ball. Continue reading...",
+            "fullText": "‘If there is a penalty to take I’ll be there again’\n\nEberechi Eze says he will not let his missed penalty in the Champions League final stop him from stepping up in a shootout for England in theWorld Cup.\n\nThe attacking midfielder sent his kick wide whenArsenal lost on penalties against Paris Saint-Germainin Budapest last month but he is determined not to let the disappointment define him and is confident in his technique. Eze, who also had softly-struck penalties saved for Crystal Palace in games against Liverpool and Newcastle last year, dismissed the idea that it is time to move away from his stuttering runup to the ball.\n\n“No, I think I have taken penalties for a long time and it’s part of the journey,” he said. “You have to continue to improve, find new ways to improve. I’m not going to stress too much about it because I know I’m in this position for a reason and all the training behind it.”\n\nEze has a calm mentality and will not shy away from taking another penalty. “Football is full of everything and you have to try to accept everything as it is, to enjoy it as much as you can,” he said. “Playing in a Champions League final is where I want to be, it’s what I want to do.\n\n“We’ll go for it again next season and if there is a penalty to take then I’ll be there again. All the big players have missed big penalties, have experienced these type of moments. I’ve had messages from everyone to speak on those moments. For me it’s not something I wish never happened. I’m grateful it happened. I’m going to grow from it, learn from it and move forward.”\n\nSir Gareth Southgate says England are ready to win the World Cup. The former head coach will watch his old side from afar and is confident they are capable of claiming the men's first trophy time since 1966.\n\nSouthgate, who stepped down after losing the Euro 2024 final to Spain, is not working as a pundit during the World Cup as he does not want to run the risk of his analysis on England becoming a distraction. However he will be supporting Thomas Tuchel’s side when they face Croatia in their opening game in Group L on Wednesday and believes they are going into the tournament in great shape.\n\n\"I just wanted to take a moment to say good luck to all the boys,” Southgate said in a video postedon  Instagram. “I know all the big knockout nights that we've had mean they're going to be full of confidence going into this tournament.\n\n“They've overcome so many hurdles to winning penalty shootouts, semi-finals. We got so close and they're ready to win. I'm looking forward to watching and to get behind the boys.”\n\nEngland’s confidence was on the floor when Southgate took over in 2016 but he led them to the semi-finals of the 2018 World Cup and the finals of Euro 2020 and Euro 2024.\n\nSouthgate helped his players overcome mental barriers and the hope for the Football Association is that Tuchel can get the team over the line this summer. Whatever happens, though, Southgate will be keeping his thoughts to himself.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4631_3",
+            "category": "england",
+            "type": "News",
+            "title": "DR Congo bring style and pride to the World Cup after wholesome welcome",
+            "bullets": [
+              "Brutally tough return to tournament awaits, but the stature of opposition feels less important than ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at allIt was an arrival worth more than half a century of waiting. The Democratic Republic of the Congo (DRC) players strolled into the arrivals hall of George Bush airport on Thursday kitted out in tuxedo suits and leopard-print sashes, channelling La Sape vogue for snappy dress that swept Kinshasa in the 1970s. A throng of local volunteers cheered them through and, in a climate where little can be taken for granted, their welcome to Houston was a genuinely wholesome moment.The DRC’s squad looked appreciative although perhaps they were simply relieved to see new faces. The joy of a first World Cup since 1974, when they competed as Zaire, has been complicated by the Ebola outbreak in their homeland and a 21-day isolation period imposed by the US authorities. The players and staff formed a bubble in Belgium, playing one friendly against Denmark and being forced to cancel a scheduled meeting with Chile in Cádiz. Continue reading...",
+            "fullText": "Brutally tough return to tournament awaits, but the stature of opposition feels less important than the fact of being here at all\n\nIt was an arrival worth more than half a century of waiting. The Democratic Republic of the Congo (DRC) players strolled into the arrivals hall of George Bush airport on Thursday kitted out in tuxedo suits and leopard-print sashes, channellingLa Sapevogue for snappy dress that swept Kinshasa in the 1970s. A throng of local volunteerscheered them throughand, in a climate where little can be taken for granted, their welcome to Houston was a genuinely wholesome moment.\n\nThe DRC’s squad looked appreciative although perhaps they were simply relieved to see new faces. The joy of a first World Cup since 1974, when they competed as Zaire, has been complicated by the Ebola outbreak in their homeland anda 21-day isolation periodimposed by the US authorities. The players and staff formed a bubble in Belgium, playing one friendly against Denmark and being forced to cancel a scheduled meeting with Chile in Cádiz.\n\nThis article includes content provided byInstagram. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. To view this content,click 'Allow and continue'.\n\nFor all the precautions there were at least few of the difficulties apparently encountered by Senegal and Uzbekistan upon entering. The DRC are understood to have had temperatures screened before disembarking their flight, but made it in with no alarms and found a host venue keen to roll out the red carpet. They will be based in Houston for as long as their tournament continues, training at the compact SaberCats Stadium in the city’s south. Portugal and Cristiano Ronaldo await on Wednesday; it is a brutally tough return to the top, but the stature of their opposition feels less important than the fact of being here at all.\n\n“We always dreamed of this,” said Jonathan, sitting in the stadium’s main stand on Friday afternoon. “A lot of people have been waiting a long time, but we never gave up. I believe this is our time.”\n\nHe was among about 70 members of the local Congolese expat community invited to watch the team’s training session on Friday, along with a large group of local children who joined the players for photographs. Kapinga Yvette Ngandu, DRC’s ambassador to the United States, took part in a semi-formal welcome ceremony. Houston appears eager to pull out the stops and Sébastien Desabre’s side hope to ensure their hospitality extends into July.\n\n“We need to adapt,” said Desabre when asked about any ill consequences of their disrupted preparation. “We’re focused on our work, we’re professionals and sometimes the way is not easy. It’s not a problem for us.”\n\nThe Real Betis forward Cédric Bakambu, a 35-year-old veteran of several qualifying near-misses, drew the most adulation from those looking on. The Congolese diaspora in Houston is thought to number about 10,000, if US-born children are counted; it remains to be seen how many have navigated the tournament’s prohibitive prices to watch the troubled country’s date with history.\n\nJonathan, who left the DRC 17 years ago at the age of 21 and lives five minutes’ drive from SaberCats Stadium, was not giving up on witnessing it at first-hand . “I’m trying to be there, I’ve got to be there,” he said. “The tickets are crazy expensive, but we’re going to have to try and do what we can for the team.”\n\nDesabre, a Frenchman who did the rounds of 11 managerial roles in Africa before striking gold with the DRC, hopes they can do plenty for Jonathan and his local peers, as well as the millions watching back home who cannot spend the time or money on quarantining. “We are very affected [by the situation],” he said. “It’s an additional source of motivation for us to fight on the field.”\n\nA win against Colombia or Uzbekistan would give the DRC a strong shout of progressing through Group K and potentially a last-32 meeting with England, even if Portugal prove too strong. Desabre said an AfricanWorld Cupwinner was “just a question of time”; it would probably be the biggest shock in football history if his players achieved it, but an experienced core, including Axel Tuanzebe, Aaron Wan-Bissaka and Chancel Mbemba, will not be easily rolled over.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4631_4",
+            "category": "england",
+            "type": "News",
+            "title": "Brazil find that everything good flows through Vini of New Jersey",
+            "bullets": [
+              "The Real Madrid star was his country’s best player in their World Cup opener on Saturday. They’ll ne...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Real Madrid star was his country’s best player in their World Cup opener on Saturday. They’ll need more of the same if they are to make a deep run Vinícius Júnior is not wearing the famous Brazil No 10 at this World Cup. For now, the hallowed shirt of Pelé, Zico, Rivellino, Rivaldo, Ronaldinho and all the rest belongs to Neymar.Or at least it belongs to a man faintly resembling Neymar. Now 34, he showed just enough at Santos to make Carlo Ancelotti’s squad after two lucrative but mostly wasted years in Saudi Arabia. Ancelotti could have chosen João Pedro or Richarlison or Savinho or Gabriel Jesus or Igor Jesus or, hell, even Antony, but he took Neymar. Who is injured again – a calf problem this time – and whose fitness will loom over the Brazilian campaign, just as it has at some point during every one of his four World Cups. Continue reading...",
+            "fullText": "The Real Madrid star was his country’s best player in their World Cup opener on Saturday. They’ll need more of the same if they are to make a deep run\n\nVinícius Júnior is not wearing the famous Brazil No 10 at this World Cup. For now, the hallowed shirt of Pelé, Zico, Rivellino, Rivaldo, Ronaldinho and all the rest belongs to Neymar.\n\nOr at least it belongs to a man faintly resembling Neymar. Now 34, he showed just enough at Santos to make Carlo Ancelotti’s squad after two lucrative but mostly wasted years in Saudi Arabia. Ancelotti could have chosen João Pedro or Richarlison or Savinho or Gabriel Jesus or Igor Jesus or, hell, even Antony, but he took Neymar. Who is injured again – a calf problem this time – and whose fitness will loom over the Brazilian campaign, just as it has at some point during every one of his four World Cups.\n\nIf Vinícius is now Brazil’s undisputed star, the 25-year-old has also yet to really make the team his own. He has turned in frustrating and often fruitless performances at major international tournaments, while scoring a mere nine goals in 49 appearances entering this, his second World Cup.\n\nHe has yet to wrest top billing from Neymar, whose jersey was worn by huge swaths of the Brazilian fans in theirdraw with Morocco on Saturday.\n\nNeymar, visibly hobbled, ambled by the adoring Brazilian crowds before the match, confirming that he is still here, that he still matters. He sported a backwards hat, like the teenager who once dazzled us before injuries sapped his powers over the last decade. He got what he wanted: loud cheers, even though he wasn’t even in the matchday squad. Neymar, and the No 10, were there but they also were not. He attempted a bit of coaching from the sidelines during the game, trying to exert influence over a team he can help in no other way.\n\nSo if ever there was a time for Vinícius to announce, or indeed confirm, that he was taking charge, this was it: the only group-stage match of this World Cup featuring two of Fifa’s top-10 teams.\n\nHe did just that, under the watchful eye of Brazil legends Ronaldo, Kaká and Roberto Carlos. And he did it for his coach, Ancelotti, who oversaw Vinícius’s maturation at Real Madrid, who coaxed him from prodigy to superstar.\n\nVinícius was man of the match – admittedly a tad generously, given the performance of Morocco’s marvelously efficient 18-year-old playmaker Ayyoub Bouaddi. And it was Vinícius’s 32nd-minute equalizer that roused Brazil from their early slumber.\n\nSeveral times in the first half, Brazil’s players felt compelled to wave their arms upwards at their own fans, who far outnumbered their Moroccan counterparts, demanding more support. They may as well have asked the same of themselves, stunned as they seemed that the semi-finalists at the last World Cup – a stage the Brazilians have not reached on foreign soil in nearly a quarter-century – played right through them.\n\n“The team was a bit anxious and at the beginning nerves were all over the place,” Ancelotti confessed after the match. “In the second half we did a lot better.”\n\nYet out wide for a side still finding itself, Vinícius was a relentless danger. In the 14th minute, he hurtled up the last strip of grass in direct sunlight, beat his club – and now international – rival Achraf Hakimi, and shuffled into the shadows, unleashing a cross that Igor Thiago couldn’t quite get his head on.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 16:10:42 EDT",
+  "lastUpdated": "2026-06-14 @ 18:46:33 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
