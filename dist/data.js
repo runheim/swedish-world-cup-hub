@@ -4,28 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Despite torrential rain - here football fans in Luleå cheer for Sweden: \"Believe in gold\"",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/trots-osregn-har-hejar-fotbollsfans-i-lulea-fram-sverige-tror-pa-guld"
+    },
+    {
+      "text": "⚽ Mjällby's Elliot Stroud made history last night: \"Wonderful\"",
+      "link": "https://www.svt.se/nyheter/lokalt/blekinge/mjallbys-elliot-stroud-skrev-historia-i-natt-underbart"
+    },
+    {
+      "text": "⚽ Soccer World Cup: Quiet night in Karlstad despite extended alcohol permit",
+      "link": "https://www.svt.se/nyheter/lokalt/varmland/fotbolls-vm-lugn-natt-i-karlstad-trots-forlangt-alkoholtillstand"
+    },
+    {
+      "text": "⚽ Night of joy in the pub when Sweden crushed Tunisia in the World Cup",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/gladjefnatt-pa-krogen-nar-sverige-krossade-tunisien-i-vm"
+    },
+    {
+      "text": "⚽ Disturbing pictures – Gudmundsson limped off",
+      "link": "https://www.svt.se/sport/fotboll/orovackande-bilderna-gudmundsson-haltade-av"
+    },
+    {
       "text": "⚽ Jakob Forssmed (KD) releases his own WC song",
       "link": "https://www.svt.se/sport/fotboll/jakob-forssmed-kd-slapper-egen-vm-lat"
     },
     {
       "text": "⚽ Eric Smith's emotional seat: \"Don't know if it can go on like this\"",
       "link": "https://www.svt.se/sport/fotboll/eric-smiths-kanslosamma-sits-vet-inte-om-det-kan-fortsatta-sa-har"
-    },
-    {
-      "text": "⚽ So many Swedes watch Sweden's World Cup premiere in Mexico: \"A big thank you\"",
-      "link": "https://www.svt.se/sport/fotboll/sa-manga-svenskar-ser-sveriges-vm-premiar-i-mexiko-ett-stort-tack"
-    },
-    {
-      "text": "⚽ The WC stars provoke each other - with punishment: \"Very free play\"",
-      "link": "https://www.svt.se/sport/fotboll/vm-stjarnorna-hetsar-varandra-med-straff-mycket-fri-lek"
-    },
-    {
-      "text": "⚽ Football World Cup 2026: News of the night 14 June",
-      "link": "https://www.svt.se/sport/fotboll/fotbolls-vm-2026-det-har-hande-nar-du-sov-14-juni"
-    },
-    {
-      "text": "⚽ Several restaurants are investing heavily in the soccer World Cup – despite the high costs of permits",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/flera-krogar-satsar-stort-pa-fotbolls-vm-trots-hoga-kostnader-for-tillstand"
     },
     {
       "text": "⚽ Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
@@ -3098,10 +3102,154 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-15": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2625_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Despite torrential rain - here football fans in Luleå cheer for Sweden: \"Believe in gold\"",
+            "bullets": [
+              "In torrential rain at four in the morning, hopeful Luleå residents gathered outside to watch Sweden'...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In torrential rain at four in the morning, hopeful Luleå residents gathered outside to watch Sweden's first World Cup match on the big screen. Those who endured the weather got to see Sweden beat Tunisia 5-1. - Now I believe in gold, says Sixten Henriksson.",
+            "fullText": "In torrential rain at four in the morning, hopeful Luleå residents gathered outside to watch Sweden's first World Cup match on the big screen. Those who endured the weather got to see Sweden beat Tunisia 5-1.\n\nDespite persistent rain, an estimated 130 people came to cheer for Sweden together, although people dropped off as time went by. Some went straight to their jobs.\n\n- It is an experience to be together, says Tomas Karlsson.\n\nThe Soccer World Cup is supposed to be a real folk festival for the people of Luleå as well. To gather the cheering crowd, the old fire station grounds have been transformed into a WC square.\n\nAll group stage matches for both Sweden and Norway are shown there, as well as any playoff matches if Sweden advances.\n\nThe next match Sweden will play against the Netherlands on June 20 at 19:00. Jimmy Renlund, center developer, expects even more supporters.\n\n- It was a good start. But I do hope that there will be more people and better weather above all, says Jimmy.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2633_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Mjällby's Elliot Stroud made history last night: \"Wonderful\"",
+            "bullets": [
+              "Elliot Stroud has written football history in Blekinge. During Sweden's opening game in the World Cu...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Stroud has written football history in Blekinge. During Sweden's opening game in the World Cup against Tunisia, he was substituted and thus becomes the first Mjällby player ever to play in a football World Cup.",
+            "fullText": "Elliot Stroud has written football history in Blekinge. During Sweden's opening game in the World Cup against Tunisia, he was substituted and thus becomes the first Mjällby player ever to play in a football World Cup.\n\nSweden got off to a flying start at the tournament in North America when the team defeated Tunisia 5-1 in the World Cup opener.\n\nIn the 64th minute of the match, Mjällby star Elliot Stroud had to step in. He thus becomes historic as the first Mjällby player ever to play in a WC tournament.\n\n- Wonderful start to the WC, writes Stroud on his Instagram after the match.\n\nReplaced the injured starter After starting left-back Gabriel Gudmundsson left the field limping, the national team captain, Graham Potter, in Stroud.\n\nAfter Stroud was substituted, Sweden scored both 4-1 and 5-1, after a dream goal by Yasin Ayari. With the Netherlands and Japan playing to a draw, Sweden leads the group on three points.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2644_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Soccer World Cup: Quiet night in Karlstad despite extended alcohol permit",
+            "bullets": [
+              "It was lively among the hundreds of football fans who braved the earlier hour and the weather to fol...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It was lively among the hundreds of football fans who braved the earlier hour and the weather to follow Sweden's match against Tunisia in Inre hamn in Karlstad. But it was rather due to Sweden's 5-1 victory and not to high alcohol intake.",
+            "fullText": "It was lively among the hundreds of football fans who braved the earlier hour and the weather to follow Sweden's match against Tunisia in Inre hamn in Karlstad. But it was rather due to Sweden's 5-1 victory and not to high alcohol intake.\n\nThe extended alcohol license during the football World Cup makes it possible to drink beer and spirits in some pubs until six in the morning. Hampus Born is responsible for the WC area in Inre hamn.\n\n- It was a quiet night. But about an hour before the match, it was full speed here. We should probably be happy that it's a Monday morning and not a Saturday night.\n\nIn total, there are four pubs in central Karlstad that show the World Cup matches on a big screen and serve alcohol until six in the morning.\n\nNor have the police noticed any increased fighting or drunkenness.\n\nHear Hampus Born tell more about the morning in the WC area in the clip.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2651_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Night of joy in the pub when Sweden crushed Tunisia in the World Cup",
+            "bullets": [
+              "There was ringing and jubilation when happy Swedish supporters celebrated Sweden's 5-1 victory again...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There was ringing and jubilation when happy Swedish supporters celebrated Sweden's 5-1 victory against Tunisia in the premiere of the football World Cup.",
+            "fullText": "There was ringing and jubilation when happy Swedish supporters celebrated Sweden's 5-1 victory against Tunisia in the premiere of the football World Cup.\n\nDespite the early hour with the match starting at 04:00, it was full at O'Learys in Jönköping, one of the pubs in Jönköping that has received permission for extended opening hours and a serving permit.\n\nAccording to the police, there have been no disturbances, only joy from the Swedish fans.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2700_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Disturbing pictures – Gudmundsson limped off",
+            "bullets": [
+              "Sweden may have gone on a blast against Tunisia. Left back Gabriel Gudmundsson stepped off with a su...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden may have gone on a blast against Tunisia. Left back Gabriel Gudmundsson stepped off with a suspected injury. But gives reassuring news. - I feel good, he tells ST Sport.",
+            "fullText": "Left back Gabriel Gudmundsson stepped off with a suspected injury. But gives reassuring news.\n\nIt was in the 64th minute of the World Cup opener against Tunisia that Gabriel Gudmundsson was forced to make a substitution.\n\nThe defender, who signed to the bench a couple of minutes before, appeared to be in pain. He limped off.\n\nGudmundsson was pulled earlier this week with \"lighter disease symptoms\" and was \"crazy\". The Leeds back missed, for that reason, two collective training sessions with Blågult.\n\n- I feel well. The illness this week became a little noticeable. It pulled a little in the muscles, says Gudmundsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2707_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jakob Forssmed (KD) releases his own WC song",
+            "bullets": [
+              "Minister of Social Affairs Jakob Forssmed (KD) released his own WC song on Monday, which was communi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Minister of Social Affairs Jakob Forssmed (KD) released his own WC song on Monday, which was communicated by the government on Sunday. - Good luck now to all the players and leaders in the men's national team, he says in a press release.",
+            "fullText": "Minister of Social Affairs Jakob Forssmed (KD) released his own WC song on Monday, which was communicated by the government on Sunday.\n\n- Good luck now to all the players and leaders in the men's national team, he says in a press release.\n\nJakob Forssmed, who is responsible for sports matters, has named the song \"Spring i djupet (All we are Sweden)\". The proceeds from the song, published on his YouTube channel, will go to Unicef.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2722_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Eric Smith's emotional seat: \"Don't know if it can go on like this\"",
+            "bullets": [
+              "A world championship with all that that entails. Not least a long time away from the family. - The f...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A world championship with all that that entails. Not least a long time away from the family. - The first few days it was really hard and a bit of an \"I don't know if it can continue like this\" phase, says Eric Smith.",
+            "fullText": "- The first few days it was really hard and a bit of an \"I don't know if it can continue like this\" phase, says Eric Smith.\n\nHear Eric Smith about his emotional seat in the player above.\n\nThe Swedish men's national team's WC upload began on Swedish soil on May 27. From then until at least the last group stage match, the gang must stick together on a journey in the hope of success.\n\n- You miss the children, that is. It is very tough right now that you are without them, says defender Eric Smith.\n\nSoon, however, it eases. The family will come over for the final two group stage matches, against the Netherlands and Japan.\n\n- For the second and third matches, the girlfriend is here. Now there is a lot of conversation, especially after, but sometimes before training as well.\n\nTunisia represents the WC opposition in the premiere. The match, which is broadcast on SVT, is played on the night of Monday, starting at 04.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2741_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
+            "bullets": [
+              "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat pl...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas the Netherlands and Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the Dutch looked like taking an early hold on one of the tougher groups.Sport does love to spring surprises. As the entire bib-clad Japanese bench emptied on to the pitch to celebrate Kamada’s deflected goal, as the Japan fans writhed and roared and fell over themselves in the stands, it was tempting to wonder if perhaps the unthinkable is happening. Continue reading...",
+            "fullText": "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas theNetherlandsand Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the Dutch looked like taking an early hold on one of the tougher groups.\n\nSport does love to spring surprises. As the entire bib-clad Japanese bench emptied on to the pitch to celebrate Kamada’s deflected goal, as theJapanfans writhed and roared and fell over themselves in the stands, it was tempting to wonder if perhaps the unthinkable is happening.\n\nThere has been so much talk of tired players, format collapse and empty seats (the stadium was full here), a note of disaster-ism so committed you wondered at times if it was necessary to play the games at all. But football remains a strangely unbreakable product, no matter how energetically you might try.\n\nThere is a reason this thing stands unchallenged as both the world’s most gripping spectator sport and its most reliable macro-distraction, the dictator’s Neuralyzer box, there to erase all those unhappy feelings with a single flash of blinding light. And it does feel as though something else has been taking place across a spunky opening week. Maybe – whisper it – theWorld Cupis actually good.\n\nThis was a lovely spectacle from the start. The Dallas Stadium is a vast concrete spaceship dumped down off the freeway beyond the city limits. Inside, the swooping panelled glass roof gives it the feel of an outsized Victorian railway station, or a vast and humid mega-greenhouse, the kind of place a giant would grow his tomatoes.\n\nAt kick-off the base colours were beautiful, warm royal blue versus deep zingy classic orange. Japan have been an excellent World Cup team in recent times. It felt significant afterwards that their coach, Hajime Moriyasu, was asked about his evident disappointment at only taking what he still described as a “very meaningful point”.\n\n“The Netherlands are a top-class international team,” he said. “Look at the Fifa rankings, there’s quite a difference. But we can look back at today’s match and learn from the Dutch and enhance our power.”\n\nHere Japan set up with attacking midfielders in the wing-back spots and the defensive three Moriyasu has tended to use since Qatar. Ronald Koeman had hinted that Memphis Depay might be fit, but Donyell Malen started in the centre of attack.\n\nAnd the Netherlands took the ball away early on. They really should have scored on three minutes as Malen produced a grappling turn and a powerful shot that was palmed away by Zion Suzuki. After that the game became a series of wary thrusts in between a steady holding pattern of carefully metered Dutch possession.\n\nJapan had some neat, high-pressing flurries. Frenkie de Jong was measured and stately on the ball, a footballer who always seems to be playing inside his own demilitarised zone.\n\nThe hydration break arrived just as the game seemed as if it might start to congeal, although the day was enlivened at that point by the sudden appearance of the Dallas Cowboys cheerleaders on what is reportedly the world’s largest HD screen, the kind of spectacle the human brain struggles to process, literally a 150ft woman dancing with a pompom.\n\nThe Dutch began to press. With 34 minutes gone Malen saw a close-in header direct from a corner batted away at ankle level by Suzuki. Japan had their own best chance just before half-time, a nice combination down the right leading to a cross and shot just wide from Keito Nakamura. But at the break the Dutch were on 67% possession with twice as many passes, controlling the tempo and geometry of the game.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 18:47:06 EDT",
+  "lastUpdated": "2026-06-15 @ 07:27:46 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
@@ -4011,6 +4159,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇸🇪",
       "text": "God morgon! Är alla redo för dagens första pass?",
       "time": "16:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Har alla koll på schemat för morgondagen?",
+      "time": "07:27",
+      "isCaptain": false
+    },
+    {
+      "sender": "Dejan Kulusevski",
+      "avatar": "🇸🇪",
+      "text": "Vem tog mitt kaffe i matsalen?!",
+      "time": "07:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
+      "time": "07:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Kristoffer Olsson",
+      "avatar": "🇸🇪",
+      "text": "Någon som är sugen på lite FIFA ikväll?",
+      "time": "07:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "07:31",
       "isCaptain": false
     }
   ]
