@@ -4,24 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Taking a leaf from Arsenal's playbook - Tuchel's set-piece plan",
+      "link": "https://www.bbc.com/sport/football/articles/c4gy0lgp1v9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Criticism of Bellingham is hard to read - Henderson",
+      "link": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ England-Croatia referee was called Grade E by Tuchel",
       "link": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ BBC Sport pundits choose England World Cup XIs - who would you pick?",
-      "link": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ ‘Why wouldn’t I?’: Eze would take England penalty despite Arsenal shootout miss",
-      "link": "https://www.theguardian.com/football/2026/jun/14/eberechi-eze-england-penalty-shootout-2026-world-cup"
-    },
-    {
-      "text": "⚽ DR Congo bring style and pride to the World Cup after wholesome welcome",
-      "link": "https://www.theguardian.com/football/2026/jun/14/dr-congo-world-cup-houston"
-    },
-    {
-      "text": "⚽ Brazil find that everything good flows through Vini of New Jersey",
-      "link": "https://www.theguardian.com/football/2026/jun/14/vinicius-junior-brazil-world-cup-2026"
+      "text": "⚽ World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live"
     }
   ],
   "timeline": {
@@ -4900,10 +4896,86 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-15": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2538_0",
+            "category": "england",
+            "type": "News",
+            "title": "Taking a leaf from Arsenal's playbook - Tuchel's set-piece plan",
+            "bullets": [
+              "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is underst...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.",
+            "fullText": "Declan Rice's Arsenal scored 19 goals from corners in the Premier League last season\n\nArsenal are set-piece masters, and no club supplied more players for England's World Cup squad than the Gunners. So it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.\n\nHere in the United States, Mikel Arteta's dedication to perfecting Arsenal's routines is an approach England head coach Tuchel is looking to replicate.\n\nIn a tournament environment, when the margins can be so small, Tuchel is keen to take a leaf out of the Arsenal playbook that he admires, and has impressed on his players the importance of exploiting dead-ball situations.\n\nArsenal landed their first Premier League title in 22 years in May and were within a penalty shootout of winning their first Champions League.\n\nWith that level of success in mind, it is entirely understandable that set-pieces have emerged as a key focus in training sessions since England's arrival in the USA.\n\nThere are certainly experts in the field among Tuchel's likely starters.\n\nDeclan Rice is one of the most adept ball strikers in European football â his corners have proved a major threat for Arsenal, certainly in the previous two seasons.\n\nYou can expect Rice, who is guaranteed to start at the World Cup, to be one of England's designated specialists.\n\nChelsea's Reece James, who is expected to start the tournament as England's first-choice right-back, is another likely to be high on the list of Tuchel's takers.\n\nThe England boss knows all about James' abilities, having coached the defender during his time in charge of Chelsea.\n\nBukayo Saka's dead-ball prowess is also viewed as a major asset by Tuchel, even if there is concern inside the England camp about having to manage the Arsenal attacker through the start of the tournament with his ongoing tendonitis complaint.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2539_1",
+            "category": "england",
+            "type": "News",
+            "title": "Criticism of Bellingham is hard to read - Henderson",
+            "bullets": [
+              "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.",
+            "fullText": "Jordan Henderson has played for England at seven major tournaments.\n\nEngland's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.\n\nOne of the biggest talking points before England's first game of the tournament against Croatia on Wednesday (21:00 BST) has been whether Bellingham or Morgan Rogers will start in the number 10 role in Thomas Tuchel's side.\n\nReal Madrid midfielder Bellingham has faced criticism recently for some of his England performances but has previously claimed he was made a\"scapegoat\"in the camp.\n\nHenderson, who was speaking at England's training base in Kansas City, has backed the 22-year-old to have a big impact in the tournament.\n\n\"I can remember six years ago, I gave himhis first capand how much he has grown as a player and person since then is incredible really,\" said Henderson.\n\n\"I had a good idea when I first saw him playing and training and the way he was. What he has done so far at such a young age, I think everybody forgets how young he is, even me sometimes.\"\n\nBBC Sport pundits choose England World Cup XIs - who would you pick?\n\n'I'll be staying out of the way' - Southgate on World Cup punditry\n\nEngland-Croatia referee was called Grade E by Tuchel\n\nBrentford midfielder Henderson, 35, has been included in Tuchel's England squad because of his leadership qualities and the former Liverpool captain has a close relationship with Bellingham.\n\n\"I honestly couldn't speak highly enough of him.\" Henderson said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2541_2",
+            "category": "england",
+            "type": "News",
+            "title": "England-Croatia referee was called Grade E by Tuchel",
+            "bullets": [
+              "Clement Turpin is appointed referee for England's opening World Cup game against Croatia on Wednesda...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Clement Turpin is appointed referee for England's opening World Cup game against Croatia on Wednesday - and was once labelled a \"Grade E\" official by head coach Thomas Tuchel.",
+            "fullText": "Clement Turpin sent Thomas Tuchel to the stands in the Champions League against Manchester City\n\nClement Turpin has been appointed referee for England's opening World Cup game against Croatia on Wednesday - and was once labelled a \"Grade E\" official by head coach Thomas Tuchel.\n\nThe Frenchman showed then Bayern Munich boss Tuchel two yellow cards in the German club's Champions League quarter-final second legagainst Manchester Cityin April 2023, sending him to the stands.\n\nTurpin produced five yellow cards in the first half at Allianz Arena and a straight red for Bayern defender Dayot Upamecano for a last-man challenge on Erling Haaland, but an offside call from the video assistant referee (VAR) reversed the decision.\n\nBayern's 4-1 aggregate loss prompted Tuchel to criticise Turpin post-match, saying: \"Two things couldn't keep up with the level - the pitch wasn't in good condition and also the referee, unfortunately, was Grade E.\n\n\"I'd give him a one out of 10. He was absolutely terrible. It's unbelievable at this level.\n\n\"He was whistling for everything and anything. Everything was against us.\n\n\"In the end, we were never in a position to turn things around with three men against us. That's a fact.\"\n\nBBC Sport pundits choose England World Cup XIs - who would you pick?\n\nEngland midfielder Jude Bellingham has also seen Turpin's no-nonsense approach first-hand.\n\nWhile playing for Real Madrid, Bellingham was pushed away from the penalty spot by Turpin while trying to put Bayern's Harry Kane off taking a penalty.\n\nDespite his run-ins with Tuchel and Bellingham, Turpin is regarded as one of Europe's best referees - taking charge of the 2021 Europa League final and 2022 Champions League final.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2543_3",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live",
+            "bullets": [
+              "⚽️ Iran’s Taremi says tension ‘undermines joy’⚽️ Player guide | Bracketology | Wallchart | Mail Mart...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Iran’s Taremi says tension ‘undermines joy’⚽️ Player guide | Bracketology | Wallchart | Mail MartinSometimes a team needs a player to have some standout performances to jump start a tournament and Jordan Henderson believes that player for England will be Jude Bellingham. Henderson said:I’m sure he will have a big impact for us in this tournament. I can remember five years ago I gave him his first cap, it was away at Middlesbrough. How much he’s grown, as a player and as a person since then, is incredible really. I had a good idea when I first saw him playing and training, and the way he was.I think everybody forgets how young he is. We do rondos and it’s the youngest in, and there’s people that I think should be going in before him, but he’s always one of the first in the middle to go in. It just reminds us how young he is. I honestly couldn’t speak highly enough of him. Continue reading...",
+            "fullText": "And no sooner have I taken over the live blog – hi, everyone! – than Nick Ames pops up with a piecepreviewing Norway’s World Cup campaign. They get going against Iraq tomorrow at 5pm EST / 11pm BST.\n\nIt is a long time since they have been on the world stage – since 1994 when Kjetil Rekdal’s absolute banger at Wembley was just one of many factors in the Netherlands and Norway qualifying for USA ahead of Graham Taylor’s rather sorry England. At that tournament they ended up bottom of a group containing Mexico, Republic of Ireland and Italy, despite all four teams having four points each. They will hope for better this time out, and their viking team photo surely deserves it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 18:46:33 EDT",
+  "lastUpdated": "2026-06-15 @ 07:26:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
@@ -5848,6 +5920,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "text": "Rest up tonight boys. Massive week ahead.",
       "time": "16:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "Phil Foden",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Bags packed and ready. Let's get it.",
+      "time": "07:26",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Can't wait to get back out there. Focus is 100%.",
+      "time": "07:27",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "07:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "07:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who's got control of the playlist today? Needs sorting out.",
+      "time": "07:30",
       "isCaptain": false
     }
   ]
