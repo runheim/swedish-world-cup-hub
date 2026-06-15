@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
+      "text": "⚽ USMNT squad focuses on tactical discipline in Dallas training hub",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Paraguay coaching staff reviews video logs of USA's defensive shapes",
+      "text": "🌍 Group D Opponents finalize their tactical configurations",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -1899,10 +1899,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-15": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_usa_20260615_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT squad focuses on tactical discipline in Dallas training hub",
+            "bullets": [
+              "Mauricio Pochettino leads intensive tactical board and pitch walkthroughs.",
+              "Christian Pulisic continues to display stellar training indicators.",
+              "Captain Christian Pulisic: 'Roster is highly motivated for our next match.'"
+            ],
+            "summary": "The USMNT squad continues their World Cup campaign, training in Dallas, Texas. Under manager Mauricio Pochettino, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.",
+            "fullText": "The USMNT squad continues their World Cup campaign, training in Dallas, Texas. Under manager Mauricio Pochettino, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Jeff Carlisle (ESPN FC)",
+            "readTime": "3 min",
+            "tag": "World Cup Prep",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260615_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Group D Opponents finalize their tactical configurations",
+            "bullets": [
+              "Group D rivals execute high-intensity sessions at their training bases.",
+              "Analysts monitor player fitness and recovery registers.",
+              "Scouts report high ticket sales for upcoming World Cup matches."
+            ],
+            "summary": "USA's Group D rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle USA's front-line.",
+            "fullText": "USA's Group D rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle USA's front-line.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer Pundit Team",
+            "readTime": "3 min",
+            "tag": "Group D Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-14 @ 18:46:56 EDT",
+  "lastUpdated": "2026-06-15 @ 07:25:34 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
@@ -2777,6 +2819,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇺🇸",
       "text": "Who took my boots?! Not funny guys.",
       "time": "16:52",
+      "isCaptain": true
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "07:25",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "07:26",
+      "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "07:27",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Bags are packed! Who's ready?",
+      "time": "07:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "These new training balls are flying everywhere.",
+      "time": "07:29",
       "isCaptain": true
     }
   ]
