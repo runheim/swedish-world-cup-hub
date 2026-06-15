@@ -2761,7 +2761,7 @@ function calculateGroupStandings() {
     addMatch("paraguay", oppScore, usaScore);
 
     // Other match: Australia vs Türkiye
-    let ausScore = 1, turScore = 2; // Default
+    let ausScore = 2, turScore = 0; // Default
     if (SIMULATED_RESULTS["match_aus_tur"]) {
       ausScore = SIMULATED_RESULTS["match_aus_tur"].team1;
       turScore = SIMULATED_RESULTS["match_aus_tur"].team2;
