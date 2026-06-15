@@ -4,20 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Taking a leaf from Arsenal's playbook - Tuchel's set-piece plan",
-      "link": "https://www.bbc.com/sport/football/articles/c4gy0lgp1v9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Stones goes from brink of retirement to World Cup 'pure joy'",
+      "link": "https://www.bbc.com/sport/football/articles/c24y192myrvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ France star Mbappe vows to increase defensive work",
+      "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Criticism of Bellingham is hard to read - Henderson",
       "link": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England-Croatia referee was called Grade E by Tuchel",
-      "link": "https://www.bbc.com/sport/football/articles/ckg8z2k2yplo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England look to Arsenal's playbook - Tuchel's set-piece plan",
+      "link": "https://www.bbc.com/sport/football/articles/c4gy0lgp1v9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: Fifa urged to remove official over hand gesture; teams hit back at Ceferin; Iran arrive in US – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/15/world-cup-2026-news-iran-arrive-in-us-amid-protests-spain-belgium-egypt-enter-tournament-live"
+      "text": "⚽ Spain v Cape Verde: World Cup 2026 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/15/spain-v-cape-verde-world-cup-2026-live"
+    },
+    {
+      "text": "⚽ Crystal Palace confirm appointment of Pierre Sage as head coach",
+      "link": "https://www.theguardian.com/football/2026/jun/15/crystal-palace-confirm-pierre-sage-head-coach"
     }
   ],
   "timeline": {
@@ -4971,11 +4979,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3649_0",
+            "category": "england",
+            "type": "News",
+            "title": "Stones goes from brink of retirement to World Cup 'pure joy'",
+            "bullets": [
+              "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player says he had to \"dig deep\" to secure his place in the 26-man travelling party.",
+            "fullText": "John Stones' selection in England's World Cup squad raised some eyebrows - and the man himself may have been surprised had he been told at his lowest ebb that his country would still be needing him.\n\nStones says he had to \"dig deep\" to come through one of the most challenging periods of his career before securing his place in the 26-player group.\n\nThe 32-year-old is in line to start in England's tournament opener against Croatia on Wednesday despite revealing last October he spent some timeconsidering retirementafter a string of injuries.\n\nStones is highly regarded by manager Thomas Tuchel and could be a fixture in the World Cup side if he can stay fit, which has not been a given in recent years.\n\n\"It was a difficult period when I said that [about retiring] and I hope I don't get to that again,\" Stones told BBC Sport.\n\n\"We can all compare ourselves to all the people or different players, different eras and think about how their journey was or how it could have been different and I am a culprit of that - 'why are these things happening to me? It doesn't happen to other people'.\n\n\"And I really had to dig deep and I am proud of myself for being so mentally strong throughout and coming out the other end of those scenarios or situations.\n\n\"I feel like one of my greatest achievements is to keep coming back from those setbacks, no matter how big they are and being on top form and going back into games and playing at such a high level.\"\n\nTaking a leaf from Arsenal's playbook - Tuchel's set-piece plan\n\nCriticism of Bellingham is hard to read - Henderson\n\nStonesstarted alongside Aston Villa's Ezri Konsain England's latest friendly and could be given the nod ahead of Manchester City team-mate Marc Guehi for the Croatia game (Wednesday, 21:00 BST).\n\nStones played just 439 minutes of Premier League football in the season just ended, featuring in only 18 games for City across all competitions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3649_1",
+            "category": "england",
+            "type": "News",
+            "title": "France star Mbappe vows to increase defensive work",
+            "bullets": [
+              "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of criticism.",
+            "fullText": "Mbappe missed part of Real Madrid's season with a hamstring injury\n\nFrance captain Kylian Mbappe has vowed to increase his defensive efforts as the two-time world champions prepare to get their World Cup campaign under way against Senegal on Tuesday.\n\nThe 27-year-old Real Madrid striker has faced scrutiny over both his performances and leadership for club and country, with international team-mate Ousmane Dembele publicly backing him, saying that the criticism had gone \"too far\".\n\nSpeaking to French newspaper La Parisien, Mbappe faced questions from team-mates and friends, and when teased about his defensive ability by younger brother Ethan, who plays for Ligue 1 side Lille, he acknowledged that he has work to do.\n\n\"I need to take the extra step [with my defensive work] because it's something important for the team and I have to do it,\" he said.\n\n\"It will start this time because we want to win, and to win, I'm ready to do whatever because I want to win at all costs.\"\n\nCritics of Mbappe have gone 'too far', says Dembele\n\nFifa World Cup 2026: What you need to know about France\n\nInjury row, yacht trip & petition - what's going on with Mbappe?\n\nMbappe, who moved to the Spanish capital from Paris St-Germain in 2024, has endured a difficult second season at the Bernabeu amid brewing fan frustration and rumours of dressing room unrest as Real failed to win a trophy.\n\nHe was La Liga's top scorer but defensively he made little impact, as shown by data from Opta.\n\nHe ranked 1,350th out of 1,490 players in Europe's big five leagues (England, Spain, France, Italy and Germany) with a minimum of 19 league appearances, for combined interceptions, blocks, tackles made and possession won.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3649_2",
+            "category": "england",
+            "type": "News",
+            "title": "Criticism of Bellingham is hard to read - Henderson",
+            "bullets": [
+              "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.",
+            "fullText": "Jordan Henderson has played for England at seven major tournaments.\n\nEngland's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.\n\nOne of the biggest talking points before England's first game of the tournament against Croatia on Wednesday (21:00 BST) has been whether Bellingham or Morgan Rogers will start in the number 10 role in Thomas Tuchel's side.\n\nReal Madrid midfielder Bellingham has faced criticism recently for some of his England performances but has previously claimed he was made a\"scapegoat\"in the camp.\n\nHenderson, who was speaking at England's training base in Kansas City, has backed the 22-year-old to have a big impact in the tournament.\n\n\"I can remember six years ago, I gave himhis first capand how much he has grown as a player and person since then is incredible really,\" said Henderson.\n\n\"I had a good idea when I first saw him playing and training and the way he was. What he has done so far at such a young age, I think everybody forgets how young he is, even me sometimes.\"\n\nBBC Sport pundits choose England World Cup XIs - who would you pick?\n\n'I'll be staying out of the way' - Southgate on World Cup punditry\n\nEngland-Croatia referee was called Grade E by Tuchel\n\nBrentford midfielder Henderson, 35, has been included in Tuchel's England squad because of his leadership qualities and the former Liverpool captain has a close relationship with Bellingham.\n\n\"I honestly couldn't speak highly enough of him.\" Henderson said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3650_3",
+            "category": "england",
+            "type": "News",
+            "title": "England look to Arsenal's playbook - Tuchel's set-piece plan",
+            "bullets": [
+              "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is underst...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.",
+            "fullText": "Declan Rice's Arsenal scored 19 goals from corners in the Premier League last season\n\nArsenal are set-piece masters, and no club supplied more players for England's World Cup squad than the Gunners. So it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.\n\nHere in the United States, Mikel Arteta's dedication to perfecting Arsenal's routines is an approach England head coach Tuchel is looking to replicate.\n\nIn a tournament environment, when the margins can be so small, Tuchel is keen to take a leaf out of the Arsenal playbook that he admires, and has impressed on his players the importance of exploiting dead-ball situations.\n\nArsenal landed their first Premier League title in 22 years in May and were within a penalty shootout of winning their first Champions League.\n\nWith that level of success in mind, it is entirely understandable that set-pieces have emerged as a key focus in training sessions since England's arrival in the USA.\n\nThere are certainly experts in the field among Tuchel's likely starters.\n\nDeclan Rice is one of the most adept ball strikers in European football â his corners have proved a major threat for Arsenal, certainly in the previous two seasons.\n\nYou can expect Rice, who is guaranteed to start at the World Cup, to be one of England's designated specialists.\n\nChelsea's Reece James, who is expected to start the tournament as England's first-choice right-back, is another likely to be high on the list of Tuchel's takers.\n\nThe England boss knows all about James' abilities, having coached the defender during his time in charge of Chelsea.\n\nBukayo Saka's dead-ball prowess is also viewed as a major asset by Tuchel, even if there is concern inside the England camp about having to manage the Arsenal attacker through the start of the tournament with his ongoing tendonitis complaint.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3650_4",
+            "category": "england",
+            "type": "News",
+            "title": "Spain v Cape Verde: World Cup 2026 – live",
+            "bullets": [
+              "⚽️ Kick-off time: 3pm local/5pm BST/12pm EDT/2am AEST⚽️ Player guide | Bracketology | Wallchart | An...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Kick-off time: 3pm local/5pm BST/12pm EDT/2am AEST⚽️ Player guide | Bracketology | Wallchart | And mail DanielEmail! “Don’t forget the story of Pico Lopes,” chides Tikthra, “a lad from Crumlin in inner-city Dublin who was first called up to the Cape Verde team in 2019 and became only the second ever League of Ireland player to qualify for a World Cup. Declan Rice and Pico are the only two former Ireland internationals still left with a chance of winning the World Cup.”I was getting to him! First of all, I’m glad Crumlin has someone other than Conor McGregor repping for them; secondly, UK telly just showed a lovely interview with him in which he explained he was on LinkedIn for employment purposes and the manager of Cape Verde contacted him. Problem was, the message was in Portuguese so he ignored it, but got another, in English nine months later, and here he is, at the World Cup. His relief remains palpable. Continue reading...",
+            "fullText": "73 minA buzz flows around the ground the second Lamine gets the ball; he does nothing with his first go of it, but then he beats his man on the outside, cutting back for Llorente, who squares for Merino, near the penalty spot … who scuffs his shot, Vozinha fielding easily enough.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3650_5",
+            "category": "england",
+            "type": "News",
+            "title": "Crystal Palace confirm appointment of Pierre Sage as head coach",
+            "bullets": [
+              "Sage joins after winning Coupe de France with Lens‘We come here with a lot of ambition,’ Sage saysCr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sage joins after winning Coupe de France with Lens‘We come here with a lot of ambition,’ Sage saysCrystal Palace have confirmed the appointment of Pierre Sage as their head coach. The 47-year-old led Lens to second in Ligue 1 and won the Coupe de France this season and became Palace’s top choice after Andoni Iraola joined Liverpool.Sage had one season in charge of Lens and his only previous top-level head coach’s role was with Lyon, where he spent 14 months until January 2025. He takes over at Palace from Oliver Glasner, the club’s most successful manager, who won the FA Cup and Conference League. Continue reading...",
+            "fullText": "Crystal Palace have confirmed the appointment of Pierre Sage as their head coach. The 47-year-old led Lens to second in Ligue 1 and won the Coupe de France this season and became Palace’s top choice after Andoni Iraola joined Liverpool.\n\nSage had one season in charge ofLensand his only previous top-level head coach’s role was with Lyon, where he spent 14 months until January 2025. He takes over at Palace from Oliver Glasner, the club’s most successful manager, who won the FA Cup and Conference League.\n\nSage’s preference for a system similar to that employed by Glasner is believed to have been a major factor in Palace’s thinking. He has signed a three year contract.\n\nIn the Guardian app, tap the Profile settings button at the top right, then select Notifications. Turn on sport notifications.\n\nIf you already have the Guardian app, make sure you’re on the most recent version.\n\nIf you don't have the Guardian app, download it from theiOS App Storeon iPhone or theGoogle Play storeon Android by searching for 'The Guardian'.\n\nSage said: “Oliver Glasner achieved some amazing things, and now I have to do the same. That’s why we come here with a lot of ambition. The dynamic here is really positive, and we are in this mindset too.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 07:26:03 EDT",
+  "lastUpdated": "2026-06-15 @ 13:36:55 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
