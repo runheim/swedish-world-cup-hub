@@ -28,7 +28,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report"
     },
     {
-      "text": "⚽ Saka says he is gambling on fitness but ‘ready to go’ for England World Cup tilt",
+      "text": "⚽ Saka says he is gambling on fitness but ‘ready to go’ for England’s date with Croatia",
       "link": "https://www.theguardian.com/football/2026/jun/15/bukayo-saka-fitness-gamble-england-world-cup"
     }
   ],
@@ -5199,11 +5199,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_3643_0",
+            "category": "england",
+            "type": "News",
+            "title": "I'll keep gambling with fitness for England - Saka",
+            "bullets": [
+              "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.",
+            "fullText": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.\n\nThe Arsenal winger has been carrying an Achilles injury since March and had game-time managed for both Arsenal and the Three Lions.\n\nSaka missed the March international break with the issue and seven games for the Gunners but returned to help his club side lift the Premier League title for the first time in 22 years.\n\nEngland manager Thomas Tuchel has saidhe needs to \"take care\" of the 24-year-oldand it is \"very unlikely\" Saka would \"start and finish\" all the World Cup matches.\n\nBut when asked if he is ready to play the whole of England's opening game in Dallas, Saka said he is ready to be selected.\n\n\"I don't want to say anything that goes against the manager,\" Saka said.\n\n\"What I would say is that between Mikel [Arteta] and the Arsenal medical team and Thomas [Tuchel] and the England medical team, since March they have managed me amazingly and helped me get back on the pitch and do what I can for the team.\n\n\"I'm feeling better than I have felt in the last few months and I'm ready to go.\"\n\nStones goes from brink of retirement to World Cup 'pure joy'\n\nTaking a leaf from Arsenal's playbook - Tuchel's set-piece plan\n\nSaka, who will make his 50th appearance for England in his next match, played 27 minutes of England's warm-up game against Costa Rica as the forward's game-time was managed by Tuchel.\n\nThe winger was taken off in the Champions League final as Arsenal lost to Paris-St Germain in Budapest with the scores level at the time of his substitution.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3643_1",
+            "category": "england",
+            "type": "News",
+            "title": "Stones goes from brink of retirement to World Cup 'pure joy'",
+            "bullets": [
+              "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player says he had to \"dig deep\" to secure his place in the 26-man travelling party.",
+            "fullText": "John Stones' selection in England's World Cup squad raised some eyebrows - and the man himself may have been surprised had he been told at his lowest ebb that his country would still be needing him.\n\nStones says he had to \"dig deep\" to come through one of the most challenging periods of his career before securing his place in the 26-player group.\n\nThe 32-year-old is in line to start in England's tournament opener against Croatia on Wednesday despite revealing last October he spent some timeconsidering retirementafter a string of injuries.\n\nStones is highly regarded by manager Thomas Tuchel and could be a fixture in the World Cup side if he can stay fit, which has not been a given in recent years.\n\n\"It was a difficult period when I said that [about retiring] and I hope I don't get to that again,\" Stones told BBC Sport.\n\n\"We can all compare ourselves to all the people or different players, different eras and think about how their journey was or how it could have been different and I am a culprit of that - 'why are these things happening to me? It doesn't happen to other people'.\n\n\"And I really had to dig deep and I am proud of myself for being so mentally strong throughout and coming out the other end of those scenarios or situations.\n\n\"I feel like one of my greatest achievements is to keep coming back from those setbacks, no matter how big they are and being on top form and going back into games and playing at such a high level.\"\n\nTaking a leaf from Arsenal's playbook - Tuchel's set-piece plan\n\nCriticism of Bellingham is hard to read - Henderson\n\nStonesstarted alongside Aston Villa's Ezri Konsain England's latest friendly and could be given the nod ahead of Manchester City team-mate Marc Guehi for the Croatia game (Wednesday, 21:00 BST).\n\nStones played just 439 minutes of Premier League football in the season just ended, featuring in only 18 games for City across all competitions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3643_2",
+            "category": "england",
+            "type": "News",
+            "title": "Criticism of Bellingham is hard to read - Henderson",
+            "bullets": [
+              "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.",
+            "fullText": "Jordan Henderson has played for England at seven major tournaments.\n\nEngland's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.\n\nOne of the biggest talking points before England's first game of the tournament against Croatia on Wednesday (21:00 BST) has been whether Bellingham or Morgan Rogers will start in the number 10 role in Thomas Tuchel's side.\n\nReal Madrid midfielder Bellingham has faced criticism recently for some of his England performances but has previously claimed he was made a\"scapegoat\"in the camp.\n\nHenderson, who was speaking at England's training base in Kansas City, has backed the 22-year-old to have a big impact in the tournament.\n\n\"I can remember six years ago, I gave himhis first capand how much he has grown as a player and person since then is incredible really,\" said Henderson.\n\n\"I had a good idea when I first saw him playing and training and the way he was. What he has done so far at such a young age, I think everybody forgets how young he is, even me sometimes.\"\n\nBBC Sport pundits choose England World Cup XIs - who would you pick?\n\n'I'll be staying out of the way' - Southgate on World Cup punditry\n\nEngland-Croatia referee was called Grade E by Tuchel\n\nBrentford midfielder Henderson, 35, has been included in Tuchel's England squad because of his leadership qualities and the former Liverpool captain has a close relationship with Bellingham.\n\n\"I honestly couldn't speak highly enough of him.\" Henderson said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3644_3",
+            "category": "england",
+            "type": "News",
+            "title": "France star Mbappe vows to increase defensive work",
+            "bullets": [
+              "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of criticism.",
+            "fullText": "Mbappe missed part of Real Madrid's season with a hamstring injury\n\nFrance captain Kylian Mbappe has vowed to increase his defensive efforts as the two-time world champions prepare to get their World Cup campaign under way against Senegal on Tuesday.\n\nThe 27-year-old Real Madrid striker has faced scrutiny over both his performances and leadership for club and country, with international team-mate Ousmane Dembele publicly backing him, saying that the criticism had gone \"too far\".\n\nSpeaking to French newspaper La Parisien, Mbappe faced questions from team-mates and friends, and when teased about his defensive ability by younger brother Ethan, who plays for Ligue 1 side Lille, he acknowledged that he has work to do.\n\n\"I need to take the extra step [with my defensive work] because it's something important for the team and I have to do it,\" he said.\n\n\"It will start this time because we want to win, and to win, I'm ready to do whatever because I want to win at all costs.\"\n\nCritics of Mbappe have gone 'too far', says Dembele\n\nFifa World Cup 2026: What you need to know about France\n\nInjury row, yacht trip & petition - what's going on with Mbappe?\n\nMbappe, who moved to the Spanish capital from Paris St-Germain in 2024, has endured a difficult second season at the Bernabeu amid brewing fan frustration and rumours of dressing room unrest as Real failed to win a trophy.\n\nHe was La Liga's top scorer but defensively he made little impact, as shown by data from Opta.\n\nHe ranked 1,350th out of 1,490 players in Europe's big five leagues (England, Spain, France, Italy and Germany) with a minimum of 19 league appearances, for combined interceptions, blocks, tackles made and possession won.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3644_4",
+            "category": "england",
+            "type": "News",
+            "title": "England look to Arsenal's playbook - Tuchel's set-piece plan",
+            "bullets": [
+              "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is underst...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.",
+            "fullText": "Declan Rice's Arsenal scored 19 goals from corners in the Premier League last season\n\nArsenal are set-piece masters, and no club supplied more players for England's World Cup squad than the Gunners. So it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.\n\nHere in the United States, Mikel Arteta's dedication to perfecting Arsenal's routines is an approach England head coach Tuchel is looking to replicate.\n\nIn a tournament environment, when the margins can be so small, Tuchel is keen to take a leaf out of the Arsenal playbook that he admires, and has impressed on his players the importance of exploiting dead-ball situations.\n\nArsenal landed their first Premier League title in 22 years in May and were within a penalty shootout of winning their first Champions League.\n\nWith that level of success in mind, it is entirely understandable that set-pieces have emerged as a key focus in training sessions since England's arrival in the USA.\n\nThere are certainly experts in the field among Tuchel's likely starters.\n\nDeclan Rice is one of the most adept ball strikers in European football â his corners have proved a major threat for Arsenal, certainly in the previous two seasons.\n\nYou can expect Rice, who is guaranteed to start at the World Cup, to be one of England's designated specialists.\n\nChelsea's Reece James, who is expected to start the tournament as England's first-choice right-back, is another likely to be high on the list of Tuchel's takers.\n\nThe England boss knows all about James' abilities, having coached the defender during his time in charge of Chelsea.\n\nBukayo Saka's dead-ball prowess is also viewed as a major asset by Tuchel, even if there is concern inside the England camp about having to manage the Arsenal attacker through the start of the tournament with his ongoing tendonitis complaint.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3645_5",
+            "category": "england",
+            "type": "News",
+            "title": "Cape Verde shock Spain with historic draw on World Cup debut",
+            "bullets": [
+              "Wow, just wow. At 1.57pm Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wow, just wow. At 1.57pm Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’s first game in a World Cup finals tournament – and they had only gone and done it.What they had done was madness: a tiny nation, a debutant, had held one of the favourites, Spain, the European champions, to a 0-0 draw. Bubista, the coach who had led them here, had said he wanted the world to see who and what they are – and, boy, did they see. Qualification, he had insisted, was more than football, it was music, it was culture, it was everything. So what was this? This was wonderful. What a moment and what a noise greeted the moment when the impossible had become real. Continue reading...",
+            "fullText": "Wow, just wow. At 1.57pm Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’s first game in a World Cup finals tournament – and they had only gone and done it.\n\nWhat they had done was madness: a tiny nation, a debutant, had held one of the favourites,Spain, the European champions, to a 0-0 draw. Bubista, the coach who had led them here, had said he wanted the world to see who and what they are – and, boy, did they see. Qualification, he had insisted, was more than football, it was music, it was culture, it was everything. So what was this? This was wonderful. What a moment and what a noise greeted the moment when the impossible had become real.\n\nAn Atlantic archipelago of 600,000 people. A Shamrock Rovers centre back from Crumlin, Dublin, learning Creole and found on LinkedIn. A 40-year-old goalkeeper from Portugal’s second division, another Josimar leaving his mark on the history of this competition and a million minds, left in tears at the end and to be talked about for generations. All of them, each and every one. They had come to the US, faced Spain, and resisted them, their bodies on the line and their hearts on their sleeves. Even the introduction of Lamine Yamal, the teenaged icon cast as Spain’s saviour, couldn’t defeat them.\n\nCape Verde got a point from Atlanta but they got a whole lot more. They might have literally got more. As this game entered the final, dramatic, tense minutes with the score at 0-0, it was they, not Spain, who actually had the best chances. Amazingly, on 90 minutes Diney Borges leapt inside the Spain area, rising to meet a header – and his moment of immortality – only for Unai Simón to save. Three minutes later Ryan Mendes had his opportunity, too. And Dani Olmo had to block from Kevin Pina, an incredible story on the edge of getting even more absurd.\n\nBut this will live for ever anyway, a draw of pure joy. And if those were huge moments, images that will be in the imagination a long time, so too was the astonishing block from Pico Lopes, diving in on 88 minutes to deny Olmo. Lopes was born and raised in Ireland. His dad Carlos, a cruise ship chef whose boat docked in Dublin where he met Judy, was in the stands here with her and Pico’s two brothers. His 98‑year‑old granddad, who still works the land, watched from Sao Nicolao. His wife’s family had come by campervan. How proud they must feel, how incredible his story is.\n\nIt’s been told, but it still blows your mind, and it had another chapter written here. A former mortgage adviser, bored with the business, a part-time amateur who left Bohemians for Shamrock Rovers, he was contacted on LinkedIn and ignored the first message – it was in a language he doesn’t understand and he assumed it was spam. Now he had made history. Behind him, the 40-year-old Josimar José Évora Dias, “Vozinha”, had too. They all had, what heroes they have become: a starting XI that plays in eight different leagues, 26 men from outside the elite. Nothing does stories like football, like theWorld Cup.\n\nSpain had 24 shots and could not find a way through, but this wasn’t a fluke, far from it. Bubista’s players had worked for it, deserved it from the very start when that countdown to kick off came and – one minute and six seconds later than scheduled – Dailon Livramento got the country’s first touch at a World Cup finals. They had been told that this wasn’t their place. Oh, but it is. And so it began, an act of rebellion and resistance. 90 long minutes with a huge reward waiting at the end.\n\nBubista has said his team would have the courage to attack but also that they would have to defend well: that was the priority here, and they did so extremely well. It took 14 minutes for Pedri to have Spain’s first shot, then Pau Cubarsi struck a shot wide and that was pretty much that. At the other end Mendes lifted over Gavi and saw his shot blocked by Marc Cucurella, Livramento shot from halfway, and Jovane Cabral curled wide.\n\nSpain did improve and as the half came towards a close the chances appeared, which was when Vozinha did too. The first of a series of saves came from Mikel Oyarzabal’s header after Ferran Torres hit the bar. He stopped from Torres too, and from an Aymeric Laporte header. And although Spain’s shot count rose at the start of the second half, eventually reaching 27, it just wasn’t happening. Instead, history was.\n\nTime was getting on, and on, and on. And, to the surprise of everyone, it took until 70 minutes for Lamine Yamal to be introduced, his appearance changing the mood but not history. Cape Verde did that, music for the world to hear.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3645_6",
+            "category": "england",
+            "type": "News",
+            "title": "Saka says he is gambling on fitness but ‘ready to go’ for England’s date with Croatia",
+            "bullets": [
+              "Tuchel warns forward’s fitness being carefully monitoredSaka keen to play but not to ‘go against the...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel warns forward’s fitness being carefully monitoredSaka keen to play but not to ‘go against the manager’Bukayo Saka has admitted he is continuing to gamble on his fitness to play for England at the World Cup finals but said he “is ready to go” despite a nagging achilles injury.The Arsenal forward came off the bench in England’s last warm‑up game against Costa Rica but the England manager, Thomas Tuchel, warned that Saka’s fitness is being monitored carefully. The 24‑year‑old player is believed to have picked up the injury during the Carabao Cup final against Manchester City in March and missed Arsenal’s next seven matches as a result. Since then, he has completed 90 minutes only once in five appearances and was substituted before the end of normal time in the Champions League final against Paris Saint-Germain. Continue reading...",
+            "fullText": "Tuchel warns forward’s fitness being carefully monitored\n\nSaka keen to play but not to ‘go against the manager’\n\nBukayo Saka has admitted he is continuing to gamble on his fitness to play for England at the World Cup finals but said he “is ready to go” despite a nagging achilles injury.\n\nThe Arsenal forward came off the bench in England’s last warm‑up game against Costa Rica but the England manager, Thomas Tuchel, warned that Saka’s fitness is being monitored carefully. The 24‑year‑old player is believed to have picked up the injuryduring the Carabao Cup finalagainst Manchester City in March and missed Arsenal’s next seven matches as a result. Since then, he has completed 90 minutes only once in five appearances and was substituted before the end of normal time in the Champions League final against Paris Saint-Germain.\n\nAsked whether he agreed with Tuchel’s suggestion that he was not ready to play an entire match, Saka said: “I don’t want to say anything that goes against the manager. But what I would say between Mikel [Arteta] and Arsenal’s medical team and England’s medical team, since March they have managed me amazingly and helped me get back on the pitch and do what I can for the team. I am feeling better than I have felt for the last few months. I am ready to go.”\n\nSaka acknowledged, though, that he has been playing through the pain barrier. “As players it’s the biggest gamble, especially if you’re not feeling your sharpest. You have the choice whether you don’t play or you put yourself out there knowing people are going to judge you the same.\n\n“At the end of the day people don’t really care how you’re feeling, they expect you to deliver, they expect you to perform. I’m happy to take the gamble. It paid off, I’d say. I’m going to continue doing that. But I am feeling a lot better than I did in March and I’m ready to go.”\n\nNoni Madueke could start in place of Saka on the right side of England’s attack if Tuchel decides not to risk Saka against Croatia on Wednesday in Dallas. The two of them, Declan Rice and Eberechi Eze were all given extra time off after Arsenal’s Champions League commitments and Saka believes that winning the club’s first Premier League title for 22 years has given them “more confidence and freedom”. He said: “Knowing what it takes to win is important, and we have that feeling now. It gives you more belief.”\n\nJohn Stones is expected to start his 25th tournament game in a row despite being used sparingly by City this season. The 32-year-old has revealed previously that he even considered retiring at the end of last season but is now determined to play his part for England.\n\n“City didn’t want to keep me any more and wanted me to find a new challenge,” he told ITV.\n\n“I said to myself: ‘OK, I could do that and find somewhere.’ Or what did I do as a kid when you played down for two years, wasn’t big enough, played out of position, what did you do? I fought and that’s what I did and I have always reflected on that. I think I feel as good as I’ve ever been before a tournament.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 17:37:24 EDT",
+  "lastUpdated": "2026-06-15 @ 18:36:51 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
