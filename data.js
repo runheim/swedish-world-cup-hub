@@ -4,6 +4,18 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Tunisia fires the coach after the big loss against Sweden",
+      "link": "https://www.svt.se/sport/fotboll/tunisien-sparkar-tranaren-efter-storforlusten-mot-sverige"
+    },
+    {
+      "text": "⚽ Jesper Blomqvist's pass to Lucas Bergvall after the record",
+      "link": "https://www.svt.se/sport/fotboll/jesper-blomqvists-passning-till-lucas-bergvall-efter-rekordet"
+    },
+    {
+      "text": "⚽ The first time: Here Sweden - Tunisia is interpreted in sign language",
+      "link": "https://www.svt.se/sport/fotboll/forsta-gangen-har-tolkas-sverige-tunisien-pa-teckensprak"
+    },
+    {
       "text": "⚽ Despite torrential rain - here football fans in Luleå cheer for Sweden: \"Believe in gold\"",
       "link": "https://www.svt.se/nyheter/lokalt/norrbotten/trots-osregn-har-hejar-fotbollsfans-i-lulea-fram-sverige-tror-pa-guld"
     },
@@ -24,12 +36,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/orovackande-bilderna-gudmundsson-haltade-av"
     },
     {
-      "text": "⚽ Jakob Forssmed (KD) releases his own WC song",
-      "link": "https://www.svt.se/sport/fotboll/jakob-forssmed-kd-slapper-egen-vm-lat"
-    },
-    {
-      "text": "⚽ Eric Smith's emotional seat: \"Don't know if it can go on like this\"",
-      "link": "https://www.svt.se/sport/fotboll/eric-smiths-kanslosamma-sits-vet-inte-om-det-kan-fortsatta-sa-har"
+      "text": "⚽ Tunisia sack Sabri Lamouchi one game into World Cup after ⁠5-1 defeat by Sweden",
+      "link": "https://www.theguardian.com/football/2026/jun/15/tunisia-sack-sabri-lamouchi-one-game-into-world-cup-2026-5-1-defeat-sweden"
     },
     {
       "text": "⚽ Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
@@ -3245,11 +3253,187 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3429_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Tunisia fires the coach after the big loss against Sweden",
+            "bullets": [
+              "Sweden crushed Tunisia in the WC premiere with a clear 5–1. Now Blågult's opponent is acting. Tunisi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden crushed Tunisia in the WC premiere with a clear 5–1. Now Blågult's opponent is acting. Tunisia fires its national team captain Sabri Lamouchi, reports Reuters.",
+            "fullText": "Sweden crushed Tunisia in the WC premiere with a clear 5–1.\n\nTunisia fires its national team captain Sabri Lamouchi, reports Reuters.\n\nJust hours after the final whistle, reports came that 54-year-old Lamouchi had been fired.\n\nNow it is clear that this will also be the case. That's what Reuters writes, referring to a post by the Tunisian Football Association's Instagram.\n\n\"An agreement has officially been reached to fire coach Sabri Lamouchi,\" writes the federation according to Reuters and continues:\n\n\"Plans are underway to appoint Mondher Kebaier as national team coach (on a temporary basis), to coach the national team during the World Cup.\"\n\nKebaier has previously been Tunisian confederation captain, during the years 2019–2022.\n\nSabri Lamouchi was hired as Tunisia's national team captain in January this year and was only allowed to make five (!) international matches as coach of the national team.\n\nAccording to The Athletic, Lamouchi is the first national team captain in World Cup history to be sacked after just one match.\n\nTunisia will next face Japan in the World Cup group stage, with kick-off on Sunday morning at 06.00 - a match that SVT broadcasts.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3439_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jesper Blomqvist's pass to Lucas Bergvall after the record",
+            "bullets": [
+              "Lucas Bergvall has taken over a 32-year-old record from Jesper Blomqvist. However, another record st...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lucas Bergvall has taken over a 32-year-old record from Jesper Blomqvist. However, another record still stands. - I'm putting in that firecracker, says Blomqvist to SVT Sport.",
+            "fullText": "Lucas Bergvall has taken over a 32-year-old record from Jesper Blomqvist.\n\n- I'm putting in that firecracker, says Blomqvist to SVT Sport.\n\nHear Jesper Blomqvist's pass to Lucas Bergvall in the player above.\n\nLucas Bergvall was substituted when Sweden crushed Tunisia 5-1 in the WC premiere. When he entered the field, he became the youngest Swede to play in a World Cup ever.\n\n94 hero Jesper Blomqvist, former record holder, watched the historic change from his bed.\n\n- It was about time! exclaims the 52-year-old when SVT Sport reaches him on Monday afternoon.\n\nIt was in the premiere of the world championship in 1994 that Blomqvist set the old record. He started in the 2-2 draw against Cameroon when he was 20 years and 134 days old.\n\nLucas Bergvall was only two days younger when he made his WC debut last night.\n\n- He is so incredibly mature and plays so wisely. I have a hard time understanding that he is as young as it says on paper, says Jesper Blomqvist.\n\nThe former outside midfielder played in IFK Göteborg during the 1994 World Cup, and until then had only played a few matches with the national team. Lucas Bergvall has played 78 games for Tottenham, as well as eleven internationals.\n\n- He is already a finished player. Also, he plays in central midfield, which is by far one of the most difficult positions to play in. You have to be wise and have a lot of experience with you.\n\nBlomqvist has not heard from Bergvall after the night's record, but wants to send his warmest congratulations to the WC debutant.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3442_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "The first time: Here Sweden - Tunisia is interpreted in sign language",
+            "bullets": [
+              "This morning, deaf people from all over the world could watch Sweden face Tunisia in sign language. ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "This morning, deaf people from all over the world could watch Sweden face Tunisia in sign language. For the first time, Fifa interprets all matches in the soccer World Cup into sign language. This is part of the effort to make the tournament \"more inclusive than ever\", writes FIFA in a press release.",
+            "fullText": "This morning, deaf people from all over the world could watch Sweden face Tunisia in sign language. For the first time, Fifa interprets all matches in the soccer World Cup into sign language. This is part of the effort to make the tournament \"more inclusive than ever\", writes FIFA in a press release.\n\nAll matches in the FIFA World Cup are translated into sign language, as part of FIFA's commitment to accessibility during the tournament. The broadcasts are broadcast separately through a link from the organizer's app and must be accessible to everyone.\n\n\"Sign language commentary goes beyond standard interpretation. It provides an immersive experience for the deaf and hard of hearing by translating the entire energy of the game,\" writes FIFA in a press release.\n\nIt Fifas sändning på teckenspråk, next to SVT's sändning i videon ovan.\n\nFifa believes that the interpreters should not only translate what is said, but also convey such things as cheers, boos and whistles - something that deaf people otherwise miss out on. Sweden's match against Tunisia this morning was no exception. The match was translated into Mexican Sign Language because it was played in Mexico, while the matches played in the United States and Canada are translated into American Sign Language.\n\nSVT has also invested in accessibility, see more about both Fifa's and SVT's investments in the video below.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3447_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Despite torrential rain - here football fans in Luleå cheer for Sweden: \"Believe in gold\"",
+            "bullets": [
+              "In torrential rain at four in the morning, hopeful Luleå residents gathered outside to watch Sweden'...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In torrential rain at four in the morning, hopeful Luleå residents gathered outside to watch Sweden's first World Cup match on the big screen. Those who endured the weather got to see Sweden beat Tunisia 5-1. - Now I believe in gold, says Sixten Henriksson.",
+            "fullText": "In torrential rain at four in the morning, hopeful Luleå residents gathered outside to watch Sweden's first World Cup match on the big screen. Those who endured the weather got to see Sweden beat Tunisia 5-1.\n\nDespite persistent rain, an estimated 130 people came to cheer Sweden on together, although people dropped off as time went by. Some went straight to their jobs.\n\n- It is an experience to be together, says Tomas Karlsson.\n\nThe Soccer World Cup is supposed to be a real folk festival for the people of Luleå as well. To gather the cheering crowd, the old fire station grounds have been transformed into a WC square.\n\nAll group stage matches for both Sweden and Norway are shown there, as well as any playoff matches if Sweden advances.\n\nThe next match Sweden will play against the Netherlands on June 20 at 19:00. Jimmy Renlund, center developer, expects even more supporters.\n\n- It was a good start. But I hope there will be more people and better weather above all, says Jimmy.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3454_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Mjällby's Elliot Stroud made history last night: \"Wonderful\"",
+            "bullets": [
+              "Elliot Stroud has written football history in Blekinge. During Sweden's opening game in the World Cu...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Stroud has written football history in Blekinge. During Sweden's opening game in the World Cup against Tunisia, he was substituted and thus becomes the first Mjällby player ever to play in a football World Cup.",
+            "fullText": "Elliot Stroud has written football history in Blekinge. During Sweden's opening game in the World Cup against Tunisia, he was substituted and thus becomes the first Mjällby player ever to play in a football World Cup.\n\nSweden got off to a flying start at the tournament in North America when the team defeated Tunisia 5-1 in the World Cup opener.\n\nIn the 64th minute of the match, Mjällby star Elliot Stroud had to step in. He thus becomes historic as the first Mjällby player ever to play in a WC tournament.\n\n- Wonderful start to the WC, writes Stroud on his Instagram after the match.\n\nReplaced the injured starter After starting left-back Gabriel Gudmundsson left the field limping, the national team captain, Graham Potter, in Stroud.\n\nAfter Stroud was substituted, Sweden scored both 4-1 and 5-1, after a dream goal by Yasin Ayari. With the Netherlands and Japan playing to a draw, Sweden leads the group on three points.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3500_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Soccer World Cup: Quiet night in Karlstad despite extended alcohol permit",
+            "bullets": [
+              "It was lively among the hundreds of football fans who braved the earlier hour and the weather to fol...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It was lively among the hundreds of football fans who braved the earlier hour and the weather to follow Sweden's match against Tunisia in Inre hamn in Karlstad. But it was rather due to Sweden's 5-1 victory and not to high alcohol intake.",
+            "fullText": "It was lively among the hundreds of football fans who braved the earlier hour and the weather to follow Sweden's match against Tunisia in Inre hamn in Karlstad. But it was rather due to Sweden's 5-1 victory and not to high alcohol intake.\n\nThe extended alcohol license during the football World Cup makes it possible to drink beer and spirits in some pubs until six in the morning. Hampus Born is responsible for the WC area in Inre hamn.\n\n- It was a quiet night. But about an hour before the match, it was full speed here. We should probably be happy that it's a Monday morning and not a Saturday night.\n\nIn total, there are four pubs in central Karlstad that show the World Cup matches on a big screen and serve alcohol until six in the morning.\n\nNor have the police noticed any increased fighting or drunkenness.\n\nHear Hampus Born tell more about the morning in the WC area in the clip.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3503_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Night of joy in the pub when Sweden crushed Tunisia in the World Cup",
+            "bullets": [
+              "There was ringing and jubilation when happy Swedish supporters celebrated Sweden's 5-1 victory again...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There was ringing and jubilation when happy Swedish supporters celebrated Sweden's 5-1 victory against Tunisia in the premiere of the football World Cup.",
+            "fullText": "There was ringing and jubilation when happy Swedish supporters celebrated Sweden's 5-1 victory against Tunisia in the premiere of the football World Cup.\n\nDespite the early hour with the match starting at 04:00, it was full at O'Learys in Jönköping, one of the pubs in Jönköping that has received permission for extended opening hours and a serving permit.\n\nAccording to the police, there have been no disturbances, only joy from the Swedish fans.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3506_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Disturbing pictures – Gudmundsson limped off",
+            "bullets": [
+              "Sweden may have gone on a blast against Tunisia. Left back Gabriel Gudmundsson stepped off with a su...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden may have gone on a blast against Tunisia. Left back Gabriel Gudmundsson stepped off with a suspected injury. But gives reassuring news. - I feel good, he tells ST Sport.",
+            "fullText": "Left back Gabriel Gudmundsson stepped off with a suspected injury. But gives reassuring news.\n\nIt was in the 64th minute of the World Cup opener against Tunisia that Gabriel Gudmundsson was forced to make a substitution.\n\nThe defender, who signed to the bench a couple of minutes before, appeared to be in pain. He limped off.\n\nGudmundsson was pulled earlier this week with \"lighter disease symptoms\" and was \"crazy\". The Leeds back missed, for that reason, two collective training sessions with Blågult.\n\n- I feel well. The illness this week became a little noticeable. It pulled a little in the muscles, says Gudmundsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3508_8",
+            "category": "sweden",
+            "type": "News",
+            "title": "Tunisia sack Sabri Lamouchi one game into World Cup after ⁠5-1 defeat by Sweden",
+            "bullets": [
+              "Move comes after thrashing in opening game in MexicoTunisia still to face Japan and Netherlands in G...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Move comes after thrashing in opening game in MexicoTunisia still to face Japan and Netherlands in Group FTunisia sacked their head coach, Sabri Lamouchi, on Monday after ⁠a 5-1 defeat by Sweden in their first World Cup game. The Tunisian ⁠football federation ⁠announced ​his dismissal on its Instagram account.“An agreement has been officially reached ⁠to dismiss coach Sabri Lamouchi,” the statement said. “Plans are under way ‌to appoint ‌Mondher Kebaier as the national team ‌coach [on an interim basis].” Continue reading...",
+            "fullText": "Move comes after thrashing in opening game in Mexico\n\nTunisia still to face Japan and Netherlands in Group F\n\nTunisia sacked their head coach, Sabri Lamouchi, on Monday after ⁠a 5-1 defeat by Swedenin their first World Cup game. The Tunisian ⁠football federation ⁠announced ​his dismissal on its Instagram account.\n\n“An agreement has been officially reached ⁠to dismiss coach Sabri Lamouchi,” the statement said. “Plans are under way ‌to appoint ‌Mondher Kebaier as the national team ‌coach [on an interim basis].”\n\nTunisia will face Japan on Saturday in the same stadium in Guadalupe where they lost to Sweden before finishing ​their group games against the Netherlands in Kansas City.\n\nLamouchi, 54, was hired in January and was ⁠already under fire after a 5-0 defeat by ​Belgium in a ​pre-tournament friendly ​in Brussels.\n\nThe ‌Frenchman previously ​managed ​Côte d’Ivoire at the 2014World Cupbut failed to advance beyond the group stage in Brazil.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3510_9",
+            "category": "sweden",
+            "type": "News",
+            "title": "Fortune favours Kamada as Japan rescue World Cup draw with Netherlands",
+            "bullets": [
+              "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat pl...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas the Netherlands and Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the Dutch looked like taking an early hold on one of the tougher groups.Sport does love to spring surprises. As the entire bib-clad Japanese bench emptied on to the pitch to celebrate Kamada’s deflected goal, as the Japan fans writhed and roared and fell over themselves in the stands, it was tempting to wonder if perhaps the unthinkable is happening. Continue reading...",
+            "fullText": "The World Cup continues to produce the unexpected. On a throbbingly hot afternoon in the low flat plains outside Dallas theNetherlandsand Japan played out a high-grade, ultimately thrilling Group F game, Daichi Kamada scoring an 89th-minute equaliser to make it 2-2 just as the Dutch looked like taking an early hold on one of the tougher groups.\n\nSport does love to spring surprises. As the entire bib-clad Japanese bench emptied on to the pitch to celebrate Kamada’s deflected goal, as theJapanfans writhed and roared and fell over themselves in the stands, it was tempting to wonder if perhaps the unthinkable is happening.\n\nThere has been so much talk of tired players, format collapse and empty seats (the stadium was full here), a note of disaster-ism so committed you wondered at times if it was necessary to play the games at all. But football remains a strangely unbreakable product, no matter how energetically you might try.\n\nThere is a reason this thing stands unchallenged as both the world’s most gripping spectator sport and its most reliable macro-distraction, the dictator’s Neuralyzer box, there to erase all those unhappy feelings with a single flash of blinding light. And it does feel as though something else has been taking place across a spunky opening week. Maybe – whisper it – theWorld Cupis actually good.\n\nThis was a lovely spectacle from the start. The Dallas Stadium is a vast concrete spaceship dumped down off the freeway beyond the city limits. Inside, the swooping panelled glass roof gives it the feel of an outsized Victorian railway station, or a vast and humid mega-greenhouse, the kind of place a giant would grow his tomatoes.\n\nAt kick-off the base colours were beautiful, warm royal blue versus deep zingy classic orange. Japan have been an excellent World Cup team in recent times. It felt significant afterwards that their coach, Hajime Moriyasu, was asked about his evident disappointment at only taking what he still described as a “very meaningful point”.\n\n“The Netherlands are a top-class international team,” he said. “Look at the Fifa rankings, there’s quite a difference. But we can look back at today’s match and learn from the Dutch and enhance our power.”\n\nHere Japan set up with attacking midfielders in the wing-back spots and the defensive three Moriyasu has tended to use since Qatar. Ronald Koeman had hinted that Memphis Depay might be fit, but Donyell Malen started in the centre of attack.\n\nAnd the Netherlands took the ball away early on. They really should have scored on three minutes as Malen produced a grappling turn and a powerful shot that was palmed away by Zion Suzuki. After that the game became a series of wary thrusts in between a steady holding pattern of carefully metered Dutch possession.\n\nJapan had some neat, high-pressing flurries. Frenkie de Jong was measured and stately on the ball, a footballer who always seems to be playing inside his own demilitarised zone.\n\nThe hydration break arrived just as the game seemed as if it might start to congeal, although the day was enlivened at that point by the sudden appearance of the Dallas Cowboys cheerleaders on what is reportedly the world’s largest HD screen, the kind of spectacle the human brain struggles to process, literally a 150ft woman dancing with a pompom.\n\nThe Dutch began to press. With 34 minutes gone Malen saw a close-in header direct from a corner batted away at ankle level by Suzuki. Japan had their own best chance just before half-time, a nice combination down the right leading to a cross and shot just wide from Keito Nakamura. But at the break the Dutch were on 67% possession with twice as many passes, controlling the tempo and geometry of the game.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 07:27:46 EDT",
+  "lastUpdated": "2026-06-15 @ 13:35:10 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
