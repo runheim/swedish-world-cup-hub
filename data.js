@@ -20,12 +20,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c4gy0lgp1v9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Spain v Cape Verde: World Cup 2026 – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/15/spain-v-cape-verde-world-cup-2026-live"
+      "text": "⚽ Cape Verde shock Spain with historic draw on World Cup debut",
+      "link": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report"
     },
     {
-      "text": "⚽ Crystal Palace confirm appointment of Pierre Sage as head coach",
-      "link": "https://www.theguardian.com/football/2026/jun/15/crystal-palace-confirm-pierre-sage-head-coach"
+      "text": "⚽ ‘It makes it like home’: inside England’s exclusive four-star Kansas City inn",
+      "link": "https://www.theguardian.com/football/2026/jun/15/england-base-camp-hotel-kansas-city-world-cup-2026"
     }
   ],
   "timeline": {
@@ -5087,11 +5087,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4839_0",
+            "category": "england",
+            "type": "News",
+            "title": "Stones goes from brink of retirement to World Cup 'pure joy'",
+            "bullets": [
+              "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones' selection for England's World Cup squad may have raised a few eyebrows but the player says he had to \"dig deep\" to secure his place in the 26-man travelling party.",
+            "fullText": "John Stones' selection in England's World Cup squad raised some eyebrows - and the man himself may have been surprised had he been told at his lowest ebb that his country would still be needing him.\n\nStones says he had to \"dig deep\" to come through one of the most challenging periods of his career before securing his place in the 26-player group.\n\nThe 32-year-old is in line to start in England's tournament opener against Croatia on Wednesday despite revealing last October he spent some timeconsidering retirementafter a string of injuries.\n\nStones is highly regarded by manager Thomas Tuchel and could be a fixture in the World Cup side if he can stay fit, which has not been a given in recent years.\n\n\"It was a difficult period when I said that [about retiring] and I hope I don't get to that again,\" Stones told BBC Sport.\n\n\"We can all compare ourselves to all the people or different players, different eras and think about how their journey was or how it could have been different and I am a culprit of that - 'why are these things happening to me? It doesn't happen to other people'.\n\n\"And I really had to dig deep and I am proud of myself for being so mentally strong throughout and coming out the other end of those scenarios or situations.\n\n\"I feel like one of my greatest achievements is to keep coming back from those setbacks, no matter how big they are and being on top form and going back into games and playing at such a high level.\"\n\nTaking a leaf from Arsenal's playbook - Tuchel's set-piece plan\n\nCriticism of Bellingham is hard to read - Henderson\n\nStonesstarted alongside Aston Villa's Ezri Konsain England's latest friendly and could be given the nod ahead of Manchester City team-mate Marc Guehi for the Croatia game (Wednesday, 21:00 BST).\n\nStones played just 439 minutes of Premier League football in the season just ended, featuring in only 18 games for City across all competitions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4839_1",
+            "category": "england",
+            "type": "News",
+            "title": "France star Mbappe vows to increase defensive work",
+            "bullets": [
+              "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "French captain Kylian Mbappe vows to increase his defensive efforts at the World Cup in the face of criticism.",
+            "fullText": "Mbappe missed part of Real Madrid's season with a hamstring injury\n\nFrance captain Kylian Mbappe has vowed to increase his defensive efforts as the two-time world champions prepare to get their World Cup campaign under way against Senegal on Tuesday.\n\nThe 27-year-old Real Madrid striker has faced scrutiny over both his performances and leadership for club and country, with international team-mate Ousmane Dembele publicly backing him, saying that the criticism had gone \"too far\".\n\nSpeaking to French newspaper La Parisien, Mbappe faced questions from team-mates and friends, and when teased about his defensive ability by younger brother Ethan, who plays for Ligue 1 side Lille, he acknowledged that he has work to do.\n\n\"I need to take the extra step [with my defensive work] because it's something important for the team and I have to do it,\" he said.\n\n\"It will start this time because we want to win, and to win, I'm ready to do whatever because I want to win at all costs.\"\n\nCritics of Mbappe have gone 'too far', says Dembele\n\nFifa World Cup 2026: What you need to know about France\n\nInjury row, yacht trip & petition - what's going on with Mbappe?\n\nMbappe, who moved to the Spanish capital from Paris St-Germain in 2024, has endured a difficult second season at the Bernabeu amid brewing fan frustration and rumours of dressing room unrest as Real failed to win a trophy.\n\nHe was La Liga's top scorer but defensively he made little impact, as shown by data from Opta.\n\nHe ranked 1,350th out of 1,490 players in Europe's big five leagues (England, Spain, France, Italy and Germany) with a minimum of 19 league appearances, for combined interceptions, blocks, tackles made and possession won.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4839_2",
+            "category": "england",
+            "type": "News",
+            "title": "Criticism of Bellingham is hard to read - Henderson",
+            "bullets": [
+              "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.",
+            "fullText": "Jordan Henderson has played for England at seven major tournaments.\n\nEngland's Jordan Henderson says he finds it \"hard to read\" what is written about Jude Bellingham but believes the midfielder can be the team's \"X-factor\" player at the World Cup.\n\nOne of the biggest talking points before England's first game of the tournament against Croatia on Wednesday (21:00 BST) has been whether Bellingham or Morgan Rogers will start in the number 10 role in Thomas Tuchel's side.\n\nReal Madrid midfielder Bellingham has faced criticism recently for some of his England performances but has previously claimed he was made a\"scapegoat\"in the camp.\n\nHenderson, who was speaking at England's training base in Kansas City, has backed the 22-year-old to have a big impact in the tournament.\n\n\"I can remember six years ago, I gave himhis first capand how much he has grown as a player and person since then is incredible really,\" said Henderson.\n\n\"I had a good idea when I first saw him playing and training and the way he was. What he has done so far at such a young age, I think everybody forgets how young he is, even me sometimes.\"\n\nBBC Sport pundits choose England World Cup XIs - who would you pick?\n\n'I'll be staying out of the way' - Southgate on World Cup punditry\n\nEngland-Croatia referee was called Grade E by Tuchel\n\nBrentford midfielder Henderson, 35, has been included in Tuchel's England squad because of his leadership qualities and the former Liverpool captain has a close relationship with Bellingham.\n\n\"I honestly couldn't speak highly enough of him.\" Henderson said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4840_3",
+            "category": "england",
+            "type": "News",
+            "title": "England look to Arsenal's playbook - Tuchel's set-piece plan",
+            "bullets": [
+              "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is underst...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are set-piece masters, with prominent figures in England's World Cup squad, so it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.",
+            "fullText": "Declan Rice's Arsenal scored 19 goals from corners in the Premier League last season\n\nArsenal are set-piece masters, and no club supplied more players for England's World Cup squad than the Gunners. So it is understandable that Thomas Tuchel will look to play to the Premier League champions' strengths.\n\nHere in the United States, Mikel Arteta's dedication to perfecting Arsenal's routines is an approach England head coach Tuchel is looking to replicate.\n\nIn a tournament environment, when the margins can be so small, Tuchel is keen to take a leaf out of the Arsenal playbook that he admires, and has impressed on his players the importance of exploiting dead-ball situations.\n\nArsenal landed their first Premier League title in 22 years in May and were within a penalty shootout of winning their first Champions League.\n\nWith that level of success in mind, it is entirely understandable that set-pieces have emerged as a key focus in training sessions since England's arrival in the USA.\n\nThere are certainly experts in the field among Tuchel's likely starters.\n\nDeclan Rice is one of the most adept ball strikers in European football â his corners have proved a major threat for Arsenal, certainly in the previous two seasons.\n\nYou can expect Rice, who is guaranteed to start at the World Cup, to be one of England's designated specialists.\n\nChelsea's Reece James, who is expected to start the tournament as England's first-choice right-back, is another likely to be high on the list of Tuchel's takers.\n\nThe England boss knows all about James' abilities, having coached the defender during his time in charge of Chelsea.\n\nBukayo Saka's dead-ball prowess is also viewed as a major asset by Tuchel, even if there is concern inside the England camp about having to manage the Arsenal attacker through the start of the tournament with his ongoing tendonitis complaint.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4840_4",
+            "category": "england",
+            "type": "News",
+            "title": "Cape Verde shock Spain with historic draw on World Cup debut",
+            "bullets": [
+              "Wow, just wow. At 1.57pm, Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wow, just wow. At 1.57pm, Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’s first World Cup game, and they had only gone and done it and what they had done was madness – they had only gone and held the favourites. Bubista had said that he wanted the world to see who and what they are and, boy, did they see. Cape Verde’s coach had insisted that getting here was was more than football – it was music, it was culture, it was everything. So what was this? This was wonderful. What a moment and what a noise greeted the moment when the impossible had become real.An Atlantic archipelago of 600,000 people. A Shamrock Rovers centre-back from Crumlin, Dublin, who had been found on LinkedIn. A goalkeeper from Portugal’s second division, another Josimar leaving his mark on the history of this competition and a million minds, to be talked about for generations. All of them. They had come to the US, faced Spain, and resisted them, their bodies on the line and their hearts on their sleeves. Even the introduction of Lamine Yamal, the teenage icon cast as Spain’s saviour couldn’t defeat them. Continue reading...",
+            "fullText": "Wow, just wow. At 1.57pm, Atlanta time, 3,291 miles from home, the final whistle went on Cape Verde’s first World Cup game, and they had only gone and done it and what they had done was madness – they had only gone and held the favourites. Bubista had said that he wanted the world to see who and what they are and, boy, did they see. Cape Verde’s coach had insisted that getting here was was more than football – it was music, it was culture, it was everything. So what was this? This was wonderful. What a moment and what a noise greeted the moment when the impossible had become real.\n\nAn Atlantic archipelago of 600,000 people. A Shamrock Rovers centre-back from Crumlin, Dublin, who had been found on LinkedIn. A goalkeeper from Portugal’s second division, another Josimar leaving his mark on the history of this competition and a million minds, to be talked about for generations. All of them. They had come to the US, facedSpain, and resisted them, their bodies on the line and their hearts on their sleeves. Even the introduction of Lamine Yamal, the teenage icon cast as Spain’s saviour couldn’t defeat them.\n\nCape Verde got a point from Atlanta but they got a whole, whole lot more. They might have literally got more. As this game entered the final, dramatic, tense minutes with the score at 0-0, it was they, not Spain, who actually got the best chances. Amazingly on 90 minutes Diney Borges leapt inside the Spain area, rising to meet a header and his moment of immortality only for Unai Simon to save. Three minutes later Ryan Mendes had his opportunity too. Dani Olmo had to block from Kevin Pina too, an incredible story on the edge of getting even more absurd. But this will live for ever.\n\nAnd if those were huge moments, so too was the astonishing block from Pico Lopes, diving in on 88 minutes to deny Olmo. Lopes, born in Dublin, the man whose coach contacted him on LinkedIn and who had ignored the first message – it was in a language he doesn’t understand and he assumed it was spam – has made history. Behind Lopes, 40-year-old Josimar Dias, “Vozinha”, had too. They all had; what heroes they have become. A starting XI that plays in eight different leagues, none of them the elite, an entire 26, had held off Spain. Nothing does stories like football, like theWorld Cup.\n\nSpain had 24 shots and couldn’t find a way through, but this wasn’t fluke, far from it. Bubista’s players had worked for it, deserved it from the very start when that countdown to kick-off came and, a minute and six seconds later than scheduled, Dailon Livramento got Cape Verde’s first-ever touch at a World Cup.\n\nAnd so it began, an act of rebellion and resistance. Bubista has said his team would have the courage to attack but also that they would have to defend well and that was the priority here, naturally enough. Spain took possession but didn’t really find a way to take advantage. Sitting on the bench behind Luis de la Fuente were Nico Williams and Lamine Yamal, the men – well, boy in the latter’s case – who had made them so different at the Euros. Both are on their way back from injury and without them it is not just that theseleccionlack exceptional players, it is that their identity shifts.\n\nFor Spain, there wasn’t much happening in truth, at least not to begin with. It took 14 minutes for Pedri to have their first shot, then Cubarsi struck wide, and that was pretty much that. When the first quarter ended with fans whistling the time-out-disguised-as-a-cooling-break in an air-conditioned stadium that has a roof, they had not troubled Cape Verde. As the players gathered in a circle around De la Fuente, the coach’s message was clear, hand thrusting in a cutting motion.\n\nWhen they came back for the second quarter, it was Ryan Mendes who had the first notable moment, lifting the ball over Gavi and seeing his shot blocked by Marc Cucurella. There was also a moment when Livramento shot from halfway. And Jovane Cabral curled wide. But Spain did improve and as the half came towards a close the chances appeared. Which was when Vozinha did, too. The first of a series of superb saves came from Mikel Oyarzabal’s header after Ferran Torres hit the bar.\n\nThat had begun, like much of what Spain did, from Cucurella getting in behind. And when he did so again soon after, he pulled back for Torres to strike a first-time shot. Vozinha saved that too, and again when Aymeric Laporte headed towards the far post just before the break. Spain came back out with the appearance of more intent, more aggression. Pedri was back at the heart of it. The shot count rose, at the feet of Fabián Ruiz especially. Yet it still wasn’t quite happening, and time was getting on.\n\nAnd on, and on. And, to the surprise of everyone here, while Spain’s subs warmed up, there were still no changes. They reached the end of the third quarter before Lamine Yamal appeared, the second water break bringing instructions and the introduction of the teenager. Mikel Merino came with him. Lamine Yamal’s introduction changed everything, the whole mood, the noise. Well, almost everything. It didn’t change history, not this time. Cape Verde did that and it was music.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4841_5",
+            "category": "england",
+            "type": "News",
+            "title": "‘It makes it like home’: inside England’s exclusive four-star Kansas City inn",
+            "bullets": [
+              "FA opted for World Cup base camp in city Thomas Tuchel’s side have no group matches in but have emph...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FA opted for World Cup base camp in city Thomas Tuchel’s side have no group matches in but have emphasised home comforts for players to feel at easeThe first thing to say about England in Kansas City is that the locals seem genuinely delighted to have them here. The welcome for Thomas Tuchel and his players has been warm, coloured by the charm and friendliness of the midwest.Yet there is also a question that people have asked, particularly those who are connected to Argentina, the Netherlands and Algeria – the other World Cup nations who have chosen to base themselves in this area. Why are England here? Unlike the trio, they have no group matches at the city’s Arrowhead Stadium. Continue reading...",
+            "fullText": "FA opted for a city Thomas Tuchel’s side have no group matches in but have emphasised home comforts for players to feel at ease\n\nThe first thing to say aboutEnglandin Kansas City is that the locals seem genuinely delighted to have them here. The welcome for Thomas Tuchel and his players has been warm, coloured by the charm and friendliness of the midwest.\n\nYet there is also a question that people have asked, particularly those who are connected to Argentina, the Netherlands and Algeria – the otherWorld Cupnations who have chosen to base themselves in this area. Why are England here? Unlike the trio, they have no group matches at the city’s Arrowhead Stadium.\n\nThere are several strands to the answer which, when put together, convinced the Football Association that Kansas City would provide the surest springboard to glory at what is the most bloated and challenging World Cup of them all.\n\nThe governing body like Kansas City’s central location, knowing it will mitigate the travel distances to and from games; England will not have any flights of more than three-and-a-half hours. The countries that choose to ground-hop in the knockout rounds rather than return to a fixed base as England plan to do could find themselves looking at some unappealing journeys.\n\nThe FA believe there is a significant advantage to having an actual home – or at least a home from home – previous tournaments have shown them this. It will mean, for example, that staff do not have to lug their equipment around every three to five days; a physical and mental challenge. The fact England kick-off their three group games in mid-to-late afternoon (local time) means they ought to get back to Kansas City at a reasonable hour afterwards.\n\nThe emphasis, really, is on home comforts, which the FA have sought to push at the team hotel – the four-star, 54-room Inn at Meadowbrook, which the squad have taken exclusively. There is plenty of outdoor space, freedom for the players to get out in the fresh air; perhaps for a game of basketball – the FA have had a hoop installed.\n\nThere are communal spaces, including some with screens to watch the World Cup or, indeed, other sports. There is an area for recovery, with a sauna and places for relaxation. And then there are the little touches, including those that greeted the players when they checked in on Saturday.\n\n“There was an iPad in my room with photos on it – like a slideshow,” said the backup goalkeeper James Trafford. “The first photo was me and my missus. It was a nice surprise. Then I had a box that my missus did for me … with little personal touches. What was in it? She put a few things in to open at different stages of the tournament – a thing for every week. She put two face masks in there, as well. Very thoughtful. And she put in a Lego set of a tractor.”\n\nTrafford hails from farming stock in Cumbria and can actually drive a tractor. “I’m a farmer, aren’t I?” he said. “It’s not the biggest Lego tractor and I haven’t built it yet. We’ve only just got here. I don’t want to jump the gun.”\n\nTuchel’s No 1 goalkeeper, Jordan Pickford, said the mood in the camp was “in a great place”. He added in an interview with TalkSport: “The FA put a lot of hard work in behind the scenes … what a lot of the media, the fans and the people at home don’t see. I’ve got to pay massive credit to that because it makes it feel like home. Even just little things like the family box, which was obviously from my wife, Megan, and the kids. What was in mine? Haribos! Some nice bits, some photos and some cards.”\n\nPickford has been a fixture in the team since the 2018 World Cup and is now at his fifth major international tournament finals. “I’ve always said in tournaments that it’s not smooth sailing,” he said. “It’s always going to be a rollercoaster. People will have down days, you might be sick of each other for the odd day, that’s part and parcel of it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 13:36:55 EDT",
+  "lastUpdated": "2026-06-15 @ 14:48:45 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
