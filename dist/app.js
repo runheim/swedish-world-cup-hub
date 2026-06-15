@@ -834,7 +834,28 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "Sweden have won 4 of their last 5 home matches at Strawberry Arena."
     }
   },
-  "match_tunisia": {preview: {
+  "match_tunisia": {
+    score: "5 - 1",
+    scorers: "Yasin Ayari (29', 61'), Alexander Isak (15'), Viktor Gyökeres (45+2'), Mattias Svanberg (78') | Youssef Msakni (52')",
+    report: "Sweden kick-started their World Cup Group F campaign in style with a spectacular 5-1 routing of Tunisia at Estadio BBVA in Monterrey. Alexander Isak opened the floodgates in the 15th minute, finishing a low cross from Emil Holm. Yasin Ayari doubled the lead with a clever low finish in the 29th minute, before Viktor Gyökeres fired home a powerful third just before halftime. Tunisia pulled one back through veteran striker Youssef Msakni in the 52nd minute, but Sweden quickly re-established dominance. Ayari completed his brace in the 61st minute after a sensational assist from Lucas Bergvall, and Mattias Svanberg sealed the emphatic victory with a brilliant curled strike from the edge of the box in the 78th minute. A masterclass in high-pressing, fluid football from Graham Potter's side to take control of Group F.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Had a quiet night but was reliable when called upon. Powerless to prevent Msakni's close-range finish.", isMotm: false },
+      { name: "Emil Holm", role: "RB", rating: 8.0, comment: "An energetic outlet down the right wing. Assisted Isak's opening goal and dominated his flank.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Rock-solid in defense. Read the game superbly and won all his aerial duels against Tunisian forwards.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Led the backline with calm authority. Composed distribution and excellent positioning throughout.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LB", rating: 7.5, comment: "Disciplined defensively and provided constant support going forward, stretching the pitch.", isMotm: false },
+      { name: "Jesper Karlström", role: "DM", rating: 7.0, comment: "Anchored the midfield with discipline. Shielded the defense well and recycled possession cleanly.", isMotm: false },
+      { name: "Yasin Ayari", role: "AM", rating: 9.5, comment: "A brilliant performance. Scored two goals, drove the team forward, and controlled the match tempo.", isMotm: true },
+      { name: "Mattias Svanberg", role: "DM", rating: 8.5, comment: "An all-action performance. Controlled the midfield and capped his night with a superb 20-yard goal.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 8.0, comment: "Incredibly creative in possession. Provided a sensational assist for Ayari's second goal.", isMotm: false },
+      { name: "Alexander Isak", role: "ST", rating: 8.5, comment: "Fired in the opening goal with precision and was a danger with his movement throughout.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 8.5, comment: "Bullied the Tunisian defenders with his physical strength and scored a clinical goal before the break.", isMotm: false },
+      { name: "Anthony Elanga", role: "LW", rating: 6.5, comment: "Subbed on in the 70th minute. Stretched the tired Tunisian defense with his incredible pace.", isMotm: false },
+      { name: "Daniel Svensson", role: "LB", rating: 6.5, comment: "Brought on to replace Gudmundsson late on and helped solidify the left-hand side.", isMotm: false },
+      { name: "Ken Sema", role: "LW", rating: 6.5, comment: "Fresh energy on the left flank for the final 15 minutes of play.", isMotm: false },
+      { name: "Hjalmar Ekdal", role: "CB", rating: 6.0, comment: "Late defensive reinforcement to shut down any late Tunisian attacking threats.", isMotm: false }
+    ],
+    preview: {
       tactical: "Group F opener in Monterrey! Sweden must break down Tunisia's disciplined, compact low-block. Expect heavy reliance on wing-backs Holm and Gudmundsson to stretch the pitch.",
       keyStat: "Tunisia kept 4 clean sheets during African qualifiers. Breaking them down is key."
     }
@@ -2759,7 +2780,7 @@ function calculateGroupStandings() {
 
   // 1. Sweden vs Tunisia & Netherlands vs Japan
   if (isMatchCompleted("match_tunisia")) {
-    let sweScore = 2, oppScore = 0; // Default real score
+    let sweScore = 5, oppScore = 1; // Default real score
     if (SIMULATED_RESULTS["match_tunisia"]) {
       sweScore = SIMULATED_RESULTS["match_tunisia"].swe;
       oppScore = SIMULATED_RESULTS["match_tunisia"].opp;
@@ -2775,7 +2796,7 @@ function calculateGroupStandings() {
     addMatch("tunisia", oppScore, sweScore);
 
     // Other match: Netherlands vs Japan
-    let nedScore = 2, japScore = 1; // Default
+    let nedScore = 2, japScore = 2; // Default
     if (SIMULATED_RESULTS["match_ned_jap"]) {
       nedScore = SIMULATED_RESULTS["match_ned_jap"].team1;
       japScore = SIMULATED_RESULTS["match_ned_jap"].team2;
