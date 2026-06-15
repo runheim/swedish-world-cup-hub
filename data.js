@@ -16,7 +16,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/jesper-blomqvists-passning-till-lucas-bergvall-efter-rekordet"
     },
     {
-      "text": "⚽ The first time: Here, Sweden - Tunisia is interpreted in sign language",
+      "text": "⚽ The first time: Here Sweden - Tunisia is interpreted in sign language",
       "link": "https://www.svt.se/sport/fotboll/forsta-gangen-har-tolkas-sverige-tunisien-pa-teckensprak"
     },
     {
@@ -3609,7 +3609,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 14:49:02 EDT",
+  "lastUpdated": "2026-06-15 @ 17:37:47 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
