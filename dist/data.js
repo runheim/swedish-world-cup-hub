@@ -4,16 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ I'll keep gambling with fitness for England - Saka",
+      "link": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Stones goes from brink of retirement to World Cup 'pure joy'",
       "link": "https://www.bbc.com/sport/football/articles/c24y192myrvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ France star Mbappe vows to increase defensive work",
-      "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Criticism of Bellingham is hard to read - Henderson",
       "link": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ France star Mbappe vows to increase defensive work",
+      "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ England look to Arsenal's playbook - Tuchel's set-piece plan",
@@ -24,8 +28,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report"
     },
     {
-      "text": "⚽ ‘It makes it like home’: inside England’s exclusive four-star Kansas City inn",
-      "link": "https://www.theguardian.com/football/2026/jun/15/england-base-camp-hotel-kansas-city-world-cup-2026"
+      "text": "⚽ Saka says he is gambling on fitness but ‘ready to go’ for England World Cup tilt",
+      "link": "https://www.theguardian.com/football/2026/jun/15/bukayo-saka-fitness-gamble-england-world-cup"
     }
   ],
   "timeline": {
@@ -5199,7 +5203,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 14:48:45 EDT",
+  "lastUpdated": "2026-06-15 @ 17:37:24 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
