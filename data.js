@@ -16,10 +16,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ I'll keep gambling with fitness for England - Saka",
-      "link": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Enjoying the World Cup? Well it’s time for England, but this is a team less weighed down by its past | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past"
     },
@@ -28,12 +24,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/16/world-cup-luka-modric-croatia-england-20-years-can-he-do-it-one-more-time"
     },
     {
-      "text": "⚽ ‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
-      "link": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square"
-    },
-    {
       "text": "⚽ History for Cape Verde as Spain start with a stutter | World Cup Daily",
       "link": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily"
+    },
+    {
+      "text": "⚽ ‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
+      "link": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square"
     },
     {
       "text": "⚽ History for Cape Verde as Spain start with a stutter: World Cup Daily – podcast",
@@ -5698,7 +5694,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-16 @ 14:40:21 EDT",
+  "lastUpdated": "2026-06-16 @ 17:37:09 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
