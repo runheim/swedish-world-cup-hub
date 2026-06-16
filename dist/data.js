@@ -12,16 +12,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c24y192myrvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Criticism of Bellingham is hard to read - Henderson",
-      "link": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ France star Mbappe vows to increase defensive work",
       "link": "https://www.bbc.com/sport/football/articles/cjegv7j5349o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England look to Arsenal's playbook - Tuchel's set-piece plan",
-      "link": "https://www.bbc.com/sport/football/articles/c4gy0lgp1v9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Criticism of Bellingham is hard to read - Henderson",
+      "link": "https://www.bbc.com/sport/football/articles/cly08nzl773o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Cape Verde shock Spain with historic draw on World Cup debut",
@@ -5328,7 +5324,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 18:36:51 EDT",
+  "lastUpdated": "2026-06-15 @ 20:20:43 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
