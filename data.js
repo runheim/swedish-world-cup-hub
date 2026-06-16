@@ -4,16 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ South Korea boycotts domestic media - after recorded mockery",
+      "link": "https://www.svt.se/sport/fotboll/sydkorea-bojkottar-inhemsk-media-efter-inspelade-hanet"
+    },
+    {
       "text": "⚽ Extreme numbers at the World Cup: \"There are simple explanations\"",
       "link": "https://www.svt.se/sport/fotboll/extrema-siffran-pa-vm-finns-enkla-forklaringar"
     },
     {
       "text": "⚽ World Cup fever total in Sweden: \"Want to give the people a soccer summer\"",
       "link": "https://www.svt.se/sport/fotboll/vm-febern-total-i-sverige-vill-ge-folket-en-fotbollssommar"
-    },
-    {
-      "text": "⚽ Spain's fiasco - drop points against Cape Verde",
-      "link": "https://www.svt.se/sport/fotboll/spaniens-fiasko-tappar-poang-mot-kap-verde"
     }
   ],
   "timeline": {
@@ -3795,11 +3795,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4035_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "South Korea boycotts domestic media - after recorded mockery",
+            "bullets": [
+              "A South Korean conflict has flared up during the World Cup. The national team boycotts domestic jour...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A South Korean conflict has flared up during the World Cup. The national team boycotts domestic journalists on site in the USA. The reason is a clip where some reporters are heard mocking star Son Heung-Min.",
+            "fullText": "The national team boycotts domestic journalists on site in the USA.\n\nThe reason is a clip where some reporters are heard mocking star Son Heung-Min.\n\nWatch the clip that caused South Korea's national team to boycott the media in the player above.\n\nThe incident occurred during South Korea's World Cup warm-up in Miami, in connection with a training session. In the clip, reporters are heard mocking Son's military service.\n\nThe background to the mockery is that Son only served for three weeks, during the pandemic when the Premier League was put on hiatus. In normal cases, all South Korean men must serve for 21 months, writes Reuters.\n\nHowever, the reporters in question do not realize that the TV camera is on and someone is suddenly heard whispering \"camera, camera\".\n\nAfter the clip was spread, the national team has now decided to boycott South Korean journalists in the United States.\n\nThe South Korean Football Association said the following in a statement, according to Reuters:\n\n- The recent leak of inappropriate conversations between certain media representatives at a training facility has caused great shock and disappointment in the team.\n\n- The South Korean Football Association will continue to put the protection of the national team first and strive to create a healthy media environment.\n\nSon Heung-Min left the Premier League club Tottenham last summer and today belongs to Los Angeles FC in the MLS.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4037_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Extreme numbers at the World Cup: \"There are simple explanations\"",
+            "bullets": [
+              "After 16 matches played in the WC 2026, half of them have ended in a draw. An extreme number accordi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After 16 matches played in the WC 2026, half of them have ended in a draw. An extreme number according to SVT's football expert Jonas Eriksson. - There are simple explanations for this, says Eriksson.",
+            "fullText": "After 16 matches played in the WC 2026, half of them have ended in a draw.\n\nAn extreme number according to SVT's football expert Jonas Eriksson.\n\n- There are simple explanations for this, says Eriksson.\n\nIn the clip above, Jonas Eriksson explains the reasons behind the trend at the WC.\n\nWill there be more draws than ever during the 2026 FIFA World Cup? So far, the trend points in that direction.\n\nDuring the 2022 World Cup, ten of the 48 group stage matches ended in a draw. Already after the sixteen opening matches of the WC 2026, eight have ended with crosses.\n\n- It is an extremely high number no matter how you count and what you compare it to, says SVT's expert Jonas Eriksson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4042_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "World Cup fever total in Sweden: \"Want to give the people a soccer summer\"",
+            "bullets": [
+              "Sweden woke up with total WC fever. And the players themselves have taken part in the tributes from ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden woke up with total WC fever. And the players themselves have taken part in the tributes from home. - It is difficult to take in, but we hope to come up with more moments like this, says Mattias Svanberg to SVT Sport.",
+            "fullText": "And the players themselves have taken part in the tributes from home.\n\n- It is difficult to take in, but we hope to come up with more moments like this, says Mattias Svanberg to SVT Sport.\n\nDespite the early kick-off time, 04.00, there was a public celebration in several cities around the country yesterday morning.\n\nSeveral pubs and outdoor dining areas were transformed into seas of blue-yellow football supporters.\n\nThe World Cup frenzy in the country cannot be mistaken for the post-success premiere (5–1) against Tunisia.\n\n- I can only imagine. Many stayed up or got up early, and people are going to work. It is clear that it feels extra good to send them to work with a little joy, says assistant union captain Sebastian Larsson.\n\n- We want to give the Swedish people a soccer summer, says goalkeeper Kristoffer Nordfeldt.\n\nHear how the national team has taken part in the tributes and the folk festival in Sweden in the clip above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-16 @ 12:10:56 EDT",
+  "lastUpdated": "2026-06-16 @ 14:40:42 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
