@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+      "link": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Tuchel's England deal includes performance clause",
       "link": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,16 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c75y7x9ev9zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Enjoying the World Cup? Well it’s time for England, but this is a team less weighed down by its past | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past"
+    },
+    {
       "text": "⚽ Luka Modric has been tormenting England for 20 years. Can he do it one more time?",
       "link": "https://www.theguardian.com/football/2026/jun/16/world-cup-luka-modric-croatia-england-20-years-can-he-do-it-one-more-time"
     },
     {
       "text": "⚽ ‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
       "link": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square"
-    },
-    {
-      "text": "⚽ Cape Verde shock Spain with historic draw on World Cup debut",
-      "link": "https://www.theguardian.com/football/2026/jun/15/spain-cape-verde-world-cup-2026-group-h-match-report"
     },
     {
       "text": "⚽ History for Cape Verde as Spain start with a stutter | World Cup Daily",
@@ -36,8 +40,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/audio/2026/jun/16/history-for-cape-verde-spain-start-with-stutter-world-cup-daily-podcast"
     },
     {
-      "text": "⚽ Fanalysis tournament mode now LIVE!",
-      "link": "https://www.skysports.com/football/news/12040/13554647/fanalysis-tournament-mode-now-live"
+      "text": "⚽ England vs Croatia predictions: Tuchel's men to grind out winning start",
+      "link": "https://www.skysports.com/football/news/12040/13554703/world-cup-2026-england-vs-croatia-predictions-and-best-bets"
+    },
+    {
+      "text": "⚽ Carragher 'unsurprised' as Trent snubbed as Livramento replacement",
+      "link": "https://www.skysports.com/football/news/12040/13554705/england-world-cup-latest-jamie-carragher-unsurprised-by-trent-alexander-arnold-and-harry-maguire-snub-after-tino-livramento-injury"
     }
   ],
   "timeline": {
@@ -5493,11 +5501,204 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4013_0",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+            "bullets": [
+              "England head coach Thomas Tuchel's high-risk defensive selection for World Cup exposed by Tino Livra...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel's high-risk defensive selection for World Cup exposed by Tino Livramento's injury as Trent Alexander-Arnold is snubbed again, says Phil McNulty.",
+            "fullText": "England head coach Thomas Tuchel has snubbed Trent Alexander-Arnold again after Tino Livramento was ruled out of the World Cup\n\nTino Livramento's departure from England's World Cup squad has exposed the gambles and potential weaknesses in head coach Thomas Tuchel's defensive selection.\n\nLivramento sustained a calf injury in training before Wednesday's opening World Cup group game against Croatia in Dallas (21:00 BST), withChelsea defender Trevoh Chalobah called up as his replacement.\n\nTuchel's initial picks in this crucial area already carried high risk given the injury problems of likely starters Reece James and John Stones last season, which Livramento's departure will bring under further scrutiny.\n\nAnd the choice of Chalobah, a central defender by trade, will once again fire up the debate about why Tuchel seems to have no intention of restoring Trent Alexander-Arnold to England duty.\n\nLivramento's latest injury should come as no surprise to Tuchel given the Newcastle full-back - who carried the appeal of being able to play on both flanks - missed most of the end of last season with a thigh problem and had also been absent with hamstring issues.\n\nIt leaves England with three natural full-backs in James, Tottenham Hotspur's Djed Spence - another who can play on right and left - along with Manchester City's Nico O'Reilly, who can also play in midfield.\n\nNewcastle's Dan Burn can play at left-back, while Jarell Quansah and Ezri Konsa can play in the wide positions, but there would be serious worries about deploying any of them in unaccustomed roles against high-class forwards at a World Cup.\n\nAs Tuchel's successor Sir Gareth Southgate found when he played Alexander-Arnold in midfield at Euro 2024, a major tournament is no time for experiments or square pegs in round holes.\n\nReece James and John Stones are high-class defenders who will start for England - but have both had injury problems\n\nReplacing Livramento with Chalobah - in another example of Tuchel's apparent preference for tall, physical defenders - again suggests Konsa will be selected ahead of Marc Guehi against Croatia.\n\nChalobah only has one senior England cap, in the 3-1 defeat to Senegal at the City Ground a year ago, so it is big vote of confidence from Tuchel in a 26-year-old who is inexperienced at this level.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4013_1",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel's England deal includes performance clause",
+            "bullets": [
+              "Thomas Tuchel's England contract extension is subject to a performance clause, says FA chief executi...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel's England contract extension is subject to a performance clause, says FA chief executive Mark Bullingham.",
+            "fullText": "Thomas Tuchel formally took up his role as England boss on 1 January 2025\n\nEngland head coach Thomas Tuchel's two-year contract extension is subject to a performance clause, Football Association chief executive Mark Bullingham has revealed.\n\nWith his original deal having been due to expire at the end of the World Cup, the FA and Tuchel agreed anew two-year contractearlier this year that takes the German to the end of Euro 2028.\n\nFormer Chelsea and Bayern Munich boss Tuchel was given the remit to win the World Cup when he was appointed by England in 2024.\n\nBullingham was asked whether the FA is protected should England's performance at this World Cup mean it does not want Tuchel to lead the team at Euro 2028.\n\n\"There's performance clauses in every single contract at the FA, but I'm not going into any detail of what they are,\" said Bullingham.\n\nAsked whether there was a break clause in the deal that Tuchel can activate, Bullingham said: \"We can hold him to the contract.\"\n\nTuchel's England launch their World Cup campaign on Wednesday when they face Croatia in Arlington, Texas (21:00 BST).\n\nTaking a leaf from Arsenal's playbook - Tuchel's set-piece plan\n\nSpeaking at England's World Cup media centre in Kansas City, Bullingham delivered a strong defence of the governing body's decision to extend Tuchel's contract before the tournament.\n\nThe FA has faced criticism for rewarding Tuchel with fresh terms without knowing the final outcome of his initial mission, given the 52-year-old's target upon his appointment was to win England's second World Cup.\n\nBut Bullingham said: \"The reality is he's a top-level manager who would be in demand and we knew we had someone who was doing a really good job and we can't just expect someone to wait around and just leave it and see how you go.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4014_2",
+            "category": "england",
+            "type": "News",
+            "title": "What does future hold for Rashford as deadline passes?",
+            "bullets": [
+              "Barcelona decided not to trigger the option that would have allowed them to sign Marcus Rashford for...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barcelona decided not to trigger the option that would have allowed them to sign Marcus Rashford for £26m, so what does the future hold for the England World Cup star?",
+            "fullText": "Marcus Rashford remains a Manchester United player but has been out on loan in the previous two seasons\n\nMarcus Rashford didn't give the impression of being consumed by concerns about his future as he trained in heat that climbed above 30C in Kansas City.\n\nIn fairness, now is not the time to have attention diverted by club matters. For the next month or so, Rashford's concentration is on England.\n\nOn Sunday, at least for the 15 minutes when cameras were allowed in to film training, that meant linking up with Jude Bellingham, Ivan Toney, Djed Spence, Eberechi Eze and Anthony Gordon in a passing drill before Wednesday's World Cup Group L opener against Croatia in Dallas.\n\nThe onus is on keeping the focus there. It was not as if Monday would bring any news Rashford was unaware of anyway.\n\nThedeadline Barcelona agreedwith Manchester United to trigger a Â£26m clause to turn Rashford's loan into a permanent deal passed without it being activated.\n\nOn 1 July, when Rashford will hope to be preparing for a last-32 encounter in Atlanta, he will officially return to being a Manchester United player, with a Â£325,000-a-week contract that still has two years to run.\n\nMarcus Rashford's most recent Manchester United appearance was against Viktoria Plzen on 12 December, 2024\n\nIn theory, Rashford could return to his boyhood club and resume his career there.\n\nHead coach Michael Carrick knows him well. Carrick has been a team-mate, coach and - for three games following Ole Gunnar Solskjaer's dismissal in 2021 - hands-on manager of one of the recent star graduates of United's academy.\n\nWhen Carrick was asked about Rashford in April, he said no decision had been made about the attacker's future.\n\nHe added: \"Whoever's here, I want to work with them and help them to improve.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4014_3",
+            "category": "england",
+            "type": "News",
+            "title": "I'll keep gambling with fitness for England - Saka",
+            "bullets": [
+              "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.",
+            "fullText": "Bukayo Saka says he will continue gambling with his fitness and is \"ready to go\" for England's World Cup opener against Croatia on Wednesday.\n\nThe Arsenal winger has been carrying an Achilles injury since March and had game-time managed for both Arsenal and the Three Lions.\n\nSaka missed the March international break with the issue and seven games for the Gunners but returned to help his club side lift the Premier League title for the first time in 22 years.\n\nEngland manager Thomas Tuchel has saidhe needs to \"take care\" of the 24-year-oldand it is \"very unlikely\" Saka would \"start and finish\" all the World Cup matches.\n\nBut when asked if he is ready to play the whole of England's opening game in Dallas, Saka said he is ready to be selected.\n\n\"I don't want to say anything that goes against the manager,\" Saka said.\n\n\"What I would say is that between Mikel [Arteta] and the Arsenal medical team and Thomas [Tuchel] and the England medical team, since March they have managed me amazingly and helped me get back on the pitch and do what I can for the team.\n\n\"I'm feeling better than I have felt in the last few months and I'm ready to go.\"\n\nStones goes from brink of retirement to World Cup 'pure joy'\n\nTaking a leaf from Arsenal's playbook - Tuchel's set-piece plan\n\nSaka, who will make his 50th appearance for England in his next match, played 27 minutes of England's warm-up game against Costa Rica as the forward's game-time was managed by Tuchel.\n\nThe winger was taken off in the Champions League final as Arsenal lost to Paris-St Germain in Budapest with the scores level at the time of his substitution.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4014_4",
+            "category": "england",
+            "type": "News",
+            "title": "Enjoying the World Cup? Well it’s time for England, but this is a team less weighed down by its past | Barney Ronay",
+            "bullets": [
+              "Tuchel’s multicultural squad are less burdened by narrative than previous teams and can embrace the ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel’s multicultural squad are less burdened by narrative than previous teams and can embrace the chance to live in the momentNice World Cup you’ve got there. Be a shame if something … happened to it. The opening acts of this bloated, roided-up summer tournament have been surprisingly fun, light and sparky.Surprising, that is, if you’ve absorbed much of its doom-laden buildup. Football always does this. There is a reason this sport has become humanity’s great brain-wipe distractor ray, the tool of mega-brands and jumped-up administrators with a Football Jesus fetish. You can stretch it thin, loan it out to despotic regimes. But the games will still be good. Football remains an indestructible substance. Continue reading...",
+            "fullText": "Tuchel’s multicultural squad are less burdened by narrative than previous teams and can embrace the chance to live in the moment\n\nNiceWorld Cupyou’ve got there. Be a shame if something … happened to it. The opening acts of this bloated, roided-up summer tournament have been surprisingly fun, light and sparky.\n\nSurprising, that is, if you’ve absorbed much of its doom-laden buildup. Football always does this. There is a reason this sport has become humanity’s great brain-wipe distractor ray, the tool of mega-brands and jumped-up administrators with a Football Jesus fetish. You can stretch it thin, loan it out to despotic regimes. But the games will still be good. Football remains an indestructible substance.\n\nSo we’ve had joy andCape Verdean tears, bow-tie-twirling host-nation razzmatazz, fans who seem, of all things, just happy to be here. In the United States the World Cup has felt like just another high functioning element of the leisure-sphere. It’s David Beckham selling chainsaws, crisps and beer. It’s Chuck Flipburger beaming into a camera outside the Anusol Megadrome saying: “Spain’s super-duper-star Lamine Yarrmaarrrl.”\n\nEven the games have been fearless and flowing and not, for example, dominated by a weird sense that everyone has their legs on backwards, that the ball is filled with helium and fear, that the whole experience is analogous to stabbing yourself in both eyes with a knitting needle made from pork-pie meat and self-loathing. Yeah, well. Enjoy that while you can.\n\nYou can sit there playing with your silly little machines as much as you like. I’ll show you a World Cup. Close to a week in, with almost an entire round of cloudless group games in the bag, the coffin lid is starting to creak. By late Monday morning the first little knots of Three Lions shirts could be seen wandering the blank, baking streets of Dallas, blinking in the light.Englandare at the door. And it’s time for a vibe shift.\n\nWell, maybe. England will play Croatia on Wednesday at the Dallas Stadium, a thrillingly vast concrete dome dumped down in the low, throbbing plains to the south of the city. It is a genuinely spectacular venue, sealed on all sides beneath its swooping panelled roof, with the feel inside of a vast and humid tropical shed, a place to keep your pet stegosaurus.\n\nThat Group L opener will be England’s first proper game in two years, a first meaningful regeneration of the England football identity since the last days of Garethin Berlin, and as ever an opportunity to find out two things. First: are they any good? And second: what will it feel like? What is the energy? How much will it hurt? More importantly this time around, will people still care like they’re supposed to care?\n\nThis has been the dualism of England football. Results can often seem like a distracting subplot from England content, England feelings, the idea that every tournament appearance is an angst-ridden referendum on national identity. Euro 2024 was the perfect example, marked by howls of frustration, booing of the players, hatred of the manager, blocked systems, basically just a disaster; but simultaneously the most successful overseas men’s tournament ever.\n\nThere has been a shift in the nature of this. Interest in England football drops through the floor between tournaments these days but returns in reliably feverish form once the games begin. The change is also textural. You wouldn’t write a song about “hurt” any more. Younger people don’t feel the same bruised and helpless longing for victory. The England women’s team have won two tournaments. Club football and celebrity player-fawning have entered that space.\n\nThe signifiers of England fandom, the songs, the yearning, the beer in the air, have been ritualised, transformed into a semi-ironical costume party, another way of going to the pub. This is not to say extreme England fandom has dissipated. People still love and follow the team. But this has also been radicalised on the fringes.\n\nIt is worth noting a strange online event that flared up around England’s pre-World Cup friendlies, one that may come again now, and which speaks also to a defining early note of this World Cup. In the days afterEngland’s 1-0 victory over New Zealandin Tampa there was a surge of nakedly racist posts, mainly on X, about England’s players not singing the national anthem, or singing it with insufficient gusto. Thomas Tuchel was asked about this in Kansas City and shrugged it off.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4014_5",
+            "category": "england",
+            "type": "News",
+            "title": "Luka Modric has been tormenting England for 20 years. Can he do it one more time?",
+            "bullets": [
+              "From Zagreb to Wembley and Moscow, the Croatia great has derailed the Three Lions on many occasions....",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "From Zagreb to Wembley and Moscow, the Croatia great has derailed the Three Lions on many occasions. Now he’s ready for one last dance in DallasWhen Luka Modric first played against England, Tony Blair was still in office. Arsenal had just moved from Highbury to the Emirates Stadium, Italy were newly crowned world champions and Pep Guardiola retired as a player after a six-month spell in Mexico with Dorados. Twitter was less than three months old and Facebook had been made fully public earlier that year. Amy Winehouse’s album Back to Black was about to be released, while the much-hyped film Borat was coming to cinemas.Football fans in England – and in Croatia – may recognise which game it was solely from that last bit of pop culture history: the European Championship qualifier in Zagreb on 11 October 2006. Continue reading...",
+            "fullText": "From Zagreb to Wembley and Moscow, the Croatia great has derailed the Three Lions on many occasions. Now he’s ready for one last dance in Dallas\n\nWhenLuka Modricfirst played against England, Tony Blair was still in office. Arsenal had just moved from Highbury to the Emirates Stadium, Italy were newly crowned world champions and Pep Guardiola retired as a player after a six-month spell in Mexico with Dorados. Twitter was less than three months old and Facebook had been made fully public earlier that year. Amy Winehouse’s album Back to Black was about to be released, while the much-hyped film Borat was coming to cinemas.\n\nFootball fans in England – and in Croatia – may recognise which game it was solely from that last bit of pop culture history:the European Championship qualifier in Zagrebon 11 October 2006.\n\nAt the very moment that Gary Neville sent a backpass to Paul Robinson, Borat’s image appeared on Maksimir Stadium’s advertising boards; the ball bounced awkwardly on the edge of the six-yard box, theEnglandkeeper missed it and it went into the net with Sacha Baron Cohen’s grin and moustache in the background, adding to England’s misery.\n\nFor Modric, who played the whole match thatCroatiawon 2-0, that was already his 11th cap; his first came that year in a friendly in which Lionel Messi scored his debut goal for Argentina.\n\nAnd so beckoned the Modric era for Croatia, without anyone being aware of it. The young midfielder did not quite have a key role in the team just yet – he would assume it years later – but in retrospect the win marked the beginning of a long process that would transform the national team of a tiny country into one of the most successful in the world.\n\nIt really is an era, because there is no Modric generation; the players have come and gone, with only himself remaining as a constant, like a traveller who intervenes in the past and in the future, defying the linear nature of time.\n\nAt some point – and no one can tell when exactly it was any more as it seems to keep changing – he made the team his own, not only through his leadership but also in terms of his indestructible never-say-die mentality. At the past two World Cups combined, Croatia won no less than seven knockout round games without beating or even outplaying anyone in 90 minutes before succumbing to the eventual winners on both occasions.\n\nEngland played an important role in building the team over the course of that era. Since that first match in October 2006, they played eight more times; there were wins, losses and draws, with Modric missing only one, due to a broken fibula – the5-1 defeatat the hands of Fabio Capello’s team in 2009 – but two of those were key.\n\nA year after the surreal Borat incident, there was the infamous“wally with a brolly” gameat Wembley. Croatia had already qualified for the Euros and had nothing to play for, while England needed only a draw to do the same. But the visitors, led by Slaven Bilic, proceeded to beat them only because they could and that win soon became legendary, psychologically shaping the team and giving them a massive confidence boost.\n\nCroatia performed well at the tournament, but still lacked the Modric mentality. Maybe Modric, who agreed to a transfer from Dinamo Zagreb to Tottenham before the Euros, lacked it himself back then. Croatia stormed through the group with three wins but they were eliminated in the quarter-finals by Turkey in the most shocking of ways, taking the lead after 119 minutes only to concede a last-moment equaliser and lose on penalties, with Modric missing.\n\nThe other important game was the2018 World Cup semi-final, when Croatia overturned an early England lead to beat them in extra-time at the Luzhniki Stadium in Moscow to reach the final against France. Modric didn’t seem to have a key role in that match either but, by that time, he was already a decorated leader who had carried the team through years of ill-advised coaching appointments and bitter underachievement. In Russia, Croatia were managed by Zlatko Dalic, who was the first national team coach to really connect with Modric.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4015_6",
+            "category": "england",
+            "type": "News",
+            "title": "‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
+            "bullets": [
+              "A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experim...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experimentWhen Kevin Kotoko heard that he had been selected as one of Fox’s chief World Cup watchers he had no hesitation in accepting. What self-respecting football fan could turn down the opportunity to be paid $50,000 (£37,000) to take in all 104 games at this World Cup, after all?The only issues were that he would have to watch every match in a custom-built viewing cube in the heart of Times Square and let his employers know that he wouldn’t be coming in for work the next day. “I quit my job,” admits Kotoko, a Liverpool fan who is from Florida and was working as a waiter in a restaurant. “I found out on Thursday that I had won the competition and so I told them on Friday that would be my last day!” Continue reading...",
+            "fullText": "A Liverpool fan and an influencer explain what it’s like to be hired for a Truman Show-style experiment\n\nWhen Kevin Kotoko heard that he had been selected as one of Fox’s chiefWorld Cupwatchers he had no hesitation in accepting. What self-respecting football fan could turn down the opportunity to be paid $50,000 (£37,000) to take in all 104 games at this World Cup, after all?\n\nThe only issues were that he would have to watch every match in a custom-built viewing cube in the heart of Times Square and let his employers know that he wouldn’t be coming in for work the next day. “I quit my job,” admits Kotoko, a Liverpool fan who is from Florida and was working as a waiter in a restaurant. “I found out on Thursday that I had won the competition and so I told them on Friday that would be my last day!”\n\nHe is sharing the giant fishbowl for the next six weeks with Austin Franklin after they were selected from thousands of applicants who uploaded videos on social media pitching for the role. Both are expected to “create social media content, record their reactions, and engage with fans” throughout the tournament as part of the deal.\n\nAccording to Franklin, who describes himself as an influencer from Philadelphia, it has been a surreal but enjoyable experience so far.\n\n“It has really felt a bit like being on the Truman Show,” Franklin says. “I forget at times that we’re here. I’m watching a game for minutes and then I look over at Kevin and I see people on top of me. It’s like: ‘Oh my God!’ There’s 30 people watching us, watching games, most of the time. It is a weird experience.”\n\nKotoko adds: “We’re trying to stay authentic in the process of the job, I guess. So it’s finding that balance between making sure we’re engaged with the game, but also showcasing what we’re doing.”\n\nTheir presence in one of the city’s busiest thoroughfares has certainly attracted plenty of interest. One curious onlooker was overheard asking whether they are living in the cube for the whole tournament, while Franklin reveals that the most common question they have been asked is where do they go to the toilet. “I like the idea of finding it,” Franklin says. “That’s kind of fun for me. I’ve got 15 minutes to be, like, ‘all right, let’s see where I can find me a bathroom today.’”\n\nThere are facilities at the swanky hotel both are staying at around the corner, with food inspired by each participating nation also being served up inside the cube. When the Guardian visited for the opening match of the tournamentbetween Mexico and South Africa, there was a carnival atmosphere outside as the co-hosts swept to a convincing victory and both watchers partied on the streets afterwards.\n\n“There was a woman who sat right behind me in one of those chairs for the entire 90 minutes, and I went up to her and said: ‘Thank you so much for your time’,” says Franklin. “I gave her a big hug, and she told me about how she was born in Mexico, moved toNew York, and used to watch all the Mexico games with her dad. Her dad passed away a few years ago, so I was like: ‘You’re going to make me cry’. So now I’m like that’s a team that I want to do well. You feel this connection and that’s what the World Cup is all about.”\n\nBoth have high hopes for the United States too after theirexcellent start against Paraguay. “I think the expectation is they can get into the quarter-finals at least. Then, who knows?” says Kotoko. “This is our golden generation so I think you should put that pressure on them.”\n\nThe unprecedented and unrelenting schedule of the expanded 48-team tournament means this will be a marathon and not a sprint. For the next three weeks there are four games every day stretching across three time zones as the group stages continue and both are fully aware of the challenge that schedule will pose.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4015_7",
+            "category": "england",
+            "type": "News",
+            "title": "History for Cape Verde as Spain start with a stutter | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Barney Ronay, Dan Bardell and Sid Lowe as debutants Cape...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, Dan Bardell and Sid Lowe as debutants Cape Verde earn a draw against the favourites Spain Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,Barney Ronay, Dan Bardell andSid Loweas debutants Cape Verde earn a draw against the favourites Spain",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4015_8",
+            "category": "england",
+            "type": "News",
+            "title": "History for Cape Verde as Spain start with a stutter: World Cup Daily – podcast",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Barney Ronay, Dan Bardell and Sid Lowe as debutants Cape...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Barney Ronay, Dan Bardell and Sid Lowe as debutants Cape Verde earn a draw against the favourites SpainRate, review, share on Apple Podcasts and join the conversation on email.On the podcast today: their first ever game at a World Cup and Cape Verde hold Spain to a 0-0 draw after an utterly heroic defensive effort. Sid Lowe joins us to ask if this is just an early blip or if Spanish fans should be concerned. Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,Barney Ronay, Dan Bardell andSid Loweas debutants Cape Verde earn a draw against the favourites Spain\n\nRate, review, share onApple Podcastsand join the conversation onemail.\n\nOn the podcast today: their first ever game at aWorld Cupand Cape Verde hold Spain to a 0-0 draw after an utterly heroic defensive effort. Sid Lowe joins us to ask if this is just an early blip or if Spanish fans should be concerned.\n\nElsewhere in Group H, Saudi Arabia cling on to claim a point against Uruguay. Marcelo Bielsa looks on ruefully from his bucket as his side missed several chances in the second half.\n\nIn Group G, Belgium need Romelu Lukaku to help them procure a point against Egypt, while New Zealand’s Elijah Just gives them the lead twice but they can’t hold on against Iran.\n\nAll that, a preview of Tuesday’s action and your questions answered.\n\nYou can also find Football Weekly onInstagram,TikTok,andYouTube.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4015_9",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Croatia predictions: Tuchel's men to grind out winning start",
+            "bullets": [
+              "England take on Croatia in their first game at World Cup 2026 and our betting expert Lewis Jones, ak...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England take on Croatia in their first game at World Cup 2026 and our betting expert Lewis Jones, aka Jones Knows, is backing the Three Lions to win by one goal and spies a Harry Kane fouls angle.",
+            "fullText": "England begin their World Cup Group L campaign against Croatia on Wednesday; Our top tipster Lewis Jones is here to preview all the key betting angles;follow England vs Croatia on the Sky Sports app from 7pm",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4015_10",
+            "category": "england",
+            "type": "News",
+            "title": "Carragher 'unsurprised' as Trent snubbed as Livramento replacement",
+            "bullets": [
+              "Jamie Carragher has admitted he 'isn't surprised' that Thomas Tuchel has called up Trevor Chalobah a...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jamie Carragher has admitted he 'isn't surprised' that Thomas Tuchel has called up Trevor Chalobah as Tino Livramento's World Cup replacement over Trent Alexander-Arnold.",
+            "fullText": "Jamie Carragher has admitted he isn't surprised that Thomas Tuchel opted to select Trevor Chalobah as Tino Livramento's replacement in the 2026 World Cup squad over Trent Alexander-Arnold; Livramento sustained an injury in training which has ruled him out on the eve of England's opener",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-16 @ 12:11:22 EDT",
+  "lastUpdated": "2026-06-16 @ 14:40:21 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
