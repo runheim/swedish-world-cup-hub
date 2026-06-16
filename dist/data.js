@@ -4,40 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Extreme numbers at the World Cup: \"There are simple explanations\"",
+      "link": "https://www.svt.se/sport/fotboll/extrema-siffran-pa-vm-finns-enkla-forklaringar"
+    },
+    {
+      "text": "⚽ World Cup fever total in Sweden: \"Want to give the people a soccer summer\"",
+      "link": "https://www.svt.se/sport/fotboll/vm-febern-total-i-sverige-vill-ge-folket-en-fotbollssommar"
+    },
+    {
       "text": "⚽ Spain's fiasco - drop points against Cape Verde",
       "link": "https://www.svt.se/sport/fotboll/spaniens-fiasko-tappar-poang-mot-kap-verde"
-    },
-    {
-      "text": "⚽ Tunisia fires the coach after the big loss against Sweden",
-      "link": "https://www.svt.se/sport/fotboll/tunisien-sparkar-tranaren-efter-storforlusten-mot-sverige"
-    },
-    {
-      "text": "⚽ Jesper Blomqvist's pass to Lucas Bergvall after the record",
-      "link": "https://www.svt.se/sport/fotboll/jesper-blomqvists-passning-till-lucas-bergvall-efter-rekordet"
-    },
-    {
-      "text": "⚽ The first time: Here, Sweden - Tunisia is interpreted in sign language",
-      "link": "https://www.svt.se/sport/fotboll/forsta-gangen-har-tolkas-sverige-tunisien-pa-teckensprak"
-    },
-    {
-      "text": "⚽ Despite torrential rain - here football fans in Luleå cheer for Sweden: \"Believe in gold\"",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/trots-osregn-har-hejar-fotbollsfans-i-lulea-fram-sverige-tror-pa-guld"
-    },
-    {
-      "text": "⚽ Mjällby's Elliot Stroud made history last night: \"Wonderful\"",
-      "link": "https://www.svt.se/nyheter/lokalt/blekinge/mjallbys-elliot-stroud-skrev-historia-i-natt-underbart"
-    },
-    {
-      "text": "⚽ Soccer World Cup: Quiet night in Karlstad despite extended alcohol permit",
-      "link": "https://www.svt.se/nyheter/lokalt/varmland/fotbolls-vm-lugn-natt-i-karlstad-trots-forlangt-alkoholtillstand"
-    },
-    {
-      "text": "⚽ Night of joy in the pub when Sweden crushed Tunisia in the World Cup",
-      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/gladjefnatt-pa-krogen-nar-sverige-krossade-tunisien-i-vm"
-    },
-    {
-      "text": "⚽ Disturbing pictures – Gudmundsson limped off",
-      "link": "https://www.svt.se/sport/fotboll/orovackande-bilderna-gudmundsson-haltade-av"
     }
   ],
   "timeline": {
@@ -3761,10 +3737,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-16": {
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1046_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Extreme numbers at the World Cup: \"There are simple explanations\"",
+            "bullets": [
+              "After 16 matches played in the WC 2026, half of them have ended in a draw. An extreme number accordi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After 16 matches played in the WC 2026, half of them have ended in a draw. An extreme number according to SVT's football expert Jonas Eriksson. - There are simple explanations for this, says Eriksson.",
+            "fullText": "After 16 matches played in the WC 2026, half of them have ended in a draw.\n\nAn extreme number according to SVT's football expert Jonas Eriksson.\n\n- There are simple explanations for this, says Eriksson.\n\nIn the clip above, Jonas Eriksson explains the reasons behind the trend at the WC.\n\nWill there be more draws than ever during the 2026 FIFA World Cup? So far, the trend points in that direction.\n\nDuring the 2022 World Cup, ten of the 48 group stage matches ended in a draw. Already after the sixteen opening matches of the WC 2026, eight have ended with crosses.\n\n- It is an extremely high figure no matter how you count and what you compare it to, says SVT's expert Jonas Eriksson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1053_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "World Cup fever total in Sweden: \"Want to give the people a soccer summer\"",
+            "bullets": [
+              "Sweden woke up with total WC fever. And the players themselves have taken part in the tributes from ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden woke up with total WC fever. And the players themselves have taken part in the tributes from home. - It is difficult to take in, but we hope to come up with more moments like this, says Mattias Svanberg to SVT Sport.",
+            "fullText": "And the players themselves have taken part in the tributes from home.\n\n- It is difficult to take in, but we hope to come up with more moments like this, says Mattias Svanberg to SVT Sport.\n\nDespite the early kick-off time, 04.00, there was a public celebration in several cities around the country yesterday morning.\n\nSeveral pubs and outdoor dining areas were transformed into seas of blue-yellow football supporters.\n\nThe World Cup frenzy in the country cannot be mistaken for the post-success premiere (5–1) against Tunisia.\n\n- I can only imagine. Many stayed up or got up early, and people are going to work. It is clear that it feels extra good to send them to work with a little joy, says assistant union captain Sebastian Larsson.\n\n- We want to give the Swedish people a soccer summer, says goalkeeper Kristoffer Nordfeldt.\n\nHear how the national team has taken part in the tributes and the folk festival in Sweden in the clip above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1056_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Spain's fiasco - drop points against Cape Verde",
+            "bullets": [
+              "Spectacular fiasco for Spain. The advance favorite was nullified by Cape Verde - and the match ended...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Spectacular fiasco for Spain. The advance favorite was nullified by Cape Verde - and the match ended 0-0. - So slow, so slow, so pointless. It's sick that you mention those words in connection with the Spanish national team, says SVT's expert Bojan Djordjic.",
+            "fullText": "The advance favorite was nullified by Cape Verde - and the match ended 0-0.\n\n- So slow, so slow, so pointless. It's sick that you mention those words in connection with the Spanish national team, says SVT's expert Bojan Djordjic.\n\nSpain are favorites to take home the entire World Cup, and many probably thought that they would easily clean off Cape Verde.\n\nDespite being the team with the ball for 90 minutes, they never managed to break the deadlock. 0-0, and one point each, can be counted as the WC's absolute biggest scandal so far.\n\n- We should have won today's match with everything that happened, with all the favorable situations we created, but we lacked freshness and sharpness, says Spain's national team captain Luis de la Fuente.\n\nThe World Cup-debuting pitting nation Cape Verde has its goalkeeper Vozinha to thank for standing on the podium against the reigning European champions. The 40-year-old was responsible for several important saves, not least at the end of the first half, when Spain were in a shoal of hot scoring chances.\n\nIn the first half, the Spanish team was sawn hard by SVT's expert Behrang Safari.\n\nAmong other things, the expert pointed to how Spain failed to pick up the pace in the match, despite the weak opposition.\n\nBoth Lamine Yamal and Nico Williams, who had been injured before the championship, were substituted for Spain.\n\nGroup H continues at 00:00, when Uruguay face Saudi Arabia.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-15 @ 20:18:10 EDT",
+  "lastUpdated": "2026-06-16 @ 12:10:56 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
