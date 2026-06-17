@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Paraguay coaching staff reviews video logs of USA's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ A mercurial talent to a workhorse: who should replace Christian Pulisic if he misses the Australia game?",
+      "link": "https://www.theguardian.com/football/2026/jun/17/christian-pulisic-fitness-usa-australia-world-cup"
     }
   ],
   "timeline": {
@@ -2320,7 +2304,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 18:16:54 EDT",
+  "lastUpdated": "2026-06-17 @ 19:56:54 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
