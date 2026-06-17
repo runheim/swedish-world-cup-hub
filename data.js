@@ -12,24 +12,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Who would you start against Croatia? Pick your England XI",
-      "link": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England v Croatia: World Cup 2026 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates"
     },
     {
-      "text": "⚽ Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
-      "link": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
+      "link": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report"
     },
     {
-      "text": "⚽ Tuchel may be unburdened by English baggage but he is no longer an outsider",
-      "link": "https://www.theguardian.com/football/2026/jun/17/england-manager-tuchel-no-longer-an-outsider-world-cup"
-    },
-    {
-      "text": "⚽ Baker claims maiden Test wicket to leave New Zealand four down vs England LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval"
-    },
-    {
-      "text": "⚽ Ballon d'Or on the line - has Kane saved his best World Cup dance for last?",
-      "link": "https://www.skysports.com/football/news/12040/13554752/harry-kane-england-captain-may-be-taking-part-in-his-last-world-cup-but-this-is-also-his-best-shot-at-the-ballon-dor"
+      "text": "⚽ Hussain: Time for ECB to back Stokes",
+      "link": "https://www.skysports.com/cricket/news/12040/13554999/ben-stokes-ecb-could-have-backed-england-captain-more-in-fallout-from-curfew-break-following-lords-test"
     }
   ],
   "timeline": {
@@ -5947,11 +5939,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3106_0",
+            "category": "england",
+            "type": "News",
+            "title": "Can Bellingham become England's superstar once more at the World Cup?",
+            "bullets": [
+              "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points to a special talent who can be a key figure in their quest to win the World Cup.",
+            "fullText": "Jude Bellingham provided an iconic England moment, scoring with an overhead kick against Slovakia at Euro 2024.\n\nWhen Jude Bellingham uttered the words \"who else?\" in the direction of England's supporters after sparing them a humiliating exit with a spectacular overhead kick against Slovakia at Euro 2024, no-one even thought to argue.\n\nBellingham's acrobatics â with the clock at Gelsenkirchen reading 94 minutes 34 seconds â became an iconic moment as his stunning equaliser set up a 2-1 win after extra time in the last 16.\n\nEngland suffered familiar disappointment when losing to Spain in the final in Berlin, but Bellingham's status as the team's golden boy seemed assured.\n\nInstead, two years on at the World Cup, Bellingham's star has not exactly fallen but it has certainly dimmed.\n\nBellingham will face Croatia in England's World Cup opener in Dallas on Wednesday intent on putting his international career in the ascendant once more after appearing to win the battle with Aston Villa's Morgan Rogers for the No 10 role behind captain Harry Kane.\n\nAnd, after tough love from England head coach Thomas Tuchel, Bellingham's World Cup build-up has appeared to be that of a player on a mission for glory, a special talent who can be a key figure in their quest to win the World Cup.\n\nTuchel's strict refusal to operate a star system, as well as the emergence of Aston Villa's outstanding Rogers, has made Bellingham's place the subject of intense debate, a notion unthinkable after Euro 2024.\n\nSo turn the phrase \"who else?\" back towards Bellingham - the \"who else?\" in his England world became boyhood friend Rogers and a single-minded head coach without a care for reputations and status.\n\nThe relationship between player and coach has occasionally appeared fragile, with Tuchel apologising after revealing his own mother sometimes viewed Bellingham's on-field behaviour as \"repulsive\" following the friendly loss at home to Senegal last June.\n\nTuchel, whose brutal honesty can sometimes be unfiltered, admitted he used the word \"unintentionally\" â but then created a further stir by leaving Bellingham out of England's squad for the friendly at home to Wales and the World Cup qualifier away to Latvia last October, even though the Real Madrid star wanted to be included after recovering from shoulder surgery.\n\nWe need to feel love playing for England - Bellingham",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3106_1",
+            "category": "england",
+            "type": "News",
+            "title": "England won't change style despite US heat - Tuchel",
+            "bullets": [
+              "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the h...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the heat - as it would \"give up\" the team's strengths.",
+            "fullText": "Thomas Tuchel on his starting XI, tough calls and final preparations\n\nThomas Tuchel has ruled out a revamp of England's playing style amid the baking heat of the World Cup - as it would mean sacrificing what makes the team special.\n\nSince starting his job as head coach in January 2025, Tuchel has made a point of saying how much he likes the physicality of English domestic football and that the national side should make the most of that.\n\nThe 52-year-old's squad selections have followed his thinking with an emphasis on strength and powerful runningwhen he picked his 26-man tournament squad.\n\n\"They want to be active with the ball,\" the German told BBC Sport about his England side before their World Cup opener against Croatia on Wednesday (21:00 BST).\n\n\"We have a young group. We have a courageous group. We have a brave group of players.\n\n\"So let's go for it. I mean, no-one guarantees you that we win. So we want to at least try it, our style and our belief.\"\n\nThe temperatures in the USA, Mexico and Canada are extremely high and mandatory hydration breaks have been introduced in all matches, effectively breaking them into quarters.\n\nSpeaking at the news conference before the Croatia match, Tuchel saidhydration breakscan \"change the character of each half\".\n\nHe acknowledged the three-minute intervals give coaches chance to \"change and reset\" during games while delivering \"group messages\".\n\nTemperatures in Dallas will be more than 30C by the time England kick off their opening Group L game - but the effects of the heat will be reduced because the Dallas Stadium is one of the air-conditioned indoor venues being used at this World Cup.\n\nStarting the tournament in that stadium has given Tuchel belief that his side can impose their style on Croatia \"because we play indoors\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3107_2",
+            "category": "england",
+            "type": "News",
+            "title": "England v Croatia: World Cup 2026 – live",
+            "bullets": [
+              "⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST⚽️ Player guide | Bracketology | Golden Boot | E...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Kick-off: 3pm local time/4pm EDT/9pm BST/6am AEST⚽️ Player guide | Bracketology | Golden Boot | Email Scott… so Jude Bellingham does indeed get the nod at 10 over Morgan Rogers. Anthony Gordon has been selected ahead of Marcus Rashford on the left, while Noni Madueke patrols the other flank; Bukayo Saka, not 100 percent fit, remains wrapped up safely on the bench. Ezri Konsa starts alongside John Stones in the centre of defence.Croatia captain Luka Modric, 40, is about to appear at his ​fifth World ‌Cup. He wins his 199th cap tonight. Ivan Perišić will make do with his 155th cap. Mateo Kovacic ‌is on the bench and dreaming of cap number 114. Continue reading...",
+            "fullText": "England have played 14 times under Thomas Tuchel.The manager’s record is pretty good: he’s won 11 of those games to the cumulative tune of 29-0. However there’s a fairly big caveat. The other three matches are the only times Tuchel has faced a team from the world’s top 20: England drew with Uruguay and lost to Senegal and Japan, all at home.Croatiaare currently ranked 11th on the Fifa list. It’s a trend that needs snapping sooner rather than later if England (ranked world number four, to be fair) are to do anything this summer.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3107_3",
+            "category": "england",
+            "type": "News",
+            "title": "Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
+            "bullets": [
+              "Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, fo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of football – La Bombonera, or maybe the national stadium, El Monumental. Kansas City Stadium, awash in the colors of the Albiceleste, roared with the sound of nearly 70,000 supporters serenading their team, and their hero, in rapturous song. They had plenty to sing about.Argentina rose to the occasion, and so did Lionel Messi, who on his 200th cap took another step towards solidifying his place as the greatest footballer in history, scoring three splendid goals to draw level with Germany’s Miroslav Klose for the World Cup’s all-time mark on 16 goals. The performance came just hours after France’s Kylian Mbappé had briefly leapfrogged Messi, with 14. Continue reading...",
+            "fullText": "Those in attendance at Argentina’s opening match against Algeria could be forgiven, for a moment, for thinking they were at one of the great Argentinian cathedrals of football – La Bombonera,or maybe the national stadium, El Monumental.Kansas City Stadium, awash in the colors of theAlbiceleste,roared with the sound of nearly 70,000 supporters serenading their team, and their hero, in rapturous song. They had plenty to sing about.\n\nArgentina rose to the occasion, and so didLionel Messi, who on his 200th cap took another step towards solidifying his place as the greatest footballer in history, scoring three splendid goals to draw level with Germany’s Miroslav Klose for the World Cup’s all-time mark on 16 goals. The performance came just hours after France’s Kylian Mbappé had briefly leapfrogged Messi, with 14.\n\nThe Inter Miami playmaker also became the first male player to appear at six World Cups, a record that was swiftly equalled by Portugal’s Cristiano Ronaldo at Houston Stadium.\n\nMessi had been recovering from a muscle injury in recent weeks but any doubt surrounding the captain’s status was quickly wiped away when he was named in Lionel Scaloni’s starting XI, and those doubts were ancient history once the match began.\n\nMessi had nearly nabbed Argentina’s opener just five minutes in when a through-ball found him at the near side of the box. His shot was perfectly placed, but assistant referee Tomasz Listkiewicz correctly flagged him offside by the smallest margin. Not two minutes later, the Algeria winger Farès Chaïbi had an equally clinical finish chalked off after finding himself offside by a similarly narrow margin.\n\nMessi wasted little time putting Argentina ahead, finding the back of the net in the 17th minute. Rodrigo De Paul found Messi 40 yards out, after which the former Barcelona star turned and took three touches towards goal. With no defenders in sight, his driven shot from the edge of the area was too powerful for Luca Zidane, glancing off the goalkeeper’s fingertips and into the goal.\n\nThe one negative on an otherwise brilliant performance came in the first half, with Messi fortunate to escape punishment after a rash challenge in which he raked his studs across the back of Aïssa Mandi’s calf. The Argentinian likely deserved a yellow, and potentially even a red. He received neither, and the play was not reviewed on the field.\n\nMessi’s second goal was even more easily taken than his first. Alexis Mac Allister’s speculative effort from 30 yards was pushed away by Zidane directly into the path of Messi, who coolly slotted it home from close range in the 60th minute.\n\nAgain, Algeria’s backline was nowhere to be found. Argentina, on the other hand, were excellent defensively throughout the entire match. The 38-year-old completed his hat-trick in the 76th minute with a vintage finish, threading his strike through a trio of defenders and just out of reach of Zidane. He left the match minutes later.\n\nBoth fanbases have been well-represented for days in Kansas City and nearby Lawrence, Kansas, where Algeria will be based for the entirety of their tournament.\n\nThousands of Argentinian supporters packed a local park on Monday night for abanderazo,singing, chanting and dancing into the wee hours. On Tuesday evening, the party moved to the stadium, which was full of noise hours before kickoff.\n\nAlgeria’s supporters have been the subject ofa remarkable story in Lawrence, where residents have welcomed them with open arms. Though understandably outnumbered by opposing fans, loud, vibrant pockets of green emerged from Argentina’s blue-and-white at times, urging the underdogs on.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3107_4",
+            "category": "england",
+            "type": "News",
+            "title": "Hussain: Time for ECB to back Stokes",
+            "bullets": [
+              "Former England captain Nasser Hussain discussed the fallout from Ben Stokes' and Gus Atkinson's brea...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Nasser Hussain discussed the fallout from Ben Stokes' and Gus Atkinson's breaking of a team curfew following the first Test win over New Zealand at Lord's, saying how he'd have backed Stokes more if he were in the ECB's shoes...",
+            "fullText": "Former England captain Nasser Hussain: \"If you're asking me, who would I have as captain at Trent Bridge for the next Test match? I would have Ben Stokes\";watch continued coverage of the second Test between England and New Zealand, live on Sky Sports Cricket",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 10:28:47 EDT",
+  "lastUpdated": "2026-06-17 @ 15:31:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
