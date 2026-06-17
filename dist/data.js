@@ -14,10 +14,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ South Korea boycotts domestic media - after recorded mockery",
       "link": "https://www.svt.se/sport/fotboll/sydkorea-bojkottar-inhemsk-media-efter-inspelade-hanet"
-    },
-    {
-      "text": "⚽ Extreme numbers at the World Cup: \"There are simple explanations\"",
-      "link": "https://www.svt.se/sport/fotboll/extrema-siffran-pa-vm-finns-enkla-forklaringar"
     }
   ],
   "timeline": {
@@ -3993,7 +3989,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 08:57:33 EDT",
+  "lastUpdated": "2026-06-17 @ 10:28:38 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
