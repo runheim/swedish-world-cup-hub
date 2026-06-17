@@ -24,7 +24,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/17/england-manager-tuchel-no-longer-an-outsider-world-cup"
     },
     {
-      "text": "⚽ New Zealand 75-2 at lunch vs England after stunning Bethell catch LIVE!",
+      "text": "⚽ Baker claims maiden Test wicket to leave New Zealand four down vs England LIVE!",
       "link": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval"
     },
     {
@@ -5951,7 +5951,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 08:56:26 EDT",
+  "lastUpdated": "2026-06-17 @ 10:28:47 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
