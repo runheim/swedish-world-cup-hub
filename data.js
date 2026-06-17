@@ -4,16 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Why was Kane's penalty retaken against Croatia?",
+      "text": "⚽ 'If we lose, we lose in our way' - what Tuchel said at half-time",
+      "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ I knew stuttered run-up might get keeper off line - Kane",
       "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Can Bellingham become England's superstar once more at the World Cup?",
-      "link": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ England won't change style despite US heat - Tuchel",
-      "link": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Substitute Rashford guides home England's fourth against Croatia",
+      "link": "https://www.bbc.com/sport/football/videos/c3wyxj6lnvxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Bellingham scores early in second half to put England 3-2 up",
@@ -32,16 +32,36 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England 4-2 Croatia: World Cup 2026 – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/17/england-v-croatia-world-cup-2026-live-updates"
+      "text": "⚽ England surge to thrilling opening win in World Cup cracker with Croatia",
+      "link": "https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report"
+    },
+    {
+      "text": "⚽ Bellingham, England’s man for elite moments, kicks over the console table | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/jun/17/jude-bellingham-man-for-elite-moments-england-croatia-world-cup-opener"
+    },
+    {
+      "text": "⚽ England’s second-half forward surge against Croatia fails to mask defensive frailties | Jacob Steinberg",
+      "link": "https://www.theguardian.com/football/2026/jun/18/england-second-half-forward-surge-fails-mask-defensive-frailties-world-cup-croatia"
+    },
+    {
+      "text": "⚽ England 4-2 Croatia: World Cup 2026 Group L player ratings",
+      "link": "https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings"
     },
     {
       "text": "⚽ Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
       "link": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report"
     },
     {
+      "text": "⚽ England vs Croatia ratings: Kane & Madueke shine but issues at the back",
+      "link": "https://www.skysports.com/football/news/12040/13555073/england-4-2-croatia-ratings-harry-kane-and-noni-madueke-shine-but-will-thomas-tuchel-make-changes-in-defence"
+    },
+    {
+      "text": "⚽ What did Tuchel say at half-time? How England overwhelmed Croatia",
+      "link": "https://www.skysports.com/football/news/12040/13555102/england-4-2-croatia-thomas-tuchels-team-talk-reveals-the-template-for-world-cup-glory-must-be-the-full-gas-approach"
+    },
+    {
       "text": "⚽ Hussain: Time for ECB to back Stokes",
-      "link": "https://www.skysports.com/cricket/news/12040/13554999/ben-stokes-ecb-could-have-backed-england-captain-more-in-fallout-from-curfew-break-following-lords-test"
+      "link": "https://www.skysports.com/cricket/news/12040/13554999/ben-stokes-ecb-could-have-backed-england-captain-more-in-fallout-from-curfew-break-following-lords-test-says-nasser-hussain"
     }
   ],
   "timeline": {
@@ -6230,7 +6250,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 18:17:07 EDT",
+  "lastUpdated": "2026-06-17 @ 19:56:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
