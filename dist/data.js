@@ -3287,6 +3287,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Just watched the film from training. We look sharp.",
       "time": "19:00",
       "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "These new training balls are flying everywhere.",
+      "time": "14:04",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "14:05",
+      "isCaptain": true
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Ready to make history this summer. Let's go!",
+      "time": "14:06",
+      "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "14:07",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "14:08",
+      "isCaptain": false
     }
   ]
 };
