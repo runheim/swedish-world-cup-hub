@@ -4063,11 +4063,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1629_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Yasin Ayari on the uproar after the successful start at the WC",
+            "bullets": [
+              "Yasin Ayari struck with double hits in Sweden's successful start to the World Cup. The 22-year-old w...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Yasin Ayari struck with double hits in Sweden's successful start to the World Cup. The 22-year-old was not prepared for the impact that the championship has. - Now I understand how big it is. But I don't want to fly too much, he tells SVT Sport.",
+            "fullText": "Yasin Ayari struck with double hits in Sweden's successful start to the World Cup.\n\nThe 22-year-old was not prepared for the impact that the championship has.\n\n- Now I understand how big it is. But I don't want to fly too much, he tells SVT Sport.\n\nIn the clip, Ayari talks about the uproar after the success.\n\nCape Verde goalkeeper Vozinha, 40, has gained over 12 million new followers on Instagram after his success in the World Cup.\n\nAyari may not be there, but has gained 60,000 new followers since Monday morning's 5-1 win over Tunisia.\n\n- I try to be here in the moment and not think about everything around me. I want to keep being humble, keep getting better. There was a lot I could have done better in the match, but it was very fun to score two goals in the debut, he says.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1634_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "17-year-old Erik suffered a cardiac arrest during a football match - teammate: \"Thought he was dead\"",
+            "bullets": [
+              "Erik Andersson suffered a cardiac arrest during a football match in Vetlanda. Thanks to quick interv...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Erik Andersson suffered a cardiac arrest during a football match in Vetlanda. Thanks to quick interventions with cardiopulmonary resuscitation, he was conscious when he was taken to hospital.",
+            "fullText": "Erik Andersson suffered a cardiac arrest during a football match in Vetlanda. Thanks to quick interventions with cardiopulmonary resuscitation, he was conscious when he was taken to hospital.\n\nAt the end of Saturday's match between Vetlanda/Myresjö and BK Ljungsbro at Vitalavallen, Erik Andersson suddenly collapsed lifeless on the field after a suspected cardiac arrest.\n\n- You almost panic and then you hear people shouting call 112. So I try to make the audience and leaders aware that you have to call the emergency services immediately and that as many people as possible come here and help Erik, says teammate Ted Granvik, who is the team captain of the team.\n\nLeaders from both teams began CPR and they used a defibrillator before emergency services and an ambulance arrived. Erik was taken to Ryhov County Hospital in Jönköping, where the situation has developed in a positive direction.\n\nWatch the teammate tell about the nasty incident in the video above, but also about Erik's slightly unexpected greeting to the team.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1636_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Alan Barker talks about the racism against the soccer club in Östersund",
+            "bullets": [
+              "Chairman Alan Barker put his foot down in a post on social media for the racist abuse received by th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chairman Alan Barker put his foot down in a post on social media for the racist abuse received by the football club Cosmos: \"When is enough?\"",
+            "fullText": "Chairman Alan Barker put his foot down in a post on social media for the racist abuse received by the football club Cosmos: \"When is enough?\"\n\nOn the football field, it's not just about playing football for the players in The Mighty Cosmos club. Players and active members of the club live with racist and condescending comments, both on and off the field. Finally chairman Alan Barker had enough.\n\n- We are calling them out, says Alan Barker and believes that the situation has gone so far that he and the club choose to confront the people behind the racist attacks.\n\nBarker says that the harassment started already when the club started, but that it has escalated recently. He also points out that football is far from free from racism.\n\n- Yes, we have experienced it out on the pitch. It occurs at all levels in football. You will see it at the highest levels, in the WC. It will happen.\n\nAlan Barker is not aware that any of the attacks against the club or players have been reported to the police. But he emphasizes that it goes too far when the attacks become personal.\n\n- We continue as usual, but this is a matter of society. It becomes problematic with personal attacks, and naming people publicly. If people want to come forward and express themselves, that is welcome. That's debate, that's life, that's how you move on.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1640_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "The WC matches are moved to Stockholm's stadium",
+            "bullets": [
+              "The interest in following Sweden's WC matches together with others proved to exceed all expectations...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The interest in following Sweden's WC matches together with others proved to exceed all expectations. Therefore, the public large-screen screenings are now being moved from Kungsträdgården to Stockholm's stadium. - We underestimated how great the desire was to see the Swedish national team in the World Cup, says Emilia Bjuggren (S), city councilor for the City of Stockholm.",
+            "fullText": "The interest in following Sweden's WC matches together with others proved to exceed all expectations. Therefore, the public large-screen screenings are now being moved from Kungsträdgården to Stockholm's stadium.\n\n- We underestimated how great the desire was to see the Swedish national team in the World Cup, says Emilia Bjuggren (S), city councilor for the City of Stockholm.\n\nInstead, the showings of the remaining WC matches are moved to Stockholm's stadium, where significantly more supporters will have the opportunity to watch the matches together.\n\nThe change of place takes place after an unexpectedly large number of Stockholmers crowded into Kungsan when the match between Sweden and Tunisia was played.\n\nAn estimated three thousand people watched the match, according to the City of Stockholm's information, despite the fact that the match was played in the middle of the night.\n\nThe first match between the Netherlands and Sweden will be played on Monday and the next match between Japan and Sweden will be played on June 26.\n\nThe screenings are still free, and more screens are also being set up in areas such as Husby, Tensta and Bredäng.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 15:31:36 EDT",
+  "lastUpdated": "2026-06-17 @ 18:16:40 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
