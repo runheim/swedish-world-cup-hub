@@ -4,16 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Alan Barker talks about the racism against the soccer club in Östersund",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/alan-barker-berattar-om-rasismen-mot-fotbollsklubben-i-ostersund"
+    },
+    {
+      "text": "⚽ The WC matches are moved to Stockholm's stadium",
+      "link": "https://www.svt.se/nyheter/lokalt/stockholm/vm-matcherna-flyttas-till-stockholms-stadion"
+    },
+    {
       "text": "⚽ South Korea boycotts domestic media - after recorded mockery",
       "link": "https://www.svt.se/sport/fotboll/sydkorea-bojkottar-inhemsk-media-efter-inspelade-hanet"
     },
     {
       "text": "⚽ Extreme numbers at the World Cup: \"There are simple explanations\"",
       "link": "https://www.svt.se/sport/fotboll/extrema-siffran-pa-vm-finns-enkla-forklaringar"
-    },
-    {
-      "text": "⚽ World Cup fever total in Sweden: \"Want to give the people a soccer summer\"",
-      "link": "https://www.svt.se/sport/fotboll/vm-febern-total-i-sverige-vill-ge-folket-en-fotbollssommar"
     }
   ],
   "timeline": {
@@ -3910,10 +3914,86 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-17": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5721_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Alan Barker talks about the racism against the soccer club in Östersund",
+            "bullets": [
+              "Chairman Alan Barker put his foot down in a post on social media for the racist abuse received by th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chairman Alan Barker put his foot down in a post on social media for the racist abuse received by the football club Cosmos: \"When is enough?\"",
+            "fullText": "Chairman Alan Barker put his foot down in a post on social media for the racist abuse received by the football club Cosmos: \"When is enough?\"\n\nOn the football field, it's not just about playing football for the players in The Mighty Cosmos club. Players and active members of the club live with racist and condescending comments, both on and off the field. Finally chairman Alan Barker had enough.\n\n- We are calling them out, says Alan Barker and believes that the situation has gone so far that he and the club choose to confront the people behind the racist attacks.\n\nBarker says that the harassment started already when the club started, but that it has escalated recently. He also points out that football is far from free from racism.\n\n- Yes, we have experienced it out on the pitch. It occurs at all levels in football. You will see it at the highest levels, in the WC. It will happen.\n\nAlan Barker is not aware that any of the attacks against the club or players have been reported to the police. But he emphasizes that it goes too far when the attacks become personal.\n\n- We continue as usual, but this is a matter of society. It becomes problematic with personal attacks, and naming people publicly. If people want to come forward and express themselves, that is welcome. That's debate, that's life, that's how you move on.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5727_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The WC matches are moved to Stockholm's stadium",
+            "bullets": [
+              "Stockholmers' interest in watching Sweden's World Cup matches together was greater than expected. Th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Stockholmers' interest in watching Sweden's World Cup matches together was greater than expected. The public screenings are now being moved from Kungsträdgården to Stockholm's stadium. - We underestimated how much of a longing there was to see the Swedish national team in the World Cup, says Emilia Bjuggren (S), city councilor for the City of Stockholm.",
+            "fullText": "Stockholmers' interest in watching Sweden's World Cup matches together was greater than expected. The public screenings are now being moved from Kungsträdgården to Stockholm's stadium.\n\n- We underestimated how much of a longing there was to see the Swedish national team in the World Cup, says Emilia Bjuggren (S), city councilor for the City of Stockholm.\n\nThe city of Stockholm is moving its screenings of Sweden's World Cup matches from Kungsträdgården to the larger arena, Stockholm Stadium. This is what the red-green board writes in a press release.\n\nThe change of place takes place after unexpectedly many people wanted to see the match between Sweden and Tunisia. Then thousands of people gathered even though it was the middle of the night. The new location will now provide space for more visitors to gather together.\n\nThe screenings are still free, and more screens are also being set up in areas such as Husby, Tensta and Bredäng.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5730_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "South Korea boycotts domestic media - after recorded mockery",
+            "bullets": [
+              "A South Korean conflict has flared up during the World Cup. The national team boycotts domestic jour...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A South Korean conflict has flared up during the World Cup. The national team boycotts domestic journalists on site in the USA. The reason is a clip where some reporters are heard mocking star Son Heung-Min.",
+            "fullText": "The national team boycotts domestic journalists on site in the USA.\n\nThe reason is a clip where some reporters are heard mocking star Son Heung-Min.\n\nWatch the clip that caused South Korea's national team to boycott the media in the player above.\n\nThe incident occurred during South Korea's World Cup warm-up in Miami, in connection with a training session. In the clip, reporters are heard mocking Son's military service.\n\nThe background to the mockery is that Son only served for three weeks, during the pandemic when the Premier League was put on hiatus. In normal cases, all South Korean men must serve for 21 months, writes Reuters.\n\nHowever, the reporters in question do not realize that the TV camera is on and someone is suddenly heard whispering \"camera, camera\".\n\nAfter the clip was spread, the national team has now decided to boycott South Korean journalists in the United States.\n\nThe South Korean Football Association said the following in a statement, according to Reuters:\n\n- The recent leak of inappropriate conversations between certain media representatives at a training facility has caused great shock and disappointment in the team.\n\n- The South Korean Football Association will continue to put the protection of the national team first and strive to create a healthy media environment.\n\nSon Heung-Min left the Premier League club Tottenham last summer and today belongs to Los Angeles FC in the MLS.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5733_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Extreme numbers at the World Cup: \"There are simple explanations\"",
+            "bullets": [
+              "After 16 matches played in the WC 2026, half of them have ended in a draw. An extreme number accordi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After 16 matches played in the WC 2026, half of them have ended in a draw. An extreme number according to SVT's football expert Jonas Eriksson. - There are simple explanations for this, says Eriksson.",
+            "fullText": "After 16 matches played in the WC 2026, half of them have ended in a draw.\n\nAn extreme number according to SVT's football expert Jonas Eriksson.\n\n- There are simple explanations for this, says Eriksson.\n\nIn the clip above, Jonas Eriksson explains the reasons behind the trend at the WC.\n\nWill there be more draws than ever during the 2026 FIFA World Cup? So far, the trend points in that direction.\n\nDuring the 2022 World Cup, ten of the 48 group stage matches ended in a draw. Already after the sixteen opening matches of the WC 2026, eight have ended with crosses.\n\n- It is an extremely high figure no matter how you count and what you compare it to, says SVT's expert Jonas Eriksson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-16 @ 19:55:30 EDT",
+  "lastUpdated": "2026-06-17 @ 08:57:33 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
