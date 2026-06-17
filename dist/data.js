@@ -4,36 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Can Bellingham become England's superstar once more at the World Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/c23y4zkv4z0o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ England won't change style despite US heat - Tuchel",
+      "link": "https://www.bbc.com/sport/football/articles/clyr5zn4440o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Who would you start against Croatia? Pick your England XI",
+      "link": "https://www.bbc.com/sport/football/articles/c8r2l12jjz7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
       "link": "https://www.bbc.com/sport/football/articles/cy4ev318qd2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel's England deal includes performance clause",
-      "link": "https://www.bbc.com/sport/football/articles/clye3plyj7xo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel may be unburdened by English baggage but he is no longer an outsider",
+      "link": "https://www.theguardian.com/football/2026/jun/17/england-manager-tuchel-no-longer-an-outsider-world-cup"
     },
     {
-      "text": "⚽ What does future hold for Rashford as deadline passes?",
-      "link": "https://www.bbc.com/sport/football/articles/cx2jg48q9y4o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ New Zealand 75-2 at lunch vs England after stunning Bethell catch LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13554807/england-vs-new-zealand-second-test-day-one-live-cricket-score-updates-video-analysis-as-joe-root-deputises-for-captain-ben-stokes-at-the-kia-oval"
     },
     {
-      "text": "⚽ Enjoying the World Cup? Well it’s time for England, but this is a team less weighed down by its past | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/jun/16/enjoying-the-world-cup-well-its-time-for-england-but-this-is-a-team-less-weighed-down-by-its-past"
-    },
-    {
-      "text": "⚽ Luka Modric has been tormenting England for 20 years. Can he do it one more time?",
-      "link": "https://www.theguardian.com/football/2026/jun/16/world-cup-luka-modric-croatia-england-20-years-can-he-do-it-one-more-time"
-    },
-    {
-      "text": "⚽ History for Cape Verde as Spain start with a stutter | World Cup Daily",
-      "link": "https://www.theguardian.com/football/video/2026/jun/16/history-for-cape-verde-as-spain-start-with-a-stutter-world-cup-daily"
-    },
-    {
-      "text": "⚽ ‘The perfect job’: meet the fans being paid to watch all 104 World Cup games in Times Square",
-      "link": "https://www.theguardian.com/football/2026/jun/16/the-perfect-job-meet-the-fans-being-paid-to-watch-all-104-world-cup-games-in-times-square"
-    },
-    {
-      "text": "⚽ History for Cape Verde as Spain start with a stutter: World Cup Daily – podcast",
-      "link": "https://www.theguardian.com/football/audio/2026/jun/16/history-for-cape-verde-spain-start-with-stutter-world-cup-daily-podcast"
+      "text": "⚽ Ballon d'Or on the line - has Kane saved his best World Cup dance for last?",
+      "link": "https://www.skysports.com/football/news/12040/13554752/harry-kane-england-captain-may-be-taking-part-in-his-last-world-cup-but-this-is-also-his-best-shot-at-the-ballon-dor"
     }
   ],
   "timeline": {
@@ -5825,10 +5821,137 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-17": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5615_0",
+            "category": "england",
+            "type": "News",
+            "title": "Can Bellingham become England's superstar once more at the World Cup?",
+            "bullets": [
+              "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After tough love from England head coach Thomas Tuchel, Jude Bellingham's World Cup build-up points to a special talent who can be a key figure in their quest to win the World Cup.",
+            "fullText": "Jude Bellingham provided an iconic England moment, scoring with an overhead kick against Slovakia at Euro 2024.\n\nWhen Jude Bellingham uttered the words \"who else?\" in the direction of England's supporters after sparing them a humiliating exit with a spectacular overhead kick against Slovakia at Euro 2024, no-one even thought to argue.\n\nBellingham's acrobatics â with the clock at Gelsenkirchen reading 94 minutes 34 seconds â became an iconic moment as his stunning equaliser set up a 2-1 win after extra time in the last 16.\n\nEngland suffered familiar disappointment when losing to Spain in the final in Berlin, but Bellingham's status as the team's golden boy seemed assured.\n\nInstead, two years on at the World Cup, Bellingham's star has not exactly fallen but it has certainly dimmed.\n\nBellingham will face Croatia in England's World Cup opener in Dallas on Wednesday intent on putting his international career in the ascendant once more after appearing to win the battle with Aston Villa's Morgan Rogers for the No 10 role behind captain Harry Kane.\n\nAnd, after tough love from England head coach Thomas Tuchel, Bellingham's World Cup build-up has appeared to be that of a player on a mission for glory, a special talent who can be a key figure in their quest to win the World Cup.\n\nTuchel's strict refusal to operate a star system, as well as the emergence of Aston Villa's outstanding Rogers, has made Bellingham's place the subject of intense debate, a notion unthinkable after Euro 2024.\n\nSo turn the phrase \"who else?\" back towards Bellingham - the \"who else?\" in his England world became boyhood friend Rogers and a single-minded head coach without a care for reputations and status.\n\nThe relationship between player and coach has occasionally appeared fragile, with Tuchel apologising after revealing his own mother sometimes viewed Bellingham's on-field behaviour as \"repulsive\" following the friendly loss at home to Senegal last June.\n\nTuchel, whose brutal honesty can sometimes be unfiltered, admitted he used the word \"unintentionally\" â but then created a further stir by leaving Bellingham out of England's squad for the friendly at home to Wales and the World Cup qualifier away to Latvia last October, even though the Real Madrid star wanted to be included after recovering from shoulder surgery.\n\nWe need to feel love playing for England - Bellingham",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5615_1",
+            "category": "england",
+            "type": "News",
+            "title": "England won't change style despite US heat - Tuchel",
+            "bullets": [
+              "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the h...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says he is \"not ready to adapt\" England's playing style at the World Cup despite the heat - as it would \"give up\" the team's strengths.",
+            "fullText": "Thomas Tuchel on his starting XI, tough calls and final preparations\n\nThomas Tuchel has ruled out a revamp of England's playing style amid the baking heat of the World Cup - as it would mean sacrificing what makes the team special.\n\nSince starting his job as head coach in January 2025, Tuchel has made a point of saying how much he likes the physicality of English domestic football and that the national side should make the most of that.\n\nThe 52-year-old's squad selections have followed his thinking with an emphasis on strength and powerful runningwhen he picked his 26-man tournament squad.\n\n\"They want to be active with the ball,\" the German told BBC Sport about his England side before their World Cup opener against Croatia on Wednesday (21:00 BST).\n\n\"We have a young group. We have a courageous group. We have a brave group of players.\n\n\"So let's go for it. I mean, no-one guarantees you that we win. So we want to at least try it, our style and our belief.\"\n\nThe temperatures in the USA, Mexico and Canada are extremely high and mandatory hydration breaks have been introduced in all matches, effectively breaking them into quarters.\n\nSpeaking at the news conference before the Croatia match, Tuchel saidhydration breakscan \"change the character of each half\".\n\nHe acknowledged the three-minute intervals give coaches chance to \"change and reset\" during games while delivering \"group messages\".\n\nTemperatures in Dallas will be more than 30C by the time England kick off their opening Group L game - but the effects of the heat will be reduced because the Dallas Stadium is one of the air-conditioned indoor venues being used at this World Cup.\n\nStarting the tournament in that stadium has given Tuchel belief that his side can impose their style on Croatia \"because we play indoors\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5616_2",
+            "category": "england",
+            "type": "News",
+            "title": "Who would you start against Croatia? Pick your England XI",
+            "bullets": [
+              "As Thomas Tuchel's England side prepare for their opening game against Croatia, who would you pick t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As Thomas Tuchel's England side prepare for their opening game against Croatia, who would you pick to start the first match in Dallas?",
+            "fullText": "As Thomas Tuchel's England side prepare for their opening game against Croatia, who would you pick to start the first match in Dallas?\n\nWould you start Manchester City defensive duo Marc Guehi and John Stones, or would you pair one of those players with Aston Villa's Ezri Konsa?\n\nJude Bellingham will wear the number 10 shirt at the World Cup, but will he have a starting shirt in your Three Lions' opening game?\n\nSee what our BBC football pundits think and you can make your selection below.\n\nIt is an easy pick, Jordan Pickford as the goalkeeper. I would start Reece James, if he is fully fit.\n\nI would go with John Stones instead of Ezri Konsa, even though Konsa has been really reliable. I just believe on the ball at international football Stones can dictate and if we need to keep the ball in a game, he is one that can certainly do that.\n\nGuehi starting is self-explanatory. He has been excellent for Crystal Palace and Manchester City this season. At left-back, Nico O'Reilly. I know Djed Spence started at their in the friendly against New Zealand, but if I had to pick one it would definitely be O'Reilly.\n\nElliot Anderson and Declan Rice - pretty much what everyone expects. I like Anderson because he can also start attacks. I know he is in there to break up play, but when he plays the ball through the lines he plays it with really good quality.\n\nRice, we all know why he starts. Jude Bellingham, I would start him ahead of Morgan Rogers in a number 10 position because he is a big game player. I think he is a genuine superstar. I think there is two genuine stars in him and Harry Kane.\n\nI would go with Marcus Rashford over Anthony Gordon, but I wouldn't mind putting Rogers there as well.\n\nBukayo Saka speaks for himself and then Harry Kane is obviously upfront.\n\nI hate doing stuff like this... I have picked this XI as I think it is the most well-balanced team to set the tournament up.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5616_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel's defensive gambles and what do they say about Alexander-Arnold?",
+            "bullets": [
+              "England head coach Thomas Tuchel's high-risk defensive selection for World Cup exposed by Tino Livra...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel's high-risk defensive selection for World Cup exposed by Tino Livramento's injury as Trent Alexander-Arnold is snubbed again, says Phil McNulty.",
+            "fullText": "England head coach Thomas Tuchel has snubbed Trent Alexander-Arnold again after Tino Livramento was ruled out of the World Cup\n\nTino Livramento's departure from England's World Cup squad has exposed the gambles and potential weaknesses in head coach Thomas Tuchel's defensive selection.\n\nLivramento sustained a calf injury in training before Wednesday's opening World Cup group game against Croatia in Dallas (21:00 BST), withChelsea defender Trevoh Chalobah called up as his replacement.\n\nTuchel's initial picks in this crucial area already carried high risk given the injury problems of likely starters Reece James and John Stones last season, which Livramento's departure will bring under further scrutiny.\n\nAnd the choice of Chalobah, a central defender by trade, will once again fire up the debate about why Tuchel seems to have no intention of restoring Trent Alexander-Arnold to England duty.\n\nLivramento's latest injury should come as no surprise to Tuchel given the Newcastle full-back - who carried the appeal of being able to play on both flanks - missed most of the end of last season with a thigh problem and had also been absent with hamstring issues.\n\nIt leaves England with three natural full-backs in James, Tottenham Hotspur's Djed Spence - another who can play on right and left - along with Manchester City's Nico O'Reilly, who can also play in midfield.\n\nNewcastle's Dan Burn can play at left-back, while Jarell Quansah and Ezri Konsa can play in the wide positions, but there would be serious worries about deploying any of them in unaccustomed roles against high-class forwards at a World Cup.\n\nAs Tuchel's predecessor Sir Gareth Southgate found when he played Alexander-Arnold in midfield at Euro 2024, a major tournament is no time for experiments or square pegs in round holes.\n\nReece James and John Stones are high-class defenders who will start for England - but have both had injury problems\n\nReplacing Livramento with Chalobah - in another example of Tuchel's apparent preference for tall, physical defenders - again suggests Konsa will be selected ahead of Marc Guehi against Croatia.\n\nChalobah only has one senior England cap, in the 3-1 defeat to Senegal at the City Ground a year ago, so it is big vote of confidence from Tuchel in a 26-year-old who is inexperienced at this level.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5617_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel may be unburdened by English baggage but he is no longer an outsider",
+            "bullets": [
+              "England’s ‘footballaholic’ head coach may not be motivated by a fan’s passion but he is more than ju...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England’s ‘footballaholic’ head coach may not be motivated by a fan’s passion but he is more than just a gun for hireIdentity lies at the heart of the World Cup. Who are we and how do we play? Does our academy system work better than yours? What do your coaching pathways look like compared with ours? And do you still get a bit emotional every time you watch that BBC montage of England’s penalty shootout win over Colombia at the 2018 World Cup?Maybe not if you happen to be Thomas Tuchel. This is not a man weighed down by the ghosts of England tournaments past. There is no missed penalty haunting this gangly German intellectual in his sleep, no costly red card in a knockout tie stalking his nightmares. For Tuchel, meaning is found merely in the pursuit of victory. At first glance there is no deeper cultural connection here and, for all the breezy talk of putting a second star on the shirt, there are times when it is hard to understand why Tuchel wants to bring an end to England men’s 60 years of hurt this summer. Continue reading...",
+            "fullText": "England’s ‘footballaholic’ head coach may not be motivated by a fan’s passion but he is more than just a gun for hire\n\nIdentity lies at the heart of the World Cup. Who are we and how do we play? Does our academy system work better than yours? What do your coaching pathways look like compared with ours? And do you still get a bit emotional every time you watch that BBC montage of England’s penalty shootout win overColombia at the 2018 World Cup?\n\nMaybe not if you happen to beThomas Tuchel. This is not a man weighed down by the ghosts of England tournaments past. There is no missed penalty haunting this gangly German intellectual in his sleep, no costly red card in a knockout tie stalking his nightmares. For Tuchel, meaning is found merely in the pursuit of victory. At first glance there is no deeper cultural connection here and, for all the breezy talk of putting a second star on the shirt, there are times when it is hard to understand why Tuchel wants to bring an end to England men’s 60 years of hurt this summer.\n\nOf course, winning theWorld Cupwould look good on the CV. The attraction of the job is obvious. The rewards are vast and the players are elite. Yet even if it makes sense on a sporting level, it is still fascinating to consider the wider motivation for Tuchel given it is safe to assume he was not supporting England when they lost those semi-finals to the Germans at Italia 90 and Euro 96.\n\nIt comes back to the idea that what separates international football from the club game is playing for something bigger. For some, the aim is to go down as a legend in your own country, but Tuchel is not fromEngland. He will not sing the national anthem when England face Croatia in their opening game in Group L in Dallas on Thursday. Will there be criticism from the usual suspects? Perhaps, but Tuchel is unlikely to care. He knows the words – “It is not so difficult,” he said with a grin – and explained that he still feels too shy to join in when the music strikes up.\n\nTuchel’s predecessor brought a different energy. Gareth Southgate almost treated the England job as a higher calling. He spoke about politics and behaved like a man trying to heal the nation.Southgate wrote an open letterabout society’s divisions and ended up being played by Joseph Fiennes inthe stageandtelevision versions of Dear England.\n\nThere is none of that with Tuchel. His title is head coach rather than manager. He is not interested in talking about politics and his background means he is never going to become as overwhelmed by the job as Southgate was by the end of his time in charge.\n\nStill, though, there are layers to Tuchel. As a young coach he rose through the German pressing school. He has been described as a “footballaholic” and is bright, engaging and funny. His eccentric streak appeals to England’s love of a maverick, yet the willingness to speak his mind can sometimes feel very un-English. It is hard, for instance, to picture Southgate ever callingone of his players repulsive.\n\n“Thomas is almost Latin in the way he speaks,” the FA’s technical director, John McDermott, said in Inside England, a book about the team’s journey over the past decade. “There’s a warmth and there’s a tactileness. He comes alive when he’s speaking about the team, the players, the games.”\n\nTuchel did not click with the French media when he managed Paris Saint-Germain and has a reputation for being a hothead in Germany. He fell out with Joshua Kimmich at Bayern Munich and has always sounded ambivalent when talking about German football.\n\nEngland is where he most comes alive. It felt right for Tuchel whenhe became Chelsea’s managerin January 2021 and led them to Champions League glory four months later. Lockdown measures were still in place, but the 52-year-old talked enthusiastically about wanting to discover London’s bookshops and best coffee spots. “It’s the country, it’s the humour, it’s the way of life,” Tuchel once said of his love of England as a country.\n\nHe is not putting it on. He likes zooming around the capital on Lime bikes. He has found his favourite gastropub and when he was younger he lovedto pretend to be Chris Waddle“with the collar up in my garden” after watching the England winger during the 1990 World Cup.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5617_5",
+            "category": "england",
+            "type": "News",
+            "title": "New Zealand 75-2 at lunch vs England after stunning Bethell catch LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "England, leading 1-0 after victory at Lord’s, resume three-Test series vs New Zealand at The Kia Oval ahead of final game at Trent Bridge from June 25; no Ben Stokes or Gus Atkinson after nightclub incident following first Test; James Rew, Jordan Cox and Sonny Baker make Test debuts",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5618_6",
+            "category": "england",
+            "type": "News",
+            "title": "Ballon d'Or on the line - has Kane saved his best World Cup dance for last?",
+            "bullets": [
+              "For England, the thought is frightening but very real. This could be Harry Kane's final World Cup.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "For England, the thought is frightening but very real. This could be Harry Kane's final World Cup.",
+            "fullText": "Harry Kane is captaining England this summer in what could be his final World Cup for his country; the Three Lions skipper will be nearly 37 by the time the next finals come around; Kane comes into this tournament as the most in-form goalscorer ever to grace the World Cup",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-16 @ 19:54:24 EDT",
+  "lastUpdated": "2026-06-17 @ 08:56:26 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
