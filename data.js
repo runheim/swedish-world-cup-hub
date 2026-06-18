@@ -4,12 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ 'Chip on shoulder' may help Bellingham to best form",
-      "link": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel's complaints lead to Fifa moving photographers",
+      "link": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
-      "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Rice expected to be fit to face Ghana despite back pain",
+      "link": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Messi's father dealing with 'health-related situation'",
+      "link": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Kane is England's greatest striker, says Lineker",
+      "link": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Hart impressed by Kane's attention to detail with penalties",
@@ -36,28 +44,32 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ I knew stuttered run-up might get keeper off line - Kane",
-      "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'Chip on shoulder' may help Bellingham to best form",
+      "link": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ What are the patches on some shirts at the World Cup?",
-      "link": "https://www.bbc.com/sport/football/articles/cr5jdy59m69o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
+      "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: Bellingham playing with ‘chip on shoulder’, Côte d’Ivoire’s Wahi barred over alleged fixing – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live"
+      "text": "⚽ Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
+      "link": "https://www.theguardian.com/football/2026/jun/18/lionel-messi-father-receives-medical-treatment-argentina-world-cup"
     },
     {
-      "text": "⚽ Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
-      "link": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech"
+      "text": "⚽ Super subs: how England’s bench applies a crucial finishing touch",
+      "link": "https://www.theguardian.com/football/2026/jun/18/super-subs-how-englands-bench-applies-a-crucial-finishing-touch"
+    },
+    {
+      "text": "⚽ ‘People in the pubs will like this’: Tuchel keen for England to entertain at World Cup",
+      "link": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-croatia-world-cup-2026"
     },
     {
       "text": "⚽ The World Cup viewed from afar is more like ambient noise – a far cry from working at it | Jonathan Liew",
       "link": "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise"
     },
     {
-      "text": "⚽ Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory",
-      "link": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report"
+      "text": "⚽ Tuchel: Saka unlikely to start against Ghana",
+      "link": "https://www.skysports.com/football/news/12040/13555396/world-cup-2026-bukayo-saka-unlikely-to-start-for-england-until-panama-game-thomas-tuchel-says"
     }
   ],
   "timeline": {
@@ -6522,11 +6534,306 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3704_0",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel's complaints lead to Fifa moving photographers",
+            "bullets": [
+              "England head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the bench during the national anthems.",
+            "fullText": "Tuchel and his coaching staff in the dugout had their view blocked during the anthems\n\nEngland head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the bench during the national anthems.\n\nTuchel said he \"could not see my team\" before Wednesday's4-2 win over Croatia, with a wall of photographers blocking his view to the pitch.\n\nFifa has now changed its policy and agreeing to a compromise for all affected games.\n\nPhotographers will now be grouped in a huddle closer to the halfway line - allowing an unobstructed view for the coaching staff.\n\nThe Group L game in Dallas was Tuchel's first as a World Cup manager but he revealed the occasion, particularly the emotion of the national anthems, was spoiled.\n\n\"I have to tell you something. I'm begging Fifa to change the position of the photographers in the national anthem, because I could not see my team,\" Tuchel said.\n\n\"It was a very special moment, and I was standing in front of a wall of 50 photographers and I could not see one single player. It ruined a little bit my experience.\"\n\nThe AT&T Stadium usually serves as the home of the Dallas Cowboys, with the NFL field too small for World Cup matches.\n\nThe surface had to be raised 1.2m to be able to fit in a football pitch, which meant part of the sidelines were lost - resulting in limited space for the coaches and the photographers during the national anthems.\n\nFifa first deployed the new approach duringThursday's Group A fixture between Czech Republic and South Africain Atlanta.\n\nEngland score four against Croatia in World Cup opener",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3704_1",
+            "category": "england",
+            "type": "News",
+            "title": "Rice expected to be fit to face Ghana despite back pain",
+            "bullets": [
+              "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during the win over Croatia.",
+            "fullText": "Declan Rice was replaced by Morgan Rogers after 72 minutes in England's World Cup opener\n\nDeclan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during thewin over Croatia.\n\nThe midfielder was substituted midway through the second half, raising concerns about his fitness.\n\nBut it is understood the back issue is unlikely to prevent Rice from playing against Ghana in Boston on Tuesday (21:00).\n\nThe complaint is one that the Arsenal midfielder, 27, has been carrying for a while and will require managing during the tournament.\n\nSpeaking after the game, manager Thomas Tuchel said: \"Declan had some unusual ball losses and I saw a bit of discomfort.\n\n\"And then I asked him, and he pointed directly to his lower back, upper hamstring, that he feels the discomfort.\n\n\"I didn't want to take any risks, I hope it's nothing more. Declan just reassured me at the end.\n\n\"We will take care of it, and it's nothing big to worry about.\"\n\nTactical analysis: England look exciting but how can they tighten up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3704_2",
+            "category": "england",
+            "type": "News",
+            "title": "Messi's father dealing with 'health-related situation'",
+            "bullets": [
+              "Lionel Messi's father is currently dealing with a \"health-related situation\", the family said in a s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi's father is currently dealing with a \"health-related situation\", the family said in a statement on Thursday.",
+            "fullText": "Messi was in tears following his first World Cup hat-trick against Algeria\n\nLionel Messi's father is currently dealing with a \"health-related situation\", the family said in a statement on Thursday.\n\n\"At this time, he is under medical supervision, recovering and progressing favourably within the condition he is experiencing,\" the statement said.\n\nMessi was in tears after scoring his first goal inArgentina's 3-0 victory over Algeriain their opening World Cup match earlier this week.\n\nArgentina's captain, 38, went on to complete a hat-trick, drawing level with Miroslav Klose at the top of the all-time World Cup goalscoring list.\n\n\"Why did I cry? It was something completely unrelated to football,\" Messi said after the match.\n\n\"I went through some difficult days, but I'm grateful to the entire delegation and my team-mates because they were always by my side, giving me a lot of strength to help me get through it.\"\n\nThe family addressed the speculation around Jorge Messi's health following that opening game.\n\n\"In light of speculation that has circulated in recent hours, the family wishes to express its deep discomfort with the lack of sensitivity, respect, and discretion with which some people have treated what is strictly a private family matter.\n\n\"The family also wishes to clarify that only his closest relatives have real and accurate information regarding Jorge's condition. Therefore, any version, statement, or information that does not come directly from the family and its official channels should not be considered valid or truthful.\"\n\nThe statement continued: \"At times like these, we ask for responsibility, prudence, and humanity. A person's health and the peace of mind of those around them should not be the subject of speculation or irresponsible media interest.\n\n\"We sincerely appreciate the expressions of affection, respect, and concern we have received, and we ask that Jorge's privacy, confidentiality, and intimacy - as well as that of his entire family - be respected throughout this process.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3705_3",
+            "category": "england",
+            "type": "News",
+            "title": "Kane is England's greatest striker, says Lineker",
+            "bullets": [
+              "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England ca...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals.",
+            "fullText": "Harry Kane is England's record goalscorer followed by Wayne Rooney (53 goals in 120 appearances), Sir Bobby Charlton (49 in 106) and Gary Lineker (48 in 80)\n\nGary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals on Wednesday.\n\nKane, 32, scored twice as England opened their tournament campaign in Dallas with a4-2 victory against Croatiain Group L.\n\nFormer Three Lions striker Lineker, 65, reached his tally between the 1986 World Cup in Mexico and Italia 90, while Kane is playing at his third tournament after featuring in Russia in 2018 and Qatar four years ago.\n\n\"Welcome to the double-figures club. It's great. I mean, it may have taken him a World Cup more,\" ex-Match of the Day presenter Lineker joked on The Rest is Football podcast.\n\n\"In all seriousness, Harry Kane is, I think, the greatest English striker we've ever had. I genuinely think that now.\"\n\nKane now has 81 goals in 115 international appearances and leads the list of England's record goalscorers.\n\nHighlights: A six-goal thriller ends England 4-2 Croatia\n\nEngland face Ghana in their second group game on 23 June at 21:00 BST.\n\nBayern Munich's Kane gave England the lead with a retaken penalty early in the first half, before scoring a powerful header to restore his side's lead three minutes before the break.\n\n\"I'm absolutely delighted that Kane equalled my record,\" Lineker continued. \"His all-round game is, for me, what separates him from all the others.\"\n\nKane's standout performance comes after Lionel Messi scored a hat-trick for Argentina against Algeria, Kylian Mbappe opened his account for France with two goals in the win over Senegal and Manchester City's Erling Haaland also scored a brace in Norway's victory against Iran.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3705_4",
+            "category": "england",
+            "type": "News",
+            "title": "Hart impressed by Kane's attention to detail with penalties",
+            "bullets": [
+              "BBC World Cup pundits Joe Hart and Wayne Rooney analyse Harry Kane's change in techniques and the am...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC World Cup pundits Joe Hart and Wayne Rooney analyse Harry Kane's change in techniques and the amount of work he puts in when it comes to taking penalties.",
+            "fullText": "BBC World Cup pundits Joe Hart and Wayne Rooney analyse Harry Kane's change in techniques and the amount of work he puts in when it comes to taking penalties.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3706_5",
+            "category": "england",
+            "type": "News",
+            "title": "Substitute Rashford guides home England's fourth against Croatia",
+            "bullets": [
+              "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+            "fullText": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3706_6",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham scores early in second half to put England 3-2 up",
+            "bullets": [
+              "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
+            "fullText": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3706_7",
+            "category": "england",
+            "type": "News",
+            "title": "Kane heads England into 2-1 lead against Croatia",
+            "bullets": [
+              "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corne...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
+            "fullText": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3706_8",
+            "category": "england",
+            "type": "News",
+            "title": "Kane puts England ahead against Croatia with retaken penalty",
+            "bullets": [
+              "Harry Kane puts England 1-0 up against Croatia with a retaken penalty, after his initial attempt was...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane puts England 1-0 up against Croatia with a retaken penalty, after his initial attempt was saved by Dominik Livakovic, who was deemed to be off his line.",
+            "fullText": "Harry Kane puts England 1-0 up against Croatia with a retaken penalty, after his initial attempt was saved by Dominik Livakovic, who was deemed to be off his line.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3707_9",
+            "category": "england",
+            "type": "News",
+            "title": "Baturina fires Croatia level against England",
+            "bullets": [
+              "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
+            "fullText": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their Group L game at the Dallas Stadium in the Fifa World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3707_10",
+            "category": "england",
+            "type": "News",
+            "title": "'Chip on shoulder' may help Bellingham to best form",
+            "bullets": [
+              "Jude Bellingham says the external \"noise\" around his place in the England team may help him find his...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham says the external \"noise\" around his place in the England team may help him find his best form during the World Cup.",
+            "fullText": "Bellingham 'put noise aside' in England win over Croatia\n\nJude Bellingham has said the external \"noise\" around his place in the England team may help him find his best form during the World Cup.\n\nOne of the main talking points around selection before England's first group game against Croatia was whether boss Thomas Tuchel would select Real Madrid's Bellingham or Aston Villa's Morgan Rogers in the number 10 role behind captain Harry Kane.\n\nBellingham was chosen to start in Dallas and scored England's crucial third goal just after half-time, with Marcus Rashford adding a fourth late on to complete a 4-2 win.\n\n\"For me personally, it was nice to put some of the noise aside and just show my country and my team-mates how committed I am to help us try to win football matches,\" the 22-year-old, who is appearing in a fourth consecutive major tournament for England, told BBC Sport.\n\n\"To contribute, to help my team and help my country is one of the biggest honours and regardless of the noise outside, that honour doesn't change for me at all.\"\n\nBellingham conceded that it has been a \"bit of a tougher season for me\", with the start of his 2025-26 campaign disrupted by injury, his club side in Spain ending up eight points behind eventual champions Barcelona and his place in the national team under scrutiny.\n\nBut Bellingham said he feels \"fresh and sharp\" heading into the tournament and it was \"nice to hear\" comments from colleagues such as Jordan Henderson, who said the former Birmingham City and Borussia Dortmund player gives England an \"X-factor\".\n\nAsked if he has entered the World Cup with added impetus, Bellingham smiled as he replied: \"A little bit - I think I've got a little bit of a chip on my shoulder, haven't I?\"\n\nKane and Bellingham star as England outshine Croatia in thriller\n\n'If we lose, we lose in our way' - what Tuchel said at half-time\n\nWho was the biggest attacking threat? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3707_11",
+            "category": "england",
+            "type": "News",
+            "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
+            "bullets": [
+              "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as thei...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.",
+            "fullText": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.\n\nHarry Kane's double and a goal apiece from Jude Bellingham and Marcus Rashford ensured England secured a 4-2 win in Dallas.\n\nBut having taken the lead twice in the first half, the score was 2-2 at half-time and captain Kane said Tuchel delivered an important half-time message to the team.\n\n\"I thought it was a game of two halves. In the first half, we were OK,\" Kane told ITV.\n\n\"[We were] really disappointed to concede in the way we did. I thought we dropped off.\n\n\"Credit to the manager, he gave us a speech at half-time and said if we lose, we lose in our way, and I think we saw that in the way we came out in the second half.\n\n\"We went full gas and they couldn't live with it. Credit to everyone for the first game of the tournament.\"\n\nEngland at 'best level' in second half against Croatia - Kane\n\nEngland score four against Croatia in World Cup opener\n\nWho was the biggest attacking threat? England player ratings\n\nFootball Daily podcast: Kane and Bellingham put on a show\n\nIn a separate interview with BBC Sport, the Bayern Munich striker added: \"The boss said at half-time to up the tempo, go man for man and completely take the game to them, and that is exactly what happened.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3707_12",
+            "category": "england",
+            "type": "News",
+            "title": "Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
+            "bullets": [
+              "Jorge Messi, 68, ‘recovering and progressing favourably’‘At times like these, we ask for responsibil...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jorge Messi, 68, ‘recovering and progressing favourably’‘At times like these, we ask for responsibility,’ says familyLionel Messi’s father is undergoing medical treatment for an undisclosed illness and his family asked the media for “humanity” on Thursday amid rumours about Jorge Messi’s health while his son competes at the World Cup. “Jorge is going through a health situation,” the Messi family said in a statement.The family did not specify the illness that the 68-year-old Jorge Messi is suffering from. “He is currently under medical observation, recovering and progressing favourably within his current condition,” the statement said. Continue reading...",
+            "fullText": "Jorge Messi, 68, ‘recovering and progressing favourably’\n\n‘At times like these, we ask for responsibility,’ says family\n\nLionel Messi’s father is undergoing medical treatment for an undisclosed illness and his family asked the media for “humanity” on Thursday amid rumours about Jorge Messi’s health while his son competes at the World Cup. “Jorge is going through a health situation,” the Messi family said in a statement.\n\nThe family did not specify the illness that the 68-year-old Jorge Messi is suffering from. “He is currently under medical observation, recovering and progressing favourably within his current condition,” the statement said.\n\nMessi said after Argentina’s 3-0 victory over Algeria in the team’s opening World Cup match that he was going through a difficult personal situation. He did not elaborate.\n\nThe family statement, released by Messi’s media office, came on the same day that reports of Jorge Messi’s death circulated in Argentina.\n\n“At times like these, we ask for responsibility, prudence and humanity,” the family said. “A person’s health and the peace of mind of their loved ones should not be the subject of speculation or irresponsible media interest.”\n\nThe statement said any further developments would be communicated by the family.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3708_13",
+            "category": "england",
+            "type": "News",
+            "title": "Super subs: how England’s bench applies a crucial finishing touch",
+            "bullets": [
+              "The way substitutes combined for the fourth goal against Croatia vindicated Thomas Tuchel’s desire t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The way substitutes combined for the fourth goal against Croatia vindicated Thomas Tuchel’s desire to instil a brotherhood ethosIt is Bukayo Saka who ignites the move. Tight to the right, approaching halfway, the England winger turns on a sixpence and surges away from Josko Gvardiol. Saka’s work in tight spaces, his close control, is a consistent delight.He plays a pass up and inside for Morgan Rogers and, at this point, Djed Spence is running on the outside. Rogers looks for him but Nikola Vlasic slides in to challenge and the ball breaks. Saka is alive to it, slicing inside and beating Josip Sutalo. England sense the knockout blow because Saka has options, the best being Marcus Rashford over to the left. Croatia have only Josip Stanisic back. Saka goes to Rashford, who steadies himself, jinks inside Stanisic and sidefoots low into the bottom corner. Continue reading...",
+            "fullText": "The way substitutes combined for the fourth goal against Croatia vindicated Thomas Tuchel’s desire to instil a brotherhood ethos\n\nIt isBukayo Sakawho ignites the move. Tight to the right, approaching halfway, the England winger turns on a sixpence and surges away from Josko Gvardiol. Saka’s work in tight spaces, his close control, is a consistent delight.\n\nHe plays a pass up and inside for Morgan Rogers and, at this point, Djed Spence is running on the outside. Rogers looks for him but Nikola Vlasic slides in to challenge and the ball breaks. Saka is alive to it, slicing inside and beating Josip Sutalo. England sense the knockout blow because Saka has options, the best beingMarcus Rashfordover to the left. Croatia have only Josip Stanisic back. Saka goes to Rashford, who steadies himself, jinks inside Stanisic and sidefoots low into the bottom corner.\n\nIt is a beautiful goal and it gives Englandan unassailable 4-2 leadin the 85th minute. Their World Cup is off to a flyer and if they have confirmation – validation, too – of a swashbuckling second-half performance, a shift in the collective mindset, there is a detail that Thomas Tuchel cannot ignore.\n\nEver since he came into the job, theEnglandmanager has been obsessed with the creation of a brotherhood in his squad; players who can put their main-men club personas to the side for the greater good, who, if they are asked to play 20 minutes or even only 10, will do so with everything they have. For Tuchel, the clinching goal against Croatia was the purest example of what he has wanted to see because Saka and Rogers, Spence and Rashford had all come on as substitutes.\n\nFor Rashford, in particular, it must have been a tough one to take when Tuchel said he was starting with Anthony Gordon on the left rather than him. Rashford was lively in the first half of England’sWorld Cup warm-up game against New Zealand; Gordon not so in the second period. And yet Tuchel was not entirely happy. When he criticised his first-half team for lacking positional discipline, it came to feel as though he had Rashford in mind. Tuchel started Gordon in the second and final warm-up match against Costa Rica, giving him 71 minutes and being rewarded with a driving performance.\n\nAlthough Rashford flickered again when he came on to replace him – as did all the substitutes – Tuchel knew he had to go with Gordon against Croatia.\n\nHere in the US there is a glamour in Major League Baseball about the role of closing pitcher; the player who leaves the bullpen towards the end to get the team home. It is not the same in football. No one wants to be a closer. And yet Tuchel knows his version of them will be crucial. Can he sell them as the heroes of his squad?\n\n‘We needed this quality [from the substitutes] to bring it over the line,” he said. “I know they are all starters. So it is new for them. But they also know it is a period of time that is so special and they buy into this idea that we do it as a team. This is the only way.\n\n“We are so strong from the bench and I was so impressed with everyoneagainst Costa Rica, for example, because they pushed on the buttons and pushed on the gas and kept suffocating the opponent.”\n\nRashford’s finish against Croatia was a champagne moment for him; only his second goal in 13 England appearances under Tuchel. The other was the stoppage-time penalty for 5-0against Serbia in Belgradelast September. It feels like a 50-50 decision for Tuchelbetween Rashford and Gordon. And with Gordon not playing well against Croatia, the debate will rage over who ought to start against Ghana on Tuesday.\n\nIt is not quite the same on the opposite wing between Saka and Noni Madueke, the dynamics skewed bySaka’s lack of full fitness. He continues to manage an achilles problem and, the way that Tuchel talked, it did not sound as though Saka would be a starting option against Ghana.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3708_14",
+            "category": "england",
+            "type": "News",
+            "title": "‘People in the pubs will like this’: Tuchel keen for England to entertain at World Cup",
+            "bullets": [
+              "Manager said second-half performance was ‘rewarding’England’s next group game is against Ghana on 23...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manager said second-half performance was ‘rewarding’England’s next group game is against Ghana on 23 JuneThomas Tuchel said he wanted his England team to entertain the nation and that he pictured the scenes in the pubs as his players took the handbrake off to power past ­Croatia 4-2 in their World Cup opener on Wednesday.England were passive in the first half, too deep, the connections lacking. They entered the interval at 2-2, Harry Kane’s goals cancelled out by a pair of soft concessions that were in keeping with the team’s openness. Continue reading...",
+            "fullText": "Manager said second-half performance was ‘rewarding’\n\nEngland’s next group game is against Ghana on 23 June\n\nThomas Tuchel said he wanted his England team to entertain the nation and that he pictured the scenes in the pubs as his players took the handbrake off to power past­Croatia 4-2 in their World Cup opener on Wednesday.\n\nEngland were passive in the first half, too deep, the connections lacking. They entered the interval at 2-2, Harry Kane’s goals cancelled out by a pair of soft concessions that were in keeping with the team’s openness.\n\nBut England exploded into life at the start of the second half, Jude ­Bellingham’s surging run and finish in the 47th minute the spark for an extraordinary period of pressure.Tuchel had told the players to calm downduring the interval, not to worry about the result and be true to their way of playing.\n\nAfter Bellingham’s goal, they had seven clear openings leading up the hour, albeit they could not take them. Croatia were rocking and Tuchel knew the pubs in England would be the same. Croatia had a couple of moments when they might have equalised before the England substitute Marcus Rashford sealed the win in the 85th minute after a clinical counterattack.\n\nIt is unclear whether a gung-ho approach will lead toWorld Cupglory, but the performance has ignited a sense of possibility and Tuchel is keen to harness the momentum. England’s next game is against Ghana on Tuesday.\n\nTuchel was asked whether fans could expect England to take the handbrake off during the tournament. “It is what the boys did in the second half – exactly that,” he said. “It is good. That is what needs to be done. Nobody can guarantee the outcome, but we can guarantee the effort.\n\n“Can we expect more of that? Yes. It is good and it is rewarding. Hopefully everybody enjoyed it. And it brings a connection. I had a thought in the second half: ‘People in the pubs will like this.’\n\n“I was sweating, but that is a good watch where we created and ­created and went for it and won another ball and then a second ball. That is why you are in a pub and watching together on a big screen to get emotional and hopefully we can transmit that.”\n\nTuchel’s frustration with England’s first-half performance was rooted in how they dropped too deep out of possession, seeking to protect the 1-0 lead that Kane’s early penalty had given them. It was a classic England move – or failing. Tuchel wants to see only aggressive, front-foot football.\n\n“We just dropped way too early into a deep block,” Tuchel said. “From a middle block … way too early into a deep block. Normally if we go to a middle block it’s not a problem. We have clear triggers to go out of it into a high press.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3708_15",
+            "category": "england",
+            "type": "News",
+            "title": "The World Cup viewed from afar is more like ambient noise – a far cry from working at it | Jonathan Liew",
+            "bullets": [
+              "Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxuriou...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxurious to half-watchI fell asleep at some point during the Netherlands v Japan game. It had been a hot and drowsy day by the shores of Lake Annecy, a square and heavy heat, where the sun and the driving and the food and the boxed wine gently squeeze all the life from your body, like air being pressed out of a juice carton.I remember Virgil van Dijk angling a header into the far corner, and when I came to it was 2-1, and everyone was heading to bed, drunk on tiredness, drunk on life, drunk on drink. Continue reading...",
+            "fullText": "Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxurious to half-watch\n\nIfell asleep at some point during theNetherlands v Japangame. It had been a hot and drowsy day by the shores of Lake Annecy, a square and heavy heat, where the sun and the driving and the food and the boxed wine gently squeeze all the life from your body, like air being pressed out of a juice carton.\n\nI remember Virgil van Dijk angling a header into the far corner, and when I came to it was 2-1, and everyone was heading to bed, drunk on tiredness, drunk on life, drunk on drink.\n\nNot all of my friends care for football in any case, and so theWorld Cuphad become a kind of mood music, something to fill the silences in conversation. Through the long and meandering chat about home renovations and Andy Burnham, an indistinct French voice occasionally cut through from a different universe.Maeda. Gravenberch. The Low Countries tempted to attain the final for the first time since 2010.My French isn’t great. Someone prised open a bottle of Heineken. Bodies draped themselves over the couch, fingers scrolled through phones, the immaculate decadence of boredom.\n\nI did manage to stay awake forBelgium v Egypt, albeit remembering very little beyond Romelu Lukaku forcing an own goal and the sight of Mohamed Salah sauntering regally around the place, like a PE teacher desperately willing himself not to get involved. But I do remember getting a couple of beers out of the fridge at the second hydration break and challenging Ed to a game of chess, which I lost.Lukaku, of Naples. The Belgians will take confidence from this and pursue the victory. An overwhelming knight‑and-queen attack down my a-file. Ssssake, Ed’s forgotten to tap his clock again. Not telling him next time.\n\nYou will read a lot about the World Cup from people who are actually there. This is probably for the best. It is, on balance, preferable to attend something in order to understand it, be it a major football tournament or a sentencing hearing. But I wanted to convey the sensation of the World Cup as most people around the world experience it: as an ambient noise, voices ghosting in from the next dimension, flickering shapes on a distant screen, an odour and a flavour on the breeze, vivid dreams of Steph Houghton talking about “the front-footedness of the press”. The sensation of waking up and feeling like you watched the entirety ofIran v New Zealand, even though you didn’t. The fragile way in which World Cups measure out our lives, some fragrant cocktail of collective and personal memory all swirling into one.\n\nEveryone will have a story like this. I watchedthe 2006 final– Italy v France – at a seafood restaurant in Hvar, in the Croatian islands. It was one of those giant televisions on a stand, the kind they used to wheel into science lessons at school to show you videos about gametes. I missed Zinedine Zidane’s butt because the waiter was standing in front of the screen. And although I have watched the game in full many times since, if you ask me to pick out the overriding memory of that evening I am still more likely to recall the tenderness of the monkfish than anything that happened on the pitch.\n\nThen I started covering World Cups for work, an entirely different and more immersive experience. Very quickly you fuse into the tournament, to the point where you are basically an extension of it, a slave to its rhythms and moods. From the moment you wake to the moment you go to bed (far too late), your entire nervous system is built around the game schedule, the reliable drumbeat of regimented kick-off times, ideas and angles, content and deadlines. You spend the rest of the time thinking about transport or food. When I get home my smartwatch will typically show that my resting heart rate has been about 10-20 beats above normal for an entire month. People visibly age during these things. It’s like going to war.\n\nDuring the many breaks in play at this year’s tournament, the camera will inevitably pan across the crowd, and here the difference between World Cup football and regular football is perhaps at its most distinct. Everyone is dancing and putting their thumbs up. Nobody is having a bad time. Nobody is protesting or chanting about sacking the board or even hurling abuse at the referee except in the most performative way. Under most circumstances, to attend a football game – and what elevates this art form above, say, a gig or a blockbuster movie – is to submit willingly to the possibility of misery: your team can lose, the game can be terrible, your weekend can be ruined. But when you have paid £800 for a ticket, and probably many multiples of that on hotels and flights, is it remotely conceivable that you could allow yourself not to be entertained? How would you even admit it to yourself?\n\nBy contrast, television grants us the freedom to detach. The freedom to allow football to swim in and out of our consciousness, to fill the gaps in life, rather than life the gaps in football. The freedom to be bored, pleasantly bored, decadently bored. To go for a smoke, to get a round in, to go to bed. In Talloires, a little resort in the Haute-Savoie, the bars and restaurants advertise “Coupe de Monde” on wooden chalkboards, the greatest sporting event in the world as an accompaniment to dinner, in between cheese and dessert. The G7 summit is taking place just up the road in Évian and as the sun sets helicopters fly low over the lake, a reminder of football’s basic transigence, its mutability, the extent to which – for all its airs and graces – the world continues to spin around it.\n\nHow luxurious it is to drink boxed wine and half‑watch football as the world burns and blisters. To rail at refreshment breaks and the decision not to award a penalty to Kylian Mbappé, to see these 104 games spread out across the Americas like a lustrous map and not feel the need to watch all of them, or indeed any of them. To see this World Cup for what it truly is: utterly gripping at times, diverting at others, disposable for the most part. A kind of beautiful human-made slop, the flower arrangement at the gates of hell.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3708_16",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel: Saka unlikely to start against Ghana",
+            "bullets": [
+              "Thomas Tuchel says Bukayo Saka will be nursed through the next week of training but is unlikely to s...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says Bukayo Saka will be nursed through the next week of training but is unlikely to start for England until the final World Cup group game against Panama.",
+            "fullText": "Thomas Tuchel hinted Bukayo Saka may not start for England until the Panama game as he continues to manage the winger's Achilles problem; the head coach also wants his side to excite fans",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-18 @ 08:41:52 EDT",
+  "lastUpdated": "2026-06-18 @ 15:37:20 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
