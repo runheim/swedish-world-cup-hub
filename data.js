@@ -4,12 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ 'If we lose, we lose in our way' - what Tuchel said at half-time",
+      "text": "⚽ 'Chip on shoulder' may help Bellingham to best form",
+      "link": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ 'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
       "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ I knew stuttered run-up might get keeper off line - Kane",
       "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Hart impressed by Kane's attention to detail with penalties",
+      "link": "https://www.bbc.com/sport/football/videos/cq617311y7go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Substitute Rashford guides home England's fourth against Croatia",
@@ -32,36 +40,32 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England surge to thrilling opening win in World Cup cracker with Croatia",
-      "link": "https://www.theguardian.com/football/2026/jun/17/england-croatia-world-cup-2026-group-l-match-report"
+      "text": "⚽ What are the patches on some shirts at the World Cup?",
+      "link": "https://www.bbc.com/sport/football/articles/cr5jdy59m69o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ World Cup 2026: Bellingham playing with ‘chip on shoulder’, Côte d’Ivoire’s Wahi barred over alleged fixing – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/18/world-cup-2026-england-croatia-fans-czechia-south-africa-switzerland-bosnia-and-herzegovina-canada-qatar-mexico-south-korea-live"
+    },
+    {
+      "text": "⚽ Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
+      "link": "https://www.theguardian.com/football/2026/jun/18/harry-kane-england-croatia-inspired-thomas-tuchel-speech"
+    },
+    {
+      "text": "⚽ The World Cup viewed from afar is more like ambient noise – a far cry from working at it | Jonathan Liew",
+      "link": "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise"
+    },
+    {
+      "text": "⚽ Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory",
+      "link": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report"
+    },
+    {
+      "text": "⚽ From frustration to party time: Mexico ready for lift-off after steady start",
+      "link": "https://www.theguardian.com/football/2026/jun/18/ceremony-to-celebration-mexico-south-korea-world-cup"
     },
     {
       "text": "⚽ Bellingham, England’s man for elite moments, kicks over the console table | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/jun/17/jude-bellingham-man-for-elite-moments-england-croatia-world-cup-opener"
-    },
-    {
-      "text": "⚽ England’s second-half forward surge against Croatia fails to mask defensive frailties | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jun/18/england-second-half-forward-surge-fails-mask-defensive-frailties-world-cup-croatia"
-    },
-    {
-      "text": "⚽ England 4-2 Croatia: World Cup 2026 Group L player ratings",
-      "link": "https://www.theguardian.com/football/2026/jun/17/england-4-2-croatia-world-cup-2026-group-l-player-ratings"
-    },
-    {
-      "text": "⚽ Messi dazzles to equal World Cup scoring record as Argentina breeze past Algeria",
-      "link": "https://www.theguardian.com/football/2026/jun/16/argentina-algeria-world-cup-group-j-match-report"
-    },
-    {
-      "text": "⚽ England vs Croatia ratings: Kane & Madueke shine but issues at the back",
-      "link": "https://www.skysports.com/football/news/12040/13555073/england-4-2-croatia-ratings-harry-kane-and-noni-madueke-shine-but-will-thomas-tuchel-make-changes-in-defence"
-    },
-    {
-      "text": "⚽ What did Tuchel say at half-time? How England overwhelmed Croatia",
-      "link": "https://www.skysports.com/football/news/12040/13555102/england-4-2-croatia-thomas-tuchels-team-talk-reveals-the-template-for-world-cup-glory-must-be-the-full-gas-approach"
-    },
-    {
-      "text": "⚽ Hussain: Time for ECB to back Stokes",
-      "link": "https://www.skysports.com/cricket/news/12040/13554999/ben-stokes-ecb-could-have-backed-england-captain-more-in-fallout-from-curfew-break-following-lords-test-says-nasser-hussain"
     }
   ],
   "timeline": {
@@ -6247,10 +6251,290 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-18": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0245_0",
+            "category": "england",
+            "type": "News",
+            "title": "'Chip on shoulder' may help Bellingham to best form",
+            "bullets": [
+              "Jude Bellingham says the external \"noise\" around his place in the England team may help him find his...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham says the external \"noise\" around his place in the England team may help him find his best form during the World Cup.",
+            "fullText": "Bellingham 'put noise aside' in England win over Croatia\n\nJude Bellingham has said the external \"noise\" around his place in the England team may help him find his best form during the World Cup.\n\nOne of the main talking points around selection before England's first group game against Croatia was whether boss Thomas Tuchel would select Real Madrid's Bellingham or Aston Villa's Morgan Rogers in the number 10 role behind captain Harry Kane.\n\nBellingham was chosen to start in Dallas and scored England's crucial third goal just after half-time, with Marcus Rashford adding a fourth late on to complete a 4-2 win.\n\n\"For me personally, it was nice to put some of the noise aside and just show my country and my team-mates how committed I am to help us try to win football matches,\" the 22-year-old, who is appearing in a fourth consecutive major tournament for England, told BBC Sport.\n\n\"To contribute, to help my team and help my country is one of the biggest honours and regardless of the noise outside, that honour doesn't change for me at all.\"\n\nBellingham conceded that it has been a \"bit of a tougher season for me\", with the start of his 2025-26 campaign disrupted by injury, his club side in Spain ending up eight points behind eventual champions Barcelona and his place in the national team under scrutiny.\n\nBut Bellingham said he feels \"fresh and sharp\" heading into the tournament and it was \"nice to hear\" comments from colleagues such as Jordan Henderson, who said the former Birmingham City and Borussia Dortmund player gives England an \"X-factor\".\n\nAsked if he has entered the World Cup with added impetus, Bellingham smiled as he replied: \"A little bit - I think I've got a little bit of a chip on my shoulder, haven't I?\"\n\nKane and Bellingham star as England outshine Croatia in thriller\n\n'If we lose, we lose in our way' - what Tuchel said at half-time\n\nWho was the biggest attacking threat? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0245_1",
+            "category": "england",
+            "type": "News",
+            "title": "'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
+            "bullets": [
+              "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as thei...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.",
+            "fullText": "England players were on the receiving end of a half-time reproach from manager Thomas Tuchel as their World Cup campaign got off to a victorious start against Croatia.\n\nHarry Kane's double and a goal apiece from Jude Bellingham and Marcus Rashford ensured England secured a 4-2 win in Dallas.\n\nBut having taken the lead twice in the first half, the score was 2-2 at half-time and captain Kane said Tuchel delivered an important half-time message to the team.\n\n\"I thought it was a game of two halves. In the first half, we were OK,\" Kane told ITV.\n\n\"[We were] really disappointed to concede in the way we did. I thought we dropped off.\n\n\"Credit to the manager, he gave us a speech at half-time and said if we lose, we lose in our way, and I think we saw that in the way we came out in the second half.\n\n\"We went full gas and they couldn't live with it. Credit to everyone for the first game of the tournament.\"\n\nEngland at 'best level' in second half against Croatia - Kane\n\nEngland score four against Croatia in World Cup opener\n\nWho was the biggest attacking threat? England player ratings\n\nFootball Daily podcast: Kane and Bellingham put on a show\n\nIn a separate interview with BBC Sport, the Bayern Munich striker added: \"The boss said at half-time to up the tempo, go man for man and completely take the game to them, and that is exactly what happened.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0245_2",
+            "category": "england",
+            "type": "News",
+            "title": "I knew stuttered run-up might get keeper off line - Kane",
+            "bullets": [
+              "Harry Kane was able to give England the lead against Croatia from the penalty spot - but only thanks...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane was able to give England the lead against Croatia from the penalty spot - but only thanks to the video assistant referee.",
+            "fullText": "Kane puts England ahead against Croatia with retaken penalty\n\nHarry Kane says he knew his stuttered run-up might draw goalkeeper Dominik Livakovic off his goalline - enabling him to score a penalty at the second attempt inEngland's 4-2 win over Croatiain their World Cup opener.\n\nThe Bayern Munich striker was able to give England the lead from the penalty spot - but only thanks to the video assistant referee (VAR).\n\nAfter Luka Modric fouled Noni Madueke, Kane stepped up - and saw his first effort saved by Croatia keeper Livakovic.\n\nThe VAR stepped in to give Kane a second chance because Livakovic was off his line.\n\n\"When I watched the clips I saw he likes to move early, so I knew that there was a chance that if I did the stutter that he would come off the line,\" Kane told BBC Sport.\n\n\"I was 80% sure that it was off the line, I wasn't 100% sure, then obviously when it got retaken I changed the technique a little bit. This is all why I do the research, and in the end it worked out nicely for me.\"\n\nAt the time a penalty is taken the keeper must have one foot on or above the line, and images showed that Livakovic had moved fractionally too soon.\n\nBut even if the keeper had stayed on his line, the penalty would still have been retaken.\n\nAfter Livakovic made the save the loose ball dropped to Manchester City's Josko Gvardiol to clear for Croatia.\n\nBut he had also moved too quickly and was inside the area when Kane took his first attempt.\n\nThis is not an automatic retake, as the defender must impact an opposition attacker.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0246_3",
+            "category": "england",
+            "type": "News",
+            "title": "Hart impressed by Kane's attention to detail with penalties",
+            "bullets": [
+              "BBC World Cup pundits Joe Hart and Wayne Rooney analyse Harry Kane's change in techniques and the am...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC World Cup pundits Joe Hart and Wayne Rooney analyse Harry Kane's change in techniques and the amount of work he puts in when it comes to taking penalties.",
+            "fullText": "BBC World Cup pundits Joe Hart and Wayne Rooney analyse Harry Kane's change in techniques and the amount of work he puts in when it comes to taking penalties.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0246_4",
+            "category": "england",
+            "type": "News",
+            "title": "Substitute Rashford guides home England's fourth against Croatia",
+            "bullets": [
+              "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+            "fullText": "Substitute Marcus Rashford scores for England to seal a 4-2 win over Croatia in their opening Group L match at the 2026 Fifa World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_5",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham scores early in second half to put England 3-2 up",
+            "bullets": [
+              "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
+            "fullText": "Jude Bellingham gives England a flying start to the second half against Croatia, scoring in the 47th minute to put Thomas Tuchel's side 3-2 ahead at the Fifa World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_6",
+            "category": "england",
+            "type": "News",
+            "title": "Kane heads England into 2-1 lead against Croatia",
+            "bullets": [
+              "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corne...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
+            "fullText": "Harry Kane scores his second goal of the game against Croatia, heading home from a Declan Rice corner to give England a 2-1 lead.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_7",
+            "category": "england",
+            "type": "News",
+            "title": "Kane puts England ahead against Croatia with retaken penalty",
+            "bullets": [
+              "Harry Kane puts England 1-0 up against Croatia with a retaken penalty, after his initial attempt was...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane puts England 1-0 up against Croatia with a retaken penalty, after his initial attempt was saved by Dominik Livakovic, who was deemed to be off his line.",
+            "fullText": "Harry Kane puts England 1-0 up against Croatia with a retaken penalty, after his initial attempt was saved by Dominik Livakovic, who was deemed to be off his line.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_8",
+            "category": "england",
+            "type": "News",
+            "title": "Baturina fires Croatia level against England",
+            "bullets": [
+              "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their group L game at the Dallas Stadium in the Fifa World Cup.",
+            "fullText": "Croatia's Martin Baturina scores from outside the box to make it 1-1 against England in their Group L game at the Dallas Stadium in the Fifa World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0248_9",
+            "category": "england",
+            "type": "News",
+            "title": "What are the patches on some shirts at the World Cup?",
+            "bullets": [
+              "England captain Harry Kane was seen wearing a special patch on his England shirt - why are they ther...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane was seen wearing a special patch on his England shirt - why are they there and who else gets to wear them?",
+            "fullText": "Harry Kane has a patch on the sleeve of his England shirt that none of his team-mates has\n\nWhen England began their World Cup campaign against Croatia on Wednesday, viewers may have spotted something a little different about Harry Kane's shirt.\n\nThat's because on the sleeve below the tournament badge was a golden patch, something none of his other Three Lions' team-mates were wearing.\n\nWell, the patch is only allowed to be worn by players who have won the Golden Boot at a World Cup.\n\nKane took that award in 2018 in Russia, where he scored six goals to help England reach the semi-finals.\n\nEagle-eyed viewers on Tuesday will also have seen France striker Kylian Mbappe also wearing a golden patch during their win against Senegal, after he won the Golden Boot four years ago by scoring eight goals at the finals in Qatar.\n\nOnly one other player at this summer's World Cup can wear a golden patch on their sleeve - James Rodriguez of Colombia, in recognition of his six goals at Brazil 2014.\n\nPlayers making their World Cup debut have the above patch on their sleeve at this tournament\n\nYes, there are a few - marking a number of different achievements.\n\nA gold World Cup badge will be worn by the seven teams at these finals - including England - who have won the tournament before.\n\nPlayers making their debut at this World Cup will have a patch to show that - a tournament logo accompanied by the words 'Debut Fifa World Cup'.\n\nAt the other end of the scale, players who are World Cup veterans are also being recognised.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0248_10",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Bellingham playing with ‘chip on shoulder’, Côte d’Ivoire’s Wahi barred over alleged fixing – live",
+            "bullets": [
+              "⚽ All the latest news from day eight of the tournament⚽ Player guide | Bracketology | Golden Boot | ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest news from day eight of the tournament⚽ Player guide | Bracketology | Golden Boot | Mail usA fresh England line hot off the wires coming right up …If by some bizarre chance you missed it, here’s a gallery of some of the best images from England 4-2 Croatia: Continue reading...",
+            "fullText": "Fifa hasplayed down reportsthat ticketless England supporters were able to gain entry for the World Cup opener against Croatiaafter evading security checks at the Dallas Stadium.\n\nEngland head coach Thomas Tuchel hascomplainedhe could not see his players singing the national anthem because of a scrum of photographers blocking his view– and has urged Fifa to intervene.\n\nMexican military forcesintercepted and brought down a dronethat flew near the South Korea team’s training campahead of its World Cup match against Mexico, a federal official told the Associated Press.\n\nThe Côte d’Ivoire striker Elye Wahihas not been authorised to travel to Canadafor his team’s next World Cup match against Germany.He is currently being investigated for alleged match-fixing.\n\nEngland’s womenwill need to overcome Greece and either Slovakia or Ukraineto qualify for the 2027 World Cup.Wales have drawn Albania, Scotland face Czechia, and Northern Ireland have Portugal in the first round of the play-offs.\n\nOsasuna winger Víctor Muñozwill become the first signingof Andoni Iraola’s reign at Liverpoolafter the club triggered a £34.5m release clause, beating Newcastle to his signature.\n\nReal Madrid have signed Ibrahima Konaté.The France defender leaves Liverpool when his contract expires on 30 June and has agreed a four-year deal at the Bernabéu.\n\nTodays matches at theWorld Cupare in Group A and Group B, featuringCzechia v South Africa(Noon ET, 5pm BST),Switzerland v Bosnia and Herzegovina(3pm ET, 8pm BST),Canada v Qatar(6pm ET, 11pm BST) andMexico v South Korea(9pm ET, 2am Friday BST).",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0248_11",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane reveals half-time Tuchel pep-talk inspired England to victory over Croatia",
+            "bullets": [
+              "Storming second-half display comes after coach’s speechCoach tells team to ‘show the world what we c...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Storming second-half display comes after coach’s speechCoach tells team to ‘show the world what we can be’Harry Kane has revealed that a half-time speech from Thomas Tuchel when he told England “to show the world what we can be” inspired victory in their opening match of the 2026 World Cup.Croatia equalised twice before half-time after Kane had equalled Gary Lineker’s record for goals scored by an England player at the World Cup finals with a penalty and a header from Declan Rice’s corner. But a much-improved performance in the second half saw Jude Bellingham re-establish England’s lead before Marcus Rashford came off the bench to wrap up the victory late on. Continue reading...",
+            "fullText": "Storming second-half display comes after coach’s speech\n\nCoach tells team to ‘show the world what we can be’\n\nHarry Kane has revealed that a half-time speech from Thomas Tuchel when he told England “to show the world what we can be” inspiredvictory in their opening match of the 2026 World Cup.\n\nCroatia equalised twice before half-time after Kane had equalled Gary Lineker’s record for goalsscored by an England player at the World Cupfinals with a penalty and a header from Declan Rice’s corner. But a much-improved performance in the second half saw Jude Bellingham re-establish England’s lead before Marcus Rashford came off the bench to wrap up the victory late on.\n\n“He told us to take the shackles off, calm down and let’s go. He said what’s the worst that can happen? Show the world who we can be,” said Kane of Tuchel’s rousing speech.\n\n“We came out in the second half full gas and they couldn’t live with it, and that’s the level we have to set in every game. The way we controlled the game once we went ahead, we never really looked like we were in danger and then scored on the counterattack. We had a spell where we could have scored three or four. Credit to everyone: the first game of the tournament and a great result against a tough side.”\n\nBellingham added: “It wasn’t one of those where it was a big drama or standing up and shouting; it was what the team needed. We have a mature group with great leaders in there; everyone knew the level we had to get to. The start of the second half gave us a great platform.”\n\nThere were concerns when Rice was taken off as a precaution in the second half and Tuchel said the Arsenal midfielder had felt discomfort in his lower back and upper hamstring.\n\n“He feels discomfort. And I didn’t want to take any risks. So if I take Declan off, which I never wanted to do,” said Tuchel. “But it was the moment to protect him. I hope it’s nothing more. Declan just reassured me at the end. ‘It’s good, it’s good.’ I know the discomfort and we will take care of it.”\n\nTheEnglandmanager also acknowledged that his players had shown signs of nerves despite going twice ahead but hopes that they will learn from the experience.\n\n“Sometimes if you want to get it so perfectly right, you sometimes want it too much and you overthink it,” he said. “In the end, in doubt, we took the decision to go backwards, on and off the ball. We played way too many [passes] backwards, we played way too many back to our goalkeeper. It took us a while to find our confidence. That’s why I said maybe it’s also normal. I had the hope that the goals would help us. It was not the case.”\n\nReflecting on his half-time speech, Tuchel added: “I told them to calm down. We just conceded the goal. To calm down, calm their nerves. And encourage them to do it our way. I told them that my perception of them in the last 17 days will not change no matter what the result is. I want them to do it their way. Our way. I want them to be brave, courageous and tenacious on the front foot. And just go for it.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0248_12",
+            "category": "england",
+            "type": "News",
+            "title": "The World Cup viewed from afar is more like ambient noise – a far cry from working at it | Jonathan Liew",
+            "bullets": [
+              "Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxuriou...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxurious to half-watchI fell asleep at some point during the Netherlands v Japan game. It had been a hot and drowsy day by the shores of Lake Annecy, a square and heavy heat, where the sun and the driving and the food and the boxed wine gently squeeze all the life from your body, like air being pressed out of a juice carton.I remember Virgil van Dijk angling a header into the far corner, and when I came to it was 2-1, and everyone was heading to bed, drunk on tiredness, drunk on life, drunk on drink. Continue reading...",
+            "fullText": "Covering a tournament, my smartwatch showed my heart rate was 10-20 beats above normal. How luxurious to half-watch\n\nIfell asleep at some point during theNetherlands v Japangame. It had been a hot and drowsy day by the shores of Lake Annecy, a square and heavy heat, where the sun and the driving and the food and the boxed wine gently squeeze all the life from your body, like air being pressed out of a juice carton.\n\nI remember Virgil van Dijk angling a header into the far corner, and when I came to it was 2-1, and everyone was heading to bed, drunk on tiredness, drunk on life, drunk on drink.\n\nNot all of my friends care for football in any case, and so theWorld Cuphad become a kind of mood music, something to fill the silences in conversation. Through the long and meandering chat about home renovations and Andy Burnham, an indistinct French voice occasionally cut through from a different universe.Maeda. Gravenberch. The Low Countries tempted to attain the final for the first time since 2010.My French isn’t great. Someone prised open a bottle of Heineken. Bodies draped themselves over the couch, fingers scrolled through phones, the immaculate decadence of boredom.\n\nI did manage to stay awake forBelgium v Egypt, albeit remembering very little beyond Romelu Lukaku forcing an own goal and the sight of Mohamed Salah sauntering regally around the place, like a PE teacher desperately willing himself not to get involved. But I do remember getting a couple of beers out of the fridge at the second hydration break and challenging Ed to a game of chess, which I lost.Lukaku, of Naples. The Belgians will take confidence from this and pursue the victory. An overwhelming knight‑and-queen attack down my a-file. Ssssake, Ed’s forgotten to tap his clock again. Not telling him next time.\n\nYou will read a lot about the World Cup from people who are actually there. This is probably for the best. It is, on balance, preferable to attend something in order to understand it, be it a major football tournament or a sentencing hearing. But I wanted to convey the sensation of the World Cup as most people around the world experience it: as an ambient noise, voices ghosting in from the next dimension, flickering shapes on a distant screen, an odour and a flavour on the breeze, vivid dreams of Steph Houghton talking about “the front-footedness of the press”. The sensation of waking up and feeling like you watched the entirety ofIran v New Zealand, even though you didn’t. The fragile way in which World Cups measure out our lives, some fragrant cocktail of collective and personal memory all swirling into one.\n\nEveryone will have a story like this. I watchedthe 2006 final– Italy v France – at a seafood restaurant in Hvar, in the Croatian islands. It was one of those giant televisions on a stand, the kind they used to wheel into science lessons at school to show you videos about gametes. I missed Zinedine Zidane’s butt because the waiter was standing in front of the screen. And although I have watched the game in full many times since, if you ask me to pick out the overriding memory of that evening I am still more likely to recall the tenderness of the monkfish than anything that happened on the pitch.\n\nThen I started covering World Cups for work, an entirely different and more immersive experience. Very quickly you fuse into the tournament, to the point where you are basically an extension of it, a slave to its rhythms and moods. From the moment you wake to the moment you go to bed (far too late), your entire nervous system is built around the game schedule, the reliable drumbeat of regimented kick-off times, ideas and angles, content and deadlines. You spend the rest of the time thinking about transport or food. When I get home my smartwatch will typically show that my resting heart rate has been about 10-20 beats above normal for an entire month. People visibly age during these things. It’s like going to war.\n\nDuring the many breaks in play at this year’s tournament, the camera will inevitably pan across the crowd, and here the difference between World Cup football and regular football is perhaps at its most distinct. Everyone is dancing and putting their thumbs up. Nobody is having a bad time. Nobody is protesting or chanting about sacking the board or even hurling abuse at the referee except in the most performative way. Under most circumstances, to attend a football game – and what elevates this art form above, say, a gig or a blockbuster movie – is to submit willingly to the possibility of misery: your team can lose, the game can be terrible, your weekend can be ruined. But when you have paid £800 for a ticket, and probably many multiples of that on hotels and flights, is it remotely conceivable that you could allow yourself not to be entertained? How would you even admit it to yourself?\n\nBy contrast, television grants us the freedom to detach. The freedom to allow football to swim in and out of our consciousness, to fill the gaps in life, rather than life the gaps in football. The freedom to be bored, pleasantly bored, decadently bored. To go for a smoke, to get a round in, to go to bed. In Talloires, a little resort in the Haute-Savoie, the bars and restaurants advertise “Coupe de Monde” on wooden chalkboards, the greatest sporting event in the world as an accompaniment to dinner, in between cheese and dessert. The G7 summit is taking place just up the road in Évian and as the sun sets helicopters fly low over the lake, a reminder of football’s basic transigence, its mutability, the extent to which – for all its airs and graces – the world continues to spin around it.\n\nHow luxurious it is to drink boxed wine and half‑watch football as the world burns and blisters. To rail at refreshment breaks and the decision not to award a penalty to Kylian Mbappé, to see these 104 games spread out across the Americas like a lustrous map and not feel the need to watch all of them, or indeed any of them. To see this World Cup for what it truly is: utterly gripping at times, diverting at others, disposable for the most part. A kind of beautiful human-made slop, the flower arrangement at the gates of hell.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0249_13",
+            "category": "england",
+            "type": "News",
+            "title": "Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory",
+            "bullets": [
+              "Some very good things have come from Croydon, the often overlooked town in south London. The film di...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Some very good things have come from Croydon, the often overlooked town in south London. The film director David Lean was born there, as was Roy Hodgson, the actor Peggy Ashcroft and the sexologist Havelock Ellis. Amy Winehouse studied in Croydon. The Bill and Peep Show were filmed there, as was the title sequence of the 1980s sitcom Terry and June. For a long time it was a centre of brewing and leather production. It was on a suburban driveway there that Pickles found the Jules Rimet trophy after it had been stolen in 1966. And on Wednesday Croydon proved the crucible of Colombia’s victory over Uzbekistan.Daniel Muñoz’s brilliant strike, created by Luis Díaz, set Colombia on heir way to a win that should never have been as edgy as it ended up being. But his Crystal Palace teammate Jefferson Lerma was a key figure in the centre of midfield, a controlling figure in Colombia’s domination of the majority of the game. “I’m living out my childhood dream of playing in a World Cup for my national team and for my country,” said a delighted Díaz after being named man of the match. “And what could be more beautiful than contributing with a goal and an assist?” Continue reading...",
+            "fullText": "Some very good things have come from Croydon, the often overlooked town in south London. The film director David Lean was born there, as was Roy Hodgson, the actor Peggy Ashcroft and the sexologist Havelock Ellis. Amy Winehouse studied in Croydon. The Bill and Peep Show were filmed there, as was the title sequence of the 1980s sitcom Terry and June. For a long time it was a centre of brewing and leather production. It was on a suburban driveway there that Pickles found the Jules Rimet trophy after it had been stolen in 1966. And on Wednesday Croydon proved the crucible of Colombia’s victory overUzbekistan.\n\nDaniel Muñoz’s brilliant strike, created by Luis Díaz, set Colombia on heir way to a win that should never have been as edgy as it ended up being. But his Crystal Palace teammate Jefferson Lerma was a key figure in the centre of midfield, a controlling figure in Colombia’s domination of the majority of the game. “I’m living out my childhood dream of playing in aWorld Cupfor my national team and for my country,” said a delighted Díaz after being named man of the match. “And what could be more beautiful than contributing with a goal and an assist?”\n\nIt was, in truth, a game desperately in need of something special. In Lean’s greatest film, Lawrence of Arabia undertook an arduous trek across the Nefud Desert to lead an attack on Aqaba, but even he may have baulked at the journey those travelling to the Azteca had to undertake from central Mexico City. Heavy rain led to huge puddles and numerous crashes. The verges alongside the Anillo Periférico were dotted with battered vehicles. For the final two or three miles the roads were lined with a ragged procession of fans who had abandoned their buses and taxis to walk. A trip that should have lasted just over an hour took more than four. Magnificent the Azteca may be, but it is not a modern football ground. Chaos swirls around it; nothing there really works.\n\nFor 40 minutes, other than some lusty singing from the stands, there wasn’t much to justify the effort. Reflecting that this was the first game in World Cup finals history to feature a double-landlocked country could only sustain the interest so far, even given the curiosity that they were facing a double-coasted country.\n\nBut then came the goal. Uzbekistan’s defensive line seemed deep enough that there was no danger behind it but Díaz measured a precise pass into the space where Muñoz swooped onto it from the right. It was an extremely difficult finish but the full-back, somehow, leaping with right leg fully extended, jabbed a toe at the ball and volleyed itpast Utkir Yusupov.\n\n“We knew the first game wasn’t going to be easy,” said theColombiamanager Néstor Lorenzo. “We could have scored and built a bigger lead, but our opponents played well; they’re a very compact team and it was difficult for us to get through. We need to finish off our moves. We had a lot of possession but didn’t create crosses or shots on goal; we need to improve that.”\n\nThis was at least as much of a home match for Colombia as the opening game had been for Mexico. The stadium was a bowl of yellow – although the team themselves wore a greenish turquoise – broken only by a white splodge behind one goal of perhaps 100 white-wigged Uzbekistan fans, whose enthusiastic drummer ensured that they could be heard above the Colombian din.\n\nThe game soon settled into a pattern of attack against defence. Uzbekistan had kept seven clean sheets in 10 games in the third round of AFC qualifying, and it was easy to see how, their notional 3-4-2-1 often resembling a 5-4-1 with two banks sitting deep and the centre-forward Eldor Shomurodov doing a lot of chasing.\n\n“We need to improve,” said Uzbekistan manager Fabio Cannavro. “Beating Colombia and Portugal will be difficult. But today we stayed in the game until the end and the team knew when to weather the pressure and when to counter them through possession.”\n\nAlthough Colombia aren’t short of creative talent, this is not the side of 2014. Early on, there was a lot of sideways passing, but they improved after the hydration break to hit the post through Díaz.\n\nThe second half was rather livelier, as Uzbekistan found an equaliser just after the hour. The young Istanbul Başakşehir forward Abbosbek Fayzullaev nodded in from close range after Shomurodov’s volley had been deflected onto the post by the thighs of the Colombia goalkeeper Camilo Vargas. A mood of anxiety settled over the stadium, but it lasted only five minutes before Colombia retook the lead. Shomurodov was dispossessed, Colombia swept forward and Gustavo Puerta laid in Díaz to score with shot that squirmed through Yusupov’s hands. Colombia then dropped deep, though, inviting Uzbekistan onto them and they were under pressure when Jaminton Campaz made the game absolutely safe in injury-time, heading in after tenacious work by Juan Camilo Hernández.\n\nWithDR Congo holding Portugal to a draw, victory puts Colombia in charge of the group, although a proper assessment of how good they are will have to wait until they play a side prepared to do more than simply absorb pressure.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0249_14",
+            "category": "england",
+            "type": "News",
+            "title": "From frustration to party time: Mexico ready for lift-off after steady start",
+            "bullets": [
+              "The opening night against South Africa was met with mixed feelings but Thursday night’s South Korea ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The opening night against South Africa was met with mixed feelings but Thursday night’s South Korea clash promises to spark feelgood factorThe mood in Mexico City last Thursday night, after a 2-0 win over South Africa in the opening game of the World Cup, was gleeful. Fans crowded around the Angel of Independence, and Calle Río Sena was not merely rammed but carried the smell of urine and spilled beer that tends to characterise mass celebrations. The big roundabout at Insurgentes, where the night before a Beatles tribute act had entertained students, was packed with green shirts. And yet there was a sense that something was missing.This was in Roma Norte, a relatively wealthy area an hour or so north of the Azteca, and it was notable how many of the shirts seemed box-fresh. A significant proportion of those there were Mexicans who lived in the US. A persistent theme over the first few days of the tournament is how the fans who regularly go to Liga MX games have been priced out. A few minutes from the stadium, in a simple bar just off Avenida del Imán, where the tables were upturned barrels and a sweating teenager grilled burritos on a hot plate, the mood was slightly more ambivalent. Couples danced in the street outside, and there was a general sense of relief. After a group-stage exit in 2022, Mexico can at least now be relatively sure of making the last 32. And there was delight for Raúl Jiménez who, in his fourth World Cup, finally scored his first goal. But there were also two gripes. Continue reading...",
+            "fullText": "The opening night against South Africa was met with mixed feelings but Thursday night’s South Korea clash promises to spark feelgood factor\n\nThe mood in Mexico City last Thursday night, aftera 2-0 win over South Africa in the opening gameof the World Cup, was gleeful. Fans crowded around the Angel of Independence, and Calle Río Sena was not merely rammed but carried the smell of urine and spilled beer that tends to characterise mass celebrations. The big roundabout at Insurgentes, where the night before a Beatles tribute act had entertained students, was packed with green shirts. And yet there was a sense that something was missing.\n\nThis was in Roma Norte, a relatively wealthy area an hour or so north of the Azteca, and it was notable how many of the shirts seemed box-fresh. A significant proportion of those there were Mexicans who lived in the US. A persistent theme over the first few days of the tournament is how the fans who regularly go to Liga MX games have been priced out. A few minutes from the stadium, in a simple bar just off Avenida del Imán, where the tables were upturned barrels and a sweating teenager grilled burritos on a hot plate, the mood was slightly more ambivalent. Couples danced in the street outside, and there was a general sense of relief. After a group-stage exit in 2022, Mexico can at least now be relatively sure of making the last 32. And there was delight for Raúl Jiménez who, in his fourthWorld Cup, finally scored his first goal. But there were also two gripes.\n\nFirstly, and probably most significantly, that it felt an overly Mexican event. For a World Cup, there was not much evidence of the world. Yellow shirts in the stadium were notable for their paucity – which, given cost, perhaps is not surprising. One South African family, who lived in the US, described paying $1,000 each for their tickets. A number of Mexicans have spoken over the past few days of wishing they could have hosted Scotland or the Netherlands, or that Ireland had qualified. There is a desire for that mixing of fan groups that represents the World Cup at its best. Colombia have since begun to offer at least some of that inMexicoCity as their fans arrive for the game against Uzbekistan.\n\nThe big hope, though, is for Thursday night in Guadalajara, where Mexico face South Korea. Fans of the two countries have shared a warm relationship since the 2018 World Cup, when South Korea’s unexpected 2-0 victory over Germany in their final group game put Mexico into the last 16. Amid the celebrations in Mexico City, South Korea’s ambassador was carried shoulder-high along the street in front of the embassy as local fans chanted, “¡Coreano, hermano, ya eresmexicano!” – “Korean, brother, you are Mexican now!” The chant has been resurrected in Guadalajara, whereSouth Korea beat Czechia 2-1in their first group game. When a group of Korean fans visited the wrestling, the arena DJ played Gangnam Style to welcome them. Mexican social media has been flooded with videos of Guadalajarans and Koreans performing PSY’s horse dance together.\n\nThe other concern surrounds how Mexico played. Their early dominance against a weirdly passive South Africa perhaps created unjustified expectation, but in the 17 minutes between Sphephelo Sithole’s red card and the second goal there was booing from the stands. It was not universal, by any means, but it was discernible, stemming from a longer-term frustration at Javier Aguirre’s perceived negativity.\n\nOne change will be forced on Aguirre with the captain César Montes suspended after his late red card in the opener. Edson Álvarez, who spent last season on loan at Fenerbahce from West Ham, looks likely to replace him in the heart of the back four. But there could be two other changes, with Jorge Sánchez seemingly set to come in for Israel Reyes at right-back and the 17-year-old Gil Mora, who came off the bench against South Africa, perhaps replacing Brian Gutiérrez at the front of the midfield.\n\nA final training session in Mexico City on grass that, at Aguirre’s insistence, replicates the turf in Guadalajara was interrupted by a storm, meaning the squad was delayed in setting off for the flight to Guadalajara on Tuesday. About a dozen fans turned out to see them off. One of them, María Isabel Castro, clutched a homemade sign reading: “Effort and courage, always forward, may God always watch over and protect you.” She felt Mexico had been insufficiently “brave” against South Africa and was frustrated that Aguirre had insisted on closed training, accusing him of shutting out fans who cannot afford tickets.\n\nMuch of the buildup to the opening game centred on protests from a wide cross-section of society, from teachers to retired judges to the families of Mexico’s 134,000 disappeared, and the possible disruption that might cause, and there was also anxiety about how Mexico might perform. The buildup to their second game, though, has tended to focus on the party most seem to be expecting in Guadalajara. Working from home has been mandated, and schools closed in both Mexico City and Guadalajara. It feels as though for many in Mexico, last Thursday was a ceremonial occasion and this Thursday is when the World Cup really begins.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0249_15",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham, England’s man for elite moments, kicks over the console table | Barney Ronay",
+            "bullets": [
+              "Goal against Croatia in his side’s World Cup opener was an angry one with a rising sense of inevitab...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goal against Croatia in his side’s World Cup opener was an angry one with a rising sense of inevitabilityAnd breathe again. For the opening 45 minutes under the giant Victorian train station roof at the Dallas Stadium, England produced a performance that was a bit like watching one of those YouTube videos where an awkward and frightening Chinese robot has learned how to dance like Michael Jackson.Dogged and occasionally convincing, but the kind of spectacle that does generally end with the robot falling off the stage. England didn’t just play like machines in that first half. They played like faulty machines, scared machines, contributing almost zero free-form football to a 2-2 half-time score that included two Harry Kane set-piece goals; the first a set piece from a set piece, a penalty after a corner, set piece squared. Continue reading...",
+            "fullText": "Goal against Croatia in his side’s World Cup opener was an angry one with a rising sense of inevitability\n\nAnd breathe again. For the opening 45 minutes under the giant Victorian train station roof at the Dallas Stadium,Englandproduced a performance that was a bit like watching one of those YouTube videos where an awkward and frightening Chinese robot has learned how to dance like Michael Jackson.\n\nDogged and occasionally convincing, but the kind of spectacle that does generally end with the robot falling off the stage. England didn’t just play like machines in that first half. They played like faulty machines, scared machines, contributing almost zero free-form football to a 2-2 half-time score that included two Harry Kane set-piece goals; the first a set piece from a set piece, a penalty after a corner, set piece squared.\n\nWas this going to be the story here? Is this how we’re going to go down, in a kind of singularity, the death of hope, football as units of action, deathly set moves? Tuchel called it last September. Throw-ins are back. Corners are so hot right now. In that opening half England had those parts, but nothing much else in between.\n\nAt which point, the most important thing happened, not just in this game, but in Tuchel’s time with England. Credit must go to the manager forwhatever he did to these players at half-time. And also to Jude Bellingham, who scored what would turn out to be not just the decisive goal inthis 4-2 win, but also a moment of drive and energy that was completely at odds with everything to that point.\n\nThis wasn’t quite an individualist’s goal, a dribble, or a moment of craft. It was an expression of basic sprinting will. It was an angry goal, and in exactly the right way. Bellingham took the ball in the right channel, running on to a simple pass over the top, and just kept going, veering inside, all drive and focus, with a rising sense of inevitability. He had the speed to leave two defenders mooching in his vapour trail, and the skill to produce a fine, cold, guided finish into the far corner at a full sprint.\n\nIt wasn’t just that England were 3-2 up in that moment. Or that they looked like a team. More that they looked like they actually wanted to take part in a game of football, that this wasn’t just an activity to be undertaken out of fear and self‑loathing. For the next 10 minutes they swarmed all overCroatia, might have scored four, and gave a glimpse not so much of patterns of play, but of a willingness to actually do this, of the muscle, speed and ruthlessness that are undeniably there in this team.\n\nIt felt right that Bellingham should be the man to kick over the console table and bring something ragged and raw to the day. It is easy to criticise him at times, given the level of his fame and status, the slight sense of confusion as to what his attributes really are, whether he has the deeper gears, the super-strengths of an elite player, or just the mannerisms and the profile.\n\nSome have suggested Bellingham is just a player of elite moments, the only answer to which is, well, he’s 22, and elite moments will do just fine thanks. We’ll take those. Not least when, as here, they can change the entire shape of the day, the energy in the room, perhaps even the way England are going to play here. With any luck the team can now breathe around him for the rest of this tournament. Most significant, by the end, with Marcus Rashford adding another, this felt like something entirely new. It was fun, free, a little rough. England can do this. Who knew?\n\nThe Dallas Stadium is a genuinely epic arena, rising up out of the dead heat of Texas plain like a crash-landed alien spaceship. Inside, it’s like entering some futuristic microclimate, a place to store your secret island, your ark-full of uber humans for the coming rapture.\n\nBefore kick-off the spectacle was almost overwhelming from the sealed press box high up in the gods, the huge glazed canopy roof, the red and white, the 160ft screen picking out the terrifying planetary-scale heads of members of the crowd.\n\nThe upper tiers were decked in the well-worn travelling England flags, the roll call of names, Huddersfield, Gillingham, Grimsby, like an alternative shipping forecast.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 19:56:40 EDT",
+  "lastUpdated": "2026-06-18 @ 08:03:04 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
