@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ A mercurial talent to a workhorse: who should replace Christian Pulisic if he misses the Australia game?",
-      "link": "https://www.theguardian.com/football/2026/jun/17/christian-pulisic-fitness-usa-australia-world-cup"
+      "text": "⚽ Australia superpower v USA pentagon: how each team can win their World Cup clash",
+      "link": "https://www.theguardian.com/football/2026/jun/18/world-cup-2026-socceroos-australia-usa-which-team-will-win-how"
     }
   ],
   "timeline": {
@@ -2301,10 +2301,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-18": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0325_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Australia superpower v USA pentagon: how each team can win their World Cup clash",
+            "bullets": [
+              "The Socceroos and United States both made a fast start to their campaign – here is what the Group D...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Socceroos and United States both made a fast start to their campaign – here is what the Group D rivals must do to maintain momentum in SeattleBack Nestory Irankunda: the 20-year-old was expected to be an impact player at this World Cup, coming on as a substitute to affect matches against tiring opposition. A player of the match performance when starting against Turkey showed how Irankunda has become one of the Socceroos’ most important players. While still learning his wing-craft, his speed and determination without the ball are vital in a Socceroos outfit seemingly happy to give their opponents’ possession, and his ability to make the most of transition and direct opportunities – as seen for his opening goal against Turkey – can be a superpower. Continue reading...",
+            "fullText": "The Socceroos and United States both made a fast start to their campaign – here is what the Group D rivals must do to maintain momentum in Seattle\n\nBack Nestory Irankunda:the 20-year-old was expected to be an impact player at this World Cup, coming on as a substitute to affect matches against tiring opposition. Aplayer of the match performancewhen starting against Turkey showed how Irankunda has become one of the Socceroos’ most important players. While still learning his wing-craft, his speed and determination without the ball are vital in a Socceroos outfit seemingly happy to give their opponents’ possession, and his ability to make the most of transition and direct opportunities – as seen for his opening goal against Turkey – can be a superpower.\n\nBring in the reinforcements:Australia used five substitutions against Turkey, including threewhen it was still 1-0. In a squad with few standout players, Australia will be wise to spread around the physical load of the tournament with one eye on the knockout rounds. This week’s health concerns for midfielder Aiden O’Neill – only able to walk the day after the Turkey game – and Mo Touré, whose calf keeps Socceroos fans up at night, underscore the need for rotation. The striker in particular is avital player for the Socceroos, given his anticipation and pace make him theprimary outlet when the defence is under pressurewith the ball.\n\nPlay for the draw:one point will almost certainly securea place in the round of 32for the Socceroos ahead of the third pool match against Paraguay, widely seen as the weakest team in Group D and the least equipped to chase a result. Yet it would also leave Australia in the box seat to go through as group winners, as they would just need to eclipse the result recorded by the United States in their final match against a motivated Turkey. Securing top spot in the group means the Socceroosstay in the San Francisco Bay Areafor the round of 32 and play one of the third-placed finishers from the other groups. The Socceroos already have a setup to murder a football spectacle, now they also have the motive.\n\nMidfield rotations are key:this is the kind of thing that any USMNT fan would have known before last week’s fantastic opener, butthe nature of the US’s playin that game made it especially so. Paraguay head coach Gustavo Alfaro took time in his presser to specifically compliment the starting trio of Weston McKennie, Tyler Adams and Malik Tillman, whom he described as “floating” and a key part of a “pentagon” of play. For as well as Australia played against Turkey, they did not dictate the tempo, conceding more than 70% of possession and getting overrun in the centre of the park. If the US are going to do something with similar levels of possession, they’ll need their midfield to continue rotating effectively to help pull the Socceroos’ back two lines out of shape, manufacturing gaps in what had proven to be an airtight defence.\n\nDon’t get carried away: afterthe US’s emphatic opening statement, fans were over the moon, and journalists (including us) speculated that it may well have been the team’s best game at a men’s World Cup. That is, of course, those people’s jobs. But so far, US players and head coach Mauricio Pochettino haven’t been buying into it publicly. Immediately after the game, Pochettino stressed that the 4-1 win was just the beginning. All week in training, players have spoken about howthey see this Friday’s match as a tough test. Given the degree to which the Socceroos stunned Turkey, the US would do well to keep doing privately what they have done publicly: prepare for what could easily be a very different type of game from the one they enjoyed at Los Angeles Stadium last week.\n\nScore early (if you can):Australia’s calling card is their organised defence, their intensity and the knowledge that they would always be up for a physical battle. Funny thing is, those exact same traits could also have been said about Paraguay, a team who conceded just 10 goals over the 18-game Conmebol qualifying gauntlet and survived because they scored just enough (14 times) to get results when needed. Last week, that plan was dashed with a seventh-minute own goal from Damián Bobadilla. No longer could Paraguay hope to sit back and absorb pressure – they had to press higher, which opened gaps in the midfield. Getting on the scoreboard early will not only ignite what is sure to be a raucous environment in Seattle, it willforce Australia to come out of their defensive shellslightly more than they may be comfortable doing.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 19:56:54 EDT",
+  "lastUpdated": "2026-06-18 @ 08:03:35 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
