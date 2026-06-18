@@ -12,10 +12,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ I knew stuttered run-up might get keeper off line - Kane",
-      "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Hart impressed by Kane's attention to detail with penalties",
       "link": "https://www.bbc.com/sport/football/videos/cq617311y7go?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -40,6 +36,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/videos/cx2305j7j4po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ I knew stuttered run-up might get keeper off line - Kane",
+      "link": "https://www.bbc.com/sport/football/articles/ckg054x8d9qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ What are the patches on some shirts at the World Cup?",
       "link": "https://www.bbc.com/sport/football/articles/cr5jdy59m69o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -58,14 +58,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Colombia squeeze past dogged Uzbekistan to open World Cup campaign with victory",
       "link": "https://www.theguardian.com/football/2026/jun/18/uzbekistan-colombia-world-cup-2026-group-k-match-report"
-    },
-    {
-      "text": "⚽ From frustration to party time: Mexico ready for lift-off after steady start",
-      "link": "https://www.theguardian.com/football/2026/jun/18/ceremony-to-celebration-mexico-south-korea-world-cup"
-    },
-    {
-      "text": "⚽ Bellingham, England’s man for elite moments, kicks over the console table | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/jun/17/jude-bellingham-man-for-elite-moments-england-croatia-world-cup-opener"
     }
   ],
   "timeline": {
@@ -6534,7 +6526,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-18 @ 08:03:04 EDT",
+  "lastUpdated": "2026-06-18 @ 08:41:52 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
