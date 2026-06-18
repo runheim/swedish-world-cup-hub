@@ -10,14 +10,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ 17-year-old Erik suffered a cardiac arrest during a football match - teammate: \"Thought he was dead\"",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/17-arige-erik-fick-hjartstopp-under-fotbollsmatch-lagkamraten-trodde-han-var-dod"
-    },
-    {
-      "text": "⚽ Alan Barker talks about the racism against the soccer club in Östersund",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/alan-barker-berattar-om-rasismen-mot-fotbollsklubben-i-ostersund"
-    },
-    {
-      "text": "⚽ The WC matches are moved to Stockholm's stadium",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/vm-matcherna-flyttas-till-stockholms-stadion"
     }
   ],
   "timeline": {
@@ -4138,10 +4130,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-18": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5948_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Yasin Ayari on the uproar after the successful start at the WC",
+            "bullets": [
+              "Yasin Ayari struck with double hits in Sweden's successful start to the World Cup. The 22-year-old w...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Yasin Ayari struck with double hits in Sweden's successful start to the World Cup. The 22-year-old was not prepared for the impact that the championship has. - Now I understand how big it is. But I don't want to fly too much, he tells SVT Sport.",
+            "fullText": "Yasin Ayari struck with double hits in Sweden's successful start to the World Cup.\n\nThe 22-year-old was not prepared for the impact that the championship has.\n\n- Now I understand how big it is. But I don't want to fly too much, he tells SVT Sport.\n\nIn the clip, Ayari talks about the uproar after the success.\n\nCape Verde goalkeeper Vozinha, 40, has gained over 12 million new followers on Instagram after his success in the World Cup.\n\nAyari may not be there, but has gained 60,000 new followers since Monday morning's 5-1 win over Tunisia.\n\n- I try to be here in the moment and not think about everything around me. I want to keep being humble, keep getting better. There was a lot I could have done better in the match, but it was very fun to score two goals in the debut, he says.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5950_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "17-year-old Erik suffered a cardiac arrest during a football match - teammate: \"Thought he was dead\"",
+            "bullets": [
+              "Erik Andersson suffered a cardiac arrest during a football match in Vetlanda. Thanks to quick interv...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Erik Andersson suffered a cardiac arrest during a football match in Vetlanda. Thanks to quick interventions with cardiopulmonary resuscitation, he was conscious when he was taken to hospital.",
+            "fullText": "Erik Andersson suffered a cardiac arrest during a football match in Vetlanda. Thanks to quick interventions with cardiopulmonary resuscitation, he was conscious when he was taken to hospital.\n\nAt the end of Saturday's match between Vetlanda/Myresjö and BK Ljungsbro at Vitalavallen, Erik Andersson suddenly collapsed lifeless on the pitch after a suspected cardiac arrest.\n\n- You almost panic and then you hear people shouting call 112. So I try to make the audience and leaders aware that you have to call the emergency services immediately and that as many people as possible come here and help Erik, says teammate Ted Granvik, who is the team captain of the team.\n\nLeaders from both teams began CPR and they used a defibrillator before emergency services and an ambulance arrived. Erik was taken to Ryhov County Hospital in Jönköping, where the situation has developed in a positive direction.\n\nWatch the teammate tell about the nasty incident in the video above, but also about Erik's somewhat unexpected greeting to the team.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-17 @ 19:57:18 EDT",
+  "lastUpdated": "2026-06-18 @ 07:59:50 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
