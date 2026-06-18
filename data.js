@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gio Reyna and Weston McKennie log impressive training sessions",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Scouts monitor USA's wide pressing lanes and transition speed",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ How a furiously contested friendly set the stage for USA v Australia at the World Cup",
+      "link": "https://www.theguardian.com/football/2026/jun/18/usmnt-australia-world-cup-friendly-preview"
     }
   ],
   "timeline": {
@@ -2385,11 +2369,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_3129_0",
+            "category": "usa",
+            "type": "News",
+            "title": "How a furiously contested friendly set the stage for USA v Australia at the World Cup",
+            "bullets": [
+              "After Mauricio Pochettino’s passionate half-time speech last October, the USA shaped up and started...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After Mauricio Pochettino’s passionate half-time speech last October, the USA shaped up and started on the path to a rematch against the Australians in SeattleHaji Wright’s finish was cool, but Mauricio Pochettino’s reaction was cooler. It was the 35th minute of the US men’s national team’s friendly against Australia last October, and the Coventry City striker had just equalized after Jordan Bos put the Socceroos up earlier in the half. Wright celebrated by walking calmly away, while his coach had a blank expression on the sideline.Pochettino’s mind may have been on Australia’s aggressive approach, including one challenge that forced Christian Pulisic out of the match midway through the first half. Or he may have been focused on his team’s reaction. Continue reading...",
+            "fullText": "After Mauricio Pochettino’s passionate half-time speech last October, the USA shaped up and started on the path to a rematch against the Australians in Seattle\n\nHaji Wright’s finish was cool, but Mauricio Pochettino’s reaction was cooler. It was the 35th minute of the US men’s national team’s friendly againstAustralialast October, and the Coventry City striker had just equalized after Jordan Bos put the Socceroos up earlier in the half. Wright celebrated by walking calmly away, while his coach had a blank expression on the sideline.\n\nPochettino’s mind may have been on Australia’s aggressive approach, including one challenge that forced Christian Pulisic out of the match midway through the first half. Or he may have been focused on his team’s reaction.\n\n“[Pochettino] wasn’t too happy with letting them punch us in a way, without punching back,” Wright said this week. The Argentinian made his feelings known in a passionate half-time speech, captured in part on a recent docuseries covering the team’s journey to theWorld Cup. The pep talk was forceful enough to have had an impact even on the players who did not hear it first-hand.\n\n“You could tell by the reaction of the guys,” said Brenden Aaronson, who was out on the field warming up to come on as a sub during the speech. The US matched Australia’s intensity in the second half, securing the first of three straight wins that sent them into 2026 with positive momentum.\n\n“Even though he’s Argentinian, he has that mindset of like, look, this is what we do, you know, and this is who we are, and this is what America’s about,” Sebastian Berhalter said. “We’re American, and we don’t take shit.”\n\nNow, almost exactly eight months after that last meeting between the teams, the US and Australia meet again on Friday on soccer’s grandest stage.\n\nThe World Cup, of course, is a different beast than a friendly, no matter how intense the competition may have been. The US starting lineup is sure to look different – the only holdovers from that friendly in the World Cup opener against Paraguay were Weston McKennie in midfield, Chris Richards anchoring the backline, and Matt Freese in goal. Cristian Roldan assisted Wright on both goals in the friendly; it would be a surprise if either player starts on Friday, even with the game coming in Seattle, where Roldan is a favorite among the fans of his MLS team, the Sounders.\n\nAustralia, meanwhile, saw just four changes between that friendly and last week’s win against Turkey. Leicester City center-back Harry Souttar captained the side after missing the friendly, Patrick Beach enjoyed a standout performance in goal after replacing longtime incumbent Mathew Ryan, Paul Okon-Engstler comes into midfield, and Mo Touré starts up top instead of Nick D’Agostino.\n\nThe personnel that remain, though, highlight the areas the US may once again find dangerous. Nestory Irankunda, who knifed through the US defense on a few occasions last October, had a great start to his World Cup with a goal and a Man of the Match award in the win over Turkey. His pace on the counter was cited by multiple US players as a primary danger this week, along with Australia’s comfort without the ball. The Socceroos held just 30% of possession against Turkey, but were able to cause danger against the run of play consistently – a slightly different approach than the one they employed in October.\n\n“Speaking to the boys who played in October, they said the game against Turkey looked completely different than how they played them last camp,” Antonee Robinson said.\n\n“To me, it seems like they’re more fine tuned,” Wright said. “They looked really good defensively. They look really stable. They didn’t look like Turkey were able to really get behind them very much. That’ll be a challenge for us to break them down.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-18 @ 15:37:25 EDT",
+  "lastUpdated": "2026-06-18 @ 18:31:40 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
