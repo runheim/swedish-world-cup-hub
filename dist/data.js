@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Who's the Bos? - meet 2026 World Cup's fastest player",
+      "link": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Wonderwall sing-along one of my favourite England moments - Kane",
       "link": "https://www.bbc.com/sport/football/articles/ckg74e6dz5lo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,28 +20,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Rice expected to be fit to face Ghana despite back pain",
-      "link": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Messi's father dealing with 'health-related situation'",
       "link": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel's complaints lead to Fifa moving photographers",
-      "link": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Rice expected to be fit to face Ghana despite back pain",
+      "link": "https://www.bbc.com/sport/football/articles/cdr45g01vk3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Kane is England's greatest striker, says Lineker",
-      "link": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ ‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
+      "link": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe"
     },
     {
       "text": "⚽ Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
       "link": "https://www.theguardian.com/football/2026/jun/18/lionel-messi-father-receives-medical-treatment-argentina-world-cup"
-    },
-    {
-      "text": "⚽ ‘People in the pubs will like this’: Tuchel keen for England to entertain at World Cup",
-      "link": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-croatia-world-cup-2026"
     },
     {
       "text": "⚽ Football Daily | Marcus Rashford hits the high notes after playing second fiddle to Anthony Gordon",
@@ -7176,7 +7172,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-19 @ 08:37:22 EDT",
+  "lastUpdated": "2026-06-19 @ 09:56:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
