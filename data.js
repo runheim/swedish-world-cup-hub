@@ -20,14 +20,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Hart impressed by Kane's attention to detail with penalties",
-      "link": "https://www.bbc.com/sport/football/videos/cq617311y7go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ 'Chip on shoulder' may help Bellingham to best form",
-      "link": "https://www.bbc.com/sport/football/articles/c5yzpeq7lx4o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
       "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -44,8 +36,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise"
     },
     {
-      "text": "⚽ Tuchel: Saka unlikely to start against Ghana",
-      "link": "https://www.skysports.com/football/news/12040/13555396/world-cup-2026-bukayo-saka-unlikely-to-start-for-england-until-panama-game-thomas-tuchel-says"
+      "text": "⚽ Football Daily | Marcus Rashford hits the high notes after playing second fiddle to Anthony Gordon",
+      "link": "https://www.theguardian.com/football/2026/jun/18/marcus-rashford-second-fiddle-anthony-gordon-england-world-cup-football-daily"
     }
   ],
   "timeline": {
@@ -7002,7 +6994,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-18 @ 18:31:50 EDT",
+  "lastUpdated": "2026-06-18 @ 20:14:21 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
