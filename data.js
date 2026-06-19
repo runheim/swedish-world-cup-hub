@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ World Cup 2026: Dias backs Ronaldo to handle flak; Kane’s Wonderwall moment; Pochettino on spies – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/19/world-cup-2026-news-kone-injury-canada-rout-scotland-big-challenge-morocco-usa-australia-buildup-live"
-    },
-    {
       "text": "⚽ 'Era of the spy': Mauricio Pochettino spotted looking for spies – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/19/era-of-spy-mauricio-pochettino-spotted-looking-for-spies-video"
     },
@@ -2516,11 +2512,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2619_0",
+            "category": "usa",
+            "type": "News",
+            "title": "'Era of the spy': Mauricio Pochettino spotted looking for spies – video",
+            "bullets": [
+              "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video appearing to look for spies at his team's training ground.&nbsp;“I wanted to see, because you know, we're in an era of, how you say: spy,” he told reporters at his pre-match press conference before their second group-stage match against Australia.World Cup newsletter | Daily podcast | Download the app Continue reading...",
+            "fullText": "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video appearing to look for spies at his team's training ground. “I wanted to see, because you know, we're in an era of, how you say: spy,” he told reporters at his pre-match press conference before their second group-stage match against Australia.\n\nWorld Cup newsletter|Daily podcast|Download the app",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2619_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Forget the confected World Cup hostility, the US and Australia mirror each other",
+            "bullets": [
+              "The Group D clash between the United States and Socceroos has been hyped as next step in a heated ri...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Group D clash between the United States and Socceroos has been hyped as next step in a heated rivalry but the nations are on similar football journeysListen to the hyperbole spewed by the loudest voices, and the World Cup clash between co-hosts the United States and Australia in Seattle is the latest contest in a heated sporting rivalry streaked with disrespect and even downright hate.Indeed, the sometimes spiteful clash between the teams in a friendly last year serves as a preview for what is now one of the marquee matches in the pool stage, and set to determine the winner of Group D. Continue reading...",
+            "fullText": "The Group D clash between the United States and Socceroos has been hyped as next step in a heated rivalry but the nations are on similar football journeys\n\nListen to the hyperbole spewed by the loudest voices, and the World Cup clash between co-hosts the United States and Australia in Seattle is the latest contest in a heatedsporting rivalry streaked with disrespectand even downright hate.\n\nIndeed, the sometimesspiteful clash between the teamsin a friendly last year serves as a preview for what is now one of the marquee matches in the pool stage, and set todetermine the winner of Group D.\n\nBut for each country’s football – or indeed, soccer – community, to hate the other is to hate oneself. While the match will be a compelling contest, it also serves as a mirror for two unusual footballing countries, where the world’s most popular sport sits on the periphery.\n\nThis match is a lesson in empathy. Socceroos midfielder Aiden O’Neill, who plays for New York City FC, understands football in both countries does not have the same status it enjoys elsewhere in the world. “[Soccer in the US] is similar to Australia, it’s starting to change here in America,” he says. “You’ve got some massive other sports, but I think it’s starting to grow in popularity.”\n\nWhile the AFL and NRL dominate the winter sporting discourse in Australia, with cricket the leader in summer, the dominant trio in the US are American football, basketball and baseball.\n\nBoth countries share another parallel. “It’s one of the great oddities in this country,” says longtime sports writer John Shea, who now works for the San Francisco Standard. “It’s the number one participation sport among boys and girls, yet in the high school ranks, it’s not as popular as [American] football, basketball, and even baseball.”\n\nAccording to the National Sporting Good Association, there were more than 7 million Americans aged between 7 and 17 playing soccer in 2025. The sport is second only to basketball, which has more participants in the same bracket but skews more towards recreational play, leaving soccer as the leader among organised sport.\n\nIn Australia, football had about 850,000 participants among those aged 17 and under, about 300,000 more than basketball and behind only swimming in terms of activities, according to the government’s Ausplay survey.\n\nBernardo Ramallo, who works with non-profit Soccer Without Borders in the San Francisco Bay Area, says young US soccer players have historically faced taunts and insults from those who play other sports. “Growing up there’s been jokes saying, like, ‘soccer is weak, [American] football’s a real sport’,” he says. “I grew up in Virginia, which is in the south – which is very different to California – it was always ‘soccer is a girls’ sport’, because of the success of the 1990s and Mia Hamm.”\n\nNoelle Shaw, a soccer fan from Oakland and former junior goalkeeper, says she believes the sport does not receive the respect it deserves in the US. “Soccer is a hard sport, and I don’t think a lot of people realise that to run back and forth on that field for 90 minutes, no time-outs, no anything, that takes a different level of grit and drive.”\n\nRamallo works on social programs for recent migrants and refugees, and sees people engaged in US soccer tend to be younger and more diverse. “Soccer has always been the first sport that many children play,” he says. “But as well, now, it’s a lot of immigrants, people that come from Bolivia, Argentina, Chile, African countries, and they come here and they bring that love, that craziness, that support, so it’s a nice mix.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-19 @ 13:32:57 EDT",
+  "lastUpdated": "2026-06-19 @ 16:26:39 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
