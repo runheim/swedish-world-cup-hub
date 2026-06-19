@@ -3782,6 +3782,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "The altitude here is no joke. Lungs are burning!",
       "time": "13:30",
       "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "16:53",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "16:54",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "The altitude here is no joke. Lungs are burning!",
+      "time": "16:55",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "16:56",
+      "isCaptain": true
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "16:57",
+      "isCaptain": false
     }
   ]
 };
