@@ -4432,11 +4432,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1301_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Gabriel Gudmundsson slams the father's statement: \"An exaggeration\"",
+            "bullets": [
+              "Gabriel Gudmundsson's father has claimed that the left back \"was almost blind\" at a young age. But i...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gabriel Gudmundsson's father has claimed that the left back \"was almost blind\" at a young age. But is that true? - It was a slight exaggeration from dad, says the defender.",
+            "fullText": "Gabriel Gudmundsson's father has claimed that the left back \"was almost blind\" at a young age.\n\n- It was a slight exaggeration from dad, says the defender.\n\nSee Gabriel Gudmundsson about the father's statement in the player above.\n\nIt was in the Halland local press that Niklas Gudmundsson, father of national team star Gabriel, made the statement.\n\nAlthough it was a bit of an exaggeration, there was some truth in it.\n\n- I had problems. I have pretty bad eyesight with refractive error, says the Leeds star at a press conference.\n\nThe back, who was withdrawn with symptoms of illness last week and was replaced against Tunisia, gives clear information. The situation is now good for the second group stage, where the Netherlands await.\n\n- Here you all go in and drive until your body gives up. That's what my body did in connection with the first game.\n\nThe meeting between Sweden and the Netherlands will be played on Saturday, starting at 19.00 Swedish time and broadcast on TV4.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1309_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Elanga on playing time: \"Then I will make a difference\"",
+            "bullets": [
+              "Anthony Elanga had to act as a substitute against Tunisia. The motivation is nevertheless at its pea...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anthony Elanga had to act as a substitute against Tunisia. The motivation is nevertheless at its peak. - You always want to play, but being at a WC is the greatest honor there is, he says.",
+            "fullText": "- You always want to play, but being at a WC is the greatest honor there is, he says.\n\nIt was in the final stages of the 5-1 crushing that the Newcastle star had to step out at the stadium in Monterrey. And in the rematch against Greece, he also started from the bench.\n\nAnthony Elanga keeps his spirits high, even if the starting place is not available.\n\n- I am a player who gives energy to the team, and then I know that I will make a difference when I get on the field. With and without the ball, he tells SVT Sport.\n\n- Then we have top players in the team who help me. We are just that, a team. In training and on the sidelines.\n\nThe 24-year-old believes that the victory against Tunisia naturally gave the team a \"boost\".\n\n- The feeling is good and the energy is at its peak, we are happy that we won the match, but now we have to forget about it and focus on the next match.\n\nFor now, the Netherlands awaits, eight in the Fifa world ranking.\n\nThe match will be played during Midsummer's Day, starting at 19.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1318_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "The row over Yasin Ayari's goal gesture: \"Reflects Swedish society\"",
+            "bullets": [
+              "When Yasin Ayari scored a goal for Sweden in the World Cup match against Tunisia, he went down in a ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When Yasin Ayari scored a goal for Sweden in the World Cup match against Tunisia, he went down in a prayer position. The gesture sparked debate on both editorial pages and in social media, and SD's rhetoric around Islam has been in the spotlight. At the same time, football's unifying power has made itself known. - What football does is something that politicians can never manage and that is to unite and bring together, says SVT's World Cup expert Behrang Safari.",
+            "fullText": "When Yasin Ayari scored a goal for Sweden in the World Cup match against Tunisia, he went down in a prayer position. The gesture sparked debate on both editorial pages and in social media, and SD's rhetoric around Islam has been in the spotlight.\n\nAt the same time, football's unifying power has made itself known.\n\n- What football does is something that politicians can never manage and that is to unite and bring together, says SVT's World Cup expert Behrang Safari.\n\nShortly after Sweden's World Cup premiere, theologian and author Joel Halldorf wrote a post on social media, and then a text in Expressen. He thinks that the Swedish national team reflects Swedish society, and saw Yasin Ayari's gesture as an important symbol for Sweden.\n\n- When Yasin Ayari, wearing the Swedish national team colors, scored both goals for Sweden and then thanked like a good Muslim, it really became a graphic illustration of blue-yellow Islam in particular, says Halldorf.\n\nHalldorf highlights the statement that Jimmie Åkesson made in SVT's series Makthavarna, in response to L leader Simona Mohamsson's description of his vision of a \"blue-yellow Islam\". The SD leader then expressed that he has difficulty seeing that an actively believing Muslim can be Swedish at the same time.\n\nIn social media, there have been negative comments about Ayari's prayer position, for example: \"nice goal but that gesture was unnecessary\" or \"it took a lot of the joy out of the match when he laid down\".\n\nMeanwhile, several posts have been made to pay tribute to Ayari and his goal gesture. And so there has been criticism and jabs at SD.\n\nJimmie Åkesson has responded to the criticism, partly in a post and later in a video where he accuses those who directed criticism at SD after the World Cup match in order to foment differences of opinion and polarization, and calls the criticism \"nonsense\".\n\n- I don't think I'm the right person to say what identity different people have or to label different people. In Sweden we have many people who believe in different things and in Sweden it is primarily a private matter, he tells SVT.\n\nStockholmer Saba Gebrewold is one of those who praised Ayari's gesture through a post on Instagram.\n\n- I felt a strong sense of pride and joy, she says.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-19 @ 16:25:41 EDT",
+  "lastUpdated": "2026-06-19 @ 18:13:18 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
