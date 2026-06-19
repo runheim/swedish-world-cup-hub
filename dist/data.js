@@ -8433,6 +8433,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Just landed. Straight to St George's Park.",
       "time": "19:07",
       "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "13:25",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who saw that strike in training?! Unbelievable.",
+      "time": "13:26",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "13:27",
+      "isCaptain": true
+    },
+    {
+      "sender": "Phil Foden",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Don't forget the media duties at 2pm lads.",
+      "time": "13:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "13:29",
+      "isCaptain": false
     }
   ]
 };
