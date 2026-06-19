@@ -4,8 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tuchel's complaints lead to Fifa moving photographers",
-      "link": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+      "link": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Wonderwall sing-along one of my favourite England moments - Kane",
+      "link": "https://www.bbc.com/sport/football/articles/ckg74e6dz5lo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Tuchel throws first pitch as England enjoy downtime",
+      "link": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Rice expected to be fit to face Ghana despite back pain",
@@ -16,12 +24,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Kane is England's greatest striker, says Lineker",
-      "link": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel's complaints lead to Fifa moving photographers",
+      "link": "https://www.bbc.com/sport/football/articles/cdejd2p65k3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'If we lose, we lose in our way' - how Tuchel inspired 'fearful' England",
-      "link": "https://www.bbc.com/sport/football/articles/cx2k7zvxee8o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Kane is England's greatest striker, says Lineker",
+      "link": "https://www.bbc.com/sport/football/articles/cvg5de1dyn2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
@@ -30,10 +38,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ ‘People in the pubs will like this’: Tuchel keen for England to entertain at World Cup",
       "link": "https://www.theguardian.com/football/2026/jun/18/england-thomas-tuchel-croatia-world-cup-2026"
-    },
-    {
-      "text": "⚽ The World Cup viewed from afar is more like ambient noise – a far cry from working at it | Jonathan Liew",
-      "link": "https://www.theguardian.com/football/2026/jun/18/world-cup-viewed-from-afar-like-ambient-noise"
     },
     {
       "text": "⚽ Football Daily | Marcus Rashford hits the high notes after playing second fiddle to Anthony Gordon",
@@ -6991,10 +6995,188 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-19": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3717_0",
+            "category": "england",
+            "type": "News",
+            "title": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+            "bullets": [
+              "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas Tuchel's big selection dilemmas.",
+            "fullText": "Marcus Rashford and Marc Guehi are pushing for starts against Ghana on Tuesday\n\nEngland's attacking style in their opening World Cup win against Croatia in Dallas created a stir of excitement but still left head coach Thomas Tuchel with questions to ponder.\n\nTuchel's side looked vulnerable in defence after he selected Aston Villa defender Ezri Konsa ahead of Manchester City's Marc Guehi to partner John Stones.\n\nIn attack, substitute Marcus Rashford scored England's final goal in the 4-2 victory after replacing new Barcelona buy Anthony Gordon, who got the nod to start on the left flank.\n\nEngland's World Cup campaign now moves to Boston, where they face Ghana on Tuesday, and where Tuchel must decide whether to stick or twist with his line-up.\n\nFor all the bouquets thrown in England's direction, goalkeeper Jordan Pickford still needed to pull off a vital save from Igor Matanovic with the score at 3-2, before Rashford settled nerves.\n\nAnd those two decisions in central defence and on the left-side of England's attack look to be the biggest dilemmas facing Tuchel.\n\nTuchel's decision to pick Konsa while leaving out Guehi raised some eyebrows, but a glance at the German's team selections since succeeding Sir Gareth Southgate suggests this should not have been a surprise.\n\nOf England's 15 games under Tuchel, Konsa has started 10, third behind Pickford and Harry Kane, who have both started 12. He is also third in minutes played, with 933 behind Pickford (1,008) and Kane (938).\n\nGuehi has only started seven, playing 504 minutes â and it could also be noted that Tuchel was in charge at Chelsea when the 25-year-old was sold to Crystal Palace in July 2021.\n\nKonsa had moments of uncertainty, getting caught out of position when Petar Musa scored Croatia's second equaliser, but Tuchel is a huge admirer of his physical and footballing attributes, which are believed to have settled the selection.\n\nTuchel's confidence in 32-year-old Stones, who only started five Premier League games last season before leaving Manchester City, means it looks like a straight battle between Konsa and Guehi to line up alongside him.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3717_1",
+            "category": "england",
+            "type": "News",
+            "title": "Wonderwall sing-along one of my favourite England moments - Kane",
+            "bullets": [
+              "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.",
+            "fullText": "Harry Kane has scored a record 81 goals in 115 games for England\n\nHarry Kane says singing 'Wonderwall' with fans following England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.\n\nThe England captain scored twice in a4-2 victory in Dallasto help his side make a winning start to their World Cup campaign.\n\nAfter the match, Kane and his team-mates celebrated in front of joyous England fans at the Dallas Stadium as they sang Oasis' 1995 hit Wonderwall.\n\n\"That was one of my favourite ever moments in an England shirt and especially at a major tournament,\" Kane said on the Lions' Den podcast.\n\n\"I know it's just the first game and we're not getting carried away, but just that emotional connection with the fans... We know how much it means to them.\n\n\"We have that connection right now but just that moment, singing Wonderwall in the stadium... Everyone knew the words and that was a really special moment.\"\n\nEngland manager Thomas Tuchel has spoken about wanting to continue the work former boss Gareth Southgate did in building a connection between fans and the squad after years of dismal tournaments.\n\nUnder Southgate, England reached the World Cup semi-finals in 2018 as well as the European Championship finals in 2021 and 2024 as fans rallied behind the squad.\n\nKane is one of three players, alongside goalkeeper Jordan Pickford and defender John Stones, to remain in the side from 2018.\n\nThe 32-year-old, whose two strikes against Croatia saw him equal Gary Lineker's record of 10 World Cup goals, says he is enjoying the \"freshness\" of Tuchel's squad.\n\n\"This one feels a little bit different. Our roles have changed a little bit obviously, being the more experienced guys, the older guys,\" said Kane.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3717_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel throws first pitch as England enjoy downtime",
+            "bullets": [
+              "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup - while Ivan Toney scores a hat-trick in a friendly against MLS side Sporting KC.",
+            "fullText": "Thomas Tuchel threw the first pitch for the Kansas City Royals at Kauffman Stadium\n\nThomas Tuchel threw the first pitch at the home of baseball team Kansas City Royals as his England squad enjoyed some downtime after winning their opening game at the World Cup.\n\nManager Tuchel was joined by captain Harry Kane and defenders Dan Burn and Djed Spence at Kauffman Stadium as he completed the ceremonial throw just over 24 hours after England beatCroatia 4-2 in Dallas.\n\nKane, who scored two goals in the win over Croatia, posted on social media about the trip.\n\n\"Great recovery day with the boys at the baseball,\" he wrote.\n\n\"Would love to give batting a go one day! Thanks for having us @Royals.\"\n\nThe Bayern Munich forward played the whole match against Croatia and did not take part in a behind-closed-doors friendly against Sporting KC which was for members of the squad who needed game time.\n\nIvan Toney and Morgan Rogers were among the scorers as England recorded a comprehensive 5-1 victory over the Major League Soccer side in a practice match on Thursday.\n\nThe game, played at England's Swope Soccer Village training facility, featured the players not used in Wednesday's win over Croatia and the squad members who did not play significant minutes in Dallas.\n\nToney scored a hat-trick while Aston Villa duo Rogers and Ollie Watkins were also on target as England ran out comfortable winners.\n\nBurn, Jordan Henderson, Eberechi Eze, Marc Guehi, Kobbie Mainoo, Djed Spence and Jarell Quansah were among the players also involved in the training game.\n\nThe game was broken up into two halves of around 25 minutes each.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3717_3",
+            "category": "england",
+            "type": "News",
+            "title": "Rice expected to be fit to face Ghana despite back pain",
+            "bullets": [
+              "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during the win over Croatia.",
+            "fullText": "Declan Rice was replaced by Morgan Rogers after 72 minutes in England's World Cup opener\n\nDeclan Rice is expected to be available for England's World Cup match against Ghana after suffering from lower back pain during thewin over Croatia.\n\nThe midfielder was substituted midway through the second half, raising concerns about his fitness.\n\nBut it is understood the back issue is unlikely to prevent Rice from playing against Ghana in Boston on Tuesday (21:00).\n\nThe complaint is one that the Arsenal midfielder, 27, has been carrying for a while and will require managing during the tournament.\n\nSpeaking after the game, manager Thomas Tuchel said: \"Declan had some unusual ball losses and I saw a bit of discomfort.\n\n\"And then I asked him, and he pointed directly to his lower back, upper hamstring, that he feels the discomfort.\n\n\"I didn't want to take any risks, I hope it's nothing more. Declan just reassured me at the end.\n\n\"We will take care of it, and it's nothing big to worry about.\"\n\nTactical analysis: England look exciting but how can they tighten up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3718_4",
+            "category": "england",
+            "type": "News",
+            "title": "Messi's father dealing with 'health-related situation'",
+            "bullets": [
+              "Lionel Messi's father is currently dealing with a \"health-related situation\", the family said in a s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi's father is currently dealing with a \"health-related situation\", the family said in a statement on Thursday.",
+            "fullText": "Messi was in tears following his first World Cup hat-trick against Algeria\n\nLionel Messi's father is currently dealing with a \"health-related situation\", the family said in a statement on Thursday.\n\n\"At this time, he is under medical supervision, recovering and progressing favourably within the condition he is experiencing,\" the statement said.\n\nMessi was in tears after scoring his first goal inArgentina's 3-0 victory over Algeriain their opening World Cup match earlier this week.\n\nArgentina's captain, 38, went on to complete a hat-trick, drawing level with Miroslav Klose at the top of the all-time World Cup goalscoring list.\n\n\"Why did I cry? It was something completely unrelated to football,\" Messi said after the match.\n\n\"I went through some difficult days, but I'm grateful to the entire delegation and my team-mates because they were always by my side, giving me a lot of strength to help me get through it.\"\n\nThe family addressed the speculation around Jorge Messi's health following that opening game.\n\n\"In light of speculation that has circulated in recent hours, the family wishes to express its deep discomfort with the lack of sensitivity, respect, and discretion with which some people have treated what is strictly a private family matter.\n\n\"The family also wishes to clarify that only his closest relatives have real and accurate information regarding Jorge's condition. Therefore, any version, statement, or information that does not come directly from the family and its official channels should not be considered valid or truthful.\"\n\nThe statement continued: \"At times like these, we ask for responsibility, prudence, and humanity. A person's health and the peace of mind of those around them should not be the subject of speculation or irresponsible media interest.\n\n\"We sincerely appreciate the expressions of affection, respect, and concern we have received, and we ask that Jorge's privacy, confidentiality, and intimacy - as well as that of his entire family - be respected throughout this process.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3718_5",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel's complaints lead to Fifa moving photographers",
+            "bullets": [
+              "England head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the bench during the national anthems.",
+            "fullText": "Tuchel and his coaching staff in the dugout had their view blocked during the anthems\n\nEngland head coach Thomas Tuchel has won a battle with Fifa to get photographers moved away from the bench during the national anthems.\n\nTuchel said he \"could not see my team\" before Wednesday's4-2 win over Croatia, with a wall of photographers blocking his view to the pitch.\n\nAfter taking on board feedback from a number of people, including Tuchel, Fifa has altered its policy and put in place a compromise used at other tournaments.\n\nPhotographers may be grouped in a huddle, potentially closer to the halfway line.\n\nThe coaching staff will no longer be required to remain in front of the dugouts, instead they will be permitted to move to the left or the right of the photographers for an unobstructed view of the squads around the centre circle.\n\nHowever it is unclear if Fifa's changes will assuage Tuchel's concerns. BBC Sport understands that the Football Association is still awaiting discussions with football's world governing body over the issue.\n\nThe Group L game in Dallas was Tuchel's first as a World Cup manager but he revealed the occasion, particularly the emotion of the national anthems, was spoiled.\n\n\"I have to tell you something. I'm begging Fifa to change the position of the photographers in the national anthem, because I could not see my team,\" Tuchel said.\n\n\"It was a very special moment, and I was standing in front of a wall of 50 photographers and I could not see one single player. It ruined a little bit my experience.\"\n\nThe AT&T Stadium usually serves as the home of the Dallas Cowboys, with the NFL field too small for World Cup matches.\n\nThe surface had to be raised 1.2m to be able to fit in a football pitch, which meant part of the sidelines were lost - resulting in limited space for the coaches and the photographers during the national anthems.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3718_6",
+            "category": "england",
+            "type": "News",
+            "title": "Kane is England's greatest striker, says Lineker",
+            "bullets": [
+              "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England ca...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals.",
+            "fullText": "Harry Kane is England's record goalscorer followed by Wayne Rooney (53 goals in 120 appearances), Sir Bobby Charlton (49 in 106) and Gary Lineker (48 in 80)\n\nGary Lineker thinks Harry Kane is \"the greatest English striker we've ever had\" after the England captain equalled his record of 10 World Cup goals on Wednesday.\n\nKane, 32, scored twice as England opened their tournament campaign in Dallas with a4-2 victory against Croatiain Group L.\n\nFormer Three Lions striker Lineker, 65, reached his tally between the 1986 World Cup in Mexico and Italia 90, while Kane is playing at his third tournament after featuring in Russia in 2018 and Qatar four years ago.\n\n\"Welcome to the double-figures club. It's great. I mean, it may have taken him a World Cup more,\" ex-Match of the Day presenter Lineker joked on The Rest is Football podcast.\n\n\"In all seriousness, Harry Kane is, I think, the greatest English striker we've ever had. I genuinely think that now.\"\n\nKane now has 81 goals in 115 international appearances and leads the list of England's record goalscorers.\n\nHighlights: A six-goal thriller ends England 4-2 Croatia\n\nEngland face Ghana in their second group game on 23 June at 21:00 BST.\n\nBayern Munich's Kane gave England the lead with a retaken penalty early in the first half, before scoring a powerful header to restore his side's lead three minutes before the break.\n\n\"I'm absolutely delighted that Kane equalled my record,\" Lineker continued. \"His all-round game is, for me, what separates him from all the others.\"\n\nKane's standout performance comes after Lionel Messi scored a hat-trick for Argentina against Algeria, Kylian Mbappe opened his account for France with two goals in the win over Senegal and Manchester City's Erling Haaland also scored a brace in Norway's victory against Iran.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3718_7",
+            "category": "england",
+            "type": "News",
+            "title": "Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
+            "bullets": [
+              "Jorge Messi, 68, ‘recovering and progressing favourably’‘At times like these, we ask for responsibil...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jorge Messi, 68, ‘recovering and progressing favourably’‘At times like these, we ask for responsibility,’ says familyLionel Messi’s father is undergoing medical treatment for an undisclosed illness and his family asked the media for “humanity” on Thursday amid rumours about Jorge Messi’s health while his son competes at the World Cup. “Jorge is going through a health situation,” the Messi family said in a statement.The family did not specify the illness that the 68-year-old Jorge Messi is suffering from. “He is currently under medical observation, recovering and progressing favourably within his current condition,” the statement said. Continue reading...",
+            "fullText": "Jorge Messi, 68, ‘recovering and progressing favourably’\n\n‘At times like these, we ask for responsibility,’ says family\n\nLionel Messi’s father is undergoing medical treatment for an undisclosed illness and his family asked the media for “humanity” on Thursday amid rumours about Jorge Messi’s health while his son competes at the World Cup. “Jorge is going through a health situation,” the Messi family said in a statement.\n\nThe family did not specify the illness that the 68-year-old Jorge Messi is suffering from. “He is currently under medical observation, recovering and progressing favourably within his current condition,” the statement said.\n\nMessi said after Argentina’s 3-0 victory over Algeria in the team’s opening World Cup match that he was going through a difficult personal situation. He did not elaborate.\n\nThe family statement, released by Messi’s media office, came on the same day that reports of Jorge Messi’s death circulated in Argentina.\n\n“At times like these, we ask for responsibility, prudence and humanity,” the family said. “A person’s health and the peace of mind of their loved ones should not be the subject of speculation or irresponsible media interest.”\n\nThe statement said any further developments would be communicated by the family.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3718_8",
+            "category": "england",
+            "type": "News",
+            "title": "‘People in the pubs will like this’: Tuchel keen for England to entertain at World Cup",
+            "bullets": [
+              "Manager says second-half performance was ‘rewarding’England’s next group game is against Ghana on 23...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manager says second-half performance was ‘rewarding’England’s next group game is against Ghana on 23 JuneThomas Tuchel said he wanted his England team to entertain the nation and that he pictured the scenes in the pubs as his players took the handbrake off to power past Croatia 4-2 in their World Cup opener on Wednesday.England were passive in the first half, too deep, the connections lacking. They entered the interval at 2-2, Harry Kane’s goals cancelled out by a pair of soft concessions that were in keeping with the team’s openness. Continue reading...",
+            "fullText": "Manager says second-half performance was ‘rewarding’\n\nEngland’s next group game is against Ghana on 23 June\n\nThomas Tuchel said he wanted his England team to entertain the nation and that he pictured the scenes in the pubs as his players took the handbrake off to power pastCroatia 4-2 in their World Cup openeron Wednesday.\n\nEngland were passive in the first half, too deep, the connections lacking. They entered the interval at 2-2, Harry Kane’s goals cancelled out by a pair of soft concessions that were in keeping with the team’s openness.\n\nBut England exploded into life at the start of the second half, Jude Bellingham’s surging run and finish in the 47th minute the spark for an extraordinary period of pressure.Tuchel had told the players to calm downduring the interval, not to worry about the result and be true to their way of playing.\n\nAfter Bellingham’s goal, they had seven clear openings leading up to the hour, albeit they could not take them. Croatia were rocking and Tuchel knew the pubs in England would be the same. Croatia had a couple of moments when they might have equalised before the England substitute Marcus Rashford sealed the win in the 85th minute after a clinical counterattack.\n\nIt is unclear whether a gung-ho approach will lead toWorld Cupglory, but the performance has ignited a sense of possibility and Tuchel is keen to harness the momentum. England’s next game is against Ghana on Tuesday.\n\nTuchel was asked whether fans could expect England to take the handbrake off during the tournament. “It is what the boys did in the second half – exactly that,” he said. “It is good. That is what needs to be done. Nobody can guarantee the outcome, but we can guarantee the effort.\n\n“Can we expect more of that? Yes. It is good and it is rewarding. Hopefully everybody enjoyed it. And it brings a connection. I had a thought in the second half: ‘People in the pubs will like this.’\n\n“I was sweating, but that is a good watch where we created and created and went for it and won another ball and then a second ball. That is why you are in a pub and watching together on a big screen to get emotional and hopefully we can transmit that.”\n\nTuchel’s frustration with England’s first-half performance was rooted in how they dropped too deep out of possession, seeking to protect the 1-0 lead that Kane’s early penalty had given them. It was a classic England move – or flaw. Tuchel wants to see only aggressive, front-foot football.\n\n“We just dropped way too early into a deep block,” Tuchel said. “From a middle block … way too early into a deep block. Normally if we go to a middle block it’s not a problem. We have clear triggers to go out of it into a high press.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3719_9",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Marcus Rashford hits the high notes after playing second fiddle to Anthony Gordon",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!It must be difficult being the second choice at a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!It must be difficult being the second choice at a major tournament, confronting the idea your head coach thinks you are an inferior player. Maintaining confidence when others are favoured takes a lot of mental fortitude because agreeing with the decision is never an option. Some waltz in, do as they please, having been afforded the opportunity you want because of one person’s decision, while others watch on from the sidelines, desperately waiting for a chance to prove everyone wrong. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nIt must be difficult being the second choice at a major tournament, confronting the idea your head coach thinks you are an inferior player. Maintaining confidence when others are favoured takes a lot of mental fortitude because agreeing with the decision is never an option. Some waltz in, do as they please, having been afforded the opportunity you want because of one person’s decision, while others watch on from the sidelines, desperately waiting for a chance to prove everyone wrong.\n\nFor Marcus Rashford, the situation is even more infuriating, given it is the same person who has potentially taken his place at both club and international level. The Manchester United forward had a promising season on loan at Barcelona, who then decided Anthony Gordon was a better and more expensive bet. Gordon’s move to the Camp Nou means Rashford is back in limbo; seemingly not wanted by his boyhood club nor in Catalonia, making this another crucial juncture in his career. Playing second fiddle is not a position anyone wants to be in, most orchestras do not even have one nowadays, one assumes on account of budget cuts, so being stuck in a redundant metaphor is painful.\n\n“He struggled for us to be decisive when he started, but he was always trying and got a bit unlucky for a long time,” Tuchel tooted about Rashford after the 28-year-old scoring England’s final goal ofa 4-2 win over Croatiain their GWC opener. “We just had a talk [on Tuesday] where I told him that I’m very, very impressed with his last 16 days – how he was in camp, how he pushes on the field.” Tuchel is referencing Rashford’s pre-tournament personal training camp in Florida – endeavour is an underrated attribute in football and one Rashford has not always been known for but there is no shortage of gumption currently. Being given the No 11 shirt for the tournament may have brought hope of being a starter but Rashford possesses the qualities of a finisher, someone who can come off the bench and be brutal against tiring teams.\n\nRashford was not alone in making an impact against Croatia as the second-half raft of changes all made a difference. England went from a bungling first 45 minutes to becoming a team others will fear. “[Rashford] is totally invested in every meeting,” Tuchel whooped. “He is very, very fast in translating a meeting on to the pitch, what we want tactically. He pushes on a very respectful level with Anthony Gordon in the position, so at the moment he’s in a very good place.”\n\nThe Rashford goal summed up what this England – and the forward – possess. It was an aggressive move from back to front, using speed and confidence in equal measure. If the speed of England’s counterattack was something to behold, then the finesse Rashford provided at the end more than matched it. Wanting to make a point, there was little consideration of passing to Harry Kane in the middle to complete his hat-trick, instead Rashford chopped back in to open up the angle, allowing him to find the corner with the coup de grace. “I was so happy that he was the one to unlock this long spell – hopefully he can keep this up,” Tuchel cheered. It was a fine moment for both the forward but the rest of the team, as they plot a path for a successful summer, individually and collectively.\n\nIfour shiny GWC Golden Boot pagewasn’t enough for you, we’ve now only gone and builtan all-time World Cup top goalscorers pagetoo.\n\nDaniel Harris springs into action with minute-by-minute coverage of Czechia 2-2 draw with South Africa at 5pm BST (midday EDT) before Daniel Gallan delivers updates on Switzerland 1-1 Bosnia and Herzegovina at 8pm BST (3pm EDT). Rob Smyth is all over Canada 1-0 Qatar at 11pm BST (6pm EDT), before Jonathan Howcroft rounds things off with Mexico 2-1 South Korea (9pm EDT, Fri 2am BST).\n\n“I’ve been a coach for 40 years and I know it’s ⁠a part of the job that you will be criticised. So for the moment, I’m criticised but ​people have to know … and for those who ‌still don’t know it … I ‌do it my way. I never listen to the trash ‌of the social media [disgraces]. I never listen to people who feel they are important enough to criticise the team. When I look back at what they [former players] achieved before, I think it should be better that they shut up” – Bafana Bafana head coach Hugo Broos – yes, Football Daily definitely bought some bootleg aftershave bearing his name somewhere around Greece back in the day – isn’t the biggest fan of pundits in the South African media taking a pop at him.\n\ndouble quotation markI was amused when the commentators here in the USA USA USA, early in the Portugal v DR Congo match, suggested that the adjustments made by Cristiano Ronaldo in recent years could be compared to Michael Jordan developing a fade-away shot when he could no longer dunk on every defender. Watching his wooden performance, I wonder whether the more apt comparison for late-career CR7 would be Jordan’s unfortunate foray into baseball” – Tony Alessandrini.\n\ndouble quotation markAs a Barnsley fan, I can assure R Reisman (yesterday’s Football Daily letters) that there is only one team that is‘Just Like Watching Brazil’. Sadly, performances on the pitch have not justified that chant for several years but, with Daniel Stendel back in charge, hopes are high for the coming season. The type of hope, as we all know, that kills you” – John Meara.\n\ndouble quotation markIf a misty-eyed Gianni Infantino was watching Messi from Kansas (yesterday’s Football Daily), he’d have been at least seven miles from where the game was. I’m sure I’m just one of 1,057 pedants to note that Arrowhead, AKA Kansas City Stadium, is located in the state of Missouri” – Eric Bens (and others).",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-18 @ 20:14:21 EDT",
+  "lastUpdated": "2026-06-19 @ 08:37:22 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
