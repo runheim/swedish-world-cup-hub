@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ How a furiously contested friendly set the stage for USA v Australia at the World Cup",
-      "link": "https://www.theguardian.com/football/2026/jun/18/usmnt-australia-world-cup-friendly-preview"
+      "text": "⚽ Mauricio Pochettino noncommittal on Christian Pulisic status for Australia game: ‘We’ll see’",
+      "link": "https://www.theguardian.com/football/2026/jun/18/usmnt-christian-pulisic-status-mauricio-pochettino"
     }
   ],
   "timeline": {
@@ -2396,7 +2396,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-18 @ 18:31:40 EDT",
+  "lastUpdated": "2026-06-18 @ 20:14:41 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
