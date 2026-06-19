@@ -4,6 +4,14 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ England winger Saka unlikely to start against Ghana",
+      "link": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Spurs to enter Wharton chase - Saturday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
       "link": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -20,24 +28,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cgrk5qrkw5po?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Messi's father dealing with 'health-related situation'",
-      "link": "https://www.bbc.com/sport/football/articles/c1wy33x389no?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Elliot Anderson is England’s spirit animal – and is now indispensable",
+      "link": "https://www.theguardian.com/football/2026/jun/19/elliot-anderson-is-englands-spirit-animal-and-is-now-indispensable"
     },
     {
       "text": "⚽ ‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
       "link": "https://www.theguardian.com/football/2026/jun/19/i-paid-800-for-my-ticket-but-it-was-worth-it-england-fans-enjoying-early-world-cup-vibe"
     },
     {
-      "text": "⚽ Lionel Messi’s family ask for ‘humanity’ as his father receives medical treatment",
-      "link": "https://www.theguardian.com/football/2026/jun/18/lionel-messi-father-receives-medical-treatment-argentina-world-cup"
-    },
-    {
       "text": "⚽ Football Daily | USA, Mexico, Canada: which World Cup co-host can boast the most?",
       "link": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter"
-    },
-    {
-      "text": "⚽ Nicholls hits hundred as New Zealand lead passes 300 vs England LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13555513/england-vs-new-zealand-second-test-day-three-live-cricket-score-updates-video-and-analysis-as-joe-root-stands-in-as-captain-at-kia-oval"
     }
   ],
   "timeline": {
@@ -7327,11 +7327,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2621_0",
+            "category": "england",
+            "type": "News",
+            "title": "England winger Saka unlikely to start against Ghana",
+            "bullets": [
+              "Latest update from BBC Sport.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from BBC Sport covering the England national football team.",
+            "fullText": "Saka came on in the 72nd minute of England's opening win against Croatia\n\nEngland head coach Thomas Tuchel has hinted that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.\n\nSaka came off the bench in the4-2 World Cup win over Croatia on Wednesday, and immediately provided an assist to fellow substitute Marcus Rashford, who slotted home England's fourth.\n\nBefore the tournament, Tuchel said Saka would require managing through the opening stages because of what is understood to be an Achilles tendinitis issue.\n\nOn Monday, Saka insisted he was ready to play and was prepared to \"gamble\" on his fitness to help the team during the World Cup.\n\nHowever, Tuchel says the Arsenal attacker is unlikely to start until the final group game against Panama in New Jersey on 27 June.\n\nHe said: \"Bukayo is ready and will get more and more ready. I think once we go to the last game of this group he will be ready.\"\n\nSaka has been carrying the issue for some time, and while there was concern behind the scenes at Arsenal about the niggle they deemed their forward fit enough to start regularly during their triumphant title run-in.\n\nIt is understood that Saka's ongoing Achilles issue has not deteriorated since the climax of the domestic season.\n\nArsenal boss Mikel Arteta, who is often very guarded with regards to his players' injury concerns, has generally kept information about Saka's condition in-house but Tuchel's admission that the 24-year-old has to be managed through at least part of the World Cup has thrust the winger's fitness into the limelight.\n\nTuchel's latest comments appear to show that the German is protecting Saka, knowing the attacker will likely be a crucial asset during the latter stages of the tournament - but could also start the game against Ghana if required.\n\nStick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2621_1",
+            "category": "england",
+            "type": "News",
+            "title": "Spurs to enter Wharton chase - Saturday's gossip",
+            "bullets": [
+              "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan Diomande, Fulham fail with their opening bid for Chibuike Nwaiwu, plus more.",
+            "fullText": "Tottenhamare the latest club interested in Adam Wharton,Liverpoolare yet to agree a deal for Yan Diomande andFulhamfail with their opening bid for Chibuike Nwaiwu.\n\nTottenhamare ready to test the water with a bid forCrystal Palace'sEngland midfielder Adam Wharton, 22.(Teamtalk),external\n\nRB Leipzighave turned down an offer of Â£87m fromLiverpoolfor Ivory Coast winger Yan Diomande as they want  Â£113m for the 19-year-old.(Liverpool Echo),external\n\nFulhamhave had a Â£17m bid rejected by Turkish clubTrabzonsporfor 22-year-old Nigeria defender Chibuike Nwaiwu.(Fotomac - in Turkish),external\n\nTottenhamare not planning to make a move for striker Mason Greenwood, whileRomaare currently short ofMarseille'sasking price for the 24-year-old.(Mail),external\n\nEverton,Tottenhamand newly promotedIpswichare looking to sign 22-year-old Cameroon forward Karl Etta Eyong fromLevantethis summer.(Teamtalk),external\n\nCelticturned down Â£25m fromNottingham Forestin January for midfielder Arne Engels but are now open to offers for the 22-year-old Belgium midfielder, withCrystal PalaceandBorussia Dortmundalso interested.(Football Insider),external\n\nLeedsare interested in signing Northern Ireland midfielder Shea Charles fromSouthamptonthis summer, with the 22-year-old valued at more than Â£20m.(Mail),external\n\nLeedsare also looking at a move for Germany forward Julian Brandt, 30, who is a free agent this summer after leavingBorussia Dortmund.(Yorkshire Evening Post),external\n\nWolvesare keen on bringing Scotland striker Che Adams, 29, back from Italian clubTorinothis summer.(Tuttomercato - in Italian),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2621_2",
+            "category": "england",
+            "type": "News",
+            "title": "Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+            "bullets": [
+              "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before England's World Cup match against Ghana on Tuesday, BBC Sport's Phil McNulty looks at Thomas Tuchel's big selection dilemmas.",
+            "fullText": "Marcus Rashford and Marc Guehi are pushing for starts against Ghana on Tuesday\n\nEngland's attacking style in their opening World Cup win against Croatia in Dallas created a stir of excitement but still left head coach Thomas Tuchel with questions to ponder.\n\nTuchel's side looked vulnerable in defence after he selected Aston Villa defender Ezri Konsa ahead of Manchester City's Marc Guehi to partner John Stones.\n\nIn attack, substitute Marcus Rashford scored England's final goal in the 4-2 victory after replacing new Barcelona buy Anthony Gordon, who got the nod to start on the left flank.\n\nEngland's World Cup campaign now moves to Boston, where they face Ghana on Tuesday, and where Tuchel must decide whether to stick or twist with his line-up.\n\nFor all the bouquets thrown in England's direction, goalkeeper Jordan Pickford still needed to pull off a vital save from Igor Matanovic with the score at 3-2, before Rashford settled nerves.\n\nAnd those two decisions in central defence and on the left-side of England's attack look to be the biggest dilemmas facing Tuchel.\n\nTuchel's decision to pick Konsa while leaving out Guehi raised some eyebrows, but a glance at the German's team selections since succeeding Sir Gareth Southgate suggests this should not have been a surprise.\n\nOf England's 15 games under Tuchel, Konsa has started 10, third behind Pickford and Harry Kane, who have both started 12. He is also third in minutes played, with 933 behind Pickford (1,008) and Kane (938).\n\nGuehi has only started seven, playing 504 minutes â and it could also be noted that Tuchel was in charge at Chelsea when the 25-year-old was sold to Crystal Palace in July 2021.\n\nKonsa had moments of uncertainty, getting caught out of position when Petar Musa scored Croatia's second equaliser, but Tuchel is a huge admirer of his physical and footballing attributes, which are believed to have settled the selection.\n\nTuchel's confidence in 32-year-old Stones, who only started five Premier League games last season before leaving Manchester City, means it looks like a straight battle between Konsa and Guehi to line up alongside him.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2622_3",
+            "category": "england",
+            "type": "News",
+            "title": "Who's the Bos? - meet 2026 World Cup's fastest player",
+            "bullets": [
+              "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capp...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifa’s sprint data has revealed Australia’s Jordan Bos as the fastest player at World Cup 2026, capping a remarkable rise for the Feyenoord defender",
+            "fullText": "Australia defender Jordan Bos speaks to the media before the Socceroos' World Cup campaign\n\nWhen Fifa released the fastest sprint speeds from the opening round of World Cup 2026, the name at the top of the list was not one many expected.\n\nThe quickest player at the tournament so far was Australia defender Jordan Bos.\n\nAccording to Fifa's official physical tracking data, the Feyenoord left-back reached 36.7 km/h during his country's 2-0 opening-game win over Turkey, with only Norway striker Erling Haaland and his Manchester City team-mate and Uzbekistan defender Abdukodir Khusanov getting close at 36.5 km/h.\n\nKylian Mbappe, Son Heung-min and Pedro Neto are among the established speedsters trailing behind.\n\nFor followers of Dutch football, it was hardly a surprise for Bos to top the rankings. For everyone else, it was an introduction to the qualities of one of the tournament's emerging stars.\n\nThe 23-year-old has just completed the best season of his career at Feyenoord, establishing himself as one of the Eredivisie's most productive full-backs. His nine assists were the most by any player in Robin van Persie's side, while his four goals helped the Rotterdam club finish second in the table and qualify for the Champions League.\n\nJordan Bos recorded the fastest sprint speed of the opening round of World Cup 2026\n\nWhat makes Bos' rise particularly intriguing is that he was not always the physical specimen he appears today.\n\nAustralia team-mate Connor Metcalfe remembers a very different player from their days together in Melbourne City's academy.\n\nWhile technically gifted and comfortable in possession, Bos was physically small compared to many of his peers.\n\nThen everything changed as Metcalfe recalled: \"Out of nowhere, just after an off-season, he came back and he was a unit.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2622_4",
+            "category": "england",
+            "type": "News",
+            "title": "Wonderwall sing-along one of my favourite England moments - Kane",
+            "bullets": [
+              "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane says singing 'Wonderwall' with fans after England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.",
+            "fullText": "Harry Kane has scored a record 81 goals in 115 games for England\n\nHarry Kane says singing 'Wonderwall' with fans following England's win over Croatia on Wednesday was one of his \"favourite ever moments\" in a Three Lions shirt.\n\nThe England captain scored twice in a4-2 victory in Dallasto help his side make a winning start to their World Cup campaign.\n\nAfter the match, Kane and his team-mates celebrated in front of joyous England fans at the Dallas Stadium as they sang Oasis' 1995 hit Wonderwall.\n\n\"That was one of my favourite ever moments in an England shirt and especially at a major tournament,\" Kane said on the Lions' Den podcast.\n\n\"I know it's just the first game and we're not getting carried away, but just that emotional connection with the fans... We know how much it means to them.\n\n\"We have that connection right now but just that moment, singing Wonderwall in the stadium... Everyone knew the words and that was a really special moment.\"\n\nEngland manager Thomas Tuchel has spoken about wanting to continue the work former boss Gareth Southgate did in building a connection between fans and the squad after years of dismal tournaments.\n\nUnder Southgate, England reached the World Cup semi-finals in 2018 as well as the European Championship finals in 2021 and 2024 as fans rallied behind the squad.\n\nKane is one of three players, alongside goalkeeper Jordan Pickford and defender John Stones, to remain in the side from 2018.\n\nThe 32-year-old, whose two strikes against Croatia saw him equal Gary Lineker's record of 10 World Cup goals, says he is enjoying the \"freshness\" of Tuchel's squad.\n\n\"This one feels a little bit different. Our roles have changed a little bit obviously, being the more experienced guys, the older guys,\" said Kane.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2622_5",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel throws first pitch as England enjoy downtime",
+            "bullets": [
+              "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel takes some time out at a baseball game as England enjoy some downtime at the World Cup - while Ivan Toney scores a hat-trick in a friendly against MLS side Sporting KC.",
+            "fullText": "Thomas Tuchel threw the first pitch for the Kansas City Royals at Kauffman Stadium\n\nThomas Tuchel threw the first pitch at the home of baseball team Kansas City Royals as his England squad enjoyed some downtime after winning their opening game at the World Cup.\n\nManager Tuchel was joined by captain Harry Kane and defenders Dan Burn and Djed Spence at Kauffman Stadium as he completed the ceremonial throw just over 24 hours after England beatCroatia 4-2 in Dallas.\n\nKane, who scored two goals in the win over Croatia, posted on social media about the trip.\n\n\"Great recovery day with the boys at the baseball,\" he wrote.\n\n\"Would love to give batting a go one day! Thanks for having us @Royals.\"\n\nThe Bayern Munich forward played the whole match against Croatia and did not take part in a behind-closed-doors friendly against Sporting KC which was for members of the squad who needed game time.\n\nIvan Toney and Morgan Rogers were among the scorers as England recorded a comprehensive 5-1 victory over the Major League Soccer side in a practice match on Thursday.\n\nThe game, played at England's Swope Soccer Village training facility, featured the players not used in Wednesday's win over Croatia and the squad members who did not play significant minutes in Dallas.\n\nToney scored a hat-trick while Aston Villa duo Rogers and Ollie Watkins were also on target as England ran out comfortable winners.\n\nBurn, Jordan Henderson, Eberechi Eze, Marc Guehi, Kobbie Mainoo, Djed Spence and Jarell Quansah were among the players also involved in the training game.\n\nThe game was broken up into two halves of around 25 minutes each.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2622_6",
+            "category": "england",
+            "type": "News",
+            "title": "Elliot Anderson is England’s spirit animal – and is now indispensable",
+            "bullets": [
+              "With Declan Rice nursing a knock, his midfield partner is the reliable rock to which team’s fate is ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With Declan Rice nursing a knock, his midfield partner is the reliable rock to which team’s fate is inescapably yokedElliot Anderson is running. It’s the 88th minute against Croatia, and the game is won, and the game is done, and this is the 60th game of his season and there are deeper challenges to come. But as long as the ball is loose, he’s going to chase it down: first Josip Sutalo and then Josko Gvardiol, a simple recycling of defensive possession rapidly mutating into an unpleasant ordeal. As the ball is worked across defence, Anderson single-handedly follows it all the way across the pitch, over to the far touchline, where he eventually forces a rushed pass and a turnover of possession.And in an opening win defined by mood swings and tectonic shifts, in a team savouring the wealth of options and contingencies at its disposal, it’s worth dwelling on just how quickly Anderson has become indispensable. Declan Rice is carrying a knock and looks a little short of gas. Harry Kane will almost certainly not have the legs to play eight full games plus extra time. The wingers, the centre-half pairing, the full-backs are not yet set in stone. Beyond Jordan Pickford, virtually every area of this team is operating in a kind of managed flux. Continue reading...",
+            "fullText": "With Declan Rice nursing a knock, his midfield partner is the reliable rock to which team’s fate is inescapably yoked\n\nElliot Anderson is running. It’s the 88th minute against Croatia, and the game is won, and the game is done, and this is the 60th game of his season and there are deeper challenges to come. But as long as the ball is loose, he’s going to chase it down: first Josip Sutalo and then Josko Gvardiol, a simple recycling of defensive possession rapidly mutating into an unpleasant ordeal. As the ball is worked across defence, Anderson single-handedly follows it all the way across the pitch, over to the far touchline, where he eventually forces a rushed pass and a turnover of possession.\n\nAnd inan opening windefined by mood swings and tectonic shifts, in a team savouring the wealth of options and contingencies at its disposal, it’s worth dwelling on just how quickly Anderson has become indispensable. Declan Rice is carrying a knock andlooks a little short of gas. Harry Kane will almost certainly not have the legs to play eight full games plus extra time. The wingers, the centre-half pairing, the full-backs are not yet set in stone. Beyond Jordan Pickford, virtually every area of this team is operating in a kind of managed flux.\n\nIn the midst of which Anderson has assumed the role of its spirit animal, its mathematical constant, its barometer, the reliable rock to which – for better and worse – England’s fate over the coming weeks will be inescapably yoked. In short, if you want to know howEnglandare doing in the coming weeks, you basically just need to watch him. Central to Anderson’s role, paradoxically, is the fact that it is not always a central role. Indeed, if you look at his heat map from the Croatia game the most striking element was how much of it he spent in wide areas: linking play with the full-backs, creating overloads and triangles, playing the first-time long ball over the top that appears to be a specific and very deliberate tactic.\n\nIn essence, it works like this: Reece James gets the ball on the right touchline. Draws the pressure from the opposing winger. Retreats towards his own goal, waits for Anderson to run towards him, and then plays a little sideways pass inside. Anderson then launches it first touch, rugby-style, into the right channel for one of the forward runners to chase. A simple move, but one that requires coordination, the physical strength to hold off the challenge, and a clean ball contact. Done right, it successfully provokes the opposition press, drags them out of position, forces them to turn and run.\n\nIn the 36th minute, we got a glimpse of what happens when it’s not done right. Anderson fluffed his lofted pass, Croatia won back possession and a few seconds later Martin Baturina had equalised. But then, shortly after half-time, the same move worked to perfection: James inside to Anderson, Anderson first-time up the touchline, and with the Croatia defence scrambling Jude Bellingham converted beautifully.\n\nEven here there are caveats to offer. Anderson’s pass was almost intercepted by Gvardiol, and probably intended for Noni Madueke rather than Bellingham in any case. Clearly, Thomas Tuchel has drilled this move in advance against teams enterprising enough to press England high. But what happens against opponents who either do not press, or press better than Croatia, or who are wise to the tactic and lurk in ambush?\n\nAnd really, these are questions that strike at the broader theme of what Anderson’s function in this team should really be, how best to use a player who in terms of skill set may well be one of the complete young midfielders English football has ever seen at his age. Anderson can genuinely do it all: pass, tackle, screen, jockey, cross, shoot. He’s good in the air, strong in duels, delivers a mean set piece, will quite literally run all day. Is there a realistic role in this team that does not, in some way, sell him short?\n\nCuriously, as the game opened out in the second half we got an answer of sorts. Rice went off; first Bellingham and then James slotted in to replace him; Anderson moved over from the right side of midfield to the left. As a right-footer, the first-time ball over the top from Nico O’Reilly was no longer an option. But instead, he offered much more of an individual threat. He bombed on into the area. He pressed much higher than in the first half. Partly, of course, this was a shift dictated by the momentum of the game. But it was a reminder, if anyone ever needed it, that this is a midfielder with so many different tools to his game.\n\nIt was interesting to watch an interview Anderson did with the BBC last month, in which he explained how his role has evolved since his days as a winger or No 10 at the Newcastle academy, and how he sees his role on the pitch now. “Six or eight, I really don’t care,” he said. “Getting on the ball and finding the attacking players, getting them the ball early in the pockets and letting them do their stuff.”\n\nThis is, of course, why Tuchel adores him: the ability to take the ball, ride the challenge, move it on early and forwards. All the same, it is worth asking whether punting long balls up the channels is in fact the best use of him. In hotter conditions, against the weaker opponents who will sit back, and the stronger opponents who will try to dominate midfield, where poise and control of the ball will be critical, England will need to show different sides to their game, measure the risk and reward a little more judiciously.\n\nUltimately, this comes down to an assertion of principle. Do you want to keep the ball in midfield, or get it out of there as quickly as possible? And in the deployment of Bellingham and James to replace Rice in the second half, the decision to leave Kobbie Mainoo on the bench and Adam Wharton at home, Tuchel has made his priorities subtly clear. He appears less concerned with midfield control than midfield mobility, as preoccupied with physical resilience as technical ability.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2622_7",
+            "category": "england",
+            "type": "News",
+            "title": "‘I paid $800 for my ticket but it was worth it’: England fans enjoying early World Cup vibe",
+            "bullets": [
+              "Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth itThey came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026 World Cup was the experience of a lifetime.“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!” Continue reading...",
+            "fullText": "Some supporters are breaking the bank to follow Thomas Tuchel’s team and early indications are that it’s worth it\n\nThey came, they saw and they went to the rodeo. For those England fans who made it to Dallas, watching Thomas Tuchel’s side see off Croatia in their opening match of the 2026World Cupwas the experience of a lifetime.\n\n“I’ve never been to a World Cup game before so I thought it was something I couldn’t miss out on,” says Oli Lee, a music producer from Kent who now lives in Los Angeles and is otherwise known as one half of the Snakehips duo who had a UK top-five hit in 2015. “I paid $800 (£604) for my ticket but it was all worth it. We had a bit of a session in Dallas – I ended up jumping in a pool with my phone in my pocket but it’s still working somehow!”\n\nAbout 4,000Englandsupporters bought tickets for the game at the futuristic Arlington Stadium – home of the Dallas Cowboys – but it is estimated that as many as 15,000 were in Texas for the buildup. A video of some launching into a chorus of “Sweet Caroline” during a break at the Fort Worth Rodeo on Tuesday went viral on social media, with many others embracing the cowboy culture by purchasing hats to shield them from the unforgiving Texan sun.\n\nOne pub in downtown Dallas, called the Londoner, said they ran out of beer after fans spent almost $30,000 in the space of three hours, with some reports in UK media claiming they ended up being thrown out by police. That version of events was disputed by the police themselves, who told local media that no one was forcibly removed.\n\nThere were no major incidents before or after the game either. Fifa has played down reports some ticketless fans were able to sneak past security to gain access to the stadium despite stringent measures in place. Some supporters are thought to have paid in excess of $1,000 for a ticket and a spokesperson for the England fans group Free Lions said that some had come to the United States on the off-chance they could pick up a late deal.\n\n“I think a lot of fans were waiting for prices to come down but they just haven’t,” he said. “There’s still a lot of demand there and I think a few fans have travelled without tickets.”\n\nLee Williams, from south London, has been planning his trip for months and took in the co-hosts’opening match in Los Angelesbefore spending a few days by the beach in Mexico. He arrived in Dallas on Tuesday and is hoping to be back for the semi-finals if England make it that far.\n\n“It’s been absolutely brilliant,” he says. “The cost is astronomical – I’ve been scared to look at my bank balance in the mornings. We bought a round of six beers last night and it cost north of $100. But the vibe has been great and the Americans have really bought into the whole thing. The atmosphere was unbelievable in Los Angeles. I’m going home to work to pay off what I’ve spent out here.”\n\nWilliams, who works in finance and also coaches Millwall Lionesses Under-18s, was encouraged by the way Thomas Tuchel’s half-time speech inspired England to seize the initiative after conceding a second equaliser just before half-time against Croatia. “I loved Gareth Southgate but he was slightly more conservative than I thought we should have been given the talent we have at our disposal. I like the way that we really took the game to Croatia in the second half and decided to take risks.”\n\nHe would, though, like to see Marc Guéhi brought in to shore up a defence that looked very shaky during the first half. “A new centre-back pairing is going to take a long time to bed in – if you are going to go far in any competition then your goalkeeper and centre-backs have to be stable and settled. Hopefully it clicks,” he adds.\n\nRepresentatives of England fan groups, including Free Lions, visited all three group stage venues in March to have an idea what to expect. Most have been encouraged to book the train – costing a cool $80 – to get to the next game against Ghana at the Gillette Stadium in Foxborough, 30 miles from downtown Boston. Williams will be watching back home in LA, albeit very nervously.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2623_8",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | USA, Mexico, Canada: which World Cup co-host can boast the most?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!An old footballing adage tells us that no World C...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!An old footballing adage tells us that no World Cup is quite complete without a gutsy run of results from the host nation(s), who dutifully go deep in the tournament to stir up local fervour. See South Korea in 2002 for a prime example: a plucky and at times controversial slalom to the semi-finals before being crushed by a traditional heavyweight. Way back when, a host nation winning the whole thing was commonplace, occurring in five of the first 11 World Cups when Uruguay (1930), Italy (1934), England (1966), West Germany (1974) and Argentina (1978) triumphed on home soil. Nowadays, thanks to Fifa’s completely altruistic desire to spread the game globally, the prospect of a host nation actually lifting the trophy is somewhat diminished, with South Africa and Qatar crashing out in the group stage in recent-ish years.Oh god, as if ‘do one’ is not hilarious enough (getting funnier with endless repetition), you are now translating it into the language of the manager involved! Where will it end? Wherever it ends it will just keep getting better and better” – Trevor West (and no others).I am very much enjoying the GWC here in North America, good stadiums, great fans (the Scots drank Boston dry) but watching the games on American TV is really annoying. The US commentators prattle on continuously without ever identifying the player with the ball, never allow for a moment’s silence, and are such an irritation that its better to watch with the TV on mute and find another source of commentary (this is definitely not just a problem in the USA USA USA – Football Daily Ed). I have friends who prefer to watch the Spanish TV coverage even though they don’t speak Spanish!” – Trevor WastellMay I be the 1,056th musician to point out that Will Unwin is clearly in the dark re orchestral manoeuvres as evinced by his ‘redundant second fiddle metaphor’ comments (yesterday’s Football Daily). By definition, an orchestra cannot exist without an entire row (desk) of second fiddles and indeed thirds. Marcus Rashford may indeed be dissatisfied with Thomas Tuchel’s assessment of his talents but I would refer him to the comment from a conductor when a second fiddle complained that being two rows back she was too close to the intolerably loud trumpet section behind her. ‘If you want to be nearer the front you should practise harder’ came the response” – Harry Piano.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nAn old footballing adage tells us that no World Cup is quite complete without a gutsy run of results from the host nation(s), who dutifully go deep in the tournament to stir up local fervour. See South Korea in 2002 for a prime example: a plucky and at times controversial slalom to the semi-finals before being crushed by a traditional heavyweight. Way back when, a host nation winning the whole thing was commonplace, occurring in five of the first 11 World Cups when Uruguay (1930), Italy (1934), England (1966), West Germany (1974) and Argentina (1978) triumphed on home soil. Nowadays, thanks to Fifa’s completely altruistic desire to spread the game globally, the prospect of a host nation actually lifting the trophy is somewhat diminished, with South Africa and Qatar crashing out in the group stage in recent-ish years.\n\nEven with three hosts for the first time ever in this unique Geopolitics World Cup, a run beyond the quarter-finals for any of them seemed unlikely when the pre-tournament predictions came in. Still, the cliches ring true andCanada’s 6-0 shellacking of Qatarin Vancouver, which virtually assures Jesse Marsch’s crew a place in the knockout stages, was a boost for the neutrals. A serious injury to Ismaël Konémarred the occasion a little, but Jonathan David’s hat-trick – which included a fizzing volley for the ages – will live as long in the memory as Mohamed Manai’s slapstick own goal. Mexico, too, will be in the last 32 aftera 1-0 win over South Koreathat will live, er, slightly less long in the memory. Midfielder Luis Romo scored the only goal after a horrible handling error from Kim Seung-gyu. Perhaps the South Korean keeper was just bored; Football Daily can only hope none of our UK-based contingent stayed up until 4am to watch that one until its conclusion. Even getting through the nine-minute highlights over our morning Cheerios felt like a slog. Is this what World Cup fatigue feels like?Anyway, it’s now the turn of the USA USA USA to build on theirhugely promisingopening win over Paraguay and inject further World Cup fever into the triumvirate of hosts, taking on Australia in a titanic tussle between nations who secretly prefer their balls to be egg-shaped. Mauricio Pochettino’s charges actually resembled a coherent team in that 4-1 victory last weekend, with the pace of Folarin Balogun and Christian Pulisic hugely threatening in attack. But the Australians,who snatched a flamin’ brilliant winoverdark horsesTurkey in their first outing, will be no pushovers. This feels like the true test for the US. Can they act like big-hitters and swat away successive challengers to top their group and generate momentum into the knockout stages, as would be befitting ofTHE MAINhosts of a Donald Trump-endorsed, ultra-commercialised World Cup? Getting out of their group already seems highly likely, but a scruffy scrape to get there will no longer suffice in the modern age of American soccer. Pochettino’s team must be bombastic, confident verging on arrogant, and actually good at football. Annihilate Australia and the World (Cup) is their oyster.\n\nIfour shiny GWC Golden Boot pagewasn’t enough for you, we’ve now only gone and builtan all-time World Cup top goalscorers pagetoo.\n\nBeau Dure steps up to the plate with minute-by-minute coverage of USA USA USA 0-0 Australia at 8pm BST (3pm EDT) before John Brewin brings you all the action from Scotland 0-0 Morocco at 11pm BST (6pm EDT). Jonathan Howcroft is in the hotseat for Brazil 0-0 Haiti (8.30pm EDT/Sat 1.30am BST), before Sam Lewis rounds things off/starts the weekend with Turkey 4-0 Paraguay (11pm EDT, Sat 4am BST).\n\n“That was one of my favourite ever moments in an England shirt, especially at a major tournament. I know it’s just the first game, and we’re not getting carried away, but just that emotional connection with the fans, we know how much it means to them. Everyone knew the words, and that was a really special moment, I thought” – it’s fair to say Harry Kane enjoyed singing Wonderwall with the England fans after they saw off Croatia in Dallas. Could the captain enjoy an encore in a month’s time? 🎵 🎵 Maybe … 🎵 🎵\n\ndouble quotation markOh god, as if ‘do one’ is not hilarious enough (getting funnier with endless repetition), you are now translating it into the language of the manager involved! Where will it end? Wherever it ends it will just keep getting better and better” – Trevor West (and no others).\n\ndouble quotation markI am very much enjoying the GWC here in North America, good stadiums, great fans (the Scots drank Boston dry) but watching the games on American TV is really annoying. The US commentators prattle on continuously without ever identifying the player with the ball, never allow for a moment’s silence, and are such an irritation that its better to watch with the TV on mute and find another source of commentary (this is definitely not just a problem in the USA USA USA – Football Daily Ed). I have friends who prefer to watch the Spanish TV coverage even though they don’t speak Spanish!” – Trevor Wastell\n\ndouble quotation markMay I be the 1,056th musician to point out that Will Unwin is clearly in the dark re orchestral manoeuvres as evinced by his ‘redundant second fiddle metaphor’ comments (yesterday’s Football Daily). By definition, an orchestra cannot exist without an entire row (desk) of second fiddles and indeed thirds. Marcus Rashford may indeed be dissatisfied with Thomas Tuchel’s assessment of his talents but I would refer him to the comment from a conductor when a second fiddle complained that being two rows back she was too close to the intolerably loud trumpet section behind her. ‘If you want to be nearer the front you should practise harder’ came the response” – Harry Piano.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Harry Piano. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-19 @ 13:32:45 EDT",
+  "lastUpdated": "2026-06-19 @ 16:26:25 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
