@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Saka trains alone as England prepare for Ghana game",
+      "link": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Why Kane is different at this World Cup - Shearer",
       "link": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,8 +16,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Spurs to enter Wharton chase - Saturday's gossip",
-      "link": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Rashford and Rice give England boost for Ghana with Saka set for bench again",
+      "link": "https://www.theguardian.com/football/2026/jun/20/rashford-and-rice-give-england-boost-for-ghana-but-saka-set-for-bench-again"
     },
     {
       "text": "⚽ USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
@@ -7792,11 +7796,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0648_0",
+            "category": "england",
+            "type": "News",
+            "title": "Saka trains alone as England prepare for Ghana game",
+            "bullets": [
+              "Bukayo Saka was the only player not present in group training as England continued their preparation...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
+            "fullText": "Saka came off the bench after 72 minutes in England's 4-2 World Cup win over Croatia\n\nBukayo Saka was the only player not involved in group training as England continued preparations for their second match of the World Cup against Ghana.\n\nThe Arsenal winger spent Saturday's session indoors working on an individual programme as he continues to deal with an Achilles issue he has been managing since March.\n\nEngland meet Ghana in Boston on Tuesday (21:00 BST) with both sideshaving started Group Lwith a victory.\n\nHead coach Thomas Tuchel was on the training pitch at Swope Soccer Village in Kansas City with 25 of his 26 players as baseball team the KC Royals watched on alongside opponents St Louis Cardinals after the two had played on Friday night.\n\nSaka came off the bench inthe 4-2 win over Croatia on Wednesday, and provided an assist to fellow substitute Marcus Rashford for England's fourth.\n\nBefore the tournament, Tuchel said Saka would require managing through the opening stages because of what is understood to be an Achilles tendinitis issue.\n\nSaka has insisted he was ready to play and was prepared to \"gamble\" on his fitness to help the team during the World Cup.\n\nHowever, Tuchel said the 24-year-old is unlikely to start until the final Group L game against Panama in New Jersey on Saturday, 27 June (22:00 BST).\n\n\"Bukayo is ready and will get more and more ready,\" Tuchel said. \"I think once we go to the last game of this group he will be ready.\"\n\nSaka has been carrying the issue for some time, and while there was concern behind the scenes at Arsenal, they deemed the forward fit enough to start regularly during their triumphant title run-in.\n\nArsenal boss Mikel Arteta is often very guarded with regards to his players' injury concerns and has generally kept information about Saka's condition in-house.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0648_1",
+            "category": "england",
+            "type": "News",
+            "title": "Why Kane is different at this World Cup - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
+            "fullText": "It took Harry Kane four games and 269 minutes to even manage a shot on target at the 2022 World Cup in Qatar.\n\nHe looked tired early in that tournament and I felt he needed a rest after England's first two matches.\n\nThings could not be more different this time - he will be on top of the world after scoring twice in the4-2 win against Croatia.\n\nAs a striker, the one thing you desperately want to do at any major tournament is get off to a good start.\n\nI was lucky enough to do that myself for England when we beat Tunisia in our first game at the 1998 World Cup.\n\nHonestly, it was a massive relief - not only for the team to get the win, but to get on the scoresheet myself, as captain and our main goalscorer, when everyone was looking at me to deliver.\n\nFor all the same reasons, I know Kane will be feeling exactly the same way after the way he played on Wednesday.\n\nHe had to sit all week with the rest of the England squad and watch all the other games, seeing superstars like France's Kylian Mbappe, Norway's Erling Haaland and Argentina's Lionel Messi get up and running, not just with one goal but by scoring at least two.\n\nKane would have been absolutely desperate to join the party and get off the mark in his first game too, so to do that after only 12 minutes and go on to get another one as well, is huge for him - and for England.\n\nWhen Kane finally got a shot on target in Qatar, in the last 16 against Senegal, he scored.\n\nThis time he has got that feel-good factor from the very start, and we've already seen what he does when that happens - at Russia in 2018, Kane scored five goals in England's first two games to send him on his wayto the Golden Bootand help us reach the semi-finals.\n\nWith arguably our toughest game in Group L out of the way and Ghana and Panama next, his eyes must be lighting up.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0650_2",
+            "category": "england",
+            "type": "News",
+            "title": "England winger Saka unlikely to start against Ghana",
+            "bullets": [
+              "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start aga...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
+            "fullText": "Bukayo Saka came on in the 72nd minute of England's opening win against Croatia\n\nEngland head coach Thomas Tuchel has hinted that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.\n\nSaka came off the bench in the4-2 World Cup win over Croatia on Wednesday, and immediately provided an assist to fellow substitute Marcus Rashford, who slotted home England's fourth.\n\nBefore the tournament, Tuchel said Saka would require managing through the opening stages because of what is understood to be an Achilles tendinitis issue.\n\nOn Monday, Saka insisted he was ready to play and was prepared to \"gamble\" on his fitness to help the team during the World Cup.\n\nHowever, Tuchel says the Arsenal attacker is unlikely to start until the final group game against Panama in New Jersey on 27 June.\n\nHe said: \"Bukayo is ready and will get more and more ready. I think once we go to the last game of this group he will be ready.\"\n\nSaka has been carrying the issue for some time, and while there was concern behind the scenes at Arsenal about the niggle they deemed their forward fit enough to start regularly during their triumphant title run-in.\n\nIt is understood that Saka's ongoing Achilles issue has not deteriorated since the climax of the domestic season.\n\nArsenal boss Mikel Arteta, who is often very guarded with regards to his players' injury concerns, has generally kept information about Saka's condition in-house but Tuchel's admission that the 24-year-old has to be managed through at least part of the World Cup has thrust the winger's fitness into the limelight.\n\nTuchel's latest comments appear to show that the German is protecting Saka, knowing the attacker will likely be a crucial asset during the latter stages of the tournament - but could also start the game against Ghana if required.\n\nStick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0650_3",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford and Rice give England boost for Ghana with Saka set for bench again",
+            "bullets": [
+              "Saka stayed indoors for individual training on SaturdayEngland’s second game is against Ghana on Tue...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Saka stayed indoors for individual training on SaturdayEngland’s second game is against Ghana on TuesdayMarcus Rashford and Declan Rice have given England a boost by training in advance of Tuesday’s game against Ghana, but Bukayo Saka looks likely to start on the bench again as he works his way back towards full fitness.Thomas Tuchel has revealed Saka is managing an achilles problem and is not ready to complete a full 90 minutes yet. The winger came off the bench when England opened their World Cup campaign against Croatia with a 4-2 win in Dallas on Wednesday, but he is still being treated with caution. Continue reading...",
+            "fullText": "Saka stayed indoors for individual training on Saturday\n\nMarcus Rashford and Declan Rice have given England a boost by training in advance of Tuesday’s game against Ghana, but Bukayo Saka looks likely to start on the bench again as he works his way back towards full fitness.\n\nThomas Tuchel has revealedSaka is managing an achilles problemand is not ready to complete a full 90 minutes yet. The winger came off the bench when England opened their World Cup campaign against Croatiawith a 4-2 winin Dallas on Wednesday, but he is still being treated with caution.\n\nSaka stayed indoors to work on an individual programme at England’s training base in Kansas City on Saturday, indicating that Noni Madueke will start again on the right whenEnglandface Ghana in Boston in their second game in Group L.\n\nEngland are top of their group after an impressive second half against Croatia, although they left Dallas with a couple of injury concerns.Rashford, who came on and scoredthe fourth goal, complained of a minor muscular problem and Rice went off in the 72nd minute after feeling discomfort in his lower back and upper hamstring.\n\nBut there was good news for Tuchel when the team returned to training after being given a day off on Friday. Rashford, who is competing with Anthony Gordon for a place on the left flank, looked in good shape and Rice, the vice-captain anda crucial part of England’s midfield, also appeared to be moving freely as Tuchel ran his players through passing drills.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0650_4",
+            "category": "england",
+            "type": "News",
+            "title": "USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson, Jack Snape, Alex Abnos a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson, Jack Snape, Alex Abnos and Ewan Murray as the USA progress to the round of 32 Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,Lars Sivertsen, Seb Hutchinson,Jack Snape,Alex Abnosand Ewan Murray as the USA progress to the round of 32",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 12:06:11 EDT",
+  "lastUpdated": "2026-06-20 @ 16:06:52 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
