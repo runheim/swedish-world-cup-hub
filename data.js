@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ 'Era of the spy': Mauricio Pochettino spotted looking for spies – video",
       "link": "https://www.theguardian.com/football/video/2026/jun/19/era-of-spy-mauricio-pochettino-spotted-looking-for-spies-video"
-    },
-    {
-      "text": "⚽ Forget the confected World Cup hostility, the US and Australia mirror each other",
-      "link": "https://www.theguardian.com/football/2026/jun/19/australia-v-usa-socceroos-usmnt-confected-hostility-2026-world-cup"
     }
   ],
   "timeline": {
@@ -2593,10 +2589,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-20": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3533_0",
+            "category": "usa",
+            "type": "News",
+            "title": "'Era of the spy': Mauricio Pochettino spotted looking for spies – video",
+            "bullets": [
+              "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video appearing to look for spies at his team's training ground.&nbsp;“I wanted to see, because you know, we're in an era of, how you say: spy,” he told reporters at his pre-match press conference before their second group-stage match against Australia.World Cup newsletter | Daily podcast | Download the app Continue reading...",
+            "fullText": "Guardian journalist Pablo Iglesias Maurer captured the US manager Mauricio Pochettino taking a video appearing to look for spies at his team's training ground. “I wanted to see, because you know, we're in an era of, how you say: spy,” he told reporters at his pre-match press conference before their second group-stage match against Australia.\n\nWorld Cup newsletter|Daily podcast|Download the app",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-19 @ 18:13:10 EDT",
+  "lastUpdated": "2026-06-20 @ 04:35:48 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
