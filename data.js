@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Sweden's bold approach: \"Must absolutely dare to be offensive\"",
+      "link": "https://www.svt.se/sport/fotboll/sveriges-djarva-installning-ska-absolut-vaga-vara-offensiva"
+    },
+    {
       "text": "⚽ \"Odd\" kick-off time for Sweden: \"Not the nicest\"",
       "link": "https://www.svt.se/sport/fotboll/udda-avsparkstid-for-sverige-inte-det-skonaste"
-    },
-    {
-      "text": "⚽ Gabriel Gudmundsson slams the father's statement: \"An exaggeration\"",
-      "link": "https://www.svt.se/sport/fotboll/gabriel-gudmundsson-slar-ner-pappans-uttalande-en-overdrift"
-    },
-    {
-      "text": "⚽ Elanga on playing time: \"Then I will make a difference\"",
-      "link": "https://www.svt.se/sport/fotboll/elanga-om-speltiden-da-kommer-jag-gora-skillnad"
     }
   ],
   "timeline": {
@@ -4552,7 +4548,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 04:35:30 EDT",
+  "lastUpdated": "2026-06-20 @ 06:42:02 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
