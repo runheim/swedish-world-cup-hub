@@ -14,10 +14,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ \"Odd\" kick-off time for Sweden: \"Not the nicest\"",
       "link": "https://www.svt.se/sport/fotboll/udda-avsparkstid-for-sverige-inte-det-skonaste"
-    },
-    {
-      "text": "⚽ Brobbey and Gakpo at the double as five-star Netherlands crush sorry Sweden",
-      "link": "https://www.theguardian.com/football/2026/jun/20/netherlands-sweden-world-cup-group-f-match-report"
     }
   ],
   "timeline": {
@@ -4700,11 +4696,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4640_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The families on site during Sweden's thrill match: \"Memory for life\"",
+            "bullets": [
+              "The family's energy becomes significant during the WC. Several of Sweden's WC stars will have loved ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The family's energy becomes significant during the WC. Several of Sweden's WC stars will have loved ones there against the Netherlands. - It's unbelievable, says national team captain Graham Potter.",
+            "fullText": "Several of Sweden's WC stars will have loved ones there against the Netherlands.\n\n- It's unbelievable, says national team captain Graham Potter.\n\nJust before the press conference the day before the meeting with the Netherlands, Victor Nilsson Lindelöf had time to visit the family. They had shortly before arrived at the WC venue Houston.\n\n- It is great fun that they are finally there and that they get to experience a WC and see me play. It means a lot. My wife, my mother and my brothers are here, says the team captain.\n\nSeveral players have previously revealed family members are planning a trip across the Atlantic for the second group stage match as the Netherlands await.\n\nSome had loved ones in place before. For example, Isak Hien's father Dechor was present in Monterrey in connection with the Tunisia meeting.\n\n- It's fun to see how they take everything in. They loved Monterrey and the match experience. It is a memory for life, says the national team captain.\n\nThe match between Sweden and the Netherlands kicks off at 19:00, Swedish time, on Midsummer's Day.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4642_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden's bold approach: \"Must absolutely dare to be offensive\"",
+            "bullets": [
+              "Blue and yellow against the top nation Netherlands. With a clear stance. - I really think we should ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Blue and yellow against the top nation Netherlands. With a clear stance. - I really think we should push on, says Daniel Svensson to SVT Sport.",
+            "fullText": "- I really think we should push on, says Daniel Svensson to SVT Sport.\n\nAfter a 5–1 victory against Tunisia, Sweden moves on to the second round of the group stage with air under its wings.\n\nThere, the Swedes face the Netherlands (eighth in Fifa's world ranking).\n\n- It is a good national team with many world stars. It is clear that it will be tough. If we play like the last, we have a good chance, says Daniel Svensson, everyday in Borussia Dortmund.\n\nBlågult was in large moments ball carrier with offensive weight against Tunisia. Can it work against a top ranked nation?\n\n- You have to be offensive, otherwise you don't score goals. We have to focus on our game and check what we could have done better against Tunisia and then also do it against the Netherlands. We have very good players, from defense to attack, says Newcastle star Anthony Elanga and continues:\n\n- They have skilled and smart players. When we get our chances in front of goal, we have to be skilled.\n\nSweden, for its part, is ranked 35th in the world. The meeting with the Netherlands will be played on Saturday, during Midsummer Day, starting at 19.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4645_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "\"Odd\" kick-off time for Sweden: \"Not the nicest\"",
+            "bullets": [
+              "Second round of the WC group stage. Then a different match time awaits for Sweden. - Now it will be ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Second round of the WC group stage. Then a different match time awaits for Sweden. - Now it will be an adjustment for some, says wingback Alexander Bernhardsson.",
+            "fullText": "- Now it will be an adjustment for some, says wingback Alexander Bernhardsson.\n\nHear Alexander Bernhardsson about the early match start in the player above.\n\nSweden played their first game against Tunisia in Monterrey, Mexico, with the match starting at 20:00 local time.\n\nWhen the Netherlands is now waiting, it will be a bit of a wake-up call for the Swedish national team stars. In Houston, the match kicks off at 12.00.\n\n- In Germany we have played at 1pm and 1.30pm. It's not the best of times, says Holsten Kiel player Alexander Bernhardsson.\n\n- When it's so early, I try to get up a little earlier and move my body a little. Otherwise, it gets a little soggy in the head. You make sure to get food and fluids as much as possible up until the start of the match, says national team colleague Gabriel Gudmundsson, on weekdays in Leeds.\n\nSome of the national team stars, who play in other leagues, are of course used to later kick-off times.\n\n- Now it will be an adjustment for some who are used to playing a little later. I myself am used to how to charge, says Bernhardsson.\n\nBenjamin Nygren has early kick-off times with his Celtic in Scotland.\n\n- It's chill, nothing that I think about. But I have still preferred evenings when the lights are on and such, he says.\n\nWhat start of the match then applies in Sweden? Well, much more pleasant at 19.00 on Saturday.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 16:06:52 EDT",
+  "lastUpdated": "2026-06-20 @ 18:46:45 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
