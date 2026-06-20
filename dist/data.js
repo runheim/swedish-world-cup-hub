@@ -4,28 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Spurs to enter Wharton chase - Saturday's gossip",
-      "link": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Why Kane is different at this World Cup - Shearer",
+      "link": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ England winger Saka unlikely to start against Ghana",
       "link": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Stick or twist? Rashford and Guehi are Tuchel's big dilemmas",
-      "link": "https://www.bbc.com/sport/football/articles/cpq3e1r2x8go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Who's the Bos? - meet 2026 World Cup's fastest player",
-      "link": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Spurs to enter Wharton chase - Saturday's gossip",
+      "link": "https://www.bbc.com/sport/football/articles/cvgl9y9jdlwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
       "link": "https://www.theguardian.com/football/video/2026/jun/20/usa-go-supersonic-in-seattle-and-morocco-squeeze-past-scotland-world-cup-daily"
-    },
-    {
-      "text": "⚽ Football Daily | USA, Mexico, Canada: which World Cup co-host can boast the most?",
-      "link": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter"
     }
   ],
   "timeline": {
@@ -7726,11 +7718,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0607_0",
+            "category": "england",
+            "type": "News",
+            "title": "Why Kane is different at this World Cup - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
+            "fullText": "It took Harry Kane four games and 269 minutes to even manage a shot on target at the 2022 World Cup in Qatar.\n\nHe looked tired early in that tournament and I felt he needed a rest after England's first two matches.\n\nThings could not be more different this time - he will be on top of the world after scoring twice in the4-2 win against Croatia.\n\nAs a striker, the one thing you desperately want to do at any major tournament is get off to a good start.\n\nI was lucky enough to do that myself for England when we beat Tunisia in our first game at the 1998 World Cup.\n\nHonestly, it was a massive relief - not only for the team to get the win, but to get on the scoresheet myself, as captain and our main goalscorer, when everyone was looking at me to deliver.\n\nFor all the same reasons, I know Kane will be feeling exactly the same way after the way he played on Wednesday.\n\nHe had to sit all week with the rest of the England squad and watch all the other games, seeing superstars like France's Kylian Mbappe, Norway's Erling Haaland and Argentina's Lionel Messi get up and running, not just with one goal but by scoring at least two.\n\nKane would have been absolutely desperate to join the party and get off the mark in his first game too, so to do that after only 12 minutes and go on to get another one as well, is huge for him - and for England.\n\nWhen Kane finally got a shot on target in Qatar, in the last 16 against Senegal, he scored.\n\nThis time he has got that feel-good factor from the very start, and we've already seen what he does when that happens - at Russia in 2018, Kane scored five goals in England's first two games to send him on his wayto the Golden Bootand help us reach the semi-finals.\n\nWith arguably our toughest game in Group L out of the way and Ghana and Panama next, his eyes must be lighting up.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0608_1",
+            "category": "england",
+            "type": "News",
+            "title": "England winger Saka unlikely to start against Ghana",
+            "bullets": [
+              "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start aga...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel hints that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.",
+            "fullText": "Bukayo Saka came on in the 72nd minute of England's opening win against Croatia\n\nEngland head coach Thomas Tuchel has hinted that Bukayo Saka is unlikely to be in contention to start against Ghana on Tuesday.\n\nSaka came off the bench in the4-2 World Cup win over Croatia on Wednesday, and immediately provided an assist to fellow substitute Marcus Rashford, who slotted home England's fourth.\n\nBefore the tournament, Tuchel said Saka would require managing through the opening stages because of what is understood to be an Achilles tendinitis issue.\n\nOn Monday, Saka insisted he was ready to play and was prepared to \"gamble\" on his fitness to help the team during the World Cup.\n\nHowever, Tuchel says the Arsenal attacker is unlikely to start until the final group game against Panama in New Jersey on 27 June.\n\nHe said: \"Bukayo is ready and will get more and more ready. I think once we go to the last game of this group he will be ready.\"\n\nSaka has been carrying the issue for some time, and while there was concern behind the scenes at Arsenal about the niggle they deemed their forward fit enough to start regularly during their triumphant title run-in.\n\nIt is understood that Saka's ongoing Achilles issue has not deteriorated since the climax of the domestic season.\n\nArsenal boss Mikel Arteta, who is often very guarded with regards to his players' injury concerns, has generally kept information about Saka's condition in-house but Tuchel's admission that the 24-year-old has to be managed through at least part of the World Cup has thrust the winger's fitness into the limelight.\n\nTuchel's latest comments appear to show that the German is protecting Saka, knowing the attacker will likely be a crucial asset during the latter stages of the tournament - but could also start the game against Ghana if required.\n\nStick or twist? Rashford and Guehi are Tuchel's big dilemmas",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0608_2",
+            "category": "england",
+            "type": "News",
+            "title": "Spurs to enter Wharton chase - Saturday's gossip",
+            "bullets": [
+              "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham are the latest club interested in Adam Wharton, Liverpool are yet to agree a deal for Yan Diomande, Fulham fail with their opening bid for Chibuike Nwaiwu, plus more.",
+            "fullText": "Tottenhamare the latest club interested in Adam Wharton,Liverpoolare yet to agree a deal for Yan Diomande, andFulhamfail with their opening bid for Chibuike Nwaiwu.\n\nTottenhamare ready to test the water with a bid forCrystal Palace's22-year-old England midfielder Adam Wharton.(Teamtalk),external\n\nRB Leipzighave turned down an offer of Â£87m fromLiverpoolfor 19-year-old Ivory Coast winger Yan Diomande as they want  Â£113m.(Liverpool Echo),external\n\nFulhamhave had a Â£17m bid rejected by Turkish clubTrabzonsporfor 22-year-old Nigeria defender Chibuike Nwaiwu.(Fotomac - in Turkish),external\n\nBayern Munichwant to give 24-year-old France winger Michael Olise a lucrative new contract in order amid interest fromReal MadridandLiverpool.(Mirror),external\n\nTottenhamare not planning to make a move for 24-year-old Marseille striker Mason Greenwood, whileRomaare currently short of the asking price.(Mail),external\n\nEverton,Tottenhamand newly promotedIpswichare looking to sign 22-year-old Cameroon forward Karl Etta Eyong fromLevantethis summer.(Teamtalk),external\n\nCelticturned down a Â£25m bid fromNottingham Forestin January for 22-year-old Belgium midfielder Arne Engels but are open to offers, withCrystal PalaceandBorussia Dortmundalso interested.(Football Insider),external\n\nLeedsare interested in signingSouthampton'sNorthern Ireland midfielder Shea Charles, who is valued at more than Â£20m,this summer.(Mail),external\n\nLeedsare also looking at a move for Germany forward Julian Brandt, 30, who is a free agent this summer after leavingBorussia Dortmund.(Yorkshire Evening Post),external\n\nWolvesare keen on bringing Scotland striker Che Adams, 29, back fromTorinothis summer.(Tuttomercato - in Italian),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0608_3",
+            "category": "england",
+            "type": "News",
+            "title": "USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson, Jack Snape, Alex Abnos a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson, Jack Snape, Alex Abnos and Ewan Murray as the USA progress to the round of 32 Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,Lars Sivertsen, Seb Hutchinson,Jack Snape,Alex Abnosand Ewan Murray as the USA progress to the round of 32",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 06:41:43 EDT",
+  "lastUpdated": "2026-06-20 @ 12:06:11 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
