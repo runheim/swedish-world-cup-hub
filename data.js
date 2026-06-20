@@ -8,12 +8,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Country music fan Kane leaves Ella Langley gig early to make curfew",
+      "link": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Why Kane is different at this World Cup - Shearer",
       "link": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England winger Saka unlikely to start against Ghana",
-      "link": "https://www.bbc.com/sport/football/articles/crm0kg22m9jo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Cooling hoodies help England staff combat World Cup heat",
+      "link": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Rashford and Rice give England boost for Ghana with Saka set for bench again",
@@ -7887,11 +7891,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4629_0",
+            "category": "england",
+            "type": "News",
+            "title": "Saka trains alone as England prepare for Ghana game",
+            "bullets": [
+              "Bukayo Saka was the only player not present in group training as England continued their preparation...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
+            "fullText": "Saka came off the bench after 72 minutes in England's 4-2 World Cup win over Croatia\n\nBukayo Saka was the only player not involved in group training as England continued preparations for their second match of the World Cup against Ghana.\n\nThe Arsenal winger spent Saturday's session indoors working on an individual programme as he continues to deal with an Achilles issue he has been managing since March.\n\nEngland meet Ghana in Boston on Tuesday (21:00 BST) with both sideshaving started Group Lwith a victory.\n\nHead coach Thomas Tuchel was on the training pitch at Swope Soccer Village in Kansas City with 25 of his 26 players as baseball team the KC Royals watched on alongside opponents St Louis Cardinals after the two had played on Friday night.\n\nSaka came off the bench inthe 4-2 win over Croatia on Wednesday, and provided an assist to fellow substitute Marcus Rashford for England's fourth.\n\nBefore the tournament, Tuchel said Saka would require managing through the opening stages because of what is understood to be an Achilles tendinitis issue.\n\nSaka has insisted he was ready to play and was prepared to \"gamble\" on his fitness to help the team during the World Cup.\n\nHowever, Tuchel said the 24-year-old is unlikely to start until the final Group L game against Panama in New Jersey on Saturday, 27 June (22:00 BST).\n\n\"Bukayo is ready and will get more and more ready,\" Tuchel said. \"I think once we go to the last game of this group he will be ready.\"\n\nSaka has been carrying the issue for some time, and while there was concern behind the scenes at Arsenal, they deemed the forward fit enough to start regularly during their triumphant title run-in.\n\nArsenal boss Mikel Arteta is often very guarded with regards to his players' injury concerns and has generally kept information about Saka's condition in-house.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4630_1",
+            "category": "england",
+            "type": "News",
+            "title": "Country music fan Kane leaves Ella Langley gig early to make curfew",
+            "bullets": [
+              "Harry Kane and Dan Burn were among the England players at a concert of US country music star Ella La...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane and Dan Burn were among the England players at a concert of US country music star Ella Langley, but had to leave early to make their curfew.",
+            "fullText": "England captain Harry Kane and country music star Ella Langley\n\nHarry Kane and Dan Burn were among the England players who attended a concert of US country music star Ella Langley, but had to leave early to make their curfew.\n\nDefender Burn said that captain Kane, who scored twice in England's 4-2 win over Croatia in their opening World Cup match, is a \"big country music fan\".\n\nThe England players were given a day off by manager Thomas Tuchel on Friday and  Kane, Burn and goalkeeper Jason Steele used the opportunity to watch Langley in Independence, Missouri.\n\nLangley is best known for her hit Choosin' Texas, which hit the top of the US charts and has reached number 12 in the UK.\n\n\"We got asked to go and watch Ella Langley. I was the only person suited and booted with cowboy hat, jeans, the lot,\" said Newcastle United's Burn.\n\n\"Harry and Steeley managed to meet Ella before the gig, but I turned up a little bit later.\n\n\"But we missed the last three songs because we had to be back for curfew, which I was a bit gutted about because those are her best ones.\"\n\nHe added: \"Harry is a big country music fan. There's a record player in the hotel and when it's the captain's pick a lot of it is country music.\n\n\"Ella was playing in West Palm Beach when we were there, but we weren't able to go because we wouldn't have got back for curfew so I'm glad we got another opportunity.\"\n\nKane later posted pictures from the concert on Instagram, one showing him stood next to Langley who is holding an England shirt.\n\n\"Great to meet you @ellalangleymusic, thank you for having us!\" he wrote.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4630_2",
+            "category": "england",
+            "type": "News",
+            "title": "Why Kane is different at this World Cup - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
+            "fullText": "It took Harry Kane four games and 269 minutes to even manage a shot on target at the 2022 World Cup in Qatar.\n\nHe looked tired early in that tournament and I felt he needed a rest after England's first two matches.\n\nThings could not be more different this time - he will be on top of the world after scoring twice in the4-2 win against Croatia.\n\nAs a striker, the one thing you desperately want to do at any major tournament is get off to a good start.\n\nI was lucky enough to do that myself for England when we beat Tunisia in our first game at the 1998 World Cup.\n\nHonestly, it was a massive relief - not only for the team to get the win, but to get on the scoresheet myself, as captain and our main goalscorer, when everyone was looking at me to deliver.\n\nFor all the same reasons, I know Kane will be feeling exactly the same way after the way he played on Wednesday.\n\nHe had to sit all week with the rest of the England squad and watch all the other games, seeing superstars like France's Kylian Mbappe, Norway's Erling Haaland and Argentina's Lionel Messi get up and running, not just with one goal but by scoring at least two.\n\nKane would have been absolutely desperate to join the party and get off the mark in his first game too, so to do that after only 12 minutes and go on to get another one as well, is huge for him - and for England.\n\nWhen Kane finally got a shot on target in Qatar, in the last 16 against Senegal, he scored.\n\nThis time he has got that feel-good factor from the very start, and we've already seen what he does when that happens - at Russia in 2018, Kane scored five goals in England's first two games to send him on his wayto the Golden Bootand help us reach the semi-finals.\n\nWith arguably our toughest game in Group L out of the way and Ghana and Panama next, his eyes must be lighting up.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4630_3",
+            "category": "england",
+            "type": "News",
+            "title": "Cooling hoodies help England staff combat World Cup heat",
+            "bullets": [
+              "As the England players trained under the searing heat of the Kansas City sun on Saturday, manager Th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As the England players trained under the searing heat of the Kansas City sun on Saturday, manager Thomas Tuchel took a very different approach to keeping himself cool.",
+            "fullText": "Thomas Tuchel was wearing the sun protection top as he led England in their latest training session.\n\nAs the England players trained under the searing heat of the Kansas City sun on Saturday, manager Thomas Tuchel took a very different approach to keeping himself cool.\n\nIn stark contrast to Declan Rice and the rest of the team who were wearing vest tops, Tuchel was pictured wearing a cap and a hoodie.\n\nIt turns out that special sun protection hoodies are being used by the Three Lions to deal with the hot conditions at their training base at Swope Soccer Village, Missouri.\n\nThe Football Association carried out a lot of research in preparation for the tournament and the weather that the team will face.\n\nTuchel was part of a delegation that went to the Club World Cup which was held in the country last summer as he planned how to lead England to World Cup glory.\n\nThe England players are also using high-tech palm-cooling devices in the USA to combat the heat, with studies showing that at least a third of the games during the World Cup will be played in temperatures higher than 26C. Some players are also using cooling vests.\n\nTuchel, who was taking the players through their session with the hood of his sun protection top over his head, was not the only member of staff wearing the top.\n\nEngland assistants Anthony Barry, Nicolas Mayer and Justin Cochrane were also wearing the sun protection technology during their latest session as the coaches prepared the players for their next group match against Ghana on Tuesday (21:00 BST).\n\nDescriptions of similar tops found online say they filter \"harsh UV rays to protect your skin from the sun\" and keep skin \"cool and dry\".\n\nTuchel led the session in front of local baseball side the Kansas City Royals and their opponents the St Louis Cardinals, as the two sides had been in action on Friday night.\n\nBukayo Saka was the only player missing from the pitch as the Arsenal winger followed an individual programme indoors as he manages an Achilles issue.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4630_4",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford and Rice give England boost for Ghana with Saka set for bench again",
+            "bullets": [
+              "Saka stayed indoors for individual training on SaturdayEngland’s second game is against Ghana on Tue...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Saka stayed indoors for individual training on SaturdayEngland’s second game is against Ghana on TuesdayMarcus Rashford and Declan Rice have given England a boost by training in advance of Tuesday’s game against Ghana, but Bukayo Saka looks likely to start on the bench again as he works his way back towards full fitness.Thomas Tuchel has revealed Saka is managing an achilles problem and is not ready to complete a full 90 minutes yet. The winger came off the bench when England opened their World Cup campaign against Croatia with a 4-2 win in Dallas on Wednesday, but he is still being treated with caution. Continue reading...",
+            "fullText": "Saka stayed indoors for individual training on Saturday\n\nMarcus Rashford and Declan Rice have given England a boost by training in advance of Tuesday’s game against Ghana, but Bukayo Saka looks likely to start on the bench again as he works his way back towards full fitness.\n\nThomas Tuchel has revealedSaka is managing an achilles problemand is not ready to complete a full 90 minutes yet. The winger came off the bench when England opened their World Cup campaign against Croatiawith a 4-2 winin Dallas on Wednesday, but he is still being treated with caution.\n\nSaka stayed indoors to work on an individual programme at England’s training base in Kansas City on Saturday, indicating that Noni Madueke will start again on the right whenEnglandface Ghana in Boston in their second game in Group L.\n\nEngland are top of their group after an impressive second half against Croatia, although they left Dallas with a couple of injury concerns.Rashford, who came on and scoredthe fourth goal, complained of a minor muscular problem and Rice went off in the 72nd minute after feeling discomfort in his lower back and upper hamstring.\n\nBut there was good news for Tuchel when the team returned to training after being given a day off on Friday. Rashford, who is competing with Anthony Gordon for a place on the left flank, looked in good shape and Rice, the vice-captain anda crucial part of England’s midfield, also appeared to be moving freely as Tuchel ran his players through passing drills.\n\nJude Bellingham, meanwhile, has spoken of how he has grown into playing for his country. In an interview with Fifa, the 22-year-old said: “My responsibility to my team and to my country is to give everything I have. It’s been a gradual process into being where I am with the England squad.\n\n“I wore the captain’s armband for the first time in the friendlies which means I’m on a good path and I know I can contribute whether it be from the starting XI, from the bench, I understand other players deserve to play as well. But I think I’m more than ready to give the team minutes.”\n\nBellingham, who scored England’s third goal in the win against Croatia, added: “I think it’s always the players who are calmer, more relaxed who understand what they have to do and don’t get carried away with the atmosphere. They are normally the ones who normally seem to look a step above.”\n\nThe Real Madrid midfielder also talked about his pride at playing for his country. “When I cross the line, wear that badge on the front, wear the No10 on the back of my shirt, I make sure I give everything that I have,” he said. “It’s every footballer’s dream to play at aWorld Cupand I’ve been fortunate enough to play in one already and now I’m back with the squad for the second one.”\n\nTalking to BBC Sport, Bellingham said that he used the pre-match national anthem as a chance to draw inspiration from his family. “I think the anthem is the last chance you get to really be mindful of the people who have got you there and what it means to be from England,” he said.\n\n“I think about my grandad, who passed away just before my England debut. He was so patriotic. He was an Englishman through and through. He could give you every fact about every war, every battle, every king, and every queen.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4630_5",
+            "category": "england",
+            "type": "News",
+            "title": "USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson, Jack Snape, Alex Abnos a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Lars Sivertsen, Seb Hutchinson, Jack Snape, Alex Abnos and Ewan Murray as the USA progress to the round of 32 Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,Lars Sivertsen, Seb Hutchinson,Jack Snape,Alex Abnosand Ewan Murray as the USA progress to the round of 32",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 16:06:52 EDT",
+  "lastUpdated": "2026-06-20 @ 18:46:32 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
