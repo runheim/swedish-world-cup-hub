@@ -4,16 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ \"Odd\" kick-off time for Sweden: \"Not the nicest\"",
+      "link": "https://www.svt.se/sport/fotboll/udda-avsparkstid-for-sverige-inte-det-skonaste"
+    },
+    {
       "text": "⚽ Gabriel Gudmundsson slams the father's statement: \"An exaggeration\"",
       "link": "https://www.svt.se/sport/fotboll/gabriel-gudmundsson-slar-ner-pappans-uttalande-en-overdrift"
     },
     {
       "text": "⚽ Elanga on playing time: \"Then I will make a difference\"",
       "link": "https://www.svt.se/sport/fotboll/elanga-om-speltiden-da-kommer-jag-gora-skillnad"
-    },
-    {
-      "text": "⚽ The row over Yasin Ayari's goal gesture: \"Reflects Swedish society\"",
-      "link": "https://www.svt.se/nyheter/lokalt/stockholm/braket-om-yasin-ayaris-malgest-speglar-det-svenska-samhallet"
     }
   ],
   "timeline": {
@@ -4490,10 +4490,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-20": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3527_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "\"Odd\" kick-off time for Sweden: \"Not the nicest\"",
+            "bullets": [
+              "Second round of the WC group stage. Then a different match time awaits for Sweden. - Now it will be ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Second round of the WC group stage. Then a different match time awaits for Sweden. - Now it will be an adjustment for some, says wingback Alexander Bernhardsson.",
+            "fullText": "- Now it will be an adjustment for some, says wingback Alexander Bernhardsson.\n\nHear Alexander Bernhardsson about the early match start in the player above.\n\nSweden played their first game against Tunisia in Monterrey, Mexico, with the match starting at 20:00 local time.\n\nWhen the Netherlands is now waiting, it will be a bit of a wake-up call for the Swedish national team stars. In Houston, the match kicks off at 12.00.\n\n- In Germany we have played at 1pm and 1.30pm. It's not the best of times, says Holsten Kiel player Alexander Bernhardsson.\n\n- When it's so early, I try to get up a little earlier and move my body a little. Otherwise, it gets a little soggy in the head. You make sure to get food and fluids as much as possible up until the start of the match, says national team colleague Gabriel Gudmundsson, on weekdays in Leeds.\n\nSome of the national team stars, who play in other leagues, are of course used to later kick-off times.\n\n- Now it will be an adjustment for some who are used to playing a little later. I myself am used to how to charge, says Bernhardsson.\n\nBenjamin Nygren has early kick-off times with his Celtic in Scotland.\n\n- It's chill, nothing that I think about. But I have still preferred evenings when the lights are on and such, he says.\n\nWhat start of the match then applies in Sweden? Well, much more pleasant at 19.00 on Saturday.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3528_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Gabriel Gudmundsson slams the father's statement: \"An exaggeration\"",
+            "bullets": [
+              "Gabriel Gudmundsson's father has claimed that the left back \"was almost blind\" at a young age. But i...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gabriel Gudmundsson's father has claimed that the left back \"was almost blind\" at a young age. But is that true? - It was a slight exaggeration from dad, says the defender.",
+            "fullText": "Gabriel Gudmundsson's father has claimed that the left back \"was almost blind\" at a young age.\n\n- It was a slight exaggeration from dad, says the defender.\n\nSee Gabriel Gudmundsson about the father's statement in the player above.\n\nIt was in the Halland local press that Niklas Gudmundsson, father of national team star Gabriel, made the statement.\n\nAlthough it was a bit of an exaggeration, there was some truth in it.\n\n- I had problems. I have pretty bad eyesight with refractive error, says the Leeds star at a press conference.\n\nThe back, who was withdrawn with symptoms of illness last week and was replaced against Tunisia, gives clear information. The situation is now good for the second group stage, where the Netherlands await.\n\n- Here you all go in and drive until your body gives up. That's what my body did in connection with the first game.\n\nThe meeting between Sweden and the Netherlands will be played on Saturday, starting at 19.00 Swedish time and broadcast on TV4.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3530_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Elanga on playing time: \"Then I will make a difference\"",
+            "bullets": [
+              "Anthony Elanga had to act as a substitute against Tunisia. The motivation is nevertheless at its pea...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anthony Elanga had to act as a substitute against Tunisia. The motivation is nevertheless at its peak. - You always want to play, but being at a WC is the greatest honor there is, he says.",
+            "fullText": "- You always want to play, but being at a WC is the greatest honor there is, he says.\n\nIt was in the final stages of the 5-1 crushing that the Newcastle star had to step out at the stadium in Monterrey. And in the rematch against Greece, he also started from the bench.\n\nAnthony Elanga keeps his spirits high, even if the starting place is not available.\n\n- I am a player who gives energy to the team, and then I know that I will make a difference when I get on the field. With and without the ball, he tells SVT Sport.\n\n- Then we have top players in the team who help me. We are just that, a team. In training and on the sidelines.\n\nThe 24-year-old believes that the victory against Tunisia naturally gave the team a \"boost\".\n\n- The feeling is good and the energy is at its peak, we are happy that we won the match, but now we have to forget about it and focus on the next match.\n\nFor now, the Netherlands awaits, eight in the Fifa world ranking.\n\nThe match will be played during Midsummer's Day, starting at 19.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-19 @ 18:13:18 EDT",
+  "lastUpdated": "2026-06-20 @ 04:35:30 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
