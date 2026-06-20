@@ -16,8 +16,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/udda-avsparkstid-for-sverige-inte-det-skonaste"
     },
     {
-      "text": "⚽ Netherlands v Sweden: World Cup 2026 – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/20/netherlands-v-sweden-world-cup-2026-live"
+      "text": "⚽ Brobbey and Gakpo at the double as five-star Netherlands crush sorry Sweden",
+      "link": "https://www.theguardian.com/football/2026/jun/20/netherlands-sweden-world-cup-group-f-match-report"
     }
   ],
   "timeline": {
@@ -4626,11 +4626,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0643_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The families on site during Sweden's thrill match: \"Memory for life\"",
+            "bullets": [
+              "The family's energy becomes significant during the WC. Several of Sweden's WC stars will have loved ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The family's energy becomes significant during the WC. Several of Sweden's WC stars will have loved ones there against the Netherlands. - It's unbelievable, says national team captain Graham Potter.",
+            "fullText": "Several of Sweden's WC stars will have loved ones there against the Netherlands.\n\n- It's unbelievable, says national team captain Graham Potter.\n\nJust before the press conference the day before the meeting with the Netherlands, Victor Nilsson Lindelöf had time to visit the family. They had shortly before arrived at the WC venue Houston.\n\n- It is great fun that they are finally there and that they get to experience a WC and see me play. It means a lot. My wife, my mother and my brothers are here, says the team captain.\n\nSeveral players have previously revealed family members are planning a trip across the Atlantic for the second group stage match as the Netherlands await.\n\nSome had loved ones in place before. For example, Isak Hien's father Dechor was present in Monterrey in connection with the Tunisia meeting.\n\n- It's fun to see how they take everything in. They loved Monterrey and the match experience. It is a memory for life, says the national team captain.\n\nThe match between Sweden and the Netherlands kicks off at 19:00, Swedish time, on Midsummer's Day.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0646_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden's bold approach: \"Must absolutely dare to be offensive\"",
+            "bullets": [
+              "Blue and yellow against the top nation Netherlands. With a clear stance. - I really think we should ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Blue and yellow against the top nation Netherlands. With a clear stance. - I really think we should push on, says Daniel Svensson to SVT Sport.",
+            "fullText": "- I really think we should push on, says Daniel Svensson to SVT Sport.\n\nAfter a 5–1 victory against Tunisia, Sweden moves on to the second round of the group stage with air under its wings.\n\nThere, the Swedes face the Netherlands (eighth in Fifa's world ranking).\n\n- It is a good national team with many world stars. It is clear that it will be tough. If we play like the last, we have a good chance, says Daniel Svensson, everyday in Borussia Dortmund.\n\nBlågult was in large moments ball carrier with offensive weight against Tunisia. Can it work against a top ranked nation?\n\n- You have to be offensive, otherwise you don't score goals. We have to focus on our game and check what we could have done better against Tunisia and then also do it against the Netherlands. We have very good players, from defense to attack, says Newcastle star Anthony Elanga and continues:\n\n- They have skilled and smart players. When we get our chances in front of goal, we have to be skilled.\n\nSweden, for its part, is ranked 35th in the world. The meeting with the Netherlands will be played on Saturday, during Midsummer Day, starting at 19.00 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0649_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "\"Odd\" kick-off time for Sweden: \"Not the nicest\"",
+            "bullets": [
+              "Second round of the WC group stage. Then a different match time awaits for Sweden. - Now it will be ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Second round of the WC group stage. Then a different match time awaits for Sweden. - Now it will be an adjustment for some, says wingback Alexander Bernhardsson.",
+            "fullText": "- Now it will be an adjustment for some, says wingback Alexander Bernhardsson.\n\nHear Alexander Bernhardsson about the early match start in the player above.\n\nSweden played their first game against Tunisia in Monterrey, Mexico, with the match starting at 20:00 local time.\n\nWhen the Netherlands is now waiting, it will be a bit of a wake-up call for the Swedish national team stars. In Houston, the match kicks off at 12.00.\n\n- In Germany we have played at 1pm and 1.30pm. It's not the best of times, says Holsten Kiel player Alexander Bernhardsson.\n\n- When it's so early, I try to get up a little earlier and move my body a little. Otherwise, it gets a little soggy in the head. You make sure to get food and fluids as much as possible up until the start of the match, says national team colleague Gabriel Gudmundsson, on weekdays in Leeds.\n\nSome of the national team stars, who play in other leagues, are of course used to later kick-off times.\n\n- Now it will be an adjustment for some who are used to playing a little later. I myself am used to how to charge, says Bernhardsson.\n\nBenjamin Nygren has early kick-off times with his Celtic in Scotland.\n\n- It's chill, nothing that I think about. But I have still preferred evenings when the lights are on and such, he says.\n\nWhat start of the match then applies in Sweden? Well, much more pleasant at 19.00 on Saturday.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0651_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Brobbey and Gakpo at the double as five-star Netherlands crush sorry Sweden",
+            "bullets": [
+              "It turns out Sweden do not have a monopoly on old fashioned centre-forward play. They were schooled ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It turns out Sweden do not have a monopoly on old fashioned centre-forward play. They were schooled in it here by Brian Brobbey, who was brought in by Ronald Koeman to give their attack a focal point and swiftly made his under-pressure manager resemble a genius. Brobbey scored twice in the opening 17 minutes to pave the way for a crushing win, proving impossible to handle with a cocktail of strength, touch and finishing.The Netherlands were equally impressive as a collective, devastating Sweden down the flanks and effectively ending the contest with two Cody Gakpo finishes soon after the break. Anthony Elanga briefly raised the temperature but Crysencio Summerville’s excellent late goal added garnish and means Sweden must now be treated as an enigma. Continue reading...",
+            "fullText": "It turns outSwedendo not have a monopoly on old fashioned centre-forward play. They were schooled in it here by Brian Brobbey, who was brought in by Ronald Koeman to give their attack a focal point and swiftly made his under-pressure manager resemble a genius. Brobbey scored twice in the opening 17 minutes to pave the way for a crushing win, proving impossible to handle with a cocktail of strength, touch and finishing.\n\nTheNetherlandswere equally impressive as a collective, devastating Sweden down the flanks and effectively ending the contest with two Cody Gakpo finishes soon after the break. Anthony Elanga briefly raised the temperature but Crysencio Summerville’s excellent late goal added garnish and means Sweden must now be treated as an enigma.\n\nWhile Viktor Gyökeres and Alexander Isak had made hay in the5-1 win against Tunisia, neither could beat Bart Verbruggen here. A defeat of identical size piles pressure on Thursday’s meeting with Japan for Graham Potter, whose team could have scored more but allowed the Netherlands to carve them apart at will. Surely, in this most forgiving of formats, a team that began so emphatically cannot tumble out at the first hurdle.\n\nBrobbey’s appetite for a wrestling match with the central component of Sweden’s back three, Isak Hien, was evident from the start. It quickly brought results and a resounding vindication of Koeman’s decision to start him. The Sunderland striker was simply too strong for Hien when receiving a chest-high pass in the fifth minute, cleverly bringing Tijjani Reijnders into play and allowing a switch left to Gakpo. While Gakpo’s angled centre was perfect, Brobbey deserves bundles of credit for not standing to admire his own work. He had bust a gut to meet the delivery, arriving first to convert from close in, and Sweden were dealt a sharp reality check.\n\nAlmost immediately Gyökeres sought to restore the feelgood factor, making Verbruggen save from an angle. But the Netherlands were simply too strong, fast and controlled in every department. Their supporters had engaged in the customary pre-match march to the stadium, delaying traffic from downtown with their two-mile parade from Rice University; Sweden were as swamped on the pitch as their own outnumbered representation in the stands.\n\nAnother grapple with Hein went Brobbey’s way but Donyell Malen, moved out wide to facilitate the target man’s presence, was crowded out. A devilish ball from Denzel Dumfries was diverted from the poised Gakpo by Alexander Bernhardsson and then Reijnders, profiting from Sweden’s inability to make anything stick, broke forward only to scuff wide.\n\nThe ball burst as Reijnders took aim. Soon Brobbey would firmly puncture Swedish hopes, again reacting quickest to snick in a wonderful, snaking right-sided ball from Dumfries. Sweden had been cripplingly passive, allowing the Netherlands to work possession into their final third with ease.\n\nKoeman’s players certainly had little appetite for the hydration break that, nonetheless, was called in this air-conditioned stadium. Their supporters made the point heard, boos echoing from all sides. It was a godsend for Potter, who used the three minutes for an animated team talk needed to bear fruit. He switched to a back four and immediately Sweden appeared liberated, belatedly aware they had let the occasion drift by.\n\nGyökeres appeared to benefit more than most, setting up a clear chance for Yasin Ayari before scuffing a shot of his own. He forced two decent parries from Verbruggen before the interval, the second from a free-kick, while Ayari hammered just over after a slick move. When Gustaf Lagerbielke headed a set piece past Verbruggen they sensed a lifeline only to see the flag raised. Ayari made Verbruggen tip around the post with the half’s final action; Potter’s switch had transformed Sweden’s performance level but without the tangible reward required.\n\nTheir opponents, meanwhile, knew exactly how to treat themselves. Koeman introduced Summerville for Malen at half-time and, moments after the restart, he twisted Sweden in knots down the right before nudging Dumfries towards the byline. Dumfries, his delivery unplayable once again, provided Gakpo with a chance he could not miss.\n\nThe rout showed little sign of abating now. Seven minutes later Isak squandered possession needlessly in a promising position and the Netherlands, as they had all afternoon, sprung upfield with staggering ease. The fourth goal was nonetheless brilliantly put away by Gapko, who took a pass from Summerville and cracked low to Kristoffer Nordfeldt’s right from 20 yards.\n\nThis was becoming problematic for Sweden, who were using up the lives granted to them by obliterating the Tunisians. Potter made a triple substitution and instantly discovered some benefit when Elanga, one of those introduced, ran on to a pass from Isak and finished emphatically. There was still half an hour to play; the livewire Elanga continued to threaten, one turn on the byline drawing gasps, and this time it was Sweden who rued the pause for advertisements and unsolicited musical entertainment.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 12:08:04 EDT",
+  "lastUpdated": "2026-06-20 @ 16:06:52 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
