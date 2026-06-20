@@ -20,6 +20,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cyv0m91942do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
+      "link": "https://www.theguardian.com/football/video/2026/jun/20/usa-go-supersonic-in-seattle-and-morocco-squeeze-past-scotland-world-cup-daily"
+    },
+    {
       "text": "⚽ Football Daily | USA, Mexico, Canada: which World Cup co-host can boast the most?",
       "link": "https://www.theguardian.com/football/2026/jun/19/canada-usa-mexico-co-hosts-world-cup-2026-football-daily-newsletter"
     }
@@ -7726,7 +7730,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 04:35:35 EDT",
+  "lastUpdated": "2026-06-20 @ 06:41:43 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
