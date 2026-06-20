@@ -2676,11 +2676,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4637_0",
+            "category": "usa",
+            "type": "News",
+            "title": "No Pulisic, no problem: how the USA learned to win without their star player | Jeff Rueter",
+            "bullets": [
+              "Mauricio Pochettino had to do without his best player against Australia. But Ricardo Pepi helped the...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mauricio Pochettino had to do without his best player against Australia. But Ricardo Pepi helped the Americans build attacks in different waysOnce it was clear that Christian Pulisic’s calf could keep him out of Friday’s match against Australia, Mauricio Pochettino had a lot of options to consider. There is no like-for-like alternative to Pulisic, still the United States’ most important player.Australia entered this game with a point to prove, wanting to build off of their opening win over Turkey with a statement result against the tournament co-hosts. As was the case when the teams met for a friendly in October, the Socceroos were set up to operate in a low defensive block, with five along the backline and a swarming, zonal marking scheme in front of them. That system can be quite effective against a team who play with just one striker, as the US have for most of the 21st century. Continue reading...",
+            "fullText": "Mauricio Pochettino had to do without his best player against Australia. But Ricardo Pepi helped the Americans build attacks in different ways\n\nOnce it was clear that Christian Pulisic’s calf could keep him out ofFriday’s match against Australia, Mauricio Pochettino had a lot of options to consider. There is no like-for-like alternative to Pulisic, still the United States’ most important player.\n\nAustralia entered this game with a point to prove, wanting to build off of their opening win over Turkey with a statement result against the tournament co-hosts. As was the case when the teams met for a friendly in October, the Socceroos were set up to operate in a low defensive block, with five along the backline and a swarming, zonal marking scheme in front of them. That system can be quite effective against a team who play with just one striker, as the US have for most of the 21st century.\n\nWhen the lineups dropped, there was just one change from the US side who bulldozed Paraguay 4-1. There was no Pulisic. In his stead was Ricardo Pepi, who would play alongside his fellow center-forward Folarin Balogun. It seemed like a risk for the US to forego their usual numbers in midfield, but it proved to be a gambit rather than a gamble as the US strolled to a 2-0 half-time lead they maintained until the final whistle.\n\n“I feel like it opens up some spaces, of course, but you know it’s always good to be able to have two strikers,” Pepi said after his firstWorld Cupstart. “If the defenders are marking me, then the other [striker] is always free. So it’s a good thing that we were able to play like this, and it just shows what the team has.”\n\nWhat the team have is chemistry, after years playing alongside each other at youth and senior levels. Coupled with a few weeks to train together, the US look far better rehearsed with their movement patterns, and it’s putting even the sturdiest of opponents’ low-blocks in two minds.\n\nThe first time the US truly tested the Socceroos on Friday they scored. It was the second straight match in which they had forced their opponents into an early own-goal.\n\nIn the 11th minute, after the US had already tested Australia from each side, Antonee Robinson collected a pass from Tim Ream as he has countless times during his career. When Pochettino’s US play with two attacking midfielders, as they do when Pulisic is on the field, Robinson’s instinct has been to look for either his holding or attacking midfielder to get the ball back into the half-space.\n\nAgainst Paraguay, sequences like these kept the South Americans on their toes and allowed the US to put together dizzying patterns of play. Adding a second striker makes the more direct route even more advisable as any downhill sprint can be supplemented with adequate support.\n\nRobinson gave Australia a test with a ball up the line, having already drawn wing-back Jacob Italiano too far upfield to nullify the threat. Balogun recognized the space and made a run to create an opportunity.\n\nThe US found themselves with a similar sequence in their recent friendly against Senegal. In that match, Sergiño Dest popped up to offer Pulisic a crossing option after Pepi had dropped deep to help with build-up. On Friday, with all three Australian center-backs still stationed at the edge of their defensive third, this ball left the US with an advantage of pace as the midfielders and wing-backs scrambled to support.\n\n“I mean, credit to [Balogun],” Robinson said after the match. “I could see that he was looking to run the space in behind, so I just kind of played it down the channel for him, and then he’s done a lot of work to get towards the goal and create a chance.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 16:06:59 EDT",
+  "lastUpdated": "2026-06-20 @ 18:46:51 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
