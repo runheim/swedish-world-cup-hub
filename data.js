@@ -4117,6 +4117,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Someone tell Weston to stop singing in the showers.",
       "time": "06:31",
       "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "11:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "11:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Just watched the film from training. We look sharp.",
+      "time": "11:32",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "11:33",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Poch's tactical session today was intense. Mind blown.",
+      "time": "11:34",
+      "isCaptain": false
     }
   ]
 };
