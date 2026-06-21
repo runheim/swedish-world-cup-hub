@@ -860,7 +860,28 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "Tunisia kept 4 clean sheets during African qualifiers. Breaking them down is key."
     }
   },
-  "match_netherlands": {preview: {
+  "match_netherlands": {
+    score: "2 - 2",
+    scorers: "🇸🇪 Gyökeres (41', 88') | 🇳🇱 Gakpo (34'), Depay (71' pen)",
+    report: "A thrilling 2-2 blockbuster draw unfolded at NRG Stadium in Houston as Sweden and the Netherlands shared the spoils in an intense tactical battle. Cody Gakpo opened the scoring for the Dutch in the 34th minute with a curled effort, but Sweden equalized shortly after in the 41st minute when Alexander Isak won the ball and crossed for Viktor Gyökeres to tap home. The Netherlands restored their lead in the 71st minute through a Memphis Depay penalty following a Carl Starfelt handball. Sweden pushed hard for an equalizer, and their efforts paid off in the 88th minute when Gyökeres bullied his marker to fire home his second of the game, sealing a hard-fought point that keeps both teams at the top of Group F.",
+    ratings: [
+      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made an incredible double save in the first half to keep Sweden in the game. Unlucky on the penalty.", isMotm: false },
+      { name: "Emil Holm", role: "RB", rating: 7.0, comment: "Fought hard down the right flank against Gakpo, supplying several overlapping runs.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Dominant in the air and read the game well, making critical clearances in the second half.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 7.0, comment: "A captain's performance, marshalled the defense and picked up a vital tactical yellow card.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LB", rating: 7.0, comment: "Kept his flank secure defensively and joined the attack when space allowed.", isMotm: false },
+      { name: "Jesper Karlström", role: "DM", rating: 6.5, comment: "Worked hard to disrupt the Dutch build-up but was stretched by Koeman's fluid midfield.", isMotm: false },
+      { name: "Yasin Ayari", role: "AM", rating: 7.5, comment: "Dictated the transition play and pressed aggressively to disrupt the Dutch double-pivot.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Covered massive ground defensively and helped recycle possession cleanly.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 7.5, comment: "Showcased high class in tight spaces and created several dangerous combination sequences.", isMotm: false },
+      { name: "Alexander Isak", role: "ST", rating: 8.0, comment: "Set up Gyökeres's first goal with a brilliant cross and was a constant threat on transitions.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 9.5, comment: "Outstanding performance. Bullied the Dutch center-backs all game and scored a clinical brace. Man of the Match.", isMotm: true },
+      { name: "Anthony Elanga", role: "LW", rating: 6.5, comment: "Injected speed down the wing late on, stretching the tired Dutch defensive lines.", isMotm: false },
+      { name: "Carl Starfelt", role: "CB", rating: 6.0, comment: "Conceded the penalty for a handball but recovered to win key defensive headers in stoppage time.", isMotm: false },
+      { name: "Ken Sema", role: "LW", rating: 6.5, comment: "Brought fresh energy and defensive discipline to the left side in the final 15 minutes.", isMotm: false },
+      { name: "Daniel Svensson", role: "LB", rating: 6.5, comment: "Replaced Gudmundsson late on and helped solidify the defense to secure the draw.", isMotm: false }
+    ],
+    preview: {
       tactical: "The Group F blockbuster in Houston! A heavy-duty tactical test against Koeman's highly fluent Dutch setup. Sweden's central pivot must prepare aggressive pressing traps.",
       keyStat: "Netherlands scored 18 goals in their last 6 matches. Sweden's defense must lock in."
     }
