@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ No Pulisic, no problem: how the USA learned to win without their star player | Jeff Rueter",
-      "link": "https://www.theguardian.com/football/2026/jun/20/no-pulisic-no-problem-how-the-us-learned-to-win-without-their-star-player"
+      "text": "⚽ Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
+      "link": "https://www.theguardian.com/football/2026/jun/21/australias-jackson-irvine-has-no-sympathy-for-paraguay-after-historic-world-cup-red-card"
     }
   ],
   "timeline": {
@@ -2700,10 +2700,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-21": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_2703_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
+            "bullets": [
+              "Miguel Almirón sent off against Turkey for covering mouthSocceroos face South Americans in crucial l...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Miguel Almirón sent off against Turkey for covering mouthSocceroos face South Americans in crucial last Group D matchSocceroo Jackson Irvine has backed the decision by Fifa to send players off for covering their mouths when they speak, after Paraguay winger Miguel Almirón was given a historic red card against Turkey.The Socceroos and Paraguay face a showdown for second place in the group at the San Francisco Bay Area Stadium on Thursday (Friday AEST). If either team lose they will face a torturous wait to find out if they will progress as one of the eight third-placed teams across the 12 groups. Continue reading...",
+            "fullText": "Miguel Almirón sent off against Turkey for covering mouth\n\nSocceroos face South Americans in crucial last Group D match\n\nSocceroo Jackson Irvine has backed the decision by Fifa to send players off for covering their mouths when they speak, after Paraguay winger Miguel Almirón was given a historic red card against Turkey.\n\nThe Socceroos and Paraguay face a showdown for second place in the group at the San Francisco Bay Area Stadium on Thursday (Friday AEST). If either team lose they will face a torturous wait to find out if they will progress as one of the eight third-placed teams across the 12 groups.\n\nAlmirón was the first player sent off under a rule introduced by Fifa for this tournament to address the trend of footballers covering their mouth when confronting opponents. In a boost for the Socceroos, he will be suspended for his team’s final Group D clash.\n\nIrvine, a member of Fifpro’s global player council, said the players had been given fair warning, and the rule was justified. “I know it’s going to be controversial in some ways because we don’t know the nature of what [the comment] was, but when you look at what’s happened in the past, especially around what happened with Vinícius Júnior, I think it takes everything out of the equation.”\n\nThe highest profile example of the controversial conduct was earlier this year when Benfica’s Gianluca Prestianni made comments to Real Madrid’s Júnior while covering his mouth with his shirt.\n\nThe referee did not send Prestianni off in the Champions League clash, and the on-field behaviour could not be assessed using video evidence, but he was subsequentlybanned for six matches for using homophobic language.\n\nThe body responsible for the laws of the game, the International Football Association Board, approved the introduction of a red card for such conduct in April.\n\nIrvine said Almirón can have no complaints. “If you’re saying something to someone that you don’t want to be seen, then I think it’s safe to say that if you can’t be seen saying it, then it shouldn’t be said,” he said. “For me, it’s a clear line on the rule, and we were all told about it, so it is what it is.”\n\nDespite the absence of Almirón, Paraguay enter the fixture with momentum aftertheir 1-0 victory over Turkey. But they will need to defeat the Socceroos to leapfrog them into second place in Group D. Third place may also scrape into the knockouts depending on results in other groups.\n\nAustralia has never beaten a South American side at aWorld Cup, and Irvine is expecting their opponents to be physical, skilful and unpredictable. He said it will be “just a totally different type of game” compared with their matches against Turkey and the USA, and the Paraguay players have “incredible individual quality”.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 18:46:51 EDT",
+  "lastUpdated": "2026-06-21 @ 06:27:50 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
@@ -4033,6 +4058,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇺🇸",
       "text": "The altitude here is no joke. Lungs are burning!",
       "time": "16:55",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Poch's tactical session today was intense. Mind blown.",
+      "time": "06:27",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "06:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "06:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Ready to make history this summer. Let's go!",
+      "time": "06:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "06:31",
       "isCaptain": false
     }
   ]
