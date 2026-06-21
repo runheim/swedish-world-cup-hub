@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Jesper Karlström has become a father during the WC: \"Tried to suppress the feelings\"",
+      "link": "https://www.svt.se/sport/fotboll/jesper-karlstrom-har-blivit-pappa-under-vm-forsokt-trycka-bort-kanslorna"
+    },
+    {
       "text": "⚽ Watch out Sweden! Japan played big against Tunisia: \"Worrying\"",
       "link": "https://www.svt.se/sport/fotboll/se-upp-sverige-japan-storspelade-mot-tunisien-orovackande"
     },
@@ -4960,11 +4964,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1910_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jesper Karlström has become a father during the WC: \"Tried to suppress the feelings\"",
+            "bullets": [
+              "Jesper Karlström has not yet met his newborn daughter. The desire is of course great. - I have tried...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jesper Karlström has not yet met his newborn daughter. The desire is of course great. - I have tried to push away the difficult feelings, says Blågult's World Cup midfielder.",
+            "fullText": "Jesper Karlström has not yet met his newborn daughter.\n\n- I have tried to push away the difficult feelings, says Blågult's World Cup midfielder.\n\nWatch Jesper Karlström in the video above talk about what it's been like to become a father in the middle of the World Cup.\n\nIt was in the days that Jesper Karlström, right now on a fiery WC with Sweden, became the father of daughter Celine.\n\nThe importance of the family becomes even greater after the 1-5 loss against the Netherlands in the second World Cup group stage match.\n\n- Calling them and seeing pictures and videos of their daughter, it's a magical feeling, it's indescribable and it obviously helps a match like this, says the Udinese midfielder to SVT Sport.\n\nTonight, a late midsummer celebration awaits with loved ones for the national team.\n\n- It's still lucky that there is Facetime and stuff like that. You almost can't stop looking. It is clear that I long for us to meet. It's a bit special. It is precisely the troublesome feelings that I try to push away.\n\nAdd to that that Karlström also turns 31 on Sunday.\n\n- I'm sure you've had more fun birthdays, but at the same time you're here at the WC and that alone is fantastic. I have received some singing and \"congratulations\" from home, that's good.\n\nYou revealed here before the interview that you had to remind Viktor Gyökeres of your birthday?\n\n- Yes, he was a little late, but that's okay, I forgive him, says Karlström with a tan.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1919_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Watch out Sweden! Japan played big against Tunisia: \"Worrying\"",
+            "bullets": [
+              "2–2 against the Netherlands. And now: 4–0 against Tunisia. Japan makes a big impression in the World...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "2–2 against the Netherlands. And now: 4–0 against Tunisia. Japan makes a big impression in the World Cup, ahead of the fateful Swedish match against the team on Friday night. - I think about the Swedish defense game, there is a lot to watch out for, says SVT's commentator Pelle Bäckman.",
+            "fullText": "Japan makes a big impression in the World Cup, ahead of the fateful Swedish match against the team on Friday night.\n\n- I think about the Swedish defense game, there is a lot to watch out for, says SVT's commentator Pelle Bäckman.\n\nAfter the Dutch overtaking of Sweden yesterday, it was time for Japan and Tunisia to make up.\n\nThen the Japanese team was superior and won 4-0.\n\nTunisia, now led by Hervé Renard after the former national team captain was fired after the fiasco against Sweden, basically had nothing to oppose.\n\nJapan could do little as they wanted in the build-up phase, were deadly in the deep play and constantly found their way behind the Tunisian back line. And played his way to all four goals.\n\n- Japan is a collective that stands up for each other, but at the same time they have this quality and edge, the technique in the game with and without the ball. Then this collective becomes even stronger and then the individual can also shine, says SVT's expert Bojan Djordjic.\n\nThe lead came in the fourth minute of the match (Daichi Kamada with his second goal of the World Cup) and Japan made it 2-0 before half-time, when Dutch shooting league winner Ayase Ueda beautifully placed the ball.\n\nAdd to that that Japan had two situations that could have been penalties, but where the referee chose to free.\n\nIn the second half, Ayase Ueda scored two goals when he headed in 4-0 to Japan. The victory means that Sweden finishes as the worst third in the group and that Tunisia is eliminated from the WC.\n\nSweden meets Japan in the last group stage match, which is broadcast on SVT, with kick-off at 01 on Friday night.\n\n- The way Japan is playing, it is worrying, states host André Pops in SVT's studio about what lies ahead.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1926_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "This is how Sweden advances in the football World Cup - can face Norway",
+            "bullets": [
+              "France, Brazil, or... Norway? After Sweden's big loss against the Netherlands, the playoff possibili...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "France, Brazil, or... Norway? After Sweden's big loss against the Netherlands, the playoff possibilities look tough. Who can it be in the round of 16 really - if Blågult even gets there?",
+            "fullText": "France, Brazil, or... Norway? After Sweden's big loss against the Netherlands, the playoff possibilities look tough.\n\nWho can it be in the round of 16 really - if Blågult even gets there?\n\nHere, it is really necessary that the results go Sweden's way. Because if Sweden wins against Japan, and the Netherlands draws or loses against Tunisia, then Sweden will win their group.\n\nIf you do that, second place awaits in Group C, where Brazil and Morocco are currently first and second.\n\nBrazil face Scotland in their final group stage match while Morocco face already eliminated Haiti. If Brazil and Morocco finish on the same points, they are separated on goal difference first and goals scored second.\n\nRight now, Brazil is therefore in the driver's seat with a two-goal better goal difference than Morocco.\n\nIn the event that Sweden wins against Japan and the Netherlands in turn wins against already eliminated Tunisia, the men in blue and yellow will face the top ten in Group C.\n\nAs mentioned, at the moment it looks like either Morocco or Brazil will be the opposition in such a case.\n\nThis is when it gets really tricky. If Sweden loses against Japan or draws, they will finish third in the group, regardless of the result in the match between the Netherlands and Tunisia.\n\nIn order to secure a place in the last 16, Sweden needs to be among the top eight in the twelve groups.\n\nHowever, which threes meet which twos and ones is advanced mathematics. According to Fifa, there are 495 possible combinations of outcomes based on which group threes advance.\n\nA not entirely unthinkable scenario is that Sweden, as group three, faces the winner in Group I, where Erling Haaland's Norway or favorite tipped France can wait.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1927_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Brian Brobbey bags a brace and Deniz Undav, supersub: World Cup Daily – podcast",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Dan Bardell and Leander Schaerlaeckens after the Netherl...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Dan Bardell and Leander Schaerlaeckens after the Netherlands thrash Sweden and Germany get a late winner against Côte d’IvoireRate, review, share on Apple Podcasts and join the conversation on email.On the podcast today: the Netherlands hammer Sweden 5-1 to top Group F. Brian Brobbey comes into the Dutch attack and transforms them with some classic centre-forward hold-up play. Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Dan Bardell andLeander Schaerlaeckensafter the Netherlands thrash Sweden and Germany get a late winner against Côte d’Ivoire\n\nRate, review, share onApple Podcastsand join the conversation onemail.\n\nOn the podcast today: the Netherlands hammer Sweden 5-1 to top Group F. Brian Brobbey comes into the Dutch attack and transforms them with some classic centre-forward hold-up play.\n\nElsewhere: Deniz Undav scores two from the bench as Germany come from behind to beat Côte d’Ivoire, while Ecuador, potential dark horses, fail to beat Curaçao. Where does that result rank in the shocks so far?\n\nPlus a preview of tomorrow’s games, including Spain v Saudi Arabia, and your questions answered.\n\nYou can also find Football Weekly onInstagram,TikTok,andYouTube.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-21 @ 12:57:55 EDT",
+  "lastUpdated": "2026-06-21 @ 16:19:27 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
