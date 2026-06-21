@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ All three England keepers played there - Carlisle's role in trio's rise",
+      "link": "https://www.bbc.com/sport/football/articles/ckg4qw57d4do?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
       "link": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,12 +20,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Saka trains alone as England prepare for Ghana game",
-      "link": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Why Kane is different at this World Cup - Shearer",
       "link": "https://www.bbc.com/sport/football/articles/crr87vwrwwlo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Saka trains alone as England prepare for Ghana game",
+      "link": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Cooling hoodies help England staff combat World Cup heat",
@@ -8155,7 +8159,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-21 @ 06:28:14 EDT",
+  "lastUpdated": "2026-06-21 @ 06:54:33 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
