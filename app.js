@@ -872,7 +872,28 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "Paraguay kept key clean sheets during South American qualifiers. Breaking them down is key."
     }
   },
-  "match_australia": {preview: {
+  "match_australia": {
+    score: "2 - 2",
+    scorers: "🇺🇸 Balogun (41'), Pepi (88') | 🇦🇺 Irvine (34'), Irankunda (71')",
+    report: "An epic 2-2 draw unfolded in Seattle as the USA showcased tremendous resilience to fight back twice against a physical and high-tempo Australian side. The visitors took the lead in the 34th minute when Jackson Irvine rose highest at a corner to power a header home. The USMNT equalized in the 41st minute after Weston McKennie won the ball in the final third and delivered a precise cross to Folarin Balogun, who tapped it in. Australia struck again in the 71st minute as Nestory Irankunda finished a rapid counter-attack with a low drive. However, substitute Ricardo Pepi came to the rescue in the 88th minute, poking home a loose ball in the box after a period of intense pressure. The result leaves Group D wide open heading into the final matchday.",
+    ratings: [
+      { name: "Matt Turner", role: "GK", rating: 6.5, comment: "Made a crucial double save early on but was left exposed on both Australian goals.", isMotm: false },
+      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Defended aggressively against Australia's quick wingers and supported the attack well.", isMotm: false },
+      { name: "Chris Richards", role: "CB", rating: 6.5, comment: "Had some tough moments against transitions but made several vital clearances.", isMotm: false },
+      { name: "Tim Ream", role: "CB", rating: 7.0, comment: "Composed distribution from the back, though stretched by Australia's direct speed.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "An energetic display down the left flank, delivering dangerous crosses and defending solid.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 7.0, comment: "Broke up transitions in midfield. Picked up a tactical yellow card in the second half.", isMotm: false },
+      { name: "Weston McKennie", role: "CM", rating: 8.0, comment: "Industrious performance in midfield. Assisted Balogun's equalizer with a brilliant cross.", isMotm: false },
+      { name: "Yunus Musah", role: "CM", rating: 7.5, comment: "Carried the ball forward well under pressure, breaking lines with his dribbling.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Constant creative threat. Drew multiple defenders and created space for his teammates.", isMotm: false },
+      { name: "Timothy Weah", role: "RW", rating: 7.0, comment: "Offered raw pace down the right wing and tracked back diligently to support Scally.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 8.5, comment: "Superb hold-up play and scored a clinical equalizer in the first half.", isMotm: false },
+      { name: "Ricardo Pepi", role: "ST", rating: 8.5, comment: "Came on late and scored the dramatic, crucial equalizer to rescue a point.", isMotm: true },
+      { name: "Malik Tillman", role: "CM", rating: 6.5, comment: "Replaced Musah to add fresh energy and technical control in the final third.", isMotm: false },
+      { name: "Gio Reyna", role: "AM", rating: 7.0, comment: "Injected creativity late in the game, sparking the build-up to the equalizer.", isMotm: false },
+      { name: "Brenden Aaronson", role: "LW", rating: 6.5, comment: "Worked hard pressing the Australian defenders in the final minutes.", isMotm: false }
+    ],
+    preview: {
       tactical: "The Group D home clash in Seattle! A high-tempo tactical test against Australia. USA's central pivot must prepare aggressive pressing traps to stifle wide counters.",
       keyStat: "Australia scored in all their recent warm-up fixtures. USA's defense must lock in."
     }
