@@ -8,7 +8,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/se-upp-sverige-japan-storspelade-mot-tunisien-orovackande"
     },
     {
-      "text": "⚽ This is how Sweden goes on in the WC - despite the overrun",
+      "text": "⚽ This is how Sweden advances in the football World Cup - can face Norway",
       "link": "https://www.svt.se/sport/fotboll/trots-overkorningen-sa-gar-sverige-vidare-i-vm"
     },
     {
@@ -4837,7 +4837,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-21 @ 06:29:32 EDT",
+  "lastUpdated": "2026-06-21 @ 06:54:53 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
