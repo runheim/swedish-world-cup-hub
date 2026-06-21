@@ -4,12 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Saka trains alone as England prepare for Ghana game",
-      "link": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+      "link": "https://www.bbc.com/sport/football/articles/cvglnkw1l93o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Rice feels like he will get an assist at every corner",
+      "link": "https://www.bbc.com/sport/football/articles/cj6g1dnr12yo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Country music fan Kane leaves Ella Langley gig early to make curfew",
       "link": "https://www.bbc.com/sport/football/articles/c5yzlj3xx45o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Saka trains alone as England prepare for Ghana game",
+      "link": "https://www.bbc.com/sport/football/articles/cr47wqdq26lo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Why Kane is different at this World Cup - Shearer",
@@ -20,12 +28,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cwy0gn19zqlo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Rashford and Rice give England boost for Ghana with Saka set for bench again",
-      "link": "https://www.theguardian.com/football/2026/jun/20/rashford-and-rice-give-england-boost-for-ghana-but-saka-set-for-bench-again"
+      "text": "⚽ Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match",
+      "link": "https://www.theguardian.com/football/2026/jun/21/japan-tunisia-world-cup-group-f-match-report"
     },
     {
-      "text": "⚽ USA go supersonic in Seattle and Morocco squeeze past Scotland | World Cup Daily",
-      "link": "https://www.theguardian.com/football/video/2026/jun/20/usa-go-supersonic-in-seattle-and-morocco-squeeze-past-scotland-world-cup-daily"
+      "text": "⚽ England offer rare peek behind the curtain with no place to hide under Tuchel",
+      "link": "https://www.theguardian.com/football/2026/jun/21/england-world-cup-training-intensity-peek-behind-curtain-thomas-tuchel"
     }
   ],
   "timeline": {
@@ -8000,10 +8008,154 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-21": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_2756_0",
+            "category": "england",
+            "type": "News",
+            "title": "Fastest World Cup to 100 goals in 68 years - are balls and breaks behind it?",
+            "bullets": [
+              "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 2026 World Cup becomes the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game. But what is behind the scoring spree?",
+            "fullText": "Messi, Mbappe and Vinicius Jr - the best World Cup goals from round one\n\nThe 2026 World Cup has become the fastest edition of the tournament to hit 100 goals since 1958 - with the landmark reached in the 33rd game.\n\nLiverpool forward Cody Gakpo brought up the century with the Netherlands' fourth goal in a 5-1 win over Sweden on Saturday.\n\nIt is the first time in 68 years it has taken 33 matches to reach triple figures.\n\nThe only faster tournament was in Switzerland in 1954 - won by West Germany - when it took just 20 matches.\n\n\"Probably the most compact and tactically tight game I've seen so far was Netherlands versus Japan - and even that had four goals,\" England's Euro 2022 winner Ellen White told BBC Sport.\n\nIn the 2014 finals in Brazil, it took 36 games to reach 100, the same number as in 1982.\n\nIt took 38 games at Argentina 1978 and the United States in 1994.\n\nThis World Cup - co-hosted by the USA, Mexico and Canada - is averaging 3.09 goals per game and is on course to surpass 300 goals.\n\nSo why has it only taken 33 games to reach 100 goals?\n\nMexico's Julian Quinones opened the scoring in this World Cup in a2-0 win over South Africaon 11 June.\n\nThe goals have continued to fly in since that opening match in Mexico City.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2757_1",
+            "category": "england",
+            "type": "News",
+            "title": "Rice feels like he will get an assist at every corner",
+            "bullets": [
+              "Declan Rice feels like he will get an assist \"every time\" he takes a corner - and says England fans ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice feels like he will get an assist \"every time\" he takes a corner - and says England fans should be \"excited\" for what is to come at the World Cup.",
+            "fullText": "Declan Rice feels like he will get an assist \"every time\" he takes a corner - and says England supporters should be \"excited\" for what is to come at the World Cup.\n\nEngland looked threatening from set-pieces during their 4-2 win over Croatia in their opening match of the tournament.\n\nHarry Kane's opening goal from the penalty spot came after Noni Madueke was fouled following a Rice cross - and the England captain headed home his second from a Rice corner.\n\nThe 27-year-old was part of an Arsenal side that scored from a record 19 corners last season as they won their first Premier League title in 22 years.\n\nHowever, the Gunners faced criticism for a pragmatic style of play and reliance on set-pieces (scoring 25 goals from set-plays overall).\n\n\"Everyone's enjoying [set-pieces] now, aren't they?\" Rice said, speaking to BBC Sport at England's base in Kansas City. \"Everyone's enjoying them now.\"\n\nRice became Arsenal's designated set-piece taker in January 2024 after a mid-season training camp in Dubai - and the Gunners are now renowned for their prowess from such situations.\n\n\"I wouldn't ever take corners or set-pieces, but [set-piece coach] Nico [Jover] and the manager at Arsenal saw something in me that others didn't,\" Rice said.\n\n\"They said that I can put balls in areas from a dead ball that no-one else can in the team at Arsenal other than Bukayo [Saka]. From that moment, I really just bought into that, believed in that.\n\n\"As time has gone on I feel like now every time I put down a ball for a set-piece - whether it's a corner or a wide free-kick - I feel like I'm going to get an assist or make something happen that's dangerous.\n\n\"That's a good mentality to have over set-pieces... and England fans can be excited.\"\n\nThe midfielder is England's vice-captain at this tournament and has become one of the most consistent corner takers in the Premier League.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2759_2",
+            "category": "england",
+            "type": "News",
+            "title": "Country music fan Kane leaves Ella Langley gig early to make curfew",
+            "bullets": [
+              "Harry Kane and Dan Burn were among the England players at a concert of US country music star Ella La...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane and Dan Burn were among the England players at a concert of US country music star Ella Langley, but had to leave early to make their curfew.",
+            "fullText": "England captain Harry Kane and country music star Ella Langley\n\nHarry Kane and Dan Burn were among the England players who attended a concert of US country music star Ella Langley, but had to leave early to make their curfew.\n\nDefender Burn said that captain Kane, who scored twice in England's 4-2 win over Croatia in their opening World Cup match, is a \"big country music fan\".\n\nThe England players were given a day off by manager Thomas Tuchel on Friday and  Kane, Burn and goalkeeper Jason Steele used the opportunity to watch Langley in Independence, Missouri.\n\nLangley is best known for her hit Choosin' Texas, which hit the top of the US charts and has reached number 12 in the UK.\n\n\"We got asked to go and watch Ella Langley. I was the only person suited and booted with cowboy hat, jeans, the lot,\" said Newcastle United's Burn.\n\n\"Harry and Steeley managed to meet Ella before the gig, but I turned up a little bit later.\n\n\"But we missed the last three songs because we had to be back for curfew, which I was a bit gutted about because those are her best ones.\"\n\nHe added: \"Harry is a big country music fan. There's a record player in the hotel and when it's the captain's pick a lot of it is country music.\n\n\"Ella was playing in West Palm Beach when we were there, but we weren't able to go because we wouldn't have got back for curfew so I'm glad we got another opportunity.\"\n\nKane later posted pictures from the concert on Instagram, one showing him stood next to Langley who is holding an England shirt.\n\n\"Great to meet you @ellalangleymusic, thank you for having us!\" he wrote.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2800_3",
+            "category": "england",
+            "type": "News",
+            "title": "Saka trains alone as England prepare for Ghana game",
+            "bullets": [
+              "Bukayo Saka was the only player not present in group training as England continued their preparation...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka was the only player not present in group training as England continued their preparations for their second World Cup match against Ghana.",
+            "fullText": "Saka came off the bench after 72 minutes in England's 4-2 World Cup win over Croatia\n\nBukayo Saka was the only player not involved in group training as England continued preparations for their second match of the World Cup against Ghana.\n\nThe Arsenal winger spent Saturday's session indoors working on an individual programme as he continues to deal with an Achilles issue he has been managing since March.\n\nEngland meet Ghana in Boston on Tuesday (21:00 BST) with both sideshaving started Group Lwith a victory.\n\nHead coach Thomas Tuchel was on the training pitch at Swope Soccer Village in Kansas City with 25 of his 26 players as baseball team the KC Royals watched on alongside opponents St Louis Cardinals after the two had played on Friday night.\n\nSaka came off the bench inthe 4-2 win over Croatia on Wednesday, and provided an assist to fellow substitute Marcus Rashford for England's fourth.\n\nBefore the tournament, Tuchel said Saka would require managing through the opening stages because of what is understood to be an Achilles tendinitis issue.\n\nSaka has insisted he was ready to play and was prepared to \"gamble\" on his fitness to help the team during the World Cup.\n\nHowever, Tuchel said the 24-year-old is unlikely to start until the final Group L game against Panama in New Jersey on Saturday, 27 June (22:00 BST).\n\n\"Bukayo is ready and will get more and more ready,\" Tuchel said. \"I think once we go to the last game of this group he will be ready.\"\n\nSaka has been carrying the issue for some time, and while there was concern behind the scenes at Arsenal, they deemed the forward fit enough to start regularly during their triumphant title run-in.\n\nArsenal boss Mikel Arteta is often very guarded with regards to his players' injury concerns and has generally kept information about Saka's condition in-house.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2802_4",
+            "category": "england",
+            "type": "News",
+            "title": "Why Kane is different at this World Cup - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains what has changed for Harry Kane since his struggles at the 2022 World Cup in Qatar.",
+            "fullText": "It took Harry Kane four games and 269 minutes to even manage a shot on target at the 2022 World Cup in Qatar.\n\nHe looked tired early in that tournament and I felt he needed a rest after England's first two matches.\n\nThings could not be more different this time - he will be on top of the world after scoring twice in the4-2 win against Croatia.\n\nAs a striker, the one thing you desperately want to do at any major tournament is get off to a good start.\n\nI was lucky enough to do that myself for England when we beat Tunisia in our first game at the 1998 World Cup.\n\nHonestly, it was a massive relief - not only for the team to get the win, but to get on the scoresheet myself, as captain and our main goalscorer, when everyone was looking at me to deliver.\n\nFor all the same reasons, I know Kane will be feeling exactly the same way after the way he played on Wednesday.\n\nHe had to sit all week with the rest of the England squad and watch all the other games, seeing superstars like France's Kylian Mbappe, Norway's Erling Haaland and Argentina's Lionel Messi get up and running, not just with one goal but by scoring at least two.\n\nKane would have been absolutely desperate to join the party and get off the mark in his first game too, so to do that after only 12 minutes and go on to get another one as well, is huge for him - and for England.\n\nWhen Kane finally got a shot on target in Qatar, in the last 16 against Senegal, he scored.\n\nThis time he has got that feel-good factor from the very start, and we've already seen what he does when that happens - at Russia in 2018, Kane scored five goals in England's first two games to send him on his wayto the Golden Bootand help us reach the semi-finals.\n\nWith arguably our toughest game in Group L out of the way and Ghana and Panama next, his eyes must be lighting up.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2804_5",
+            "category": "england",
+            "type": "News",
+            "title": "Cooling hoodies help England staff combat World Cup heat",
+            "bullets": [
+              "As the England players trained under the searing heat of the Kansas City sun on Saturday, manager Th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As the England players trained under the searing heat of the Kansas City sun on Saturday, manager Thomas Tuchel took a very different approach to keeping himself cool.",
+            "fullText": "Thomas Tuchel was wearing the sun protection top as he led England in their latest training session.\n\nAs the England players trained under the searing heat of the Kansas City sun on Saturday, manager Thomas Tuchel took a very different approach to keeping himself cool.\n\nIn stark contrast to Declan Rice and the rest of the team who were wearing vest tops, Tuchel was pictured wearing a cap and a hoodie.\n\nIt turns out that special sun protection hoodies are being used by the Three Lions to deal with the hot conditions at their training base at Swope Soccer Village, Missouri.\n\nThe Football Association carried out a lot of research in preparation for the tournament and the weather that the team will face.\n\nTuchel was part of a delegation that went to the Club World Cup which was held in the country last summer as he planned how to lead England to World Cup glory.\n\nThe England players are also using high-tech palm-cooling devices in the USA to combat the heat, with studies showing that at least a third of the games during the World Cup will be played in temperatures higher than 26C. Some players are also using cooling vests.\n\nTuchel, who was taking the players through their session with the hood of his sun protection top over his head, was not the only member of staff wearing the top.\n\nEngland assistants Anthony Barry, Nicolas Mayer and Justin Cochrane were also wearing the sun protection technology during their latest session as the coaches prepared the players for their next group match against Ghana on Tuesday (21:00 BST).\n\nDescriptions of similar tops found online say they filter \"harsh UV rays to protect your skin from the sun\" and keep skin \"cool and dry\".\n\nTuchel led the session in front of local baseball side the Kansas City Royals and their opponents the St Louis Cardinals, as the two sides had been in action on Friday night.\n\nBukayo Saka was the only player missing from the pitch as the Arsenal winger followed an individual programme indoors as he manages an Achilles issue.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2805_6",
+            "category": "england",
+            "type": "News",
+            "title": "Ueda inspires Japan to eliminate Tunisia in landmark 1,000th World Cup match",
+            "bullets": [
+              "Two goals from Ueda, plus strikes by Kamada and Ito, sealed the fate of Tunisia and their new coach ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Two goals from Ueda, plus strikes by Kamada and Ito, sealed the fate of Tunisia and their new coach Hervé RenardPerhaps the manager wasn’t the problem after all. Tunisia sacked Sabri Lamouchi after last week’s 5-1 defeat to Sweden, appointing Hervé Renard as their seventh manager since qualifying began. But it turned out a diffident side lacking defensive conviction are a diffident side lacking defensive conviction whoever has to do the press conferences. Tunisia were well beaten by a Japan side inspired by the Feyenoord centre-forward Ayase Ueda, who scored twice and led the line with intelligence and imagination.Renard had only three days with his players. He may have performed heroics to win the Africa Cup of Nations with Zambia in 2012 and three years later become the first manager to win two Cups of Nations with different teams as he ended Côte d’Ivoire’s 23-year trophy drought. But he is not, as he has stressed, “a magician”. Continue reading...",
+            "fullText": "Two goals from Ueda, plus strikes by Kamada and Ito, sealed the fate of Tunisia and their new coach Hervé Renard\n\nPerhaps the manager wasn’t the problem after all. Tunisia sacked Sabri Lamouchi after last week’s 5-1 defeat to Sweden, appointing Hervé Renard as their seventh manager since qualifying began. But it turned out a diffident side lacking defensive conviction are a diffident side lacking defensive conviction whoever has to do the press conferences. Tunisia were well beaten by aJapanside inspired by the Feyenoord centre-forward Ayase Ueda, who scored twice and led the line with intelligence and imagination.\n\nRenard had only three days with his players. He may have performed heroics to win the Africa Cup of Nations with Zambia in 2012 and three years later become the first manager to win two Cups of Nations with different teams as he ended Côte d’Ivoire’s 23-year trophy drought. But he is not, as he has stressed, “a magician”.\n\nAttempts to break into the mainstream of French football with Sochaux, Lille and the France women’s team have faltered and the 57-year-old seems to have accepted that his role now is with aspirant nations in Africa and the Middle East rather than at the apex of the European game. Renard still wears his trademark white shirt but whatever luck it may once have brought seems to have worn off. Not that this mess could, in any realistic sense, be blamed on Renard. He’s just the well-remunerated sap paid to try to explain how Tunisia are out of theWorld Cupalready.\n\nIn the end, Renard simply seemed resigned. “We were hoping for a better reaction, a better performance,” he said. “Unfortunately the score was heavy, but this reflects the difference between the teams. Today we were lacking good defensive organisation. In the first 20 minutes of the second half we were more rigorous but this was not enough.”\n\nThis was a landmark game for the World Cup, the 1,000th in its history. What began in chilly Montevideo with simultaneous matches between France and Mexico and the US and Belgium has arrived, 96 years later, in steamy Monterrey with the largest victory for an Asian side in the tournament’s history.\n\nThe day before the game, a violent and protracted thunderstorm had led to flooding in the stadium compound and had transformed the main access road into a raging torrent. The only evidence of that on matchday, though, was a film of mud over the tarmac and concrete.\n\nTunisia’s problems were less easily disguised. Renard retained the same basic shape as Lamouchi and made only three changes, most notably in goal, where Aymen Dahmen replaced Mouhib Chamakh, who had been at least in part responsible for Sweden’s first two goals last week. But a similar lineup had a similar outcome; Tunisia were never in the game.\n\n“The players didn’t get too caught up in the opponent and were able to fully show what we wanted to do,” said a delighted Hajime Moriyasu, Japan’s manager. Japan should have had a penalty within 70 seconds as Ueda was clipped by Ellyes Skhiri as he tried to turn – a mystifying non-award by the Romanian referee, Istvan Kovacs, and an even more mystifying non-intervention by VAR for an obvious foul – but they were ahead within four minutes anyway, a neat move dragging Tunisia across the pitch and leaving space for Keito Nakamura on the Japan left. The wing-back crossed low into a crowded box, the ball cannoning in off the heel of an unsighted Daichi Kamada. Renard advanced towards the edge of his technical area, a look of bewildered horror on his face.\n\nMoriyasu actually made one more change than Renard after his side’s impressive 2-2 draw with the Netherlands. Takefusa Kubo was injured, but the other three tweaks were tactical – and they worked. Having played largely without the ball in that game, Japan poured forward in waves and, but for a last-gasp clearing challenge from Dylan Bronn and then a sprawling save from Dahmen that clawed Takehiro Tomiyasu’s deflected shot away a millimetre from fully crossing the line, Japan would have increased their advantage within the first 10 minutes.\n\nThe second, though, was always going to arrive sooner or later and it came after 31 minutes as Ueda, receiving the ball in an inexplicable amount of space, turned, ignored the run of Junya Ito and whipped a shot through the legs of Montasser Talbi and into the bottom corner. Renard’s expression this time was rueful.\n\nRenard can at least take credit for having tightened things up after the break but by then it was too late. Japan were watched from the VIP box by Hisako, the widow of Norihito, grandson of Emperor Taishō, who travelled with her husband to South Korea shortly before the 2002 World Cup for the first visit by the imperial family since the second world war. What she saw was a very good side who spent the second half conserving energy and playing within themselves against a far inferior team.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2806_7",
+            "category": "england",
+            "type": "News",
+            "title": "England offer rare peek behind the curtain with no place to hide under Tuchel",
+            "bullets": [
+              "There was more insight at the World Cup training base than usual with intensity on the rise under Th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There was more insight at the World Cup training base than usual with intensity on the rise under Thomas TuchelThe tall hooded figure kept barking instructions under a hot Missouri sun. Thomas Tuchel was looking for perfection as preparations for Ghana geared up. England’s head coach watched from a distance at first but it was not long before he was making sure the training drill was up his standards.Tuchel, wearing a hoodie to protect himself from the UV rays, loomed over a group made up of Elliot Anderson, Jude Bellingham, Anthony Gordon, Marcus Rashford, Djed Spence and Ollie Watkins. This was a rare peek behind the curtain. At international tournaments there are days when journalists are allowed to watch 15 minutes of open training. They are often anodyne experiences, limited to a bit of jogging around, maybe a glimpse of a rondo if you’re lucky, but there was more insight at England’s base in Kansas City on Saturday morning. Mannequins were carefully arranged in four zones and it soon became clear there is no hiding place when Tuchel is watching. Continue reading...",
+            "fullText": "There was more insight at the World Cup training base than usual with intensity on the rise under Thomas Tuchel\n\nThe tall hooded figure kept barking instructions under a hot Missouri sun.Thomas Tuchelwas looking for perfection as preparations for Ghana geared up. England’s head coach watched from a distance at first but it was not long before he was making sure the training drill was up his standards.\n\nTuchel, wearing a hoodie to protect himself from the UV rays, loomed over a group made up of Elliot Anderson, Jude Bellingham, Anthony Gordon, Marcus Rashford, Djed Spence and Ollie Watkins. This was a rare peek behind the curtain. At international tournaments there are days when journalists are allowed to watch 15 minutes of open training. They are often anodyne experiences, limited to a bit of jogging around, maybe a glimpse of a rondo if you’re lucky, but there was more insight at England’s base in Kansas City on Saturday morning. Mannequins were carefully arranged in four zones and it soon became clear there is no hiding place when Tuchel is watching.\n\nThe German is a perfectionist who has been known to measure the height of the grass used at training. “If he sees something that he doesn’t like he calls it out,” Dan Burn said when he spoke to the media later in the day. The honesty is refreshing, the clarity welcome. On this occasion the focus seemed to be on England accelerating the play and moving through the lines. The players were passing through the mannequins. They could only take two touches. They needed to go through the middle at first, work on enticing the press and give and go before turning out to shifting the ball wide, but Tuchel was quick to move over when he spotted one group in need of some advice.\n\nTuchel is big on players controlling the ball with the correct foot in training. He wants everyone to know the favoured foot of every teammate on the pitch. It sounds logical. It speeds up the play and when Tuchel wandered over to Anderson, Bellingham, Spence, Gordon and Rashford it was possible to see the intensity go up.\n\nHolding a whistle in his right hand, Tuchel was loudly telling players which foot to use to control passes. There was a moment when he zoned in on Spence, telling the full-back to wake up. “Open up,” he said. “It’s been five minutes already, Djed. Come on!”\n\nThe cajoling was relentless and the level went up. England were pushing it in the heat and the mind went back to the first halfof their opening game against Croatialast Wednesday. The roof was shut at the Dallas Stadium and England struggled to beat the press during the first half. They played themselves into trouble and twice lost the lead, only to blow Croatia away with an astonishing burst of attacking football after half-time.\n\nThe aim is to play like a Premier League side: with speed, intensity and physicality. Historically, though, England have struggled with teams pressing them high. It comes down to technique. Tuchel makes it sound easy. If a left-footer receives the ball on their correct foot it makes it easier to open up the body, pass beyond an opponent, get England on the attack and use the pace of their forward players.\n\nNo wonder England’s players talk about how much they learn from Tuchel. The buy-in is total, although there is room for levity. There is basketball on offer at the team hotel. Backgammon has been on the agenda and Burn has been trying to work out how to play Wolf, a long-running card game inside the camp. “I’ve been watching a few of them before getting in there, trying to work out who the best liars are,” the big Newcastle defender said.\n\nThe players had a day off on Friday. Harry Kane and Jason Steele, the training goalkeeper, joined Burn at an Ella Langley gig. “I like country music, so I had a cowboy hat on and cowboy boots,” Burn said. “If you’re going to do it, do it properly. Ella is an amazing country artist, so it was nice that we get to do those things. Then today it’s focused back on football.”\n\nThe demands are high. While Tuchel watched the passing drill his No 2 threw himself into the action. Anthony Barry pressed and was also blasting out a stream of instructions. It was Barry who did the half-time interview with ITV and delivered a searing critique of England’s first 45 minutes against Croatia. The Liverpudlian did not hold back, saying there was a nervous energy from the team.\n\nBurn, who first came across Barry when the 40-year-old was cutting his teeth as a young coach at Wigan Athletic, was not surprised. “There’s no grey areas with Baz and the manager,” he said. “The one thing that I really do like about them is that they just say it how there is. They’re not going to beat around the bush. That’s all you want as a player. You just want that honesty.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-20 @ 18:46:32 EDT",
+  "lastUpdated": "2026-06-21 @ 06:28:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
@@ -9403,6 +9555,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "text": "Ready to make this year ours. Stick together.",
       "time": "16:54",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who saw that strike in training?! Unbelievable.",
+      "time": "06:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "06:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "06:30",
+      "isCaptain": true
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Rest up tonight boys. Massive week ahead.",
+      "time": "06:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "Phil Foden",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "06:32",
       "isCaptain": false
     }
   ]

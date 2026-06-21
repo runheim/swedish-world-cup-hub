@@ -832,7 +832,28 @@ const MATCH_REPORTS_DATABASE = {
       keyStat: "England has won all three of their historical friendly matches against Costa Rica."
     }
   },
-  "match_croatia": {preview: {
+  "match_croatia": {
+    score: "1 - 1",
+    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (68' pen) | 🇭🇷 Kramarić (34')",
+    report: "England opened their World Cup Group L campaign with a hard-fought 1-1 draw against Croatia at AT&T Stadium in Arlington. Croatia took the lead in the 34th minute when Andrej Kramarić latched onto a loose ball and fired a quick half-volley past Jordan Pickford. Thomas Tuchel's side responded in the second half, gradually ramping up the pressure. The equalizer came in the 68th minute from the penalty spot; Jude Bellingham was brought down in the box after a brilliant run, allowing captain Harry Kane to step up and fire the penalty cleanly into the bottom corner. Despite both teams pushing for a winner—including a dramatic late save by Pickford to deny a dipping Luka Modrić strike—the spoils were shared in a highly tactical opener.",
+    ratings: [
+      { name: "Jordan Pickford", role: "GK", rating: 7.5, comment: "Made a couple of critical saves, including a spectacular flying stop to deny Modrić's late effort.", isMotm: false },
+      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Solid defensive display. Used his recovery speed effectively to shut down Croatian counters.", isMotm: false },
+      { name: "John Stones", role: "CB", rating: 7.5, comment: "Composed on the ball. Constantly stepped into midfield to assist in playmaking and recycling.", isMotm: false },
+      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Strong in physical duels and read the game well to break up several Croatian crosses.", isMotm: false },
+      { name: "Kieran Trippier", role: "LB", rating: 6.5, comment: "Disciplined shift on the left flank, though found it challenging against overlapping runs.", isMotm: false },
+      { name: "Declan Rice", role: "DM", rating: 7.5, comment: "Commanded the central spaces, shielding the backline and distributing cleanly under pressure.", isMotm: false },
+      { name: "Trent Alexander-Arnold", role: "CM", rating: 7.0, comment: "Delivered some wonderful long diagonal passes, but struggled at times with defensive coverage.", isMotm: false },
+      { name: "Jude Bellingham", role: "AM", rating: 8.5, comment: "Sensational performance. Won the penalty with an explosive, press-resistant run into the box. Man of the Match.", isMotm: true },
+      { name: "Bukayo Saka", role: "RW", rating: 7.0, comment: "An energetic outlet down the right wing, creating a few dangerous moments in 1v1 situations.", isMotm: false },
+      { name: "Phil Foden", role: "LW", rating: 7.0, comment: "Had some tidy creative combinations inside but struggled to find clear sights of goal.", isMotm: false },
+      { name: "Harry Kane", role: "ST", rating: 8.0, comment: "Showed clinical composure to convert the equalizing penalty and led the line with his hold-up play.", isMotm: false },
+      { name: "Conor Gallagher", role: "CM", rating: 6.5, comment: "Subbed on in the 72nd minute to inject defensive energy and help stabilize the midfield.", isMotm: false },
+      { name: "Cole Palmer", role: "AM", rating: 6.5, comment: "Brought on late, showed some intelligent touches and creative intent in the final third.", isMotm: false },
+      { name: "Ollie Watkins", role: "ST", rating: 6.5, comment: "Offered a fresh, hard-working press up front to keep Croatia's center-backs busy.", isMotm: false },
+      { name: "Kobbie Mainoo", role: "CM", rating: 6.5, comment: "Late tactical substitution to help secure the draw and maintain possession in stoppage time.", isMotm: false }
+    ],
+    preview: {
       tactical: "World Cup Group L Opener at AT&T Stadium in Arlington/Dallas! A high-stakes clash against a tactical, experienced Croatian side featuring world-class midfield engines.",
       keyStat: "Croatia and England have met multiple times in World Cup history, yielding epic fixtures."
     }
