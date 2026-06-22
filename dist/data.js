@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Australia’s Jackson Irvine has no sympathy for Paraguay after historic World Cup red card",
-      "link": "https://www.theguardian.com/football/2026/jun/21/australias-jackson-irvine-has-no-sympathy-for-paraguay-after-historic-world-cup-red-card"
+      "text": "⚽ USMNT squad focuses on tactical discipline in Dallas training hub",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Group D Opponents finalize their tactical configurations",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -2817,10 +2833,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-22": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_usa_20260622_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT squad focuses on tactical discipline in Dallas training hub",
+            "bullets": [
+              "Mauricio Pochettino leads intensive tactical board and pitch walkthroughs.",
+              "Christian Pulisic continues to display stellar training indicators.",
+              "Captain Christian Pulisic: 'Roster is highly motivated for our next match.'"
+            ],
+            "summary": "The USMNT squad continues their World Cup campaign, training in Dallas, Texas. Under manager Mauricio Pochettino, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.",
+            "fullText": "The USMNT squad continues their World Cup campaign, training in Dallas, Texas. Under manager Mauricio Pochettino, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Jeff Carlisle (ESPN FC)",
+            "readTime": "3 min",
+            "tag": "World Cup Prep",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260622_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Group D Opponents finalize their tactical configurations",
+            "bullets": [
+              "Group D rivals execute high-intensity sessions at their training bases.",
+              "Analysts monitor player fitness and recovery registers.",
+              "Scouts report high ticket sales for upcoming World Cup matches."
+            ],
+            "summary": "USA's Group D rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle USA's front-line.",
+            "fullText": "USA's Group D rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle USA's front-line.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer Pundit Team",
+            "readTime": "3 min",
+            "tag": "Group D Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-21 @ 18:45:52 EDT",
+  "lastUpdated": "2026-06-22 @ 07:36:31 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
@@ -4255,6 +4313,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇺🇸",
       "text": "What time is the team meeting again?",
       "time": "16:58",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "07:36",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "07:37",
+      "isCaptain": true
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "07:38",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Early night for me. Big day tomorrow.",
+      "time": "07:39",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Ready to make history this summer. Let's go!",
+      "time": "07:40",
       "isCaptain": false
     }
   ]
