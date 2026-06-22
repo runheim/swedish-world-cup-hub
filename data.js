@@ -9402,11 +9402,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1917_0",
+            "category": "england",
+            "type": "News",
+            "title": "Madueke's remarkable season - from petition to World Cup starter",
+            "bullets": [
+              "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup star...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
+            "fullText": "When Noni Madueke was named in England's starting line-up for their World Cup opener against Croatia it was the latest moment in what has been a dramatic season for theArsenalwinger.\n\nLast summer Madueke completed a move to the Gunners fromChelseafor about Â£50m, but supporters started a petition against the signing with a#NoToMaduekehashtag being used across social media platforms.\n\nBut just under 12 months later, the 24-year-old has become a Premier League winner, after helping Mikel Arteta's side to their first league title in 22 years, and is starting for Thomas Tuchel's England on the right wing.\n\nMadueke was one of England's standout players inthe 4-2 win over Croatiaand won the penalty which Harry Kane scored to give the Three Lions the lead.\n\nMadueke'sArsenalteam-mate Bukayo Saka had been expected to be England's starting right winger at the World Cup but the 24-year-old is dealing with an Achilles issue he has been carrying since March.\n\nSaka and Madueke find themselves in the unusual situation of competing for game time at both club and country.\n\nSaka, who made his 50th appearance for England in the victory over Croatia, called the situation \"unique\", before adding \"I don't really know how it works, but it works\" when describing his relationship with Madueke.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAll three England keepers played there - Carlisle's role in trio's rise\n\nWhen Tuchel named his England squad for the World Cup the German was full of praise for Madueke.\n\nThe forward has put in consistently good performances for the Three Lions since Tuchel took charge and the manager said Madueke can be a \"difference-maker\" before highlighting his \"one-on-one ability\".\n\nTuchel has made it clear he wants his England team to play in a style that replicates the physicality of the Premier League.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1917_1",
+            "category": "england",
+            "type": "News",
+            "title": "A defender's view on how to stop the World Cup's best strikers",
+            "bullets": [
+              "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World C...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?",
+            "fullText": "Four of the most in-form strikers in world football will look to add to their red-hot starts to the World Cup this week\n\nA World Cup is always that little bit more special when the game's star names come to the party.\n\nAnd last week four of football's elite strikers announced their arrival in devastating fashion.\n\nIt was as though each was spurred on by the performance of the others.\n\nReal Madrid's Kylian Mbappe got the ball rolling by scoring twice in France's 3-1 win over Senegal.\n\nThat was emulated a couple of hours later by Manchester City's Erling Haaland in Norway's 4-1 win over Iraq.\n\nThen step forward Lionel Messi, the Inter Miami attacker proving his enduring class with a hat-trick as Argentina beat Algeria 3-0.\n\nBayern Munich's Harry Kane then netted twice as England beat Croatia 4-2.\n\nCould this be the tournament of the star striker? And if you're up against them, how do you plan to stop them?\n\nFour very different players, with contrasting styles but who are equally effective.\n\nFormer Everton and Wales defender Ashley Williams told BBC Sport how you might defend against them.\n\nLionel Messi has scored 120 goals in 200 games for Argentina",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1917_2",
+            "category": "england",
+            "type": "News",
+            "title": "Saka trains with England squad before Ghana match",
+            "bullets": [
+              "Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.",
+            "fullText": "Bukayo Saka (right) trained with the England squad on Sunday\n\nBukayo Saka has trained with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.\n\nThe Arsenal winger did not fully train with the rest of the squad on Saturday, instead doing some individual work for part of the session.\n\nHowever, it is understood that Saka did take part in normal training for England's penultimate session on Sunday before Tuesday's game in Boston.\n\nSaka is nursing an Achilles tendinitis issue and started on the bench for the 4-2 win over Croatia.\n\nTuchel has since said Saka is unlikely to be in contention to start until the third group game versus Panama.\n\nThe 24-year-old has been carrying the issue for a while. While there was concern behind the scenes at Arsenal about the niggle, they deemed him fit enough to start regularly during their end-of-season run-in.\n\nIt is understood that Saka's Achilles problem has not deteriorated since the climax of the domestic campaign, when his side won their first Premier League title in 22 years.\n\nTuchel not afraid to shout at England players - Watkins\n\nAll three England keepers played there - Carlisle's role in trio's rise",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1917_3",
+            "category": "england",
+            "type": "News",
+            "title": "Who are ya? Behind the scenes of the official World Cup portrait photographs",
+            "bullets": [
+              "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshootsLionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes with his forearm and reveals an eerie tattoo. Harry Kane leans awkwardly on to one knee.There are 1,248 football players and 48 managers at the World Cup, and none could escape the obligatory media duty that is the official portrait – whether or not they had a fun pose in mind.(Above) Diego Moreira of Belgium obscures his eyes for an eerie portrait. (Below) Marc Cucurella of Spain, Ronald Araújo of Uruguay and various other familiar faces. Continue reading...",
+            "fullText": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshoots\n\nLionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes with his forearm and reveals an eerie tattoo. Harry Kane leans awkwardly on to one knee.\n\nThere are 1,248 football players and 48 managers at theWorld Cup, and none could escape the obligatory media duty that is the official portrait – whether or not they had a fun pose in mind.\n\nShot by Getty Images on behalf of Fifa in recent weeks, the portraits capture a wide array of poses and expressions, revealing details about each player’s personality – and the image they wish to convey to the world.\n\nThe accompanying behind-the-scenes images, shared by Getty, tell the stories of how the portraits were made and what some of the players were like off camera.\n\n(Above) Diego Moreira of Belgium obscures his eyes for an eerie portrait. (Below) Marc Cucurella of Spain, Ronald Araújo of Uruguay and various other familiar faces.\n\nTwo photographers were assigned to shoot each team, enabling them to prepare opposing sets – one plain and one distinctive – so players and managers could be rotated into position quickly.\n\nSimple lighting set-ups were used throughout: typically, a large studio strobe-light with a softbox aimed at the subject’s body, with a couple of rim lights to provide shape and definition from the rear.\n\nThough the backdrops were muted compared tothe official portraits for the 2022 World Cup, the photographers were able to create vivid images using special lens filters that produced unpredictable blurring and kaleidoscopic effects (like the Messi image above).\n\n(Above) Danilo of Brazil waits as his compatriot Alisson poses for a picture in front of a softbox. (Below) Neymar plays up to the camera and the resulting image.\n\nThe Guardian sports photographer, Tom Jenkins, says photographing famous footballers can be challenging at the best of times, let alone when it’s like a production line.\n\n“With these kinds of shoots, you only get a few minutes with each player and you have to bash out various pictures and think incredibly quickly,” he says.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1918_4",
+            "category": "england",
+            "type": "News",
+            "title": "Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet ano...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet another historic point and Spain finally look like a team worthy of the favourites tag. Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet another historic point and Spain finally look like a team worthy of the favourites tag.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1918_5",
+            "category": "england",
+            "type": "News",
+            "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
+            "bullets": [
+              "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sportIf you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. This Saudi Arabian fossil fuel company also happens to be the world’s single largest corporate polluter while Saudi Arabia has, for decades, been the greatest stumbling block in international climate change negotiations. Aramco’s sponsorship is one aspect of Fifa’s increasing sportswashing that has angered fans around the world.This cosy relationship between modern football and the polluting industries has a long history that can be divided into three periods. First was when the game grew in British society as a tool to order and discipline workers and then became a cultural export of the British empire and capitalism. In the Factory Act of 1850, workers won the right to have Saturday afternoons free from work from 2pm, which is why the traditional kick-off is 3pm. Continue reading...",
+            "fullText": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sport\n\nIf you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. ThisSaudi Arabian fossil fuel companyalso happens to be the world’ssingle largest corporate polluterwhile Saudi Arabia has, for decades, been the greatest stumbling block in international climate change negotiations. Aramco’s sponsorship is one aspect of Fifa’s increasing sportswashing that has angered fans around the world.\n\nThis cosy relationship between modern football and the polluting industries has a long history that can be divided into three periods. First was when the game grew in British society as a tool to order and discipline workers and then became a cultural export of the British empire and capitalism. In the Factory Act of 1850, workers won the right to have Saturday afternoons free from work from 2pm, which is why the traditional kick-off is 3pm.\n\nEuropean industrialism, militarism and colonialism further exported football across the globe and industrialisation in Britain helped create the conditions for competitions, with their need for order, discipline and structure. Football spread from England and Scotland to the industrial areas of north-east France, north-west Germany and around the ports of France, Italy, Portugal, Spain, Argentina, Uruguay and Brazil.\n\nThen came the postwar period when football was professionalised and increasingly dominated by clubs in the industrial cities. These clubs were often closely linked to the car industry, with the most evident examples being Juventus’s links with Fiat and Wolfsburg’s with Volkswagen. The economic regulations that governed football made elite men’s football a lot more spread out than it is today.\n\nAt European level, after the early dominance of Real Madrid, Milan, Inter and Benfica, there was a period of “Eurosclerosis” with a decline in playing standards and the finals of the European Cup being contested between smaller clubs from smaller cities with less global appeal, such as Malmö.\n\nThis relative equality was challenging to the big clubs and they started to push for changes to the competition and for more power within their leagues, especially in England, Italy and Spain.\n\nFinally, with the establishment of the Champions League and the Premier League in the early 1990s, football became increasingly globalised. This opened up the sport to new forms of fossil capital investments, often in favour of the biggest clubs in the most attractive cities.\n\nThe 1990s had nine European club champions from nine cities, but only three clubs have won the Champions League who were not part of the 14 elite clubs that pushed for its expansion in the late 1990s. Those three all entered the elite level with the help of petrodollar investments: Chelsea with Roman Abramovich, Manchester City with Sheikh Mansour of the United Arab Emirates royal family and Paris Saint-Germain with Qatar Sports Investments, a subsidiary of the Qatari government. Meanwhile, for those who fail to compete,bankruptcy has become much more common.\n\nThere is now only one way for a club to enter the elite level of men’s football in Europe and that is investment from a petrostate, further locking in the carbon intensity of the sport and embedding fossil fuels as a crucial part of the biggest culture in the world. Fossil capital remains strong, despite most people now understanding that fossil fuels drive climate change and are a threat to civilisation.\n\nSo in order to justify delaying a green transition, fossil fuel companies need them to become a necessary evil, so embedded that we can not imagine life, let alone an enjoyable life, without them. This is where sportswashing comes into the picture and where football – and Fifa – play a very important role.\n\nFor every petrostate or oil magnate that buys a football club, for every event or club sponsored by a fossil-fuel company and for every airline logo on the shirt of our favourite players, the dominance of fossil capital becomes that little bit more embedded and makes it harder to imagine the game, and the world, without it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1918_6",
+            "category": "england",
+            "type": "News",
+            "title": "Why Tuchel will leave it late to name England team vs Ghana",
+            "bullets": [
+              "Thomas Tuchel has always been a coach who likes to sleep on his team selections, making final decisi...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel has always been a coach who likes to sleep on his team selections, making final decisions on the day of the game. But at this World Cup, he is leaving it later than ever.",
+            "fullText": "Sky Sports News' Rob Dorsett explains why Thomas Tuchel delays telling his England players if they are starting and looks at the selection dilemmas the Three Lions boss faces ahead of Tuesday's Group L clash with Ghana in Boston...",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1919_7",
+            "category": "england",
+            "type": "News",
+            "title": "Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
+            "bullets": [
+              "Jamie Carragher says England can't afford to drop Declan Rice against Ghana despite concerns over hi...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jamie Carragher says England can't afford to drop Declan Rice against Ghana despite concerns over his fitness, but believes Bukayo Saka should not be risked.",
+            "fullText": "Jamie Carragher believes that Declan Rice has to start against Ghana despite concerns regarding his fitness; Carragher does not want Bukayo Saka to be risked as he recovers from his Achilles injury; Sky Sports pundit wants to see Marc Guehi partner John Stones",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 17:22:59 EDT",
+  "lastUpdated": "2026-06-22 @ 18:19:24 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
