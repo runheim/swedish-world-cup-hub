@@ -9548,7 +9548,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 19:08:13 EDT",
+  "lastUpdated": "2026-06-22 @ 19:20:26 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
