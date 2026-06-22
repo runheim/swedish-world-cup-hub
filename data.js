@@ -20,6 +20,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cjegy048847o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Argentina v Austria: Messi breaks scoring record at World Cup 2026 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/22/argentina-v-austria-world-cup-2026-live"
+    },
+    {
       "text": "⚽ Who are ya? Behind the scenes of the official World Cup portrait photographs",
       "link": "https://www.theguardian.com/football/2026/jun/22/behind-the-scenes-official-world-cup-portrait-photographs"
     },
@@ -36,20 +40,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily"
     },
     {
-      "text": "⚽ From Times Square to England squad: Trevoh Chalobah realises World Cup dream",
-      "link": "https://www.theguardian.com/football/2026/jun/21/from-times-square-to-england-squad-trevoh-chalobah-realises-world-cup-dream"
-    },
-    {
       "text": "⚽ Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
       "link": "https://www.skysports.com/football/news/12040/13556733/england-world-cup-latest-jamie-carragher-says-thomas-tuchel-cant-afford-to-drop-declan-rice-against-ghana-despite-fitness-concerns"
     },
     {
       "text": "⚽ Go for Guehi? Tuchel's centre-back dilemma",
       "link": "https://www.skysports.com/football/news/12040/13555793/world-cup-2026-england-boss-thomas-tuchel-has-marc-guehi-pushing-for-recall-after-uncertain-john-stones-ezri-konsa-performances-against-croatia"
-    },
-    {
-      "text": "⚽ England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
-      "link": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final"
     }
   ],
   "timeline": {
@@ -9280,7 +9276,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 12:14:17 EDT",
+  "lastUpdated": "2026-06-22 @ 14:07:37 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
