@@ -873,25 +873,25 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_australia": {
-    score: "2 - 2",
-    scorers: "🇺🇸 Balogun (41'), Pepi (88') | 🇦🇺 Irvine (34'), Irankunda (71')",
-    report: "An epic 2-2 draw unfolded in Seattle as the USA showcased tremendous resilience to fight back twice against a physical and high-tempo Australian side. The visitors took the lead in the 34th minute when Jackson Irvine rose highest at a corner to power a header home. The USMNT equalized in the 41st minute after Weston McKennie won the ball in the final third and delivered a precise cross to Folarin Balogun, who tapped it in. Australia struck again in the 71st minute as Nestory Irankunda finished a rapid counter-attack with a low drive. However, substitute Ricardo Pepi came to the rescue in the 88th minute, poking home a loose ball in the box after a period of intense pressure. The result leaves Group D wide open heading into the final matchday.",
+    score: "2 - 0",
+    scorers: "🇺🇸 Burgess (11' OG), Freeman (43')",
+    report: "The USA secured a clean 2-0 victory over Australia at Lumen Field in Seattle. The opening goal came in the 11th minute when a dangerous cross from Christian Pulisic deflected off Australian defender Cameron Burgess for an own goal. Just before halftime in the 43rd minute, right-back Alex Freeman doubled the lead with a clinical finish after overlapping down the right wing. The USMNT controlled the second half to secure all three points and a clean sheet.",
     ratings: [
-      { name: "Matt Turner", role: "GK", rating: 6.5, comment: "Made a crucial double save early on but was left exposed on both Australian goals.", isMotm: false },
-      { name: "Joe Scally", role: "RB", rating: 7.0, comment: "Defended aggressively against Australia's quick wingers and supported the attack well.", isMotm: false },
-      { name: "Chris Richards", role: "CB", rating: 6.5, comment: "Had some tough moments against transitions but made several vital clearances.", isMotm: false },
-      { name: "Tim Ream", role: "CB", rating: 7.0, comment: "Composed distribution from the back, though stretched by Australia's direct speed.", isMotm: false },
-      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "An energetic display down the left flank, delivering dangerous crosses and defending solid.", isMotm: false },
-      { name: "Tyler Adams", role: "DM", rating: 7.0, comment: "Broke up transitions in midfield. Picked up a tactical yellow card in the second half.", isMotm: false },
-      { name: "Weston McKennie", role: "CM", rating: 8.0, comment: "Industrious performance in midfield. Assisted Balogun's equalizer with a brilliant cross.", isMotm: false },
-      { name: "Yunus Musah", role: "CM", rating: 7.5, comment: "Carried the ball forward well under pressure, breaking lines with his dribbling.", isMotm: false },
-      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Constant creative threat. Drew multiple defenders and created space for his teammates.", isMotm: false },
-      { name: "Timothy Weah", role: "RW", rating: 7.0, comment: "Offered raw pace down the right wing and tracked back diligently to support Scally.", isMotm: false },
-      { name: "Folarin Balogun", role: "ST", rating: 8.5, comment: "Superb hold-up play and scored a clinical equalizer in the first half.", isMotm: false },
-      { name: "Ricardo Pepi", role: "ST", rating: 8.5, comment: "Came on late and scored the dramatic, crucial equalizer to rescue a point.", isMotm: true },
-      { name: "Malik Tillman", role: "CM", rating: 6.5, comment: "Replaced Musah to add fresh energy and technical control in the final third.", isMotm: false },
-      { name: "Gio Reyna", role: "AM", rating: 7.0, comment: "Injected creativity late in the game, sparking the build-up to the equalizer.", isMotm: false },
-      { name: "Brenden Aaronson", role: "LW", rating: 6.5, comment: "Worked hard pressing the Australian defenders in the final minutes.", isMotm: false }
+      { name: "Matt Turner", role: "GK", rating: 7.5, comment: "Kept a clean sheet and made a couple of comfortable saves to preserve the win.", isMotm: false },
+      { name: "Alex Freeman", role: "RB", rating: 9.0, comment: "Sensational performance. Overlapped aggressively, scored a brilliant goal in the 43rd minute, and was solid defensively. Man of the Match.", isMotm: true },
+      { name: "Chris Richards", role: "CB", rating: 7.5, comment: "Strong physical presence in the air, winning important defensive duels.", isMotm: false },
+      { name: "Tim Ream", role: "CB", rating: 7.5, comment: "Led the backline with composure and excellent organization.", isMotm: false },
+      { name: "Antonee Robinson", role: "LB", rating: 7.5, comment: "Untiring work rate down the left flank, providing both width and tracking back rapidly.", isMotm: false },
+      { name: "Tyler Adams", role: "DM", rating: 7.5, comment: "Broke up transitions in midfield and recycled possession cleanly.", isMotm: false },
+      { name: "Weston McKennie", role: "CM", rating: 8.0, comment: "Industrious performance in midfield. Assisted Freeman's goal with a beautiful pass.", isMotm: false },
+      { name: "Yunus Musah", role: "CM", rating: 7.5, comment: "Excellent ball progression and energy, keeping Australia on their heels.", isMotm: false },
+      { name: "Christian Pulisic", role: "LW", rating: 8.0, comment: "Constant creative threat. His dangerous cross forced the opening own goal.", isMotm: false },
+      { name: "Timothy Weah", role: "RW", rating: 7.0, comment: "Stretched the opponent's defense with his speed and dangerous runs.", isMotm: false },
+      { name: "Folarin Balogun", role: "ST", rating: 7.0, comment: "Worked hard pressing the Australian defenders in the final third.", isMotm: false },
+      { name: "Joe Scally", role: "SUB", rating: 6.5, comment: "Replaced Freeman late in the match to help lock down the defense.", isMotm: false },
+      { name: "Malik Tillman", role: "SUB", rating: 6.5, comment: "Replaced Musah to add fresh energy and technical control in the midfield.", isMotm: false },
+      { name: "Gio Reyna", role: "SUB", rating: 7.0, comment: "Injected creativity late in the game, keeping possession under pressure.", isMotm: false },
+      { name: "Brenden Aaronson", role: "SUB", rating: 6.5, comment: "Worked hard pressing the Australian defenders in the final minutes.", isMotm: false }
     ],
     preview: {
       tactical: "The Group D home clash in Seattle! A high-tempo tactical test against Australia. USA's central pivot must prepare aggressive pressing traps to stifle wide counters.",
@@ -961,27 +961,27 @@ const SIMULATION_EVENTS = {
     { minute: 90, type: "fulltime", text: "Full Time! A magnificent 2-1 Send-Off victory over Germany! Soldier Field erupts! USA heads into the World Cup with momentum!" }
   ],
   "match_paraguay": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets as USA begins their World Cup Group D campaign in front of a packed stadium." },
+    { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The sun sets as USA begins their World Cup Group D campaign in front of a packed SoFi Stadium." },
+    { minute: 7, type: "goal_usa", text: "GOAL for USA! A deflected cross from Weston McKennie leads to a Damián Bobadilla own goal! 1-0 USA!" },
     { minute: 10, type: "save", text: "Chris Richards makes a massive sliding block in the penalty box to deny Paraguay's counter-attack. Composed defending." },
-    { minute: 23, type: "goal_usa", text: "GOAL for USA! Antonee Robinson overlaps brilliantly down the left wing, cuts back a low cross to Folarin Balogun, who curls a spectacular first-time shot into the bottom corner! 1-0 USA!" },
+    { minute: 31, type: "goal_usa", text: "GOAL for USA! Folarin Balogun finishes clinically after a beautiful pass from Christian Pulisic! 2-0 USA." },
     { minute: 35, type: "dribble", text: "Yunus Musah drives through the midfield with elegant body feints, creating a 3v2 transition. His final pass is blocked." },
-    { minute: 45, type: "halftime", text: "Half Time: USA leads 1-0. Complete dominance in possession (62%), suffocating Paraguay's defense." },
+    { minute: 45, type: "halftime", text: "Half Time: USA leads 3-0 after Folarin Balogun scored his second goal in stoppage time (45+5') off a beautiful cross from Malik Tillman." },
     { minute: 58, type: "foul", text: "Tyler Adams wins a tactical foul in midfield, breaking up Paraguay's transition attempts." },
-    { minute: 68, type: "goal_usa", text: "GOAL for USA! Paraguay commits men forward. Weston McKennie is fouled in the box. Christian Pulisic steps up and coolly converts the penalty! 2-0!" },
+    { minute: 73, type: "goal_opp", text: "GOAL for Paraguay! Maurício pulls one back after being set up by Julio Enciso! 3-1." },
     { minute: 82, type: "save", text: "Matt Turner remains alert, pulling off a comfortable catch from a long-range Paraguayan freekick." },
-    { minute: 90, type: "fulltime", text: "Full Time! A masterclass in tactical discipline as USA cruises to a 2-0 victory over Paraguay. The Pochettino system works flawlessly!" }
+    { minute: 90, type: "goal_usa", text: "GOAL for USA! Substitute Gio Reyna seals a historic performance with a spectacular strike from outside the box in stoppage time (90+8')! 4-1 USA." },
+    { minute: 98, type: "fulltime", text: "Full Time! A masterclass in tactical discipline as USA cruises to an emphatic 4-1 victory over Paraguay. The Pochettino system works flawlessly!" }
   ],
   "match_australia": [
     { minute: 1, type: "kickoff", text: "Kick-off in Seattle! A massive home matchup between USA and Australia in front of a roaring, packed Seattle Stadium." },
-    { minute: 15, type: "save", text: "Heroic! Matt Turner makes a double save to deny Jackson Irvine and Nestory Irankunda. Sensational goalkeeping!" },
-    { minute: 34, type: "goal_opp", text: "GOAL for Australia! Jackson Irvine beats his marker at a corner, rising high to power a low header into the bottom corner. 1-0 Australia." },
-    { minute: 41, type: "goal_usa", text: "GOAL for USA! Relentless press! Weston McKennie wins the ball, spins, and crosses to Folarin Balogun, who taps it home! 1-1!" },
-    { minute: 45, type: "halftime", text: "Half Time in Seattle: 1-1. A high-tempo, physical heavyweight battle. Both teams look lethal on transitions." },
-    { minute: 58, type: "foul", text: "Tyler Adams makes a tactical foul on McGree, receiving a yellow card but stopping a dangerous break." },
-    { minute: 71, type: "goal_opp", text: "GOAL for Australia! Nestory Irankunda scores a sensational low drive from the edge of the box after a rapid counter-attack. 2-1 Australia." },
-    { minute: 80, type: "sub", text: "Pochettino switches to a hyper-offensive format, introducing Ricardo Pepi as a second central striker." },
-    { minute: 88, type: "goal_usa", text: "GOAL for USA! Oh my word, Ricardo Pepi has done it! Relentless pressure from USA. Pepi pokes home a loose ball in the box! 2-2!" },
-    { minute: 90, type: "fulltime", text: "Full Time! An epic 2-2 draw in Seattle. USA showcases incredible resilience to grab a late equalizer through Pepi." }
+    { minute: 11, type: "goal_usa", text: "GOAL for USA! Christian Pulisic whips in a dangerous cross that deflects off Australian defender Cameron Burgess for an own goal! 1-0 USA." },
+    { minute: 15, type: "save", text: "Matt Turner makes a sharp save to deny a low shot from Nestory Irankunda." },
+    { minute: 43, type: "goal_usa", text: "GOAL for USA! Right-back Alex Freeman doubles the lead, finishing a pass from Weston McKennie! 2-0 USA." },
+    { minute: 45, type: "halftime", text: "Half Time in Seattle: USA leads 2-0 after a commanding first-half performance." },
+    { minute: 58, type: "foul", text: "Tyler Adams wins a vital header in midfield, keeping the pressure on the Socceroos." },
+    { minute: 80, type: "sub", text: "Pochettino makes tactical substitutions to lock down the game, introducing fresh energy." },
+    { minute: 90, type: "fulltime", text: "Full Time! A commanding 2-0 victory for the USA at Lumen Field in Seattle, securing three points and a clean sheet!" }
   ],
   "match_turkiye": [
     { minute: 1, type: "kickoff", text: "Kick-off in Los Angeles! The final group stage match. USA needs a win or draw to secure top spot in Group D." },
@@ -2766,7 +2766,7 @@ function calculateGroupStandings() {
 
   // 1. USA vs Paraguay & Australia vs Türkiye
   if (isMatchCompleted("match_paraguay")) {
-    let usaScore = 2, oppScore = 0; // Default real score
+    let usaScore = 4, oppScore = 1; // Default real score
     if (SIMULATED_RESULTS["match_paraguay"]) {
       usaScore = SIMULATED_RESULTS["match_paraguay"].usa;
       oppScore = SIMULATED_RESULTS["match_paraguay"].opp;
@@ -2793,7 +2793,7 @@ function calculateGroupStandings() {
 
   // 2. USA vs Australia & Türkiye vs Paraguay
   if (isMatchCompleted("match_australia")) {
-    let usaScore = 2, oppScore = 2; // Default real score
+    let usaScore = 2, oppScore = 0; // Default real score
     if (SIMULATED_RESULTS["match_australia"]) {
       usaScore = SIMULATED_RESULTS["match_australia"].usa;
       oppScore = SIMULATED_RESULTS["match_australia"].opp;
@@ -2809,7 +2809,7 @@ function calculateGroupStandings() {
     addMatch("australia", oppScore, usaScore);
 
     // Other match: Türkiye vs Paraguay
-    let turScore = 2, parScore = 0; // Default
+    let turScore = 0, parScore = 1; // Default
     if (SIMULATED_RESULTS["match_tur_par"]) {
       turScore = SIMULATED_RESULTS["match_tur_par"].team1;
       parScore = SIMULATED_RESULTS["match_tur_par"].team2;
