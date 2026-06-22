@@ -10,10 +10,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ \"The Match\" - the film about Maradona's divine goals and Argentina's wounds",
       "link": "https://www.svt.se/kultur/the-match-filmen-om-maradonas-gudomliga-mal-och-argentinas-sar"
-    },
-    {
-      "text": "⚽ Jesper Karlström has become a father during the WC: \"Tried to suppress the feelings\"",
-      "link": "https://www.svt.se/sport/fotboll/jesper-karlstrom-har-blivit-pappa-under-vm-forsokt-trycka-bort-kanslorna"
     }
   ],
   "timeline": {
@@ -5224,11 +5220,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2820_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Swedes respond to criticism of Isak Hien: \"A top player\"",
+            "bullets": [
+              "Blågult's centre-back Isak Hien has received criticism for his performance against the Netherlands. ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Blågult's centre-back Isak Hien has received criticism for his performance against the Netherlands. Now the teammates answer. - It is easy to stare blindly at a match where the headlines might be a little bigger, says Taha Ali.",
+            "fullText": "Blågult's centre-back Isak Hien has received criticism for his performance against the Netherlands.\n\n- It is easy to stare blindly at a match where the headlines might be a little bigger, says Taha Ali.\n\nSee and hear more about what Taha Ali says about the criticism of Hien in the clip\n\nIt is for the goals conceded in Sweden's 1–5 loss that the Atalanta defender received serious criticism on social media.\n\nAmong other things, member of parliament Annika Strandhäll (S) wrote on platform X that the defender should not play in the national team ever.\n\nIn a statement to Expressen, she backed away from the comment and wrote:\n\n\"I did not mean to contribute to any negative dialogue\".\n\nNational teammate Taha Ali gives his view that there were strong opinions about Hien's performance.\n\n- Isak is a top player. When he makes a top match or a match that you could perhaps do better, you usually know about it yourself, he says.\n\n- Isak is a fantastic person first and foremost and I treat him the same way every day, regardless of our achievements. So do the others. We are teammates and friends first and foremost. Isak is a very confident person and footballer. In my opinion, he is one of Serie A's top centre-backs.\n\n- It is not one player's fault, there are several things that happen and they are not pretty situations. It's easy to talk about the back line but as a team we don't put each other in good situations when they (Netherlands) get to play the ball in like that (at the goals).\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2824_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "\"The Match\" - the film about Maradona's divine goals and Argentina's wounds",
+            "bullets": [
+              "In the middle of the soccer World Cup, the acclaimed Argentinian documentary \"The Match\" has its cin...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In the middle of the soccer World Cup, the acclaimed Argentinian documentary \"The Match\" has its cinema premiere. The match in the title is the 1986 World Cup quarter-final between Argentina and England – yes, the one where Maradona both cheated and enchanted the world – and with it as a starting point, a larger story of colonialism, military dictatorship and an entire country's need for revenge is told.",
+            "fullText": "In the middle of the soccer World Cup, the acclaimed Argentinian documentary \"The Match\" has its cinema premiere. The match in the title is the 1986 World Cup quarter-final between Argentina and England – yes, the one where Maradona both cheated and enchanted the world – and with it as a starting point, a larger story of colonialism, military dictatorship and an entire country's need for revenge is told.\n\nThe Argentinian documentary \"The Match\" by Juan Cabral and Santiago Franco premiered at the Cannes Film Festival and was praised by critics. Now it gets its Swedish cinema premiere (26/6). In the middle of the World Cup and almost to the day 40 years since the match was played.\n\nThe match yes, quarter-final in Mexico World Cup 1986. Argentina against England. Four years after the Falklands War, it was already the championship's most talked about in advance. And after Maradona's two goals - both, for different reasons, equally legendary - it is today one of the most legendary in football history.\n\nSee parts from the film and hear why Kulturnyheterna's film editor thinks \"The Match\" is one of the best films of the year in the clip.\n\nMedverkande:Gary Lineker, John Barnes, Jorge Burruchaga, Ricardo Giusti, Julio Olarticoechea, Juan Cabral, Oscar Ruggeri, Peter Shilton, Santiago Franco, Jorge Valdano\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 14:07:23 EDT",
+  "lastUpdated": "2026-06-22 @ 17:28:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
