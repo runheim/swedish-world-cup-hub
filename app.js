@@ -761,7 +761,7 @@ const MATCH_SCHEDULE = [
   {
     id: "match_tunisia",
     type: "worldcup",
-    date: "2026-06-14",
+    date: "2026-06-15",
     time: "20:00 (Monterrey Time)", // 10:00 p.m. ET is 8:00 p.m. local Monterrey time (CST)
     opponent: "Tunisia",
     opponentFlag: "🇹🇳",
@@ -836,10 +836,10 @@ const MATCH_REPORTS_DATABASE = {
   },
   "match_tunisia": {
     score: "5 - 1",
-    scorers: "Yasin Ayari (29', 61'), Alexander Isak (15'), Viktor Gyökeres (45+2'), Mattias Svanberg (78') | Youssef Msakni (52')",
-    report: "Sweden kick-started their World Cup Group F campaign in style with a spectacular 5-1 routing of Tunisia at Estadio BBVA in Monterrey. Alexander Isak opened the floodgates in the 15th minute, finishing a low cross from Emil Holm. Yasin Ayari doubled the lead with a clever low finish in the 29th minute, before Viktor Gyökeres fired home a powerful third just before halftime. Tunisia pulled one back through veteran striker Youssef Msakni in the 52nd minute, but Sweden quickly re-established dominance. Ayari completed his brace in the 61st minute after a sensational assist from Lucas Bergvall, and Mattias Svanberg sealed the emphatic victory with a brilliant curled strike from the edge of the box in the 78th minute. A masterclass in high-pressing, fluid football from Graham Potter's side to take control of Group F.",
+    scorers: "Yasin Ayari (7', 90'+6'), Alexander Isak (30'), Viktor Gyökeres (59'), Mattias Svanberg (84') | Omar Rekik (43')",
+    report: "Sweden kick-started their World Cup Group F campaign in style with a spectacular 5-1 routing of Tunisia at Estadio BBVA in Monterrey. Yasin Ayari opened the scoring early in the 7th minute with a clever finish. Alexander Isak doubled the lead in the 30th minute after clean combinations. Tunisia pulled one back through a header from Omar Rekik in the 43rd minute to narrow the deficit to 2-1 at halftime. However, Sweden dominated the second half, with Viktor Gyökeres firing home a powerful third in the 59th minute, Mattias Svanberg adding a fourth in the 84th minute, and Ayari sealing his brace in stoppage time (90'+6') to complete the emphatic 5-1 victory. A masterclass in fluid football from Graham Potter's side to take control of Group F.",
     ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Had a quiet night but was reliable when called upon. Powerless to prevent Msakni's close-range finish.", isMotm: false },
+      { name: "Viktor Johansson", role: "GK", rating: 7.0, comment: "Had a quiet night but was reliable when called upon. Powerless to prevent Rekik's header.", isMotm: false },
       { name: "Emil Holm", role: "RB", rating: 8.0, comment: "An energetic outlet down the right wing. Assisted Isak's opening goal and dominated his flank.", isMotm: false },
       { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Rock-solid in defense. Read the game superbly and won all his aerial duels against Tunisian forwards.", isMotm: false },
       { name: "Victor Lindelöf", role: "CB", rating: 7.5, comment: "Led the backline with calm authority. Composed distribution and excellent positioning throughout.", isMotm: false },
@@ -861,25 +861,25 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_netherlands": {
-    score: "2 - 2",
-    scorers: "🇸🇪 Gyökeres (41', 88') | 🇳🇱 Gakpo (34'), Depay (71' pen)",
-    report: "A thrilling 2-2 blockbuster draw unfolded at NRG Stadium in Houston as Sweden and the Netherlands shared the spoils in an intense tactical battle. Cody Gakpo opened the scoring for the Dutch in the 34th minute with a curled effort, but Sweden equalized shortly after in the 41st minute when Alexander Isak won the ball and crossed for Viktor Gyökeres to tap home. The Netherlands restored their lead in the 71st minute through a Memphis Depay penalty following a Carl Starfelt handball. Sweden pushed hard for an equalizer, and their efforts paid off in the 88th minute when Gyökeres bullied his marker to fire home his second of the game, sealing a hard-fought point that keeps both teams at the top of Group F.",
+    score: "1 - 5",
+    scorers: "🇸🇪 Elanga (59') | 🇳🇱 Brobbey (5', 17'), Gakpo (47', 54'), Summerville (89')",
+    report: "Sweden suffered a devastating 1-5 defeat against a ruthless Dutch side at NRG Stadium in Houston. The Netherlands caught Sweden completely cold, with Brian Brobbey netting a quick brace in the first 17 minutes (5', 17'). Things went from bad to worse in the second half as Cody Gakpo scored twice in quick succession (47', 54') to make it 4-0. Anthony Elanga pulled a consolation goal back for Sweden in the 59th minute, finishing a pass from Yasin Ayari. However, Crysencio Summerville added a fifth goal for the Dutch in the 89th minute to cap off a dominant performance. The defeat puts a dent in Sweden's hopes of topping Group F and highlights major defensive vulnerabilities.",
     ratings: [
-      { name: "Viktor Johansson", role: "GK", rating: 7.5, comment: "Made an incredible double save in the first half to keep Sweden in the game. Unlucky on the penalty.", isMotm: false },
-      { name: "Emil Holm", role: "RB", rating: 7.0, comment: "Fought hard down the right flank against Gakpo, supplying several overlapping runs.", isMotm: false },
-      { name: "Isak Hien", role: "CB", rating: 7.5, comment: "Dominant in the air and read the game well, making critical clearances in the second half.", isMotm: false },
-      { name: "Victor Lindelöf", role: "CB", rating: 7.0, comment: "A captain's performance, marshalled the defense and picked up a vital tactical yellow card.", isMotm: false },
-      { name: "Gabriel Gudmundsson", role: "LB", rating: 7.0, comment: "Kept his flank secure defensively and joined the attack when space allowed.", isMotm: false },
-      { name: "Jesper Karlström", role: "DM", rating: 6.5, comment: "Worked hard to disrupt the Dutch build-up but was stretched by Koeman's fluid midfield.", isMotm: false },
-      { name: "Yasin Ayari", role: "AM", rating: 7.5, comment: "Dictated the transition play and pressed aggressively to disrupt the Dutch double-pivot.", isMotm: false },
-      { name: "Mattias Svanberg", role: "DM", rating: 7.0, comment: "Covered massive ground defensively and helped recycle possession cleanly.", isMotm: false },
-      { name: "Lucas Bergvall", role: "AM", rating: 7.5, comment: "Showcased high class in tight spaces and created several dangerous combination sequences.", isMotm: false },
-      { name: "Alexander Isak", role: "ST", rating: 8.0, comment: "Set up Gyökeres's first goal with a brilliant cross and was a constant threat on transitions.", isMotm: false },
-      { name: "Viktor Gyökeres", role: "ST", rating: 9.5, comment: "Outstanding performance. Bullied the Dutch center-backs all game and scored a clinical brace. Man of the Match.", isMotm: true },
-      { name: "Anthony Elanga", role: "LW", rating: 6.5, comment: "Injected speed down the wing late on, stretching the tired Dutch defensive lines.", isMotm: false },
-      { name: "Carl Starfelt", role: "CB", rating: 6.0, comment: "Conceded the penalty for a handball but recovered to win key defensive headers in stoppage time.", isMotm: false },
-      { name: "Ken Sema", role: "LW", rating: 6.5, comment: "Brought fresh energy and defensive discipline to the left side in the final 15 minutes.", isMotm: false },
-      { name: "Daniel Svensson", role: "LB", rating: 6.5, comment: "Replaced Gudmundsson late on and helped solidify the defense to secure the draw.", isMotm: false }
+      { name: "Viktor Johansson", role: "GK", rating: 5.0, comment: "Exposed by his defense and conceded five, though made a couple of decent stops to prevent further damage.", isMotm: false },
+      { name: "Emil Holm", role: "RB", rating: 5.0, comment: "Struggled in his tracking duties and was repeatedly caught out of position by Gakpo's runs.", isMotm: false },
+      { name: "Isak Hien", role: "CB", rating: 5.0, comment: "Faced a difficult night against Brobbey's physical presence and struggled to contain his movements.", isMotm: false },
+      { name: "Victor Lindelöf", role: "CB", rating: 5.5, comment: "Fought hard to organize a shell-shocked backline but was overrun by the fluent Dutch attacks.", isMotm: false },
+      { name: "Gabriel Gudmundsson", role: "LB", rating: 5.0, comment: "Faced heavy pressure down the flank and found it tough to join the attack effectively.", isMotm: false },
+      { name: "Jesper Karlström", role: "DM", rating: 5.5, comment: "Attempted to screen the defense but was frequently bypassed by the quick Dutch transitions.", isMotm: false },
+      { name: "Yasin Ayari", role: "AM", rating: 6.0, comment: "Tidy in possession during rare spells and provided the assist for Elanga's consolation goal.", isMotm: false },
+      { name: "Mattias Svanberg", role: "DM", rating: 5.5, comment: "Worked hard to win back ball in midfield but struggled to match the speed of the Dutch pivots.", isMotm: false },
+      { name: "Lucas Bergvall", role: "AM", rating: 5.5, comment: "Injected some creative moments in possession but had minimal space to work with.", isMotm: false },
+      { name: "Alexander Isak", role: "ST", rating: 5.5, comment: "Found himself isolated up front against Virgil van Dijk and received limited service.", isMotm: false },
+      { name: "Viktor Gyökeres", role: "ST", rating: 5.5, comment: "Battled hard against the Dutch center-backs but had no clear sights of goal throughout.", isMotm: false },
+      { name: "Anthony Elanga", role: "LW", rating: 7.0, comment: "Scored Sweden's only goal with a clinical run and finish, providing a rare bright spot. Man of the Match.", isMotm: true },
+      { name: "Carl Starfelt", role: "CB", rating: 4.5, comment: "Struggled off the bench, finding it difficult to cope with the speed of Dutch counter-attacks.", isMotm: false },
+      { name: "Ken Sema", role: "LW", rating: 5.0, comment: "Subbed on late to support the defense, but the game was already well out of reach.", isMotm: false },
+      { name: "Daniel Svensson", role: "LB", rating: 5.0, comment: "Late substitution to help secure the backline during a difficult closing stage.", isMotm: false }
     ],
     preview: {
       tactical: "The Group F blockbuster in Houston! A heavy-duty tactical test against Koeman's highly fluent Dutch setup. Sweden's central pivot must prepare aggressive pressing traps.",
@@ -950,26 +950,29 @@ const SIMULATION_EVENTS = {
   ],
   "match_tunisia": [
     { minute: 1, type: "kickoff", text: "Kick-off in Monterrey! The sun sets in Mexico as Sweden begins their World Cup Group F campaign in front of a packed stadium." },
+    { minute: 7, type: "goal_swe", text: "GOAL for Sweden! Yasin Ayari opens the scoring early with a clever finish! 1-0 Sweden." },
     { minute: 10, type: "save", text: "Isak Hien makes a massive sliding block in the penalty box to deny Tunisia's counter-attack. Composed defending." },
-    { minute: 23, type: "goal_swe", text: "GOAL for Sweden! Emil Holm overlaps brilliantly down the right wing, cuts back a low cross to Alexander Isak, who curls a spectacular first-time shot into the top corner! 1-0 Sweden!" },
-    { minute: 35, type: "dribble", text: "Lucas Bergvall drives through the midfield with elegant body feints, creating a 3v2 transition. His final pass is blocked." },
-    { minute: 45, type: "halftime", text: "Half Time: Sweden leads 1-0. Complete dominance in possession (65%), suffocating Tunisia's low-block." },
+    { minute: 30, type: "goal_swe", text: "GOAL for Sweden! Alexander Isak doubles the lead after clean combinations inside the box! 2-0 Sweden." },
+    { minute: 43, type: "goal_opp", text: "GOAL for Tunisia! Omar Rekik heads home from a corner to narrow the deficit just before halftime. 2-1 Sweden." },
+    { minute: 45, type: "halftime", text: "Half Time: Sweden leads 2-1 after a highly entertaining, open first half." },
     { minute: 58, type: "foul", text: "Yasin Ayari wins a tactical foul in midfield, breaking up Tunisia's transition attempts." },
-    { minute: 68, type: "goal_swe", text: "GOAL for Sweden! Tunisia commits men forward and loses the ball. Yasin Ayari engineers a clinical counter, feeding Viktor Gyökeres, who holds off the defender and blasts a low finish past the keeper! 2-0!" },
+    { minute: 59, type: "goal_swe", text: "GOAL for Sweden! Viktor Gyökeres fires home a powerful third goal to extend the lead! 3-1 Sweden." },
     { minute: 82, type: "save", text: "Viktor Johansson remains alert, pulling off a comfortable catch from a long-range Tunisian freekick." },
-    { minute: 90, type: "fulltime", text: "Full Time! A masterclass in tactical discipline as Sweden cruises to a 2-0 victory over Tunisia. The Potter system works flawlessly!" }
+    { minute: 84, type: "goal_swe", text: "GOAL for Sweden! Mattias Svanberg adds a fourth with a superb strike from distance! 4-1 Sweden." },
+    { minute: 90, type: "goal_swe", text: "GOAL for Sweden! Yasin Ayari seals his brace in stoppage time (90'+6') with a clinical finish! 5-1 Sweden." },
+    { minute: 96, type: "fulltime", text: "Full Time! An emphatic 5-1 routing of Tunisia for Sweden to open Group F. The Potter system works flawlessly!" }
   ],
   "match_netherlands": [
     { minute: 1, type: "kickoff", text: "Kick-off in Houston! A massive blockbuster matchup between Sweden and the Netherlands. The winner likely tops Group F." },
-    { minute: 15, type: "save", text: "Heroic! Viktor Johansson makes a double save to deny Gakpo and Depay. Sensational goalkeeping!" },
-    { minute: 34, type: "goal_opp", text: "GOAL for Netherlands! Cody Gakpo beats his marker on the wing, cuts inside, and curls a low shot into the bottom corner. 1-0 Netherlands." },
-    { minute: 41, type: "goal_swe", text: "GOAL for Sweden! Relentless press! Isak wins the ball in the Dutch third, spins his defender, and crosses to Viktor Gyökeres, who taps it home! 1-1!" },
-    { minute: 45, type: "halftime", text: "Half Time in Houston: 1-1. A high-tempo, physical heavyweight battle. Both teams look lethal on transitions." },
-    { minute: 58, type: "foul", text: "Victor Lindelöf makes a tactical foul on Depay, receiving a yellow card but stopping a dangerous break." },
-    { minute: 71, type: "goal_opp", text: "GOAL for Netherlands! Memphis Depay scores from the penalty spot after Carl Starfelt is ruled to have handled the ball. 2-1 Netherlands." },
+    { minute: 5, type: "goal_opp", text: "GOAL for Netherlands! Brian Brobbey scores early to put the Dutch ahead! 1-0 Netherlands." },
+    { minute: 17, type: "goal_opp", text: "GOAL for Netherlands! Brian Brobbey scores his second of the match with a clinical finish! 2-0 Netherlands." },
+    { minute: 45, type: "halftime", text: "Half Time in Houston: Netherlands leads 2-0 after dominating the first half." },
+    { minute: 47, type: "goal_opp", text: "GOAL for Netherlands! Cody Gakpo strikes right after the restart! 3-0 Netherlands." },
+    { minute: 54, type: "goal_opp", text: "GOAL for Netherlands! Cody Gakpo scores again to make it four! 4-0 Netherlands." },
+    { minute: 59, type: "goal_swe", text: "GOAL for Sweden! Anthony Elanga pulls a consolation goal back, finishing a pass from Yasin Ayari! 4-1 Netherlands." },
     { minute: 80, type: "sub", text: "Potter switches to a hyper-offensive format, urging wingbacks Holm and Gudmundsson to join the forward line." },
-    { minute: 88, type: "goal_swe", text: "GOAL for Sweden! Oh my word, Gyökeres has done it again! A relentless physical press from Sweden forces a mistake. Gyökeres blasts a low shot past Verbruggen! 2-2!" },
-    { minute: 90, type: "fulltime", text: "Full Time! An epic 2-2 blockbuster draw in Houston. Sweden showcases incredible resilience to grab a late equalizer through Gyökeres." }
+    { minute: 89, type: "goal_opp", text: "GOAL for Netherlands! Crysencio Summerville adds a fifth to seal the dominant win! 5-1 Netherlands." },
+    { minute: 90, type: "fulltime", text: "Full Time! A devastating 1-5 defeat for Sweden against a ruthless Dutch side in Houston." }
   ],
   "match_japan": [
     { minute: 1, type: "kickoff", text: "Kick-off in Dallas! The final group stage match. Sweden needs a win or draw to secure top spot in Group F." },
@@ -2828,7 +2831,7 @@ function calculateGroupStandings() {
 
   // 2. Sweden vs Netherlands & Japan vs Tunisia
   if (isMatchCompleted("match_netherlands")) {
-    let sweScore = 2, oppScore = 2; // Default real score
+    let sweScore = 1, oppScore = 5; // Default real score
     if (SIMULATED_RESULTS["match_netherlands"]) {
       sweScore = SIMULATED_RESULTS["match_netherlands"].swe;
       oppScore = SIMULATED_RESULTS["match_netherlands"].opp;
@@ -2844,7 +2847,7 @@ function calculateGroupStandings() {
     addMatch("netherlands", oppScore, sweScore);
 
     // Other match: Japan vs Tunisia
-    let japScore = 1, tunScore = 0; // Default
+    let japScore = 4, tunScore = 0; // Default
     if (SIMULATED_RESULTS["match_jap_tun"]) {
       japScore = SIMULATED_RESULTS["match_jap_tun"].team1;
       tunScore = SIMULATED_RESULTS["match_jap_tun"].team2;
