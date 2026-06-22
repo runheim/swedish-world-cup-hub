@@ -28,16 +28,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot"
     },
     {
-      "text": "⚽ Declan Rice reveals he has played through hamstring nerve pain for six months",
-      "link": "https://www.theguardian.com/football/2026/jun/21/england-declan-rice-hamstring-nerve-pain-arsenal-schedule-world-cup"
+      "text": "⚽ Iran’s Beiranvand denies 10-man Belgium in World Cup draw as Nathan Ngoy sees red",
+      "link": "https://www.theguardian.com/football/2026/jun/21/belgium-iran-world-cup-group-g-match-report"
+    },
+    {
+      "text": "⚽ Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
+      "link": "https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily"
     },
     {
       "text": "⚽ From Times Square to England squad: Trevoh Chalobah realises World Cup dream",
       "link": "https://www.theguardian.com/football/2026/jun/21/from-times-square-to-england-squad-trevoh-chalobah-realises-world-cup-dream"
     },
     {
-      "text": "⚽ Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
-      "link": "https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily"
+      "text": "⚽ Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
+      "link": "https://www.skysports.com/football/news/12040/13556733/england-world-cup-latest-jamie-carragher-says-thomas-tuchel-cant-afford-to-drop-declan-rice-against-ghana-despite-fitness-concerns"
     },
     {
       "text": "⚽ Go for Guehi? Tuchel's centre-back dilemma",
@@ -46,10 +50,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
       "link": "https://www.skysports.com/football/news/12040/13556636/world-cup-2026-bracket-and-knockout-fixtures-whos-facing-who-in-the-last-32-and-route-to-final"
-    },
-    {
-      "text": "⚽ Today on Sky Sports Racing: Mesaafi and Glamorous Breeze clash at Windsor",
-      "link": "https://www.skysports.com/racing/news/12040/13556359/today-on-sky-sports-racing-brighton-and-windsor-feature-live-on-monday"
     }
   ],
   "timeline": {
@@ -9066,11 +9066,221 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1409_0",
+            "category": "england",
+            "type": "News",
+            "title": "Madueke's remarkable season - from petition to World Cup starter",
+            "bullets": [
+              "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup star...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
+            "fullText": "When Noni Madueke was named in England's starting line-up for their World Cup opener against Croatia it was the latest moment in what has been a dramatic season for theArsenalwinger.\n\nLast summer Madueke completed a move to the Gunners fromChelseafor about Â£50m, but supporters started a petition against the signing with a#NoToMaduekehashtag being used across social media platforms.\n\nBut just under 12 months later, the 24-year-old has become a Premier League winner, after helping Mikel Arteta's side to their first league title in 22 years, and is starting for Thomas Tuchel's England on the right wing.\n\nMadueke was one of England's standout players inthe 4-2 win over Croatiaand won the penalty which Harry Kane scored to give the Three Lions the lead.\n\nMadueke'sArsenalteam-mate Bukayo Saka had been expected to be England's starting right winger at the World Cup but the 24-year-old is dealing with an Achilles issue he has been carrying since March.\n\nSaka and Madueke find themselves in the unusual situation of competing for game time at both club and country.\n\nSaka, who made his 50th appearance for England in the victory over Croatia, called the situation \"unique\", before adding \"I don't really know how it works, but it works\" when describing his relationship with Madueke.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAll three England keepers played there - Carlisle's role in trio's rise\n\nWhen Tuchel named his England squad for the World Cup the German was full of praise for Madueke.\n\nThe forward has put in consistently good performances for the Three Lions since Tuchel took charge and the manager said Madueke can be a \"difference-maker\" before highlighting his \"one-on-one ability\".\n\nTuchel has made it clear he wants his England team to play in a style that replicates the physicality of the Premier League.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1409_1",
+            "category": "england",
+            "type": "News",
+            "title": "A defender's view on how to stop the World Cup's best strikers",
+            "bullets": [
+              "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World C...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?",
+            "fullText": "Four of the most in-form strikers in world football will look to add to their red-hot starts to the World Cup this week\n\nA World Cup is always that little bit more special when the game's star names come to the party.\n\nAnd last week four of football's elite strikers announced their arrival in devastating fashion.\n\nIt was as though each was spurred on by the performance of the others.\n\nReal Madrid's Kylian Mbappe got the ball rolling by scoring twice in France's 3-1 win over Senegal.\n\nThat was emulated a couple of hours later by Manchester City's Erling Haaland in Norway's 4-1 win over Iraq.\n\nThen step forward Lionel Messi, the Inter Miami attacker proving his enduring class with a hat-trick as Argentina beat Algeria 3-0.\n\nBayern Munich's Harry Kane then netted twice as England beat Croatia 4-2.\n\nCould this be the tournament of the star striker? And if you're up against them, how do you plan to stop them?\n\nFour very different players, with contrasting styles but who are equally effective.\n\nFormer Everton and Wales defender Ashley Williams told BBC Sport how you might defend against them.\n\nLionel Messi has scored 120 goals in 200 games for Argentina",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1410_2",
+            "category": "england",
+            "type": "News",
+            "title": "Saka trains with England squad before Ghana match",
+            "bullets": [
+              "Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their s...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka trains with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.",
+            "fullText": "Bukayo Saka (right) trained with the England squad on Sunday\n\nBukayo Saka has trained with the England squad to provide a fitness boost to Thomas Tuchel before their second World Cup match against Ghana.\n\nThe Arsenal winger did not fully train with the rest of the squad on Saturday, instead doing some individual work for part of the session.\n\nHowever, it is understood that Saka did take part in normal training for England's penultimate session on Sunday before Tuesday's game in Boston.\n\nSaka is nursing an Achilles tendinitis issue and started on the bench for the 4-2 win over Croatia.\n\nTuchel has since said Saka is unlikely to be in contention to start until the third group game versus Panama.\n\nThe 24-year-old has been carrying the issue for a while. While there was concern behind the scenes at Arsenal about the niggle, they deemed him fit enough to start regularly during their end-of-season run-in.\n\nIt is understood that Saka's Achilles problem has not deteriorated since the climax of the domestic campaign, when his side won their first Premier League title in 22 years.\n\nTuchel not afraid to shout at England players - Watkins\n\nAll three England keepers played there - Carlisle's role in trio's rise",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1410_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel not afraid to shout at England players - Watkins",
+            "bullets": [
+              "Ollie Watkins says Thomas Tuchel is \"not afraid\" to shout at England players as the manager aims to ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins says Thomas Tuchel is \"not afraid\" to shout at England players as the manager aims to maintain training standards at the World Cup.",
+            "fullText": "Thomas Tuchel has been in charge of England since January 2025\n\nOllie Watkins has said Thomas Tuchel is \"not afraid\" to shout at England players as the manager aims to maintain training standards at the World Cup.\n\nThe Aston Villa striker was speaking at England's training base in Kansas City and was asked about Tuchel's coaching methods and how the German motivates his players.\n\n\"I think he is not afraid to shout at you. He is always demanding from you and making sure you are on it every day,\" said Watkins.\n\nTuchel was filmed shouting at Tottenham Hotspur defender Djed Spence to \"wake up\" during training as the England team continued preparations for their second game of the tournament against Ghana on Tuesday (21:00 BST).\n\n\"It was lucky it wasn't me. I think I made a mistake just before Djed did, but he ended up shouting at Djed, luckily,\" Watkins said.\n\n\"I think it just shows that he is a winner and that he is always driving the standards, making sure we are on it.\n\n\"That is what you need when the aim is to win a World Cup. [Tuchel is] very demanding, but when he is around the base camp he is very relaxed and chilled.\"\n\nTuchel won the Champions League as Chelsea boss in 2021, and league titles with Paris St-Germain and Bayern Munich.\n\nSpence was called up to the 26-man squad despite Tottenham Hotspur's battle against relegation.\n\nThe 25-year-old is liked by Tuchel because of his versatility, and afterTino Livramento's withdrawal through injury, Spence offers first-choice cover at both left-back and right-back.\n\nRice feels like he will get an assist at every corner",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1410_4",
+            "category": "england",
+            "type": "News",
+            "title": "Who are ya? Behind the scenes of the official World Cup portrait photographs",
+            "bullets": [
+              "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshootsLionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes with his forearm and reveals an eerie tattoo. Harry Kane leans awkwardly on to one knee.There are 1,248 football players and 48 managers at the World Cup, and none could escape the obligatory media duty that is the official portrait – whether or not they had a fun pose in mind.(Above) Diego Moreira of Belgium obscures his eyes for an eerie portrait. (Below) Marc Cucurella of Spain, Ronald Araújo of Uruguay and various other familiar faces. Continue reading...",
+            "fullText": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshoots\n\nLionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes with his forearm and reveals an eerie tattoo. Harry Kane leans awkwardly on to one knee.\n\nThere are 1,248 football players and 48 managers at theWorld Cup, and none could escape the obligatory media duty that is the official portrait – whether or not they had a fun pose in mind.\n\nShot by Getty Images on behalf of Fifa in recent weeks, the portraits capture a wide array of poses and expressions, revealing details about each player’s personality – and the image they wish to convey to the world.\n\nThe accompanying behind-the-scenes images, shared by Getty, tell the stories of how the portraits were made and what some of the players were like off camera.\n\n(Above) Diego Moreira of Belgium obscures his eyes for an eerie portrait. (Below) Marc Cucurella of Spain, Ronald Araújo of Uruguay and various other familiar faces.\n\nTwo photographers were assigned to shoot each team, enabling them to prepare opposing sets – one plain and one distinctive – so players and managers could be rotated into position quickly.\n\nSimple lighting set-ups were used throughout: typically, a large studio strobe-light with a softbox aimed at the subject’s body, with a couple of rim lights to provide shape and definition from the rear.\n\nThough the backdrops were muted compared tothe official portraits for the 2022 World Cup, the photographers were able to create vivid images using special lens filters that produced unpredictable blurring and kaleidoscopic effects (like the Messi image above).\n\n(Above) Danilo of Brazil waits as his compatriot Alisson poses for a picture in front of a softbox. (Below) Neymar plays up to the camera and the resulting image.\n\nThe Guardian sports photographer, Tom Jenkins, says photographing famous footballers can be challenging at the best of times, let alone when it’s like a production line.\n\n“With these kinds of shoots, you only get a few minutes with each player and you have to bash out various pictures and think incredibly quickly,” he says.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1410_5",
+            "category": "england",
+            "type": "News",
+            "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
+            "bullets": [
+              "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sportIf you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. This Saudi Arabian fossil fuel company also happens to be the world’s single largest corporate polluter while Saudi Arabia has, for decades, been the greatest stumbling block in international climate change negotiations. Aramco’s sponsorship is one aspect of Fifa’s increasing sportswashing that has angered fans around the world.This cosy relationship between modern football and the polluting industries has a long history that can be divided into three periods. First was when the game grew in British society as a tool to order and discipline workers and then became a cultural export of the British empire and capitalism. In the Factory Act of 1850, workers won the right to have Saturday afternoons free from work from 2pm, which is why the traditional kick-off is 3pm. Continue reading...",
+            "fullText": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sport\n\nIf you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. ThisSaudi Arabian fossil fuel companyalso happens to be the world’ssingle largest corporate polluterwhile Saudi Arabia has, for decades, been the greatest stumbling block in international climate change negotiations. Aramco’s sponsorship is one aspect of Fifa’s increasing sportswashing that has angered fans around the world.\n\nThis cosy relationship between modern football and the polluting industries has a long history that can be divided into three periods. First was when the game grew in British society as a tool to order and discipline workers and then became a cultural export of the British empire and capitalism. In the Factory Act of 1850, workers won the right to have Saturday afternoons free from work from 2pm, which is why the traditional kick-off is 3pm.\n\nEuropean industrialism, militarism and colonialism further exported football across the globe and industrialisation in Britain helped create the conditions for competitions, with their need for order, discipline and structure. Football spread from England and Scotland to the industrial areas of north-east France, north-west Germany and around the ports of France, Italy, Portugal, Spain, Argentina, Uruguay and Brazil.\n\nThen came the postwar period when football was professionalised and increasingly dominated by clubs in the industrial cities. These clubs were often closely linked to the car industry, with the most evident examples being Juventus’s links with Fiat and Wolfsburg’s with Volkswagen. The economic regulations that governed football made elite men’s football a lot more spread out than it is today.\n\nAt European level, after the early dominance of Real Madrid, Milan, Inter and Benfica, there was a period of “Eurosclerosis” with a decline in playing standards and the finals of the European Cup being contested between smaller clubs from smaller cities with less global appeal, such as Malmö.\n\nThis relative equality was challenging to the big clubs and they started to push for changes to the competition and for more power within their leagues, especially in England, Italy and Spain.\n\nFinally, with the establishment of the Champions League and the Premier League in the early 1990s, football became increasingly globalised. This opened up the sport to new forms of fossil capital investments, often in favour of the biggest clubs in the most attractive cities.\n\nThe 1990s had nine European club champions from nine cities, but only three clubs have won the Champions League who were not part of the 14 elite clubs that pushed for its expansion in the late 1990s. Those three all entered the elite level with the help of petrodollar investments: Chelsea with Roman Abramovich, Manchester City with Sheikh Mansour of the United Arab Emirates royal family and Paris Saint-Germain with Qatar Sports Investments, a subsidiary of the Qatari government. Meanwhile, for those who fail to compete,bankruptcy has become much more common.\n\nThere is now only one way for a club to enter the elite level of men’s football in Europe and that is investment from a petrostate, further locking in the carbon intensity of the sport and embedding fossil fuels as a crucial part of the biggest culture in the world. Fossil capital remains strong, despite most people now understanding that fossil fuels drive climate change and are a threat to civilisation.\n\nSo in order to justify delaying a green transition, fossil fuel companies need them to become a necessary evil, so embedded that we can not imagine life, let alone an enjoyable life, without them. This is where sportswashing comes into the picture and where football – and Fifa – play a very important role.\n\nFor every petrostate or oil magnate that buys a football club, for every event or club sponsored by a fossil-fuel company and for every airline logo on the shirt of our favourite players, the dominance of fossil capital becomes that little bit more embedded and makes it harder to imagine the game, and the world, without it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1410_6",
+            "category": "england",
+            "type": "News",
+            "title": "Iran’s Beiranvand denies 10-man Belgium in World Cup draw as Nathan Ngoy sees red",
+            "bullets": [
+              "There was simply no debate over the moment of the match and it is one that Iran will cherish, even m...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There was simply no debate over the moment of the match and it is one that Iran will cherish, even more so if they are to progress to the World Cup knockout stages for the first time. Every angle of Alireza Beiranvand’s preposterous save to prevent Belgium taking the lead approaching the hour added to the miraculousness of it all. Perhaps the most ludicrous element was that Beiranvand appeared to have been eliminated from the game when the ball dropped at the feet of Maxim De Cuyper inside the six-yard box, the goal gaping. Yet, while scrambling on the turf after seesawing to his left in an attempt to intercept Kevin De Bruyne’s rolled cross, Beiranvand stuck out a strong left hand to shut the door in the face of De Cuyper, before smothering the ball.Presumably, given this summer’s apparent appetite for a goalkeeping cult hero, this all means Beiranvand’s following might now increase tenfold, though as Iran’s longtime No 1 who saved Cristiano Ronaldo’s penalty at the 2018 World Cup, he is no unknown. Just ask Vozinha and Eloy Room how their outstanding performances for Cape Verde and Curaçao respectively have done wonders for their profile. At 33, Beiranvand is a youngster compared to those guys. Continue reading...",
+            "fullText": "There was simply no debate over the moment of the match and it is one that Iran will cherish, even more so if they are to progress to theWorld Cupknockout stages for the first time. Every angle of Alireza Beiranvand’s preposterous save to prevent Belgium taking the lead approaching the hour added to the miraculousness of it all. Perhaps the most ludicrous element was that Beiranvand appeared to have been eliminated from the game when the ball dropped at the feet of Maxim De Cuyper inside the six-yard box, the goal gaping. Yet, while scrambling on the turf after seesawing to his left in an attempt to intercept Kevin De Bruyne’s rolled cross, Beiranvand stuck out a strong left hand to shut the door in the face of De Cuyper, before smothering the ball.\n\nPresumably, given this summer’s apparent appetite for a goalkeeping cult hero, this all means Beiranvand’s following might now increase tenfold, though as Iran’s longtime No 1 who saved Cristiano Ronaldo’s penalty at the 2018 World Cup, he is no unknown. Just ask Vozinha and Eloy Room how their outstanding performances for Cape Verde and Curaçao respectively have done wonders for their profile. At 33, Beiranvand is a youngster compared to those guys.\n\nIran believes. They have refused to wilt under the restrictions imposed on them by Fifa and the US and have earned creditable draws in their two matches, both of which have been played in Los Angeles. MeanwhileBelgium, who went out at the group stage four years ago, are in a spot of bother. Rudi Garcia, their head coach, accepts the pressure on their final Group G match against New Zealand is clear. “Sometimes when you have to win, sometimes that’s the best situation,” he said. “Obviously we had wished to start better. But, just like cyclists, we have to keep pedalling on and on and show we deserve to move on to the round of 32.”\n\nBelgium were reduced to 10 men midway through the second half after Nathan Ngoy wiped out Mehdi Taremi and the inquest into another disappointing result has begun. Their record at major tournaments now reads two wins from their past nine matches, one from their past six, against Romania at Euro 2024. They have had a total of 38 shots in their opening two games in the US without scoring themselves, their sole goal coming courtesy of the Egypt defender Mohamed Hany. They missed the energy of Jérémy Doku, who was absent through illness, while Romelu Lukaku, making his first start for club or country for more than 12 months, huffed and puffed in attack.\n\nDe Bruyne glittered in moments, none more so than when graciously bringing down Leandro Trossard’s lifted pass on the byline. Beiranvand made it his mission to reach De Bruyne’s pass before Lukaku, who became the third-most capped Belgium player. In the end Ali Nemati stopped the cross, his legs splayed as Beiranvand thwarted De Cuyper. Lukaku could only put his hands on his head in disbelief. “Beiranvand is one of our greatest goalkeepers in the history of Iranian football,” said Iran’s head coach, Amir Ghalenoei. “He is extremely experienced, intelligent and he had one of his best days. He had the right concentration and he gave us one very valuable point – even though we could have had three points.”\n\nThe last time Iran were at this stadium, they were not so much frogmarched off the premises but advised they were not welcome to stick around, informed they would have to fly back to their base in Tijuana, Mexico. Gianni Infantino visited their dressing room in an attempt to assuage their concerns, though amid Ghalenoei’s plea for more help Fifa’s president ended up riffing that, if required, he could fill in up front against Belgium. In the end, it was Belgium who were blunt in attack.\n\nThibaut Courtois was alert to thwart a bouncing effort by Hossein Kanaanizadegan and midway through the first half Taremi saw a precise finish, reminiscent of Wout Weghorst’s strike against Argentina four years ago after a free-kick routine initiated by Ehsan Hajsafi disallowed for offside. The ball beat Courtois in slow motion but a video assistant referee review flagged Taremi offside.\n\nCourtois made an instinctive save from Taremi after an Iran long throw but the best stop was undeniably at the other end approaching the hour. Beiranvand somehow pawed De Cuyper’s shot from inside the six-yard box after Nemati initially halted De Bruyne’s cross after a touch of brilliance on the byline. The huge wraparound screen then showed the raw numbers: 15 shots to four in Belgium’s favour. But a few minutes later it was Iran with a numerical advantage when the Lille defender Ngoy wiped out Taremi trying to make amends for a poor pass.\n\nBelgium were rattled, even the most tidy players now unkempt. De Bruyne gave the ball away deep inside his own half, presenting Saeid Ezatolahi with the chance to send a full-throttle shot at Courtois. Beiranvand, though, was not finished and with stoppage time looming he was alert to another De Cuyper effort. “Sixteen hours [to prepare in LA], two flights and a heavy game, I don’t think any team in the world could sustain such conditions and play like this,” Ghalenoei said.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1410_7",
+            "category": "england",
+            "type": "News",
+            "title": "Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet ano...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet another historic point and Spain finally look like a team worthy of the favourites tag. Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet another historic point and Spain finally look like a team worthy of the favourites tag.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1411_8",
+            "category": "england",
+            "type": "News",
+            "title": "From Times Square to England squad: Trevoh Chalobah realises World Cup dream",
+            "bullets": [
+              "Chelsea defender has mad scramble for boots and cuts short holiday after belatedly receiving the mes...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea defender has mad scramble for boots and cuts short holiday after belatedly receiving the message of a lifetime from Thomas TuchelTrevoh Chalobah has always thought he would be part of an England World Cup squad. In July 2018, the Chelsea centre‑half even put it on the record. “One day … believe,” he posted on social media, alongside a picture of the World Cup trophy. He was 19 and had just joined Ipswich in the Championship on a season loan. The message has aged exceptionally well.Despite his faith, Chalobah did not think it would be this summer. The chance had surely gone when Thomas Tuchel did not name him in his squad for the tournament in North America. He was close after a fine season at Chelsea, when he made a career-high 47 club appearances, but not close enough. Continue reading...",
+            "fullText": "Chelsea defender has mad scramble for boots and cuts short holiday after belatedly receiving the message of a lifetime from Thomas Tuchel\n\nTrevoh Chalobah has always thought he would be part of an EnglandWorld Cupsquad. In July 2018, the Chelsea centre‑half even put it on the record. “One day … believe,” he posted on social media, alongside a picture of the World Cup trophy. He was 19 and had just joined Ipswich in the Championship on a season loan. The message has aged exceptionally well.\n\nDespite his faith, Chalobah did not think it would be this summer. The chance had surely gone whenThomas Tucheldid not name him in his squad for the tournament in North America. He was close after a fine season at Chelsea, when he made a career-high 47 club appearances, but not close enough.\n\nEverything changed last Monday, and if there is an arresting quality to the story it is because it takes in so much emotion while also offering a peek into the glamorous lifestyle of a footballer. The heartbreak belonged to Tino Livramento, who was forced to withdraw from Tuchel’s squad after sustaining a calf injury in training last Sunday.\n\nChalobah was on holiday with a friend in New York. He had been in Monaco the previous weekend for the Formula One Grand Prix before popping along the Côte d’Azur to Cannes, then heading to the Big Apple on the Saturday. The plan after that was to go to Los Angeles.\n\nThe funny thing was Chalobah did not see the message from Tuchel straight away. “I was in Times Square,” he says. “I’d gone to the shops. It was when I got back to my hotel I saw Thomas had texted but it was two hours before. I didn’t see the message for two hours. I wasn’t on my phone. I was just walking around.”\n\nCall me – and fairly urgently – was the gist of theEnglandmanager’s words. “My heart just dropped,” Chalobah says. As in, it performed a flip. Because he knew. Tuchel was not reaching out for an idle chat. “I knew straight away,” the defender says. And so, shortly after, there was Tuchel on a video chat. “He was smiling and he said: ‘I have got some good news for you.’ I was just over the moon.”\n\nHis World Cup dream was realised and he could not help but repost his old tweet. “It has always been a dream and that day I decided to tweet it,” he says of the 2018 message. “I believed that one day, hopefully I’d make it. This is the No 1 moment of my career, especially because I didn’t expect it [now]. That is the beautiful thing. To get a call like that shows that when you think all is lost or it’s not going to happen … that tweet came true.”\n\nTuchel did tell Chalobah to “stay ready” when he named his squad and the defender tried to keep himself ticking over. Replacements for injured outfield players are permitted up to 24 hours before a team’s opening match; England kicked off last Wednesday in Dallas withthe 4-2 win against Croatia.\n\nChalobah flew from New York to Kansas City, where England are based, and was there by the time the squad returned after the Croatia game. It has been a whirlwind – down to a detail about his boots. “I gave them away at the end of the season,” he says. “My sponsors were going to send me boots out [to the US] for me to do my own thing with a personal trainer. I was waiting for that to happen when I got to Los Angeles. I had to speed up the process when I got called up.”\n\nChalobah is fighting to acclimatise after missing England’s hot-weather preparation camp in Florida. He worked individually at first before taking part in his first full training session with the squad on Saturday. As Tuchel has said many times, adaptation is the name of the game.\n\n“As athletes you always have to be mentally ready,” Chalobah says. “I was in a position where I was switching off and recovering and enjoying my holidays but I’ve been used to this last-minute stuff throughout my career so I was able to adapt.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1411_9",
+            "category": "england",
+            "type": "News",
+            "title": "Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
+            "bullets": [
+              "Jamie Carragher says England can't afford to drop Declan Rice against Ghana despite concerns over hi...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jamie Carragher says England can't afford to drop Declan Rice against Ghana despite concerns over his fitness, but believes Bukayo Saka should not be risked.",
+            "fullText": "Jamie Carragher believes that Declan Rice has to start against Ghana despite concerns regarding his fitness; Carragher does not want Bukayo Saka to be risked as he recovers from his Achilles injury; Sky Sports pundit wants to see Marc Guehi partner John Stones",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1413_10",
+            "category": "england",
+            "type": "News",
+            "title": "Go for Guehi? Tuchel's centre-back dilemma",
+            "bullets": [
+              "England's attack caught fire against Croatia but their defence in Dallas was far less convincing.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's attack caught fire against Croatia but their defence in Dallas was far less convincing.",
+            "fullText": "Marc Guehi seemed set to be one of England's first-choice centre-backs at the World Cup but was benched against Croatia; after the pairing of John Stones and Ezri Konsa failed to convince, should Thomas Tuchel make changes for Tuesday's game against Ghana?",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1414_11",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Portugal? Germany vs Scotland? Every potential knockout stage fixture!",
+            "bullets": [
+              "As we head towards the final World Cup group games, it's time to start looking ahead to the knockout...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As we head towards the final World Cup group games, it's time to start looking ahead to the knockout stages and potential routes to the final in July 19.",
+            "fullText": "Who could England and Scotland face in the last 32? How are the routes to the final shaping up? Keep tabs on the potential knockout stage line-up with our live World Cup bracket",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 07:37:17 EDT",
+  "lastUpdated": "2026-06-22 @ 12:14:17 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
