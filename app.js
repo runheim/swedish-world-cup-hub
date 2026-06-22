@@ -833,25 +833,25 @@ const MATCH_REPORTS_DATABASE = {
     }
   },
   "match_croatia": {
-    score: "1 - 1",
-    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (68' pen) | 🇭🇷 Kramarić (34')",
-    report: "England opened their World Cup Group L campaign with a hard-fought 1-1 draw against Croatia at AT&T Stadium in Arlington. Croatia took the lead in the 34th minute when Andrej Kramarić latched onto a loose ball and fired a quick half-volley past Jordan Pickford. Thomas Tuchel's side responded in the second half, gradually ramping up the pressure. The equalizer came in the 68th minute from the penalty spot; Jude Bellingham was brought down in the box after a brilliant run, allowing captain Harry Kane to step up and fire the penalty cleanly into the bottom corner. Despite both teams pushing for a winner—including a dramatic late save by Pickford to deny a dipping Luka Modrić strike—the spoils were shared in a highly tactical opener.",
+    score: "4 - 2",
+    scorers: "🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kane (12' pen, 42'), Bellingham (47'), Rashford (85') | 🇭🇷 Baturina (36'), Musa (45+5')",
+    report: "England opened their World Cup Group L campaign with a thrilling 4-2 victory over Croatia at AT&T Stadium in Arlington. Thomas Tuchel's side got off to a flying start as Jude Bellingham was brought down in the box, allowing captain Harry Kane to convert a penalty in the 12th minute. Croatia equalized in the 36th minute when Martin Baturina fired past Jordan Pickford. Harry Kane restored the lead in the 42nd minute, but Petar Musa equalized for Croatia deep in first-half stoppage time (45+5'). Just after the break, Bellingham struck in the 47th minute to put England ahead 3-2. Substitute Marcus Rashford sealed the match in the 85th minute with a clinical finish.",
     ratings: [
-      { name: "Jordan Pickford", role: "GK", rating: 7.5, comment: "Made a couple of critical saves, including a spectacular flying stop to deny Modrić's late effort.", isMotm: false },
-      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Solid defensive display. Used his recovery speed effectively to shut down Croatian counters.", isMotm: false },
-      { name: "John Stones", role: "CB", rating: 7.5, comment: "Composed on the ball. Constantly stepped into midfield to assist in playmaking and recycling.", isMotm: false },
-      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Strong in physical duels and read the game well to break up several Croatian crosses.", isMotm: false },
-      { name: "Kieran Trippier", role: "LB", rating: 6.5, comment: "Disciplined shift on the left flank, though found it challenging against overlapping runs.", isMotm: false },
-      { name: "Declan Rice", role: "DM", rating: 7.5, comment: "Commanded the central spaces, shielding the backline and distributing cleanly under pressure.", isMotm: false },
-      { name: "Trent Alexander-Arnold", role: "CM", rating: 7.0, comment: "Delivered some wonderful long diagonal passes, but struggled at times with defensive coverage.", isMotm: false },
-      { name: "Jude Bellingham", role: "AM", rating: 8.5, comment: "Sensational performance. Won the penalty with an explosive, press-resistant run into the box. Man of the Match.", isMotm: true },
-      { name: "Bukayo Saka", role: "RW", rating: 7.0, comment: "An energetic outlet down the right wing, creating a few dangerous moments in 1v1 situations.", isMotm: false },
-      { name: "Phil Foden", role: "LW", rating: 7.0, comment: "Had some tidy creative combinations inside but struggled to find clear sights of goal.", isMotm: false },
-      { name: "Harry Kane", role: "ST", rating: 8.0, comment: "Showed clinical composure to convert the equalizing penalty and led the line with his hold-up play.", isMotm: false },
-      { name: "Conor Gallagher", role: "CM", rating: 6.5, comment: "Subbed on in the 72nd minute to inject defensive energy and help stabilize the midfield.", isMotm: false },
-      { name: "Cole Palmer", role: "AM", rating: 6.5, comment: "Brought on late, showed some intelligent touches and creative intent in the final third.", isMotm: false },
-      { name: "Ollie Watkins", role: "ST", rating: 6.5, comment: "Offered a fresh, hard-working press up front to keep Croatia's center-backs busy.", isMotm: false },
-      { name: "Kobbie Mainoo", role: "CM", rating: 6.5, comment: "Late tactical substitution to help secure the draw and maintain possession in stoppage time.", isMotm: false }
+      { name: "Jordan Pickford", role: "GK", rating: 7.0, comment: "Made a couple of key stops but could do little about the two Croatian goals.", isMotm: false },
+      { name: "Kyle Walker", role: "RB", rating: 7.0, comment: "Disciplined defensive display, keeping Croatia's wide attackers in check.", isMotm: false },
+      { name: "John Stones", role: "CB", rating: 7.5, comment: "Composed on the ball and stepped up into midfield cleanly to recycle possession.", isMotm: false },
+      { name: "Marc Guéhi", role: "CB", rating: 7.0, comment: "Strong in physical duels and made several vital clearances.", isMotm: false },
+      { name: "Kieran Trippier", role: "LB", rating: 7.0, comment: "Solid defensive shift and supported going forward when space allowed.", isMotm: false },
+      { name: "Declan Rice", role: "DM", rating: 7.5, comment: "Commanded the central spaces, shielding the backline and distributing cleanly.", isMotm: false },
+      { name: "Trent Alexander-Arnold", role: "CM", rating: 7.5, comment: "Delivered beautiful long passes to stretch play and open up space.", isMotm: false },
+      { name: "Jude Bellingham", role: "AM", rating: 9.0, comment: "Sensational performance. Won the penalty for the first goal and scored the third. Man of the Match.", isMotm: true },
+      { name: "Bukayo Saka", role: "RW", rating: 7.0, comment: "Stretched the opponent's defense on the wing with his dangerous runs.", isMotm: false },
+      { name: "Phil Foden", role: "LW", rating: 7.5, comment: "Tidy combinations and active in creating chances in the final third.", isMotm: false },
+      { name: "Harry Kane", role: "ST", rating: 8.5, comment: "Converted the penalty and scored a clinical second goal to lead the line.", isMotm: false },
+      { name: "Conor Gallagher", role: "CM", rating: 6.5, comment: "Added energy and defensive stability off the bench in the second half.", isMotm: false },
+      { name: "Cole Palmer", role: "AM", rating: 7.0, comment: "Brought on and looked creative, sparking several dangerous sequences.", isMotm: false },
+      { name: "Marcus Rashford", role: "ST", rating: 8.0, comment: "Subbed on late and sealed the dramatic win with a clinical finish in the 85th minute.", isMotm: false },
+      { name: "Kobbie Mainoo", role: "CM", rating: 6.5, comment: "Helped secure possession and manage the game in the closing minutes.", isMotm: false }
     ],
     preview: {
       tactical: "World Cup Group L Opener at AT&T Stadium in Arlington/Dallas! A high-stakes clash against a tactical, experienced Croatian side featuring world-class midfield engines.",
@@ -920,13 +920,15 @@ const SIMULATION_EVENTS = {
     { minute: 90, type: "fulltime", text: "Full Time! England secures a beautiful 3-1 farewell victory at Wembley Stadium." }
   ],
   "match_croatia": [
-    { minute: 1, type: "kickoff", text: "Kick-off in Arlington! The Group L opener is underway at AT&T Stadium under intense atmosphere!" },
-    { minute: 34, type: "goal_opp", text: "GOAL for Croatia! Kramarić fires a quick half-volley past Pickford from the edge of the box. 1-0 Croatia." },
-    { minute: 45, type: "halftime", text: "Half Time: Croatia leads 1-0. Highly competitive half with both teams creating solid chances." },
-    { minute: 67, type: "foul", text: "Penalty for England! Jude Bellingham is brought down in the box after a brilliant run." },
-    { minute: 68, type: "goal_eng", text: "GOAL for England! Captain Harry Kane steps up and fires the penalty cleanly into the bottom corner! 1-1!" },
-    { minute: 82, type: "save", text: "Heroic save! Jordan Pickford stretches to deny Modrić's dipping effort. Crucial reflexes!" },
-    { minute: 90, type: "fulltime", text: "Full Time! England battles to a hard-fought 1-1 draw against Croatia in their World Cup opener." }
+    { minute: 1, type: "kickoff", text: "Kick-off in Arlington! The Group L opener is underway at AT&T Stadium under an intense atmosphere!" },
+    { minute: 12, type: "goal_eng", text: "GOAL for England! Captain Harry Kane steps up and fires a penalty cleanly into the bottom corner after Bellingham was brought down! 1-0 England." },
+    { minute: 36, type: "goal_opp", text: "GOAL for Croatia! Martin Baturina equalizes with a fine strike past Jordan Pickford! 1-1." },
+    { minute: 42, type: "goal_eng", text: "GOAL for England! Harry Kane restores the lead with a clinical finish inside the box! 2-1 England." },
+    { minute: 45, type: "halftime", text: "Half Time: Tied 2-2 after a dramatic first half. Petar Musa equalized for Croatia deep in stoppage time (45+5')!" },
+    { minute: 47, type: "goal_eng", text: "GOAL for England! Jude Bellingham strikes immediately after the restart to put England back in front! 3-2 England." },
+    { minute: 82, type: "save", text: "Heroic save! Jordan Pickford stretches to deny a dipping Croatian effort, preserving the lead!" },
+    { minute: 85, type: "goal_eng", text: "GOAL for England! Substitute Marcus Rashford seals the victory with a clinical low finish! 4-2 England." },
+    { minute: 90, type: "fulltime", text: "Full Time! England wins a thriller 4-2 against Croatia in their World Cup opener!" }
   ],
   "match_ghana": [
     { minute: 1, type: "kickoff", text: "Kick-off in Foxborough! The atmosphere is electric at Gillette Stadium as England begins their second Group L match." },
@@ -2729,7 +2731,7 @@ function calculateGroupStandings() {
 
   // 1. England vs Croatia & Ghana vs Panama
   if (isMatchCompleted("match_croatia")) {
-    let engScore = 1, oppScore = 1; // Default real score
+    let engScore = 4, oppScore = 2; // Default real score
     if (SIMULATED_RESULTS["match_croatia"]) {
       engScore = SIMULATED_RESULTS["match_croatia"].eng;
       oppScore = SIMULATED_RESULTS["match_croatia"].opp;
@@ -2745,7 +2747,7 @@ function calculateGroupStandings() {
     addMatch("croatia", oppScore, engScore);
 
     // Other match: Ghana vs Panama
-    let ghaScore = 2, panScore = 0; // Default
+    let ghaScore = 1, panScore = 0; // Default
     if (SIMULATED_RESULTS["match_gha_pan"]) {
       ghaScore = SIMULATED_RESULTS["match_gha_pan"].team1;
       panScore = SIMULATED_RESULTS["match_gha_pan"].team2;
