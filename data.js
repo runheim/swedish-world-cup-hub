@@ -2921,11 +2921,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1915_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT’s Alex Zendejas, yet to play at World Cup, readies for his moment: ‘I’m sure it’ll come’",
+            "bullets": [
+              "Club América star did not appear in first two US gamesDual-national was surprise pick to Pochettino’...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Club América star did not appear in first two US gamesDual-national was surprise pick to Pochettino’s squadDead-rubber Turkey match could be time for debutAs his US teammates finished off group-clinching wins over Paraguay and Australia, all Alex Zendejas could do to help was watch.It isn’t the role Zendejas aspired to have at this World Cup. The 28-year-old was a coveted dual-national who chose to represent the nation he grew up in over Mexico, where he was born and has played most of his professional career. At the USMNT’s open training before the Paraguay match, Club América jerseys were the best represented of the club shirts held by fans for signing. Continue reading...",
+            "fullText": "Club América star did not appear in first two US games\n\nDual-national was surprise pick to Pochettino’s squad\n\nAs his US teammates finished off group-clinching wins over Paraguay and Australia, all Alex Zendejas could do to help was watch.\n\nIt isn’t the role Zendejas aspired to have at thisWorld Cup. The 28-year-old was a coveted dual-national who chose to represent the nation he grew up in over Mexico, where he was born and has played most of his professional career. At the USMNT’s open training before the Paraguay match, Club América jerseys were the best represented of the club shirts held by fans for signing.\n\nThose América fans are surprised their star playmaker hasn’t earned a minute yet at this tournament. He’s among the most talented players in Liga MX and arrived in good form, with 24 goals and 21 assists in 5,462 league minutes since the start of 2023-24. So at a time when minutes are in shorter supply than he’s used to, frequent words of support from his backers are giving him a boost.\n\n“I guess you can see how diehard fans are in Mexico,” Zendejas said before training on Monday. “I just appreciate them so much. I’ve been seeing their messages, all that they’ve been doing, and I just really appreciate it. It gives me that confidence to be ready when I don’t get to play.”\n\nDespite his steady form at club level, Zendejas was one of themore surprising pickson Mauricio Pochettino’s squad. He wasn’t selected for the USMNT’s friendly rosters in November and March, seemingly projecting outsider status for this summer’s tournament squad. And yet, he appears as much a part of the locker room as any player, frequently arm-in-arm with starters after the final whistle and a steady presence in the team’s social media posts.\n\nFollowing Monday’s warm-up rondos, Zendejas and Christian Pulisic – in full training without the sleeve he’d worn on his injured calf last week – were working on their ball control and lobbing short passes to each other in a “floor-is-lava” style mini-game. As Pulisic fought in vain to be available against Australia, Zendejas tried to help keep his teammate’s mind off the stakes.\n\n“We’re talking about other stuff, you know, like [trying] to get his mind off of it,” Zendejas said. “Me and him get along, and we have other guys [who support him] too. That helps him out a lot, just having someone that he can talk to. So just be there for him.”\n\nPlayers like Pulisic may be rested for Thursday’s match against Turkey, given the state of Group D. Once projected as the most pivotal fixture of the group stage, the game is now firmly a dead-rubber affair. The US have won the group with a game to go by virtue of head-to-head results being the chief tiebreaker, a new tweak for this World Cup. Meanwhile, Turkey have been eliminated after just two games following poor showings against Australia and Paraguay.\n\nIn theory, based on past precedent in major tournaments, a coach would look to someone like Zendejas to get on the field and give him something to consider as he begins plotting rotations for the knockout bracket.\n\n“Training hard and waiting for the opportunity, but I’m sure it’ll come,” Zendejas said of his approach in the absence of match action. “That’s obviously a coach’s decision and something I’ve got to respect. I’m working hard, having fun and really enjoying this dream that I’m living right now, so I couldn’t ask for more. I’m happy to be here with the guys. I’m just happy.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 17:24:38 EDT",
+  "lastUpdated": "2026-06-22 @ 18:19:24 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
