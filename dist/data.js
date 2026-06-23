@@ -4,20 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Anderson's journey to England star and potential British record",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Quiz: Name every England World Cup goalscorer since 2014",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Anderson's journey to England star and potential British record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ England boss Tuchel not a fan of hydration breaks",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gyzknng1jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel’s brash Britpop football is music to England ears before Ghana test",
-      "link": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-britpop-football-england-world-cup-ghana"
+      "text": "⚽ Tell us your stories of Scotland's World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7v9v5pme2qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ When David Narey scored a screamer for Scotland against Brazil – and Jimmy Hill put his foot in it",
@@ -9913,11 +9913,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3101_0",
+            "category": "england",
+            "type": "News",
+            "title": "Quiz: Name every England World Cup goalscorer since 2014",
+            "bullets": [
+              "Fifteen players who have scored for England across the past four men's World Cups. Can you name them...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifteen players who have scored for England across the past four men's World Cups. Can you name them all?",
+            "fullText": "Three different England players were on target in the Three Lions' 4-2 win over Croatia in their World Cup opener on Wednesday.\n\nIn total 15 players have scored for England across the past four men's World Cups. Can you name them all?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nWorld Cup quiz: Name every player in England's squad\n\nWorld Cup quiz: Name every player in Scotland's squad",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3101_1",
+            "category": "england",
+            "type": "News",
+            "title": "Anderson's journey to England star and potential British record",
+            "bullets": [
+              "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge of a British record transfer.",
+            "fullText": "Elliot Anderson has become an integral figure in England head coach Thomas Tuchel's World Cup plans.\n\nElliot Anderson was the schoolboy footballer so good his teachers discussed placing a bet on him playing for England. The bet was never made - but Thomas Tuchel is backing him to be a winner at the World Cup.\n\nAnderson's journey from the playing fields of Tyneside to the World Cup stage, and to potentially becoming the most expensive player in British football history, continues when England play Ghana in Boston on Tuesday.\n\nThe midfielder is the one that painfully got away from Newcastle United but is still revered and respected in his home city as the \"quiet and self-effacing\" local boy made good.\n\nNewcastle United manager Eddie Howe called Anderson's Â£30m sale to Nottingham Forest in July 2024 \"the most reluctant in my career\", a deal effectively forced on the Magpies because they feared they were going to break profit and sustainability rules (PSR) and incur a points deduction following years of imbalanced trading\n\nThe sense of loss has become more acute as the 23-year-old emerged as a central component in England's World Cup plans - head coach Tuchel calls him \"the full package\" - with a move to Manchester City in the offing, talks ongoing after a deal worth around Â£120m was rejected by Forest.\n\nIt is also felt by Scotland, who hoped to Anderson would play for the country as he has a Scottish grandmother. He was called up for the Euro 2024 qualifier in Cyprus and a friendly with England in September 2023 having represented the Scots at under-21 and junior level, only to pull out through injury before pledging allegiance to England.\n\nIt is all a far cry from the young Geordie who used to kick a ball around with his elder brothers before emerging as an outstanding young player at Valley Gardens Middle School, then at the famous Wallsend Boys' Club, where Alan Shearer, Peter Beardsley and Michael Carrick honed their trade.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAnderson's first steps in football came playing with his two elder brothers Louie and Wil, the latter gaining prominence as a contestant on reality TV show Love Island.\n\nJonathan Roys, Anderson's former English and PE teacher at Valley Gardens, who was also his head of year, told BBC Sport: \"His brothers had been through the school and I played against his dad. His brothers were decent, but I think being the youngest of three he was used to getting bossed about a little bit, but he took no quarter off anybody. He'd get stuck right in.\"\n\nAnderson put down a marker for future success when he was captain and scored a hat-trick in a 3-0 win when Valley Gardens won the English leg of Danone Nations Cup in 2014, a prestigious worldwide youth tournament.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3101_2",
+            "category": "england",
+            "type": "News",
+            "title": "England boss Tuchel not a fan of hydration breaks",
+            "bullets": [
+              "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.",
+            "fullText": "Thomas Tuchel won all eight of their World Cup qualifiers without conceding a goal\n\nEngland head coach Thomas Tuchel has admitted he is not a fan of the controversial hydration breaks being used at the World Cup.\n\nTuchel, 52, was speaking before England's second Group L game against Ghana in Boston on Tuesday (21:00 BST), where rain and cool temperatures are forecast.\n\nEngland's fans started the now customary jeering of the breaks when play was stopped in the first half of their opening game against Croatia in Dallas, despite the match being played under a roof in an air-conditioned arena.\n\nThe breaks will continue to be used in Boston irrespective of the weather, but Tuchel expressed his reservations about them and the impact they are having on games.\n\n\"I think that it interrupts and changes the identity of a football match much more than I thought. I had hydration breaks before when it was really, really hot and needed, but they were shorter,\" Tuchel said.\n\n\"They were shorter and they were just in a few matches. In the interests of fairness here, it is now done in every match for every team.\n\n\"It breaks the match almost in four quarters. And I think it changes the characteristic of the match more than I thought.\"\n\nA heavily jeered $250m goldmine - are hydration break ads here to stay?\n\nFans boo, players adapt - the view on World Cup hydration breaks\n\nDo you know your 'sweat score'? The rise of hydration tech\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3101_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the tournament, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3101_4",
+            "category": "england",
+            "type": "News",
+            "title": "When David Narey scored a screamer for Scotland against Brazil – and Jimmy Hill put his foot in it",
+            "bullets": [
+              "Narey’s goal at the World Cup in 1982 was a spectacular, unexpected and beautiful strike. But was it...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Narey’s goal at the World Cup in 1982 was a spectacular, unexpected and beautiful strike. But was it a toe poke?By That 1980s Sports BlogIf you are going to score one international goal, you might as well make it special. José Luis Brown scoring for Argentina in the 1986 World Cup final takes some beating. Kieran Trippier scored his only England goal in a World Cup semi-final. Gary Mackay’s only goal for Scotland helped the Republic of Ireland reach Euro 88. And the general hilarity of Davide Gualtieri’s sole strike for San Marino ensures that it lives on in the memory.Another player who can be added to this list is David Narey. His only goal for Scotland was a screamer against Brazil at the 1982 World Cup. The response to Narey’s moment of glory has added to its impact. Little did he know the story his right boot was about to tell as he let fly on that sweltering evening in Sevilla. Continue reading...",
+            "fullText": "Narey’s goal at the World Cup in 1982 was a spectacular, unexpected and beautiful strike. But was it a toe poke?\n\nIf you are going to score one international goal, you might as well make it special.José Luis Brownscoring for Argentina in the 1986 World Cup final takes some beating.Kieran Trippierscored his only England goal in a World Cup semi-final.Gary Mackay’s only goal for Scotlandhelped the Republic of Ireland reach Euro 88. And the general hilarity ofDavide Gualtieri’s sole strike for San Marinoensures that it lives on in the memory.\n\nAnother player who can be added to this list is David Narey. His only goal for Scotland was a screamer against Brazil at the 1982World Cup. The response to Narey’s moment of glory has added to its impact. Little did he know the story his right boot was about to tell as he let fly on that sweltering evening in Sevilla.\n\nNarey’s journey to the World Cup in Spain started a decade earlier. Signed by Dundee United on a schoolboy contract in 1972, he made his debut the following year as a 17-year-old. Narey started his career in midfield before developing into a fine centre-back and having a legendary club partnership with Paul Hegarty.\n\nCapped by Scotland in April 1977 – Dundee United’s first player to represent Scotland at full international level – Narey’s career was on the rise. Dundee United won the Scottish League Cup in 1980 and 1981, and reached the last eight of the Uefa Cup in 1981-82. Jim McLean was building a team that would go on towin the Scottish Premiershipand reach the semi-finals of the European Cup.\n\nAs well as Narey’s superb club form, his versatility appealed toScotlandmanager Jock Stein. Narey played his way back into the international picture just before the tournament and was seen as a viable option at right-back, centre-back and midfield. He was not picked for the opening match against New Zealand but came off the bench with seven minutes to go, replacing Gordon Strachan in midfield.\n\nThe 5-2 victory was very welcome after the scars left by the 1978 World Cup, but the sloppy goals they conceded dented Scotland’s goal difference – which would prove important come their final group match against the USSR. But, before that crunch game, they had a meeting with aBrazilside that was thrilling the world. The names still roll off the tongue: Zico, Sócrates, Éder, Júnior, Falcão. Brazil were playing football from a different planet.\n\nStein tinkered with his team after the New Zealand match. Out went captain Danny McGrain, Allan Evans, Alan Brazil and Kenny Dalglish. Narey was brought in to replace McGrain at right-back and he quickly made his mark. New skipper Graeme Souness started the move that led to Narey’s stunning goal. His diagonal ball into the Brazil penalty area was nodded into Narey’s path by John Wark. Driving towards two Brazilian defenders, Narey let fly. His shot faded away from keeper Waldir Peres and foundthe top corner of the net. Bounding away with a smile as wide as the Tay, Narey held his arms above his head before celebrating with Souness, Asa Hartford and Steve Archibald.\n\nScotland were leading Brazil in a World Cup match. Sadly, the goal had come 70 minutes too soon. If anything, it woke up Scotland’s opponents.We Made Them Angryis an appropriate title for a book about Scotland’s 1982 World Cup experience.Zico equalised with a deadly free-kickbeforeOscar headed in from a cornerto edge Brazil in front. With Scotland tiring in the stifling conditions, superb goals fromEderandFalcãogave Brazil a 4-1 win and, crucially, eroded Scotland’s positive goal difference.\n\nThere was no shame in losing to that Brazil team and Narey’s goal provided a small crumb of comfort. Described as “tremendous” by BBC commentator John Motson, and “splendid”, “spectacular” and “magnificent” in various newspaper reports, there could be no doubting the quality of Narey’s goal. But a line from co-commentator Jimmy Hill made the biggest impact.\n\nHill did not mean any disrespect when he described Narey’s goal as a “toe poke”. Indeed, he later defended himself, claiming that this particular way of striking the ball was a skill. But the damage had been done. The Tartan Army were not in a forgiving mood. For years to come, Hill would be derided.\n\nThe chant “We hate Jimmy Hill” would often be heard at Scotland matches in subsequent years and fans were wearing T-shirts emblazoned with the words “Nous Detestons Jeemie Heel” as late as France 1998. Apparently Hill was more amused than upset by his role of a pantomime villain. His remark still resonates today. An Edinburgh fringe play calledThe Toe Pokecan be seen later this year and there is also a Scottish football podcast withthe same name.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3102_5",
+            "category": "england",
+            "type": "News",
+            "title": "Wilshere: Tuchel factor can help England win the World Cup",
+            "bullets": [
+              "Jack Wilshere has experienced the burden of expectation that comes with representing England at a Wo...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jack Wilshere has experienced the burden of expectation that comes with representing England at a World Cup. He felt it envelop the squad as they crashed to a group-stage exit in Brazil in 2014.",
+            "fullText": "In an exclusive interview withSky Sports, Jack Wilshere explains why this England team is different and why they can win the World Cup;follow England's second Group L game against Ghana across Sky Sports' digital platforms on Tuesday; kick-off 9pm",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 13:31:23 EDT",
+  "lastUpdated": "2026-06-23 @ 16:31:17 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
