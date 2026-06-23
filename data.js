@@ -5413,7 +5413,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 13:15:15 EDT",
+  "lastUpdated": "2026-06-23 @ 13:32:22 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
@@ -7023,6 +7023,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇸🇪",
       "text": "Vi ska visa hela världen vad vi går för!",
       "time": "07:55",
+      "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "God morgon! Är alla redo för dagens första pass?",
+      "time": "13:32",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "13:33",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "13:34",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
+      "time": "13:35",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Hörni, samling i teorisalen om 10 minuter.",
+      "time": "13:36",
       "isCaptain": false
     }
   ]
