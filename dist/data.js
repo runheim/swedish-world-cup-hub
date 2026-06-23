@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Rush for new TVs during the World Cup",
+      "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rusning-efter-nya-tv-apparater-under-vm"
     }
   ],
   "timeline": {
@@ -5358,11 +5342,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4428_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Rush for new TVs during the World Cup",
+            "bullets": [
+              "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens and more hertz to see as well as possible, according to merchants who are seeing a clear increase.",
+            "fullText": "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens and more hertz to see as well as possible, according to merchants who are seeing a clear increase.\n\nThe Soccer World Cup has caused many to upgrade their television to an even bigger and faster one in order to get the best possible picture. Eight out of ten customers mention that the soccer World Cup is the reason for the new purchase, according to Ammar Skatni, who is a department manager at Elgiganten.\n\n- As football goes so fast and it is a small ball that moves very quickly, it is good to have the right hertz.\n\nThere are no exact figures on sales yet, but the tendency is clear, according to several TV sellers that SVT spoke to.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 01:35:31 EDT",
+  "lastUpdated": "2026-06-23 @ 09:44:28 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
