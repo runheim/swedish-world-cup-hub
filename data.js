@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Felicia Schröder to Real Madrid - becoming the most expensive of all time",
+      "link": "https://www.svt.se/sport/fotboll/felicia-schroder-till-real-madrid-blir-dyrast-genom-tiderna"
+    },
+    {
       "text": "⚽ Rush for new TVs during the World Cup",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/rusning-efter-nya-tv-apparater-under-vm"
     }
@@ -5365,11 +5369,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1514_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Felicia Schröder to Real Madrid - becoming the most expensive of all time",
+            "bullets": [
+              "After months of rumours, it's clear: Felicia Schröder leaves BK Häcken as the world's most expensive...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After months of rumours, it's clear: Felicia Schröder leaves BK Häcken as the world's most expensive women's soccer player. SVT Sport was there when the 19-year-old signed for Real Madrid today. - If the gut feeling didn't feel right, I wouldn't have chosen this, says Felicia Schröder outside the Santiago Bernabeu stadium.",
+            "fullText": "After months of rumours, it's clear: Felicia Schröder leaves BK Häcken as the world's most expensive women's soccer player.\n\nSVT Sport was there when the 19-year-old signed for Real Madrid today.\n\n- If the gut feeling didn't feel right, I wouldn't have chosen this, says Felicia Schröder outside the Santiago Bernabeu stadium.\n\nThe interest in the past year has been enormous and the offers have been numerous.\n\nNow, however, it is clear that BK Häcken and Felicia Schröder agree with the Spanish big club Real Madrid.\n\nOn Tuesday, the contract was signed, after the mandatory medical check-up.\n\nFelicia Schröder says that it was a difficult decision, as several big clubs showed interest. But that she feels safe with her choice.\n\n- The plan that the club laid out for me felt right and I think I will thrive in the climate, she says.\n\nThe transfer sum is still secret, but SVT Sports sources confirm that it is a new world record, i.e. over 15 million Swedish kronor.\n\n- It's not something I think about, but it shows that women's football is moving forward, says Felicia Schröder.\n\n- It is a historic sale that strengthens both women's football and BK Häcken's position internationally. And there is a sense of pride in having had such a good player and talent in BK Häcken, which we managed in a good way, says football manager Martin Ericsson.\n\nNow awaits a tearful farewell with the teammates in BK Häcken before the move starts this summer. Felicia Schröder has already started practicing Spanish.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1515_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Rush for new TVs during the World Cup",
+            "bullets": [
+              "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens and more hertz to see as well as possible, according to merchants who are seeing a clear increase.",
+            "fullText": "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens and more hertz to see as well as possible, according to merchants who are seeing a clear increase.\n\nThe Soccer World Cup has caused many to upgrade their television to an even bigger and faster one in order to get the best possible picture. Eight out of ten customers mention that the soccer World Cup is the reason for the new purchase, according to Ammar Skatni, who is a department manager at Elgiganten.\n\n- As football goes so fast and it is a small ball that moves very quickly, it is good to have the right hertz.\n\nThere are no exact figures on sales yet, but the tendency is clear, according to several TV sellers that SVT spoke to.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 09:44:28 EDT",
+  "lastUpdated": "2026-06-23 @ 13:15:15 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
