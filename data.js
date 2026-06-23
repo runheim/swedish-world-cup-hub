@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ England boss Tuchel not a fan of hydration breaks",
+      "link": "https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Madueke's remarkable season - from petition to World Cup starter",
       "link": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,28 +16,32 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Saka trains with England squad before Ghana match",
-      "link": "https://www.bbc.com/sport/football/articles/c8e21d5w0pjo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Thomas Tuchel urges England to improve defence against Ghana after ‘wake-up call’",
+      "link": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-england-ghana-world-cup-defence-improve"
     },
     {
-      "text": "⚽ Who are ya? Behind the scenes of the official World Cup portrait photographs",
-      "link": "https://www.theguardian.com/football/2026/jun/22/behind-the-scenes-official-world-cup-portrait-photographs"
+      "text": "⚽ Tuchel’s brash Britpop football is music to England ears before Ghana test",
+      "link": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-britpop-football-england-world-cup-ghana"
     },
     {
       "text": "⚽ Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
       "link": "https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily"
     },
     {
+      "text": "⚽ Who are ya? Behind the scenes of the official World Cup portrait photographs",
+      "link": "https://www.theguardian.com/football/2026/jun/22/behind-the-scenes-official-world-cup-portrait-photographs"
+    },
+    {
       "text": "⚽ The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
       "link": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot"
     },
     {
-      "text": "⚽ Why Tuchel will leave it late to name England team vs Ghana",
-      "link": "https://www.skysports.com/football/news/12040/13556853/england-world-cup-latest-thomas-tuchel-set-to-leave-it-late-to-name-xi-to-face-ghana-on-tuesday"
+      "text": "⚽ Do not disturb! Tuchel explains how he's given England's attackers freedom",
+      "link": "https://www.skysports.com/football/news/12040/13556912/world-cup-2026-england-boss-thomas-tuchel-on-how-he-has-given-his-attackers-freedom-on-the-pitch"
     },
     {
-      "text": "⚽ Carra: England can't afford to rest Rice, but Saka shouldn't be risked",
-      "link": "https://www.skysports.com/football/news/12040/13556733/england-world-cup-latest-jamie-carragher-says-thomas-tuchel-cant-afford-to-drop-declan-rice-against-ghana-despite-fitness-concerns"
+      "text": "⚽ Why Tuchel will leave it late to name England team vs Ghana",
+      "link": "https://www.skysports.com/football/news/12040/13556853/england-world-cup-latest-thomas-tuchel-set-to-leave-it-late-to-name-xi-to-face-ghana-on-tuesday"
     }
   ],
   "timeline": {
@@ -9545,10 +9553,188 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-23": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3307_0",
+            "category": "england",
+            "type": "News",
+            "title": "England boss Tuchel not a fan of hydration breaks",
+            "bullets": [
+              "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.",
+            "fullText": "Thomas Tuchel won all eight of their World Cup qualifiers without conceding a goal\n\nEngland head coach Thomas Tuchel has admitted he is not a fan of the controversial hydration breaks being used at the World Cup.\n\nTuchel, 52, was speaking before England's second Group L game against Ghana in Boston on Tuesday (21:00 BST), where rain and cool temperatures are forecast.\n\nEngland's fans started the now customary jeering of the breaks when play was stopped in the first half of their opening game against Croatia in Dallas, despite the match being played under a roof in an air-conditioned arena.\n\nThe breaks will continue to be used in Boston irrespective of the weather, but Tuchel expressed his reservations about them and the impact they are having on games.\n\n\"I think that it interrupts and changes the identity of a football match much more than I thought. I had hydration breaks before when it was really, really hot and needed, but they were shorter,\" Tuchel said.\n\n\"They were shorter and they were just in a few matches. In the interests of fairness here, it is now done in every match for every team.\n\n\"It breaks the match almost in four quarters. And I think it changes the characteristic of the match more than I thought.\"\n\nA heavily jeered $250m goldmine - are hydration break ads here to stay?\n\nFans boo, players adapt - the view on World Cup hydration breaks\n\nDo you know your 'sweat score'? The rise of hydration tech\n\nFifa took the decision to abandon the second-half hydration break inFrance's 3-0 victory over Iraqafter the game was paused for more than two hours because of adverse weather.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3307_1",
+            "category": "england",
+            "type": "News",
+            "title": "Madueke's remarkable season - from petition to World Cup starter",
+            "bullets": [
+              "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup star...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Noni Madueke has gone from fans protesting against him signing for Arsenal to England World Cup starter. BBC Sport look at his rollercoaster season.",
+            "fullText": "When Noni Madueke was named in England's starting line-up for their World Cup opener against Croatia it was the latest moment in what has been a dramatic season for theArsenalwinger.\n\nLast summer Madueke completed a move to the Gunners fromChelseafor about Â£50m, but supporters started a petition against the signing with a#NoToMaduekehashtag being used across social media platforms.\n\nBut just under 12 months later, the 24-year-old has become a Premier League winner, after helping Mikel Arteta's side to their first league title in 22 years, and is starting for Thomas Tuchel's England on the right wing.\n\nMadueke was one of England's standout players inthe 4-2 win over Croatiaand won the penalty which Harry Kane scored to give the Three Lions the lead.\n\nMadueke'sArsenalteam-mate Bukayo Saka had been expected to be England's starting right winger at the World Cup but the 24-year-old is dealing with an Achilles issue he has been carrying since March.\n\nSaka and Madueke find themselves in the unusual situation of competing for game time at both club and country.\n\nSaka, who made his 50th appearance for England in the victory over Croatia, called the situation \"unique\", before adding \"I don't really know how it works, but it works\" when describing his relationship with Madueke.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAll three England keepers played there - Carlisle's role in trio's rise\n\nWhen Tuchel named his England squad for the World Cup the German was full of praise for Madueke.\n\nThe forward has put in consistently good performances for the Three Lions since Tuchel took charge and the manager said Madueke can be a \"difference-maker\" before highlighting his \"one-on-one ability\".\n\nTuchel has made it clear he wants his England team to play in a style that replicates the physicality of the Premier League.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3308_2",
+            "category": "england",
+            "type": "News",
+            "title": "A defender's view on how to stop the World Cup's best strikers",
+            "bullets": [
+              "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World C...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi, Kylian Mbappe, Erling Haaland and Harry Kane look to be on lethal form in this World Cup. So how can you stop them in their tracks?",
+            "fullText": "Four of the most in-form strikers in world football will look to add to their red-hot starts to the World Cup this week\n\nA World Cup is always that little bit more special when the game's star names come to the party.\n\nAnd last week four of football's elite strikers announced their arrival in devastating fashion.\n\nIt was as though each was spurred on by the performance of the others.\n\nReal Madrid's Kylian Mbappe got the ball rolling by scoring twice in France's 3-1 win over Senegal.\n\nThat was emulated a couple of hours later by Manchester City's Erling Haaland in Norway's 4-1 win over Iraq.\n\nThen step forward Lionel Messi, the Inter Miami attacker proving his enduring class with a hat-trick as Argentina beat Algeria 3-0.\n\nBayern Munich's Harry Kane then netted twice as England beat Croatia 4-2.\n\nCould this be the tournament of the star striker? And if you're up against them, how do you plan to stop them?\n\nFour very different players, with contrasting styles but who are equally effective.\n\nFormer Everton and Wales defender Ashley Williams told BBC Sport how you might defend against them.\n\nLionel Messi has scored 120 goals in 200 games for Argentina",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3308_3",
+            "category": "england",
+            "type": "News",
+            "title": "Thomas Tuchel urges England to improve defence against Ghana after ‘wake-up call’",
+            "bullets": [
+              "Win over Ghana could secure top spot in the group‘We dropped too deep,’ Tuchel says of Croatia opene...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Win over Ghana could secure top spot in the group‘We dropped too deep,’ Tuchel says of Croatia openerThomas Tuchel believes England were given a wake-up call by Croatia and must focus on improving their defensive structure as the World Cup progresses.England will qualify for the knockout stages from Group L with a game to spare if they beat Ghana in Boston on Tuesday night, and will top the group if Panama then fail to beat Croatia in the later game, but Tuchel is determined not to take ­anything for granted. The head coach has placed a heavy emphasis on aggressive football and has said his side were too quick to fall back during the first half of the 4-2 win over Croatia. Continue reading...",
+            "fullText": "‘We dropped too deep,’ Tuchel says of Croatia opener\n\nThomas Tuchel believes England were given a wake-up call by Croatia and must focus on improving their defensive structure as the World Cup progresses.\n\nEngland will qualify for the knockout stages from Group L with a game to spare if they beatGhanain Boston on Tuesday night, and will top the group if Panama then fail to beat Croatia in the later game, but Tuchel is determined not to take ­anything for granted. The head coach has placed a heavy emphasis on aggressive football and has said his side were too quick to fall back during the first half of the4-2 win over Croatia.\n\nTuchel, who regained momentum with a stirring half-time team talk at Dallas Stadium, gave an in‑depth assessment of where his side went wrong during a chaotic opening period. The German felt the shape was wrong before Croatia scored their second equaliser moments before half time.\n\n“We need to do things ­better,” he said. “Defensively we dropped a little too deep from a middle block into a low block and deep block, which is in itself not a problem, but we went a bit too early. We were a bit too man-man focused and didn’t rely enough on our structure to be able to push out again.\n\n“If you just look at our goal that we conceded we played a back seven formation, which is just not us. Maybe it is good that we conceded, because it just tells us: ‘Let’s not do this again.’ It makes no sense, it’s not us, it doesn’t play to our strengths. We had too many easy ball losses after ball wins, so we had a huge effort against the ball, win the ball, gave it back straight away.\n\n“We need to manage these ball wins better and in ball possession there is also stuff to improve. When do we accelerate the game, and how do we give the man on the ball more options in the gaps and show a bit more confidence into what makes us strong? That’s the beauty of it: we don’t need to invent anything new.\n\n“But I was also very clear to the team: we deserved this win. We had a well-deserved win. And we have a lot of positives to take away, and I expect a very different team and a very different setup now. We need to improve especially our structure with the ball to be ready to defend counterattacks before they become dangerous.”\n\nEngland hit an impressive level during the second half against Croatia and Tuchel is keen to keep standards high. “That is a tricky part, to keep the level up,” he said. “But first of all I am very happy because we found an answer to adversity.\n\n“We conceded in a very tricky moment, last shot of the first half and then came up with the best 25 minutes, or best 30 minutes, as an answer when. The team knows that. We saw the physical input, we saw the ball wins, we saw the chances and we still have stuff to improve.\n\n“It is important to learn from all that and the beautiful thing is that the things that were not so good we do not need to amend anything new. We just need to do our stuff better from the first half.”\n\nTuchel has been delighted with England’s attitude before facing Ghana. “The players keep themselves on edge,” he said. “The guys who did not get the minutes from the beginning are pushing but we try to make sure in training exercises that everyone is pushing. That is why I love the team anyway. At the moment I cannot see any signs of complacency.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3308_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel’s brash Britpop football is music to England ears before Ghana test",
+            "bullets": [
+              "Vinyl has baffled youngsters at the team’s hotel but spells of opening victory against Croatia showe...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Vinyl has baffled youngsters at the team’s hotel but spells of opening victory against Croatia showed side in the grooveInside the foyer of the England team hotel in Kansas City, along with the TV screens that show the World Cup matches, there is an anachronism. It is a record player and it is worth reporting there were younger members of the squad who looked&nbsp;genuinely baffled by it. What were these strange plastic circles that went on it?The Football Association found out the favourite songs of each player and obtained vinyl versions of them. And very popular the whole thing has been, even if Harry Kane has been determined to play country and western on it. Harry, this is not leadership. Continue reading...",
+            "fullText": "Vinyl has baffled youngsters at the team’s hotel but spells of opening victory against Croatia showed side in the groove\n\nInside the foyer of the England team hotel in Kansas City, along with the TV screens that show theWorld Cupmatches, there is an anachronism. It is a record player and it is worth reporting there were younger members of the squad who looked genuinely baffled by it. What were these strange plastic circles that went on it?\n\nThe Football Association found out the favourite songs of each player and obtained vinyl versions of them. And very popular the whole thing has been, even if Harry Kane has been determined to play country and western on it. Harry, this is not leadership.\n\nMusic has been the answer for England. As their training sessions have got under way, there have been songs blasted out from pitch-side speakers. On the Sunday before last, for example, it was Dr Dre, Coolio and Tupac. Luther Vandross has also been heard. It has been eclectic. But for the moment of communion, which came after England started their Group L campaign withthe 4-2 win over Croatiain Dallas last Wednesday, it was all about Oasis.\n\nThomas Tuchel and his players stood in front of the massed ranks of England fans and joined in with Wonderwall as it was played over the PA system. Kane called it one of his “favourite ever moments in an England shirt” and Tuchel loved it as well. The head coach watched Oasis at Wembley last September and was spotted yelling along to the same song. Now he could do so again after what he described as “one of the best days” of his career. Move over Sweet Caroline. The Oasis classic has the potential to be the soundtrack to England’s World Cup.\n\n“Hopefully it becomes an anthem,” Tuchel said. “That is exactly what a tournament like this is for – the connection between fans and the team. I am so glad because I think the fans saw and felt what I see and feel every day with this team. They felt the energy, the team spirit, the commitment. And from all this energy came the synergy after the match. It was a beautiful moment and it meant a lot to all of us. Hopefully we can recreate this in the next game.”\n\nThe next game is against Ghana in Boston on Tuesday at 4pm local time (9pm BST) and the theme is connections: how Tuchel is driving them; how he wants his team to mirror the Premier League with speed, physicality and risk-taking; the running power, the set pieces. Call it guitar-rock football. Call it Britpop football. Something with irresistible momentum. Tuchel and his players found the spark with the second-half surge against Croatia. It is about more of that – about doing it better.\n\nTuchel is a different animal now the serious business has started. The edge is there. The players have felt it. Just ask Djed Spence, who was ordered to wake up by Tuchel in training on Saturday – in full view of the media. This kind of thing does not normally play out in the small window when the cameras are present. It spoke to the German’s demanding nature. The clarity and transparency of his set-up was illustrated by the candid critique of the team that his assistant, Anthony Barry, gave to ITV during the interval against Croatia. Tournament Thomas is here.\n\n“I don’t do any extras,” Tuchel said. “It just gives me a lot of energy to be in a competitive tournament and be in a competitive mode and be surrounded by world-class players and fantastic personalities. It energises me and that’s how it needs to be done.\n\n“I’m influencing the players and staff so I have to be on the front foot. And also not too much. I want to have the right mix between relaxation and the smile and the arm round the shoulder and good spirit. But I hope that they feel it because the competition is on. I want to be at my best and support them, help them be their best because it’s their stage. It’s their potential that has to bring us all the way.”\n\nThe Croatia game was not perfect. The first-half display was messy. England’s deep buildup play was disjointed in the face of their opponents’ press and the spaces in midfield were not right. Without the ball, Tuchel’s team sank too early into a low block. The concessions were soft, especially the second from Petar Musa on the stroke of half-time. “We were a bit too man-man focused and didn’t rely enough on our structure to be able to push out again and into the opponent’s half,” Tuchel said.\n\nThe positives were more plentiful and they took in the relationship between Kane and Jude Bellingham, which was detailed by the Fifa technical study group expert and former Costa Rica forward Paulo Wanchope. Tuchel asked his midfielders, Declan Rice and Elliot Anderson, to vacate the space in the middle of the pitch, dragging opposing players away and allowing Kane to drop into a deep playmaking role, creating an overload. With the wingers high and wide, Bellingham threatened between the lines. “It was clear Kane and Bellingham had worked on it,” Wanchope wrote.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3308_5",
+            "category": "england",
+            "type": "News",
+            "title": "Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet ano...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet another historic point and Spain finally look like a team worthy of the favourites tag. Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Jeff Rueter and Mark Langdon as Cape Verde claim yet another historic point and Spain finally look like a team worthy of the favourites tag.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3309_6",
+            "category": "england",
+            "type": "News",
+            "title": "Who are ya? Behind the scenes of the official World Cup portrait photographs",
+            "bullets": [
+              "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshootsLionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes with his forearm and reveals an eerie tattoo. Harry Kane leans awkwardly on to one knee.There are 1,248 football players and 48 managers at the World Cup, and none could escape the obligatory media duty that is the official portrait – whether or not they had a fun pose in mind.(Above) Diego Moreira of Belgium obscures his eyes for an eerie portrait. (Below) Marc Cucurella of Spain, Ronald Araújo of Uruguay and various other familiar faces. Continue reading...",
+            "fullText": "Poses and backstage snaps showcase the players’ personalities and the mechanics of Fifa’s obligatory photoshoots\n\nLionel Messi of Argentina stands rigidly in front of the camera. Marc Cucurella of Spain whips his hair and appears to boogie. Diego Moreira of Belgium covers his eyes with his forearm and reveals an eerie tattoo. Harry Kane leans awkwardly on to one knee.\n\nThere are 1,248 football players and 48 managers at theWorld Cup, and none could escape the obligatory media duty that is the official portrait – whether or not they had a fun pose in mind.\n\nShot by Getty Images on behalf of Fifa in recent weeks, the portraits capture a wide array of poses and expressions, revealing details about each player’s personality – and the image they wish to convey to the world.\n\nThe accompanying behind-the-scenes images, shared by Getty, tell the stories of how the portraits were made and what some of the players were like off camera.\n\n(Above) Diego Moreira of Belgium obscures his eyes for an eerie portrait. (Below) Marc Cucurella of Spain, Ronald Araújo of Uruguay and various other familiar faces.\n\nTwo photographers were assigned to shoot each team, enabling them to prepare opposing sets – one plain and one distinctive – so players and managers could be rotated into position quickly.\n\nSimple lighting set-ups were used throughout: typically, a large studio strobe-light with a softbox aimed at the subject’s body, with a couple of rim lights to provide shape and definition from the rear.\n\nThough the backdrops were muted compared tothe official portraits for the 2022 World Cup, the photographers were able to create vivid images using special lens filters that produced unpredictable blurring and kaleidoscopic effects (like the Messi image above).\n\n(Above) Danilo of Brazil waits as his compatriot Alisson poses for a picture in front of a softbox. (Below) Neymar plays up to the camera and the resulting image.\n\nThe Guardian sports photographer, Tom Jenkins, says photographing famous footballers can be challenging at the best of times, let alone when it’s like a production line.\n\n“With these kinds of shoots, you only get a few minutes with each player and you have to bash out various pictures and think incredibly quickly,” he says.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3309_7",
+            "category": "england",
+            "type": "News",
+            "title": "The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
+            "bullets": [
+              "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sportIf you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. This Saudi Arabian fossil fuel company also happens to be the world’s single largest corporate polluter while Saudi Arabia has, for decades, been the greatest stumbling block in international climate change negotiations. Aramco’s sponsorship is one aspect of Fifa’s increasing sportswashing that has angered fans around the world.This cosy relationship between modern football and the polluting industries has a long history that can be divided into three periods. First was when the game grew in British society as a tool to order and discipline workers and then became a cultural export of the British empire and capitalism. In the Factory Act of 1850, workers won the right to have Saturday afternoons free from work from 2pm, which is why the traditional kick-off is 3pm. Continue reading...",
+            "fullText": "How Saudi Arabia’s state-owned oil giant is embedding fossil fuels as a crucial part of the world’s biggest sport\n\nIf you have watched the World Cup, you may have seen the big signs announcing Aramco as the tournament’s “energy partner”. ThisSaudi Arabian fossil fuel companyalso happens to be the world’ssingle largest corporate polluterwhile Saudi Arabia has, for decades, been the greatest stumbling block in international climate change negotiations. Aramco’s sponsorship is one aspect of Fifa’s increasing sportswashing that has angered fans around the world.\n\nThis cosy relationship between modern football and the polluting industries has a long history that can be divided into three periods. First was when the game grew in British society as a tool to order and discipline workers and then became a cultural export of the British empire and capitalism. In the Factory Act of 1850, workers won the right to have Saturday afternoons free from work from 2pm, which is why the traditional kick-off is 3pm.\n\nEuropean industrialism, militarism and colonialism further exported football across the globe and industrialisation in Britain helped create the conditions for competitions, with their need for order, discipline and structure. Football spread from England and Scotland to the industrial areas of north-east France, north-west Germany and around the ports of France, Italy, Portugal, Spain, Argentina, Uruguay and Brazil.\n\nThen came the postwar period when football was professionalised and increasingly dominated by clubs in the industrial cities. These clubs were often closely linked to the car industry, with the most evident examples being Juventus’s links with Fiat and Wolfsburg’s with Volkswagen. The economic regulations that governed football made elite men’s football a lot more spread out than it is today.\n\nAt European level, after the early dominance of Real Madrid, Milan, Inter and Benfica, there was a period of “Eurosclerosis” with a decline in playing standards and the finals of the European Cup being contested between smaller clubs from smaller cities with less global appeal, such as Malmö.\n\nThis relative equality was challenging to the big clubs and they started to push for changes to the competition and for more power within their leagues, especially in England, Italy and Spain.\n\nFinally, with the establishment of the Champions League and the Premier League in the early 1990s, football became increasingly globalised. This opened up the sport to new forms of fossil capital investments, often in favour of the biggest clubs in the most attractive cities.\n\nThe 1990s had nine European club champions from nine cities, but only three clubs have won the Champions League who were not part of the 14 elite clubs that pushed for its expansion in the late 1990s. Those three all entered the elite level with the help of petrodollar investments: Chelsea with Roman Abramovich, Manchester City with Sheikh Mansour of the United Arab Emirates royal family and Paris Saint-Germain with Qatar Sports Investments, a subsidiary of the Qatari government. Meanwhile, for those who fail to compete,bankruptcy has become much more common.\n\nThere is now only one way for a club to enter the elite level of men’s football in Europe and that is investment from a petrostate, further locking in the carbon intensity of the sport and embedding fossil fuels as a crucial part of the biggest culture in the world. Fossil capital remains strong, despite most people now understanding that fossil fuels drive climate change and are a threat to civilisation.\n\nSo in order to justify delaying a green transition, fossil fuel companies need them to become a necessary evil, so embedded that we can not imagine life, let alone an enjoyable life, without them. This is where sportswashing comes into the picture and where football – and Fifa – play a very important role.\n\nFor every petrostate or oil magnate that buys a football club, for every event or club sponsored by a fossil-fuel company and for every airline logo on the shirt of our favourite players, the dominance of fossil capital becomes that little bit more embedded and makes it harder to imagine the game, and the world, without it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3310_8",
+            "category": "england",
+            "type": "News",
+            "title": "Do not disturb! Tuchel explains how he's given England's attackers freedom",
+            "bullets": [
+              "England boss Thomas Tuchel says he is trying not to \"disturb\" his forward players at the World Cup.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England boss Thomas Tuchel says he is trying not to \"disturb\" his forward players at the World Cup.",
+            "fullText": "England's attack impressed in their World Cup opener against Croatia, scoring four goals; Ahead of their game with Ghana, Three Lions boss Thomas Tuchel explains his approach to give his forwards freedom and how his wingers are pushing each other to \"a high level\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3310_9",
+            "category": "england",
+            "type": "News",
+            "title": "Why Tuchel will leave it late to name England team vs Ghana",
+            "bullets": [
+              "Thomas Tuchel has always been a coach who likes to sleep on his team selections, making final decisi...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel has always been a coach who likes to sleep on his team selections, making final decisions on the day of the game. But at this World Cup, he is leaving it later than ever.",
+            "fullText": "Sky Sports News' Rob Dorsett explains why Thomas Tuchel delays telling his England players if they are starting and looks at the selection dilemmas the Three Lions boss faces ahead of Tuesday's Group L clash with Ghana in Boston...",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-22 @ 19:20:26 EDT",
+  "lastUpdated": "2026-06-23 @ 01:33:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
