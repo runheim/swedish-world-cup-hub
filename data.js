@@ -11598,6 +11598,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Ready to make this year ours. Stick together.",
       "time": "13:35",
       "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Don't forget the media duties at 2pm lads.",
+      "time": "13:47",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "13:48",
+      "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "13:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "13:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Phil Foden",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Can't wait to get back out there. Focus is 100%.",
+      "time": "13:51",
+      "isCaptain": false
     }
   ]
 };
