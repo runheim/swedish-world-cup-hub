@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT squad focuses on tactical discipline in Dallas training hub",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D Opponents finalize their tactical configurations",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ ‘Decisive’ Dembélé joins party but could group dominance hurt France?",
+      "link": "https://www.theguardian.com/football/2026/jun/23/decisive-dembele-joins-party-but-could-group-dominance-hurt-france"
     }
   ],
   "timeline": {
@@ -3046,11 +3030,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1813_0",
+            "category": "usa",
+            "type": "News",
+            "title": "‘Decisive’ Dembélé joins party but could group dominance hurt France?",
+            "bullets": [
+              "Norway will provide a tougher test for two-time world champions – and they are going to need it befo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norway will provide a tougher test for two-time world champions – and they are going to need it before knockoutsFrance will take on Norway in Boston on Friday for the right to top Group I, but one man thinks it’s already done. “Honestly I don’t care that much”, Erling Haaland told Fox in the United States. “They’re probably going to win against us. They’re probably going to win the whole tournament.”Haaland may have been playing mind games, and you will not hear Didier Deschamps making any such argument. But the French head coach certainly took satisfaction from his team’s storm-hit but ultimately straightforward victory over Iraq. Featuring another Kylian Mbappé brace and two more assists for Michael Olise, this match’s notable success was Ousmane Dembélé’s arrival at the party, scoring his first tournament goal at the 20th attempt. Continue reading...",
+            "fullText": "Norway will provide a tougher test for two-time world champions – and they are going to need it before knockouts\n\nFrance will take on Norway in Boston on Friday for the right to top Group I, but one man thinks it’s already done. “Honestly I don’t care that much”, Erling Haaland told Fox in the United States. “They’re probably going to win against us. They’re probably going to win the whole tournament.”\n\nHaaland may have been playing mind games, and you will not hear Didier Deschamps making any such argument. But the French head coach certainly took satisfaction from his team’sstorm-hit but ultimately straightforward victoryover Iraq. Featuring another Kylian Mbappé brace and two more assists for Michael Olise, this match’s notable success was Ousmane Dembélé’s arrival at the party, scoring his first tournament goal at the 20th attempt.\n\nThe Ballon d’Or winner got a second-half goal, finding separation in the box to convert a smooth Olise assist with a shot across the Iraq goalkeeper, Ahmed Basil. By this point he already had a notable assist, squaring simply for Mbappé after snaffling the ball during another Iraq defensive snafu. This brought particular joy to Deschamps as it ended the recent line of media questioning as to the role of the Paris Saint-Germain star in the team.\n\n“There is no issue with Ousmane, he has had to readapt to a system he doesn’t play all year,” was Deschamps’s post-match verdict. “As long as Ousmane is well physically, it’s just fine-tuning. I trust in Ousmane, he knows that, and doing what he did today was important. He’s a decisive player, so is Kylian, but Ousmane has that capacity.”\n\nAfter being shifted out of the No 10 position in the second halfagainst Senegal, Dembélé remained stationed on the right side of France’s fearsome attacking four for the duration of the contest with Iraq. He maintained the width effectively, had 67 touches, created three chances, made four passes in the final third and recovered the ball three times. In each of these metrics, bar the recoveries, his performance was comparable to that of Olise and ahead of Bradley Barcola on the opposing flank.\n\n“I think he played a very good match,” said Jules Koundé, who has been charged with building a partnership with Dembélé on France’s right. “He’s someone who is naturally confident. I’m just happy for him that he was able to score that first goal and overall be decisive. But it’s above all a collective performance. I know [the media have] focused a lot on Ousmane these last few days, but on our side, as Kylian said, there’s no problem. On the contrary, I think Ousmane was very calm.”\n\nLes Bleuswere not affected by the two-hour break in play caused by roiling thunderstorms over Philadelphia on Monday. They have been able to open up attacking opportunities apparently at will, with nine big chances created in their first two games. Despite claims by Iraq’s head coach, Graham Arnold, that France were not an effective pressing team, they have regained the ball 47 times in the opponent’s defensive third, the second highest total in the tournament and just two behind Spain.\n\nFor Monday’s match, Deschamps was able to rotate Barcola, Manu Koné and Lucas Digne smoothly, with Koné impressive as he deputised for Aurélien Tchouaméni. Add in that there is none of the traditional discord emanating from the camp and that, in fact, France seem to be projecting determined unity and it’s hard to see how the campaign could be going much better for the two-time world champions.\n\nYet there are weak points. The win in Philly was France’s first clean sheet in seven matches, but Iraq had their chances. They were a couple of inches from getting on the scoresheet when Ali al-Hamadi’s poked effort had the beating of Mike Maignan in the second half, and they generated 0.63 xG in total. France not only throw their fabulous front four into every attack but send their full-backs after them too, with their high positioning leaving space in the channels for opponents.\n\nThe Norway game will provide greater insight into quite how significant these perceived vulnerabilities might be. It’s surely true, too, that any France flaws might simply be a result of being dominant: that it’s hard to remain 100% focused when much of the game comes so easily. This is a dichotomy that has hurt Deschamps’ teams before, notably in theirknockout defeat to Switzerlandat Euro 2020.\n\nThe France attack has clicked, while the jury on the defence remains out. The mental battle is one that’s ongoing, too.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 09:41:36 EDT",
+  "lastUpdated": "2026-06-23 @ 13:18:22 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
