@@ -4,44 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Anderson's journey to England star and potential British record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ England boss Tuchel not a fan of hydration breaks",
-      "link": "https://www.bbc.com/sport/football/articles/c4gyzknng1jo?at_medium=RSS&amp;at_campaign=rss"
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyzknng1jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Madueke's remarkable season - from petition to World Cup starter",
-      "link": "https://www.bbc.com/sport/football/articles/c5yz2xyvd1zo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ A defender's view on how to stop the World Cup's best strikers",
-      "link": "https://www.bbc.com/sport/football/articles/cly8gpp39d0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Thomas Tuchel urges England to improve defence against Ghana after ‘wake-up call’",
-      "link": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-england-ghana-world-cup-defence-improve"
+      "text": "⚽ World Cup 2026: Jordan fan dies in crowd crush, criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/23/world-cup-2026-news-live-messi-mbappe-haaland-england-ghana-portugal-uzbekistan-panama-croatia-colombia-dr-congo"
     },
     {
       "text": "⚽ Tuchel’s brash Britpop football is music to England ears before Ghana test",
       "link": "https://www.theguardian.com/football/2026/jun/23/thomas-tuchel-britpop-football-england-world-cup-ghana"
     },
     {
-      "text": "⚽ Cape Verde do it again and Lamine Yamal spurs on Spain | World Cup Daily",
-      "link": "https://www.theguardian.com/football/video/2026/jun/22/cape-verde-do-it-again-and-lamine-yamal-spurs-on-spain-world-cup-daily"
-    },
-    {
-      "text": "⚽ Who are ya? Behind the scenes of the official World Cup portrait photographs",
-      "link": "https://www.theguardian.com/football/2026/jun/22/behind-the-scenes-official-world-cup-portrait-photographs"
-    },
-    {
-      "text": "⚽ The Hotspot | Aramco’s petrodollar backing of World Cup leaves stain of sportswashing",
-      "link": "https://www.theguardian.com/sport/2026/jun/22/aramco-petrodollar-world-cup-football-sportswashing-the-hotspot"
-    },
-    {
-      "text": "⚽ Do not disturb! Tuchel explains how he's given England's attackers freedom",
-      "link": "https://www.skysports.com/football/news/12040/13556912/world-cup-2026-england-boss-thomas-tuchel-on-how-he-has-given-his-attackers-freedom-on-the-pitch"
-    },
-    {
-      "text": "⚽ Why Tuchel will leave it late to name England team vs Ghana",
-      "link": "https://www.skysports.com/football/news/12040/13556853/england-world-cup-latest-thomas-tuchel-set-to-leave-it-late-to-name-xi-to-face-ghana-on-tuesday"
+      "text": "⚽ Wilshere: Tuchel factor can help England win the World Cup",
+      "link": "https://www.skysports.com/football/news/12040/13556939/jack-wilshere-interview-england-can-win-world-cup-with-thomas-tuchel-factor-harry-kane-goals-and-physical-dominance-in-midfield"
     }
   ],
   "timeline": {
@@ -9730,11 +9710,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3351_0",
+            "category": "england",
+            "type": "News",
+            "title": "Anderson's journey to England star and potential British record",
+            "bullets": [
+              "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge of a British record transfer.",
+            "fullText": "Elliot Anderson has become an integral figure in England head coach Thomas Tuchel's World Cup plans.\n\nElliot Anderson was the schoolboy footballer so good his teachers discussed placing a bet on him playing for England. The bet was never made - but Thomas Tuchel is backing him to be a winner at the World Cup.\n\nAnderson's journey from the playing fields of Tyneside to the World Cup stage, and to potentially becoming the most expensive player in British football history, continues when England play Ghana in Boston on Tuesday.\n\nThe midfielder is the one that painfully got away from Newcastle United but is still revered and respected in his home city as the \"quiet and self-effacing\" local boy made good.\n\nNewcastle United manager Eddie Howe called Anderson's Â£30m sale to Nottingham Forest in July 2024 \"the most reluctant in my career\", a deal effectively forced on the Magpies because they feared they were going to break profit and sustainability rules (PSR) and incur a points deduction following years of imbalanced trading\n\nThe sense of loss has become more acute as the 23-year-old emerged as a central component in England's World Cup plans - head coach Tuchel calls him \"the full package\" - with a move to Manchester City in the offing, talks ongoing after a deal worth around Â£120m was rejected by Forest.\n\nIt is also felt by Scotland, who hoped to Anderson would play for the country as he has a Scottish grandmother. He was called up for the Euro 2024 qualifier in Cyprus and a friendly with England in September 2023 having represented the Scots at under-21 and junior level, only to pull out through injury before pledging allegiance to England.\n\nIt is all a far cry from the young Geordie who used to kick a ball around with his elder brothers before emerging as an outstanding young player at Valley Gardens Middle School, then at the famous Wallsend Boys' Club, where Alan Shearer, Peter Beardsley and Michael Carrick honed their trade.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAnderson's first steps in football came playing with his two elder brothers Louie and Wil, the latter gaining prominence as a contestant on reality TV show Love Island.\n\nJonathan Roys, Anderson's former English and PE teacher at Valley Gardens, who was also his head of year, told BBC Sport: \"His brothers had been through the school and I played against his dad. His brothers were decent, but I think being the youngest of three he was used to getting bossed about a little bit, but he took no quarter off anybody. He'd get stuck right in.\"\n\nAnderson put down a marker for future success when he was captain and scored a hat-trick in a 3-0 win when Valley Gardens won the English leg of Danone Nations Cup in 2014, a prestigious worldwide youth tournament.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3351_1",
+            "category": "england",
+            "type": "News",
+            "title": "England boss Tuchel not a fan of hydration breaks",
+            "bullets": [
+              "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel admits he is not a fan of the controversial hydration breaks being used at the World Cup.",
+            "fullText": "Thomas Tuchel won all eight of their World Cup qualifiers without conceding a goal\n\nEngland head coach Thomas Tuchel has admitted he is not a fan of the controversial hydration breaks being used at the World Cup.\n\nTuchel, 52, was speaking before England's second Group L game against Ghana in Boston on Tuesday (21:00 BST), where rain and cool temperatures are forecast.\n\nEngland's fans started the now customary jeering of the breaks when play was stopped in the first half of their opening game against Croatia in Dallas, despite the match being played under a roof in an air-conditioned arena.\n\nThe breaks will continue to be used in Boston irrespective of the weather, but Tuchel expressed his reservations about them and the impact they are having on games.\n\n\"I think that it interrupts and changes the identity of a football match much more than I thought. I had hydration breaks before when it was really, really hot and needed, but they were shorter,\" Tuchel said.\n\n\"They were shorter and they were just in a few matches. In the interests of fairness here, it is now done in every match for every team.\n\n\"It breaks the match almost in four quarters. And I think it changes the characteristic of the match more than I thought.\"\n\nA heavily jeered $250m goldmine - are hydration break ads here to stay?\n\nFans boo, players adapt - the view on World Cup hydration breaks\n\nDo you know your 'sweat score'? The rise of hydration tech\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3352_2",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Jordan fan dies in crowd crush, criticism of Ronaldo and Portugal ‘unfair’; England face Ghana – live",
+            "bullets": [
+              "⚽ All the latest news from day 13 of the tournament⚽ Player guide | Bracketology | Golden Boot | Mai...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest news from day 13 of the tournament⚽ Player guide | Bracketology | Golden Boot | Mail DominicOur man in the camp David Hytner goes under the hood (nailed it) of England’s preparations for the Black Stars.Thomas Tuchel shares his view on what Ghana will bring in Foxborough: “I expect more ball possession. I expect Ghana to rely on counterattacks because they are very physical, very fast and dangerous.” Continue reading...",
+            "fullText": "England versus Ghana tonightwill be a full circle moment for the Black Stars’ key player, Antoine Semenyo.\n\nThe London-born winger is a very familiar face to Premier League-watching audiences these days but his journey to facing the country of his birth at theWorld Cuphas been an unorthodox one. From being rejected by a host of professional academies in London, to being persuaded by former Forest Green and Leeds boss Dave Hockaday to join an academy program at South Gloucestershire and Stroud College, which led to him being signed by Bristol City.\n\nAfter a stint at Hellenic League side Highworth Town, a loan to Newport County and then a breakout spell in Bristol City’s first team, Semenyo is now one of the Premier League’s top players at Manchester City, via Bournemouth, and someone England will be worrying about before their clash with Ghana in Boston later.\n\nGhana’s 2010 World Cup quarter-final defeat to Uruguay is, by all accounts, a key footballing memory of Semenyo, whose parents are Ghanaian. Even a point for Ghana tonight would give them a great chance of reaching the knockout stages.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3352_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel’s brash Britpop football is music to England ears before Ghana test",
+            "bullets": [
+              "Vinyl has baffled youngsters at the team’s hotel but spells of opening victory against Croatia showe...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Vinyl has baffled youngsters at the team’s hotel but spells of opening victory against Croatia showed side in the grooveInside the foyer of the England team hotel in Kansas City, along with the TV screens that show the World Cup matches, there is an anachronism. It is a record player and it is worth reporting there were younger members of the squad who looked&nbsp;genuinely baffled by it. What were these strange plastic circles that went on it?The Football Association found out the favourite songs of each player and obtained vinyl versions of them. And very popular the whole thing has been, even if Harry Kane has been determined to play country and western on it. Harry, this is not leadership. Continue reading...",
+            "fullText": "Vinyl has baffled youngsters at the team’s hotel but spells of opening victory against Croatia showed side in the groove\n\nInside the foyer of the England team hotel in Kansas City, along with the TV screens that show theWorld Cupmatches, there is an anachronism. It is a record player and it is worth reporting there were younger members of the squad who looked genuinely baffled by it. What were these strange plastic circles that went on it?\n\nThe Football Association found out the favourite songs of each player and obtained vinyl versions of them. And very popular the whole thing has been, even if Harry Kane has been determined to play country and western on it. Harry, this is not leadership.\n\nMusic has been the answer for England. As their training sessions have got under way, there have been songs blasted out from pitch-side speakers. On the Sunday before last, for example, it was Dr Dre, Coolio and Tupac. Luther Vandross has also been heard. It has been eclectic. But for the moment of communion, which came after England started their Group L campaign withthe 4-2 win over Croatiain Dallas last Wednesday, it was all about Oasis.\n\nThomas Tuchel and his players stood in front of the massed ranks of England fans and joined in with Wonderwall as it was played over the PA system. Kane called it one of his “favourite ever moments in an England shirt” and Tuchel loved it as well. The head coach watched Oasis at Wembley last September and was spotted yelling along to the same song. Now he could do so again after what he described as “one of the best days” of his career. Move over Sweet Caroline. The Oasis classic has the potential to be the soundtrack to England’s World Cup.\n\n“Hopefully it becomes an anthem,” Tuchel said. “That is exactly what a tournament like this is for – the connection between fans and the team. I am so glad because I think the fans saw and felt what I see and feel every day with this team. They felt the energy, the team spirit, the commitment. And from all this energy came the synergy after the match. It was a beautiful moment and it meant a lot to all of us. Hopefully we can recreate this in the next game.”\n\nThe next game is against Ghana in Boston on Tuesday at 4pm local time (9pm BST) and the theme is connections: how Tuchel is driving them; how he wants his team to mirror the Premier League with speed, physicality and risk-taking; the running power, the set pieces. Call it guitar-rock football. Call it Britpop football. Something with irresistible momentum. Tuchel and his players found the spark with the second-half surge against Croatia. It is about more of that – about doing it better.\n\nTuchel is a different animal now the serious business has started. The edge is there. The players have felt it. Just ask Djed Spence, who was ordered to wake up by Tuchel in training on Saturday – in full view of the media. This kind of thing does not normally play out in the small window when the cameras are present. It spoke to the German’s demanding nature. The clarity and transparency of his set-up was illustrated by the candid critique of the team that his assistant, Anthony Barry, gave to ITV during the interval against Croatia. Tournament Thomas is here.\n\n“I don’t do any extras,” Tuchel said. “It just gives me a lot of energy to be in a competitive tournament and be in a competitive mode and be surrounded by world-class players and fantastic personalities. It energises me and that’s how it needs to be done.\n\n“I’m influencing the players and staff so I have to be on the front foot. And also not too much. I want to have the right mix between relaxation and the smile and the arm round the shoulder and good spirit. But I hope that they feel it because the competition is on. I want to be at my best and support them, help them be their best because it’s their stage. It’s their potential that has to bring us all the way.”\n\nThe Croatia game was not perfect. The first-half display was messy. England’s deep buildup play was disjointed in the face of their opponents’ press and the spaces in midfield were not right. Without the ball, Tuchel’s team sank too early into a low block. The concessions were soft, especially the second from Petar Musa on the stroke of half-time. “We were a bit too man-man focused and didn’t rely enough on our structure to be able to push out again and into the opponent’s half,” Tuchel said.\n\nThe positives were more plentiful and they took in the relationship between Kane and Jude Bellingham, which was detailed by the Fifa technical study group expert and former Costa Rica forward Paulo Wanchope. Tuchel asked his midfielders, Declan Rice and Elliot Anderson, to vacate the space in the middle of the pitch, dragging opposing players away and allowing Kane to drop into a deep playmaking role, creating an overload. With the wingers high and wide, Bellingham threatened between the lines. “It was clear Kane and Bellingham had worked on it,” Wanchope wrote.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3352_4",
+            "category": "england",
+            "type": "News",
+            "title": "Wilshere: Tuchel factor can help England win the World Cup",
+            "bullets": [
+              "Jack Wilshere has experienced the burden of expectation that comes with representing England at a Wo...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jack Wilshere has experienced the burden of expectation that comes with representing England at a World Cup. He felt it envelop the squad as they crashed to a group-stage exit in Brazil in 2014.",
+            "fullText": "In an exclusive interview withSky Sports, Jack Wilshere explains why this England team is different and why they can win the World Cup;follow England's second Group L game against Ghana across Sky Sports' digital platforms on Tuesday; kick-off 9pm",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 01:33:18 EDT",
+  "lastUpdated": "2026-06-23 @ 09:34:02 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
