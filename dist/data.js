@@ -4,28 +4,40 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Man Utd & Arsenal track Scott - Wednesday gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'VAR went for a coffee' - should Ghana have had penalty against England?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Croatia earn narrow win to knock out Panama",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c5yz5lyzz24o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'Anxious moment for England' - should this have been Ghana penalty?",
       "link": "https://www.bbc.co.uk/sport/football/videos/cq61l08mj32o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Rice remains positive after England draw with Ghana",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cvg5vd1z2xko?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel credits 'committed' Ghana defending after England draw",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c982ewd5pn5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Quiz: Name every England World Cup goalscorer since 2014",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Man Utd & Arsenal track Scott - Wednesday gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Rice remains positive after England draw with Ghana",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cvg5vd1z2xko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Anderson's journey to England star and potential British record",
       "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England boss Tuchel not a fan of hydration breaks",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyzknng1jo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Quiz: Name every England World Cup goalscorer since 2014",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgpyxpxekko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Tell us your stories of Scotland's World Cup",
@@ -10172,10 +10184,205 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-24": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1333_0",
+            "category": "england",
+            "type": "News",
+            "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
+            "bullets": [
+              "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?",
+            "fullText": "'Anxious moment for England'  - should this have been a penalty for Ghana?\n\nGhana may have been celebrating a gutsy goalless draw with England on Tuesday night, but manager Carlo Queiroz couldn't help wondering what might have been.\n\nThe Black Stars boss was adamant his side should have been awarded a penaltylate in Tuesday's gameas Prince Kwabena Adu charged into the box before Ezri Konsa came across and appeared to bring down the midfielder.\n\nNo spot-kick was given - to the relief of England supporters, with replays showing Konsa had caught Adu on the knee and made no contact with the ball.\n\n\"I'm not sure VAR is still working in the World Cup. We still have VAR? It's working?\" said Queiroz.\n\n\"I have some doubts about that because another penalty that they need give to Ghana, a clear penalty against England [was missed]. They're lucky. They're very lucky.\n\n\"It was a clear penalty, red card. You have any doubts about that? You guys who saw the game have any doubts about that or is it only me that was in the game?\n\n\"I'm sorry for my sarcasm, but if I say these kind of things seriously they punish me, so I hope you understand that I'm joking.\"\n\nBBC pundits watching the game were largely in agreement that Konsa and England were fortunate not to have been punished.\n\n\"I think that's a penalty,\" former Three Lions and Manchester United striker Wayne Rooney said on BBC One.\n\n\"Konsa takes a huge risk. His feet are off the floor when he comes flying in and he gets the man, not the ball.\n\nFellow former England international and ex-Manchester City defender Micah Richards added: \"England were chasing the game, they were trying to score the goal but you still need that protection behind you.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1333_1",
+            "category": "england",
+            "type": "News",
+            "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
+            "bullets": [
+              "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated r...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated row with Ghana boss Carlos Queiroz.",
+            "fullText": "England manager Thomas Tuchel defended Jude Bellingham after the midfielder was involved in a heated row with Ghana boss Carlos Queiroz at half-time of Tuesday's goalless draw.\n\nBellingham had to be pulled way by team-mate Morgan Rogers as he engaged with the Ghana coach and his backroom staff.\n\nIt came shortly after a foul when Bellingham shoved Jerome Opoku and tensions spilled over after the referee had blown for half-time.\n\nThe fall-out continued as players and coaches walked across the field to the tunnel at Boston Stadium.\n\n\"It was an exchange of emotions, and Jude stood up for himself and his team,\" said Tuchel.\n\n\"Emotions are a part of the game but we don't want to get distracted with stuff that could distract us.\"\n\nNo cards were shown in the aftermath and tensions appeared to have settled down by the time the second half resumed.\n\n\"He had a bad reaction with some bad names and that's why the story started,\" Queiroz said.\n\nThe drawkeeps England top of Group L - and they are guaranteed to qualify for the last 32 if they avoid defeat against Panama on Saturday.\n\nNo need to panic for England - but this was a reality check\n\nShould Ghana have been awarded a penalty against England?\n\nWho failed to make an impact? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1334_2",
+            "category": "england",
+            "type": "News",
+            "title": "Croatia earn narrow win to knock out Panama",
+            "bullets": [
+              "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in Group L with a win over Panama, who are knocked out of the World Cup following the loss.",
+            "fullText": "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in Group L with a win over Panama, who are knocked out of the World Cup following the loss.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1334_3",
+            "category": "england",
+            "type": "News",
+            "title": "'Anxious moment for England' - should this have been Ghana penalty?",
+            "bullets": [
+              "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Gr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
+            "fullText": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1334_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel credits 'committed' Ghana defending after England draw",
+            "bullets": [
+              "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
+            "fullText": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1335_5",
+            "category": "england",
+            "type": "News",
+            "title": "Man Utd & Arsenal track Scott - Wednesday gossip",
+            "bullets": [
+              "Manchester United and Arsenal are tracking Alex Scott, while the Gunners are also in contact with Le...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester United and Arsenal are tracking Alex Scott, while the Gunners are also in contact with Leicester City over a deal for Jeremy Monga, Aston Villa express strong interest in Jarrod Bowen, plus more.",
+            "fullText": "Manchester UnitedandArsenalare trackingBournemouthmidfielder Alex Scott, while the Gunners are also in contact with Leicester City over a deal for Jeremy Monga andAston Villaexpress strong interest in Jarrod Bowen.\n\nManchester UnitedandArsenalare tracking 22-year-oldBournemouthand England midfielder Alex Scott, but any successful move could cost about Â£60m.(Mail),external\n\nArsenalare also in contact withLeicester Cityover a deal for England Under-19 winger Jeremy Monga, with the Gunners planning to pay a fair fee for the 16-year-old and avoid a tribunal.(Athletic - subscription required),external\n\nReal Madridwill open talks withChelseaover a transfer for their Argentina international Enzo Fernandez, 25, having made him their top midfield target this summer.(AS),external\n\nAston Villahave expressed a strong interest inWest Hamand England winger Jarrod Bowen, 29, but an agreement could be difficult until Villa make player sales.(Athletic - subscription required),external\n\nAston Villahave also made it clear to interested clubs they do not want to sell 23-year-old England midfielder Morgan Rogers this summer.(Sky Sports),external\n\nNewcastle Unitedare showing interest inCologneand Germany Under-21 winger Said El Mala, 19, and in contact overLilleand Belgium forward Matias Fernandez-Pardo, 21. ButLiverpoolare also waiting in the wings if they fail to landRB Leipzigand Ivory Coast winger Yan Diomande, 19, orParis St-Germainand France forward Bradley Barcola, 23.(Mail),external\n\nArsenalare continuing talks over a potential deal for 26-year-oldAtletico Madridand Argentina striker Julian Alvarez.(Teamtalk),external\n\nBayern Munichare planning to double France midfielder Michael Olise's wages as part of a deal to keep the 24-year-old at the club until 2031.(Christian Falk),external\n\nReal Madridare interested inManchester Cityand Norway striker Erling Haaland, 25, should 25-year-old Brazil winger Vinicius Jr leave the Bernabeu.(Sport - in Spanish),external\n\nManchester Unitedare expected to launch an official approach forWest Hamand Portugal midfielder Mateus Fernandes, 21, in the coming days.(Teamtalk),external\n\nBorussia MonchengladbachandSwitzerland defender Nico Elvedi, 29, is open to a move toLeeds United.(Football Insider),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1335_6",
+            "category": "england",
+            "type": "News",
+            "title": "Rice remains positive after England draw with Ghana",
+            "bullets": [
+              "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Gha...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
+            "fullText": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1336_7",
+            "category": "england",
+            "type": "News",
+            "title": "Anderson's journey to England star and potential British record",
+            "bullets": [
+              "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side, and could be on the verge of a British record transfer.",
+            "fullText": "Elliot Anderson has become an integral figure in England head coach Thomas Tuchel's World Cup plans.\n\nElliot Anderson was the schoolboy footballer so good his teachers discussed placing a bet on him playing for England. The bet was never made - but Thomas Tuchel is backing him to be a winner at the World Cup.\n\nAnderson's journey from the playing fields of Tyneside to the World Cup stage, and to potentially becoming the most expensive player in British football history, continues when England play Ghana in Boston on Tuesday.\n\nThe midfielder is the one that painfully got away from Newcastle United but is still revered and respected in his home city as the \"quiet and self-effacing\" local boy made good.\n\nNewcastle United manager Eddie Howe called Anderson's Â£30m sale to Nottingham Forest in July 2024 \"the most reluctant in my career\", a deal effectively forced on the Magpies because they feared they were going to break profit and sustainability rules (PSR) and incur a points deduction following years of imbalanced trading\n\nThe sense of loss has become more acute as the 23-year-old emerged as a central component in England's World Cup plans - head coach Tuchel calls him \"the full package\" - with a move to Manchester City in the offing, talks ongoing after a deal worth around Â£120m was rejected by Forest.\n\nIt is also felt by Scotland, who hoped to Anderson would play for the country as he has a Scottish grandmother. He was called up for the Euro 2024 qualifier in Cyprus and a friendly with England in September 2023 having represented the Scots at under-21 and junior level, only to pull out through injury before pledging allegiance to England.\n\nIt is all a far cry from the young Geordie who used to kick a ball around with his elder brothers before emerging as an outstanding young player at Valley Gardens Middle School, then at the famous Wallsend Boys' Club, where Alan Shearer, Peter Beardsley and Michael Carrick honed their trade.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAnderson's first steps in football came playing with his two elder brothers Louie and Wil, the latter gaining prominence as a contestant on reality TV show Love Island.\n\nJonathan Roys, Anderson's former English and PE teacher at Valley Gardens, who was also his head of year, told BBC Sport: \"His brothers had been through the school and I played against his dad. His brothers were decent, but I think being the youngest of three he was used to getting bossed about a little bit, but he took no quarter off anybody. He'd get stuck right in.\"\n\nAnderson put down a marker for future success when he was captain and scored a hat-trick in a 3-0 win when Valley Gardens won the English leg of Danone Nations Cup in 2014, a prestigious worldwide youth tournament.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1336_8",
+            "category": "england",
+            "type": "News",
+            "title": "Quiz: Name every England World Cup goalscorer since 2014",
+            "bullets": [
+              "Fifteen players who have scored for England across the past four men's World Cups. Can you name them...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifteen players who have scored for England across the past four men's World Cups. Can you name them all?",
+            "fullText": "Three different England players were on target in the Three Lions' 4-2 win over Croatia in their World Cup opener on Wednesday.\n\nIn total 15 players have scored for England across the past four men's World Cups. Can you name them all?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nWorld Cup quiz: Name every player in England's squad\n\nWorld Cup quiz: Name every player in Scotland's squad",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1336_9",
+            "category": "england",
+            "type": "News",
+            "title": "Tell us your stories of Scotland's World Cup",
+            "bullets": [
+              "Share your footage and you could be included in a BBC programme telling the story of Scotland's Worl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Share your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "fullText": "After the success ofThrough the Eyes of the Fans: Scotland v Denmark, we are once again looking for Scotland fans to send us in their footage, audio and pictures - this time capturing the memories of Scotland's World Cup campaign.\n\nWe want your help to capture the energy, emotion and unforgettable moments from Scotland's time in the United States.\n\nWhether you're at the tournament, watching from a fan zone back home or with friends across the world, we'd love to see how you experienced it.\n\nShare your footage and you could be included in a BBC programme telling the story of Scotland's World Cup campaign from the fans' perspective.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1337_10",
+            "category": "england",
+            "type": "News",
+            "title": "England ratings: Lacklustre display as same selection problem plagues Tuchel",
+            "bullets": [
+              "England were held to a frustrating 0-0 draw with Ghana following a tepid and lacklustre performance ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England were held to a frustrating 0-0 draw with Ghana following a tepid and lacklustre performance from Thomas Tuchel's squad throughout.",
+            "fullText": "England were held to a disappointing 0-0 draw against Ghana in their second group stage game at the World Cup; Nico O'Reilly hit the bar and Harry Kane missed a big opportunity in what was an uncharacteristic evening for the Three Lions captain",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 19:08:59 EDT",
+  "lastUpdated": "2026-06-24 @ 01:13:47 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
