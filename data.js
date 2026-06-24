@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Why Bellingham was not sent off for covering his mouth",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England's James and Rice to have fitness assessed",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg4w2wk5vryo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Man Utd & Arsenal track Scott - Wednesday gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Why Bellingham was not sent off for covering his mouth",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70y1ljdz8zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Croatia earn narrow win to knock out Panama",
@@ -28,6 +28,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cd6e3gvnnzwo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Man Utd & Arsenal track Scott - Wednesday gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn945x0w4jno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
       "link": "https://www.bbc.co.uk/sport/football/articles/ce8k4zr6l2no?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -36,11 +40,15 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cvg5vd1z2xko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: Infantino says hydration breaks not commercial; attendances on track for record high – live",
+      "text": "⚽ World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
       "link": "https://www.theguardian.com/football/live/2026/jun/24/world-cup-2026-final-group-games-bosnia-and-herzegovina-qatar-switzerland-canada-scotland-brazil-morocco-haiti-czechia-mexico-south-africa-south-korea-live"
     },
     {
-      "text": "⚽ ‘Not much faith’: the view from Brazil as they prepare to face Scotland",
+      "text": "⚽ Football Daily | The dullest game of the World Cup so far? Welcome back, England",
+      "link": "https://www.theguardian.com/football/2026/jun/24/england-dullest-match-world-cup-2026-football-daily-newsletter"
+    },
+    {
+      "text": "⚽ 'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
       "link": "https://www.theguardian.com/football/2026/jun/24/view-brazil-scotland-neymar-casemiro-endrick-world-cup-2026"
     },
     {
@@ -10571,11 +10579,238 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0501_0",
+            "category": "england",
+            "type": "News",
+            "title": "England's James and Rice to have fitness assessed",
+            "bullets": [
+              "England will assess the fitness of Reece James and Declan Rice before their final World Cup group ga...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England will assess the fitness of Reece James and Declan Rice before their final World Cup group game against Panama.",
+            "fullText": "Reece James and Declan Rice have been key players for Thomas Tuchel\n\nEngland will assess the fitness of Reece James and Declan Rice before their final World Cup group game against Panama.\n\nRice, 27, limped out of the Boston Stadium after England'sgoalless draw against Ghanaon Tuesday with heavy strapping on his left calf.\n\nSources have indicated that there is no major concern the injury could impact his involvement on a longer-term basis here in the United States.\n\nBut it is understood the issue requires assessment and rest before a decision can be made on his availability for Panama on Saturday, with England manager Thomas Tuchel and his staff needing to weigh up the risks of playing him.\n\nThe Arsenal midfielder was also taken off in the game against Croatia with nerve pain in a sore hamstring he has been managing.\n\nJames will also require assessment as England approach Saturday's match in New Jersey.\n\nThe 26-year-old completed the full game against Ghana but will be checked by medics over the next 24 hours.\n\nThe Chelsea captain has a history of injury and his load will be monitored closely.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0501_1",
+            "category": "england",
+            "type": "News",
+            "title": "Why Bellingham was not sent off for covering his mouth",
+            "bullets": [
+              "England midfielder Jude Bellingham was not shown a red card despite covering his mouth while talking...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder Jude Bellingham was not shown a red card despite covering his mouth while talking to Ghana's Jordan Ayew.",
+            "fullText": "Players can now be sent off when covering their mouths, with Paraguay's Miguel Almiron receiving a one-match ban\n\nA picture of England midfielder Jude Bellingham covering his mouth while talking to Ghana's Jordan Ayew has caused controversy.\n\nA law was brought in for the 2026 World Cup which says a player can be sent off if they hide their mouth when speaking to an opponent.\n\nFifa president Gianni Infantino requested it was introduced after Benfica winger Gianluca Prestianni was given asix-match banby Uefa for homophobic conduct towards Real Madrid's Vinicius Jr during a Champions League game in February.\n\nParaguay's Miguel Almiron became thefirst player to be sent offfor the offence against Turkey at the weekend when the video assistant referee (VAR) stepped in to advise a red card.\n\nSo why was Bellingham not shown a red card on a VAR review in Tuesday's0-0 drawin Boston?\n\nThe context is key. Covering the mouth has not been banned. Doing so in a confrontation with another player has.\n\nBefore the tournament Pierluigi Collina, Fifa's head of referees, was quite clear.\n\n\"Players can continue to cover their mouth with an arm and the shirt because they may chat with friends,\" Collina said.\n\n\"It's normal to a chat before, during or after the match.\n\n\"So if the conversation is a friendly conversation, they can continue to do it without any problem.\n\n\"When the conversation is confrontational, covering the mouth means that you are doing something very wrong, potentially, and the sanction is the red card.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0501_2",
+            "category": "england",
+            "type": "News",
+            "title": "Croatia earn narrow win to knock out Panama",
+            "bullets": [
+              "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in Group L with a win over Panama, who are knocked out of the World Cup following the loss.",
+            "fullText": "Croatia remain in contention for a last-32 spot at the World Cup after earning their first points in Group L with a win over Panama, who are knocked out of the World Cup following the loss.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0502_3",
+            "category": "england",
+            "type": "News",
+            "title": "'Anxious moment for England' - should this have been Ghana penalty?",
+            "bullets": [
+              "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Gr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
+            "fullText": "England's Ezri Konsa makes a last-ditch attempt to stop Ghana's Prince Adu during their World Cup Group L match in Boston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0502_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel credits 'committed' Ghana defending after England draw",
+            "bullets": [
+              "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
+            "fullText": "England manager Thomas Tuchel says England found it \"difficult\" to break down Ghana's defence, after the two teams played out a 0-0 draw at the 2026 World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0503_5",
+            "category": "england",
+            "type": "News",
+            "title": "'VAR went for a coffee' - should Ghana have had penalty against England?",
+            "bullets": [
+              "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England fans have been left frustrated by the goalless draw against Ghana, but were Thomas Tuchel's side fortunate not to have given away a penalty?",
+            "fullText": "'Anxious moment for England'  - should this have been a penalty for Ghana?\n\nGhana may have been celebrating a gutsy goalless draw with England on Tuesday night, but manager Carlo Queiroz couldn't help wondering what might have been.\n\nThe Black Stars boss was adamant his side should have been awarded a penaltylate in Tuesday's gameas Prince Kwabena Adu charged into the box before Ezri Konsa came across and appeared to bring down the midfielder.\n\nNo spot-kick was given - to the relief of England supporters, with replays showing Konsa had caught Adu on the knee and made no contact with the ball.\n\n\"I'm not sure VAR is still working in the World Cup. We still have VAR? It's working?\" said Queiroz.\n\n\"I have some doubts about that because another penalty that they need give to Ghana, a clear penalty against England [was missed]. They're lucky. They're very lucky.\n\n\"It was a clear penalty, red card. You have any doubts about that? You guys who saw the game have any doubts about that or is it only me that was in the game?\n\n\"I'm sorry for my sarcasm, but if I say these kind of things seriously they punish me, so I hope you understand that I'm joking.\"\n\nBBC pundits watching the game were largely in agreement that Konsa and England were fortunate not to have been punished.\n\n\"I think that's a penalty,\" former Three Lions and Manchester United striker Wayne Rooney said on BBC One.\n\n\"Konsa takes a huge risk. His feet are off the floor when he comes flying in and he gets the man, not the ball.\n\nFellow former England international and ex-Manchester City defender Micah Richards added: \"England were chasing the game, they were trying to score the goal but you still need that protection behind you.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0503_6",
+            "category": "england",
+            "type": "News",
+            "title": "Man Utd & Arsenal track Scott - Wednesday gossip",
+            "bullets": [
+              "Manchester United and Arsenal are tracking Alex Scott, while the Gunners are also in contact with Le...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester United and Arsenal are tracking Alex Scott, while the Gunners are also in contact with Leicester City over a deal for Jeremy Monga, Aston Villa express strong interest in Jarrod Bowen, plus more.",
+            "fullText": "Manchester UnitedandArsenalare trackingBournemouthmidfielder Alex Scott, while the Gunners are also in contact with Leicester City over a deal for Jeremy Monga andAston Villaexpress strong interest in Jarrod Bowen.\n\nManchester UnitedandArsenalare tracking 22-year-oldBournemouthand England midfielder Alex Scott, but any successful move could cost about Â£60m.(Mail),external\n\nArsenalare also in contact withLeicester Cityover a deal for England Under-19 winger Jeremy Monga, with the Gunners planning to pay a fair fee for the 16-year-old and avoid a tribunal.(Athletic - subscription required),external\n\nReal Madridwill open talks withChelseaover a transfer for their Argentina international Enzo Fernandez, 25, having made him their top midfield target this summer.(AS),external\n\nAston Villahave expressed a strong interest inWest Hamand England winger Jarrod Bowen, 29, but an agreement could be difficult until Villa make player sales.(Athletic - subscription required),external\n\nAston Villahave also made it clear to interested clubs they do not want to sell 23-year-old England midfielder Morgan Rogers this summer.(Sky Sports),external\n\nNewcastle Unitedare showing interest inCologneand Germany Under-21 winger Said El Mala, 19, and in contact overLilleand Belgium forward Matias Fernandez-Pardo, 21. ButLiverpoolare also waiting in the wings if they fail to landRB Leipzigand Ivory Coast winger Yan Diomande, 19, orParis St-Germainand France forward Bradley Barcola, 23.(Mail),external\n\nArsenalare continuing talks over a potential deal for 26-year-oldAtletico Madridand Argentina striker Julian Alvarez.(Teamtalk),external\n\nBayern Munichare planning to double France midfielder Michael Olise's wages as part of a deal to keep the 24-year-old at the club until 2031.(Christian Falk),external\n\nReal Madridare interested inManchester Cityand Norway striker Erling Haaland, 25, should 25-year-old Brazil winger Vinicius Jr leave the Bernabeu.(Sport - in Spanish),external\n\nManchester Unitedare expected to launch an official approach forWest Hamand Portugal midfielder Mateus Fernandes, 21, in the coming days.(Teamtalk),external\n\nBorussia MonchengladbachandSwitzerland defender Nico Elvedi, 29, is open to a move toLeeds United.(Football Insider),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0504_7",
+            "category": "england",
+            "type": "News",
+            "title": "Silly tackle, bad reaction - Tuchel defends Bellingham after Queiroz row",
+            "bullets": [
+              "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated r...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel defends Jude Bellingham after the midfielder is involved in a heated row with Ghana boss Carlos Queiroz.",
+            "fullText": "England manager Thomas Tuchel defended Jude Bellingham after the midfielder was involved in a heated row with Ghana boss Carlos Queiroz at half-time of Tuesday's goalless draw.\n\nBellingham had to be pulled away by team-mate Morgan Rogers as he engaged with the Ghana coach and his backroom staff.\n\nIt came shortly after a foul when Bellingham shoved Jerome Opoku and tensions spilled over after the referee had blown for half-time.\n\nThe fall-out continued as players and coaches walked across the field to the tunnel at Boston Stadium.\n\n\"It was an exchange of emotions, and Jude stood up for himself and his team,\" said Tuchel.\n\n\"Emotions are a part of the game but we don't want to get distracted with stuff that could distract us.\"\n\nNo cards were shown in the aftermath and tensions appeared to have settled down by the time the second half resumed.\n\n\"He had a bad reaction with some bad names and that's why the story started,\" Queiroz said.\n\nThe drawkeeps England top of Group L - and they are guaranteed to qualify for the last 32 if they avoid defeat against Panama on Saturday.\n\nNo need to panic for England - but this was a reality check\n\nShould Ghana have been awarded a penalty against England?\n\nWho failed to make an impact? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0504_8",
+            "category": "england",
+            "type": "News",
+            "title": "Rice remains positive after England draw with Ghana",
+            "bullets": [
+              "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Gha...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
+            "fullText": "England midfielder Declan Rice says he remains positive despite being held to a 0-0 draw against Ghana in their World Cup Group L match in Boston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0504_9",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Norway’s ‘Viking row’ celebration irks neighbours; Infantino defends hydration breaks – live",
+            "bullets": [
+              "⚽ All the latest news on a day packed with six matches⚽ Player guide | Bracketology | Golden Boot | ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest news on a day packed with six matches⚽ Player guide | Bracketology | Golden Boot | Mail JohnHow do we feel about the penalty that wasn’t?I don’t really see how you can’t give it. Fatawu was in and Konsa launches into him, getting nowhere near the ball with no chance of getting at the ball – which makes it a red card too. Continue reading...",
+            "fullText": "An England linevia ESPN’s Mark Ogden:“Jude Bellingham avoided a red card for covering his mouth in a conversation with Jordan Ayew during England’s goalless draw with Ghana because it was “not in a confrontational manner.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0504_10",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | The dullest game of the World Cup so far? Welcome back, England",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!England, an apology. Football Daily and the wider...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!England, an apology. Football Daily and the wider English media may have previously depicted Thomas Tuchel’s lads as world champions in waiting after taking apart a Croatian team led by Luka Modric, 78, in a second-half Texan surge, but we were all so very wrong. Still, as the nation awoke following the goalless draw with Ghana, we had our England back. Tradition matters. Tea cups on the lawn, curled-up cucumber sandwiches, overpriced service stations, complaining about the weather, prime ministers departing office; familiarity is important to this nation’s psyche. England serving up the dullest game yet of the Geopolitics World Cup brought that self-same wash of familiarity. A corner of a foreign field that is forever England playing like a drain, a nation’s hopes sagging. England, our ruddy bloody England, welcome home, we’ve been expecting you.One of the reasons that the Egyptian team beat New Zealand was that, for some reason, my countrymen were apparently so short of numbers they were forced to play Joe Bell in two different positions on the pitch at the same time. Physicists apparently call this phenomenon ‘quantum superposition’. I call it: ‘Why didn’t you ring me? I was at home doing nothing’” – Rod de Lisle. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nEngland, an apology. Football Daily and the wider English media may have previously depicted Thomas Tuchel’s lads as world champions in waiting aftertaking aparta Croatian team led by Luka Modric, 78, in a second-half Texan surge, but we were all so very wrong. Still, as the nation awoke following thegoalless draw with Ghana, we had our England back. Tradition matters. Tea cups on the lawn, curled-up cucumber sandwiches, overpriced service stations, complaining about the weather, prime ministers departing office; familiarity is important to this nation’s psyche. England serving up the dullest game yet of the Geopolitics World Cup brought that self-same wash of familiarity. A corner of a foreign field that is forever England playing like a drain, a nation’s hopes sagging. England, our ruddy bloody England, welcome home, we’ve been expecting you.\n\nIn Massachusetts, English attacks were dashed on the rocks of a carefully laid plan by the familiar face of Carlos Queiroz, a wily fox who knows just how to push the buttons of opponents getting ahead of themselves. The stats read 80% possession toEngland, 19 shots to two, but an xG of 1.28, which probably accounted for Nico O’Reilly’s header off the bar and Harry Kane clanking the rebound into the stratosphere. The ghosts of Sven, Capello, Hodgson and late-period Southgate made their presence felt. “Boston Z Party” read one waggish headline. Geddit?\n\nThe phrase ‘it is what it is’ did the rounds afterwards, the glibbest of the glib employed to describe a match that was a great big nothing burger smeared in Monterrey Jack cheese, sat between a toasted patty of all our yesterdays, with a side salad of knives being sharpened for the national team coach. It wasn’t quiteEngland 0-0 Algeriain 2010. That game is best rewatched as an act of masochism. The vibes in Boston were nowhere near as bad, despite Tuchel’s gathering rage and fiery sideline exchanges with Jude Bellingham and Djed Spence that are set to be memed to high heaven. Of course, none of this really matters. So baggy is the 48-team GWC that a point all but assured England of a place in what those on Fox Soccer are terming “the 32”.\n\nNext up, on Saturday, a familiar opponent in already-eliminated Panama, whosenarrow 1-0 loss to Croatiafurther heightened the sense that victory in Dallas was perhaps not the signpost to global glory that many might have painted it as. Time to panic? English panic is the envy of the world, after all. Not yet. Not just yet. Better to see things in the round. It has been a greatest hits playlist of a GWC so far:Lionel Messi doing Messi things, Cristiano Ronaldo being a grump before delighting his interesting fanbase with goals against, er,Uzbekistan, Kylian Mbappéand Erling Haalandsmashing them infor fun andTurkey being rubbish. An England snooze-along is all part of the dance, a comfy chair to bask in and remind us who we truly are.\n\nWe kick off with the final Group B matches at 3pm EST/8pm BST. Rob Smyth is in charge for Switzerland 2-0 Canada, while Will Unwin helms Bosnia and Herzegovina 3-1 Qatar. Later, Scott Murray will be all over Scotland 0-3 Brazil at 6pm EST/11pm BST, and at the same time Ella Brockway is helming Morocco 4-0 Haiti. The fun, preposterously, does not stop there, as Group A concludes at 9pm EST/2am BST with Czechia 0-1 Mexico under the watchful eye of Alexander Abnos, and South Africa 1-2 South Korea with Jeff Rueter on duty.\n\nWe have some Football Weekly Live events coming, folks. If you want to see Max Rushden, Barry Glendenning and other top, top pod squad members in the flesh, you can do so inDublin on 1 Septemberor in that thereLondon on 9 September. And on 16 July, Football Weekly: Live in New York City is sold out, but livestream ticketsare still available.\n\n“Until the final there are still a few games to go but if we win the final then I will make that haircut. This is my promise to Germany” – after changing his profile picture on social media disgraces to an AI one in which he sports the real Ronaldo’s 2002 triangle fringe, Jamie Leweling vows to make it a reality shouldDie Mannschaftwin the GWC. “It was a bit of ‌fun but it got so ‌much attention that [he] sent me a shirt. A Brazilian reporter gave it to me,” added Leweling.\n\nKick off your evenings with the Guardian's take on the world of football\n\ndouble quotation markOne of the reasons that the Egyptian team beat New Zealand was that, for some reason, my countrymen were apparently so short of numbers they were forced to play Joe Bell in two different positions on the pitch at the same time. Physicists apparently call this phenomenon ‘quantum superposition’. I call it: ‘Why didn’t you ring me? I was at home doing nothing’” – Rod de Lisle.\n\ndouble quotation markRe:yesterday’s Football Daily letters. I cannot believe that someone wrote in to you, of all newsletters, to explain that the old classics are more amusing than new material” – Gaz Boardman.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Rod de Lisle. Terms and conditions for our competitions, when we run them, arehere.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0505_11",
+            "category": "england",
+            "type": "News",
+            "title": "'Not much faith’: the view from Brazil as they prepare to face Scotland | Tom Sanderson",
+            "bullets": [
+              "Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the W...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan ArmyThe big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “la cuarta estrella” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.However, the five-time champions Brazil are failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope. Continue reading...",
+            "fullText": "Debate is raging back home about whether Neymar, Casemiro, Endrick – and others – should be in the World Cup team against the Tartan Army\n\nThe big stars have turned up for the 2026 World Cup. Lamine Yamal returned to the Spain team to help them to thump Saudi Arabia. Lionel Messi is the tournament’s top scorer, giving Argentina hope of pinning “la cuarta estrella” to their shirts. And Kylian Mbappé, Erling Haaland, Harry Kane and Cristiano Ronaldo are all vying for the Golden Boot as their teams look towards to the next stage.\n\nHowever, the five-time championsBrazilare failing to convince. They finished fifth in the Conmebol qualifying table with 28 points from 18 games, their worst qualifying campaign. Being competitive in a 2-1 defeat against France in March, before wins against Croatia, Panama and Egypt in friendlies, perhaps gave false hope.\n\nBrazil were lucky to get away with a1-1 draw against Moroccoin their opening game after going behind early and being outclassed for most of the match. Only Vinícius Júnior saved them with a moment of individual brilliance.\n\nAnything less than agoleada (one-sided, high-scoring thrashing) against Haiti would have been deemed a failure. That was the message from back home. Casemiro snippily replied with a sarcastic grimace and look away whilebleating“3-0?”, when asked if his team had convinced in their second game. Beating a country that has qualified for the World Cup for the first time in 52 years is not going to win over everyone.\n\nBrazil were not particularly impressive in the goalless second half, doing little to quell the feelings of “apprehension and distrust” that Mauro Cezar Pereira – one of the country’s biggest pundits – has picked up on in Brazil. “Those who understand even the basics of football don’t have much faith,” he says, adding that Carlo Ancelotti’s work is “far below what it should be”.\n\nPaulo Vinícius Coelho, another heavyweight of Brazilian punditry known as PVC, says Brazilians “feel like we’re seeing a team that isn’t showing much sign of having a greatWorld Cup– and that to do so they will have to improve during the tournament”.\n\nMost of the big names have stepped up at this World Cup and, with two goals and an assist so far, Vini Jr could be thrown into the group of 2026 elites. But he is by no means the Brazil squad’s greatest star in terms of reputation. That billing goes to the national team’s all-time highest scorer,Neymar, who is in the squad but yet to play a single minute of what is expected to be his final World Cup.\n\nThe dramaaround whether the 34-year-old would be called up or not was worthy of a Globo novela. It would certainly be more interesting thanConvocadas–the reality show about the players and their partners that Globo showed in the buildup to the tournament.\n\nNeymar’s saga was rife with plot twists and conspiracy theories. The idea that Santos and Neymar staged asupposed officiating blunder, where his number was held up for him to be substituted because he didn’t have the means to carry on playing in a league match, fell into the latter category. So does the story that Ancelotti did not want to call him up but ultimatelybuckled to prevent a potential backlashfor not doing so.\n\nIn any event, he is going. The TV pundit Neto – who has criticised Neymar forvisiting more barbecue restaurantsthan he has starred in games – says Neymar lacks focus and fitness. “Do you see Messi injured with a calf strain, like Neymar is?,” Netoposedon a broadcast of his Os Donos da Bola programme. “No! Can you think of a muscle injury, an ankle sprain from Messi, a knee sprain, prostate problems? When did Messi go 10 days without training or miss five games in a row? Neymar, that’s all I want from you. Just that. He’s 39 years old, you’re 34. And what does Neymar do? A gender reveal party.”\n\nPereira, a known critic of the forward, takes a similar line. “Neymar shouldn’t even be in the national team,” he says. “He hasn’t played for 36 days after going 30 without touching a ball. He didn’t stand out for Santos against Recoleta of Paraguay, how will he stand out in the World Cup?”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0505_12",
+            "category": "england",
+            "type": "News",
+            "title": "Which footballers have refused to celebrate a goal against another country? | The Knowledge",
+            "bullets": [
+              "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisio...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisionismMail us with your all of your questions and answers“Sweden’s Yasin Ayari has a Tunisian father and chose not to celebrate his first goal against Tunisia (he couldn’t resist celebrating when he scored later, though). Declan Rice did something similar after scoring against the Republic of Ireland in 2024, but what is the earliest example of a player not celebrating a goal at international level because of a connection to the opposition?” asks Michael Pilcher.“I remember Breel Embolo, the Swiss international born in Cameroon, not celebrating after scoring against Cameroon at the 2022 World Cup,” replies Filippo Varanini. Continue reading...",
+            "fullText": "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisionism\n\n“Sweden’s Yasin Ayari has a Tunisian father and chose notto celebrate his first goal against Tunisia (he couldn’t resist celebrating when he scored later, though). Declan Rice did something similar after scoring against the Republic of Ireland in 2024, but what is the earliest example of a player not celebrating a goal at international level because of a connection to the opposition?”asks Michael Pilcher.\n\n“I remember Breel Embolo, the Swiss international born in Cameroon, not celebrating afterscoring against Cameroonat the 2022 World Cup,” replies Filippo Varanini.\n\nDuring a European Championship qualifying match in 2010, Mesut Özil showed restraint in his celebrations when he scored for Germany against Turkey in a 3-0 win – the former Real Madrid playmaker was born in Gelsenkirchen to Turkish immigrants. But the earliest example we can find of this particular gesture is with a teammate of Özil’s, Lukas Podolski, who scoredtwo goals against Poland, the country of his birth, at Euro 2008.\n\n“This was a difficult and emotional game for me,”he told FourFourTwo magazine in 2022. “Both the German and Polish press focused on me before it, building the pressure, and there were so many Polish fans in the ground. I didn’t celebrate, but I’m a professional and had to do what was expected of me. I support Poland on every other occasion. I was emotional before and after the game, but for 90 minutes I came to do my job for Germany.”\n\n“Two questions on Cape Verde manager Dick Advocaat,”begins Luke Carruthers.“1) He has coached eightmen’s international teams – can anybody beat that? 2) He has managed the Netherlands men’s and women’s teams at senior level. How rare is this?”\n\nThe first part has been covered ina previous Knowledgemany moons ago, but the answer is categoricallyRudi Gutendorf. Incredibly, the German’s management career lasted 53 years and took in 17 national manager jobs in charge of Chile, Bolivia, Venezuela, Trinidad and Tobago, Grenada, Antigua, Botswana, Australia, New Caledonia, Nepal, Tonga, Tanzania, Ghana, Nepal again (but we won’t count that), Fiji, Zimbabwe, Mauritius and Rwanda. Oh, and he also took charge of the Iranian and Chinese Olympic teams in 1988 and 1992, respectively. When asked once why he had managed in so many countries, the German replied: “One cannot conserve excitement.” Reader Christoph Arlick has a caveat, though. “Quite a few international sides he was in charge of did not actually play an official game during his time there,” he notes. “He was on the sidelines for Bermuda, Chile, Botswana, Australia, Nepal, Ghana, Mauritius, Zimbabwe and Rwanda across 77 games, beating Advocaat by (at least) one country.”\n\nDan Almond flags two other managers who can match or better Advocaat’s eight international jobs:Bora Milutinovic(eight: Mexico, Costa Rica, USA, Nigeria, China, Honduras, Jamaica, Iraq) andClaude Le Roy(nine: Cameroon, Senegal, Malaysia, DR Congo, Ghana, Oman, Syria, Congo, Togo), while Tom Reed puts forwardDanny McLennan(10: Philippines, Mauritius, Rhodesia [now Zimbabwe], Iran, Bahrain, Iraq, Jordan, Malawi, Fiji, Libya). “Tom Saintfiethas racked up 12 international teams (Namibia, Zimbabwe, Ethiopia, Yemen, Malawi, Togo, Bangladesh, Trinidad and Tobago, Malta, the Gambia, the Philippines, Mali) across four federations,” emails Daz Pearce. “He needs to manage countries in South America and Oceania to complete the set.”\n\nWe are fairly sure the only answer to Luke’s second question isJohn Herdman, the Englishman who managed the Canada women’s and men’s national teams between 2011-23. After the women’s team lost all three of their group games at the 2011 World Cup, many of their players were contemplating retirement. “We were completely broken,” recalled the now retired defender Emily Zurrer, who was also part of that 2015 squad. “Some of us were thinking about hanging up our boots and here’s this guy talking about being on a podium and seeing our flag rise … and very quickly he instilled that belief in us.” The following year, Canada were on that podiumearning a bronze Olympic medalat London 2012, a feat they repeated four years later in Rio. He assumed a divided men’s team in 2018 but helped Canada men to secure their first World Cup in nearly four decades in 2022. You can read more about Herdman, and his penchant for Sun Tzu quotes,here.\n\n“New Zealand’s Chris Wood and Tommy Smith are playing at their secondWorld Cup, 16 years after their first,”writes Alexander Scott. “Has any player had a longer wait between World Cup appearances?”\n\nKnowledge legend Dirk Maas swoops in here to answer this one. “No, Chris Wood has equalledFaryd Mondragón’s feat, who played for Colombia at the 1998 and 2014 World Cup. Before Mondragón, the longest wait was 12 years. Alfred Bickel (Switzerland, World Cup 1938 and 1950), Erik Nilsson (Sweden, World Cup 1938 and 1950), José Martínez Sánchez “Pirri” (Spain, World Cup 1966 and 1978), Wilfried Van Moer (Belgium, World Cup 1970 and 1982), Michael Laudrup (Denmark, World Cup 1986 and 1998), Hernán Medford (Costa Rica, World Cup 1990 and 2002), Niall Quinn (Republic of Ireland, World Cup 1990 and 2002), Santiago Cañizares (Spain, World Cup 1994 and 2006), Lee Dong-gook (South Korea, World Cup 1998 and 2010), Daniel Van Buyten (Belgium, World Cup 2002 and 2014) and Aleksandr Kerzhakov (Russia, World Cup 2002 and 2014) shared the record of the longest wait. Randall Azofeifa (Costa Rica, World Cup 2006 and 2018), Edin Dzeko and Sead Kolasinac (Bosnia and Herzegovina, World Cup 2014 and 2026), Nabil Bentaleb, Aïssa Mandi and Riyad Mahrez (Algeria, World Cup 2014 and 2026) and Lucas Digne (France, World Cup 2014 and 2026) also had to wait 12 years.”\n\nDo you know of any other examples? Send your suggestions toknowledge@theguardian.com.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-24 @ 09:09:46 EDT",
+  "lastUpdated": "2026-06-24 @ 13:05:16 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
