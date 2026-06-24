@@ -5528,10 +5528,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-24": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3125_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Elanga after Ronaldo's success: \"Must enjoy\"",
+            "bullets": [
+              "Cristiano Ronaldo struck with two goals in Portugal's World Cup defeat. His former teammate Anthony ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Cristiano Ronaldo struck with two goals in Portugal's World Cup defeat. His former teammate Anthony Elanga is enjoying himself. - Very nice, he says.",
+            "fullText": "Cristiano Ronaldo struck with two goals in Portugal's World Cup defeat.\n\nIt was in Portugal's 5–0 victory against Uzbekistan in the second group stage match that Cristiano Ronaldo scored twice.\n\nThe Swedish national team star Anthony Elanga was a teammate of the 41-year-old at Manchester United between 2021 and 2022.\n\n- I am happy for him. How old is he? You have to respect him and Lionel Messi, that they continue like this. You have to enjoy that. I can't choose between them either, says Elanga at a press conference that took place parallel to the course of the match.\n\nThe winger says he learned a lot from Ronaldo.\n\n- Both on and off the plane. How he does after training with recovery and the like. It's just a great honor to play with such players.\n\nHe is asked if, like the Portuguese giant, he will last until he is 41 years old.\n\n- Ouch, we'll see. I'm only 24 now, he says with a laugh.\n\nAnthony Elanga left Man United in 2023 and spent two years at Nottingham before making the move to his current club Newcastle.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3127_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Felicia Schröder to Real Madrid - becoming the most expensive of all time",
+            "bullets": [
+              "After months of rumours, it's clear: Felicia Schröder leaves BK Häcken as the world's most expensive...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After months of rumours, it's clear: Felicia Schröder leaves BK Häcken as the world's most expensive women's soccer player. SVT Sport was there when the 19-year-old signed for Real Madrid today. - If the gut feeling didn't feel right, I wouldn't have chosen this, says Felicia Schröder outside the Santiago Bernabeu stadium.",
+            "fullText": "After months of rumours, it's clear: Felicia Schröder leaves BK Häcken as the world's most expensive women's soccer player.\n\nSVT Sport was there when the 19-year-old signed for Real Madrid today.\n\n- If the gut feeling didn't feel right, I wouldn't have chosen this, says Felicia Schröder outside the Santiago Bernabeu stadium.\n\nThe interest in the past year has been enormous and the offers have been numerous.\n\nNow, however, it is clear that BK Häcken and Felicia Schröder agree with the Spanish big club Real Madrid.\n\nOn Tuesday, the contract was signed, after the mandatory medical check-up.\n\nFelicia Schröder says that it was a difficult decision, as several big clubs showed interest. But that she feels safe with her choice.\n\n- The plan that the club laid out for me felt right and I think I will thrive in the climate, she says.\n\nThe transfer sum is still secret, but SVT Sports sources confirm that it is a new world record, i.e. over 15 million Swedish kronor.\n\n- It's not something I think about, but it shows that women's football is moving forward, says Felicia Schröder.\n\n- It is a historic sale that strengthens both women's football and BK Häcken's position internationally. And there is a sense of pride in having had such a good player and talent in BK Häcken, which we managed in a good way, says football manager Martin Ericsson.\n\nNow awaits a tearful farewell with the teammates in BK Häcken before the move starts this summer. Felicia Schröder has already started practicing Spanish.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3129_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Rush for new TVs during the World Cup",
+            "bullets": [
+              "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens and more hertz to see as well as possible, according to merchants who are seeing a clear increase.",
+            "fullText": "More people choose to buy a new TV before the soccer World Cup. Customers want both bigger screens and more hertz to see as well as possible, according to merchants who are seeing a clear increase.\n\nThe Soccer World Cup has caused many to upgrade their television to an even bigger and faster one in order to get the best possible picture. Eight out of ten customers mention that the soccer World Cup is the reason for the new purchase, according to Ammar Skatni, who is a department manager at Elgiganten.\n\n- As football goes so fast and it is a small ball that moves very quickly, it is good to have the right hertz.\n\nThere are no exact figures on sales yet, but the tendency is clear, according to several TV sellers that SVT spoke to.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-23 @ 19:02:28 EDT",
+  "lastUpdated": "2026-06-24 @ 01:31:29 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
