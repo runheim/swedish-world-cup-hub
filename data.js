@@ -4,6 +4,18 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ World Cup 2026: Scotland on brink after Brazil defeat, EFL fixtures announced, and more – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live"
+    },
+    {
+      "text": "⚽ Socceroos look to Paraguay ‘challenge’ with World Cup fate in their own hands",
+      "link": "https://www.theguardian.com/football/2026/jun/25/socceroos-australia-paraguay-game-permutations-last-32-world-cup"
+    },
+    {
+      "text": "⚽ How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings",
+      "link": "https://www.theguardian.com/football/2026/jun/25/mauricio-pochettino-usa-turkey-world-cup-preview"
+    },
+    {
       "text": "⚽ Australia forced into changes for crucial World Cup group game against Paraguay",
       "link": "https://www.theguardian.com/football/2026/jun/24/australia-changes-world-cup-paraguay"
     }
@@ -3334,11 +3346,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1331_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Scotland on brink after Brazil defeat, EFL fixtures announced, and more – live",
+            "bullets": [
+              "⚽ Latest news from day 15 | Knockout permutations⚽ World Cup Q&amp;A: post your questions for our US...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ Latest news from day 15 | Knockout permutations⚽ World Cup Q&amp;A: post your questions for our US team⚽ Player guide | Bracketology | Golden Boot | Mail TomMauricio Pochettino’s US team are having a great time at home – but the last couple years haven’t been all that easy, writes Jeff Rueter.For more permutations chat, click below: Continue reading...",
+            "fullText": "Hello, hello, hello.I welcome you back with some #OnThisDay #content. It’s 48 years to the day Argentina won theWorld Cupfor the first time, beating the Netherlands 3-1 in the final. But forget the actual game: this is a great read.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1331_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Socceroos look to Paraguay ‘challenge’ with World Cup fate in their own hands",
+            "bullets": [
+              "Australia only need a draw to finish as Group D runners-up but head coach Tony Popovic insists the t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Australia only need a draw to finish as Group D runners-up but head coach Tony Popovic insists the team will go into the crunch clash ‘to win’⚽️ How to watch the World Cup in Australia⚽️ Player guide | Daily podcast | World Cup newsletterThe Socceroos are on the brink of a landmark achievement, a place in the World Cup knockout rounds for only the third time.“It’s a wonderful challenge, it’s what we’re here for,” said coach Tony Popovic on the eve of the match in Santa Clara, on the south-eastern edge of the San Francisco Bay Area. “We know it’s in our hands, and we know what a win does for us tomorrow.” Continue reading...",
+            "fullText": "Australia only need a draw to finish as Group D runners-up but head coach Tony Popovic insists the team will go into the crunch clash ‘to win’\n\n⚽️How to watch the World Cup in Australia⚽️Player guide|Daily podcast|World Cup newsletter\n\nThe Socceroos are on the brink of a landmark achievement, a place in theWorld Cupknockout rounds for only the third time.\n\n“It’s a wonderful challenge, it’s what we’re here for,” said coach Tony Popovic on the eve of the match in Santa Clara, on the south-eastern edge of the San Francisco Bay Area. “We know it’s in our hands, and we know what a win does for us tomorrow.”\n\nIn fact, a draw will be enough for the Socceroos to secure a favourable last-32 clash with Belgium, Iran, Egypt or even New Zealand in Dallas with seven days’ rest. A win would see them sailing into that fixture, their confidence restored after the shock of that sluggish first half performance against the USA.\n\n“Overall, we’ve had three very good halves of football. We had one bad half of football and we got punished for that,” Popovic said. “That’s the World Cup, and that’s the detail of the World Cup.”\n\nThe detail in this, the biggest World Cup ever, is easy to get bogged down in. A defeat for the Socceroos would mean they still likely qualify for the knockout rounds, as one of the best third-placed teams – as long as any loss is not a thrashing. But a highly fancied team that finishes in top spot in Group E (already confirmed as Germany), Group I (currently France) or Group K (currently Colombia) would then be standing in the way.\n\nThe results on Thursday helped add pieces to the qualification puzzle. Scotland’s 3-0 defeat to Brazil meant they finished third in Group C, with three points and a goal difference of -3. Australia would have to lose by four goals to drop below the Scots, and with draws dominating other groups some third-place teams will struggle to even reach three points. After the first three groups were finalised on Thursday, Australia were projected to qualify in more than 93% of simulations run by data agency Opta.\n\nPermutations, however, are not something the Socceroos are considering. “Look, we haven’t thought about the game in that way at all,” Popovic said. “We’re going into the game tomorrow to win. I expect they’ll be doing the same.”\n\nParaguay coach Gustavo Alfaro described the match as a “final” for his team. “Of course we understand we are the team ranked lower by Fifa, but that doesn’t mean I feel inferior to them,” he said.\n\nThe 63-year-old held court for more than 40 minutes in the traditional pre-match press conference. To a room full of Paraguayan media – outnumbering the Australians by at least two-to-one – he spoke of the different challenge posed by Australia compared to the other group opponents Turkey and the USA, and highlighted the Socceroos’ strengths with their height and defensive organisation.\n\n“There will be little spaces in the match, it will be complex to find the space to move up where you have a high density of players in certain parts,” Alfaro said. “You need patience and more patience.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1332_2",
+            "category": "usa",
+            "type": "News",
+            "title": "How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings",
+            "bullets": [
+              "The former Tottenham coach experienced three body blows early in his tenure with the US, each contri...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The former Tottenham coach experienced three body blows early in his tenure with the US, each contributing to the solid World Cup to comeTears welled in Mauricio Pochettino’s eyes. His US team had just lost the 2025 Gold Cup final in a hard-fought match to determine the regional crown. To make matters worse they had been beaten by Mexico, their arch-rivals.Were they tears of sadness, of frustration at the result? Perhaps in part. But as Pochettino explained this week, these were also tears of empathy for his players. They had just played a tournament final. In Houston, one of the largest metro areas in the United States. Continue reading...",
+            "fullText": "The former Tottenham coach experienced three body blows early in his tenure with the US, each contributing to the solid World Cup to come\n\nTears welled in Mauricio Pochettino’s eyes. His US team had justlost the 2025 Gold Cup finalin a hard-fought match to determine the regional crown. To make matters worse they had been beaten by Mexico, their arch-rivals.\n\nWere they tears of sadness, of frustration at the result? Perhaps in part. But as Pochettino explained this week, these were also tears of empathy for his players. They had just played a tournament final. In Houston, one of the largest metro areas in the United States.\n\nAnd yet, the crowd was hostile, visibly and vocally in favor of their rival.\n\nAt past stops, such scenes would have been unfathomable; as if Tottenham’s stadium were filled almost entirely with Arsenal shirts on derby day. One year out from theWorld Cup, Pochettino had received a reality check not just about how far his program had to go to make a World Cup run, but also the unique and at times disadvantageous position his players occupied in their home country’s sporting landscape.\n\n“Being honest, maybe we didn’t feel or see [how] difficult the process [would be] … We were so naive,” Pochettino said this week. “We misjudged the situation. It was worse than we really believed. … When we arrived here, we received a big bang, punch, and we were knocked out for a while. We said: ‘What the fuck?’”\n\nThe “punch” he referred to actually came months before the Gold Cup heartbreaker, the first of three setbacks that have shaped the path of this US team.\n\nAnd yet those setbacks led them here. This US side have gotten results early at the 2026 World Cup and established themselves as one of the most eye-catching outfits in the field. With two wins and a 6-1 combined scoreline, they have secured top spot in their group and may now enjoy the luxury (or curse, depending on how you look at it) of playing a World Cup game with no stakes. The home environments have been raucous and, players and Pochettino say, have propelled the team to their wins.\n\nThis, inarguably, is the program’s high point under Pochettino. But to get there, they studied at the school of hard knocks.\n\nIn March 2025, the US’s task in the Concacaf Nations League seemed straightforward: get past Panama in the semi-final before their usual regional final against Mexico or Canada. A newfangled competition launched in 2019-20, the US had won its first three installments.\n\nThe US struggled to threaten a well-organized Panama who were playing with passion. And on top of that, they faced the opposite problem they would encounter months later in Houston: nobody was there to watch.\n\n“It was empty,” Pochettino reflected. “You remember the game, Panama? It was the Mexican people [in the stands] because they played after us.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1332_3",
+            "category": "usa",
+            "type": "News",
+            "title": "Australia forced into changes for crucial World Cup group game against Paraguay",
+            "bullets": [
+              "Italiano and Leckie out from side that played USAWin or a draw will secure second place⚽️ How to wat...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Italiano and Leckie out from side that played USAWin or a draw will secure second place⚽️ How to watch the World Cup in Australia⚽️ Player guide | Daily podcast | World Cup newsletterAustralia will be forced to make changes for their final World Cup group match against Paraguay in Santa Clara on Thursday (Friday 5am AEST), after a second player from their starting XI against the USA was ruled out with an injury.The right-back Jacob Italiano picked up an adductor injury at training this week and will miss the Group D finale, joining the winger Mat Leckie, who suffered a hamstring strain against the USA. Continue reading...",
+            "fullText": "⚽️How to watch the World Cup in Australia⚽️Player guide|Daily podcast|World Cup newsletter\n\nAustralia will be forced to make changes for their final World Cup group match against Paraguay in Santa Clara on Thursday (Friday 5am AEST), after a second player from theirstarting XI against the USAwas ruled out with an injury.\n\nThe right-back Jacob Italiano picked up an adductor injury at training this week and will miss the Group D finale, joining the winger Mat Leckie, who suffered a hamstring strain against the USA.\n\nTony Popovic remained coy over their replacements. “We’re always considering all possibilities because we’ve always shown faith in every player that’s here,” the coach said. “Since we’ve started this journey, every player that’s in our squad knows he has a chance of playing and that’s no different for tomorrow.”\n\nJason Geria, who played on the right of central defence in the second half against the USA, and Kai Trewin – who started for the Socceroos at full-back in the warm-up match against Switzerland – are the most likely replacements, but Popovic did not rule out a change to his system.\n\nMore conjecture surrounds the replacement for Leckie. Nestory Irankunda, Connor Metcalfe and Cristian Volpato – who starred in the final half an hour against the USA – have made strong claims for selection.\n\nPopovic was asked directly about the benefits of playing the fan favourite Irankunda from the start, compared with bringing him off the bench, but he declined to elaborate on his thought process. “We’ll keep that at the basic level of analysis, which is, people are happy if a player plays and people are unhappy if they see a player they like that doesn’t play,” he said.\n\n“We played nine players [against the USA] that played the first match so we’re more disappointed in the performance, not so much in who played and who didn’t play. We improved that performance in the second half, which really pleases us, and the players that came on made an impact.\n\n“Whoever starts tomorrow I know can build a strong foundation and whoever comes on can finish what we’ve started.”\n\nGet a daily roundup of the latest sports news, features and comment from our Australian sports desk\n\nThe Socceroos will secure second place with a win or a draw against Paraguay, who are missing the suspended Miguel Almirón. The winger, who spent six years at Newcastle in the remier League, was sent off for covering his mouth in a confrontation during his side’s1-0 victory over Turkey.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-25 @ 01:34:29 EDT",
+  "lastUpdated": "2026-06-25 @ 09:13:46 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
