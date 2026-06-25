@@ -4,16 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ James and Rice miss training in preparation for Panama",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Anderson's journey to England star and potential record signing",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Why it's time for Saka and Rashford - Shearer",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwyl7dpnx1no?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Scotland keeper Gunn on Man Utd radar - Thursday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9v273npglmo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Ecuador v Germany: World Cup 2026 – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/25/germany-v-ecuador-world-cup-2026-live"
     },
     {
       "text": "⚽ The great paradox of Scotland’s World Cup. The fans, superb. The team? Dismal | Ewan Murray",
@@ -11704,11 +11704,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1819_0",
+            "category": "england",
+            "type": "News",
+            "title": "James and Rice miss training in preparation for Panama",
+            "bullets": [
+              "England's Reece James and Declan Rice miss England's penultimate training session before Panama with...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Reece James and Declan Rice miss England's penultimate training session before Panama with injury concerns.",
+            "fullText": "Declan Rice and Reece James have started both of England's games at the World Cup\n\nReece James missed training with England on Thursday which has thrown his fitness into doubt for the Three Lions' final Group L game against Panama.\n\nThe 26-year-old right-back suffered a hamstring issue in thegoalless draw with Ghana on Tuesdayand did not train with his team-mates in England's penultimate session before Saturday's game (22:00 BST).\n\nIt now remains to be seen if the Chelsea defender is fit enough to start or be an option from the bench in the final group game at New York New Jersey Stadium.\n\nJames is a key member of the starting XI under manager Thomas Tuchel and has been selected in both World Cup games so far.\n\nDeclan Rice, who left Boston Stadium after the Ghana draw with strapping on his left calf, was also absent from Thursday's session at England's training base in Kansas City.\n\nBut sources indicate the 27-year-old midfielder's fitness is less of a concern.\n\nIt remains to be seen if Tuchel is willing to start Rice - particularly given he is at risk of suspension for the round of 32 after he was booked against Ghana.\n\nEngland are ahead of Ghana in Group L by virtue of one goal and lead Croatia -who they beat 4-2 in their first game- by a point.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1819_1",
+            "category": "england",
+            "type": "News",
+            "title": "Anderson's journey to England star and potential record signing",
+            "bullets": [
+              "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side and is now on the brink of...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side and is now on the brink of a big money move to Manchester City.",
+            "fullText": "Elliot Anderson has become an integral figure in England head coach Thomas Tuchel's World Cup plans\n\nElliot Anderson was the schoolboy footballer so good his teachers discussed placing a bet on him playing for England.\n\nThe bet was never made - but Thomas Tuchel is backing him to be a winner at the World Cup and Manchester City are doing the same afteragreeing a club record Â£116mto sign him from Nottingham Forest.\n\nAnderson's journey from the playing fields of Tyneside to the World Cup stage will continue at Etihad Stadium after transfer talks were finally successfully concluded between Forest and City.\n\nThe midfielder is the one that painfully got away from Newcastle United but is still revered and respected in his home city as the \"quiet and self-effacing\" local boy made good.\n\nNewcastle United manager Eddie Howe called Anderson's Â£30m sale to Nottingham Forest in July 2024 \"the most reluctant in my career\", a dealeffectively forced on the Magpiesbecause they feared they were going to break profit and sustainability rules (PSR) and incur a points deduction following years of imbalanced trading.\n\nThe sense of loss has become more acute as the 23-year-old emerged as a central component in England's World Cup plans - head coach Tuchel calls him \"the full package\". He is on course to assume the same role at Manchester City once the transfer's formalities are completed.\n\nIt is also felt by Scotland, who hoped Anderson would play for the country as he has a Scottish grandmother. He was called up for the Euro 2024 qualifier in Cyprus and a friendly with England in September 2023, having represented the Scots at under-21 and junior level, only to pull out through injury before pledging allegiance to England.\n\nIt is all a far cry from the young Geordie who used to kick a ball around with his elder brothers before emerging as an outstanding young player at Valley Gardens Middle School, then at the famous Wallsend Boys' Club, where Alan Shearer, Peter Beardsley and Michael Carrick honed their trade.\n\nWatch on BBC One, BBC iPlayer and the BBC Sport website and app from 20:00 BST and listen to commentary on BBC Radio 5 Live and BBC Sounds. Live text commentary, analysis and video highlights on the BBC Sport website and app.\n\nAnderson's first steps in football came playing with his two elder brothers Louie and Wil, the latter gaining prominence as a contestant on reality TV show Love Island.\n\nJonathan Roys, Anderson's former English and PE teacher at Valley Gardens, who was also his head of year, told BBC Sport: \"His brothers had been through the school and I played against his dad. His brothers were decent, but I think being the youngest of three he was used to getting bossed about a little bit, but he took no quarter off anybody. He'd get stuck right in.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1819_2",
+            "category": "england",
+            "type": "News",
+            "title": "Why it's time for Saka and Rashford - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as wel...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.",
+            "fullText": "History shows us why there is no need to panic about England's draw with Ghana on Tuesday, but also underlines why it is important we immediately bounce back.\n\nSince 2006, every World Cup winner has dropped points in their first or second group game - but what they have also done each time is go on to win their group.\n\nI am confident England will do that too, by beating Panama on Saturday, but I would not be surprised if Thomas Tuchel makes three or even four changes to his team after such a disappointing result and performance.\n\nSubstitute Rashford scores England's fourth against Croatia\n\nProbably the biggest call for Tuchel is what he does with his wingers.\n\nI didn't think Anthony Gordon or Noni Madueke were positive enough against Ghana. By that I mean they didn't attack their defender enough when we got the ball out to them out wide.\n\nTheir crossing was really poor as well, and often it didn't beat the first man. Our delivery from set-pieces was not great either, but in open play the service from the wingers was pretty much non-existent.\n\nThat's why I think Tuchel will change it up, and Bukayo Saka and Marcus Rashford have definitely done enough when they have come on in both games to get a chance to start.\n\nSaka's fitness is surely the only reason he hasn't started either game so far, but if he's ready this time then he would come in on the right, with Rashford on the left.\n\nWhat I want to see from both of them is more energy and to be more direct in one against one situations by trying to go past players.\n\nThere also needs to be more forward passing rather than taking the easy option by going sideways or backwards.\n\n'Anxious moment for England'  - should this have been a penalty for Ghana?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1819_3",
+            "category": "england",
+            "type": "News",
+            "title": "The great paradox of Scotland’s World Cup. The fans, superb. The team? Dismal | Ewan Murray",
+            "bullets": [
+              "A mess against Brazil, Steve Clarke’s side are in purgatory, hanging around as a faint hope of a pla...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A mess against Brazil, Steve Clarke’s side are in purgatory, hanging around as a faint hope of a place in the last 32 lives onThe sad thing is that in a matter of weeks, this will all have been ­forgotten. The intensely tribal nature of Scotland’s football domain means that a new domestic campaign will lead to scratching, swearing and ­howling that will dominate for months on end. Some may argue it will be wise to banish thoughts of Scotland’s participation in this World Cup. It should serve as a much-needed line in the sporting sand.The psychological, societal and commercial benefits to Scotland have been borne out in recent weeks. Not only has the tournament captured hearts and minds in Scotland, but the Tartan Army has done likewise across the United States. Continue reading...",
+            "fullText": "A mess against Brazil, Steve Clarke’s side are in purgatory, hanging around as a faint hope of a place in the last 32 lives on\n\nThe sad thing is that in a matter of weeks, this will all have been ­forgotten. The intensely tribal nature of Scotland’s football domain means that a new domestic campaign will lead to scratching, swearing and ­howling that will dominate for months on end. Some may argue it will be wise to banish thoughts ofScotland’s participation in this World Cup. It should serve as a much-needed line in the sporting sand.\n\nThe psychological, societal and commercial benefits toScotlandhave been borne out in recent weeks. Not only has the tournament captured hearts and minds in Scotland, but the Tartan Army has done likewise across the United States.\n\nScottish people, self-deprecating as standard, should take a morale-boost from football ­supporters ­acting as such wonderful ambassadors for their country.\n\nHere lies the great paradox of this World Cup. Scottish fans, superb. The Scottish team? Dismal. They wereblunt against Haiti, needlesslycautious against Moroccoand amess when facing Brazil.\n\nScotland find themselves in ­purgatory, hanging around in North Carolina as a faint hope of ­progression to the last 32 lives on, but even those within the camp seem willing to admit their contribution to this ­tournament deserves nothing more than a flight home. Possession has looked an alien concept to the Scots.\n\nSteve Clarke bears the brunt of criticism. There exists a noisy group who never liked the manager and an increasing number of people feel he has outstayed his welcome, ­having been in position since 2019. Even by their own low standards of decision-making, the Scottish FA’s move to affordClarke a four-year contract extensionbefore a ball was kicked in the World Cup was an ­extraordinary one. He was portrayed as cock-a-hoop when he arrived in the US; no wonder.\n\nScott McTominay’s performances have been dreadful. Not that he has been asked to explain them, such is his curious absence from routine media duties. John McGinn has failed to bring his Aston Villa level to ­tournament football once again.\n\nThis can hardly be pinned on Clarke. Being kind to both players, perhaps the drop in standard from club level teammates causes them significant difficulties.\n\nClarke has his own themes to address. That his team scored a single goal against Haiti in game one always looked hazardous. The deployment of Kieran Tierney on the left side of midfield – a switch that came totally out of the blue – for the Morocco ­fixture did not work. Lawrence Shankland, potent, but not known for his athleticism, was an odd choice as the sole striker in suffocating Miami heat against Brazil.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThat said, Bart Simpson could have played in the position such was the lack of opportunity provided. Clarke’s offhand nature in broadcast interviews does him no credit either.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1819_4",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup becomes cult of the individual but ignores team complexity | Jonathan Liew",
+            "bullets": [
+              "The irony of the superstar-heavy narrative is the way it embellishes rather than diminishes importan...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The irony of the superstar-heavy narrative is the way it embellishes rather than diminishes importance of the collective“Cristiano Ronaldo’s record-equalling sixth World Cup got off to a disappointing start,” began the Reuters match report of Portugal’s 1-1 draw against the Democratic Republic of the Congo last week. And yes, OK: everyone knows how this game works and why everyone plays it. On one hand, perhaps the greatest sporting day in the history of the world’s 15th most populous country. On the other, 41-year-old man does not score. It’s no contest, really. Get those sweet keywords front and left. Harvest that delicious search traffic. Perhaps you even noticed how I just did exactly the same thing.And yet something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked. France do not beat Iraq; instead Kylian Mbappé throws down the gauntlet to Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (Can Lionel Messi lift the one trophy he hasn’t won yet?) Continue reading...",
+            "fullText": "The irony of the superstar-heavy narrative is the way it embellishes rather than diminishes importance of the collective\n\n“Cristiano Ronaldo’s record-equalling sixth World Cup got off to a disappointing start,” began the Reuters match report of Portugal’s 1-1 draw againstthe Democratic Republic of the Congolast week. And yes, OK: everyone knows how this game works and why everyone plays it. On one hand, perhaps the greatest sporting day in the history of the world’s 15th most populous country. On the other, 41-year-old man does not score. It’s no contest, really. Get those sweet keywords front and left. Harvest that delicious search traffic. Perhaps you even noticed how I just did exactly the same thing.\n\nAnd yet something does feel qualitatively different this summer: a tectonic shift driven partly by events on the pitch and partly at the behest of the industry itself. This is a World Cup swimming in star names, and never have those star names been so unapologetically, unquestioningly invoked.France do not beat Iraq; instead Kylian Mbappéthrows down the gauntletto Erling Haaland, Harry Kane and the rest. According to Google, Miroslav Klose’s goals record has been searched more at this tournament than in the year he set it. At times the group phase has felt like an inconvenient distraction from the real business of the Golden Boot race. (Can Lionel Messi lift the one trophy he hasn’t won yet?)\n\nIt was once the case that individual achievement facilitated team glory. Now the reverse appears to be true. Messi doesn’t win the World Cup for Argentina;they win it for him. A Portugal triumph would be an extraordinary achievement for a country of 10 million people: the ultimate vindication of a footballing culture, a talent-scouting and youth-development system, a coaching tradition stretching back to the tactical periodisation movement pioneered four decades ago. All of which would ultimately be subsumed by the (admittedly impressive) achievement of how a ludicrously successful and lavishly adored man became even more successful and adored.\n\nBut of course, the veneration of the individual goes well beyond the headline players. Unsung heroessuch as Vozinhaand Eloy Room have been anointed as the sole architects of their team’s achievements. David Beckham has been more visible at this tournament than some of the World Cups he played in. Zlatan Ibrahimovic on Fox Sports (two World Cups, zero goals) has been the king of the vertical video snippet. Even those who don’t want to be singled out end up singled out: witness Marcelo Bielsa’s viral official portrait, in which he stares solemnly downwards like a folk singer about to drop an album of painfully confessional acoustic ballads.\n\nNone of this is accidental. Nor, as you might suspect, is it entirely driven by the rise of algorithm-generated media, or “giving the kids what they want”. The peculiar dynamics of modern international football, with its more random spread of talent and relative lack of training time, explain only so much. In large part it is the product of lots of little decisions, accumulating to a hyperfixation on individuals in what is putatively a team game. The rise of the cinema-style television camera, blurring out everything in the background and focusing the gaze on a single object, is perhaps the perfect emblem of where the game is heading.\n\nThe last 32 will bring the introduction of more isolated player cameras. Directors take every opportunity to cut away from the action to show us celebrities, individual fans, another lingering shot ofGianni Infantinodeep in conversation, perhaps having the laws of the game explained to him again. And on a broader level, a game increasingly disrupted by stoppages – video assistant referees, substitutions, hydration breaks – is thus more likely to be defined by single acts of explosive brilliance.\n\nPerhaps this is simply a hallmark of our increasingly narcissistic age. The athlete as influencer. The fan as participant. The president ofFifaas the director/writer/producer/star of his own movie: like Citizen Kane if you stripped out all the dialogue, played Macarena over the top, extended it to four hours and set it half a mile from the surface of the sun. And of course you realise that for Infantino this must be how he conceives football in its most perfectly realised form: football for the Truth Social age, football x IShowSpeed, the latest season of Keeping Up With The Footballs.\n\nAnd if this is what floats your boat then fair enough. The customer is always right, and all that. But what happens to the product itself when we are encouraged to consume it entirely through the prism of the individual? What are the stories that go untold, the angles that remain underexplored?\n\nPerhaps the irony of the modern, superstar-heavy narrative is the way it embellishes rather than diminishes the importance of the collective. Only when surrounded by a team more than the sum of its parts could Ronaldo triumph in 2016, Mbappé in 2018, Messi in 2022, Haaland with Manchester City in 2023. One of the upshots of Diego Maradona cultural worship is that the 1986 Argentina team he played with – Jorge Burruchaga, Sergio Batista, Oscar Ruggeri – have become some of the most underrated players inWorld Cuphistory.\n\nAnd so it is possible to see football’s cult of the individual not simply as an aesthetic choice but as a kind of wilful stupidisation. Player X does Player X things: easy. Explaining football through the complexity of 22 players interacting with each other on a pitch, the tactics and relationships, the collective history and identity and trauma, the way coaches render abstract thought into physical action: hard. But also, part of why the simplest sport is also the most beautiful.\n\nThe more you look, the more you find. The more you find, the more you learn. The more you learn, the more you understand. The more you understand, the more you love. But then, what if you don’t want to look at all?",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1820_5",
+            "category": "england",
+            "type": "News",
+            "title": "Fidalgo caps Mexico rout as co-hosts maintain 100% record and send Czechia out",
+            "bullets": [
+              "There are ways of leaving a tournament. You can go out with a sheen of glory, having gone toe-to-toe...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There are ways of leaving a tournament. You can go out with a sheen of glory, having gone toe-to-toe with a great opponent. You can be unlucky and go home raging at referees and the fates. You can self‑immolate in a blaze of red cards or own goals or spectacular errors.Or you can slink away without leaving a trace – and that was the path followed by Czechia. Nobody in 20 years will remember they were involved in this World Cup, other perhaps than Ireland fans reflecting on what a mess Czechia made of the place they pinched from them in the playoffs. Continue reading...",
+            "fullText": "There are ways of leaving a tournament. You can go out with a sheen of glory, having gone toe-to-toe with a great opponent. You can be unlucky and go home raging at referees and the fates. You can self‑immolate in a blaze of red cards or own goals or spectacular errors.\n\nOr you can slink away without leaving a trace – and that was the path followed by Czechia. Nobody in 20 years will remember they were involved in thisWorld Cup, other perhaps than Ireland fans reflecting on what a mess Czechia made of the place they pinched from them in the playoffs.\n\nA win would probably have takenCzechiathrough but that never looked likely. Czechia’s head coach, Miroslav Koubek, left out two of his most experienced campaigners in Patrik Schick and Tomas Soucek, and the way was left clear for a 17‑year‑old to control the game.\n\nSoucek did come on, but then landed awkwardly and left the field in obvious distress. There had been calls for Gilberto Mora to start Mexico’s first two games of the tournament, and it was easy to see why. He had impressed even before playing a part in the first twoMexicogoals.\n\nMora, the youngest player to start a World Cup match since Nigeria’s Femi Opabunmi in 2002 and the sixth-youngest of all time, looks impossibly small, even for somebody only 17 years, seven months and 28 days old. When he was born in October 2008, the collapse of Lehman Brothers was already a month in the past. Mora is only 5ft 6in, and slight with it; Northern Ireland’s Norman Whiteside, who remains the youngest player in World Cup history, would have towered over him despite being six and a half months younger when he set the record in Spain in 1982.\n\nWhat marks out Mora is his touch. One turn, just after the first‑half hydration break, taking the ball with the outside of his right foot and spinning away from traffic, had an air of Lionel Messi about it, not just in terms of the technique but the scurrying gait. It was his pass to Luis Romo six minutes into the second half that carved open the Czechia defence for the first time, but the midfielder whogot the winner against South Korearather rushed his cross and the chance was lost.\n\nMora is enormously popular and understandably so, the general hubbub transforming into rumblings of anticipation every time he got the ball. Fans expect him to succeed, and they want him to succeed. When he went off after 72 minutes, it was to a standing ovation.\n\nFive minutes later there was a similar ovation for the introduction from the bench of the goalkeeper Guillermo Ochoa, a month shy of his 41st birthday, appearing in his sixth World Cup and becoming the sixth-oldest player in World Cup history. The Mexico head coach, Javier Aguirre, called this “the night of Memo Ochoa”.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe left-back Mateo Chávez got the first goal, surging through in the inside-right channel and finishing calmly 10 minutes into the second half. That was Czechia pretty much done, and they were finished off six minutes later by another run from a full-back. This time it was Jorge Sánchez who broke through and, when an attempted clearance cannoned off his tumbling body, Julián Quiñones tucked in his second of the tournament. Álvaro Fidalgo, on as a substitute, slammed in a third in injury time.\n\nAguirre was in the Mexico side that defeated Iraq 1-0 at the Azteca to reach the knockout stage at the 1986 World Cup tournament, but he described this night as “the most emotional moment” of his career. “Forty years ago, something similar happened,” he said, “but now I’m older and more sensitive.”\n\nWith Mexico already guaranteed to top the group thanks to head‑to‑head replacing goal difference as the primary means of separating sides level on points, Aguirre had made five changes to his lineup. Mora’s inclusion was the headline, but César Montes returned to the heart of the defence after suspension. Although Raúl Jiménez stood aside for Guillermo Martínez, fears that Aguirre might rest the majority of his team and so impinge on the integrity of the tournament proved happily unfounded. Mexico were far too good for Czechia.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1820_6",
+            "category": "england",
+            "type": "News",
+            "title": "Neville: Rogers should replace Gordon against Panama",
+            "bullets": [
+              "Gary Neville believes that Morgan Rogers should come into the England team for the game against Pana...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gary Neville believes that Morgan Rogers should come into the England team for the game against Panama in place of Anthony Gordon but is otherwise preaching calm after a frustrating goalless draw against Ghana at the World Cup.",
+            "fullText": "Speaking to Sky Sports News, Gary Neville explains why he would drop Anthony Gordon and start Morgan Rogers on the left wing for England against Panama. Neville also discusses the Cole Palmer question and why Declan Rice is a World Cup worry...",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-25 @ 16:29:41 EDT",
+  "lastUpdated": "2026-06-25 @ 19:18:22 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
