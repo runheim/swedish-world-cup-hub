@@ -4,7 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Football fans charge at Böda Sand - but must not cheer if there is a goal: \"Celebrate quietly\"",
+      "text": "⚽ Confirmed: Sweden makes changes to the starting eleven",
+      "link": "https://www.svt.se/sport/fotboll/svt-sport-erfar-sverige-har-tranat-for-andringar-i-elvan"
+    },
+    {
+      "text": "⚽ The football fans charge at Böda Sand - but must not cheer if there is a goal: \"Celebrate silently\"",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/fotbollsfansen-laddar-pa-boda-sand-men-far-inte-jubla-om-det-blir-mal-fira-tyst"
     },
     {
@@ -30,6 +34,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Graham Potter opens up about changes in the eleven: \"Maybe\"",
       "link": "https://www.svt.se/sport/fotboll/graham-potter-oppnar-for-forandringar-i-elvan-kanske"
+    },
+    {
+      "text": "⚽ Manchester City agree £116m fee with Nottingham Forest for Elliot Anderson",
+      "link": "https://www.theguardian.com/football/2026/jun/25/manchester-city-agree-british-record-130m-fee-with-nottingham-forest-for-elliot-anderson"
     }
   ],
   "timeline": {
@@ -6400,11 +6408,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1105_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Confirmed: Sweden makes changes to the starting eleven",
+            "bullets": [
+              "Graham Potter changes Sweden's starting eleven. Just as SVT reported earlier today, they change goal...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Graham Potter changes Sweden's starting eleven. Just as SVT reported earlier today, they change goalkeepers and Victor Nilsson Lindelöf starts in midfield. - It is remarkable, says SVT's expert Magnus Eriksson.",
+            "fullText": "Just as SVT reported earlier today, they change goalkeepers and Victor Nilsson Lindelöf starts in midfield.\n\n- It is remarkable, says SVT's expert Magnus Eriksson.\n\nAhead of tonight's fateful match against Japan, national team captain Graham Potter has received many questions about whether he plans to make changes to Sweden's starting eleven.\n\nPotter has responded cryptically, sticking to the principle of not revealing anything.\n\nBut in recent days of closed training, the national team has prepared to make extensive changes.\n\nSVT learns that tonight's Swedish starting line-up may look completely different from the one that was fielded against Tunisia and the Netherlands.\n\nBased on how Sweden has trained over the past few days, a goalkeeper change can reportedly be expected. In such cases, Jacob Widell Zetterström had taken Kristoffer Nordfeldt's place between the posts. In addition, Victor Nilsson Lindelöf can take a step up in the defensive midfield.\n\nIn Wednesday's match-preparatory training, Elliot Stroud also played as the regular left wing-back, while Gabriel Gudmundsson stepped down into the centre-back line. In addition, Anthony Elanga took a place in the attack together with Alexander Isak and Viktor Gyökeres.\n\nThe changes would mean that Kristoffer Nordfeldt, Jesper Karlström and Benjamin Nygren are benched.\n\nUpdate: When the official eleven was released 90 minutes before kick-off, SVT's information was confirmed.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1109_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The football fans charge at Böda Sand - but must not cheer if there is a goal: \"Celebrate silently\"",
+            "bullets": [
+              "Is it possible to be quiet if Sweden scores a goal? At the Böda Sands campsite on Öland, Sweden's ma...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Is it possible to be quiet if Sweden scores a goal? At the Böda Sands campsite on Öland, Sweden's match against Japan will be shown on a big screen, but the fans will have to keep the sound level low so as not to disturb other camping guests because it is broadcast in the middle of the night.",
+            "fullText": "Is it possible to be quiet if Sweden scores a goal? At the Böda Sands campsite on Öland, Sweden's match against Japan will be shown on a big screen, but the fans will have to keep the sound level low so as not to disturb other camping guests because it is broadcast in the middle of the night.\n\nSVT tested the campsite's guests - that's what a silent goal cheer sounds like\n\nAt 01:00 on the night between Thursday and Friday, Sweden meets Japan in the decisive group stage match in the World Cup. At Böda Sands campsite, the match will be shown on a big screen at the stage for everyone who lives at the campsite and who does not want to check in their caravans.\n\nBut if Sweden scores, it must be celebrated in silence. After 11 p.m., the campsite must be quiet. Therefore, the sound level of the broadcast will also be lower than usual.\n\n\"Think of cheering quietly at goals and wins and going home quietly after the game so that all the children can sleep soundly all night,\" writes the campsite on social media.\n\n- It never works, says Andreas Persson, who will be watching the match.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1118_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Guide: Here are the WC results Sweden is hoping for",
+            "bullets": [
+              "Sweden is ranked as the best third ahead of the final group stage in the FIFA World Cup. But will th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden is ranked as the best third ahead of the final group stage in the FIFA World Cup. But will three points be enough? It depends on what countries like Ecuador, Iran and Congo-Kinshasa come up with.",
+            "fullText": "Sweden is ranked as the best third ahead of the final group stage in the FIFA World Cup.\n\nIt depends on what countries like Ecuador, Iran and Congo-Kinshasa come up with.\n\nSweden can still advance as the worst group runner-up, but then victory against Japan is required. If not, the hope is to become one of the eight best three.\n\n- There were a lot of negative headlines about us being outplayed and that everyone was snuffed out at the football party. But despite the loss (against the Netherlands), the situation is very, very good, said SVT's expert Jonas Eriksson in Sportspegeln.\n\nIf the results turn out to be the most expected, it looks like Sweden will manage with the three points they already have thanks to the 5-1 victory against Tunisia. But shocks from, among others, the Czech Republic or Ecuador can prevent that and force Sweden to take points against Japan.\n\nJapan–Sweden is played at 01.00 during the night between Thursday and Friday. SVT's broadcast from the match starts at 00.00.\n\nHere are the standings in the twelve World Cup groups, listed in the order they are decided\n\nGroup E Standings: Germany 6, Ivory Coast 3, Ecuador 1, Curaçao 1 Remaining matches: Ecuador-Germany, Curaçao-Ivory Coast (Thursday 10 p.m.) Most likely: That Ecuador and Curaçao will be winless and the group gets a weak third. Swedish nightmare result: Germany - already clear group winner - loses to Ecuador.\n\nGroup F Standings: Netherlands 4, Japan 4, Sweden 3, Tunisia 0 Remaining matches: Japan–Sweden, Tunisia–Netherlands (Friday 01.00) Most likely: Japan to win and Sweden to be third on 3 points. Swedish dream result: Swedish victory and second place in the group. Or at least a point, to almost certainly advance as third.\n\nGroup D Standings: USA 6, Australia 3, Paraguay 3, Turkey 0 Remaining matches: Turkey-USA, Paraguay-Australia (Friday 04.00) Most likely: Paraguay and Australia cruise and both end up with 4 points. Swedish dream result: One of the teams wins and group three stays on 3 points.\n\nGroup I Standings: France 6, Norway 6, Senegal 0, Iraq 0 Remaining matches: Norway-France, Senegal-Iraq (Friday 21.00) Most likely: Senegal beat Iraq and finish on 3 points. Swedish dream result: It will be a draw and both teams stay on 1 point.\n\nGroup H Standings: Spain 4, Uruguay 2, Cape Verde 2, Saudi Arabia 1 Remaining matches: Uruguay-Spain, Cape Verde-Saudi Arabia (Saturday 02.00) Most likely: Wins for Spain and Cape Verde. Uruguay third in the group on 2 points. Swedish nightmare result: Uruguay cruises or - even worse - wins against Spain.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1124_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Here is the detail on Alexander Isak's shoes: \"Means everything\"",
+            "bullets": [
+              "The roots are included out on the plane. Alexander Isak runs around chasing hits with his background...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The roots are included out on the plane. Alexander Isak runs around chasing hits with his background as strength. - It means everything to me, he says.",
+            "fullText": "Alexander Isak runs around chasing hits with his background as strength.\n\nIt is small details that stand out on Alexander Isak's shoes when he is out representing his country during the World Cup.\n\nThe football boots have a Swedish flag on one and an Eritrean flag on the other.\n\n- That's where my roots come from. It means an incredible amount to my family, in the same way that Sweden does. It's absolutely nothing I compare (the nations), says the Liverpool star with parents from Eritrea.\n\nIn that country, the Liverpool star naturally has a large group of fans and the support is great.\n\n- I feel it very much, actually all the time. It never dies. The support from Sweden during the World Cup takes over, of course, but it's something that I always have with me, he says.\n\nNext up is Japan for Alexander Isak and the rest of the Swedish national team. It is about a final group stage match at the World Cup and the match kicks off at 01:00 on the night of Friday, Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1127_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Viktor Gyökeres gets a question from his mother: \"I can lie flat\"",
+            "bullets": [
+              "How old do you have to be to stay at Gröna Lund until closing without your parents? That was the que...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How old do you have to be to stay at Gröna Lund until closing without your parents? That was the question that Viktor Gyökere's mother Sofia chose to send to her son. - I have to lie flat there, laughs Gyökeres.",
+            "fullText": "How old do you have to be to stay at Gröna Lund until closing without your parents?\n\nThat was the question that Viktor Gyökere's mother Sofia chose to send to her son.\n\nSee Viktor Gyökere's reaction to the mother's question and hear his answer in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1132_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Bizarre images of Sweden's training: \"Man was shocked\"",
+            "bullets": [
+              "Last practice before the fateful match against Japan. Then the Swedish players were met by a \"fake b...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Last practice before the fateful match against Japan. Then the Swedish players were met by a \"fake building\" at the arena in Frisco, Texas. - You were a little shocked. There were some who laughed, says Besfort Zeneli to SVT Sport.",
+            "fullText": "Then the Swedish players were met by a \"fake building\" at the arena in Frisco, Texas.\n\n- You were a little shocked. There were some who laughed, says Besfort Zeneli to SVT Sport.\n\nFC Dallas' home arena is being renovated and when the Swedish players took to the pitch for the last training session before the match against Japan, they were greeted by a special sight.\n\n- Roughly unclear. Something has gone wrong, says Gabriel Gudmundsson with a laugh.\n\n- It was actually a bit worrying, Alexander Isak thinks.\n\nSweden's last group stage match against Japan, on the other hand, is played at the NFL team Dallas Cowboys' home arena, AT&T Stadium, with room for 80,000 spectators. Kick-off is 01:00 on Friday morning.\n\nSee the bizarre images and hear the Swedes' reactions in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1141_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Vinicius Júnior had a show when Neymar was substituted",
+            "bullets": [
+              "Brazil offered samba football in the 3-0 victory against Scotland. Big star Vinicius Júnior had a sh...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brazil offered samba football in the 3-0 victory against Scotland. Big star Vinicius Júnior had a show and scored two goals. - It is always important to score goals, he says.",
+            "fullText": "Brazil offered samba football in the 3-0 victory against Scotland.\n\nBig star Vinicius Júnior had a show and scored two goals.\n\nIn addition, Neymar was substituted in his first international match since October 2023. With Neymar, the World Cup tournament became even more star-studded.\n\nReal Madrid attacking ace Vinicius Júnior led the way for his Brazil in the win against Scotland, scoring his third and fourth goals of the tournament. Both goals came in the first half.\n\nIn between he had another ball on goal but that goal was disallowed after VAR review as they felt the brass were brusque in their treatment of the Scottish defender.\n\nVinicius Júnior has now scored in all three games so far. When national team captain Carlo Ancelotti was asked afterwards what he thought of the player's start to the championship, he answered briefly, but with a big smile:\n\n- It is important to play well and I have succeeded in that. I have managed to deliver and develop. In previous years with the national team, there have been moments when I have not been able to show my true self.\n\nBrazil were never particularly threatened in the match but won comfortably and are thus group winners.\n\nWith barely a quarter of an hour left, Neymar was substituted and played his first minutes this World Cup. He has previously been missing due to injury. The profile was met with great cheers from the crowd from the moment he started warming up.\n\n- Neymar's entry was one of several positive things that we can take with us from today's match. It can help us going forward, says Ancelotti.\n\n- My heart did a 180. I was very nervous, but also happy, says Neymar to Globo.\n\nScotland are making their first World Cup since 1998 and have never progressed from the group stage. Now they have to hope that they place themselves among the top eight group threes.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1149_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter opens up about changes in the eleven: \"Maybe\"",
+            "bullets": [
+              "Everyone is wondering if Graham Potter plans to change Sweden's starting eleven. But the national te...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Everyone is wondering if Graham Potter plans to change Sweden's starting eleven. But the national team captain does not give up. - Maybe, maybe. The word is maybe, says Potter.",
+            "fullText": "Everyone is wondering if Graham Potter plans to change Sweden's starting eleven.\n\nWatch Graham Potter's selection against the press lineup in the player above.\n\nAfter the defeat against the Netherlands, it has been widely discussed whether Graham Potter should make changes to Sweden's starting eleven or not.\n\nSubstitutes such as Anthony Elanga, Lucas Bergvall and Besfort Zeneli have all done well when given the chance to step in. At the same time, several starting players have been criticized, and the formation questioned.\n\nAt a press conference on Wednesday night, Potter was asked about possible changes. The answer was cryptic.\n\n- Maybe, maybe. The word is maybe. We have to make a decision that is right for the team. We have talked a lot about having the right balance both in the starting eleven and on the bench. We've lost one game and won one, so we know it's not all bad. At the same time, we have to improve, especially when we face a team like Japan.\n\nA couple of minutes later another question came up on the same theme. Potter was asked if he had decided on any specific changes.\n\n- I have decided that I can tell you that there might be changes, Potter answered, with a strong emphasis on the word 'maybe'.\n\nIn a possible round of 16, Sweden will face either France, Norway, Brazil or Morocco.\n\nThe Sweden-Japan broadcast begins at 00.00 on the night of Friday and is broadcast on SVT.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1150_8",
+            "category": "sweden",
+            "type": "News",
+            "title": "Manchester City agree £116m fee with Nottingham Forest for Elliot Anderson",
+            "bullets": [
+              "England midfielder eager to move to Etihad StadiumForest eye Lucas Bergvall as potential replacement...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder eager to move to Etihad StadiumForest eye Lucas Bergvall as potential replacementManchester City have agreed a deal with Nottingham Forest to sign Elliot Anderson for £116m, a record for a British player.Forest’s owner, Evangelos Marinakis, had insisted any deal for Anderson would have to eclipse the £125m Liverpool paid to sign Alexander Isak from Newcastle last summer. Continue reading...",
+            "fullText": "Manchester City have agreed a deal withNottingham Forestto sign Elliot Anderson for £116m, a record for a British player.\n\nForest’s owner, Evangelos Marinakis, had insisted any deal for Anderson would have to eclipse the£125m Liverpool paidto sign Alexander Isak from Newcastle last summer.\n\nTheEnglandmidfielder is expected to have a medical in the US, where he is on international duty at the World Cup, in the next 24 hours. Anderson has always preferred a move to the Etihad Stadium over signing for Manchester United, who were also interested in the player. City made him a key target this window, previously having two bids rejected for the 23-year-old.\n\nAnderson has spent two seasons at the City Ground after moving from Newcastle for £35m. During his time in Nottingham, he helped the club finish seventh in the Premier League and reach the Europa League semi-finals.\n\nClub form brought him to the attention of the national team and he has become a regular in Thomas Tuchel’s England side since making his debut last September, earning 11 caps. He has started the opening two games of theWorld Cup against Croatiaand Ghana.\n\nForest are interested in signing Lucas Bergvall as Anderson’s replacement. The Tottenham midfielder wants to leave and talks have already been held over a potential £45m move, although the Sweden international is expected to attract interest from elsewhere.\n\nAnderson has enjoyed an extraordinary rise since breaking into Newcastle’s first team on his return from a fruitful loan at fourth-tier Bristol Rovers in the second half of the 2021-22 season. He scored against his former club in his final Forest match last month, after which the Newcastle manager, Eddie Howe, made it clear his departure rankled.\n\n“We knew that would be a very, very painful transfer, one that we had to do,” Howe said. “We had no choice, but it was probably the most reluctant transfer I’ll ever do, because we knew the quality of the player.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nNewcastle will not benefit from Anderson’s transfer to City as they hastily forced through the sale to satisfy the Premier League’s profitability and sustainability regulations, with Odysseas Vlachodimos moving in the opposite direction as part of the deal between the clubs. At the time Forest valued Anderson at £15m and Vlachodimos at £20m.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-25 @ 16:30:36 EDT",
+  "lastUpdated": "2026-06-25 @ 19:11:50 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
