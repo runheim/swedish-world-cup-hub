@@ -4,12 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Bizarre images of Sweden's training: \"Man was shocked\"",
+      "link": "https://www.svt.se/sport/fotboll/bisarra-bilderna-pa-sveriges-traning-man-var-chockad"
+    },
+    {
+      "text": "⚽ Vinicius Júnior had a show when Neymar was substituted",
+      "link": "https://www.svt.se/sport/fotboll/vinicius-junior-hade-show-i-brasiliens-kross"
+    },
+    {
+      "text": "⚽ Graham Potter opens up about changes in the eleven: \"Maybe\"",
+      "link": "https://www.svt.se/sport/fotboll/graham-potter-oppnar-for-forandringar-i-elvan-kanske"
+    },
+    {
       "text": "⚽ Graham Potter is praised by the Swedish stars: \"Love him\"",
       "link": "https://www.svt.se/sport/fotboll/graham-potter-tokhyllas-av-svenska-stjarnorna-alskar-honom"
     },
     {
       "text": "⚽ Anton from Huskvarna follows the WC in the USA - hopeful for the meeting with Japan",
       "link": "https://www.svt.se/nyheter/lokalt/jonkoping/anton-fran-huskvarna-foljer-vm-i-usa-hoppfull-infor-motet-med-japan"
+    },
+    {
+      "text": "⚽ Morocco battle back to claim thumping World Cup win in six-goal thriller with Haiti",
+      "link": "https://www.theguardian.com/football/2026/jun/25/morocco-haiti-world-cup-match-report"
     },
     {
       "text": "⚽ Which footballers have refused to celebrate a goal against another country? | The Knowledge",
@@ -5849,10 +5865,137 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-25": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3603_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Bizarre images of Sweden's training: \"Man was shocked\"",
+            "bullets": [
+              "Last practice before the fateful match against Japan. Then the Swedish players were met by a \"fake b...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Last practice before the fateful match against Japan. Then the Swedish players were met by a \"fake building\" at the arena in Frisco, Texas. - You were a little shocked. There were some who laughed, says Besfort Zeneli to SVT Sport.",
+            "fullText": "Then the Swedish players were met by a \"fake building\" at the arena in Frisco, Texas.\n\n- You were a little shocked. There were some who laughed, says Besfort Zeneli to SVT Sport.\n\nFC Dallas' home arena is being renovated and when the Swedish players took to the pitch for the last training session before the match against Japan, they were greeted by a special sight.\n\n- Roughly unclear. Something has gone wrong, says Gabriel Gudmundsson with a laugh.\n\n- It was actually a bit worrying, Alexander Isak thinks.\n\nSweden's last group stage match against Japan, on the other hand, is played at the NFL team Dallas Cowboys' home arena, AT&T Stadium, with room for 80,000 spectators. Kick-off is 01:00 on Friday morning.\n\nSee the bizarre images and hear the Swedes' reactions in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3612_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Vinicius Júnior had a show when Neymar was substituted",
+            "bullets": [
+              "Brazil offered samba football in the 3-0 victory against Scotland. Big star Vinicius Júnior had a sh...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brazil offered samba football in the 3-0 victory against Scotland. Big star Vinicius Júnior had a show and scored two goals. - It is always important to score goals, he says.",
+            "fullText": "Brazil offered samba football in the 3-0 victory against Scotland.\n\nBig star Vinicius Júnior had a show and scored two goals.\n\nIn addition, Neymar was substituted in his first international since October 2023. It continues to be the World Cup tournament of the stars.\n\nReal Madrid attacking ace Vinicius Júnior led the way for his Brazil in the win against Scotland, scoring his third and fourth goals of the tournament. Both goals came in the first half.\n\nIn between he had another ball on goal but that goal was disallowed after VAR review as they felt the brass were brusque in their treatment of the Scottish defender.\n\nVinicius Júnior has now scored in all three games so far. When national team captain Carlo Ancelotti was asked afterwards what he thought of the player's start to the championship, he answered briefly, but with a big smile:\n\n- It is important to play well and I have succeeded in that. I have managed to deliver and develop. In previous years with the national team, there have been moments when I have not been able to show my true self.\n\nBrazil were never particularly threatened in the match but won comfortably and are thus group winners.\n\nWith barely a quarter of an hour left, Neymar was substituted and played his first minutes this World Cup. He has previously been missing due to injury. The profile was met with great cheers from the crowd from the moment he started warming up.\n\n- Neymar's entry was one of several positive things that we can take with us from today's match. It can help us going forward, says Ancelotti.\n\n- My heart did a 180. I was very nervous, but also happy, says Neymar to Globo.\n\nScotland are making their first World Cup since 1998 and have never progressed from the group stage. Now they have to hope that they place themselves among the top eight group threes.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3619_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter opens up about changes in the eleven: \"Maybe\"",
+            "bullets": [
+              "Everyone is wondering if Graham Potter plans to change Sweden's starting eleven. But the national te...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Everyone is wondering if Graham Potter plans to change Sweden's starting eleven. But the national team captain does not give up. - Maybe, maybe. The word is maybe, says Potter.",
+            "fullText": "Everyone is wondering if Graham Potter plans to change Sweden's starting eleven.\n\nWatch Graham Potter's selection against the press lineup in the player above.\n\nAfter the defeat against the Netherlands, it has been widely discussed whether Graham Potter should make changes to Sweden's starting eleven or not.\n\nSubstitutes such as Anthony Elanga, Lucas Bergvall and Besfort Zeneli have all done well when given the chance to step in. At the same time, several starting players have been criticized, and the formation questioned.\n\nAt a press conference on Wednesday night, Potter was asked about possible changes. The answer was cryptic.\n\n- Maybe, maybe. The word is maybe. We have to make a decision that is right for the team. We have talked a lot about having the right balance both in the starting eleven and on the bench. We've lost one game and won one, so we know it's not all bad. At the same time, we have to improve, especially when we face a team like Japan.\n\nA couple of minutes later another question came up on the same theme. Potter was asked if he had decided on any specific changes.\n\n- I have decided that I can tell you that there might be changes, Potter answered, with a strong emphasis on the word 'maybe'.\n\nThe Sweden-Japan broadcast begins at 00.00 on the night of Friday and is broadcast on SVT.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3622_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter is praised by the Swedish stars: \"Love him\"",
+            "bullets": [
+              "The bond between the Swedish World Cup players and the national team captain certainly seems to be s...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The bond between the Swedish World Cup players and the national team captain certainly seems to be special. A mutual love is evident. - We love him, says Anthony Elanga.",
+            "fullText": "The bond between the Swedish World Cup players and the national team captain certainly seems to be special.\n\nA couple of days after Sweden's crushing loss against the Netherlands in the second group stage match, national team captain Graham Potter rode out in defense.\n\n- I love these players. I understand that there will be criticism, but I hope that it is directed at me more than the players, he said, among other things, at a press conference.\n\n- The confidence he gives me and the others in the team makes us want to go out and fight for him on the pitch, says Anthony Elanga.\n\nThe day after the loss, Jesper Karlström was out and said that the national team captain had been able to say that Sweden should play without a goalkeeper and that he had bought it.\n\n- As a player, he is easy to like. Potter defended everyone and took much of the blame (after Netherlands) himself. It means a lot to us, says Elliot Stroud.\n\nCenter back Gustaf Lagerbielke joins the chorus of praise.\n\n- Since we got him, I think he has managed everything flawlessly in terms of how he is with the group and, for example, holding meetings. He talks to us in an inspiring way.\n\nSweden faces Japan in the final group stage match. The event kicks off at 01.00 on the night of Friday and the match is broadcast on SVT.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3624_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Anton from Huskvarna follows the WC in the USA - hopeful for the meeting with Japan",
+            "bullets": [
+              "Anton Wallin from Huskvarna and some of his friends had booked a brewery trip that became a football...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anton Wallin from Huskvarna and some of his friends had booked a brewery trip that became a football trip when Sweden made it to the World Cup in the USA. - We managed to get tickets to Sweden's matches, so we ended up in Houston.",
+            "fullText": "Anton Wallin from Huskvarna and some of his friends had booked a brewery trip that became a football trip when Sweden made it to the World Cup in the USA.\n\n- We managed to get tickets to Sweden's matches, so we ended up in Houston.\n\nAnton Wallin was there and saw Sweden's match against the Netherlands on June 20. The supporter march to the arena was carried out in oppressive heat.\n\nTo cool off the supporters, Houston's fire brigade stood and sprayed water on the Swedish supporters along the march route.\n\nDespite the star strike against the Netherlands with 5-1, Anton Wallin from Huskvarna is hopeful before the meeting with Japan. A match he will see in place.\n\nIn the clip, Anton Wallin from Huskvarna traces Sweden's continued fate in the World Cup.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3626_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Morocco battle back to claim thumping World Cup win in six-goal thriller with Haiti",
+            "bullets": [
+              "Morocco confirmed their progress to the World Cup last 32 ⁠but twice had to ⁠come from behind to ​ge...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Morocco confirmed their progress to the World Cup last 32 ⁠but twice had to ⁠come from behind to ​get the better of plucky Haiti 4-2 in an action-packed game on Wednesday, and fell short of topping Brazil in the Group C standings.Morocco finished level on seven points with ⁠the five-time world champions, who beat Scotland 3-0, but are runners-up on goal difference and will play the Group F winners – either Japan, the Netherlands or Sweden – on Monday in the first knockout round. Continue reading...",
+            "fullText": "Morocco confirmed their progress to the World Cup last 32 ⁠but twice had to ⁠come from behind to ​get the better of plucky Haiti 4-2 in an action-packed game on Wednesday, and fell short of topping Brazil in theGroup C standings.\n\nMorocco finished level on seven points with ⁠the five-time world champions, who beat Scotland 3-0, but are runners-up on goal difference and will play the Group F winners – either Japan, the Netherlands or Sweden – on Monday in the first knockout round.\n\n“We were looking for first spot in the group, but Haiti had ‌nothing to lose and played a good transition game, so it was not an easy game for us,” coach Mohamed Ouahbi said.\n\n“Morocco has entered a whole new ⁠dimension, and we’re part ⁠of a new ​momentum where we actually need to believe we can take the title.\n\n“How do we reach this objective? Well, again, as I said before, we need to be 100% committed. Today, we have the best ingredients ⁠that are needed to become the best nation, and we believe we can do it; the players ​believe in it, the same for the ‌staff.”\n\nHaiti, the ⁠first side eliminated from the 48-team tournament after losing their second group game, went ahead early but African footballer of the ​year Achraf Hakimi equalised in the 39th minute.\n\nWilson Isidor’s thunderbolt ‌restored Haiti’s lead in the 43rd ‌minute but matters were soon level again as Ismael Saibari scored his third goal in as manyWorld Cupappearances.\n\nIt took ‌until the 78th minute for Morocco to go ahead when substitute Soufiane Rahimi thrashed home from close range after Haiti failed to clear a corner and 20-year-old Gessime Yassine made it 4-2 in the last minute.\n\nHaiti had only pride to play for but made Morocco work for their victory and despite losing all three games at the tournament – their first in 52 years – will depart with their reputation enhanced.\n\n“We showed that we didn’t steal our spot here,” manager Sebastien Migne said. “We deserve to be here.\n\n“I hope that what ‌we gave the fans was good enough for them. Unfortunately, we didn’t get a point, we would have loved to give at least a point to our fans.”\n\nWith vociferous support willing them forward, Haiti opened the scoring after 10 ‌minutes as Josué Casimir calmly shielded the ball, waiting for Jean-Kévin Duverne to support him on the wing and carry it into the box before a square pass was audaciously backheeled goalwards by Lenny ​Joseph.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3628_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Which footballers have refused to celebrate a goal against another country? | The Knowledge",
+            "bullets": [
+              "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisio...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisionismMail us with your all of your questions and answers“Sweden’s Yasin Ayari has a Tunisian father and chose not to celebrate his first goal against Tunisia (he couldn’t resist celebrating when he scored later, though). Declan Rice did something similar after scoring against the Republic of Ireland in 2024, but what is the earliest example of a player not celebrating a goal at international level because of a connection to the opposition?” asks Michael Pilcher.“I remember Breel Embolo, the Swiss international born in Cameroon, not celebrating after scoring against Cameroon at the 2022 World Cup,” replies Filippo Varanini. Continue reading...",
+            "fullText": "Plus: is Dick Advocaat unique among coaches, long waits between World Cups, and Dave Beasant revisionism\n\n“Sweden’s Yasin Ayari has a Tunisian father and chose notto celebrate his first goal against Tunisia (he couldn’t resist celebrating when he scored later, though). Declan Rice did something similar after scoring against the Republic of Ireland in 2024, but what is the earliest example of a player not celebrating a goal at international level because of a connection to the opposition?”asks Michael Pilcher.\n\n“I remember Breel Embolo, the Swiss international born in Cameroon, not celebrating afterscoring against Cameroonat the 2022 World Cup,” replies Filippo Varanini.\n\nDuring a European Championship qualifying match in 2010, Mesut Özil showed restraint in his celebrations when he scored for Germany against Turkey in a 3-0 win – the former Real Madrid playmaker was born in Gelsenkirchen to Turkish immigrants. But the earliest example we can find of this particular gesture is with a teammate of Özil’s, Lukas Podolski, who scoredtwo goals against Poland, the country of his birth, at Euro 2008.\n\n“This was a difficult and emotional game for me,”he told FourFourTwo magazine in 2022. “Both the German and Polish press focused on me before it, building the pressure, and there were so many Polish fans in the ground. I didn’t celebrate, but I’m a professional and had to do what was expected of me. I support Poland on every other occasion. I was emotional before and after the game, but for 90 minutes I came to do my job for Germany.”\n\n“Two questions on Cape Verde manager Dick Advocaat,”begins Luke Carruthers.“1) He has coached eightmen’s international teams – can anybody beat that? 2) He has managed the Netherlands men’s and women’s teams at senior level. How rare is this?”\n\nThe first part has been covered ina previous Knowledgemany moons ago, but the answer is categoricallyRudi Gutendorf. Incredibly, the German’s management career lasted 53 years and took in 17 national manager jobs in charge of Chile, Bolivia, Venezuela, Trinidad and Tobago, Grenada, Antigua, Botswana, Australia, New Caledonia, Nepal, Tonga, Tanzania, Ghana, Nepal again (but we won’t count that), Fiji, Zimbabwe, Mauritius and Rwanda. Oh, and he also took charge of the Iranian and Chinese Olympic teams in 1988 and 1992, respectively. When asked once why he had managed in so many countries, the German replied: “One cannot conserve excitement.” Reader Christoph Arlick has a caveat, though. “Quite a few international sides he was in charge of did not actually play an official game during his time there,” he notes. “He was on the sidelines for Bermuda, Chile, Botswana, Australia, Nepal, Ghana, Mauritius, Zimbabwe and Rwanda across 77 games, beating Advocaat by (at least) one country.”\n\nDan Almond flags two other managers who can match or better Advocaat’s eight international jobs:Bora Milutinovic(eight: Mexico, Costa Rica, USA, Nigeria, China, Honduras, Jamaica, Iraq) andClaude Le Roy(nine: Cameroon, Senegal, Malaysia, DR Congo, Ghana, Oman, Syria, Congo, Togo), while Tom Reed puts forwardDanny McLennan(10: Philippines, Mauritius, Rhodesia [now Zimbabwe], Iran, Bahrain, Iraq, Jordan, Malawi, Fiji, Libya). “Tom Saintfiethas racked up 12 international teams (Namibia, Zimbabwe, Ethiopia, Yemen, Malawi, Togo, Bangladesh, Trinidad and Tobago, Malta, the Gambia, the Philippines, Mali) across four federations,” emails Daz Pearce. “He needs to manage countries in South America and Oceania to complete the set.”\n\nWe are fairly sure the only answer to Luke’s second question isJohn Herdman, the Englishman who managed the Canada women’s and men’s national teams between 2011-23. After the women’s team lost all three of their group games at the 2011 World Cup, many of their players were contemplating retirement. “We were completely broken,” recalled the now retired defender Emily Zurrer, who was also part of that 2015 squad. “Some of us were thinking about hanging up our boots and here’s this guy talking about being on a podium and seeing our flag rise … and very quickly he instilled that belief in us.” The following year, Canada were on that podiumearning a bronze Olympic medalat London 2012, a feat they repeated four years later in Rio. He assumed a divided men’s team in 2018 but helped Canada men to secure their first World Cup in nearly four decades in 2022. You can read more about Herdman, and his penchant for Sun Tzu quotes,here.\n\n“New Zealand’s Chris Wood and Tommy Smith are playing at their secondWorld Cup, 16 years after their first,”writes Alexander Scott. “Has any player had a longer wait between World Cup appearances?”\n\nKnowledge legend Dirk Maas swoops in here to answer this one. “No, Chris Wood has equalledFaryd Mondragón’s feat, who played for Colombia at the 1998 and 2014 World Cup. Before Mondragón, the longest wait was 12 years. Alfred Bickel (Switzerland, World Cup 1938 and 1950), Erik Nilsson (Sweden, World Cup 1938 and 1950), José Martínez Sánchez “Pirri” (Spain, World Cup 1966 and 1978), Wilfried Van Moer (Belgium, World Cup 1970 and 1982), Michael Laudrup (Denmark, World Cup 1986 and 1998), Hernán Medford (Costa Rica, World Cup 1990 and 2002), Niall Quinn (Republic of Ireland, World Cup 1990 and 2002), Santiago Cañizares (Spain, World Cup 1994 and 2006), Lee Dong-gook (South Korea, World Cup 1998 and 2010), Daniel Van Buyten (Belgium, World Cup 2002 and 2014) and Aleksandr Kerzhakov (Russia, World Cup 2002 and 2014) shared the record of the longest wait. Randall Azofeifa (Costa Rica, World Cup 2006 and 2018), Edin Dzeko and Sead Kolasinac (Bosnia and Herzegovina, World Cup 2014 and 2026), Nabil Bentaleb, Aïssa Mandi and Riyad Mahrez (Algeria, World Cup 2014 and 2026) and Lucas Digne (France, World Cup 2014 and 2026) also had to wait 12 years.”\n\nDo you know of any other examples? Send your suggestions toknowledge@theguardian.com.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-24 @ 19:00:31 EDT",
+  "lastUpdated": "2026-06-25 @ 01:36:28 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
