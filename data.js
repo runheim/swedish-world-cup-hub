@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ World Cup 2026: Scotland on brink after Brazil defeat, EFL fixtures announced, and more – live",
+      "text": "⚽ World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
       "link": "https://www.theguardian.com/football/live/2026/jun/25/world-cup-2026-scotland-agony-as-brazil-hit-hopes-of-progress-south-africa-advance-and-more-live"
     },
     {
-      "text": "⚽ Socceroos look to Paraguay ‘challenge’ with World Cup fate in their own hands",
-      "link": "https://www.theguardian.com/football/2026/jun/25/socceroos-australia-paraguay-game-permutations-last-32-world-cup"
-    },
-    {
-      "text": "⚽ How a ‘naive’ Mauricio Pochettino’s lowest moments turned the USMNT into World Cup darlings",
-      "link": "https://www.theguardian.com/football/2026/jun/25/mauricio-pochettino-usa-turkey-world-cup-preview"
+      "text": "⚽ World Cup Q&A: our US soccer team answers your questions on stadiums, Lalas, hydration breaks and more – live",
+      "link": "https://www.theguardian.com/sport/live/2026/jun/25/world-cup-qa-ask-our-us-soccer-correspondents-anything"
     },
     {
       "text": "⚽ Australia forced into changes for crucial World Cup group game against Paraguay",
@@ -3420,11 +3416,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1206_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: car hits crowd in Mexico, Scotland face waiting game and more – live",
+            "bullets": [
+              "⚽ Latest news from day 15 | Vehicle hits crowd in Mexico⚽ World Cup Q&amp;A: post your questions for...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ Latest news from day 15 | Vehicle hits crowd in Mexico⚽ World Cup Q&amp;A: post your questions for our US team⚽ Player guide | Bracketology | Golden Boot | Mail JohnMauricio Pochettino’s US team are having a great time at home – but the last couple years haven’t been all that easy, writes Jeff Rueter.For more permutations chat, click below: Continue reading...",
+            "fullText": "Argentina are set to rest players, including Lionel Messi, when they face Jordan in Arlington, Texas, having already won Group J. Jordan are already out of the competition.\n\nThe Argentina coach, Lionel Scaloni, said: “The idea is to give most players a chance to play. I think they deserve it and, whenever the match allows it, we will do so.”\n\nJulian Alvarez may get increased minutes. “I didn’t arrive in the best shape to play the friendlies, but I feel very good now. Supporting the team and filling ​the role that was given to me,” said Alvarez.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1206_1",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup Q&A: our US soccer team answers your questions on stadiums, Lalas, hydration breaks and more – live",
+            "bullets": [
+              "As we near the end of the group stage, writers from our newly expanded US soccer team Alexander Abno...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As we near the end of the group stage, writers from our newly expanded US soccer team Alexander Abnos, Pablo Maurer and Jeff Rueter are now online answering your World Cup questionsPost yours below the line nowAncientFootsteps asks: Many of the pitches used appear to be quite small (perhaps because they are designed for American football which uses a narrower field). Is this really the case? And, if true, are teams taking this into account in their selection and tactics?Jeff: Field dimensions are uniform across every venue at every World Cup, so that’s 105 meters (115 yards) long by 68 meters (74 yards) wide. The difference, as you’ve spotted, is that their stationing in an NFL stadium shows just how narrow those fields are by really cutting into the space around the pitch. Throw-ins and corner kicks look claustrophobic. Fans are perhaps unusually close to the benches. There are no expansive running tracks to serve as a dryland moat, as there were at Italia 90. I think a lot of casual American sports fans are coming to appreciate the amount of space available in this sport – just wait until they learn you can comfortably fit a regulation basketball court inside one penalty box.Jeff: Surprise: Cape Verde! I’ll be gutted if they can’t advance after famous draws against Spain and Uruguay – though I expect them to beat Saudi Arabia.Disappointment: I had Ecuador into the business end because of how stout their defence is, but I completely overlooked the lack of chance creation and alternative scoring threats beyond Enner Valencia. Continue reading...",
+            "fullText": "LukaMagicasks: Why are Canada and Mexico such an afterthought as hosts in this year’s coverage?\n\nWhy do you think there is such little press outrage directed at the US compared to the Qatar and Russia World Cups? Particularly the treatment of Iran and Omar Artan as well as various labour issues inMexicoandLA.\n\nFinally, if FIFA’s stated priorities are fans, players, and the development of football why do so many of its major decisions appear to benefit broadcasters, sponsors and administrators first?\n\ndouble quotation markPablo:I’ll take your first question. I’m reminded of a conversation I had with a cab driver in Mexico City a couple weeks back. He was probably in his 70s and had been at both the 1970 and 1986 World Cups, but couldn’t care less about this one. I asked him why and he said “Esos torneos fueron para todos nosotros” (those tournaments were for all of us.) This one, he said, didn’t belong to them – in part because of the co-hosting arrangement and in part because of the ticketing absurdities.\n\nYou are entirely right in saying that Canada and Mexico are afterthoughts – the fact that the final is not being played at the Azteca, which frankly is the only, true footballing cathedral in the Americas – is an absurdity. I think it mostly boils down to money, and Fifa’s realisation that they can make much more of it in the States than they can in those other two locales.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1207_2",
+            "category": "usa",
+            "type": "News",
+            "title": "Australia forced into changes for crucial World Cup group game against Paraguay",
+            "bullets": [
+              "Italiano and Leckie out from side that played USAWin or a draw will secure second place⚽️ How to wat...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Italiano and Leckie out from side that played USAWin or a draw will secure second place⚽️ How to watch the World Cup in Australia⚽️ Player guide | Daily podcast | World Cup newsletterAustralia will be forced to make changes for their final World Cup group match against Paraguay in Santa Clara on Thursday (Friday 5am AEST), after a second player from their starting XI against the USA was ruled out with an injury.The right-back Jacob Italiano picked up an adductor injury at training this week and will miss the Group D finale, joining the winger Mat Leckie, who suffered a hamstring strain against the USA. Continue reading...",
+            "fullText": "⚽️How to watch the World Cup in Australia⚽️Player guide|Daily podcast|World Cup newsletter\n\nAustralia will be forced to make changes for their final World Cup group match against Paraguay in Santa Clara on Thursday (Friday 5am AEST), after a second player from theirstarting XI against the USAwas ruled out with an injury.\n\nThe right-back Jacob Italiano picked up an adductor injury at training this week and will miss the Group D finale, joining the winger Mat Leckie, who suffered a hamstring strain against the USA.\n\nTony Popovic remained coy over their replacements. “We’re always considering all possibilities because we’ve always shown faith in every player that’s here,” the coach said. “Since we’ve started this journey, every player that’s in our squad knows he has a chance of playing and that’s no different for tomorrow.”\n\nJason Geria, who played on the right of central defence in the second half against the USA, and Kai Trewin – who started for the Socceroos at full-back in the warm-up match against Switzerland – are the most likely replacements, but Popovic did not rule out a change to his system.\n\nMore conjecture surrounds the replacement for Leckie. Nestory Irankunda, Connor Metcalfe and Cristian Volpato – who starred in the final half an hour against the USA – have made strong claims for selection.\n\nPopovic was asked directly about the benefits of playing the fan favourite Irankunda from the start, compared with bringing him off the bench, but he declined to elaborate on his thought process. “We’ll keep that at the basic level of analysis, which is, people are happy if a player plays and people are unhappy if they see a player they like that doesn’t play,” he said.\n\n“We played nine players [against the USA] that played the first match so we’re more disappointed in the performance, not so much in who played and who didn’t play. We improved that performance in the second half, which really pleases us, and the players that came on made an impact.\n\n“Whoever starts tomorrow I know can build a strong foundation and whoever comes on can finish what we’ve started.”\n\nGet a daily roundup of the latest sports news, features and comment from our Australian sports desk\n\nThe Socceroos will secure second place with a win or a draw against Paraguay, who are missing the suspended Miguel Almirón. The winger, who spent six years at Newcastle in the remier League, was sent off for covering his mouth in a confrontation during his side’s1-0 victory over Turkey.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-25 @ 09:13:46 EDT",
+  "lastUpdated": "2026-06-25 @ 13:12:22 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
