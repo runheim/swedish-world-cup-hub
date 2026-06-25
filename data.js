@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Paraguay coaching staff reviews video logs of USA's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Australia forced into changes for crucial World Cup group game against Paraguay",
+      "link": "https://www.theguardian.com/football/2026/jun/24/australia-changes-world-cup-paraguay"
     }
   ],
   "timeline": {
@@ -3326,10 +3310,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-25": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3417_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Australia forced into changes for crucial World Cup group game against Paraguay",
+            "bullets": [
+              "Italiano and Leckie out from side that played USAWin or a draw will secure second place⚽️ How to wat...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Italiano and Leckie out from side that played USAWin or a draw will secure second place⚽️ How to watch the World Cup in Australia⚽️ Player guide | Daily podcast | World Cup newsletterAustralia will be forced to make changes for their final World Cup group match against Paraguay in Santa Clara on Thursday (Friday 5am AEST), after a second player from their starting XI against the USA was ruled out with an injury.The right-back Jacob Italiano picked up an adductor injury at training this week and will miss the Group D finale, joining the winger Mat Leckie, who suffered a hamstring strain against the USA. Continue reading...",
+            "fullText": "⚽️How to watch the World Cup in Australia⚽️Player guide|Daily podcast|World Cup newsletter\n\nAustralia will be forced to make changes for their final World Cup group match against Paraguay in Santa Clara on Thursday (Friday 5am AEST), after a second player from theirstarting XI against the USAwas ruled out with an injury.\n\nThe right-back Jacob Italiano picked up an adductor injury at training this week and will miss the Group D finale, joining the winger Mat Leckie, who suffered a hamstring strain against the USA.\n\nTony Popovic remained coy over their replacements. “We’re always considering all possibilities because we’ve always shown faith in every player that’s here,” the coach said. “Since we’ve started this journey, every player that’s in our squad knows he has a chance of playing and that’s no different for tomorrow.”\n\nJason Geria, who played on the right side of central defence in the second half against the USA, and Kai Trewin – who started for the Socceroos at full-back position in the warm-up match against Switzerland – are the most likely replacements, but Popovic did not rule out a change to his system.\n\nMore conjecture surrounds the replacement for Leckie. Nestory Irankunda, Connor Metcalfe and Cristian Volpato – who starred in the final half an hour against the USA – have made strong claims for selection.\n\nPopovic was asked directly about the benefits of playing fan favourite Irankunda from the start, compared with bringing him off the bench, but he declined to elaborate on his thought process. “We’ll keep that at the basic level of analysis, which is, people are happy if a player plays and people are unhappy if they see a player they like that doesn’t play,” he said.\n\n“We played nine players [against the USA] that played the first match so we’re more disappointed in the performance, not so much in who played and who didn’t play. We improved that performance in the second half, which really pleases us, and the players that came on made an impact.\n\n“Whoever starts tomorrow I know can build a strong foundation and whoever comes on can finish what we’ve started.”\n\nGet a daily roundup of the latest sports news, features and comment from our Australian sports desk\n\nThe Socceroos will secure second place with a win or a draw against Paraguay, who are missing the suspended Miguel Almirón. The winger, who spent six years at Newcastle in the remier League, was sent off for covering his mouth in a confrontation during his side’s1-0 victory over Turkey.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-24 @ 19:04:34 EDT",
+  "lastUpdated": "2026-06-25 @ 01:34:29 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
