@@ -3553,11 +3553,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0710_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USA suffer late defeat to Turkey but eye Bosnia and Herzegovina in World Cup knockout stage",
+            "bullets": [
+              "The US men’s national team have already made history this summer. They scored the most goals they ev...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US men’s national team have already made history this summer. They scored the most goals they ever have in a single World Cup game, won two straight games in the tournament for the first time in the modern era, and wrapped up top spot in an evenly-matched Group D with a game to spare.On Thursday evening they faced a far more familiar foe: World Cup adversity. And in the key moments – the kind of spots where knockout games are won and lost – they wilted. Kaan Ayhan’s goal with the last kick of the game sealed a 3-2 win for Turkey, giving their disastrous tournament a positive ending. It also means the Americans go into last 32 – where they will play Bosnia and Herzegovina – with fresh questions. Continue reading...",
+            "fullText": "The US men’s national team have already made history this summer. They scored the most goals they ever have in a singleWorld Cupgame, won two straight games in the tournament for the first time in the modern era, and wrapped up top spot in an evenly-matched Group D with a game to spare.\n\nOn Thursday evening they faced a far more familiar foe: World Cup adversity. And in the key moments – the kind of spots where knockout games are won and lost – they wilted. Kaan Ayhan’s goal with the last kick of the game sealed a 3-2 win forTurkey, giving their disastrous tournament a positive ending. It also means the Americans go into last 32 – where they will play Bosnia and Herzegovina – with fresh questions.\n\nIn front of 70,492 fans at Los Angeles Stadium, the Americans’ task didn’t initially look as if it would be so hard. Just as they had against Paraguay and Australia, the US went up early, this time thanks to a surprising strike from defender Auston Trusty. But the US backline crumpled under pressure in crucial moments later in the half, giving up two goals from Arda Güler in the 10th minute and Orkun Kökçüin the 31st. It was the first time the US had trailed at this tournament.\n\nEventually, though, there was a fightback. Sebastian Berhalter equalized just after half-time with a well-hit volley. The US had several other chances that could have changed the result.\n\nThough this match was a dead rubber, much will be made of Mauricio Pochettino’s decision to almost fully rotate his squad. Weston McKennie was the lone holdover from the starting XIs against Paraguay and Australia. Pochettino was also limited in his options. A quad injury to Cristian Roldan kept the Seattle Sounders captain out of training all week, and his leadership was missed in moments for a midfield that lacked much of the dangerous fluidity that typified their earlier wins.\n\nThe US started brightly, with two chances from Berhalter corner kicks. The first, delivered from the right, snuck its way between the goalkeeper and the defense, but nobody was there to finish it. The second was the US’s breakthrough – this one was lofted and landed at the feet of the unmarked Trusty. Despite a tough angle, Trusty gave the US their third early goal in as many games. He sprinted to the sideline, his face transformed into a victorious scowl. The team collapsed on him but he eventually fought his way through the crowd, wrapping Pochettino in a fierce embrace.\n\nAfter winning over skeptics and blitzing through Paraguay and Australia with a fluid backline, the US reverted to a more traditional flat back four against Turkey – the same look that Belgium exploited en route to a 5-2 win in a March friendly, and that the US struggled to defend in for most of 2025. That trend continued for much of the first half after Trusty’s goal, with Güler’s equalizer a prime example. The Real Madrid star pounced on a scattered backline with a knifing run, using Barış Alper Yılmaz as a screen, before losing Mark McKenzie and finishing easily past Matt Turner.\n\nTurkey’s second goal also took advantage of lost individual battles. In midfield, the otherwise excellent McKennie was beaten in the air, with Turkey putting together a nice third-man pattern play in response that left Joe Scally stranded. Eren Elmalı’s cutback to Kökçü was on time – and it had enough pace that it didn’t need a solid finish to find the back of the net.\n\nThe US looked a different team from the moment the second half began – pressing more aggressively, tightening up defensively, and generally shaking off the lackluster energy that typified their opening stanza. They proved to be opportunistic, too. Latching on to a corner that went uncleared, Berhalter stepped up and fired a low, pacy half-volley that dipped inside the near post. He sprinted straight to the ball, ran past the bench swearing and slammed the ball directly on to the center circle, eager to get play restarted so the US could find a third.\n\nThat US goal would never come, though the Americans had their chances. Christian Pulisic, who came on as a substitute and looked bright after his return from injury, saw two chances narrowly miss. In one wild sequence in the 63rd minute, his deflected effort caromed off the crossbar before McKennie’s follow-up was blocked.\n\nThe dagger came in the dying seconds. Some excellent work at the corner saw Güler slip free of two defenders, and his cross found Ayhan unmarked at the far post. He made no mistake with his finish, abruptly changing the mood in the stands – and in the US locker room as well.\n\nThis US team has talked continuously about the “brotherhood”. About the full effort of all 26 players, and how no one is guaranteed playing time, or much of anything else. In essence, they preach collective accountability.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-26 @ 01:41:07 EDT",
+  "lastUpdated": "2026-06-26 @ 09:07:27 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
