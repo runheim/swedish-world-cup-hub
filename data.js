@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ James and Rice miss training in preparation for Panama",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Anderson's journey to England star and potential record signing",
       "link": "https://www.bbc.co.uk/sport/football/articles/c1eyjvzeg8qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ James doubtful for Panama but England hopeful on Rice",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8rywj8rnpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Why it's time for Saka and Rashford - Shearer",
@@ -18,18 +18,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ The great paradox of Scotland’s World Cup. The fans, superb. The team? Dismal | Ewan Murray",
       "link": "https://www.theguardian.com/football/2026/jun/25/great-paradox-scotland-2026-world-cup-fans-team-steve-clarke-brazil"
-    },
-    {
-      "text": "⚽ World Cup becomes cult of the individual but ignores team complexity | Jonathan Liew",
-      "link": "https://www.theguardian.com/football/2026/jun/25/world-cup-cult-individual-team-players"
-    },
-    {
-      "text": "⚽ Fidalgo caps Mexico rout as co-hosts maintain 100% record and send Czechia out",
-      "link": "https://www.theguardian.com/football/2026/jun/25/mexico-czechia-world-cup-2026-match-report"
-    },
-    {
-      "text": "⚽ Neville: Rogers should replace Gordon against Panama",
-      "link": "https://www.skysports.com/football/news/12040/13557683/morgan-rogers-can-replace-anthony-gordon-for-england-says-gary-neville-ahead-of-world-cup-clash-with-panama"
     }
   ],
   "timeline": {
@@ -11830,10 +11818,86 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-26": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4003_0",
+            "category": "england",
+            "type": "News",
+            "title": "Anderson's journey to England star and potential record signing",
+            "bullets": [
+              "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side and is now on the brink of...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson has emerged as a key part of Thomas Tuchel's England side and is now on the brink of a big money move to Manchester City.",
+            "fullText": "Elliot Anderson has become an integral figure in England head coach Thomas Tuchel's World Cup plans\n\nElliot Anderson was the schoolboy footballer so good his teachers discussed placing a bet on him playing for England.\n\nThe bet was never made - but Thomas Tuchel is backing him to be a winner at the World Cup and Manchester City are doing the same afteragreeing a club record Â£116mto sign him from Nottingham Forest.\n\nAnderson's journey from the playing fields of Tyneside to the World Cup stage will continue at Etihad Stadium after transfer talks were finally successfully concluded between Forest and City.\n\nThe midfielder is the one that painfully got away from Newcastle United but is still revered and respected in his home city as the \"quiet and self-effacing\" local boy made good.\n\nNewcastle United manager Eddie Howe called Anderson's Â£30m sale to Nottingham Forest in July 2024 \"the most reluctant in my career\", a dealeffectively forced on the Magpiesbecause they feared they were going to break profit and sustainability rules (PSR) and incur a points deduction following years of imbalanced trading.\n\nThe sense of loss has become more acute as the 23-year-old emerged as a central component in England's World Cup plans - head coach Tuchel calls him \"the full package\". He is on course to assume the same role at Manchester City once the transfer's formalities are completed.\n\nIt is also felt by Scotland, who hoped Anderson would play for the country as he has a Scottish grandmother. He was called up for the Euro 2024 qualifier in Cyprus and a friendly with England in September 2023, having represented the Scots at under-21 and junior level, only to pull out through injury before pledging allegiance to England.\n\nIt is all a far cry from the young Geordie who used to kick a ball around with his elder brothers before emerging as an outstanding young player at Valley Gardens Middle School, then at the famous Wallsend Boys' Club, where Alan Shearer, Peter Beardsley and Michael Carrick honed their trade.\n\nAnderson's first steps in football came playing with his two elder brothers Louie and Wil, the latter gaining prominence as a contestant on reality TV show Love Island.\n\nJonathan Roys, Anderson's former English and PE teacher at Valley Gardens, who was also his head of year, told BBC Sport: \"His brothers had been through the school and I played against his dad. His brothers were decent, but I think being the youngest of three he was used to getting bossed about a little bit, but he took no quarter off anybody. He'd get stuck right in.\"\n\nAnderson put down a marker for future success when he was captain and scored a hat-trick in a 3-0 win when Valley Gardens won the English leg of Danone Nations Cup in 2014, a prestigious worldwide youth tournament.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4003_1",
+            "category": "england",
+            "type": "News",
+            "title": "James doubtful for Panama but England hopeful on Rice",
+            "bullets": [
+              "England's Reece James and Declan Rice miss England's penultimate training session before Panama with...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's Reece James and Declan Rice miss England's penultimate training session before Panama with injury concerns.",
+            "fullText": "Declan Rice and Reece James have started both of England's games at the World Cup\n\nReece James missed training with England on Thursday which has thrown his fitness into doubt for the Three Lions' final Group L game against Panama.\n\nThe 26-year-old right-back suffered a hamstring issue in thegoalless draw with Ghana on Tuesdayand did not train with his team-mates in England's penultimate session before Saturday's game (22:00 BST).\n\nIt now remains to be seen if the Chelsea defender is fit enough to start or be an option from the bench in the final group game at New York New Jersey Stadium.\n\nJames is a key member of the starting XI under manager Thomas Tuchel and has been selected in both World Cup games so far.\n\nDeclan Rice, who left Boston Stadium after the Ghana draw with strapping on his left calf, was also absent from Thursday's session at England's training base in Kansas City.\n\nBut sources indicate the 27-year-old midfielder's fitness is less of a concern.\n\nIt remains to be seen if Tuchel is willing to start Rice - particularly given he is at risk of suspension for the round of 32 after he was booked against Ghana.\n\nEngland are ahead of Ghana in Group L by virtue of one goal and lead Croatia -who they beat 4-2 in their first game- by a point.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4004_2",
+            "category": "england",
+            "type": "News",
+            "title": "Why it's time for Saka and Rashford - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as wel...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains why Thomas Tuchel needs to change some personnel as well as his team's mindset when they face Panama.",
+            "fullText": "History shows us why there is no need to panic about England's draw with Ghana on Tuesday, but also underlines why it is important we immediately bounce back.\n\nSince 2006, every World Cup winner has dropped points in their first or second group game - but what they have also done each time is go on to win their group.\n\nI am confident England will do that too, by beating Panama on Saturday, but I would not be surprised if Thomas Tuchel makes three or even four changes to his team after such a disappointing result and performance.\n\nSubstitute Rashford scores England's fourth against Croatia\n\nProbably the biggest call for Tuchel is what he does with his wingers.\n\nI didn't think Anthony Gordon or Noni Madueke were positive enough against Ghana. By that I mean they didn't attack their defender enough when we got the ball out to them out wide.\n\nTheir crossing was really poor as well, and often it didn't beat the first man. Our delivery from set-pieces was not great either, but in open play the service from the wingers was pretty much non-existent.\n\nThat's why I think Tuchel will change it up, and Bukayo Saka and Marcus Rashford have definitely done enough when they have come on in both games to get a chance to start.\n\nSaka's fitness is surely the only reason he hasn't started either game so far, but if he's ready this time then he would come in on the right, with Rashford on the left.\n\nWhat I want to see from both of them is more energy and to be more direct in one against one situations by trying to go past players.\n\nThere also needs to be more forward passing rather than taking the easy option by going sideways or backwards.\n\n'Anxious moment for England'  - should this have been a penalty for Ghana?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4004_3",
+            "category": "england",
+            "type": "News",
+            "title": "The great paradox of Scotland’s World Cup. The fans, superb. The team? Dismal | Ewan Murray",
+            "bullets": [
+              "A mess against Brazil, Steve Clarke’s side are in purgatory, hanging around as a faint hope of a pla...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A mess against Brazil, Steve Clarke’s side are in purgatory, hanging around as a faint hope of a place in the last 32 lives onThe sad thing is that in a matter of weeks, this will all have been ­forgotten. The intensely tribal nature of Scotland’s football domain means that a new domestic campaign will lead to scratching, swearing and ­howling that will dominate for months on end. Some may argue it will be wise to banish thoughts of Scotland’s participation in this World Cup. It should serve as a much-needed line in the sporting sand.The psychological, societal and commercial benefits to Scotland have been borne out in recent weeks. Not only has the tournament captured hearts and minds in Scotland, but the Tartan Army has done likewise across the United States. Continue reading...",
+            "fullText": "A mess against Brazil, Steve Clarke’s side are in purgatory, hanging around as a faint hope of a place in the last 32 lives on\n\nThe sad thing is that in a matter of weeks, this will all have been ­forgotten. The intensely tribal nature of Scotland’s football domain means that a new domestic campaign will lead to scratching, swearing and ­howling that will dominate for months on end. Some may argue it will be wise to banish thoughts ofScotland’s participation in this World Cup. It should serve as a much-needed line in the sporting sand.\n\nThe psychological, societal and commercial benefits toScotlandhave been borne out in recent weeks. Not only has the tournament captured hearts and minds in Scotland, but the Tartan Army has done likewise across the United States.\n\nScottish people, self-deprecating as standard, should take a morale-boost from football ­supporters ­acting as such wonderful ambassadors for their country.\n\nHere lies the great paradox of this World Cup. Scottish fans, superb. The Scottish team? Dismal. They wereblunt against Haiti, needlesslycautious against Moroccoand amess when facing Brazil.\n\nScotland find themselves in ­purgatory, hanging around in North Carolina as a faint hope of ­progression to the last 32 lives on, but even those within the camp seem willing to admit their contribution to this ­tournament deserves nothing more than a flight home. Possession has looked an alien concept to the Scots.\n\nSteve Clarke bears the brunt of criticism. There exists a noisy group who never liked the manager and an increasing number of people feel he has outstayed his welcome, ­having been in position since 2019. Even by their own low standards of decision-making, the Scottish FA’s move to affordClarke a four-year contract extensionbefore a ball was kicked in the World Cup was an ­extraordinary one. He was portrayed as cock-a-hoop when he arrived in the US; no wonder.\n\nScott McTominay’s performances have been dreadful. Not that he has been asked to explain them, such is his curious absence from routine media duties. John McGinn has failed to bring his Aston Villa level to ­tournament football once again.\n\nThis can hardly be pinned on Clarke. Being kind to both players, perhaps the drop in standard from club level teammates causes them significant difficulties.\n\nClarke has his own themes to address. That his team scored a single goal against Haiti in game one always looked hazardous. The deployment of Kieran Tierney on the left side of midfield – a switch that came totally out of the blue – for the Morocco ­fixture did not work. Lawrence Shankland, potent, but not known for his athleticism, was an odd choice as the sole striker in suffocating Miami heat against Brazil.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThat said, Bart Simpson could have played in the position such was the lack of opportunity provided. Clarke’s offhand nature in broadcast interviews does him no credit either.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-25 @ 19:18:22 EDT",
+  "lastUpdated": "2026-06-26 @ 01:40:07 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
