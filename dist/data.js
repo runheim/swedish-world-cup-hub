@@ -4,11 +4,27 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ They have Sweden's best chance to face them in the round of 16",
+      "link": "https://www.svt.se/sport/fotboll/de-har-sverige-storst-chans-att-stallas-mot-i-sextondelsfinalen"
+    },
+    {
+      "text": "⚽ Viktor Gyökeres critical of the referee's move: \"Frustrating\"",
+      "link": "https://www.svt.se/sport/fotboll/viktor-gyokeres-kritisk-mot-domarinsatsen-frustrerande"
+    },
+    {
+      "text": "⚽ Sweden ready for the round of 16 in the World Cup - after a draw against Japan",
+      "link": "https://www.svt.se/sport/fotboll/sverige-klart-for-sextondelsfinal-i-vm-efter-oavgjort-mot-japan"
+    },
+    {
+      "text": "⚽ Isak Hien was injured - the WC may be over",
+      "link": "https://www.svt.se/sport/fotboll/svenska-smallen-isak-hien-utgick-skadad"
+    },
+    {
       "text": "⚽ Confirmed: Sweden makes changes to the starting eleven",
       "link": "https://www.svt.se/sport/fotboll/svt-sport-erfar-sverige-har-tranat-for-andringar-i-elvan"
     },
     {
-      "text": "⚽ The football fans charge at Böda Sand - but must not cheer if there is a goal: \"Celebrate silently\"",
+      "text": "⚽ Football fans charge at Böda Sand - but must not cheer if there is a goal: \"Celebrate quietly\"",
       "link": "https://www.svt.se/nyheter/lokalt/smaland/fotbollsfansen-laddar-pa-boda-sand-men-far-inte-jubla-om-det-blir-mal-fira-tyst"
     },
     {
@@ -20,20 +36,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/har-ar-detaljen-pa-alexander-isaks-skor-betyder-allt"
     },
     {
-      "text": "⚽ Viktor Gyökeres gets a question from his mother: \"I can lie flat\"",
-      "link": "https://www.svt.se/sport/fotboll/far-en-fraga-fran-mamma-jag-far-lagga-mig-platt"
+      "text": "⚽ Netherlands power to win over Tunisia and set up last-32 meeting with Morocco",
+      "link": "https://www.theguardian.com/football/2026/jun/26/tunisia-netherlands-world-cup-2026-match-report"
     },
     {
-      "text": "⚽ Bizarre images of Sweden's training: \"Man was shocked\"",
-      "link": "https://www.svt.se/sport/fotboll/bisarra-bilderna-pa-sveriges-traning-man-var-chockad"
-    },
-    {
-      "text": "⚽ Vinicius Júnior had a show when Neymar was substituted",
-      "link": "https://www.svt.se/sport/fotboll/vinicius-junior-hade-show-i-brasiliens-kross"
-    },
-    {
-      "text": "⚽ Graham Potter opens up about changes in the eleven: \"Maybe\"",
-      "link": "https://www.svt.se/sport/fotboll/graham-potter-oppnar-for-forandringar-i-elvan-kanske"
+      "text": "⚽ Japan and Sweden both reach World Cup last 32 after Elanga’s strike seals draw",
+      "link": "https://www.theguardian.com/football/2026/jun/26/japan-sweden-world-cup-2026-match-report"
     },
     {
       "text": "⚽ Manchester City agree £116m fee with Nottingham Forest for Elliot Anderson",
@@ -6568,10 +6576,205 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-26": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4258_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "They have Sweden's best chance to face them in the round of 16",
+            "bullets": [
+              "Sweden cruised against Japan and is thus ready for the round of 16. At the time of writing, most thi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden cruised against Japan and is thus ready for the round of 16. At the time of writing, most things point to Blågult facing either France or Norway. - I am completely clear in my choice: Norway, says expert Bojan Djordjic in SVT's WC studio.",
+            "fullText": "Sweden cruised against Japan and is thus ready for the round of 16. At the time of writing, most things point to Blågult facing either France or Norway. - I am completely clear in my choice: Norway, says expert Bojan Djordjic in SVT's WC studio.\n\nSee Bojan's reasoning about the neighboring country in the player above.\n\nSweden is further in the football World Cup in that they will finish among the eight best group threes.\n\nThe promotion is completely clear, and now most things point to Sweden being pitted against the winner in Group I.\n\nIn that group, France settles with Norway for first place at 21:00 tonight. France has the better goal difference and can thus win the group with a cross.\n\nThis means that Sweden has over a 74 percent chance of being pitted against France. The chance of being pitted against rival Norway is over 25 percent.\n\nThe round of 16 will be played in New York on Tuesday. Kick-off 23.00 Swedish time.\n\nSweden previously had a chance to face Germany. But it basically disappeared completely with Paraguay's advancement from the group stage on Friday morning.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4308_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Viktor Gyökeres critical of the referee's move: \"Frustrating\"",
+            "bullets": [
+              "Viktor Gyökeres had a good fight with the Japanese. Afterwards, he was critical of the refereeing ef...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres had a good fight with the Japanese. Afterwards, he was critical of the refereeing effort. - I don't know why I don't take any free kicks, he says to SVT Sport.",
+            "fullText": "Viktor Gyökeres had a good fight with the Japanese. Afterwards, he was critical of the referee's decision. - I don't know why I don't take any free kicks, he says to SVT Sport.\n\nWatch the interview with a hoarse Viktor Gyökeres in the player above.\n\nSweden cruised with Japan after a 1-1 goal from Anthony Elanga – a goal that took Blue and Yellow to the round of 16.\n\nViktor Gyökeres left goalless, but was a factor in his target role - even if he was taken hard by the Japanese.\n\nThe Swede shouted for free kicks on several occasions. After a melee, he appeared to shout \"every fucking time\" at the referee, whose performance he was critical of after the match.\n\n- When you feel like you can barely stand on your feet and can't get anything, it's clear that it becomes frustrating and annoying, says a hoarse Viktor Gyökeres just after the final whistle.\n\nIt is still unclear what resistance Sweden will encounter here next. But most speak for something from France or Norway.\n\n- That's how it is when you move on from the group. It will be tough opponents and we look forward to the next match regardless of who it will be, says the Arsenal striker.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4322_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden ready for the round of 16 in the World Cup - after a draw against Japan",
+            "bullets": [
+              "Sweden's World Cup adventure in North America continues. Anthony Elanga thundered in 1-1 against Jap...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden's World Cup adventure in North America continues. Anthony Elanga thundered in 1-1 against Japan - which was enough to secure a place in the play-offs. - It's nice, says Elanga to SVT Sport.",
+            "fullText": "Anthony Elanga thundered in 1-1 against Japan - which was enough to secure a place in the play-offs.\n\nThe last group stage match against Japan initially turned out to be a fairly uneventful story - before things really heated up in the second half.\n\nFirst it was Daizen Maeda who broke the deadlock for Japan in the 56th minute.\n\nThen it was Anthony Elanga, six minutes later, who equalized for Sweden.\n\n- You don't think too much. It's more instinct. I'm at my best when I play with a lot of freedom and don't have to think about what I'm doing on the pitch. When it comes naturally, says Elanga.\n\nThe goal was the last of the match and means that Sweden finishes third in its group - and will thus advance to the round of 16 as one of the eight best group threes.\n\n- It feels good! Of course you want to win the match. At the end I heard the leaders say \"take it easy\", because I wanted to go forward with the ball. But I heard them say that because we are further. So that's nice. Very nice, says Elanga.\n\nWho is responsible for the resistance is not yet clear. But the most likely thing is that either France or Norway will wait.\n\n- Both would be a good challenge. But we just have to focus on what's coming for us, says Elanga.\n\nNotable in the match was that Sweden made three changes in the starting eleven. Among other things in the goalkeeper position where Jacob Widell Zetterström stepped in instead of Kristoffer Nordfeldt who started in the two previous matches. In the first half, Sweden was also forced to make a substitution due to an injury to Isak Hien.\n\nAt the end of the match, team captain Victor Nilsson Lindelöf also retired. He was replaced by Carl Starfelt.\n\nIn Nilsson Lindelöf's case, however, it was about cramps.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4334_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien was injured - the WC may be over",
+            "bullets": [
+              "Swedish injuries in the WC. Isak Hien was forced off in the first half against Japan. - It's crushin...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Swedish injuries in the WC. Isak Hien was forced off in the first half against Japan. - It's crushing for him, says national team captain Graham Potter.",
+            "fullText": "Isak Hien was forced off in the first half against Japan.\n\n- It's crushing for him, says national team captain Graham Potter.\n\nAfter 34 minutes in the match against Japan, Hien was left lying down after a cross and grabbed his thigh. He was then helped to leave the plane.\n\n- Heavy match last time for Isak Hien and today incredibly stable and confident in the duel game. It is a big loss for Sweden, says SVT's expert Magnus Eriksson.\n\nUnion captain Graham Potter chose to replace him with Lucas Bergvall - which meant that Victor Nilsson Lindelöf returned to his \"normal\" position as centre-back.\n\n- I think so. It looks bad. It's devastating for him, says Potter.\n\nHowever, he must be examined before a definitive statement is made. When it will happen has not yet been decided, but probably tomorrow, according to Petra Thorén, press manager at the Swedish Football Association.\n\nIn the final stages of the match, Victor Nilsson Lindelöf was also forced to leave with an injury. After the match, the captain himself was able to give reassuring information to SVT Sport.\n\n- Both calves cramped badly, a cramp I've never felt before, he says.\n\n- No, a cramp is a cramp. A little treatment, then there are no problems, says Lindelöf.\n\nGabriel Gudmundsson was also replaced at the end of the match, but there should be no danger with him.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4345_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Confirmed: Sweden makes changes to the starting eleven",
+            "bullets": [
+              "Graham Potter changes Sweden's starting eleven. Just as SVT reported earlier today, they change goal...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Graham Potter changes Sweden's starting eleven. Just as SVT reported earlier today, they change goalkeepers and Victor Nilsson Lindelöf starts in midfield. - It is remarkable, says SVT's expert Magnus Eriksson.",
+            "fullText": "Just as SVT reported earlier today, they change goalkeepers and Victor Nilsson Lindelöf starts in midfield.\n\n- It is remarkable, says SVT's expert Magnus Eriksson.\n\nAhead of tonight's fateful match against Japan, national team captain Graham Potter has received many questions about whether he plans to make changes to Sweden's starting eleven.\n\nPotter has responded cryptically, sticking to the principle of not revealing anything.\n\nBut in recent days of closed training, the national team has prepared to make extensive changes.\n\nSVT learns that tonight's Swedish starting line-up may look completely different from the one that was fielded against Tunisia and the Netherlands.\n\nBased on how Sweden has trained over the past few days, a goalkeeper change can reportedly be expected. In such cases, Jacob Widell Zetterström had taken Kristoffer Nordfeldt's place between the posts. In addition, Victor Nilsson Lindelöf can take a step up in the defensive midfield.\n\nIn Wednesday's match-preparatory training, Elliot Stroud also played as the regular left wing-back, while Gabriel Gudmundsson stepped down into the centre-back line. In addition, Anthony Elanga took a place in the attack together with Alexander Isak and Viktor Gyökeres.\n\nThe changes would mean that Kristoffer Nordfeldt, Jesper Karlström and Benjamin Nygren are benched.\n\nUpdate: When the official eleven was released 90 minutes before kick-off, SVT's information was confirmed.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4351_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Football fans charge at Böda Sand - but must not cheer if there is a goal: \"Celebrate quietly\"",
+            "bullets": [
+              "Is it possible to be quiet if Sweden scores a goal? At the Böda Sands campsite on Öland, Sweden's ma...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Is it possible to be quiet if Sweden scores a goal? At the Böda Sands campsite on Öland, Sweden's match against Japan will be shown on a big screen, but the fans will have to keep the sound level low so as not to disturb other camping guests because it is broadcast in the middle of the night.",
+            "fullText": "Is it possible to be quiet if Sweden scores a goal? At the Böda Sands campsite on Öland, Sweden's match against Japan will be shown on a big screen, but the fans will have to keep the sound level low so as not to disturb other camping guests because it is broadcast in the middle of the night.\n\nSVT tested the campsite's guests - that's what a silent goal cheer sounds like\n\nAt 01:00 on the night between Thursday and Friday, Sweden meets Japan in the decisive group stage match in the World Cup. At Böda Sands campsite, the match will be shown on a big screen at the stage for everyone who lives at the campsite and who does not want to check in their caravans.\n\nBut if Sweden scores, it must be celebrated in silence. After 11 p.m., the campsite must be quiet. Therefore, the sound level of the broadcast will also be lower than usual.\n\n\"Think of cheering quietly at goals and wins and going home quietly after the game so that all the children can sleep soundly all night,\" writes the campsite on social media.\n\n- It never works, says Andreas Persson, who will be watching the match.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4401_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Guide: Here are the WC results Sweden is hoping for",
+            "bullets": [
+              "Sweden is ranked as the best third ahead of the final group stage in the FIFA World Cup. But will th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden is ranked as the best third ahead of the final group stage in the FIFA World Cup. But will three points be enough? It depends on what countries like Ecuador, Iran and Congo-Kinshasa come up with.",
+            "fullText": "Sweden is ranked as the best third ahead of the final group stage in the FIFA World Cup.\n\nIt depends on what countries like Ecuador, Iran and Congo-Kinshasa come up with.\n\nSweden can still advance as the worst group runner-up, but then victory against Japan is required. If not, the hope is to become one of the eight best three.\n\n- There were a lot of negative headlines about us being outplayed and that everyone was snuffed out at the football party. But despite the loss (against the Netherlands), the situation is very, very good, said SVT's expert Jonas Eriksson in Sportspegeln.\n\nIf the results turn out to be the most expected, it looks like Sweden will manage with the three points they already have thanks to the 5-1 victory against Tunisia. But shocks from, among others, the Czech Republic or Ecuador can prevent that and force Sweden to take points against Japan.\n\nJapan–Sweden is played at 01.00 during the night between Thursday and Friday. SVT's broadcast from the match starts at 00.00.\n\nHere are the standings in the twelve WC groups, listed in the order they are decided\n\nGroup E Standings: Germany 6, Ivory Coast 3, Ecuador 1, Curaçao 1 Remaining matches: Ecuador-Germany, Curaçao-Ivory Coast (Thursday 22.00) Most likely: That Ecuador and Curaçao will be winless and the group will get a weak third.Swedish nightmare result: Germany - already clear group winner - loses to Ecuador.\n\nGroup F Standings: Netherlands 4, Japan 4, Sweden 3, Tunisia 0 Remaining matches: Japan–Sweden, Tunisia–Netherlands (Friday 01.00) Most likely: Japan to win and Sweden to be third on 3 points. Swedish dream result: Swedish victory and second place in the group. Or at least a point, to almost certainly advance as third.\n\nGroup D Standings: USA 6, Australia 3, Paraguay 3, Turkey 0 Remaining matches: Turkey-USA, Paraguay-Australia (Friday 04.00) Most likely: Paraguay and Australia cruise and both end up with 4 points. Swedish dream result: One of the teams wins and group three stays on 3 points.\n\nGroup I Standings: France 6, Norway 6, Senegal 0, Iraq 0 Remaining matches: Norway-France, Senegal-Iraq (Friday 21.00) Most likely: Senegal beat Iraq and finish on 3 points. Swedish dream result: It will be a draw and both teams stay on 1 point.\n\nGroup H Standings: Spain 4, Uruguay 2, Cape Verde 2, Saudi Arabia 1 Remaining matches: Uruguay-Spain, Cape Verde-Saudi Arabia (Saturday 02.00) Most likely: Wins for Spain and Cape Verde. Uruguay third in the group on 2 points. Swedish nightmare result: Uruguay cruises or - even worse - wins against Spain.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4407_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Here is the detail on Alexander Isak's shoes: \"Means everything\"",
+            "bullets": [
+              "The roots are included out on the plane. Alexander Isak runs around chasing hits with his background...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The roots are included out on the plane. Alexander Isak runs around chasing hits with his background as strength. - It means everything to me, he says.",
+            "fullText": "Alexander Isak runs around chasing hits with his background as strength.\n\nIt is small details that stand out on Alexander Isak's shoes when he is out representing his country during the World Cup.\n\nThe football boots have a Swedish flag on one and an Eritrean flag on the other.\n\n- That's where my roots come from. It means an incredible amount to my family, in the same way that Sweden does. It's absolutely nothing I compare (the nations), says the Liverpool star with parents from Eritrea.\n\nIn that country, the Liverpool star naturally has a large group of fans and the support is great.\n\n- I feel it very much, actually all the time. It never dies. The support from Sweden during the World Cup takes over, of course, but it's something that I always have with me, he says.\n\nNext up is Japan for Alexander Isak and the rest of the Swedish national team. It is about a final group stage match at the World Cup and the match kicks off at 01:00 on the night of Friday, Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4409_8",
+            "category": "sweden",
+            "type": "News",
+            "title": "Netherlands power to win over Tunisia and set up last-32 meeting with Morocco",
+            "bullets": [
+              "The Oranje bus had better get a move on. A comfortable victory over Tunisia after being sent on thei...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Oranje bus had better get a move on. A comfortable victory over Tunisia after being sent on their way by a record-equalling 12th own goal of the tournament and further strikes from Brian Brobbey and Jan Paul van Hecke sealed top spot in Group F for the Netherlands ahead of Japan.Their prize is avoiding a meeting with Brazil in the last 32, with Ronald Koeman’s side now set for a mouthwatering showdown with Morocco in Monterrey instead. Having arrived in southern Texas almost a month ago and already taken in games in Dallas, Houston and Kansas City, the specially converted double decker that has become a fixture at recent major tournaments now faces a journey of more than 1,000 miles before Monday’s game in northern Mexico. It is a challenge that Koeman is clearly wary of. Continue reading...",
+            "fullText": "TheOranjebus had better get a move on. Acomfortable victory over Tunisiaafter being sent on their way by a record-equalling 12th own goal of the tournament and further strikes from Brian Brobbey and Jan Paul van Hecke sealed top spot in Group F for the Netherlands ahead of Japan.\n\nTheir prize is avoiding a meeting with Brazil in the last 32, with Ronald Koeman’s side now set for amouthwatering showdown with Moroccoin Monterrey instead. Having arrived in southern Texas almost a month ago and already taken in games in Dallas, Houston and Kansas City, the specially converted double decker that has become a fixture at recent major tournaments now faces a journey of more than 1,000 miles before Monday’s game in northern Mexico. It is a challenge that Koeman is clearly wary of.\n\n“At some point we got too comfortable but it won’t happen in the next match,” said theNetherlandsmanager, whose side will stay at their training base in Kansas until 24 hours before they face Morocco. “It will be a big game with a lot of quality and we know them very well because many of their squad members play in the Eredivisie. There’s always room for improvement and we will need to improve if we are going to go further in this competition.”\n\nNumbers for the Dutch supporters’ traditional march to the stadium earlier in the day had been swelled by thousands of Kansas City locals who usually avoid wearing anything orange because it’s the colour of the Chiefs’ NFL rivals the Denver Broncos but had made an exception for one day only. Torrential rain and lightning storms brought an early end to the pre-match festivities as the fanzone had to be closed as a shelter-in-place order was issued at the venue usually known as the Arrowhead Stadium. That was lifted an hour before kick-off as the threat of more thunder and lightning fortunately dissipated, although the exposed bowl meant ponchos were still required to combat the elements during the second half.\n\nKoeman defended Frenkie de Jong from a media backlash after he responded to criticism by saying “in reality, many people don’t understand football” after their5-1 thrashing of Swedenin the last match. Despite some injury concerns, the Barcelona midfielder ran the show again after he was included in a virtually full-strength side only missing Tottenham’s Micky van de Ven and Crysencio Summerville after both picked up yellow cards in previous matches.\n\nHervé Renard was watching the World Cup on holiday in Senegal when he got the call to replace Sabri Lamouchi followingTunisia’s 5-1 thrashingin their opener against Sweden. This was the Frenchman’s 145th game as an international manager having previously taken charge of five different African countries, including two stints in charge of Zambia. The dashing 57-year-old who was in charge of Saudi Arabia when theyshocked Argentina at the last World Cuphinted beforehand that he could be tempted to stay with the Carthage Eagles beyond this tournament because “I missed Africa”.\n\nRenard may have second thoughts after the way his side defended in the first 10 minutes. They should have been ahead inside 70 seconds when Ismaël Gharbi – one of four changes from their4-0 hammering against Japan– spurned a brilliant opportunity inside the Dutch area from Hazem Mastouri’s pass. “We weren’t good enough,” was Renard’s honest assessment​.\n\nThe Netherlands went ahead less than a minute later when Ellyes Skhiri comically diverted a dangerous cross from Denzel Dumfries past his own goalkeeper to equal the mark set in Qatar four years ago before the group stages have even been completed. Brobbey doubled the lead when an unmarked Virgil van Dijk picked out the similarly undetected Sunderland striker from a free-kick.\n\nThe small number of Tunisia fans inside the stadium must have feared the worst at that point. But their side could have been back in it if Norwich’s Anis Ben Slimane had directed his header a yard either side of Bart Verbruggen.\n\nKick off your evenings with the Guardian's take on the world of football\n\nWith Japan being held by Sweden at half-time, the Netherlands could be forgiven for taking their foot off the gas. Dumfries almost had a third at the start of the second half when his goalbound volley was blocked.\n\nBut Mastouri’s header from Hannibal Mejbri’s corner was followed by news that Daezen Maeda had given Japan the lead in Dallas. Any nerves were swiftly followed by Van Hecke’s header from a corner to respire the two-goal cushion, with cheers greetingAnthony Elanga’s equaliser for Swedenwhen the score was flashed up on the big screen.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4411_9",
+            "category": "sweden",
+            "type": "News",
+            "title": "Japan and Sweden both reach World Cup last 32 after Elanga’s strike seals draw",
+            "bullets": [
+              "Thank goodness this is Dallas and not Gijon. There was ultimately no disgrace in a draw that served ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thank goodness this is Dallas and not Gijon. There was ultimately no disgrace in a draw that served everybody, even if one might have forgiven Graham Potter and Hajime Moriyasu for shaking hands at half-time. At that point most onlookers may have fancied calling it all off too but a much sparkier second half served up two moments to cherish and left Sweden, who had risked throwing such a promising campaign away, certain of a spot in the last 32.Japan were already confident of theirs and, as runners-up, will face Brazil in Houston on Monday. It is a mouthwatering knockout clash that surely has no business being contested at so early a point in the competition. In fairness a lower finish may have served them no better and they can be spurred by the precedent set by recent history. Back in October, after all, they thrillingly beat Carlo Ancelotti’s side in Tokyo. They will feel able to do it again and there was no point risking the third-place lottery here. Continue reading...",
+            "fullText": "Thank goodness this is Dallas andnot Gijon. There was ultimately no disgrace in a draw that served everybody, even if one might have forgiven Graham Potter and Hajime Moriyasu for shaking hands at half-time. At that point most onlookers may have fancied calling it all off too but a much sparkier second half served up two moments to cherish and left Sweden, who had risked throwing such a promising campaign away, certain of a spot in the last 32.\n\nJapan were already confident of theirs and, as runners-up, will face Brazil in Houston on Monday. It is a mouthwatering knockout clash that surely has no business being contested at so early a point in the competition. In fairness a lower finish may have served them no better and they can be spurred by the precedent set by recent history. Back in October, after all, they thrillingly beat Carlo Ancelotti’s side in Tokyo. They will feel able to do it again and there was no point risking the third-place lottery here.\n\nTo emphasise that they roused themselves after a sterile first half that had, once the Netherlands had extended their lead against Tunisia, seen their designs on winning Group F slip away. They took the lead with a marvellously worked goal from Daizen Maeda, the recalled Celtic forward, and for a spellSwedencould not handle their head-spinning interplays. But a piece of long-range brilliance from Anthony Elanga meant everyone got what they came for and Potter could embrace his staff delightedly by the end.\n\n“I’d have snapped his hand off, yeah!” he joked when asked how he would have reacted if Moriyasu suggested a draw. But he was happy with the serious business, which saw his team finish the stronger and almost snatch their own date with theSeleçaowhen Alexander Isak’s late header was turned on to the bar.\n\n“Over the course of the game I think it was a fair result and arguably we were slightly better in the second half,” he said. The opening period could not have been much worse for neutrals, who absorbed a strange match that bore the illusion of openness while barely raising the pulse. Keita Nakamura’s shot just before the whistle, which brought a stretching save from Jacob Widell Zetterström, was the only action of note and it was impossible not to think time was being played out.\n\nWidell Zetterström was a surprise choice in goal by Potter, who had also drafted in Elanga after the winger’s goalscoring contribution against the Netherlands.Sweden’s 5-1 defeat in that gamehad undone the good work of their identicallyemphatic win over Tunisiaand at least they had managed to tighten the margins here. An apparent hamstring injury to the centre-back Isak Hien, heavily criticised after being bullied by Brian Brobbey, was an early setback that may have longer-term repercussions but they were steady enough until Japan turned up the dial.\n\nThen Ritsu Doan, the Eintracht Frankfurt winger, woke up and created a rapier-like opener. Doan took a return pass from Ayase Ueda, who had held the ball cleverly, and zipped it first time into the path of an alert Maeda. The finish was unerring and now Potter, who certainly could not afford anything heavier than a one-goal reverse, found himself in a spot.\n\nHe was hauled out of it within six minutes by a stunning intervention by Elanga, who took possession on the right after Viktor Gyökeres had shuttled away from Ao Tanaka. It was Gyokeres’s presence of mind, drawing Tanaka further from the action with an unselfish run, that allowed Elanga to cut inside and take aim. The shot, from an ambitious angle, swerved devilishly and Zion Suzuki appeared to see it late as it bent around him.\n\nPotter singled out the contribution of Gyökeres, who put in the hard yards throughout. “An outstanding performance from a centre-forward with his back to goal,” he said. But it was the largely quiet Isak’s near-post flick from a corner, snicked on to the woodwork by an increasingly busy Suzuki, that almost stole the show in added time.\n\nKick off your evenings with the Guardian's take on the world of football\n\nSweden could yet be paired with Germany, France or even Norway in the next round, complicating Potter’s preparations while they wait. There is greater clarity for Japan and Moriyasu, who could not hide his excitement about the task in hand.\n\n“This is proof of the growth in Japanese football,” he said of the reunion with Ancelotti and company, clearly taking confidence from last year’s 3-2 success. “Of course [Brazil] are perfect but we do believe there is a chance for us to win. We proved to Brazil that we’re not a pushover and that’s a great advancement for us.”",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4413_10",
+            "category": "sweden",
+            "type": "News",
+            "title": "Manchester City agree £116m fee with Nottingham Forest for Elliot Anderson",
+            "bullets": [
+              "England midfielder eager to move to Etihad StadiumForest eye Lucas Bergvall as potential replacement...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder eager to move to Etihad StadiumForest eye Lucas Bergvall as potential replacementManchester City have agreed a deal with Nottingham Forest to sign Elliot Anderson for £116m, a record for a British player.Forest’s owner, Evangelos Marinakis, had insisted any deal for Anderson would have to eclipse the £125m Liverpool paid to sign Alexander Isak from Newcastle last summer. Continue reading...",
+            "fullText": "Manchester City have agreed a deal withNottingham Forestto sign Elliot Anderson for £116m, a record for a British player.\n\nForest’s owner, Evangelos Marinakis, had insisted any deal for Anderson would have to eclipse the£125m Liverpool paidto sign Alexander Isak from Newcastle last summer.\n\nTheEnglandmidfielder is expected to have a medical in the US, where he is on international duty at the World Cup, in the next 24 hours. Anderson has always preferred a move to the Etihad Stadium over signing for Manchester United, who were also interested in the player. City made him a key target this window, previously having two bids rejected for the 23-year-old.\n\nAnderson has spent two seasons at the City Ground after moving from Newcastle for £35m. During his time in Nottingham, he helped the club finish seventh in the Premier League and reach the Europa League semi-finals.\n\nClub form brought him to the attention of the national team and he has become a regular in Thomas Tuchel’s England side since making his debut last September, earning 11 caps. He has started the opening two games of theWorld Cup against Croatiaand Ghana.\n\nForest are interested in signing Lucas Bergvall as Anderson’s replacement. The Tottenham midfielder wants to leave and talks have already been held over a potential £45m move, although the Sweden international is expected to attract interest from elsewhere.\n\nAnderson has enjoyed an extraordinary rise since breaking into Newcastle’s first team on his return from a fruitful loan at fourth-tier Bristol Rovers in the second half of the 2021-22 season. He scored against his former club in his final Forest match last month, after which the Newcastle manager, Eddie Howe, made it clear his departure rankled.\n\n“We knew that would be a very, very painful transfer, one that we had to do,” Howe said. “We had no choice, but it was probably the most reluctant transfer I’ll ever do, because we knew the quality of the player.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nNewcastle will not benefit from Anderson’s transfer to City as they hastily forced through the sale to satisfy the Premier League’s profitability and sustainability regulations, with Odysseas Vlachodimos moving in the opposite direction as part of the deal between the clubs. At the time Forest valued Anderson at £15m and Vlachodimos at £20m.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-25 @ 19:11:50 EDT",
+  "lastUpdated": "2026-06-26 @ 01:44:13 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
