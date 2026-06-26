@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Sema gave a speech for the team before the shocker: \"Many were moved\"",
+      "link": "https://www.svt.se/sport/fotboll/sema-holl-tal-for-laget-infor-rysaren-manga-blev-rorda"
+    },
+    {
       "text": "⚽ That's how tired the Swedes were after the WC night in 1994",
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/sa-trotta-var-svenskarna-efter-vm-natten-1994"
     },
@@ -26,6 +30,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Isak Hien was injured - the WC may be over",
       "link": "https://www.svt.se/sport/fotboll/svenska-smallen-isak-hien-utgick-skadad"
+    },
+    {
+      "text": "⚽ Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
+      "link": "https://www.theguardian.com/football/2026/jun/26/senegal-iraq-world-cup-group-i-match-report"
     },
     {
       "text": "⚽ Japan and Sweden both reach World Cup last 32 after Elanga’s strike seals draw",
@@ -7214,11 +7222,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0016_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sema gave a speech for the team before the shocker: \"Many were moved\"",
+            "bullets": [
+              "Confederation captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan. K...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Confederation captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan. Ken Sema was sent forward to give a speech to the team. - It was just before we went to the arena, he says.",
+            "fullText": "Confederation captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan.\n\nKen Sema was sent forward to give a speech to the team.\n\n- It was just before we went to the arena, he says.\n\nWatch the clip in the player above where Sema talks about how his teammates reacted to his speech.\n\nSweden went into the final group stage match in a tight spot and needed a good result to secure a place in the round of 16.\n\nKen Sema then stepped forward and gave a speech to the team.\n\n- I just went and waited to be part of a big championship. Being here is special on many levels, for me and my family. When Graham called and I was selected, there was a lot of emotion. I called my dad and it was an emotional conversation as well. He (the father) usually doesn't show much like that, says Sema.\n\n- He thought it was a nice story and asked me to tell it to the team. Then I thought \"okay...?\", he says with a laugh and continues:\n\n- It felt like it hit home and many could relate. I spoke to Kim (Källström, football manager) and he also said that it was exactly what we needed.\n\nThe Pafos defender had his family there in connection with the match against Japan.\n\n- Unbelievable. They held a big sign with \"Ken Sema\". It is very big. They are so unperturbed and just drive.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0019_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "That's how tired the Swedes were after the WC night in 1994",
+            "bullets": [
+              "Are you tired after staying up all night watching Sweden advance in the World Cup? The feeling was, ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Are you tired after staying up all night watching Sweden advance in the World Cup? The feeling was, to say the least, the same among the county residents during the 1994 WC.",
+            "fullText": "Are you tired after staying up all night watching Sweden advance in the World Cup?\n\nThe feeling was, to say the least, the same among the county residents during the 1994 WC.\n\nWhen Sweden took the historic bronze in the 1994 World Cup in the USA, many matches were played at night, Swedish time. Just like this year, in other words.\n\nAnd just like now, large parts of Sweden stayed up and followed the national team as it dug for gold in the states.\n\nSVT met extremely tired workers in Timrå and Sundsvall the day after Sweden's World Cup premiere against Cameroon in California. Due to the time difference, the match started at 01:30 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0024_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "See Elanga's attention-grabbing reaction to plan: \"Didn't know\"",
+            "bullets": [
+              "All Swedish players celebrated the WC promotion. Except for Anthony Elanga - who didn't understand t...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All Swedish players celebrated the WC promotion. Except for Anthony Elanga - who didn't understand that they had moved on. - I didn't know that one point was enough, says the star.",
+            "fullText": "Except for Anthony Elanga - who didn't understand that they had moved on.\n\n- I didn't know that one point was enough, says the star.\n\nWatch Elanga's reaction and his explanation for the images in the video above.\n\n24-year-old Anthony Elanga scored the important equalizing goal that completely secured Sweden's place in the round of 16.\n\nWhen the final whistle went against Japan, the Swedish players and leaders cheered. But Elanga did not understand that the cross was enough to progress.\n\nTeammate Alexander Isak noticed that something was not right and heard the explanation afterwards.\n\n- He (Elanga) got a little scolding from me there. He was a little frustrated at the end of the match and you understand that now, says Isak.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0027_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "They have Sweden's best chance to face them in the round of 16",
+            "bullets": [
+              "Sweden cruised against Japan and is thus ready for the round of 16. At the time of writing, most thi...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden cruised against Japan and is thus ready for the round of 16. At the time of writing, most things point to Blågult facing either France or Norway. - I am completely clear in my choice: Norway, says expert Bojan Djordjic in SVT's WC studio.",
+            "fullText": "Sweden cruised against Japan and is thus ready for the round of 16. At the time of writing, most things point to Blågult facing either France or Norway. - I am completely clear in my choice: Norway, says expert Bojan Djordjic in SVT's WC studio.\n\nSee Bojan's reasoning about the neighboring country in the player above.\n\nSweden is further in the football World Cup in that they will finish among the eight best group threes.\n\nThe promotion is completely clear, and now most things point to Sweden being pitted against the winner in Group I.\n\nIn that group, France settles with Norway for first place at 21:00 tonight. France has the better goal difference and can thus win the group with a cross.\n\nThis means that Sweden has over a 74 percent chance of being pitted against France. The chance of being pitted against rival Norway is over 25 percent.\n\nThe round of 16 will be played in New York on Tuesday. Kick-off 23.00 Swedish time.\n\nSweden previously had a chance to face Germany. But it basically disappeared completely with Paraguay's advancement from the group stage on Friday morning.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0031_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Viktor Gyökeres critical of the referee's move: \"Frustrating\"",
+            "bullets": [
+              "Viktor Gyökeres had a good fight with the Japanese. Afterwards, he was critical of the refereeing ef...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres had a good fight with the Japanese. Afterwards, he was critical of the refereeing effort. - I don't know why I don't take any free kicks, he says to SVT Sport.",
+            "fullText": "Viktor Gyökeres had a good fight with the Japanese. Afterwards, he was critical of the referee's decision. - I don't know why I don't take any free kicks, he says to SVT Sport.\n\nWatch the interview with a hoarse Viktor Gyökeres in the player above.\n\nSweden cruised with Japan after a 1-1 goal from Anthony Elanga – a goal that took Blue and Yellow to the round of 16.\n\nViktor Gyökeres left goalless, but was a factor in his target role - even if he was taken hard by the Japanese.\n\nThe Swede shouted for free kicks on several occasions. After a melee, he appeared to shout \"every fucking time\" at the referee, whose performance he was critical of after the match.\n\n- When you feel like you can barely stand on your feet and can't get anything, it's clear that it becomes frustrating and annoying, says a hoarse Viktor Gyökeres just after the final whistle.\n\nIt is still unclear what resistance Sweden will encounter here next. But most speak for something from France or Norway.\n\n- That's how it is when you move on from the group. It will be tough opponents and we look forward to the next match regardless of who it will be, says the Arsenal striker.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0035_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden ready for the round of 16 in the World Cup - after a draw against Japan",
+            "bullets": [
+              "Sweden's World Cup adventure in North America continues. Anthony Elanga thundered in 1-1 against Jap...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sweden's World Cup adventure in North America continues. Anthony Elanga thundered in 1-1 against Japan - which was enough to secure a place in the play-offs. - It's nice, says Elanga to SVT Sport.",
+            "fullText": "Anthony Elanga thundered in 1-1 against Japan - which was enough to secure a place in the play-offs.\n\nThe last group stage match against Japan initially turned out to be a fairly uneventful story - before things really heated up in the second half.\n\nFirst it was Daizen Maeda who broke the deadlock for Japan in the 56th minute.\n\nThen it was Anthony Elanga, six minutes later, who equalized for Sweden.\n\n- You don't think too much. It's more instinct. I'm at my best when I play with a lot of freedom and don't have to think about what I'm doing on the pitch. When it comes naturally, says Elanga.\n\nThe goal was the last of the match and means that Sweden finishes third in its group - and will thus advance to the round of 16 as one of the eight best group threes.\n\n- It feels good! Of course you want to win the match. At the end I heard the leaders say \"take it easy\", because I wanted to go forward with the ball. But I heard them say that because we are further. So that's nice. Very nice, says Elanga.\n\nWho is responsible for the resistance is not yet clear. But the most likely thing is that either France or Norway will wait.\n\n- Both would be a good challenge. But we just have to focus on what's coming for us, says Elanga.\n\nNotable in the match was that Sweden made three changes in the starting eleven. Among other things in the goalkeeper position where Jacob Widell Zetterström stepped in instead of Kristoffer Nordfeldt who started in the two previous matches. In the first half, Sweden was also forced to make a substitution due to an injury to Isak Hien.\n\nAt the end of the match, team captain Victor Nilsson Lindelöf also retired. He was replaced by Carl Starfelt.\n\nIn Nilsson Lindelöf's case, however, it was about cramps.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0039_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien was injured - the WC may be over",
+            "bullets": [
+              "Swedish injuries in the WC. Isak Hien was forced off in the first half against Japan. - It's crushin...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Swedish injuries in the WC. Isak Hien was forced off in the first half against Japan. - It's crushing for him, says national team captain Graham Potter.",
+            "fullText": "Isak Hien was forced off in the first half against Japan.\n\n- It's crushing for him, says national team captain Graham Potter.\n\nAfter 34 minutes in the match against Japan, Hien was left lying down after a cross and grabbed his thigh. He was then helped to leave the plane.\n\n- Heavy match last time for Isak Hien and today incredibly stable and confident in the duel game. It is a big loss for Sweden, says SVT's expert Magnus Eriksson.\n\nUnion captain Graham Potter chose to replace him with Lucas Bergvall - which meant that Victor Nilsson Lindelöf returned to his \"normal\" position as centre-back.\n\n- I think so. It looks bad. It's devastating for him, says Potter.\n\nHowever, he must be examined before a definitive statement is made. When it will happen has not yet been decided, but probably tomorrow, according to Petra Thorén, press manager at the Swedish Football Association.\n\nIn the final stages of the match, Victor Nilsson Lindelöf was also forced to leave with an injury. After the match, the captain himself was able to give reassuring information to SVT Sport.\n\n- Both calves cramped badly, a cramp I've never felt before, he says.\n\n- No, a cramp is a cramp. A little treatment, then there are no problems, says Lindelöf.\n\nGabriel Gudmundsson was also replaced at the end of the match, but there should be no danger with him.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0041_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
+            "bullets": [
+              "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-man Iraq in their Group I finale.Ismaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time for the Lions of Teranga, who sealed a third-place group finish and are vying for one ⁠of the eight third-place spots in the last 32. Continue reading...",
+            "fullText": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-manIraqin their Group I finale.\n\nIsmaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time for the Lions of Teranga, who sealed a third-place group finish and are vying for one ⁠of the eight third-place spots in the last 32.\n\nSenegal currently hold the fifth-best record of third-place sides based on their +2 goal difference, but ⁠four of the teams beneath them have yet to play their final group matches.\n\nHabib Diarra ​opened the scoring in the fourth minute ‌while it was still ‌XI against XI, and Iliman Ndiaye wrapped it up with his own long-range effort in ‌the 82nd minute.\n\nThe result meant that Iraq were eliminated from their secondWorld Cupand first since 1986. They were underdogs from kick-off but the prospect of their first World Cup points grew more remote when the referee, Anthony Taylor, dismissed Rebin Sulaka for denying an obvious goalscoring opportunity in the 13th minute.\n\nTaylor initially brandished a yellow card after ‌Sadio Mané dribbled past Sulaka, who hauled him back with an outstretched arm. But Taylor was summoned to consult a video monitor and, after ​viewing the play again, upgraded the decision to a red card.\n\nSenegal couldn’t capitalise during a frustrating remainder of the first half, but that all changed after the interval.\n\nLamine Camara set up Sarr’s 56th-minute goal to begin the second-half onslaught, forcing an Iraq turnover in their own box, dribbling to the byline, then ⁠cutting a low cross back for the Crystal Palace forward to tap into an open ​goal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nGueye entered immediately after ​Sarr’s contribution and soon made ​his own impact. Just before the hour mark, he took Sarr’s pass near the ​right corner of the ‌box, dribbled to his ​left and then ​unleashed a left-footed strike that curled beyond the diving Jalal Hassan on its way into the top corner.\n\nIn the 71st minute, Gueye ran on to Ndiaye’s bouncing pass and struck a thunderous half-volley that barely gave Hassan time to move before it bulged the back of the net.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0043_8",
+            "category": "sweden",
+            "type": "News",
+            "title": "Japan and Sweden both reach World Cup last 32 after Elanga’s strike seals draw",
+            "bullets": [
+              "Thank goodness this is Dallas and not Gijón. There was ultimately no disgrace in a draw that served ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thank goodness this is Dallas and not Gijón. There was ultimately no disgrace in a draw that served everyone, even if one might have forgiven Graham Potter and Hajime Moriyasu for shaking hands at half-time. At that point most onlookers may have fancied calling it all off too but a much sparkier second half served up two moments to cherish and left Sweden, who had risked throwing such a promising campaign away, certain of a spot in the last 32.Japan were already confident of theirs and, as runners-up, will face Brazil in Houston on Monday. It is a mouthwatering knockout clash that surely has no business being contested so early in the competition. In fairness a lower finish might have served them no better and they can be spurred by the precedent set by recent history. Back in October, after all, they thrillingly beat Carlo Ancelotti’s side in Tokyo. They will feel able to do it again and there was no point risking the third-place lottery here. Continue reading...",
+            "fullText": "Thank goodness this is Dallas andnot Gijón. There was ultimately no disgrace in a draw that served everyone, even if one might have forgiven Graham Potter and Hajime Moriyasu for shaking hands at half-time. At that point most onlookers may have fancied calling it all off too but a much sparkier second half served up two moments to cherish and left Sweden, who had risked throwing such a promising campaign away, certain of a spot in the last 32.\n\nJapan were already confident of theirs and, as runners-up, will face Brazil in Houston on Monday. It is a mouthwatering knockout clash that surely has no business being contested so early in the competition. In fairness a lower finish might have served them no better and they can be spurred by the precedent set by recent history. Back in October, after all, they thrillingly beat Carlo Ancelotti’s side in Tokyo. They will feel able to do it again and there was no point risking the third-place lottery here.\n\nTo emphasise that, they roused themselves after a sterile first half that had seen their designs on winning Group F slip away, once the Netherlands had extended their lead against Tunisia. They took the lead with a marvellously worked goal from Daizen Maeda, the recalled Celtic forward, and for a spellSwedencould not handle their head-spinning interplays. But a piece of long-range brilliance from Anthony Elanga meant everyone got what they came for and Potter could embrace his staff delightedly by the end.\n\n“I’d have snapped his hand off, yeah!” he joked when asked how he would have reacted if Moriyasu suggested a draw. But he was happy with the serious business, in which his team finished the stronger and almost snatched their own date with theSeleçaowhen Alexander Isak’s late header was turned on to the bar.\n\n“Over the course of the game I think it was a fair result and arguably we were slightly better in the second half,” he said. The opening period could not have been much worse for neutrals, who absorbed a strange match that bore the illusion of openness while barely raising the pulse. Keita Nakamura’s shot just before the whistle, which brought a stretching save from Jacob Widell Zetterström, was the only action of note and it was impossible not to think time was being played out.\n\nWidell Zetterström was a surprise choice in goal by Potter, who had also drafted in Elanga after the winger’s goalscoring contribution against the Netherlands.Sweden’s 5-1 defeat in that gamehad undone the good work of their identicallyemphatic win over Tunisiaand at least they had managed to tighten the margins here. An apparent hamstring injury to the centre-back Isak Hien, heavily criticised after being bullied by Brian Brobbey, was an early setback that may have longer-term repercussions but they were steady enough until Japan turned up the dial.\n\nThen Ritsu Doan, the Eintracht Frankfurt winger, woke up and created a rapier-like opener. Doan took a return pass from Ayase Ueda, who had held the ball cleverly, and zipped it first time into the path of an alert Maeda. The finish was unerring and now Potter, who certainly could not afford anything heavier than a one-goal reverse, found himself in a spot.\n\nHe was hauled out of it within six minutes by a stunning intervention from Elanga, who took possession on the right after Viktor Gyökeres had shuttled away from Ao Tanaka. It was Gyökeres’s presence of mind, drawing Tanaka further from the action with an unselfish run, that allowed Elanga to cut inside and take aim. The shot, from an ambitious angle, swerved devilishly and Zion Suzuki appeared to see it late as it bent around him.\n\nPotter singled out the contribution of Gyökeres, who put in the hard yards throughout. “An outstanding performance from a centre-forward with his back to goal,” he said. But it was the largely quiet Isak’s near-post flick from a corner, snicked on to the woodwork by an increasingly busy Suzuki, that almost stole the show in added time.\n\nKick off your evenings with the Guardian's take on the world of football\n\nSweden could yet be paired with Germany, France or even Norway in the next round, complicating Potter’s preparations while they wait. There is greater clarity for Japan and Moriyasu, who could not hide his excitement about the task in hand. “This is proof of the growth in Japanese football,” he said of the reunion with Ancelotti and company, clearly taking confidence from last year’s 3-2 success. “Of course [Brazil] are perfect but we do believe there is a chance for us to win. We proved to Brazil that we’re not a pushover and that’s a great advancement for us.”\n\nJapan had their own chance to make the point even more emphatically when the substitute Koki Ogawa scooped over but their fate, and that of this game, had only occasionally been in genuine doubt.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-26 @ 16:17:22 EDT",
+  "lastUpdated": "2026-06-26 @ 19:00:43 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
