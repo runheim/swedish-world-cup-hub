@@ -4,12 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Tuchel defends full-back selection after James injury",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ 'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx2d8gvdlr0o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
       "link": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England’s Reece James ruled out for at least two games with hamstring injury",
-      "link": "https://www.theguardian.com/football/2026/jun/26/england-reece-james-ruled-out-two-games-world-cup-hamstring-injury-panama"
+      "text": "⚽ England through to last 32 of the World Cup after Uruguay exit against Spain",
+      "link": "https://www.theguardian.com/football/2026/jun/27/england-through-to-last-32-of-the-world-cup-after-uruguay-exit-against-spain"
     },
     {
       "text": "⚽ ‘We’re on the same path now’: Toney on good terms with Tuchel and awaiting his chance",
@@ -26,6 +34,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ From cheap transport to football geekery: how Zohran Mamdani won the World Cup",
       "link": "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
+    },
+    {
+      "text": "⚽ Tuchel: Saka pain free and ready to start against Panama",
+      "link": "https://www.skysports.com/football/news/12040/13558175/england-vs-panama-bukayo-saka-fit-and-ready-to-start-in-three-lions-final-group-game-plus-reece-james-elliot-anderson-declan-rice-injury-news"
     }
   ],
   "timeline": {
@@ -12317,10 +12329,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-27": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0624_0",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel defends full-back selection after James injury",
+            "bullets": [
+              "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match agai...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match against Panama through injury.",
+            "fullText": "England manager Thomas Tuchel has defended his full-back selection policy after confirming Reece James will miss Saturday's World Cup match against Panama.\n\nAs revealed by BBC Sport this week, James was assessed by England medics following  Tuesday's goalless draw against Ghana after complaining of a hamstring issue.\n\nTuchel has since confirmed that the Chelsea right-back has not travelled to New Jersey from their Kansas City base for their final Group L game against Panama on Saturday (22:00 BST). He insists James has a chance of playing in England's last-32 match next week.\n\nHowever, BBC Sport understands that James is a significant doubt for the start of the knockout stages, with England now guaranteed a place even if they were to drop to third in their group.\n\nJames' injury â and the calf issue that caused Tino Livramento to return home from the United States â has thrown into question Tuchel's decision to bring just three recognised full-backs to the World Cup.\n\nDjed Spence, James and Livramento were the only genuine full-backs selected.\n\nNico O'Reilly, who played at left-back for Manchester City last season, is also in the squad â but he came through the ranks at Etihad Stadium as a midfielder. Dan Burn has also played at left-back but is recognised as a centre-back.\n\nSpence and central defenders Jarell Quansah and Ezri Konsa are Tuchel's alternative options at right-back.\n\nNevertheless, Tuchel said: \"Yes, I am [happy with my options at right-back]. I selected the team, so I'm very happy with everything with the characteristic of the players and strengths that they give us.\n\n\"We would love to have every single key player, we would love to have them available, it's not available â we find solutions, it's what we do. It's a tournament, we move on.\"\n\nJames and Livramento, in particular, have a chequered injury history and Tuchel's decision to take both to the World Cup is likely to be called into question.\n\nTuchel, though, is confident James will play again in the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0624_1",
+            "category": "england",
+            "type": "News",
+            "title": "'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
+            "bullets": [
+              "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "fullText": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0625_2",
+            "category": "england",
+            "type": "News",
+            "title": "Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
+            "bullets": [
+              "Who should start for England against Panama in their final World Cup group game? It's time to put yo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should start for England against Panama in their final World Cup group game? It's time to put yourself in Thomas Tuchel's shoes.",
+            "fullText": "Start Marcus Rashford? Bring Nico O'Reilly and John Stones back in? Rest Declan Rice?\n\nThe England head coach made two changes for Tuesday's second World Cup group game, with Djed Spence and Marc Guehi coming in for O'Reilly and Stones in a 0-0 draw with Ghana. But what will he do on Sunday against Panama?\n\n\"I think Tuchel will change it up,\" former England forward Alan Shearertold BBC Sport.\n\n\"Bukayo Saka and Rashford have definitely done enough when they have come on in both games to get a chance to start.\n\n\"Another change I can see happening is at left-back, with O'Reilly coming back in for Spence.\"\n\nDo you agree with Shearer? Use our selector below to choose your Three Lions starting XI.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0626_3",
+            "category": "england",
+            "type": "News",
+            "title": "England through to last 32 of the World Cup after Uruguay exit against Spain",
+            "bullets": [
+              "Uruguay’s exit means England through to knockoutsThomas Tuchel’s side face Panama on SaturdayEngland...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Uruguay’s exit means England through to knockoutsThomas Tuchel’s side face Panama on SaturdayEngland’s place in the last 32 of the World Cup has been confirmed after results in Group H ensured Thomas Tuchel’s side would, at worst, qualify as one of the best third-placed teams.Uruguay’s defeat to Spain, coupled with Cape Verde’s draw with Saudi Arabia, left Marcelo Bielsa’s side in third and with an inferior record to England. With third-placed South Korea, Senegal and Scotland already unable to match England’s points tally, that was enough to confirm progression for Tuchel’s team. Continue reading...",
+            "fullText": "England’s place in the last 32 of theWorld Cuphas been confirmed after results in Group H ensured Thomas Tuchel’s side would, at worst, qualify as one of the best third-placed teams.\n\nUruguay’s defeat to Spain, coupled with Cape Verde’s draw with Saudi Arabia, left Marcelo Bielsa’s side in third and with an inferior record toEngland. With third-placed South Korea, Senegal and Scotland already unable to match England’s points tally, that was enough to confirm progression for Tuchel’s team.\n\nThe Three Lions face Panama in their final group game on Saturday but will now do so in the knowledge that a spot in the knockout stage is secured, though they will want a victory against the Central Americans that will confirm top spot in Group L.\n\nThat would mean a tie against a yet-to-be-confirmed third-placed team, while a draw or defeat could push them into second or even third, raising the possibility of a far trickier knockout tie.\n\nReece James willmiss the Panama gameand the last-32 tie with a hamstring injury. The right-back reported tightness after the team’s0-0 draw against Ghanain Boston on Tuesday. England found that game tough after starting the tournament in fine style with a4-2 victory against Croatia, in which Harry Kane scored twice.\n\nTuchel said on Friday that he is confident in his side’s chances against any team. “I’m not scared in general,” he said. “We feel confident enough to be ready and compete on any level. I haven’t seen that much football, to be honest, because the times were always quite early and we’re on the training pitch.\n\n“Then it’s the afternoon, we’re in the office preparing the next day. I haven’t seen that much football – but I’m not scared. I see, of course, good teams. I see high-quality individual players who decide team matches. I see all kinds. I still see our group as one of the most difficult. This is where we go from. We focus on what we can influence.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0626_4",
+            "category": "england",
+            "type": "News",
+            "title": "‘We’re on the same path now’: Toney on good terms with Tuchel and awaiting his chance",
+            "bullets": [
+              "England forward did not get off to the best of starts with the manager but after two fine seasons wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England forward did not get off to the best of starts with the manager but after two fine seasons with Al-Ahli is ready for any opportunity off the benchIt was after England’s 0-0 draw with Ghana in their second World Cup group game on Tuesday that Ivan Toney was reminded that young children ask the best questions. Two of his three boys were there – the eldest is back at home – and one of them came straight out with it.Toney is laughing as he tells the story and pretty soon so is everyone else. “My son is saying: ‘Ah, why have I travelled all this way and you’re not playing?’” the Al-Ahli striker says. “It’s hard to respond to that. It’s like: ‘Daddy is waiting …’” Continue reading...",
+            "fullText": "England forward did not get off to the best of starts with the manager but after two fine seasons with Al-Ahli is ready for any opportunity off the bench\n\nIt was after England’s 0-0 draw with Ghana in their secondWorld Cupgroup game on Tuesday that Ivan Toney was reminded that young children ask the best questions. Two of his three boys were there – the eldest is back at home – and one of them came straight out with it.\n\nToney is laughing as he tells the story and pretty soon so is everyone else. “My son is saying: ‘Ah, why have I travelled all this way and you’re not playing?’” the Al-Ahli striker says. “It’s hard to respond to that. It’s like: ‘Daddy is waiting …’”\n\nToney is asked whether the boy has a Harry Kane shirt. “To be fair, he has gone to see those boys, not me,” he replies. “After the game, it was the first time he’s seen me and I went to give him a big hug. He brushed me aside and said: ‘Where’s Saka? Where’s Dec [Rice]?’ I miss you too, boy!”\n\nToney is under no illusions as to where he stands in theEnglandNo 9s pecking order – firmly behind Kane and probably Ollie Watkins too. But with knowledge and clarity come comfort and focus. As England prepare for their final group game against Panama in New Jersey on Saturday, Toney is waiting. He is ready.\n\nThe 30-year-old is one of Thomas Tuchel’s finishers – a player to come off the bench towards the end, even at the very end, for a specific purpose. In Toney’s case, it is to make his presence felt inside the area, to bring a bit of chaos, to make something happen, maybe on a set piece; especially if England are chasing a goal.\n\nIt is what he did in theEuro 2024 last-16 tie against Slovakia. Introduced in the fourth minute of stoppage time as England trailed 1-0, he occupied a couple of defenders on a long throw-in and helped to create the space for Jude Bellingham’s overhead kick equaliser. In extra time, Toney supplied the assist for Kane to head the winner. When Tuchel called up Toney for the World Cup, he said Kane “loves to play with him because he thinks that he [Toney] takes the attention off him”.\n\nPanama’s preparations for their World Cup clash with England on Saturday were marred by a training-camp row between two players – although their coach insisted it was 'a good sign' that his side are 'alive' for the game.\n\nCecilio Waterman and José Luis Rodríguezappeared to clash during a pre-match training session. Waterman was filmed pushing fellow forward Rodríguez in the chest, and was then held back by teammates as he looked to continue the argument. Things quickly calmed down as the open training session resumed.\n\n'This is a normal situation,' the Panama coach, Thomas Christiansen, said later.\n\n'I would have liked to see these situations more often in training,' he added. 'That means the team is alive, they are willing to make an effort to be in the squad or first XI for the game. So, again, if this happens another time, it’s a good sign.'\n\nPanama are already out of knockout contention after losing their first two Group L games, and close their campaign against Thomas Tuchel’s side in New Jersey. 'It’s a shame, as before ​this fixture we are already out,' said Christiansen, who criticised the use of head-to-head tie-breakers at this tournament. ‌PA Media/AP",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0626_5",
+            "category": "england",
+            "type": "News",
+            "title": "England enjoy New York minute but fans check out to watch darts instead",
+            "bullets": [
+              "Travelling England fans are going under the radar in the Big Apple, but many have attended the US Da...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Travelling England fans are going under the radar in the Big Apple, but many have attended the US Darts MastersTimes Square has been the setting for viral fan activity during this World Cup, from the Norwegian mass elliptical rowing session to Germans jumping up and down while wearing culturally insensitive headgear. On Friday, the day before the Three Lions face Panama in their decisive Group L fixture, it was surely England’s turn to seize centre stage. As various news crews waited at the junction of Broadway and 42nd Street to capture the moment, however, the only visible presence was two blokes holding up a flag of St George with “Seaham Harbour” written on it.“We don’t usually do dances or anything like that,” explained Joe, one of the flag bearers, who hails from Florida via Sunderland and says he works for Nasa in crowd control. “We just like to do arm curls, as we call it, and have a good time.” He mimes the specific curl, it is the kind that moves a glass from bar to mouth. Continue reading...",
+            "fullText": "Travelling England fans are going under the radar in the Big Apple, but many have attended the US Darts Masters\n\nTimes Square has been the setting for viral fan activity during thisWorld Cup, from the Norwegian mass elliptical rowing session to Germans jumping up and down while wearing culturally insensitive headgear. On Friday, the day before the Three Lions face Panama in their decisive Group L fixture, it was surely England’s turn to seize centre stage. As various news crews waited at the junction of Broadway and 42nd Street to capture the moment, however, the only visible presence was two blokes holding up a flag of St George with “Seaham Harbour” written on it.\n\n“We don’t usually do dances or anything like that,” explained Joe, one of the flag bearers, who hails from Florida via Sunderland and says he works for Nasa in crowd control. “We just like to do arm curls, as we call it, and have a good time.” He mimes the specific curl, it is the kind that moves a glass from bar to mouth.\n\nEngland fans – only 10,000 are expected to travel – are going under the radar at the World Cup, with little of the media attention that has followed other nations. Much of this is good news, because it means there has been no trouble. To this point there has not been a single arrest of anEnglandsupporter in the US in the three weeks that they have been here. The only friction, and even this was perfectly polite, came in Boston earlier this week when some bar owners made it clear they’d rather be serving the Scots.\n\nJoe is also right, however, in that English fans do things differently. That becomes particularly clear when you compare their behaviour to that of other nations who have hit the Big Apple. While many European countries have a central fan group that organises marches to the ground or even matchday chants, England do not. On Friday, the only event laid on for the support was being organised by Sports Direct.\n\nA ticketed watch-along for the evening’s matches, the event was to be held in the basement of the downtown bar Carragher’s, where the Sky Sports pundit once held a stake and, according to staff, still records podcasts. Mike Ashley’s sportswear company has put its name to a number of dos in fact – first in Dallas, then Boston, now NYC – and have paid for the BBC podcaster and fake Sunday league manager Steve Bracknell to drive around the States in a bus. It says it is the only company doing any such activity, which is eye-opening given the ubiquity of corporate sponsorship at this World Cup.\n\nWith free tickets and the promise of a T-shirt if you let the in-pub barber give you a Beckham mohican, the Sports Direct event was sold out. But most England fans looking for a gathering were off to the darts instead. In a remarkable feat of programming, the US Darts Masters is taking place at Madison Square Garden this week. The first day’s play was rammed with England fans belting out Chase the Sun and that number looked only set to increase on Friday.\n\nWith tickets sold out even on resale sites, the darts won’t be cheap. Jack, from Oldham, has been in the US for three weeks. He’s watched every England game since the initial friendlies in Florida and has also travelled to Los Angeles and Kansas City to take in other matches. He says he is trying not to think about his budget.\n\n“It’s kind of on track, but I think this weekend it’s going to go out the window,” he said. “I’m going to the darts tonight, so that’s going to be a fortune.” Then there’s the next day to think about, where drinks at matchday stadiums can set you back $20 each. “You have a few in the ground and before you know it, that’s like 50 quid just disappeared. But you just don’t care. The buzz is there, the adrenaline is there and you just … deal with it when you get back.”\n\nJack said he had already booked flights that would cover the rest of the tournament all the way to the final, if England were to progress from Group L as winners. “Obviouslythe Ghana drawwas a scare,” he says. “But the price of flights has just been going up and up.”\n\nThis is another factor that separates supporting England from some other nations – the expectation of travelling deep into the tournament. The Football Supporters Association, once again providing its embassy service for fans, has been sharing information about how to eat and (crucially) drink cheaply in New York City, as people try to preserve funds. The answer for many has been to stay elsewhere. Hoboken and Jersey City have proven as popular a destination as Manhattan, and an awful lot cheaper. England’s New York minute may not have happened yet, but if things go well on the pitch against Panama, there will be time for that yet.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0627_6",
+            "category": "england",
+            "type": "News",
+            "title": "Urgency, magic and Rashford: how England can beat the low block against Panama | Emma Hayes",
+            "bullets": [
+              "Thomas Tuchel’s team will be working on key details of how to combat a low block before their final ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel’s team will be working on key details of how to combat a low block before their final Group L game on SaturdayEngland’s goalless draw with Ghana reminded me of many games in my coaching career, when you’re facing a team who are extremely compact, positioned very low, and very well drilled. To break them down you need to play with more variety, better movement and – above all – urgency, and it took England too long to play with urgency.They can expect the same stubborn defending from Panama on Saturday. Therefore, in the buildup to their final group match, they will have been working on the key details needed to score against a low block. Continue reading...",
+            "fullText": "Thomas Tuchel’s team will be working on key details of how to combat a low block before their final Group L game on Saturday\n\nEngland’s goalless draw with Ghana reminded me of many games in my coaching career, when you’re facing a team who are extremely compact, positioned very low, and very well drilled. To break them down you need to play with more variety, better movement and – above all – urgency, and it tookEnglandtoo long to play with urgency.\n\nThey can expect the same stubborn defending from Panama on Saturday. Therefore, in the buildup to their final group match, they will have been working on the key details needed to score against a low block.\n\nParis Saint-Germain’s equaliser against Arsenal in this year’smen’s Champions League finalis a good example. Arsenal were camped in their own half after the break and PSG patiently strangled them.\n\nYou have to create more urgency without rushing. PSG won their penalty in that final not by lumping a ball into the box, but by creating a give-and-go around the penalty area.\n\nTheir patient, methodological approach might be difficult for some to wrap their heads around. Whipping in crosses against a back four that has a wall of five players in front, with fewer than six or seven yards between them, is damn hard. As a coach, you want players to find ways to create chaos. You have to be patient and urgent, simultaneously.\n\nYou want everyone playing like it’s the 90th minute much earlier and it took England too long to do that on Wednesday. You could see how frustratedThomas Tuchelwas becoming with the lack of movement; England were quite static.\n\nIf this type of situation occurs in a knockout game, I suspect we would see full-backs used as wingers to commit more numbers forward, bringing on a second striker, switching to a 3-5-2 and trying to get two attacking No 10s on the pitch. There are different ways to do it. But we have to give credit to Ghana for the way they played.\n\nGhana matched England in one-on-ones, they were aggressive in their duels, but they also didn’t respond to the press-baiting that England usually deploy under Tuchel. Crucially, Ghana’s wide players didn’t jump up to the ball, making it much harder for the spare player to find space in the pockets. Carlos Queiroz, an excellent coach, used these tactics many times against the top teams for Manchester United.\n\nWhen facing this tactical situation, England setting up with a right-footer as left-back, in Djed Spence, was far from ideal. England wanted to switch the play to Noni Madueke when he was spare on the other side, but their pivot, Elliot Anderson, was always marked. So they couldn’t switch the play through Anderson and that made their switches even slower, because they would usually have to go back through their centre-backs and around.\n\nEngland didn’t have enough runners into the half-spaces, enough opposite movements to try to stretch Ghana or someone coming short to feet. So the play became predictable.\n\nI’d have started Nico O’Reilly; you want to see different types of crosses from deeper spaces with runs from deep, and that’s what he gives you, which we saw with his late headed chance. England also desperately needed Marcus Rashford brought on sooner. It was a game that needed someone really brave in the one-on-ones to take players on.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0627_7",
+            "category": "england",
+            "type": "News",
+            "title": "From cheap transport to football geekery: how Zohran Mamdani won the World Cup",
+            "bullets": [
+              "The New York City mayor has made his mark on the tournament to cap an extraordinary run of sporting ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The New York City mayor has made his mark on the tournament to cap an extraordinary run of sporting success over the last few monthsA stunning evening sun was setting behind Union City on Wednesday. It made it slightly harder to see the giant screen that had been set up for the Brazil v Scotland watch party in Hudson River Park, but not enough to ruin the vibe of a New York City World Cup evening. Partly it didn’t matter because the clutch of Brazilians watching the game, kitted out in canary yellow and “100% Jesus” headbands, were already in full samba mode, given how comfortable their 3-0 win was. But mainly it was because this was a beautiful World Cup moment.This is my eighth World Cup. The outdoor screening, combined with the gentle breeze off the Hudson – I had already navigated the hubbub in Times Square, colonised by chanting Germans and flag-waving Ecuadorians – was as captivating as anything I’ve experienced in Marseille, Seoul, Cape Town or Rio de Janeiro. New York City is perhaps the only place in the world where a World Cup may go unnoticed but the tournament genuinely feels like an intrinsic part of life in large parts of the city, certainly since the Knicks’ victory parade finished. In fact, the feelgood endorphins seem to have segued seamlessly into World Cup fever for many in the city. Continue reading...",
+            "fullText": "The New York City mayor has made his mark on the tournament to cap an extraordinary run of sporting success over the last few months\n\nAstunning evening sun was setting behind Union City on Wednesday. It made it slightly harder to see the giant screen that had been set up for the Brazil v Scotland watch party in Hudson River Park, but not enough to ruin the vibe of a New York City World Cup evening. Partly it didn’t matter because the clutch of Brazilians watching the game, kitted out in canary yellow and “100% Jesus” headbands, were already in full samba mode, given howcomfortable their 3-0 win was. But mainly it was because this was a beautiful World Cup moment.\n\nThis is my eighth World Cup. The outdoor screening, combined with the gentle breeze off the Hudson – I had already navigated the hubbub in Times Square, colonised by chanting Germans and flag-waving Ecuadorians – was as captivating as anything I’ve experienced in Marseille, Seoul, Cape Town or Rio de Janeiro. New York City is perhaps the only place in the world where a World Cup may go unnoticed but the tournament genuinely feels like an intrinsic part of life in large parts of the city, certainly sincethe Knicks’ victory paradefinished. In fact, the feelgood endorphins seem to have segued seamlessly into World Cup fever for many in the city.\n\n“It’s great going to Times Square and seeing all the fans,” said George Crabtree from Brooklyn. Christian Parelli, a New Jersey teacher, a committed football fan already, was enjoying seeing the city wake up to the game. “It’s cool to see the soccer excitement,” he said. “It’s a really good time for sport with the Stanley Cup, the Knicks and theWorld Cup.”\n\nThat said, there is one name that comes up a lot when asking whether New York City has World Cup fever, and it’s not Lionel Messi. “It feels like [it has] especially with [New York City mayor Zohran Mamdani’s] involvement, being a host for people,” said Aditya Shetty, who works in IT. Like Mamdani, Shetty is an Arsenal fan.\n\n“The way he talks, you can tell he’s been following soccer for a while and he really wants the country to embrace it and make people feel welcome because he loves the game. Many people from those [participating] countries are here, Brazilians, Scottish, Moroccans. This is naturally a multicultural city and the World Cup is reminding us of it.”\n\nWith him is Laleh Emadi, who works in healthcare and isn’t a hardcore soccer fan but is fully into the World Cup. “The camaraderie of going out to watch a game has me extra excited,” she said.\n\n“I feel like the city has done a really great job of getting people out and about. The mayor has all these tips, beer-and-dinner deals to watch the World Cup at a great price. He’s really embracing it on behalf of the city.”\n\nIt helps that Mamdani is riding an extraordinary sporting wave. Two of his beloved teams have won titles in the last few weeks: the Knicks took home their first NBA championship since 1973 and Arsenal their first Premier League title for 22 years. And even Europeans concede thathe really does get football.\n\nIt isn’t just that Mamdani is everywhere and emotionally engaged in all aspects of the World Cup: at the games, posting weather warnings, commenting knowledgeably on outcomes. It is his adeptness at using the event to underline political messages, without seeming awkward. It is a reminder of former British prime minister Harold Wilson’s line about 1966: “Have you ever noticed how England only ever win the World Cup under Labour governments?” All politicians make hay when the World Cup sun shines but Mamdani is so much more skilled than most.\n\nTo outsiders, it looks like Mamdani is the face of the USA here, or at least the idealistic version of the country children around the world were once taught about at school. While the presidential administration was busy issuing travel bans, Mamdani posted a slick video greeting toNew YorkCity, leaning into its reputation as a city of immigrants, finishing with the phrase: “Welcome home!”\n\nWhile Fifa president Gianni Infantino wasarguing that it was normalfor fans to pay large sums for tickets in the US market, Mamdani managedto secure $50 ticketsfor New Yorkers. When Fifa decided that water bottles weren’t allowed in stadiums – another move to sweat the asset with overpriced stadium drinks – it was Mamdani, not Donald Trump, who spoke outbefore the rule was changed. And when New Jersey Transit initially announced $150 train tickets to the MetLife Stadium, it was Mamdani and New York governor Kathy Hochulwho put on $20 shuttle buses.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0627_8",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel: Saka pain free and ready to start against Panama",
+            "bullets": [
+              "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions'...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions' final group game with Panama - amid an injury blow to defender Reece James.",
+            "fullText": "Bukayo Saka is fit to start England's final group game against Panama after an injury-hit start to the World Cup; Reece James unavailable but could return in time for round of 32; Elliot Anderson and Declan Rice have been passed fit, but latter runs the risk of a suspension",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-26 @ 19:06:28 EDT",
+  "lastUpdated": "2026-06-27 @ 01:06:31 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
