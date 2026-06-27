@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ The World Cup is undressing the myth of Trump’s American homogeneity",
+      "link": "https://www.theguardian.com/football/2026/jun/27/world-cup-usmnt-migration-nationalism-dhs-opinion"
+    },
+    {
       "text": "⚽ US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup",
       "link": "https://www.theguardian.com/football/2026/jun/26/mauricio-pochettino-extension-us-soccer-world-cup"
     }
@@ -3708,11 +3712,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0600_0",
+            "category": "usa",
+            "type": "News",
+            "title": "The World Cup is undressing the myth of Trump’s American homogeneity",
+            "bullets": [
+              "The 2026 World Cup has become a rebuke to Trump’s homogeneous vision of America, revealing a tournam...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 2026 World Cup has become a rebuke to Trump’s homogeneous vision of America, revealing a tournament – and a US team – shaped by migration and diversityFollowing the Department of Homeland Security on social media is a bit like wandering through a casino at 4am. Sooner or later, you’ll see something that makes you go: How did we get here?There was one of those moments earlier this month. Days after the US opened their World Cup campaign with a 4-1 romp over Paraguay, DHS marked the occasion by posting an image of Chris Richards, Sergiño Dest and Folarin Balogun exulting beneath the headline “DEFEND THE HOMELAND” and the caption “OUR SOIL”. Continue reading...",
+            "fullText": "The 2026 World Cup has become a rebuke to Trump’s homogeneous vision of America, revealing a tournament – and a US team – shaped by migration and diversity\n\nFollowing the Department of Homeland Security on social media is a bit like wandering through a casino at 4am. Sooner or later, you’ll see something that makes you go: How did we gethere?\n\nThere was one of those moments earlier this month. Days after the US opened their World Cup campaign with a 4-1 romp over Paraguay, DHS marked the occasion by posting an image of Chris Richards, Sergiño Dest and Folarin Balogun exulting beneath the headline “DEFEND THE HOMELAND” and the caption “OUR SOIL”.\n\nThe irony of the message – posted on the emancipation holiday Juneteenth, of all days – was unmissable. The same department that turned backa leading referee from Somalia, that has kept Iran’s players ona day-to-day visa footingin this tournament, that has in effect tried to sabotage the conditions under which this World Cup takes place, now finds itself reveling in it.\n\nThe same administration that is currently mountinga hare-brained challenge to the 14th Amendment in the Supreme Courtis making American exemplars of Dest, a Netherlands-born Brooklynite; Richards, a military brat raised in Europe; and Balogun, the British Nigerian who owes his American passport to birthright citizenship. Indeed, World Cup fever appears to have overcome the Make America Great Again crowd. It can only end in disappointment.\n\nThat’s not a knock on the USMNT, who, despite a 3–2 loss to Turkey on Thursday, have advanced to play Bosnia and Herzegovina in a last-32 matchup next Wednesday. It’s to say that Americans who loudly dismiss soccer as a “sissy sport”realsports fans couldn’t care less about, and then jump on the bandwagon when momentum shifts, have long had the wrong idea about the World Cup. To them, the tournament is simply another arena to project an image of American strength. What they struggle to appreciate is that the same tournament that presents itself as a contest between monolithic nation-states is, in truth, a monument to global migration.\n\nIt isn’t just the USMNT who resist the jingoistic framing. The Netherlands’ nine goals in the tournament so far have been scored or assisted by players of African or Indonesian descent. Belgium’s roster is stuffed with sons of Congolese, Senegalese and Ghanaian immigrants whoface racist abusewhenever they thwart expectations. The face of Spain’s national team is Lamine Yamal – a ridiculously gifted teenager whoproudly toutshis Moroccan and Equatoguinean ancestry, and is hardly an outlier in an increasingly global squad. France, despite pushback from extremist corners, have tripled down on theBlack-Blanc-Beur experimentthat netted World Cup triumphs for Les Bleus in 1998 and 2018.\n\nA good portion of England’s players, it seems, could have opted to playfor Irelandor countriesin Africa or the Caribbean. That depth, in turn, is part of what allowed the USMNT to landa fine young strikerin Balogun – who was born in New York and bypassed US residency and the grassroots soccer pipeline on his way to becoming the team’s leading scorer at this tournament.\n\nIf anything, the USMNT’s commanding start pales in comparison to the real story of the tournament: the power of the diaspora. During England’s match with Ghana, fans on social media said the quiet part out loud – that no game between colonizer and former colony can ever be “just a game”. Morocco, South Africa, Côte d’Ivoire,Cape Verde (!)andpossibly Senegaladvancing to the round of 32 is yet more confirmation of the extraordinary talent flowing from Africa into Europe’s top leagues.\n\nEven DHS policies that have restricted travel to the US for the World Cup have ended up revealing the rich diversity already within its borders: Haitian, Congolese and Cape Verdean fansoverwhelming stadiumsin Philadelphia, Houston and Miami, flags flying proudly in the stands. I was minding my business in downtown Atlanta on Wednesday when I ran into a horde of Morocco fans pregaming before their match against Haiti – and judging from their numbers and the sprinkling of American accents, there was no chanceallof them crossed the Atlantic for the occasion.\n\nThe same countries that see immigration as an existential threat are bearing witness to a World Cup that makes the opposite plain – underscoring not only the short-sightedness of exclusionary political movements, but the dereliction of leadership within Fifa itself. If the governing body wasn’t so busy kowtowing to authoritarian regimes and fleecing workaday fans, it could be the greatest force for global good since, well, the advent of international flight.\n\nThis tournament has proven that soccer, when politics and cultural posturing are set aside, can indeed be the great unifier – turning Japanese fans on to the wonders ofchips and salsa, sparking a bromance between thepeople of Scotland and the city of Boston, and keeping Brazil’s supporter mob in a mood toparty with New York Knicks fans. It’s kept the nation’sbig box storesandfast food jointshumming. At an Oakland watch party for Cape Verde, Jill Tucker – who taught English in the country as a Peace Corps volunteer – was stunned to findone of her old studentsamong the cheering section. Together, the connections are a stark reminder that sharing a flag doesn’t mean sharing a worldview, least of all one imposed from on high.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_1",
+            "category": "usa",
+            "type": "News",
+            "title": "US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup",
+            "bullets": [
+              "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club interestMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said on Friday. Sources spoke with the Guardian on condition of anonymity because they were not authorized to speak on the matter.Pochettino and the US Soccer Federation have been discussing a new deal for about three months, said one source. Pochettino, along with US Soccer CEO JT Batson, have spoken publicly about the negotiations as recently as late May, around the time that Pochettino was reported to have had talks with Serie A side Milan. Pochettino was coy when pressed about Milan’s interest, but Batson spoke openly about it, saying that the federation had received many inquiries in regards to Pochettino’s services. Continue reading...",
+            "fullText": "Pochettino has been in charge of the US since late 2024\n\nFormer Spurs and PSG boss likely to have club interest\n\nMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said on Friday. Sources spoke with the Guardian on condition of anonymity because they were not authorized to speak on the matter.\n\nPochettino and the US Soccer Federation have been discussing a new deal for about three months, said one source. Pochettino, along with US Soccer CEO JT Batson, have spoken publicly about the negotiations as recently as late May, around the time that Pochettino was reported to have had talks with Serie A side Milan. Pochettino was coy when pressed about Milan’s interest, but Batson spoke openly about it, saying that the federation had received many inquiries in regards to Pochettino’s services.\n\n“[Pochettino], and the entire team, has been incredibly transparent [through] the entire process,” Batson said in May. “He had standing offers from other places to come [when we hired him initially], and he wanted to be here. He’s a big believer in what we’re doing at US Soccer. He’s a big believer in soccer in America, and he’s a big believer in this men’s team.”\n\nPochettino has said he will not make a decision on his future until after theWorld Cup. The most recent, publicly available data available on the Argentinian’s salary places him amongst football’s highest-paid coaches, at $4m a year, a figure that grows significantly via a bonus structure.\n\nThe Athletic was first to report news of the contract offer.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nThe former Tottenham Hotspur head coach’s 22-month tenure as the US head coach has been a mixed bag, but his team’s performance at the World Cup has been beyond argument. The 54-year-old has led the US to their best-ever showing in the group stage of a World Cup. They beat Australia and Paraguay handily to wrap up top spot in the group before losing a hard-fought match to already-eliminated Turkey.\n\nA last-32 matchup against Bosnia and Herzegovina awaits. By sealing a spot in the knockout stage, the Americans under Pochettino are just two wins away from matching their best-ever finish in the modern era.\n\nFans and pundits have long assumed that Pochettino, who had never coached internationally before taking the US job, would leave after the World Cup, though he has said in recent months that he is open to extending his contract.\n\n“We told the federation we are open,” Pochettino said in a media roundtable this week. “But we don’t want to distract when all the energy needs to be with my players ... If the American people start to show passion in our sport too, why not be here being part of something that can create a legacy? For me, the most important legacy is the connection between the national team and the fans.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-27 @ 01:07:01 EDT",
+  "lastUpdated": "2026-06-27 @ 08:06:14 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
