@@ -4,36 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tuchel defends full-back selection after James injury",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx2d8gvdlr0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Start Rashford? Bring O'Reilly back? Pick your England XI to face Panama",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crm0xrg8j4ro?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ From supermarket to World Cup - the forgotten England team",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn4rlm9834no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England through to last 32 of the World Cup after Uruguay exit against Spain",
-      "link": "https://www.theguardian.com/football/2026/jun/27/england-through-to-last-32-of-the-world-cup-after-uruguay-exit-against-spain"
+      "text": "⚽ Tuchel defends full-back selection after James injury",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ ‘We’re on the same path now’: Toney on good terms with Tuchel and awaiting his chance",
-      "link": "https://www.theguardian.com/football/2026/jun/26/world-cup-england-toney-on-good-terms-with-tuchel-and-awaiting-his-chance"
+      "text": "⚽ Thomas Tuchel searches for solutions to overcome Panama’s low block",
+      "link": "https://www.theguardian.com/football/2026/jun/27/thomas-tuchel-england-searches-for-solutions-panama-low-block-world-cup-2026"
     },
     {
-      "text": "⚽ England enjoy New York minute but fans check out to watch darts instead",
-      "link": "https://www.theguardian.com/football/2026/jun/26/england-fans-choose-darts-over-joining-world-cup-big-fan-energy"
+      "text": "⚽ What is the secret to Wallsend Boys producing so many top-level football players?",
+      "link": "https://www.theguardian.com/football/2026/jun/27/wallsend-boys-producing-so-many-top-level-football-players"
     },
     {
-      "text": "⚽ Urgency, magic and Rashford: how England can beat the low block against Panama | Emma Hayes",
-      "link": "https://www.theguardian.com/football/2026/jun/26/england-panama-low-block-rashford-world-cup"
+      "text": "⚽ Osaka retires from Bad Homburg final with foot issue prompting Wimbledon concern",
+      "link": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern"
     },
     {
-      "text": "⚽ From cheap transport to football geekery: how Zohran Mamdani won the World Cup",
-      "link": "https://www.theguardian.com/football/2026/jun/26/zohran-mamdani-world-cup-new-york-mayor"
+      "text": "⚽ Why England's backline remains Tuchel's biggest conundrum",
+      "link": "https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs"
     },
     {
       "text": "⚽ Tuchel: Saka pain free and ready to start against Panama",
@@ -12489,11 +12485,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0422_0",
+            "category": "england",
+            "type": "News",
+            "title": "'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
+            "bullets": [
+              "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "fullText": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0422_1",
+            "category": "england",
+            "type": "News",
+            "title": "From supermarket to World Cup - the forgotten England team",
+            "bullets": [
+              "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artifici...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artificial pitch in the north east of England where a future member of Thomas Tuchel's World Cup squad got what he called his \"break\".",
+            "fullText": "Dan Burn has gone on to win nine senior caps for England\n\nNew Ferens Park feels a world away from the New York New Jersey Stadium.\n\nBut it was on this artificial pitch in the north east of England where a future member of Thomas Tuchel's World Cup squad got what he called his \"break\".\n\nThis was where Dan Burn represented his country for the first time following a call-up to the Clubs for Young People representative side in 2009.\n\nBurn had been playing football for the fun of it at the time, having previously been released byNewcastle United's Centre of Excellence several years earlier.\n\nHe had started sixth form and was working in a supermarket.\n\nBut England National Association of Boys club manager Alan Watson was assembling a team of the best unsigned footballers in the country for a home nations tournament, and the then 17-year-old impressed during a series of trials.\n\n\"A lot of lads get released, like Dan was, but they are still good players,\" Watson said.\n\n\"We used to tell them, 'As one door closes, we will open another. You will be selected for England'.\"\n\nThe towering Burn, complete with highlighted surfer hair, soon found himself lining up for a team photograph in an official England kit from Euro 96.\n\nSitting in the row in front was fellow centre-back Lewis Blissett.\n\nNow working in asset management, the lifelongNewcastlesupporter was only half-joking when he said partnering Burn in the heart of defence will go down as his \"biggest claim to fame\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0422_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel defends full-back selection after James injury",
+            "bullets": [
+              "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match agai...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match against Panama through injury.",
+            "fullText": "England manager Thomas Tuchel has defended his full-back selection policy after confirming Reece James will miss Saturday's World Cup match against Panama.\n\nAs revealed by BBC Sport this week, James was assessed by England medics following  Tuesday's goalless draw against Ghana after complaining of a hamstring issue.\n\nTuchel has since confirmed that the Chelsea right-back has not travelled to New Jersey from their Kansas City base for their final Group L game against Panama on Saturday (22:00 BST). He insists James has a chance of playing in England's last-32 match next week.\n\nHowever, BBC Sport understands that James is a significant doubt for the start of the knockout stages, with England now guaranteed a place even if they were to drop to third in their group.\n\nJames' injury â and the calf issue that caused Tino Livramento to return home from the United States â has thrown into question Tuchel's decision to bring just three recognised full-backs to the World Cup.\n\nDjed Spence, James and Livramento were the only genuine full-backs selected.\n\nNico O'Reilly, who played at left-back for Manchester City last season, is also in the squad â but he came through the ranks at Etihad Stadium as a midfielder. Dan Burn has also played at left-back but is recognised as a centre-back.\n\nSpence and central defenders Jarell Quansah and Ezri Konsa are Tuchel's alternative options at right-back.\n\nNevertheless, Tuchel said: \"Yes, I am [happy with my options at right-back]. I selected the team, so I'm very happy with everything with the characteristic of the players and strengths that they give us.\n\n\"We would love to have every single key player, we would love to have them available, it's not available â we find solutions, it's what we do. It's a tournament, we move on.\"\n\nJames and Livramento, in particular, have a chequered injury history and Tuchel's decision to take both to the World Cup is likely to be called into question.\n\nTuchel, though, is confident James will play again in the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0422_3",
+            "category": "england",
+            "type": "News",
+            "title": "Thomas Tuchel searches for solutions to overcome Panama’s low block",
+            "bullets": [
+              "England head coach has selection dilemmas, not helped by fitness issues with Declan Rice and Reece J...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach has selection dilemmas, not helped by fitness issues with Declan Rice and Reece JamesIn an ideal world, the only selection conundrum before England face Panama would be whether to rest Harry Kane or let the striker use a dead rubber against Group L’s fourth seeds as a chance to keep up with Lionel Messi, Erling Haaland, Kylian Mbappé and the other Golden Boot contenders.Yet any hope Tuchel had of giving the reserves a run out in New Jersey surely disappeared when his side drew 0-0 with Ghana on Tuesday and failed to win the group with a game to spare. Now complications remain. The schedule is brutal for England, who face a potential run of four games in 13 days, and Tuchel has a dilemma. This, after all, was surely the one that Ollie Watkins and Ivan Toney had marked down as a rare day off for Kane. But England still have to clinch top spot, so weighing up whether to get Kane to ease off before the last 32 is not as big a concern for Tuchel as working out how much of a risk to take with his rotation. Continue reading...",
+            "fullText": "England head coach has selection dilemmas, not helped by fitness issues with Declan Rice and Reece James\n\nIn an ideal world, the only selection conundrum before England face Panama would be whether to rest Harry Kane or let the striker use a dead rubber against Group L’s fourth seeds as a chance to keep up with Lionel Messi, Erling Haaland, Kylian Mbappé and the otherGolden Boot contenders.\n\nYet any hope Tuchel had of giving the reserves a run out in New Jersey surely disappeared when his sidedrew 0-0 with Ghanaon Tuesday and failed to win the group with a game to spare. Now complications remain. The schedule is brutal for England, who face a potential run of four games in 13 days, and Tuchel has a dilemma. This, after all, was surely the one that Ollie Watkins and Ivan Toney had marked down as a rare day off for Kane. But England still have to clinch top spot, so weighing up whether to get Kane to ease off before the last 32 is not as big a concern for Tuchel as working out how much of a risk to take with his rotation.\n\nThere will be changes this eveningon Saturday, some of them enforced. Declan Rice is a booking from a ban and had strapping on his left calf after facing Ghana. The loss of the hamstrung Reece James at right-back for at least two games is a bigger blow, though, and adds another obstacle to Tuchel’s issues against low blocks.\n\nThis was a complication anyone could have predicted. James has a long history of hamstring problems – he was out for almost two months at the end of the season – but Tuchel’s gambles in defence are backfiring. He named only three attacking full-backs in his squad. Tino Livramento, also fragile, has already left the camp but was replaced by a centre-back, Trevoh Chalobah. The responsibility for supporting the wingers now rests on Nico O’Reilly’s young shoulders. The alternatives to James right- back are Ezri Konsa, Jarell Quansah and Djed Spence; none are natural attackers. The decision to discard Trent Alexander-Arnold will be scrutinised more than ever.\n\nWhat could have been a straightforward test against Panama has a different feel. The cost of drawing with Ghana is thatEnglandcannot take their foot off the gas.\n\nDo Kane and Bellingham keep going? Some of the A-listers will be needed – Tuchel will not want a second-placed finish to throw his side’s path through the knockouts off course – and it feels important for England to restore momentum after victory over Croatia was followed by another second-game stumble at a major tournament.\n\nAlthough there is no panic from Tuchel, he knows England must improve against low blocks. It was a slog against Ghana’s compact 4-5-1 and it is probably going to be another test of patience againstPanama. Thomas Christiansen’s side are out after 1-0 defeats by Ghana and Croatia but they were awkward in both games and have improved since losing6-1 to England at the 2018 World Cup.\n\nTuchel anticipates a difficult evening against opponents whose back five will sometimes turn into a back six or seven. He is aware his England have delivered some of their most underwhelming performances against deep defences. England were exhilarating when given space by Croatia, Serbia and Wales but the memory of laboured displays against Andorra, Albania and Latvia in qualifying lingers. Ghana were obdurate. Thomas Partey stuck close to Kane, neutralising the captain’s tendency to drop off. The numbers were stark. Kane was limited to 19 touches and exchanged three passes with Jude Bellingham. England had 78.8% possession but did not have a shot on target until the second half.\n\nThe counter to the low block continues to elude Tuchel. “It is normal that it is difficult for us to overcome these blocks,” he said. “We want to be active and did enough to win [against Ghana]. We had to do a lot to control the counterattacks, which we couldn’t twice and twice it was very dangerous.\n\n“I haven’t found the recipe where: ‘They do this, then we do this and then we are fine.’ We will try to find a very active and aggressive approach againstPanamabut we cannot just be stupid and naive. We cannot just be open and put seven players on the last line and defend with three. It’s not serious enough.”\n\nTuchel values control and carefully planned attacking formulas. He wants England to create overloads in key areas then accelerate the play quickly. The problem with that strategy, though? “There was no overload against Ghana,” Tuchel said. “There will very likely be no overload against Panama.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0423_4",
+            "category": "england",
+            "type": "News",
+            "title": "What is the secret to Wallsend Boys producing so many top-level football players?",
+            "bullets": [
+              "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the we...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young peopleNot many local football clubs can claim to have produced the most expensive British footballer of the day. Wallsend Boys, a grassroots team in working-class north Tyneside are about to do it for a second time.With Elliot Anderson on the brink of a deal with Manchester City worth £116m, eclipsing the fee paid by Arsenal for Declan Rice in 2023, another chapter in the history of the club is about to be written. Continue reading...",
+            "fullText": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young people\n\nNot many local football clubs can claim to have produced the most expensive British footballer of the day. Wallsend Boys, a grassroots team in working-class north Tyneside are about to do it for a second time.\n\nWith Elliot Anderson on the brink of a deal with Manchester City worth £116m, eclipsing the fee paid by Arsenal for Declan Rice in 2023, another chapter in the history of the club is about to be written.\n\nIt is one that will be familiar to club members old enough to remember Alan Shearer’s record breaking £15m move to Newcastle in 1996.\n\nAnd it’s not just expensive talent that Wallsend churns out. As well as producing record breakers, the club can also claim several England internationals who have come through their ranks such as Michael Carrick, Peter Beardsley and Fraser Forster.\n\nIt raises the question of whether there’s something in the water in the town, whose population numbers just 45,000, or it is the way Wallsend rears its young that makes the club such a crucible for footballing prowess.\n\nGeography certainly has no small part to play in it. The north-east is second only to Greater London as the county to supply players for Thomas Tuchel’s World Cup squad, with four of the squad raised in Tyne & Wear.\n\nBut Alan Thompson, another of the club’s graduates whose professional career included stints at Newcastle, Leeds, Aston Villa and Celtic, said it is people as much as place that makes Wallsend so special.\n\n“It wasn’t just the football side of it, it was the people who worked at the boys’ club and how grounded they made you as a person.”\n\nThe club was founded in 1904, created by a local shipbuilding company that wanted a “positive, safe” environment that would “keep their apprentices off the street”, according to its general manager, John Percival.\n\nThat focus on the wellbeing of young people has remained the club’s main focus for more than 120 years, with activities ranging from martial arts, line dancing and pilates offered, as well as discounted or free meals discreetly provided to anyone who needs them.\n\nDespite the name, the club also supports the women’s game, with teams ranging from juniors to seniors, some of whose players have moved to top professional sides and played internationally.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0423_5",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka retires from Bad Homburg final with foot issue prompting Wimbledon concern",
+            "bullets": [
+              "Naomi Osaka's Wimbledon preparations received a setback when she retired at the start of the second ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka's Wimbledon preparations received a setback when she retired at the start of the second set in Saturday's Bad Homburg final because of a foot injury.",
+            "fullText": "Japan's Naomi Osaka retires during WTA's Bad Homburg final due to a foot issue vs Karolina Muchova; Osaka is seeded 14th at Wimbledon, which starts on Monday;watch ATP and WTA Tours live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0424_6",
+            "category": "england",
+            "type": "News",
+            "title": "Why England's backline remains Tuchel's biggest conundrum",
+            "bullets": [
+              "England were stifled creatively against Ghana as the Three Lions' second-game curse struck again in ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England were stifled creatively against Ghana as the Three Lions' second-game curse struck again in perhaps its most frustrating iteration - but do Thomas Tuchel's biggest worries lie at the other end of the pitch?",
+            "fullText": "England have given up just 0.87xG against Croatia and Ghana but looked defensively exposed at different times in both games; five of seven World Cup winners since expansion in 1998 have kept five clean sheets at World Cup finals; Reece James potentially out for tournament with injury",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0425_7",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel: Saka pain free and ready to start against Panama",
+            "bullets": [
+              "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions'...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England boss Thomas Tuchel says Bukayo Saka is \"free of pain\" and \"ready to go\" for the Three Lions' final group game with Panama - amid an injury blow to defender Reece James.",
+            "fullText": "Bukayo Saka is fit to start England's final group game against Panama after an injury hit start to the World Cup; Elliot Anderson and Declan Rice have been passed fit, but latter runs the risk of a suspension",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-27 @ 01:06:31 EDT",
+  "lastUpdated": "2026-06-27 @ 08:04:28 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
