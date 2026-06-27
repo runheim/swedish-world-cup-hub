@@ -7754,11 +7754,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5147_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sebastian Larsson defends Gyökeres: \"I don't understand it\"",
+            "bullets": [
+              "Viktor Gyökeres was critical of the refereeing in the meeting with Japan. Now he is also backed by a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres was critical of the refereeing in the meeting with Japan. Now he is also backed by assistant national team captain Sebastian Larsson. - I don't understand why he doesn't get many more free kicks, he says.",
+            "fullText": "Viktor Gyökeres was critical of the refereeing in the meeting with Japan.\n\nNow he is also backed by assistant national team captain Sebastian Larsson.\n\n- I don't understand why he doesn't get many more free kicks, he says.\n\nWatch Sebastian Larsson back Gyökeres in the player above.\n\nDuring the last World Cup group stage match, Viktor Gyökeres was noticeably angry with the referee.\n\n- When you feel that you can barely stand on your feet and get nothing, it is clear that it becomes frustrating and annoying, said a hoarse Gyökeres just after the final whistle.\n\nAssistant national team captain Sebastian Larsson is asked if the striker should be strengthened more to get more decisions.\n\n- I rather think that you can leave it to the judge. We don't want players who lie down, but rather an honest and tough fight out there.\n\nThe match between Sweden and Japan ended 1–1. The round of 16 awaits next.\n\nHear Sebastian Larsson on Viktor Gyökere's anger and the referee in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5149_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The coach on Jacob Widell Zetterström's journey: \"He was really close to quitting\"",
+            "bullets": [
+              "Jacob Widell Zetterström impressed as Sweden advanced in the WC. One who has followed the goalkeeper...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jacob Widell Zetterström impressed as Sweden advanced in the WC. One who has followed the goalkeeper's development closely is Nikos Gkoulios. - I understood from day one that I had a diamond in my hands, says Djurgården's goalkeeper coach.",
+            "fullText": "Jacob Widell Zetterström impressed as Sweden advanced in the WC.\n\nOne who has followed the goalkeeper's development closely is Nikos Gkoulios.\n\n- I understood from day one that I had a diamond in my hands, says Djurgården's goalkeeper coach.\n\nWatch the coach talk about Widell Zetterström's journey in the player above.\n\nGraham Potter changed the starting eleven for the match against Japan. Among other things, Jacob Widell Zetterström got the chance in the goal - and the 27-year-old came to play an important role as Blågult advanced to the playoffs.\n\n- I have talked a lot with Jacob before the WC. He did some training with us to keep fit and he was very keen to play. He was both physically and mentally ready, says Nikos Gkoulios.\n\nGkoulios is the goalkeeper coach at Djurgården and has followed Widell Zetterström's development carefully. When the goalkeeper took the step from IFK Lidingö to Djurgården in 2019, the coach was immediately impressed.\n\n- He showed from day one that he was a very special goalkeeper.\n\nBut the career could have come to an abrupt end. In the same year that he joined Dif, the goalkeeper suffered double concussions in the space of a few months after collisions with other players.\n\n- He was really close to quitting. If you had asked me then, I would have said that there was a 60 to 70 percent risk that he would not be able to play football again, says Gkoulios and continues:\n\n- We didn't want to push him, we wanted to give him as much time as possible. All we could do was stay in touch and show that we were there for him.\n\nThe Allsvenskan debut came in 2021 and for several years Widell Zetterström wore a helmet, but he stopped wearing that last year in the English club Derby.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5152_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jacob Widell Zetterström on the support and the sabbatical year: \"Means everything\"",
+            "bullets": [
+              "Six years ago he took a sabbatical from football. Yesterday, Jacob Widell Zetterström made his WC de...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Six years ago he took a sabbatical from football. Yesterday, Jacob Widell Zetterström made his WC debut between the posts. - That means everything, says the 27-year-old.",
+            "fullText": "Six years ago he took a sabbatical from football.\n\nYesterday, Jacob Widell Zetterström made his WC debut between the posts.\n\nIn the clip above, Widell Zetterström talks about the importance of football.\n\nThe 2019 season took an unfortunate turn for a young Jacob Widell Zetterström. The goalkeeper, who suffered from concussions, was forced to take a sabbatical in the 2020 season.\n\n- To now be able to sit here and stand where I stood yesterday, it really means everything, he says the day after the World Cup debut against Japan.\n\nThe Derby goalkeeper says that he has received great shouts after Sweden drew 1-1 and secured a place in the round of 16.\n\n- Obviously a great experience to be a part of. There are many who are happy and proud.\n\n- The fact that my mother, my siblings, my girlfriend and the goalkeeper coach from Derby were here means extra.\n\n- Every now and then, right after the match, you might want to enjoy the moment with those around you. Today, it has become more about taking your time and thanking everyone who got in touch.\n\nSweden's 1-1 goal against Japan, signed by Anthony Elanga, was widely celebrated around Sweden. A clip that also reached Widell Zetterström.\n\n- It was incredibly fun to see. You have stood and cheered on the national team yourself and know how much it means. It was great to be able to do my part and contribute to the joy. Great scenes around the country. That support really means everything.\n\nNow Sweden's World Cup journey continues with the round of 16 against France.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5154_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "This is how Kristoffer Nordfeldt reacted to the poke: \"Professional\"",
+            "bullets": [
+              "Jacob Widell Zetterström got the chance - and Kristoffer Nordfeldt was poked. Assistant national tea...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jacob Widell Zetterström got the chance - and Kristoffer Nordfeldt was poked. Assistant national team captain Sebastian Larsson tells how the seasoned goalkeeper took the decision. - It is clear that it is a tough announcement, but few handle it as well as \"Kribba\", he says.",
+            "fullText": "Jacob Widell Zetterström got the chance - and Kristoffer Nordfeldt was poked.\n\nAssistant national team captain Sebastian Larsson tells how the seasoned goalkeeper took the decision.\n\n- It is clear that it is a tough announcement, but few handle it as well as \"Kribba\", he says.\n\nHear more about how Kristoffer Nordfeldt took the news in the player above.\n\nThe goalkeeper position in the Swedish national team has been a hot issue for the past six months.\n\nKristoffer Nordfeldt, who guarded the goal in the playoff matches in March, got the chance in the opening World Cup events against Tunisia and the Netherlands.\n\nBut against Japan he was benched and Jacob Widell Zetterström was placed between the posts.\n\n- It goes without saying that it was not the funnest message to receive. Now the choice fell on Jacob and he goes in and makes a great effort, says assistant national team captain Sebastian Larsson.\n\nJacob Widell Zetterström explains for his part that it is a tight goalkeeping group, where the trio (Viktor Johansson included) help each other.\n\n- Regardless of whether it is me, Viktor or Kribba who have played, I feel that there has been fantastic support from the others, he says.\n\nThe Derby keeper received some encouraging words from Nordfeldt before the meeting with Japan.\n\n- He said I should go out, believe in myself and do what I can. It means a lot to work with such a fine group.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5155_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "The scandalous match of all time at the WC can be repeated: \"Set for it\"",
+            "bullets": [
+              "Have you heard the story of the all-time scandal match at the World Cup? 44 years have passed since ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Have you heard the story of the all-time scandal match at the World Cup? 44 years have passed since the match that shook the football world - and now the same thing can happen again. - It is set up for that - and that we get to relive football's 80 darkest minutes, says SVT's expert Jonas Eriksson.",
+            "fullText": "Have you heard the story of the all-time scandal match at the World Cup?\n\n44 years have passed since the match that shook the football world - and now the same thing can happen again.\n\n- It is set up for that - and that we get to relive football's 80 darkest minutes, says SVT's expert Jonas Eriksson.\n\nWatch Jonas Eriksson tell the dark story - which can now be repeated at the 2026 FIFA World Cup.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5157_5",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien leaves the WC after the injury",
+            "bullets": [
+              "Isak Hien's WC is over. After the injury he suffered in the match against Japan, the national team n...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Isak Hien's WC is over. After the injury he suffered in the match against Japan, the national team now announces that he is going home. - It's really sad for Isak and for us, Graham Potter.",
+            "fullText": "Isak Hien's WC is over. After the injury he suffered in the match against Japan, the national team now announces that he is going home.\n\n- It's really sad for Isak and for us, Graham Potter.\n\nAfter just over half an hour in the last group stage match against Japan, defender Isak Hien was injured and was lying on the grass.\n\nHe received treatment both on the field and on the sidelines before he was able to get to the dressing room with the help of several people.\n\nAfter investigations, it has now been announced that Hien will not be able to play any more in the WC.\n\n- Isak has sustained an injury in the back of his left thigh which is such that he will not be able to participate further in the WC. He will return to his club and the injury means that he will be away from football for some time, says national team doctor Jonas Werner in a press release.\n\n- It is really sad for Isak and for us. He is a key player for us and is important to the group on and off the pitch. Having to end the WC in this way with an injury is very sad and we will support him in the best way possible. It's sad for him but I'm sure he'll come back stronger, says national team captain Graham Potter.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5159_6",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sema gave a speech for the team before the shocker: \"Many were moved\"",
+            "bullets": [
+              "Union captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan. Ken Sema ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Union captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan. Ken Sema was sent forward to give a speech to the team. - It was just before we went to the arena, he says.",
+            "fullText": "Union captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan.\n\nKen Sema was sent forward to give a speech to the team.\n\n- It was just before we went to the arena, he says.\n\nWatch the clip in the player above where Sema talks about how his teammates reacted to his speech.\n\nSweden went into the final group stage match in a tight spot and needed a good result to secure a place in the round of 16.\n\nKen Sema then stepped forward and gave a speech to the team.\n\n- I just went and waited to be part of a big championship. Being here is special on many levels, for me and my family. When Graham called and I was selected, there was a lot of emotion. I called my dad and it was an emotional conversation as well. He (the father) usually doesn't show much like that, says Sema.\n\n- He thought it was a nice story and asked me to tell it to the team. Then I thought \"okay...?\", he says with a laugh and continues:\n\n- It felt like it hit home and many could relate. I spoke to Kim (Källström, football manager) and he also said that it was exactly what we needed.\n\nThe Pafos defender had his family there in connection with the match against Japan.\n\n- Unbelievable. They held a big sign with \"Ken Sema\". It is very big. They are so unperturbed and just drive.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5200_7",
+            "category": "sweden",
+            "type": "News",
+            "title": "Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
+            "bullets": [
+              "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-man Iraq in their Group I finale.Ismaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time for the Lions of Teranga, who sealed a third-place group finish and are vying for one ⁠of the eight third-place spots in the last 32. Continue reading...",
+            "fullText": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-manIraqin their Group I finale.\n\nIsmaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time for the Lions of Teranga, who sealed a third-place group finish and are vying for one ⁠of the eight third-place spots in the last 32.\n\nSenegal currently hold the fifth-best record of third-place sides based on their +2 goal difference, but ⁠four of the teams beneath them have yet to play their final group matches.\n\nHabib Diarra ​opened the scoring in the fourth minute ‌while it was still ‌XI against XI, and Iliman Ndiaye wrapped it up with his own long-range effort in ‌the 82nd minute.\n\nThe result meant that Iraq were eliminated from their secondWorld Cupand first since 1986. They were underdogs from kick-off but the prospect of their first World Cup points grew more remote when the referee, Anthony Taylor, dismissed Rebin Sulaka for denying an obvious goalscoring opportunity in the 13th minute.\n\nTaylor initially brandished a yellow card after ‌Sadio Mané dribbled past Sulaka, who hauled him back with an outstretched arm. But Taylor was summoned to consult a video monitor and, after ​viewing the play again, upgraded the decision to a red card.\n\nSenegal couldn’t capitalise during a frustrating remainder of the first half, but that all changed after the interval.\n\nLamine Camara set up Sarr’s 56th-minute goal to begin the second-half onslaught, forcing an Iraq turnover in their own box, dribbling to the byline, then ⁠cutting a low cross back for the Crystal Palace forward to tap into an open ​goal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nGueye entered immediately after ​Sarr’s contribution and soon made ​his own impact. Just before the hour mark, he took Sarr’s pass near the ​right corner of the ‌box, dribbled to his ​left and then ​unleashed a left-footed strike that curled beyond the diving Jalal Hassan on its way into the top corner.\n\nIn the 71st minute, Gueye ran on to Ndiaye’s bouncing pass and struck a thunderous half-volley that barely gave Hassan time to move before it bulged the back of the net.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-27 @ 12:02:33 EDT",
+  "lastUpdated": "2026-06-27 @ 15:52:01 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
