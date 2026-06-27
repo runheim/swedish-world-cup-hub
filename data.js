@@ -3684,10 +3684,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-27": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0647_0",
+            "category": "usa",
+            "type": "News",
+            "title": "US Soccer offers contract renewal to Mauricio Pochettino through 2030 World Cup",
+            "bullets": [
+              "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino has been in charge of the US since late 2024Former Spurs and PSG boss likely to have club interestMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said on Friday. Sources spoke with the Guardian on condition of anonymity because they were not authorized to speak on the matter.Pochettino and the US Soccer Federation have been discussing a new deal for about three months, said one source. Pochettino, along with US Soccer CEO JT Batson, have spoken publicly about the negotiations as recently as late May, around the time that Pochettino was reported to have had talks with Serie A side Milan. Pochettino was coy when pressed about Milan’s interest, but Batson spoke openly about it, saying that the federation had received many inquiries in regards to Pochettino’s services. Continue reading...",
+            "fullText": "Pochettino has been in charge of the US since late 2024\n\nFormer Spurs and PSG boss likely to have club interest\n\nMauricio Pochettino has been offered a contract extension that would keep him in charge of the US men’s national team through the 2030 World Cup, multiple sources familiar with the offer said on Friday. Sources spoke with the Guardian on condition of anonymity because they were not authorized to speak on the matter.\n\nPochettino and the US Soccer Federation have been discussing a new deal for about three months, said one source. Pochettino, along with US Soccer CEO JT Batson, have spoken publicly about the negotiations as recently as late May, around the time that Pochettino was reported to have had talks with Serie A side Milan. Pochettino was coy when pressed about Milan’s interest, but Batson spoke openly about it, saying that the federation had received many inquiries in regards to Pochettino’s services.\n\n“[Pochettino], and the entire team, has been incredibly transparent [through] the entire process,” Batson said in May. “He had standing offers from other places to come [when we hired him initially], and he wanted to be here. He’s a big believer in what we’re doing at US Soccer. He’s a big believer in soccer in America, and he’s a big believer in this men’s team.”\n\nPochettino has said he will not make a decision on his future until after theWorld Cup. The most recent, publicly available data available on the Argentinian’s salary places him amongst football’s highest-paid coaches, at $4m a year, a figure that grows significantly via a bonus structure.\n\nThe Athletic was first to report news of the contract offer.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nThe former Tottenham Hotspur head coach’s 22-month tenure as the US head coach has been a mixed bag, but his team’s performance at the World Cup has been beyond argument. The 54-year-old has led the US to their best-ever showing in the group stage of a World Cup. They beat Australia and Paraguay handily to wrap up top spot in the group before losing a hard-fought match to already-eliminated Turkey.\n\nA last-32 matchup against Bosnia and Herzegovina awaits. By sealing a spot in the knockout stage, the Americans under Pochettino are just two wins away from matching their best-ever finish in the modern era.\n\nFans and pundits have long assumed that Pochettino, who had never coached internationally before taking the US job, would leave after the World Cup, though he has said in recent months that he is open to extending his contract.\n\n“We told the federation we are open,” Pochettino said in a media roundtable this week. “But we don’t want to distract when all the energy needs to be with my players ... If the American people start to show passion in our sport too, why not be here being part of something that can create a legacy? For me, the most important legacy is the connection between the national team and the fans.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-26 @ 19:07:45 EDT",
+  "lastUpdated": "2026-06-27 @ 01:07:01 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
