@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Isak Hien leaves the WC after the injury",
+      "link": "https://www.svt.se/sport/fotboll/isak-hien-lamnar-vm-efter-skadan"
+    },
+    {
       "text": "⚽ Sema gave a speech for the team before the shocker: \"Many were moved\"",
       "link": "https://www.svt.se/sport/fotboll/sema-holl-tal-for-laget-infor-rysaren-manga-blev-rorda"
     },
@@ -16,28 +20,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/se-elangas-uppmarksammade-reaktion-pa-plan-visste-inte"
     },
     {
-      "text": "⚽ They have Sweden's best chance to face them in the round of 16",
-      "link": "https://www.svt.se/sport/fotboll/de-har-sverige-storst-chans-att-stallas-mot-i-sextondelsfinalen"
-    },
-    {
-      "text": "⚽ Viktor Gyökeres critical of the referee's move: \"Frustrating\"",
-      "link": "https://www.svt.se/sport/fotboll/viktor-gyokeres-kritisk-mot-domarinsatsen-frustrerande"
-    },
-    {
-      "text": "⚽ Sweden ready for the round of 16 in the World Cup - after a draw against Japan",
-      "link": "https://www.svt.se/sport/fotboll/sverige-klart-for-sextondelsfinal-i-vm-efter-oavgjort-mot-japan"
-    },
-    {
-      "text": "⚽ Isak Hien was injured - the WC may be over",
-      "link": "https://www.svt.se/sport/fotboll/svenska-smallen-isak-hien-utgick-skadad"
-    },
-    {
       "text": "⚽ Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
       "link": "https://www.theguardian.com/football/2026/jun/26/senegal-iraq-world-cup-group-i-match-report"
-    },
-    {
-      "text": "⚽ Japan and Sweden both reach World Cup last 32 after Elanga’s strike seals draw",
-      "link": "https://www.theguardian.com/football/2026/jun/26/japan-sweden-world-cup-2026-match-report"
     }
   ],
   "timeline": {
@@ -7382,10 +7366,103 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-27": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0837_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien leaves the WC after the injury",
+            "bullets": [
+              "Isak Hien's WC is over. After the injury he suffered in the match against Japan, the national team n...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Isak Hien's WC is over. After the injury he suffered in the match against Japan, the national team now announces that he is going home. - It's really sad for Isak and for us, Graham Potter.",
+            "fullText": "Isak Hien's WC is over. After the injury he suffered in the match against Japan, the national team now announces that he is going home.\n\n- It's really sad for Isak and for us, Graham Potter.\n\nAfter just over half an hour in the last group stage match against Japan, defender Isak Hien was injured and was lying on the grass.\n\nHe received treatment both on the field and on the sidelines before he was able to get to the dressing room with the help of several people.\n\nAfter investigations, it has now been announced that Hien will not be able to play any more in the WC.\n\n- Isak has sustained an injury in the back of his left thigh which is such that he will not be able to participate further in the WC. He will return to his club and the injury means that he will be away from football for some time, says national team doctor Jonas Werner in a press release.\n\n- It is really sad for Isak and for us. He is a key player for us and is important to the group on and off the pitch. Having to end the WC in this way with an injury is very sad and we will support him in the best way possible. It's sad for him but I'm sure he'll come back stronger, says national team captain Graham Potter.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0839_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sema gave a speech for the team before the shocker: \"Many were moved\"",
+            "bullets": [
+              "Confederation captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan. K...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Confederation captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan. Ken Sema was sent forward to give a speech to the team. - It was just before we went to the arena, he says.",
+            "fullText": "Confederation captain Graham Potter offered a move ahead of Sweden's World Cup meeting with Japan.\n\nKen Sema was sent forward to give a speech to the team.\n\n- It was just before we went to the arena, he says.\n\nWatch the clip in the player above where Sema talks about how his teammates reacted to his speech.\n\nSweden went into the final group stage match in a tight spot and needed a good result to secure a place in the round of 16.\n\nKen Sema then stepped forward and gave a speech to the team.\n\n- I just went and waited to be part of a big championship. Being here is special on many levels, for me and my family. When Graham called and I was selected, there was a lot of emotion. I called my dad and it was an emotional conversation as well. He (the father) usually doesn't show much like that, says Sema.\n\n- He thought it was a nice story and asked me to tell it to the team. Then I thought \"okay...?\", he says with a laugh and continues:\n\n- It felt like it hit home and many could relate. I spoke to Kim (Källström, football manager) and he also said that it was exactly what we needed.\n\nThe Pafos defender had his family there in connection with the match against Japan.\n\n- Unbelievable. They held a big sign with \"Ken Sema\". It is very big. They are so unperturbed and just drive.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0841_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "That's how tired the Swedes were after the WC night in 1994",
+            "bullets": [
+              "Are you tired after staying up all night watching Sweden advance in the World Cup? The feeling was, ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Are you tired after staying up all night watching Sweden advance in the World Cup? The feeling was, to say the least, the same among the county residents during the 1994 WC.",
+            "fullText": "Are you tired after staying up all night watching Sweden advance in the World Cup?\n\nThe feeling was, to say the least, the same among the county residents during the 1994 WC.\n\nWhen Sweden took the historic bronze in the 1994 World Cup in the USA, many matches were played at night, Swedish time. Just like this year, in other words.\n\nAnd just like now, large parts of Sweden stayed up and followed the national team as it dug for gold in the states.\n\nSVT met extremely tired workers in Timrå and Sundsvall the day after Sweden's World Cup premiere against Cameroon in California. Due to the time difference, the match started at 01:30 Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0843_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "See Elanga's attention-grabbing reaction to plan: \"Didn't know\"",
+            "bullets": [
+              "All Swedish players celebrated the WC promotion. Except for Anthony Elanga - who didn't understand t...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All Swedish players celebrated the WC promotion. Except for Anthony Elanga - who didn't understand that they had moved on. - I didn't know that one point was enough, says the star.",
+            "fullText": "Except for Anthony Elanga - who didn't understand that they had moved on.\n\n- I didn't know that one point was enough, says the star.\n\nWatch Elanga's reaction and his explanation for the images in the video above.\n\n24-year-old Anthony Elanga scored the important equalizing goal that completely secured Sweden's place in the round of 16.\n\nWhen the final whistle went against Japan, the Swedish players and leaders cheered. But Elanga did not understand that the cross was enough to progress.\n\nTeammate Alexander Isak noticed that something was not right and heard the explanation afterwards.\n\n- He (Elanga) got a little scolding from me there. He was a little frustrated at the end of the match and you understand that now, says Isak.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0845_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "Senegal salvage hopes of World Cup last-32 place with rout of 10-man Iraq",
+            "bullets": [
+              "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-man Iraq in their Group I finale.Ismaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time for the Lions of Teranga, who sealed a third-place group finish and are vying for one ⁠of the eight third-place spots in the last 32. Continue reading...",
+            "fullText": "The substitute Pape Gueye scored a pair of sensational second-half goals from long range as Senegal got a much-needed boost to their goal difference with a 5-0 victory over 10-manIraqin their Group I finale.\n\nIsmaïla Sarr added his third ⁠goal of the tournament, ⁠the first ​of four after half-time for the Lions of Teranga, who sealed a third-place group finish and are vying for one ⁠of the eight third-place spots in the last 32.\n\nSenegal currently hold the fifth-best record of third-place sides based on their +2 goal difference, but ⁠four of the teams beneath them have yet to play their final group matches.\n\nHabib Diarra ​opened the scoring in the fourth minute ‌while it was still ‌XI against XI, and Iliman Ndiaye wrapped it up with his own long-range effort in ‌the 82nd minute.\n\nThe result meant that Iraq were eliminated from their secondWorld Cupand first since 1986. They were underdogs from kick-off but the prospect of their first World Cup points grew more remote when the referee, Anthony Taylor, dismissed Rebin Sulaka for denying an obvious goalscoring opportunity in the 13th minute.\n\nTaylor initially brandished a yellow card after ‌Sadio Mané dribbled past Sulaka, who hauled him back with an outstretched arm. But Taylor was summoned to consult a video monitor and, after ​viewing the play again, upgraded the decision to a red card.\n\nSenegal couldn’t capitalise during a frustrating remainder of the first half, but that all changed after the interval.\n\nLamine Camara set up Sarr’s 56th-minute goal to begin the second-half onslaught, forcing an Iraq turnover in their own box, dribbling to the byline, then ⁠cutting a low cross back for the Crystal Palace forward to tap into an open ​goal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nGueye entered immediately after ​Sarr’s contribution and soon made ​his own impact. Just before the hour mark, he took Sarr’s pass near the ​right corner of the ‌box, dribbled to his ​left and then ​unleashed a left-footed strike that curled beyond the diving Jalal Hassan on its way into the top corner.\n\nIn the 71st minute, Gueye ran on to Ndiaye’s bouncing pass and struck a thunderous half-volley that barely gave Hassan time to move before it bulged the back of the net.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-26 @ 19:00:43 EDT",
+  "lastUpdated": "2026-06-27 @ 01:08:45 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
