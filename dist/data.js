@@ -20,24 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cn4rlm9834no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Filth, fury and fairytales: Uruguay and Cape Verde bring football heritage",
-      "link": "https://www.theguardian.com/football/2026/jun/27/football-daily-cape-verde-uruguay-gwc"
+      "text": "⚽ Panama v England: World Cup 2026 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates"
     },
     {
-      "text": "⚽ Thomas Tuchel searches for solutions to overcome Panama’s low block",
-      "link": "https://www.theguardian.com/football/2026/jun/27/thomas-tuchel-england-searches-for-solutions-panama-low-block-world-cup-2026"
+      "text": "⚽ Football Daily | Filth, fury and fairytales: Uruguay and Cape Verde bring football heritage",
+      "link": "https://www.theguardian.com/football/2026/jun/27/football-daily-cape-verde-uruguay-gwc"
     },
     {
       "text": "⚽ What is the secret to Wallsend Boys producing so many top-level football players?",
       "link": "https://www.theguardian.com/football/2026/jun/27/wallsend-boys-producing-so-many-top-level-football-players"
-    },
-    {
-      "text": "⚽ Osaka retires from Bad Homburg final to spark Wimbledon concern",
-      "link": "https://www.skysports.com/tennis/news/12040/13558249/bad-homburg-naomi-osaka-retires-during-final-with-foot-issue-vs-karolina-muchova-prompting-wimbledon-concern"
-    },
-    {
-      "text": "⚽ Why England's backline remains Tuchel's biggest conundrum",
-      "link": "https://www.skysports.com/football/news/12040/13557982/england-defensive-issues-thomas-tuchel-must-iron-out-backline-problems-before-tougher-tests-await-in-world-cup-knock-outs"
     }
   ],
   "timeline": {
@@ -12790,11 +12782,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5117_0",
+            "category": "england",
+            "type": "News",
+            "title": "Who are the Panama players England need to look out for?",
+            "bullets": [
+              "BBC Sport analyses the key players for Panama who will be aiming to cause a World Cup upset against ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport analyses the key players for Panama who will be aiming to cause a World Cup upset against England in their final Group L fixture.",
+            "fullText": "Panama's second World Cup is in danger of finishing the same way as their first in 2018, when they lost all three group games - including 6-1 against England.\n\nA sixth-straight World Cup defeat on Saturday would equal the longest 100% losing record in the tournament's history.\n\nPanama's experienced squad - which is both the oldest and most-capped at this World Cup - are only playing for pride following their early elimination.\n\nBBC Sport has picked out five players who could be key if they are to cause a seismic upset against England.\n\nScouting report on Panama - why England should be wary\n\nMidfielder Adalberto Carrasquilla won the Golden Ball award for best player at the 2023 Gold Cup\n\nClub:UNAM, MexicoAge:27Position:MidfielderCaps:73Goals:3\n\nArguably Panama's most important player, Carrasquilla has yet to play a minute at this World Cup because of a thigh muscle injury sustained during the Mexican league title decider on 24 May.\n\nIndications are he is now fit enough to be involved in some capacity against England.\n\nThe central midfielder is Panama's tempo setter and creative spark, working tirelessly in and out of possession and showcasing an impressive ability to wriggle out of tight spaces and drive the team upfield.\n\nIn 2024, Carrasquilla became the first Panamanian to be named Concacaf men's player of the year.\n\nHe trained as a hairdresser in his youth and was giving his team-mates a trim by the time he made his senior debut aged 16 for Panamanian side Tauro. Carrasquilla still occasionally cuts hair at the local barber when he is visiting family back home.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5117_1",
+            "category": "england",
+            "type": "News",
+            "title": "'No one could see it coming' - Tuchel defends selection after James injury",
+            "bullets": [
+              "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match agai...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match against Panama through injury.",
+            "fullText": "England manager Thomas Tuchel has defended his full-back selection policy after confirming Reece James will miss Saturday's World Cup match against Panama.\n\nAs revealed by BBC Sport this week, James was assessed by England medics followingTuesday's goalless draw against Ghanaafter complaining of a hamstring issue.\n\nTuchel has since confirmed that the Chelsea right-back has not travelled to New Jersey from their Kansas City base for their final Group L game against Panama on Saturday (22:00 BST). He insists James has a chance of playing in England's last-32 match next week.\n\nHowever, BBC Sport understands that James is a significant doubt for the start of the knockout stages, withEngland now guaranteed a placeeven if they were to drop to third in their group.\n\nJames started only 20 league games last season because of injury problems, but Tuchel said of the 26-year-old's latest issue: \"No-one could see that coming.\n\n\"Reece was in good shape and felt very good, so it's a bit unlucky but Ezri Konsa played in the position for us on a high level. We have still no problem.\"\n\nJames' injury - and the calf issue that caused Tino Livramento to return home from the United States - has thrown into question Tuchel's decision to bring just three recognised full-backs to the World Cup.\n\nThere was no place in the squad for Real Madrid right-back Trent Alexander-Arnold, for example.\n\nDjed Spence, James and Livramento - who similarly had injury problems last season - were the only genuine full-backs selected.\n\nStart Rashford? Bring O'Reilly back? Pick your England XI to face Panama\n\nWho are the Panama players England need to look out for?\n\nNico O'Reilly, who played at left-back for Manchester City last season, is also in the squad â but he came through the ranks at Etihad Stadium as a midfielder. Dan Burn has also played at left-back but is recognised as a centre-back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5118_2",
+            "category": "england",
+            "type": "News",
+            "title": "'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
+            "bullets": [
+              "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "fullText": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5118_3",
+            "category": "england",
+            "type": "News",
+            "title": "From supermarket to World Cup - the forgotten England team",
+            "bullets": [
+              "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artifici...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artificial pitch in the north east of England where a future member of Thomas Tuchel's World Cup squad got what he called his \"break\".",
+            "fullText": "Dan Burn has gone on to win nine senior caps for England\n\nNew Ferens Park feels a world away from the New York New Jersey Stadium.\n\nBut it was on this artificial pitch in the north east of England where a future member of Thomas Tuchel's World Cup squad got what he called his \"break\".\n\nThis was where Dan Burn represented his country for the first time following a call-up to the Clubs for Young People representative side in 2009.\n\nBurn had been playing football for the fun of it at the time, having previously been released byNewcastle United's Centre of Excellence several years earlier.\n\nHe had started sixth form and was working in a supermarket.\n\nBut England National Association of Boys club manager Alan Watson was assembling a team of the best unsigned footballers in the country for a home nations tournament, and the then 17-year-old impressed during a series of trials.\n\n\"A lot of lads get released, like Dan was, but they are still good players,\" Watson said.\n\n\"We used to tell them, 'As one door closes, we will open another. You will be selected for England'.\"\n\nThe towering Burn, complete with highlighted surfer hair, soon found himself lining up for a team photograph in an official England kit from Euro 96.\n\nSitting in the row in front was fellow centre-back Lewis Blissett.\n\nNow working in asset management, the lifelongNewcastlesupporter was only half-joking when he said partnering Burn in the heart of defence will go down as his \"biggest claim to fame\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5118_4",
+            "category": "england",
+            "type": "News",
+            "title": "Panama v England: World Cup 2026 – live",
+            "bullets": [
+              "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST⚽️ Third-place table | Player guide | Golden Boot | ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST⚽️ Third-place table | Player guide | Golden Boot | Mail Scott⚽️ Croatia v Ghana – live news from the group’s other gameEngland: Pickford, Quansah, Konsa, Guehi, O’Reilly, Anderson, Bellingham, Rogers, Saka, Kane, Rashford.Panama: to come Continue reading...",
+            "fullText": "As expected,Englandhave made five changes to the side that started the goalless draw with Ghana earlier in the week.Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5118_5",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Filth, fury and fairytales: Uruguay and Cape Verde bring football heritage",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!The Geopolitics World Cup has its North Korea 196...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!The Geopolitics World Cup has its North Korea 1966, its Cameroon 1990, rank outsiders to revive hearts hardened by relentless cynicism. For Pak Doo-ik and Roger Milla, read Vozinha, and all his Cape Verde teammates, including Pico Lopes, a defender recruited while playing for Shamrock Rovers from the diaspora via LinkedChat. An archipelago nation with a population smaller than Bradford has negotiated a tough group including two former winners in Spain and Uruguay. They will next meet Argentina in Miami, the adopted city of Lionel Messi, where the fairytale likely ends. Though if not, then they would become the greatest World Cup story of all. “We are small but we have big hearts,” sobbed Vozinha following a 0-0 draw with Saudi Arabia and a quick check on the other Group H result from Guadalajara.Having sat through the first group games and fumed at the obvious lack of jeopardy, I decided my GWC experience would be significantly enhanced if I ignored some games and played walking football for the 60-plus generation instead. To my amazement, there is an entire new football language waiting to be discovered by anybody prepared to play the beautiful game at a sedate pace. For example, the walking football term used when a player scores three goals is ‘a gerihat-trick’. Come to think of it, this all isn’t far removed from descriptions of England’s performance against Ghana. Does anybody else have any walking football terms?” – Mike Towers.Re: tournament wording in different languages (Football Daily letters passim). I’d love to be the first of 1,057 Scots to tell you what ‘knockout stage’, ‘quarter-final’, ‘semi-final’, ‘final’ and the like are in our national tongue, but I don’t think any of us knows” – Peter Storch (and no other Scots).Leaving aside the £116m for Elliot Anderson (yesterday’s Beyond The GWC, full email edition), I’m concerned about a midfielder called Odysseas Vlachodimos being mentioned in passing. Is he the kind of player who gets lost in the middle of games, or does he tease the opposition till they lose control?” – Kev The Poet.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nThe Geopolitics World Cup has its North Korea 1966, its Cameroon 1990, rank outsiders to revive hearts hardened by relentless cynicism. For Pak Doo-ik and Roger Milla, read Vozinha, and all his Cape Verde teammates, including Pico Lopes, a defender recruited while playing for Shamrock Rovers from the diasporavia LinkedChat. An archipelago nation with a population smaller than Bradfordhas negotiated a tough groupincluding two former winners in Spain and Uruguay. They will next meet Argentina in Miami, the adopted city of Lionel Messi, where the fairytale likely ends. Though if not, then they would become the greatest World Cup story of all. “We are small but we have big hearts,” sobbed Vozinha followinga 0-0 draw with Saudi Arabiaand a quick check on the other Group H result from Guadalajara.\n\nTalking of football heritage, Uruguay exitingin a flurry of filth and furyduring their 1-0 loss to Spain showed off something else not yet commodified and flogged to the highest bidder. Marcelo Bielsa’s tournament legacyis mixed. His Argentina team of all the talents were dumped out at the group stage in 2002 amid floods of woe. Chile in 2010 played some of the loveliest soccer on show in South Africa before exiting to Brazil in the last 16. A third stab with Uruguay has been a self-confessed disaster. Such true confessions were made most publicly. Bielsa’s guttural demand that the flash interviewer hurry the bleep up was followed by a paint-stripping mea culpa. “I haven’t left anything to Uruguayan football,”he sniffed, hurling himself through the door marked DO ONE.\n\nThe warnings had been there pre-tournament, Bielsa declaring he had been “toxic” with his players. Following drab draws with Saudi Arabia and Cape Verde, against a Spain team grinding through the motions themselves, a first-half mistake by goalkeeper Fernando Muslera gifted the winner. A distraught Muslera did not return after half-time. Both teams kicked merry lumps out of the other, though it was colliding with a teammate that caused serious knee-knack for Manuel Ugarte, the midfielder Manchester United are looking to ship out for their annual rebuild. Agustín Canobbio’s late red card for a “tackle” launched towards Pau Cubarsí put the cap on it. “Clearly I didn’t go in with the studs,” Cannobbio wailed after refusing to leave the field in full “hold me back” mode, his challenge having echoed José Batista on Gordon Strachan in 1986.\n\nIf Bielsa made his own emotions clear, how might his Uruguayan players react? Hopefully better than Argentina’s Juan Sebastián Verón in 2002, who admitted he spent the rest of that summer tearfully pounding the streets near his Cheshire home by night. Sobbed Seba: “I seemed like a lunatic but in this time I had chance to think a lot about what has happened … like knowing who is on my side and who is supporting me.” Anyone residing near a Uruguayan GWC player knows what to look out for.\n\nThe last games of the GWC group stage, completing the marathon, 72-game epic, starting with Scott Murray’s Panama 0-4 England MBM report, concurrently with Croatia 0-0 Ghana from Will Unwin, as Group L concludes with a pair of 5pm EDT/10pm BST kick-offs. After that comes Beau Dure’s coverage of Colombia 3-3 Portugal, with a 7.30pm EDT/12.30am BST kick-off shared with Bryan Armen Graham’s MBM of DR Congo 2-1 Uzbekistan in Group K. The final showing is a Group J double bill of Samantha Lewis covering the Algeria 0-0 Austria “shame”the world awaits, while Rob Smyth covers Jordan 0-7 Argentina (Messi hat-trick) at 10pm EDT/3am BST.\n\n“What happened today in training, this is a normal situation. I would’ve liked to see these situations more often, that means the team is alive. They are willing to do a good effort … to be in the first XI for the game. If this happens another time, it’s a good sign that they are alive” – the Panama coach, Thomas Christiansen, welcomes the training-ground confrontation between Cecilio Waterman and José Luis Rodríguez, hailing these as scenes everyone wants to see, before tackling England in New York on Saturday night.\n\nBig Website’s app now features a special edition of On the Ball for the GWC.On the Ball: World Stageinvites you to guess the World Cup player in five attempts – and it’s pretty tricky. You can have a go right now – and there are loads of other good puzzles to take up your time, too.\n\ndouble quotation markHaving sat through the first group games and fumed at the obvious lack of jeopardy, I decided my GWC experience would be significantly enhanced if I ignored some games and played walking football for the 60-plus generation instead. To my amazement, there is an entire new football language waiting to be discovered by anybody prepared to play the beautiful game at a sedate pace. For example, the walking football term used when a player scores three goals is ‘a gerihat-trick’. Come to think of it, this all isn’t far removed from descriptions of England’s performance against Ghana. Does anybody else have any walking football terms?” – Mike Towers.\n\ndouble quotation markRe: tournament wording in different languages (Football Daily letters passim). I’d love to be the first of 1,057 Scots to tell you what ‘knockout stage’, ‘quarter-final’, ‘semi-final’, ‘final’ and the like are in our national tongue, but I don’t think any of us knows” – Peter Storch (and no other Scots).\n\ndouble quotation markLeaving aside the £116m for Elliot Anderson (yesterday’s Beyond The GWC, full email edition), I’m concerned about a midfielder called Odysseas Vlachodimosbeing mentioned in passing. Is he the kind of player who gets lost in the middle of games, or does he tease the opposition till they lose control?” – Kev The Poet.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Peter Storch. Terms and conditions for our competitions, when we run them, arehere.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5118_6",
+            "category": "england",
+            "type": "News",
+            "title": "What is the secret to Wallsend Boys producing so many top-level football players?",
+            "bullets": [
+              "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the we...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young peopleNot many local football clubs can claim to have produced the most expensive British footballer of the day. Wallsend Boys, a grassroots team in working-class north Tyneside are about to do it for a second time.With Elliot Anderson on the brink of a deal with Manchester City worth £116m, eclipsing the fee paid by Arsenal for Declan Rice in 2023, another chapter in the history of the club is about to be written. Continue reading...",
+            "fullText": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young people\n\nNot many local football clubs can claim to have produced the most expensive British footballer of the day. Wallsend Boys, a grassroots team in working-class north Tyneside are about to do it for a second time.\n\nWith Elliot Anderson on the brink of a deal with Manchester City worth £116m, eclipsing the fee paid by Arsenal for Declan Rice in 2023, another chapter in the history of the club is about to be written.\n\nIt is one that will be familiar to club members old enough to remember Alan Shearer’s record breaking £15m move to Newcastle in 1996.\n\nAnd it’s not just expensive talent that Wallsend churns out. As well as producing record breakers, the club can also claim several England internationals who have come through their ranks such as Michael Carrick, Peter Beardsley and Fraser Forster.\n\nIt raises the question of whether there’s something in the water in the town, whose population numbers just 45,000, or it is the way Wallsend rears its young that makes the club such a crucible for footballing prowess.\n\nGeography certainly has no small part to play in it. The north-east is second only to Greater London as the county to supply players for Thomas Tuchel’s World Cup squad, with four of the squad raised in Tyne & Wear.\n\nBut Alan Thompson, another of the club’s graduates whose professional career included stints at Newcastle, Leeds, Aston Villa and Celtic, said it is people as much as place that makes Wallsend so special.\n\n“It wasn’t just the football side of it, it was the people who worked at the boys’ club and how grounded they made you as a person.”\n\nThe club was founded in 1904, created by a local shipbuilding company that wanted a “positive, safe” environment that would “keep their apprentices off the street”, according to its general manager, John Percival.\n\nThat focus on the wellbeing of young people has remained the club’s main focus for more than 120 years, with activities ranging from martial arts, line dancing and pilates offered, as well as discounted or free meals discreetly provided to anyone who needs them.\n\nDespite the name, the club also supports the women’s game, with teams ranging from juniors to seniors, some of whose players have moved to top professional sides and played internationally.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-27 @ 12:05:27 EDT",
+  "lastUpdated": "2026-06-27 @ 15:51:22 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
