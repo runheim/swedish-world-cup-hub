@@ -4,28 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Who are the Panama players England need to look out for?",
-      "link": "https://www.bbc.co.uk/sport/articles/cr47wd2d3ero?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Who had the X-factor and who had a tough game? England player ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ 'Huge relief' - Bellingham puts England ahead against Panama",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx245dlmnpzo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Kane breaks England World Cup goals record to double lead against Panama",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9w27q780xqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'No one could see it coming' - Tuchel defends selection after James injury",
       "link": "https://www.bbc.co.uk/sport/football/articles/cly70v1n22eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2d8gvdlr0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ From supermarket to World Cup - the forgotten England team",
       "link": "https://www.bbc.co.uk/sport/football/articles/cn4rlm9834no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Panama v England: World Cup 2026 – live",
-      "link": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates"
+      "text": "⚽ 'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx2d8gvdlr0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Football Daily | Filth, fury and fairytales: Uruguay and Cape Verde bring football heritage",
-      "link": "https://www.theguardian.com/football/2026/jun/27/football-daily-cape-verde-uruguay-gwc"
+      "text": "⚽ Panama 0-2 England: World Cup 2026 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/27/panama-v-england-world-cup-2026-live-updates"
     },
     {
       "text": "⚽ What is the secret to Wallsend Boys producing so many top-level football players?",
@@ -12907,11 +12911,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0245_0",
+            "category": "england",
+            "type": "News",
+            "title": "Who had the X-factor and who had a tough game? England player ratings",
+            "bullets": [
+              "BBC Sport's England reporter Alex Howell rates the players after the Three Lions' win over Panama in...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions' win over Panama in the World Cup.",
+            "fullText": "Second-half goals from Jude Bellingham and Harry Kane helped England beat Panama2-0to ensure they finished top of Group L.\n\nBBC Sport England reporterAlex Howellassesses how the players performed in Dallas on Wednesday - and you can have your say at the bottom of the page too.\n\nJordan Pickford:A good save from a Jose Luis Rodriguez effort in the first half after the first hydration break. A couple of loose clearances, though.6\n\nJarell Quansah:His first start in a World Cup at right-back. Does not have the passing range of Reece James but solid defensively. Came off with an ankle injury in the second half.6\n\nEzri Konsa:One good crossfield pass released Marcus Rashford on an early attack. But a lot of running towards his own goal as Panama made the most of the space England left.6\n\nMarc Guehi:Was required to make a few recovery runs as England had to deal with attacks from Panama while the Three Lions pushed for the opening goal.6\n\nNico O'Reilly:With Quansah at left-back O'Reilly's ability to move into midfield was even more important. A real threat in the air with his late runs into the box.6\n\nElliot Anderson:Continued to show why he is the starting number six for England. Kept the ball ticking over in midfield and had the responsibility of being the only real main defensive midfielder. Had a lot of ground to cover but injected pace into the England attacks with his passing.7\n\nJude Bellingham: Played in a deeper role and was on the ball a lot more than the previous match. He played Harry Kane into the box for a good chance in the second half and scored England's opener before providing a quality assist to Kane for England's second. Showed again why he is England's X-factor.8\n\nBukayo Saka: The Arsenal winger was always a threat when he had the ball and was facing up defenders. Saka's quality delivery from corners is a real weapon for England and it's one of those deliveries that helped to give England the lead.6\n\nMorgan Rogers: Given his first start after being a substitute for the first two games. Tidy in tight spaces but a tough game to come into with so many changes.6\n\nMarcus Rashford: A good effort in the first half when he injected some pace into the England attack and forced the goalkeeper into a good save. You always felt there was a chance something could happen when he was on the ball even if it didn't come off.7",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0246_1",
+            "category": "england",
+            "type": "News",
+            "title": "'Huge relief' - Bellingham puts England ahead against Panama",
+            "bullets": [
+              "Latest update from BBC Sport.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from BBC Sport covering the England national football team.",
+            "fullText": "Jude Bellingham does enough to get just ahead of his defender and poke the ball home from Bukayo's Saka corner and put England ahead against Panama.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0246_2",
+            "category": "england",
+            "type": "News",
+            "title": "Kane breaks England World Cup goals record to double lead against Panama",
+            "bullets": [
+              "Harry Kane scores the 11th World Cup goal of his career to overtake Gary Lineker as England's all-ti...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane scores the 11th World Cup goal of his career to overtake Gary Lineker as England's all-time top scorer in the competition, as England take a 2-0 lead against Panama in their final Group L game.",
+            "fullText": "Harry Kane scores the 11th World Cup goal of his career to overtake Gary Lineker as England's all-time top scorer in the competition as Thomas Tuchel's side take a 2-0 lead against Panama.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0246_3",
+            "category": "england",
+            "type": "News",
+            "title": "'No one could see it coming' - Tuchel defends selection after James injury",
+            "bullets": [
+              "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match agai...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel defends his full-back selections after confirming Reece James will miss the match against Panama through injury.",
+            "fullText": "England manager Thomas Tuchel has defended his full-back selection policy after confirming Reece James will miss Saturday's World Cup match against Panama.\n\nAs revealed by BBC Sport this week, James was assessed by England medics followingTuesday's goalless draw against Ghanaafter complaining of a hamstring issue.\n\nTuchel has since confirmed that the Chelsea right-back has not travelled to New Jersey from their Kansas City base for their final Group L game against Panama on Saturday (22:00 BST). He insists James has a chance of playing in England's last-32 match next week.\n\nHowever, BBC Sport understands that James is a significant doubt for the start of the knockout stages, withEngland now guaranteed a placeeven if they were to drop to third in their group.\n\nJames started only 20 league games last season because of injury problems, but Tuchel said of the 26-year-old's latest issue: \"No-one could see that coming.\n\n\"Reece was in good shape and felt very good, so it's a bit unlucky but Ezri Konsa played in the position for us on a high level. We have still no problem.\"\n\nJames' injury - and the calf issue that caused Tino Livramento to return home from the United States - has thrown into question Tuchel's decision to bring just three recognised full-backs to the World Cup.\n\nThere was no place in the squad for Real Madrid right-back Trent Alexander-Arnold, for example.\n\nDjed Spence, James and Livramento - who similarly had injury problems last season - were the only genuine full-backs selected.\n\nStart Rashford? Bring O'Reilly back? Pick your England XI to face Panama\n\nWho are the Panama players England need to look out for?\n\nNico O'Reilly, who played at left-back for Manchester City last season, is also in the squad â but he came through the ranks at Etihad Stadium as a midfielder. Dan Burn has also played at left-back but is recognised as a centre-back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0246_4",
+            "category": "england",
+            "type": "News",
+            "title": "From supermarket to World Cup - the forgotten England team",
+            "bullets": [
+              "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artifici...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New Ferens Park feels a world away from the New York New Jersey Stadium, but it was on this artificial pitch in the north east of England where a future member of Thomas Tuchel's World Cup squad got what he called his \"break\".",
+            "fullText": "Dan Burn has gone on to win nine senior caps for England\n\nNew Ferens Park feels a world away from the New York New Jersey Stadium.\n\nBut it was on this artificial pitch in the north east of England where a future member of Thomas Tuchel's World Cup squad got what he called his \"break\".\n\nThis was where Dan Burn represented his country for the first time following a call-up to the Clubs for Young People representative side in 2009.\n\nBurn had been playing football for the fun of it at the time, having previously been released byNewcastle United's Centre of Excellence several years earlier.\n\nHe had started sixth form and was working in a supermarket.\n\nBut England National Association of Boys club manager Alan Watson was assembling a team of the best unsigned footballers in the country for a home nations tournament, and the then 17-year-old impressed during a series of trials.\n\n\"A lot of lads get released, like Dan was, but they are still good players,\" Watson said.\n\n\"We used to tell them, 'As one door closes, we will open another. You will be selected for England'.\"\n\nThe towering Burn, complete with highlighted surfer hair, soon found himself lining up for a team photograph in an official England kit from Euro 96.\n\nSitting in the row in front was fellow centre-back Lewis Blissett.\n\nNow working in asset management, the lifelongNewcastlesupporter was only half-joking when he said partnering Burn in the heart of defence will go down as his \"biggest claim to fame\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_5",
+            "category": "england",
+            "type": "News",
+            "title": "'The fairytale continues!' Emotional scenes as Cape Verde qualify for last 32",
+            "bullets": [
+              "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "fullText": "Jubilation and tears among Cape Verde fans and players as they confirm their 'miracle' qualification for the last 32 of the World Cup after earning a point against Saudi Arabia in Houston.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_6",
+            "category": "england",
+            "type": "News",
+            "title": "Panama 0-2 England: World Cup 2026 – live",
+            "bullets": [
+              "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST⚽️ Third-place table | Player guide | Golden Boot | ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST⚽️ Third-place table | Player guide | Golden Boot | Mail Scott⚽️ Croatia v Ghana – live news from the group’s other gameAs expected, England have made five changes to the side that started the goalless draw with Ghana earlier in the week. Reece James is hamstrung, so in comes Jarell Quansah at right-back. Nico O’Reilly reclaims the left-back spot from Djed Spence. Declan Rice is rested, to save his back; he’s replaced by Morgan Rogers in a more attack-minded midfield. And up front, Noni Madueke and Anthony Gordon are replaced by Bukayo Saka and Marcus Rashford, who livened things up late on against Ghana.Panama: Mosquera, Murillo, Escobar, Cordoba, Andrade, Gutierrez, Martinez, Barcenas, Harvey, Jose Luis Rodriguez, Tomas Rodriguez.Subs: Mejia, Samudio, Blackman, Farina, Carrasquilla, Diaz, Ramos, Davis, Fajardo, Waterman, Quintero, Godoy, Yanis, Londono, Miller. Continue reading...",
+            "fullText": "England had a job to do, and they did it.It wasn’t totally convincing – the first half was a non-event, and Thomas Tuchel’s men took their foot off the gas a little carelessly after going two up – but Jude Bellingham’s goal and assist earned his side top place in Group L. As things stand,Englandwill be up against Senegal on Wednesday, but let’s wait for the final tranche of first-round matches to be played before addressing that. England can go forward with some confidence, knowing they’ve got plenty of world-class talent capable of seeing them through … but the defence, worried on a couple of occasions tonight by Panama, remains a big question mark.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0247_7",
+            "category": "england",
+            "type": "News",
+            "title": "What is the secret to Wallsend Boys producing so many top-level football players?",
+            "bullets": [
+              "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the we...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young peopleNot many local football clubs can claim to have produced the most expensive British footballer of the day. Wallsend Boys, a grassroots team in working-class north Tyneside are about to do it for a second time.With Elliot Anderson on the brink of a deal with Manchester City worth £116m, eclipsing the fee paid by Arsenal for Declan Rice in 2023, another chapter in the history of the club is about to be written. Continue reading...",
+            "fullText": "Elliot Anderson is the latest in a line of successful footballers from a club that focuses on the wellbeing of young people\n\nNot many local football clubs can claim to have produced the most expensive British footballer of the day. Wallsend Boys, a grassroots team in working-class north Tyneside are about to do it for a second time.\n\nWith Elliot Anderson on the brink of a deal with Manchester City worth £116m, eclipsing the fee paid by Arsenal for Declan Rice in 2023, another chapter in the history of the club is about to be written.\n\nIt is one that will be familiar to club members old enough to remember Alan Shearer’s record breaking £15m move to Newcastle in 1996.\n\nAnd it’s not just expensive talent that Wallsend churns out. As well as producing record breakers, the club can also claim several England internationals who have come through their ranks such as Michael Carrick, Peter Beardsley and Fraser Forster.\n\nIt raises the question of whether there’s something in the water in the town, whose population numbers just 45,000, or it is the way Wallsend rears its young that makes the club such a crucible for footballing prowess.\n\nGeography certainly has no small part to play in it. The north-east is second only to Greater London as the county to supply players for Thomas Tuchel’s World Cup squad, with four of the squad raised in Tyne & Wear.\n\nBut Alan Thompson, another of the club’s graduates whose professional career included stints at Newcastle, Leeds, Aston Villa and Celtic, said it is people as much as place that makes Wallsend so special.\n\n“It wasn’t just the football side of it, it was the people who worked at the boys’ club and how grounded they made you as a person.”\n\nThe club was founded in 1904, created by a local shipbuilding company that wanted a “positive, safe” environment that would “keep their apprentices off the street”, according to its general manager, John Percival.\n\nThat focus on the wellbeing of young people has remained the club’s main focus for more than 120 years, with activities ranging from martial arts, line dancing and pilates offered, as well as discounted or free meals discreetly provided to anyone who needs them.\n\nDespite the name, the club also supports the women’s game, with teams ranging from juniors to seniors, some of whose players have moved to top professional sides and played internationally.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-27 @ 15:51:22 EDT",
+  "lastUpdated": "2026-06-27 @ 19:02:53 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
