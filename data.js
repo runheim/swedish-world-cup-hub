@@ -16,14 +16,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel worried about right-back situation",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gyp71ge4o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Who had the X-factor and who had a tough game? England player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'He's that guy!' Pundits praise 'brilliant' Bellingham",
       "link": "https://www.bbc.co.uk/sport/football/videos/c2dyz205r49o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -32,20 +24,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/ckg0kp27rw4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ From supermarket to World Cup - the forgotten England team",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn4rlm9834no?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel worried about right-back situation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gyp71ge4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Bellingham and Kane strike as England seal top spot with World Cup win over Panama",
-      "link": "https://www.theguardian.com/football/2026/jun/27/england-panama-world-cup-group-l-match-report"
+      "text": "⚽ Who had the X-factor and who had a tough game? England player ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Lionel Messi steps off bench and scores to cap Argentina’s World Cup win over Jordan",
-      "link": "https://www.theguardian.com/football/2026/jun/28/argentian-jordan-world-cup-group-j-match-report"
+      "text": "⚽ World Cup 2026: England win, Clarke quits Scotland and Iran denied at the last – live",
+      "link": "https://www.theguardian.com/football/live/2026/jun/28/world-cup-2026-england-win-clarke-quits-scotland-and-iran-denied-at-the-last-live"
     },
     {
       "text": "⚽ Jude Bellingham bends another day to his will after Panama stifle England | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/jun/28/jude-bellingham-england-panama-world-cup"
+    },
+    {
+      "text": "⚽ Late drama sends Austria and Algeria into World Cup knockouts to break Iran hearts",
+      "link": "https://www.theguardian.com/football/2026/jun/28/algeria-austria-world-cup-group-j-match-report"
     },
     {
       "text": "⚽ England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg",
@@ -56,20 +52,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/28/croatia-ghana-world-cup-group-l-match-report"
     },
     {
-      "text": "⚽ What is the secret to Wallsend Boys producing so many top-level football players?",
-      "link": "https://www.theguardian.com/football/2026/jun/27/wallsend-boys-producing-so-many-top-level-football-players"
-    },
-    {
       "text": "⚽ Tuchel vows 'the bigger the game, the bigger England will be'",
       "link": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts"
     },
     {
       "text": "⚽ England player ratings: Bellingham shines but duo fail to take chance",
       "link": "https://www.skysports.com/football/news/12040/13558404/panama-0-2-england-player-ratings-jude-bellingham-shines-again-but-jarell-quansah-and-morgan-rogers-disappoint"
-    },
-    {
-      "text": "⚽ Bellingham to the rescue yet again as England book date with DR Congo",
-      "link": "https://www.telegraph.co.uk/football/2026/06/27/england-vs-panama-live-score-world-cup-latest-updates/"
     }
   ],
   "timeline": {
@@ -13390,7 +13378,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 01:48:03 EDT",
+  "lastUpdated": "2026-06-28 @ 06:40:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
@@ -15385,6 +15373,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
       "text": "Rest up tonight boys. Massive week ahead.",
       "time": "12:58",
+      "isCaptain": true
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "That training session was proper intense.",
+      "time": "06:40",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "06:41",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Can't wait to get back out there. Focus is 100%.",
+      "time": "06:42",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Early night for me. Need the recovery.",
+      "time": "06:43",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who saw that strike in training?! Unbelievable.",
+      "time": "06:44",
       "isCaptain": true
     }
   ]
