@@ -3951,7 +3951,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 01:48:07 EDT",
+  "lastUpdated": "2026-06-28 @ 06:38:39 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
@@ -5876,6 +5876,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇺🇸",
       "text": "Early night for me. Big day tomorrow.",
       "time": "13:11",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Just saw the training kit. Actually looks fire this year.",
+      "time": "06:38",
+      "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "06:39",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "06:40",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "06:41",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "06:42",
       "isCaptain": false
     }
   ]
