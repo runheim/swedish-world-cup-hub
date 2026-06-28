@@ -22,10 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ The scandalous match of all time at the WC can be repeated: \"Set for it\"",
       "link": "https://www.svt.se/sport/fotboll/tidernas-skandalmatch-pa-vm-kan-upprepas-upplagt-for-det"
-    },
-    {
-      "text": "⚽ Isak Hien leaves the WC after the injury",
-      "link": "https://www.svt.se/sport/fotboll/isak-hien-lamnar-vm-efter-skadan"
     }
   ],
   "timeline": {
@@ -7997,10 +7993,103 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-28": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4939_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sebastian Larsson defends Gyökeres: \"I don't understand it\"",
+            "bullets": [
+              "Viktor Gyökeres was critical of the refereeing in the meeting with Japan. Now he is also backed by a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres was critical of the refereeing in the meeting with Japan. Now he is also backed by assistant national team captain Sebastian Larsson. - I don't understand why he doesn't get many more free kicks, he says.",
+            "fullText": "Viktor Gyökeres was critical of the refereeing in the meeting with Japan.\n\nNow he is also backed by assistant national team captain Sebastian Larsson.\n\n- I don't understand why he doesn't get many more free kicks, he says.\n\nWatch Sebastian Larsson back Gyökeres in the player above.\n\nDuring the last World Cup group stage match, Viktor Gyökeres was noticeably angry with the referee.\n\n- When you feel that you can barely stand on your feet and get nothing, it is clear that it becomes frustrating and annoying, said a hoarse Gyökeres just after the final whistle.\n\nAssistant national team captain Sebastian Larsson is asked if the striker should be strengthened more to get more decisions.\n\n- I rather think that you can leave it to the judge. We don't want players who lie down, but rather an honest and tough fight out there.\n\nThe match between Sweden and Japan ended 1–1. The round of 16 awaits next.\n\nHear Sebastian Larsson on Viktor Gyökere's anger and the referee in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The coach on Jacob Widell Zetterström's journey: \"He was really close to quitting\"",
+            "bullets": [
+              "Jacob Widell Zetterström impressed as Sweden advanced in the WC. One who has followed the goalkeeper...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jacob Widell Zetterström impressed as Sweden advanced in the WC. One who has followed the goalkeeper's development closely is Nikos Gkoulios. - I understood from day one that I had a diamond in my hands, says Djurgården's goalkeeper coach.",
+            "fullText": "Jacob Widell Zetterström impressed as Sweden advanced in the WC.\n\nOne who has followed the goalkeeper's development closely is Nikos Gkoulios.\n\n- I understood from day one that I had a diamond in my hands, says Djurgården's goalkeeper coach.\n\nWatch the coach talk about Widell Zetterström's journey in the player above.\n\nGraham Potter changed the starting eleven for the match against Japan. Among other things, Jacob Widell Zetterström got the chance in the goal - and the 27-year-old came to play an important role as Blågult advanced to the playoffs.\n\n- I have talked a lot with Jacob before the WC. He did some training with us to keep fit and he was very keen to play. He was both physically and mentally ready, says Nikos Gkoulios.\n\nGkoulios is the goalkeeper coach at Djurgården and has followed Widell Zetterström's development carefully. When the goalkeeper took the step from IFK Lidingö to Djurgården in 2019, the coach was immediately impressed.\n\n- He showed from day one that he was a very special goalkeeper.\n\nBut the career could have come to an abrupt end. In the same year that he joined Dif, the goalkeeper suffered double concussions in the space of a few months after collisions with other players.\n\n- He was really close to quitting. If you had asked me then, I would have said that there was a 60 to 70 percent risk that he would not be able to play football again, says Gkoulios and continues:\n\n- We didn't want to push him, we wanted to give him as much time as possible. All we could do was stay in touch and show that we were there for him.\n\nThe Allsvenskan debut came in 2021 and for several years Widell Zetterström wore a helmet, but he stopped wearing that last year in the English club Derby.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4945_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jacob Widell Zetterström on the support and the sabbatical year: \"Means everything\"",
+            "bullets": [
+              "Six years ago he took a sabbatical from football. Yesterday, Jacob Widell Zetterström made his WC de...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Six years ago he took a sabbatical from football. Yesterday, Jacob Widell Zetterström made his WC debut between the posts. - That means everything, says the 27-year-old.",
+            "fullText": "Six years ago he took a sabbatical from football.\n\nYesterday, Jacob Widell Zetterström made his WC debut between the posts.\n\nIn the clip above, Widell Zetterström talks about the importance of football.\n\nThe 2019 season took an unfortunate turn for a young Jacob Widell Zetterström. The goalkeeper, who suffered from concussions, was forced to take a sabbatical in the 2020 season.\n\n- To now be able to sit here and stand where I stood yesterday, it really means everything, he says the day after the World Cup debut against Japan.\n\nThe Derby goalkeeper says that he has received great shouts after Sweden drew 1-1 and secured a place in the round of 16.\n\n- Obviously a great experience to be a part of. There are many who are happy and proud.\n\n- The fact that my mother, my siblings, my girlfriend and the goalkeeper coach from Derby were here means extra.\n\n- Every now and then, right after the match, you might want to enjoy the moment with those around you. Today, it has become more about taking your time and thanking everyone who got in touch.\n\nSweden's 1-1 goal against Japan, signed by Anthony Elanga, was widely celebrated around Sweden. A clip that also reached Widell Zetterström.\n\n- It was incredibly fun to see. You have stood and cheered on the national team yourself and know how much it means. It was great to be able to do my part and contribute to the joy. Great scenes around the country. That support really means everything.\n\nNow Sweden's World Cup journey continues with the round of 16 against France.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4947_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "This is how Kristoffer Nordfeldt reacted to the poke: \"Professional\"",
+            "bullets": [
+              "Jacob Widell Zetterström got the chance - and Kristoffer Nordfeldt was poked. Assistant national tea...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jacob Widell Zetterström got the chance - and Kristoffer Nordfeldt was poked. Assistant national team captain Sebastian Larsson tells how the seasoned goalkeeper took the decision. - It is clear that it is a tough announcement, but few handle it as well as \"Kribba\", he says.",
+            "fullText": "Jacob Widell Zetterström got the chance - and Kristoffer Nordfeldt was poked.\n\nAssistant national team captain Sebastian Larsson tells how the seasoned goalkeeper took the decision.\n\n- It is clear that it is a tough announcement, but few handle it as well as \"Kribba\", he says.\n\nHear more about how Kristoffer Nordfeldt took the news in the player above.\n\nThe goalkeeper position in the Swedish national team has been a hot issue for the past six months.\n\nKristoffer Nordfeldt, who guarded the goal in the playoff matches in March, got the chance in the opening World Cup events against Tunisia and the Netherlands.\n\nBut against Japan he was benched and Jacob Widell Zetterström was placed between the posts.\n\n- It goes without saying that it was not the funnest message to receive. Now the choice fell on Jacob and he goes in and makes a great effort, says assistant national team captain Sebastian Larsson.\n\nJacob Widell Zetterström explains for his part that it is a tight goalkeeping group, where the trio (Viktor Johansson included) help each other.\n\n- Regardless of whether it is me, Viktor or Kribba who have played, I feel that there has been fantastic support from the others, he says.\n\nThe Derby keeper received some encouraging words from Nordfeldt before the meeting with Japan.\n\n- He said I should go out, believe in myself and do what I can. It means a lot to work with such a fine group.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4948_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "The scandalous match of all time at the WC can be repeated: \"Set for it\"",
+            "bullets": [
+              "Have you heard the story of the all-time scandal match at the World Cup? 44 years have passed since ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Have you heard the story of the all-time scandal match at the World Cup? 44 years have passed since the match that shook the football world - and now the same thing can happen again. - It is set up for that - and that we get to relive football's 80 darkest minutes, says SVT's expert Jonas Eriksson.",
+            "fullText": "Have you heard the story of the all-time scandal match at the World Cup?\n\n44 years have passed since the match that shook the football world - and now the same thing can happen again.\n\n- It is set up for that - and that we get to relive football's 80 darkest minutes, says SVT's expert Jonas Eriksson.\n\nWatch Jonas Eriksson tell the dark story - which can now be repeated at the 2026 FIFA World Cup.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-27 @ 18:57:30 EDT",
+  "lastUpdated": "2026-06-28 @ 01:49:48 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
