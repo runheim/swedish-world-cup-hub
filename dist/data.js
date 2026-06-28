@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ The agent's conversation with Felicia Schröder: \"If you become the most expensive in the world, there will be stupid comments\"",
+      "link": "https://www.svt.se/sport/fotboll/agentens-samtal-med-felicia-schroder-om-du-blir-dyrast-i-varlden-kommer-det-komma-dumma-kommentarer"
+    },
+    {
       "text": "⚽ Sebastian Larsson defends Gyökeres: \"I don't understand it\"",
       "link": "https://www.svt.se/sport/fotboll/sebastian-larsson-forsvarar-gyokeres-jag-ar-oforstaende-till-det"
     },
@@ -14,14 +18,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Jacob Widell Zetterström on the support and the sabbatical year: \"Means everything\"",
       "link": "https://www.svt.se/sport/fotboll/jacob-widell-zetterstrom-om-stodet-och-sabbatsaret-betyder-allt"
-    },
-    {
-      "text": "⚽ This is how Kristoffer Nordfeldt reacted to the poke: \"Professional\"",
-      "link": "https://www.svt.se/sport/fotboll/sa-reagerade-kristoffer-nordfeldt-pa-petningen-professionell"
-    },
-    {
-      "text": "⚽ The scandalous match of all time at the WC can be repeated: \"Set for it\"",
-      "link": "https://www.svt.se/sport/fotboll/tidernas-skandalmatch-pa-vm-kan-upprepas-upplagt-for-det"
     }
   ],
   "timeline": {
@@ -8089,7 +8085,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 01:49:48 EDT",
+  "lastUpdated": "2026-06-28 @ 06:42:51 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
@@ -10049,6 +10045,41 @@ const DYNAMIC_HUB_DATA = {
       "avatar": "🇸🇪",
       "text": "Vem tog mitt kaffe i matsalen?!",
       "time": "12:59",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Bara några dagar kvar nu. Känner ni peppen?",
+      "time": "06:42",
+      "isCaptain": true
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
+      "time": "06:43",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "Vilket mål på träningen! Jag tror jag hittat formen.",
+      "time": "06:44",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "06:45",
+      "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "06:46",
       "isCaptain": false
     }
   ]
