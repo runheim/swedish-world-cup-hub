@@ -8132,11 +8132,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5318_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The agent's conversation with Felicia Schröder: \"If you become the most expensive in the world, there will be stupid comments\"",
+            "bullets": [
+              "Felicia Schröder was sold to Real Madrid - as the world's most expensive female soccer player. But h...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Felicia Schröder was sold to Real Madrid - as the world's most expensive female soccer player. But how did one of Europe's most sought after football talents end up there? - There were quite a few top clubs involved, mainly from England. But Felicia had a very good feeling for Real Madrid, says agent Linus Gunnarsson.",
+            "fullText": "Felicia Schröder was sold to Real Madrid - as the world's most expensive female soccer player.\n\nBut how did one of Europe's most sought after football talents end up there?\n\n- There were quite a few top clubs involved, mainly from England. But Felicia had a very good feeling for Real Madrid, says agent Linus Gunnarsson.\n\nThe deal was completed this week. On Tuesday, Felicia Schröder signed a contract with Real Madrid, becoming the most expensive player sale ever in women's football.\n\nIn the mini-documentary \"Rekordflytten\", SVT Sport followed the 19-year-old behind the scenes before the decision, where there was great uncertainty about which club she would finally choose.\n\n- It stresses me out that I don't know myself, says Felicia Schröder in the documentary.\n\nHer agent Linus Gunnarsson was there when the personal agreement was signed in Madrid. He believes that the Spanish giants were very convincing in how they want to use Felicia Schröder, and that it was in line with how the striker sees himself.\n\n- It was fantastically funny when she called one morning and said that she had made up her mind, and that it felt very right. We see it as a natural and perfect next step for Felicia, and we are convinced that she will become an important part of a strong Real Madrid, says Gunnarsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 12:07:56 EDT",
+  "lastUpdated": "2026-06-28 @ 15:53:18 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
