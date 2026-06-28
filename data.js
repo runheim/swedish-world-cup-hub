@@ -8,24 +8,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Rice set for England start against DR Congo",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ England labour past Panama to qualify for last 32 as group winners",
       "link": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Rice set for England start against DR Congo",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'Huge relief' - Bellingham puts England ahead against Panama",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx245dlmnpzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel worried about right-back situation",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gyp71ge4o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Kane becomes England's top World Cup scorer - and now chases other greats",
       "link": "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Tuchel worried about right-back situation",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gyp71ge4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'He's that guy!' Pundits praise 'brilliant' Bellingham",
@@ -40,8 +40,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c8r2l8y7ygko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England players using drink developed by Brownlee to help beat World Cup heat",
-      "link": "https://www.theguardian.com/football/2026/jun/28/england-players-sports-drink-extreme-heat-world-cup"
+      "text": "⚽ ‘We don’t want penalties’: Pickford backs England’s attacking approach",
+      "link": "https://www.theguardian.com/football/2026/jun/28/jordan-pickford-england-world-cup-democratic-republic-congo"
     },
     {
       "text": "⚽ England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg",
@@ -56,8 +56,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/28/england-2-0-panama-world-cup-group-l-player-ratings-from-new-york-new-jersey"
     },
     {
-      "text": "⚽ Tuchel vows England will get better as Nev, Keane admit concerns",
-      "link": "https://www.skysports.com/football/news/12040/13558439/panama-0-2-england-thomas-tuchel-vows-the-bigger-the-game-the-bigger-england-will-be-in-world-cup-knockouts"
+      "text": "⚽ Tuchel praises Bellingham buy-in after another match-winning showing",
+      "link": "https://www.skysports.com/football/news/12040/13558646/jude-bellingham-thomas-tuchel-praises-england-midfielders-buy-in-at-world-cup-after-back-to-back-man-of-the-match-performances"
     },
     {
       "text": "⚽ Bellingham to the rescue yet again as England book date with DR Congo",
@@ -13934,11 +13934,272 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5230_0",
+            "category": "england",
+            "type": "News",
+            "title": "How Bellingham became Tuchel's most important player",
+            "bullets": [
+              "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingh...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play.",
+            "fullText": "Jude Bellingham's tactical adaptability has become key to Thomas Tuchel's style of play with this England team\n\nIn June 2024, Jude Bellingham scored a dramatic overhead kick in the 95th minute against Slovakia to rescue England's hopes at the Euros.\n\nIn the heat of the moment, he celebrated by screaming into the jubilant crowd.\n\nAfterEngland's 2-0 win against Panama, the 22 year-old's performance has a similar feel to it.\n\nTuchel has been firm in stating his system and approach will largely look the same throughout the tournament but on Saturday we saw subtle tweaks, with injuries in the squad.\n\nBellingham was central to maximising this system, papering over some of the cracks in the meantime.\n\nIt was a tale of two halves for Bellingham who was deployed in a more box-to-box role in Declan Riceâs absence.\n\nIn their first two games, England opted to build from the back with the two central defenders and Elliott Anderson in the centre of the pitch. Both full-backs took wider positions with Rice and Bellingham vacating the holding midfield areas for Harry Kane to drop in and join Anderson.\n\nJarell Quansah came in at right-back for the injured Reece James and was asked to slot into a back three in possession - alongside Marc Guehi and Ezri Konsa. Nico O'Reilly kept his roaming left-back role.\n\nInstead of Kane dropping deep, Bellingham was tasked with supporting Anderson at the base of midfield and England's shape on the ball loosely flipped between a 3-2-5 and a 3-1-6 depending on how Bellingham read the game.\n\nAfter the game, Tuchel confirmed his intentions, explaining that Bellingham \"played as a 10 when we had the ball\" and that he wanted \"to have six players in the last line\" - likely in an attempt to outnumber Panama's back five.\n\nHere is England's shape against Panama. In the first half, Bellingham played a deeper role before taking up more attacking positions in the second half to England's benefit.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5230_1",
+            "category": "england",
+            "type": "News",
+            "title": "England labour past Panama to qualify for last 32 as group winners",
+            "bullets": [
+              "Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuche...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.",
+            "fullText": "Goals from Jude Bellingham and Harry Kane help England secure a 2-0 win over Panama, as Thomas Tuchel's side qualify for the World Cup last 32 as winners of Group L.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5230_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rice set for England start against DR Congo",
+            "bullets": [
+              "Declan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on We...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on Wednesday.",
+            "fullText": "Declan Rice won the Premier League title with Arsenal last season\n\nDeclan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on Wednesday.\n\nThe key midfielder was rested for the2-0 win over Panamaafter taking a heavy blow to the calf in thegoalless draw with Ghanalast Tuesday.\n\nRice, 27, was unable to complete the full training schedule before the win over Panama, although he did return in time for the team's final session before travelling to New Jersey.\n\nIn Rice's absence, Thomas Tuchel started with a midfield of Elliot Anderson and Jude Bellingham.\n\nBut the England manager is optimistic that the Arsenal midfielder will be available to return to the starting XI for the knockout match against DR Congo in Atlanta.\n\nEngland manager Tuchel's biggest injury concerns heading into the knockout rounds are Reece James and Jarell Quansah.\n\nChelsea full-back James missed the win over Panama after sustaining a hamstring injury against Ghana.\n\nWhile Tuchel is not ruling out James for the DR Congo game, it is understood the right-back's return to action is likely to come later in the tournament.\n\nKnockouts are here - what is England's path to the final?\n\nJob done - but England will not win World Cup unless they improve\n\nSimilarly, Quansah, who deputised for James at right-back against Panama, is also a major doubt to play the last-32 tiedue to an ankle injury.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5231_3",
+            "category": "england",
+            "type": "News",
+            "title": "'Huge relief' - Bellingham puts England ahead against Panama",
+            "bullets": [
+              "Latest update from BBC Sport.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from BBC Sport covering the England national football team.",
+            "fullText": "Jude Bellingham does enough to get just ahead of his defender and poke the ball home from Bukayo's Saka corner and put England ahead against Panama.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5231_4",
+            "category": "england",
+            "type": "News",
+            "title": "Kane becomes England's top World Cup scorer - and now chases other greats",
+            "bullets": [
+              "Harry Kane became England's all-time leading World Cup scorer with his 12th goal in the win against ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane became England's all-time leading World Cup scorer with his 12th goal in the win against Panama on Saturday, but how does he compare to other country's greats?",
+            "fullText": "Kane breaks England World Cup goals record to double lead against Panama\n\nHarry Kane broke Gary Lineker's record to become England's all-time leading World Cup scorer when he struck during Saturday's 2-0 win against Panama.\n\nThe Three Lions captain doubled his side's lead when headed home superbly from Jude Bellingham's cross in the second half.\n\nThe goal took Kane's overall World Cup tally to 11 goals, surpassing Lineker's total of 10.\n\n\"I spoke before the tournament about the World Cup being the biggest competition we play as professional footballers, so to get to 11 goals is a proud feeling.\n\n\"It is always hard to take in. I just want to enjoy this moment with the team, enjoy being top of the table.\n\n\"I never take these moments for granted. Another good milestone to hit, and I hope it is not the last one in this tournament.\"\n\nLineker, who scored six times at the 1986 World Cup in Mexico and four times in Italy four years later, said recently that Kane was \"the greatest English striker we've ever had\".\n\nKane got two goals in England's opening 4-2 win against Croatia, which made him only the second England men's player to score at three different World Cups (Russia 2018, Qatar 2022 and North America 2026).\n\nHe joins former Manchester United midfielder David Beckham, who scored at the 1998, 2002 and 2006 World Cups.\n\nKane won the Golden Boot in Russia eight years ago with six goals, before adding two further strikes in Qatar.\n\nHe has three in total so far at this World Cup after helping England into the last 32.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5231_5",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel worried about right-back situation",
+            "bullets": [
+              "Thomas Tuchel says he is \"worried\" about England's right-back crisis after Jarell Quansah became the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says he is \"worried\" about England's right-back crisis after Jarell Quansah became the latest in the position to suffer injury.",
+            "fullText": "Thomas Tuchel says he is worried about England's right-back crisis before their World Cup last-32 tie after Jarell Quansah became the latest in the position to suffer injury.\n\nQuansah started in place of the injured Reece James in the2-0 win over Panamain New Jersey, that clinched top spot in Group L, but limped off in the second half and went straight down the tunnel for treatment.\n\nThe injury leaves Tuchel facing a major dilemma heading into their first knockout game in Atlanta on Wednesday (17:00 BST).\n\nJames is a major doubt for the gamewith a hamstring injury and, with right-backTino Livramento being forced to leave the squadwith a calf issue, Tuchel's only options at right-back appear to be Djed Spence and Ezri Konsa, who has started all three of England's games at centre-back.\n\nKane breaks World Cup record as England beat Panama to top group\n\nWho had the X-factor and who had a tough game? England player ratings\n\nWhen Livramento pulled out of the World Cup squad, Tuchel opted to call-up centre-back Trevoh Chalobah rather than including a replacement right-backsuch as Trent Alexander-Arnold.\n\nTuchel said it was too early to assess the severity of Quansah's injury immediately after the game but, given the last-32 match is just four days away, the Bayer Leverkusen defender's availability is uncertain.\n\n\"A classic ankle twist and he is in pain,\" Tuchel said of Quansah's injury. \"He said he had it before and it is a matter of days. He has his leg up high and in ice.\n\n\"Naturally of course [I am worried about the right-back situation] - we have another injury in the position.\n\n\"It will be a tight race for Reece James and a tight race for Jarell Quansah but it is our job to find solutions and we will do.\"\n\nEngland beat Panama to qualify for last 32 as group winners",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5232_6",
+            "category": "england",
+            "type": "News",
+            "title": "'He's that guy!' Pundits praise 'brilliant' Bellingham",
+            "bullets": [
+              "BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude Bellingham's \"desire and hun...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude Bellingham's \"desire and hunger\" to perform on the biggest stage, after the England midfielder produces a goal and an assist in England's 2-0 win over Panama.",
+            "fullText": "BBC Sport World Cup pundits Micah Richards and Wayne Rooney praise Jude Bellingham's \"desire and hunger\" to perform on the biggest stage, after the England midfielder produces a goal and an assist in England's 2-0 win over Panama.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5232_7",
+            "category": "england",
+            "type": "News",
+            "title": "Kane and Bellingham proved again why they are key players - Tuchel",
+            "bullets": [
+              "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for Eng...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which sees Tuchel's team win Group L at the 2026 World Cup.",
+            "fullText": "Thomas Tuchel says Harry Kane and Jude Bellingham proved once again why they are key players for England, after both men scored in a 2-0 win over Panama which seals top spot for the Three Lions in Group L at the 2026 World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5232_8",
+            "category": "england",
+            "type": "News",
+            "title": "Who had the X-factor and who had a tough game? England player ratings",
+            "bullets": [
+              "BBC Sport's England reporter Alex Howell rates the players after the Three Lions' win over Panama in...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions' win over Panama in the World Cup.",
+            "fullText": "England beat Panama to qualify for round of 32 as group winners\n\nSecond-half goals from Jude Bellingham and Harry Kane helped England beat Panama2-0to ensure they finished top of Group L.\n\nBBC Sport England reporterAlex Howellassesses how the players performed in New York - and you can have your say at the bottom of the page too.\n\nJordan Pickford:A good save from a Jose Luis Rodriguez effort in the first half after the first hydration break. A couple of loose clearances, though.6\n\nJarell Quansah:His first start in a World Cup at right-back. Does not have the passing range of Reece James but solid defensively. Came off with an ankle injury in the second half.6\n\nEzri Konsa:One good crossfield pass released Marcus Rashford on an early attack. But a lot of running towards his own goal as Panama made the most of the space England left.6\n\nMarc Guehi:Was required to make a few recovery runs as England had to deal with attacks from Panama while the Three Lions pushed for the opening goal.6\n\nNico O'Reilly:With Quansah at left-back O'Reilly's ability to move into midfield was even more important. A real threat in the air with his late runs into the box.6\n\nElliot Anderson:Continued to show why he is the starting number six for England. Kept the ball ticking over in midfield and had the responsibility of being the only real main defensive midfielder. Had a lot of ground to cover but injected pace into the England attacks with his passing.7\n\nJude Bellingham: Played in a deeper role and was on the ball a lot more than the previous match. He played Harry Kane into the box for a good chance in the second half and scored England's opener before providing a quality assist to Kane for England's second. Showed again why he is England's X-factor.8\n\nBukayo Saka: The Arsenal winger was always a threat when he had the ball and was facing up defenders. Saka's quality delivery from corners is a real weapon for England and it's one of those deliveries that helped to give England the lead.6\n\nMorgan Rogers: Given his first start after being a substitute for the first two games. Tidy in tight spaces but a tough game to come into with so many changes.6",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5232_9",
+            "category": "england",
+            "type": "News",
+            "title": "‘We don’t want penalties’: Pickford backs England’s attacking approach",
+            "bullets": [
+              "Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penaltiesJordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under-17 edition in Mexico two years later, the 32-year-old has more than made up for it.The 2-0 victory against Panama on Saturday was the 29th major tournament England game in a row to feature Pickford as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious. Continue reading...",
+            "fullText": "Jordan Pickford has enjoyed shootout success but believes his England side can deliver World Cup glory without penalties\n\nJordan Pickford has pretty much seen it all since making his first England appearance at under-16 level in 2009. Although he experienced the embarrassment of conceding the only goal scored by a goalkeeper from open play at a Fifa World Cup match against Canada in the under-17 edition in Mexico two years later, the 32-year-old has more than made up for it.\n\nThe2-0 victory against Panamaon Saturday was the 29th major tournament England game in a row to feature Pickford as Thomas Tuchel’s side secured top spot in Group L to set up a meeting with the Democratic Republic of Congo in Atlanta on Wednesday. As the Everton goalkeeper is fully aware, things are about to get much more serious.\n\n“It ramps up now, doesn’t it?” he said after his 46th clean sheet, and sixth at theWorld Cup, from 87 caps. “It’s a proper phase of football. One game at a time. There are lads who have won Champions Leagues, lads who have been in youth tournaments with England. Everyone knows the pressure of it and I think that is where you will see us thrive.”\n\nPickford joined Everton from Sunderland during England’s run to thesemi-finals of the Under-21 European Championshipsin Poland in 2017, when they were defeated by Germany in a penalty shootout. Other than six games of a Europa League campaign in his first season at Goodison Park, his non-domestic experience has been limited to international football. Pickford has looked shaky at times in England’s first three matches and was extremely fortunate not to be punished for charging out of his penalty area andclattering the Ghana substitute Prince KwabenaAdu, but his record for the senior side remains unblemished.\n\nDean Henderson has been pushing hard after an excellent season at Crystal Palace, but there was never any question who would be Tuchel’s No 1 at this World Cup. Pickford is one of the last remnants of the Gareth Southgate era still in the starting XI and his muscle memory at major tournaments could be a big advantage forEnglandas they head into the knockout stages.\n\n“It’s not too different,” he said when asked how they would approach the next few days. “We’ve got our goal. You work on the training pitch, you keep that enjoyment and keep that fun environment. But once you’re training you’re working, you take the messages in and for me that’s the glue really. Because you want to be enjoying it but you don’t want to be solely focused on too much tomorrow, thinking about the next game.\n\n“You want to have that recovery environment but when we’re off the pitch it’s like our downtime and [we can] relax and have fun between us. And that’s what we do. That’s what I feel we’ve got right since I got here in 2018.”\n\nIf there is one marked difference between England under Tuchel and Southgate it has been the approach to defending. As was evident against Panama when they were almost caught out on more than one occasion, there has been a conscious effort to take more risks by pushing Nico O’Reilly high up the pitch from left back, often leaving his fellow defenders one-on-one. But Pickford believes that it could unlock their attacking potential.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“I wouldn’t say it’s a risk,” he said. “It’s tactical. We’re playing front-foot football. Hopefully everyone at home is enjoying it. We’re enjoying it. There are a lot of positives out of it because we want to get the ball high up and suffocate teams. That is what we’ll do. There will be the odd time when they’ll make one or two passes and you’ve got to be on your A game. It’s about recovery. You’ve seen a lot of recovery runs. There are a lot of lads putting a lot of effort in. Effort into last-ditch tackles. And then it comes down to me when I need to make a save as well.”\n\nPickford’s heroics in the cathartic penalty shootout victory aganist Colombia in the last 16 of the 2018 World Cup have gone down in England folklore given their previous history. He also made a penalty save from Manuel Akanji during the Euro 2024 shootout win against Switzerland and did likewise from Josip Drmic against the same country to win the Nations League third-placed playoff in 2019, having converted his own kick. He has been practising again just in case.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5233_10",
+            "category": "england",
+            "type": "News",
+            "title": "England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg",
+            "bullets": [
+              "Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive agains...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho Does anyone know what happened to the low block? After all the talk about the challenges of breaking down a grim back seven, the bigger worry for Thomas Tuchel in New Jersey was Panama’s lack of fear. There was no sign of the underdogs borrowing from the Carlos Queiroz playbook against an anxious England, who are starting to give off the distinct whiff of a team whose World Cup is destined to end in a calamity of some sort in the knockouts.Make no mistake: England will be going home if they continue to defend like this against anyone with a functioning attack. Tuchel will not be fooled. Although his team secured top spot in Group L by wearing down Panama in the end, an achievement mainly down to Jude Bellingham again stepping up with two moments of class after a skittish first half, England were far from convincing and spent long spells demonstrating that anyone who thought an unusually gung-ho lineup would provide a vision of a post-Declan Rice world was sorely mistaken. Continue reading...",
+            "fullText": "Win over Panama failed to disguise deficiencies at the back and Tuchel’s men will not survive against a top side by going gung-ho\n\nDoes anyone know what happened to the low block? After all the talk about the challenges of breaking down a grim back seven, the bigger worry forThomas Tuchelin New Jersey was Panama’s lack of fear. There was no sign of the underdogs borrowing from the Carlos Queiroz playbook against an anxious England, who are starting to give off the distinct whiff of a team whose World Cup is destined to end in a calamity of some sort in the knockouts.\n\nMake no mistake: England will be going home if they continue to defend like this against anyone with a functioning attack. Tuchel will not be fooled. Although his team secured top spot in Group L bywearing down Panama in the end, an achievement mainly down to Jude Bellingham again stepping up with two moments of class after a skittish first half, England were far from convincing and spent long spells demonstrating that anyone who thought an unusually gung-ho lineup would provide a vision of a post-Declan Rice world was sorely mistaken.\n\nTuchel’s reaction to the Ghana stalemate was to frontload the attack, to leave Elliot Anderson as the only shield in front of a panicked back four. It felt light and breezy before kick-off. The big question was whether Tuchel had taken inspiration from Lee Carsley. Was it going to be fun? WereEnglandabout to wow the world by blending Carsball with Germanic control? Was there even any need for Rice any more? At last: an England manager who was finally ready to lift the handbrake and put all the fun guys on the pitch.\n\nIf only international football were that easy. Panama are handy. They have made huge strides since losing 6-1 to England at the 2018World Cup. They reached the quarter-finals of the Copa América in 2024 and have become an awkward proposition under Thomas Christiansen.\n\nCroatia and Ghana took time to find a way through Panama’s defence. Tuchel expected this to be a slog. He said England would struggle to create overloads. He did not sound like a manager who expected Panama to open up.\n\nTuchel’s tactics were geared towards opening the low block. With Rice on a booking and resting a knock before the last-32 tie against the Democratic Republic of the Congo, Bellingham dropped back into the No 8 position. Morgan Rogers came in to play behind Harry Kane as the No 10. The spots on the flanks went to Bukayo Saka and Marcus Rashford.\n\nEngland were fluid at first, with Kane dropping off and Nico O’Reilly inverting from left-back. Bellingham pushed on and the wingers stayed wide. Yet Panama did not stick to the script. They pressed and probed. Already certain of finishing bottom of the group, they had a go and found frailties in England’s defence.\n\nPanama used clever triangles to pass round England’s midfield and move between the lines. Bellingham worked hard and made some important tackles but his natural instinct is to go forward. It meant Anderson was often exposed, showing that England simply do not function as a team if Rice is missing.\n\nTuchel needs Rice to be ready for the knockouts. The vice-captain is weary after a gruelling domestic season. He had to be replaced when England were leading 3-2 in their opening game against Croatia and has since confirmed he has beenstruggling with a hamstring problem.\n\nThere is always an idea that playing an extra attacker is the fix whenever England toil in the final third. Yet Tuchel’s selection against Panama was surely a one-off. The structure disappears if Rice is taken out of midfield. England need his physicality and positional awareness. They need Rice to bring order and stability. They will not survive without him against a top side.\n\nTuchel’s defence needs protection. England were fragile against Croatia. They were fortunate not to concede a penalty against Ghana and could have conceded against Panama.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5233_11",
+            "category": "england",
+            "type": "News",
+            "title": "Croatia snatch second by beating Ghana but both through to World Cup knockout stage",
+            "bullets": [
+              "It had been another rainy day in Pennsylvania and with no roof at the Philadelphia Stadium, the risk...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It had been another rainy day in Pennsylvania and with no roof at the Philadelphia Stadium, the risk of 65,000 people in ponchos left feeling miserable was real. Fortunately this predicted dead rubber turned out to be nothing of the kind, and with Luka Modric rolling back the years once again, the memories made were positive.Both Croatia and Ghana qualified from Group L on the back of this result. Croatia deserved the three points, thanks two well-hit efforts, first from the man of the match, Petar Sucic, then, in the last knockings, Nikola Vlasic. Ghana, meanwhile, deservedly made the knockout rounds for the first time since 2010, even if Carlos Queiroz poked at his own achievement after the match by calling the expanded World Cup “vulgar”. Continue reading...",
+            "fullText": "It had been another rainy day in Pennsylvania and with no roof at the Philadelphia Stadium, the risk of 65,000 people in ponchos left feeling miserable was real. Fortunately this predicted dead rubber turned out to be nothing of the kind, and with Luka Modric rolling back the years once again, the memories made were positive.\n\nBoth Croatia and Ghana qualified from Group L on the back of this result. Croatia deserved the three points, thanks two well-hit efforts, first from the man of the match, Petar Sucic, then, in the last knockings, Nikola Vlasic. Ghana, meanwhile, deservedly made the knockout rounds for the first time since 2010, even if Carlos Queiroz poked at his own achievement after the match by calling the expandedWorld Cup“vulgar”.\n\nFor Zlatko Dalic there was a balance to be struck. TheCroatiahead coach was keen not to be seen to be excited by reaching the round of 32. At the same time he wanted to swat at the doubters who, once again, had suggested his side were past it. Ultimately he claimed Modric et all were returning to the levels they achieved in Russia eight years ago.\n\n“I congratulate my players,” Dalic said. “It was a difficult match but Croatia played excellently. We are back to where we were eight years ago again. [To qualify] was our first step, now we need to forget it. I have said we looked better in training than in matches, but I believe in the players and they have achieved tonight.”\n\nThere were questions before the match over what incentive both teams would have to give their all in this game, with a draw almost guaranteed to ensure progress for both sides. But Croatia set out from the start to win, with Dalic opening up the pitch as much as possible to draw the doughty Ghana defence away from where they were most comfortable.\n\nCroatia were dangerous on the flanks thanks to Ivan Perisic, playing left-back here, and lethal from range. The question of why England had not thought to pepper the Ghanaian goal more often did spring to mind, as Vlasic hit the post from range in the 13th minute, before Sucic made the breakthrough on the half hour. Mateo Kovacic smuggled the 22-year-old the ball in the centre of the field, and the Inter man knew exactly what was required of him: he got off a low shot from 30 yards out which went straight through defender Marvin Senaya’s legs and crept inside the same post Vlasic had earlier clipped.\n\nThe goal did not effect Ghana’s status in the competition but it did appear to pique Queiroz’s pride. Speaking after the match he said he was sceptical as to whether the expanded format of the World Cup was a good idea, despite it allowing his team to reach the knockout stages from third place in their group.\n\n“It’s a coin with two faces”, Queiroz said. “I do believe that what really has huge value is what is rare. I never see in my life ordinary things that come with huge value. The number of teams qualifying can turn this competition into a vulgar, ordinary competition. In South America it’s already harder not to qualify.”\n\nDespite his concerns over the format, Queiroz got busy at the interval. He made a double substitution and Ghana’s most attacking spell of the tournament (perhaps a low bar) then followed. In the 73rd minute they earned a deserved equaliser after a free-kick bent in left-footed by Ernest Nuamah, another second-half substitute, was met with no little skill by Derrick Luckassen. The defender, who spent much of the match throwing his body into danger, exhibited surprising deftness as he used the velocity on the ball to turn it low back across goal. After initially ruling the goal out for offside, Drew Fischer of Canada was eventually coaxed to the monitor by the video assistant referee and changed his mind.\n\nThat was not the end of proceedings, nor in the see-saw shifts in momentum. With the game ticking into the final 10 minutes, Croatia managed somehow to raise their intensity once more, and driving at goal the substitute Mario Pasalic hit a fierce drive that forced a brilliant save from Benjamin Asare. A corner followed and Modric delivered, his cross reaching the middle of a congested box before it fell to Vlasic who scored with an unerring header.\n\nThe goal made Modric the oldest player in history to record an assist at the World Cup and, when Abdul Fatawu danced into the Croatia box in added time it was Modric who took the ball off his toes. His manager was full-throated in his praise afterwards. “Modric was a role model of how things should be,” Dalic said. “He is aware that this is his last World Cup and he is trying to do his best to say goodbye.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5233_12",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup player ratings: Bellingham and Rashford spark England against Panama",
+            "bullets": [
+              "Jude Bellingham and Marcus Rashford shone for Thomas Tuchel but José Luis Rodríguez was always a han...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham and Marcus Rashford shone for Thomas Tuchel but José Luis Rodríguez was always a handful tooJordan Pickford Solid save to deny José Luis Rodríguez. Still doesn’t inspire confidence when he charges out of goal. 6 Continue reading...",
+            "fullText": "Jude Bellingham and Marcus Rashford shone for Thomas Tuchel but José Luis Rodríguez was always a handful too\n\nJordan PickfordSolid save to deny José Luis Rodríguez. Still doesn’t inspire confidence when he charges out of goal.6\n\nJarell QuansahEarly mistake betrayed nerves. Settled down after making a great tackle, doesn’t add much going forward.5\n\nEzri KonsaLooks shaky in possession at times. But building his understanding with Guéhi and should keep his spot.6\n\nMarc GuéhiTypically unflustered.Englandlook much more solid with the Manchester City defender at the back.7\n\nNico O’ReillyDefensive shortcomings were exposed again. But always looking to get forward and caused problems.7\n\nElliot AndersonFar too isolated on his own in central midfield. Not the performance of a player worth £116m.5\n\nJude BellinghamMuch more involved from deeper role initially and came up with the crucial goal just when England needed him. Great cross for Kane’s clincher.8\n\nMorgan RogersLooked determined to take his chance but found himself on periphery too much. Has to work on understanding with Bellingham.6\n\nBukayo SakaFull of energy after returning from injury, although end product was lacking. Will improve as fitness builds.7\n\nMarcus RashfordEngland’s brightest spark in attack and will be disappointed not to have scored. Has to start next match.8\n\nHarry KaneWorryingly anonymous in the first half. Improved after the break and got his record-breaking goal in the end.7",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5234_13",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel praises Bellingham buy-in after another match-winning showing",
+            "bullets": [
+              "Thomas Tuchel praised Jude Bellingham's buy-in to the team ethic after another man-of-the-match perf...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel praised Jude Bellingham's buy-in to the team ethic after another man-of-the-match performance from the 22-year-old drove England through to the knockout stages of the World Cup.",
+            "fullText": "Thomas Tuchel on England midfielder Jude Bellingham after back-to-back man of the match performances: \"I'm not sure if it's a reaction but it is what we want from him. He is fully into all the things from him as a team player, and he brings his individual quality to decide football games\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5242_14",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham to the rescue yet again as England book date with DR Congo",
+            "bullets": [
+              "Bellingham to the rescue yet again as England book date with DR Congo",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham to the rescue yet again as England book date with DR Congo",
+            "fullText": "There are many different ways to progress in a World Cup, and for nowEngland’s plan is chiefly to rely on the luminous talent of Jude Bellingham – currently running hot in this summer’s battle of the game’s elite players.\n\nThomas Tuchel had grown fond of saying that Group L is the most challenging of the World Cup’s opening round, and once again his players seemed determined to prove their manager right. After no little striving, England triumphed in New Jersey to earn a place as group winners against DR Congo in Atlanta on Wednesday, although the bigger picture was much less clear.\n\nBellingham’s goal after 62 minutes, expertly taken without an inch of space, seemed to give some clarity to this England performance. Before that, it felt that many scenarios were running through their minds. The possibility of another ragged siege of a stubborn opponent ending in frustration. Key players, including Bellingham, being shifted around the system within the game. A growing sense that Tuchel’s perception 18 months ago of an England without an identity was no clearer to being resolved.\n\nThen Bellingham scored and the pieces started to fall into place. In a team without Declan Rice, Bellingham had operated as a No 8, and as a No 10, with a speciality in all things dramatic. There was a crucial goal, telling passes and thrilling challenges.\n\nENGLAND BREAK THE DEADLOCK! 🔓Jude Bellingham taps in from a corner... The Three Lions top the group as it standspic.twitter.com/WVtY6x5Qbb\n\nIt was Bellingham who located a pocket of space on the left five minutes after his goal, and spotted Harry Kane lurking in his Panama counterpart’s blind spot, ready for the cross that he would nod in for the second goal.\n\nHARRY KANE MAKES IT TWO! 🏴󠁧󠁢󠁥󠁮󠁧󠁿Bellingham turns provider and suddenly England are cruisingKane becomes England's all-time top scorer at World Cup finalspic.twitter.com/cWdElDoCN2\n\nThis was Bellingham’s game, two days before he turns 23 years old, with 51 caps amassed and now unquestionably occupying the role of the England talisman of the summer of 2026. A man whose every touch, pass, tackle and shot feels fundamental. This is not a team functioning anything like as smoothly yet, although its leading man is in the groove.\n\nIt had been hard at times to discern quite what the plan was supposed to be for England. They looked vulnerable to the counter-attack during a first half in which they could not overwhelm Panama, who sensed that a swift turnover of possession would present opportunities. They were right in that regard. Elliot Anderson, by no means a natural No 6, was crisp in possession but occasionallyisolated on the counter-attack.\n\nBellingham also played deeper than usual in those moments, and he was on the ball more. There was no mistaking the mood of a player keen to run the game, but that also meant that in the heart of England’s midfield they looked underpowered.\n\nTuchel said later that the plan in possession was to play with six players in the forward positions. “We could have been more disciplined, more aggressive and then in the second half the goal came from that,” Tuchel said. “He [Bellingham] played as a central midfielder without the ball. When we had the ball he played as a [No] 10.”\n\nPerhaps it was always going to be a struggle. Tuchel described a Panama team that closed off the usual channels through the middle and would send out two or three defenders to corral his wingers. “It teaches us lessons not to lose belief and keep on knocking and trust the process,” he said. “I know it is sometimes less spectacular to see that way.”",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 12:11:37 EDT",
+  "lastUpdated": "2026-06-28 @ 15:52:42 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
