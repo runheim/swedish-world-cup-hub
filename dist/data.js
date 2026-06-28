@@ -10,14 +10,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Sebastian Larsson defends Gyökeres: \"I don't understand it\"",
       "link": "https://www.svt.se/sport/fotboll/sebastian-larsson-forsvarar-gyokeres-jag-ar-oforstaende-till-det"
-    },
-    {
-      "text": "⚽ The coach on Jacob Widell Zetterström's journey: \"He was really close to quitting\"",
-      "link": "https://www.svt.se/sport/fotboll/tranaren-om-jacob-widell-zetterstroms-resa-han-var-riktigt-nara-att-sluta"
-    },
-    {
-      "text": "⚽ Jacob Widell Zetterström on the support and the sabbatical year: \"Means everything\"",
-      "link": "https://www.svt.se/sport/fotboll/jacob-widell-zetterstrom-om-stodet-och-sabbatsaret-betyder-allt"
     }
   ],
   "timeline": {
@@ -8081,11 +8073,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1824_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The agent's conversation with Felicia Schröder: \"If you become the most expensive in the world, there will be stupid comments\"",
+            "bullets": [
+              "Felicia Schröder was sold to Real Madrid - as the world's most expensive female soccer player. But h...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Felicia Schröder was sold to Real Madrid - as the world's most expensive female soccer player. But how did one of Europe's most sought after football talents end up there? - There were quite a few top clubs involved, mainly from England. But Felicia had a very good feeling for Real Madrid, says agent Linus Gunnarsson.",
+            "fullText": "Felicia Schröder was sold to Real Madrid - as the world's most expensive female soccer player.\n\nBut how did one of Europe's most sought after football talents end up there?\n\n- There were quite a few top clubs involved, mainly from England. But Felicia had a very good feeling for Real Madrid, says agent Linus Gunnarsson.\n\nThe deal was completed this week. On Tuesday, Felicia Schröder signed a contract with Real Madrid, becoming the most expensive player sale ever in women's football.\n\nIn the mini-documentary \"Rekordflytten\", SVT Sport followed the 19-year-old behind the scenes before the decision, where there was great uncertainty about which club she would finally choose.\n\n- It stresses me out that I don't know myself, says Felicia Schröder in the documentary.\n\nHer agent Linus Gunnarsson was there when the personal agreement was signed in Madrid. He believes that the Spanish giants were very convincing in how they want to use Felicia Schröder, and that it was in line with how the striker sees himself.\n\n- It was fantastically funny when she called one morning and said that she had made up her mind, and that it felt very right. We see it as a natural and perfect next step for Felicia, and we are convinced that she will become an important part of a strong Real Madrid, says Gunnarsson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1827_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sebastian Larsson defends Gyökeres: \"I don't understand it\"",
+            "bullets": [
+              "Viktor Gyökeres was critical of the refereeing in the meeting with Japan. Now he is also backed by a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres was critical of the refereeing in the meeting with Japan. Now he is also backed by assistant national team captain Sebastian Larsson. - I don't understand why he doesn't get many more free kicks, he says.",
+            "fullText": "Viktor Gyökeres was critical of the refereeing in the meeting with Japan.\n\nNow he is also backed by assistant national team captain Sebastian Larsson.\n\n- I don't understand why he doesn't get many more free kicks, he says.\n\nWatch Sebastian Larsson back Gyökeres in the player above.\n\nDuring the last World Cup group stage match, Viktor Gyökeres was noticeably angry with the referee.\n\n- When you feel that you can barely stand on your feet and get nothing, it is clear that it becomes frustrating and annoying, said a hoarse Gyökeres just after the final whistle.\n\nAssistant national team captain Sebastian Larsson is asked if the striker should be strengthened more to get more decisions.\n\n- I rather think that you can leave it to the judge. We don't want players who lie down, but rather an honest and tough fight out there.\n\nThe match between Sweden and Japan ended 1–1. The round of 16 awaits next.\n\nHear Sebastian Larsson on Viktor Gyökere's anger and the referee in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 06:42:51 EDT",
+  "lastUpdated": "2026-06-28 @ 08:18:27 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
