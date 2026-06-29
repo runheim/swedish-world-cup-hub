@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Kane will sign new Bayern deal - Tuesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdjknmk894eo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Welsh football bosses reveal £150m cost to improve facilities",
       "link": "https://www.bbc.co.uk/sport/football/articles/crm0llg0zzzo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,16 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts",
+      "link": "https://www.theguardian.com/football/2026/jun/29/brazil-japan-world-cup-2026-last-32-match-report"
+    },
+    {
       "text": "⚽ How link between Bellingham and Kane has unlocked England’s stodgy attack",
       "link": "https://www.theguardian.com/football/2026/jun/29/jude-bellingham-harry-kane-england-attack-world-cup-2026"
     },
     {
       "text": "⚽ What hosting the World Cup means for Canadian soccer: ‘The stakes are absolutely massive’",
       "link": "https://www.theguardian.com/football/2026/jun/29/canada-world-cup-2026-hosting-impact"
-    },
-    {
-      "text": "⚽ Brazil fans were waiting for Vinícius Júnior to be their hero. He’s arrived",
-      "link": "https://www.theguardian.com/football/2026/jun/29/brazil-fans-vinicius-junior-hero-real-madrid-world-cup"
     },
     {
       "text": "⚽ Kane likely to sign new Bayern deal despite Barcelona interest",
@@ -14784,11 +14788,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2145_0",
+            "category": "england",
+            "type": "News",
+            "title": "How Tuchel is still searching for solutions out wide - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains why there are lots of reasons to be positive about the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about the Three Lions at this World Cup, but having a settled side is not one of them.",
+            "fullText": "There are lots of reasons to be positive about England so far at this World Cup but having a settled side is not one of them.\n\nThe main aim was to top our group, and we did that, but we have arrived in the last 32 after so much chopping and changing in several positions that we are no closer to knowing what our best team is.\n\nIt feels like Thomas Tuchel is still searching for some solutions, three games in.\n\nYou don't have to have all the answers, even at this stage of a tournament - injuries and suspensions mean teams always have to adapt ideas and personnel as they progress - but Tuchel has quite a lot to sort out before we face DR Congo in Atlanta on Wednesday.\n\nThere is no doubt he is trying to find which combinations of full-backs and wingers work best for the team on both flanks - there have been nine different ones already across 270 minutes, involving eight different players.\n\nThe reason Tuchel has tried so many is that he has not quite worked it out yet. Obviously the injuries to Reece James and Jarell Quansah at right-back have not helped and neither has Bukayo Saka not being 100% fit.\n\nBut, for whatever reason, we have not posed a consistent threat down the flanks and constantly changing the back four has not helped our defensively stability either. We've looked uncomfortable whenever teams have attacked us, which is a worry.\n\nAt the same time, though, there have been several players who have produced.\n\nElliot Anderson was absolutely superb against Panama, while Jude Bellingham was man of the match and rightly so, and Harry Kane got his goal, again.\n\nAlong with Jordan Pickford and Declan Rice, they are the spine of the team and you know you can hang your hat on them when it matters.\n\nMaybe we haven't seen as much from every part of Tuchel's team as we'd like, but we still know we can rely on our big-hitters to step up and produce something brilliant to change the course of the game.\n\nIdeally, we wouldn't be relying on someone to get us a goal out of nothing, like Jude Bellingham did when he turned in Saka's corner against Panama.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2145_1",
+            "category": "england",
+            "type": "News",
+            "title": "Kane will sign new Bayern deal - Tuesday's gossip",
+            "bullets": [
+              "Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild, while Rayo Va...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild, while Rayo Vallecano left-back Pep Chavarria is a target for Chelsea.",
+            "fullText": "Harry Kane will extend his Bayern Munich contract,Manchester Cityplan major rebuild, while Rayo Vallecano left-back Pep Chavarria is a target forChelsea.\n\nEngland captain Harry Kane, 32, will sign a new contract atBayern Munichdespite interest fromBarcelona.(Athletic - subscription required),external\n\nThe appointment of Enzo Maresca atManchester Citycould lead to a major rebuild with England full-back Rico Lewis, 21, Netherlands defender Nathan Ake, 31, Spanish midfielder Nico Gonzalez, 24, Portugal defender Ruben Dias, 29, and Brazil winger Savinho, 22, all potentially up for sale.(Mail),external\n\nManchester Cityare ready to hijackTottenham'smove forNewcastleand Italy midfielder Sandro Tonali, 26, despite having already agreed to sign 23-year-old England midfielder Elliot Anderson fromNottingham Forest.(Marca - in Spanish),external\n\nAC Milanare ready to bid Â£21.5m for England midfielder Mason Mount, 27, butManchester Uniteddo not want to sell him.(Mail),external\n\nHull Cityare set to signRangersgoalkeeper Jack Butland, 33, with Croat Ivor Pandur, 26, heading in the opposite direction as part of a swap deal to bring the Englishman back to the Premier League.(Sun),external\n\nChelseahave identifiedRayo Vallecano'sSpanish left-back Pep Chavarria, 28, as the man to replace 27-year-old Spain full-back Marc Cucurella after his sale toReal Madrid.(Marca - in Spanish),external\n\nBorussia Dortmund'sGermany midfielder Felix Nmecha, 25, is ready to reject a move fromNewcastlehe prefers a switch toManchester United.(Bild via Sport Witness),external\n\nBayern Munichwinger Michael Olise is aware that several clubs, includingReal MadridandParis St-Germain,are keeping an eye on his performances for France at the World Cup, with the 24-year-old set to meet with the German side after the tournament to discuss his future.(AS - in Spanish),external\n\nRB Leipzigsay Ivory Coast winger Yan Diomande will remain at the club next season despite the 19-year-old reportedly choosingParis St-Germainas his next destination.(Florian Plettenberg),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2145_2",
+            "category": "england",
+            "type": "News",
+            "title": "Welsh football bosses reveal £150m cost to improve facilities",
+            "bullets": [
+              "Football officials say it will cost £150m to deliver the facilities the game needs across Wales amid...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Football officials say it will cost £150m to deliver the facilities the game needs across Wales amid a surge in participation figures across the country.",
+            "fullText": "Football Association of Wales chief executive Noel Mooney has previously called for greater financial support\n\nFootball officials say it will cost Â£150m to deliver the facilities the game needs across Wales.\n\nThe Football Association of Wales (FAW) claim the investment is required by the end of the decade if they are to keep pace with the surge in participation figures across the country.\n\nIt comes as FAW chief executive Noel Mooney claimed the change of government in Wales was an \"opportunity to reset how sport is funded in Wales\".\n\nThe FAW's charitable arm â the Cymru Football Foundation (CFF) â has overseen Â£27m of spending to develop facilities across all levels of the sport over the past four years.\n\nNow a new consultation suggests funding of five times that amount is needed â outweighing the CFF's current funding - highlighting a shortfall in pitches and other facilities alongside a 21% increase in numbers playing the sport.\n\nIn particular, that includes a 47% increase in the number of women and girls while the number of young players has gone up by a third.\n\nUnveiling new Local Football Facility Plans, existing and new sites have been identified across 22 local authority areas to \"meet the fast-growing needs of the women and girls' game\" and \"address current gaps in facility provision to meet demand.\"\n\nMooney said: \"Investing in facilities is essential for the future of the game across Cymru â demand is at an all-time high and these local football facility plans are our strategy to provide essential positive, safe environments for our grassroots players to thrive.\"\n\nWelsh Government â who Mooney has previously called on for more support â say they will commission their own audit of regional sporting facilities, but that football facilities were \"an important consideration\".\n\nWales' qualification for Euro 2025 has also seen a 47% increase in participation in women's and girls' football across the country, placing greater demand on facilities\n\nThe FAW-backed review saw local clubs and local authorities â and other sporting bodies - feed into a survey of current facilities.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2145_3",
+            "category": "england",
+            "type": "News",
+            "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+            "bullets": [
+              "Canada are making history at this World Cup with a run that is likely to change the face of football...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
+            "fullText": "Canada into last 16 with late winner against South Africa\n\nMinutes after the final whistle was blown on Canada's historicWorld Cup victory against South Africaon Sunday, coach Jesse Marsch gathered his players and staff in a huge huddle and delivered some words of inspiration to them.\n\n\"Canadian heroes,\" he called his team after they won a knockout game at the tournament for the first time to reach the last 16.\n\n\"The future of the sport in this country is huge because of you.\"\n\nMarsch is known for grandiose comments - exaggerated and emotional statements delivered to provide maximum impact.\n\nBut his words here ring true - the sport in the country is changing.\n\n\"It is starting to become known as football now, not soccer,\" one fan told BBC Sport before the match.\n\nThat was the objective Marsch set out to achieve when he became Canada boss two years ago, a goal that at the time seemed highly unlikely for a country whose first love is widely regarded as ice hockey.\n\nMexico hosted this World Cup's opener while the USA stages the final. Attention has been far greater on the two in the build-up, leaving Canada as something like the forgotten co-host.\n\nBut Canada quietly went about its business, building interest and passion for the tournament and their national team from within.\n\nThe country's captain, Alphonso Davies, is used to large, football-mad crowds playing for Bayern Munich and in the Champions League.\n\nHowever, he has noticed the change in Canada since the World Cup got under way, and said he cried at seeing so many fans clad in red and white in Toronto for their opening game against Bosnia-Herzegovina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2146_4",
+            "category": "england",
+            "type": "News",
+            "title": "Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts",
+            "bullets": [
+              "Not for the first time in this tournament, there were long periods when Brazil did not impress. And ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Not for the first time in this tournament, there were long periods when Brazil did not impress. And not for the first time in this tournament, they got away with it. It may be inexplicable but the Carlo Ancelotti method that worked at Real Madrid is working again: stay in games and eventually either opponents will make a mistake or brilliant players will do something brilliant.Brazil were 1-0 down at half-time and struggling. Their earliest ever exit form a World Cup seemed entirely possible. Five players in the Brazil starting lineup were aged over 30, five of the six defensive players – and they looked it. Japan were quicker, slicker, sharper and more imaginative. But the introduction of Endrick and a change of shape and approach at half-time changed everything. Brazil started slinging crosses into the box and Japan wobbled. Casemiro, barely a pedestrian in the first half, headed the equaliser and, deep into injury time, Gabriel Martinelli squeezed in the winner. Continue reading...",
+            "fullText": "Not for the first time in this tournament, there were long periods whenBrazildid not impress. And not for the first time in this tournament, they got away with it. It may be inexplicable but the Carlo Ancelotti method that worked at Real Madrid is working again: stay in games and eventually either opponents will make a mistake or brilliant players will do something brilliant.\n\nBrazil were 1-0 down at half-time and struggling. Their earliest ever exit form aWorld Cupseemed entirely possible. Five players in the Brazil starting lineup were aged over 30, five of the six defensive players – and they looked it. Japan were quicker, slicker, sharper and more imaginative. But the introduction of Endrick and a change of shape and approach at half-time changed everything. Brazil started slinging crosses into the box and Japan wobbled. Casemiro, barely a pedestrian in the first half, headed the equaliser and, deep into injury time, Gabriel Martinelli squeezed in the winner.\n\nJapan had never won a World Cup knockout match, something that their manager Hajime Moriyasu acknowledged has become a psychological issue, so much so that his insistence before the tournament thatJapanshould be thinking of winning it was seen by many as an attempt to shock them over that issue. They still haven’t, but this is surely the best they have ever performed at a World Cup.\n\nAnd this was against Brazil, the only team to have appeared in every World Cup, the most successful side in the competition’s history. They had never failed to make the last 16, and had only twice failed to be ranked in the top eight at a tournament.\n\nBut to say Japan froze in that second half, that they tightened up with the line in sight, would be unfair. They just found themselves facing a side whose manager had worked them out. It may have been a fifth World Cup exit in the first knockout round, and they may have won only one game at the tournament, but this is clearly a very gifted Japan side even with the injuries to three of their most effective creators. There is no shame in losing a hard-fought knockout tie against another high-class side, no matter the round.\n\nHaving taken the game to Tunisia and Sweden, this was more like theJapan that played the Netherlands, content to sit deep and absorb, pressing in staccato bursts. Out of possession Japan were extremely compact, with Vinícius Júnior barely involved, testament to the work done by the right-sided centre-back Takehiro Tomiyasu and the right wing-back Ritsu Doan to shut down the channel in which he likes to operate.\n\nIn the first half, the plan worked. Brazil had all the early possession but, beyond a low shot from Matheus Cunha that was pushed wide by Zion Suzuki, they struggled to create clear opportunities and the longer the first half went on, the more Japan threatened. Ayase Ueda headed a corner just over and then, with 29 minutes played, came the goal. Danilo’s attempt to work the ball to the left was intercepted by Kaishu Sano, who surged past Casemiro, an earlier booking perhaps making him wary, and fired a low shot into the corner from just outside the box.\n\nBut Ancelotti made his changes and completely transformed the game. The introduction of Endrick and a switch to 4-2-3-1 brought a Brazilian surge, based largely around crosses. A Bruno Guimarães header drew a fine save. Casemiro had an effort cleared off the line that almost cannoned back in off Suzuki. But the equaliser was coming and it arrived after 56 minutes as Casemiro powered in Gabriel Magalhães’s chip with a meaty header. Vini Jr shimmied in from the left but was denied as Suzuki deflected his flicked shot on to the post with his left foot.\n\nKick off your evenings with the Guardian's take on the world of football\n\nMoriyasu reacted by changing his two wingbacks and the flow of chances was staunched, at least to an extent. The threat they had offered in the first half, though, was gone. The winner seemed only a matter of time and sure enough it arrived in the 95th minute. Ao Tanaka was dispossessed on the edge of his own box and, when the ball was worked across the box, Guimarães had the composure to wait and lay the ball left for Martinelli.\n\nBrazil are through and will face the winners of Tuesday’s match between Côte d’Ivoire and Norway. Again, it feels, there are questions to answer. The first half display exposed all their weaknesses, especially in midfield. But the second-half transformation was profound and, once they hit their rhythm, there is no doubting their attacking quality.\n\nThe temptation is to think that they cannot keep doing this, that they cannot keep flirting with danger. But Ancelotti’s Madrid used to, and they kept winning the Champions League. Perhaps a sixth World Cup really is on.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2146_5",
+            "category": "england",
+            "type": "News",
+            "title": "How link between Bellingham and Kane has unlocked England’s stodgy attack",
+            "bullets": [
+              "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his cap...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his captain has started to change thatThomas Tuchel faces an attacking conundrum. England have to extract the maximum output from Harry Kane while getting other players to contribute more. Jude Bellingham’s performance against Panama showed how both sides of this equation can be solved.Kane has scored 13 goals in Tuchel’s 17 England matches, with no other player contributing more than three. He scored a penalty and a header from a corner against Croatia, then blazed over the bar from a rebound in the Ghana match. There was little of note created for him in open play. Continue reading...",
+            "fullText": "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his captain has started to change that\n\nThomas Tuchelfaces an attacking conundrum. England have to extract the maximum output fromHarry Kanewhile getting other players to contribute more.Jude Bellingham’s performance against Panama showed how both sides of this equation can be solved.\n\nKane has scored 13 goals in Tuchel’s 17 England matches, with no other player contributing more than three. He scored a penalty and a header from a corneragainst Croatia, then blazed over the bar from a reboundin the Ghana match. There was little of note created for him in open play.\n\nA centre-forward usually receives fewer passes than their teammates (though Kane often tries to correct this by dropping deep), but the issue forEnglandhas been which of their players have been delivering the ball to their No 9 in this tournament. It has too rarely been who they would have hoped.\n\nJordan Pickford played the joint-most passes to Kane in the opening match, with three, before Marc Guéhi led the way with the same tally in the second game. Three players played four to him against Panama, though Bellingham needed just two to prove quality trumps quantity.\n\nIt feels surprising that the Real Madrid midfielder and Kane have not linked up more for the national team. Opta’s data shows that leading into the Panama game, Bellingham had created only three chances for England’s record goalscorer in their 1,154 minutes of shared pitch time at major tournaments.\n\nThe only goal they had combined for in an international match prior to this World Cup occurred in a friendly win at Hampden Park in 2023. A very similar pass to the one which unlocked the Scotland defence that night did likewise againstPanama.\n\nEngland had generated only 0.54 expected goals in the opening 56 minutes of the match against Panama before a Bellingham through ball set up Kane for their side’s first Opta-defined big chance of the contest. Within the next 10 minutes, the midfielder won a corner, scored from it and assisted Kane for England’s second goal.\n\nOpta have a metric called expected assists, which measures the likelihood that completed passes become goal assists. Bellingham’s passes against Panama were valued at 0.57, the most by any England player in a group game. Noni Madueke (with 0.66) was the only other squad member to hit that mark in total across the three games.\n\nBellingham’s passes to Kane were a huge part of this tally. In expected goal terms, the chances he created were the second and joint-fourth highest value opportunities any England player set up for another in the group stage.\n\nThe challenge for Tuchel is to make such moments a regular occurrence, withthe Democratic Republic of the Congolikely to employ a low block on Wednesday.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2146_6",
+            "category": "england",
+            "type": "News",
+            "title": "What hosting the World Cup means for Canadian soccer: ‘The stakes are absolutely massive’",
+            "bullets": [
+              "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soc...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soccer officials hope it can be transformativeToronto’s Front Street, which loosely tethers the city’s central station and some of its landmarks to the part of the waterfront that hosts the fan fest and Toronto Stadium to the west, thrummed all week with a pleasant energy.Hours ahead of Croatia-Panama on Tuesday, there were scores of jerseys out for those countries, of course, but plenty for Brazil and Scotland and other sides as well. A Croatian fan scolded a street vendor hawking Blue Jays gear by the Rogers Center, where the baseball team were about to play, for not selling any Croatia merch. “Croatia!” he said gruffly. “Gonna win today!” Continue reading...",
+            "fullText": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soccer officials hope it can be transformative\n\nToronto’s Front Street, which loosely tethers the city’s central station and some of its landmarks to the part of the waterfront that hosts the fan fest and Toronto Stadium to the west, thrummed all week with a pleasant energy.\n\nHours ahead of Croatia-Panama on Tuesday, there were scores of jerseys out for those countries, of course, but plenty for Brazil and Scotland and other sides as well. A Croatian fan scolded a street vendor hawking Blue Jays gear by the Rogers Center, where the baseball team were about to play, for not selling any Croatia merch. “Croatia!” he said gruffly. “Gonna win today!”\n\nAcross the street, the images of six women’s soccer players in Northern Super League uniforms were plastered on the headquarters of the Canadian Broadcasting Corporation. “Canada’s first professional women’s soccer league,” read the caption. Ah, yes, domestic soccer – that still exists, too, amid the fun and folklore of theWorld Cup.\n\nThe contrast illuminated the stakes of this mega-event forCanada.\n\nWhile the United States and, to a lesser extent, Mexico, have hogged the headlines, Canada is the only first-time host in 2026. Mexico is on its third World Cup; the USA on its second. But for Canada, the potential upside is far higher. For it is hoped this World Cup gives soccer the kind of boost the US got in 1994, and that Mexico doesn’t really need anymore.\n\n“This World Cup is our coming out party,” said Tosaint Ricketts, a long-time Canada forward who now works for the Vancouver Whitecaps and was part of the hiring committee that installed Jesse Marsch as Canada manager. “The stakes are massive.”\n\nThe Canadian Soccer Association is emerging from decades of dysfunction. And after the men’s team made it back to the World Cup in 2022, absent since their only other appearance in 1986, some tangible momentum is gathering – although it should be noted that the women’s team won three straight Olympic medals from 2012 through 2020 and won gold at the last of those. “There’s no secrets,” Ricketts said. “Over the years, we’ve gone through our fair bit of controversy, a little bit of lack of transparency, and changes within the organizational structure of Canada Soccer. But that is all behind us and now we’re steady on the path of growth, the path of creating a foundation.”\n\nWith the sport on firmer footing, the World Cup promises an inflection point that can finally help soccer take off in a nation in the thrall of hockey and, like the neighbors to the south, possessed of a vibrant sporting landscape that is no monoculture.\n\n“I think the biggest opportunity is not just the five weeks hosting and participating in the tournament,” says James Johnson, commissioner of the Canadian Premier League, the country’s eight-team professional circuit currently in its eighth season (three other Canadian clubs play in MLS). “It’s really in the legacy that the tournament leaves behind, which can be transformation for soccer in this country.”\n\nJust as there once was in the US, a chasm gapes between the omnipresence of the sport and the elite end of the domestic game. “Of course, people know soccer is not number one in Canada, but I’m not sure people know that it’s the most participated-in sport,” said Ricketts. “There’s over a million participants across Canada. The next step is to get the corporations investing in the game, improve the infrastructure so these million participants have the facilities and resources to grow and get better. What the World Cup does is allow all of this progress to be sustainable.”\n\nThe hope is that the sponsors attracted by the World Cup will want to stay involved in the sport a few weeks from now, when the party is over. “We want to bring investment in,” said Johnson. “We want to scale and we want to take advantage of the momentum the World Cup creates. We want to increase our marketing spend for the Canadian Premier League, to increase the playing time on the pitch and our clubs’ infrastructures to develop better players. It requires investment. For us, it is really commercializing the sport and bringing in revenue and partners. It’s positioning the sport in the mainstream and making sure when the World Cup comes and goes, people can still see soccer in Canada on billboards and on linear TV.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2147_7",
+            "category": "england",
+            "type": "News",
+            "title": "Kane likely to sign new Bayern deal despite Barcelona interest",
+            "bullets": [
+              "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite interest from Barcelona.",
+            "fullText": "Harry Kane is set to sign a new deal to extend his stay at Bayern Munich, Barcelona are reportedly interested in the England captain; striker has year left on his current deal and scored 61 goals for the Bavarians last season, while he has three goals at the World Cup",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-29 @ 13:37:50 EDT",
+  "lastUpdated": "2026-06-29 @ 16:21:48 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
