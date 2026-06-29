@@ -6192,6 +6192,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Ready to make history this summer. Let's go!",
       "time": "13:11",
       "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Ready to make history this summer. Let's go!",
+      "time": "09:08",
+      "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "These new training balls are flying everywhere.",
+      "time": "09:09",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "09:10",
+      "isCaptain": true
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "09:11",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "09:12",
+      "isCaptain": false
     }
   ]
 };
