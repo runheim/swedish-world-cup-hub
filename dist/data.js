@@ -4,28 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ 'You are Canadian heroes' - the forgotten hosts making World Cup history",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ How Bellingham became Tuchel's most important player",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gy5vj7npqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England labour past Panama to qualify for last 32 as group winners",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm2r8yg74pgo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Rice set for England start against DR Congo",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgjd5j74z5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Kane becomes England's top World Cup scorer - and now chases other greats",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly9kp827ndo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ 'He's that guy!' Pundits praise 'brilliant' Bellingham",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c2dyz205r49o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Tuchel worried about right-back situation",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gyp71ge4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Kane and Bellingham produce the goods but England need others to step up",
@@ -34,18 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ South Korea coach resigns after president condemns ‘incompetent people’ in World Cup exit",
       "link": "https://www.theguardian.com/football/2026/jun/28/south-korea-coach-resigns-president-condemns-world-cup-exit"
-    },
-    {
-      "text": "⚽ Croatia snatch second by beating Ghana but both through to World Cup knockout stage",
-      "link": "https://www.theguardian.com/football/2026/jun/28/croatia-ghana-world-cup-group-l-match-report"
-    },
-    {
-      "text": "⚽ England’s creaky defence is a World Cup worry and they need Rice back firing | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jun/28/england-defence-world-cup-declan-rice-panama-thomas-tuchel"
-    },
-    {
-      "text": "⚽ World Cup player ratings: Bellingham and Rashford spark England against Panama",
-      "link": "https://www.theguardian.com/football/2026/jun/28/england-2-0-panama-world-cup-group-l-player-ratings-from-new-york-new-jersey"
     },
     {
       "text": "⚽ Did 'crazy' cricket deny Stokes 'extraordinary' end to England career?",
@@ -14436,10 +14412,154 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-29": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0935_0",
+            "category": "england",
+            "type": "News",
+            "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+            "bullets": [
+              "Canada are making history at this World Cup with a run that is likely to change the face of football...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
+            "fullText": "Canada into last 16 with late winner against South Africa\n\nMinutes after the final whistle was blown on Canada's historicWorld Cup victory against South Africaon Sunday, coach Jesse Marsch gathered his players and staff in a huge huddle and delivered some words of inspiration to them.\n\n\"Canadian heroes,\" he called his team after they won a knockout game at the tournament for the first time to reach the last 16.\n\n\"The future of the sport in this country is huge because of you.\"\n\nMarsch is known for grandiose comments - exaggerated and emotional statements delivered to provide maximum impact.\n\nBut his words here ring true - the sport in the country is changing.\n\n\"It is starting to become known as football now, not soccer,\" one fan told BBC Sport before the match.\n\nThat was the objective Marsch set out to achieve when he became Canada boss two years ago, a goal that at the time seemed highly unlikely for a country whose first love is widely regarded as ice hockey.\n\nMexico hosted this World Cup's opener while the USA stages the final. Attention has been far greater on the two in the build-up, leaving Canada as something like the forgotten co-host.\n\nBut Canada quietly went about its business, building interest and passion for the tournament and their national team from within.\n\nThe country's captain, Alphonso Davies, is used to large, football-mad crowds playing for Bayern Munich and in the Champions League.\n\nHowever, he has noticed the change in Canada since the World Cup got under way, and said he cried at seeing so many fans clad in red and white in Toronto for their opening game against Bosnia-Herzegovina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0935_1",
+            "category": "england",
+            "type": "News",
+            "title": "How Bellingham became Tuchel's most important player",
+            "bullets": [
+              "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingh...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His starting place was the subject of much debate in Thomas Tuchel's England team, but Jude Bellingham has become integral to the manager's style of play.",
+            "fullText": "Jude Bellingham's tactical adaptability has become key to Thomas Tuchel's style of play with this England team\n\nIn June 2024, Jude Bellingham scored a dramatic overhead kick in the 95th minute against Slovakia to rescue England's hopes at the Euros.\n\nIn the heat of the moment, he celebrated by screaming into the jubilant crowd.\n\nAfterEngland's 2-0 win against Panama, the 22 year-old's performance has a similar feel to it.\n\nTuchel has been firm in stating his system and approach will largely look the same throughout the tournament but on Saturday we saw subtle tweaks, with injuries in the squad.\n\nBellingham was central to maximising this system, papering over some of the cracks in the meantime.\n\nIt was a tale of two halves for Bellingham who was deployed in a more box-to-box role in Declan Riceâs absence.\n\nIn their first two games, England opted to build from the back with the two central defenders and Elliot Anderson in the centre of the pitch. Both full-backs took wider positions with Rice and Bellingham vacating the holding midfield areas for Harry Kane to drop in and join Anderson.\n\nJarell Quansah came in at right-back for the injured Reece James and was asked to slot into a back three in possession - alongside Marc Guehi and Ezri Konsa. Nico O'Reilly kept his roaming left-back role.\n\nInstead of Kane dropping deep, Bellingham was tasked with supporting Anderson at the base of midfield and England's shape on the ball loosely flipped between a 3-2-5 and a 3-1-6 depending on how Bellingham read the game.\n\nAfter the game, Tuchel confirmed his intentions, explaining that Bellingham \"played as a 10 when we had the ball\" and that he wanted \"to have six players in the last line\" - likely in an attempt to outnumber Panama's back five.\n\nHere is England's shape against Panama. In the first half, Bellingham played a deeper role before taking up more attacking positions in the second half to England's benefit.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0936_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rice set for England start against DR Congo",
+            "bullets": [
+              "Declan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on We...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on Wednesday.",
+            "fullText": "Declan Rice won the Premier League title with Arsenal last season\n\nDeclan Rice is expected to be available to start England's World Cup last-32 tie with DR Congo on Wednesday.\n\nThe key midfielder was rested for the2-0 win over Panamaafter taking a heavy blow to the calf in thegoalless draw with Ghanalast Tuesday.\n\nRice, 27, was unable to complete the full training schedule before the win over Panama, although he did return in time for the team's final session before travelling to New Jersey.\n\nIn Rice's absence, Thomas Tuchel started with a midfield of Elliot Anderson and Jude Bellingham.\n\nBut the England manager is optimistic that the Arsenal midfielder will be available to return to the starting XI for the knockout match against DR Congo in Atlanta.\n\nEngland manager Tuchel's biggest injury concerns heading into the knockout rounds are Reece James and Jarell Quansah.\n\nChelsea full-back James missed the win over Panama after sustaining a hamstring injury against Ghana.\n\nWhile Tuchel is not ruling out James for the DR Congo game, it is understood the right-back's return to action is likely to come later in the tournament.\n\nKnockouts are here - what is England's path to the final?\n\nJob done - but England will not win World Cup unless they improve\n\nSimilarly, Quansah, who deputised for James at right-back against Panama, is also a major doubt to play the last-32 tiedue to an ankle injury.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0936_3",
+            "category": "england",
+            "type": "News",
+            "title": "Kane and Bellingham produce the goods but England need others to step up",
+            "bullets": [
+              "Pair’s goals saw off Panama but Tuchel has problems at right-back and on flanks for last-32 tie agai...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pair’s goals saw off Panama but Tuchel has problems at right-back and on flanks for last-32 tie against the DRCEngland will head to Atlanta with problems in central defence, right-backs dropping like flies, weary legs in midfield and hope that everything will turn out fine if the Harry and Jude show continues to thrill. For Thomas Tuchel, it is “a moment to keep believe and pushing”.Did England convince while securing top spot in Group L by beating Panama 2-0 in New Jersey? Not at all, but for a team looking to keep spirits high all that matters for now is they have a winnable last-32 tie against the Democratic Republic of the Congo on Wednesday and will be a threat against anyone if Jude Bellingham and Harry Kane continue to produce. Continue reading...",
+            "fullText": "Pair’s goals saw off Panama but Tuchel has problems at right-back and on flanks for last-32 tie against the DRC\n\nEngland will head to Atlanta with problems in central defence, right-backs dropping like flies, weary legs in midfield and hope that everything will turn out fine if the Harry and Jude show continues to thrill. ForThomas Tuchel, it is “a moment to keep believe and pushing”.\n\nDidEnglandconvince while securing top spot in Group L by beating Panama 2-0 in New Jersey? Not at all, but for a team looking to keep spirits high all that matters for now is they have a winnable last-32 tie against the Democratic Republic of the Congo on Wednesday and will be a threat against anyone if Jude Bellingham and Harry Kane continue to produce.\n\nTuchel is too smart not to know there is plenty of room for improvement. Panama exited the World Cup with no goals in three games but they made chances against England. The defence is shaky and will be punished by sharper attacks. Relief at swerving a tie against Senegal should be tempered. TheDRC began their campaign by holding Portugal, have the Sunderland dynamo Noah Sadiki in midfield and will fancy Newcastle’s Yoane Wissa to profit if England fail to tighten up.\n\nThe biggest issue is in the cursed right-back position. Tino Livramento has flown home, the hamstrung Reece James is in a race to be fit for the last 16 – should England get there – and Jarell Quansah rolled an ankle against Panama. Quansah was moving freely when he left the stadium on Saturday evening but is a doubt to face the DRC, leaving Tuchel to ponder whether another defensive rethink is required.\n\nYet those concerns are countered by the sense of Bellingham’s and Kane’s burgeoning double act giving England a chance to score four if the opposition score three. Their partnership failed to take off at Euro 2024 but it is coming together in the US. They are no longer operating in each other’s space. Bellingham has worked out how to drive on when Kane drops off and the pair took another step in the right direction against Panama, combining for a goal from open play for the first time since September 2023.\n\nIt arrived five minutes after Bellingham had given England the lead. As the move progressed the 22-year-old had a higher starting position than Kane. Marcus Rashford chipped a ball down the left. Bellingham surged, checked inside and crossed for Kane, by now in the area and perfectly placed to head home for 2-0.\n\nIt was devastating from the two world-class attackers at Tuchel’s disposal. The debate over Bellingham’s place is over. The next question is whether the attack is too reliant on the Real Madrid midfielder and Kane. They have scored five of England’s six goals and the contributions from Tuchel’s other forwards have been underwhelming.\n\nDoes it matter? There are stars in every team. Brazil have leant on Vinícius Júnior and Matheus Cunha. Argentina are yet to shed theirMessidependencia. Spain are more versatile but will look to Lamine Yamal. Ultimately people are thinking about France when it comes to variety in attack. Kylian Mbappé was devastating in the first two games but Ousmane Dembélé followed up with a first-half hat-trickagainst Norway. Michael Olise has also sparkled, and there have been bewitching moments from Désiré Doué and Bradley Barcola.\n\nIt is pointless urging Marcus Rashford, Bukayo Saka, Noni Madueke, Morgan Rogers, Anthony Gordon and Eberechi Eze to hit those standards, though. Just be more like one of the greatest players inWorld Cuphistory, last year’s Ballon d’Or winner, two Paris Saint-Germain tyros and a Bayern Munich star. You might as well tell Andy Murray he just should have been more like Roger Federer.\n\nEven so Tuchel can ask for more on his own terms. Rogers was ineffective as the No 10 against Panama and Tuchel does not seem to trust Eze. Gordon has struggled when deprived of space on the left. Saka has two assists – he swung in the corner for Bellingham’s volleyed finish on Saturday – but is still building up sharpness.\n\nRashford offers more encouragement. He scored after coming on against Croatia but does not regard himself as a supersub. He came in for Gordon against Panama and was lively. The final ball has to be better, though. Rashford has to be more clinical against the DRC.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0936_4",
+            "category": "england",
+            "type": "News",
+            "title": "South Korea coach resigns after president condemns ‘incompetent people’ in World Cup exit",
+            "bullets": [
+              "Korean president Lee lashes out and apologises to nationSon Heung-min omission against South Africa ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Korean president Lee lashes out and apologises to nationSon Heung-min omission against South Africa backfiresHong Myung-bo resigned on Sunday as South Korea’s head coach, a day after his side’s group-stage exit from the World Cup and after condemnation from the country’s president.The 57-year-old former captain, in his second stint as coach, oversaw an early World Cup departure for the second time to go with the failure in 2014. South Korea were expected to get out of a Group A that included the co-hosts Mexico as well as South Africa and Czechia. But they lost 1-0 against South Africa and Mexico, and finished on three points, their only success a 2-1 win against Czechia. Continue reading...",
+            "fullText": "Korean president Lee lashes out and apologises to nation\n\nSon Heung-min omission against South Africa backfires\n\nHong Myung-bo resigned on Sunday as South Korea’s head coach, a day after his side’s group-stage exit from the World Cup and after condemnation from the country’s president.\n\nThe 57-year-old former captain, in his second stint as coach, oversaw an early World Cup departure for the second time to go with the failure in 2014. South Korea were expected to get out of a Group A that included the co-hosts Mexico as well as South Africa and Czechia. But theylost 1-0 against South AfricaandMexico, and finished on three points, their only success a2-1 win against Czechia.\n\n“Over the past two years I asked myself the same question whenever I had to make important decisions, select players or prepare for training session and matches: ‘Is this the right choice for Korean football?’” Hong told reporters in Mexico, according to Yonhap News Agency. “I can not say every decision has been the right one, but I can tell you that I have made every decision with Korean football in mind.”\n\nHong’s resignation came hours after South Korea’s president, Lee Jae Myung, lashed out at the team’s performance, pointing the finger at “incompetent people” and apologising to the nation.\n\n“When loyalty and factionalism are valued over competence, and incompetent people are appointed to leadership positions, the outcome is all but inevitable,” Lee said in a post on X. “I offer my deepest apologies to the public for the profound disappointment caused by this unacceptable outcome. We will move swiftly to reform sports administration to ensure that nothing like this happens again,” he added, without elaborating.\n\nThe much-maligned Hong was deeply unpopular with fans and South Korean media even before the tournament. He dropped the veteran captain, Son Heung-min, for the South Africa game, in which they only needed a draw to progress, but the gamble backfired.\n\nHong, who was booed during home matches after his appointment in July 2024, said after stepping down that he would always be a fan: “I will cheer for the national team from the bottom of my heart and hope that the team will be trusted and loved by the people once again.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0937_5",
+            "category": "england",
+            "type": "News",
+            "title": "Did 'crazy' cricket deny Stokes 'extraordinary' end to England career?",
+            "bullets": [
+              "Ben Stokes was unable to produce the fairytale ending to his time as England's captain, having playe...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ben Stokes was unable to produce the fairytale ending to his time as England's captain, having played the hero at numerous points during his glittering international career.",
+            "fullText": "England captain Ben Stokes announced he will end his international career after the conclusion of the third Test with New Zealand; Stokes opened the batting as England's hopes of a series win faded during an extraordinary day at Trent Bridge",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0937_6",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel praises Bellingham buy-in after another match-winning showing",
+            "bullets": [
+              "Thomas Tuchel praised Jude Bellingham's buy-in to the team ethic after another man-of-the-match perf...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel praised Jude Bellingham's buy-in to the team ethic after another man-of-the-match performance from the 22-year-old drove England through to the knockout stages of the World Cup.",
+            "fullText": "Thomas Tuchel on England midfielder Jude Bellingham after back-to-back man of the match performances: \"I'm not sure if it's a reaction but it is what we want from him. He is fully into all the things from him as a team player, and he brings his individual quality to decide football games\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0944_7",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham to the rescue yet again as England book date with DR Congo",
+            "bullets": [
+              "Bellingham to the rescue yet again as England book date with DR Congo",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham to the rescue yet again as England book date with DR Congo",
+            "fullText": "There are many different ways to progress in a World Cup, and for nowEngland’s plan is chiefly to rely on the luminous talent of Jude Bellingham – currently running hot in this summer’s battle of the game’s elite players.\n\nThomas Tuchel had grown fond of saying that Group L is the most challenging of the World Cup’s opening round, and once again his players seemed determined to prove their manager right. After no little striving, England triumphed in New Jersey to earn a place as group winners against DR Congo in Atlanta on Wednesday, although the bigger picture was much less clear.\n\nBellingham’s goal after 62 minutes, expertly taken without an inch of space, seemed to give some clarity to this England performance. Before that, it felt that many scenarios were running through their minds. The possibility of another ragged siege of a stubborn opponent ending in frustration. Key players, including Bellingham, being shifted around the system within the game. A growing sense that Tuchel’s perception 18 months ago of an England without an identity was no clearer to being resolved.\n\nThen Bellingham scored and the pieces started to fall into place. In a team without Declan Rice, Bellingham had operated as a No 8, and as a No 10, with a speciality in all things dramatic. There was a crucial goal, telling passes and thrilling challenges.\n\nENGLAND BREAK THE DEADLOCK! 🔓Jude Bellingham taps in from a corner... The Three Lions top the group as it standspic.twitter.com/WVtY6x5Qbb\n\nIt was Bellingham who located a pocket of space on the left five minutes after his goal, and spotted Harry Kane lurking in his Panama counterpart’s blind spot, ready for the cross that he would nod in for the second goal.\n\nHARRY KANE MAKES IT TWO! 🏴󠁧󠁢󠁥󠁮󠁧󠁿Bellingham turns provider and suddenly England are cruisingKane becomes England's all-time top scorer at World Cup finalspic.twitter.com/cWdElDoCN2\n\nThis was Bellingham’s game, two days before he turns 23 years old, with 51 caps amassed and now unquestionably occupying the role of the England talisman of the summer of 2026. A man whose every touch, pass, tackle and shot feels fundamental. This is not a team functioning anything like as smoothly yet, although its leading man is in the groove.\n\nIt had been hard at times to discern quite what the plan was supposed to be for England. They looked vulnerable to the counter-attack during a first half in which they could not overwhelm Panama, who sensed that a swift turnover of possession would present opportunities. They were right in that regard. Elliot Anderson, by no means a natural No 6, was crisp in possession but occasionallyisolated on the counter-attack.\n\nBellingham also played deeper than usual in those moments, and he was on the ball more. There was no mistaking the mood of a player keen to run the game, but that also meant that in the heart of England’s midfield they looked underpowered.\n\nTuchel said later that the plan in possession was to play with six players in the forward positions. “We could have been more disciplined, more aggressive and then in the second half the goal came from that,” Tuchel said. “He [Bellingham] played as a central midfielder without the ball. When we had the ball he played as a [No] 10.”\n\nPerhaps it was always going to be a struggle. Tuchel described a Panama team that closed off the usual channels through the middle and would send out two or three defenders to corral his wingers. “It teaches us lessons not to lose belief and keep on knocking and trust the process,” he said. “I know it is sometimes less spectacular to see that way.”",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 19:02:24 EDT",
+  "lastUpdated": "2026-06-29 @ 02:09:44 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
