@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The agent's conversation with Felicia Schröder: \"If you become the most expensive in the world, there will be stupid comments\"",
-      "link": "https://www.svt.se/sport/fotboll/agentens-samtal-med-felicia-schroder-om-du-blir-dyrast-i-varlden-kommer-det-komma-dumma-kommentarer"
+      "text": "⚽ Viktor Gyökeres points out France's shortcomings",
+      "link": "https://www.svt.se/sport/fotboll/viktor-gyokeres-pekar-ut-bristen-hos-frankrike"
     }
   ],
   "timeline": {
@@ -8179,10 +8179,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-06-29": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1137_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Viktor Gyökeres points out France's shortcomings",
+            "bullets": [
+              "Viktor Gyökeres admits that France has a world-class offensive. But even the sun has its spots. - Th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Viktor Gyökeres admits that France has a world-class offensive. But even the sun has its spots. - They are not the best team there, says Gyökeres and points out a specific shortcoming.",
+            "fullText": "Viktor Gyökeres admits that France has a world-class offensive.\n\n- They are not the best team there, says Gyökeres and points out a specific shortcoming.\n\nSee which flaw Viktor Gyökeres is referring to in the player above.\n\nSweden has faced the toughest possible opposition in the World Cup round of 16. To beat the star-studded French team, Blågult needs to perform at its peak.\n\n- As usual, it's a mix. You have to adapt to the opponents, while making use of your own qualities and what worked in our game, says Viktor Gyökeres.\n\nGyökeres has a particularly good grasp of one player in France. In the club team Arsenal, Sweden's attacking star is a teammate with center back William Saliba.\n\nSaliba will have to deal with a hungry Gyökeres on Tuesday night.\n\n- There is nothing to lose. We have to believe it ourselves because many around the world will believe them. We will go out and give everything, it's the World Cup and it's the playoffs, so there's nothing not to leave on the pitch.\n\nSweden-France is played on Tuesday evening at 23.00, Swedish time.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-28 @ 18:57:07 EDT",
+  "lastUpdated": "2026-06-29 @ 02:11:37 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
