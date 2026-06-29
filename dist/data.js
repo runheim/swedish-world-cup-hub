@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cqj1g9egd80o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Welsh football bosses reveal £150m cost to improve facilities",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crm0llg0zzzo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ 'You are Canadian heroes' - the forgotten hosts making World Cup history",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvg4pen8xq7o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,16 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jun/29/jude-bellingham-harry-kane-england-attack-world-cup-2026"
     },
     {
+      "text": "⚽ What hosting the World Cup means for Canadian soccer: ‘The stakes are absolutely massive’",
+      "link": "https://www.theguardian.com/football/2026/jun/29/canada-world-cup-2026-hosting-impact"
+    },
+    {
       "text": "⚽ Brazil fans were waiting for Vinícius Júnior to be their hero. He’s arrived",
       "link": "https://www.theguardian.com/football/2026/jun/29/brazil-fans-vinicius-junior-hero-real-madrid-world-cup"
     },
     {
-      "text": "⚽ South Korea coach resigns after president condemns ‘incompetent people’ in World Cup exit",
-      "link": "https://www.theguardian.com/football/2026/jun/28/south-korea-coach-resigns-president-condemns-world-cup-exit"
-    },
-    {
-      "text": "⚽ Barcelona interested in England captain Kane",
-      "link": "https://www.skysports.com/football/news/12040/13558939/harry-kane-transfer-news-barcelona-interested-in-signing-bayern-munich-forward-and-england-captain"
+      "text": "⚽ Kane likely to sign new Bayern deal despite Barcelona interest",
+      "link": "https://www.skysports.com/football/news/12040/13559005/harry-kane-transfer-news-england-captain-set-to-sign-new-bayern-munich-deal-despite-barcelona-interest"
     }
   ],
   "timeline": {
@@ -14655,11 +14659,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3747_0",
+            "category": "england",
+            "type": "News",
+            "title": "How Tuchel is still searching for solutions out wide - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains why there are lots of reasons to be positive about Engl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains why there are lots of reasons to be positive about England so far at this World Cup, but having a settled side is not one of them.",
+            "fullText": "There are lots of reasons to be positive about England so far at this World Cup but having a settled side is not one of them.\n\nThe main aim was to top our group, and we did that, but we have arrived in the last 32 after so much chopping and changing in several positions that we are no closer to knowing what our best team is.\n\nIt feels like Thomas Tuchel is still searching for some solutions, three games in.\n\nYou don't have to have all the answers, even at this stage of a tournament - injuries and suspensions mean teams always have to adapt ideas and personnel as they progress - but Tuchel has quite a lot to sort out before we face DR Congo in Atlanta on Wednesday.\n\nThere is no doubt he is trying to find which combinations of full-backs and wingers work best for the team on both flanks - there have been nine different ones already across 270 minutes, involving eight different players.\n\nThe reason Tuchel has tried so many is that he has not quite worked it out yet. Obviously the injuries to Reece James and Jarell Quansah at right-back have not helped and neither has Bukayo Saka not being 100% fit.\n\nBut, for whatever reason, we have not posed a consistent threat down the flanks and constantly changing the back four has not helped our defensively stability either. We've looked uncomfortable whenever teams have attacked us, which is a worry.\n\nAt the same time, though, there have been several players who have produced.\n\nElliot Anderson was absolutely superb against Panama, while Jude Bellingham was man of the match and rightly so, and Harry Kane got his goal, again.\n\nAlong with Jordan Pickford and Declan Rice, they are the spine of the team and you know you can hang your hat on them when it matters.\n\nMaybe we haven't seen as much from every part of Tuchel's team as we'd like, but we still know we can rely on our big-hitters to step up and produce something brilliant to change the course of the game.\n\nIdeally, we wouldn't be relying on someone to get us a goal out of nothing, like Jude Bellingham did when he turned in Saka's corner against Panama.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3748_1",
+            "category": "england",
+            "type": "News",
+            "title": "Welsh football bosses reveal £150m cost to improve facilities",
+            "bullets": [
+              "Football officials say it will cost £150m to deliver the facilities the game needs across Wales amid...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Football officials say it will cost £150m to deliver the facilities the game needs across Wales amid a surge in participation figures across the country.",
+            "fullText": "Football Association of Wales chief executive Noel Mooney has previously called for greater financial support\n\nFootball officials say it will cost Â£150m to deliver the facilities the game needs across Wales.\n\nThe Football Association of Wales (FAW) claim the investment is required by the end of the decade if they are to keep pace with the surge in participation figures across the country.\n\nIt comes as FAW chief executive Noel Mooney claimed the change of government in Wales was an \"opportunity to reset how sport is funded in Wales\".\n\nThe FAW's charitable arm â the Cymru Football Foundation (CFF) â has overseen Â£27m of spending to develop facilities across all levels of the sport over the past four years.\n\nNow a new consultation suggests funding of five times that amount is needed â outweighing the CFF's current funding - highlighting a shortfall in pitches and other facilities alongside a 21% increase in numbers playing the sport.\n\nIn particular, that includes a 47% increase in the number of women and girls while the number of young players has gone up by a third.\n\nUnveiling new Local Football Facility Plans, existing and new sites have been identified across 22 local authority areas to \"meet the fast-growing needs of the women and girls' game\" and \"address current gaps in facility provision to meet demand.\"\n\nMooney said: \"Investing in facilities is essential for the future of the game across Cymru â demand is at an all-time high and these local football facility plans are our strategy to provide essential positive, safe environments for our grassroots players to thrive.\"\n\nWelsh Government â who Mooney has previously called on for more support â say they will commission their own audit of regional sporting facilities, but that football facilities were \"an important consideration\".\n\nWales' qualification for Euro 2025 has also seen a 47% increase in participation in women's and girls' football across the country, placing greater demand on facilities\n\nThe FAW-backed review saw local clubs and local authorities â and other sporting bodies - feed into a survey of current facilities.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3748_2",
+            "category": "england",
+            "type": "News",
+            "title": "'You are Canadian heroes' - the forgotten hosts making World Cup history",
+            "bullets": [
+              "Canada are making history at this World Cup with a run that is likely to change the face of football...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Canada are making history at this World Cup with a run that is likely to change the face of football in the country forever.",
+            "fullText": "Canada into last 16 with late winner against South Africa\n\nMinutes after the final whistle was blown on Canada's historicWorld Cup victory against South Africaon Sunday, coach Jesse Marsch gathered his players and staff in a huge huddle and delivered some words of inspiration to them.\n\n\"Canadian heroes,\" he called his team after they won a knockout game at the tournament for the first time to reach the last 16.\n\n\"The future of the sport in this country is huge because of you.\"\n\nMarsch is known for grandiose comments - exaggerated and emotional statements delivered to provide maximum impact.\n\nBut his words here ring true - the sport in the country is changing.\n\n\"It is starting to become known as football now, not soccer,\" one fan told BBC Sport before the match.\n\nThat was the objective Marsch set out to achieve when he became Canada boss two years ago, a goal that at the time seemed highly unlikely for a country whose first love is widely regarded as ice hockey.\n\nMexico hosted this World Cup's opener while the USA stages the final. Attention has been far greater on the two in the build-up, leaving Canada as something like the forgotten co-host.\n\nBut Canada quietly went about its business, building interest and passion for the tournament and their national team from within.\n\nThe country's captain, Alphonso Davies, is used to large, football-mad crowds playing for Bayern Munich and in the Champions League.\n\nHowever, he has noticed the change in Canada since the World Cup got under way, and said he cried at seeing so many fans clad in red and white in Toronto for their opening game against Bosnia-Herzegovina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3748_3",
+            "category": "england",
+            "type": "News",
+            "title": "How link between Bellingham and Kane has unlocked England’s stodgy attack",
+            "bullets": [
+              "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his cap...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his captain has started to change thatThomas Tuchel faces an attacking conundrum. England have to extract the maximum output from Harry Kane while getting other players to contribute more. Jude Bellingham’s performance against Panama showed how both sides of this equation can be solved.Kane has scored 13 goals in Tuchel’s 17 England matches, with no other player contributing more than three. He scored a penalty and a header from a corner against Croatia, then blazed over the bar from a rebound in the Ghana match. There was little of note created for him in open play. Continue reading...",
+            "fullText": "Thomas Tuchel’s side have struggled in open play in the US but midfielder’s partnership with his captain has started to change that\n\nThomas Tuchelfaces an attacking conundrum. England have to extract the maximum output fromHarry Kanewhile getting other players to contribute more.Jude Bellingham’s performance against Panama showed how both sides of this equation can be solved.\n\nKane has scored 13 goals in Tuchel’s 17 England matches, with no other player contributing more than three. He scored a penalty and a header from a corneragainst Croatia, then blazed over the bar from a reboundin the Ghana match. There was little of note created for him in open play.\n\nA centre-forward usually receives fewer passes than their teammates (though Kane often tries to correct this by dropping deep), but the issue forEnglandhas been which of their players have been delivering the ball to their No 9 in this tournament. It has too rarely been who they would have hoped.\n\nJordan Pickford played the joint-most passes to Kane in the opening match, with three, before Marc Guéhi led the way with the same tally in the second game. Three players played four to him against Panama, though Bellingham needed just two to prove quality trumps quantity.\n\nIt feels surprising that the Real Madrid midfielder and Kane have not linked up more for the national team. Opta’s data shows that leading into the Panama game, Bellingham had created only three chances for England’s record goalscorer in their 1,154 minutes of shared pitch time at major tournaments.\n\nThe only goal they had combined for in an international match prior to this World Cup occurred in a friendly win at Hampden Park in 2023. A very similar pass to the one which unlocked the Scotland defence that night did likewise againstPanama.\n\nEngland had generated only 0.54 expected goals in the opening 56 minutes of the match against Panama before a Bellingham through ball set up Kane for their side’s first Opta-defined big chance of the contest. Within the next 10 minutes, the midfielder won a corner, scored from it and assisted Kane for England’s second goal.\n\nOpta have a metric called expected assists, which measures the likelihood that completed passes become goal assists. Bellingham’s passes against Panama were valued at 0.57, the most by any England player in a group game. Noni Madueke (with 0.66) was the only other squad member to hit that mark in total across the three games.\n\nBellingham’s passes to Kane were a huge part of this tally. In expected goal terms, the chances he created were the second and joint-fourth highest value opportunities any England player set up for another in the group stage.\n\nThe challenge for Tuchel is to make such moments a regular occurrence, withthe Democratic Republic of the Congolikely to employ a low block on Wednesday.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3748_4",
+            "category": "england",
+            "type": "News",
+            "title": "What hosting the World Cup means for Canadian soccer: ‘The stakes are absolutely massive’",
+            "bullets": [
+              "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soc...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soccer officials hope it can be transformativeToronto’s Front Street, which loosely tethers the city’s central station and some of its landmarks to the part of the waterfront that hosts the fan fest and Toronto Stadium to the west, thrummed all week with a pleasant energy.Hours ahead of Croatia-Panama on Tuesday, there were scores of jerseys out for those countries, of course, but plenty for Brazil and Scotland and other sides as well. A Croatian fan scolded a street vendor hawking Blue Jays gear by the Rogers Center, where the baseball team were about to play, for not selling any Croatia merch. “Croatia!” he said gruffly. “Gonna win today!” Continue reading...",
+            "fullText": "Of the trio of World Cup hosts, only Canada is hosting the tournament for the first time – local soccer officials hope it can be transformative\n\nToronto’s Front Street, which loosely tethers the city’s central station and some of its landmarks to the part of the waterfront that hosts the fan fest and Toronto Stadium to the west, thrummed all week with a pleasant energy.\n\nHours ahead of Croatia-Panama on Tuesday, there were scores of jerseys out for those countries, of course, but plenty for Brazil and Scotland and other sides as well. A Croatian fan scolded a street vendor hawking Blue Jays gear by the Rogers Center, where the baseball team were about to play, for not selling any Croatia merch. “Croatia!” he said gruffly. “Gonna win today!”\n\nAcross the street, the images of six women’s soccer players in Northern Super League uniforms were plastered on the headquarters of the Canadian Broadcasting Corporation. “Canada’s first professional women’s soccer league,” read the caption. Ah, yes, domestic soccer – that still exists, too, amid the fun and folklore of theWorld Cup.\n\nThe contrast illuminated the stakes of this mega-event forCanada.\n\nWhile the United States and, to a lesser extent, Mexico, have hogged the headlines, Canada is the only first-time host in 2026. Mexico is on its third World Cup; the USA on its second. But for Canada, the potential upside is far higher. For it is hoped this World Cup gives soccer the kind of boost the US got in 1994, and that Mexico doesn’t really need anymore.\n\n“This World Cup is our coming out party,” said Tosaint Ricketts, a long-time Canada forward who now works for the Vancouver Whitecaps and was part of the hiring committee that installed Jesse Marsch as Canada manager. “The stakes are massive.”\n\nThe Canadian Soccer Association is emerging from decades of dysfunction. And after the men’s team made it back to the World Cup in 2022, absent since their only other appearance in 1986, some tangible momentum is gathering – although it should be noted that the women’s team won three straight Olympic medals from 2012 through 2020 and won gold at the last of those. “There’s no secrets,” Ricketts said. “Over the years, we’ve gone through our fair bit of controversy, a little bit of lack of transparency, and changes within the organizational structure of Canada Soccer. But that is all behind us and now we’re steady on the path of growth, the path of creating a foundation.”\n\nWith the sport on firmer footing, the World Cup promises an inflection point that can finally help soccer take off in a nation in the thrall of hockey and, like the neighbors to the south, possessed of a vibrant sporting landscape that is no monoculture.\n\n“I think the biggest opportunity is not just the five weeks hosting and participating in the tournament,” says James Johnson, commissioner of the Canadian Premier League, the country’s eight-team professional circuit currently in its eighth season (three other Canadian clubs play in MLS). “It’s really in the legacy that the tournament leaves behind, which can be transformation for soccer in this country.”\n\nJust as there once was in the US, a chasm gapes between the omnipresence of the sport and the elite end of the domestic game. “Of course, people know soccer is not number one in Canada, but I’m not sure people know that it’s the most participated-in sport,” said Ricketts. “There’s over a million participants across Canada. The next step is to get the corporations investing in the game, improve the infrastructure so these million participants have the facilities and resources to grow and get better. What the World Cup does is allow all of this progress to be sustainable.”\n\nThe hope is that the sponsors attracted by the World Cup will want to stay involved in the sport a few weeks from now, when the party is over. “We want to bring investment in,” said Johnson. “We want to scale and we want to take advantage of the momentum the World Cup creates. We want to increase our marketing spend for the Canadian Premier League, to increase the playing time on the pitch and our clubs’ infrastructures to develop better players. It requires investment. For us, it is really commercializing the sport and bringing in revenue and partners. It’s positioning the sport in the mainstream and making sure when the World Cup comes and goes, people can still see soccer in Canada on billboards and on linear TV.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3749_5",
+            "category": "england",
+            "type": "News",
+            "title": "Brazil fans were waiting for Vinícius Júnior to be their hero. He’s arrived",
+            "bullets": [
+              "Vini Jr has been a star at Real Madrid for a long time. Now he is truly delivering for his country a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Vini Jr has been a star at Real Madrid for a long time. Now he is truly delivering for his country at a World Cup“I’m so happy to see you happy. Living a dream. It’s Brazil,” wrote Vinícius Júnior on Instagram after Brazil’s 3-0 win against Scotland. In the accompanying photograph he was holding his arms open – in the style of his Real Madrid teammate Jude Bellingham. When Bellingham pulled out that pose after scoring for England at Euro 2024, he famously shouted: “Who else?” When Vinícius found the net it felt more like he was saying: “I’ve arrived.”It took a while. Vinícius won his first cap in a 1-0 friendly defeat by Peru in 2019 and was mostly on the bench when Brazil hosted the Copa América in 2021. He didn’t score his first international goal until his 19th appearance – a 4-0 thrashing of Chile in a World Cup qualifier in 2022. By the time the World Cup kicked off in Qatar later that year, he had added clinical finishing to his speed and there were greater expectations. Continue reading...",
+            "fullText": "Vini Jr has been a star at Real Madrid for a long time. Now he is truly delivering for his country at a World Cup\n\n“I’m so happy to see you happy. Living a dream. It’s Brazil,” wrote Vinícius Júnior on Instagram afterBrazil’s 3-0 win against Scotland. In the accompanying photograph he was holding his arms open – in the style of his Real Madrid teammate Jude Bellingham. When Bellingham pulled out that pose after scoring for England at Euro 2024, he famously shouted: “Who else?” When Vinícius found the net it felt more like he was saying: “I’ve arrived.”\n\nIt took a while. Vinícius won his first cap in a 1-0 friendly defeat by Peru in 2019 and was mostly on the bench when Brazil hosted the Copa América in 2021. He didn’t score his first international goal until his 19th appearance – a 4-0 thrashing of Chile in aWorld Cupqualifier in 2022. By the time the World Cup kicked off in Qatar later that year, he had added clinical finishing to his speed and there were greater expectations.\n\nVinícius went to the tournament as a Champions League winner, having scored the only goal in the final whenReal Madrid beat Liverpool at the Stade de France. Given that billing, his impact at the tournament – one goal and two assists as Brazil were beaten by Croatia on penalties in the quarter-finals – was below par. But the Brazilian public did not expect him to be the main character. That role was still held by Neymar.\n\nWhen Neymar was injured in a World Cup qualifier against Uruguay in October 2023, the weight of a demanding and expectant nation fell on Vinícius’s shoulders, and also those of Rodrygo and Raphinha, to a lesser extent. He went into the Copa América in 2024 having scored inanother victorious Champions League final, but failed to hit the same heights at the tournament. When Brazil lost to Uruguay in the quarter-finals on penalties, he was suspended.\n\nVinícius is not the onlyBrazilforward who has frustrated his countrymen. Raphinha became a star at Barcelona under Hansi Flick, winning titles and challenging for the Ballon d’Or. An adopted Catalan who is loved at the Camp Nou for his grit and respect for the badge, he continues to be ostracised in Brazil. There was a time when Argentina fans thought Lionel Messi cared more for his club than country, and that perception now dogs Raphinha in Brazil.\n\nHe has not helped himself. Raphinha claimed Brazil would “thrash Argentina, on and off the pitch” in their World Cup qualifier last year, and was widely mocked whenthey lost 4-1. The ridicule continued when he talked about footballers having togive up holidays to play in tournaments. And he delivered another PR disaster a few days before the World Cup, saying he had nothing to prove to people in Brazil.\n\n“I’ve delivered a lot for the national team,” he told reporters. “As far as possible, especially in this cycle, I managed to deliver good football. The affection of the Brazilian fans is really different from the people abroad who follow me daily. If I have to prove myself, it’s for me, for my parents, my children, my wife. I understand there are people who don’t like my football. It’s OK. There will be days that I won’t deliver, but I always try to do my best. I left Brazil very young, so it’s normal for people to be suspicious. It’s OK.”\n\nThe tournament has not gone his way so far. He picked up a hamstring injury in Brazil’s opener and has been replaced by Rayan, who was impressive against Scotland and is expected to keep his place for the last-32 match against Japan. It could be the first time Carlo Ancelotti sticks with the same XI in his 16 matches in charge. Raphinha is likely to be back in time for the quarter-finals, where Brazil may face England. Whether he should win back his place from Rayan will be a major talking point. The only way Raphinha can rip up the international underachiever tag is by doing it at a big tournament.\n\nAs for Vinícius, he has ripped his into pieces and danced on it. He saved Brazil with a moment of brilliance against Morocco, scoring the kind of goal he has been firing in at the Bernabéu for years. Brazil were criticised after that display but they have begun to enjoy themselves since, beating both Haiti andScotland 3-0to finish top of the group.\n\nVinícius now looks happy in yellow and green; he was voted player of the match for all three group games. After scoring and setting up a goal against Haiti, he scored twice against Scotland, with an intervention by the video assistant referee denying him a goal in between the two he scored.\n\nThe 25-year-old is already in esteemed company, having joinedPelé, Ronaldo, Romário, Rivaldo and Garrincha by scoring in all three group matches for Brazil. He had nine goals in 49 caps before the tournament; now he can add four in his last three. Walter Casagrande, the former Brazil player who is now a star pundit, says he is eating from the same table as Lionel Messi and Kylian Mbappé, competing as he is for the tournament’s Golden Boot and Golden Ball.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3749_6",
+            "category": "england",
+            "type": "News",
+            "title": "Kane likely to sign new Bayern deal despite Barcelona interest",
+            "bullets": [
+              "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane is likely to sign a new deal to extend his stay at Bayern Munich despite interest from Barcelona.",
+            "fullText": "Harry Kane is set to sign a new deal to extend his stay at Bayern Munich, Barcelona are reportedly interested in the England captain; striker has year left on his current deal and scored 61 goals for the Bavarians last season, while he has three goals at the World Cup",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-29 @ 10:40:59 EDT",
+  "lastUpdated": "2026-06-29 @ 13:37:50 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
