@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Bill Nuttall on saving Pelé’s penalty and building a US team from scratch",
+      "link": "https://www.theguardian.com/football/2026/jun/30/bill-nuttall-world-cup-pele-gerd-muller-gordon-banks-chattanooga"
     }
   ],
   "timeline": {
@@ -4367,11 +4351,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0807_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Bill Nuttall on saving Pelé’s penalty and building a US team from scratch",
+            "bullets": [
+              "Former goalkeeper and US Soccer general manager is hosting the Spain team at his training camp in Ch...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former goalkeeper and US Soccer general manager is hosting the Spain team at his training camp in ChattanoogaAt the foot of Signal Mountain on a bend in the Tennessee river, over the little level crossing like a postcard of America, past the sheriff at the gate and through an avenue of pines, the perfect pitch awaits Lamine Yamal, Rodri and the rest. So does a man. He’s 6ft 3in, 78 years old, his name is Bill Nuttall, and he’s here every day.“I’ve got nothing else to do,” he says, laughing. He’s done it all: he cleaned out Pelé and got cleaned out by Gordon Banks, coached Gerd Müller and built a US national team from scratch, the hosts making history in 1994. He also brought Spain here, an even better host now than he was back then. Continue reading...",
+            "fullText": "Former goalkeeper and US Soccer general manager is hosting the Spain team at his training camp in Chattanooga\n\nAt the foot of Signal Mountain on a bend in the Tennessee river, over the little level crossing like a postcard of America, past the sheriff at the gate and through an avenue of pines, the perfect pitch awaits Lamine Yamal, Rodri and the rest. So does a man. He’s 6ft 3in, 78 years old, his name is Bill Nuttall, and he’s here every day.\n\n“I’ve got nothing else to do,” he says, laughing. He’s done it all: he cleaned out Pelé and got cleaned out by Gordon Banks, coached Gerd Müller and built a US national team from scratch, the hosts making history in 1994. He also broughtSpainhere, an even better host now than he was back then.\n\n“Isn’t that a story and a half?” he says at theselección’s training base five miles outside Chattanooga, home to theWorld Cupfavourites. Well, it’s oneof his stories. He has hundreds and, boy, can he tell them. The only problem is knowing where to start.\n\nLet’s begin at the beginning. It’s 1976 andPeléhas just hit town. It’s the North American Soccer League season opener, the New York Cosmos at the Miami Toros at Tamiami Park. The Cosmos are winning 1-0 when the ball reaches Pelé, all alone, on the edge of the area. Enter, Nuttall.\n\n“I was the Toros goalkeeper. I’m looking around, can’t see anyone, so I go out and flatten him,” he says. “Today, you’re gone. I didn’t even get a yellow, but it was a penalty. Pelé looks at me, walks up and … I push it wide. There was no footage then but some guy got a couple of stills. You see me diving but not touching the ball.”\n\nWith that, Nuttall cracks up again and so it starts, a life in 90 minutes and quite the cast of characters: from player to coach to team manager.\n\n“Here we were in the NASL, chugging along, averaging 3,000, 4,000 a game. Then Pelé comes and the whole thing goes crazy. The Cosmos started adding internationals.Eusébio was at Toronto. We played at the Yankee stadiums, all the hoopla. It’s America: all glitz and superlatives. The Cosmos magnified that but they were a team, not the Harlem Globetrotters. I found it fascinating.\n\n“We moved to a 19,000 stadium called Lockhart, in Fort Lauderdale, and became the Strikers, but I didn’t end the year well. I’m 28, also working as a coach at FIU [Florida International University] in Miami. Ron Newman, the coach, calls me in and says, ‘I’m going to cut you loose. I’m bringing in another goalkeeper, with more experience.’ Oh. OK. I said: ‘I understand I’m out of here but do you mind me asking who?’ He says: ‘It’s Gordon Banks …’\n\n“He’s semi-retired. He’s had the car accident. I said: ‘Ron, I won’t be a problem. I just want to train with this guy.’ Gordon and I got close. I am fas-cin-ated. There’s Gordon and he’s doing this with one eye. You try doing anything with one eye, period.\n\n“I ended up as assistant coach, under Cor van der Hart, who had been Rinus Michels’ right-hand man. We had five big internationals. Teofilo “Nene” Cubillas, Brian Kidd, Jan van Beveren, Ricardo Villa – strange guy, Ricardo – and Gerd Müller, the nicest man you could ever meet, such a humble guy. All this press came to see him, every German tourist. But he always wore the same polo shirt, he could give a flip.\n\n“Every time he got anything, he gave it to the staff. But he hit the juice hard. It got very bad back in Germany but Bayern Munich really looked after him, cleaned him up. I saw him years later, gave him a big hug. I was so pleased to see how they took care of him.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 01:37:04 EDT",
+  "lastUpdated": "2026-06-30 @ 09:08:16 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
