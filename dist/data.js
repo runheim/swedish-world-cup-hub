@@ -12,7 +12,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/planerat-elavbrott-far-husumsborna-att-missa-viktiga-vm-matchen"
     },
     {
-      "text": "⚽ Borläng chefs recruited two people before the match - heavy pressure on WC open restaurants",
+      "text": "⚽ Borläng chefs recruited for the match - heavy pressure on WC open restaurants",
       "link": "https://www.svt.se/nyheter/lokalt/dalarna/borlangekrogare-tokrekryterade-infor-matchen-hart-tryck-pa-vm-oppna-krogar"
     },
     {
@@ -8541,11 +8541,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0424_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Hien operated on after the nightmare in the WC",
+            "bullets": [
+              "Isak Hien was injured in Sweden's last group stage match in the World Cup against Japan. Now the cen...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Isak Hien was injured in Sweden's last group stage match in the World Cup against Japan. Now the centre-back has had surgery, writes his club team Atalanta. \"Atalanta can confirm that Isak Hien underwent surgery today to repair the proximal tendon of the semimembranosus muscle on the back of his left thigh,\" the club wrote in a statement.",
+            "fullText": "Isak Hien was injured in Sweden's last group stage match in the World Cup against Japan. Now the centre-back has undergone surgery, writes his club team Atalanta. \"Atalanta can confirm that Isak Hien underwent an operation today to repair the proximal tendon in the semimembranosus muscle on the back of the left thigh,\" the club writes in a statement.\n\nThe operation was performed in Turku, Finland, by a specialist in tendon surgery.\n\n\"The player will begin his rehabilitation program immediately,\" writes Atalanta.\n\nHien was replaced in the first half against Japan, and had to leave the WC.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0429_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Planned power outage causes the residents of Husum to miss the important World Cup match",
+            "bullets": [
+              "Around 1,000 Husum residents risk missing tonight's fateful match where Sweden meets France in the R...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Around 1,000 Husum residents risk missing tonight's fateful match where Sweden meets France in the Round of 16 in the World Cup, Örnsköldsvik's Allehanda has already told about this. The reason? A planned maintenance work in the electricity network. - That's a bad excuse, says Husum resident Lars Nordvall, who is forced to watch the match afterwards.",
+            "fullText": "Around 1,000 Husum residents risk missing tonight's fateful match where Sweden meets France in the round of 16 in the soccer World Cup, Örnsköldsvik's Allehandaredan has told about this.\n\n- That's a bad excuse, says Husum resident Lars Nordvall, who is forced to watch the match afterwards.\n\nAt 23.00 on Tuesday evening, the important round of 16 kicks off, where it will be decided whether it will be Sweden or France that succeeds in advancing to fight for a trophy in the World Cup.\n\nAt exactly the same time, Vattenfall plans to carry out maintenance work in Husum and roughly 1,000 customers will then not be able to follow the match on television because the power will be out.\n\n- The Soccer World Cup is only every four years. I have been looking forward to this for a long time, says Lars Nordvall, who is one of the affected Husum residents.\n\nThe maintenance work in Husum has been planned for some time. It is about a major project where time has been pressed to be able to carry out the work at night and therefore it is intended to affect as few customers as possible during the day, writes Vattenfall in an email to SVT.\n\nThe electricity company has also tried to look for the possibilities of moving the work after they were alerted about the clash with the match. But due to statutory procedures and the fact that procured resources are part of the work, it is not possible to move the time at such short notice.\n\n\"We fully understand and regret that it clashes with Sweden's World Cup match, but in order to ensure high supply security for our customers and reduce the risk of unplanned power outages, we need to carry out this maintenance work,\" writes Markus Fischer, press secretary at Vattenfall in an email to SVT.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0432_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Borläng chefs recruited for the match - heavy pressure on WC open restaurants",
+            "bullets": [
+              "On Tuesday evening, Sweden will try to do the impossible against the big favorites France in the Wor...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Tuesday evening, Sweden will try to do the impossible against the big favorites France in the World Cup. At the same time, the restaurateur Jacob Aurell-Dahlberg in Borlänge had to deliver a bit of a feat of his own and get together over 20 extra people who can work during the match - in three days. - There have been many phone calls, he says.",
+            "fullText": "On Tuesday evening, Sweden will try to do the impossible against the big favorites France in the World Cup. At the same time, the restaurateur Jacob Aurell-Dahlberg in Borlänge had to deliver a bit of a feat of his own and get together over 20 extra people who can work during the match - in three days.\n\nThe match, which is played at 11 p.m., will be shown in many pubs in Dalarna. Interest in seeing Sweden's matches at home has so far been great in several quarters.\n\n- It's been fun but tough, says Sara Afram, acting operations manager at Hotel Riverside in Avesta.\n\nThey had to upgrade their license from 80 to 160 seats after they had to turn away visitors during Sweden's first match.\n\nIn addition, technology has failed and important personnel, who are under 18 years of age, have not been allowed to work during late matches.\n\nAt Freds Burger in Leksand, hundreds of fans have been able to sit in front of 13 screens.\n\n- There will be lots of extra cables here and there. But it has gone well, says restaurant manager Fredrik Fernström.\n\nBringing in a big screen to show the match on can also be a real expense for restaurants.\n\n- We heard that there was a great demand right away, so we decided quite quickly to only run our own televisions, says Fredrik Fernström.\n\nIt has thus been a puzzle for several restaurateurs to put together the WC screenings. But definitely worth it, says Fredrik Fernström.\n\n- I think it is very good for many restaurants because it has been tough in recent years. It's a boost.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0434_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "Root Oui! – football fever in Europe",
+            "bullets": [
+              "France are big favorites when they meet Sweden in the last 16 of the World Cup on Tuesday. But what ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "France are big favorites when they meet Sweden in the last 16 of the World Cup on Tuesday. But what do the French know about Sweden as a country? Some, it will turn out.",
+            "fullText": "France are big favorites when they meet Sweden in the last 16 of the World Cup on Tuesday.\n\nSVT's reporter Anna Beijron has just returned from a warm France - a country with good self-confidence and televisions on every street corner.\n\nThe World Cup is noticeable almost everywhere. Small shops display television screens in the streets.\n\nWe hear the English, Dutch and French cheering. And sometimes Swedes, but not against the Netherlands.\n\nOn Tuesday evening, the previous World Cup finalists France and Sweden meet. The odds speak strongly for France.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0437_4",
+            "category": "sweden",
+            "type": "News",
+            "title": "The high school that raised four national team players in the football World Cup",
+            "bullets": [
+              "Alexander Isak, Yasin Ayari, Gustaf Lagerbielke and Isak Hien. They all shared the same classroom an...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexander Isak, Yasin Ayari, Gustaf Lagerbielke and Isak Hien. They all shared the same classroom and sports hall at Solna high school. - Yes, right now we have four players in the national team and actually one in Bosnia as well, says Peter Wennberg, technical manager at AIK.",
+            "fullText": "Alexander Isak, Yasin Ayari, Gustaf Lagerbielke and Isak Hien. They all shared the same classroom and sports hall at Solna high school.\n\n- Yes, right now we have four players in the national team and actually one in Bosnia as well, says Peter Wennberg, technical manager at AIK.\n\nPeter Wennberg from AIK has run the collaboration with the high school since its inception in 2008. It took shape in a national sports education, which in turn produced several decisive players in this year's WC squad.\n\nWhen asked if he is proud, he has a perhaps slightly unexpected way of thinking.\n\n- I choose to look ahead, what is important tomorrow and how the next generation will develop. I have my eyes on the WC in eight years, he says.\n\nSeveral hundred football players have passed through during the course of the project. Now Peter Wennberg reveals what is most important to think about practicing. And what conditions can create a really good soccer player.\n\nCome along to Solna gymnasium in the video and hear what makes a sharp soccer player.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 16:28:46 EDT",
+  "lastUpdated": "2026-06-30 @ 19:04:37 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
