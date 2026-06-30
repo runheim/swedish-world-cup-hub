@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gio Reyna and Weston McKennie log impressive training sessions",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Scouts monitor USA's wide pressing lanes and transition speed",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Socceroos hit back at worst match of World Cup claims: ‘You can’t make everyone happy’",
+      "link": "https://www.theguardian.com/football/2026/jul/01/socceroos-paraguay-worst-match-of-world-cup-claims"
     }
   ],
   "timeline": {
@@ -4474,11 +4458,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1415_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Socceroos hit back at worst match of World Cup claims: ‘You can’t make everyone happy’",
+            "bullets": [
+              "Goalless draw with Paraguay criticised for lack of excitement‘We got our job done and that’s what co...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goalless draw with Paraguay criticised for lack of excitement‘We got our job done and that’s what counts,’ says Ajdin HrusticAustralia winger Ajdin Hrustic has dismissed descriptions of their Group D draw against Paraguay as one of the worst matches of the World Cup as the team refocuses on the upcoming last-32 challenge of Mohaed Salah’s Egypt.Sky Sports described the 0-0 draw between the Socceroos and Paraguay as a “largely forgettable game,” while The Athletic said it “won’t be remembered as a classic by anyone who watched it”. Guardian Football Weekly’s Barry Glendenning described the clash as “the worst game of the tournament by a considerable distance”. It had the lowest expected goals tally for the group stage. Continue reading...",
+            "fullText": "Goalless draw with Paraguay criticised for lack of excitement\n\n‘We got our job done and that’s what counts,’ says Ajdin Hrustic\n\nAustralia winger Ajdin Hrustic has dismissed descriptions of their Group D draw against Paraguay as one of the worst matches of theWorld Cupas the team refocuses on the upcoming last-32 challenge of Mohaed Salah’s Egypt.\n\nSky Sports described the 0-0 draw between the Socceroos and Paraguay as a “largely forgettable game,” while The Athletic said it “won’t be remembered as a classic by anyone who watched it”. Guardian Football Weekly’s Barry Glendenning described the clash as “the worst game of the tournament by a considerable distance”. It had the lowest expected goals tally for the group stage.\n\nHrustic said he was aware of the criticism and made the point that the Socceroos were not at the tournament to entertain. “Look, you can’t make everyone happy can you,” he said. “If it’s one of the worst games for them, fair enough, but we got our job done and that’s what counts, right?”\n\nThe Socceroos finally left their base in the San Francisco Bay Area on Tuesday after more than three weeks staying at the historic Claremont Resort. They have travelled to Dallas, where the daily maximum temperature has been hovering around 35C in recent weeks, and is predicted to go as high as 37C on Friday for a 1pm kick-off. The players will avoid the worst of the heat in the 80,000-seat indoor, air-conditioned home of the Dallas Cowboys.\n\nHrustic said the experience of playing in air-conditioned stadiums in Qatar will help, even if training before the game will be outside. “You’ve just got to adjust, right, it’s never perfect, but you’ve got to make it perfect, you’ve got to be ready,” he said. “What we feel is what they’ll feel.”\n\nThe Socceroos have not scored for two matches and ever since Connor Metcalfe hit a shot from outside the area in the second half against Turkey. Hrustic, who played half an hour as winger against Paraguay, is sure the goals will come and that defence remains the team’s priority. “As a creative kind of player, I still think zero [conceded goals] is the most important, because you will get a chance, right, and it’s about taking that chance,” he said.\n\nSalah was taken off in the second half of Egypt’s 1-1 draw with Iran on Saturday and is in doubt for the match against the Socceroos with a hamstring strain. Hrustic resisted discussing the 34-year-old in any detail, diverting the focus back to his team’s preparations. “[Salah] has had a great career, he’s done a lot for Liverpool,” he said. “We respect every opponent, every player, but the focus is [on] us.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nHrustic scored a penalty for Eintracht Frankfurt in the 2022 Europa League final penalty shootout victory against Rangers, and said the team will be prepared if the match goes to a shootout. But the 29-year-old added it’s not up to him to give advice to his younger teammates. “I’ve missed against Cameroon [in a Socceroos friendly in March], it can happen,” he said. “I’ve done it on the big stage, missing penalties – it’s all part of learning, and I think you learn every day. It doesn’t matter how young or old you are, you’ve just got to be ready for that one moment.”\n\nThe match begins at 4am on Saturday along the Australian east coast. Hrustic predicted a long night for some fans. “Everyone will be out Friday night,” he said. “They’ll leave the club at 3am and be there for the game at 4am.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 16:28:15 EDT",
+  "lastUpdated": "2026-06-30 @ 19:14:30 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
