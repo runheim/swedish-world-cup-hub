@@ -12,12 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Kane will sign new Bayern deal - Tuesday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdjknmk894eo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts",
-      "link": "https://www.theguardian.com/football/2026/jun/29/brazil-japan-world-cup-2026-last-32-match-report"
+      "text": "⚽ ‘It’s going to be tough’: Declan Rice ready for DR Congo challenge in last 32",
+      "link": "https://www.theguardian.com/football/2026/jun/30/declan-rice-england-dr-congo-world-cup-2026"
     },
     {
       "text": "⚽ Fluency the key for Noni Madueke before England’s ‘difficult’ DR Congo test",
@@ -26,18 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Wimbledon order of play: Djokovic, Sinner, Sabalenka, Osaka in Wednesday action",
       "link": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more"
-    },
-    {
-      "text": "⚽ Merson: Bellingham's deeper role has given Tuchel midfield headache",
-      "link": "https://www.skysports.com/football/news/12040/13558843/paul-merson-jude-bellinghams-deeper-role-has-given-thomas-tuchel-midfield-headache-ahead-of-dr-congo-clash"
-    },
-    {
-      "text": "⚽ Why Tuchel should be worried about DR Congo's 'anti-England' formula",
-      "link": "https://www.skysports.com/football/news/12040/13558773/world-cup-2026-why-england-and-thomas-tuchel-should-be-worried-about-dr-congo-ahead-of-their-last-32-clash"
-    },
-    {
-      "text": "⚽ Who starts at RB and how to beat low block? England vs DR Congo talking points",
-      "link": "https://www.skysports.com/football/news/12040/13558788/england-vs-dr-congo-thomas-tuchel-battling-selection-dilemmas-fitness-issues-and-low-blocks-ahead-of-last-32-clash"
     }
   ],
   "timeline": {
@@ -15555,11 +15539,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2700_0",
+            "category": "england",
+            "type": "News",
+            "title": "Germany fans in need of hope as prospect of Klopp looms",
+            "bullets": [
+              "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.",
+            "fullText": "Klopp has been working as a pundit for German TV at the World Cup\n\nFor Germany fans the unthinkable has happened. Not only another early exit at a major tournament but a first World Cup penalty shootout loss.\n\nAs the dust settles the question every fan is asking is will the German Football Association take the plunge and sack head coach Julian Nagelsmann and bring in Jurgen Klopp.\n\nNagelsmann, the 38-year-old former Bayern Munich boss, refused to quit following Germany's painful last-32 defeat by Paraguay, saying \"I'm not someone who runs away\".\n\nBut the German fans are in need of hope and Nagelsmann simply cannot provide that at this moment.\n\nHe hasn't done himself any favours with the way he communicates in public â easily irritable and brash. Meanwhile charismatic Klopp, the former Liverpool and Borussia Dortmund boss, has been a star pundit on German TV during the World Cup, being his usual funny and charming self.\n\nFans know that you cannot simply replace 20 players, but you can replace the manager.\n\nThe end for Nagelsmann? Germany suffer their 'next football nightmare'\n\n'A joke' - how a 'terrible' VAR disallowed goal cost Germany\n\nParaguay stun Germany on penalties to reach last 16 of World Cup\n\nWhen Germany fans woke up on Tuesday morning, they surely felt embarrassed about what happened in Boston against Paraguay.\n\nSince their most recent World Cup success in 2014, Germany have twice failed to make it out of the group stage - in 2018 and 2022 - and lost in the first knockout match of the 2026 finals.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2700_1",
+            "category": "england",
+            "type": "News",
+            "title": "Pick Mainoo over Anderson against DR Congo - Rooney",
+            "bullets": [
+              "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.",
+            "fullText": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.\n\nMainoo has not won a competitive cap for England since September 2024, having dropped out of the United team under former manager Ruben Amorim.\n\nHowever, under Michael Carrick the 21-year-old won his place back for United - then England - and played in his country's past four friendlies, though failed to make it off the bench in the group games.\n\nAnderson, who isclose to joining Manchester Cityfrom Nottingham Forest for a club record Â£116m, started all three matches in Group L.\n\nRooney, while discussing the midfield he would pick onThe Wayne Rooney Show,said: \"I'd go with Declan Rice sitting, and I'd go with Mainoo and Jude Bellingham.\n\n\"Mainoo can give you a bit of both, but in tight areas, that's Mainoo's biggest strength - his feet in tight areas, and then he has got a little pass.\n\n\"I think he's the only one who is capable of doing that in those tight areas.\"\n\nThe game kicks off at 17:00 BST and is live on BBC One and BBC Radio 5 Live.\n\nFormer England striker Emile Heskey, speaking on the show, said he was surprised Tuchel turned to 36-year-old Brentford midfielder Jordan Henderson and not Mainoo for the closing stages of the 2-0 group win over Panama.\n\n\"I was surprised Jordan Henderson was in the squad,\" said Heskey. \"And to see out the game you bring on a 30-something-year-old and not a 20-something-year-old to do the same.\n\n\"He probably has three more tournaments ahead of him and can grow into the tournament. I'm not sure how I'd feel as Kobbie Mainoo.\"\n\nSpeaking about the Panama game, Rooney said: \"Against a team with a low block you can play Bellingham deeper. He's a player with intensity, desire and drive.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2700_2",
+            "category": "england",
+            "type": "News",
+            "title": "‘It’s going to be tough’: Declan Rice ready for DR Congo challenge in last 32",
+            "bullets": [
+              "England midfielder’s experience with Arsenal last season taught him the need to be patient against t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder’s experience with Arsenal last season taught him the need to be patient against teams unwilling to attackDeclan Rice is reflecting on the pivotal moment of his season so far, the one when plenty of people thought it was about to go wrong for him and Arsenal. It was a narrow and painful defeat for them at Manchester City in mid‑April, which meant the clubs were stride for stride with each other at the top of the Premier League. The momentum was with City. Were Arsenal about to blow it?The TV cameras picked out Rice on the Etihad Stadium pitch and, as he shook his head, he was easy to lipread. “It’s not done,” the England midfielder said. It was not. Arsenal won all of their remaining league games, finding a way through unbearable levels of tension. City did not and Arsenal were champions for the first time since 2004. “It could have gone either way,” Rice says with a smile. “That would have lived with me for ever.” Continue reading...",
+            "fullText": "England midfielder’s experience with Arsenal last season taught him the need to be patient against teams unwilling to attack\n\nDeclan Rice is reflecting on the pivotal moment of his season so far, the one when plenty of people thought it was about to go wrong for him and Arsenal. It was a narrow and painfuldefeat for them at Manchester Cityin mid‑April, which meant the clubs were stride for stride with each other at the top of the Premier League. The momentum was with City. Were Arsenal about to blow it?\n\nThe TV cameras picked out Rice on the Etihad Stadium pitch and, as he shook his head, he was easy to lipread. “It’s not done,” the England midfielder said. It was not. Arsenalwon all of their remainingleague games, finding a way through unbearable levels of tension. City did not and Arsenal were champions for the first time since 2004. “It could have gone either way,” Rice says with a smile. “That would have lived with me for ever.”\n\nIt was in the same territory as Steven Gerrard’s “We do not let this slip” comment from 2014 as Liverpool closed in on the title. Which was just before he and they did slip. Imagine the memes. “Exactly,” Rice says. “I’ve got enough of them. Luckily, it went the way I wanted it to be perceived, even though it was crazy how that all came about.”\n\nThe point, as Rice and England prepare to face the Democratic Republic of the Congo in the last 32 of theWorld Cupin Atlanta on Wednesday, is that things never run smoothly in the pursuit of rare achievement. There will be stress. There will be doubts and doubters. Fine margins. Moments when it is purely about resilience. Finding a way, no matter how.\n\nIt feels as if this is where England find themselves at the World Cup. Rice is a part of surely the most valuable midfield three in international history – or at least he will be when Elliot Anderson’s£116m transfer from Nottingham Forestto Manchester City goes through. Rice cost £105m when he went from West Ham to Arsenal in 2023. Jude Bellingham’s move from Borussia Dortmund to Real Madrid the same summer was valued at £88.5m; his price could reach £115m with add-ons. The trio are ready to cut loose, Rice says. All they need are opponents who want to press high and go man for man; to be proactive. But that did not happen in the second and thirdgroup matches against Ghanaand Panama respectively – certainly not against Ghana – and nobody in the England setup is expecting much different from the DRC.\n\nThere was an element of relief amongEnglandfans when it emerged that their team would play them rather than Senegal. Not only did Senegal beat England in a friendly last June in Nottingham, they also have a bigger reputation. But the DRC impressed during the group phase, when they held Portugal to a 1-1 draw and lost by the only goal against Colombia. They made things difficult for both nations before they beat Uzbekistan 3-1.\n\nThe DRC can call upon Premier League players such as Aaron Wan‑Bissaka, Axel Tuanzebe, Noah Sadiki and Yoane Wissa. England’s first do-or-die game of the tournament could be attritional. Rice will lean into his experiences with Arsenal because it will be a test of mentality.\n\n“There’s going to be moments where we have setbacks, where we have to get through,” he says. “It’s going to be tough and we need to be ready for everything that comes.”\n\nRice has to be sick of tightly packed defences. Arsenal have faced them routinely and their solutions have not always been easy on the eye. They have been criticised and there is a parallel with England. But as Rice discussed the themes of realism and sacrifice, he knows what it is to have the ultimate vindication.\n\n“It’s hard because when you play against low blocks you have a structure the manager wants you to play in,” he says. “And sometimes you have to do something for the good of the team, even though you feel like you don’t want to do it because you feel a bit stuck. You have to do it because it might help out a teammate.\n\n“When you look at the quality that we have across the whole squad, you would say: ‘Right, how are we not scoring four or five?’ But Ghana were incredibly well drilled and so were Panama. The boss [Thomas Tuchel] was saying they’re the same ranking as Wales and Serbia; they’re not terrible opposition. It’s down to us to break down these low blocks and to be patient.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2700_3",
+            "category": "england",
+            "type": "News",
+            "title": "Fluency the key for Noni Madueke before England’s ‘difficult’ DR Congo test",
+            "bullets": [
+              "Arsenal star says squad has practised penaltiesBukayo Saka provides ‘healthy competition’ for placeN...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal star says squad has practised penaltiesBukayo Saka provides ‘healthy competition’ for placeNoni Madueke has warned that England must not take the Democratic Republic of the Congo (DRC) lightly but expects a much more fluent attacking display than against Ghana during the group stages.England struggled to break down Carlos Queiroz’s side in the 0-0 draw in Boston last week and the DRC are expected to employ the same counterattacking style for the last-32 tie in Atlanta on Wednesday. Madueke started against Croatia and Ghana before losing his place to his Arsenal ­teammate Bukayo Saka for the win against Panama. Continue reading...",
+            "fullText": "Bukayo Saka provides ‘healthy competition’ for place\n\nNoni Madueke has warned thatEnglandmust not take the Democratic Republic of the Congo (DRC) lightly but expects a much more fluent attacking display than against Ghana during the group stages.\n\nEngland struggled to break down Carlos Queiroz’s side in the 0-0 draw in Boston last week and the DRC are expected to employ the same counterattacking style for the last-32 tie in Atlanta on Wednesday. Madueke started against Croatia and Ghana before losing his place to his Arsenal ­teammate Bukayo Saka for the win against Panama.\n\nSaka is expected to retain his spot on the right of England’s attack, with Djed Spence in line to start at right‑back because of the injuries sustained by Reece James and Jarell Quansah. But Madueke believes a DRC team that features several Premier League players, including Newcastle’s Yoane Wissa and Noah Sidiki of Sunderland, should not be underestimated.\n\nMadueke said: “I expect a difficult game for sure. When you get to this stage of theWorld Cup, you can’t take any opposition lightly. They will have their strengths and their qualities that they try to impose in the game. This game will definitely be difficult and we’ll be ready from the start.”\n\nAsked whether there was any concern that England may again struggle to break down a low block, he added: “It’s not just us. I feel like every team has difficulties with the opposition setting up 11 players in 30 metres of space. It’s not easy to break down. I think we’ve seen other top nations struggle as well. Spain, Portugal in the last game. It’s just part of football now.\n\n“Of course, when you play England, naturally you’re going to have a defensive approach because of the quality in our team. From our perspective, we have the same patterns and we’ll look to try and implement them a little bit better than we did in the last game versus Ghana, which probably will be similar to this one.”\n\nMadueke, who it is understood was due to take the sixth penalty in Arsenal’s shootout defeat against Paris Saint-Germain last month before the crucial miss from Gabriel Magalhães, has been practising spot-kicks with the rest of the squad. He said it would be crucial that England hold their nerve if the game on Wednesday were to go the distance.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“A lot of it is psychological,” he said. “How you strike the ball, depending on your run-up and whether you stop or whether you wait for the keeper, or whether you just pick a corner and look to strike it as cleanly as possible. All those things go into it.”\n\nAsked whether competing with Saka for club and country has made him a better player since joining Arsenal from Chelsea last ­summer, Madueke said: “I feel like you always have to be at the highest level because you know you have a top player ­waiting and ­biting at your heels to try and get in the team. I think that type of healthy competition is good. Playing for Arsenal and England, you don’t really need anyone else to keep you at the highest level.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2701_4",
+            "category": "england",
+            "type": "News",
+            "title": "Wimbledon order of play: Djokovic, Sinner, Sabalenka, Osaka in Wednesday action",
+            "bullets": [
+              "Take a look at Wednesday's singles Order of Play in the Wimbledon Championships at the All England C...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Take a look at Wednesday's singles Order of Play in the Wimbledon Championships at the All England Club.",
+            "fullText": "Wednesday's singles Order of Play in the Wimbledon Championships at the All England Club with Jannik Sinner, Novak Djokovic, Aryna Sabalenka, Naomi Osaka, Coco Gauff in action;watch ATP and WTA Tours live on Sky Sports Tennis, Sky Sports+, NOW and Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 13:06:38 EDT",
+  "lastUpdated": "2026-06-30 @ 16:27:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
