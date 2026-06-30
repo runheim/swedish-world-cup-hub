@@ -8320,11 +8320,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1023_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The high school that raised four national team players in the football World Cup",
+            "bullets": [
+              "Alexander Isak, Yasin Ayari, Gustaf Lagerbielke and Isak Hien. They all shared the same classroom an...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexander Isak, Yasin Ayari, Gustaf Lagerbielke and Isak Hien. They all shared the same classroom and sports hall at Solna high school. - Yes, right now we have four players in the national team and actually one in Bosnia as well, says Peter Wennberg, technical manager at AIK.",
+            "fullText": "Alexander Isak, Yasin Ayari, Gustaf Lagerbielke and Isak Hien. They all shared the same classroom and sports hall at Solna high school.\n\n- Yes, right now we have four players in the national team and actually one in Bosnia as well, says Peter Wennberg, technical manager at AIK.\n\nPeter Wennberg from AIK has run the collaboration with the high school since its inception in 2008. It took shape in a national sports education, which in turn produced several decisive players in this year's WC squad.\n\nWhen asked if he is proud, he has a perhaps slightly unexpected way of thinking.\n\n- I choose to look ahead, what is important tomorrow and how the next generation will develop. I have my eyes on the WC in eight years, he says.\n\nSeveral hundred football players have passed through during the course of the project. Now Peter Wennberg reveals what is most important to think about practicing. And what conditions can create a really good soccer player.\n\nCome along to Solna gymnasium in the video and hear what makes a sharp soccer player.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 01:38:38 EDT",
+  "lastUpdated": "2026-06-30 @ 09:10:23 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
