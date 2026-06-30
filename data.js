@@ -16,16 +16,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cdjknmk894eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Welsh football bosses reveal £150m cost to improve facilities",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crm0llg0zzzo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts",
       "link": "https://www.theguardian.com/football/2026/jun/29/brazil-japan-world-cup-2026-last-32-match-report"
     },
     {
       "text": "⚽ Fluency the key for Noni Madueke before England’s ‘difficult’ DR Congo test",
       "link": "https://www.theguardian.com/football/2026/jun/29/noni-madueke-england-democratic-republic-congo-world-cup-2026"
+    },
+    {
+      "text": "⚽ Wimbledon order of play: Djokovic, Sinner, Sabalenka, Osaka in Wednesday action",
+      "link": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more"
     },
     {
       "text": "⚽ Merson: Bellingham's deeper role has given Tuchel midfield headache",
@@ -36,8 +36,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.skysports.com/football/news/12040/13558773/world-cup-2026-why-england-and-thomas-tuchel-should-be-worried-about-dr-congo-ahead-of-their-last-32-clash"
     },
     {
-      "text": "⚽ England vs NZ player ratings: Archer impresses in Stokes' farewell Test",
-      "link": "https://www.skysports.com/cricket/news/12040/13558972/england-vs-new-zealand-third-test-player-ratings-jofra-archer-and-ben-duckett-impress-in-ben-stokes-farewell-test"
+      "text": "⚽ Who starts at RB and how to beat low block? England vs DR Congo talking points",
+      "link": "https://www.skysports.com/football/news/12040/13558788/england-vs-dr-congo-thomas-tuchel-battling-selection-dilemmas-fitness-issues-and-low-blocks-ahead-of-last-32-clash"
     }
   ],
   "timeline": {
@@ -15396,11 +15396,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0634_0",
+            "category": "england",
+            "type": "News",
+            "title": "Germany fans in need of hope as prospect of Klopp looms",
+            "bullets": [
+              "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.",
+            "fullText": "Klopp has been working as a pundit for German TV at the World Cup\n\nFor Germany fans the unthinkable has happened. Not only another early exit at a major tournament but a first World Cup penalty shootout loss.\n\nAs the dust settles the question every fan is asking is will the German Football Association take the plunge and sack head coach Julian Nagelsmann and bring in Jurgen Klopp.\n\nNagelsmann, the 38-year-old former Bayern Munich boss, refused to quit following Germany's painful last-32 defeat by Paraguay, saying \"I'm not someone who runs away\".\n\nBut the German fans are in need of hope and Nagelsmann simply cannot provide that at this moment.\n\nHe hasn't done himself any favours with the way he communicates in public â easily irritable and brash. Meanwhile charismatic Klopp, the former Liverpool and Borussia Dortmund boss, has been a star pundit on German TV during the World Cup, being his usual funny and charming self.\n\nFans know that you cannot simply replace 20 players, but you can replace the manager.\n\nThe end for Nagelsmann? Germany suffer their 'next football nightmare'\n\n'A joke' - how a 'terrible' VAR disallowed goal cost Germany\n\nParaguay stun Germany on penalties to reach last 16 of World Cup\n\nWhen Germany fans woke up on Tuesday morning, they surely felt embarrassed about what happened in Boston against Paraguay.\n\nSince their most recent World Cup success in 2014, Germany have twice failed to make it out of the group stage - in 2018 and 2022 - and lost in the first knockout match of the 2026 finals.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0634_1",
+            "category": "england",
+            "type": "News",
+            "title": "Pick Mainoo over Anderson against DR Congo - Rooney",
+            "bullets": [
+              "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.",
+            "fullText": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.\n\nMainoo has not won a competitive cap for England since September 2024, having dropped out of the United team under former manager Ruben Amorim.\n\nHowever, under Michael Carrick the 21-year-old won his place back for United - then England - and played in his country's past four friendlies, though failed to make it off the bench in the group games.\n\nAnderson, who isclose to joining Manchester Cityfrom Nottingham Forest for a club record Â£116m, started all three matches in Group L.\n\nRooney, while discussing the midfield he would pick onThe Wayne Rooney Show,said: \"I'd go with Declan Rice sitting, and I'd go with Mainoo and Jude Bellingham.\n\n\"Mainoo can give you a bit of both, but in tight areas, that's Mainoo's biggest strength - his feet in tight areas, and then he has got a little pass.\n\n\"I think he's the only one who is capable of doing that in those tight areas.\"\n\nThe game kicks off at 17:00 BST and is live on BBC One and BBC Radio 5 Live.\n\nFormer England striker Emile Heskey, speaking on the show, said he was surprised Tuchel turned to 36-year-old Brentford midfielder Jordan Henderson and not Mainoo for the closing stages of the 2-0 group win over Panama.\n\n\"I was surprised Jordan Henderson was in the squad,\" said Heskey. \"And to see out the game you bring on a 30-something-year-old and not a 20-something-year-old to do the same.\n\n\"He probably has three more tournaments ahead of him and can grow into the tournament. I'm not sure how I'd feel as Kobbie Mainoo.\"\n\nSpeaking about the Panama game, Rooney said: \"Against a team with a low block you can play Bellingham deeper. He's a player with intensity, desire and drive.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0634_2",
+            "category": "england",
+            "type": "News",
+            "title": "Kane will sign new Bayern deal - Tuesday's gossip",
+            "bullets": [
+              "Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild and Dortmund's...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane will extend his Bayern Munich contract, Manchester City plan major rebuild and Dortmund's Felix Nmecha prefers Manchester United to Newcastle.",
+            "fullText": "Harry Kane will extend his Bayern Munich contract,Manchester Cityplan major rebuild and Dortmund's Felix Nmecha prefersManchester UnitedtoNewcastle.\n\nEngland captain Harry Kane, 32, will sign a new contract atBayern Munichdespite interest fromBarcelona.(Athletic - subscription required),external\n\nThe appointment of Enzo Maresca as boss atManchester Citycould lead to a major rebuild with England full-back Rico Lewis, 21, Netherlands defender Nathan Ake, 31, Spanish midfielder Nico Gonzalez, 24, Portugal defender Ruben Dias, 29, and Brazil winger Savinho, 22, all potentially up for sale.(Mail),external\n\nManchester Cityare ready to hijackTottenham'smove forNewcastleand Italy midfielder Sandro Tonali, 26, despite having already agreed to sign 23-year-old England midfielder Elliot Anderson fromNottingham Forest.(Marca - in Spanish),external\n\nAC Milanare ready to bid Â£21.5m for England midfielder Mason Mount, 27, butManchester Uniteddo not want to sell him.(Mail),external\n\nBorussia Dortmund'sGermany midfielder Felix Nmecha, 25, is ready to reject a move fromNewcastlehe prefers a switch toManchester United.(Bild via Sport Witness),external\n\nBayern Munichwinger Michael Olise is aware that several clubs, includingReal MadridandParis St-Germain,are keeping an eye on his performances for France at the World Cup, with the 24-year-old set to meet with the German side after the tournament to discuss his future.(AS - in Spanish),external\n\nRB Leipzigsay Ivory Coast winger Yan Diomande will remain at the club next season despite the 19-year-old reportedly choosingParis St-Germainas his next destination.(Florian Plettenberg),external\n\nLeicester Citycould lose multiple players this summer withWest Ham,CoventryandBesiktasbattling for the signature of 22-year-old Ghana winger Abdul Fatawu. Meanwhile,Wrexhamare considering a move for Australian centre-back Harry Souttar, 27, and English midfielder Oliver Skipp, 25, is attracting attention fromMiddlesbrough.(Daily Mail),external\n\nLeicester'sZambian striker Patson Daka, 27, and English midfielder Harry Winks, 30, are linked with exits to Spanish sideReal Betisand Italian clubCagliari,respectively. Portuguese defender Ricardo Pereira, 32, and Ghanaian striker Jordan Ayew, 34, are also both out of contract.(Daily Mail),external\n\nMiddlesbroughface losing 28-year-old English centre-back Dael Fry, who is out of contract this summer and drawing interest fromWest HamandBlackburn.(Teesside Live),external\n\nPortsmouthare considering lodging a bid forHull City'sEnglish winger Abu Kamara, 22.(Hull Daily Mail),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0634_3",
+            "category": "england",
+            "type": "News",
+            "title": "Brazil into last 16 as Martinelli strikes in stoppage time to break Japan hearts",
+            "bullets": [
+              "Not for the first time in this tournament, there were long periods when Brazil did not impress. And ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Not for the first time in this tournament, there were long periods when Brazil did not impress. And not for the first time in this tournament, they got away with it. It may be inexplicable but the Carlo Ancelotti method that worked at Real Madrid is working again: stay in games and eventually either opponents will make a mistake or brilliant players will do something&nbsp;brilliant.Brazil were 1-0 down at half-time and struggling. Their earliest exit form a World Cup seemed entirely possible. Five players in the Brazil starting lineup were aged over 30, five of the six defensive players – and they looked it. Japan were quicker, slicker, sharper and more imaginative. But the introduction of Endrick and a change of shape and approach at half-time changed everything. Brazil started slinging crosses into the box and Japan wobbled. Casemiro, barely a pedestrian in the first half, headed the equaliser and, deep into stoppage time, Gabriel Martinelli squeezed in the winner. Continue reading...",
+            "fullText": "Not for the first time in this tournament, there were long periods whenBrazildid not impress. And not for the first time in this tournament, they got away with it. It may be inexplicable but the Carlo Ancelotti method that worked at Real Madrid is working again: stay in games and eventually either opponents will make a mistake or brilliant players will do something brilliant.\n\nBrazil were 1-0 down at half-time and struggling. Their earliest exit form aWorld Cupseemed entirely possible. Five players in the Brazil starting lineup were aged over 30, five of the six defensive players – and they looked it. Japan were quicker, slicker, sharper and more imaginative. But the introduction of Endrick and a change of shape and approach at half-time changed everything. Brazil started slinging crosses into the box and Japan wobbled. Casemiro, barely a pedestrian in the first half, headed the equaliser and, deep into stoppage time, Gabriel Martinelli squeezed in the winner.\n\nJapan had never won a World Cup knockout match, something that their manager, Hajime Moriyasu acknowledged has become a psychological issue, so much so that his insistence before the tournament thatJapanshould be thinking of winning it was seen by many as an attempt to shock them over that issue. They still haven’t, but this is surely the best they have ever performed at a World Cup.\n\nAnd this was against Brazil, the only team to have appeared in every World Cup, the most successful side in the competition’s history. They had never failed to make the last 16, and had only twice failed to be ranked in the top eight at a tournament.\n\nBut to say Japan froze in that second half, that they tightened up with the line in sight, would be unfair. They just found themselves facing a side whose manager had worked them out. It may have been a fifth World Cup exit in the first knockout round, and they may have won only one game at the tournament, but this is clearly a very gifted Japan side even with the injuries to three of their most effective creators. There is no shame in losing a hard-fought knockout tie against another high-class side, no matter the round.\n\nHaving taken the game to Tunisia and Sweden, this was more like theJapan that played the Netherlands, content to sit deep and absorb, pressing in staccato bursts. Out of possession Japan were extremely compact, with Vinícius Júnior barely involved, testament to the work done by the right-sided centre-back Takehiro Tomiyasu and the right wing-back Ritsu Doan to shut down the channel in which he likes to operate.\n\nIn the first half, the plan worked. Brazil had all the early possession but, beyond a low shot from Matheus Cunha that was pushed wide by Zion Suzuki, they struggled to create clear opportunities and the longer the first half went on, the more Japan threatened. Ayase Ueda headed a corner just over and then, with 29 minutes played, came the goal. Danilo’s attempt to work the ball to the left was intercepted by Kaishu Sano, who surged past Casemiro, an earlier booking perhaps making him wary, and fired a low shot into the corner from just outside the box.\n\nBut Ancelotti made his changes and completely transformed the game. The introduction of Endrick and a switch to 4-2-3-1 brought a Brazilian surge, based largely around crosses. A Bruno Guimarães header drew a fine save. Casemiro had an effort cleared off the line that almost cannoned back in off Suzuki. But the equaliser was coming and it arrived after 56 minutes as Casemiro powered in Gabriel Magalhães’s chip with a meaty header. Vinícius shimmied in from the left but was denied as Suzuki deflected his flicked shot on to the post with his left hand.\n\nKick off your evenings with the Guardian's take on the world of football\n\nMoriyasu reacted by changing his two wingbacks and the flow of chances was staunched, at least to an extent. The threat they had offered in the first half, though, was gone. The winner seemed only a matter of time and sure enough it arrived in the 95th minute. Ao Tanaka was dispossessed on the edge of his own box and, when the ball was worked across the area, Guimarães had the composure to wait and lay the ball left for Martinelli.\n\nBrazil are through and will face the winners of Tuesday’s match between Côte d’Ivoire and Norway. Again, it feels, there are questions to answer. The first half display exposed all their weaknesses, especially in midfield. But the second-half transformation was profound and, once they hit their rhythm, there is no doubting their attacking quality.\n\nThe temptation is to think that they cannot keep doing this, that they cannot keep flirting with danger. But Ancelotti’s Madrid used to, and they kept winning the Champions League. Perhaps a sixth World Cup really is on.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0634_4",
+            "category": "england",
+            "type": "News",
+            "title": "Fluency the key for Noni Madueke before England’s ‘difficult’ DR Congo test",
+            "bullets": [
+              "Arsenal star says squad has practised penaltiesBukayo Saka provides ‘healthy competition’ for placeN...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal star says squad has practised penaltiesBukayo Saka provides ‘healthy competition’ for placeNoni Madueke has warned that England must not take the Democratic Republic of the Congo (DRC) lightly but expects a much more fluent attacking display than against Ghana during the group stages.England struggled to break down Carlos Queiroz’s side in the 0-0 draw in Boston last week and the DRC are expected to employ the same counterattacking style for the last-32 tie in Atlanta on Wednesday. Madueke started against Croatia and Ghana before losing his place to his Arsenal ­teammate Bukayo Saka for the win against Panama. Continue reading...",
+            "fullText": "Bukayo Saka provides ‘healthy competition’ for place\n\nNoni Madueke has warned thatEnglandmust not take the Democratic Republic of the Congo (DRC) lightly but expects a much more fluent attacking display than against Ghana during the group stages.\n\nEngland struggled to break down Carlos Queiroz’s side in the 0-0 draw in Boston last week and the DRC are expected to employ the same counterattacking style for the last-32 tie in Atlanta on Wednesday. Madueke started against Croatia and Ghana before losing his place to his Arsenal ­teammate Bukayo Saka for the win against Panama.\n\nSaka is expected to retain his spot on the right of England’s attack, with Djed Spence in line to start at right‑back because of the injuries sustained by Reece James and Jarell Quansah. But Madueke believes a DRC team that features several Premier League players, including Newcastle’s Yoane Wissa and Noah Sidiki of Sunderland, should not be underestimated.\n\nMadueke said: “I expect a difficult game for sure. When you get to this stage of theWorld Cup, you can’t take any opposition lightly. They will have their strengths and their qualities that they try to impose in the game. This game will definitely be difficult and we’ll be ready from the start.”\n\nAsked whether there was any concern that England may again struggle to break down a low block, he added: “It’s not just us. I feel like every team has difficulties with the opposition setting up 11 players in 30 metres of space. It’s not easy to break down. I think we’ve seen other top nations struggle as well. Spain, Portugal in the last game. It’s just part of football now.\n\n“Of course, when you play England, naturally you’re going to have a defensive approach because of the quality in our team. From our perspective, we have the same patterns and we’ll look to try and implement them a little bit better than we did in the last game versus Ghana, which probably will be similar to this one.”\n\nMadueke, who it is understood was due to take the sixth penalty in Arsenal’s shootout defeat against Paris Saint-Germain last month before the crucial miss from Gabriel Magalhães, has been practising spot-kicks with the rest of the squad. He said it would be crucial that England hold their nerve if the game on Wednesday were to go the distance.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“A lot of it is psychological,” he said. “How you strike the ball, depending on your run-up and whether you stop or whether you wait for the keeper, or whether you just pick a corner and look to strike it as cleanly as possible. All those things go into it.”\n\nAsked whether competing with Saka for club and country has made him a better player since joining Arsenal from Chelsea last ­summer, Madueke said: “I feel like you always have to be at the highest level because you know you have a top player ­waiting and ­biting at your heels to try and get in the team. I think that type of healthy competition is good. Playing for Arsenal and England, you don’t really need anyone else to keep you at the highest level.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0635_5",
+            "category": "england",
+            "type": "News",
+            "title": "Wimbledon order of play: Djokovic, Sinner, Sabalenka, Osaka in Wednesday action",
+            "bullets": [
+              "Take a look at Wednesday's singles Order of Play in the Wimbledon Championships at the All England C...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Take a look at Wednesday's singles Order of Play in the Wimbledon Championships at the All England Club.",
+            "fullText": "Wednesday's singles Order of Play in the Wimbledon Championships at the All England Club with Jannik Sinner, Novak Djokovic, Aryna Sabalenka, Naomi Osaka, Coco Gauff in action;watch ATP and WTA Tours live on Sky Sports Tennis, Sky Sports+, NOW and Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0635_6",
+            "category": "england",
+            "type": "News",
+            "title": "Merson: Bellingham's deeper role has given Tuchel midfield headache",
+            "bullets": [
+              "Paul Merson thinks England boss Thomas Tuchel has a bit of a midfield headache after Jude Bellingham...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Paul Merson thinks England boss Thomas Tuchel has a bit of a midfield headache after Jude Bellingham's excellent performance in a deeper role in the 2-0 win over Panama.",
+            "fullText": "Sky Sports' Paul Merson: \"Thomas Tuchel now has a major problem after Jude Bellingham's performance in a deeper role against Panama. Bellingham really impressed, but that is where Declan Rice plays, and if fit, he plays. When we come up against the bigger teams, you'll need Rice\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0636_7",
+            "category": "england",
+            "type": "News",
+            "title": "Why Tuchel should be worried about DR Congo's 'anti-England' formula",
+            "bullets": [
+              "If you're looking for a dark horse in the knockout stages, don't look for one in DR Congo. Look for ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "If you're looking for a dark horse in the knockout stages, don't look for one in DR Congo. Look for a Leopard - patient, relentless, and ready to pounce when it matters most.",
+            "fullText": "DR Congo will take on England in the nation's first-ever taste of knockout football at the World Cup; Nicknamed the Leopards, the side with some familiar faces could pose a real problem for Thomas Tuchel's England",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0636_8",
+            "category": "england",
+            "type": "News",
+            "title": "Who starts at RB and how to beat low block? England vs DR Congo talking points",
+            "bullets": [
+              "England face DR Congo in the last 32 of the World Cup with several key issues for Thomas Tuchel ahea...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England face DR Congo in the last 32 of the World Cup with several key issues for Thomas Tuchel ahead of his first knockout game as boss.",
+            "fullText": "Sky Sports'team of writers analyse the key talking points as England approach Thomas Tuchel's first knockout game as Three Lions boss; England face DR Congo in the last 32 in Atlanta; the right-back dilemma, fitness issues and who starts out wide are all discussed...",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 09:01:33 EDT",
+  "lastUpdated": "2026-06-30 @ 13:06:38 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
