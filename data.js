@@ -12,8 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ ‘It’s going to be tough’: Declan Rice ready for DR Congo challenge in last 32",
-      "link": "https://www.theguardian.com/football/2026/jun/30/declan-rice-england-dr-congo-world-cup-2026"
+      "text": "⚽ Will Sooryavanshi play for India vs England in summer T20 series?",
+      "link": "https://www.skysports.com/cricket/news/12040/13558823/vaibhav-sooryavanshi-why-15-year-old-batter-was-impossible-to-ignore-for-india-and-will-he-play-against-england-in-summer-t20-series"
     }
   ],
   "timeline": {
@@ -15680,10 +15680,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-01": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5642_0",
+            "category": "england",
+            "type": "News",
+            "title": "Germany fans in need of hope as prospect of Klopp looms",
+            "bullets": [
+              "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As Germany again fail to progress at a World Cup BBC Sport looks at the fallout from their defeat by Paraguay and what happens next.",
+            "fullText": "Klopp has been working as a pundit for German TV at the World Cup\n\nFor Germany fans the unthinkable has happened. Not only another early exit at a major tournament but a first World Cup penalty shootout loss.\n\nAs the dust settles the question every fan is asking is will the German Football Association take the plunge and sack head coach Julian Nagelsmann and bring in Jurgen Klopp.\n\nNagelsmann, the 38-year-old former Bayern Munich boss, refused to quit following Germany's painful last-32 defeat by Paraguay, saying \"I'm not someone who runs away\".\n\nBut the German fans are in need of hope and Nagelsmann simply cannot provide that at this moment.\n\nHe hasn't done himself any favours with the way he communicates in public â easily irritable and brash. Meanwhile charismatic Klopp, the former Liverpool and Borussia Dortmund boss, has been a star pundit on German TV during the World Cup, being his usual funny and charming self.\n\nFans know that you cannot simply replace 20 players, but you can replace the manager.\n\nThe end for Nagelsmann? Germany suffer their 'next football nightmare'\n\n'A joke' - how a 'terrible' VAR disallowed goal cost Germany\n\nParaguay stun Germany on penalties to reach last 16 of World Cup\n\nWhen Germany fans woke up on Tuesday morning, they surely felt embarrassed about what happened in Boston against Paraguay.\n\nSince their most recent World Cup success in 2014, Germany have twice failed to make it out of the group stage - in 2018 and 2022 - and lost in the first knockout match of the 2026 finals.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5642_1",
+            "category": "england",
+            "type": "News",
+            "title": "Pick Mainoo over Anderson against DR Congo - Rooney",
+            "bullets": [
+              "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.",
+            "fullText": "Former England captain Wayne Rooney says he would start Manchester United midfielder Kobbie Mainoo instead of Elliot Anderson in Wednesday's World Cup last-32 tie with DR Congo.\n\nMainoo has not won a competitive cap for England since September 2024, having dropped out of the United team under former manager Ruben Amorim.\n\nHowever, under Michael Carrick the 21-year-old won his place back for United - then England - and played in his country's past four friendlies, though failed to make it off the bench in the group games.\n\nAnderson, who isclose to joining Manchester Cityfrom Nottingham Forest for a club record Â£116m, started all three matches in Group L.\n\nRooney, while discussing the midfield he would pick onThe Wayne Rooney Show,said: \"I'd go with Declan Rice sitting, and I'd go with Mainoo and Jude Bellingham.\n\n\"Mainoo can give you a bit of both, but in tight areas, that's Mainoo's biggest strength - his feet in tight areas, and then he has got a little pass.\n\n\"I think he's the only one who is capable of doing that in those tight areas.\"\n\nThe game kicks off at 17:00 BST and is live on BBC One and BBC Radio 5 Live.\n\nFormer England striker Emile Heskey, speaking on the show, said he was surprised Tuchel turned to 36-year-old Brentford midfielder Jordan Henderson and not Mainoo for the closing stages of the 2-0 group win over Panama.\n\n\"I was surprised Jordan Henderson was in the squad,\" said Heskey. \"And to see out the game you bring on a 30-something-year-old and not a 20-something-year-old to do the same.\n\n\"He probably has three more tournaments ahead of him and can grow into the tournament. I'm not sure how I'd feel as Kobbie Mainoo.\"\n\nSpeaking about the Panama game, Rooney said: \"Against a team with a low block you can play Bellingham deeper. He's a player with intensity, desire and drive.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5642_2",
+            "category": "england",
+            "type": "News",
+            "title": "Will Sooryavanshi play for India vs England in summer T20 series?",
+            "bullets": [
+              "Teenage cricket sensation Vaibhav Sooryavanshi continues to leave fans around the world astounded by...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Teenage cricket sensation Vaibhav Sooryavanshi continues to leave fans around the world astounded by his incredible feats, and after India left him out of their series against Ireland and promptly lost, the focus now is on whether he will get his shot against England.",
+            "fullText": "15-year-old Vaibhav Sooryavanshi was not selected to face Ireland and India suffered a series loss; Question remains whether he will be selected to face England;England take on India in a five match T20I series starting on Wednesday July 1, live on Sky Sports from 5.30pm",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 19:13:51 EDT",
+  "lastUpdated": "2026-07-01 @ 01:56:47 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
