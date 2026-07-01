@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ How USMNT prepare for World Cup penalty drama: confidence, composure and consultants",
-      "link": "https://www.theguardian.com/football/2026/jun/30/usmnt-penalty-kicks-mauricio-pochettino-world-cup"
+      "text": "⚽ The USMNT’s quest for World Cup glory is currency in the attention economy",
+      "link": "https://www.theguardian.com/football/2026/jul/01/usmnt-bosnia-herzegovina-soccer-popularity"
     }
   ],
   "timeline": {
@@ -4506,11 +4506,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3212_0",
+            "category": "usa",
+            "type": "News",
+            "title": "The USMNT’s quest for World Cup glory is currency in the attention economy",
+            "bullets": [
+              "In Wednesday’s last-32 match, the US team have more than just a chance to win against Bosnia and Her...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In Wednesday’s last-32 match, the US team have more than just a chance to win against Bosnia and Herzegovina. They’re playing to win over their countryIt took Mauricio Pochettino a little while to understand that he had accepted an innately vibes-based job.If club soccer boils down to managers exerting control and fitting their players into an intricate system, buttressed by cutting-edge tactics, ultra-modern analytics and first-in-class sports science, international soccer demands a different job entirely. And it tends to take long-time club coaches who are managing in the international game for the first time a bit to catch on to the difference. Continue reading...",
+            "fullText": "In Wednesday’s last-32 match, the US team have more than just a chance to win against Bosnia and Herzegovina. They’re playing to win over their country\n\nIt took Mauricio Pochettino a little while to understand that he had accepted an innately vibes-based job.\n\nIf club soccer boils down to managers exerting control and fitting their players into an intricate system, buttressed by cutting-edge tactics, ultra-modern analytics and first-in-class sports science, international soccer demands a different job entirely. And it tends to take long-time club coaches who are managing in the international game for the first time a bit to catch on to the difference.\n\nNamely, that their new job description boils down to finding a simple tactical setup that fits a plurality of their best players, working out who plays well together and keeping their charges happy and healthy. Also: feisty.\n\nIn the US men’s national team job, however, there is a second priority: keeping the country interested.\n\nOn the first count, Pochettino diagnosed the vibes deficiency in the USMNT about six months into the job. That’s when the US faceplanted in the 2025 Nations League finals with a pair of losses to Panama and Canada.\n\nPochettino’s predecessor, Gregg Berhalter, had been told the year before by his senior players on the way to a humiliating group-stage exit at the 2024 CopaAmérica that they desired more intensity from their coach. Berhalter would later admit that he’d let his squads get stale and relied on the same players too much, even when they weren’t performing.\n\nWhat Pochettino surmised after the Nations League was that he had to push his players to rediscover that intensity within themselves.\n\n“Being honest, maybe we didn’t feel or see [how] difficult the process [would be] … We were so naive,” Pochettinotold reporters last week. “We misjudged the situation. It was worse than we really believed. … When we arrived here, we received a big bang, punch, and we were knocked out for a while. We said: ‘What the fuck?’”\n\nSo he spent the last year deconstructing and rebuilding a team that wound up being largely the same, but with its stars reawakened to the possibility of losing their places. And with everyone involved reenergized with an unrelenting eagerness “to fight”, as Pochettino likes to call it. Only then could he set about molding his players into a collective that could play Pochettino Soccer: pressing high and hard, haring forward in quick transitions, suffocating opponents with their energy, with their fight.\n\nWhich brings us back to the other task: the country.\n\nWe are a distractible people in a nation with endless stimuli, pinging between potential dopamine hits available absolutely everywhere you look. No culture in history has created so much content – never mind that most of it is dross. And without an inbuilt fixation on this team, the way the national elevens of so many other nations can count on, they must win the race for relevance anew every day.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-01 @ 01:57:15 EDT",
+  "lastUpdated": "2026-07-01 @ 09:32:34 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
