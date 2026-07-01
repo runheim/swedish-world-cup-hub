@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Should England have been awarded a penalty?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx23dzznk0go?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Time for Tuchel to show hand as England enter World Cup danger zone",
       "link": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,11 +20,15 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: England v DR Congo buildup, Bielsa departs, France dazzle and more – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live"
+      "text": "⚽ England v DR Congo: World Cup 2026 last 32 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/01/england-v-dr-congo-world-cup-2026-last-32-live"
     },
     {
-      "text": "⚽ Wimbledon Day Three LIVE! Sinner, Sabalenka in action after Osaka impresses",
+      "text": "⚽ Abhishek hammers 20-ball fifty for India in first T20I vs England LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13559491/england-vs-india-first-t20i-live-score-updates-video-and-analysis-from-first-of-five-match-series-in-durham"
+    },
+    {
+      "text": "⚽ Wimbledon Day Three LIVE! Gauff battles through after Sinner, Osaka impress",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13559251/wimbledon-day-three-live-scores-updates-news-results-with-jannik-sinner-novak-djokovic-aryna-sabalenka-coco-gauff-naomi-osaka-in-action"
     }
   ],
@@ -15837,11 +15845,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1422_0",
+            "category": "england",
+            "type": "News",
+            "title": "Should England have been awarded a penalty?",
+            "bullets": [
+              "England's appeals for a penalty are waved away after DR Congo goalkeeper Lionel Mpasi appears to bri...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's appeals for a penalty are waved away after DR Congo goalkeeper Lionel Mpasi appears to bring down England's Harry Kane.",
+            "fullText": "England's appeals for a penalty are waved away after DR Congo goalkeeper Lionel Mpasi appears to bring down England's Harry Kane.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1422_1",
+            "category": "england",
+            "type": "News",
+            "title": "Time for Tuchel to show hand as England enter World Cup danger zone",
+            "bullets": [
+              "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
+            "fullText": "England head coach Thomas Tuchel still has questions to answer as they start the World Cup group stage against DR Congo in Atlanta\n\nEngland head coach Thomas Tuchel describes the World Cup knockout stage as \"the third chapter\" in a story he hopes will end in the glory of a historic triumph.\n\nTuchel explained that phase one of his stated mission to bring the trophy to England for the first time since 1966 was the preparation training camp in Miami, followed by qualification for the last 32 by topping Group L.\n\n\"Chapter Two\" was satisfactory rather than gripping, with wins against Croatia and Panama either side of a dismal goalless draw with Ghana.\n\nEngland have now entered dangerous territory where one slip or one below-par performance can bring Tuchel's tale to a painful end.\n\nThey face DR Congo in Atlanta on Wednesday (17:00 BST), live on BBC TV, with warning signs already posted to the bigger nations that this is becoming the World Cup of shocks.\n\nTuchel's players will at least be spared this city's brutal heat and stifling humidity by the closed roof and temperature control inside the space-age $1.6bn (Â£1.2bn) Atlanta Stadium.\n\nEngland's World Cup quest has so far been a case of \"job done\" - but now it all goes on the line in the sudden-death environment of knockout games.\n\nBigger than Rumble in the Jungle? DR Congo bid for World Cup history\n\nListen: Thomas Tuchel & Jordan Pickford ahead of England v DR Congo\n\nThomas Tuchel responds to criticism of recent performances\n\nTuchel's team selections have been a mixture of tactical tinkering, working around injuries and managing minutes, as well as devising the formulas for England's progress.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1422_2",
+            "category": "england",
+            "type": "News",
+            "title": "Pick your England XI to face DR Congo at World Cup",
+            "bullets": [
+              "Who should start for England against DR Congo in their last-32 tie? It's time to put yourself in Tho...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should start for England against DR Congo in their last-32 tie? It's time to put yourself in Thomas Tuchel's shoes.",
+            "fullText": "Declan Rice is expected to start against DR Congo, according to BBC Sport senior football correspondent Sami Mokbel\n\nIf Declan Rice starts as expected against DR Congo in the last-32 tie, who should drop out from the win against Panama?\n\nWould you continue with Marcus Rashford and Bukayo Saka out wide? Ensure Morgan Rogers keeps his place? And who should play right-back?\n\nUse our selector below to choose your Three Lions starting XI.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1422_3",
+            "category": "england",
+            "type": "News",
+            "title": "Quiz: Name every team England have played in World Cup knockouts",
+            "bullets": [
+              "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifte...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ever faced in the knockouts?",
+            "fullText": "Since England's sole World Cup victory in 1966 they have had a mixed record in the tournament's knockout stages.\n\nBoss Thomas Tuchel will hope to replicate the famous side that lifted the Jules Rimet trophy at Wembley 60 years ago, but they will face stiff competition throughout this summer's tournament.\n\nHow many previous sides can you name that the Three Lions have faced in World Cup knockouts?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWorld Cup quiz: Name every player in England's squad\n\nWorld Cup quiz: Name every player in Scotland's squad",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1423_4",
+            "category": "england",
+            "type": "News",
+            "title": "England v DR Congo: World Cup 2026 last 32 – live",
+            "bullets": [
+              "⚽️ Kick-off time: 12pm local/5pm BST/1am AEST⚽️ Player guide | Bracketology | Top scorers | Gallery ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Kick-off time: 12pm local/5pm BST/1am AEST⚽️ Player guide | Bracketology | Top scorers | Gallery | Mail inThe DRC make one change following the 3-1 win over Uzbekistan. Striker Cédric Bakambu makes way for an extra midfielder in Ngal’ayel Mukau. There are plenty of stars familiar to fans of British football in the team: Aaron Wan-Bissaka (West Ham), Axel Tuanzebe (Burnley), Noah Sadiki (Sunderland) and Yoane Wissa (Newcastle) start, while Aaron Tshibola (Kilmarnock) and Edo Kayembe (Watford) are on the bench.No surprises in the England starting XI. Especially if you’ve just read that communiqué from Jacob Steinberg. Thomas Tuchel makes three changes to his starting XI after the 2-0 win over Panama. Djed Spence replaces the injured Jarell Quansah at the problem position of right-back. Declan Rice returns at the expense of Morgan Rogers. And Noni Madueke starts on the right wing again, displacing his Arsenal colleague Bukayo Saka. Continue reading...",
+            "fullText": "49 min:O’Reilly wins a corner down the left. Rice wanders across to take. Once again he delivers long, and Bellingham prepares to head home at the far stick. But Masuaku is on point to head behind. Another Rice corner coming up, this time from the right.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1423_5",
+            "category": "england",
+            "type": "News",
+            "title": "Abhishek hammers 20-ball fifty for India in first T20I vs England LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "Harry Brook captains England in the first T20 international of the five-match series against India in Durham; could 15-year-old future star Vaibhav Sooryavanshi be in line for his international debut? Watch live coverage on Sky Sports Cricket",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1424_6",
+            "category": "england",
+            "type": "News",
+            "title": "Wimbledon Day Three LIVE! Gauff battles through after Sinner, Osaka impress",
+            "bullets": [
+              "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch ATP and WTA action live on Sky Sports' dedicated tennis channel",
+            "fullText": "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch ATP and WTA action live on Sky Sports' dedicated tennis channel",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-01 @ 09:30:33 EDT",
+  "lastUpdated": "2026-07-01 @ 13:14:31 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
