@@ -8960,11 +8960,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0605_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter defends Alexander Isak after the criticism: \"Unfair\"",
+            "bullets": [
+              "Alexander Isak received criticism after the losing match against France. Now he is taken in defense ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexander Isak received criticism after the losing match against France. Now he is taken in defense by national team captain Graham Potter. - Coming up with individual criticism is unfair, he says.",
+            "fullText": "Alexander Isak received criticism after the losing match against France. Now he is being defended by national team captain Graham Potter. - Coming up with individual criticism is unfair, he says.\n\nDuring the World Cup, Zlatan Ibrahimovic is an expert on the American television channel Fox and shares a studio with the legendary Thierry Henry.\n\nOn the corner variation where France scored 1–0, Ibrahimovic thought that Alexander Isak should have defended better.\n\nIsak has also been criticized for not creating much going forward, neither against France nor in the games before that.\n\nBut Isak was defended by national team captain Graham Potter at a press conference the day after Sweden's World Cup exit.\n\n- When you lose, it's easy to point at players, that they should be able to do this and that. But we face top teams who don't make it easy for us.\n\n- Making individual criticisms here is unfair, because as a collective we were not as good as France.\n\nPotter received some criticism before the WC because he left several talented young players out of the squad, for example Roony Bardghji and Hugo Larsson. That criticism has remained even during the World Cup, when some wondered if Larsson in particular could not have been good to have in the squad. But Potter says he wouldn't have done anything differently in hindsight.\n\n- No, I don't think so. It's not something I would have changed, he says, and elaborates a little later:\n\n- Regarding the squad and how they came together, I'm really happy with everything. But it is clear that the squad can change and there is a new season ahead and it will be exciting to see what happens.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0607_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Nasa's crazy promise: Will send ball to the moon if USA wins World Cup gold",
+            "bullets": [
+              "Nasa chief Jared Isaacman promises to send a football to the moon - if the USA wins the World Cup. -...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nasa chief Jared Isaacman promises to send a football to the moon - if the USA wins the World Cup. - The challenge is thus given: Team USA, now it's about getting the job done, says Isaacman.",
+            "fullText": "Nasa chief Jared Isaacman promises to send a soccer ball to the moon - if the USA wins the World Cup. - The challenge is thus given: Team USA, now it's time to get the job done, says Isaacman.\n\nNasa has already sent an official ball to the International Space Station (ISS) due to the USA sharing the hosting of the World Cup with Mexico and Canada this year.\n\nBut should the Americans succeed in winning the championship, Isaacman promises to send a soccer ball further into space than ever before.\n\nIsaacman is supported by NASA's program manager for the lunar base, Carlos Garcia-Galan.\n\n- If the USA wins the WC, we will probably find a place for it, he says.\n\nThe USA will play in the Round of 16 against Bosnia-Herzegovina at 02:00 on Thursday night.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0609_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Tired football fans from 1994 went viral - now Jimmy is fed up again",
+            "bullets": [
+              "You know the feeling after staying up all night to watch a game? This is exactly what it looked like...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "You know the feeling after staying up all night to watch a game? This is exactly what it looked like during the World Cup in 1994. An old SVT clip with sleepy football fans has been given new life and is now spreading everywhere on social media. Now the same reporter has tracked down one of the people in the clip – Jimmy Nordlander from Sundsvall, who was one of the most tired after the night match. - You are a little tired, he notes.",
+            "fullText": "You know the feeling after staying up all night to watch a game? This is exactly how it looked during the 1994 World Cup.\n\nAn old SVT clip with sleepy football fans has been given new life and is now spreading everywhere on social media.\n\nNow the same reporter has tracked down one of the people in the clip – Jimmy Nordlander from Sundsvall, who was one of the most tired after the night match.\n\nThe clip that was broadcast in Rapport in June 1994 has been republished by SVT on social media, which Jimmy Nordlander has drawn attention to from various quarters.\n\n- Yes, there have been comments from all over Sweden that they recognize that player, he says.\n\nSVT's reporter meets him in the middle of the work to restore a playground at a preschool in Sundsvall. Despite a great interest in football, he does not see the loss against France as such a big disaster.\n\nEven the bicycle and footpath that was built by tired football fans in Timrå in the summer of 1994 and is highlighted in the clip, is being revisited by SVT.\n\n- It has worked well, says Tomas Wikström, who lives in the area and often walks along the road with his dog.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0611_3",
+            "category": "sweden",
+            "type": "News",
+            "title": "William and Bella followed Sweden's parade in Vasaparken in Västerås: \"To hell with it\"",
+            "bullets": [
+              "During the night of Wednesday, thousands had gathered in Vasaparken in Västerås to watch the round o...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "During the night of Wednesday, thousands had gathered in Vasaparken in Västerås to watch the round of 16 final between Sweden and France on a big screen. A match that would be the national team's last this world championship. - Of course it feels sad, but I wouldn't have expected anything else, says Bella Bawér Urbach, who followed the match on site in the park.",
+            "fullText": "During the night of Wednesday, thousands had gathered in Vasaparken in Västerås to watch the round of 16 final between Sweden and France on a big screen. A match that would be the national team's last this world championship.\n\n- Of course it feels sad, but I wouldn't have expected anything else, says Bella Bawér Urbach, who followed the match on site in the park.\n\nSweden's men lost the knockout match 0-3 and thus the WC is over for Sweden. In the clip: This is how Västerås followed the knockout match in the football WC. See the atmosphere in Vasaparken.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-01 @ 16:23:22 EDT",
+  "lastUpdated": "2026-07-01 @ 19:06:11 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
