@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Socceroos hit back at worst match of World Cup claims: ‘You can’t make everyone happy’",
-      "link": "https://www.theguardian.com/football/2026/jul/01/socceroos-paraguay-worst-match-of-world-cup-claims"
+      "text": "⚽ How USMNT prepare for World Cup penalty drama: confidence, composure and consultants",
+      "link": "https://www.theguardian.com/football/2026/jun/30/usmnt-penalty-kicks-mauricio-pochettino-world-cup"
     }
   ],
   "timeline": {
@@ -4482,10 +4482,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-01": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5702_0",
+            "category": "usa",
+            "type": "News",
+            "title": "How USMNT prepare for World Cup penalty drama: confidence, composure and consultants",
+            "bullets": [
+              "The US have used outside companies, including one measuring players’ brainwaves, to help them determ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US have used outside companies, including one measuring players’ brainwaves, to help them determine who will shoot in a shootoutWho would the US need to beat to win the World Cup?There is perhaps nothing more polarizing in the game of football than a penalty shootout. But however you feel about them, you can’t deny the drama involved, which was on full display in Monday’s last-32 matches.Germany were the first at this World Cup to fall victim to the cruel nature of the procedure, with Kai Havertz, Nick Woltemade and Jonathan Tah all missing from the spot and handing a shock victory to Paraguay. The Netherlands, who have plenty of familiarity with the devastation of losing in a shootout, came next, putting in a poor effort against Morocco, who took full advantage. Continue reading...",
+            "fullText": "The US have used outside companies, including one measuring players’ brainwaves, to help them determine who will shoot in a shootout\n\nWho would the US need to beat to win the World Cup?\n\nThere is perhaps nothing more polarizing in the game of football than a penalty shootout. But however you feel about them, you can’t deny the drama involved, which was on full display in Monday’s last-32 matches.\n\nGermany werethe first at this World Cupto fall victim to the cruel nature of the procedure, with Kai Havertz, Nick Woltemade and Jonathan Tah all missing from the spot and handing a shock victory to Paraguay. The Netherlands, who have plenty of familiarity with the devastation of losing in a shootout, came next, putting ina poor effortagainst Morocco, who took full advantage.\n\nLeaving the tournament via penalties wasa new concept to the Germans, who had never done so since penalty kicks were added to the World Cup in 1982. In the aftermath of the loss, German media began to report some very grisly details: midfielder Leon Goretzka and defenders Waldemar Anton, Nathaniel Brown and Malick Thiaw had all reportedly declined to take a penalty, leaving the task to Tah, who had never taken one in his professional career. He missed the decisive kick, and Germany were sent packing.\n\nTo some, this represents a shocking lack of preparation by Germany head coach Julian Nagelsmann, with many pundits wondering why he hadn’t had a predetermined order.\n\nMauricio Pochettino’s approach differs. Asked by the Guardian on Tuesday to shed some light on his approach to penalties, the US head coach said his staff had long-ago partnered with an outside firm to analyze penalty kicks and set pieces. He most certainly has a preferred order, but was careful not to give too much away.\n\n“I don’t want to talk too much,” Pochettino said. “But I think we are working [with outside help] because as a coaching staff we believe we can provide some tools to the players to be better and to improve, [to equip] the players to try and find the best way to face this type of situation, while knowing that it is impossible to replicate the emotional stress and the pressure and expectation that they are going to feel.”\n\n“It is going to be [the coaching staff’s] decision, the 1, 2, 3, 4, 5. We try to arrive in this moment and not ask the player if he feels confident or not confident.”\n\nThe head coach, along with his staff and analysts, had formed a working group some 18 months ago with the goal of helping players maximize their performance on set pieces. They partnered with a pair of companies: Neuro11 and Trackman.\n\nNeuro11 incorporates, among other things, real-time EEG tracking — brainwaves, if you will — into its research. They had previously partnered with Liverpool FC for set-piece coaching under Jürgen Klopp. Their method includes, among other more technical things, strapping a helmet-looking contraption on to players’ heads when taking penalties, as demonstrated in avideo produced by Liverpoolin 2023.\n\nTrackman uses radar and other sensor data to offer users an unprecedented level of detail in regards to ball movement. US midfielder Sebastian Berhalter had previously credited Trackman as a factor that improved his set piece delivery, which is now among the reasons why he made theWorld Cuproster.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-06-30 @ 19:14:30 EDT",
+  "lastUpdated": "2026-07-01 @ 01:57:15 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
