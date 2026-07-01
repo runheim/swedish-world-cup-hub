@@ -4,16 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Germany fans in need of hope as prospect of Klopp looms",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz0jgr7vy5zo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Time for Tuchel to show hand as England enter World Cup danger zone",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c17y8r90082o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Pick Mainoo over Anderson against DR Congo - Rooney",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8l7p0n2kvo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Pick your England XI to face DR Congo at World Cup",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwy060e312no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Will Sooryavanshi play for India vs England in summer T20 series?",
-      "link": "https://www.skysports.com/cricket/news/12040/13558823/vaibhav-sooryavanshi-why-15-year-old-batter-was-impossible-to-ignore-for-india-and-will-he-play-against-england-in-summer-t20-series"
+      "text": "⚽ Quiz: Name every team England have played in World Cup knockouts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ World Cup 2026: England v DR Congo buildup, Bielsa departs, France dazzle and more – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/01/world-cup-2026-france-dazzle-mexico-swagger-through-england-v-dr-congo-buildup-and-more-live"
+    },
+    {
+      "text": "⚽ Wimbledon Day Three LIVE! Sinner, Sabalenka in action after Osaka impresses",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13559251/wimbledon-day-three-live-scores-updates-news-results-with-jannik-sinner-novak-djokovic-aryna-sabalenka-coco-gauff-naomi-osaka-in-action"
     }
   ],
   "timeline": {
@@ -15738,11 +15746,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3026_0",
+            "category": "england",
+            "type": "News",
+            "title": "Time for Tuchel to show hand as England enter World Cup danger zone",
+            "bullets": [
+              "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England coach Thomas Tuchel must now play his strongest hand as he enters the danger zone in a World Cup of shocks, says chief football writer Phil McNulty.",
+            "fullText": "England head coach Thomas Tuchel still has questions to answer as they start the World Cup group stage against DR Congo in Atlanta\n\nEngland head coach Thomas Tuchel describes the World Cup knockout stage as \"the third chapter\" in a story he hopes will end in the glory of a historic triumph.\n\nTuchel explained that phase one of his stated mission to bring the trophy to England for the first time since 1966 was the preparation training camp in Miami, followed by qualification for the last 32 by topping Group L.\n\n\"Chapter Two\" was satisfactory rather than gripping, with wins against Croatia and Panama either side of a dismal goalless draw with Ghana.\n\nEngland have now entered dangerous territory where one slip or one below-par performance can bring Tuchel's tale to a painful end.\n\nThey face DR Congo in Atlanta on Wednesday (17:00 BST), live on BBC TV, with warning signs already posted to the bigger nations that this is becoming the World Cup of shocks.\n\nTuchel's players will at least be spared this city's brutal heat and stifling humidity by the closed roof and temperature control inside the space-age $1.6bn (Â£1.2bn) Atlanta Stadium.\n\nEngland's World Cup quest has so far been a case of \"job done\" - but now it all goes on the line in the sudden-death environment of knockout games.\n\nBigger than Rumble in the Jungle? DR Congo bid for World Cup history\n\nListen: Thomas Tuchel & Jordan Pickford ahead of England v DR Congo\n\nThomas Tuchel responds to criticism of recent performances\n\nTuchel's team selections have been a mixture of tactical tinkering, working around injuries and managing minutes, as well as devising the formulas for England's progress.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3026_1",
+            "category": "england",
+            "type": "News",
+            "title": "Pick your England XI to face DR Congo at World Cup",
+            "bullets": [
+              "Who should start for England against DR Congo in their last-32 tie? It's time to put yourself in Tho...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should start for England against DR Congo in their last-32 tie? It's time to put yourself in Thomas Tuchel's shoes.",
+            "fullText": "Declan Rice is expected to start against DR Congo, according to BBC Sport senior football correspondent Sami Mokbel\n\nIf Declan Rice starts as expected against DR Congo in the last-32 tie, who should drop out from the win against Panama?\n\nWould you continue with Marcus Rashford and Bukayo Saka out wide? Ensure Morgan Rogers keeps his place? And who should play right-back?\n\nUse our selector below to choose your Three Lions starting XI.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3026_2",
+            "category": "england",
+            "type": "News",
+            "title": "Quiz: Name every team England have played in World Cup knockouts",
+            "bullets": [
+              "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifte...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ever faced in the knockouts?",
+            "fullText": "Since England's sole World Cup victory in 1966 they have had a mixed record in the tournament's knockout stages.\n\nBoss Thomas Tuchel will hope to replicate the famous side that lifted the Jules Rimet trophy at Wembley 60 years ago, but they will face stiff competition throughout this summer's tournament.\n\nHow many previous sides can you name that the Three Lions have faced in World Cup knockouts?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWorld Cup quiz: Name every player in England's squad\n\nWorld Cup quiz: Name every player in Scotland's squad",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3027_3",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: England v DR Congo buildup, Bielsa departs, France dazzle and more – live",
+            "bullets": [
+              "‘Don’t start to doubt’: Tuchel wants patienceEmail us | Bracketology | World Cup DailyThe view from ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘Don’t start to doubt’: Tuchel wants patienceEmail us | Bracketology | World Cup DailyThe view from England now, and Jacob Steinberg’s preview of today’s game:The part where Tuchel earns his corn starts now. England’s target at the World Cup is to put a second star on the shirt but it would be pushing it to say they sailed through the group stage. The surge against Croatia in Dallas is yet to be repeated. Jude Bellingham and Kane are performing in attack, but there are problems to fix in almost every part of the team and there is a banana skin in football form to deal with when England face the Democratic Republic of the Congo in the last 32 on Wednesday afternoon. Continue reading...",
+            "fullText": "Chelsea have signed defender Marco Palestra from Atalanta in a deal worth £43m. The Italy international has signed a seven-year deal at Stamford Bridge.\n\n“I’m very excited to get started,” Palestra said. “I’ve felt the energy since the first day Chelsea wanted me. I can’t wait to start, see all the fans, my team-mates and the manager.\n\n“We have so many talented players here, a very strong squad and manager in Xabi [Alonso]. He has spoken to me about how he wants us to play, which is exciting, and we can’t wait to compete in the Premier League.”\n\nThis article includes content provided byInstagram. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. To view this content,click 'Allow and continue'.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3027_4",
+            "category": "england",
+            "type": "News",
+            "title": "Wimbledon Day Three LIVE! Sinner, Sabalenka in action after Osaka impresses",
+            "bullets": [
+              "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch ATP and WTA action live on Sky Sports' dedicated tennis channel",
+            "fullText": "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch ATP and WTA action live on Sky Sports' dedicated tennis channel",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-01 @ 01:56:47 EDT",
+  "lastUpdated": "2026-07-01 @ 09:30:33 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
