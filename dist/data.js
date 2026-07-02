@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+      "text": "⚽ World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live",
       "link": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live"
     },
     {
-      "text": "⚽ Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
-      "link": "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
+      "text": "⚽ Malik Tillman’s bloody sock game rockets into US World Cup history",
+      "link": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
     }
   ],
   "timeline": {
@@ -4739,11 +4739,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4935_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live",
+            "bullets": [
+              "⚽ All the latest news from day 22 of the tournament⚽ Bracketology | Knockout stage draw | And email...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest news from day 22 of the tournament⚽ Bracketology | Knockout stage draw | And email us And I appreciate all this has been forgotten because England won but Harry Kane should have been awarded a first-half penalty. When a goalkeeper slides and does not get the ball, of course the forward is going to take the contact. Kane is just being punished for being as clever as the officials desire.Maurico Pochettino was rather unhappy with Folarin Balogun’s dismissal. The striker painfully caught the Bosnia and Herzegovina defender Tarik Muharemovic on the ankle but it was a complete accident with two players going for the ball. Continue reading...",
+            "fullText": "Keir Starmer is signing off with an absolute belter as he gives the green light for an extension to licensing hours for Sunday/Monday morning’s big game between England and Mexico at 1am. The prime minister said:\n\ndouble quotation markFootball might be coming home but we’re making sure fans don’t have to. Pubs staying open til the final whistle is good news for supporters and good news for the pubs and venues that bring our communities together. The whole country will be backing the team. Come on England!”\n\nYou do have to go home eventually though, who’s going to walk the dog?!",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4935_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Malik Tillman’s bloody sock game rockets into US World Cup history",
+            "bullets": [
+              "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament....",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faithWhile Malik Tillman was unsure of what to expect from the United States’ last-32 clash with Bosnia and Herzegovina, he certainly must have assumed he would finish the game with his boots intact.Tillman has been one of the US’s most important players in their run to the last 16, a vital part of their build-up and a tricky technician for opponents to contend with when he’s maneuvering through the final third. While everyone else waited to learn whether or not Folarin Balogun would be sent off during the second half of Wednesday’s 2-0 victory, Tillman noticed some discomfort with his right boot. There was a good reason: the top of it had been ripped after a stomp from an opponent. Continue reading...",
+            "fullText": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faith\n\nWhile Malik Tillman was unsure of what to expect from the United States’last-32 clashwith Bosnia and Herzegovina, he certainly must have assumed he would finish the game with his boots intact.\n\nTillman has been one of the US’s most important players in their run to the last 16, a vital part of their build-up and a tricky technician for opponents to contend with when he’s maneuvering through the final third. While everyone else waited to learn whether or not Folarin Balogun would be sent off during the second halfof Wednesday’s 2-0 victory, Tillman noticed some discomfort with his right boot. There was a good reason: the top of it had been ripped after a stomp from an opponent.\n\nAt the ensuing hydration break, the US’s equipment manager, Kyle Robertson, sprinted to the locker room to retrieve a fresh pair of boots for the attacking midfielder. Rather than put on both, Tillman simply swapped out his right, playing on with a blood-stained sock underneath.\n\nFifteen minutes later, his new equipment made its mark. Playing down a man after Balogun’s red card, the US won a free kick just beyond the edge of the box. After consulting with Antonee Robinson, Tillmanhit a pearl of a free kick over the Bosnian walland into the net. The goal all but sealed the match.\n\n“We’d been going through all the ways we could possibly take this free kick,” Tillman said after the win. “We talked about going under the wall, we talked about going keeper-side, we talked about going over the wall. Now I know some guys doubted me to go over the wall, but I practiced this in training, and I’m happy with it.”\n\nTillman has worked hard to forge a place in Mauricio Pochettino’s team. After making his debut midway through 2022, Tillman was among the toughest cuts from Gregg Berhalter’s squad for that year’sWorld Cup. The next few years saw him often called into camp, but seldom given starts with Berhalter’s A-team.\n\nTillman finally got his opportunity last summer as one of the few European-based US players who made themselves available for the Gold Cup. Throughout that tournament, Tillman was Pochettino’s primary playmaker. In the quarter-final against Costa Rica, he failed to convert a first-half penalty but sunk his second chance against Keylor Navas in the shootout. Performances like those affirmed his big-game bona fides and made it difficult for Pochettino to leave him on the bench.\n\n“He’s been playing so well,” captain Tim Ream said after Wednesday’s win. “I’d argue he’s, other than Balo’s goals, been one of our best players. Everywhere on the field, doing the dirty things, but then making hard things look easy. He just wanted to feel like he had a place, and he’s a quiet kid, but he’s just come on in leaps and bounds.”\n\nTillman’s technique on his free-kick goal against Bosnia was sublime. He took five paces back from the ball, then one step forwards to set up his stride. His strike put the necessary and difficult spin on the ball, looping it just over the head of the wall’s tallest member, Stjepan Radeljić, and back down under the crossbar.\n\nTillman became just the second player in USMNT history to score from a direct free-kick at a World Cup.The first came from Eric Wynalda in 1994, who famously exploited the unusual air currents at the Silverdome. The open-air stadium in Santa Clara offered no such help, but both goals were met with similar rapture from US fans.\n\n“It was amazing,” Pochettino said after the match. “I think Malik is an amazing player, full of talent. We knew that he had that talent [on free kicks] to do what he did. I am so happy for him. It was a tough season for him at Leverkusen but I think now he is enjoying, we are enjoying, and the fans are enjoying his play.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 08:54:42 EDT",
+  "lastUpdated": "2026-07-02 @ 12:49:53 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
