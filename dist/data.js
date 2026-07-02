@@ -36,40 +36,28 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Quiz: Name every team England have played in World Cup knockouts",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'He is ridiculous' - Rice praise for match-winner Kane",
       "link": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Gordon was 'already celebrating' before Kane had scored the winner",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6210y2y2zdo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Quiz: Name every team England have played in World Cup knockouts",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Should England have been awarded a penalty?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx23dzznk0go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ 'What a save!' - Rashford's effort blocked on line by Wan-Bissaka",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwyl8z0de7xo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Kane to the rescue with late double as England edge past DR Congo into last 16",
-      "link": "https://www.theguardian.com/football/2026/jul/01/england-dr-congo-world-cup-2026-last-32-match-report"
+      "text": "⚽ Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/jul/01/harry-kane-saves-england-a-moment-of-generational-trauma-in-waiting"
     },
     {
       "text": "⚽ ‘Let the children watch’: Tuchel on England’s 1am BST kick-off after Kane rescue act",
       "link": "https://www.theguardian.com/football/2026/jul/01/thomas-tuchel-children-1am-bst-england-mexico-harry-kane-world-cup"
     },
     {
-      "text": "⚽ England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jul/01/england-avert-disaster-against-dr-congo-but-they-must-be-better-in-mexico-city"
-    },
-    {
       "text": "⚽ Haaland is inevitable for Norway but are France unstoppable? | World Cup Daily",
       "link": "https://www.theguardian.com/football/video/2026/jul/01/haaland-is-inevitable-for-norway-but-are-france-unstoppable-world-cup-daily"
+    },
+    {
+      "text": "⚽ England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg",
+      "link": "https://www.theguardian.com/football/2026/jul/01/england-avert-disaster-against-dr-congo-but-they-must-be-better-in-mexico-city"
     },
     {
       "text": "⚽ Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
@@ -16740,10 +16728,341 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-02": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1155_0",
+            "category": "england",
+            "type": "News",
+            "title": "Genuine superstar Kane produces his biggest England moment",
+            "bullets": [
+              "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nAs Harry Kane raced away into a corner of Atlanta's futuristic stadium, England head coach Thomas Tuchel followed on to the pitch in celebration.\n\nKane - captain, inspiration and undisputed world-class operator - had rescued a World Cup campaign that was threatening to end in one of the worst humiliations in England history.\n\nUnder the roof away from Atlanta's searing heat and stifling humidity England, and perhaps Tuchel's time in charge, were withering away as they trailed DR Congo until a player who is one of his country's all-time greats revived them.\n\nMake no mistake, England were heading for embarrassment on the scale of the Euro 2016 last-16 loss to Iceland and the World Cup defeat against United States in 1950 until Kane, as he so often does, took control.\n\nKane's record-breaking career has been littered with moments of greatness â but none to match what he produced here in a gripping last-32 tie that England won 2-1.\n\nWith only 15 minutes left and the giant clock seemingly racing along, Kane powered a header past goalkeeper Lionel Mpasi, a brilliant figure of defiance who proved a formidable barrier with a series of outstanding saves.\n\nAnd then, with four minutes left, Kane did what the greats do.\n\nHe produced a moment of brilliance to send England on their way to the cauldron of Mexico City's Azteca Stadium, where they will face co-hosts Mexico in the last 16.\n\nKane took a pass from Anthony Gordon, whomade a superb impact as a substitute with involvement in both goals, shifted the ball away from a DR Congo defender before unleashing a stunning right-foot strike high past Mpasi, who barely had time to move.\n\nAll the angles of Kane's 'rocket' strike against DR Congo\n\nEngland's reaction was an explosion of celebration and sheer relief, a largely dreadful performance transformed into dramatic victory by their magnificent captain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1155_1",
+            "category": "england",
+            "type": "News",
+            "title": "Kane scores twice as England come from behind to reach last 16",
+            "bullets": [
+              "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+            "fullText": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1155_2",
+            "category": "england",
+            "type": "News",
+            "title": "No time for England to adapt to altitude - Tuchel",
+            "bullets": [
+              "Mexico will have a \"huge advantage\" against England in the World Cup last-16 tie because of the alti...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mexico will have a \"huge advantage\" against England in the World Cup last-16 tie because of the altitude of the Azteca Stadium in Mexico City, says head coach Thomas Tuchel.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nEngland's players will not have enough time to adapt to the challenges of playing at high altitude before they take on Mexico in their World Cup last-16 game, says head coach Thomas Tuchel.\n\nHarry Kane'sdouble against DR Congobooked England's trip to Mexico City's Azteca Stadium - which is around 7,200ft above sea level - on Monday, 6 July at 01:00 BST, in a match you can follow live across BBC TV, radio and online.\n\nAt that altitude, the Earth's barometric pressure is lower, making the air thinner and meaning less oxygen is taken into the bloodstream with each breath, which creates clear difficulties for athletes and is likely to become a key factor in the game for England.\n\nMexico, meanwhile, have played all four of their World Cup games at high altitude, with three matches at the Azteca Stadium and the other in Guadalajara â which is around 5,000ft above sea level - so their players are accustomed to the thinner air.\n\n\"The altitude will be a big disadvantage because we cannot physically adapt to it,\" said Tuchel.\n\n\"It just takes too much time. We have only three days in between these matches. It's physically just not possible to adapt to the altitude.\"\n\nResearch suggests athletes competing at high altitude should spend a week or two living at that level in order to allow their body to acclimatise and generate more red blood cells.\n\nBut England will only be arriving in Mexico City two days before the match.\n\n\"That is just a huge advantage that Mexico will have,\" added Tuchel.\n\n\"More obstacles may come, but we are ready for that.\n\n\"This is just something with which we will have to deal. And I think we showed the attitude that we are ready for that.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1155_3",
+            "category": "england",
+            "type": "News",
+            "title": "All the angles of Kane's brilliant winner",
+            "bullets": [
+              "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game in Atlanta.",
+            "fullText": "All the angles of Harry Kane's winning goal for England against DR Congo in their round of 32 game in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1156_4",
+            "category": "england",
+            "type": "News",
+            "title": "Win over DR Congo 'our best game of the tournament' - Kane",
+            "bullets": [
+              "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
+            "fullText": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1156_5",
+            "category": "england",
+            "type": "News",
+            "title": "'That was a rocket' - Kane scores winner for England",
+            "bullets": [
+              "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+            "fullText": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1157_6",
+            "category": "england",
+            "type": "News",
+            "title": "Energy and team spirit at highest level - Tuchel",
+            "bullets": [
+              "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Cong...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Congo 2-1 and advance to the round of 16.",
+            "fullText": "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Congo 2-1 and advance to the round of 16.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1157_7",
+            "category": "england",
+            "type": "News",
+            "title": "Relief for England as Kane heads in equalising goal against DR Congo",
+            "bullets": [
+              "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
+            "fullText": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1158_8",
+            "category": "england",
+            "type": "News",
+            "title": "'He is ridiculous' - Rice praise for match-winner Kane",
+            "bullets": [
+              "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
+            "fullText": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1158_9",
+            "category": "england",
+            "type": "News",
+            "title": "Quiz: Name every team England have played in World Cup knockouts",
+            "bullets": [
+              "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifte...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ever faced in the knockouts?",
+            "fullText": "Since England's sole World Cup victory in 1966 they have had a mixed record in the tournament's knockout stages.\n\nBoss Thomas Tuchel will hope to replicate the famous side that lifted the Jules Rimet trophy at Wembley 60 years ago, but they will face stiff competition throughout this summer's tournament.\n\nHow many previous sides can you name that the Three Lions have faced in World Cup knockouts?\n\nAfter more quizzes? Go to our dedicatedFootball QuizzesandSports Quizzespages and sign up for notifications to get the latest quizzes sent straight to your device.\n\nWorld Cup quiz: Name every player in England's squad\n\nWorld Cup quiz: Name every player in Scotland's squad",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1159_10",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay",
+            "bullets": [
+              "Captain played in deep horror of Iceland defeat and he rescued an England team who were sliding towa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Captain played in deep horror of Iceland defeat and he rescued an England team who were sliding towards disasterWell maybe, you’re gonna be the one that saves me. On a wild, boisterous, often agonising afternoon under the giant Victorian railway dome of the Atlanta Stadium, the Democratic Republic of Harry Kane progressed to the last 16 of the World Cup.With England playing like a team terrified of their own feet and 1-0 down to an excellent DR Congo, Kane decided something else was going to happen, scoring two goals in 11 minutes towards the end to turn disastrous defeat into joyful relief. In the process he also saved Thomas Tuchel’s job and perhaps the jobs of his bosses at the Football Association. Because England really had gone at points in this game. Continue reading...",
+            "fullText": "Captain played in deep horror of Iceland defeat and he rescued an England team who were sliding towards disaster\n\nWell maybe, you’re gonna be the one that saves me. On a wild, boisterous, often agonising afternoon under the giant Victorian railway dome of the Atlanta Stadium, the Democratic Republic ofHarry Kaneprogressed to the last 16 of the World Cup.\n\nWith England playing like a team terrified of their own feet and 1-0 down to an excellent DR Congo, Kane decidedsomething else was going to happen, scoring two goals in 11 minutes towards the end to turn disastrous defeat into joyful relief. In the process he also saved Thomas Tuchel’s job and perhaps the jobs of his bosses at the Football Association. Because England really had gone at points in this game.\n\nThe first hydration break was one of the more extraordinarily strange moments in their footballing history.Englandhad been horrible to that point, not just tactically unbalanced but confused and unhappy, clanging the ball about between them like men punting an empty paint pot along a motorway verge.\n\nEven the faces of the England players seemed to crumple, to look sad and tearful, already off on a shared trip down the time tunnel through the pain of Iceland, Croatia, Norway, Graham Taylor wandering down a touchline in Rotterdam saying sorry, I’m sorry.\n\nSo the players gathered on the touchline, just as the stadium PA boomed out Heyyy Baby, I wanna know, as the Atlanta Falcons cheerleaders writhed on the massive screen, as Reece James took Jude Bellingham to one side, whispering urgently in his ear, soothing his humours. At this moment Tuchel called for, of all things, calm.\n\nTuchel was here in black summer shirt, black slacks and white trainers, strolling sombrely, like an undertaker on a cruise holiday. He bent into his players’ faces, talking relentlessly, conveying system tweaks, process advice, the need for certain key collective movements to be regeared. Nobody was calm. This was not calm.\n\nFast forward to the final hydration break and the scenario was almost exactly the same. England had created chances, had drawn some wonderful saves from Lionel Mpasi. They’d surged, then re-faded and re-shrunk. They were still 1-0 down. Country Roads, take me home, the PA blared this time. You said it, John Denver.\n\nThat final break really was a reckoning up. This was heads-on-pikes territory. It was a parade of heads on pikes. Everything is bigger, brasher, more pulsating in America, and England were facing surely the worst tournament defeat since their first significant one, the USA, 1950 Belo Horizonte, and all that.\n\nIceland in Nicewas bad. But England were a terrible team then too. This iteration has reached two major finals. Even the basic setup of Tuchel’s appointment was facing a hilarious punchline. Thanks, Gareth. You were fine. But we’re going to get a proper manager now. The goal, we were told, was to win the World Cup or die trying. Well, RIP to that.\n\nAgain Tuchel spoke to his players, firing out his words, machine-gunning that semicircle of bowed heads with ideas, thoughts, restructurings. Maybe footballers at this level really can absorb that level of detail under this level of stress. They certainly didn’t look like it.\n\nAt which point Kane produced perhaps his best moment as an England player, saving not just a knockout game, but a moment of generational trauma in waiting. As they trotted back out England had a front five, with only Elliot Anderson behind and Declan Rice at right-back. But they were driving forward too, right to left, Rice reaching the byline, crossing long, the ball picked up by Anthony Gordon. He put it back in for Kane to head across goal, powerfully enough to beat Mpasi’s flailing hand and bounce into the net.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1159_11",
+            "category": "england",
+            "type": "News",
+            "title": "‘Let the children watch’: Tuchel on England’s 1am BST kick-off after Kane rescue act",
+            "bullets": [
+              "Head coach urges parents to ‘write an excuse for school’ so kids can see his team’s World Cup last-1...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach urges parents to ‘write an excuse for school’ so kids can see his team’s World Cup last-16 game against MexicoHarry Kane came to England’s rescue as they avoided a seismic World Cup upset against the Democratic Republic of the Congo (DRC) to set up a last-16 tie against co-hosts Mexico next week.The Bayern Munich striker scored twice in the last 15 minutes to save manager Thomas Tuchel’s blushes after Brian Cipenga had given the African side a shock early lead. It was the first time that England have won a game at the World Cup after conceding the first goal since beating West Germany in the 1966 final at Wembley. Continue reading...",
+            "fullText": "Head coach urges parents to ‘write an excuse for school’ so kids can see his team’s World Cup last-16 game against Mexico\n\nHarry Kane came to England’s rescue as theyavoided a seismic World Cup upsetagainst the Democratic Republic of the Congo (DRC) to set up a last-16 tie against co-hosts Mexico next week.\n\nThe Bayern Munich striker scored twice in the last 15 minutes to save manager Thomas Tuchel’s blushes after Brian Cipenga had given the African side a shock early lead. It was the first time that England have won a game at theWorld Cupafter conceding the first goal since beating West Germany in the 1966 final at Wembley.\n\nEngland looked extremely disjointed during the first half in Atlanta, where it is estimated around 10,000 Three Lions supporters made the trip for the game that kicked off at midday local time and 5pm in the UK. But having been denied on several occasions by the DRC goalkeeper, Lionel Mpasi, Kane finally equalised with 15 minutes remaining before smashing home the winner just before the end of normal time.\n\nIt means England will now travel to the Azteca Stadium in Mexico City – where Diego Maradona scored his infamous “Hand of God” goal against them for Argentina 40 years ago in the 1986 World Cup – for their next game. That is due to kick off at 1am on Monday UK time but Tuchel said he hoped that many children back home would be allowed to stay up and watch the game.\n\n“Write an excuse for school and let them watch football,” said the England head coach. “They have so much school to go to, but the World Cup is every four years. Let them watch, there will be a big, big match in four days and we need the support of everyone and especially of the children.”\n\nKane – who has now scored 13 goals at the World Cup finals, extending the record he took from Gary Lineker last week – led the post-match celebrations on the pitch afterwards, with several of the players joining supporters in a rendition of Wonderwall by Oasis.\n\n“We spoke about people having hero moments. It can be anyone in the team, whether it’s me, a save, a block from the defenders, whoever it is. We have hero moments and for me it was today,” said Kane. “You have to stay patient in these games. The last couple of games have been similar and obviously when you get to knockout football the pressure is higher, the risk is higher.”\n\nEngland must now prepare to take on a Mexico team that has never lost a World Cup match at the Estadio Azteca, which is situated more than 2,000m above sea level.Javier Aguirre’s side defeated Ecuadoron Wednesday in their fourth successive victory of the World Cup so far and they have also not yet conceded a goal in the tournament. Tuchel admitted that the altitude would give Mexico a considerable advantage but was hopeful that England’s pre-tournament hot weather training camp in Miami would pay dividends.\n\n“It is maybe one of the most beautiful and exciting fixtures that you can have against Mexico in the Azteca and there will be a lot of obstacles waiting for us,” Tuchel said. “Not to mention the altitude will be of course a big disadvantage because we cannot physically adapt to it and in four days it’s just impossible. More obstacles may come, but we are ready for that. Maybe we have the ideal platform now to genuinely believe that we are ready for that. When the going gets tough, we will find the answers.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nThere had been a carnival atmosphere before the early kick-off despite temperatures in the city that hosted the 1996 Olympics exceeding 34C. One notable absence among the crowd was the DRC supporter Michel Nkuka Mboladinga, who is more widely known as “Lumumba Vea” for dressing up as Patrice Lumumba – the former Congolese independence leader and prime minister who was assassinated in 1961. He usually stands still with his arm raised throughout DRC matches but was unable to attend this time after being denied a visa to the US.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1159_12",
+            "category": "england",
+            "type": "News",
+            "title": "Haaland is inevitable for Norway but are France unstoppable? | World Cup Daily",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Dan Bardell as France breeze past ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Dan Bardell as France breeze past Sweden and Haaland wins it late for Norway Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Archie Rhind-Tutt and Dan Bardell as France breeze past Sweden and Haaland wins it late for Norway",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1159_13",
+            "category": "england",
+            "type": "News",
+            "title": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg",
+            "bullets": [
+              "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of AztecaIt was looking bleak out there. Ten years on, it was looking like Iceland all over again. The clock was ticking and the panic was rising. The Democratic Republic of the Congo (DRC), so impressive during that early surge at a disbelieving Atlanta Stadium, were starting to dream and England were about to become the punchline in one of the biggest shocks in World Cup history.The obituaries were written, the calls for root-and-branch reform sure to follow. Nothing was going England’s way. Harry Kane, his hopes of winning the Ballon d’Or fading before his eyes, had a penalty claim waved away by the Jordanian referee. Lionel Mpasi, if not the best Lionel to play in a World Cup, was certainly looking a sure bet to win superior player of the match. The DRC goalkeeper was in astonishing form, making saves like Poland’s Jan Tomaszewski at Wembley in 1973, and with time running out during the second half it seemed an increasingly frantic England had run out of ideas against the dreaded low block. Continue reading...",
+            "fullText": "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca\n\nIt was looking bleak out there. Ten years on, it was looking like Iceland all over again. The clock was ticking and the panic was rising. The Democratic Republic of the Congo (DRC), so impressive during that early surge at a disbelieving Atlanta Stadium, were starting to dream and England were about to become the punchline in one of the biggest shocks inWorld Cuphistory.\n\nThe obituaries were written, the calls for root-and-branch reform sure to follow. Nothing was going England’s way. Harry Kane, his hopes of winning the Ballon d’Or fading before his eyes, had a penalty claim waved away by the Jordanian referee. Lionel Mpasi, if not the best Lionel to play in a World Cup, was certainly looking a sure bet to win superior player of the match. The DRC goalkeeper was in astonishing form, making saves like Poland’s Jan Tomaszewski at Wembley in 1973, and with time running out during the second half it seemed an increasingly franticEnglandhad run out of ideas against the dreaded low block.\n\nYet this was an almost Iceland. Thanks to two dead-eyed finishes from Harry Kane it wasSlovakia at Euro 2024. England are through to the last 16, through to face a pumped-up Mexico at the Azteca on Sunday night, and have again done enough to convince themselves everything is working as planned.\n\nThere will be focus onThomas Tuchel, his facial expression increasingly disturbed as the second half wore on with no sign of an equaliser arriving, finding the composure to make telling little tweaks during perhaps the greatest hydration break in English football history. Praise will go to the squad’s “finishers” – the ones who came on to shift the narrative. There were 20 minutes left when Tuchel made his final roll of the dice. He had already swapped his wingers, Noni Madueke and Marcus Rashford replaced by Bukayo Saka and Anthony Gordon, and now he decided to go for broke, with Djed Spence hauled off after a poor display, Declan Rice shifted to right-back and Eberechi Eze introduced to add more unpredictability in the final third.\n\nThe leveller arrived five minutes later and owed much to Tuchel’s rejig. Eze was involved, combining with Rice. The vice-captain crossed from the byline and the ball reached Gordon, who put the ball back into the middle for Kane to head past Mpasi.\n\nIt was a goal featuring two substitutes and one player moved into an unfamiliar position. In the heat of the moment it was possible to think that Tuchel had everything under control. Anthony Barry, the German’s No 2, had used his half-time interview to talk about the importance of England continuing to go through their processes. The instruction was not to fall into the trap of playing gung-ho football. England kept probing and their depth made a difference. Gordon, who struggled when he started against Ghana and Croatia in the group stage, finished with two assists after his clever pass led to Kane bashing in the winner in the 86th minute.\n\nYet the more sober analysis is that England are going to be run out of Mexico City if this how they play on Sunday. The reality is they have not produced a complete performance in any of their first four games. They have looked tired, fractious and unbalanced at times, save for thatthrilling surge against Croatiain Dallas, and will leave Atlanta with plenty of problems to solve.\n\nIt speaks volumes that the DRC were fearless from the first whistle. They took the ball, wheeled out their passing combinations and rattled England with their counterpress. Seven minutes in, a long spell of possession ramped up when Chancel Mbemba sprayed the ball from right to left and found the England defence in a state of disrepair.\n\nNoah Sadiki ran from midfield, away from Elliot Anderson and dragged Spence across. Ezri Konsa, drawn to Yoane Wissa, was marking no one. Spence was exposed – Noni Madueke had stayed high to watch Arthur Masuaku – and Brian Cipenga had time to drill a low shot inside Jordan Pickford’s near post.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe rest of the first half was bewildering. Jude Bellingham was seen shouting at the England bench. He lost possession and clattered into Nathanaël Mbuku to earn a booking. There was little sign of Tuchel’s famous brotherhood. England were arguing among themselves. Rice raged after the goal. Reece James had to talk some sense into Bellingham during the first hydration break. Pickford smacked a pass out of play and told everyone to calm down. Anderson was all over the place in midfield. Madueke cut inside a lot. Rashford let a ball run under his foot and out for a throw. Then he watched and failed to track back as the DRC outnumbered Nico O’Reilly, Aaron Wan-Bissaka overlapping and crossing for Wissa to hit a post.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1200_14",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane: Special, saviour, England's greatest and Ballon D'Or contender",
+            "bullets": [
+              "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But on...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Yes, England have issues. They put you through the mill, they're struggling for a right-back. But one problem they don't have is having a world-class matchwinner in their team.",
+            "fullText": "Harry Kane single-handedly put England through to the World Cup last 16 with two goals against DR Congo; the England captain struck with 75th and 86th-minute strikes as the Three Lions came from behind to win",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1201_15",
+            "category": "england",
+            "type": "News",
+            "title": "Is Rice the solution to England's right-back problem?",
+            "bullets": [
+              "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with dis...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England are through to the last 16 of the World Cup. Nobody will remember that they flirted with disaster in the round of 32 if they go on and lift the trophy. But Thomas Tuchel will be aware of the need for improvement if they are to go the distance.",
+            "fullText": "England reached the World Cup last 16 with a narrow 2-1 win over DR Congo in which three players featured at right-back; should Declan Rice get the nod ahead of Djed Spence against Mexico? Moving the Arsenal midfielder might be Thomas Tuchel's best option",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1202_16",
+            "category": "england",
+            "type": "News",
+            "title": "Sinner and Gauff overcome tough Wimbledon tests as Djokovic excels",
+            "bullets": [
+              "The big names at Wimbledon all tasted victory on Wednesday, with Jannik Sinner, Novak Djokovic, Aryn...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The big names at Wimbledon all tasted victory on Wednesday, with Jannik Sinner, Novak Djokovic, Aryna Sabalenka, Coco Gauff and Naomi Osaka each booking third round places.",
+            "fullText": "Day three at Wimbledon sees big names reach third round; Jannik Sinner and Aryna Sabalenka progressed alongside Novak Djokovic, Coco Gauff and Naomi Osaka;watch ATP and WTA Tours live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1203_17",
+            "category": "england",
+            "type": "News",
+            "title": "England ratings: Spence struggles as Kane, Gordon save the day",
+            "bullets": [
+              "Harry Kane and Anthony Gordon saved England as they beat DR Congo 2-1 in the round of 32, but - unsu...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane and Anthony Gordon saved England as they beat DR Congo 2-1 in the round of 32, but - unsurprisingly - right-back remains a problem area as Djed Spence struggled in Atlanta.",
+            "fullText": "England had to come from behind to beat DR Congo in the last 32 of the 2026 World Cup; Harry Kane scored two late goals to earn a 2-1 win, and was assisted by Anthony Gordon; Djed Spence, Noni Madueke and Marcus Rashford all struggled in Atlanta",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1218_18",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+            "bullets": [
+              "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+            "fullText": "The looks said it all. Every member of theEnglandsquad craning their necks, arms locked, staring intently at Harry Kane as he stood in the middle of a huddle and delivered a tub-thumping team talk. It ended with a cry of: “We go again!”\n\nEngland do go again. But only just. And only because of Kane, their captain, leader, saviour and world-class striker. O Captain! My Captain!\n\nKane scored the two late goals to overturn what was heading towards being one of the greatest humiliations in tournament history for England.\n\nThat is no exaggeration. Losing to the Democratic Republic of Congo in the last 32 of the World Cup would have been up there with being beaten by Iceland in the last 16 of the European Championship in 2016.\n\nAnd as with Roy Hodgson quitting after that seismic shock, so Thomas Tuchel could not have expected to remain as manager had England lost. It was that precarious. Even this relatively early in the tournament.\n\nAfter the post-match huddle, the England players turned and stood in front of the fans who serenaded them with Oasis’sWonderwall,which they want to make the anthem of this campaign. That line “because maybe, you’re gonna be the one that saves me” resonated so deeply. It belonged to Kane. He saved England. Again.\n\nTake it in! 🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿England's players share another special Wonderwall moment with their fans after the game 🎶#FifaWorldCuppic.twitter.com/KMa4GBP8ve\n\nThe 32-year-old is a phenomenon. He is breathtaking. He has 72 goals in 62 games this season for club and country. Those are incredible numbers. Only Lionel Messi has scored more in one campaign, when he was in his pomp at Barcelona. Talk of Messi, who has shone so brightly in this World Cup with six goals, shows the company Kane is keeping.\n\nIn a tournament where the big names have stepped up – Messi, Kylian Mbappé and Erling Haaland – so has Kane. He is one of them. One of the greats. Maybe he will eventually be England’s greatest and for all the understandable debate over the importance of Jude Bellingham when we talk about England, we first talk about Kane.\n\nHis 75th and 86th-minute goals mean he now has 13 in World Cups, ahead of Pelé, and five in this tournament alone. For England he has 84 in just 118 appearances and will surely end up with more than 100, such is his appetite, such is his desire and determination. And his iron belief.\n\nTake both the goals. England had chances against Congo, after falling behind in a first quarter in which they were a panicky mess. And that is on Tuchel. But the pressure was not paying off. That was until Kane did what great strikers do. A cross came in from substitute Anthony Gordon and Kane just wanted it, he made sure the header was his. And England were level.\n\nHarry Kane pulls England level against DR Congo! 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽The captain delivers when the Three Lions needed him most 🦁🙌pic.twitter.com/JMmPOlmqhm",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-01 @ 19:17:04 EDT",
+  "lastUpdated": "2026-07-02 @ 01:12:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
