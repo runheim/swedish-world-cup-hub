@@ -4,24 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Will Folarin Balogun’s World Cup red card be struck off? No",
+      "link": "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-world-cup-appeal-usmnt"
     },
     {
-      "text": "🌍 Paraguay coaching staff reviews video logs of USA's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
+      "link": "https://www.theguardian.com/football/2026/jul/01/usa-bosnia-and-herzegovina-game-report-world-cup"
     }
   ],
   "timeline": {
@@ -4670,10 +4658,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-02": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1208_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Will Folarin Balogun’s World Cup red card be struck off? No",
+            "bullets": [
+              "Automatic one-game ban for red card cannot be appealedUS can only appeal to change length of ban if...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Automatic one-game ban for red card cannot be appealedUS can only appeal to change length of ban if increasedFolarin Balogun’s red card was the only damper on the United States’ 2-0 win over Bosnia and Herzegovina on Wednesday night to reach the World Cup last 16.The decision by referee Raphael Claus to give the US forward a straight red in the 64th minute after a VAR check on a tackle to the ankle of Tarik Muharemović means that Balogun will not be able to play against Belgium on Monday. Continue reading...",
+            "fullText": "Automatic one-game ban for red card cannot be appealed\n\nUS can only appeal to change length of ban if increased\n\nFolarin Balogun’s red card was the only damper on theUnited States’ 2-0 winover Bosnia and Herzegovina on Wednesday night to reach the World Cup last 16.\n\nThe decision by referee Raphael Claus to give the US forward a straight red in the 64th minute after a VAR check on a tackle to the ankle of Tarik Muharemović means that Balogun will not be able to play against Belgium on Monday.\n\nIs there any chance the red card could be struck off, making the US’s leading scorer at thisWorld Cupeligible for their biggest game in modern memory? The answer is no.\n\nThe automatic one-game suspension for a straight red card cannot be appealed, a US Soccer spokesperson confirmed to the Guardian. The US can only appeal against Balogun’s red if the Fifa disciplinary committee were to add an additional game to his suspension. Even then, the US would only be able to appeal against that additional suspension – they can ask for a reduction from a two-game ban to one, but not from two games to zero or one game to zero.\n\nBalogun will be able to attend Monday’s game in Seattle, but will have to watch from the stands instead of the US bench.\n\nThe Fifa disciplinary committee chose not to increase the one-game suspension given to Paraguay’s Miguel Almirón for covering his mouth in a confrontational situation during the group stage. Qatar’s Assim Madibo did receive an increased suspension though. He initially received an automatic one-game ban for his red-card tackle on Canada’s Ismaël Koné, who suffered a broken leg on the play, but the Fifa committee increased the punishment to a five-game suspension.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1208_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
+            "bullets": [
+              "The US had their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief. Ma...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US had their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief. Mauricio Pochettino waved his hands towards the sky, incredulous.Folarin Balogun had been sent off after a seemingly innocent collision with Bosnia and Herzegovina’s Tarik Muharemović that saw the US striker land a foot on his opponent’s ankle. Just like that, the US’s high-flying World Cup journey had the feel of impending doom. The temperature had soared on a previously cool, sunny evening at San Francisco Bay Area Stadium. And it wouldn’t fall until Malik Tillman had his say. Continue reading...",
+            "fullText": "The UShad their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief.Mauricio Pochettinowaved his hands towards the sky, incredulous.\n\nFolarin Balogun had been sent offafter a seemingly innocent collision with Bosnia and Herzegovina’s Tarik Muharemović that saw the US striker land a foot on his opponent’s ankle. Just like that, the US’s high-flying World Cup journey had the feel of impending doom. The temperature had soared on a previously cool, sunny evening at San Francisco Bay Area Stadium. And it wouldn’t fall until Malik Tillman had his say.\n\nTillman’s magnificently placed free-kick from the edge of the box put the finishing touch on a gritty 2-0 win overBosnia and Herzegovina, a win that propels the co-hosts into the last 16.\n\n“So proud of all my players,” Pochettino said after the game.\n\nSay that this was only the last 32. Bemoan the state of Fifa’s expansion to 48 teams. And certainly, complain all you like about the red card if you are a US fan. But the fact of the matter is this: the US men have won aWorld Cupknockout match. That alone vaults this team into a different conversation entirely; one that has not been dusted off since 2002, when Bruce Arena’s squad made the quarter-finals in the middle of the American night, when soccer in the US was in an entirely different state of popularity compared with today.\n\nWith this win, and the steely demeanor it took to achieve it, Pochettino’s team become a national conversation in the US. Exactly 12 years to the day since the US lost in extra time to Belgium at the 2014 World Cup in Brazil, the Americans have set up another date at the same stage with the Red Devils. They will face them on Monday in Seattle, Washington.\n\nOn Wednesday, another sold-out, pro-US crowd cheered loudly and often, and they were greeted with bright moments to start the match, albeit without the early goal that had come in each of the US games so far in this tournament.\n\nIn the fourth minute, Christian Pulisic mirrored the early danger he had posed to Paraguay in the US’s opener. Cutting inside from the left, the Milan winger shifted past Bosnia and Herzegovina defenders before rifling a shot that was blocked by Stjepan Radeljić. It was the best moment on an otherwise quiet night for Pulisic.\n\n“We had to dig deep for that one,” Pulisic said after the match. “It didn’t go exactly to plan with the red card, but that just shows what a good team we are. We said in the hydration break, you know, this is what it takes to be a really strong team. And, we were able to do it.”\n\nBosnia and Herzegovina forced an awkward save from Matt Freese 10 minutes in, resulting in a corner kick, and their young star Kerim Alajbegović attempted an audacious Olimpico Freese had to stretch, but it was kept out.\n\nAs the players and coaches gathered for the first-half hydration break, psychedelic rock band Rising Rhythm – live in the stadium – played a repeated riff. The US matched the band’s commitment to one idea for the rest of a physical first half. Sergiño Dest attempted runs behind the Bosnia and Herzegovina backline. McKennie continued to float wherever there happened to be space. And Balogun kept threatening.\n\nThe Monaco striker thought he had found the breakthrough after 32 minutes. Dest’s pressure as Bosnia and Herzegovina dawdled in possession freed the ball for McKennie, who found Balogun just as he shed his defender. An expert finish was applied and the crowd exploded, but the goal was soon called back. Balogun was a fraction offside, but the warning shot had been fired.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-01 @ 19:17:13 EDT",
+  "lastUpdated": "2026-07-02 @ 01:12:39 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
