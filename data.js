@@ -4,16 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Full speed at the Storsjöcupen",
+      "text": "⚽ The Storsjö Cup: The foreign teams are important for the atmosphere",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/full-fart-pa-storsjocupen"
-    },
-    {
-      "text": "⚽ Graham Potter defends Alexander Isak after the criticism: \"Unfair\"",
-      "link": "https://www.svt.se/sport/fotboll/graham-potter-forsvarar-alexander-isak-efter-kritiken-orattvist"
-    },
-    {
-      "text": "⚽ Nasa's crazy promise: Will send ball to the moon if USA wins World Cup gold",
-      "link": "https://www.svt.se/sport/fotboll/nasas-galna-lofte-skickar-boll-till-manen-om-usa-tar-vm-guld"
     }
   ],
   "timeline": {
@@ -9163,11 +9155,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4712_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Storsjö Cup: The foreign teams are important for the atmosphere",
+            "bullets": [
+              "Now Östersund is packed with footballers and their fans. It is the 500 participating football teams ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Now Östersund is packed with footballers and their fans. It is the 500 participating football teams and their families who are there.",
+            "fullText": "Now Östersund is packed with footballers and their fans. It is the 500 participating football teams and their families who are there.\n\nWins, losses, carnival atmosphere and lots of football players. Eva Danielsson and Björn B Schäfer are there to set the mood.\n\nBelow you will find a video with, among others, cup participants from Brunflo, Kramfors and Sörli, as well as a very experienced soccer mother.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 09:00:34 EDT",
+  "lastUpdated": "2026-07-02 @ 12:47:12 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
