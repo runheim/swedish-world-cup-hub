@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Will Folarin Balogun’s World Cup red card be struck off? No",
-      "link": "https://www.theguardian.com/football/2026/jul/01/folarin-balogun-red-card-world-cup-appeal-usmnt"
+      "text": "⚽ World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live"
     },
     {
       "text": "⚽ Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
@@ -4699,11 +4699,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5425_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+            "bullets": [
+              "⚽ All the latest news from day 22 of the tournament⚽ Bracketology | Knockout stage draw | And email...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest news from day 22 of the tournament⚽ Bracketology | Knockout stage draw | And email us And I appreciate all this has been forgotten because England won but Harry Kane should have been awarded a first-half penalty. When a goalkeeper slides and does not get the ball, of course the forward is going to take the contact. Kane is just being punished for being as clever as the officials desire.Maurico Pochettino was rather unhappy with Folarin Balogun’s dismissal. The striker painfully caught the Bosnia and Herzegovina defender Tarik Muharemovic on the ankle but it was a complete accident with two players going for the ball. Continue reading...",
+            "fullText": "In non-World Cup news:Tommy ElphickandShaun Cooperhave left their coaching positions atBournemouthto join former bossAndoni IraolaatLiverpool, PA reports.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5425_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Steely USA overcome Bosnia and Herzegovina and controversial red to reach World Cup last 16",
+            "bullets": [
+              "The US had their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief. Ma...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US had their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief. Mauricio Pochettino waved his hands towards the sky, incredulous.Folarin Balogun had been sent off after a seemingly innocent collision with Bosnia and Herzegovina’s Tarik Muharemović that saw the US striker land a foot on his opponent’s ankle. Just like that, the US’s high-flying World Cup journey had the feel of impending doom. The temperature had soared on a previously cool, sunny evening at San Francisco Bay Area Stadium. And it wouldn’t fall until Malik Tillman had his say. Continue reading...",
+            "fullText": "The UShad their hands on their heads. Weston McKennie’s face betrayed a look of total disbelief.Mauricio Pochettinowaved his hands towards the sky, incredulous.\n\nFolarin Balogun had been sent offafter a seemingly innocent collision with Bosnia and Herzegovina’s Tarik Muharemović that saw the US striker land a foot on his opponent’s ankle. Just like that, the US’s high-flying World Cup journey had the feel of impending doom. The temperature had soared on a previously cool, sunny evening at San Francisco Bay Area Stadium. And it wouldn’t fall until Malik Tillman had his say.\n\nTillman’s magnificently placed free-kick from the edge of the box put the finishing touch on a gritty 2-0 win overBosnia and Herzegovina, a win that propels the co-hosts into the last 16.\n\n“So proud of all my players,” Pochettino said after the game.\n\nSay that this was only the last 32. Bemoan the state of Fifa’s expansion to 48 teams. And certainly, complain all you like about the red card if you are a US fan. But the fact of the matter is this: the US men have won aWorld Cupknockout match. That alone vaults this team into a different conversation entirely; one that has not been dusted off since 2002, when Bruce Arena’s squad made the quarter-finals in the middle of the American night, when soccer in the US was in an entirely different state of popularity compared with today.\n\nWith this win, and the steely demeanor it took to achieve it, Pochettino’s team become a national conversation in the US. Exactly 12 years to the day since the US lost in extra time to Belgium at the 2014 World Cup in Brazil, the Americans have set up another date at the same stage with the Red Devils. They will face them on Monday in Seattle, Washington.\n\nOn Wednesday, another sold-out, pro-US crowd cheered loudly and often, and they were greeted with bright moments to start the match, albeit without the early goal that had come in each of the US games so far in this tournament.\n\nIn the fourth minute, Christian Pulisic mirrored the early danger he had posed to Paraguay in the US’s opener. Cutting inside from the left, the Milan winger shifted past Bosnia and Herzegovina defenders before rifling a shot that was blocked by Stjepan Radeljić. It was the best moment on an otherwise quiet night for Pulisic.\n\n“We had to dig deep for that one,” Pulisic said after the match. “It didn’t go exactly to plan with the red card, but that just shows what a good team we are. We said in the hydration break, you know, this is what it takes to be a really strong team. And, we were able to do it.”\n\nBosnia and Herzegovina forced an awkward save from Matt Freese 10 minutes in, resulting in a corner kick, and their young star Kerim Alajbegović attempted an audacious Olimpico Freese had to stretch, but it was kept out.\n\nAs the players and coaches gathered for the first-half hydration break, psychedelic rock band Rising Rhythm – live in the stadium – played a repeated riff. The US matched the band’s commitment to one idea for the rest of a physical first half. Sergiño Dest attempted runs behind the Bosnia and Herzegovina backline. McKennie continued to float wherever there happened to be space. And Balogun kept threatening.\n\nThe Monaco striker thought he had found the breakthrough after 32 minutes. Dest’s pressure as Bosnia and Herzegovina dawdled in possession freed the ball for McKennie, who found Balogun just as he shed his defender. An expert finish was applied and the crowd exploded, but the goal was soon called back. Balogun was a fraction offside, but the warning shot had been fired.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 01:12:39 EDT",
+  "lastUpdated": "2026-07-02 @ 08:54:42 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
