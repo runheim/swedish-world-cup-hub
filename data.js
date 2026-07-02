@@ -12,60 +12,28 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Kane scores twice as England come from behind to reach last 16",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ All the angles of Kane's brilliant winner",
       "link": "https://www.bbc.co.uk/sport/football/videos/cgev83898nzo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Win over DR Congo 'our best game of the tournament' - Kane",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c802jzd528eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Tuchel urges parents to let kids stay up for England game",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'That was a rocket' - Kane scores winner for England",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cz9lq8n04k0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Energy and team spirit at highest level - Tuchel",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cg53njjvnljo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Relief for England as Kane heads in equalising goal against DR Congo",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cg4wg7lee1vo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ 'He is ridiculous' - Rice praise for match-winner Kane",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Genuine superstar Kane produces his biggest England moment",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live"
-    },
-    {
-      "text": "⚽ Keir Starmer to allow pubs to stay open until 5am for England v Mexico match",
-      "link": "https://www.theguardian.com/lifeandstyle/2026/jul/02/starmer-pubs-stay-open-england-mexico-match-world-cup"
+      "text": "⚽ Ghosts of the Azteca: England return to scene of infamous Maradona handball",
+      "link": "https://www.theguardian.com/football/2026/jul/02/azteca-england-diego-maradona-handball-mexico-world-cup"
     },
     {
       "text": "⚽ Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just",
       "link": "https://www.theguardian.com/football/2026/jul/02/england-football-daily-geopolitics-world-cup"
     },
     {
-      "text": "⚽ Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
-      "link": "https://www.theguardian.com/football/video/2026/jul/02/harry-kanes-heroics-and-usa-stay-ahead-despite-red-world-cup-daily-video"
+      "text": "⚽ Thomas Tuchel claims Fifa rule puts England at ‘huge’ disadvantage in Mexico City altitude",
+      "link": "https://www.theguardian.com/football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage"
     },
     {
-      "text": "⚽ England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jul/01/england-avert-disaster-against-dr-congo-but-they-must-be-better-in-mexico-city"
+      "text": "⚽ Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
+      "link": "https://www.theguardian.com/football/video/2026/jul/02/harry-kanes-heroics-and-usa-stay-ahead-despite-red-world-cup-daily-video"
     },
     {
       "text": "⚽ Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
@@ -17623,11 +17591,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5949_0",
+            "category": "england",
+            "type": "News",
+            "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+            "bullets": [
+              "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues that remain for Thomas Tuchel.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nEngland were 15 minutes from one of the most abject humiliations in their World Cup history until Harry Kane's late heroics helped themovercome DR Congoto face Mexico in the last 16.\n\nKane scored twice to rescue England, as well as head coach Thomas Tuchel, who may not have survived a result that would have ranked alongside the last-16 defeat by Iceland at Euro 2016, and the loss to the United States at the 1950 World Cup, as a national embarrassment.\n\nInstead, England's World Cup dream lives on as they head to Mexico City, and into a nation alive with passion and football fever, to face the co-hosts in the iconic surrounding of Azteca Stadium.\n\nEngland's win, however, did not cover cracks exposed regularly in this campaign as well as obvious flaws in selection and performance.\n\nGenuine superstar Kane produces his biggest England moment\n\nWhy did England struggle against DR Congo - and what can they learn?\n\nEngland head coach Thomas Tuchel has plenty of issues to resolve before they face Mexico in Mexico City in the World Cup last 16\n\nKane and Jude Bellingham have been England's standout performers at this World Cup, contributing goals and world-class inspiration.\n\nThe pair were both on target in Group L wins against Croatia and Panama. They were England's leading lights against DR Congo.\n\nIt would help England and Tuchel's cause if others could come to the party. As good as Kane and Bellingham are, there will come a day when they do not bail under-performing team-mates and their head coach out.\n\nBellingham and Kane have been England's driving forces as they have reached the World Cup's last 16",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_1",
+            "category": "england",
+            "type": "News",
+            "title": "England have 'big concerns' - so who would you pick to face Mexico?",
+            "bullets": [
+              "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
+            "fullText": "After England's last-32 win over DR Congo former Three Lions forward Wayne Rooney said there are still \"big concerns\" - so how does manager Thomas Tuchel fix them?\n\nCaptain Harry Kane came to their rescue with two late goals inWednesday's comeback victory, setting up a last-16 showdown with Mexico.\n\nBut questions remain from back to front, with the right-back spot and wide forward positions both up for debate.\n\nCan Djed Spence be trusted at full-back? Did Anthony Gordon do enough to oust Marcus Rashford from the starting line-up with two assists? Do England risk Bukayo Saka's fitness?\n\nYou can select and share your Three Lions team for the match at Azteca Stadium below.\n\nWatch on BBC One and iPlayer, listen on BBC Radio 5 Live and BBC Sounds, plus follow on the BBC Sport website and app as England face Mexico in the last 16 of the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_2",
+            "category": "england",
+            "type": "News",
+            "title": "All the angles of Kane's brilliant winner",
+            "bullets": [
+              "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game in Atlanta.",
+            "fullText": "All the angles of Harry Kane's winning goal for England against DR Congo in their round of 32 game in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel urges parents to let kids stay up for England game",
+            "bullets": [
+              "England manager Thomas Tuchel urges parents to let their children stay up to watch England take on M...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel urges parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nEngland manager Thomas Tuchel has urged parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.\n\nWhileEngland's win against DR Congo on Wednesdaykicked off at 17:00 BST, the Mexico fixture gets under way at 01:00 BST on Monday.\n\nIt will be live on BBC TV, radio and online, but most kids are still waiting for the summer holidays to kick in, leaving parents with a real dilemma on a school night.\n\nAsked for his message to parents, Tuchel said: \"Write an excuse for school and let them watch.\n\n\"There's so much school to go to, but the World Cup is every four years. Let them watch.\n\n\"There will be a big match in four days, and we need the support of everyone, especially the children.\"\n\nWhile parents face tough decisions, teachers are coming up with inventive ways to get round kids potentially missing school.\n\nSteve Heal, headteacher at Malmesbury Primary School in Wiltshire, explained the school would be open from 07:00 BST to show the game in full on delay to their students.\n\n\"We'll give them a bit of breakfast, and we'll be done by nine o'clock in time to start school,\" he said.\n\n\"That way they're not going to miss a night's sleep and they're not going to miss a morning of school and we'll just ask their parents to not let them know what the result is.\"\n\nHeal said should the game go to extra time, an exception might be made.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5949_4",
+            "category": "england",
+            "type": "News",
+            "title": "Ghosts of the Azteca: England return to scene of infamous Maradona handball",
+            "bullets": [
+              "Mexico have a formidable record in their iconic stadium but for many it will always be associated wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mexico have a formidable record in their iconic stadium but for many it will always be associated with one playerAs soon as the World Cup draw was completed in Washington DC last December, the date went into the diary, circled in bold by every England fan that hoped to travel, and millions more who knew they would not. Sunday 5 July, Mexico City. If everything went to plan and Thomas Tuchel’s team topped Group L and won their last-32 tie, they would be going to the Azteca Stadium for the last 16.There was another element in play. If Mexico won their group and advanced in the last 32, they would provide the opposition. Just imagine. England to play a critical knockout tie against one of the host nations in their back yard. It is a back yard where Mexico boast a fearsome record, where they feel close to invincible, owing in part to it being about 2,240 metres above sea level. The altitude can spin the heads of opposing players, burn their lungs. It does not affect Mexico. Continue reading...",
+            "fullText": "Mexico have a formidable record in their iconic stadium but for many it will always be associated with one player\n\nAs soon as theWorld Cupdraw was completed in Washington DC last December, the date went into the diary, circled in bold by every England fan that hoped to travel, and millions more who knew they would not. Sunday 5 July, Mexico City. If everything went to plan and Thomas Tuchel’s team topped Group L and won their last-32 tie, they would be going to the Azteca Stadium for the last 16.\n\nThere was another element in play. If Mexico won their group and advanced in the last 32, they would provide the opposition. Just imagine.Englandto play a critical knockout tie against one of the host nations in their back yard. It is a back yard where Mexico boast a fearsome record, where they feel close to invincible, owing in part to it being about 2,240 metres above sea level. The altitude can spin the heads of opposing players, burn their lungs. It does not affect Mexico.\n\nThen there is the atmosphere created by the 80,824 fanatics that pack it out. You think you have seen it all? You think you have heard and felt what the most pulsating stadiums have to offer? Not until you have experienced a World Cup game involving Mexico at the Azteca. For England, it is now gloriously real, the ultimate bucket-list fixture set up whenthey beat the Democratic Republic of the Congo(DRC) on Wednesday in Atlanta – the day afterMexico had swept past Ecuadoron a thunderous night at the Azteca, when the party throbbed until the next morning.\n\nThere is, of course, something else, something deeper. It touches the soul of every England supporter; a scar that will never heal. Tuchel and his players will not only be taking on the full force of a nation. They will feel the chills of a ghost. If the Azteca is all things to all Mexicans and many things to plenty of others, it means just one to England fans.The Hand of God.\n\nEngland versus Argentina in the quarter-final of the 1986 World Cup. The images are grainy and there are the little details, too, which somehow endure. Such as the spider-shaped shadow from a structure high up in the Azteca that was fixed around the centre circle throughout the game. Diego Maradona’s goal to put Argentina 2-0 up and set them fair for victory was arguably the greatest of all time. But it was when he leapt shortly before that with his hand above his head that he assured himself of infamy.\n\nTuchel was 12 years old at the time, watching from home in Germany. He did not feel it like an England fan and yet he felt it. “It was not only English people,” he says. “Even me. I didn’t have a connection to English football in those days but even I know this moment. I remember, of course, the World Cup of Maradona. The two goals against England. The one dribbling and the one … yeah, which would never stand these days.”\n\nIs it trite or just wrong to cast Tuchel and his team as avengers at the Azteca? Whatever the case, the manager is on board with the sentiment. It is as if he believes he can harness something from the memory. “It will reward us,” he says, his eyes sparkling. “We will get it back. Karma will come back for us. We will turn it around.”\n\nLike every football obsessive, Tuchel loves to reminisce about his childhood World Cup memories.Mexico86 made an impression on him and it all goes into the mix for Sunday’s showpiece. He talks about the strong Soviet Union team from that tournament which lost 4-3 after extra time to Belgium in a last-16 epic. “I remember Vasyl Rats [of the Soviet Union] and then Jan Ceulemans for Belgium,” he says. “I also remember the thing that was hanging in the centre of the Azteca and the shadow from it never moved. The sun was so steep that the shadow was always around the middle circle. I remember the coffee table book that came from the World Cup, the pictures of this stadium and all these flags … and how steep it was.\n\n“It’s an iconic stadium. Germany played there in the final. So I’m super excited to have this match. It’s an iconic match to have in Mexico against Mexico. We will play against the whole country, against the energy of the whole country, in their stadium.”\n\n“I just love football and the old tournaments,” he adds. “These pictures from Mexico … they are in St George’s Park where we stay in the hotel. These big framed pictures of Gary Lineker scoring, of the coaches, of Peter Shilton. They are big pieces of history. This is a good moment to make our peace with the stadium and turn things around.”\n\nThe excitement in Mexico City is careering off the scale. Make no mistake, the locals wanted to face England, not the DRC. In the cafes around town, they were happy when Harry Kane scored his late goals to spark England’s 2-1 come-from-behind win.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5950_5",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!“For us now, it’s absolutely not a time to panic,...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!“For us now, it’s absolutely not a time to panic,” Anthony Barry urged in his now customary half-time debrief, with England 1-0 down to a Democratic Republic of Congo side playing with serious confidence. Thomas Tuchel’s No 2 coldly broke down what was required in the second half – “not a time to play gung-ho football” – but was done dirty by the stat that flashed up on the BBC’s coverage as he spoke. The last time England went on to win a World Cup match in which they conceded first? West Germany in the 1966 final. Yes, you may panic.As an ex-pat Sassenach now living in Edinburgh, capital of the Democratic Republic of Scongo, I can only express my frustration at Harry Kane for depriving the locals of what would inevitably have been an extra bank holiday today. Oh well, all attention now turns to the wee small hours of Monday, when Edinburgh becomes the capital of MexiSco” – John Collins.That was a statement win. I think we deserve to get one of our exclamation points back. Can we please at least be USA USA USA! now?” – Pat Condreay [thoughts? – Football Daily Ed]. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\n“For us now, it’s absolutely not a time to panic,” Anthony Barry urged in his now customary half-time debrief, with England 1-0 down to a Democratic Republic of Congo side playing with serious confidence. Thomas Tuchel’s No 2 coldly broke down what was required in the second half – “not a time to play gung-ho football” – but was done dirty by the stat that flashed up on the BBC’s coverage as he spoke. The last time England went on to win a World Cup match in which they conceded first? West Germany in the 1966 final. Yes, you may panic.\n\nDear England, were you ready to accept defeat, to scrape hard for excuses? This was a Lionel M exhibition, of course – even if it was Mpasi in goal rather than Messi up top. And you can forget about England’s right-back problem: how about that display from the Croydon-born Aaron Wan-Bissaka, even if he was playing for the opposition? Maybe it was time to pack up and accept that a home Euros in two years is the more realistic shout, bursting with that third-time-lucky narrative. The last decade has been a good run. We move.\n\nHarry Kanewasn’t having it. With his late double he turned a potential re-run ofIceland 2016intoSlovakia 2024, and served up a reminder too: England are, believe it or not, quite good at this nowadays. This was their 10th knockout victory at a major tournament in the last eight years; the previous 40 years produced just six. They haven’t imploded in quite some time and Kane is a major reason with 11 knockout goals in five tournaments. “They’re all sharks,”proclaimed Tuchelwhen discussing Kane and fellowBallon d’Or! Ballon d’Or! Ballon d’Or!contenders Messi, Kylian Mbappé and Erling Haaland. “If they smell blood, they come and score.”\n\nThat all sounds a little too intense for the kids, but Tuchel wants them to stay up in the UK and watch England take on Mexico in the early hours of Monday BST. “Let them watch,” tooted Tuchel. “There will be a big, big match in four days and we need the support of everyone and especially of the children,” he added, stopping just short of breaking into a rendition ofGreatest Love of All. With the tournament co-hosts unbeaten in 10 World Cup games at altitude inside the gargantuan Azteca, England could do with help from all corners.\n\nLast-32 week continues apace. Join Rob Smyth at 8pm BST/3pm EDT for Spain 3-0 Austria then our US counterparts will be on hand at midnight BST/7pm EDT for Portugal 1-0 Croatia (aet). To round things off, we’ll also bring you Switzerland 3-2 Algeria at 4am BST/11pm EDT.\n\nIf you’re not already doing so, check outBig Website’s Instachat account, now featuring Barney Ronay’s latest GWC diary, DR Congo and England fans taking in their last-32 meeting, plus a snazzy visualisation of Harry Kane’s winner.\n\n“I don’t know why they were arguing but I like that – we need that kind of grit on the pitch. When I took the team over 18 months ago, I thought they were very good when in control of the ball, but I thought they were not aggressive enough and that’s not how you get a result – you need to be solid, you need to battle to be there. We’re a better team if we keep this up” – Rudi Garcia is happy to see more set-tos between his Belgium players if it fires them up like it did in thewild 3-2 comeback win after extra time against Senegal.\n\ndouble quotation markAs an ex-pat Sassenach now living in Edinburgh, capital of the Democratic Republic of Scongo, I can only express my frustration at Harry Kane for depriving the locals of what would inevitably have been an extra bank holiday today. Oh well, all attention now turns to the wee small hours of Monday, when Edinburgh becomes the capital of MexiSco” – John Collins.\n\ndouble quotation markThat was a statement win. I think we deserve to get one of our exclamation points back. Can we please at least be USA USA USA! now?” – Pat Condreay [thoughts? – Football Daily Ed].\n\ndouble quotation markAt the risk of turning this newsletter into the Chocolate Daily (Football Daily letters passim), as a French expat in Canada, I’d like to point out that chocolate is one of those foods with a pretty long shelf-life at room temperature, meaning that, in most civilised countries, it really is not that hard to purchase and enjoy very fine chocolate indeed. That said, if England and the USA USA USA really want to duke it out for the title of Worst Chocolate, maybe ask Fifa to organise an alternate GWC?” – Pierre Igot.\n\ndouble quotation markWhile I agree that American artisan chocolate is very good, I want to say that Hershey is the Fifa of chocolatiers. Don’t believe me? I’ll refer you to the upcoming biopic of its eponymous founder, which seems, at least judgingby its trailer, to be the United Passions of confectionary films” – Kári Tulinius.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5950_6",
+            "category": "england",
+            "type": "News",
+            "title": "Thomas Tuchel claims Fifa rule puts England at ‘huge’ disadvantage in Mexico City altitude",
+            "bullets": [
+              "FA’s preferred acclimatisation option ruled outTuchel reveals Declan Rice came off ‘in terrible pain...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FA’s preferred acclimatisation option ruled outTuchel reveals Declan Rice came off ‘in terrible pain’Thomas Tuchel says England will be at a “huge” disadvantage in the high altitude of Mexico City on Sunday when they face Mexico in the last 16 of the World Cup as he lamented a Fifa rule that has shut down one possible acclimatisation plan.The Football Association has looked into how the altitude will affect the England players and spoken to teams from other sports as part of its research. They included the British Olympic team. One of the findings is that if it is not possible to travel to the venue 10 days beforehand to get used to the conditions, then it would be preferable to go on the day of the game – arriving as close to kick-off as possible. Continue reading...",
+            "fullText": "Tuchel reveals Declan Rice came off ‘in terrible pain’\n\nThomas Tuchel says England will be at a “huge” disadvantage in the high altitude of Mexico City on Sunday when they face Mexico in the last 16 of the World Cup as he lamented a Fifa rule that has shut down one possible acclimatisation plan.\n\nThe Football Association has looked into how the altitude will affect theEnglandplayers and spoken to teams from other sports as part of its research. They included the British Olympic team. One of the findings is that if it is not possible to travel to the venue 10 days beforehand to get used to the conditions, then it would be preferable to go on the day of the game – arriving as close to kick-off as possible.\n\nBut Fifa has decreed that from the last 16 onwards, teams must train in “venue-specific sites” close to the stadiums the day before matches. It has meant that England will have to fly to Mexico City from their base in Kansas City on Friday afternoon. They returned to Kansas City on Wednesday from Atlanta after their2-1 win over the Democratic Republic of the Congo(DRC) in the last 32.\n\nMexico have played three of their four tournament matches at the Azteca Stadium inMexicoCity, which is about 2,240 metres above sea level. They are used to the altitude, which can affect athletic performance, whereas Tuchel accepts it will be new for his players.\n\n“The recommendation is you either go 10 days before – which is too long for us – or last minute, which is not allowed [by Fifa],” the head coach said. “We have spoken to teams who do it and they say they travel very, very late on matchday if they cannot have time to adapt. [We must] find a mixture in between. It will stay as a disadvantage.”\n\nTuchel was asked whether it was unfair. “Yes, it’s a huge advantage [for Mexico],” he replied.\n\nTuchel did see one positive from having an extra day in Mexico City; England have travelled to their previousWorld Cupmatches the day beforehand. “The ball will fly differently [in the altitude],” he said. “It will fly maybe five yards more. It’s just difficult. We just need the experience.”\n\nTuchel offered an insight into how his key midfielder, Declan Rice, was battling through matches. Rice has managed nerve pain in a hamstring since Christmas and felt it in England’s opening World Cup game against Croatia, when he was withdrawn in the 72nd minute. He missed game threeagainst Panamawith an unrelated calf knock but felt the nerve issue again against the DRC, with Tuchel substituting him in the 89th minute.\n\nRice has insisted he will be OK for the Mexico game. Jarell Quansah, who went off with an ankle problem against Panama and was unavailable against the DRC, is understood to be winning his fitness battle for Mexico.\n\n“I asked Declan how he was,” Tuchel said. “He said: ‘I can do it for the team but I am in terrible pain.’ And when Declan tells you he is in terrible pain then you know he cannot take it any more. He was grateful we took him off but he said after the game it’s not an issue. There is no injury. I think he will recover. He was just in pain and I hope he is right. It’s more neural pain. Can he go from game to game? He can, yes.”\n\nTuchel was also asked whether he was worried about Mexico fans making a racket outside the England team hotel the night before the game. Ecuador complained to Fifa after fireworks were let off outside their hotel the night before they lost to Mexico in the last 32.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5950_7",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5959_8",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+            "bullets": [
+              "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+            "fullText": "The looks said it all. Every member of theEnglandsquad craning their necks, arms locked, staring intently at Harry Kane as he stood in the middle of a huddle and delivered a tub-thumping team talk. It ended with a cry of: “We go again!”\n\nEngland do go again. But only just. And only because of Kane, their captain, leader, saviour and world-class striker. O Captain! My Captain!\n\nKane scored the two late goals to overturn what was heading towards being one of the greatest humiliations in tournament history for England.\n\nThat is no exaggeration. Losing to the Democratic Republic of Congo in the last 32 of the World Cup would have been up there with being beaten by Iceland in the last 16 of the European Championship in 2016.\n\nAnd as with Roy Hodgson quitting after that seismic shock, so Thomas Tuchel could not have expected to remain as manager had England lost. It was that precarious.\n\nAfter the post-match huddle, the England players turned and stood in front of the fans who serenaded them with Oasis’sWonderwall,which they want to make the anthem of this campaign. That line “because maybe, you’re gonna be the one that saves me” resonated so deeply. It belonged to Kane. He saved England. Again.\n\nTake it in! 🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿England's players share another special Wonderwall moment with their fans after the game 🎶#FifaWorldCuppic.twitter.com/KMa4GBP8ve\n\nThe 32-year-old is a phenomenon. He has 72 goals in 62 games this season for club and country. Those are incredible numbers. Only Lionel Messi has scored more in one campaign, when he was in his pomp at Barcelona. Talk of Messi, who has shone so brightly in this World Cup with six goals, shows the company Kane is keeping.\n\nIn a tournament where the big names have stepped up – Messi, Kylian Mbappé and Erling Haaland – so has Kane. He is one of them. One of the greats. Maybe he will eventually beEngland’s greatestand for all the understandable debate over the importance of Jude Bellingham when we talk about England, we first talk about Kane.\n\nHis 75th and 86th-minute goals mean he now has 13 in World Cups, ahead of Pelé, and five in this tournament alone. For England he has 84 in just 118 appearances and will surely end up with more than 100, such is his appetite, such is his desire and iron belief.\n\nTake both the goals. England had chances against Congo, after falling behind in a first quarter in which they were a panicky mess. And that is on Tuchel. But the pressure was not paying off. That was until Kane did what great strikers do. A cross came in from substitute Anthony Gordon and Kane just wanted it, he made sure the header was his. And England were level.\n\nHarry Kane pulls England level against DR Congo! 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽The captain delivers when the Three Lions needed him most 🦁🙌pic.twitter.com/JMmPOlmqhm",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 12:49:51 EDT",
+  "lastUpdated": "2026-07-02 @ 15:59:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
