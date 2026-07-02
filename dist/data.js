@@ -6,6 +6,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Malik Tillman’s bloody sock game rockets into US World Cup history",
       "link": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
+    },
+    {
+      "text": "⚽ USMNT win smashes record for most-watched soccer broadcast with 33.5 million viewers",
+      "link": "https://www.theguardian.com/football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record"
     }
   ],
   "timeline": {
@@ -4798,11 +4802,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0829_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Malik Tillman’s bloody sock game rockets into US World Cup history",
+            "bullets": [
+              "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament....",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faithWhile Malik Tillman was unsure what to expect from the United States’ last-32 clash with Bosnia and Herzegovina, he certainly must have assumed he would finish the game with his boots intact.Tillman has been one of the US’s most important players in their run to the World Cup last 16, a vital part of the team’s buildup and a tricky technician for opponents to contend with when he’s maneuvering through the final third. While everyone else waited to learn whether or not Folarin Balogun would be sent off during the second half of Wednesday’s 2-0 victory, Tillman noticed some discomfort with his right boot. There was a good reason: the top of it had been ripped after a stomp from an opponent. Continue reading...",
+            "fullText": "The midfielder had to work hard to win his place in Mauricio Pochettino’s squad for this tournament. He is more than repaying his coach’s faith\n\nWhile Malik Tillman was unsure what to expect from the United States’last-32 clashwith Bosnia and Herzegovina, he certainly must have assumed he would finish the game with his boots intact.\n\nTillman has been one of the US’s most important players in their run to the World Cup last 16, a vital part of the team’s buildup and a tricky technician for opponents to contend with when he’s maneuvering through the final third. While everyone else waited to learn whether or not Folarin Balogun would be sent off during the second halfof Wednesday’s 2-0 victory, Tillman noticed some discomfort with his right boot. There was a good reason: the top of it had been ripped after a stomp from an opponent.\n\nAt the ensuing hydration break, the US’s equipment manager, Kyle Robertson, sprinted to the locker room to retrieve a fresh pair of boots for the attacking midfielder. Rather than put on both, Tillman simply swapped out his right, playing on with a blood-stained sock underneath.\n\nFifteen minutes later, his new equipment made its mark. Playing down a man after Balogun’s red card, the US won a free-kick just beyond the edge of the box. After consulting with Antonee Robinson, Tillmanhit a pearl of a free-kick over the Bosnia and Herzegovina walland into the net. The goal all but sealed the match.\n\n“We’d been going through all the ways we could possibly take this free-kick,” Tillman said after the win. “We talked about going under the wall, we talked about going keeper-side, we talked about going over the wall. Now I know some guys doubted me to go over the wall, but I practiced this in training, and I’m happy with it.”\n\nTillman has worked hard to claim a place in Mauricio Pochettino’s team. After making his debut midway through 2022, Tillman was among the toughest cuts from Gregg Berhalter’s squad for that year’sWorld Cup. The next few years saw him called into camp, but seldom given starts with Berhalter’s A-team.\n\nTillman finally got his opportunity last summer as one of the few Europe-based US players who made themselves available for the Gold Cup. Throughout that tournament, Tillman was Pochettino’s primary playmaker. In the quarter-final against Costa Rica, he failed to convert a first-half penalty but sunk his second chance against Keylor Navas in the shootout. Those performances affirmed his big-game bona fides and made it difficult for Pochettino to leave him on the bench.\n\n“He’s been playing so well,” captain Tim Ream said after Wednesday’s win. “I’d argue he’s, other than Balo’s goals, been one of our best players. Everywhere on the field, doing the dirty things, but then making hard things look easy. He just wanted to feel like he had a place, and he’s a quiet kid, but he’s just come on in leaps and bounds.”\n\nTillman’s technique on his free-kick goal against Bosnia was sublime. He took five paces back from the ball, then one step forward to set up his stride. His strike put the necessary and difficult spin on the ball, looping it just over the head of the wall’s tallest member, 6ft 7in Stjepan Radeljić, and back down under the crossbar.\n\nTillman became just the second player in USMNT history to score from a direct free-kick at a World Cup.The first was Eric Wynalda in 1994, who memorably exploited the unusual air currents at the Silverdome against Switzerland. The open-air San Francisco Bay Stadium in Santa Clara offered no such help, but both goals were met with similar rapture from US fans.\n\n“It was amazing,” Pochettino said after the match. “I think Malik is an amazing player, full of talent. We knew that he had that talent [on free kicks] to do what he did. I am so happy for him. It was a tough season for him at Leverkusen but I think now he is enjoying, we are enjoying, and the fans are enjoying his play.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0830_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT win smashes record for most-watched soccer broadcast with 33.5 million viewers",
+            "bullets": [
+              "Fox averages 24.429 million; 9.1 million on TelemundoOutpaces averages of NBA Finals, Sunday Night F...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fox averages 24.429 million; 9.1 million on TelemundoOutpaces averages of NBA Finals, Sunday Night FootballMonday’s last-16 matchup sure to challenge record againThe US men’s national team’s dramatic win over Bosnia and Herzegovina in the World Cup on Wednesday drew a record television audience, according to preliminary reports released by Fox Sports and Telemundo.The game had an average of 24.429 million viewers on Fox, making it the most-watched English-language soccer broadcast in US history, the broadcaster said. The Fox telecast peaked at 31.883 million. Telemundo, which holds the Spanish language rights to World Cup broadcasts in the US, reported 9.1 million viewers over the total game window. Continue reading...",
+            "fullText": "Fox averages 24.429 million; 9.1 million on Telemundo\n\nOutpaces averages of NBA Finals, Sunday Night Football\n\nMonday’s last-16 matchup sure to challenge record again\n\nThe US men’s national team’sdramatic winover Bosnia and Herzegovina in the World Cup on Wednesday drew a record television audience, according to preliminary reports released by Fox Sports and Telemundo.\n\nThe game had an average of 24.429 million viewers on Fox, making it the most-watched English-language soccer broadcast in US history, the broadcaster said. The Fox telecast peaked at 31.883 million. Telemundo, which holds the Spanish language rights toWorld Cupbroadcasts in the US, reported 9.1 million viewers over the total game window.\n\nWhile the full audience number will not be released by Nielsen until Monday, the total of more than 33 million viewers would place Wednesday’s game among the most-watched US television events of the year.\n\nAccording to Sportico,only 12 telecastscleared the 33-million mark in the US last year. That includes seven NFL playoff games, the Super Bowl and the State of the Union address.\n\nThis year’s NBA Finals between the New York Knicks and San Antonio Spurs – which had their highest audience in nearly three decades – averaged an audience of 20.5 million, with Game 5 averaging 24.5 million and peaking at 33 million. The final game of last year’s World Series averaged 27.3 million viewers in the US.\n\nThe NFL’s Sunday Night Football telecast averaged 23.5 million last season.\n\nSuch an audience number would have once been unfathomable for US soccer. The 2022 World Cup final between Argentina and France drew 25.8 million viewers between Fox and Telemundo. The US’s most-watched game at that tournament, a group-stage draw with England, drew an audience of 19.9 million across Fox and Telemundo; their last-16 game against the Netherlands had 16.5 million.\n\nThis World Cup has seen record US television audiences, owing to the North American location, a heavy dose of star power and time-zone-friendly kick-offs. The group stage on Fox was the most-watched in English-language US history, with the USMNT’s opener against Paraguay leading the way with an average audience of 18.039 million.\n\nThelast-32 matchbetween the Netherlands and Morocco, which finished in a tense penalty shootout, on Monday set a record for the most-watched English-language World Cup game not to feature the US team or be a World Cup final with 10.020 million average viewers.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 16:01:10 EDT",
+  "lastUpdated": "2026-07-02 @ 19:08:49 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
