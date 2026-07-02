@@ -4,20 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Full speed at the Storsjöcupen",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/full-fart-pa-storsjocupen"
+    },
+    {
       "text": "⚽ Graham Potter defends Alexander Isak after the criticism: \"Unfair\"",
       "link": "https://www.svt.se/sport/fotboll/graham-potter-forsvarar-alexander-isak-efter-kritiken-orattvist"
     },
     {
       "text": "⚽ Nasa's crazy promise: Will send ball to the moon if USA wins World Cup gold",
       "link": "https://www.svt.se/sport/fotboll/nasas-galna-lofte-skickar-boll-till-manen-om-usa-tar-vm-guld"
-    },
-    {
-      "text": "⚽ Tired football fans from 1994 went viral - now Jimmy is fed up again",
-      "link": "https://www.svt.se/nyheter/lokalt/vasternorrland/trotta-fotbollsfans-fran-1994-blev-virala-nu-ar-jimmy-trott-igen"
-    },
-    {
-      "text": "⚽ William and Bella followed Sweden's parade in Vasaparken in Västerås: \"To hell with it\"",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/folkfest-i-vasteras-nar-sverige-akte-ur-fotbolls-vm"
     }
   ],
   "timeline": {
@@ -9110,11 +9106,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0025_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Full speed at the Storsjöcupen",
+            "bullets": [
+              "Now Östersund is packed with footballers and their fans. It is the 500 participating football teams ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Now Östersund is packed with footballers and their fans. It is the 500 participating football teams and their families who are there.",
+            "fullText": "Now Östersund is packed with footballers and their fans. It is the 500 participating football teams and their families who are there.\n\nWins, losses, carnival atmosphere and lots of football players. Eva Danielsson and Björn B Schäfer are there to set the mood.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0029_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Graham Potter defends Alexander Isak after the criticism: \"Unfair\"",
+            "bullets": [
+              "Alexander Isak received criticism after the losing match against France. Now he is taken in defense ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Alexander Isak received criticism after the losing match against France. Now he is taken in defense by national team captain Graham Potter. - Coming up with individual criticism is unfair, he says.",
+            "fullText": "Alexander Isak received criticism after the losing match against France. Now he is being defended by national team captain Graham Potter. - Coming up with individual criticism is unfair, he says.\n\nDuring the World Cup, Zlatan Ibrahimovic is an expert on the American television channel Fox and shares a studio with the legendary Thierry Henry.\n\nOn the corner variation where France scored 1–0, Ibrahimovic thought that Alexander Isak should have defended better.\n\nIsak has also been criticized for not creating much going forward, neither against France nor in the games before that.\n\nBut Isak was defended by national team captain Graham Potter at a press conference the day after Sweden's World Cup exit.\n\n- When you lose, it's easy to point at players, that they should be able to do this and that. But we face top teams who don't make it easy for us.\n\n- Making individual criticisms here is unfair, because as a collective we were not as good as France.\n\nPotter received some criticism before the WC because he left several talented young players out of the squad, for example Roony Bardghji and Hugo Larsson. That criticism has remained even during the World Cup, when some wondered if Larsson in particular could not have been good to have in the squad. But Potter says he wouldn't have done anything differently in hindsight.\n\n- No, I don't think so. It's not something I would have changed, he says, and elaborates a little later:\n\n- Regarding the squad and how they came together, I'm really happy with everything. But it is clear that the squad can change and there is a new season ahead and it will be exciting to see what happens.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0034_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Nasa's crazy promise: Will send ball to the moon if USA wins World Cup gold",
+            "bullets": [
+              "Nasa chief Jared Isaacman promises to send a football to the moon - if the USA wins the World Cup. -...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Nasa chief Jared Isaacman promises to send a football to the moon - if the USA wins the World Cup. - The challenge is thus given: Team USA, now it's about getting the job done, says Isaacman.",
+            "fullText": "Nasa chief Jared Isaacman promises to send a soccer ball to the moon - if the USA wins the World Cup. - The challenge is thus given: Team USA, now it's time to get the job done, says Isaacman.\n\nNasa has already sent an official ball to the International Space Station (ISS) due to the USA sharing the hosting of the World Cup with Mexico and Canada this year.\n\nBut should the Americans succeed in winning the championship, Isaacman promises to send a soccer ball further into space than ever before.\n\nIsaacman is supported by NASA's program manager for the lunar base, Carlos Garcia-Galan.\n\n- If the USA wins the WC, we will probably find a place for it, he says.\n\nThe USA will play in the round of 16 against Bosnia-Herzegovina at 02:00 on Thursday night.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 01:13:52 EDT",
+  "lastUpdated": "2026-07-02 @ 09:00:34 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
