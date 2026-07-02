@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ England have 'big concerns' - so who would you pick to face Mexico?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Kane scores twice as England come from behind to reach last 16",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx2j83vg72go?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -22,10 +26,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Tuchel urges parents to let kids stay up for England game",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd95g9y8k24o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Genuine superstar Kane produces his biggest England moment",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'That was a rocket' - Kane scores winner for England",
@@ -44,12 +44,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cgmdlrrgezjo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: England, USA and Belgium through; Spain and Portugal face last-32 tests – live",
+      "text": "⚽ Genuine superstar Kane produces his biggest England moment",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgd12vj79qo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live",
       "link": "https://www.theguardian.com/football/live/2026/jul/02/world-cup-2026-england-and-belgium-fight-back-spain-v-austria-buildup-and-more-live"
     },
     {
-      "text": "⚽ Harry Kane the one who saves Tuchel as England avoid another traumatic exit | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/jul/01/harry-kane-saves-england-a-moment-of-generational-trauma-in-waiting"
+      "text": "⚽ Keir Starmer to allow pubs to stay open until 5am for England v Mexico match",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jul/02/starmer-pubs-stay-open-england-mexico-match-world-cup"
+    },
+    {
+      "text": "⚽ Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just",
+      "link": "https://www.theguardian.com/football/2026/jul/02/england-football-daily-geopolitics-world-cup"
     },
     {
       "text": "⚽ Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
@@ -58,10 +66,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg",
       "link": "https://www.theguardian.com/football/2026/jul/01/england-avert-disaster-against-dr-congo-but-they-must-be-better-in-mexico-city"
-    },
-    {
-      "text": "⚽ 'A huge advantage for Mexico' - England face an Azteca altitude problem",
-      "link": "https://www.skysports.com/football/news/12040/13559666/mexico-vs-england-thomas-tuchels-side-face-a-huge-altitude-problem-by-playing-world-cup-round-of-16-at-7000-feet"
     },
     {
       "text": "⚽ Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
@@ -17324,11 +17328,306 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4939_0",
+            "category": "england",
+            "type": "News",
+            "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+            "bullets": [
+              "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues that remain for Thomas Tuchel.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nEngland were 15 minutes from one of the most abject humiliations in their World Cup history until Harry Kane's late heroics helped themovercome DR Congoto face Mexico in the last 16.\n\nKane scored twice to rescue England, as well as head coach Thomas Tuchel, who may not have survived a result that would have ranked alongside the last-16 defeat by Iceland at Euro 2016, and the loss to the United States at the 1950 World Cup, as a national embarrassment.\n\nInstead, England's World Cup dream lives on as they head to Mexico City, and into a nation alive with passion and football fever, to face the co-hosts in the iconic surrounding of Azteca Stadium.\n\nEngland's win, however, did not cover cracks exposed regularly in this campaign as well as obvious flaws in selection and performance.\n\nGenuine superstar Kane produces his biggest England moment\n\nWhy did England struggle against DR Congo - and what can they learn?\n\nEngland head coach Thomas Tuchel has plenty of issues to resolve before they face Mexico in Mexico City in the World Cup last 16\n\nKane and Jude Bellingham have been England's standout performers at this World Cup, contributing goals and world-class inspiration.\n\nThe pair were both on target in Group L wins against Croatia and Panama. They were England's leading lights against DR Congo.\n\nIt would help England and Tuchel's cause if others could come to the party. As good as Kane and Bellingham are, there will come a day when they do not bail under-performing team-mates and their head coach out.\n\nBellingham and Kane have been England's driving forces as they have reached the World Cup's last 16",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4939_1",
+            "category": "england",
+            "type": "News",
+            "title": "England have 'big concerns' - so who would you pick to face Mexico?",
+            "bullets": [
+              "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
+            "fullText": "After England's last-32 win over DR Congo former Three Lions forward Wayne Rooney said there are still \"big concerns\" - so how does manager Thomas Tuchel fix them?\n\nCaptain Harry Kane came to their rescue with two late goals inWednesday's comeback victory, setting up a last-16 showdown with Mexico.\n\nBut questions remain from back to front, with the right-back spot and wide forward positions both up for debate.\n\nCan Djed Spence be trusted at full-back? Did Anthony Gordon do enough to oust Marcus Rashford from the starting line-up with two assists? Do England risk Bukayo Saka's fitness?\n\nYou can select and share your Three Lions team for the match at Azteca Stadium below.\n\nWatch on BBC One and iPlayer, listen on BBC Radio 5 Live and BBC Sounds, plus follow on the BBC Sport website and app as England face Mexico in the last 16 of the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4940_2",
+            "category": "england",
+            "type": "News",
+            "title": "Kane scores twice as England come from behind to reach last 16",
+            "bullets": [
+              "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+            "fullText": "Harry Kane scores twice as England come from behind to beat DR Congo in a tense World Cup encounter in Atlanta, and set up a last-16 meeting with Mexico.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4940_3",
+            "category": "england",
+            "type": "News",
+            "title": "All the angles of Kane's brilliant winner",
+            "bullets": [
+              "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All the angles of Harry Kane's winning goal against DR Congo for England in their round of 32 game in Atlanta.",
+            "fullText": "All the angles of Harry Kane's winning goal for England against DR Congo in their round of 32 game in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4940_4",
+            "category": "england",
+            "type": "News",
+            "title": "Win over DR Congo 'our best game of the tournament' - Kane",
+            "bullets": [
+              "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
+            "fullText": "England captain Harry Kane believes the Three Lions' attacking play against DR Congo was the best they have shown so far in the World Cup after their 2-1 win in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4940_5",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel urges parents to let kids stay up for England game",
+            "bullets": [
+              "England manager Thomas Tuchel urges parents to let their children stay up to watch England take on M...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel urges parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nEngland manager Thomas Tuchel has urged parents to let their children stay up to watch England take on Mexico in the last 16 of the World Cup.\n\nWhileEngland's win against DR Congo on Wednesdaykicked off at 17:00 BST, the Mexico fixture gets under way at 01:00 BST on Monday.\n\nIt will be live on BBC TV, radio and online, but most kids are still waiting for the summer holidays to kick in, leaving parents with a real dilemma on a school night.\n\nAsked for his message to parents, Tuchel said: \"Write an excuse for school and let them watch.\n\n\"There's so much school to go to, but the World Cup is every four years. Let them watch.\n\n\"There will be a big match in four days, and we need the support of everyone, especially the children.\"\n\nWhile parents face tough decisions, teachers are coming up with inventive ways to get round kids potentially missing school.\n\nSteve Heal, headteacher at Malmesbury Primary School in Wiltshire, explained the school would be open from 07:00 BST to show the game in full on delay to their students.\n\n\"We'll give them a bit of breakfast, and we'll be done by nine o'clock in time to start school,\" he said.\n\n\"That way they're not going to miss a night's sleep and they're not going to miss a morning of school and we'll just ask their parents to not let them know what the result is.\"\n\nHeal said should the game go to extra time, an exception might be made.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4941_6",
+            "category": "england",
+            "type": "News",
+            "title": "'That was a rocket' - Kane scores winner for England",
+            "bullets": [
+              "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+            "fullText": "A \"rocket\" of a strike from Harry Kane gives England a late lead against DR Congo in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4941_7",
+            "category": "england",
+            "type": "News",
+            "title": "Energy and team spirit at highest level - Tuchel",
+            "bullets": [
+              "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Cong...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Congo 2-1 and advance to the round of 16.",
+            "fullText": "England manager Thomas Tuchel praises his sides team spirit as they come from behind to beat DR Congo 2-1 and advance to the round of 16.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4941_8",
+            "category": "england",
+            "type": "News",
+            "title": "Relief for England as Kane heads in equalising goal against DR Congo",
+            "bullets": [
+              "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
+            "fullText": "Harry Kane heads in from Anthony Gordon's cross as England equalise against DR Congo in their round of 32 game in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_9",
+            "category": "england",
+            "type": "News",
+            "title": "'He is ridiculous' - Rice praise for match-winner Kane",
+            "bullets": [
+              "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
+            "fullText": "Declan Rice describes England captain Harry Kane as \"ridiculous\" after he scores twice during their World Cup victory over DR Congo in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_10",
+            "category": "england",
+            "type": "News",
+            "title": "Genuine superstar Kane produces his biggest England moment",
+            "bullets": [
+              "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane's England career is filled with great moments - his World Cup rescue act against DR Congo in Atlanta is his greatest, says chief football writer Phil McNulty.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nAs Harry Kane raced away into a corner of Atlanta's futuristic stadium, England head coach Thomas Tuchel followed on to the pitch in celebration.\n\nKane - captain, inspiration and undisputed world-class operator - had rescued a World Cup campaign that was threatening to end in one of the worst humiliations in England history.\n\nUnder the roof away from Atlanta's searing heat and stifling humidity England, and perhaps Tuchel's time in charge, were withering away as they trailed DR Congo until a player who is one of his country's all-time greats revived them.\n\nMake no mistake, England were heading for embarrassment on the scale of the Euro 2016 last-16 loss to Iceland and the World Cup defeat against United States in 1950 until Kane, as he so often does, took control.\n\nKane's record-breaking career has been littered with moments of greatness â but none to match what he produced here in a gripping last-32 tie that England won 2-1.\n\nWith only 15 minutes left and the giant clock seemingly racing along, Kane powered a header past goalkeeper Lionel Mpasi, a brilliant figure of defiance who proved a formidable barrier with a series of outstanding saves.\n\nAnd then, with four minutes left, Kane did what the greats do.\n\nHe produced a moment of brilliance to send England on their way to the cauldron of Mexico City's Azteca Stadium, where they will face co-hosts Mexico in the last 16.\n\nKane took a pass from Anthony Gordon, whomade a superb impact as a substitute with involvement in both goals, shifted the ball away from a DR Congo defender before unleashing a stunning right-foot strike high past Mpasi, who barely had time to move.\n\nAll the angles of Kane's 'rocket' strike against DR Congo\n\nTuchel urges parents to let kids stay up for England game",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_11",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Klopp linked with Germany job; Spain and Portugal face last-32 tests – live",
+            "bullets": [
+              "⚽ All the latest news from day 22 of the tournament⚽ Bracketology | Knockout stage draw | And email ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest news from day 22 of the tournament⚽ Bracketology | Knockout stage draw | And email us And I appreciate all this has been forgotten because England won but Harry Kane should have been awarded a first-half penalty. When a goalkeeper slides and does not get the ball, of course the forward is going to take the contact. Kane is just being punished for being as clever as the officials desire.Maurico Pochettino was rather unhappy with Folarin Balogun’s dismissal. The striker painfully caught the Bosnia and Herzegovina defender Tarik Muharemovic on the ankle but it was a complete accident with two players going for the ball. Continue reading...",
+            "fullText": "Keir Starmer is signing off with an absolute belter as he gives the green light for an extension to licensing hours for Sunday/Monday morning’s big game between England and Mexico at 1am. The prime minister said:\n\ndouble quotation markFootball might be coming home but we’re making sure fans don’t have to. Pubs staying open til the final whistle is good news for supporters and good news for the pubs and venues that bring our communities together. The whole country will be backing the team. Come on England!”\n\nYou do have to go home eventually though, who’s going to walk the dog?!",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_12",
+            "category": "england",
+            "type": "News",
+            "title": "Keir Starmer to allow pubs to stay open until 5am for England v Mexico match",
+            "bullets": [
+              "PM says ‘whole country will be backing the team’ for 1am game, as licensing hours extended after fie...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "PM says ‘whole country will be backing the team’ for 1am game, as licensing hours extended after fierce backlashWorld Cup live – latest updatesPubs will be able to stay open until 5am on Monday for the England World Cup match against Mexico, after an intervention from Keir Starmer.The team’s win over the Democratic Republic of the Congo on Wednesday night booked a last-16 tie against Mexico that is due to run until at least 3am UK time. Continue reading...",
+            "fullText": "PM says ‘whole country will be backing the team’ for 1am game, as licensing hours extended after fierce backlash\n\nPubs will be able to stay open until 5am on Monday for the EnglandWorld Cupmatch against Mexico, after an intervention from Keir Starmer.\n\nThe team’swin over the Democratic Republic of the Congoon Wednesday night booked a last-16 tie against Mexico that is due to run until at least 3am UK time.\n\nAlcohol licensing hours will be extended in England and Wales for the match. The home secretary will use legislative power to extend licensing hours on occasions of “exceptional international, national or local significance”. The communities secretary, Steve Reed, is writing to council leaders informing them of these changes.\n\nStarmer said: “Football might be coming home but we’re making sure fans don’t have to.\n\n“Pubs staying open til the final whistle is good news for supporters and good news for the pubs and venues that bring our communities together. The whole country will be backing the team. Come on England!”\n\nThe governmenthad already relaxed licensing rulesto reflect the time difference with the US, Mexico and Canada. For matches kicking off between 5pm and 9pm, pubs can stay open until 1am. For kick-offs after 9pm, they can remain open until 2am.\n\nTo stay open beyond those times, however, venues must apply for a temporary event notice at least five working days in advance. Pubs that had not anticipated England reaching this stage of the tournament are now unable to apply.\n\nThe business minister Kate Dearden had said on Thursday morning the government would “unfortunately” not relax the rules further to cover Monday morning’s match.\n\n“Pubs can stay open for an extra two or three hours depending on when the match starts,” she said. “Unfortunately that doesn’t apply with the 1am start, but we are absolutely backing our pubs going forward so we can support our lads.”\n\nBut after fierce backlash, including from Sadiq Khan, the mayor of London, Starmer decided on Thursday afternoon to allow pubs to stay open.\n\nThe change followed fierce backlash from MPs and pub owners. A spokesperson for Khan said: “The mayor is urging local authorities in the capital to work closely with the hospitality industry to allow pubs to stay open into the early hours of Monday morning, so that Londoners can back our pubs and cheer on in England as they take on Mexico.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_13",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | England survive a Lionel M masterclass and roll on to the Azteca … just",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!“For us now, it’s absolutely not a time to panic,...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!“For us now, it’s absolutely not a time to panic,” Anthony Barry urged in his now customary half-time debrief, with England 1-0 down to a Democratic Republic of Congo side playing with serious confidence. Thomas Tuchel’s No 2 coldly broke down what was required in the second half – “not a time to play gung-ho football” – but was done dirty by the stat that flashed up on the BBC’s coverage as he spoke. The last time England went on to win a World Cup match in which they conceded first? West Germany in the 1966 final. Yes, you may panic.As an ex-pat Sassenach now living in Edinburgh, capital of the Democratic Republic of Scongo, I can only express my frustration at Harry Kane for depriving the locals of what would inevitably have been an extra bank holiday today. Oh well, all attention now turns to the wee small hours of Monday, when Edinburgh becomes the capital of MexiSco” – John Collins.That was a statement win. I think we deserve to get one of our exclamation points back. Can we please at least be USA USA USA! now?” – Pat Condreay [thoughts? – Football Daily Ed]. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\n“For us now, it’s absolutely not a time to panic,” Anthony Barry urged in his now customary half-time debrief, with England 1-0 down to a Democratic Republic of Congo side playing with serious confidence. Thomas Tuchel’s No 2 coldly broke down what was required in the second half – “not a time to play gung-ho football” – but was done dirty by the stat that flashed up on the BBC’s coverage as he spoke. The last time England went on to win a World Cup match in which they conceded first? West Germany in the 1966 final. Yes, you may panic.\n\nDear England, were you ready to accept defeat, to scrape hard for excuses? This was a Lionel M exhibition, of course – even if it was Mpasi in goal rather than Messi up top. And you can forget about England’s right-back problem: how about that display from the Croydon-born Aaron Wan-Bissaka, even if he was playing for the opposition? Maybe it was time to pack up and accept that a home Euros in two years is the more realistic shout, bursting with that third-time-lucky narrative. The last decade has been a good run. We move.\n\nHarry Kanewasn’t having it. With his late double he turned a potential re-run ofIceland 2016intoSlovakia 2024, and served up a reminder too: England are, believe it or not, quite good at this nowadays. This was their 10th knockout victory at a major tournament in the last eight years; the previous 40 years produced just six. They haven’t imploded in quite some time and Kane is a major reason with 11 knockout goals in five tournaments. “They’re all sharks,”proclaimed Tuchelwhen discussing Kane and fellowBallon d’Or! Ballon d’Or! Ballon d’Or!contenders Messi, Kylian Mbappé and Erling Haaland. “If they smell blood, they come and score.”\n\nThat all sounds a little too intense for the kids, but Tuchel wants them to stay up in the UK and watch England take on Mexico in the early hours of Monday BST. “Let them watch,” tooted Tuchel. “There will be a big, big match in four days and we need the support of everyone and especially of the children,” he added, stopping just short of breaking into a rendition ofGreatest Love of All. With the tournament co-hosts unbeaten in 10 World Cup games at altitude inside the gargantuan Azteca, England could do with help from all corners.\n\nLast-32 week continues apace. Join Rob Smyth at 8pm BST/3pm EDT for Spain 3-0 Austria then our US counterparts will be on hand at midnight BST/7pm EDT for Portugal 1-0 Croatia (aet). To round things off, we’ll also bring you Switzerland 3-2 Algeria at 4am BST/11pm EDT.\n\nIf you’re not already doing so, check outBig Website’s Instachat account, now featuring Barney Ronay’s latest GWC diary, DR Congo and England fans taking in their last-32 meeting, plus a snazzy visualisation of Harry Kane’s winner.\n\n“I don’t know why they were arguing but I like that – we need that kind of grit on the pitch. When I took the team over 18 months ago, I thought they were very good when in control of the ball, but I thought they were not aggressive enough and that’s not how you get a result – you need to be solid, you need to battle to be there. We’re a better team if we keep this up” – Rudi Garcia is happy to see more set-tos between his Belgium players if it fires them up like it did in thewild 3-2 comeback win after extra time against Senegal.\n\ndouble quotation markAs an ex-pat Sassenach now living in Edinburgh, capital of the Democratic Republic of Scongo, I can only express my frustration at Harry Kane for depriving the locals of what would inevitably have been an extra bank holiday today. Oh well, all attention now turns to the wee small hours of Monday, when Edinburgh becomes the capital of MexiSco” – John Collins.\n\ndouble quotation markThat was a statement win. I think we deserve to get one of our exclamation points back. Can we please at least be USA USA USA! now?” – Pat Condreay [thoughts? – Football Daily Ed].\n\ndouble quotation markAt the risk of turning this newsletter into the Chocolate Daily (Football Daily letters passim), as a French expat in Canada, I’d like to point out that chocolate is one of those foods with a pretty long shelf-life at room temperature, meaning that, in most civilised countries, it really is not that hard to purchase and enjoy very fine chocolate indeed. That said, if England and the USA USA USA really want to duke it out for the title of Worst Chocolate, maybe ask Fifa to organise an alternate GWC?” – Pierre Igot.\n\ndouble quotation markWhile I agree that American artisan chocolate is very good, I want to say that Hershey is the Fifa of chocolatiers. Don’t believe me? I’ll refer you to the upcoming biopic of its eponymous founder, which seems, at least judgingby its trailer, to be the United Passions of confectionary films” – Kári Tulinius.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4942_14",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4943_15",
+            "category": "england",
+            "type": "News",
+            "title": "England avert disaster against DR Congo but they must be better in Mexico City | Jacob Steinberg",
+            "bullets": [
+              "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of AztecaIt was looking bleak out there. Ten years on, it was looking like Iceland all over again. The clock was ticking and the panic was rising. The Democratic Republic of the Congo (DRC), so impressive during that early surge at a disbelieving Atlanta Stadium, were starting to dream and England were about to become the punchline in one of the biggest shocks in World Cup history.The obituaries were written, the calls for root-and-branch reform sure to follow. Nothing was going England’s way. Harry Kane, his hopes of winning the Ballon d’Or fading before his eyes, had a penalty claim waved away by the Jordanian referee. Lionel Mpasi, if not the best Lionel to play in a World Cup, was certainly looking a sure bet to win superior player of the match. The DRC goalkeeper was in astonishing form, making saves like Poland’s Jan Tomaszewski at Wembley in 1973, and with time running out during the second half it seemed an increasingly frantic England had run out of ideas against the dreaded low block. Continue reading...",
+            "fullText": "It was an almost Iceland in Atlanta but Thomas Tuchel will have to get it right from the start in the cauldron of Azteca\n\nIt waslooking bleak out there. Ten years on, it was looking like Iceland all over again. The clock was ticking and the panic was rising. The Democratic Republic of the Congo (DRC), so impressive during that early surge at a disbelieving Atlanta Stadium, were starting to dream and England were about to become the punchline in one of the biggest shocks in World Cup history.\n\nThe obituaries were written, the calls for root-and-branch reform sure to follow. Nothing was going England’s way. Harry Kane, his hopes of winning the Ballon d’Or fading before his eyes, had a penalty claim waved away by the Jordanian referee. Lionel Mpasi, if not the best Lionel to play in aWorld Cup, was certainly looking a sure bet to win superior player of the match. The DRC goalkeeper was in astonishing form, making saves like Poland’s Jan Tomaszewski at Wembley in 1973, and with time running out during the second half it seemed an increasingly frantic England had run out of ideas against the dreaded low block.\n\nYet this was an almost Iceland. Thanks to two dead-eyed finishes from Harry Kane it wasSlovakia at Euro 2024. England are through to the last 16, through to face a pumped-up Mexico at the Azteca on Sunday night, and have again done enough to convince themselves everything is working as planned.\n\nThere will be focus onThomas Tuchel, his facial expression increasingly disturbed as the second half wore on with no sign of an equaliser arriving, finding the composure to make telling little tweaks during perhaps the greatest hydration break in English football history. Praise will go to the squad’s “finishers” – the ones who came on to shift the narrative. There were 20 minutes left when Tuchel made his final roll of the dice. He had already swapped his wingers, Noni Madueke and Marcus Rashford replaced by Bukayo Saka and Anthony Gordon, and now he decided to go for broke, with Djed Spence hauled off after a poor display, Declan Rice shifted to right-back and Eberechi Eze introduced to add more unpredictability in the final third.\n\nThe leveller arrived five minutes later and owed much to Tuchel’s rejig. Eze was involved, combining with Rice. The vice-captain crossed from the byline and the ball reached Gordon, who put the ball back into the middle for Kane to head past Mpasi.\n\nIt was a goal featuring two substitutes and one player moved into an unfamiliar position. In the heat of the moment it was possible to think that Tuchel had everything under control. Anthony Barry, the German’s No 2, had used his half-time interview to talk about the importance ofEnglandcontinuing to go through their processes. The instruction was not to fall into the trap of playing gung-ho football. England kept probing and their depth made a difference. Gordon, who struggled when he started against Ghana and Croatia in the group stage, finished with two assists after his clever pass led to Kane bashing in the winner in the 86th minute.\n\nYet the more sober analysis is that England are going to be run out of Mexico City if this how they play on Sunday. The reality is they have not produced a complete performance in any of their first four games. They have looked tired, fractious and unbalanced at times, save for thatthrilling surge against Croatiain Dallas, and will leave Atlanta with plenty of problems to solve.\n\nIt speaks volumes that the DRC were fearless from the first whistle. They took the ball, wheeled out their passing combinations and rattled England with their counterpress. Seven minutes in, a long spell of possession ramped up when Chancel Mbemba sprayed the ball from right to left and found the England defence in a state of disrepair.\n\nNoah Sadiki ran from midfield, away from Elliot Anderson and dragged Spence across. Ezri Konsa, drawn to Yoane Wissa, was marking no one. Spence was exposed – Noni Madueke had stayed high to watch Arthur Masuaku – and Brian Cipenga had time to drill a low shot inside Jordan Pickford’s near post.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe rest of the first half was bewildering. Jude Bellingham was seen shouting at the England bench. He lost possession and clattered into Nathanaël Mbuku to earn a booking. There was little sign of Tuchel’s famous brotherhood. England were arguing among themselves. Rice raged after the goal. Reece James had to talk some sense into Bellingham during the first hydration break. Pickford smacked a pass out of play and told everyone to calm down. Anderson was all over the place in midfield. Madueke cut inside a lot. Rashford let a ball run under his foot and out for a throw. Then he watched and failed to track back as the DRC outnumbered Nico O’Reilly, Aaron Wan-Bissaka overlapping and crossing for Wissa to hit a post.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4951_16",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+            "bullets": [
+              "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane saves England’s World Cup... and Thomas Tuchel’s job",
+            "fullText": "The looks said it all. Every member of theEnglandsquad craning their necks, arms locked, staring intently at Harry Kane as he stood in the middle of a huddle and delivered a tub-thumping team talk. It ended with a cry of: “We go again!”\n\nEngland do go again. But only just. And only because of Kane, their captain, leader, saviour and world-class striker. O Captain! My Captain!\n\nKane scored the two late goals to overturn what was heading towards being one of the greatest humiliations in tournament history for England.\n\nThat is no exaggeration. Losing to the Democratic Republic of Congo in the last 32 of the World Cup would have been up there with being beaten by Iceland in the last 16 of the European Championship in 2016.\n\nAnd as with Roy Hodgson quitting after that seismic shock, so Thomas Tuchel could not have expected to remain as manager had England lost. It was that precarious.\n\nAfter the post-match huddle, the England players turned and stood in front of the fans who serenaded them with Oasis’sWonderwall,which they want to make the anthem of this campaign. That line “because maybe, you’re gonna be the one that saves me” resonated so deeply. It belonged to Kane. He saved England. Again.\n\nTake it in! 🦁🏴󠁧󠁢󠁥󠁮󠁧󠁿England's players share another special Wonderwall moment with their fans after the game 🎶#FifaWorldCuppic.twitter.com/KMa4GBP8ve\n\nThe 32-year-old is a phenomenon. He has 72 goals in 62 games this season for club and country. Those are incredible numbers. Only Lionel Messi has scored more in one campaign, when he was in his pomp at Barcelona. Talk of Messi, who has shone so brightly in this World Cup with six goals, shows the company Kane is keeping.\n\nIn a tournament where the big names have stepped up – Messi, Kylian Mbappé and Erling Haaland – so has Kane. He is one of them. One of the greats. Maybe he will eventually beEngland’s greatestand for all the understandable debate over the importance of Jude Bellingham when we talk about England, we first talk about Kane.\n\nHis 75th and 86th-minute goals mean he now has 13 in World Cups, ahead of Pelé, and five in this tournament alone. For England he has 84 in just 118 appearances and will surely end up with more than 100, such is his appetite, such is his desire and iron belief.\n\nTake both the goals. England had chances against Congo, after falling behind in a first quarter in which they were a panicky mess. And that is on Tuchel. But the pressure was not paying off. That was until Kane did what great strikers do. A cross came in from substitute Anthony Gordon and Kane just wanted it, he made sure the header was his. And England were level.\n\nHarry Kane pulls England level against DR Congo! 🏴󠁧󠁢󠁥󠁮󠁧󠁿⚽The captain delivers when the Three Lions needed him most 🦁🙌pic.twitter.com/JMmPOlmqhm",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 08:52:23 EDT",
+  "lastUpdated": "2026-07-02 @ 12:49:51 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
