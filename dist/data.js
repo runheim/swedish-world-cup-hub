@@ -28,12 +28,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage"
     },
     {
-      "text": "⚽ Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
-      "link": "https://www.theguardian.com/football/2026/jul/02/mexico-city-world-cup-fever-el-tri-capture-imaginations-england"
-    },
-    {
       "text": "⚽ Maddy Cusack was fearful of reporting her concerns, mother tells inquest",
       "link": "https://www.theguardian.com/football/2026/jul/02/maddy-cusack-was-fearful-of-reporting-her-concerns-mother-tells-inquest"
+    },
+    {
+      "text": "⚽ Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
+      "link": "https://www.theguardian.com/football/2026/jul/02/mexico-city-world-cup-fever-el-tri-capture-imaginations-england"
     },
     {
       "text": "⚽ Azteca avengers? England return to scene of infamous Maradona handball",
@@ -17931,10 +17931,188 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-03": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0559_0",
+            "category": "england",
+            "type": "News",
+            "title": "England were 15 minutes from humiliation - the issues Tuchel must solve",
+            "bullets": [
+              "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before England's World Cup last-16 tie against Mexico, BBC Sport's Phil McNulty looks at the issues that remain for Thomas Tuchel.",
+            "fullText": "Kane scores late winner as England overcome DR Congo to reach last 16\n\nEngland were 15 minutes from one of the most abject humiliations in their World Cup history until Harry Kane's late heroics helped themovercome DR Congoto face Mexico in the last 16.\n\nKane scored twice to rescue England, as well as head coach Thomas Tuchel, who may not have survived a result that would have ranked alongside the last-16 defeat by Iceland at Euro 2016, and the loss to the United States at the 1950 World Cup, as a national embarrassment.\n\nInstead, England's World Cup dream lives on as they head to Mexico City, and into a nation alive with passion and football fever, to face the co-hosts in the iconic surrounding of Azteca Stadium.\n\nEngland's win, however, did not cover cracks exposed regularly in this campaign as well as obvious flaws in selection and performance.\n\nGenuine superstar Kane produces his biggest England moment\n\nWhy did England struggle against DR Congo - and what can they learn?\n\nEngland head coach Thomas Tuchel has plenty of issues to resolve before they face Mexico in Mexico City in the World Cup last 16\n\nKane and Jude Bellingham have been England's standout performers at this World Cup, contributing goals and world-class inspiration.\n\nThe pair were both on target in Group L wins against Croatia and Panama. They were England's leading lights against DR Congo.\n\nIt would help England and Tuchel's cause if others could come to the party. As good as Kane and Bellingham are, there will come a day when they do not bail under-performing team-mates and their head coach out.\n\nBellingham and Kane have been England's driving forces as they have reached the World Cup's last 16",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_1",
+            "category": "england",
+            "type": "News",
+            "title": "Man Utd ready for Baleba move - Friday gossip",
+            "bullets": [
+              "Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?",
+            "fullText": "Manchester UnitedwantBrightonmidfielder Carlos Baleba,Arsenalare keen onAston Villafavourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?\n\nAfter missing out on Mateus Fernandes,Manchester Unitedare ready to make a bid forBrighton's22-year-old Cameroon midfielder Carlos Baleba.(Give Me Sport),external\n\nArsenalremain determined to signNewcastlemidfielder Bruno Guimaraes, 28, and are preparing a bid believing that a Â£60m package is still possible for the Brazilian.(Sun),external\n\nWith Argentina forward Julian Alvarez wanted byBarcelona, Atletico Madridhave identified formerManchester Unitedforward Mason Greenwood, 24, who is now atMarseille,as a replacement.(Sport - in Spanish),external\n\nArsenalgoalkeeper Kepa Arrizabalaga has informed the club that he wants to leave this summer, with formerLeeds Unitedgoalkeeper Frenchman Illan Meslier, 26, one of the leading contenders to replace the 31-year-old Spaniard.(Teamtalk),external\n\nArsenalare interested in signing England andAston Villadefender Ezri Konsa, 28, this summer.(Telegraph),external\n\nAston Villaand England striker Ollie Watkins, 30, has emerged as a shock target for Fenerbahce.(Sun),external\n\nLeeds Unitedhave made an improved offer of Â£23m plus add-ons forSouthamptonmidfielder Shea Charles, 22, after having their initial offer rejected for the Northern Irishman.(Mail),external\n\nAC Milanwill look to sell England defender Fikayo Tomori, 28, this summer as he starts the final year of his contract.(Gazzetta dello Sport),external\n\nRomaandMoroccomidfielder Neil El Aynaoui is being monitored by a number of Premier League clubs, withManchester United,Liverpool,Chelsea,Aston Villa,Brighton,Bournemouth,Newcastle UnitedandSunderlandall asking about the 25-year-old's availability.(Teamtalk),external\n\nEvertonare the latest Premier League team to be linked to in-demandBenficaand Colombia midfielder Richard Rios, 26.(Sport Witness),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_2",
+            "category": "england",
+            "type": "News",
+            "title": "'He ended up in Preston!' - Murphy gives update on Bob the cat",
+            "bullets": [
+              "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.",
+            "fullText": "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.\n\nWATCH MORE:  Danny Murphy's commentary box cat story",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_3",
+            "category": "england",
+            "type": "News",
+            "title": "England have 'big concerns' - so who would you pick to face Mexico?",
+            "bullets": [
+              "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
+            "fullText": "After England's last-32 win over DR Congo former Three Lions forward Wayne Rooney said there are still \"big concerns\" - so how does manager Thomas Tuchel fix them?\n\nCaptain Harry Kane came to their rescue with two late goals inWednesday's comeback victory, setting up a last-16 showdown with Mexico.\n\nBut questions remain from back to front, with the right-back spot and wide forward positions both up for debate.\n\nCan Djed Spence be trusted at full-back? Did Anthony Gordon do enough to oust Marcus Rashford from the starting line-up with two assists? Do England risk Bukayo Saka's fitness?\n\nYou can select and share your Three Lions team for the match at Azteca Stadium below.\n\nWatch on BBC One and iPlayer, listen on BBC Radio 5 Live and BBC Sounds, plus follow on the BBC Sport website and app as England face Mexico in the last 16 of the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
+            "bullets": [
+              "England's must-win match against Mexico kicks off at 01:00 BST on Monday - disco naps and spoiler-fr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's must-win match against Mexico kicks off at 01:00 BST on Monday - disco naps and spoiler-free recaps may be needed.",
+            "fullText": "That was England coach Thomas Tuchel's advice for parents on whether children should be allowed to stay up to support England in their early morning World Cup match against Mexico on Monday.\n\nThe time difference means the round of 16 clash against the co-hosts in Mexico City will not kick off until 01:00 BST - and would not finish until closer to 04:00 should it go to penalties.\n\nSpeaking to the media after theThree Lions' victory over DR Congo on Wednesday,a smiling Tuchel said: \"There's so much school to go to, but the World Cup is every four years. Let them watch.\"\n\nBut some parents and teachers are concerned about the knock-on impact.\n\nIn the past, some schools have suspended lessons to allow children to watch games in the knockout stages of tournaments -but the awkward timing of the Mexico matchposes some tricky logistical questions.\n\nLet children stay up and risk a wasted school day on Monday - or force young fans to miss what could be a vital victory on the way to World Cup glory?\n\nOne mum, from Epping in Essex, said of the prospect of her two young children staying up: \"They couldn't even if they wanted to.\n\n\"They struggled to make it to the 21:00 kick off for the Ghana match.\"\n\nAnother parent said they would allow the kids to watch the match live, but expected them to be ready for school the next morning.\n\nThey wrote on X: \"Mine will be watching and still going into the school the next day.\n\n\"What's the big deal? The recent thunderstorms woke then up at 2am and kept them awake for hours and they were fine the next day going to school.\"\n\nA third parent praised Tuchel's comments and called for every pupil to be given Monday off of school.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_5",
+            "category": "england",
+            "type": "News",
+            "title": "Thomas Tuchel claims Fifa rule puts England at ‘huge’ disadvantage in Mexico City altitude",
+            "bullets": [
+              "FA’s preferred acclimatisation option ruled outTuchel reveals Declan Rice came off ‘in terrible pain...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FA’s preferred acclimatisation option ruled outTuchel reveals Declan Rice came off ‘in terrible pain’Thomas Tuchel says England will be at a “huge” disadvantage in the high altitude of Mexico City on Sunday when they face Mexico in the last 16 of the World Cup as he lamented a Fifa rule that has shut down one possible acclimatisation plan.The Football Association has looked into how the altitude will affect the England players and spoken to teams from other sports as part of its research. They included the British Olympic team. One of the findings is that if it is not possible to travel to the venue 10 days beforehand to get used to the conditions, then it would be preferable to go on the day of the game – arriving as close to kick-off as possible. Continue reading...",
+            "fullText": "Tuchel reveals Declan Rice came off ‘in terrible pain’\n\nThomas Tuchel says England will be at a “huge” disadvantage in the high altitude of Mexico City on Sunday when they face Mexico in the last 16 of the World Cup as he lamented a Fifa rule that has shut down one possible acclimatisation plan.\n\nThe Football Association has looked into how the altitude will affect theEnglandplayers and spoken to teams from other sports as part of its research. They included the British Olympic team. One of the findings is that if it is not possible to travel to the venue 10 days beforehand to get used to the conditions, then it would be preferable to go on the day of the game – arriving as close to kick-off as possible.\n\nBut Fifa has decreed that from the last 16 onwards, teams must train in “venue-specific sites” close to the stadiums the day before matches. It has meant that England will have to fly to Mexico City from their base in Kansas City on Friday afternoon. They returned to Kansas City on Wednesday from Atlanta after their2-1 win over the Democratic Republic of the Congo(DRC) in the last 32.\n\nMexico have played three of their four tournament matches at the Azteca Stadium inMexicoCity, which is about 2,240 metres above sea level. They are used to the altitude, which can affect athletic performance, whereas Tuchel accepts it will be new for his players.\n\n“The recommendation is you either go 10 days before – which is too long for us – or last minute, which is not allowed [by Fifa],” the head coach said. “We have spoken to teams who do it and they say they travel very, very late on matchday if they cannot have time to adapt. [We must] find a mixture in between. It will stay as a disadvantage.”\n\nTuchel was asked whether it was unfair. “Yes, it’s a huge advantage [for Mexico],” he replied. Tuchel did see one positive from having an extra day in Mexico City; England have travelled to their previousWorld Cupmatches the day beforehand. “The ball will fly differently [at altitude],” he said. “It will fly maybe five yards more. It’s just difficult. We just need the experience.”\n\nTuchel offered an insight into how his key midfielder, Declan Rice, was battling through matches. Rice has managed nerve pain in a hamstring since Christmas and felt it in England’s openingWorld Cup game against Croatia, when he was withdrawn in the 72nd minute. He missed game threeagainst Panamawith an unrelated calf knock but felt the nerve issue again against the DRC, with Tuchel substituting him in the 89th minute.\n\nRice has insisted he will be OK for the Mexico game. Jarell Quansah, who went off with an ankle problem against Panama and was unavailable against the DRC, is understood to be winning his fitness battle for Mexico.\n\n“I asked Declan how he was,” Tuchel said. “He said: ‘I can do it for the team but I am in terrible pain.’ And when Declan tells you he is in terrible pain then you know he cannot take it any more. He was grateful we took him off but he said after the game it’s not an issue. There is no injury. I think he will recover. He was just in pain and I hope he is right. It’s more neural pain. Can he go from game to game? He can, yes.”\n\nTuchel was also asked whether he was worried about Mexico fans making a racket outside the England team hotel the night before the game.Ecuador complained to Fifaafter fireworks were let off outside their hotel the night before they lost to Mexico in the last 32. “We will expect that but what can we do?” Tuchel said. It was put to him that the players ought to have earplugs. “Yeah, we will bring some stuff,” he said. “I expect everything.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0600_6",
+            "category": "england",
+            "type": "News",
+            "title": "Maddy Cusack was fearful of reporting her concerns, mother tells inquest",
+            "bullets": [
+              "Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy Coroner told of serious loss of club’s m...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy Coroner told of serious loss of club’s medical dataThe mother of Maddy Cusack told an inquest it is too difficult for women footballers to report grievances, for fear of being blacklisted, and said her daughter would still be alive if “her nemesis” Jonathan Morgan had not been appointed as Sheffield United’s manager.Deborah Cusack said Morgan, who is scheduled to give evidence at Cusack’s inquest on Monday, made her daughter “feel as if she had to give up football”, prior to her being found dead at the family’s home in Derbyshire on 20 September 2023. Thursday’s hearing also heard there had been an “industrial-scale” loss of players’ sensitive medical data involving the records-keeping system used for women’s footballers at multiple clubs, including missing records for Cusack. The club’s doctor at the time, Subhashis Basu, admitted that he had failed to adequately report the data breach.In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org, or text HOME to 741741 to connect with a crisis counsellor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+            "fullText": "Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy\n\nCoroner told of serious loss of club’s medical data\n\nThe mother of Maddy Cusack told an inquest it is too difficult for women footballers to report grievances, for fear of being blacklisted, and said her daughter would still be alive if “her nemesis” Jonathan Morgan had not been appointed as Sheffield United’s manager.\n\nDeborah Cusack said Morgan, who is scheduled to give evidence at Cusack’s inquest on Monday, made her daughter “feel as if she had to give up football”, prior to her being found dead at the family’s home in Derbyshire on 20 September 2023. Thursday’s hearing also heard there had been an “industrial-scale” loss of players’ sensitive medical data involving the records-keeping system used for women’s footballers at multiple clubs, including missing records for Cusack. The club’s doctor at the time, Subhashis Basu, admitted that he had failed to adequately report the data breach.\n\nDeborah Cusack also told Chesterfield coroner’s court that her daughter had asked Dr Basu for a referral to a counsellor two weeks prior to her death but that he had advised doing so “further down the line”. Responding to that claim, Dr Basu disagreed with that recollection, saying: “I essentially said ‘I can get in touch with Sporting Chance if you want me to’.”\n\nDescribing Maddy Cusack as a “happy and bright soul with a beautiful smile” and a “fun-loving daughter” who was “the heart of our family”, Deborah Cusack said her daughter had “never ever” had any mental health problems prior to Morgan’s appointment as Sheffield United’s manager in February 2023. However, she also told Morgan “I’m not blaming you for exactly what she did,” before adding: “But you made her feel how she felt. It was the little knocks every now and again. You cut her down to size. If you hadn’t been employed, my daughter would be here today.”\n\nDeborah Cusack was also critical of the Professional Footballers’ Association (PFA) and the Football Association (FA), saying the PFA had not checked in on Maddy Cusack despite her being a PFA member, while another player raised a separate grievance during Maddy’s time at Sheffield United. Deborah Cusack said: “They should have checked in on any other members at the club. Perhaps they need to be a little more aware of the differences between men’s and women’s [football].\n\n“Organisations such as the FA have the Integrity phone line [a confidential reporting service], but I know no girl will ring it. It is quite difficult to raise a grievance because you feel you’re going to be blacklisted or labelled as a trouble-maker. Maddy felt she couldn’t speak to the hierarchy at Sheffield. That really needs to change.”\n\nDeborah Cusack also said Morgan had upset Maddy Cusack by calling her “bottom-heavy” – something Morgan, who is representing himself, claimed was a reference to her muscles and a strength-and-conditioning regime – and that her daughter had felt “humiliated beyond belief” when Morgan called Maddy Cusack’s girlfriend Grace Riglar “Mrs Cusack” in front of the team. Visibly furious while directing this comment to Morgan, Deborah Cusack asked: “Who are you to give rules when you yourself had a relationship with a player?”\n\nDeborah Cusack took her daughter to see her GP, Mobeen Bhatti, whogave evidence on Monday, on 6 September 2023 and, shortly afterwards, her daughter called Dr Basu to inform him why she would not be going to training. Dr Basu was severely scrutinised by the coroner during Thursday’s hearing over the missing medical records, which he said affected lots of players in addition to Cusack, and had still not been resolved when he left the club in the summer of 2024. He now works as Rotherham United’s club doctor and as the English Football League’s medical director.\n\nMedical records have been repeatedly discussed during the inquest because the Cusack family allege Morgan dropped Maddy Cusack for his first match in charge without just cause, whereas Morgan and the club’s former physio, Francesca Carr, have said Cusack was injured. Her full medical notes for that period cannot be located.\n\nDr Basu said extensive player medical records went missing during a transition from using Kitman Labs to WPS as the logging system during the summer of 2023, telling the court: “There were systematic widespread issues with this electronic records system. I contacted the records provider directly regarding this on multiple occasions”. But he conceded he had failed to report this to the club until after Cusack’s death, and he had not informed the information commissioner. Additionally, he mentioned the data loss to neither the club’s nor the FA’s investigations into Cusack’s death. The coroner subsequently expressed concern that other players’ medical data may still be unaccounted for.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0601_7",
+            "category": "england",
+            "type": "News",
+            "title": "Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
+            "bullets": [
+              "England will arrive at the tournament’s pulsating heart to find expectations soaring and the streets...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England will arrive at the tournament’s pulsating heart to find expectations soaring and the streets and bars abuzzThe shirt sellers are out en masse in the streets around Zócalo, the vast main square in Mexico City. The national team have never captured imaginations quite like this and there is almost unlimited demand for a jersey that, even before El Tri sealed a potentially epochal last-16 tie with England, had outsold every other at this World Cup. Three weeks since hosting the opening game Mexico can claim, for a few days at least, to be the tournament’s pulsating heart, and expectations are soaring. “We feel we are going to win,” says Francisco, who is walking along a buzzing Avenida 5 de Mayo. Even in a city notorious for its chaos and bustle there is an extra charge in the cool, thin air here. “It’s going to be difficult but we are all very motivated. Mexico will play a game like the previous one and they are going to beat England.”Francisco is referring to Tuesday night’s win over Ecuador, which secured a first knockout victory since 1986. Even in the fabled, mythologised history of Estadio Azteca it was a night of almost unparalleled fervour. Then there was the situation on the streets. About 1.4 million people are estimated to have watched on outdoor screens despite a vicious pre-match storm that delayed kick-off by an hour. It is some increase on the 400,000 believed to have turned out for Mexico’s first match, a win over South Africa. Tragically it was not always safe, with four people killed in a crush and dozens trapped. Continue reading...",
+            "fullText": "England will arrive at the tournament’s pulsating heart to find expectations soaring and the streets and bars abuzz\n\nThe shirt sellers are out en masse in the streets around Zócalo, the vast main square in Mexico City. The national team have never captured imaginations quite like this and there is almost unlimited demand for a jersey that, even beforeEl Trisealed a potentially epochal last-16 tie with England, had outsold every other at this World Cup. Three weeks sincehosting the opening gameMexico can claim, for a few days at least, to be the tournament’s pulsating heart, and expectations are soaring. “We feel we are going to win,” says Francisco, who is walking along a buzzing Avenida 5 de Mayo. Even in a city notorious for its chaos and bustle there is an extra charge in the cool, thin air here. “It’s going to be difficult but we are all very motivated. Mexico will play a game like the previous one and they are going to beat England.”\n\nFrancisco is referring to Tuesday night’swin over Ecuador, which secured a first knockout victory since 1986. Even in the fabled, mythologised history of Estadio Azteca it was a night of almost unparalleled fervour. Then there was the situation on the streets. About 1.4 million people are estimated to have watched on outdoor screens despite a vicious pre-match storm that delayed kick-off by an hour. It is some increase on the 400,000 believed to have turned out for Mexico’s first match, a win over South Africa. Tragically it was not always safe, with four people killed in a crush and dozens trapped.\n\nSafety measures will need to be tightened but, in the passion stakes, we are unlikely to have seen anything yet. “I’d wager my name on it,” says Principia, who is from Quintana Roo on the Yucatán peninsula, when asked whether Sunday is likely to break records. Wearing aMexicoshirt and baseball cap, she is walking around the perimeter of the Fifa fan festival that temporarily occupies most of the Zócalo, taking in the atmosphere before the screening of Spain’s match with Austria.\n\n“It’s just been so exhilarating to see our team win on Mexican soil,” she says. “It’s been heaps and heaps of people, happy as can be. There’s such beauty in seeing families out there celebrating and cheering for them.”\n\nNobody needs an excuse to pump Sunday’s occasion up. With the final whistle nearing inEngland’s win over the Democratic Republic of the Congo, the local television commentator reeled off the names of England’s players one by one. In a manner redolent of the Norwegian broadcaster Bjørge Lillelien, whose “Can you hear me Maggie Thatcher?” oration in 1981 is etched into folklore, the Mexican equivalent welcomed Harry Kane and company to the bubbling cauldron that awaits.\n\nThe Azteca factor meansEnglandface a formidable 12th man. There is nothing quite like the maelstrom of sights, sounds and chaotic beauty all thrown into the biggest games at Mexico’s seemingly impregnable national stadium. “Playing there is pure energy,” says Charles, who is walking past the Zócalo with his partner, Angie. “The Azteca has something magical. It brings us a lot of luck. The energy in there, the vibe, it’s just incredible.”\n\nThey have not yet decided where they will settle in to watch. “But wherever we watch, the great thing about Mexicans is that it seems we all know each other,” Angie says. “On the day of the game, we are all family.”\n\nThe excitement is palpable around Zócalo but even the coffee-drinking literati in uber-fashionable La Roma, two miles west of the city centre, are bitten by theEl Tribug. Sitting outside a cafe along one of its quiet tree-lined streets, Pablo recalls those night-long celebrations along Paseo de la Reforma after Ecuador were beaten. “Quite incredible to experience,” he says. “Thousands of people celebrating, honking, jumping around, maracas, a lot of noise.”\n\nIn a city that is rarely slow to embrace a party, he believes the temperature has ramped up to new levels in the past week. “It feels a bit different,” he says. “I think the more we’ve been winning games, through the group stage onwards, people have been believing more. With previous Mexican teams there was a little bit of doubt but we’ve been able to have more faith in the team.”\n\nPablo, a Manchester United fan since Javier Hernández’s stint at Old Trafford, repeats the phrase¿Y Si Sí? – “What if they can?” – which has gained increasing traction during Mexico’s run. He has high hopes for a repeat performance against England by Gilberto Mora, the 17-year-old prodigy who put in a display of remarkable poise and verve against Ecuador. “It’s just incredible what he is doing,” he says. “I hope he gets a move abroad soon. Mexican players tend to stay in the local league but it would only help him and the national team.”\n\nAs always, football comes hand in hand with stories of personal significance. Principia explains that her grandmother died in Guadalajara on the day of the South Africa game, leading to a traditional nine-day mourning period for the family. After that, she suggested to her cousins that they visit Mexico City together and ride the tournament wave among the crowds.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0601_8",
+            "category": "england",
+            "type": "News",
+            "title": "Azteca avengers? England return to scene of infamous Maradona handball",
+            "bullets": [
+              "Mexico have a formidable record in their iconic stadium but for many it will always be associated wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mexico have a formidable record in their iconic stadium but for many it will always be associated with one playerAs soon as the World Cup draw was completed in Washington DC last December, the date went into the diary, circled in bold by every England fan that hoped to travel, and millions more who knew they would not. Sunday 5 July, Mexico City. If everything went to plan and Thomas Tuchel’s team topped Group L and won their last-32 tie, they would be going to the Azteca Stadium for the last 16.There was another element in play. If Mexico won their group and advanced in the last 32, they would provide the opposition. Just imagine. England to play a critical knockout tie against one of the host nations in their back yard. It is a back yard where Mexico boast a fearsome record, where they feel close to invincible, owing in part to it being about 2,240 metres above sea level. The altitude can spin the heads of opposing players, burn their lungs. It does not affect Mexico. Continue reading...",
+            "fullText": "Mexico have a formidable record in their iconic stadium but for many it will always be associated with one player\n\nAs soon as theWorld Cupdraw was completed in Washington DC last December, the date went into the diary, circled in bold by every England fan that hoped to travel, and millions more who knew they would not. Sunday 5 July, Mexico City. If everything went to plan and Thomas Tuchel’s team topped Group L and won their last-32 tie, they would be going to the Azteca Stadium for the last 16.\n\nThere was another element in play. If Mexico won their group and advanced in the last 32, they would provide the opposition. Just imagine.Englandto play a critical knockout tie against one of the host nations in their back yard. It is a back yard where Mexico boast a fearsome record, where they feel close to invincible, owing in part to it being about 2,240 metres above sea level. The altitude can spin the heads of opposing players, burn their lungs. It does not affect Mexico.\n\nThen there is the atmosphere created by the 80,824 fanatics that pack it out. You think you have seen it all? You think you have heard and felt what the most pulsating stadiums have to offer? Not until you have experienced a World Cup game involving Mexico at the Azteca. For England, it is now gloriously real, the ultimate bucket-list fixture set up whenthey beat the Democratic Republic of the Congo(DRC) on Wednesday in Atlanta – the day afterMexico had swept past Ecuadoron a thunderous night at the Azteca, when the party throbbed until the next morning.\n\nThere is, of course, something else, something deeper. It touches the soul of every England supporter; a scar that will never heal. Tuchel and his players will not only be taking on the full force of a nation. They will feel the chills of a ghost. If the Azteca is all things to all Mexicans and many things to plenty of others, it means just one to England fans.The Hand of God.\n\nEngland versus Argentina in the quarter-final of the 1986 World Cup. The images are grainy and there are the little details, too, which somehow endure. Such as the spider-shaped shadow from a structure high up in the Azteca that was fixed around the centre circle throughout the game. Diego Maradona’s goal to put Argentina 2-0 up and set them fair for victory was arguably the greatest of all time. But it was when he leapt shortly before that with his hand above his head that he assured himself of infamy.\n\nTuchel was 12 years old at the time, watching from home in Germany. He did not feel it like an England fan and yet he felt it. “It was not only English people,” he says. “Even me. I didn’t have a connection to English football in those days but even I know this moment. I remember, of course, the World Cup of Maradona. The two goals against England. The one dribbling and the one … yeah, which would never stand these days.”\n\nIs it trite or just wrong to cast Tuchel and his team as avengers at the Azteca? Whatever the case, the manager is on board with the sentiment. It is as if he believes he can harness something from the memory. “It will reward us,” he says, his eyes sparkling. “We will get it back. Karma will come back for us. We will turn it around.”\n\nLike every football obsessive, Tuchel loves to reminisce about his childhood World Cup memories.Mexico86 made an impression on him and it all goes into the mix for Sunday’s showpiece. He talks about the strong Soviet Union team from that tournament which lost 4-3 after extra time to Belgium in a last-16 epic. “I remember Vasyl Rats [of the Soviet Union] and then Jan Ceulemans for Belgium,” he says. “I also remember the thing that was hanging in the centre of the Azteca and the shadow from it never moved. The sun was so steep that the shadow was always around the middle circle. I remember the coffee table book that came from the World Cup, the pictures of this stadium and all these flags … and how steep it was.\n\n“It’s an iconic stadium. Germany played there in the final. So I’m super excited to have this match. It’s an iconic match to have in Mexico against Mexico. We will play against the whole country, against the energy of the whole country, in their stadium.”\n\n“I just love football and the old tournaments,” he adds. “These pictures from Mexico … they are in St George’s Park where we stay in the hotel. These big framed pictures of Gary Lineker scoring, of the coaches, of Peter Shilton. They are big pieces of history. This is a good moment to make our peace with the stadium and turn things around.”\n\nThe excitement in Mexico City is careering off the scale. Make no mistake, the locals wanted to face England, not the DRC. In the cafes around town, they were happy when Harry Kane scored his late goals to spark England’s 2-1 come-from-behind win.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0601_9",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, Archie Rhind-Tutt and Osasu Obayiuwana as Harry Kane’s second-half double sees England past DR Congo and there is late drama between Senegal and Belgium",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 19:07:59 EDT",
+  "lastUpdated": "2026-07-03 @ 01:06:05 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
