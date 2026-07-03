@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/lakaren-om-isak-hiens-skada-allvarlig"
     },
     {
-      "text": "⚽ The Storsjö Cup: The foreign teams are important for the atmosphere",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/full-fart-pa-storsjocupen"
+      "text": "⚽ Norway have finally lived up to World Cup billing – a reunion with Brazil is perfect timing | Lars Sivertsen",
+      "link": "https://www.theguardian.com/football/2026/jul/03/norway-have-finally-lived-up-to-world-cup-billing-a-reunion-with-brazil-is-perfect-timing"
     }
   ],
   "timeline": {
@@ -9304,11 +9304,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5822_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The doctor about Isak Hien's injury: \"Serious\"",
+            "bullets": [
+              "Isak Hien underwent surgery earlier this week in Finland. Now the doctor who operated on the nationa...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Isak Hien underwent surgery earlier this week in Finland. Now the doctor who operated on the national team player says that it is a serious injury. - We are talking about several months, says surgeon Lasse Lempainen to Expressen.",
+            "fullText": "Isak Hien underwent surgery earlier this week in Finland. Now the doctor who operated on the national team player says that it is a serious injury. - We are talking about several months, says surgeon Lasse Lempainen to Expressen.\n\nIsak Hien was injured in Sweden's last group stage match in the World Cup against Japan.\n\nEarlier this week he underwent surgery in Finland, which his club Atalanta announced the day before yesterday.\n\nNow the surgeon Lasse Lempainen, who operated on Hien, tells about the incident for Expressen.\n\n- They contacted me and I got to see a video of how the injury happened. I evaluated the images from the MRI and saw that it appeared to be a serious injury, so it was easy to decide on surgery, he says.\n\nLempainen says that the operation went well and that Hien can now start rehabilitation, which will however take quite a while.\n\n- When it comes to a serious injury to the back of the thigh, it generally takes quite a long time before the athlete can safely return to their sport, he says, and continues:\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5824_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Norway have finally lived up to World Cup billing – a reunion with Brazil is perfect timing | Lars Sivertsen",
+            "bullets": [
+              "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they b...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998For a country of 5.6 million people, Norway’s list of competitive achievements is remarkable. Our winter Olympians gobble up medals at a freakish rate, our women’s handball team is all-conquering, we’ve had standout successes in athletics such as the Ingebrigtsen brothers, we’ve had two tournament winners on this season’s PGA tour and, improbably, Norway has also produced the greatest chess player of all time. And while these successes are cherished and celebrated, nothing unites the country quite like football – and no match has stopped the country in its tracks quite like the 2-1 win against Brazil in their final group game of the 1998 World Cup.The sound of commentator Arne Scheie announcing “Vi har scoret i Marseille!” (We have scored in Marseille!) is as firmly etched into our brains as much as anything said by Norwegians poets and politicians in the last 50 years. Scheie was already something of a national treasure, a commentator known for his level-headedness and factual rigor, but when Norway won a late penalty with the score 1-1 he lost the run of himself entirely. He referred to the penalty taker, the then Hertha Berlin midfielder Kjetil Rekdal as “Kjetil Reknett, of Werder Bremen” (Reknett is not a surname in Norwegian or, as far as I am aware, any other language). Continue reading...",
+            "fullText": "Ståle Solbakken’s side have surpassed previous golden generation as they prepare to meet team they beat in 1998\n\nFor a country of 5.6 million people, Norway’s list of competitive achievements is remarkable. Our Winter Olympians gobble up medals at a freakish rate, our women’s handball team is all-conquering, we’ve had standout successes in athletics such as the Ingebrigtsen brothers, we’ve had two tournament winners on this season’s PGA tour and, improbably, Norway has also produced the greatest chess player of all time. And while these successes are cherished and celebrated, nothing unites the country quite like football – and no match has stopped the country in its tracks quite like the 2-1 win against Brazil in the final group game of the 1998World Cup.\n\nThe sound of commentator Arne Scheie announcing “Vi har scoret iMarseille!” (“We have scored in Marseille!”) is as firmly etched into our brains as much as anything said by Norwegian poets and politicians in the last 50 years. Scheie was already something of a national treasure, a commentator known for his level-headedness and factual rigour, but whenNorwaywon a late penalty with the score 1-1 he lost the run of himself entirely. He referred to the penalty taker, the Hertha Berlin midfielder Kjetil Rekdal as “Kjetil Reknett, of Werder Bremen” (Reknett is not a surname in Norwegian or, as far as I am aware, any other language).\n\nGrasping for words that could portray the importance of the situation, Scheie then declared that the upcoming penalty kick would be “the most important kick of a ball in the history of the Norwegian football federation”. A deeply strange thing to say, but in his uncharacteristic loss of composure Scheie did in fact achieve what truly great sports commentary should do: he accurately conveyed the emotional stakes of the moment. Rekdal proceeded to score from the spot, and all Norwegians collectively lost their minds. It was a moment when football transcended sport and moved into the realms of nation building.\n\nA number of documentaries, books and even an opera have been written about the win againstBrazil. What is never spoken of is the game that followed: a meek, tepid 1-0 defeat to Italy in the last 16. Norway’s first golden generation qualified for two World Cups, soared to second place in the Fifa rankings, beat the likes of England, Italy, Netherlands and Brazil, but never won a knockout game at a major tournament. And they exited both 1994 and 1998 World Cups with a sense of regret and unfulfilled potential. The current players know this story well. Three of them have fathers who played at the World Cup in ’94. The current manager, Ståle Solbakken, knows it intimately. He played just over an hour in that defeat to Italy. “Historically in tournaments, Norway have played well in qualifying and then performed worse at the World Cup,” Solbakken mused in a Netflix documentary released before this tournament. “Now we have to see if we can raise our game”.\n\nThis context matters, because non-Norwegians will look at this squad and simply see a team packed with talent from elite European clubs. They may have expected Norway to beat Senegal and Côte d’Ivoire, simply based on the star names on the team sheet. They have seen Norwegian fans descend on America and become global media darlings with the “Viking Row”. All so joyful and entirely according to plan. But the players have had to battle the weight of history, the knowledge that we failed to qualify for a single tournament for 28 years, and the fact that even our deeply beloved team of the 1990s ultimately wilted at both their World Cups. Which is why, after the win against Senegal, a fired-up Solbakken repeatedly punched the camera of Norway’s in-house media man and shouted: “Shut up boys! This is the greatest Norwegian football win of all time, and you can quote me on that.”\n\nAfter beating Côte d’Ivoirehe more calmly told his team that “you are changing not only Norwegian football history, but Norwegian history in general. This is so big. This will never happen again, because we are going to qualify time and time again. Which means these 28 years of hurt, everything that is felt around the country, what I feel right here, what you feel, it will never come back.” Norway beating Côte d’Ivoire in the last 32 was not simply a very good team producing an uneven performance to overcome a very capable opponent, it was the first time ever that a Norwegian team truly lived up to its billing at a World Cup.\n\nHaving genuine superstars helps. Erling Haaland is a global phenomenon who has already won everything at club level; Martin Ødegaard a Premier League-winning captain. The two offer very different brands of leadership: the well-spoken and conscientious Ødegaard and the rapacious hunger and drive of Haaland. Both set standards in their own way. But the win over Côte d’Ivoire belonged to the squad as much as the stars. Patrick Berg, who harshly lost his place in the team before the start of the tournament only to force himself back into it during the group stage, turned in an all-action, man-of-the-match performance in midfield. Goalkeeper Ørjan Nyland, on the bench at Sevilla and perennially doubted by many, produced a save-of-the-tournament contender at the death. The fleet-footed Antonio Nusa came up with a goal reminiscent of his idol Neymar in his pomp.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“I think this will change Norway for ever,” said Haaland, a man not normally prone to hyperbole, after the final whistle. “If I survive this I will survive anything,” said Solbakken, a statement that hits a little different as he had a pacemaker fitted after a near-fatal cardiac arrest at the end of his playing days.\n\nIt was Haaland and Ødegaard’s idea for the team to join the fans in the already iconic Viking row after wins, appropriate for a team whose emotional connection with their fans seems genuinely felt. Whether the win against Côte d’Ivoire, Norway’s first ever knockout win in a major tournament, eclipses the win against Brazil in 1998 will be a matter of conjecture. But as always, football’s celestial script writers are to be applauded. Because, of course, Norway’s opponent in the next round is Brazil. It could be no other way.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-03 @ 01:09:06 EDT",
+  "lastUpdated": "2026-07-03 @ 08:58:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
