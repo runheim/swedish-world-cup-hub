@@ -4,44 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ England were 15 minutes from humiliation - the issues Tuchel must solve",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czx59l1knv0o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'He ended up in Preston!' - Murphy gives update on Bob the cat",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cj6g091dr8go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Man Utd ready for Baleba move - Friday gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx23644x506o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'He ended up in Preston!' - Murphy gives update on Bob the cat",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cj6g091dr8go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ England have 'big concerns' - so who would you pick to face Mexico?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cr7x18r0z59o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel wants young England fans to stay up for 1am World Cup clash - but should they?",
-      "link": "https://www.bbc.co.uk/news/articles/ckg40qedq57o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Thomas Tuchel claims Fifa rule puts England at ‘huge’ disadvantage in Mexico City altitude",
-      "link": "https://www.theguardian.com/football/2026/jul/02/tuchel-hits-out-at-fifa-as-rule-puts-england-at-huge-disadvantage"
+      "text": "⚽ England must go low against Mexico to hit heights with Total Arsenalball",
+      "link": "https://www.theguardian.com/football/2026/jul/03/total-arsenalball-england-low-block-mexico-azteca"
     },
     {
       "text": "⚽ Maddy Cusack was fearful of reporting her concerns, mother tells inquest",
       "link": "https://www.theguardian.com/football/2026/jul/02/maddy-cusack-was-fearful-of-reporting-her-concerns-mother-tells-inquest"
     },
     {
-      "text": "⚽ Mexico City swept up in World Cup fever as El Tri capture imaginations like never before",
-      "link": "https://www.theguardian.com/football/2026/jul/02/mexico-city-world-cup-fever-el-tri-capture-imaginations-england"
+      "text": "⚽ Wimbledon Day Five LIVE! Osaka, Djokovic in action after Fonseca exits",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13559913/wimbledon-day-five-live-scores-updates-news-results-with-novak-djokovic-aryna-sabalenka-jannik-sinner-naomi-osaka-coco-gauff-playing"
     },
     {
-      "text": "⚽ Azteca avengers? England return to scene of infamous Maradona handball",
-      "link": "https://www.theguardian.com/football/2026/jul/02/azteca-england-diego-maradona-handball-mexico-world-cup"
-    },
-    {
-      "text": "⚽ Harry Kane’s heroics and USA stay ahead despite red | World Cup Daily – video",
-      "link": "https://www.theguardian.com/football/video/2026/jul/02/harry-kanes-heroics-and-usa-stay-ahead-despite-red-world-cup-daily-video"
+      "text": "⚽ Stones to start? Rice to right-back? England XIs to face Mexico",
+      "link": "https://www.skysports.com/football/news/12040/13559759/mexico-vs-england-predicted-line-ups-sky-sports-writers-pick-their-xis-with-declan-rice-anthony-gordon-and-john-stones-among-players-debated"
     }
   ],
   "timeline": {
@@ -18108,11 +18096,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5033_0",
+            "category": "england",
+            "type": "News",
+            "title": "'He ended up in Preston!' - Murphy gives update on Bob the cat",
+            "bullets": [
+              "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.",
+            "fullText": "BBC commentator Danny Murphy provides an update on the fate of his cat Bob.\n\nWATCH MORE:  Danny Murphy's commentary box cat story",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5033_1",
+            "category": "england",
+            "type": "News",
+            "title": "Man Utd ready for Baleba move - Friday gossip",
+            "bullets": [
+              "Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester United want Brighton midfielder Carlos Baleba, Arsenal are keen on Aston Villa favourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?",
+            "fullText": "Manchester UnitedwantBrightonmidfielder Carlos Baleba,Arsenalare keen onAston Villafavourite Ezri Konsa and Bruno Guimaraes, and is Mason Greenwood heading to Madrid?\n\nAfter missing out on Mateus Fernandes,Manchester Unitedare ready to make a bid forBrighton's22-year-old Cameroon midfielder Carlos Baleba.(Give Me Sport),external\n\nArsenalremain determined to signNewcastlemidfielder Bruno Guimaraes, 28, and are preparing a bid believing that a Â£60m package is still possible for the Brazilian.(Sun),external\n\nWith Argentina forward Julian Alvarez wanted byBarcelona, Atletico Madridhave identified formerManchester Unitedforward Mason Greenwood, 24, who is now atMarseille,as a replacement.(Sport - in Spanish),external\n\nArsenalare interested in signing England andAston Villadefender Ezri Konsa, 28, this summer.(Telegraph),external\n\nAston Villaand England striker Ollie Watkins, 30, has emerged as a shock target for Fenerbahce.(Sun),external\n\nLeeds Unitedhave made an improved offer of Â£23m plus add-ons forSouthamptonmidfielder Shea Charles, 22, after having their initial offer rejected for the Northern Irishman.(Mail),external\n\nAC Milanwill look to sell England defender Fikayo Tomori, 28, this summer as he starts the final year of his contract.(Gazzetta dello Sport),external\n\nRomaandMoroccomidfielder Neil El Aynaoui is being monitored by a number of Premier League clubs, withManchester United,Liverpool,Chelsea,Aston Villa,Brighton,Bournemouth,Newcastle UnitedandSunderlandall asking about the 25-year-old's availability.(Teamtalk),external\n\nEvertonare the latest Premier League team to be linked to in-demandBenficaand Colombia midfielder Richard Rios, 26.(Sport Witness),external\n\nLeyton Orienthave set a price tag of around Â£5m for their English forward Dom Ballard amid interest fromBristol Cityin the 21-year-old.(Football League World),external\n\nMiddlesbroughare finalising a four-year deal for English midfielder Myles Peart-Harris, 23, following the expiry of his contract atOxford United.(Teesside Gazette),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5034_2",
+            "category": "england",
+            "type": "News",
+            "title": "England have 'big concerns' - so who would you pick to face Mexico?",
+            "bullets": [
+              "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Who should play at right-back? Does Anthony Gordon deserve to start? Select and share your England team to face Mexico.",
+            "fullText": "After England's last-32 win over DR Congo former Three Lions forward Wayne Rooney said there are still \"big concerns\" - so how does manager Thomas Tuchel fix them?\n\nCaptain Harry Kane came to their rescue with two late goals inWednesday's comeback victory, setting up a last-16 showdown with Mexico.\n\nBut questions remain from back to front, with the right-back spot and wide forward positions both up for debate.\n\nCan Djed Spence be trusted at full-back? Did Anthony Gordon do enough to oust Marcus Rashford from the starting line-up with two assists? Do England risk Bukayo Saka's fitness?\n\nYou can select and share your Three Lions team for the match at Azteca Stadium below.\n\nWatch on BBC One and iPlayer, listen on BBC Radio 5 Live and BBC Sounds, plus follow on the BBC Sport website and app as England face Mexico in the last 16 of the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5034_3",
+            "category": "england",
+            "type": "News",
+            "title": "England must go low against Mexico to hit heights with Total Arsenalball",
+            "bullets": [
+              "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the low blockIf any win will do then England do not have to worry about putting on an exhibition of attacking football against Mexico. They have no time to acclimatise to the altitude in Mexico City and will have to box clever if they are to handle the challenge of playing at more than 7,000ft (2,200m) above sea level at the Azteca Stadium.No wonder Thomas Tuchel predicted this World Cup would be defined by suffering. England have prepared for the heat in the US but they are about to step into new territory. Mexico, rampant in their last-32 tie against Ecuador, are close to unstoppable at the Azteca. They have lost there twice in 89 competitive games, will be backed by a passionate crowd and have a physical advantage because of the altitude. Continue reading...",
+            "fullText": "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the low block\n\nIf any win will do thenEnglanddo not have to worry about putting on an exhibition of attacking football against Mexico. They have no time to acclimatise to the altitude in Mexico City and will have to box clever if they are to handle the challenge of playing at more than 7,000ft (2,200m) above sea level at the Azteca Stadium.\n\nNo wonder Thomas Tuchel predicted this World Cup would be defined by suffering. England have prepared for the heat in the US but they are about to step into new territory. Mexico, rampant intheir last-32 tie against Ecuador, are close to unstoppable at the Azteca. They have lost there twice in 89 competitive games, will be backed by a passionate crowd and have a physical advantage because of the altitude.\n\nIs this where England’s journey ends? Mexican World Cups have not been kind to them. Their defence of the trophy in 1970 ended when they lost from 2-0 up to West Germany in the last eight in Léon. Then came Diego Maradona at the Azteca in 1986. It was another quarter-final exit for England and there are lessons to learn from that tournament as Tuchel tries to work out the best way to take on Mexico.\n\nThe answer is using the tactic that has so often disrupted Tuchel’s England: stifleMexicowith the dreaded low block. The worst way to approach this game would be allowing it to become chaotic. England cannot give Mexico space to run in behind. Mexico have pace on the flanks and would love to play against a high line.\n\nEngland do not look ready for that kind of battle. Declan Rice is not at full speed in midfield and the right side is a problem. England’s pressing was all over the place during the early stages of theirlast-32 tie against the Democratic Republic of the Congo. Tuchel has talked about wanting to play like a Premier League side but the task here is to play like the most negative Premier League side imaginable. Hit Mexico with Total Arsenalball. Slow the game down. Take the maximum time over every throw-in. Be José Mourinho’s Chelseaat Anfield in 2014. “They want us to be the clowns in the circus,” Mourinho told his players before they wrecked Liverpool’s title hopes with a counterpunching 2-0 win. “We are not going to be the clowns.”\n\nStep back, then. Look at how England prepared for the 1986 World Cup by taking part in a summer tournament in Mexico in 1985. The conditions were a shock to the system. The heat was one thing but the altitude was on another level. England were not ready when they played Mexico at the Azteca. “Before we played Mexico Kenny Sansom and I tried carrying our bags up three flights of stairs because the lifts were occupied,” Glenn Hoddle, who was part of the squad, wrote in his autobiography. “We had to stop twice because we were gasping for air.”\n\nEngland conceded early and lost 1-0. They had already lost 2-1 to Italy and had to tweak their style. “We weren’t able to play the English way,” Hoddle continued. “We stopped trying to press and looked to contain our energy. We finished on a high, beating West Germany 3-0.”\n\nHowever, England reverted to type at the World Cup. Sir Bobby Robson’s side made a poor start in the group stage, losing to Portugal and drawing with Morocco. They were not in Mexico City at first, so the heat was a bigger issue than the altitude. Hoddle remembers hallucinating at the end of the Morocco game. He couldn’t work out which end England were attacking.\n\nIt took a team meeting at a barbecue in Monterrey to force a change of direction. The players agreed that they had to stop trying to play a high press. Robson and Don Howe, the assistant coach, took some convincing. They wanted England to harry Poland in their final group game. They thought the team would be straying from the “real strengths of English football” but player power won out. England dropped off against Poland and reached the last 16 thanks to a 3-0 win.\n\nThe Poland game was in San Nicolás but England’s more conservative style worked when they faced Paraguay at the Azteca in the last 16 and won 3-0 again. It took Maradona to bundle England out in the last eight.\n\nForty years on, England need to forget about imposing themselves on Mexico. This is what Javier Aguirre wants. England have to silence the crowd. They will lose if they let the game become emotional. The smarter choice is to make Mexico feel the pressure.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5034_4",
+            "category": "england",
+            "type": "News",
+            "title": "Maddy Cusack was fearful of reporting her concerns, mother tells inquest",
+            "bullets": [
+              "Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy Coroner told of serious loss of club’s m...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy Coroner told of serious loss of club’s medical dataThe mother of Maddy Cusack told an inquest it is too difficult for women footballers to report grievances, for fear of being blacklisted, and said her daughter would still be alive if “her nemesis” Jonathan Morgan had not been appointed as Sheffield United’s manager.Deborah Cusack said Morgan, who is scheduled to give evidence at Cusack’s inquest on Monday, made her daughter “feel as if she had to give up football”, prior to her being found dead at the family’s home in Derbyshire on 20 September 2023. Thursday’s hearing also heard there had been an “industrial-scale” loss of players’ sensitive medical data involving the records-keeping system used for women’s footballers at multiple clubs, including missing records for Cusack. The club’s doctor at the time, Subhashis Basu, admitted that he had failed to adequately report the data breach.In the UK and Ireland, Samaritans can be contacted on freephone 116 123. In the US, you can call or text the National Suicide Prevention Lifeline on 988, chat on 988lifeline.org, or text HOME to 741741 to connect with a crisis counsellor. In Australia, the crisis support service Lifeline is 13 11 14. Other international helplines can be found at befrienders.org Continue reading...",
+            "fullText": "Sheffield Utd player ‘felt she couldn’t speak’ to hierarchy\n\nCoroner told of serious loss of club’s medical data\n\nThe mother of Maddy Cusack told an inquest it is too difficult for women footballers to report grievances, for fear of being blacklisted, and said her daughter would still be alive if “her nemesis” Jonathan Morgan had not been appointed as Sheffield United’s manager.\n\nDeborah Cusack said Morgan, who is scheduled to give evidence at Cusack’s inquest on Monday, made her daughter “feel as if she had to give up football”, prior to her being found dead at the family’s home in Derbyshire on 20 September 2023. Thursday’s hearing also heard there had been an “industrial-scale” loss of players’ sensitive medical data involving the records-keeping system used for women’s footballers at multiple clubs, including missing records for Cusack. The club’s doctor at the time, Subhashis Basu, admitted that he had failed to adequately report the data breach.\n\nDeborah Cusack also told Chesterfield coroner’s court that her daughter had asked Dr Basu for a referral to a counsellor two weeks prior to her death but that he had advised doing so “further down the line”. Responding to that claim, Dr Basu disagreed with that recollection, saying: “I essentially said ‘I can get in touch with Sporting Chance if you want me to’.”\n\nDescribing Maddy Cusack as a “happy and bright soul with a beautiful smile” and a “fun-loving daughter” who was “the heart of our family”, Deborah Cusack said her daughter had “never ever” had any mental health problems prior to Morgan’s appointment as Sheffield United’s manager in February 2023. However, she also told Morgan “I’m not blaming you for exactly what she did,” before adding: “But you made her feel how she felt. It was the little knocks every now and again. You cut her down to size. If you hadn’t been employed, my daughter would be here today.”\n\nDeborah Cusack was also critical of the Professional Footballers’ Association (PFA) and the Football Association (FA), saying the PFA had not checked in on Maddy Cusack despite her being a PFA member, while another player raised a separate grievance during Maddy’s time at Sheffield United. Deborah Cusack said: “They should have checked in on any other members at the club. Perhaps they need to be a little more aware of the differences between men’s and women’s [football].\n\n“Organisations such as the FA have the Integrity phone line [a confidential reporting service], but I know no girl will ring it. It is quite difficult to raise a grievance because you feel you’re going to be blacklisted or labelled as a trouble-maker. Maddy felt she couldn’t speak to the hierarchy at Sheffield. That really needs to change.”\n\nDeborah Cusack also said Morgan had upset Maddy Cusack by calling her “bottom-heavy” – something Morgan, who is representing himself, claimed was a reference to her muscles and a strength-and-conditioning regime – and that her daughter had felt “humiliated beyond belief” when Morgan called Maddy Cusack’s girlfriend Grace Riglar “Mrs Cusack” in front of the team. Visibly furious while directing this comment to Morgan, Deborah Cusack asked: “Who are you to give rules when you yourself had a relationship with a player?”\n\nDeborah Cusack took her daughter to see her GP, Mobeen Bhatti, whogave evidence on Monday, on 6 September 2023 and, shortly afterwards, her daughter called Dr Basu to inform him why she would not be going to training. Dr Basu was severely scrutinised by the coroner during Thursday’s hearing over the missing medical records, which he said affected lots of players in addition to Cusack, and had still not been resolved when he left the club in the summer of 2024. He now works as Rotherham United’s club doctor and as the English Football League’s medical director.\n\nMedical records have been repeatedly discussed during the inquest because the Cusack family allege Morgan dropped Maddy Cusack for his first match in charge without just cause, whereas Morgan and the club’s former physio, Francesca Carr, have said Cusack was injured. Her full medical notes for that period cannot be located.\n\nDr Basu said extensive player medical records went missing during a transition from using Kitman Labs to WPS as the logging system during the summer of 2023, telling the court: “There were systematic widespread issues with this electronic records system. I contacted the records provider directly regarding this on multiple occasions”. But he conceded he had failed to report this to the club until after Cusack’s death, and he had not informed the information commissioner. Additionally, he mentioned the data loss to neither the club’s nor the FA’s investigations into Cusack’s death. The coroner subsequently expressed concern that other players’ medical data may still be unaccounted for.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5034_5",
+            "category": "england",
+            "type": "News",
+            "title": "Wimbledon Day Five LIVE! Osaka, Djokovic in action after Fonseca exits",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch ATP and WTA action live on Sky Sports' dedicated tennis channel",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5034_6",
+            "category": "england",
+            "type": "News",
+            "title": "Stones to start? Rice to right-back? England XIs to face Mexico",
+            "bullets": [
+              "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Mond...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England are preparing to face Mexico in the last 16 of the 2026 World Cup in the early hours of Monday - but who should be in the team at the Azteca Stadium?",
+            "fullText": "England face Mexico in the last 16 of the 2026 World Cup on Monday morning; Sky Sports writers pick their starting XIs with questions remaining at right-back and on both wings",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-03 @ 01:06:05 EDT",
+  "lastUpdated": "2026-07-03 @ 08:50:34 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
