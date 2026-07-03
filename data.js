@@ -4,11 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Malik Tillman’s bloody sock game rockets into US World Cup history",
-      "link": "https://www.theguardian.com/football/2026/jul/02/malik-tillman-free-kick-bloody-sock-broken-boot-usmnt-world-cup"
-    },
-    {
-      "text": "⚽ USMNT win smashes record for most-watched soccer broadcast with 33.5 million viewers",
+      "text": "⚽ USMNT win smashes American record for most-watched soccer broadcast with 33.5 million viewers",
       "link": "https://www.theguardian.com/football/2026/jul/02/usmnt-world-cup-most-watched-viewership-record"
     }
   ],
@@ -4843,10 +4839,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-03": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0629_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT win smashes American record for most-watched soccer broadcast with 33.5 million viewers",
+            "bullets": [
+              "Fox averages 24.429 million; 9.1 million on TelemundoOutpaces averages of NBA Finals, Sunday Night F...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fox averages 24.429 million; 9.1 million on TelemundoOutpaces averages of NBA Finals, Sunday Night FootballMonday’s last-16 matchup sure to challenge record againThe US men’s national team’s dramatic win over Bosnia and Herzegovina in the World Cup on Wednesday drew a record American television audience, according to preliminary reports released by Fox Sports and Telemundo.The game had an average of 24.429 million viewers on Fox, making it the most-watched English-language soccer broadcast in US history, the broadcaster said. The Fox telecast peaked at 31.883 million. Telemundo, which holds the Spanish language rights to World Cup broadcasts in the US, reported 9.1 million viewers over the total game window. Continue reading...",
+            "fullText": "Fox averages 24.429 million; 9.1 million on Telemundo\n\nOutpaces averages of NBA Finals, Sunday Night Football\n\nMonday’s last-16 matchup sure to challenge record again\n\nThe US men’s national team’sdramatic winover Bosnia and Herzegovina in the World Cup on Wednesday drew a record American television audience, according to preliminary reports released by Fox Sports and Telemundo.\n\nThe game had an average of 24.429 million viewers on Fox, making it the most-watched English-language soccer broadcast in US history, the broadcaster said. The Fox telecast peaked at 31.883 million. Telemundo, which holds the Spanish language rights toWorld Cupbroadcasts in the US, reported 9.1 million viewers over the total game window.\n\nWhile the full audience number will not be released by Nielsen until Monday, the total of more than 33 million viewers would place Wednesday’s game among the most-watched US television events of the year.\n\nAccording to Sportico,only 12 telecastscleared the 33-million mark in the US last year. That includes seven NFL playoff games, the Super Bowl and the State of the Union address.\n\nThis year’s NBA Finals between the New York Knicks and San Antonio Spurs – which had their highest audience in nearly three decades – averaged an audience of 20.5 million, with Game 5 averaging 24.5 million and peaking at 33 million. The final game of last year’s World Series averaged 27.3 million viewers in the US.\n\nThe NFL’s Sunday Night Football telecast averaged 23.5 million last season.\n\nSuch an audience number would have once been unfathomable for US soccer. The 2022 World Cup final between Argentina and France drew 25.8 million viewers between Fox and Telemundo. The US’s most-watched game at that tournament, a group-stage draw with England, drew an audience of 19.9 million across Fox and Telemundo; their last-16 game against the Netherlands had 16.5 million.\n\nThis World Cup has seen record US television audiences, owing to the North American location, a heavy dose of star power and time-zone-friendly kick-offs. The group stage on Fox was the most-watched in English-language US history, with the USMNT’s opener against Paraguay leading the way with an average audience of 18.039 million.\n\nThelast-32 matchbetween the Netherlands and Morocco, which finished in a tense penalty shootout, on Monday set a record for the most-watched English-language World Cup game not to feature the US team or be a World Cup final with 10.020 million average viewers.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-02 @ 19:08:49 EDT",
+  "lastUpdated": "2026-07-03 @ 01:06:40 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
