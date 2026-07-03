@@ -20724,6 +20724,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Early night for me. Need the recovery.",
       "time": "07:31",
       "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "13:10",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Pitch is looking immaculate out there.",
+      "time": "13:11",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who saw that strike in training?! Unbelievable.",
+      "time": "13:12",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who's got control of the playlist today? Needs sorting out.",
+      "time": "13:13",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Bags packed and ready. Let's get it.",
+      "time": "13:14",
+      "isCaptain": false
     }
   ]
 };
