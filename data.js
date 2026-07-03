@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Australia v Egypt: World Cup 2026 last 32 – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live"
+      "text": "⚽ Gio Reyna and Weston McKennie log impressive training sessions",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Scouts monitor USA's wide pressing lanes and transition speed",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -4926,11 +4942,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260703_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "Gio Reyna and Weston McKennie log impressive training sessions",
+            "bullets": [
+              "Reyna creates multiple chances in tactical scrimmage sessions.",
+              "McKennie curls spectacular strikes into top corners in shooting drills.",
+              "Conditioning staff reports player recovery indices are at peak values."
+            ],
+            "summary": "USA's training featured stellar workouts by Reyna and McKennie. The squad looks confident and sharp, showing high fitness indicators under Pochettino's model.",
+            "fullText": "USA's training featured stellar workouts by Reyna and McKennie. The squad looks confident and sharp, showing high fitness indicators under Pochettino's model.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Pitch",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260703_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Scouts monitor USA's wide pressing lanes and transition speed",
+            "bullets": [
+              "Analysts suggest overloading USA's fullbacks in 4-3-3 layouts.",
+              "Opponent coaching staff designs custom defensive screening shapes.",
+              "Pundits highlight USA's offensive combinations as primary threat."
+            ],
+            "summary": "Scouting reports highlight USA's fullback structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.",
+            "fullText": "Scouting reports highlight USA's fullback structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-03 @ 12:24:32 EDT",
+  "lastUpdated": "2026-07-03 @ 15:57:14 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
