@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT squad focuses on tactical discipline in Dallas training hub",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D Opponents finalize their tactical configurations",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Australia v Egypt: World Cup 2026 last 32 – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/03/australia-v-egypt-world-cup-2026-last-32-live"
     }
   ],
   "timeline": {
@@ -4919,11 +4903,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2425_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Australia v Egypt: World Cup 2026 last 32 – live",
+            "bullets": [
+              "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST⚽️ Player guide | Bracketology | Golden Boot | M...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ Kick-off time: 1pm local/2pm EDT/7pm BST/4am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail ScottHere’s how Australia made it through Group D. The hard yards covered in their first game against one of the pre-tournament hipster picks.This is how we saw things from the outset. Reacquaint yourself with today’s cast and crew. Continue reading...",
+            "fullText": "Here’s how Australia made it through Group D.The hard yards covered in their first game against one of the pre-tournament hipster picks.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-03 @ 08:53:39 EDT",
+  "lastUpdated": "2026-07-03 @ 12:24:32 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
