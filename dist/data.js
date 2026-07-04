@@ -4,12 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Why England won't fear Mexico or the Azteca - Shearer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gy0l7x25wo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Murals, flags and beef dishes - Messi mania takes hold in Miami",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Rice likely to be available for England v Mexico",
       "link": "https://www.bbc.co.uk/sport/football/articles/crm0pnnldeyo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Fit and firing Harry Kane is leading England by example on World Cup mission",
+      "link": "https://www.theguardian.com/football/2026/jul/04/harry-kane-leading-england-world-cup-mexico"
     },
     {
       "text": "⚽ Delirium, despair, pride: with the fans on Cape Verde’s World Cup rollercoaster",
@@ -24,12 +32,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/04/brazil-carlo-ancelotti-world-cup"
     },
     {
-      "text": "⚽ Scorecard: England vs India, second T20I",
-      "link": "https://www.skysports.com/cricket/england-v-india/scorecard/d0711f3a-990b-56ae-bb1e-dc68f31d8355"
-    },
-    {
-      "text": "⚽ Carra: Tuchel's created right-back problem with 'bizarre decision'",
-      "link": "https://www.skysports.com/football/news/12040/13560384/england-boss-thomas-tuchel-has-created-world-cup-right-back-problem-ahead-of-mexico-last-16-game-says-jamie-carragher"
+      "text": "⚽ England kick-off chaos: What really happened and how storms could delay the game",
+      "link": "https://www.skysports.com/football/news/12040/13560485/world-cup-2026-england-kick-off-chaos-explained-and-how-storms-hitting-mexico-could-delay-the-last-16-tie"
     }
   ],
   "timeline": {
@@ -18837,11 +18841,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4319_0",
+            "category": "england",
+            "type": "News",
+            "title": "Why England won't fear Mexico or the Azteca - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
+            "fullText": "I've heard a lot of talk about the difficult conditions England will face at the Azteca Stadium - but I don't think the players will be worried about any of that.\n\nInstead of having any fear about the different tests they face, they will just be thinking 'bring it on'. I know I would be.\n\nAll the talk stops when they run out anyway, and if they play the game rather than the occasion then I think they will win.\n\nYes, it's going to be tough, because of the altitude and the atmosphere and everything else. Co-hosts Mexico are at home and the crowd could be as much as 80% of their fans, which is very different to anything England have faced at this tournament so far.\n\nBut as a player, these are the kind of games and moments you train and work so hard for all your life because to be going to such an iconic stadium and playing in a World Cup in front of a TV audience of millions, with a place in the quarter-finals as the prize, is what you dream of as a boy.\n\nI've wanted to go to the Azteca since I watched the 1986 World Cup on TV as a teenager and this is the first time England have been back since losing that epic quarter-final tie to Argentina. It's going to be an amazing spectacle as well as a unique test.\n\nI have followed England around the United States at this World Cup, and we have had the majority of fans at all four matches so far.\n\nAgainst DR Congo in Atlanta, around 75% of the crowd were supporting England, but this is going to feel very different and is another reason why it's such an incredible game to look forward to.\n\nI'll be there, co-commentating with Guy Mowbray, and am excited about it as much as the fans are. I bet the players are excited too.\n\nYes, it's a challenge but I would say to them to embrace it and enjoy it - be positive and show us all what you can do.\n\nThe confusion over the kick-off time just added to the noise around this game, but I don't understand how it could have been changed and brought forward earlier than the scheduled time. It was a silly idea because of the way it would have impacted the thousands of fans flying in from all over the world to watch it.\n\nIt's been noisy enough in Mexico City anyway - I saw the reception England got when they arrived at their hotel on Friday, and we know Ecuador were kept awake by car horns and fireworks before their last-32 tie.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4319_1",
+            "category": "england",
+            "type": "News",
+            "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
+            "bullets": [
+              "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina a...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
+            "fullText": "Messi opens the scoring against Cape Verde with 'sensational' finish\n\nHe scored again. After getting three against Algeria, two against Austria and one against Jordan, Lionel Messi added another as Argentina defeated Cape Verde in the World Cup last 32.\n\nHis opener in the dramatic, extraordinary 3-2 victory in Miami was his 20th World Cup finals goal - extending the record he broke during his country's progression through the group phase in the United States. It was his seventh of this tournament.\n\nThe atmosphere around the stadium had been building long before kick-off, with supporters lining the streets draped in sky blue and white, beating drums, singing songs and posing beneath giant Argentina flags.\n\nInside, blue and white shirts dominated the stands, with his number 10 visible almost everywhere.\n\nFlags draped over the railings, while one striking banner portrayed Messi alongside Diego Maradona as saint-like figures, reflecting the status  which so many supporters regard their greatest footballing icons.\n\n\"He's our hero,\" one Argentina fan said before kick-off. \"He's like our God.\"\n\n\"He has aged like fine wine,\" another said. \"The older he gets, the better he gets.\"\n\nWhen asked whether Messi could win the Golden Boot at this World Cup, supporters were confident that he would if Argentina made the final.\n\n\"We've already had so much from him,\" one fan said. \"If he wins it, fantastic, but everything he's already done for Argentina is enough. He is incredible.\"\n\nBy Messi's extraordinary standards, this was not his most influential performance.\n\nCape Verde frustrated Argentina for long periods and played with a confidence that suggested little sign of the gap in the world rankings, with Argentina ranked second in the world and Cape Verde sitting outside the top 60.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4320_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rice likely to be available for England v Mexico",
+            "bullets": [
+              "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ong...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ongoing injury issue.",
+            "fullText": "Declan Rice stepped in at right-back during the last-32 win over DR Congo\n\nDeclan Rice is likely to be available to start England's World Cup last-16 tie against Mexico on Sunday despite an ongoing injury issue.\n\nThe Arsenal midfielder has been playing with a neural problem that affects his hamstring and lower back and was substituted in injury time of the2-1 win over DR Congoin the last 32.\n\nSpeaking after that game, manager Thomas Tuchel said: \"I asked him. He said: 'I can do it for the team but I am in terrible pain.' When Declan tells you he is in terrible pain then you know he cannot take it any more.\"\n\nThough Rice is likely to be available to start against Mexico, there remain doubts about Reece James' availability, with the Chelsea right-back having sat out two matches because of a hamstring injury.\n\nIt is understood James is yet to return to full training in the build-up to the game against Mexico, which is scheduled for 18:00 local time on Sunday (01:00 BST on Monday), thoughcould move because of the weather.\n\nBack-up right Jarell Quansah, who missed the win over DR Congo with an ankle issue, has stepped up his recovery but it is not known yet if he will be available.\n\nEngland fan tickets for Mexico on resale for up to Â£26K",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4320_3",
+            "category": "england",
+            "type": "News",
+            "title": "Fit and firing Harry Kane is leading England by example on World Cup mission",
+            "bullets": [
+              "The England captain is feeling fitter than ever but warns his team may have to ‘grind it out’ agains...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The England captain is feeling fitter than ever but warns his team may have to ‘grind it out’ against MexicoNobody is more qualified than Thierry Henry to talk about finishing, so it was worth paying attention to the former France striker’s analysis of Harry Kane’s second goal against the Democratic Republic of the Congo (DRC).“Striking with the inside of the foot, almost wrapping the ball while the body is off-balance, you have to maintain balance at the crucial moment to take the shot,” Henry said on Fox after the game. “Do you know how hard it is to generate power then? At the end of the game? To redirect it like that? If I did that now, I’d break my back.” Continue reading...",
+            "fullText": "The England captain is feeling fitter than ever but warns his team may have to ‘grind it out’ against Mexico\n\nNobody is more qualified than Thierry Henry to talk about finishing, so it was worth paying attention to the former France striker’s analysis ofHarry Kane’s second goalagainst the Democratic Republic of the Congo (DRC).\n\n“Striking with the inside of the foot, almost wrapping the ball while the body is off-balance, you have to maintain balance at the crucial moment to take the shot,” Henry said on Fox after the game. “Do you know how hard it is to generate power then? At the end of the game? To redirect it like that? If I did that now, I’d break my back.”\n\nIt was extraordinary technique and athleticism from Kane. The striker has called it one of his favouriteEnglandgoals and explained it was not only down to leg power. Kane rotated his whole body, swung his arms for extra oomph and did not worry about falling to the turf.\n\nHere was an athlete operating at peak physical power. Kane is the reason England are still in theWorld Cupand Thomas Tuchel is still in a job. The captain saved England against the DRC, equalising with a clever header, then bashing in a spectacular shot to earn a last-16 tie against Mexico. It was an astonishing performance, perhaps Kane’s signature moment at international level, and furthered the forward’s case to be in the conversation when it comes to picking the best player in England’s history.\n\nWhere does Kane rank? Way out on his own as the country’s leading goalscorer (the goals against the DRC were his 83rd and 84th in 118 caps), he is in the top 10 at least. The longer Kane has gone on the better he has become. He has five goals from England’s first four games, putting him in contention for another Golden Boot. He has beaten Gary Lineker’s goalscoring record at World Cups.\n\nThis is a modern great who stands the test of time. They had this debate on the Stick to Football podcast this week; it did not feel ridiculous when Gary Neville, Roy Keane, Ian Wright and Jill Scott had Kane up there with Bobby Moore and Sir Bobby Charlton in England’s top three.\n\nWhat the Bayern Munich forward lacks is the standout display at the business end of a tournament. Moore was England’s captain when they won the 1966 World Cup and Charlton won the Ballon d’Or that year. Kane still falls just short. He has faded at previous tournaments and sometimes arrived short of full fitness.\n\nKane was quiet in the Euro 2020 final. He ensured heartbreak at the 2022 World Cup, missing a late penalty that could have made it 2-2 in the quarter-final against France, and was written off in some quarters after being substituted in the Euro 2024 final against Spain.\n\nThe thinking was that Kane was slowing. Not quite. He has 72 goals for club and country this season. He is in contention to win the Ballon d’Or and, with a total distance of 43,433 metres, has covered more ground than any England player at the World Cup.\n\nThe statistics sum up Kane’s relentless quest for self-improvement. He has added layers to his game – no striker is better at dropping off to play killer through-balls – and the force of his second goal against the DRC is a reminder of how he takes care of his body. The winter break in Germany has helped. So has Bayern being able to rest him because of their dominance in the Bundesliga.\n\n“It’s probably the best I’ve felt in my career,” Kane said. “I made a conscious effort at the start of this season to be even fitter, to take care of myself even more, looking at different ways to recover better. Also, you need a bit of luck to stay injury free.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4320_4",
+            "category": "england",
+            "type": "News",
+            "title": "Delirium, despair, pride: with the fans on Cape Verde’s World Cup rollercoaster",
+            "bullets": [
+              "Rotterdam is home to 25,000 Cape Verdeans and 1,600 of them gathered in a beer garden to watch an un...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Rotterdam is home to 25,000 Cape Verdeans and 1,600 of them gathered in a beer garden to watch an unforgettable game against ArgentinaRotterdam knows how to script a football fairytale. Six players from the Cape Verde side who have lit up the World Cup were born here, nearly 5,000km from their parents’ islands. Five of them played against Argentina, the defending champions, in a bittersweet 3-2 defeat.After last Saturday’sdraw with Saudi Arabia took Cape Verde into the last 32, the streets of Rotterdam were full of honking cars, flags streaming from the windows and people dancing. This is the city the locals call the 10th island of Cape Verde. The diasporas from Curaçao and Morocco have also set their own corners of Rotterdam alight during this tournament. Continue reading...",
+            "fullText": "Rotterdam is home to 25,000 Cape Verdeans and 1,600 of them gathered in a beer garden to watch an unforgettable game against Argentina\n\nRotterdam knows how to script a football fairytale. Six players from the Cape Verde side who have lit up the World Cup were born here, nearly 5,000km from their parents’ islands. Five of them played against Argentina, the defending champions, in a bittersweet3-2 defeat.\n\nAfter last Saturday’sdraw with Saudi Arabiatook Cape Verde into the last 32, the streets of Rotterdam were full of honking cars, flags streaming from the windows and people dancing. This is the city the locals call the 10th island of Cape Verde. The diasporas from Curaçao and Morocco have also set their own corners of Rotterdam alight during this tournament.\n\nThe Netherlands’ second city includes about 25,000 Kriolu, as Cape Verdeans here call themselves. One of them is Jeffry Fortes, the child of a dock-worker, like most of his compatriots. The cheerful, wiry 37-year-old is the right-back at the second-tier side Den Bosch and has played more than 400 games in the top two divisions of Dutch football.\n\nIt earned him 26 Cape Verde caps until his involvement ended abruptly in 2023 after a falling-out with the football federation’s board. “I’m not going to speak badly about them,” he says. “I’m their biggest fan now.”\n\nFortes is accompanied by 1,600 other singing and dancing Cape Verdeans at the music venue Club Annabel, and is wearing a blue shirt bearing a picture of Amílcar Cabral, who led Cape Verde’s and Guinea-Bissau’s struggle for independence from Portugal.\n\n“As a professional footballer it’s a disappointment to be on the sidelines,” he says. “But as a Cape Verdean, I’m prouder than ever. We can’t take this for granted. This is the biggest and best moment ever. No one in the world knew us. Now we’re in the spotlight.”\n\nIn the venue’s industrial-size beer garden are an African drum band, dancers and countless strings of small flags fromWorld Cupnations. For the people here, it is Vozinha’s world and Lionel Messi is just living in it. For the first time at this World Cup, a hydration break is welcomed with cheers and applause. When Messi opens the scoring shortly after, there is a feeling of small disappointment in a big Cape Verdean party.\n\nThe celebration that greets the Rotterdam-born Deroy Duarte’s equaliser goes deeper than joy. This is disbelief and it flies through the air along with the islands’ popular liquors, grogue and pontche. Then Lisandro Martínez restores Argentina’s lead and the devastation shows how far Cape Verde have come.\n\nThe Rotterdam rollercoaster reaches top speed whenSidny Lopes Cabral– you can imagine where he was born – curls the ball past Emiliano Martínez from a near-impossible position. For a heartbeat there is silence. Then Cabral runs to his girlfriend in the stands and Fortes disappears in a sea of jumping Blue Sharks, the team’s nickname. Everything shakes like never before for this country.\n\nWhen Diney Borges heads Argentina back in front, frustration takes over at Club Annabel. The smallest country to reach the knockout stage of the World Cup is gutted to be behind against the world champions, but Fortes makes no secret of his pride. That is shared at the end by the other fans, drained, but applauding under Rotterdam’s skyscrapers.\n\nFortes and a handful of his talented friends were among the first from the city to play for Cape Verde. Fortes made his debut in 2014 and along the way came a duel with Senegal’s Sadio Mané at the Africa Cup of Nations and a 2-0 friendly win over Portugal, with a young Bernardo Silva on the other side.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4320_5",
+            "category": "england",
+            "type": "News",
+            "title": "Survival is key for England in epic test or it will be a Mexican wave goodbye",
+            "bullets": [
+              "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a chall...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not processNausea, cramps, shortness of breath. Time-lagged, unacclimatised, eyes bulging as the vertigo hits. Not to mention three times more likely to suffer unwanted swelling of the brain. Watching England play football at this World Cup has certainly been a physical trial at times. Not least for those back home hunkered around the screen, feeling the energy surge then sag again through the dead periods in Boston, New York and Atlanta.And now we move on to the altitude of Mexico City, the Azteca, host nation energy and a beautifully pitched last-16 game, one of those occasions that seems to go beyond sport, to carry its own sense of something epic and gravitational, an emotional weather front about to break. Continue reading...",
+            "fullText": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not process\n\nNausea, cramps, shortness of breath. Time-lagged, unacclimatised, eyes bulging as the vertigo hits. Not to mention three times more likely to suffer unwanted swelling of the brain. Watching England play football at thisWorld Cuphas certainly been a physical trial at times. Not least for those back home hunkered around the screen, feeling the energy surge then sag again through the dead periods in Boston, New York and Atlanta.\n\nAnd now we move on to the altitude of Mexico City, the Azteca, host nation energy and a beautifully pitched last-16 game, one of those occasions that seems to go beyond sport, to carry its own sense of something epic and gravitational, an emotional weather front about to break.\n\nThe World Cup has been a back-roads odyssey forEnglandso far. Those four matches and 23 days have felt both weirdly interminable – can you actually remember a time when this World Cup was not happening? – but also like a campaign still smoking and juddering on the airstrip, waiting for lift-off.\n\nCroatia werephysically overwhelmed. Ghanawere not. Panama took England down intoa pit of pain. The Democratic Republic of the Congo (DRC) were slick, fearless anda bit unlucky. Through all this the lurking feeling has been: OK, when will it start? No, I mean really start. When will it hit the groove? When do they need to actually be good?\n\nSunday in the Azteca is undeniably epic in outline and staging. The lights, the noise, the World Cup ghosts at the edge of your vision, the squat little man turning like an eel, Franz Beckenbauer, broken arm strapped to his chest, passing serenely into midfield. This is all authentically World Cup.\n\nBut for this England, right now, the Azteca is also a strange, bitty game. This is an occasion to get through, where, frankly, winning is all that matters, however it comes.\n\nThomas Tuchel’s team have been held up to the light across those four games in the US. The joins, the ragged edges, the hopeful first-fixes have begun to show. At times in the first half against the DRC England played like a team with its legs on the wrong way round, awkward in possession, somehow managing to be both clumped together and also outnumbered in every area.\n\nThere are too many best guesses here, broken threads and unsolved problems. Tuchel seems confused over his wide attackers. Understandably so: they’re confusing. The full-backs seem vulnerable. Jordan Pickford has begun to whirl about clapping his arms together, veering around his penalty area looking spooked and testy, like a riderless horse at the Grand National.\n\nThere is an urge to seek solutions to all this, to settle and find patterns. But not now, not for this one. England will scoot into Mexico at the worst possible time, too close to the game to acclimatise to 7,220 feet above sea level, too far away to simply raw-dog it and rush through before the comedown hits. They will face a nation consumed by the show, energetically committed to disrupting not just their sleep at the hotel (drum-kits, klaxons, fireworks) but every insurgent moment spent in the country.\n\nSimply staying level and upright, non-culture-shocked, will be a major part of any thoughts of victory. Never mind, for now, recalibrating the timing of their inverted underlaps. This is not a moment to solve anything, to look for solutions, signs of deep progress. This is a day to get through, to accept that sometimes World Cups are what happens while you’re busy making plans.\n\nFor all that, one good and stabilising thing has now happened. A block has been manoeuvred into place. Who knows, it might just have its own intangible effect. This is about Tuchel.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4320_6",
+            "category": "england",
+            "type": "News",
+            "title": "‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners",
+            "bullets": [
+              "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans beli...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe againBrazil arrived at the World Cup with several open wounds. Since Qatar in 2022 there were four changes of manager, 95 players called up and a political crisis, including the ousting of the Brazilian Football Confederation (CBF) president. It has been a big mess, with many uncertainties, and the mood among the fans was one of pessimism.But then Carlo Ancelotti arrived. Gradually under the Italian, the team has taken shape and transformed its relationship with fans, who are again dreaming of a sixth World Cup after 24 years without one, the longest such drought along with the period between 1970 and 1994. Continue reading...",
+            "fullText": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe again\n\nBrazil arrived at theWorld Cupwith several open wounds. Since Qatar in 2022 there were four changes of manager, 95 players called up and a political crisis, including the ousting of the Brazilian Football Confederation (CBF)president. It has been a big mess, with many uncertainties, and the mood among the fans was one of pessimism.\n\nBut thenCarlo Ancelotti arrived. Gradually under the Italian, the team has taken shape and transformed its relationship with fans, who are again dreaming of a sixth World Cup after 24 years without one, the longest such drought along with the period between 1970 and 1994.\n\nAncelotti has become a shield for the players. Even the most experienced ones, such as Alisson, Danilo, Marquinhos and Casemiro, feel more at ease having such a great figure on the bench, the most successful manager in the Champions League, with five titles.\n\n“It’s undeniable that this World Cup cycle has been very difficult for us players,” says Alisson, who is playing in his third World Cup. “We’ve experienced all these difficulties first-hand. But since Ancelotti’s arrival, the atmosphere has been transformed. He gives us the peace of mind that comes from an environment focused on work, without having to worry about controversies or other issues.”\n\n“Our team wasn’t in great form, but Ancelotti made the necessary changes,” says Marquinhos. “He’s very smart. He knows how to get the best out of the players he has and help them improve. He managed to change our mindset and created a philosophy centred on wellbeing.”\n\nThe last-32 victory over Japanwas another wound Ancelotti managed to heal. In the recent past, conceding a goal in the first half would have knocked Brazil off balance. Since 2023, Brazil had conceded the first goal of a match on 12 occasions, losing seven of those and drawing four. That was against Chile in a World Cup qualifier in October 2024.\n\nThe blow of Keishu Sano’s goal was, therefore, a heavy one. Brazil’s unease was plain to see. But Ancelotti turned the atmosphere around. He made the most of the half-time break and spoke to the players in a way that surprised everyone in the dressing room.\n\n“Ancelotti is an incredible man,” Gabriel Martinelli, who scored the winning goal, told CazeTV. “It’s easy to understand why he has won everything he has competed for.\n\n“He gave us a lot of confidence. He said we were going to equalise and then win, that we had to believe in ourselves. You can see from his body language just how calm he is. He passes that confidence on to us.”\n\nAncelotti has not been afraid to make important decisions, such as leaving Neymar out of the starting XI. The 34-year-old is not the player he was, nor is he fully fit. But other, less experienced managers would not have cared about that; they would have picked Neymar plus 10 other players.\n\nUnder Ancelotti, however, Neymar has played 14 minutes at this World Cup, against Scotland, and did not feature against Japan. Neymar, in turn, has understood his role in the squad. He knows he is no longer Brazil’smost important player. That status now belongs to Vinícius Júnior.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4321_7",
+            "category": "england",
+            "type": "News",
+            "title": "England kick-off chaos: What really happened and how storms could delay the game",
+            "bullets": [
+              "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs Eng...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs England in the World Cup last 16 was when Mexican journalists started asking Morgan Rogers and Marcus Rashford how they felt about it, I'm told.",
+            "fullText": "England's World Cup last-16 tie with Mexico remains set for a 1am kick-off on Monday, UK time; the threat of storms had led to discussions about the match being brought forward; here we explain the key factors influencing the decision - and how the weather could yet impact the match",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-04 @ 12:02:36 EDT",
+  "lastUpdated": "2026-07-04 @ 15:43:23 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
