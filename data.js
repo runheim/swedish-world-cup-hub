@@ -4,28 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Murals, flags and beef dishes - Messi mania takes hold in Miami",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Rice likely to be available for England v Mexico",
       "link": "https://www.bbc.co.uk/sport/football/articles/crm0pnnldeyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden",
-      "link": "https://www.theguardian.com/football/2026/jul/03/world-cup-mexico-azteca-altitude-england-thomas-tuchel-tactics"
+      "text": "⚽ Survival is key for England in epic test or it will be a Mexican wave goodbye",
+      "link": "https://www.theguardian.com/football/2026/jul/04/england-survival-mexico-world-cup-2026-thomas-tuchel"
     },
     {
-      "text": "⚽ Get a grip on Mora and take aerial route: what England can do to contain Mexico",
-      "link": "https://www.theguardian.com/football/2026/jul/03/tactical-test-what-england-must-do-to-handle-mexicos-threat"
+      "text": "⚽ ‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners",
+      "link": "https://www.theguardian.com/football/2026/jul/04/brazil-carlo-ancelotti-world-cup"
     },
     {
-      "text": "⚽ England must go low against Mexico to hit heights with Total Arsenalball",
-      "link": "https://www.theguardian.com/football/2026/jul/03/total-arsenalball-england-low-block-mexico-azteca"
-    },
-    {
-      "text": "⚽ England vs Mexico WILL kick-off at 1am Monday",
+      "text": "⚽ England vs Mexico WILL kick-off at 1am Monday - but storm threat remains",
       "link": "https://www.skysports.com/football/news/12040/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday"
-    },
-    {
-      "text": "⚽ Sabalenka sets up mouth-watering Wimbledon clash with Osaka",
-      "link": "https://www.skysports.com/tennis/news/12040/13560155/wimbledon-aryna-sabalenka-sets-up-naomi-osaka-showdown-as-novak-djokovic-and-jannik-sinner-advance"
     }
   ],
   "timeline": {
@@ -18617,11 +18613,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5959_0",
+            "category": "england",
+            "type": "News",
+            "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
+            "bullets": [
+              "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina a...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
+            "fullText": "Messi opens the scoring against Cape Verde with 'sensational' finish\n\nHe scored again. After getting three against Algeria, two against Austria and one against Jordan, Lionel Messi added another as Argentina defeated Cape Verde in the World Cup last 32.\n\nHis opener in the dramatic, extraordinary 3-2 victory in Miami was his 20th World Cup finals goal - extending the record he broke during his country's progression through the group phase in the United States. It was his seventh of this tournament.\n\nThe atmosphere around the stadium had been building long before kick-off, with supporters lining the streets draped in sky blue and white, beating drums, singing songs and posing beneath giant Argentina flags.\n\nInside, blue and white shirts dominated the stands, with his number 10 visible almost everywhere.\n\nFlags draped over the railings, while one striking banner portrayed Messi alongside Diego Maradona as saint-like figures, reflecting the status  which so many supporters regard their greatest footballing icons.\n\n\"He's our hero,\" one Argentina fan said before kick-off. \"He's like our God.\"\n\n\"He has aged like fine wine,\" another said. \"The older he gets, the better he gets.\"\n\nWhen asked whether Messi could win the Golden Boot at this World Cup, supporters were confident that he would if Argentina made the final.\n\n\"We've already had so much from him,\" one fan said. \"If he wins it, fantastic, but everything he's already done for Argentina is enough. He is incredible.\"\n\nBy Messi's extraordinary standards, this was not his most influential performance.\n\nCape Verde frustrated Argentina for long periods and played with a confidence that suggested little sign of the gap in the world rankings, with Argentina ranked second in the world and Cape Verde sitting outside the top 60.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0000_1",
+            "category": "england",
+            "type": "News",
+            "title": "Rice likely to be available for England v Mexico",
+            "bullets": [
+              "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ong...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ongoing injury issue.",
+            "fullText": "Declan Rice stepped in at right-back during the last-32 win over DR Congo\n\nDeclan Rice is likely to be available to start England's World Cup last-16 tie against Mexico on Sunday despite an ongoing injury issue.\n\nThe Arsenal midfielder has been playing with a neural problem that affects his hamstring and lower back and was substituted in injury time of the2-1 win over DR Congoin the last 32.\n\nSpeaking after that game, manager Thomas Tuchel said: \"I asked him. He said: 'I can do it for the team but I am in terrible pain.' When Declan tells you he is in terrible pain then you know he cannot take it any more.\"\n\nThough Rice is likely to be available to start against Mexico, there remain doubts about Reece James' availability, with the Chelsea right-back having sat out two matches because of a hamstring injury.\n\nIt is understood James is yet to return to full training in the build-up to the game against Mexico, which is scheduled for 18:00 local time on Sunday (01:00 BST on Monday), thoughcould move because of the weather.\n\nBack-up right Jarell Quansah, who missed the win over DR Congo with an ankle issue, has stepped up his recovery but it is not known yet if he will be available.\n\nEngland fan tickets for Mexico on resale for up to Â£26K",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0000_2",
+            "category": "england",
+            "type": "News",
+            "title": "Survival is key for England in epic test or it will be a Mexican wave goodbye",
+            "bullets": [
+              "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a chall...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not processNausea, cramps, shortness of breath. Time-lagged, unacclimatised, eyes bulging as the vertigo hits. Not to mention three times more likely to suffer unwanted swelling of the brain. Watching England play football at this World Cup has certainly been a physical trial at times. Not least for those back home hunkered around the screen, feeling the energy surge then sag again through the dead periods in Boston, New York and Atlanta.And now we move on to the altitude of Mexico City, the Azteca, host nation energy and a beautifully pitched last-16 game, one of those occasions that seems to go beyond sport, to carry its own sense of something epic and gravitational, an emotional weather front about to break. Continue reading...",
+            "fullText": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not process\n\nNausea, cramps, shortness of breath. Time-lagged, unacclimatised, eyes bulging as the vertigo hits. Not to mention three times more likely to suffer unwanted swelling of the brain. Watching England play football at thisWorld Cuphas certainly been a physical trial at times. Not least for those back home hunkered around the screen, feeling the energy surge then sag again through the dead periods in Boston, New York and Atlanta.\n\nAnd now we move on to the altitude of Mexico City, the Azteca, host nation energy and a beautifully pitched last-16 game, one of those occasions that seems to go beyond sport, to carry its own sense of something epic and gravitational, an emotional weather front about to break.\n\nThe World Cup has been a back-roads odyssey forEnglandso far. Those four matches and 23 days have felt both weirdly interminable – can you actually remember a time when this World Cup was not happening? – but also like a campaign still smoking and juddering on the airstrip, waiting for lift-off.\n\nCroatia werephysically overwhelmed. Ghanawere not. Panama took England down intoa pit of pain. The Democratic Republic of the Congo (DRC) were slick, fearless anda bit unlucky. Through all this the lurking feeling has been: OK, when will it start? No, I mean really start. When will it hit the groove? When do they need to actually be good?\n\nSunday Tomorrow in the Azteca is undeniably epic in outline and staging. The lights, the noise, the World Cup ghosts at the edge of your vision, the squat little man turning like an eel, Franz Beckenbauer, broken arm strapped to his chest, passing serenely into midfield. This is all authentically World Cup.\n\nBut for this England, right now, the Azteca is also a strange, bitty game. This is an occasion to get through, where, frankly, winning is all that matters, however it comes.\n\nThomas Tuchel’s team have been held up to the light across those four games in the US. The joins, the ragged edges, the hopeful first-fixes have begun to show. At times in the first half against the DRC England played like a team with its legs on the wrong way round, awkward in possession, somehow managing to be both clumped together and also outnumbered in every area.\n\nThere are too many best guesses here, broken threads and unsolved problems. Tuchel seems confused over his wide attackers. Understandably so: they’re confusing. The full-backs seem vulnerable. Jordan Pickford has begun to whirl about clapping his arms together, veering around his penalty area looking spooked and testy, like a riderless horse at the Grand National.\n\nThere is an urge to seek solutions to all this, to settle and find patterns. But not now, not for this one. England will scoot into Mexico at the worst possible time, too close to the game to acclimatise to 7,220 feet above sea level, too far away to simply raw-dog it and rush through before the comedown hits. They will face a nation consumed by the show, energetically committed to disrupting not just their sleep at the hotel (drum-kits, klaxons, fireworks) but every insurgent moment spent in the country.\n\nSimply staying level and upright, non-culture-shocked, will be a major part of any thoughts of victory. Never mind, for now, recalibrating the timing of their inverted underlaps. This is not a moment to solve anything, to look for solutions, signs of deep progress. This is a day to get through, to accept that sometimes World Cups are what happens while you’re busy making plans.\n\nFor all that, one good and stabilising thing has now happened. A block has been manoeuvred into place. Who knows, it might just have its own intangible effect. This is about Tuchel.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0000_3",
+            "category": "england",
+            "type": "News",
+            "title": "‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners",
+            "bullets": [
+              "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans beli...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe againBrazil arrived at the World Cup with several open wounds. Since Qatar in 2022 there were four changes of manager, 95 players called up and a political crisis, including the ousting of the Brazilian Football Confederation (CBF) president. It has been a big mess, with many uncertainties, and the mood among the fans was one of pessimism. But then Carlo Ancelotti arrived. Gradually under the Italian, the team has taken shape and transformed its relationship with fans, who are again dreaming of a sixth World Cup after 24 years without one, the longest such drought alongside the period between 1970 and 1994.Ancelotti has become a shield for the players. Even the most experienced ones, such as Alisson, Danilo, Marquinhos and Casemiro, feel more at ease having such a great figure on the bench, the most successful manager in the Champions League, with five titles. Continue reading...",
+            "fullText": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe again\n\nBrazil arrived at the World Cup with several open wounds. Since Qatar in 2022 there were four changes of manager, 95 players called up and a political crisis, including the ousting of the Brazilian Football Confederation (CBF)president. It has been a big mess, with many uncertainties, and the mood among the fans was one of pessimism. But thenCarlo Ancelottiarrived. Gradually under the Italian, the team has taken shape and transformed its relationship with fans, who are again dreaming of a sixth World Cup after 24 years without one, the longest such drought alongside the period between 1970 and 1994.\n\nAncelotti has become a shield for the players. Even the most experienced ones, such as Alisson, Danilo, Marquinhos and Casemiro, feel more at ease having such a great figure on the bench, the most successful manager in the Champions League, with five titles.\n\n“It’s undeniable that thisWorld Cupcycle has been very difficult for us players,” says Alisson, who is playing in his third World Cup. “We’ve experienced all these difficulties first-hand. But since Ancelotti’s arrival, the atmosphere has been transformed. He gives us the peace of mind that comes from an environment focused on work, without having to worry about controversies or other issues”.\n\n“Our team wasn’t in great form, but Ancelotti made the necessary changes,” says Marquinhos. “He’s very smart. He knows how to get the best out of the players he has and help them improve. He managed to change our mindset and created a philosophy centred on wellbeing.”\n\nThe last-32 victory over Japan was another wound Ancelotti managed to heal. In the recent past, conceding a goal in the first half would have been a blow that knockedBraziloff balance. Indeed since 2023, Brazil had conceded the first goal of a match on 12 occasions, losing seven of those, drawing four and winning just once. That was against Chile in a World Cup qualifier in October 2024.\n\nThe blow of Keishu Sano’s goal was, therefore, a heavy one. Brazil’s unease was plain to see. But Ancelotti turned the atmosphere around. He made the most of the half-time break and spoke to the players in a way that surprised everyone in the dressing room.\n\n“Ancelotti is an incredible man,” Gabriel Martinelli, who scored the winning goal against Japan, told CazeTV. “It’s easy to understand why he has won everything he has ever competed for. He gave us a lot of confidence. He said we were going to equalise and then win, that we had to believe in ourselves. You can see from his body language just how calm he is. He passes that confidence on to us”.\n\nAncelotti has not been afraid to make important decisions, such as leaving Neymar out of the starting XI. The 34-year-old is not the player he once was, nor is he fully fit. But other, less experienced managers would not have cared about that; they would still have picked Neymar plus 10 other players. Under Ancelotti, however, Neymar has played only 14 minutes at this World Cup, against Scotland, and did not feature against Japan. Neymar, in turn, has understood his role in the squad. He knows he is no longer Brazil’s star player. That status now belongs to Vinícius Júnior.\n\nAncelotti’s man-management always made him the perfect coach for theSeleção, and he has always emphasised that Brazil have no lack of talent, but that alone is not enough to win a World Cup. For this reason, in addition to his assistants Paul Clement, Francesco Mauri and his son Davide Ancelotti, he draws on the expertise of Marisa Santiago, the first psychologist to be part of Brazil’s coaching staff at a World Cup. Ancelotti speaks to Santiago daily and asks for advice on ways to work on the players’ mental game. She has also been talking to the players and helping Ancelotti in his efforts to create the best possible atmosphere.\n\nAgainst Norway Ancelotti faces the task of healing the deepest wound of all. Since 2002, when they beat Germany in the final in Yokohama, Brazil have failed to beat a European side in a World Cup knockout match. There have been defeats by France (2006), the Netherlands (2010), Germany (2014), Belgium (2018) and Croatia (2022). In addition to neutralising Erling Haaland, Ancelotti will have to again work on the mental side of the Brazilian team to ensure the nightmares of the last five World Cups do not come back to haunt them.\n\nIf Brazil win on Sunday, they may still not be considered by many to be among the top favourites to win the World Cup, but they may well be seen in a new light, with people believing that it is indeed possible for them to finally end their long wait for the biggest prize of all.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0002_4",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Mexico WILL kick-off at 1am Monday - but storm threat remains",
+            "bullets": [
+              "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion ove...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move, but fears remain about predicted thunderstorms in the area.",
+            "fullText": "England will play Mexico in World Cup last-16 tie at the Azteca Stadium at 1am UK time on Monday as originally planned; with storms forecast, discussions took place about bringing the kick-off forward; FIFA to meet local organisers on Saturday as fears over thunderstorms remain",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-04 @ 00:59:40 EDT",
+  "lastUpdated": "2026-07-04 @ 08:00:07 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
