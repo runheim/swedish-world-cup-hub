@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Some Americans are reluctant to cheer for the US at the World Cup. They shouldn’t be | Alexander Abnos",
+      "link": "https://www.theguardian.com/football/2026/jul/04/some-americans-are-reluctant-to-cheer-for-the-us-at-the-world-cup-they-shouldnt-be"
     }
   ],
   "timeline": {
@@ -5072,11 +5056,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0316_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Some Americans are reluctant to cheer for the US at the World Cup. They shouldn’t be | Alexander Abnos",
+            "bullets": [
+              "There are plenty of reasons for Americans to feel discomfort about the behavior of their country. Bu...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There are plenty of reasons for Americans to feel discomfort about the behavior of their country. But sports have a way of bringing joy and unityThe US men’s national team are on the verge of history. One win away from matching their best-ever run in the World Cup’s modern era, they are playing with more verve and quality than they ever have before at this stage. Wednesday’s win over Bosnia and Herzegovina has begotten a rarity: American soccer, in the spotlight, in America.To longtime US soccer fans, the question of whether to support this particular team at this particular time is barely a question. Or if it is one, it’s vaguely along the lines of “should I breathe?” Continue reading...",
+            "fullText": "There are plenty of reasons for Americans to feel discomfort about the behavior of their country. But sports have a way of bringing joy and unity\n\nThe US men’s national team are on the verge of history. One win away from matching their best-ever run in the World Cup’s modern era, they are playing with more verve and quality than they ever have before at this stage.Wednesday’s winover Bosnia and Herzegovina has begotten a rarity: American soccer, in the spotlight, in America.\n\nTo longtime US soccer fans, the question of whether to support this particular team at this particular time is barely a question. Or if it is one, it’s vaguely along the lines of “should I breathe?”\n\nBut there are plenty of newcomers along for the ride now, who may only watch the team at a World Cup, if ever. Within this group, it stands to reason that plenty will be uncomfortable with the idea of supporting a US national sports team at all. I can hardly blame them. Just within the last year, they will have seen USA’s baseball teamcloak themselves in military propaganda, practically begging to be considered an unlikeable bully. Just a few weeks before that, we saw the USA men’s hockey teamcozy up to the levers of powerat the Olympics, just as innumerable crises were unfolding at home. The hockey players allowed these people into their locker room to chug beers, and yukked right along with them as the US women’s team – also gold medalists –were ridiculed.\n\nAnd that’s completely aside from all of the non-sports reasons why many Americans, or Americans-to-be, might find cheering for their national team difficult. They can base their discomfort on the US government’s misdeeds over the last few years, or the last few generations, or maybe even since the founding of the republic. For as much bluster and bravado as some proclaim the US to be the “greatest country in the world,” how many lives have been ruined – or ended – as a result of the government’s actions? Whatever your real-life grievance is, I cannot in good conscience tell you to ignore your qualms.\n\nWhat I would encourage you to do, though, is to hold that truth right alongside some others.\n\nFor one, the US is far from the only country with this sort of dilemma. Consider how many Germans felt as if they could not celebrate their team’s triumphs untildecades after the end of the second world war. Need a more modern example? Just look at Iran, where the fanbase remains deeply divided over Team Melli’s role in their society, and their closeness to a repressive and at times violent regime that has driven many out of the country. Does the Iranian national team play for that government, or do they play for the people of Iran – among the kindest, most generous and football-mad populations on the planet? Among the admittedly self-selecting sample in the stadium at each of Iran’s games this summer, the conclusion was undoubtedly the latter. Fans booed the Iranian national anthem, they wore protest shirts and covered up the flag’s central insignia. But when Iran played, and when they scored, the stands in Los Angeles and Seattle went wild.\n\nSo in the US, what is our reason to cheer the US at a time when we are led by a government despised at home and abroad? How do we put the ICE raids and the attacks on other countries and the mistreatment of so many of our fellow Americans aside and allow ourselves to feel patriotic for 90 minutes, plus extra time, and – God forbid – penalties too?\n\nI could tell you all sorts of reasons why this particular team is worth rooting for. Howthey represents the diversitythat makes us the nation we are; how their version of an American attitude has been expertly honed by a coach who considers himself “200% Argentinian.” I may encourage you to remember that, just like the Olympics, these people are extremely good at their jobs. They have trained for years and made innumerable sacrifices to reach this, the pinnacle of their game. And they either live in your country, grew up there, or chose to represent it over other options. They may even play in your town and like the same condiments you do (wait until you hear about Weston McKennie and ranch dressing). Unlike so much of the soccer world, at least some portion of their existence can be implicitly understood by Americans. And that understanding has nothing to do with anything the government has done, or will do.\n\nBut ultimately, my best argument for supporting this team is that the team is not who you are supporting. The players, coaches, staff and their wide range of political opinions are ultimately temporary. They will come and go; some will play great and some will play terribly, some will annoy, others will feel like kin. You will love the politics of one and hate the politics of another, depending on how much they even open up about that stuff. And then they’ll make way for the next generation. It is a great irony of sports that fans and journalists spend so much time obsessing over these people, when the real attraction is in something greater.\n\nIn international soccer, those attractions lie, more than in any other sport, in the people immediately around you, whose names you might know, and whose joy and wellbeing you care about. They lie in being one small part of a large crowd, each of you riding the same emotional tidal wave, waiting for a chance to erupt with joy just as they didin Washington DC, a picture of patriotism not far from acontrived monument to it, sitting empty and sad.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-04 @ 01:00:06 EDT",
+  "lastUpdated": "2026-07-04 @ 08:03:23 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
