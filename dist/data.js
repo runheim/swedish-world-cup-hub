@@ -9537,11 +9537,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5124_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Taylor Swift and Travis Kelce are married",
+            "bullets": [
+              "World star Taylor Swift has married American football player Travis Kelce in New York. The grand cer...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "World star Taylor Swift has married American football player Travis Kelce in New York. The grand ceremony took place at Madison Square Garden on Friday.",
+            "fullText": "World star Taylor Swift has married American football player Travis Kelce in New York.\n\nThe grand ceremony took place at Madison Square Garden on Friday.\n\nComedian and friend Adam Sandler was the one who married the couple, reports CNN.\n\nAt the same time as the marriage became public, screens lit up around the arena with the text \"JUST&T MARRIED!\" – a pun on the couple's first name.\n\nInstead of the classic set of bridesmaids and marshals, Taylor Swift, 36, and Travis Kelce, 36, gave the honorary roles to their brothers, according to a spokesperson for Swift.\n\nThe wedding celebration has so far been kept secret and many details are still unknown.\n\nPolice cordoned off the area on Thursday, while fans braved the hot weather with 37 degrees in the shade and parked outside the arena to try to catch a glimpse of the spectacle.\n\nNews media on the ground have reported on preparations such as transport of equipment, decorations and security arrangements.\n\nAccording to sources, over 1,000 people will be on the invitation list and during Thursday and Friday several world stars, including actor Hugh Grant, artist Ed Sheeran and model Gigi Hadid, were seen arriving at the venue.\n\nThe artist and NFL star began dating in 2023 and announced their engagement last August on Instagram.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-04 @ 15:44:27 EDT",
+  "lastUpdated": "2026-07-04 @ 18:51:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
