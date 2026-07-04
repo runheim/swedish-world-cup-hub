@@ -20,6 +20,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/03/total-arsenalball-england-low-block-mexico-azteca"
     },
     {
+      "text": "⚽ England vs Mexico WILL kick-off at 1am Monday",
+      "link": "https://www.skysports.com/football/news/12040/13560286/world-cup-2026-englands-last-16-tie-with-mexico-will-kick-off-at-1am-monday"
+    },
+    {
       "text": "⚽ Sabalenka sets up mouth-watering Wimbledon clash with Osaka",
       "link": "https://www.skysports.com/tennis/news/12040/13560155/wimbledon-aryna-sabalenka-sets-up-naomi-osaka-showdown-as-novak-djokovic-and-jannik-sinner-advance"
     }
@@ -18504,10 +18508,120 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-04": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5936_0",
+            "category": "england",
+            "type": "News",
+            "title": "Rice likely to be available for England v Mexico",
+            "bullets": [
+              "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ong...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is likely to be available to start England's World Cup tie against Mexico despite an ongoing injury issue.",
+            "fullText": "Declan Rice stepped in at right-back during the last-32 win over DR Congo\n\nDeclan Rice is likely to be available to start England's World Cup last-16 tie against Mexico on Sunday despite an ongoing injury issue.\n\nThe Arsenal midfielder has been playing with a neural problem that affects his hamstring and lower back and was substituted in injury time of the2-1 win over DR Congoin the last 32.\n\nSpeaking after that game, manager Thomas Tuchel said: \"I asked him. He said: 'I can do it for the team but I am in terrible pain.' When Declan tells you he is in terrible pain then you know he cannot take it any more.\"\n\nThough Rice is likely to be available to start against Mexico, there remain doubts about Reece James' availability, with the Chelsea right-back having sat out two matches because of a hamstring injury.\n\nIt is understood James is yet to return to full training in the build-up to the game against Mexico, which is scheduled for 18:00 local time on Sunday (01:00 BST on Monday), thoughcould move because of the weather.\n\nBack-up right Jarell Quansah, who missed the win over DR Congo with an ankle issue, has stepped up his recovery but it is not known yet if he will be available.\n\nEngland fan tickets for Mexico on resale for up to Â£26K",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5936_1",
+            "category": "england",
+            "type": "News",
+            "title": "Facing Mexico at the Azteca? Suddenly our expectations of England are unusually realistic | Max Rushden",
+            "bullets": [
+              "Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no emb...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no embarrassmentIt’s a warm June afternoon in 2009. The teams look uneven. At 30, I am the second-oldest player in our lineup. Lloyd, Nathan and Ben are early 20s – they can all play. Micky the German isn’t in top condition, and at 34 is past his peak. But at a conservative estimate every member of the opposition has two more decades in their legs. A couple of them might be pushing 70. We’re in kit. They are in jeans. We have trainers. They’re in boots – working boots, not “cleats”. And yet after an hour we have been beaten to a pulp. The final score evades my memory, but it might be the only six-a-side I’ve ever played in where “next goal wins” wasn’t a vaguely justifiable way to end things.How had this team of old men beaten us? A word you may have heard more often than usual in the last three days: altitude. In a village somewhere near Lake Titicaca, just shy of 4,000m above sea level, a motley selection of Bolivian farmers had toyed with us. As someone who lets the ball do the work, even a five-yard burst left me breathless. It was not a neutral venue. Continue reading...",
+            "fullText": "Thomas Tuchel’s side have problems aside from the altitude: defeat in a Mexican haze would be no embarrassment\n\nIt’s a warm June afternoon in 2009. The teams look uneven. At 30, I am the second-oldest player in our lineup. Lloyd, Nathan and Ben are early 20s – they can all play. Micky the German isn’t in top condition, and at 34 is past his peak. But at a conservative estimate every member of the opposition has two more decades in their legs. A couple of them might be pushing 70. We’re in kit. They are in jeans. We have trainers. They’re in boots – working boots, not “cleats”. And yet after an hour we have been beaten to a pulp. The final score evades my memory, but it might be the only six-a-side I’ve ever played in where “next goal wins” wasn’t a vaguely justifiable way to end things.\n\nHow had this team of old men beaten us? A word you may have heard more often than usual inthe last three days: altitude. In a village somewhere near Lake Titicaca, just shy of 4,000m above sea level, a motley selection of Bolivian farmers had toyed with us. As someone who lets the ball do the work, even a five-yard burst left me breathless. It was not a neutral venue.\n\nBut knowing the Guardian readership, you’ve all done the Inca trail. Some of you are probably reading this halfway up a sponsored Kilimanjaro trek. You all know there aren’t enough coca leaves in Peru to help you acclimatise to the Azteca in two days.\n\nExperts suggest that forEnglandto get used to playing in these conditions they either needed to have arrived there at half-time in their opening group game, or to have landed a minute before kick-off and got changed on the touchline – hoodwinking the body for just long enough to win in normal time before altitude sickness kicks in halfway through extra time, and players start acting strangely out of character. Jordan Pickford pointing at his temples and yelling at everything around him. Hang on, I said out of character. You get the idea.\n\nThe Azteca is around 2,200m above sea level – which means Dan Burn will be 2,202 metres above sea level. Presumably the Mexican hotel will give him a toddler single bed, legs poking out of the open window as the home fans’ car horns beep all night. We saw what happened tothe Ecuador lads. How noise cancelling can noise-cancelling headphones get? How many decoy hotels do England need to get a good night’s sleep?\n\nOn the Guardian’sWorld Cup Daily podcastDan Bardell suggested getting the cast of Dear England in to play the dummy squad – put them in the official hotel, and smuggle Harry Kane and co in a laundry basket to a backpackers’ hostel down the road. At least split them up so a few of our boys get their eight hours.\n\nThis might just be getting our excuses in early, but there seems to be a growing realisation that playingMexicoin Mexico City will be incredibly difficult, that the Mexican team looks better than us, that despite having lots of good players England have all manner of issues. Suddenly expectations at a major tournament appear uncharacteristically realistic.\n\nOne of the big advantages of being in LA right now is not hearing the 24/7 panic that will have ensued after the Democratic Republic of the Congo game about England’s troublesome right-back position. But, wherever you are, you can’t get away from people who don’t regularly watch the game (and quite often those that do) giving categoric, incorrect tactical insights.\n\nDjed Spence did not play wellon Wednesday. But he was not at fault for the DRC goal. He is dragged across because no one else is covering Noah Sadiki running through the middle. The ball looks to be intended for Sadiki anyway. It would have been insane for Spence to ignore that run. Either Noni Madueke has to sprint to get to Brian Cipenga or a midfielder, presumably Elliot Anderson, goes with Sadiki. There is no pressure on the ball when Chancel Mbemba plays it either. There is a structural problem across the entire midfield and defence – one which has been exposed already, and will almost certainly be exposed again.\n\nIt would be a wild decision to start Rice at full-back. I can’t face hearing someone yelling “square pegs in round holes” on co-comms. If all the other right-backs are injured, then is John Stones starting centre-back against a Mexican onslaught a bigger risk than keeping the Marc Guéhi-Ezri Konsa partnership in the middle and having Spence on the right? If Rice is fit, then the spine stays the same. Anderson has been quietly good so far. So really it’s only the wingers who can swap in and out.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5936_2",
+            "category": "england",
+            "type": "News",
+            "title": "Get a grip on Mora and take aerial route: what England can do to contain Mexico",
+            "bullets": [
+              "Thomas Tuchel’s team can tame the co-hosts by slowing things down and isolating Raúl Jiménez One of ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel’s team can tame the co-hosts by slowing things down and isolating Raúl Jiménez One of the question marks over Mexico’s team before this World Cup centred on a shortage of obvious star quality. That accusation does not hold any more. Gilberto Mora does not turn 18 until October but has played with the authority of a veteran since Javier Aguirre answered a nation’s prayers and plunged him into the starting lineup. Against Czechia and Ecuador he made a huge difference, adding depth and daring to Mexico’s previously functional attacking patterns. He was happy to get stuck in against a midfield that included Chelsea’s Moisés Caicedo, knowing he had solid backup from the more defensive Érik Lira. Mora has been compared with Andrés Iniesta; he certainly has the former Barcelona player’s quick feet and deftness of touch, and England will have to be wary of his right-sided combinations with Jorge Sánchez and the winger Roberto Alvarado. Continue reading...",
+            "fullText": "Thomas Tuchel’s team can tame the co-hosts by slowing things down and isolating Raúl Jiménez\n\nOne of the question marks over Mexico’s team before thisWorld Cupcentred on a shortage of obvious star quality. That accusation does not hold any more. Gilberto Mora does not turn 18 until October but has played with the authority of a veteran since Javier Aguirre answered a nation’s prayers and plunged him into the starting lineup. Against Czechia and Ecuador he made a huge difference, adding depth and daring to Mexico’s previously functional attacking patterns. He was happy to get stuck in against a midfield that included Chelsea’s Moisés Caicedo, knowing he had solid backup from the more defensive Érik Lira. Mora has been compared with Andrés Iniesta; he certainly has the former Barcelona player’s quick feet and deftness of touch, and England will have to be wary of his right-sided combinations with Jorge Sánchez and the winger Roberto Alvarado.\n\nSo how doEnglandhandle Mora? It feels like the kind of assignment Declan Rice, who is capable of smothering the prodigy, should relish. Mora already has 10 caps but, whether forEl Trior his club team Tijuana, is yet to encounter the kind of quality England should present. So far he has looked unfazed by the big occasion and the huge weight of Mexican expectation, but England and Rice will want to deny him further space to thrive.\n\nIf England must douse the fire of youth in Mora, they must also find a way to make Mexico’s ageing centre-forward wither. Raúl Jiménez has gladiatorial status similar to that of Harry Kane and is in excellent form of his own. There is no sign of him slowing up at 35 and his emphatic finishagainst Ecuador,his second goal of the tournament, was smashed away with the confidence of a player who is purring. It felt like a trick of the mind earlier in that game when he headed wide after a wonderful cross from Luis Romo. Therein lies the key to quietening Jiménez and, by extension, much of Mexico’s attacking thrust. They love to stretch the play before seeking out their talisman from out wide. Ezri Konsa and Marc Guéhi have not yet faced a centre-forward with Jiménez’s cunning and battling quality this summer and must steel themselves for a battle. England’s full-backs must also up their game significantly when it comes to preventing crosses.\n\nEven if Jiménez poses an aerial threat,Mexicohave one of the shortest squads in the tournament. England should sniff an advantage from set pieces, which may be the best way to breach a defence that is yet to concede in this tournament and has rarely looked in significant danger. If Thomas Tuchel’s players are to opt for a relatively conservative, circumspect approach then making use of their corners and free-kicks will be essential. Rice and Bukayo Saka will feel confident of hitting their targets in the box against a team likely to contain only three six-footers. One of them, the giant centre-back César Montes, poses a threat of his own and should have converted at least one of two second-half headers against Ecuador. England, though, need to make this particular advantage count.\n\nThe Azteca factor could not be more real. Opponents walking out in Mexico’s vast cauldron of a stadium feel as if they are up against an entire nation. It is an experience like no other and England need to dampen the tide of enthusiasm. It was noticeable in the win over Ecuador that, after Julián Quiñones opened the scoring, Mexico kept going for more. They channelled the energy coursing from the stands and put the game to bed, operating at a roaring tempo for the first 45 minutes.\n\nIt might seem anathema to English supporters but Thomas Tuchel’s team should slow the game down and deny Mexico a head of steam. This is not the occasion to be lured into a basketball game, especially given the energy-sapping altitude. A stop-start match would suit England better than the hosts. So would extended spells of possession, even if they come with little obvious end product. If they can nick the first goal it would give Mexico and their following of almost 80,000 the kind of dilemma they rarely face on home soil. England should focus on being the most difficult possible guests – particularly if,as local media are reporting, the game is moved forward to 12pm local time on Sunday.\n\nMexico’s opener against Ecuador was an object lesson in how they might hurt England. They caught their visitors in transition with the left-back Jesús Gallardo clipping a marvellous pass that gave Quiñones, running from his own half, the freedom of the pitch. Their wide attackers, Quiñones and Alvarado, are intelligent movers who need no invitation to exploit space. The quicksilver Quiñones, in particular, loves getting a shot away and has an astonishing goalscoring record for Al-Qadsiah in the Saudi Pro League. Gallardo and Sánchez, at right-back, are happy to bomb forward in support. The best chance for England to frustrate Mexico is to sit in, make the hosts play in front of them and look for counterattacks of their own. Committing too many bodies upfield and being exposed would play into the hands of Aguirre, Mexico’s wily head coach.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5937_3",
+            "category": "england",
+            "type": "News",
+            "title": "England must go low against Mexico to hit heights with Total Arsenalball",
+            "bullets": [
+              "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the low blockIf any win will do then England do not have to worry about putting on an exhibition of attacking football against Mexico. They have no time to acclimatise to the altitude in Mexico City and will have to box clever if they are to handle the challenge of playing at more than 7,000ft (2,200m) above sea level at the Azteca Stadium.No wonder Thomas Tuchel predicted this World Cup would be defined by suffering. England have prepared for the heat in the US but they are about to step into new territory. Mexico, rampant in their last-32 tie against Ecuador, are close to unstoppable at the Azteca. They have lost there twice in 89 competitive games, will be backed by a passionate crowd and have a physical advantage because of the altitude. Continue reading...",
+            "fullText": "Thomas Tuchel needs to slow game down so his side can handle altitude challenge – it is time for the low block\n\nIf any win will do thenEnglanddo not have to worry about putting on an exhibition of attacking football against Mexico. They have no time to acclimatise to the altitude in Mexico City and will have to box clever if they are to handle the challenge of playing at more than 7,000ft (2,200m) above sea level at the Azteca Stadium.\n\nNo wonder Thomas Tuchel predicted this World Cup would be defined by suffering. England have prepared for the heat in the US but they are about to step into new territory. Mexico, rampant intheir last-32 tie against Ecuador, are close to unstoppable at the Azteca. They have lost there twice in 89 competitive games, will be backed by a passionate crowd and have a physical advantage because of the altitude.\n\nIs this where England’s journey ends? Mexican World Cups have not been kind to them. Their defence of the trophy in 1970 ended when they lost from 2-0 up to West Germany in the last eight in Léon. Then came Diego Maradona at the Azteca in 1986. It was another quarter-final exit for England and there are lessons to learn from that tournament as Tuchel tries to work out the best way to take on Mexico.\n\nThe answer is using the tactic that has so often disrupted Tuchel’s England: stifleMexicowith the dreaded low block. The worst way to approach this game would be allowing it to become chaotic. England cannot give Mexico space to run in behind. Mexico have pace on the flanks and would love to play against a high line.\n\nEngland do not look ready for that kind of battle. Declan Rice is not at full speed in midfield and the right side is a problem. England’s pressing was all over the place during the early stages of theirlast-32 tie against the Democratic Republic of the Congo. Tuchel has talked about wanting to play like a Premier League side but the task here is to play like the most negative Premier League side imaginable. Hit Mexico with Total Arsenalball. Slow the game down. Take the maximum time over every throw-in. Be José Mourinho’s Chelseaat Anfield in 2014. “They want us to be the clowns in the circus,” Mourinho told his players before they wrecked Liverpool’s title hopes with a counterpunching 2-0 win. “We are not going to be the clowns.”\n\nStep back, then. Look at how England prepared for the 1986 World Cup by taking part in a summer tournament in Mexico in 1985. The conditions were a shock to the system. The heat was one thing but the altitude was on another level. England were not ready when they played Mexico at the Azteca. “Before we played Mexico Kenny Sansom and I tried carrying our bags up three flights of stairs because the lifts were occupied,” Glenn Hoddle, who was part of the squad, wrote in his autobiography. “We had to stop twice because we were gasping for air.”\n\nEngland conceded early and lost 1-0. They had already lost 2-1 to Italy and had to tweak their style. “We weren’t able to play the English way,” Hoddle continued. “We stopped trying to press and looked to contain our energy. We finished on a high, beating West Germany 3-0.”\n\nHowever, England reverted to type at the World Cup. Sir Bobby Robson’s side made a poor start in the group stage, losing to Portugal and drawing with Morocco. They were not in Mexico City at first, so the heat was a bigger issue than the altitude. Hoddle remembers hallucinating at the end of the Morocco game. He couldn’t work out which end England were attacking.\n\nIt took a team meeting at a barbecue in Monterrey to force a change of direction. The players agreed that they had to stop trying to play a high press. Robson and Don Howe, the assistant coach, took some convincing. They wanted England to harry Poland in their final group game. They thought the team would be straying from the “real strengths of English football” but player power won out. England dropped off against Poland and reached the last 16 thanks to a 3-0 win.\n\nThe Poland game was in San Nicolás but England’s more conservative style worked when they faced Paraguay at the Azteca in the last 16 and won 3-0 again. It took Maradona to bundle England out in the last eight.\n\nForty years on, England need to forget about imposing themselves on Mexico. This is what Javier Aguirre wants. England have to silence the crowd. They will lose if they let the game become emotional. The smarter choice is to make Mexico feel the pressure.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5937_4",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Mexico WILL kick-off at 1am Monday",
+            "bullets": [
+              "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion ove...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup last-16 tie with Mexico will remain a 1am kick-off on Monday after confusion over a possible time move.",
+            "fullText": "England will play Mexico at 1am UK time on Monday as originally scheduled; With storms forecast for the area, discussions took place about bringing the kick-off forward by six hours but the World Cup last-16 tie at the Azteca Stadium will now take place as planned",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5937_5",
+            "category": "england",
+            "type": "News",
+            "title": "Sabalenka sets up mouth-watering Wimbledon clash with Osaka",
+            "bullets": [
+              "Aryna Sabalenka sets up a mouth-watering Wimbledon clash with Naomi Osaka as Coco Gauff matched her ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aryna Sabalenka sets up a mouth-watering Wimbledon clash with Naomi Osaka as Coco Gauff matched her best run, while Novak Djokovic and Jannik Sinner continue their title pursuit.",
+            "fullText": "Aryna Sabalenka will take on Naomi Osaka in a blockbuster meeting at Wimbledon as Coco Gauff, Novak Djokovic and Jannik Sinner all win;watch the ATP and WTA Tours live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-03 @ 19:04:41 EDT",
+  "lastUpdated": "2026-07-04 @ 00:59:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
