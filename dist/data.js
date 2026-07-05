@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Pochettino: 'Our focus is on building chemistry and consistency'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Australia and Türkiye head coaches outline tactical structures",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Folarin Balogun available to play for US v Belgium as Trump thanks Fifa for suspending ban",
+      "link": "https://www.theguardian.com/football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup"
     }
   ],
   "timeline": {
@@ -5345,11 +5329,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4925_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Folarin Balogun available to play for US v Belgium as Trump thanks Fifa for suspending ban",
+            "bullets": [
+              "US striker was shown red in last-32 matchFifa disciplinary committee cites article of Fifa codeBelgi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US striker was shown red in last-32 matchFifa disciplinary committee cites article of Fifa codeBelgium FA ‘astonished’ by decisionPresident Donald Trump thanked Fifa after Sunday’s stunning announcement that USA striker would have his one-game ban suspended and be available for the host nation’s last-16 clash against Belgium.The decision gives the US a huge boost on the field as they attempt to reach the World Cup quarter-finals for the first time since 2002. Balogun has been a constant threat for the US so far this tournament, and has scored three goals in three starts. Continue reading...",
+            "fullText": "Fifa disciplinary committee cites article of Fifa code\n\nPresident Donald Trump thankedFifaafter Sunday’s stunning announcement that USA striker would have his one-game ban suspended and be available for the host nation’s last-16 clash against Belgium.\n\nThe decision gives the US a huge boost on the field as they attempt to reach theWorld Cupquarter-finals for the first time since 2002. Balogun has been a constant threat for the US so far this tournament, and has scored three goals in three starts.\n\n“Thank you to Fifa for doing what was right, and reversing a great injustice!” Trump wrote on his Truth Social platform.\n\nFifa’s disciplinary committee said it made the decision in line with Article 27 of the Fifa Disciplinary Code, which allows it to suspend red cards so long as the discipline is not realted to match-fixing. Balogun will be on a probationary period of one year, meaning the red card technically still remains on his record. If, during that year, Balogun commits what the code refers to as “another infringement of a similar nature and gravity,” the striker will serve his one-game ban.\n\nFifa previously used Article 27 to clear Cristiano Ronaldo to start the opening games of Portugal’s World Cup after his red card against the Republic of Ireland.\n\nThe Royal Belgian Football Association (RBFA) said in a statement that it was “astonished” at the decision. The RBFA later pointed out that the suspension of the ban runs in contradiction to Fifa statutes governing the punishment for red cards, which carry a one-game ban “automatically.” The RBFA said it is “investigating all potential options.”\n\nA US Soccer spokesperson said on Sunday that the federation was engaged in the process that ended up clearing Balogun for the last-16 game.\n\nUS players said that they received news of Balogun’s availability on the team bus on the way to training.\n\n“Some guys are playing Clash Royale, some guys were just in the back listening music, and then think somewhere in between that, we heard all the reports,” defender Chris Richards said. “My family probably sent me eight tweets. I wasn’t sure, nobody told us ahead of time that this was happening. We weren’t quite sure if it was true or not. I think everyone knows with AI and with this and that, there can be a few question marks, but ultimately we found out through social media. It was just cool to finally get the confirmation that it was true.”\n\nRichards said that about 10 minutes passed between the moment when the US players first started getting reports of Balogun’s availability, and getting official confirmation from a US Soccer official by the time they got off the bus for Sunday’s training session – the final one before the all-important Belgium matchup.\n\n“He’s playing it Mr Cool right now,” Richards said of Balogun’s reaction to the news. “We look to Flo to kind of lead the front line, and he’s done it really well so far throughout the tournament, so think we’re really happy and excited that that’s been overturned … clearly they saw something in the decision that they thought deserved to be overturned.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-05 @ 12:09:25 EDT",
+  "lastUpdated": "2026-07-05 @ 15:49:36 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
