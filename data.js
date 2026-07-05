@@ -4,24 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ England battling history as well as Mexican nation in Azteca cauldron",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Need to stay awake for England v Mexico? Try this quiz",
+      "link": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England have struggled against low block - could they use it to beat Mexico?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England battling history as well as Mexican nation in Azteca cauldron",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Mexico could bring the best out of Tuchel's England",
       "link": "https://www.bbc.co.uk/sport/football/videos/clywpjjpze4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Premier League quartet want Scott - Sunday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ ‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel",
-      "link": "https://www.theguardian.com/football/2026/jul/05/world-cup-last-16-england-thomas-tuchel-mexico-city-azteca"
+      "text": "⚽ England have struggled against low block - could they use it to beat Mexico?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ ‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
@@ -34,10 +30,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Osaka knocks Sabalenka out of Wimbledon as Djokovic tops Federer record",
       "link": "https://www.skysports.com/tennis/news/12040/13560739/wimbledon-naomi-osaka-knocks-top-seed-aryna-sabalenka-out-as-novak-djokovic-tops-roger-federers-record-for-match-victories"
-    },
-    {
-      "text": "⚽ Wimbledon Day Seven LIVE! Sinner in action after wins for Djokovic, Osaka",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13560364/wimbledon-day-seven-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-aryna-sabalenka-naomi-osaka-and-coco-gauff-playing"
     }
   ],
   "timeline": {
@@ -19750,11 +19742,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0108_0",
+            "category": "england",
+            "type": "News",
+            "title": "Need to stay awake for England v Mexico? Try this quiz",
+            "bullets": [
+              "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifte...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England and Thomas Tuchel will want to match the achievements of the nation's famous side that lifted the World Cup trophy in 1966. Can you name every side they have ever faced in the knockouts?",
+            "fullText": "Are you staying up for England v Mexico? Struggling to stay awake? Then keep yourself busy with this quiz.\n\nHow many previous sides can you name that the Three Lions have faced in World Cup knockouts?\n\nIf that's not enough, get allyour World Cup quizzes in one placeandsign up for notifications to get the latest ones sent straight to your device.\n\nBBC offers 'Stay Up or Catch Up' for England v Mexico\n\nWorld Cup quiz: Name every player in England's squad",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0108_1",
+            "category": "england",
+            "type": "News",
+            "title": "England battling history as well as Mexican nation in Azteca cauldron",
+            "bullets": [
+              "England will be battling against history as well as entire nation when the face Mexico in the World ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England will be battling against history as well as entire nation when the face Mexico in the World Cup last 16 at The Azteca, says chief football writer Phil McNulty.",
+            "fullText": "England are aiming to dash the hopes of an expectant host nation when they face Mexico in the World Cup last 16 at the Azteca\n\nEngland will not just be fighting against the fierce passion of an entire nation when they face Mexico in the iconic Azteca Stadium for a place in the World Cup quarter-finals - they will be battling the weight of history.\n\nThe atmosphere in Mexico City was already red hot more than 24 hours before the last-16 meeting, with giant screens erected along the length of Paseo de la Reforma and car horns blaring on the historic avenue.\n\nOnly one subject is on the lips of Mexicans, and that is what will unfold in the Azteca cauldron on Sunday night (Monday 01:00 BST) when England try to halt the Mexico momentum that has left the country at fever pitch.\n\nThe game that will bring Mexico to a standstill cannot come quickly enough. Merchandise and souvenir sellers lined the streets at the Azteca on Saturday. Thunder and lightning rattled around the stadium.\n\nIt all adds to the scale of England's mammoth task against a Mexico side who have not conceded a goal in the World Cup and have lost only two competitive games out of 88 played at their spiritual home.\n\nEngland arrived in Mexico on Friday evening and have had little time to adjust to what will confront them at the Azteca, which stands 7,220ft above sea level. They will face alien conditions at altitude after playing two games in the temperature-controlled luxury of Dallas and Atlanta, then in the rain of Boston and New Jersey.\n\nIf this was not enough, England are entering this hostile sporting territory knowing Mexico, and the Azteca in particular, has not been their happy place.\n\nBBC offers 'Stay Up or Catch Up' for England v Mexico\n\nEngland's last visit to the Azteca was the scene of Diego Maradona's Hand Of God goal when they lost 2-1 to Argentina in the 1986 World Cup quarter-final\n\nEngland had hoped to keep their location secret after hundreds of Mexico supporters surrounded the base of last-32 opponents Ecuador's base, using car horns, roaring motorcycle engines and loud hailers to create a disturbance.\n\nIt was all to no avail as home fans descended on England's hotel, where there has been a huge security presence, after their arrival.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0108_2",
+            "category": "england",
+            "type": "News",
+            "title": "Mexico could bring the best out of Tuchel's England",
+            "bullets": [
+              "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico pla...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
+            "fullText": "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0108_3",
+            "category": "england",
+            "type": "News",
+            "title": "England have struggled against low block - could they use it to beat Mexico?",
+            "bullets": [
+              "England face Mexico in the last 16 of the World Cup in Mexico City - Thomas Tuchel could change tact...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England face Mexico in the last 16 of the World Cup in Mexico City - Thomas Tuchel could change tactics to combat the hosts and the altitude to book a place in the quarter-finals.",
+            "fullText": "Thomas Tuchel's England side have struggled to break down teams who emply a low block\n\nWhen England take to the field to face Mexico at the famous Azteca Stadium in their World Cup last-16 tie, they know they will be playing the conditions as well as their opponents.\n\nIt's no secret that thealtitude in Mexico City is a problemfor visiting teams, with the Azteca sitting around 7,220ft above sea level.\n\nIt means that England players may experience muscle fatigue earlier in the game than usual, with less oxygen in the air making it more difficult to breathe.\n\nAnd it is in those conditions that Thomas Tuchel's side will have to solve the puzzle that is Javier Aguirre's impressive Mexico team, who have won every game they have played at the tournament so far without conceding a goal.\n\nBreaking down 'low blocks' has been a problem for England during this tournament, but could Tuchel now turn to the strategy to help his team reach the World Cup quarter-finals?\n\nBBC offers 'Stay Up or Catch Up' for England v Mexico\n\nThe Mexico City Stadium - the Azteca - sits 7,220ft above sea level\n\nFacing Mexico is a tactical conundrum for even the best of coaches given the number of approaches they have used in the tournament so far - switching between four and five defenders, as well as alternating between dominating the ball higher up the pitch and defending deep to counter attack.\n\nThere are, however, a few things a coach can control prior to a game irrespective of the opponent and Tuchel might, in the words of Bayern Munich's assistant coach Rene Maric, choose to \"set the board\" in order to outmanoeuvre the Mexicans.\n\n\"You can choose your defending strategy without regards to your opposition and be somewhat successful - barring huge differences in quality you will not be able to do the same offensively,\" said Maric.\n\n\"Basically, the defending team 'sets the board' and the attacking team plays the game.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0108_4",
+            "category": "england",
+            "type": "News",
+            "title": "‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
+            "bullets": [
+              "Côte d’Ivoire international is second summer arrival‘I am very excited to play at St James’ Park,’ h...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Côte d’Ivoire international is second summer arrival‘I am very excited to play at St James’ Park,’ he saysBazoumana Touré has completed a £43m move to Newcastle from Hoffenheim. The 20-year-old Côte d’Ivoire winger is Eddie Howe’s second signing of the summer after the former Reims goalkeeper Ewen Jaouen.While Jaouen is expected to start the season as the club’s second-choice keeper, Touré seems destined to fill the boots vacated by Anthony Gordon when the England winger departed for Barcelona in May. Continue reading...",
+            "fullText": "Côte d’Ivoire international is second summer arrival\n\n‘I am very excited to play at St James’ Park,’ he says\n\nBazoumana Touré has completed a £43m move to Newcastle from Hoffenheim. The 20-year-old Côte d’Ivoire winger is Eddie Howe’s second signing of the summer after the former Reims goalkeeper Ewen Jaouen.\n\nWhile Jaouen is expected to start the season as the club’s second-choice keeper, Touré seems destined to fill the boots vacated by Anthony Gordon when the England wingerdeparted for Barcelona in May.\n\nTouré, who played in three of Côte d’Ivoire’s four games at the World Cup finals tournament after impressing in the Bundesliga last season and has been dubbed “the Smiling Tornado”, described his arrival at St James’ Park as fulfilling a longstanding ambition.\n\n“I’m very, very, happy to be here,” he said. “It was my dream since I was young to play in the Premier League for a big team like Newcastle.\n\n“I will give my best every single day for this shirt. I’m very excited and can’t wait to meet my new teammates … and I’m also very excited to play at St James’ Park for the first time.”\n\nHowe said: “We feel Bazoumana is a player with a really high ceiling. He’s somebody who we believe can offer us something different. He’s also got a lot of potential to unlock.”\n\nNewcastle’s manager remains in the market for both a central midfield replacement for Sandro Tonali,who is set to join Tottenham for £100m, and a new first-choice goalkeeper.\n\nManchester City’s James Trafford remains high on his wishlist in the latter category while in midfield Switzerland’s Johan Manzambi is a player much coveted by Newcastle. Howe, though, accepts he is likely to have to overcome considerable competition if he is to win the race to sign the Freiburg midfielder.\n\nNewcastle, meanwhile, remain determined to retain their Brazil midfielder Bruno Guimarães in the face of growing interest from Arsenal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0108_5",
+            "category": "england",
+            "type": "News",
+            "title": "Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
+            "bullets": [
+              "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also the tournament’s most revealing characterFarewell, then, Freddy – the fan whose face we never saw, the German we never heard speak German, the man forever behind the emoji, the World Cup’s Wizard of Oz. Farewell from X, at least. Shortly after Die Mannschaft’s World Cup elimination, the visiting German fan who became famous on social media through the tournament’s early weeks suddenly disappeared. As the legend of Freddy (or @freddyla7, to use his social media handle) grew and his posts marveling at the majesty of the United States’ gas stations, fast food offerings, stadiums, and highways continued to rack up millions of views, the German – who made a point of never revealing his full name or face – quickly became a Rorschach test for people’s attitudes to online popularity in the age of Elon Musk and Gianni Infantino.Some accepted Freddy for who he claimed to be: a man enjoying himself in the land of the free as he roadtripped in pursuit of World Cup-fueled entertainment. Others of a more conspiracist bent, spying his rapidly amassing pile of brand engagements, saw him as a plant, a fiction, a psyop cooked up by the US government and corporate America to convince us all that actually, a country where it requires a mortgage to get a blood test is still the greatest place on Earth. Continue reading...",
+            "fullText": "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also the tournament’s most revealing character\n\nFarewell, then, Freddy – the fan whose face we never saw, the German we never heard speak German, the man forever behind the emoji, the World Cup’s Wizard of Oz. Farewell from X, at least. Shortly afterDie Mannschaft’s World Cup elimination, the visiting German fan who became famous on social media through the tournament’s early weeks suddenly disappeared. As the legend of Freddy (or @freddyla7, to use his social media handle) grew and his posts marveling at the majesty of the United States’ gas stations, fast food offerings, stadiums, and highways continued to rack up millions of views, the German – who made a point of never revealing his full name or face – quickly became a Rorschach test for people’s attitudes to online popularity in the age of Elon Musk and Gianni Infantino.\n\nSome accepted Freddy for who he claimed to be: a man enjoying himself in the land of the free as he roadtripped in pursuit of World Cup-fueled entertainment. Others of a more conspiracist bent, spying his rapidly amassing pile of brand engagements, saw him as a plant, a fiction, a psyop cooked up by the US government and corporate America to convince us all that actually, a country where it requires a mortgage to get a blood test is still the greatest place on Earth.\n\nIn the end, those in the latter camp claimed they had won: the hatersuneartheda series of tasteless old tweets and exposed various discontinuities in the Freddian backstory, and now the man himself – or whoever or whatever invented him – has nuked his X account,claimingthe platform is too “toxic”. But don’t worry, Freddy hasn’t evaporated completely: he remains a vibrant and essential cultural presence onInstagram, where you can still enjoy the digital crumbs left behind as he powers up on home fries at Denny’s, solemnly snaps the cooling towers while passing the Three Mile Island nuclear reactor, or drinks a 7 Up in Leesburg, Virginia. Soon he willvisit the White Housein the company of Nick Adams, the self-described “alpha male” and actual Australian now using his job as Donald Trump’s “tourism minister” (the scare quotes are his, not mine) to cement himself asTrumpworld’s leading exponent of libcucking camp. If Freddy is fake, he/she/they will have plenty to discuss with a professional cosplayer like Adams.\n\nFreddy is not the only foreign fan to have gained a small measure of fame this World Cup for exuberant displays of affection for America. The timeline (well, my timeline at least) has been flooded with footage of Japanese fans devouring Texas barbecue, the lads and lager louts of Team England descending into uncommon silence at the sheer blinking enormity of America’s sporting arenas, and the people of Lawrence, Kansas and Everywhere, Algeriafalling head over heels for each other.\n\nMost of this, it would take a hard heart to dispute, is organic and good-natured and real. All these people smiling and partying together at once? As Pep Guardiola might say, it’s so good, it’s so good. There’s something to savor in the spectacle of a tournament so exuberant and rippling with life that it has subdued, if only for a moment, the snarling joylessness and xenophobia of the Maga authoritarian project. The conquest has not been total, of course: there’s still a lot to hate about the way the Trumpfantino alliancehas run this World Cup, and the event’s runaway success will no doubt provide cover for all manner excesses from Fifa over the next four years. But still: the vibes around this soccer summer – which many, myself included, feared were moribund on the eve of the first match – are indestructible.\n\nAt the same time, it’s worth reflecting on the suspicion raised by an “overnight” viral success like Freddy, the nagging sense that many feel that something about this whole myth of virgin contact with the New World’s naked splendor is not quite right. Is Freddy actually German? Is his name even Freddy? It’s possible that the answers to both of these questions are “yes”, but nothing can be taken for granted in the age of permaslop and perpetual astroturfing. We live in a time where, for many of us at least, our spidey senses start tingling at the meresight of an em dash, and today’s feelgood viral hit is forever exposed, tomorrow, as a cruel marketing stunt. Amid the high of the New York Knicks’historic charge to their first NBA title in 53 years, it was quickly forgotten that “My Mayor Muslim / My bagel Jewish / My Christian Dior / Knicks in four”, the seemingly improvised quatrain that set the internet ablaze in the early days of the finals series, was laterrevealedto be the product of an orchestrated branding campaign from Kalshi.\n\nIn some ways the split that Freddy has triggered among soccer fans (a polarization that maps, albeit not perfectly, on to the political division between right and left) resembles the debate about this tournament’s hydration breaks: are they a necessary innovation to protect players’ wellbeing, or a craven cash grab? They’re both, surely, but professional sport has become very good at reducing the range of emotional responses among fans, about every contested issue and storyline, to two options: naivety or cynicism. Between “Let people enjoy things!” and the progressive-reflexive “PSYOP”, any middle position risks looking hopelessly compromised and weak.\n\nAll the neo-Freddies guzzling and gorging their way down the West Coast and across the Sun Belt remind me ofBritish food influencers in America– goggling naïfs blown away by a simple ham sandwich. And look, sometimes a ham sandwich reallyisthat good; sometimes a burger truly can transport its eater to religious heights. But come on: we must not kid ourselves that such delights are not widely available in the World Cup tourists’ countries of origin, that the masses of Europe and Asia remain innocent of exposure to big-barn supermarkets or fast food outlets or restaurants able to seat more than 20 covers.\n\nIt’s testament to the strength of the social media-driven monoculture – which America itself has done more than any other nation to create – that virtually every corner of the globe now has some place shilling authentic Kansas City barbecue, sea salt-dusted soft serve, smashburgers, Nashville hot chicken sandwiches, mala Biscoff-crusted fried catfish po’ boys, or whatever the latest viral culinary craze is. You don’t need to come to America to find this stuff; it’s everywhere.\n\nWhat’s really at stake here is not truth but attention. For influencers, especially those from abroad, there’s now a full-scale industry in feeding America’s legend back to itself. The climbers and try-hards of the internet are like moths to the bulb, and in the phototaxis of digital culture no prize shines brighter than America. Drinking a slushy, sizing up at Mickey Ds, locking in for a Spicy Deluxe at Chick-Fil-A: there’s gold in them there hills, or clicks in them at least. It doesn’t matter whether the performed enthusiasm for any of this is genuine or made up; what counts is that it is posted online.\n\nMaybe the ultimate problem here is that people simply don’t care whether things are real, don’t want to engage with the world as it is. Real life, for many, is a domain of constant struggle and disappointment; much better to retreat into the realm of fantasy and wish reality away. While Freddy is busy snapping up cheap gas on his trans-American odyssey, fan accounts on X that plainly label their output as “fictional quotes” frequently generate thousands of views forcompletely fabricated “insights”from football’s highest authorities into the day’s World Cup action. One such accountpostedan extensive “quote” from Arsène Wenger about Matías Galarza’s first-half punch on Kylian Mbappé in the round of 16 virtually the moment the match between France and Paraguay ended; it has now attracted more than 2,000 likes.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0108_6",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka knocks Sabalenka out of Wimbledon as Djokovic tops Federer record",
+            "bullets": [
+              "Naomi Osaka knocked top seed Aryna Sabalenka out of Wimbledon on Sunday, while Novak Djokovic broke ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka knocked top seed Aryna Sabalenka out of Wimbledon on Sunday, while Novak Djokovic broke Roger Federer's record for match victories at the All England Club.",
+            "fullText": "Naomi Osaka seized a two-set victory over Aryna Sabalenka on Centre Court, eliminating the top seed from Wimbledon as she won a tiebreak in the second set; Novak Djokovic eclipsed Roger Federer's record for wins at the All England Club but apologised for \"outbursts\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-05 @ 15:49:18 EDT",
+  "lastUpdated": "2026-07-05 @ 19:01:13 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
