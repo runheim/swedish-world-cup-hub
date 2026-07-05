@@ -7835,6 +7835,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Coffee in the lobby if anyone is awake.",
       "time": "07:09",
       "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Anyone else still jetlagged?",
+      "time": "13:06",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "These new training balls are flying everywhere.",
+      "time": "13:07",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Bags are packed! Who's ready?",
+      "time": "13:08",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Early night for me. Big day tomorrow.",
+      "time": "13:09",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "The altitude here is no joke. Lungs are burning!",
+      "time": "13:10",
+      "isCaptain": true
     }
   ]
 };
