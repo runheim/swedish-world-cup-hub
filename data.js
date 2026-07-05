@@ -12,12 +12,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c0ey2rrvld4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Mexico could bring the best out of Tuchel's England",
+      "link": "https://www.bbc.co.uk/sport/football/videos/clywpjjpze4o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Murals, flags and beef dishes - Messi mania takes hold in Miami",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm2jpkkdld4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Fit and firing Harry Kane is leading England by example on World Cup mission",
-      "link": "https://www.theguardian.com/football/2026/jul/04/harry-kane-leading-england-world-cup-mexico"
+      "text": "⚽ ‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel",
+      "link": "https://www.theguardian.com/football/2026/jul/05/world-cup-last-16-england-thomas-tuchel-mexico-city-azteca"
     },
     {
       "text": "⚽ Survival is key for England in epic test or it will be a Mexican wave goodbye",
@@ -28,8 +32,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/04/brazil-carlo-ancelotti-world-cup"
     },
     {
-      "text": "⚽ Delirium, despair, pride: with the fans on Cape Verde’s World Cup rollercoaster",
-      "link": "https://www.theguardian.com/football/2026/jul/04/cape-verde-world-cup-fans-argentina-rotterdam"
+      "text": "⚽ England braced for a Mexican whirlwind as Tuchel strives for calm amid the chaos",
+      "link": "https://www.theguardian.com/football/2026/jul/05/england-mexico-world-cup-last-16-azteca-preview"
     },
     {
       "text": "⚽ England kick-off chaos: What really happened and how storms could delay the game",
@@ -19126,10 +19130,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-05": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1540_0",
+            "category": "england",
+            "type": "News",
+            "title": "Why England won't fear Mexico or the Azteca - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer explains why Thomas Tuchel's team will not be worried about the difficult conditions when they play Mexico at the Azteca Stadium.",
+            "fullText": "I've heard a lot of talk about the difficult conditions England will face at the Azteca Stadium - but I don't think the players will be worried about any of that.\n\nInstead of having any fear about the different tests they face, they will just be thinking 'bring it on'. I know I would be.\n\nAll the talk stops when they run out anyway, and if they play the game rather than the occasion then I think they will win.\n\nYes, it's going to be tough, because of the altitude and the atmosphere and everything else. Co-hosts Mexico are at home and the crowd could be as much as 80% of their fans, which is very different to anything England have faced at this tournament so far.\n\nBut as a player, these are the kind of games and moments you train and work so hard for all your life because to be going to such an iconic stadium and playing in a World Cup in front of a TV audience of millions, with a place in the quarter-finals as the prize, is what you dream of as a boy.\n\nI've wanted to go to the Azteca since I watched the 1986 World Cup on TV as a teenager and this is the first time England have been back since losing that epic quarter-final tie to Argentina. It's going to be an amazing spectacle as well as a unique test.\n\nI have followed England around the United States at this World Cup, and we have had the majority of fans at all four matches so far.\n\nAgainst DR Congo in Atlanta, around 75% of the crowd were supporting England, but this is going to feel very different and is another reason why it's such an incredible game to look forward to.\n\nI'll be there, co-commentating with Guy Mowbray, and am excited about it as much as the fans are. I bet the players are excited too.\n\nYes, it's a challenge but I would say to them to embrace it and enjoy it - be positive and show us all what you can do.\n\nWatch live on BBC One, BBC iPlayer and the BBC Sport website and app; listen live on BBC Radio 5 Live and BBC Sounds\n\nThe confusion over the kick-off time just added to the noise around this game, but I don't understand how it could have been changed and brought forward earlier than the scheduled time. It was a silly idea because of the way it would have impacted the thousands of fans flying in from all over the world to watch it.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1540_1",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League quartet want Scott - Sunday's gossip",
+            "bullets": [
+              "Bournemouth's Alex Scott wanted by Premier League quartet, Arsenal agree to sell Leandro Trossard, M...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bournemouth's Alex Scott wanted by Premier League quartet, Arsenal agree to sell Leandro Trossard, Manchester United's Kobbie Mainoo on Real Madrid's radar, plus more.",
+            "fullText": "Bournemouth's Alex Scott is wanted by Premier League quartet,Arsenalagree to sell Leandro Trossard,Manchester United's Kobbie Mainoo on Real Madrid's radar\n\nBournemouth's22-year-old English midfielder Alex Scott is wanted byArsenal,Manchester United,Manchester CityandChelsea.(Talksport),external\n\nArsenalhave agreed to sell Belgium forward Leandro Trossard, 31, to Turkish sideBesiktasfor 20 euros (Â£17m).(Athletic - subscription required),external\n\nManchester Unitedand England midfielder Kobbie Mainoo, 21, remains onReal Madrid'sradar as they look to reinforce their midfield.(Fichajes - in Spanish),external\n\nManchester Cityhave told would-be suitors, includingReal Madrid, that Portugal defender Ruben Dias, 29, is not for sale this summer.(Teamtalk),external\n\nComoare preparing a bid worth around Â£30m forChelseaand England defender Trevoh Chalobah, 26.(Sky Sports),external\n\nRomaare ready to accelerate a 45m euros (Â£38.5m) move forMarseille'sEnglish forward Mason Greenwood, 24.(Corriere dello Sport - in Italian),external\n\nParis St-Germainknow they would likely have to offer a historic fee to prise Argentine forward Julian Alvarez, 26, away fromAtletico Madrid.(Fichajes - in Spanish),external\n\nAtletico Madridare preparing a new offer forSportingcaptain Morten Hjulmand after having a 35m euros (Â£30m) bid rejected for the Denmark midfielder.(A Bola - in Portuguese),external\n\nWest Hamare interested in signingEverton'sEnglish winger Dwight McNeil, 26, this summer.(Sky Sports),external\n\nFormer Netherlands defender Daley Blind, 36, is closing in on a return toAjaxafter leaving Spanish clubGirona.(Algemeen Dagblad - in Dutch),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1540_2",
+            "category": "england",
+            "type": "News",
+            "title": "Mexico could bring the best out of Tuchel's England",
+            "bullets": [
+              "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico pla...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
+            "fullText": "BBC Sport World Cup pundits Thomas Hitzlsperger, Joe Hart and Micah Richards feel the way Mexico play could bring out the best of Thomas Tuchel's England side.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1541_3",
+            "category": "england",
+            "type": "News",
+            "title": "Murals, flags and beef dishes - Messi mania takes hold in Miami",
+            "bullets": [
+              "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina a...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi's World Cup goals roadshow continued with his seventh of the tournament for Argentina against Cape Verde - and delighted the fans who were in Miami to see their hero.",
+            "fullText": "Messi opens the scoring against Cape Verde with 'sensational' finish\n\nHe scored again. After getting three against Algeria, two against Austria and one against Jordan, Lionel Messi added another as Argentina defeated Cape Verde in the World Cup last 32.\n\nHis opener in the dramatic, extraordinary 3-2 victory in Miami was his 20th World Cup finals goal - extending the record he broke during his country's progression through the group phase in the United States. It was his seventh of this tournament.\n\nThe atmosphere around the stadium had been building long before kick-off, with supporters lining the streets draped in sky blue and white, beating drums, singing songs and posing beneath giant Argentina flags.\n\nInside, blue and white shirts dominated the stands, with his number 10 visible almost everywhere.\n\nFlags draped over the railings, while one striking banner portrayed Messi alongside Diego Maradona as saint-like figures, reflecting the status  which so many supporters regard their greatest footballing icons.\n\n\"He's our hero,\" one Argentina fan said before kick-off. \"He's like our God.\"\n\n\"He has aged like fine wine,\" another said. \"The older he gets, the better he gets.\"\n\nWhen asked whether Messi could win the Golden Boot at this World Cup, supporters were confident that he would if Argentina made the final.\n\n\"We've already had so much from him,\" one fan said. \"If he wins it, fantastic, but everything he's already done for Argentina is enough. He is incredible.\"\n\nBy Messi's extraordinary standards, this was not his most influential performance.\n\nCape Verde frustrated Argentina for long periods and played with a confidence that suggested little sign of the gap in the world rankings, with Argentina ranked second in the world and Cape Verde sitting outside the top 60.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1541_4",
+            "category": "england",
+            "type": "News",
+            "title": "‘Here to write our own chapters’: England not daunted by unique occasion of Mexico game, says Tuchel",
+            "bullets": [
+              "‘Impossible’ to adapt to altitude but players coping, says coach Aguirre trying to keep El Tri ‘grou...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘Impossible’ to adapt to altitude but players coping, says coach Aguirre trying to keep El Tri ‘grounded’ before Azteca matchThomas Tuchel has admitted England are enduring a challenging adaptation in Mexico City but is convinced his team will be ready to “write our own chapters” when they face the World Cup co-hosts at Estadio Azteca.The last-16 match against Mexico in their fabled home ground is the most eagerly anticipated of this summer and its logistics have presented unusual problems. England must adapt to playing 2,240 metres above sea level at a venue where Mexico have not lost since 2013. They landed on Friday evening and found it difficult to hit their stride on Saturday afternoon in their final training session before the tie. Continue reading...",
+            "fullText": "‘Impossible’ to adapt to altitude but players coping, says coach\n\nAguirre trying to keep El Tri ‘grounded’ before Azteca match\n\nThomas Tuchel has admitted England are enduring a challenging adaptation in Mexico City but is convinced his team will be ready to “write our own chapters” when theyface the World Cup co-hostsat Estadio Azteca.\n\nThe last-16 match against Mexico in their fabled home ground is the most eagerly anticipated of this summer and its logistics have presented unusual problems. England mustadapt to playing 2,240 metres above sea levelat a venue where Mexico have not lost since 2013. They landed on Friday evening and found it difficult to hit their stride on Saturday afternoon in their final training session before the tie.\n\n“We feel it even if we don’t train,” Tuchel said. “I felt, for example, a slight headache in the hotel through the day and didn’t sleep as well as in the days before, but nothing you can’t handle. I think the players felt it in the first minutes of the training session and the longer it went, they coped with it better. It’s just what it is. We cannot physically adapt, it’s just impossible, but we are here one day before to experience it at least, to not have the first experience in tomorrow’s warm-up.”\n\nTuchel was nonetheless relaxed and upbeat, his confidence in England’s ability to handle a unique occasion shining through. England have history here, not least thedefeat to Argentina in 1986that etched the Hand of God into a nation’s psyche, but the incentive is huge to come out on the right side this time.\n\n“Of course it’s painful and still hurts but we are not here for revenge, it doesn’t make sense,” Tuchel said. “We are here to write our own chapters, the team is ready, we are in good spirits.”\n\nAll of England’s players apart from Reece James trained at the spectacular Club Universidad Nacional complex, which is hewn into cliff faces in the city’s southern reaches and only accessible by tunnel. Tuchel floated the possibility of James, who has missed the last two games with a hamstring injury, being available for the bench but the chances are remote. Jarell Quansah, who sat out of thewin over the Democratic Republic of the Congowith an ankle problem, trained in full and is available to start at right-back.\n\nAnother ripple in England’s buildup was the bizarre uncertainty surrounding theMexico game’s kick-off time. For a chunk of Friday afternoon it seemed likely to be moved forward six hours from its 6pm (1am BST) slot, ostensibly because of the heavy storms forecast for the hours around the game. Ultimately no decision was taken to make a change and Tuchel said the farce did not filter through to his team, who were flying to Mexico City for much of the to and fro.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“It was a bit of confusion but only for me and the officials,” Tuchel said. England’s staff are understood to have been stunned at the prospect of a change. “I’m not sure if the team was even aware. We kept it away from the players completely but as soon as we landed it was resolved. It was a good moment to be in the air for three and a half hours.\n\nTuchel played down thehostile welcome England received at their hotelfrom Mexico supporters on Friday night, calling their hosts “very respectful, very emotional and very supportive of our team”. Added security measures have been put in place to ensure there is no repeat of the sleep disturbance Ecuador, Mexico’s last-32 opponents, were subjected to on Monday. “I don’t want to talk about problems that don’t exist, it doesn’t feel right,” he said.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1541_5",
+            "category": "england",
+            "type": "News",
+            "title": "Survival is key for England in epic test or it will be a Mexican wave goodbye",
+            "bullets": [
+              "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a chall...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not processNausea, cramps, shortness of breath. Time-lagged, unacclimatised, eyes bulging as the vertigo hits. Not to mention three times more likely to suffer unwanted swelling of the brain. Watching England play football at this World Cup has certainly been a physical trial at times. Not least for those back home hunkered around the screen, feeling the energy surge then sag again through the dead periods in Boston, New York and Atlanta.And now we move on to the altitude of Mexico City, the Azteca, host nation energy and a beautifully pitched last-16 game, one of those occasions that seems to go beyond sport, to carry its own sense of something epic and gravitational, an emotional weather front about to break. Continue reading...",
+            "fullText": "Azteca tie is one of those World Cup occasions that transcend sport – and Tuchel’s side face a challenge all about progress, not process\n\nNausea, cramps, shortness of breath. Time-lagged, unacclimatised, eyes bulging as the vertigo hits. Not to mention three times more likely to suffer unwanted swelling of the brain. Watching England play football at thisWorld Cuphas certainly been a physical trial at times. Not least for those back home hunkered around the screen, feeling the energy surge then sag again through the dead periods in Boston, New York and Atlanta.\n\nAnd now we move on to the altitude of Mexico City, the Azteca, host nation energy and a beautifully pitched last-16 game, one of those occasions that seems to go beyond sport, to carry its own sense of something epic and gravitational, an emotional weather front about to break.\n\nThe World Cup has been a back-roads odyssey forEnglandso far. Those four matches and 23 days have felt both weirdly interminable – can you actually remember a time when this World Cup was not happening? – but also like a campaign still smoking and juddering on the airstrip, waiting for lift-off.\n\nCroatia werephysically overwhelmed. Ghanawere not. Panama took England down intoa pit of pain. The Democratic Republic of the Congo (DRC) were slick, fearless anda bit unlucky. Through all this the lurking feeling has been: OK, when will it start? No, I mean really start. When will it hit the groove? When do they need to actually be good?\n\nSunday in the Azteca is undeniably epic in outline and staging. The lights, the noise, the World Cup ghosts at the edge of your vision, the squat little man turning like an eel, Franz Beckenbauer, broken arm strapped to his chest, passing serenely into midfield. This is all authentically World Cup.\n\nBut for this England, right now, the Azteca is also a strange, bitty game. This is an occasion to get through, where, frankly, winning is all that matters, however it comes.\n\nThomas Tuchel’s team have been held up to the light across those four games in the US. The joins, the ragged edges, the hopeful first-fixes have begun to show. At times in the first half against the DRC England played like a team with its legs on the wrong way round, awkward in possession, somehow managing to be both clumped together and also outnumbered in every area.\n\nThere are too many best guesses here, broken threads and unsolved problems. Tuchel seems confused over his wide attackers. Understandably so: they’re confusing. The full-backs seem vulnerable. Jordan Pickford has begun to whirl about clapping his arms together, veering around his penalty area looking spooked and testy, like a riderless horse at the Grand National.\n\nThere is an urge to seek solutions to all this, to settle and find patterns. But not now, not for this one. England will scoot into Mexico at the worst possible time, too close to the game to acclimatise to 7,220 feet above sea level, too far away to simply raw-dog it and rush through before the comedown hits. They will face a nation consumed by the show, energetically committed to disrupting not just their sleep at the hotel (drum-kits, klaxons, fireworks) but every insurgent moment spent in the country.\n\nSimply staying level and upright, non-culture-shocked, will be a major part of any thoughts of victory. Never mind, for now, recalibrating the timing of their inverted underlaps. This is not a moment to solve anything, to look for solutions, signs of deep progress. This is a day to get through, to accept that sometimes World Cups are what happens while you’re busy making plans.\n\nFor all that, one good and stabilising thing has now happened. A block has been manoeuvred into place. Who knows, it might just have its own intangible effect. This is about Tuchel.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1541_6",
+            "category": "england",
+            "type": "News",
+            "title": "‘An incredible man’: how Carlo Ancelotti has turned Brazil into potential World Cup winners",
+            "bullets": [
+              "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans beli...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe againBrazil arrived at the World Cup with several open wounds. Since Qatar in 2022 there were four changes of manager, 95 players called up and a political crisis, including the ousting of the Brazilian Football Confederation (CBF) president. It has been a big mess, with many uncertainties, and the mood among the fans was one of pessimism.But then Carlo Ancelotti arrived. Gradually under the Italian, the team has taken shape and transformed its relationship with fans, who are again dreaming of a sixth World Cup after 24 years without one, the longest such drought along with the period between 1970 and 1994. Continue reading...",
+            "fullText": "Italian’s man-management and decisiveness has shielded the talented Seleção squad and made fans believe again\n\nBrazil arrived at theWorld Cupwith several open wounds. Since Qatar in 2022 there were four changes of manager, 95 players called up and a political crisis, including the ousting of the Brazilian Football Confederation (CBF)president. It has been a big mess, with many uncertainties, and the mood among the fans was one of pessimism.\n\nBut thenCarlo Ancelotti arrived. Gradually under the Italian, the team has taken shape and transformed its relationship with fans, who are again dreaming of a sixth World Cup after 24 years without one, the longest such drought along with the period between 1970 and 1994.\n\nAncelotti has become a shield for the players. Even the most experienced ones, such as Alisson, Danilo, Marquinhos and Casemiro, feel more at ease having such a great figure on the bench, the most successful manager in the Champions League, with five titles.\n\n“It’s undeniable that this World Cup cycle has been very difficult for us players,” says Alisson, who is playing in his third World Cup. “We’ve experienced all these difficulties first-hand. But since Ancelotti’s arrival, the atmosphere has been transformed. He gives us the peace of mind that comes from an environment focused on work, without having to worry about controversies or other issues.”\n\n“Our team wasn’t in great form, but Ancelotti made the necessary changes,” says Marquinhos. “He’s very smart. He knows how to get the best out of the players he has and help them improve. He managed to change our mindset and created a philosophy centred on wellbeing.”\n\nThe last-32 victory over Japanwas another wound Ancelotti managed to heal. In the recent past, conceding a goal in the first half would have knocked Brazil off balance. Since 2023, Brazil had conceded the first goal of a match on 12 occasions, losing seven of those and drawing four. That was against Chile in a World Cup qualifier in October 2024.\n\nThe blow of Keishu Sano’s goal was, therefore, a heavy one. Brazil’s unease was plain to see. But Ancelotti turned the atmosphere around. He made the most of the half-time break and spoke to the players in a way that surprised everyone in the dressing room.\n\n“Ancelotti is an incredible man,” Gabriel Martinelli, who scored the winning goal, told CazeTV. “It’s easy to understand why he has won everything he has competed for.\n\n“He gave us a lot of confidence. He said we were going to equalise and then win, that we had to believe in ourselves. You can see from his body language just how calm he is. He passes that confidence on to us.”\n\nAncelotti has not been afraid to make important decisions, such as leaving Neymar out of the starting XI. The 34-year-old is not the player he was, nor is he fully fit. But other, less experienced managers would not have cared about that; they would have picked Neymar plus 10 other players.\n\nUnder Ancelotti, however, Neymar has played 14 minutes at this World Cup, against Scotland, and did not feature against Japan. Neymar, in turn, has understood his role in the squad. He knows he is no longer Brazil’smost important player. That status now belongs to Vinícius Júnior.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1542_7",
+            "category": "england",
+            "type": "News",
+            "title": "England braced for a Mexican whirlwind as Tuchel strives for calm amid the chaos",
+            "bullets": [
+              "After their frantic display against DR Congo, England head coach needs his side to remain composed i...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After their frantic display against DR Congo, England head coach needs his side to remain composed in the Azteca cauldronIt was somehow in keeping with the bedlam that has gripped Mexico since Tuesday night when their team beat Ecuador to set up a World Cup last-16 showdown with England on Sunday. There was talk of an incoming storm, which is forecast to bring the risk of flooding and affect a game talked up as arguably the biggest in Mexico’s history. There was a figurative one, too.The kick-off would have to be brought forward from 6pm local time (1am Monday BST) to midday, Fifa was told on Friday, and there followed an intense amount of back and forth, so many different people and companies to consider. In the end, it was decided that it would have to remain at 6pm. There was a lot of energy expended for no actual change and on everybody hurtled. Continue reading...",
+            "fullText": "After their frantic display against DR Congo, England head coach needs his side to remain composed in the Azteca cauldron\n\nIt was somehow in keeping withthe bedlam that has gripped Mexicosince Tuesday night when their teambeat Ecuadorto set up a World Cup last-16 showdown with England on Sunday. There was talk ofan incoming storm, which is forecast to bring the risk of flooding and affect a game talked up as arguably the biggest in Mexico’s history. There was a figurative one, too.\n\nThe kick-off would have to be brought forward from 6pm local time (1am Monday BST) to midday, Fifa was told on Friday, and there followed an intense amount of back and forth, so many different people and companies to consider. In the end, it was decided that it would have to remain at 6pm. There was a lot of energy expended for no actual change and on everybody hurtled.\n\nThe memory of the party inMexicoCity after the Ecuador game remains fresh, how the streets were jammed for about a mile in radius around El Ángel de la Independencia, no cars able to pass through. There were said to be a million fans present. It was the noise and emotion; the sense of a city at fever pitch, which is about to play out again.\n\nChaos is the theme and it applies to England, as well, because there was rather too much of it in theirlast-32 victory over the Democratic Republic of the Congo(DRC) on Wednesday. Thomas Tuchel could feel it at the start and throughout what must now be termed the first quarter. Remember the words of the manager beforehand? “It can be a game of patience and we must not freak out,” he said.\n\nEngland freaked out. It was a traumatic period, characterised by rushes of blood,Englandplayers trying too hard, overwhelmed by their desire. The DRC led 1-0 when the hydration break was called and the injured England substitute Reece James was moved to calm his teammate Jude Bellingham.\n\nEngland ran on adrenaline, creating a fistful of chances thereafter, and got there in the end, Harry Kane scoring two late goals for a 2-1 win. Yet the worry nagged. In the cauldron of the Azteca Stadium, scene of Diego Maradona’s Hand of God in 1986, England may not live to fight another day if they begin so erratically. Or indeed, if they have such a spell at any point.\n\nMexico will be like a whirlwind for the opening 20 minutes, partly because they know it is when opposition players not used to the stadium being 2,240 metres above sea level really feel it. “The first 20 minutes … the other players will be needing some breath, some air,” the Mexico striker Raúl Jiménez said recently. “That’s when we can make the difference.”\n\nTuchel knows the storm is coming, and for him it is about composure and cohesion, making sure the energy is channelled rather than wasted. “We are fully aware that it took us basically a whole quarter [against the DRC] to adapt in our press,” he said. “We are fully committed to the effort that we put in but it’s not economical. We don’t choose the moments great. And we go too early, when we’re not set.\n\n“We are impatient. And it has knock-on effects: the first one goes too early, the second one joins, no one says: ‘No, no, we don’t go.’ The third one just goes and wants to repair it and this leaves us disjointed, with too big distances. So we know, and we worked on it, that we need to pick our moments better; where to press, when to press. Then we need to be more in sync, we need to be more compact.”\n\nThe jitteriness has been seen in attack, too, including the final action in front of goal. Until the end of the last 32, no team missed more of what Opta defines as big chances than England. The number was 15, with six coming against the DRC. Next on the list were France with 12.\n\n“We’re too fast in our attacks,” Tuchel said. “It’s almost like every attack plays out like a fast attack. We need to understand that sometimes the door is closed, it doesn’t help if you rush into it. Try the other door. Find another way. And worship the ball possession. Also to recharge. Otherwise we just run our batteries down with a huge effort and not so much reward. Talking about the first 15-20 minutes, we also expect that it feels very, very hard. What other teams tell us who went in there late, without acclimatisation, is that the first 15-20 minutes are where you basically hit a wall. But when you go through it, it gets better. That’s exactly why Mexico starts their games like this. They just want to suffocate you.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1542_8",
+            "category": "england",
+            "type": "News",
+            "title": "England kick-off chaos: What really happened and how storms could delay the game",
+            "bullets": [
+              "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs Eng...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The first the English FA knew about a possible six-hour shift to the kick-off time for Mexico vs England in the World Cup last 16 was when Mexican journalists started asking Morgan Rogers and Marcus Rashford how they felt about it, I'm told.",
+            "fullText": "England's World Cup last-16 tie with Mexico remains set for a 1am kick-off on Monday, UK time; the threat of storms had led to discussions about the match being brought forward; here we explain the key factors influencing the decision - and how the weather could yet impact the match",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-04 @ 18:57:53 EDT",
+  "lastUpdated": "2026-07-05 @ 01:15:45 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
