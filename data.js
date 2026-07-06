@@ -4,16 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ England win epic tie against Mexico to reach quarter-finals",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'You've been trying to kill me for 23 years' - should Ronaldo start?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz7523l9rdvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'Referees just not good enough' - Tuchel anger over penalty",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Henderson injures wrist in England celebrations",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9822ez0zdwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ How England's epic night at the Azteca unfolded",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Who produced another iconic performance? England player ratings",
       "link": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ How England used five mini games to beat Mexico",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ England win epic tie against Mexico to reach quarter-finals",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Bellingham scores two in 98 seconds to silence the Azteca",
@@ -24,20 +36,32 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ World Cup referees are just not good enough - Tuchel",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ World Cup 2026: Uefa says Fifa ‘crossed line’ over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live"
+    },
+    {
+      "text": "⚽ Sandro Tonali seals £92.5m move to Tottenham on back of ‘magic’ sales pitch",
+      "link": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window"
+    },
+    {
       "text": "⚽ ‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
       "link": "https://www.theguardian.com/football/2026/jul/05/newcastle-confirm-43m-signing-of-hoffenheim-winger-toure"
     },
     {
-      "text": "⚽ Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
-      "link": "https://www.theguardian.com/football/2026/jul/05/freddy-the-german-world-cup-2026"
+      "text": "⚽ Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
+      "link": "https://www.theguardian.com/football/2026/jul/06/football-daily-email-england-gwc-mexico"
     },
     {
-      "text": "⚽ England ratings: Bellingham shines but heroic defence secures QF spot",
-      "link": "https://www.skysports.com/football/news/12040/13560798/mexico-2-3-england-jude-bellingham-and-harry-kane-shine-again-in-heroic-defensive-display-at-azteca-stadium"
+      "text": "⚽ England’s best World Cup win on foreign soil? Tuchel proving decisive",
+      "link": "https://www.skysports.com/football/news/12040/13560963/mexico-2-3-england-thomas-tuchels-decisive-calls-at-this-world-cup-could-make-the-difference-after-historic-win"
     },
     {
-      "text": "⚽ Osaka knocks Sabalenka out of Wimbledon as Djokovic tops Federer record",
-      "link": "https://www.skysports.com/tennis/news/12040/13560739/wimbledon-naomi-osaka-knocks-top-seed-aryna-sabalenka-out-as-novak-djokovic-tops-roger-federers-record-for-match-victories"
+      "text": "⚽ Jude Bellingham tells England fans to pull a sickie",
+      "link": "https://www.telegraph.co.uk/football/2026/07/06/england-celebrate-finest-win-foreign-soil-mexico-reaction/"
     }
   ],
   "timeline": {
@@ -20036,11 +20060,272 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1803_0",
+            "category": "england",
+            "type": "News",
+            "title": "'You've been trying to kill me for 23 years' - should Ronaldo start?",
+            "bullets": [
+              "Appearing at his sixth World Cup, will Cristiano Ronaldo lift the famous trophy for the first time b...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Appearing at his sixth World Cup, will Cristiano Ronaldo lift the famous trophy for the first time before he retires?",
+            "fullText": "'Of course he scores' - Ronaldo levels for Portugal\n\nCristiano Ronaldo approached the big debate head on as he spoke to the media before Portugal's World Cup last-16 tie against Spain on Monday (20:00 BST).\n\nThe 41-year-old, who again confirmed this would be his last World Cup, has divided opinion with his performances at the tournament, with three goals to his name but some ineffectual displays.\n\nBut, when asked on Sunday about his future and recent criticisms, he replied: \"I'm not doing too bad.\n\n\"You have been trying to kill me for the past 23 years, but you must have seen that is not worth it, it's a waste of time, but you try and try and try and try and try.\n\n\"As I said before, [I will stop] when I choose, not when you choose. You always ask the same question.\n\n\"This will be my last World Cup, but let's hope tomorrow isn't my last game.\"\n\nWatch live on BBC One, BBC iPlayer and the BBC Sport website and app; listen live on BBC Radio 5 Live and BBC Sounds\n\nSeven months from turning 42, Ronaldo's time as captain, leader and inspiration of the 2016 European champions is drawing to a close.\n\nThe five-time Champions League winner hasalways said that this would be his final World Cupwhile, before last week's last-32 game with Croatia in Toronto, Ronaldo's sister stated this tournament would be his\"last dance\".,external\n\nWhen Ivan Perisic put Croatia ahead in the 53rd minute, it looked as though his 232nd appearance for his country would be his very last.\n\nRonaldo equalised from the penalty spot, his first goal in the knockout stages of the World Cup, before head coach Roberto Martinez made the decision to bring the national icon off.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1803_1",
+            "category": "england",
+            "type": "News",
+            "title": "Henderson injures wrist in England celebrations",
+            "bullets": [
+              "England midfielder Jordan Henderson suffered a \"really bad\" while celebrating his side's World Cup w...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England midfielder Jordan Henderson suffered a \"really bad\" while celebrating his side's World Cup win over Mexico, head coach Thomas Tuchel says.",
+            "fullText": "England midfielder Jordan Henderson suffered a \"really bad\" wrist injury while celebrating his side's dramatic World Cup last-16 win over Mexico, manager Thomas Tuchel said.\n\nHenderson appeared to land awkwardly after falling from the advertising hoardings at Mexico City's Azteca Stadium following England's 3-2 victory and was pictured leaving the pitch on a stretcher.\n\nThe 36-year-old Brentford midfielder's World Cup has been limited to a six-minute appearance at the end of England's Group L win over Panama.\n\n\"Jordan [Henderson] just fell over and injured his wrist. It looks really bad,\" said England manager Thomas Tuchel on BBC One after his side's win on Monday.\n\n\"It's a quite serious injury and it doesn't fit to the evening that Jordan is now not with us. The doctor told me he is in hospital.\"\n\nHenderson is being accompanied by a member of England's support staff and will not travel back with the team on Monday.\n\nEngland's next match is a quarter-final tie against Norway in Miami on Saturday 22:00 BST, which you can follow on BBC Radio 5 Live and the BBC Sport website and App.\n\nHenderson is likely to join Reece James, who picked up a hamstring injury in England's opening match, on the sidelines.\n\nJarell Quansah is unavailable after receiving a straight red card during England's victory over Mexico.\n\nEngland win thriller against Mexico to reach quarter-finals\n\nWho produced another iconic performance? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1803_2",
+            "category": "england",
+            "type": "News",
+            "title": "How England's epic night at the Azteca unfolded",
+            "bullets": [
+              "Relive all the drama from England’s 3-2 win over Mexico, as Thomas Tuchel’s team progressed to a qua...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Relive all the drama from England’s 3-2 win over Mexico, as Thomas Tuchel’s team progressed to a quarter-final meeting with Norway on Saturday.",
+            "fullText": "Relive all the drama from England's 3-2 win over Mexico, as Thomas Tuchel's team progressed to a quarter-final meeting with Norway on Saturday.\n\nREAD MORE:An incredible night when England heroes were made",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1803_3",
+            "category": "england",
+            "type": "News",
+            "title": "Who produced another iconic performance? England player ratings",
+            "bullets": [
+              "BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 wi...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 win over Mexico.",
+            "fullText": "England win thriller against Mexico to reach quarter-finals\n\nEngland beat Mexico3-2in a thriller at the Azteca to reach the World Cup quarter-finals, but who caught the eye?\n\nBBC Sport England reporterAlex Howellassesses how the players performed - and you can see how BBC Sport readers rated them at the bottom of the page too.\n\nJordan Pickford:A great save low down from a diving header from Raul Jimenez early on. An important moment as England would have been behind early in the atmospheric Azteca. Was called upon just before half-time to produce an acrobatic save to deny Jimenez again when Mexico were pushing for a leveller at 2-1.7\n\nJarell Quansah:An unfortunate end for Quansah, who was sent off after a video assistant review (VAR) for a high challenge. The right-back had been putting in a good performance before his night was ended early.5\n\nEzri Konsa:A testing evening for Konsa and the whole England backline with all the drama in the game. It was Konsa's attempted clearance from a free-kick which fell to Julian Quinones for him to score as he gave Mexico a route back into the match - but the Aston Villa defender provided crucial clearances as England ground out a win.7\n\nMarc Guehi:Took the ball in tight areas and under pressure as England looked to kill Mexico's momentum in the first half. Guehi stood up to the test as Mexico threw everything at England.7\n\nNico O'Reilly:This was the left-back's best performance of the World Cup. Flashed a dangerous cross across the box and slammed a volley against the post. Taken off after picking up a yellow and as England went to a back five.7\n\nDeclan Rice:Rice's powerful running is a major weapon for England and it was his burst from his own half to the edge of the Mexico box that led to England taking the lead. He showed an incredible amount of discipline having picked up a yellow card after one minute.7\n\nElliot Anderson:A quieter game from Anderson but did not take away from the importance of what he does for England. The midfielder was taken off as Thomas Tuchel changed England's shape looking to protect the lead.6\n\nBukayo Saka:When England were defending deep in the first half Saka was filling in as a right wing-back to block the space around Quinones. A lot of ground to cover but still his usual threat going forward. His ability to take his man on before providing a quality cross was the reason England took the lead.7\n\nJude Bellingham:Another match-winning performance for England. The Real Madrid midfielder continues to deliver moments which make it seem like anything is possible for the Three Lions. His two goals in two first-half minutes put his team in a powerful position as he produced another iconic performance.9",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1804_4",
+            "category": "england",
+            "type": "News",
+            "title": "How England used five mini games to beat Mexico",
+            "bullets": [
+              "The tactical breakdown of how Thomas Tuchel's 10-man England pulled off a remarkable World Cup win i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The tactical breakdown of how Thomas Tuchel's 10-man England pulled off a remarkable World Cup win in a hostile Mexico City.",
+            "fullText": "England win thriller against Mexico to reach quarter-finals\n\nMuch was made about the challenges England would face against Mexico at the Azteca Stadium - and it proved to be tough.\n\nBetween the crowd, the altitude of Mexico City and the intensity of the Mexico players, England had to manage the game in numerous phases - phases so distinct that it felt like five smaller games.\n\nEngland manager Thomas Tuchel proved again why he is known to be so tactically astute and a master in knockout football as England reached the last 16 of the World Cup.\n\nEngland's phased approach to the match was confirmed by assistant coach Anthony Barry at half-time.\n\n\"We prepared the players that up until the first water break it would be a difficult game,\" he said.\n\n\"We would have to suffer. Mexico always start fast. We knew 0-0 would be a good result [at the break].\"\n\nThe visitors were notably more measured defensively than in previous games.\n\nBefore the match Tuchel, who has instilled high-intensity pressing into his side, called for them to be more deliberate in doing so.\n\n\"We are fully committed to our press,\" he said. \"But it's not economical. We need to be smart and pick the right moments.\"\n\nEngland did pick their moments, albeit not without flaws, and looked better than they did against DR Congo in the last 32.\n\nWhen Mexico built from deep, England used Harry Kane, Jude Bellingham and an extra player - one more than they used against DR Congo - to cut off their options.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1804_5",
+            "category": "england",
+            "type": "News",
+            "title": "England win epic tie against Mexico to reach quarter-finals",
+            "bullets": [
+              "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in the World Cup.",
+            "fullText": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England hold on for a thrilling 3-2 victory against Mexico to set up a World Cup quarter-final with Norway.\n\nREAD MORE:An incredible night when England heroes were made",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1804_6",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham scores two in 98 seconds to silence the Azteca",
+            "bullets": [
+              "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their l...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium.",
+            "fullText": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1804_7",
+            "category": "england",
+            "type": "News",
+            "title": "'I'm speechless' - Kane reacts to England's victory over Mexico",
+            "bullets": [
+              "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over M...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over Mexico and praises the fans support.",
+            "fullText": "A very hoarse-sounding England captain Harry Kane gives his reaction to England's 3-2 victory over Mexico and praises the fans' support.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1804_8",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup referees are just not good enough - Tuchel",
+            "bullets": [
+              "England head coach Thomas Tuchel says referees at the World Cup \"are just not good enough\" after the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel says referees at the World Cup \"are just not good enough\" after the dramatic last-16 win over Mexico.",
+            "fullText": "England win thriller against Mexico to reach quarter-finals\n\nEngland head coach Thomas Tuchel said referees at the World Cup \"are just not good enough\" after the dramatic last-16 win over Mexico.\n\nEngland were reduced to 10 men and also had a controversial penalty awarded against them in a thrilling game at the Azteca Stadium.\n\n\"It's just not good enough,\" Tuchel told BBC Sport. \"The referees are just not good enough; fourth officials are just not good enough. That's the bottom line.\n\n\"Is this a clear and obvious error for the penalty? For sure not. They overturned a situation where he doesn't even give a foul.\"\n\nEngland led 2-0 in the first half thanks to two goals in as many minutes from Jude Bellingham, but Julian Quinones pulled a goal back just before the break.\n\nHowever, the game exploded into life in the second half with two big moments.\n\nFirst, Jarell Quansah was sent off in the 54th minute after a review by the video assistant referee showed he clearly went in on Jesus Gallardo with his studs up.\n\n\"It is a clear red card,\" Darren Cann, the 2010 World Cup final assistant referee said on BBC One.\n\n\"Quansah does play the ball first but that doesn't matter in the laws of the game.\n\n\"He goes through and you can clearly see the studs on the shin. The referee has no choice but to show the red card. 100% a red card.\"\n\nEngland restored their two-goal advantage when Kane converted a penalty, but Mexico again fought back when they were awarded a spot-kick.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1805_9",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Uefa says Fifa ‘crossed line’ over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
+            "bullets": [
+              "⚽️ World Cup news and reaction as the last 16 continues⚽️ Uefa accuses Fifa of ‘crossing red line’ o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ World Cup news and reaction as the last 16 continues⚽️ Uefa accuses Fifa of ‘crossing red line’ over Balogun⚽️ Mexico 2-3 England | Player guide | And email usWe haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s win over Bosnia and Herzegovina. He is now free to play in the last-16 game against Belgium.Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made. Continue reading...",
+            "fullText": "Donald Trump has been speaking in the Oval Officejust now, alongside Republican senator Ted Cruz.\n\nCruz just thanked the US president for “getting rid of that ridiculous red card” – in reference to Folarin Balogun.\n\ndouble quotation markOn behalf of all Americans, thank you for getting rid of that ridiculous red card... it was spectacular. There was a reason the Fifa [peace] trophy sat here for as long as it did.\n\ndouble quotation markThe status is, we have the press. They don’t want to know anything soccer/football. Fortunately, they won’t be asking any questions on that. Nobody cares about that, right? This is about the Trump accounts, which are absolutely incredible for children.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1805_10",
+            "category": "england",
+            "type": "News",
+            "title": "Sandro Tonali seals £92.5m move to Tottenham on back of ‘magic’ sales pitch",
+            "bullets": [
+              "Club record signing wowed by Roberto De Zerbi’s plansWages could rise to £275,000-a-week over six-ye...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Club record signing wowed by Roberto De Zerbi’s plansWages could rise to £275,000-a-week over six-year dealSandro Tonali has completed a record-breaking transfer to Tottenham from Newcastle for an initial £92.5m, the Italian claiming he was powerless to resist Roberto De Zerbi’s “magic” sales pitch.“I spoke to the head coach [De Zerbi] for close to two hours about the club, the fans, the stadium and our football. It was like magic because I knew immediately I had to sign for Tottenham. I can’t wait to start the season,” said Tonali, whose fee could potentially rise to £100m should Spurs achieve serial Champions League qualifications, something that would also see the midfielder’s wages rise to around £275,000-a-week over a six year contract. Continue reading...",
+            "fullText": "Club record signing wowed by Roberto De Zerbi’s plans\n\nWages could rise to £275,000-a-week over six-year deal\n\nSandro Tonali has completed a record-breaking transfer to Tottenham from Newcastle for an initial £92.5m, the Italian claiming he was powerless to resist Roberto De Zerbi’s “magic” sales pitch.\n\n“I spoke to the head coach [De Zerbi] for close to two hours about the club, the fans, the stadium and our football. It was like magic because I knew immediately I had to sign for Tottenham. I can’t wait to start the season,” said Tonali, whose fee could potentially rise to £100m should Spurs achieve serial Champions League qualifications, something that would also see the midfielder’s wages rise to around £275,000-a-week over a six year contract.\n\nIn a separate Instagram post confirming his move, Tonali had generous words for both Eddie Howe and Newcastle supporters. “There years ago I came to Newcastle not really knowing what to expect,” he said. “Today it’s time to say goodbye and it’s hard to find the right words.\n\n“A special mention to the gaffer, Eddie, who has been a real guiding figure and who always had my back throughout this journey. But above all I want to speak directly to the fans. When things were hard for me, you were there. Not for one day did I feel alone. I felt it every time I was at St James’ Park. That’s something I will carry with me for the rest of my life.\n\n“The game brought me to Newcastle. Today I leave with my wife and our son born during my time here. This city gave me more than football. It gave me a home, moments I’ll hold onto forever and people I will always be grateful for.”\n\nA player comfortable operating as a No 6 or as a No 8 has been at St James’ Park since his £55m arrival from Milan in the summer of 2023 but was subsequently sidelined afterreceiving a 10-month suspensionfor breaching betting rules. At that juncture, few would have believed Newcastle would see Tonali’s value almost double in under three years but, following his return to action in August 2024, he established himself as one of Eddie Howe’s most influential players.\n\nAlthough Tonali’s form dipped this year as Howe’s team finished a disappointing 12th in the Premier League following their elimination from the Champions League, De Zerbi is understood to have told Tonali that he intends re-building his side around him. And although Manchester City were also interested in recruiting the 26-year-old, Tonali was enthused by his compatriot’s vision. With the player and his wife also keen to relocate to London, the only delay was the time it took for Newcastle to wear down Tottenham’s negotiating resistance and lift the initial fee past the £90m mark.\n\nWhile Spurs are paying a club record fee for Tonali, Newcastle have secured the second highest player sale price in their history, with the latest fee eclipsed only by the£125m Liverpool paid for Alexander Isak last summer. Howe’s challenge now is to persuade Bruno Guimarães to remain on Tyneside in the face of growing interest from Arsenal.\n\nHowe is also hoping to sign Switzerland midfielder Johan Manzambi from Freiburg as Tonali’s potential replacement. Freiburg want £51m for the much coveted 20-year-old and Manchester City could demand a similar sum for another Newcastle target, the England goalkeeper James Trafford.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1805_11",
+            "category": "england",
+            "type": "News",
+            "title": "‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
+            "bullets": [
+              "Côte d’Ivoire international is second summer arrival‘I am very excited to play at St James’ Park,’ h...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Côte d’Ivoire international is second summer arrival‘I am very excited to play at St James’ Park,’ he saysBazoumana Touré has completed a £43m move to Newcastle from Hoffenheim. The 20-year-old Côte d’Ivoire winger is Eddie Howe’s second signing of the summer after the former Reims goalkeeper Ewen Jaouen.While Jaouen is expected to start the season as the club’s second-choice keeper, Touré seems destined to fill the boots vacated by Anthony Gordon when the England winger departed for Barcelona in May. Continue reading...",
+            "fullText": "Côte d’Ivoire international is second summer arrival\n\n‘I am very excited to play at St James’ Park,’ he says\n\nBazoumana Touré has completed a £43m move to Newcastle from Hoffenheim. The 20-year-old Côte d’Ivoire winger is Eddie Howe’s second signing of the summer after the former Reims goalkeeper Ewen Jaouen.\n\nWhile Jaouen is expected to start the season as the club’s second-choice keeper, Touré seems destined to fill the boots vacated by Anthony Gordon when the England wingerdeparted for Barcelona in May.\n\nTouré, who played in three of Côte d’Ivoire’s four games at the World Cup finals tournament after impressing in the Bundesliga last season and has been dubbed “the Smiling Tornado”, described his arrival at St James’ Park as fulfilling a longstanding ambition.\n\n“I’m very, very, happy to be here,” he said. “It was my dream since I was young to play in the Premier League for a big team like Newcastle.\n\n“I will give my best every single day for this shirt. I’m very excited and can’t wait to meet my new teammates … and I’m also very excited to play at St James’ Park for the first time.”\n\nHowe said: “We feel Bazoumana is a player with a really high ceiling. He’s somebody who we believe can offer us something different. He’s also got a lot of potential to unlock.”\n\nNewcastle’s manager remains in the market for both a central midfield replacement for Sandro Tonali,who is set to join Tottenham for £100m, and a new first-choice goalkeeper.\n\nManchester City’s James Trafford remains high on his wishlist in the latter category while in midfield Switzerland’s Johan Manzambi is a player much coveted by Newcastle. Howe, though, accepts he is likely to have to overcome considerable competition if he is to win the race to sign the Freiburg midfielder.\n\nNewcastle, meanwhile, remain determined to retain their Brazil midfielder Bruno Guimarães in the face of growing interest from Arsenal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1805_12",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!For Mexico City 1986, Saint-Étienne 1998 and Gels...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!For Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progress at the World Cup in adverse conditions. When the chips are down, the Three Lions crumble … Until now. So how apt it feels for England fans that, 40 years on from their luckless defeat by Argentina at the Azteca – Diego Maradona’s Hand of God and all that – their team found a way to triumph when it appeared everything was stacked against them. The word “altitude” was bandied round the media with a reckless abandon in the prelude to Mexico v England. Journalists trudged dutifully around Mexico City comparing 5k times to their parkrun PBs back home, in some vague attempt to illustrate how tough it would be for, you know, actual professional athletes. We were told this was the impossible job, a bridge too far in the cathedral of Mexican football against the GWC co-hosts who rarely lose there, and who came into the tie on a run of four successive wins at the tournament, no goals conceded. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nFor Mexico City 1986, Saint-Étienne 1998 and Gelsenkirchen 2006, do not read Mexico City 2026. History told us England simply do not progress at the World Cup in adverse conditions. When the chips are down, the Three Lions crumble …Until now. So how apt it feels for England fans that, 40 years on from their luckless defeat by Argentina at the Azteca – Diego Maradona’s Hand of God and all that – their team found a way to triumph when it appeared everything was stacked against them. The word “altitude” was bandied round the media with a reckless abandon in the prelude to Mexico v England. Journalists trudged dutifully around Mexico City comparing 5k times to their parkrun PBs back home, in some vague attempt to illustrate how tough it would be for, you know, actual professional athletes. We were told this was the impossible job, a bridge too far in the cathedral of Mexican football against the GWC co-hosts who rarely lose there, and who came into the tie on a run of four successive wins at the tournament, no goals conceded.\n\nRip up the script and start again. Forget altitude, Thomas Tuchel’s team are all aboutattitude,exhibiting a spirit so rarely seenby England on the global stage. An hour’s delay to the kick-off, due to storms, further hampered England’s preparations at the Azteca (and kept everyone awake a little longer back in Blighty) before a wall of Mexican noise greeted them. It was hard to quibble with Jarell Quansah’s red card for a bad tackle, while the penalty awarded against Harry Kane, after a VAR intervention, could have been decisive. Tuchel lamented the officialsin his post-match interview. But in real time he had some serious decisions to make,and boy did they pay off, as England dropped into a 5-3-1 formation, Tuchel trusting his troops to complete a defensive rearguard for the ages. It wasn’t quite against all odds, but it defied English tournament history. The last time an England player was sent off in the World Cup was Wayne Rooney in 2006 against Portugal. The time before was David Beckham v Argentina in 1998. Remember how they ended? Course you do.\n\nAt the heart of this lionhearted performance was Jude Bellingham, whose two first-half goals set the night in motion, before he turned intoa defensive and mentality monsteras England battled to see it out with 10 men. Anthony Gordon had his best game in an England shirt, making a mockery of those – Football Daily included – who queried his transfer to Barcelona, while a special mention must go to Dan Burn, ushered on to head, hoof and hack the ball away from goal, sticking to his task so diligently that he willingly put his head in front of a Raúl Jiménez bicycle kick from a yard away. In Bellingham it’s clear England have a young leader who brings inspiration on the pitch but also to fans back home. This is a 23-year-old from Stourbridge who is undaunted on football’s biggest stages, living out the dreams of supporters, and who was very on-message when he cheekily toldthose watching in the wee hours of the morning back hometo “have another shot” and text their bosses to skip work. Dear England fans: whether you’re on the clock today or not, please find time to drink in this epic victory.\n\nMore last-16 action ahoy! Join Scott Murray at 8pm BST/3pm EDT for Portugal 1-2 Spain, then Beau Dure will be on hand at 1am BST/8pm EDT for USA USA USA 3-2 Belgium.\n\nHow do you do fellow kids? Yes, there’s nowa TikBook accountwith all things of a Big Website sporting focus. So, if you’re there, you know what to do.\n\n“I didn’t know that 5 July was equal to 1 April at Fifa. The Belgian federation does not defend itself, it does not defend the national team – it defends football in general. It defends its integrity. It defends its ethics” – a seething Rudi Garcia responds to Fifa’s decision to“suspend” Folarin Balogun’s one-match ban, meaning the USA USA USA striker is available for their last-16 clash. Donald Trump, incidentally, made three calls to Fifa, starting from Wednesday, to ensure the change was made. “Thank you to Fifa for doing what was right, and reversing a great injustice!” he posted on his social media disgrace, whileUefa offered its own interpretation: “Yesterday’s decision … crossed a red line. Football, like any other sports, relies on rules, which are the basis for fair, honest and transparent competition. Sometimes rules are open to interpretation. In this case not.”\n\ndouble quotation markI trust that as I write and, as his last patriotic act as prime minister, Keir Starmer is having high-level discussions with Gianni Infantino to have Jarell Quansah’s red card rescinded before the game with Norway on Saturday? ‘Special relationship’ and all that” – Stevie Ewens (and 1,056 others).\n\ndouble quotation markHands up those who would love to have watched Paraguay v Uruguay as the GWC final” – Tim Diggles.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day is … Double rollover! Terms and conditions for our competitions, when we run them, arehere.\n\nGet your ears aroundthe latest episodeof the World Cup Daily podcast, or you canwatch it as well.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1806_13",
+            "category": "england",
+            "type": "News",
+            "title": "England’s best World Cup win on foreign soil? Tuchel proving decisive",
+            "bullets": [
+              "Was that England's greatest World Cup win on foreign soil? Sir Geoff Hurst has asked the question hi...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Was that England's greatest World Cup win on foreign soil? Sir Geoff Hurst has asked the question himself, suggesting that the 3-2 win over Mexico in the round of 16 might be the best performance since the Wembley final in 1966.",
+            "fullText": "England are into the last eight of the World Cup after a 3-2 win over Mexico. Jude Bellingham and Harry Kane are the heroes but Thomas Tuchel's decision-making is another reason to believe that these star players can make more history at this tournament...",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1817_14",
+            "category": "england",
+            "type": "News",
+            "title": "Jude Bellingham tells England fans to pull a sickie",
+            "bullets": [
+              "Jude Bellingham tells England fans to pull a sickie",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham tells England fans to pull a sickie",
+            "fullText": "England are into the quarter-finals of the World Cup, where they will face Norway, after aheroic last-16 victory over Mexico.\n\nEven Donald Trump, the United States president, paid tribute to England on what was a chaotic night in Mexico that featured an hour’s rain delay, five goals, a red card and midfielder Jordan Henderson being taken to hospital despite not playing.\n\nTrump posted on social media “Harry Kane of England is a GREAT player!!!” following the full-time whistle, while the Prince of Wales said: “Well done England! Bring on the quarter-final!”\n\nThe result at the famous Azteca Stadium is one of the finest by an England team on foreign soil, and the game will go down as an all-time classic.\n\nWith pubs across the country packed after licensing laws were changed by Sir Keir Starmer, the Prime Minister, the game was delayed by an hour because of storms in Mexico City – but for those who stayed up it was certainly worth the wait.\n\nTwice England led by two goals, but on both occasions Thomas Tuchel’s team allowed tournament co-hosts Mexico to reduce the deficit, and they were reliant on anextraordinary backs-to-the-wall defensive standafter Jarell Quansah was sent off early in the second half.\n\nJude Bellingham was superb, scoring twice in 98 seconds in the first half, only for Julián Quiñones to reduce the deficit three minutes before half-time.\n\nSpeaking post-match, Bellingham said: “Text your bosses and tell them you’re not coming in, as simple as that.”\n\nEngland’s plight worsened when Quansah was correctly dismissed for a wild lunge, but they regained their two-goal lead thanks to a Kane penalty after Anthony Gordon had been upended by Mexico goalkeeper Raúl Rangel.\n\nBut there was more drama to follow, with Kane conceding a hotly contested penalty that was converted by Raúl Jiménez.\n\nTuchel rang the changes as England dropped deep, but they clung on to their slender advantage.\n\nTuchel’s team will now face Norway,who knocked out Brazil, in Saturday’s quarter-final in Miami, and the German hailed his side.",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-06 @ 01:45:22 EDT",
+  "lastUpdated": "2026-07-06 @ 10:18:17 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
