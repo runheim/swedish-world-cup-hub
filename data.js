@@ -9991,11 +9991,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0022_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Uefa sees Fifa's decision to lift Folarin Balogun's suspension: \"Incomprehensible\"",
+            "bullets": [
+              "Fifa lifted the suspension of USA attacking star Folarin Balogun. Now the European football confeder...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifa lifted the suspension of USA attacking star Folarin Balogun. Now the European football confederation, Uefa, believes that Fifa has crossed a line and calls the decision incomprehensible. \"They have crossed a red line\".",
+            "fullText": "Fifa lifted the suspension of the USA's attacking star Folarin Balogun. Now the European football confederation, Uefa, believes that Fifa has crossed a line and calls the decision incomprehensible. \"They have crossed a red line\".\n\nThe decision to have USA star Folarin Balogun in the round of 16, despite the red card that should have resulted in a one-match ban, has sparked strong reactions.\n\nSome of those who have reacted the strongest are the European football confederation, Uefa.\n\n\"Yesterday's decision to postpone the automatic one-match suspension period in the case of Folarin Balogun for one year meant crossing a red line,\" they write in a statement on the organization's website, and continue:\n\n\"Football, just like other sports, is governed by rules in order to have a fair, honest and transparent competition. Sometimes the rules are open to interpretation, but that was not the case in this case.\"\n\n\"The automatic suspension of at least one match after a red card is not something that is optional and is not something that requires a decision by a committee. It is a written rule that you cannot make exceptions to, especially not in the middle of a tournament when several other players have been in the same situation and regularly served their suspensions.\"\n\nFifa has referred to an article in the regulations that gives the adjudicating body the right to postpone or completely remove the enforcement of a disciplinary sanction.\n\nAfter the cancellation, there have been accusations of corruption against Fifa from several quarters. The German Football Association has also demanded that Fifa respond to reports that the suspension was lifted following a conversation between Infantino and Trump.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0024_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "In Arjeplog there are three lakes per inhabitant - S politicians want to see changed beach protection",
+            "bullets": [
+              "A new piece of legislation from the Moderates promises to replace the current beach protection and a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A new piece of legislation from the Moderates promises to replace the current beach protection and allow construction near beaches. According to Arjeplog municipal councilor Isak Utsi (S), a differentiated beach protection is the best solution. - It looks different in Sweden, he says.",
+            "fullText": "A new piece of legislation from the Moderates promises to replace the current beach protection and allow construction near beaches. According to Arjeplog municipal councilor Isak Utsi (S), a differentiated beach protection is the best solution.\n\nBeach leave instead of beach protection. It is the Moderates' proposal that was presented on June 1. The purpose of the reform is to increase the opportunity to build on the beach and to shift responsibility for beach permit issues from the county administrative board to the municipalities.\n\n- The goal is to replace today's ban thinking with a more reasonable beach holiday. The government thinks that today's beach protection is too square. Rural municipalities in Norrbotten are treated as if they were densely built-up coastal areas in southern Sweden, explains Riksdag member Mattias Karlsson (M).\n\nThe beach protection issue is extremely relevant in Arjeplog, which with its 8,727 lakes has almost four times as many lakes as inhabitants.\n\n- It is clear that there are different conditions for building near water here than in municipalities that are more densely populated, says Isak Utsi.\n\nThe municipal council expects that the new reform proposal can make Arjeplogs more attractive for people to move into.\n\n- I think many people want to live near water. It is the calm you want to achieve and a piece of the puzzle in that is to be able to enable more people to build a house, for example closer to the water than today.\n\nDespite the positive effects that a relaxed beach protection would have in Arjeplog, Isak Utsi supports a differentiated solution.\n\n- We have other places in Sweden where it is absolutely not possible to think in the same way. It is more densely populated, more built on beaches, so differentiated beach protection is what we have been calling for.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0027_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Tiktok profile wants to bring Gambia and Senegal together through football",
+            "bullets": [
+              "By delivering football news and match summaries, Muhammed Marr has built a large audience on social ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "By delivering football news and match summaries, Muhammed Marr has built a large audience on social media. But for him, the content is about more than goals and results – he wants to make football more accessible and strengthen the ties between Gambia and Senegal.",
+            "fullText": "By delivering football news and match summaries, Muhammed Marr has built a large audience on social media. But for him, the content is about more than goals and results – he wants to make football more accessible and strengthen the ties between Gambia and Senegal.\n\nTen years ago, the then 24-year-old Muhammed Marr made his way alone from Gambia to Italy via Senegal, Mali, Burkina Faso, Niger and Libya. He stayed in Italy for five years before moving to Sweden and Kalmar where two years ago he started recording videos about football.\n\nBut it has not been an easy journey. His account has been shut down and removed twice due to copyright issues surrounding videos.\n\n- Then I felt that I can't do this anymore. But I started from scratch again and have learned from my mistakes. Now I don't take videos from matches anymore, but believe in myself and my own material, he says.\n\nHe is on several social media platforms and in the clips he talks about different teams and players and summarizes football matches in two minutes because not everyone in his home country has the opportunity to watch the matches.\n\n- When I was growing up, we had no smartphones, no electricity and no television. I only got access to television when I was 22 years old. It is still the case that not everyone has a television or a telephone, but they may have a friend who has a telephone and thus they can take part in my summary, he says.\n\nBut for Muhammed Marr, his account is about more than football. It is also about Gambia and Senegal, two countries that are closely connected, but where Gambia was colonized by Britain and Senegal by France.\n\n- Colonization divided us, but we have the same culture, food, religions and families. I use this platform to, through football, bring people in The Gambia and Senegal together, says Muhammed Marr.\n\nDuring the World Cup, he has posted a lot about Senegal's national team and he gets new followers daily.\n\nBut there is one follower who means extra, whom he met while in Gambia recently.\n\n- Suddenly I saw that mom was looking at Tiktok on her phone and I heard my voice. Then she said that she looks at me all the time and that I'm fine. Omg! I don't know what to say. I never thought she was looking at me, he says.\n\nIn the future, he dreams of building his own brand and television station.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-06 @ 16:22:33 EDT",
+  "lastUpdated": "2026-07-06 @ 19:00:27 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
