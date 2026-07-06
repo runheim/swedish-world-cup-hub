@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ World Cup 2026: Trump admits lobbying Fifa over Balogun red card; Starmer intervened on England kick-off time – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live"
-    },
-    {
       "text": "⚽ Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes",
       "link": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin"
+    },
+    {
+      "text": "⚽ Trump confirms he asked Infantino for review of Folarin Balogun red card",
+      "link": "https://www.theguardian.com/football/2026/jul/06/trump-fifa-balogun-red-card-review-intervention"
     }
   ],
   "timeline": {
@@ -5484,11 +5484,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2205_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes",
+            "bullets": [
+              "European governing body’s dramatic move could have major implications for the future of the sportPer...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "European governing body’s dramatic move could have major implications for the future of the sportPerhaps the only globally renowned figure who has been more conspicuous by his absence at this World Cup tournament than Donald Trump is the Uefa president, Aleksander Ceferin, although both men have more than made up for their silence over the past 24 hours.By endorsing a statement in which Uefa accused Fifa of crossing “a red line” in making the “incomprehensible and unjustifiable” decision to lift the USA striker Folarin Balogun’s suspension for the last-16 tie with Belgium on Monday, Ceferin has effectively put European football on a war footing with the world governing body, a dramatic move that could have major implications for the future of the sport. Continue reading...",
+            "fullText": "European governing body’s dramatic move could have major implications for the future of the sport\n\nPerhaps the only globally renowned figure who has been more conspicuous by his absence at thisWorld Cuptournament than Donald Trump is the Uefa president, Aleksander Ceferin, although both men have more than made up for their silence over the past 24 hours.\n\nBy endorsing a statement in which Uefa accused Fifa ofcrossing “a red line”in making the “incomprehensible and unjustifiable” decision to lift the USA striker Folarin Balogun’s suspension for the last-16 tie with Belgium on Monday, Ceferin has effectively put European football on a war footing with the world governing body, a dramatic move that could have major implications for the future of the sport.\n\nMuch like Trump, and indeed Gianni Infantino, Ceferin is a hands‑on president and avid consumer of football media, so he will have known exactly what his organisation was doing. The latter pair have been at loggerheads since Infantino proposed the creation of an expanded Club World Cup in 2018, which finally came to pass in the US last year, with much of the current tension between Fifa and Uefa based on the former’s desire toexpand the Club World Cup from 32 to 48 teamsfor the next staging of the tournament in 2029.\n\nWith Uefa making almost €5bn (£4.27bn) from the Champions League each year, a figure set to rise by about 20% from next year based on media rights and commercial packages sold to date, Fifa wants a piece of the club action, given the vast majority of its four‑year revenues of $14bn (£10.5bn)comes from the World Cup.\n\nThe most recent public sign of enmity between Uefa and Fifa came in Paraguay in May 2025 when European delegates – including Ceferin and the Football Association chair, Debbie Hewitt –walked out of the Fifa congressin protest at the late arrival of Infantino, who had been attending a summit in the Middle East with world leaders including Trump and Saudi Arabia’s crown prince, Mohammed bin Salman. Since that symbolic show of defiance there had been something of a truce, however, which insiders have attributed to the fact that both Infantino and Ceferin will be seeking re-election next year, and have agreed to keep infighting to a minimum.\n\nWhile Uefa has attempted to score some political points on the back of Fifa’s unpopular running of this World Cup – announcing low ticket prices for Euro 2028, making clear it will not introduce hydration breaks and appointing the Somali referee Omar Artan totake charge of the Uefa Super Cupafter he was prevented from officiating at the World Cup by the US Department of Homeland Security – the detente has just about held. But the fragile peace was shattered by Fifa’s decision to lift Balogun’s ban in the middle of the tournament, which Uefa said undermined “the integrity of the game” and “the credibility of the competition”.\n\nWhile much of this dispute is personal and political, there is also genuine disbelief at Uefa’s headquarters in Nyon at how the Fifa administration appears to be run. For all the many criticisms ofUefa, it is an intensely process‑driven, bureaucratic organisation, while in using article 27 of its disciplinary code as a get-out to clear Balogun and Cristiano Ronaldo last year, Fifa gives the impression of making policy on the hoof.\n\nAfter issuing their condemnatory statement on Monday morning, Uefa officials were locked in crisis talks for much of the day, with another indication of the ill-feeling towardsFifashown in the fact that so few have travelled to the World Cup. Despite sharing a tendency to globe-trot and their mutual self-interest, Ceferin and Infantino are rarely seen in the same place at the same time. Following the controversy in Paraguay last year, Ceferin did not attend the Fifa congress in Vancouver this year, while Infantino made his brief appearance at the AGM of the lobby group European Football Clubs in Rome last year when Ceferin was absent.\n\nHaving expressed its outrage, Uefa’s next steps on the Balogun matter are unclear, and will in part depend on the outcome of Belgium’s appeal against Fifa’s decision. Sources at the Royal Belgian Football Association have told the Guardian they are not expecting another U-turn, and as a result are exploring other legal options, including taking Fifa to the court of arbitration for sport in Lausanne after the tournament.\n\nKick off your evenings with the Guardian's take on the world of football\n\nUefa could lend its support for a Belgian legal action, which given its expertise in Swiss law would probably prove beneficial – as well as potentially making life difficult for Fifa in other ways.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2205_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Trump confirms he asked Infantino for review of Folarin Balogun red card",
+            "bullets": [
+              "Trump says he asked Fifa to review red cardInfantino confirms Trump called over BalogunUS president...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Trump says he asked Fifa to review red cardInfantino confirms Trump called over BalogunUS president insists he did not pressure FifaDonald Trump said on Monday that he personally asked Fifa president Gianni Infantino to review the red card shown to USA striker Folarin Balogun, saying he believed the dismissal was unfair but insisting he did not pressure football’s governing body to overturn the suspension.The intervention by the president of a World Cup host nation has thrust Fifa’s disciplinary process into the spotlight and prompted an angry response from Belgium, who face the USA on Monday night for a place in the quarter-finals. Continue reading...",
+            "fullText": "Donald Trump said on Monday that he personally asked Fifa president Gianni Infantinoto review the red cardshown to USA striker Folarin Balogun, saying he believed the dismissal was unfair but insisting he did not pressure football’s governing body to overturn the suspension.\n\nThe intervention by the president of a World Cup host nation has thrust Fifa’s disciplinary process into the spotlight andprompted an angry responsefrom Belgium, who face the USA on Monday night for a place in the quarter-finals.\n\nUefa, the European game’s governing body, also issued a furious statement, accusing Fifa of crossing “a red line” by making an “incomprehensible and unjustifiable” decision to rescind Balogun’s automatic one-match ban, which it claimed undermined “the integrity of the game and the credibility of the competition”.\n\nTrump’s remarks were his first public acknowledgment that he had personally intervened after Balogun was sent off in the USA’s2-0 victory against Bosnia and Herzegovinalast Wednesday in the last 32. Fifa had suspended the striker’s automatic one-match ban on Sunday despite officials previously saying the sanctioncould not be appealedunder the governing body’s disciplinary code.\n\nSources told the Guardian that Trump made three calls to Fifa beginning on Wednesday in an effort to secure the reversal.\n\n“All I did was ask for a review because I didn’t think it was a foul,” Trump told reporters in the Oval Office. “I didn’t tell him what to do. I can’t tell him what to do.”\n\nTrump’s remarks marked the first time either the White House or the president had publicly confirmed the outreach to Fifa.\n\nOn Monday, Trump repeatedly said Balogun’s challenge should never have resulted in a dismissal. “I’ve never seen anything like it,” he said. “So I saw the play, and I’m a person that loves sports and was a good athlete. I understand sports really well. Really well.\n\n“That wasn’t a foul. That wasn’t even an infraction. That was two guys running full speed that happened to crash into each other. You can’t take your foot and properly place it on somebody else’s foot when you’re going full speed. These were two great athletes that got tangled up.\n\n“If he punched him in the face, if he did something wrong, I’d feel differently.”\n\nTrump added: “We’re going to have a full team, andBelgiumis going to have a full team, and you know what? If they beat us, then they can be really proud. The other way, if they beat us ... I say it was rigged, just like the election was rigged in 2020.”\n\nHe described the Brazilian referee Raphael Claus as “very suspect” and said the official had made “a call that nobody could believe”. He also suggested reporters examine Claus’s record, without elaborating.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-06 @ 13:44:14 EDT",
+  "lastUpdated": "2026-07-06 @ 16:22:23 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
