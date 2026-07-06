@@ -4,24 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ In Arjeplog there are three lakes per inhabitant - S politicians want to see changed beach protection",
+      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/i-arjeplog-finns-tre-sjoar-per-invanare-s-politiker-vill-se-andrat-strandskydd"
     },
     {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ The Tiktok profile wants to bring Gambia and Senegal together through football",
+      "link": "https://www.svt.se/nyheter/lokalt/smaland/tiktok-profilen-vill-fora-samman-gambia-och-senegal-genom-fotboll"
     }
   ],
   "timeline": {
@@ -9787,10 +9775,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-06": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4830_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "In Arjeplog there are three lakes per inhabitant - S politicians want to see changed beach protection",
+            "bullets": [
+              "A new piece of legislation from the Moderates promises to replace the current beach protection and a...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A new piece of legislation from the Moderates promises to replace the current beach protection and allow construction near beaches. According to Arjeplog municipal councilor Isak Utsi (S), a differentiated beach protection is the best solution. - It looks different in Sweden, he says.",
+            "fullText": "A new piece of legislation from the Moderates promises to replace the current beach protection and allow construction near beaches. According to Arjeplog municipal councilor Isak Utsi (S), a differentiated beach protection is the best solution.\n\nBeach leave instead of beach protection. It is the Moderates' proposal that was presented on June 1. The purpose of the reform is to increase the opportunity to build on the beach and to shift responsibility for beach permit issues from the county administrative board to the municipalities.\n\n- The goal is to replace today's ban thinking with a more reasonable beach holiday. The government thinks that today's beach protection is too square. Rural municipalities in Norrbotten are treated as if they were densely built-up coastal areas in southern Sweden, explains Riksdag member Mattias Karlsson (M).\n\nThe beach protection issue is extremely relevant in Arjeplog, which with its 8,727 lakes has almost four times as many lakes as inhabitants.\n\n- It is clear that there are different conditions for building near water here than in municipalities that are more densely populated, says Isak Utsi.\n\nThe municipal council expects that the new reform proposal can make Arjeplogs more attractive for people to move into.\n\n- I think many people want to live near water. It is the calm you want to achieve and a piece of the puzzle in that is to be able to enable more people to build a house, for example closer to the water than today.\n\nDespite the positive effects that a relaxed beach protection would have in Arjeplog, Isak Utsi supports a differentiated solution.\n\n- We have other places in Sweden where it is absolutely not possible to think in the same way. It is more densely populated, more built on beaches, so differentiated beach protection is what we have been calling for.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4837_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Tiktok profile wants to bring Gambia and Senegal together through football",
+            "bullets": [
+              "By delivering football news and match summaries, Muhammed Marr has built a large audience on social ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "By delivering football news and match summaries, Muhammed Marr has built a large audience on social media. But for him, the content is about more than goals and results – he wants to make football more accessible and strengthen the ties between Gambia and Senegal.",
+            "fullText": "By delivering football news and match summaries, Muhammed Marr has built a large audience on social media. But for him, the content is about more than goals and results – he wants to make football more accessible and strengthen the ties between Gambia and Senegal.\n\nTen years ago, the then 24-year-old Muhammed Marr made his way alone from Gambia to Italy via Senegal, Mali, Burkina Faso, Niger and Libya. He stayed in Italy for five years before moving to Sweden where two years ago he started recording videos about football.\n\nBut it has not been an easy journey. His account has been shut down and removed twice due to copyright issues surrounding videos.\n\n- Then I felt that I can't do this anymore. But I started from scratch again and have learned from my mistakes. Now I don't take videos from matches anymore, but believe in myself and my own material, he says.\n\nIn the clips, he talks about different teams and players and summarizes football matches in two minutes because not everyone in his home country has the opportunity to watch the matches.\n\n- When I was growing up, we had no smartphones, no electricity and no television. I only got access to television when I was 22 years old. It is still the case that not everyone has a television or a telephone, but they may have a friend who has a telephone and thus they can take part in my summary, he says.\n\nBut for Muhammed Marr, his aunt sport account is about more than football. It is also about Gambia and Senegal, two countries that are closely connected, but where Gambia was colonized by Britain and Senegal by France.\n\n- Colonization divided us, but we have the same culture, food, religions and families. I use this platform to, through football, bring people in The Gambia and Senegal together, says Muhammed Marr.\n\nDuring the World Cup, he has posted a lot about Senegal's national team and he gets new followers daily.\n\nBut there is one follower who means extra, whom he met while in Gambia recently.\n\n- Suddenly I saw that mom was looking at Tiktok on her phone and I heard my voice. Then she said that she looks at me all the time and that I'm fine. Omg! I don't know what to say. I never thought she was looking at me, he says.\n\nIn the future, he dreams of building his own brand and television station.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-05 @ 18:55:54 EDT",
+  "lastUpdated": "2026-07-06 @ 01:48:37 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
