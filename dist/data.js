@@ -4,8 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Trump lobbied Fifa to lift Folarin Balogun suspension for World Cup game v Belgium",
-      "link": "https://www.theguardian.com/football/2026/jul/05/folarin-balogun-red-card-suspension-lifted-usmnt-belgium-world-cup"
+      "text": "⚽ World Cup 2026: Uefa says Fifa ‘crossed line’ over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live"
+    },
+    {
+      "text": "⚽ Unwelcome and undue: Trump’s red-card intervention hurts the US’s World Cup more than it helps | Pablo Iglesias Maurer",
+      "link": "https://www.theguardian.com/football/2026/jul/06/donald-trump-folarin-balogun-world-cup-usmnt-intervention"
     }
   ],
   "timeline": {
@@ -5400,11 +5404,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2155_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Uefa says Fifa ‘crossed line’ over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
+            "bullets": [
+              "⚽️ World Cup news and reaction as the last 16 continues⚽️ Uefa accuses Fifa of ‘crossing red line’ o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ World Cup news and reaction as the last 16 continues⚽️ Uefa accuses Fifa of ‘crossing red line’ over Balogun⚽️ Mexico 2-3 England | Player guide | And email usWe haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s win over Bosnia and Herzegovina. He is now free to play in the last-16 game against Belgium.Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made. Continue reading...",
+            "fullText": "Donald Trump has been speaking in the Oval Officejust now, alongside Republican senator Ted Cruz.\n\nCruz just thanked the US president for “getting rid of that ridiculous red card” – in reference to Folarin Balogun.\n\ndouble quotation markOn behalf of all Americans, thank you for getting rid of that ridiculous red card... it was spectacular. There was a reason the Fifa [peace] trophy sat here for as long as it did.\n\ndouble quotation markThe status is, we have the press. They don’t want to know anything soccer/football. Fortunately, they won’t be asking any questions on that. Nobody cares about that, right? This is about the Trump accounts, which are absolutely incredible for children.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2155_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Unwelcome and undue: Trump’s red-card intervention hurts the US’s World Cup more than it helps | Pablo Iglesias Maurer",
+            "bullets": [
+              "In pushing Fifa to reverse Folarin Balogun’s suspension, the president did the most American thing p...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In pushing Fifa to reverse Folarin Balogun’s suspension, the president did the most American thing possible: assert unasked-for power to get his wayThe story of Garrincha’s red card in the 1962 World Cup is the stuff of legend. The Brazilian great was sent off in the semi-finals for lashing out at an opponent, but back then, Fifa had no automatic one-match suspension in place. So a disciplinary committee convened the next day to decide his fate for the final.As the story goes, the assistant referee who had the best view of the offense was paid off and disappeared, and the president of Chile, the tournament’s host, put in a call to Fifa, urging them to decide against any additional suspension. He did so for the sake of keeping one of the tournament’s most entertaining players on the field. Garrincha emerged scot-free, and Brazil won their second World Cup days later. Continue reading...",
+            "fullText": "In pushing Fifa to reverse Folarin Balogun’s suspension, the president did the most American thing possible: assert unasked-for power to get his way\n\nThe story of Garrincha’s red card in the 1962World Cupis the stuff of legend. The Brazilian great was sent off in the semi-finals for lashing out at an opponent, but back then, Fifa had no automatic one-match suspension in place. So a disciplinary committee convened the next day to decide his fate for the final.\n\nAs the story goes, the assistant referee who had the best view of the offense was paid off and disappeared, and the president of Chile, the tournament’s host, put in a call to Fifa, urging them to decide against any additional suspension. He did so for the sake of keeping one of the tournament’s most entertaining players on the field. Garrincha emerged scot-free, and Brazil won their second World Cup days later.\n\nIt’s the type of far-fetched tale that seems ancient, but Sunday brought the type of news that makes one realize that we’re not so far removed from those days. Ahead of the US men’s national team’s last-16 match against Belgium, Donald Trump had put in a series of phone calls to Gianni Infantino, as the US Soccer Federation sought ways tosuspend the one-match banissued to US striker Folarin Balogun.\n\nBalogun was sent off during the USMNT’s 2-0 victory over Bosnia and Herzegovina on Wednesday, having inadvertently stomped on the ankle of an opponent while vying for possession. The red card was dubious and it has been relitigated to death, with the general consensus that the US were hard done by the call, which was made after video review. Balogun, US head coach Mauricio Pochettino and a chorus of othersexpressed anger and disappointmentat the sending off, but seemed to accept the suspension. US fans were outraged but many eventually resigned themselves to facing Belgium on Monday without their first-choice striker.\n\nWhich is right around the time Trump inserted himself in the situation. US Soccer had been doing its own lobbying and in short order, Balogun’s one-match ban was suspended until after the tournament. Fifa had done the same with a handful of players (including Cristiano Ronaldo) who had earned suspensionspriorto the tournament but doing so during the World Cup itself is without precedent.\n\nWhat’s followed has been a mix of elation and outrage. Many US fans are understandably pleased by the development, as is Pochettino, whosaid as muchon Sunday. Belgium head coach Rudi Garcia was incensed, telling reporters that he was unaware thatApril Fools’ Day falls in July. The Belgian federation says it is reviewing its legal options.\n\nFifa, of course, has its own explanation, though it doesn’t offer much insight. It simply points to the article in its bylaws that allows for this decision. Fifa officials took a similar approach when asked by multiple media outlets about Trump’s alleged phone calls, insisting that the very nature of its disciplinary process makes it impossible for that type of intervention to sway a decision.\n\nAsking any of us to believe that Fifa is not influenced by Trumpis an absurdity. It is tantamount to asking us to believe that Trump was awarded its “peace prize” on merit alone. Infantino’s relationship with Trump has long been a cozy one, a mutually beneficial symbiosis where Trump gets the type of sycophantic praise and attention he thrives on and Infantino gets the keys to the biggest commercial market in the world for Fifa’s cash cow.\n\nWhat Trump does not realize – or perhaps he simply doesn’t care – is that he has done the whole of American soccer no favors by putting his thumb on the scales.\n\nThe USMNT have arrived at their current station in the tournament on their own merits, riding three exceptional performances and one bang average one to the last 16. Balogun has been arguably the US’s best player throughout that run.\n\nYet even without the Monaco striker, there was no shortage of pundits and oddsmakers pegging the US as likely to win against Belgium. The perception that the US have been handed an unfair advantage here – they have, to be clear – taints their potential advancement. This is true in the States but much more so globally, where Trump has become the latest in a long line of ugly Americans who are perceived, fairly or unfairly, to have expected preferential treatment.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-06 @ 01:45:35 EDT",
+  "lastUpdated": "2026-07-06 @ 10:22:10 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
