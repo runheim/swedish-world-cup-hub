@@ -4,20 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Need to stay awake for England v Mexico? Try this quiz",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyp4eprn22o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England win epic tie against Mexico to reach quarter-finals",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9w22dqpjw9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England battling history as well as Mexican nation in Azteca cauldron",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvg7z7zxkw9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'Referees just not good enough' - Tuchel anger over penalty",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq6115rj9ymo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Mexico could bring the best out of Tuchel's England",
-      "link": "https://www.bbc.co.uk/sport/football/videos/clywpjjpze4o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Who produced another iconic performance? England player ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8r40y5r9eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England have struggled against low block - could they use it to beat Mexico?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq51p6787jlo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Bellingham scores two in 98 seconds to silence the Azteca",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ce3ee5dkvpro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ 'I'm speechless' - Kane reacts to England's victory over Mexico",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cvg55vne49do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ ‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
@@ -26,6 +30,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
       "link": "https://www.theguardian.com/football/2026/jul/05/freddy-the-german-world-cup-2026"
+    },
+    {
+      "text": "⚽ England ratings: Bellingham shines but heroic defence secures QF spot",
+      "link": "https://www.skysports.com/football/news/12040/13560798/mexico-2-3-england-jude-bellingham-and-harry-kane-shine-again-in-heroic-defensive-display-at-azteca-stadium"
     },
     {
       "text": "⚽ Osaka knocks Sabalenka out of Wimbledon as Djokovic tops Federer record",
@@ -19868,10 +19876,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-06": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4510_0",
+            "category": "england",
+            "type": "News",
+            "title": "England win epic tie against Mexico to reach quarter-finals",
+            "bullets": [
+              "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England beat Mexico 3-2 in the World Cup.",
+            "fullText": "Jude Bellingham scores twice and Harry Kane converts a penalty as 10-man England hold on for a thrilling 3-2 victory against Mexico to set up a World Cup quarter-final with Norway.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4510_1",
+            "category": "england",
+            "type": "News",
+            "title": "'Referees just not good enough' - Tuchel anger over penalty",
+            "bullets": [
+              "England head coach Thomas Tuchel said referees at the World Cup \"are just not good enough\" after the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel said referees at the World Cup \"are just not good enough\" after the dramatic last-16 win over Mexico.",
+            "fullText": "Raul Jimenez converted a penalty to reduce England's lead to 3-2\n\nEngland head coach Thomas Tuchel said referees at the World Cup \"are just not good enough\" after the dramatic last-16 win over Mexico.\n\nThe Three Lions were reduced to 10 men and also had a controversial penalty awarded against them in a thrilling game at the Azteca Stadium.\n\n\"It's just not good enough,\" Tuchel told BBC Sport. \"The referees are just not good enough, fourth officials are just not good enough. That's the bottom line.\n\n\"Is this a clear and obvious error for the penalty? For sure not. They overturned a situation where he doesn't even give a foul.\"\n\nEngland led 2-0 in the first half thanks to two goals in as many minutes from Jude Bellingham, but Julian Quinones pulled a goal back just before the break.\n\nHowever, the game exploded into life in the second half with two big moments.\n\nFirst, Jarell Quansah was sent off in the 54th minute after a review by the video assistant referee showed he clearly went in on Jesus Gallardo with his studs up.\n\nThe moment briefly buoyed Mexico's fans but England soon went 3-1 up when Harry Kane converted a penalty.\n\n\"It is a clear red card,\" Darren Cann, the 2010 World Cup final assistant referee said on BBC One.\n\n\"Quansah does play the ball first but that doesn't matter in the laws of the game.\n\n\"He goes through and you can clearly see the studs on the shin. The referee has no choice but to show the red card. 100% a red card.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4510_2",
+            "category": "england",
+            "type": "News",
+            "title": "Who produced another iconic performance? England player ratings",
+            "bullets": [
+              "BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 wi...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport England reporter Alex Howell rates how the Three Lions players performed in the last-16 win over Mexico.",
+            "fullText": "England win thriller against Mexico to reach quarter-finals\n\nEngland beat Mexico3-2in a thriller at the Azteca to reach the World Cup quarter-finals, but who caught the eye?\n\nBBC Sport England reporterAlex Howellassesses how the players performed - and you can see how BBC Sport readers rated them at the bottom of the page too.\n\nJordan Pickford:A great save low down from a diving header from Raul Jimenez early on. An important moment as England would have been behind early in the atmospheric Azteca. Was called upon just before half-time to produce an acrobatic save to deny Jimenez again when Mexico were pushing for a leveller at 2-1.7\n\nJarell Quansah:An unfortunate end for Quansah, who was sent off after a video assistant review (VAR) for a high challenge. The right-back had been putting in a good performance before his night was ended early.5\n\nEzri Konsa:A testing evening for Konsa and the whole England backline with all the drama in the game. It was Konsa's attempted clearance from a free-kick which fell to Julian Quinones for him to score as he gave Mexico a route back into the match - but the Aston Villa defender provided crucial clearances as England ground out a win.7\n\nMarc Guehi:Took the ball in tight areas and under pressure as England looked to kill Mexico's momentum in the first half. Guehi stood up to the test as Mexico threw everything at England.7\n\nNico O'Reilly:This was the left-back's best performance of the World Cup. Flashed a dangerous cross across the box and slammed a volley against the post. Taken off after picking up a yellow and as England went to a back five.7\n\nDeclan Rice:Rice's powerful running is a major weapon for England and it was his burst from his own half to the edge of the Mexico box that led to England taking the lead. He showed an incredible amount of discipline having picked up a yellow card after one minute.7\n\nElliot Anderson:A quieter game from Anderson but did not take away from the importance of what he does for England. The midfielder was taken off as Thomas Tuchel changed England's shape looking to protect the lead.6\n\nBukayo Saka:When England were defending deep in the first half Saka was filling in as a right wing-back to block the space around Quinones. A lot of ground to cover but still his usual threat going forward. His ability to take his man on before providing a quality cross was the reason England took the lead.7\n\nJude Bellingham:Another match-winning performance for England. The Real Madrid midfielder continues to deliver moments which make it seem like anything is possible for the Three Lions. His two goals in two first-half minutes put his team in a powerful position as he produced another iconic performance.9",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4510_3",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham scores two in 98 seconds to silence the Azteca",
+            "bullets": [
+              "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their l...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium.",
+            "fullText": "Jude Bellingham scores two goals in 98 seconds to give England a 2-0 lead over Mexico during their last 16 match at the Mexico City Stadium.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4511_4",
+            "category": "england",
+            "type": "News",
+            "title": "'I'm speechless' - Kane reacts to England's victory over Mexico",
+            "bullets": [
+              "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over M...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over Mexico and praises the fans support.",
+            "fullText": "A very hoarse sounding England captain Harry Kane gives his reaction to England's 3-2 victory over Mexico and praises the fans support.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4511_5",
+            "category": "england",
+            "type": "News",
+            "title": "‘A high ceiling’: Newcastle confirm £43m signing of Hoffenheim winger Touré",
+            "bullets": [
+              "Côte d’Ivoire international is second summer arrival‘I am very excited to play at St James’ Park,’ h...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Côte d’Ivoire international is second summer arrival‘I am very excited to play at St James’ Park,’ he saysBazoumana Touré has completed a £43m move to Newcastle from Hoffenheim. The 20-year-old Côte d’Ivoire winger is Eddie Howe’s second signing of the summer after the former Reims goalkeeper Ewen Jaouen.While Jaouen is expected to start the season as the club’s second-choice keeper, Touré seems destined to fill the boots vacated by Anthony Gordon when the England winger departed for Barcelona in May. Continue reading...",
+            "fullText": "Côte d’Ivoire international is second summer arrival\n\n‘I am very excited to play at St James’ Park,’ he says\n\nBazoumana Touré has completed a £43m move to Newcastle from Hoffenheim. The 20-year-old Côte d’Ivoire winger is Eddie Howe’s second signing of the summer after the former Reims goalkeeper Ewen Jaouen.\n\nWhile Jaouen is expected to start the season as the club’s second-choice keeper, Touré seems destined to fill the boots vacated by Anthony Gordon when the England wingerdeparted for Barcelona in May.\n\nTouré, who played in three of Côte d’Ivoire’s four games at the World Cup finals tournament after impressing in the Bundesliga last season and has been dubbed “the Smiling Tornado”, described his arrival at St James’ Park as fulfilling a longstanding ambition.\n\n“I’m very, very, happy to be here,” he said. “It was my dream since I was young to play in the Premier League for a big team like Newcastle.\n\n“I will give my best every single day for this shirt. I’m very excited and can’t wait to meet my new teammates … and I’m also very excited to play at St James’ Park for the first time.”\n\nHowe said: “We feel Bazoumana is a player with a really high ceiling. He’s somebody who we believe can offer us something different. He’s also got a lot of potential to unlock.”\n\nNewcastle’s manager remains in the market for both a central midfield replacement for Sandro Tonali,who is set to join Tottenham for £100m, and a new first-choice goalkeeper.\n\nManchester City’s James Trafford remains high on his wishlist in the latter category while in midfield Switzerland’s Johan Manzambi is a player much coveted by Newcastle. Howe, though, accepts he is likely to have to overcome considerable competition if he is to win the race to sign the Freiburg midfielder.\n\nNewcastle, meanwhile, remain determined to retain their Brazil midfielder Bruno Guimarães in the face of growing interest from Arsenal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4511_6",
+            "category": "england",
+            "type": "News",
+            "title": "Freddy the German: psyop, mirror to US rapacity or Tocqueville in a CR7 shirt?",
+            "bullets": [
+              "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also the tournament’s most revealing characterFarewell, then, Freddy – the fan whose face we never saw, the German we never heard speak German, the man forever behind the emoji, the World Cup’s Wizard of Oz. Farewell from X, at least. Shortly after Die Mannschaft’s World Cup elimination, the visiting German fan who became famous on social media through the tournament’s early weeks suddenly disappeared. As the legend of Freddy (or @freddyla7, to use his social media handle) grew and his posts marveling at the majesty of the United States’ gas stations, fast food offerings, stadiums, and highways continued to rack up millions of views, the German – who made a point of never revealing his full name or face – quickly became a Rorschach test for people’s attitudes to online popularity in the age of Elon Musk and Gianni Infantino.Some accepted Freddy for who he claimed to be: a man enjoying himself in the land of the free as he roadtripped in pursuit of World Cup-fueled entertainment. Others of a more conspiracist bent, spying his rapidly amassing pile of brand engagements, saw him as a plant, a fiction, a psyop cooked up by the US government and corporate America to convince us all that actually, a country where it requires a mortgage to get a blood test is still the greatest place on Earth. Continue reading...",
+            "fullText": "The true identity of the World Cup’s breakout fan has been the topic of feverish debate. He is also the tournament’s most revealing character\n\nFarewell, then, Freddy – the fan whose face we never saw, the German we never heard speak German, the man forever behind the emoji, the World Cup’s Wizard of Oz. Farewell from X, at least. Shortly afterDie Mannschaft’s World Cup elimination, the visiting German fan who became famous on social media through the tournament’s early weeks suddenly disappeared. As the legend of Freddy (or @freddyla7, to use his social media handle) grew and his posts marveling at the majesty of the United States’ gas stations, fast food offerings, stadiums, and highways continued to rack up millions of views, the German – who made a point of never revealing his full name or face – quickly became a Rorschach test for people’s attitudes to online popularity in the age of Elon Musk and Gianni Infantino.\n\nSome accepted Freddy for who he claimed to be: a man enjoying himself in the land of the free as he roadtripped in pursuit of World Cup-fueled entertainment. Others of a more conspiracist bent, spying his rapidly amassing pile of brand engagements, saw him as a plant, a fiction, a psyop cooked up by the US government and corporate America to convince us all that actually, a country where it requires a mortgage to get a blood test is still the greatest place on Earth.\n\nIn the end, those in the latter camp claimed they had won: the hatersuneartheda series of tasteless old tweets and exposed various discontinuities in the Freddian backstory, and now the man himself – or whoever or whatever invented him – has nuked his X account,claimingthe platform is too “toxic”. But don’t worry, Freddy hasn’t evaporated completely: he remains a vibrant and essential cultural presence onInstagram, where you can still enjoy the digital crumbs left behind as he powers up on home fries at Denny’s, solemnly snaps the cooling towers while passing the Three Mile Island nuclear reactor, or drinks a 7 Up in Leesburg, Virginia. Soon he willvisit the White Housein the company of Nick Adams, the self-described “alpha male” and actual Australian now using his job as Donald Trump’s “tourism minister” (the scare quotes are his, not mine) to cement himself asTrumpworld’s leading exponent of libcucking camp. If Freddy is fake, he/she/they will have plenty to discuss with a professional cosplayer like Adams.\n\nFreddy is not the only foreign fan to have gained a small measure of fame this World Cup for exuberant displays of affection for America. The timeline (well, my timeline at least) has been flooded with footage of Japanese fans devouring Texas barbecue, the lads and lager louts of Team England descending into uncommon silence at the sheer blinking enormity of America’s sporting arenas, and the people of Lawrence, Kansas and Everywhere, Algeriafalling head over heels for each other.\n\nMost of this, it would take a hard heart to dispute, is organic and good-natured and real. All these people smiling and partying together at once? As Pep Guardiola might say, it’s so good, it’s so good. There’s something to savor in the spectacle of a tournament so exuberant and rippling with life that it has subdued, if only for a moment, the snarling joylessness and xenophobia of the Maga authoritarian project. The conquest has not been total, of course: there’s still a lot to hate about the way the Trumpfantino alliancehas run this World Cup, and the event’s runaway success will no doubt provide cover for all manner excesses from Fifa over the next four years. But still: the vibes around this soccer summer – which many, myself included, feared were moribund on the eve of the first match – are indestructible.\n\nAt the same time, it’s worth reflecting on the suspicion raised by an “overnight” viral success like Freddy, the nagging sense that many feel that something about this whole myth of virgin contact with the New World’s naked splendor is not quite right. Is Freddy actually German? Is his name even Freddy? It’s possible that the answers to both of these questions are “yes”, but nothing can be taken for granted in the age of permaslop and perpetual astroturfing. We live in a time where, for many of us at least, our spidey senses start tingling at the meresight of an em dash, and today’s feelgood viral hit is forever exposed, tomorrow, as a cruel marketing stunt. Amid the high of the New York Knicks’historic charge to their first NBA title in 53 years, it was quickly forgotten that “My Mayor Muslim / My bagel Jewish / My Christian Dior / Knicks in four”, the seemingly improvised quatrain that set the internet ablaze in the early days of the finals series, was laterrevealedto be the product of an orchestrated branding campaign from Kalshi.\n\nIn some ways the split that Freddy has triggered among soccer fans (a polarization that maps, albeit not perfectly, on to the political division between right and left) resembles the debate about this tournament’s hydration breaks: are they a necessary innovation to protect players’ wellbeing, or a craven cash grab? They’re both, surely, but professional sport has become very good at reducing the range of emotional responses among fans, about every contested issue and storyline, to two options: naivety or cynicism. Between “Let people enjoy things!” and the progressive-reflexive “PSYOP”, any middle position risks looking hopelessly compromised and weak.\n\nAll the neo-Freddies guzzling and gorging their way down the West Coast and across the Sun Belt remind me ofBritish food influencers in America– goggling naïfs blown away by a simple ham sandwich. And look, sometimes a ham sandwich reallyisthat good; sometimes a burger truly can transport its eater to religious heights. But come on: we must not kid ourselves that such delights are not widely available in the World Cup tourists’ countries of origin, that the masses of Europe and Asia remain innocent of exposure to big-barn supermarkets or fast food outlets or restaurants able to seat more than 20 covers.\n\nIt’s testament to the strength of the social media-driven monoculture – which America itself has done more than any other nation to create – that virtually every corner of the globe now has some place shilling authentic Kansas City barbecue, sea salt-dusted soft serve, smashburgers, Nashville hot chicken sandwiches, mala Biscoff-crusted fried catfish po’ boys, or whatever the latest viral culinary craze is. You don’t need to come to America to find this stuff; it’s everywhere.\n\nWhat’s really at stake here is not truth but attention. For influencers, especially those from abroad, there’s now a full-scale industry in feeding America’s legend back to itself. The climbers and try-hards of the internet are like moths to the bulb, and in the phototaxis of digital culture no prize shines brighter than America. Drinking a slushy, sizing up at Mickey Ds, locking in for a Spicy Deluxe at Chick-Fil-A: there’s gold in them there hills, or clicks in them at least. It doesn’t matter whether the performed enthusiasm for any of this is genuine or made up; what counts is that it is posted online.\n\nMaybe the ultimate problem here is that people simply don’t care whether things are real, don’t want to engage with the world as it is. Real life, for many, is a domain of constant struggle and disappointment; much better to retreat into the realm of fantasy and wish reality away. While Freddy is busy snapping up cheap gas on his trans-American odyssey, fan accounts on X that plainly label their output as “fictional quotes” frequently generate thousands of views forcompletely fabricated “insights”from football’s highest authorities into the day’s World Cup action. One such accountpostedan extensive “quote” from Arsène Wenger about Matías Galarza’s first-half punch on Kylian Mbappé in the round of 16 virtually the moment the match between France and Paraguay ended; it has now attracted more than 2,000 likes.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4512_7",
+            "category": "england",
+            "type": "News",
+            "title": "England ratings: Bellingham shines but heroic defence secures QF spot",
+            "bullets": [
+              "England held on for an excruciating 3-2 win against Mexico thanks to a heroic defensive performance ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England held on for an excruciating 3-2 win against Mexico thanks to a heroic defensive performance to book their place in the quarter-finals of the World Cup.",
+            "fullText": "Sky Sportsrates the England players following their 3-2 win against Mexico in the last 16 of the World Cup; Jude Bellingham and Harry Kane stepped up but the defensive performance guides Three Lions into the quarter-finals",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4512_8",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka knocks Sabalenka out of Wimbledon as Djokovic tops Federer record",
+            "bullets": [
+              "Naomi Osaka knocked top seed Aryna Sabalenka out of Wimbledon on Sunday, while Novak Djokovic broke ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka knocked top seed Aryna Sabalenka out of Wimbledon on Sunday, while Novak Djokovic broke Roger Federer's record for match victories at the All England Club.",
+            "fullText": "Naomi Osaka seized a two-set victory over Aryna Sabalenka on Centre Court, eliminating the top seed from Wimbledon as she won a tie-break in the second set; Novak Djokovic eclipsed Roger Federer's record for wins at the All England Club but apologised for \"outbursts\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-05 @ 19:01:13 EDT",
+  "lastUpdated": "2026-07-06 @ 01:45:22 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
