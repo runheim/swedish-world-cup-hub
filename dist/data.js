@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ World Cup 2026: Uefa says Fifa ‘crossed line’ over Balogun; Henderson out of tournament as England set up Norway quarter-final – live",
+      "text": "⚽ World Cup 2026: Trump admits lobbying Fifa over Balogun red card; Starmer intervened on England kick-off time – live",
       "link": "https://www.theguardian.com/football/live/2026/jul/06/world-cup-2026-england-set-up-norway-quarter-final-after-mexico-thriller-trump-lobbied-for-balogun-red-card-reversal-live"
     },
     {
-      "text": "⚽ Unwelcome and undue: Trump’s red-card intervention hurts the US’s World Cup more than it helps | Pablo Iglesias Maurer",
-      "link": "https://www.theguardian.com/football/2026/jul/06/donald-trump-folarin-balogun-world-cup-usmnt-intervention"
+      "text": "⚽ Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes",
+      "link": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin"
     }
   ],
   "timeline": {
@@ -5444,11 +5444,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4400_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: Trump admits lobbying Fifa over Balogun red card; Starmer intervened on England kick-off time – live",
+            "bullets": [
+              "⚽️ World Cup news and reaction as the last 16 continues⚽️ Uefa accuses Fifa of ‘crossing red line’ o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ World Cup news and reaction as the last 16 continues⚽️ Uefa accuses Fifa of ‘crossing red line’ over Balogun⚽️ Mexico 2-3 England | Player guide | And email usWe haven’t even mentioned Balogun-gate yet. The Belgian FA, and you can assume a large proportion of the football world, has been left “astonished” by Fifa’s decision after lobbying by Donald Trump to reverse the suspension given to the striker for his red card in the team’s win over Bosnia and Herzegovina. He is now free to play in the last-16 game against Belgium.Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made. Continue reading...",
+            "fullText": "Brazil’s football federation have defended the integrity of the referee who Donald Trump said was “a little bit suspect” amid a furore over Fifa’s reversal of a red card given to US striker Folarin Balogun.\n\n“There is nothing in his record that discredits him or gives grounds for any suspicion,” the the Brazilian football confederation (CBF) said in a statement sent to AFP. “He is an exemplary professional.”AFP\n\nClaus showed Balogun a straight red after viewing his collision with Bosnia and Herzegovina’s Tarik Muharemovic on the pitchside monitor. Trump described Claus as “very suspect” and said the official had made “a call that nobody could believe”. He also suggested reporters examine Claus’s record, without elaborating.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4400_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes",
+            "bullets": [
+              "European governing body’s dramatic move could have major implications for the future of the sportPer...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "European governing body’s dramatic move could have major implications for the future of the sportPerhaps the only globally renowned figure who has been more conspicuous by his absence at this World Cup tournament than Donald Trump is the Uefa president, Aleksander Ceferin, although both men have more than made up for their silence over the past 24 hours.By endorsing a statement in which Uefa accused Fifa of crossing “a red line” in making the “incomprehensible and unjustifiable” decision to lift the USA striker Folarin Balogun’s suspension for the last-16 tie with Belgium on Monday, Ceferin has effectively put European football on a war footing with the world governing body, a dramatic move that could have major implications for the future of the sport. Continue reading...",
+            "fullText": "European governing body’s dramatic move could have major implications for the future of the sport\n\nPerhaps the only globally renowned figure who has been more conspicuous by his absence at thisWorld Cuptournament than Donald Trump is the Uefa president, Aleksander Ceferin, although both men have more than made up for their silence over the past 24 hours.\n\nBy endorsing a statement in which Uefa accused Fifa ofcrossing “a red line”in making the “incomprehensible and unjustifiable” decision to lift the USA striker Folarin Balogun’s suspension for the last-16 tie with Belgium on Monday, Ceferin has effectively put European football on a war footing with the world governing body, a dramatic move that could have major implications for the future of the sport.\n\nMuch like Trump, and indeed Gianni Infantino, Ceferin is a hands‑on president and avid consumer of football media, so he will have known exactly what his organisation was doing. The latter pair have been at loggerheads since Infantino proposed the creation of an expanded Club World Cup in 2018, which finally came to pass in the US last year, with much of the current tension between Fifa and Uefa based on the former’s desire toexpand the Club World Cup from 32 to 48 teamsfor the next staging of the tournament in 2029.\n\nWith Uefa making almost €5bn (£4.27bn) from the Champions League each year, a figure set to rise by about 20% from next year based on media rights and commercial packages sold to date, Fifa wants a piece of the club action, given the vast majority of its four‑year revenues of $14bn (£10.5bn)comes from the World Cup.\n\nThe most recent public sign of enmity between Uefa and Fifa came in Paraguay in May 2025 when European delegates – including Ceferin and the Football Association chair, Debbie Hewitt –walked out of the Fifa congressin protest at the late arrival of Infantino, who had been attending a summit in the Middle East with world leaders including Trump and Saudi Arabia’s crown prince, Mohammed bin Salman. Since that symbolic show of defiance there had been something of a truce, however, which insiders have attributed to the fact that both Infantino and Ceferin will be seeking re-election next year, and have agreed to keep infighting to a minimum.\n\nWhile Uefa has attempted to score some political points on the back of Fifa’s unpopular running of this World Cup – announcing low ticket prices for Euro 2028, making clear it will not introduce hydration breaks and appointing the Somali referee Omar Artan totake charge of the Uefa Super Cupafter he was prevented from officiating at the World Cup by the US Department of Homeland Security – the detente has just about held. But the fragile peace was shattered by Fifa’s decision to lift Balogun’s ban in the middle of the tournament, which Uefa said undermined “the integrity of the game” and “the credibility of the competition”.\n\nWhile much of this dispute is personal and political, there is also genuine disbelief at Uefa’s headquarters in Nyon at how the Fifa administration appears to be run. For all the many criticisms ofUefa, it is an intensely process‑driven, bureaucratic organisation, while in using article 27 of its disciplinary code as a get-out to clear Balogun and Cristiano Ronaldo last year, Fifa gives the impression of making policy on the hoof.\n\nAfter issuing their condemnatory statement on Monday morning, Uefa officials were locked in crisis talks for much of the day, with another indication of the ill-feeling towardsFifashown in the fact that so few have travelled to the World Cup. Despite sharing a tendency to globe-trot and their mutual self-interest, Ceferin and Infantino are rarely seen in the same place at the same time. Following the controversy in Paraguay last year, Ceferin did not attend the Fifa congress in Vancouver this year, while Infantino made his brief appearance at the AGM of the lobby group European Football Clubs in Rome last year when Ceferin was absent.\n\nHaving expressed its outrage, Uefa’s next steps on the Balogun matter are unclear, and will in part depend on the outcome of Belgium’s appeal against Fifa’s decision. Sources at the Royal Belgian Football Association have told the Guardian they are not expecting another U-turn, and as a result are exploring other legal options, including taking Fifa to the court of arbitration for sport in Lausanne after the tournament.\n\nKick off your evenings with the Guardian's take on the world of football\n\nUefa could lend its support for a Belgian legal action, which given its expertise in Swiss law would probably prove beneficial – as well as potentially making life difficult for Fifa in other ways.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-06 @ 10:22:10 EDT",
+  "lastUpdated": "2026-07-06 @ 13:44:14 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
