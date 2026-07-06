@@ -22631,6 +22631,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Morning lads! Just checking in.",
       "time": "12:57",
       "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "08:40",
+      "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Rest up tonight boys. Massive week ahead.",
+      "time": "08:41",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Morning lads! Just checking in.",
+      "time": "08:42",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "08:43",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "08:44",
+      "isCaptain": false
     }
   ]
 };
