@@ -5376,10 +5376,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-06": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4522_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Trump lobbied Fifa to lift Folarin Balogun suspension for World Cup game v Belgium",
+            "bullets": [
+              "US striker was shown red in last-32 matchFifa announced suspension of ban earlier SundayBelgian FA ‘...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US striker was shown red in last-32 matchFifa announced suspension of ban earlier SundayBelgian FA ‘astonished’ by decisionDonald Trump lobbied Fifa to lift the US striker Folarin Balogun’s one-game ban for a red card received in the team’s win over Bosnia and Herzegovina, preceding Sunday’s stunning announcement that he would be available for the cohosts’ last-16 clash against Belgium in Seattle on Monday night.Sources have told the Guardian that Trump made three calls to Fifa, starting from Wednesday, to ensure that the change was made. Continue reading...",
+            "fullText": "Donald Trump lobbied Fifa to lift the US striker Folarin Balogun’s one-game ban for a red card received in the team’swin over Bosnia and Herzegovina, preceding Sunday’s stunning announcement that he would be available for the cohosts’ last-16 clash against Belgium in Seattle on Monday night.\n\nSources have told the Guardian that Trump made three calls toFifa, starting from Wednesday, to ensure that the change was made.\n\nThe decision gives the US a huge boost on the field as they attempt to reach theWorld Cupquarter-finals for the first time since 2002. Balogun has been a constant threat for the US so far this tournament, and has scored three goals in three starts.\n\nFifa has been approached for comment. The US president thanked football’s world governing body for suspending the red card. “Thank you to Fifa for doing what was right, and reversing a great injustice!” Trump wrote on his Truth Social platform.\n\nFifa’s disciplinary committee said it made the decision in line with Article 27 of the Fifa disciplinary code, which allows it to suspend red cards so long as the discipline is not related to match-fixing. Balogun will be on a probationary period of one year, meaning the red card technically still remains on his record. If, during that year, Balogun commits what the code refers to as “another infringement of a similar nature and gravity”, the striker will serve his one-game ban.\n\nFifa previously used Article 27to clear Cristiano Ronaldoto start the opening games of Portugal’s World Cup after his red card against the Republic of Ireland.\n\nThe Royal Belgian Football Association (RBFA) said in a statement that it was “astonished” at the decision. The RBFA later pointed out that the suspension of the ban ran in contradiction to Fifa statutes governing the punishment for red cards, which carry a one-game ban “automatically”. The RBFA said it was “investigating all potential options”.\n\nManager Rudi GarcialikenedFifa’s decision to an April Fools’ Day joke.\n\n“I didn’t know that 5 July was equal to 1 April [April Fools’ Day] at Fifa,” Garcia said in his native French at a news conference on Sunday. “I think we should refer to the [statement] of my federation, the Belgian federation. I think a lot of things are in it. The federation does not defend itself, it does not defend the national team – it defends football in general. It defends its integrity. It defends its ethics.”\n\nA US Soccer spokesperson said on Sunday that the federation was engaged in the process that ended up clearing Balogun for the last-16 game.\n\nMauricio Pochettinopraised Fifa’s movein a news conference, reiterating his belief that the call to issue a red card to Balogun was harsh.\n\n“Everyone that really loves the sport and trusts ethics and integrity, I think we celebrate all that decision,” Pochettino said. “We were punished enough against Bosnia Herzegovina to play with 10 men for 30 minutes [because of] a decision that was completely unfair. … 99.9% of people agree there was an unfair red card.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-05 @ 19:01:38 EDT",
+  "lastUpdated": "2026-07-06 @ 01:45:35 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
