@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive"
+      "text": "⚽ Belgium unites to enjoy national team’s World Cup success over USA and Trump",
+      "link": "https://www.theguardian.com/football/2026/jul/07/belgium-fans-celebrate-world-cup-usa-donald-trump"
     },
     {
-      "text": "⚽ Fifa accuses Uefa of hypocrisy in latest war of words over Folarin Balogun decision",
-      "link": "https://www.theguardian.com/football/2026/jul/07/fifa-accuses-uefa-hypocrisy-folarin-balogun-world-cup-decision-red-card"
+      "text": "⚽ Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
+      "link": "https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment"
     }
   ],
   "timeline": {
@@ -5646,11 +5646,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1358_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Belgium unites to enjoy national team’s World Cup success over USA and Trump",
+            "bullets": [
+              "Fans across Belgium watched 4-1 win in early hoursVictory ‘a real slap in the face for Trump and Inf...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fans across Belgium watched 4-1 win in early hoursVictory ‘a real slap in the face for Trump and Infantino’Belgium fans reacted with jubilation after the national team trounced the USA in a World Cup game that was overshadowed by the controversy over Donald Trump’s lobbying to overturn the suspension of the striker Falorin Balogun.Belgium’s prime minister, Bart De Wever, has yet to comment on the national team’s triumph, but the official Instagram account of his cat offered a sardonic, albeit indirect sign of satisfaction. Maximus, De Wever’s beloved cat, was shown lying on a rug holding a soft toy in the image of the US president. “I slept really well last night. And you?” reads the speech bubble in Dutch. Continue reading...",
+            "fullText": "Victory ‘a real slap in the face for Trump and Infantino’\n\nBelgium fans reacted with jubilation after the national team trounced the USA in a World Cup game that was overshadowed by the controversy over Donald Trump’s lobbying to overturn the suspension of the striker Falorin Balogun.\n\nBelgium’s prime minister, Bart De Wever, has yet to comment on the national team’s triumph, but the official Instagram account of his cat offered a sardonic, albeit indirect sign of satisfaction. Maximus, De Wever’s beloved cat, was shown lying on a rug holding a soft toy in the image of the US president. “I slept really well last night. And you?” reads the speech bubble in Dutch.\n\nThis article includes content provided byInstagram. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. To view this content,click 'Allow and continue'.\n\nMaximus’s Instagram account, which is managed by De Wever’s team,often strays into political territory, with ironic, albeit oblique comments on fellow politicians or events.\n\nBelgian fans, many clad in national red, yellow and black colours, gathered in large crowds across the country to watch the game, despite the 2am local kick-off time on Tuesday. “The Belgian national team is our national pride, so we have to support them, even at night,” one supporter, Jens Boden, 23, told the newspaper De Standaard from a screening in Kalmthout, near the Dutch border. Reporting from Kalmthout, De Standaard said crowds booed images of the Americans and Gianni Infantino, the president of Fifa, which took the decisionto lift the suspension of Balogun, after Trump’s lobbying. In Brussels, supporters set fire to an American flag.\n\nThe retired Belgium defender Philippe Albert, a centre-back for Newcastle United in the 1990s, described the Red Devils’ victory as “a real slap in the face for Donald Trump and Gianni Infantino”.\n\n“They tried to destabilise a little country, but Belgium has shown that it has a big heart,” Albert, now a football commentator, told the Francophone daily Le Soir. “Despite a far-from-optimal preparation the Devils all responded.”\n\nAmid celebrations, the national team’s social media post after the emphatic 4-1 victory saying“Overturn this”went viral. Also gaining vast numbers of likes and clicks were clips of the teams on-pitch celebrations mocking Donald Trump’s dancing. After Romelu Lukaku scored the final goal for Belgium, the team celebrated by imitating Trump’s stiff arm-shuffling moves to YMCA. The midfielder Axel Witsel was quoted by the Dutch public broadcaster VRT as saying it had been a group idea.\n\nSocial media users also offered memes on Belgium’s victory, from fake images of a dour-looking Donald Trump with his face painted in the victors’ national colours, to theManneken Pis– the emblematic Brussels statute of a peeing boy – urinating into a green-coloured Lincoln Memorial reflecting pool, the Washington landmark that has undergonea botched renovation under the US president.\n\nBelgium’s triumph came on the eve of the Nato summit in Ankara, which De Wever and Trump are due to attend. But the Belgian leader will be on less comfortable ground: Belgium has long been one of the lowest defence spenders in the 32-country alliance, although it has pledged to meet Nato’s 5% of GDP defence spending target. According to Nato’s latest figures, Belgium was expected to meet the 2% spending target in 2025, but the Belga news agency, citing an official report, reported on Monday that Belgium would be spending only 1.93% on defence in 2029.\n\nWhile Belgium’s defence spending is politically contentious, football has long been a unifying force in the country of 11.9 million people, which has three official languages and six parliaments.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1358_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
+            "bullets": [
+              "For much of the star’s career, this tournament has been held as his potential pinnacle. Instead much...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "For much of the star’s career, this tournament has been held as his potential pinnacle. Instead much of the USMNT’s success came without his involvementThere was a clear quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.On its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was what got overwhelming. For eight years, this World Cup co-hosted by the United States has been held up as the possible pinnacle of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold. Continue reading...",
+            "fullText": "For much of the star’s career, this tournament has been held as his potential pinnacle. Instead much of the USMNT’s success came without his involvement\n\nThere was a clear quiver in Christian Pulisic’s voice as he answered the final question posed to him at the 2026 World Cup.\n\nOn its face, the question was straightforward: how did the overall experience of this tournament meet his expectations? The subtext was what got overwhelming. For eight years, thisWorld Cupco-hosted by the United States has been held up as the possible pinnacle of his career and those of his teammates. Every machination of American soccer has operated with signposts displaying “2026” in bold.\n\nThe first of his generation to emerge with the US men’s national team, Pulisic became the face of the program. And when his team needed him most, down two goals an hour into a last-16 contest on Monday, Pulisic wasn’t able to push his team back into contention. A clumsy connection with a Belgium opponent left him with twists in both his ankle and his knee, requiring a substitution.\n\nIn the wake ofa humbling 4-1 defeat, the 2026 World Cup was in his rearview.\n\n“I mean, it exceeded expectations just with it being in America, with the fans, the support that we felt,” Pulisic began before the words became harder to find. “The energy in the games, the way the guys fought and the time we were able to spend together as a group is what I’ll take with me the most. So it was an awesome summer.”\n\nIt’s a sentiment that could double as a scrawl in a high school yearbook, but an awfully incomplete reflection on his role at this tournament. For 45 blistering minutes, in theopening matchagainst Paraguay, Pulisic seemed primed to make the most of his long-awaited star turn. Pulisic created two chances and one resulted in an assist. He completed four dribbles, made several timely tackles and won seven of his 10 duels.\n\nLate in the half, Pulisic seemed to take an innocuous kick in the back of his leg that necessitated a half-time hook. After the match, Pulisicbacked himself to bounce back. That optimism persisted even as he missed the second group-stage game against Australia and came off the bench in the dead-rubber affair with Turkey.\n\nAgainst Bosnia and Herzegovina in the last 32, Pulisic played 88 minutes and led the team with three completed dribbles, but didn’t have the same end product. His sole shot, attempted from just outside the box, was blocked before it could enter the mixer. None of his 23 completed passes led to a shot. Hoping to contribute a signature moment on home soil, he entered the last 16 desperate for that opportunity.\n\nSince Mauricio Pochettino took over and other players have emerged, Pulisic hasn’t needed to be the US’s focal point as often as he was under previous coach Gregg Berhalter. Such as shift seemed it could make him even more effective, without opponents glomming on to his every action. Against Belgium on Monday, Pulisic reverted to some of his former force-things-to-work tendencies. Pulisic lost the ball on 14 occasions before exiting in the 59th minute, per ESPN FC, making him the most dispossessed player from either side.\n\nWith Sergiño Dest struggling mightily in all phases, forcing Pochettino to sub him out at half-time, and Belgium dominating the midfield, Pulisic tried in vain to catalyze up the left flank, where the Americans found success in the group stage. While many viewing at home and in the stadium felt the US was second-best in most situations, especially at claiming loose balls, the Milan winger didn’t share that viewpoint.\n\n“I wouldn’t say we weren’t as aggressive,” Pulisic said. “Belgium had a good gameplan, and they played balls in behind us when we pressed and caused a lot of problems, won a lot of second balls. And they were good in the boxes. That’s where the game comes down to, and they were clinical.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-07 @ 09:15:49 EDT",
+  "lastUpdated": "2026-07-07 @ 13:14:14 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
