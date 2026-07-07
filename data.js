@@ -6,14 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Uefa sees Fifa's decision to lift Folarin Balogun's suspension: \"Incomprehensible\"",
       "link": "https://www.svt.se/sport/fotboll/uefa-sagar-fifas-beslut-att-hava-folarin-baloguns-avstangningobegripligt"
-    },
-    {
-      "text": "⚽ In Arjeplog there are three lakes per inhabitant - S politicians want to see changed beach protection",
-      "link": "https://www.svt.se/nyheter/lokalt/norrbotten/i-arjeplog-finns-tre-sjoar-per-invanare-s-politiker-vill-se-andrat-strandskydd"
-    },
-    {
-      "text": "⚽ The Tiktok profile wants to bring Gambia and Senegal together through football",
-      "link": "https://www.svt.se/nyheter/lokalt/smaland/tiktok-profilen-vill-fora-samman-gambia-och-senegal-genom-fotboll"
     }
   ],
   "timeline": {
@@ -10049,10 +10041,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-07": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_2853_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Uefa sees Fifa's decision to lift Folarin Balogun's suspension: \"Incomprehensible\"",
+            "bullets": [
+              "Fifa lifted the suspension of USA attacking star Folarin Balogun. Now the European football confeder...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifa lifted the suspension of USA attacking star Folarin Balogun. Now the European football confederation, Uefa, believes that Fifa has crossed a line and calls the decision incomprehensible. \"They have crossed a red line\".",
+            "fullText": "Fifa lifted the suspension of the USA's attacking star Folarin Balogun. Now the European football confederation, Uefa, believes that Fifa has crossed a line and calls the decision incomprehensible. \"They have crossed a red line\".\n\nThe decision to have USA star Folarin Balogun in the round of 16, despite the red card that should have resulted in a one-match ban, has sparked strong reactions.\n\nSome of those who have reacted the strongest are the European football confederation, Uefa.\n\n\"Yesterday's decision to postpone the automatic one-match suspension period in the case of Folarin Balogun for one year meant crossing a red line,\" they write in a statement on the organization's website, and continue:\n\n\"Football, just like other sports, is governed by rules in order to have a fair, honest and transparent competition. Sometimes the rules are open to interpretation, but that was not the case in this case.\"\n\n\"The automatic suspension of at least one match after a red card is not something that is optional and is not something that requires a decision by a committee. It is a written rule that you cannot make exceptions to, especially not in the middle of a tournament when several other players have been in the same situation and regularly served their suspensions.\"\n\nFifa has referred to an article in the regulations that gives the adjudicating body the right to postpone or completely remove the enforcement of a disciplinary sanction.\n\nAfter the cancellation, there have been accusations of corruption against Fifa from several quarters. The German Football Association has also demanded that Fifa respond to reports that the suspension was lifted following a conversation between Infantino and Trump.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-06 @ 19:00:27 EDT",
+  "lastUpdated": "2026-07-07 @ 01:28:53 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
