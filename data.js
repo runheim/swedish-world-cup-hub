@@ -8201,6 +8201,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Are we wearing the white or blue kits tomorrow?",
       "time": "14:13",
       "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Ready to make history this summer. Let's go!",
+      "time": "07:52",
+      "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "Just watched the film from training. We look sharp.",
+      "time": "07:53",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "The altitude here is no joke. Lungs are burning!",
+      "time": "07:54",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "07:55",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "07:56",
+      "isCaptain": false
     }
   ]
 };
