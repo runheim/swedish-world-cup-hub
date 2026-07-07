@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Ragged USA crash out of World Cup with last-16 defeat to Belgium",
-      "link": "https://www.theguardian.com/football/2026/jul/06/usa-belgium-world-cup-2026-match-report"
+      "text": "⚽ World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive"
     },
     {
-      "text": "⚽ Uefa has put European football on war footing with Fifa over Balogun decision | Matt Hughes",
-      "link": "https://www.theguardian.com/football/2026/jul/06/uefa-fifa-folarin-balogun-controversy-decision-usa-belgium-gianni-infantino-aleksander-ceferin"
+      "text": "⚽ Fifa accuses Uefa of hypocrisy in latest war of words over Folarin Balogun decision",
+      "link": "https://www.theguardian.com/football/2026/jul/07/fifa-accuses-uefa-hypocrisy-folarin-balogun-world-cup-decision-red-card"
     }
   ],
   "timeline": {
@@ -5606,11 +5606,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1532_0",
+            "category": "usa",
+            "type": "News",
+            "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+            "bullets": [
+              "⚽ News and previews before the final last-16 match-ups⚽ Player guide | Bracketology| Golden Boot | E...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ News and previews before the final last-16 match-ups⚽ Player guide | Bracketology| Golden Boot | Email usLet’s talk about everyone’s favourite subject: England!What a game that was against Mexico, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy. Continue reading...",
+            "fullText": "Bona fide cycling expert, Andy McGrath, has Tour de France stage four here:\n\nAnd equally bona fide tennis expert, Daniel Harris, has the action from SW19 right here:",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1532_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Fifa accuses Uefa of hypocrisy in latest war of words over Folarin Balogun decision",
+            "bullets": [
+              "It says overturning red cards is a common measureNo talk from Uefa before about ‘red line’, Fifa sta...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It says overturning red cards is a common measureNo talk from Uefa before about ‘red line’, Fifa statesFifa has hit back at Uefa in the war of words over the lifting of the USA striker Folarin Balogun’s suspension by accusing it of hypocrisy in its condemnation of the decision.In a statement attributed to the chair of Fifa’s disciplinary committee, Mohammad al-Kamali, published before the USA’s last-16 defeat by Belgium, Fifa insisted that “the overturning of red cards is a common disciplinary measure” in Uefa-affiliated leagues, “yet this has never raised concerns about crossing any ‘red line’”. Continue reading...",
+            "fullText": "No talk from Uefa before about ‘red line’, Fifa states\n\nFifa has hit back at Uefa in the war of words overthe liftingof the USA striker Folarin Balogun’s suspension by accusing it of hypocrisy in itscondemnation of the decision.\n\nIn a statement attributed to the chair of Fifa’s disciplinary committee, Mohammad al-Kamali, published before theUSA’s last-16 defeat by Belgium, Fifa insisted that “the overturning of red cards is a common disciplinary measure” in Uefa-affiliated leagues, “yet this has never raised concerns about crossing any ‘red line’”.\n\nFifa’s statement defended the controversial decision to lift Balogun’s ban, describing it as “a balanced measure” and “nothing new in the modern game”.\n\nUefa accused Fifa in a strongly worded statement on Monday of crossing “a red line” that undermined the integrity of theWorld Cupby permitting Balogun to play against Belgium despite the competition’s rules stating that red cards trigger an automatic one-match suspension.\n\nBalogun’s 11th-hour reprieve after he was sent off in the USA’s last-32 win over Bosnia and Herzegovina is unprecedented in a World Cup, and followed repeatedlobbying of Fifa from Donald Trumpand other senior White House officials.\n\n“Reviewing the legal consequences of red cards in football is nothing new in the modern game,” Fifa said. “For instance, in the majority of top-tier leagues belonging to Uefa-affiliated member associations the overturning of red cards is a common disciplinary measure, yet this has never raised concerns about crossing any ‘red line’.\n\n“And again, it should be emphasised that in the decision under scrutiny, the red card was not overturned. Suspending the effects of a red card based on an explicit provision of the applicable regulations is a much more balanced measure.”\n\nThe statement from al-Kamali did not address Trump’s role, but said the disciplinary committee had acted independently of its executive, which is led by the president, Gianni Infantino.\n\nFifa had been silent on the issue since announcing Balogun would be available to faceBelgiumuntil Trump went public with his involvement, telling a press conference at the Oval Office that he had called Infantino asking for the red card to be reviewed.\n\nInfantino subsequently issued a statement insisting he was not involved in the decision before Fifa published comments from al-Kamali which attempted to clarify the process.\n\n“The Fifa disciplinary committee (as any other Fifa judicial body) is independent as provided by the Fifa statutes and the Fifa disciplinary code,” the statement said. “The chairpersons, deputy chairpersons and other members of the Fifa judicial bodies fulfil the independence criteria as defined in the Fifa governance regulations to ensure their impartiality.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-07 @ 01:14:17 EDT",
+  "lastUpdated": "2026-07-07 @ 09:15:49 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
