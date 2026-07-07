@@ -16,12 +16,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c3wyy0evxn2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive"
+      "text": "⚽ Why Jude Bellingham’s world is bigger than most of us can understand",
+      "link": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders"
+    },
+    {
+      "text": "⚽ Belgium unites to enjoy national team’s World Cup success over USA and Trump",
+      "link": "https://www.theguardian.com/football/2026/jul/07/belgium-fans-celebrate-world-cup-usa-donald-trump"
     },
     {
       "text": "⚽ Best fans at the World Cup? How Colombia’s support powered the team to success",
       "link": "https://www.theguardian.com/football/2026/jul/07/best-fans-at-the-world-cup-how-colombias-support-powered-the-team-to-success"
+    },
+    {
+      "text": "⚽ Wimbledon Day Nine LIVE! Djokovic in action after Osaka is knocked out",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13561071/wimbledon-day-nine-live-scores-updates-news-results-with-novak-djokovic-jannik-sinner-naomi-osaka-coco-gauff-all-in-action"
     }
   ],
   "timeline": {
@@ -21452,11 +21460,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1434_0",
+            "category": "england",
+            "type": "News",
+            "title": "The superstar double act that became England's Wonderwall",
+            "bullets": [
+              "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.",
+            "fullText": "Harry Kane and Jude Bellingham have scored 10 of England's 11 goals at the World Cup\n\nAfter Jude Bellingham opened the scoring for England against Mexico at the Azteca Stadium, he and Harry Kane were the last to peel away from the celebrations.\n\nLeft behind by their team-mates after the first wave of celebrations, the pair stood side by side, arms outstretched as they soaked in the acclaim from the England supporters who had flocked to Mexico City.\n\nIt - along with the teamsinging Wonderwall with fansafter matches - will be one of the defining images of their 2026 World Cup campaign\n\nKane and Bellingham were vital in England'shard-fought 3-2 victory in the last 16and less than two minutes after the opener, the captain supplied the assist for the Real Madrid midfielder to complete a quickfire double that silenced the home supporters.\n\nThen came Kane's moment. With his team a player down, after Jarell Quansah's red card, and Mexico resurgent, the 32-year-old calmly converted from the penalty spot to score what proved to be the winner - few players are more reliable than him from 12 yards out.\n\nEngland are through to the quarter-finals and their fortunes in this tournament look increasingly intertwined with the form and impact Kane and Bellingham are having on the pitch.\n\nErling Haaland and Norway will provide another formidable test for Thomas Tuchel's side when they meet in Miami on Saturday. But just how dependent are England's World Cup ambitions on their dynamic duo?\n\nWhere does Mexico win rank among England's best results?\n\nWho produced another iconic performance? England player ratings\n\nBetween them, the duo have accounted for 10 of England's 11 goals at the World Cup - Marcus Rashford scored the other one as a substitute to seal their 4-2 win against Croatia in the opener.\n\nIt means Kane (six goals) and Bellingham (four) have contributed a remarkable 90.9% of the team's total attacking output.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1435_1",
+            "category": "england",
+            "type": "News",
+            "title": "James expected to return for Norway quarter-final",
+            "bullets": [
+              "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final ag...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final against Norway on Saturday.",
+            "fullText": "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final against Norway on Saturday (22:00 BST).\n\nTuchel's right-back crisis intensified afterJarell Quansah's red card in Sunday's 3-2 win over Mexico,meaning the Bayer Leverkusen defender is suspended for England's next knockout tie in Miami.\n\nJames is yet to return to full training having suffered a hamstring injury in the second group match against Ghana, and he has missed the games against Panama, DR Congo and Mexico.\n\nBut there is emerging hope the 26-year-old can ease England's problems at right-back by returning to full training this week.\n\nAfter Quansah's red card in the 54th minute in Mexico City, Ezri Konsa - who has started all of England's games at centre-back - finished as a right wing-back.\n\nOver five matches, James, Djed Spence, Konsa, John Stones, Quansah and midfielder Declan Rice have all appeared as right-sided defenders at various points, while, in the build-up to the tournament,Tino Livramento suffered a calf injury.\n\nKonsa and Spence remain options for Tuchel, but the expected availability of James will come as a welcome piece of news given the Chelsea captain is recognised as England's first-choice right-back.\n\nWhere does Mexico win rank among England's best results?\n\nWho produced another iconic performance? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1435_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tottenham to bid for Kroupi - Tuesday gossip",
+            "bullets": [
+              "Tottenham to target Bournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a p...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham to target Bournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a potential White replacement for Arsenal, plus more.",
+            "fullText": "Tottenhamto targetBournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a potential White replacement forArsenal.\n\nTottenhamwill testBournemouth'sresolve with an Â£85m bid for French forward Eli Junior Kroupi, despite the Cherries insistence that the 20-year-old is not for sale. (Talksport,external)\n\nAtletico Madridwill look to replace Antoine Griezmann with formerLiverpoolstar Mohammed Salah, 33, who is currently at the World Cup with Egypt. (Fichajes - in Spanish,external)\n\nArsenalhave addedWest Hamand DR Congo right-back Aaron Wan-Bissaka, 28, to their list of potential replacements for Ben White, should the England international leave this summer. (Teamtalk,external)\n\nLiverpoolhave joinedChelseaandManchester Unitedin the race forWest Ham's Dutch attacker Crysencio Summerville, 24. (Caught Offside,external)\n\nOne of Andoni Iraola's early tasks asLiverpoolboss will be to hold off interest from Old Trafford and Europe to sign 17-year-old Mexican international midfielder Gilberto Mora, who plays his domestic football forClub Tijuana. (Teamtalk,external)\n\nChelseawill hand England under-19 international Jesse Derry, 19, a new contract to ward off interest fromBayern Munich. (Football Insider,external)\n\nWolvesare interested in signing midfielder Niko Sigur, 22, fromHadjuk Splitafter he featured at the World Cup for Croatia. (Sky Sports,external)\n\nSpain international Dani Carvajal, 34, could join newly promotedDeportivo La Corunaafter leaving Real Madrid. (Fichajes - in Spanish,external)\n\nStoke Cityare interested in signing striker Daniel Karlsbakk from Norwegian top flight clubSarpsborg 08.The 23-year-old has scored 24 goals in 44 Eliteserien games since moving from Heerenveen.(Pete O'Rourke),external\n\nMillwallhave enquired about the availability ofPeterborough Unitedforward Kyrell Lisbie. The 22-year-old son of former Charlton striker Kevin signed a new contract with Posh in April which takes him through to 2030.(Sky Sports),external\n\nBoltonandSheffield Unitedhave joinedPortsmouthin the race to signPlymouth Argylestriker Bim Pepple. The 23-year-old scored 18 goals in 41 appearances in all competitions for Argyle last season.(The News),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1435_3",
+            "category": "england",
+            "type": "News",
+            "title": "Why Jude Bellingham’s world is bigger than most of us can understand",
+            "bullets": [
+              "The prodigy who has it all has ambitions to play James Bond but for the time being he is more remini...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak DjokovicThere has never been an English footballer quite like Jude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Paul Scholes, but that doesn’t come close to covering it. There are endless layers to Bellingham, the boy who has it all. He can be the No 8, the No 9 or the No 10. He has the flair of Glenn Hoddle and the chest-out bravado of Paul Gascoigne, but he also has the bravery of Bryan Robson, the rampaging qualities of Steven Gerrard and, as Mexico discovered at the Estadio Azteca, the ability to morph into the world’s best defender and drag his team out of the mire with a goal-saving challenge.More? Bellingham has film-star looks, can charm like David Beckham and, given how much he has achieved, does not sound ridiculous when he says his post-retirement ambition is to play James Bond. Continue reading...",
+            "fullText": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic\n\nThere has never been an English footballer quite likeJude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Paul Scholes, but that doesn’t come close to covering it. There are endless layers to Bellingham, the boy who has it all. He can be the No 8, the No 9 or the No 10. He has the flair of Glenn Hoddle and the chest-out bravado of Paul Gascoigne, but he also has the bravery of Bryan Robson, the rampaging qualities of Steven Gerrard and, as Mexico discovered at the Estadio Azteca, the ability to morph into the world’s best defender and drag his team out of the mire with a goal-saving challenge.\n\nMore? Bellingham has film-star looks, can charm like David Beckham and, given how much he has achieved, does not sound ridiculous when he says his post-retirement ambition is to play James Bond.\n\nThe 23-year-old’s world is bigger than most of us can begin to understand. He made his debut for Birmingham City when he was 16 and was so good they retired his shirt number. He was outstanding on his tournament debut for England, scoring againstIran at the last World Cup. He is a European champion with Real Madrid and, because of his precociousness as a teenager, can leave you thinking he is wise beyond his years.\n\nPerhaps that has made us expect too much from him. There are times during games when he can infuriate his fans. He flew out of the traps at Euro 2024, thundering in a header whenEngland beat Serbiain their opening game, but consistency eluded him. The big moment, the “Who else?”overhead kick against Slovakia, came at the end of an otherwise poor performance from Bellingham, who often struggled to hide his frustration on the pitch and sometimes appeared not to be on the same wavelength as the team’s other big players.\n\nBut Bellingham was 20 at the start of that tournament – his birthday is 29 June. He was a kid, albeit one with the world at his feet. The problem, if that is the right word, is that from the outside there appeared to be contradictions to his character. Here was a megastar who oozed intelligence in interviews with English broadcasters after Madrid’s Champions League games. He was insightful, engaging and capable of razor-sharp tactical analysis, and yet he also remained slightly unknowable. Bellingham is distant from mainstream written media, has spent much of his career outsideEngland, and came across as an unsympathetic figure at Euro 2024 whenever he tried too hard to be the hero or wasted energy on arguing with referees.\n\nIt turned into something of a PR crisis, fuelled by Thomas Tuchel’s infamous “repulsive” comment last year. Perhaps some of us misunderstood Bellingham’s personality. For a while I worried there was a risk of him holding England back. Looking back, I misjudged Bellingham. Although it is true that Tuchel wanted to establish a hierarchy that had Harry Kane and Declan Rice as the leaders of England’s dressing room, it was a mistake to think it would be productive to attempt to change Bellingham’s nature.\n\nThe point is that ego is part of what makes him different and special. It does not, however, come close to making him a bad person or a bad teammate. It is not only Jordan Henderson who says Bellingham is a great kid. There are plenty of stories about him from people with no skin in the game who say how brilliant he is when he meets an awestruck young fan.\n\nBut there are times when you see Bellingham struggle to contain that enormous will to win. He has been inspirational at thisWorld Cup, scoring four goals in five games, but he almost boiled over when England were 1-0 down to the Democratic Republic of the Congo in the last 32. Bellingham does not really do stoicism. Part of the fascination is the nuance. Here we have a massive patriot who somehow manages to come across as quite un-English in how much he wants to win, how much adversity fires him up and how much he wants you to know that he really is the main character.\n\nWatch Bellingham and you will see someone with zero interest in pretending he is anything other than a genius. Try to compare him to another athlete and the one who most comes to mind is Novak Djokovic, another one who can smile and charm a crowd but also turn into a pantomime villain or transform into something terrifying and unstoppable when confronted with someone who isn’t rooting for him. You want the other guy to win? Too bad, because I’m going to beat him.\n\nThat Djokovic streak was evident in the way Bellingham relished walking into the Azteca bearpit whenEngland faced Mexico in the last 16 on Sunday. He ran to the corner and stood with arms outstretched after scoring the first of his two goals. He wanted the crowd’s animosity because it brought out the best in him. This was pure aura; this was Bellingham letting everyone know there was no way he was losing this game.\n\nBellingham was immense on and off the ball against Mexico. During his rise there have been echoes of the tennis prodigy to him; the young star competing in an individual sport and forced to deal with the pressure of doing it alone. For England, the challenge has been harnessing that tendency to be a soloist, the yearning to be the match-winner, and make it an effective weapon in a team game. Tuchel has found the way forward. After a testy start to their relationship, he has given Bellingham clarity. He has understood this is a rare talent. He has his No 10.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1435_4",
+            "category": "england",
+            "type": "News",
+            "title": "Belgium unites to enjoy national team’s World Cup success over USA and Trump",
+            "bullets": [
+              "Fans across Belgium watched 4-1 win in early hoursVictory ‘a real slap in the face for Trump and Inf...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fans across Belgium watched 4-1 win in early hoursVictory ‘a real slap in the face for Trump and Infantino’Belgium fans reacted with jubilation after the national team trounced the USA in a World Cup game that was overshadowed by the controversy over Donald Trump’s lobbying to overturn the suspension of the striker Falorin Balogun.Belgium’s prime minister, Bart De Wever, has yet to comment on the national team’s triumph, but the official Instagram account of his cat offered a sardonic, albeit indirect sign of satisfaction. Maximus, De Wever’s beloved cat, was shown lying on a rug holding a soft toy in the image of the US president. “I slept really well last night. And you?” reads the speech bubble in Dutch. Continue reading...",
+            "fullText": "Victory ‘a real slap in the face for Trump and Infantino’\n\nBelgium fans reacted with jubilation after the national team trounced the USA in a World Cup game that was overshadowed by the controversy over Donald Trump’s lobbying to overturn the suspension of the striker Falorin Balogun.\n\nBelgium’s prime minister, Bart De Wever, has yet to comment on the national team’s triumph, but the official Instagram account of his cat offered a sardonic, albeit indirect sign of satisfaction. Maximus, De Wever’s beloved cat, was shown lying on a rug holding a soft toy in the image of the US president. “I slept really well last night. And you?” reads the speech bubble in Dutch.\n\nThis article includes content provided byInstagram. We ask for your permission before anything is loaded, as they may be using cookies and other technologies. To view this content,click 'Allow and continue'.\n\nMaximus’s Instagram account, which is managed by De Wever’s team,often strays into political territory, with ironic, albeit oblique comments on fellow politicians or events.\n\nBelgian fans, many clad in national red, yellow and black colours, gathered in large crowds across the country to watch the game, despite the 2am local kick-off time on Tuesday. “The Belgian national team is our national pride, so we have to support them, even at night,” one supporter, Jens Boden, 23, told the newspaper De Standaard from a screening in Kalmthout, near the Dutch border. Reporting from Kalmthout, De Standaard said crowds booed images of the Americans and Gianni Infantino, the president of Fifa, which took the decisionto lift the suspension of Balogun, after Trump’s lobbying. In Brussels, supporters set fire to an American flag.\n\nThe retired Belgium defender Philippe Albert, a centre-back for Newcastle United in the 1990s, described the Red Devils’ victory as “a real slap in the face for Donald Trump and Gianni Infantino”.\n\n“They tried to destabilise a little country, but Belgium has shown that it has a big heart,” Albert, now a football commentator, told the Francophone daily Le Soir. “Despite a far-from-optimal preparation the Devils all responded.”\n\nAmid celebrations, the national team’s social media post after the emphatic 4-1 victory saying“Overturn this”went viral. Also gaining vast numbers of likes and clicks were clips of the teams on-pitch celebrations mocking Donald Trump’s dancing. After Romelu Lukaku scored the final goal for Belgium, the team celebrated by imitating Trump’s stiff arm-shuffling moves to YMCA. The midfielder Axel Witsel was quoted by the Dutch public broadcaster VRT as saying it had been a group idea.\n\nSocial media users also offered memes on Belgium’s victory, from fake images of a dour-looking Donald Trump with his face painted in the victors’ national colours, to theManneken Pis– the emblematic Brussels statute of a peeing boy – urinating into a green-coloured Lincoln Memorial reflecting pool, the Washington landmark that has undergonea botched renovation under the US president.\n\nBelgium’s triumph came on the eve of the Nato summit in Ankara, which De Wever and Trump are due to attend. But the Belgian leader will be on less comfortable ground: Belgium has long been one of the lowest defence spenders in the 32-country alliance, although it has pledged to meet Nato’s 5% of GDP defence spending target. According to Nato’s latest figures, Belgium was expected to meet the 2% spending target in 2025, but the Belga news agency, citing an official report, reported on Monday that Belgium would be spending only 1.93% on defence in 2029.\n\nWhile Belgium’s defence spending is politically contentious, football has long been a unifying force in the country of 11.9 million people, which has three official languages and six parliaments.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1435_5",
+            "category": "england",
+            "type": "News",
+            "title": "Best fans at the World Cup? How Colombia’s support powered the team to success",
+            "bullets": [
+              "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backing that has shocked opponents so farMexico City, Guadalajara, Miami, Kansas City – Colombia’s World Cup journey has gradually been heading north for three weeks. Thousands of their supporters now descend on Vancouver looking to see Néstor Lorenzo’s side try to reach their first quarter-final in 12 years when they face Switzerland on Tuesday. After Mexico and the United States, “yellow fever” is about to hit Canada.This sort of fan migration, which has filled host cities with vibrant colour and joy, has not been seen since that last quarter-final in 2014, when Colombia supporters travelled in massive numbers to Brazil, not only owing to its proximity but also to the fact that the selección had not qualified for a World Cup for almost a generation before. James Rodríguez, the breakout star of that tournament, addressed the fans before travelling to North America as captain this year as there had been trouble when Colombia were in the US for the 2024 Copa América. Continue reading...",
+            "fullText": "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backing that has shocked opponents so far\n\nMexico City, Guadalajara, Miami, Kansas City – Colombia’sWorld Cupjourney has gradually been heading north for three weeks. Thousands of their supporters now descend on Vancouver looking to see Néstor Lorenzo’s side try to reach their first quarter-final in 12 years when they face Switzerland on Tuesday. After Mexico and the United States, “yellow fever” is about to hit Canada.\n\nThis sort of fan migration, which has filled host cities with vibrant colour and joy, has not been seen since that last quarter-final in 2014, whenColombiasupporters travelled in massive numbers to Brazil, not only owing to its proximity but also to the fact that theselecciónhad not qualified for a World Cup for almost a generation before. James Rodríguez, the breakout star of that tournament, addressed the fans before travelling to North America as captain this year as there had been trouble when Colombia were in the US for the 2024 Copa América.\n\n“They should know that we always give everything and that this positive energy – in the right spirit, by posting on social media as well – is contagious,” said Rodríguez. “You feel it and I simply ask them to bring those good vibes, keep them going and that they do things properly.”\n\nRodríguez has not been able to impose himself on this World Cup. He was substituted at half-time of the last-32 victory against Ghana in Kansas City, where the Colombia team came out on to the balcony of their hotel to be serenaded by supporters the night before the game, with some of the players visibly moved. And that was in Kansas City, where there is not a large Colombian population. Luis Díaz, the talisman in Rodríguez’s place this tournament, posted on social media: “Thank you for your support. You are incredible!”\n\nFollowing Colombia at the World Cup is a family affair. Juan Carlos Mila, 54, had never been to one before but this year he has travelled to North America with his wife and their children, who have brought their partners too. They flew to Mexico City for the opener against Uzbekistan before returning to Colombia having not managed to get tickets for the next group fixture against the Democratic Republic of the Congo in Guadalajara.\n\nOnce they reached the US, they went all in, renting a minivan to zigzag across the country. They’ve racked up 7,000 miles on the road, taking in the game in Miami against Portugal and then the knockout tie against Ghana in Kansas City. From there, they are heading for New York, where they hope to see Lorenzo’s side in the final.\n\n“We brought T-shirts,vueltiaoshats, caps, Colombia flags,” says Mila. “My kids, being entrepreneurs, started selling them. It all helps to pay for the vehicle rental, petrol, food, hotels. I asked them if they were embarrassed by having to do this and they said: ‘No, Dad, it’s embarrassing if you get caught stealing. Why would we be embarrassed?’”\n\nMila and his family have also made an effort to stand out in the stadiums. “We made a flag that is around six metres long and cut six holes into it,” he says. “We put our heads through the holes. The flag says ‘Colombia Mundial 2026’.”\n\nThe level of Colombia’s support has surprised their opponents. “This is the first game that we’re playing ‘away from home’, so to speak,” said Roberto Martínez before his Portugal side played Colombia. “There is a huge number of Colombia fans here in Miami, so it will be a big challenge to control the game and be ourselves in these surroundings, keeping our emotions in check.”\n\nThe Ghana manager, Carlos Queiroz, was also taken aback. The Portuguese coach was in charge of Colombia between 2019 and 2020 but was never in the dugout for a competitive match with fans owing to the Covid pandemic. “Colombia have [good] players, passion and incredible fans,” he said after Ghana were knocked out at a Kansas City Stadium packed full of yellow shirts. “They started to win the game after the anthem. They were stronger with 60,000 people on their side and it affects an inexperienced team. I felt some of my Ghana players were not calm because Colombia’s 12th man did a very good job.”\n\nInterestingly, though, the Colombia shirt has become an issue of controversy back home. The start of the World Cup coincided with the second round of voting in presidential elections. Abelardo de la Espriella, the rightwing candidate who is now president-elect, appeared in public wearing a Colombia shirt and his left-wing rival, Iván Cepeda, took issue with it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1437_6",
+            "category": "england",
+            "type": "News",
+            "title": "Wimbledon Day Nine LIVE! Djokovic in action after Osaka is knocked out",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "Get the latest scores, updates, news, results at Wimbledon, which runs from June 29 - July 12; watch ATP and WTA action live on Sky Sports' dedicated tennis channel",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-07 @ 09:09:20 EDT",
+  "lastUpdated": "2026-07-07 @ 13:14:39 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
