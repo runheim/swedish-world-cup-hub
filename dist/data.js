@@ -4,48 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ The superstar double act that became England's Wonderwall",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ James expected to return for Norway quarter-final",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2xxl6772no?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ How England used five mini games to beat Mexico",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx113327eyo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ How England's epic night at the Azteca unfolded",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9q225nn0dqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Tottenham to bid for Kroupi - Tuesday gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/c3wyy0evxn2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel claims World Cup refereeing ‘not good enough’ but says England have belief to go all the way",
-      "link": "https://www.theguardian.com/football/2026/jul/06/thomas-tuchel-england-mexico-norway-world-cup-2026"
+      "text": "⚽ World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/07/world-cup-2026-usa-bounced-out-by-belgium-after-balogun-furore-backlash-against-fifa-builds-argentina-egypt-colombia-switzerlandlive"
     },
     {
-      "text": "⚽ ‘Everyone’s pumped up’: John Stones on the mentality helping England chase World Cup dream",
-      "link": "https://www.theguardian.com/football/2026/jul/06/john-stones-england-thomas-tuchel-world-cup-dream"
-    },
-    {
-      "text": "⚽ Sandro Tonali seals £92.5m move to Tottenham on back of ‘magic’ sales pitch",
-      "link": "https://www.theguardian.com/football/2026/jul/06/sandro-tonali-seals-move-to-tottenham-newcastle-transfer-window"
-    },
-    {
-      "text": "⚽ Football Daily | England’s altitude era defies World Cup history and encourages ‘another shot’",
-      "link": "https://www.theguardian.com/football/2026/jul/06/football-daily-email-england-gwc-mexico"
-    },
-    {
-      "text": "⚽ Fury vs AJ could be at Wembley with later start time",
-      "link": "https://www.skysports.com/boxing/news/12040/13561091/tyson-fury-vs-anthony-joshua-fight-can-take-place-at-wembley-stadium-if-authorities-agree-to-later-start-time-says-turki-alalshikh"
-    },
-    {
-      "text": "⚽ Wimbledon order of play: Gauff, Djokovic, Sinner and Osaka all in action Tuesday",
-      "link": "https://www.skysports.com/tennis/news/12040/13557578/wimbledon-2026-order-of-play-and-match-schedule-for-centre-court-no-1-court-no-2-court-and-more"
-    },
-    {
-      "text": "⚽ Jude Bellingham tells England fans to pull a sickie",
-      "link": "https://www.telegraph.co.uk/football/2026/07/06/england-celebrate-finest-win-foreign-soil-mexico-reaction/"
+      "text": "⚽ Best fans at the World Cup? How Colombia’s support powered the team to success",
+      "link": "https://www.theguardian.com/football/2026/jul/07/best-fans-at-the-world-cup-how-colombias-support-powered-the-team-to-success"
     }
   ],
   "timeline": {
@@ -21385,11 +21361,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0915_0",
+            "category": "england",
+            "type": "News",
+            "title": "The superstar double act that became England's Wonderwall",
+            "bullets": [
+              "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.",
+            "fullText": "Harry Kane and Jude Bellingham have scored 10 of England's 11 goals at the World Cup\n\nAfter Jude Bellingham opened the scoring for England against Mexico at the Azteca Stadium, he and Harry Kane were the last to peel away from the celebrations.\n\nLeft behind by their team-mates after the first wave of celebrations, the pair stood side by side, arms outstretched as they soaked in the acclaim from the England supporters who had flocked to Mexico City.\n\nIt is one of the defining images of their 2026 World Cup campaign.\n\nKane and Bellingham were vital in England'shard-fought 3-2 victory in the last 16and less than two minutes after the opener, the captain supplied the assist for the Real Madrid midfielder to complete a quickfire double that silenced the home supporters.\n\nThen came Kane's moment. With his team a player down, after Jarell Quansah's red card, and Mexico resurgent, the 32-year-old calmly converted from the penalty spot to score what proved to be the winner - few players are more reliable than him from 12 yards out.\n\nEngland are through to the quarter-finals and their fortunes in this tournament look increasingly intertwined with the form and impact Kane and Bellingham are having on the pitch.\n\nErling Haaland and Norway will provide another formidable test for Thomas Tuchel's side when they meet in Miami on Saturday. But just how dependent are England's World Cup ambitions on their dynamic duo?\n\nWhere does Mexico win rank among England's best results?\n\nWho produced another iconic performance? England player ratings\n\nBetween them, the duo have accounted for 10 of England's 11 goals at the World Cup - Marcus Rashford scored the other one as a substitute to seal their 4-2 win against Croatia in the opener.\n\nIt means Kane (six goals) and Bellingham (four) have contributed a remarkable 90.9% of the team's total attacking output.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0915_1",
+            "category": "england",
+            "type": "News",
+            "title": "James expected to return for Norway quarter-final",
+            "bullets": [
+              "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final ag...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final against Norway on Saturday.",
+            "fullText": "England manager Thomas Tuchel expects Reece James to be available for the World Cup quarter-final against Norway on Saturday (22:00 BST).\n\nTuchel's right-back crisis intensified afterJarell Quansah's red card in Sunday's 3-2 win over Mexico,meaning the Bayer Leverkusen defender is suspended for England's next knockout tie in Miami.\n\nJames is yet to return to full training having suffered a hamstring injury in the second group match against Ghana, and he has missed the games against Panama, DR Congo and Mexico.\n\nBut there is emerging hope the 26-year-old can ease England's problems at right-back by returning to full training this week.\n\nAfter Quansah's red card in the 54th minute in Mexico City, Ezri Konsa - who has started all of England's games at centre-back - finished as a right wing-back.\n\nOver five matches, James, Djed Spence, Konsa, John Stones, Quansah and midfielder Declan Rice have all appeared as right-sided defenders at various points, while, in the build-up to the tournament,Tino Livramento suffered a calf injury.\n\nKonsa and Spence remain options for Tuchel, but the expected availability of James will come as a welcome piece of news given the Chelsea captain is recognised as England's first-choice right-back.\n\nWhere does Mexico win rank among England's best results?\n\nWho produced another iconic performance? England player ratings",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0915_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tottenham to bid for Kroupi - Tuesday gossip",
+            "bullets": [
+              "Tottenham to target Bournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a p...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham to target Bournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a potential White replacement for Arsenal, plus more.",
+            "fullText": "Tottenhamto targetBournemouth's Kroupi, Atletico Madrid a possible home for Salah, Wan-Bissaka a potential White replacement forArsenal.\n\nTottenhamwill testBournemouth'sresolve with an Â£85m bid for French forward Eli Junior Kroupi, despite the Cherries insistence that the 20-year-old is not for sale. (Talksport,external)\n\nAtletico Madridwill look to replace Antoine Griezmann with formerLiverpoolstar Mohammed Salah, 33, who is currently at the World Cup with Egypt. (Fichajes - in Spanish,external)\n\nArsenalhave addedWest Hamand DR Congo right-back Aaron Wan-Bissaka, 28, to their list of potential replacements for Ben White, should the England international leave this summer. (Teamtalk,external)\n\nLiverpoolhave joinedChelseaandManchester Unitedin the race forWest Ham's Dutch attacker Crysencio Summerville, 24. (Caught Offside,external)\n\nOne of Andoni Iraola's early tasks asLiverpoolboss will be to hold off interest from Old Trafford and Europe to sign 17-year-old Mexican international midfielder Gilberto Mora, who plays his domestic football forClub Tijuana. (Teamtalk,external)\n\nChelseawill hand England under-19 international Jesse Derry, 19, a new contract to ward off interest fromBayern Munich. (Football Insider,external)\n\nWolvesare interested in signing midfielder Niko Sigur, 22, fromHadjuk Splitafter he featured at the World Cup for Croatia. (Sky Sports,external)\n\nSpain international Dani Carvajal, 34, could join newly promotedDeportivo La Corunaafter leaving Real Madrid. (Fichajes - in Spanish,external)\n\nStoke Cityare interested in signing striker Daniel Karlsbakk from Norwegian top flight clubSarpsborg 08.The 23-year-old has scored 24 goals in 44 Eliteserien games since moving from Heerenveen.(Pete O'Rourke),external\n\nMillwallhave enquired about the availability ofPeterborough Unitedforward Kyrell Lisbie. The 22-year-old son of former Charlton striker Kevin signed a new contract with Posh in April which takes him through to 2030.(Sky Sports),external\n\nBoltonandSheffield Unitedhave joinedPortsmouthin the race to signPlymouth Argylestriker Bim Pepple. The 23-year-old scored 18 goals in 41 appearances in all competitions for Argyle last season.(The News),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0915_3",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: USA bounced out by Belgium after Balogun furore; backlash against Fifa builds – live",
+            "bullets": [
+              "⚽ News and previews before the final last-16 match-ups⚽ Player guide | Bracketology| Golden Boot | E...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ News and previews before the final last-16 match-ups⚽ Player guide | Bracketology| Golden Boot | Email usLet’s talk about everyone’s favourite subject: England!What a game that was against Mexico, by the way. I feel asleep about 1am (BST), woke up with England winning 2-1, just before Quansah got sent off and all hell broke loose. England’s defending in the final 20 minutes or so was an absolute work of art (thank you Dan Burn), even if Mexico’s attacking play lacked a certain amount of imagination. A magnificent performance by the players, not to mention Thomas Tuchel, who I feared had gone too early with the: ‘Play a back five, and just hack the ball anywhere’ strategy. Continue reading...",
+            "fullText": "That is me done for today.Luke McLaughlinis back in the hot seat.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0916_4",
+            "category": "england",
+            "type": "News",
+            "title": "Best fans at the World Cup? How Colombia’s support powered the team to success",
+            "bullets": [
+              "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backing that has shocked opponents so farMexico City, Guadalajara, Miami, Kansas City – Colombia’s World Cup journey has gradually been heading north for three weeks. Thousands of their supporters now descend on Vancouver looking to see Néstor Lorenzo’s side try to reach their first quarter-final in 12 years when they face Switzerland on Tuesday. After Mexico and the United States, “yellow fever” is about to hit Canada.This sort of fan migration, which has filled host cities with vibrant colour and joy, has not been seen since that last quarter-final in 2014, when Colombia supporters travelled in massive numbers to Brazil, not only owing to its proximity but also to the fact that the selección had not qualified for a World Cup for almost a generation before. James Rodríguez, the breakout star of that tournament, addressed the fans before travelling to North America as captain this year as there had been trouble when Colombia were in the US for the 2024 Copa América. Continue reading...",
+            "fullText": "Néstor Lorenzo’s side face Switzerland in Vancouver on Tuesday and will be hoping for the same backing that has shocked opponents so far\n\nMexico City, Guadalajara, Miami, Kansas City – Colombia’sWorld Cupjourney has gradually been heading north for three weeks. Thousands of their supporters now descend on Vancouver looking to see Néstor Lorenzo’s side try to reach their first quarter-final in 12 years when they face Switzerland on Tuesday. After Mexico and the United States, “yellow fever” is about to hit Canada.\n\nThis sort of fan migration, which has filled host cities with vibrant colour and joy, has not been seen since that last quarter-final in 2014, whenColombiasupporters travelled in massive numbers to Brazil, not only owing to its proximity but also to the fact that theselecciónhad not qualified for a World Cup for almost a generation before. James Rodríguez, the breakout star of that tournament, addressed the fans before travelling to North America as captain this year as there had been trouble when Colombia were in the US for the 2024 Copa América.\n\n“They should know that we always give everything and that this positive energy – in the right spirit, by posting on social media as well – is contagious,” said Rodríguez. “You feel it and I simply ask them to bring those good vibes, keep them going and that they do things properly.”\n\nRodríguez has not been able to impose himself on this World Cup. He was substituted at half-time of the last-32 victory against Ghana in Kansas City, where the Colombia team came out on to the balcony of their hotel to be serenaded by supporters the night before the game, with some of the players visibly moved. And that was in Kansas City, where there is not a large Colombian population. Luis Díaz, the talisman in Rodríguez’s place this tournament, posted on social media: “Thank you for your support. You are incredible!”\n\nFollowing Colombia at the World Cup is a family affair. Juan Carlos Mila, 54, had never been to one before but this year he has travelled to North America with his wife and their children, who have brought their partners too. They flew to Mexico City for the opener against Uzbekistan before returning to Colombia having not managed to get tickets for the next group fixture against the Democratic Republic of the Congo in Guadalajara.\n\nOnce they reached the US, they went all in, renting a minivan to zigzag across the country. They’ve racked up 7,000 miles on the road, taking in the game in Miami against Portugal and then the knockout tie against Ghana in Kansas City. From there, they are heading for New York, where they hope to see Lorenzo’s side in the final.\n\n“We brought T-shirts,vueltiaoshats, caps, Colombia flags,” says Mila. “My kids, being entrepreneurs, started selling them. It all helps to pay for the vehicle rental, petrol, food, hotels. I asked them if they were embarrassed by having to do this and they said: ‘No, Dad, it’s embarrassing if you get caught stealing. Why would we be embarrassed?’”\n\nMila and his family have also made an effort to stand out in the stadiums. “We made a flag that is around six metres long and cut six holes into it,” he says. “We put our heads through the holes. The flag says ‘Colombia Mundial 2026’.”\n\nThe level of Colombia’s support has surprised their opponents. “This is the first game that we’re playing ‘away from home’, so to speak,” said Roberto Martínez before his Portugal side played Colombia. “There is a huge number of Colombia fans here in Miami, so it will be a big challenge to control the game and be ourselves in these surroundings, keeping our emotions in check.”\n\nThe Ghana manager, Carlos Queiroz, was also taken aback. The Portuguese coach was in charge of Colombia between 2019 and 2020 but was never in the dugout for a competitive match with fans owing to the Covid pandemic. “Colombia have [good] players, passion and incredible fans,” he said after Ghana were knocked out at a Kansas City Stadium packed full of yellow shirts. “They started to win the game after the anthem. They were stronger with 60,000 people on their side and it affects an inexperienced team. I felt some of my Ghana players were not calm because Colombia’s 12th man did a very good job.”\n\nInterestingly, though, the Colombia shirt has become an issue of controversy back home. The start of the World Cup coincided with the second round of voting in presidential elections. Abelardo de la Espriella, the rightwing candidate who is now president-elect, appeared in public wearing a Colombia shirt and his left-wing rival, Iván Cepeda, took issue with it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-07 @ 01:13:28 EDT",
+  "lastUpdated": "2026-07-07 @ 09:09:20 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
