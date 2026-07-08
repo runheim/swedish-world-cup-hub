@@ -10199,11 +10199,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2250_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "He previously stabbed the victim in the heart with a knife - received seven years in prison",
+            "bullets": [
+              "A man in his 30s is suspected of having caused the death of Swedish policeman Christian Zedig during...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A man in his 30s is suspected of having caused the death of Swedish policeman Christian Zedig during the screening of a football World Cup match in Copenhagen. The suspect has previously served a long prison sentence for stabbing a man in the heart with a knife outside a nightclub in Copenhagen. That time the victim was minutes from dying.",
+            "fullText": "A man in his 30s is suspected of having caused the death of Swedish policeman Christian Zedig during the screening of a football World Cup match in Copenhagen.\n\nThe suspect has previously served a long prison sentence for stabbing a man in the heart with a knife outside a nightclub in Copenhagen.\n\nThe suspect turned himself in to the police on Friday, after the police issued a wanted picture. He was detained for 26 days, suspected of causing the death of off-duty Swedish policeman Christian Zedig at Islands Brygge in Copenhagen on 30 June.\n\nThe suspect denies any crime - but has previously been convicted of serious violence.\n\nAccording to a judgment in the Landsreten, Denmark's equivalent to the Court of Appeal, which SVT has seen, he attacked a man with a knife after a fight outside a nightclub in Copenhagen in 2016.\n\nHe stabbed the man in the chest with an eight-centimeter folding knife. The stab went through the chest wall and into the right heart chamber. According to the verdict, the victim was in mortal danger.\n\nDuring the trial, forensic expertise stated that without immediate medical attention the victim would not have survived, the heart stopped for one to two minutes and the victim lost a lot of blood.\n\nThe district court upheld the district court's verdict and sentenced the man to seven years in prison.\n\nAccording to the Danish newspaper B.Thar, the man was also convicted of several rapes in 2014.\n\nAccording to information, the man and his family came from an African country to Denmark in the mid-1990s, when the suspected perpetrator was about a year old.\n\nLast week, the man surrendered to the Copenhagen police. He denies any wrongdoing.\n\n\"The case at Islands Brygge is still under investigation. Among other things, it is about clarifying the specific circumstances surrounding the violence that was perpetrated against the 32-year-old Swedish citizen, who died on Saturday, including whether there were more perpetrators,\" writes the Copenhagen police in a comment.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-08 @ 00:41:31 EDT",
+  "lastUpdated": "2026-07-08 @ 08:22:50 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
