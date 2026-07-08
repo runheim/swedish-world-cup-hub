@@ -10,10 +10,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Pochettino’s future uncertain as US Soccer weighs next move after World Cup exit",
       "link": "https://www.theguardian.com/football/2026/jul/07/mauricio-pochettino-us-soccer-future-world-cup-2026-talks"
-    },
-    {
-      "text": "⚽ Christian Pulisic’s World Cup of TV stardom and ‘little glimpses’ ends in disappointment",
-      "link": "https://www.theguardian.com/football/2026/jul/07/christian-pulisic-usmnt-world-cup-disappointment"
     }
   ],
   "timeline": {
@@ -5788,10 +5784,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-08": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3935_0",
+            "category": "usa",
+            "type": "News",
+            "title": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay",
+            "bullets": [
+              "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infant...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainmentFrites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right after all. Football has united the world. Mainly football has united the world in gleeful satisfaction at the USA exiting its own World Cup tournament as soon as possible following the great and glorious Donald Trump Mr-Fix-It intervention.This was the tone of the immediate global reaction to the USA’s invertebrate defeat in Seattle on Monday night, soundly beaten by a righteous and highly motivated Belgium: land of beer, waffles and sporting vigilante justice. Ghent 4 Bent 1. Antwerp 4 A twerp 1. Mayonnaise 4 May-have-interfered-in-due-process 1. I can go on. How long have you got? Continue reading...",
+            "fullText": "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainment\n\nFrites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right after all. Football has united the world. Mainly football has united the world in gleeful satisfaction at theUSA exiting its own World Cuptournament as soon as possible following the great and gloriousDonald Trump Mr-Fix-It intervention.\n\nThis was the tone of the immediate global reaction to the USA’sinvertebrate defeat in Seattleon Monday night, soundly beaten by a righteous and highly motivated Belgium: land of beer, waffles and sporting vigilante justice. Ghent 4 Bent 1. Antwerp 4 A twerp 1. Mayonnaise 4 May-have-interfered-in-due-process 1. I can go on. How long have you got?\n\nSo far much of the domestic US response has focused on an interesting but essentially irrelevant part of this, albeit one with a natural appeal to the polarised heart of the nation. Did the noise around Trump’s intervention, the admission, which is denied byFifa, of prima facie attempted sporting corruption over Folarin Balogun’s ban (Trump’s exact words: “I was the one who got them to do it”) deplete the team’s chances?\n\nWas this a case of Trump Exposed Reactor Core Phenomenon, a term I have just invented for the dynamic whereby Trump melts everything he touches while remaining indestructibly in place, still burping his dark energy into the skies?\n\nIt is easy to clear this one up. The defeat was simple. Ignore the host nation hype and the USA team is inferior to Belgium in almost every position. If Leandro Trossard was American he’d be on a million billboards eating crisps and talking about his global legacy. Even the aged Romelu Lukaku, largely immobile now, appearing at the edge of your vision as though someone has trundled a soviet-era statue on to the pitch on a set of roller skates, is still smart enough to out-aura the USA defence.\n\nTrump has no bearing on these sporting facts. But his intervention is still profound. It is, as ever, necessary to block out the zone-flooding noise and focus on the actual story. Which is not Trump, out there simply being Trump. The real issue is Gianni Infantino and Fifa, the live note in a genuinely jaw-dropping sporting scandal.\n\nDictators always look unassailable while they’re dictating. But who knows, this might even be the first significant note of Infantino’s own endgame, the moment football’s great preening waxwork power-gargoyle flew just a bit too close to the sun and began to melt inside his own blue suit.\n\nThe Trump aspect is important, but can also be dealt with quite quickly. In the end he just couldn’t keep those ferreting hands off this thing. Last week I wrote an article aboutTrump’s unexpected invisibilityacross the opening three weeks of this World Cup, during which he attended no games and made no significant pronouncements.\n\nIt had to be a strategy. In the buildup Trump had been all over theWorld Cuplike an overly friendly estate agent standing too close in the lift, breathing down its neck, fondling the trophies, toying with the attentions of the Fifa president, who spent 18 months chasing him around like a lovesick nine-year-old, offering a friendship bracelet, a peace prize, a magical ball.\n\nHere Trump sat on those hands for three weeks, fighting the urge, taking a leaf out of the Putin 2018 playbook of just letting the show happen, the colour and sugar flood the zone while … Oh hang on, where’s he gone?\n\nFast forward five days and the thing has now happened. Trump has treated the World Cup like the women in his infamous Access Hollywood “locker-room banter”. And there will be damage here, a price to be paid.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3935_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino’s future uncertain as US Soccer weighs next move after World Cup exit",
+            "bullets": [
+              "Pochettino awaits talks over future with US teamFederation backs coach but leaves door openSpend any...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino awaits talks over future with US teamFederation backs coach but leaves door openSpend any time around US men’s national team head coach Mauricio Pochettino and you’ll likely notice a medallion hanging from a bracelet on his right wrist. It is emblazoned with an engraving of Saint Christopher, the patron saint of travelers.It’s a detail that feels appropriate for Pochettino, or any high-level manager, really, all of whom are inherently nomadic. The Argentinian has enjoyed stability at a handful of stops but has also done his share of moving, having shepherded five different clubs prior to his arrival in the United States about 22 months ago. Continue reading...",
+            "fullText": "Spend any time around US men’s national team head coachMauricio Pochettinoand you’ll likely notice a medallion hanging from a bracelet on his right wrist. It is emblazoned with an engraving of Saint Christopher, the patron saint of travelers.\n\nIt’s a detail that feels appropriate for Pochettino, or any high-level manager, really, all of whom are inherently nomadic. The Argentinian has enjoyed stability at a handful of stops but has also done his share of moving, having shepherded five different clubs prior to his arrival in the United States about 22 months ago.\n\nAt the time, he was very much perceived as a short-term hire, an experienced, big-name coach brought in to help build excitement and ensure a respectable performance ahead of a homeWorld Cup. The US were subsequently eliminated in the last 16, as they have been in their previous three appearances. It was not all bad – the US were unquestionably entertaining until their 4-1 crashout – but in the end, it was the same old song and dance.\n\nWhich raises fresh questions about Pochettino’s future, already a point of discussion in recent weeks. Pochettino and his representatives have been actively engaged in talks with US Soccer, with the federation havingextended an offerahead of the World Cup.\n\nIn the days leading up to the tournament, both sides suggested they’d wait til after the World Cup to make any decisions. That time has now come, and Pochettino addressed his future to the assembled media after the US’s elimination on Monday.\n\n“I think now it’s about resting a little bit,” Pochettino said. “To think, to have conversation and then to see what the decision is from the federation and from us. But I am so happy, we have built a very good relationship, but now is not a moment to talk about that. I think now is a moment to sit, to assess the tournament and for sure in the next weeks, we can start to talk – if the federation wants to talk.”\n\nThough Pochettino did not offer anything conclusive in regards to his future with the US, he did do his best to lobby for his body of work, suggesting the US had steadily improved under his direction.\n\n“With good things and not so good things,” Pochettino said when asked for his thoughts by the Guardian, “it was amazing, this journey. It still hasn’t been two years working here. And we all know that a process is about a four-year cycle. Today I think we closed the chapter about assessing players, playing in that competition that is so difficult. I think now we have a complete assessment from a lot of players, and if we commit to be here in the future, we have a clear idea of our decisions for the future – before it was very difficult.”\n\nPochettino, as he has done in the past, also cited the state of the program on his arrival as a reference point for the progress he and his staff have made during their stay.\n\n“All the circumstances that you know were so difficult to manage,” Pochettino said, “In terms of the legacy, with or without us, the legacy on the group of players and the group of staff is the perfect mindset [they have] now. It is amazing to keep growing. I don’t think the difficult job is done, but we settled the principles for the future, to be very successful. I know that when we took charge, that job, it was really tough in the way we found the situation.”\n\nOn Tuesday, US Soccer said in a statement: “We had positive conversations with Mauricio before the World Cup about the future. We agreed we would continue those conversations following a chance to rest and reflect post World Cup. We have a great deal of respect and gratitude for Mauricio, his staff and everyone part of the program. We have shared excitement about our potential and also shared clarity about the amount of work at all levels still required to achieve our ambition.”\n\nMany US supporters have grown fond of Pochettino, as much for his candor as anything else. After a slow start, he proved an effective hype man for the US men, seemingly growing into that part of the job as he went along. He is generally liked by players and staff but has had his struggles, as well, at times finding it difficult to adapt to the differing level of importance placed on the sport of soccer in the US. By and large, he has made incremental progress.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-07 @ 19:02:40 EDT",
+  "lastUpdated": "2026-07-08 @ 00:39:48 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
