@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ England players granted day off after Mexico win",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx24re32r4lo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ The World Cup stars who could have played for England",
       "link": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,16 +20,28 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ World Cup 2026: Egypt fury after Argentina win thriller, injured Henderson staying with England – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/08/world-cup-2026-egypt-fury-after-argentina-win-thriller-switzerland-triumph-in-shootout-live"
+    },
+    {
+      "text": "⚽ Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+    },
+    {
+      "text": "⚽ No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil",
+      "link": "https://www.theguardian.com/football/2026/jul/08/how-norway-made-sport-fun-kids-built-football-team-beat-brazil-world-cup"
+    },
+    {
       "text": "⚽ Refereeing at this World Cup has been fine, we don’t need input of Tuchel and Trump | Chris Foy",
       "link": "https://www.theguardian.com/football/2026/jul/08/refereeing-world-cup-fine-input-tuchel-trump-comment"
     },
     {
-      "text": "⚽ Morocco set a proud example for Africa as France await at World Cup",
-      "link": "https://www.theguardian.com/football/2026/jul/08/morocco-proud-example-africa-france-world-cup"
+      "text": "⚽ From Hart to Seedorf to Kewell: standout pundits of the 2026 World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/08/standout-pundits-2026-world-cup-joe-hart-clarence-seedorf-harry-kewell"
     },
     {
-      "text": "⚽ Why Jude Bellingham’s world is bigger than most of us can understand",
-      "link": "https://www.theguardian.com/football/2026/jul/07/genius-jude-bellingham-becoming-one-of-englands-leaders"
+      "text": "⚽ Fury vs AJ must start at 1am if fight is staged at Wembley",
+      "link": "https://www.skysports.com/boxing/news/12040/13561717/tyson-fury-vs-anthony-joshua-fight-must-start-at-1am-if-wembley-stadium-is-to-host-british-heavyweight-blockbuster"
     }
   ],
   "timeline": {
@@ -21930,11 +21946,187 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3926_0",
+            "category": "england",
+            "type": "News",
+            "title": "England players granted day off after Mexico win",
+            "bullets": [
+              "England manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as the squad recharged after their euphoric win over Mexico.",
+            "fullText": "England face Norway in their World Cup quarter-final on Saturday\n\nEngland manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as the squad recharged after their euphoric win over Mexico.\n\nThe team were allowed to leave their hotel in Prairie Village, near Kansas City, with many of them using the opportunity to spend time with their loved ones away from their World Cup camp.\n\nThe pass from Tuchel extended into the evening with many having dinner with their partners before returning to camp for the team's first training session on Wednesday as they prepare for the World Cup quarter final against Norway on Saturday.\n\nTuchel has given his players two days off since Sunday's 3-2 win in Mexico City - a result and performance that many have described as England's best World Cup performance since the final of 1966.\n\nBut there have been concerns about how mentally and physically taxing the game at the Azteca Stadium - coupled with the four games prior to the win over Mexico - has been for the players given the game was played in high altitude.\n\nSources have indicated the team's final training session ahead of the game versus Mexico was mainly a walkthrough of the team's shape rather than any physical exertion with Tuchel increasingly aware of conserving energy heading into the latter stages of the tournament.\n\nIndeed, Tuchel is hopeful that allowing his players to unwind away from the team camp on Tuesday will ease the strain on his squad ahead of the clash versus the Norwegians in Miami.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3926_1",
+            "category": "england",
+            "type": "News",
+            "title": "The World Cup stars who could have played for England",
+            "bullets": [
+              "While there is no shortage of talent in the England squad, a number of World Cup stars from other na...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While there is no shortage of talent in the England squad, a number of World Cup stars from other nations could have featured for the Three Lions if things had worked out differently.",
+            "fullText": "Antoine Semenyo, Erling Haaland and Michael Olise were all eligible to play for England\n\nErling Haaland will be the man England fear most when they face Norway in the World Cup quarter-finals on Saturday (22:00 BST) - but things could have been very different.\n\nThe Manchester City striker was born in Leeds, so would be lining up for the Three Lions if he had opted to represent the country of his birth. But he isn't the only one.\n\nThere are a number of World Cup stars who could have played for England, but are representing other countries.\n\nAnd, interestingly, 20 of the 26 players in Thomas Tuchel's squad for this World Cup were eligible to play for other nations - but committed to England.\n\nBBC Sport has selected a team of players from this tournament who slipped through the Three Lions' net - have your say and let us know if there is anyone you think we have missed in the comments section.\n\nSwitzerland goalkeeper Marvin Keller, 23, was born in London but came through the youth system at Grasshoppers.\n\nHe moved on to FC Wil and more recently Young Boys, where he has become their first-choice keeper - and made his only Switzerland appearance so far in a pre-World Cup friendly.\n\nWest Ham defender Aaron Wan-Bissaka, who was born in London, represented England at under-20 and under-21 levels but switched international allegiance to DR Congo in 2025.\n\nThe 28-year-old was called up by England in September 2019 but was forced to withdraw with an injury.\n\nAntonee Robinson was born in Milton Keynes and raised on Merseyside, where he came through the ranks at Everton before moving on to Wigan and Fulham.\n\nHis father was born in England but raised in New York and gained American citizenship.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3926_2",
+            "category": "england",
+            "type": "News",
+            "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+            "bullets": [
+              "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Ger...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Gerrard and Roy Keane displays",
+            "fullText": "Wayne Rooney believes Jude Bellingham's performance against Mexico was reminiscent of heroic Champions League displays from Steven Gerrard and Roy Keane.\n\nEngland midfielder Bellingham, 23, scored twice in 98 seconds as Thomas Tuchel's sidebeat Mexico 3-2despite finishing with 10 men in an epic World Cup clash at the Azteca.\n\nThe hard-fought victory set up a quarter-final tie with Norway as England go in search of their first major trophy since winning the tournament in 1966.\n\nFormer Three Lions striker Rooney likened Bellingham's performance to Gerrard's in helping Liverpool come from 3-0 down in the 2005 Champions League final against AC Milan and Keane's renowned display against Juventus to inspire Manchester United to reach the 1999 European Cup final.\n\n\"I said Jude Bellingham was going to have a game when we're going to need him to drag us through,\" ex-United and Everton forward Rooney said on hisBBC podcast.\n\n\"You look at Steven Gerrard against AC Milan in the 2005 Champions League final. Roy Keane against Juventus for Manchester United. They dragged the teams through them games.\n\n\"I felt like that was Bellingham's one with them two goals - the timing of the goals, his desire, his work rate, his hunger.\"\n\nGerrard scored the first goal as Liverpool came from 3-0 down at half-time to beat AC Milan in Istanbul on penalties and lift the trophy while Keane also scored against Juventus as United overturned a 3-1 aggregate deficit in an inspired display despite knowing a yellow card had ruled him out of the final that year.\n\nRooney rated Bellingham's performance in the last-16 victory in Mexico's capital as a '10 out of 10' given the 'pitfalls' which surrounded the game.\n\nThe Real Madrid star also pulled off a brilliant last-ditch tackle to deny Mexico defender Cesar Montes a goal that would have made it 2-2 on the stroke of half-time.\n\n\"At times defensively he's not always in the right positions, but his desire to get back and put that last-minute tackle in and help his team-mates when they're not maybe having the best game was everything,\" added Rooney.\n\n\"I just felt when you get asked to mark them out of 10, you're looking, thinking - could he have done a little bit more to get that mark up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3926_3",
+            "category": "england",
+            "type": "News",
+            "title": "England players to get hoarding warning after freak Henderson injury",
+            "bullets": [
+              "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffer...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+            "fullText": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury in the aftermath of their World Cup victory over Mexico.\n\nBrentford midfielder Henderson isexpected to have surgeryon the wrist injury he suffered while celebrating England's 3-2 win in the Azteca Stadium.\n\nThat would mean he is a major doubt for the rest of the tournament.\n\nHenderson, 36, landed awkwardly on his arm as he tried to hurdle the advertising hoardings during England's celebrations, and was taken from the field on a stretcher.\n\nIt is understood manager Thomas Tuchel is set to instruct his players to avoid jumping over the hoardings to ensure there is no repeat.\n\n\"Jordan just fell over and injured his wrist,\" Tuchel told BBC One after the match.\n\n\"It looks really bad. It's a quite serious injury and it doesn't fit to the evening that Jordan is now not with us. The doctor told me he is in hospital.\"\n\nHenderson - accompanied by a member of England's medical team - remained in hospital in Mexico City on Sunday evening did not travel back with the squad to their base in Kansas City.\n\nHow superstar double act became England's Wonderwall",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3927_4",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Egypt fury after Argentina win thriller, injured Henderson staying with England – live",
+            "bullets": [
+              "⚽ All the latest as we look ahead to the quarter-finals⚽ Player guide | Bracketology| Golden Boot | ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest as we look ahead to the quarter-finals⚽ Player guide | Bracketology| Golden Boot | Email usPerhaps Lionel Messi could do with a look at this video – our own Nikhita Chulani sifts the data in search of the perfect penalty.Just in, from AP. Continue reading...",
+            "fullText": "Marc Guehi, Reece James and Declan Rice did not train with the England squad on Wednesday, instead following individual programmes away from the rest of the group.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3927_5",
+            "category": "england",
+            "type": "News",
+            "title": "Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
+            "bullets": [
+              "The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournamentThis has been the World Cup of characters, bold fashion statements, and bantz: we’ve had Thomas Tuchel rubber-banding around the England dressing room like a teen at his first all-ages rave, and Iván Barton booting Miguel Almirón from the field as if sentencing him to death. Mauricio Pochettino and his $500 overshirt have brought fresh energy and inspiration to the wardrobes of convex middle-aged men the world over. Jokester Javier Aguirre’s avuncular “fuck you” at Anthony Gordon has pushed bilateral relations between Mexico and England to their warmest point since the British-brokered peace that ended the Pastry War of 1839.Erling Haaland has shown it’s possible to be Jaws in front of goal and Scooby Doo once the ball is in the back of the net, that there’s nothing about football so important that it can’t make way for some silly bit of online comedy. Even Harry Kane, a man who often seems like he was media trained in the womb, has squeaked thrillingly, if briefly, to life. Continue reading...",
+            "fullText": "The Frenchman is a footballer, flautist and a thespian. There’s no question he is the most thrilling and compelling figure at this year’s tournament\n\nThis has been the World Cup of characters, bold fashion statements, and bantz: we’ve had Thomas Tuchelrubber-bandingaround the England dressing room like a teen at his first all-ages rave, and Iván Barton booting Miguel Almirón from the fieldas if sentencing him to death. Mauricio Pochettino and his $500 overshirt have brought fresh energy and inspiration to the wardrobes of convex middle-aged men the world over. Jokester Javier Aguirre’s avuncular “fuck you” at Anthony Gordon has pushed bilateral relations between Mexico and England to their warmest point since the British-brokered peace that ended thePastry Warof 1839.\n\nErling Haaland has shown it’s possible to beJawsin front of goal andScooby Dooonce the ball is in the back of the net, that there’s nothing about football so important that it can’t make way for some silly bit of online comedy. Even Harry Kane, a man who often seems like he was media trained in the womb, has squeaked thrillingly,if briefly, to life.\n\nAnd then, of course, there’s the player who lords over it all, the man whose mastery of his own game, temperament, and speech is as serene as his arms, in celebration of a goal, are folded. People have been making fun of Kylian Mbappé since he was a kid, and he’s been having the last laugh almost as long. As a three-year-old growing up in the Parisianbanlieue, Mbappé wouldsing the Marseillaise with hand on heart, and draw indulgent giggles whenever he announced – as he would often – that he was destined to play for France; he’s now the leading goalscorer in French football history. His parents’ friends once bought him a model of the Bernabéu in teasing response to his claims that he would play for Real Madrid; he’s now Madrid’s most important player. On Saturday, Mbappé spent the final minutes of a bruising last-16 encounter against Paraguay, in which he scored the decisive penalty, sauntering around the pitch with a big, stupid smile on his face. Wherever this man treads in the world of football, the result is always the same: Mbappé wins.And he’s laughing!\n\nBy this point, we’re all familiar with the qualities that make Mbappé such an irrepressible force on the field: the whistling speed, the bulldog power, the footwork so magnetic it seems to generate its own weather. In French they call every top player a “crack,” and no one fits the onomatopoeia better than Mbappé. Lean and savage, he is the whip personified, a man so fast he’s already outrun one of his own surnames: once Mbappé Lottin, now he is simply Mbappé. The past four weeks have extended and deepened our appreciation of these talents. Referee view, the technological innovation that has exposed spectators to a thousand different varieties of male forearm hair, has allowed us to understand the degree to which the speed and violence of Mbappé’s game also come with a kind ofpickpocketing nonchalance, how every demonstration of strength is simultaneously an expression of the most feathery mercy. Mbappé’s kills are nothing if not quick: he’s the cat and the raptor, the fox and the mongoose.\n\nAt this World Cup Mbappé has transformed from the complete footballing package into a total cultural product, his supremacy off the field equaling his majesty on it. Thedictator memesgotgoingin earnest on the eve of the tournament, and have only accelerated since; they are now so pervasive that Didier Deschamps felt the need topoint outthat his captain is not in fact a despot, but a player who is loved and cherished by his teammates. Deschamps doesn’t strike me as the funniest man at work in France today, so it’s no surprise he’s missed that the Mobutu comparisons –gleefully embracedby Mbappé’s own teammates – burnish rather than hurt the great on-field generalissimo’s reputation. To become a source text online is modern culture’s highest compliment; to be memed is to be godly. The great players who’ve come before Mbappé – Messi, Ronaldo, even Zidane – were simply too tepid to warrant this treatment. Kyks Baps is the leader of a new generation so bursting with personality and life that it has finally given the world’s online pranksters something to work with.\n\nAnd he is much more than that, of course – so much more. French footballing culture values verbal excellence as highly as the stepover, the nutmeg, and the roulette; this is a country, after all, that gathers the professional football academies together for an annual eloquence competition at the presidential palace. Mbappé, who was staging his own dummy press conferences from the age of five, has always been one of the sport’s great talkers. But at this tournament he has reached new heights, his thoughts and ex tempore impressions on everything from football’sstylistic evolution(“It’s always the team that wins that is right”) to his teammates’ “liberation of space” and the ever-vexing question of hydration breaks (“Don’t ask players for their opinion, we’re like weather vanes”) bursting forth from that aerodynamic bobsled of a head with skiddy, urgent authority. He’s also been steadfast in his defense of Deschamps, who remains a curiously divisive figure in France despite all his success – memorablydescribinghis coach as a joker, a friend, and a “disciplinarian dad” all at once.\n\nFor a player guided by destiny, Mbappé has always had an unusually keen sense of his own ridiculousness. As a teenager, after his classmates made fun of the top he wore to school, heshowed up the next dayin flared jeans and velcro running shoes (not the kind of thing one wore as an aspirationally fashionable teen in Paris in the early 2010s), expanding the joke so that he too could be in on the fun. “Je suis beau, madame?” he asked his French teacher as he posed in his flares. Am I beautiful? At a press conference during the European Championships in 2024, having sparked controversy in France with his call to vote against the extreme right in that year’s legislative elections, Mbappé fielded a question from a reporter who identified himself as sitting to the player’s “extreme left.” Without missing a beat, Mbappéreplied: “Good thing you weren’t on the other side.”\n\nRarely if ever has football seen a player who’s this aware of his own press, or this prepared to embrace his own capacity for polarization. If Michael Jordan lived by the rule that “Republicans buy sneakers too”, Mbappé appears quite happy with a world in which acolytes of the far right go shoeless. It’s perhaps no surprise, at this World Cup, that Mbappé’s most forceful public intervention has been avolcanic denunciationof the Paraguayan senator who launched a racist attack against him after her country’s defeat toLes Bleusin the round of 16. “Madame Celeste Amarilla, you are a despicable woman”, Mbappe’s statementbegan; “I will never allow people like her the freedom to spread their hatred and racism across the world,” it ended, with a satisfying clank. After years of dreary neutrality and deflection among the global sporting elite, Mbappé’s refreshing embrace of political combat feels like emerging into a new geological era. The Ronaldocene is over; the Mbappécene begins.\n\nThe deeply felt sense of principle, the unabashed intellectualism, the attention to the importance of words amid the ongoing mastery of gestures: what forces, exactly, have combined to construct this remarkable personality, to make the myth of Mbappé? “It’s a question of education”, the man himself once said. Mbappé was, by all accounts, a restless child, but his parents did everything in their means to give him the tools to control his superabundance of energy: he had a dedicated psychologist from the seventh grade, there were flute and theatre lessons, and then of course there was football too.\n\nThe family home in Bondy, a suburb of northeastern Paris, was a block away from the Stade Léo-Lagrange, a small but well equipped municipal football stadium. This World Cupbeganwith 56 players from Paris – more than from any other city on Earth. There’s been much discussion over the past few weeks about thebanlieue– the extramural belt in which the vast majority of Paris’s 13 million residents live,and from whichvirtually all of its great footballers have emerged. Bondy is the chernozem of modern French football; Mbappé’s teammate William Saliba also grew up in the neighborhood, as did many other professional footballers past and present. What is it that has made thebanlieue parisiennesuch a formidable factory of footballing talent: is it density, public subsidization of sport, the design of social housing, the size of the pitches, the often fractious chemistry between migrant communities and mainstream French culture?\n\nIt’s all of these, probably, but Bondy reveals another aspect of this urban biome that’s worth paying attention to. Within walking distance of the stadium where Mbappé became a footballer, amid the discount home goods stores and the drab prefabricated apartment blocks and the many football fields, you will find awhimsical public housing developmentwhose cylindrical towers are all clad in brightly glazed tile; aswooping Oscar Niemeyer-designed Brutalist masterpiecethat serves as the localbourse du travail, a center for mutual aid and worker organization; and a public swimming center named after Belgian singer Jacques Brel. Nothing better captures the constraining promise of the Frenchbanlieue, its strange power as a laboratory of footballing talent, than this one square mile grid of monotony, amenity, solidarity, and ambition.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3927_6",
+            "category": "england",
+            "type": "News",
+            "title": "No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil",
+            "bullets": [
+              "Country’s model prioritises joy while offering choice – and Erling Haaland’s World Cup exploits show...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Country’s model prioritises joy while offering choice – and Erling Haaland’s World Cup exploits show that it worksAt full time, the arithmetic felt wrong. A team from a country of 5.5 million people, back at a World Cup after 28 years away, had just beaten the five-time champions to reach a first quarter-final.During Norway’s victory over Brazil on Sunday there was little between the fast feet of Vinícius Júnior and the raw power of Erling Haaland. But look at how that pair and others on the two teams were raised and a different story emerges. Neymar, Matheus Cunha and Vinícius grew up in a system that prioritises prodigies – spotting talent early and fast-tracking it through academies built around a single sport. Haaland, Martin Ødegaard and Antonio Nusa grew up inside something altogether different. Continue reading...",
+            "fullText": "Country’s model prioritises joy while offering choice – and Erling Haaland’s World Cup exploits show that it works\n\nAt full time, the arithmetic felt wrong. A team from a country of 5.5 million people, back at aWorld Cupafter 28 years away, had just beaten the five-time champions to reach a first quarter-final.\n\nDuringNorway’s victory over Brazilon Sunday there was little between the fast feet of Vinícius Júnior and the raw power of Erling Haaland. But look at how that pair and others on the two teams were raised and a different story emerges. Neymar, MatheusCunha and Vinícius grew up in a system that prioritises prodigies – spotting talent early and fast-tracking it through academies built around a single sport. Haaland, Martin Ødegaard and Antonio Nusa grew up inside something altogether different.\n\nThat is because in 2007 the Norges idrettsforbund (NIF), Norway’s governing body for sport, revised the eight “rights” it had first adopted in 1987 to protect the participation, safety and joy of every child playing sport. The rules are mandatory for every coach and club registered with the NIF, and they read like heresy to those embedded in the talent-funnel culture found almost everywhere else in world sport.\n\nUnder the age of nine, children play only local club matches. There are no results lists, no league tables and no trophies. Regional competition opens at age 11, though scores and rankings stay off limits. Only at 13 can a Norwegian athlete take part in anything resembling a national championship.\n\nOf the eight rights, two buck the trend of the sporting tiger parent culture: mastery and freedom to choose – the idea that a child has a right to try multiple sports rather than being funnelled into a single discipline before they are old enough to have chosen it themselves. For the gifted youngsters, there is the benefit of bringing the skills of each into whichever one they settle on.\n\nHaaland is the framework’s most famous graduate. He was six when the rules were revised and, as his father, Alf-Inge, told Manchester City’s website, spent the next eight years involved in handball, athletics and cross-country skiing as well as football. Norway’s handball setup reportedly wanted him before he chose football at 14.\n\nWatch his goals with that in mind: a leap for the header that owes something to a childhood spent jumping to release a shot in the handball goal area and a strike that has the coiled, unhurried power of someone who learned to generate force efficiently, the way a skier does on a mountain that punishes wasted movement. None of it replaces the football training since, but the sports he wasn’t rushed out of are plausibly still in his legs.\n\nAlexander Sørloth, who leads the line alongside Haaland, spent his Trondheim childhood between football, handball and speed skating. He is, like Haaland, the son of athletes: a father who played for Norway at the 1994 World Cup, a mother who competed at handball. Two of Norway’s most physically imposing forwards arrived at football only after years spent learning to move in other ways.\n\nNorway’s goalkeeper, Ørjan Håskjold Nyland, was 17 when the rules arrived and so was not shaped by them, but stands as proof the law did not invent this instinct, but formalise it. Nyland grew up with handball and alpine skiing alongside football, long before he settled in goal.\n\nAgainst Brazil, that upbringing perhaps showed when it mattered: a penalty saved with the lateral spring of a skier, then, with Norway ahead but not yet safe, a goal-bound deflection off KristofferAjer was clawed away with the kind of contorted, mid-air movement you would expect from a handball player.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3927_7",
+            "category": "england",
+            "type": "News",
+            "title": "Refereeing at this World Cup has been fine, we don’t need input of Tuchel and Trump | Chris Foy",
+            "bullets": [
+              "Give or take the odd error, officials have got it right on most occasions, while VAR has helped them...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Give or take the odd error, officials have got it right on most occasions, while VAR has helped them when they haven’tThomas Tuchel was critical of the refereeing at the World Cup after England’s win against Mexico, describing it as unreliable, erratic and not good enough. His comments struck me as reverse psychology – the referees have generally been OK, with some positive decisions made, but there have also been occasions when they have not got things right. Like everyone, referees cannot be perfect.Egypt claimed they were victims of an injustice against Argentina on Tuesday but the decisions to disallow an Egypt goal and let Argentina’s winner stand were correct. On the first one there was a foul by Marwan Attia on Lisandro Martínez in the attacking possession phase – a shirt pull and studs on Martínez’s right foot – and there is no time limit or ceiling on the number of passes to be taken into account. Continue reading...",
+            "fullText": "Give or take the odd error, officials have got it right on most occasions, while VAR  has helped them when they haven’t\n\nThomas Tuchel wascritical of the refereeingat the World Cup afterEngland’s win against Mexico, describing it as unreliable, erratic and not good enough. His comments struck me as reverse psychology – the referees have generally been OK, with some positive decisions made, but there have also been occasions when they have not got things right. Like everyone, referees cannot be perfect.\n\nEgypt claimed they werevictims of an injusticeagainst Argentina on Tuesday but the decisions to disallow an Egypt goal and letArgentina’s winnerstand were correct. On the first one there was a foul by Marwan Attia on Lisandro Martínez in the attacking possession phase – a shirt pull and studs on Martínez’s right foot – and there is no time limit or ceiling on the number of passes to be taken into account.\n\nOne important factor is the ball kept moving forward, with no lateral or backwards passes, until the ball was in the net. It could have been one of the goals of the tournament but the simple fact is it was right to disallow it.\n\nFor Argentina’s late third goal Egypt felt there was a foul by Julián Alvarez on Mohamed Salah. People are drawing comparisons between that and the earlier incident because there is boot-on-boot contact, but it is a different situation. Alvarez plays the ball and there is then slight contact which does not meet the threshold for a foul or video assistant referee intervention.\n\nThe VAR did make an important intervention in the Mexico-England match – Jarell Quansah’s tackle on Jesús Gallardo was a red-card offence and I was surprised this was not picked up on-field by the referee, Alireza Faghani. After the VAR rightly recommended a review we got the correct outcome.\n\nTuchel was upset at a number of decisions that night. It was never going to be an easy assignment for the referee, what with the hype, weather conditions and the game being at the Azteca Stadium. But some of the players did not help by taking very little responsibility. They were feigning injury, showing dissent and questioning nigh-on every decision – and when the Quansah challenge happened the whole Mexico bench emptied out angrily. England reacted, and that got messy.\n\nTo hear England are considering an appeal against Quansah’s red card is surprising, butthe Folarin Balogun situationhas completely changed things. Historically there has been no scope for an appeal against a red card at a tournament, with a one-match ban automatically applied. I had never heard of Article 27 of the Fifa disciplinary code, which Fifa says it used to suspend the USA striker’s sanction.\n\nBalogun’s sending-off was certainly supportable with the help of the video assistant. When I saw his challenge on Tarik Muharemovic of Bosnia and Herzegovina in real time I wasn’t sure whether it was a red-card offence, but it was for me on a replay, even if there was no malice. The clue was where the ball was, because it was not at a playable distance.\n\nWhen you consider a possible red-card offence for a challenge, there are two key elements to think about: excessive force and endangering the safety of an opponent. With Balogun’s challenge the point of contact was on the calf, continued down the calf on to the achilles and caused an ankle roll. That could have caused serious injury.\n\nThe intervention of Donald Trumpand Tuchel’s comments mean there is heightened noise around refereeing. As a referee you have to ignore that, and in elite officiating sports psychologists are there to help. I was never the best at getting rid of a bad decision – it would stay in my system for three to four days – but that’s different from letting it affect your performance. You have to be boring, and focus on the here and now.\n\nThere have been 13 red cards at thisWorld Cup, after four at each of the previous two, but I don’t think there can be too many complaints. Player safety is paramount and Quansah and Balogun are a good example of where to draw the line. VAR has been used correctly for red cards not given on the field.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3927_8",
+            "category": "england",
+            "type": "News",
+            "title": "From Hart to Seedorf to Kewell: standout pundits of the 2026 World Cup",
+            "bullets": [
+              "We pick six of the best analysts to feature at the World Cup in North America on screens in the UK, ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "We pick six of the best analysts to feature at the World Cup in North America on screens in the UK, US and AustraliaJoe Hart There’s long been a feeling that, when it comes to punditry, only goalkeepers should talk about goalkeepers given the unique nature of the role. That view will have been strengthened by Hart’s appearances during this World Cup. The former England No 1 has been an authoritative voice on all things shot-stopping, providing the sort of insight and analysis only a man who has been there, done that and worn the gloves can. Highlights include his flagging of keepers getting a hand to long-range efforts but not being able to keep them out and how this definitely wasn’t normal, and how a subtle left-sided weight emphasis was the reason Jordan Pickford was done at his near post for the Democratic Republic of the Congo’s goal against England in Atlanta. This sort of thing, allied to passionate yet crisp oratory, has made Hart a big asset for the BBC, whose decision to stay at home has meant it needs as much punch as it can get. Sachin Nakrani Continue reading...",
+            "fullText": "We pick six of the best analysts to feature at the World Cup in North America on screens in the UK, US and Australia\n\nJoe HartThere’s long been a feeling that, when it comes to punditry, only goalkeepers should talk about goalkeepers given the unique nature of the role. That view will have been strengthened by Hart’s appearances during thisWorld Cup. The former England No 1 has been an authoritative voice on all things shot-stopping, providing the sort of insight and analysis only a man who has been there, done that and worn the gloves can. Highlights include his flagging of keepers getting a hand to long-range efforts but not being able to keep them out and how this definitely wasn’t normal, and how a subtle left-sided weight emphasis was the reason Jordan Pickford was done at his near post for the Democratic Republic of the Congo’s goal against England in Atlanta. This sort of thing, allied to passionate yet crisp oratory, has made Hart a big asset for the BBC, whose decision to stay at home has meant it needs as much punch as it can get.Sachin Nakrani\n\nRoy KeaneI’ve generally not been a fan of Keane as a pundit, but fair play to the former Republic of Ireland captain, he’s been a top watch from his chair in front of ITV’s stunning New York backdrop. There’s been the usual scathing takes and emphasising of “quality” but now with a relatively calm authority that makes for palatable as well as gripping viewing. Alongside that, it has felt as if there has been a genuine push to provide actual analysis. Not as much, or as detailed, as the excellent Emma Hayes, but certainly to a greater level than normal, seen in his breakdown of Brazil’s midfield failings during the first half of their last-32 contest with Japan. Keane has also nailed his look – cropped grey hair allied to a perfectly curated grey beard. He looks great, especially in the type of patterned shirt you could not have imagined would be in the wardrobe of such a no-nonsense man.SN\n\nClint DempseyThere is no shortage of former players in the world of American soccer punditry.Alexi Lalas is the most notablebut many others – Landon Donovan, Stu Holden, Maurice Edu and others – have found work in the studio or commentary box immediately after retirement. The USMNT legend Clint Dempsey did not follow that path. After stepping away from the game in 2018, the 43-year-old vanished from public view. When he re-emerged in 2021, he did so as a commentator for CBS Sports, to great effect. Dempsey has refined his craft and been superb on Fox’s World Cup coverage this summer. “Deuce” is laid-back and brutally honest all at once and among the few US players working in media who has the bone fides to back up his analysis. Dempsey’s analysis and commentary feel a bit like his play did – colourful, full of flair and sitting in stark contrast to the typical American fare.Pablo Iglesias Maurer\n\nClarence SeedorfHe retired just before European soccer’s major stateside boom but make no mistake: Fox’s coverage has been tremendously better off for the involvement of your favourite player’s favourite player, Clarence Seedorf. Even Zlatan Ibrahimovic felt compelled to fight his gregarian instincts when they first shared the soundstage, making sure viewers knew Seedorf was one of his idols. The former Netherlands international is a natural at punditry. Rather than craft his thoughts for soundbites, he really converses through the granular details of a sequence and can seamlessly shift into big-picture assessments with grace. It’s an approach that makes every segment better for his involvement, a fitting second act after doing similar floor-raising work in his years on the pitch.Jeff Rueter\n\nHarry KewellSince his playing retirement in 2014, Kewell’s focus has been firmly on coaching, working in England, Scotland, Japan and now Vietnam – with little success. So it was somewhat unexpected when the former Socceroo seamlessly slipped into the role of pundit on SBS’s World Cup panel. Kewell endeared himself to the local audience early, clapping back at the US analyst Mike Grella for his dismissive comments about Australia well before the tournament. The former Liverpool and Leeds winger’s analysis has proved to be thoughtful and incisive, particularly regarding Australia, and, drawing on his experience as a coach rather than just leaning on the title of former international, his insights have been a refreshing departure from the chest-beating, flag-waving blather that can often surround the Socceroos. Not to mention it helped that his appealextends beyond his football expertise.Jo Khan\n\nKevin-Prince BoatengWhat on earth is Kevin-Prince Boateng doing on Australian TV screens during the World Cup? If the choice to have the Germany-born Ghana international as anSBSpundit seemed a bit odd at first, it makes sense when you realise the journeyman footballer has been living in Australia since retiring and is the coach of the national six-a-side team. Sitting on a panel including his fellow former players Lydia Williams, Sarah Walsh, Tommy Oar and Kewell, Boateng brought a more international flavour to proceedings, having had a long playing career across the Bundesliga, Serie A and the Premier League, and represented Ghana in two World Cups. His no-nonsense style has offered an undiluted view of this tournament, telling it like it is to a much greater extent than anyone else he has sat with at the desk, and really coming into his own for Ghana games.JK",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3927_9",
+            "category": "england",
+            "type": "News",
+            "title": "Fury vs AJ must start at 1am if fight is staged at Wembley",
+            "bullets": [
+              "The blockbuster heavyweight clash between Tyson Fury and Anthony Joshua would need to take place at ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The blockbuster heavyweight clash between Tyson Fury and Anthony Joshua would need to take place at 1am if it is to be held at Wembley Stadium.",
+            "fullText": "Organisers of a fight between Tyson Fury and Anthony Joshua want it to start no earlier than 1am if it is to take place at London's Wembley Stadium; it remains unclear whether Mayor of London, Sir Sadiq Khan, and other local authorities will approve an extension to the usual 11pm curfew",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-08 @ 08:11:44 EDT",
+  "lastUpdated": "2026-07-08 @ 12:39:30 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
