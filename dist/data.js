@@ -21739,10 +21739,86 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-08": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3913_0",
+            "category": "england",
+            "type": "News",
+            "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+            "bullets": [
+              "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Ger...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Gerrard and Roy Keane displays",
+            "fullText": "Wayne Rooney believes Jude Bellingham's performance against Mexico was reminiscent of heroic Champions League displays from Steven Gerrard and Roy Keane.\n\nEngland midfielder Bellingham, 23, scored twice in 98 seconds as Thomas Tuchel's sidebeat Mexico 3-2despite finishing with 10 men in an epic World Cup clash at the Azteca.\n\nThe hard-fought victory set up a quarter-final tie with Norway as England go in search of their first major trophy since winning the tournament in 1966.\n\nFormer Three Lions striker Rooney likened Bellingham's performance to Gerrard's in helping Liverpool come from 3-0 down in the 2005 Champions League final against AC Milan and Keane's renowned display against Juventus to inspire Manchester United to reach the 1999 European Cup final.\n\n\"I said Jude Bellingham was going to have a game when we're going to need him to drag us through,\" ex-United and Everton forward Rooney said on hisBBC podcast.\n\n\"You look at Steven Gerrard against AC Milan in the 2005 Champions League final. Roy Keane against Juventus for Manchester United. They dragged the teams through them games.\n\n\"I felt like that was Bellingham's one with them two goals - the timing of the goals, his desire, his work rate, his hunger.\"\n\nGerrard scored the first goal as Liverpool came from 3-0 down at half-time to beat AC Milan in Istanbul on penalties and lift the trophy while Keane also scored against Juventus as United overturned a 3-1 aggregate deficit in an inspired display despite knowing a yellow card had ruled him out of the final that year.\n\nRooney rated Bellingham's performance in the last-16 victory in Mexico's capital as a '10 out of 10' given the 'pitfalls' which surrounded the game.\n\nThe Real Madrid star also pulled off a brilliant last-ditch tackle to deny Mexico defender Cesar Montes a goal that would have made it 2-2 on the stroke of half-time.\n\n\"At times defensively he's not always in the right positions, but his desire to get back and put that last-minute tackle in and help his team-mates when they're not maybe having the best game was everything,\" added Rooney.\n\n\"I just felt when you get asked to mark them out of 10, you're looking, thinking - could he have done a little bit more to get that mark up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3913_1",
+            "category": "england",
+            "type": "News",
+            "title": "England players to get hoarding warning after freak Henderson injury",
+            "bullets": [
+              "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffer...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+            "fullText": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury in the aftermath of their World Cup victory over Mexico.\n\nBrentford midfielder Henderson isexpected to have surgeryon the wrist injury he suffered while celebrating England's 3-2 win in the Azteca Stadium.\n\nThat would mean he is a major doubt for the rest of the tournament.\n\nHenderson, 36, landed awkwardly on his arm as he tried to hurdle the advertising hoardings during England's celebrations, and was taken from the field on a stretcher.\n\nIt is understood manager Thomas Tuchel is set to instruct his players to avoid jumping over the hoardings to ensure there is no repeat.\n\n\"Jordan just fell over and injured his wrist,\" Tuchel told BBC One after the match.\n\n\"It looks really bad. It's a quite serious injury and it doesn't fit to the evening that Jordan is now not with us. The doctor told me he is in hospital.\"\n\nHenderson - accompanied by a member of England's medical team - remained in hospital in Mexico City on Sunday evening did not travel back with the squad to their base in Kansas City.\n\nHow superstar double act became England's Wonderwall",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3914_2",
+            "category": "england",
+            "type": "News",
+            "title": "The superstar double act that became England's Wonderwall",
+            "bullets": [
+              "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC S...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With 10 of England's 11 goals at the World Cup scored by either Harry Kane or Jude Bellingham, BBC Sport looks at how dependent on them the team is.",
+            "fullText": "Harry Kane and Jude Bellingham have scored 10 of England's 11 goals at the World Cup\n\nAfter Jude Bellingham opened the scoring for England against Mexico at the Azteca Stadium, he and Harry Kane were the last to peel away from the celebrations.\n\nLeft behind by their team-mates after the first wave of celebrations, the pair stood side by side, arms outstretched as they soaked in the acclaim from the England supporters who had flocked to Mexico City.\n\nIt - along with the teamsinging Wonderwall with fansafter matches - will be one of the defining images of their 2026 World Cup campaign\n\nKane and Bellingham were vital in England'shard-fought 3-2 victory in the last 16and less than two minutes after the opener, the captain supplied the assist for the Real Madrid midfielder to complete a quickfire double that silenced the home supporters.\n\nThen came Kane's moment. With his team a player down, after Jarell Quansah's red card, and Mexico resurgent, the 32-year-old calmly converted from the penalty spot to score what proved to be the winner - few players are more reliable than him from 12 yards out.\n\nEngland are through to the quarter-finals and their fortunes in this tournament look increasingly intertwined with the form and impact Kane and Bellingham are having on the pitch.\n\nErling Haaland and Norway will provide another formidable test for Thomas Tuchel's side when they meet in Miami on Saturday. But just how dependent are England's World Cup ambitions on their dynamic duo?\n\nWhere does Mexico win rank among England's best results?\n\nWho produced another iconic performance? England player ratings\n\nBetween them, the duo have accounted for 10 of England's 11 goals at the World Cup - Marcus Rashford scored the other one as a substitute to seal their 4-2 win against Croatia in the opener.\n\nIt means Kane (six goals) and Bellingham (four) have contributed a remarkable 90.9% of the team's total attacking output.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3914_3",
+            "category": "england",
+            "type": "News",
+            "title": "Why Jude Bellingham’s world is bigger than most of us can understand",
+            "bullets": [
+              "The prodigy who has it all has ambitions to play James Bond but for the time being he is more remini...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak DjokovicThere has never been an English footballer quite like Jude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Paul Scholes, but that doesn’t come close to covering it. There are endless layers to Bellingham, the boy who has it all. He can be the No 8, the No 9 or the No 10. He has the flair of Glenn Hoddle and the chest-out bravado of Paul Gascoigne, but he also has the bravery of Bryan Robson, the rampaging qualities of Steven Gerrard and, as Mexico discovered at the Estadio Azteca, the ability to morph into the world’s best defender and drag his team out of the mire with a goal-saving challenge.More? Bellingham has film-star looks, can charm like David Beckham and, given how much he has achieved, does not sound ridiculous when he says his post-retirement ambition is to play James Bond. Continue reading...",
+            "fullText": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic\n\nThere has never been an English footballer quite likeJude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Paul Scholes, but that doesn’t come close to covering it. There are endless layers to Bellingham, the boy who has it all. He can be the No 8, the No 9 or the No 10. He has the flair of Glenn Hoddle and the chest-out bravado of Paul Gascoigne, but he also has the bravery of Bryan Robson, the rampaging qualities of Steven Gerrard and, as Mexico discovered at the Estadio Azteca, the ability to morph into the world’s best defender and drag his team out of the mire with a goal-saving challenge.\n\nMore? Bellingham has film-star looks, can charm like David Beckham and, given how much he has achieved, does not sound ridiculous when he says his post-retirement ambition is to play James Bond.\n\nThe 23-year-old’s world is bigger than most of us can begin to understand. He made his debut for Birmingham City when he was 16 and was so good they retired his shirt number. He was outstanding on his tournament debut for England, scoring againstIran at the last World Cup. He is a European champion with Real Madrid and, because of his precociousness as a teenager, can leave you thinking he is wise beyond his years.\n\nPerhaps that has made us expect too much from him. There are times during games when he can infuriate his fans. He flew out of the traps at Euro 2024, thundering in a header whenEngland beat Serbiain their opening game, but consistency eluded him. The big moment, the “Who else?”overhead kick against Slovakia, came at the end of an otherwise poor performance from Bellingham, who often struggled to hide his frustration on the pitch and sometimes appeared not to be on the same wavelength as the team’s other big players.\n\nBut Bellingham was 20 at the start of that tournament – his birthday is 29 June. He was a kid, albeit one with the world at his feet. The problem, if that is the right word, is that from the outside there appeared to be contradictions to his character. Here was a megastar who oozed intelligence in interviews with English broadcasters after Madrid’s Champions League games. He was insightful, engaging and capable of razor-sharp tactical analysis, and yet he also remained slightly unknowable. Bellingham is distant from mainstream written media, has spent much of his career outsideEngland, and came across as an unsympathetic figure at Euro 2024 whenever he tried too hard to be the hero or wasted energy on arguing with referees.\n\nIt turned into something of a PR crisis, fuelled by Thomas Tuchel’s infamous “repulsive” comment last year. Perhaps some of us misunderstood Bellingham’s personality. For a while I worried there was a risk of him holding England back. Looking back, I misjudged Bellingham. Although it is true that Tuchel wanted to establish a hierarchy that had Harry Kane and Declan Rice as the leaders of England’s dressing room, it was a mistake to think it would be productive to attempt to change Bellingham’s nature.\n\nThe point is that ego is part of what makes him different and special. It does not, however, come close to making him a bad person or a bad teammate. It is not only Jordan Henderson who says Bellingham is a great kid. There are plenty of stories about him from people with no skin in the game who say how brilliant he is when he meets an awestruck young fan.\n\nBut there are times when you see Bellingham struggle to contain that enormous will to win. He has been inspirational at thisWorld Cup, scoring four goals in five games, but he almost boiled over when England were 1-0 down to the Democratic Republic of the Congo in the last 32. Bellingham does not really do stoicism. Part of the fascination is the nuance. Here we have a massive patriot who somehow manages to come across as quite un-English in how much he wants to win, how much adversity fires him up and how much he wants you to know that he really is the main character.\n\nWatch Bellingham and you will see someone with zero interest in pretending he is anything other than a genius. Try to compare him to another athlete and the one who most comes to mind is Novak Djokovic, another one who can smile and charm a crowd but also turn into a pantomime villain or transform into something terrifying and unstoppable when confronted with someone who isn’t rooting for him. You want the other guy to win? Too bad, because I’m going to beat him.\n\nThat Djokovic streak was evident in the way Bellingham relished walking into the Azteca bearpit whenEngland faced Mexico in the last 16 on Sunday. He ran to the corner and stood with arms outstretched after scoring the first of his two goals. He wanted the crowd’s animosity because it brought out the best in him. This was pure aura; this was Bellingham letting everyone know there was no way he was losing this game.\n\nBellingham was immense on and off the ball against Mexico. During his rise there have been echoes of the tennis prodigy to him; the young star competing in an individual sport and forced to deal with the pressure of doing it alone. For England, the challenge has been harnessing that tendency to be a soloist, the yearning to be the match-winner, and make it an effective weapon in a team game. Tuchel has found the way forward. After a testy start to their relationship, he has given Bellingham clarity. He has understood this is a rare talent. He has his No 10.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-07 @ 19:01:35 EDT",
+  "lastUpdated": "2026-07-08 @ 00:39:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
