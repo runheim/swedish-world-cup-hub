@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ The World Cup stars who could have played for England",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Shades of Keane and Gerrard in Bellingham display - Rooney",
       "link": "https://www.bbc.co.uk/sport/football/articles/c70ygx549d0o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,8 +16,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/czx5qev7nqno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ The superstar double act that became England's Wonderwall",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c24yym25rgjo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Refereeing at this World Cup has been fine, we don’t need input of Tuchel and Trump | Chris Foy",
+      "link": "https://www.theguardian.com/football/2026/jul/08/refereeing-world-cup-fine-input-tuchel-trump-comment"
+    },
+    {
+      "text": "⚽ Morocco set a proud example for Africa as France await at World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/08/morocco-proud-example-africa-france-world-cup"
     },
     {
       "text": "⚽ Why Jude Bellingham’s world is bigger than most of us can understand",
@@ -21814,11 +21822,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1141_0",
+            "category": "england",
+            "type": "News",
+            "title": "The World Cup stars who could have played for England",
+            "bullets": [
+              "While there is no shortage of talent in the England squad, a number of World Cup stars from other na...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While there is no shortage of talent in the England squad, a number of World Cup stars from other nations could have featured for the Three Lions if things had worked out differently.",
+            "fullText": "Antoine Semenyo, Erling Haaland and Michael Olise were all eligible to play for England\n\nErling Haaland will be the man England fear most when they face Norway in the World Cup quarter-finals on Saturday (22:00 BST) - but things could have been very different.\n\nThe Manchester City striker was born in Leeds, so would be lining up for the Three Lions if he had opted to represent the country of his birth. But he isn't the only one.\n\nThere are a number of World Cup stars who could have played for England, but are representing other countries.\n\nAnd, interestingly, 20 of the 26 players in Thomas Tuchel's squad for this World Cup were eligible to play for other nations - but committed to England.\n\nBBC Sport has selected a team of players from this tournament who slipped through the Three Lions' net - have your say and let us know if there is anyone you think we have missed in the comments section.\n\nSwitzerland goalkeeper Marvin Keller, 23, was born in London but came through the youth system at Grasshoppers.\n\nHe moved on to FC Wil and more recently Young Boys, where he has become their first-choice keeper - and made his only Switzerland appearance so far in a pre-World Cup friendly.\n\nWest Ham defender Aaron Wan-Bissaka, who was born in London, represented England at under-20 and under-21 levels but switched international allegiance to DR Congo in 2025.\n\nThe 28-year-old was called up by England in September 2019 but was forced to withdraw with an injury.\n\nAntonee Robinson was born in Milton Keynes and raised on Merseyside, where he came through the ranks at Everton before moving on to Wigan and Fulham.\n\nHis father was born in England but raised in New York and gained American citizenship.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1141_1",
+            "category": "england",
+            "type": "News",
+            "title": "Shades of Keane and Gerrard in Bellingham display - Rooney",
+            "bullets": [
+              "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Ger...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wayne Rooney believes Jude Bellingham's performance against Mexico ranks alongside iconic Steven Gerrard and Roy Keane displays",
+            "fullText": "Wayne Rooney believes Jude Bellingham's performance against Mexico was reminiscent of heroic Champions League displays from Steven Gerrard and Roy Keane.\n\nEngland midfielder Bellingham, 23, scored twice in 98 seconds as Thomas Tuchel's sidebeat Mexico 3-2despite finishing with 10 men in an epic World Cup clash at the Azteca.\n\nThe hard-fought victory set up a quarter-final tie with Norway as England go in search of their first major trophy since winning the tournament in 1966.\n\nFormer Three Lions striker Rooney likened Bellingham's performance to Gerrard's in helping Liverpool come from 3-0 down in the 2005 Champions League final against AC Milan and Keane's renowned display against Juventus to inspire Manchester United to reach the 1999 European Cup final.\n\n\"I said Jude Bellingham was going to have a game when we're going to need him to drag us through,\" ex-United and Everton forward Rooney said on hisBBC podcast.\n\n\"You look at Steven Gerrard against AC Milan in the 2005 Champions League final. Roy Keane against Juventus for Manchester United. They dragged the teams through them games.\n\n\"I felt like that was Bellingham's one with them two goals - the timing of the goals, his desire, his work rate, his hunger.\"\n\nGerrard scored the first goal as Liverpool came from 3-0 down at half-time to beat AC Milan in Istanbul on penalties and lift the trophy while Keane also scored against Juventus as United overturned a 3-1 aggregate deficit in an inspired display despite knowing a yellow card had ruled him out of the final that year.\n\nRooney rated Bellingham's performance in the last-16 victory in Mexico's capital as a '10 out of 10' given the 'pitfalls' which surrounded the game.\n\nThe Real Madrid star also pulled off a brilliant last-ditch tackle to deny Mexico defender Cesar Montes a goal that would have made it 2-2 on the stroke of half-time.\n\n\"At times defensively he's not always in the right positions, but his desire to get back and put that last-minute tackle in and help his team-mates when they're not maybe having the best game was everything,\" added Rooney.\n\n\"I just felt when you get asked to mark them out of 10, you're looking, thinking - could he have done a little bit more to get that mark up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1141_2",
+            "category": "england",
+            "type": "News",
+            "title": "England players to get hoarding warning after freak Henderson injury",
+            "bullets": [
+              "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffer...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury.",
+            "fullText": "England players will be advised not to jump over advertising hoardings after Jordan Henderson suffered a freak injury in the aftermath of their World Cup victory over Mexico.\n\nBrentford midfielder Henderson isexpected to have surgeryon the wrist injury he suffered while celebrating England's 3-2 win in the Azteca Stadium.\n\nThat would mean he is a major doubt for the rest of the tournament.\n\nHenderson, 36, landed awkwardly on his arm as he tried to hurdle the advertising hoardings during England's celebrations, and was taken from the field on a stretcher.\n\nIt is understood manager Thomas Tuchel is set to instruct his players to avoid jumping over the hoardings to ensure there is no repeat.\n\n\"Jordan just fell over and injured his wrist,\" Tuchel told BBC One after the match.\n\n\"It looks really bad. It's a quite serious injury and it doesn't fit to the evening that Jordan is now not with us. The doctor told me he is in hospital.\"\n\nHenderson - accompanied by a member of England's medical team - remained in hospital in Mexico City on Sunday evening did not travel back with the squad to their base in Kansas City.\n\nHow superstar double act became England's Wonderwall",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1141_3",
+            "category": "england",
+            "type": "News",
+            "title": "Refereeing at this World Cup has been fine, we don’t need input of Tuchel and Trump | Chris Foy",
+            "bullets": [
+              "Give or take the odd error, officials have got it right on most occasions, while VAR has helped them...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Give or take the odd error, officials have got it right on most occasions, while VAR has helped them when they haven’tThomas Tuchel was critical of the refereeing at the World Cup after England’s win against Mexico, describing it as unreliable, erratic and not good enough. His comments struck me as reverse psychology – the referees have generally been OK, with some positive decisions made, but there have also been occasions when they have not got things right. Like everyone, referees cannot be perfect.Egypt claimed they were victims of an injustice against Argentina on Tuesday but the decisions to disallow an Egypt goal and let Argentina’s winner stand were correct. On the first one there was a foul by Marwan Attia on Lisandro Martínez in the attacking possession phase – a shirt pull and studs on Martínez’s right foot – and there is no time limit or ceiling on the number of passes to be taken into account. Continue reading...",
+            "fullText": "Give or take the odd error, officials have got it right on most occasions, while VAR  has helped them when they haven’t\n\nThomas Tuchel wascritical of the refereeingat the World Cup afterEngland’s win against Mexico, describing it as unreliable, erratic and not good enough. His comments struck me as reverse psychology – the referees have generally been OK, with some positive decisions made, but there have also been occasions when they have not got things right. Like everyone, referees cannot be perfect.\n\nEgypt claimed they werevictims of an injusticeagainst Argentina on Tuesday but the decisions to disallow an Egypt goal and letArgentina’s winnerstand were correct. On the first one there was a foul by Marwan Attia on Lisandro Martínez in the attacking possession phase – a shirt pull and studs on Martínez’s right foot – and there is no time limit or ceiling on the number of passes to be taken into account.\n\nOne important factor is the ball kept moving forward, with no lateral or backwards passes, until the ball was in the net. It could have been one of the goals of the tournament but the simple fact is it was right to disallow it.\n\nFor Argentina’s late third goal Egypt felt there was a foul by Julián Alvarez on Mohamed Salah. People are drawing comparisons between that and the earlier incident because there is boot-on-boot contact, but it is a different situation. Alvarez plays the ball and there is then slight contact which does not meet the threshold for a foul or video assistant referee intervention.\n\nThe VAR did make an important intervention in the Mexico-England match – Jarell Quansah’s tackle on Jesús Gallardo was a red-card offence and I was surprised this was not picked up on-field by the referee, Alireza Faghani. After the VAR rightly recommended a review we got the correct outcome.\n\nTuchel was upset at a number of decisions that night. It was never going to be an easy assignment for the referee, what with the hype, weather conditions and the game being at the Azteca Stadium. But some of the players did not help by taking very little responsibility. They were feigning injury, showing dissent and questioning nigh-on every decision – and when the Quansah challenge happened the whole Mexico bench emptied out angrily. England reacted, and that got messy.\n\nTo hear England are considering an appeal against Quansah’s red card is surprising, butthe Folarin Balogun situationhas completely changed things. Historically there has been no scope for an appeal against a red card at a tournament, with a one-match ban automatically applied. I had never heard of Article 27 of the Fifa disciplinary code, which Fifa says it used to suspend the USA striker’s sanction.\n\nBalogun’s sending-off was certainly supportable with the help of the video assistant. When I saw his challenge on Tarik Muharemovic of Bosnia and Herzegovina in real time I wasn’t sure whether it was a red-card offence, but it was for me on a replay, even if there was no malice. The clue was where the ball was, because it was not at a playable distance.\n\nWhen you consider a possible red-card offence for a challenge, there are two key elements to think about: excessive force and endangering the safety of an opponent. With Balogun’s challenge the point of contact was on the calf, continued down the calf on to the achilles and caused an ankle roll. That could have caused serious injury.\n\nThe intervention of Donald Trumpand Tuchel’s comments mean there is heightened noise around refereeing. As a referee you have to ignore that, and in elite officiating sports psychologists are there to help. I was never the best at getting rid of a bad decision – it would stay in my system for three to four days – but that’s different from letting it affect your performance. You have to be boring, and focus on the here and now.\n\nThere have been 13 red cards at thisWorld Cup, after four at each of the previous two, but I don’t think there can be too many complaints. Player safety is paramount and Quansah and Balogun are a good example of where to draw the line. VAR has been used correctly for red cards not given on the field.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1141_4",
+            "category": "england",
+            "type": "News",
+            "title": "Morocco set a proud example for Africa as France await at World Cup",
+            "bullets": [
+              "The 2022 semi-finalists have delighted fans at home as the continent’s other sides struggle with off...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 2022 semi-finalists have delighted fans at home as the continent’s other sides struggle with off-field problemsOver the past six decades, Morocco have achieved several performance milestones for Africa at the World Cup. The first country to qualify directly, for the 1970 finals in Mexico, they returned in 1986 and became the first team from the continent to make the last 16, then made that impressive semi-final run in Qatar four years ago.Even if the Atlas Lions fail to match their 2022 performance, by losing to France on Thursday , they have made tournament history as the first African team to reach the quarter-finals at successive World Cups. Continue reading...",
+            "fullText": "The 2022 semi-finalists have delighted fans at home as the continent’s other sides struggle with off-field problems\n\nOver the past six decades, Morocco have achieved several performance milestones for Africa at theWorld Cup. The first country to qualify directly, for the 1970 finals in Mexico, they returned in 1986 and became the first team from the continent to make the last 16, then made that impressive semi-final run in Qatar four years ago.\n\nEven if the Atlas Lions fail to match their 2022 performance, by losing to France on Thursday , they have made tournament history as the first African team to reach the quarter-finals at successive World Cups.\n\n“The general feeling, amongst Moroccans, is pride and contentment in this team,” says Amine El Amri, a football journalist who, from his base in Casablanca, has been closely observing fans’ attitudes toward the team’s performance. “The main goal before the competition was to reach the quarter-finals, given the context, given the change of manager, with the departure of Walid Regragui and the coming of Mohamed Ouahbi. I think thevictory over the Netherlandscemented the reputation of Ouahbi as a trustworthy coach. Many doubts about him were cleared up after that match.\n\n“Beating Canada in the way we did, despite having a very difficult first half, has also added to that confidence. You have to be in Casablanca, in Marrakech, in every city and little town, to just measure how happy people are [with the team]. Our Saturday night was crazy – no one slept.”\n\nThere is no uncertainty about the scale of the quarter-final task at Boston Stadium, with the tournament’s most fearsome attacking trio – Kylian Mbappé, Michael Olise and Ousmane Dembélé – to contend with.\n\nOuabhi’s managerial composure through some of the tough moments against the Netherlands and Canada reflects the serenity in the team required to cope with the demands of high-level competition, says the former Cameroon goalkeeper Joseph-Antoine Bell, a veteran of the 1982, 1990 and 1994 World Cups.\n\n“Nobody can play against Morocco at the World Cup and say that they are sure to win,” he says. “They can be behind in a game but they will never lose their temper, they will never be out of themselves, they focus and keep playing with confidence that their game will lead them to recovery.\n\n“This is what happens when a team have solved all their problems … They are able to totally focus on the games they are playing, without thinking about financial or administrative problems. This is a well-prepared team. Sadly, most of our teams in Africa are not operating at this level. When a country [like Ghana] will hire a coach with less than two months [to a World Cup], how do you want them to be ready?”\n\nOuahbi was appointed by Morocco only in early March but oversaw five friendlies in the buildup and had worked for four years with the under-20s and under-23s. Ghana played only twice under Carlos Queiroz before the World Cup and their captain, Jordan Ayew, was frank after elimination by Colombia in the last 32 about the difficulty in adjusting to the Portuguese’s tactics.\n\n“You can’t do that in one month or two months,” he said. “Football doesn’t work like that. Defensively, we were better. But we fell a bit short offensively, so we have to find the right balance now.”\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1142_5",
+            "category": "england",
+            "type": "News",
+            "title": "Why Jude Bellingham’s world is bigger than most of us can understand",
+            "bullets": [
+              "The prodigy who has it all has ambitions to play James Bond but for the time being he is more remini...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak DjokovicThere has never been an English footballer quite like Jude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Paul Scholes, but that doesn’t come close to covering it. There are endless layers to Bellingham, the boy who has it all. He can be the No 8, the No 9 or the No 10. He has the flair of Glenn Hoddle and the chest-out bravado of Paul Gascoigne, but he also has the bravery of Bryan Robson, the rampaging qualities of Steven Gerrard and, as Mexico discovered at the Estadio Azteca, the ability to morph into the world’s best defender and drag his team out of the mire with a goal-saving challenge.More? Bellingham has film-star looks, can charm like David Beckham and, given how much he has achieved, does not sound ridiculous when he says his post-retirement ambition is to play James Bond. Continue reading...",
+            "fullText": "The prodigy who has it all has ambitions to play James Bond but for the time being he is more reminiscent of Novak Djokovic\n\nThere has never been an English footballer quite likeJude Bellingham. He has the cockiness and explosiveness of a teenage Wayne Rooney and the vision of Paul Scholes, but that doesn’t come close to covering it. There are endless layers to Bellingham, the boy who has it all. He can be the No 8, the No 9 or the No 10. He has the flair of Glenn Hoddle and the chest-out bravado of Paul Gascoigne, but he also has the bravery of Bryan Robson, the rampaging qualities of Steven Gerrard and, as Mexico discovered at the Estadio Azteca, the ability to morph into the world’s best defender and drag his team out of the mire with a goal-saving challenge.\n\nMore? Bellingham has film-star looks, can charm like David Beckham and, given how much he has achieved, does not sound ridiculous when he says his post-retirement ambition is to play James Bond.\n\nThe 23-year-old’s world is bigger than most of us can begin to understand. He made his debut for Birmingham City when he was 16 and was so good they retired his shirt number. He was outstanding on his tournament debut for England, scoring againstIran at the last World Cup. He is a European champion with Real Madrid and, because of his precociousness as a teenager, can leave you thinking he is wise beyond his years.\n\nPerhaps that has made us expect too much from him. There are times during games when he can infuriate his fans. He flew out of the traps at Euro 2024, thundering in a header whenEngland beat Serbiain their opening game, but consistency eluded him. The big moment, the “Who else?”overhead kick against Slovakia, came at the end of an otherwise poor performance from Bellingham, who often struggled to hide his frustration on the pitch and sometimes appeared not to be on the same wavelength as the team’s other big players.\n\nBut Bellingham was 20 at the start of that tournament – his birthday is 29 June. He was a kid, albeit one with the world at his feet. The problem, if that is the right word, is that from the outside there appeared to be contradictions to his character. Here was a megastar who oozed intelligence in interviews with English broadcasters after Madrid’s Champions League games. He was insightful, engaging and capable of razor-sharp tactical analysis, and yet he also remained slightly unknowable. Bellingham is distant from mainstream written media, has spent much of his career outsideEngland, and came across as an unsympathetic figure at Euro 2024 whenever he tried too hard to be the hero or wasted energy on arguing with referees.\n\nIt turned into something of a PR crisis, fuelled by Thomas Tuchel’s infamous “repulsive” comment last year. Perhaps some of us misunderstood Bellingham’s personality. For a while I worried there was a risk of him holding England back. Looking back, I misjudged Bellingham. Although it is true that Tuchel wanted to establish a hierarchy that had Harry Kane and Declan Rice as the leaders of England’s dressing room, it was a mistake to think it would be productive to attempt to change Bellingham’s nature.\n\nThe point is that ego is part of what makes him different and special. It does not, however, come close to making him a bad person or a bad teammate. It is not only Jordan Henderson who says Bellingham is a great kid. There are plenty of stories about him from people with no skin in the game who say how brilliant he is when he meets an awestruck young fan.\n\nBut there are times when you see Bellingham struggle to contain that enormous will to win. He has been inspirational at thisWorld Cup, scoring four goals in five games, but he almost boiled over when England were 1-0 down to the Democratic Republic of the Congo in the last 32. Bellingham does not really do stoicism. Part of the fascination is the nuance. Here we have a massive patriot who somehow manages to come across as quite un-English in how much he wants to win, how much adversity fires him up and how much he wants you to know that he really is the main character.\n\nWatch Bellingham and you will see someone with zero interest in pretending he is anything other than a genius. Try to compare him to another athlete and the one who most comes to mind is Novak Djokovic, another one who can smile and charm a crowd but also turn into a pantomime villain or transform into something terrifying and unstoppable when confronted with someone who isn’t rooting for him. You want the other guy to win? Too bad, because I’m going to beat him.\n\nThat Djokovic streak was evident in the way Bellingham relished walking into the Azteca bearpit whenEngland faced Mexico in the last 16 on Sunday. He ran to the corner and stood with arms outstretched after scoring the first of his two goals. He wanted the crowd’s animosity because it brought out the best in him. This was pure aura; this was Bellingham letting everyone know there was no way he was losing this game.\n\nBellingham was immense on and off the ball against Mexico. During his rise there have been echoes of the tennis prodigy to him; the young star competing in an individual sport and forced to deal with the pressure of doing it alone. For England, the challenge has been harnessing that tendency to be a soloist, the yearning to be the match-winner, and make it an effective weapon in a team game. Tuchel has found the way forward. After a testy start to their relationship, he has given Bellingham clarity. He has understood this is a rare talent. He has his No 10.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-08 @ 00:39:14 EDT",
+  "lastUpdated": "2026-07-08 @ 08:11:44 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
