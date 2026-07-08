@@ -13013,6 +13013,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Har alla koll på schemat för morgondagen?",
       "time": "06:57",
       "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Vilket mål på träningen! Jag tror jag hittat formen.",
+      "time": "13:17",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
+      "time": "13:18",
+      "isCaptain": true
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
+      "time": "13:19",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "God morgon! Är alla redo för dagens första pass?",
+      "time": "13:20",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Bara några dagar kvar nu. Känner ni peppen?",
+      "time": "13:21",
+      "isCaptain": false
     }
   ]
 };
