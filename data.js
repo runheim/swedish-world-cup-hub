@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/07/donald-trump-gianni-infantino-folarin-balogun-fifa-world-cup-2026"
     },
     {
-      "text": "⚽ Pochettino’s future uncertain as US Soccer weighs next move after World Cup exit",
-      "link": "https://www.theguardian.com/football/2026/jul/07/mauricio-pochettino-us-soccer-future-world-cup-2026-talks"
+      "text": "⚽ USMNT World Cup player ratings: high marks for McKennie and Tillman, but Pulisic and Dest fall short",
+      "link": "https://www.theguardian.com/football/2026/jul/08/usmnt-world-cup-player-grades"
     }
   ],
   "timeline": {
@@ -5825,11 +5825,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1628_0",
+            "category": "usa",
+            "type": "News",
+            "title": "All the presidents’ meddling: the Balogun scandal shows how Fifa can break football | Barney Ronay",
+            "bullets": [
+              "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infant...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainmentFrites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right after all. Football has united the world. Mainly football has united the world in gleeful satisfaction at the USA exiting its own World Cup tournament as soon as possible following the great and glorious Donald Trump Mr-Fix-It intervention.This was the tone of the immediate global reaction to the USA’s invertebrate defeat in Seattle on Monday night, soundly beaten by a righteous and highly motivated Belgium: land of beer, waffles and sporting vigilante justice. Ghent 4 Bent 1. Antwerp 4 A twerp 1. Mayonnaise 4 May-have-interfered-in-due-process 1. I can go on. How long have you got? Continue reading...",
+            "fullText": "The suspension of the USA striker’s red card after Trump’s intervention has shown what Gianni Infantino’s organisation is trying to turn the sport into: scripted entertainment\n\nFrites 4 Cheats 1. Tintin 4 Tonto 1. Some good news here, perhaps. It seems Gianni Infantino was right after all. Football has united the world. Mainly football has united the world in gleeful satisfaction at theUSA exiting its own World Cuptournament as soon as possible following the great and gloriousDonald Trump Mr-Fix-It intervention.\n\nThis was the tone of the immediate global reaction to the USA’sinvertebrate defeat in Seattleon Monday night, soundly beaten by a righteous and highly motivated Belgium: land of beer, waffles and sporting vigilante justice. Ghent 4 Bent 1. Antwerp 4 A twerp 1. Mayonnaise 4 May-have-interfered-in-due-process 1. I can go on. How long have you got?\n\nSo far much of the domestic US response has focused on an interesting but essentially irrelevant part of this, albeit one with a natural appeal to the polarised heart of the nation. Did the noise around Trump’s intervention, the admission, which is denied byFifa, of prima facie attempted sporting corruption over Folarin Balogun’s ban (Trump’s exact words: “I was the one who got them to do it”) deplete the team’s chances?\n\nWas this a case of Trump Exposed Reactor Core Phenomenon, a term I have just invented for the dynamic whereby Trump melts everything he touches while remaining indestructibly in place, still burping his dark energy into the skies?\n\nIt is easy to clear this one up. The defeat was simple. Ignore the host nation hype and the USA team is inferior to Belgium in almost every position. If Leandro Trossard was American he’d be on a million billboards eating crisps and talking about his global legacy. Even the aged Romelu Lukaku, largely immobile now, appearing at the edge of your vision as though someone has trundled a soviet-era statue on to the pitch on a set of roller skates, is still smart enough to out-aura the USA defence.\n\nTrump has no bearing on these sporting facts. But his intervention is still profound. It is, as ever, necessary to block out the zone-flooding noise and focus on the actual story. Which is not Trump, out there simply being Trump. The real issue is Gianni Infantino and Fifa, the live note in a genuinely jaw-dropping sporting scandal.\n\nDictators always look unassailable while they’re dictating. But who knows, this might even be the first significant note of Infantino’s own endgame, the moment football’s great preening waxwork power-gargoyle flew just a bit too close to the sun and began to melt inside his own blue suit.\n\nThe Trump aspect is important, but can also be dealt with quite quickly. In the end he just couldn’t keep those ferreting hands off this thing. Last week I wrote an article aboutTrump’s unexpected invisibilityacross the opening three weeks of this World Cup, during which he attended no games and made no significant pronouncements.\n\nIt had to be a strategy. In the buildup Trump had been all over theWorld Cuplike an overly friendly estate agent standing too close in the lift, breathing down its neck, fondling the trophies, toying with the attentions of the Fifa president, who spent 18 months chasing him around like a lovesick nine-year-old, offering a friendship bracelet, a peace prize, a magical ball.\n\nHere Trump sat on those hands for three weeks, fighting the urge, taking a leaf out of the Putin 2018 playbook of just letting the show happen, the colour and sugar flood the zone while … Oh hang on, where’s he gone?\n\nFast forward five days and the thing has now happened. Trump has treated the World Cup like the women in his infamous Access Hollywood “locker-room banter”. And there will be damage here, a price to be paid.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1629_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT World Cup player ratings: high marks for McKennie and Tillman, but Pulisic and Dest fall short",
+            "bullets": [
+              "The Americans crashed out in disappointing fashion, but there were positives from the tournament on...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Americans crashed out in disappointing fashion, but there were positives from the tournament on the whole. We look at how the roster performedStats from fotmob.com, Opta and Fifa; players listed in order of minutes played.Weston McKennie, center/attacking midfield (Juventus) Continue reading...",
+            "fullText": "The Americans crashed out in disappointing fashion, but there were positives from the tournament on the whole. We look at how the roster performed\n\nStats fromfotmob.com,OptaandFifa; players listed in order of minutes played.\n\nWeston McKennie, center/attacking midfield (Juventus)\n\nThe only player to start all five games led the team in chances created (eight), though Malik Tillman, Sebastian Berhalter and the lightly used Brenden Aaronson created more per 90 minutes. Covered an exhausting 57,573m in five games. Of the “Golden Generation” players on the roster, he and running mate Tyler Adams were the most golden.Grade: A-\n\nAlex Freeman, right-back/center-back(Villarreal)Four starts, one sub, 373 minutes, one goal, one assist\n\nNot in the picture a couple of years ago, and US fans have to be thrilled that the 21-year-old now has the experience of aWorld Cup(and a memorable World Cup goal celebration) to draw upon. Led the team with 14 tackles, 3.4 per game. Led the team’s first-choice players in percentage of duels won both on the ground (67.6%) and in the air (73.7%). Solid debut, very bright future.Grade: A-\n\nMatt Freese, goalkeeper (New York City FC)Four starts, 360 minutes, eight saves, five goals allowed\n\nOne of very few players on this team to have never played in Europe and one who only joined the national team pool last year. His inexperience proved costly against Belgium, when he came way out of his box and hesitated to clear the ball, allowing the Red Devils to dispossess him and shoot into the nearly open goal 25 yards behind him. On the positive side: he made some decent saves in that game and had a solid performance in gritting out a clean sheet against Bosnia and Herzegovina.Grade: C\n\nChris Richards, center-back (Crystal Palace)Four starts, 360 minutes\n\nThe best bit of luck theUSAhad, apart from a relatively easy draw, was learning that Richards would be fit to play. His stats bordered on the impossible, especially his 100% completion rate on 84 passes against Paraguay. He led the team in defensive contributions, total (41) and per 90 (10.3). The lion’s share of those were clearances (28), and many of them were vital. His Cup ended on a low note, embarrassed by Romelu Lukaku, but by any objective measure, he was one of the USA’s top players.Grade: B+\n\nTim Ream, center-back (Charlotte FC)Four starts, 360 minutes\n\nOne of many US players over the years who have excelled at Fulham, the 38-year-old captain completed almost as many passes (70.5 per 90 min) as Richards with a slightly lower percentage (91.6%). He was forced into too many foot races and had the misfortune of seeing Belgium’s third goal sail past him as he attempted to cover for his stranded goalkeeper, but in his first three games, he was solid.Grade: B",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-08 @ 00:39:48 EDT",
+  "lastUpdated": "2026-07-08 @ 08:16:42 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
