@@ -16,16 +16,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Jarell Quansah handed two-match ban by Fifa for sending off against Mexico",
+      "link": "https://www.theguardian.com/football/2026/jul/09/jarell-quansah-handed-two-match-ban-by-fifa-for-sending-off-against-mexico"
+    },
+    {
+      "text": "⚽ Rice and Ødegaard put club union on hold in decisive duel between England and Norway",
+      "link": "https://www.theguardian.com/football/2026/jul/09/declan-rice-martin-odegaard-arsenal-norway-england-world-cup-2026"
+    },
+    {
+      "text": "⚽ Anthony Gordon: ‘I have always been very intrigued to see who I can become’",
+      "link": "https://www.theguardian.com/football/2026/jul/09/anthony-gordon-i-have-always-been-very-intrigued-to-see-who-i-can-become"
+    },
+    {
       "text": "⚽ Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
       "link": "https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for"
-    },
-    {
-      "text": "⚽ England’s big chances and France’s shots: how World Cup quarter-finalists’ stats line up",
-      "link": "https://www.theguardian.com/football/2026/jul/09/england-big-chances-france-shots-how-world-cup-quarter-finalists-stats"
-    },
-    {
-      "text": "⚽ Archer dismisses Sooryavanshi as India lose early wickets vs England again LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13561873/england-vs-india-fourth-t20-internationai-live-cricket-score-updates-video-and-analysis-from-bristol"
     },
     {
       "text": "⚽ Haaland: England should be confident - the pressure is on them",
@@ -22805,11 +22809,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1614_0",
+            "category": "england",
+            "type": "News",
+            "title": "'It was good vibes in there' - Stones on viral prank",
+            "bullets": [
+              "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel br...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel briefly stunned.",
+            "fullText": "England win thriller against Mexico to reach quarter-finals\n\nIt was one oftheviral moments fromEngland's 3-2 victory over Mexico.\n\nA glimpse inside the Three Lions' changing room showed manager Thomas Tuchel clapping along to the post-match tunes, before halting his celebrations in concern as Declan Rice flags that defender John Stones has injured his shoulder.\n\nBut Stones, who'd been holding his shoulder and flexing his arm in apparent discomfort, then starts pumping his fist towards the ceiling as the drop kicks in - to cheers from his team-mates and the obvious relief of Tuchel.\n\nA bouncing Tuchel then pogos over to the 32-year-old to give him a hug and a viral moment is born, clocking up more than 40m views on social media.\n\n\"It's feeling better now, it's feeling better - it has its ups and downs,\" joked Stones when asked about his shoulder during an interview with England's in-house media.\n\nThe prank came after midfielder Jordan Henderson suffered a freak injury as he fell while jumping over the advertising hoardings following the match.\n\nStones added: \"I tried to keep a straight face as I was doing it because I saw he [Tuchel] was concerned and thinking, 'has he actually hurt himself?'.\n\n\"Especially after what Hendo had just done outside, he didn't know what was going to come but it was good vibes in there.\n\n\"I didn't think it would get that much traction to be fair.\"\n\nStones, who started England's opening 4-2 win against Croatia and made a last-minute appearance in the 2-1 win over DR Congo, came on with just over half an hour to play against Mexico when winger Bukayo Saka was sacrificed following Jarell Quansah's red card.\n\nEngland play Norway in the quarter-finalsin Miami on Saturday (22:00 BST).",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1615_1",
+            "category": "england",
+            "type": "News",
+            "title": "How Kane and Haaland compare - who would you pick?",
+            "bullets": [
+              "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-fin...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?",
+            "fullText": "Erling Haaland has seven goals and Harry Kane six at the 2026 World Cup\n\nFrom the moment Harry Kane's proposed move to Manchester City in August 2021 broke down, his career has been linked with that of Erling Haaland.\n\nThat's because the giant Norwegian arrived the next summer and then fired City to a Treble.\n\nThen, Kane was captain of Tottenham. He had no trophies, no silverware and seemed to have missed out on his big move.\n\nFast forward a few years and the two face off on Saturday as central to their country's World Cup hopes, only now with a different narrative.\n\nSince moving to Bayern Munich in 2023, he has twice won the Bundesliga and the European Golden Shoe for top scorer on the continent.\n\nDespite being born in Leeds, Haaland, who already has seven in his first World Cup, would love nothing more than to stop him.\n\n'That was a rocket' - Kane scores winner for England\n\nAny comparison of Haaland and Kane has to start with the most important metric in football: goals.\n\nEver since Kanescored with his third touchfor his country in March 2015, he has been the driving force behind England's bid to end their long wait for international silverware.\n\nEighty five goals later, he remains the central figure of Thomas Tuchel's side, the classy captain that can always be relied upon for a match-winning performance.\n\nWitness his two goalsagainst DR Congo in the last 32, and a nerveless penalty at Azteca Stadium tosee off Mexicoa round later as examples.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1615_2",
+            "category": "england",
+            "type": "News",
+            "title": "Idolises Ronaldo, plays like Saka - meet £40m Chelsea winger Quenda",
+            "bullets": [
+              "Chelsea's new signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leavin...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea's new signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leaving Sporting's academy for the challenge and exposure of the Premier League.",
+            "fullText": "Chelsea's newest signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leaving Sporting's academy for the challenge and exposure of the Premier League.\n\nOften compared stylistically toArsenalwinger Bukayo Saka, Quenda's journey began with an episode that has since become part of his personal folklore.\n\nArriving at an early training session at grassroots club Damaiense wearing jeans and shoes, he was initially told he could not take part.\n\nBut after producing an effortless first touch and dribble when the ball came his way, coach Ana Correia persuaded club officials to \"make an exception\" for Quenda, as she later recalled in an interview with Sabado.\n\nQuenda's path to the top was far from conventional. Born in Guinea-Bissau, he moved to Portugal at the age of seven and had to adapt quickly to a new environment.\n\nThat journey took him from the Damaiense's under-10s to Benfica's academy before he joined city rivals Sporting, where his development propelled him to prominence in Portuguese football.\n\nNow atChelsea, having reportedly agreed to join as far back as March 2025 but only just formally unveiled on a contract until 2034, the Portugal Under-21 international has the opportunity to showcase his talent on an even bigger stage.\n\nWhen Quenda joinedChelsea, he was accompanied by his father, mother, sisters, friends, agents and his godfather Basaula Lemba, a former top-flight footballer in Portugal who also won 10 caps for Zaire.\n\nLemba played an important role in Quenda's early development before Benfica brought him into their academy system in 2017.\n\nSporting and Porto had also been tracking him at the time, according to former youth coach Fabio Roque.\n\n\"We saw him as an under-10 player playing against us for Benfica,\" Roque told BBC Sport.\n\n\"We knew from our scouting team that he was a good player and had tracked his progress through the Portuguese Football Federation website.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1615_3",
+            "category": "england",
+            "type": "News",
+            "title": "Jarell Quansah handed two-match ban by Fifa for sending off against Mexico",
+            "bullets": [
+              "England defender’s challenge deemed serious foul playMisses quarter-final as well as potential semi-...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender’s challenge deemed serious foul playMisses quarter-final as well as potential semi-finalJarell Quansah has been given a two-game ban for his red card in England’s World Cup last-16 victory over Mexico, leaving the defender devastated. Fifa announced the sanction on Thursday, saying it was for serious foul play.Thomas Tuchel must now decide what to do at right-back for the quarter-final against Norway in Miami on Saturday. Reece James, who has missed the last three matches with a hamstring injury, is a selection doubt but it is understood that he could have some involvement, which points towards him being a substitute. Continue reading...",
+            "fullText": "England defender’s challenge deemed serious foul play\n\nMisses quarter-final as well as potential semi-final\n\nJarell Quansah has been given a two-game ban for his red card inEngland’s World Cup last-16 victory over Mexico, leaving the defender devastated. Fifa announced the sanction on Thursday, saying it was for serious foul play.\n\nThomas Tuchel must now decide what to do at right-back for the quarter-final against Norway in Miami on Saturday. Reece James, who has missed the last three matches with a hamstring injury,is a selection doubtbut it is understood that he could have some involvement, which points towards him being a substitute.\n\nTuchel’s most natural choice for the position would be Djed Spence. The manager could use Ezri Konsa there, as he did after Quansah’s sending-off against Mexico. Tuchel has said that he would rather not disrupt Konsa’s partnership with Marc Guéhi in central defence.\n\nTuchel was unhappy at the processes that led to Quansah’s red card, which came in the 54thminute after he stretched into a challenge on the Mexico left-back, Jesus Gallardo. The referee, Alireza Faghani, did not award a free-kick but he reached his decision after being called to the pitch-side monitor by the video assistant referee where he considered slow-motion replays and freeze-frames.\n\nThe Football Association are likely to have made representations to Fifa about the processes that led to Quansah’s dismissal. There is no right of appeal against a red card at this tournament, albeit the possibility of one being overturned has been opened by Fifa’shugely controversial decision to suspend Folarin Balogun’s one-match banafter the striker had been dismissed in the USA’s win over Bosnia and Herzegovina.\n\nBukayo Saka said: “I just found out. Very frustrating for sure [but] it is what it is. We have to deal with it, adapt and get ready. I don’t know what to say [about Folarin Balogun’s red card being suspended]. It was Fifa’s decision.” Nico O’Reilly added: “I’m gutted for him and he’s not happy about it … but the decision is made now and he’s got his head around it.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1615_4",
+            "category": "england",
+            "type": "News",
+            "title": "Rice and Ødegaard put club union on hold in decisive duel between England and Norway",
+            "bullets": [
+              "Two architects of Arsenal’s title triumph are likely to have starring roles for their country in pur...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Two architects of Arsenal’s title triumph are likely to have starring roles for their country in pursuit of a place in the World Cup semi-finals It is one of those times when WhatsApp group chats quieten down. Friendships tend to be suspended when a World Cup quarter-final come around and club mates, flung against one another for their countries, turn their eyes towards the biggest prize. Declan Rice and Martin Ødegaard will not be exchanging breezy pleasantries in the hours before England face Norway but the levels of respect are off the scale. The clash between two architects of Arsenal’s modern success should be decisive in determining who goes through. They have walked out together 117 times but the 118th, in the stifling heat of Miami, may leave the most lasting mark.These are two players in their prime who may never receive another opportunity this golden. Rice and Ødegaard were born 28 days apart and, partly because of the latter’s fast-tracking into the Norway senior team, did not play against each other at age-group level. Their face-offs have been limited to Mikel Arteta’s intense training sessions at London Colney, where they are depended upon to set standards. They are leaders of differing style and status who will be expected to galvanise their national teams on Saturday. Continue reading...",
+            "fullText": "Two architects of Arsenal’s title triumph are likely to have starring roles for their country in pursuit of a place in the World Cup semi-finals\n\nIt is one of those times when WhatsApp group chats quieten down. Friendships tend to be suspended when aWorld Cupquarter-final come around and club mates, flung against one another for their countries, turn their eyes towards the biggest prize. Declan Rice and Martin Ødegaard will not be exchanging breezy pleasantries in the hours before England face Norway but the levels of respect are off the scale. The clash between two architects of Arsenal’s modern success should be decisive in determining who goes through. They have walked out together 117 times but the 118th, in the stifling heat of Miami, may leave the most lasting mark.\n\nThese are two players in their prime who may never receive another opportunity this golden. Rice and Ødegaard were born 28 days apart and, partly because of the latter’s fast-tracking into theNorwaysenior team, did not play against each other at age-group level. Their face-offs have been limited to Mikel Arteta’s intense training sessions at London Colney, where they are depended upon to set standards. They are leaders of differing style and status who will be expected to galvanise their national teams on Saturday.\n\nØdegaard tends to do that by example rather than bombast. Norway have thrived since Ståle Solbakken made him captain in 2021, which looked a brave move given he was only 22. The following year Arteta bestowed the same role upon Ødegaard at Arsenal: it symbolised a more lucid, serious approach after Pierre-Emerick Aubameyang’s chequered relationship with the armband. Nobody could say either decision was ill-advised. “I wouldn’t want anyone else being our captain,” Rice said of Ødegaard in May 2025. “He can deliver on the biggest stage. We are always with Martin.” The admiration goes on hold for at least 90 minutes.\n\nIt is worth dwelling upon how Rice, vice-captain for England and among Arteta’s leadership group, has become such a totemic figure for club and country. He was delighted to last the course onthat generational night at the Azteca, shrugging off an early yellow card and soldiering through the hamstring and lower-back pain that has dogged him for months. There is some acknowledgment he has played games others would have swerved. The result in Mexico City was a relatively conservative display but, in the closing stages, Rice was still hurling himself into blocks. It was his 66th game of the season and hardly a one-off.\n\n“He’s someone who always gives absolutely everything for the team, always fighting for every single ball, bringing his energy to the pitch,” Ødegaard said when asked about Rice at Norway’s temporary training base in Fort Lauderdale, where they have been using Inter Miami’s facilities this week. “He can do so many things on the pitch.” Rice is now the robust, dependable, all-action Swiss-army knife of club and country. It does not take mental gymnastics to imagine him succeeding Harry Kane whenever the current captain takes his leave of international football. Would it be crude to suggest Rice might take over from Ødegaard at Arsenal too? It was to the Norwegian that he mouthed the words “It’s not done” after themid-April defeat at Manchester City.\n\nThe importance of Ødegaard to Arteta’s plans has come under question, largely due to a run of injuries that complicated his title-winning season, alongside the arrival of Eberechi Eze. Contrary to speculation, Arsenal have no plans to sell him but his status, on the pitch if not in the dressing room, has been opened to scrutiny. That is less so where Norway are concerned. “Together with Erling Haaland he’s been our best player for a long time and a great captain when times were a little tougher than they are now,” Solbakken said.\n\nØdegaard was criticised in some quarters after his performance in their opener against Iraq, his condition questioned back home. He has responded stylishly since then and, pulling the stringsthroughout Brazil’s humblingin the last-16, looked sharper than at any point in the past year.\n\nPerhaps that figures. Skippering Norway in their first World Cup since 1998 had long been a bright, shimmering target for Ødegaard. During spells sidelined in 2025-26, he would call Solbakken every week to provide updates on his own condition and discuss matters around a team that sensed it had a chance. Although Ødegaard plays under the weight of a nation, in other ways the reins are off when he turns out for Norway.\n\n“He perhaps has a little bit more of a free role in our team,” Solbakken said, while emphasising many of his responsibilities are similar to those demanded by Arteta. “That comes from the fact he has great experience. Maybe when he plays with Arsenal he has players with the same experience, with Rice and [Martín] Zubimendi they can share it a bit. We maybe put a little bit more on his shoulders. I think he enjoys that, I think he deserves it.”\n\nRice may be deployed to spoil the fun in Miami. It would certainly make sense to task him with nullifying Ødegaard, although against Mexico it was Elliot Anderson who kept a watching brief on the young schemer Gilberto Mora. That may have been a move designed to manage Rice’s workload, although he has proved more than capable of handling it himself. Game management, so crucial in tournament football, is among his biggest strengths. There is a feeling among those close to Rice that he learned from the red card he received for knocking the ball away from Joël Veltman against Brighton two years ago.\n\nRice and Ødegaard are not joined at the hip away from Arsenal but the pair’s relationship is strong and they have been brought closer by their joint success. This time somebody will have to fall short with the finishing line in view. “It’s such a pleasure to share the pitch with him,” Ødegaard said. Time will tell who takes the most enjoyment on Saturday.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1615_5",
+            "category": "england",
+            "type": "News",
+            "title": "Anthony Gordon: ‘I have always been very intrigued to see who I can become’",
+            "bullets": [
+              "England winger on his thirst for self-improvement, triumph at the Azteca and the ‘spiritual’ Thomas ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England winger on his thirst for self-improvement, triumph at the Azteca and the ‘spiritual’ Thomas TuchelIt was a lighthearted moment – despite the language used – and Anthony Gordon saw the funny side. But trust the England winger to find a way to use it as fuel. It is what he does, what he has always done, since his childhood in Liverpool. It has helped him to reach the point where he completed a £60.7m transfer to Barcelona from Newcastle at the end of May. And it is driving him before Saturday’s World Cup quarter-final against Norway in Miami.Most people have seen the clip. There were 26 minutes on the clock at the Azteca Stadium on Sunday; England goalless against Mexico in the last 16. The Mexico manager, Javier Aguirre, who admits that swearing is second nature to him during matches, was in the mood to show off his English. He called out Gordon’s name and when the player turned around, he had a piece of advice. “Fuck you,” Aguirre shouted, before creasing up with laughter. Gordon did the same. Continue reading...",
+            "fullText": "England winger on his thirst for self-improvement, triumph at the Azteca and the ‘spiritual’ Thomas Tuchel\n\nIt was a lighthearted moment – despite the language used – and Anthony Gordon saw the funny side. But trust the England winger to find a way to use it as fuel. It is what he does, what he has always done, since his childhood in Liverpool. It has helped him to reach the point where he completeda £60.7m transfer to Barcelonafrom Newcastle at the end of May. And it is driving him before Saturday’s World Cup quarter-final against Norway in Miami.\n\nMost people have seen the clip. There were 26 minutes on the clock at the Azteca Stadium on Sunday;Englandgoalless against Mexico in the last 16. The Mexico manager, Javier Aguirre, who admits that swearing is second nature to him during matches, was in the mood to show off his English. He called out Gordon’s name and when the player turned around, he had a piece of advice. “Fuck you,” Aguirre shouted, before creasing up with laughter. Gordon did the same.\n\n“I remember it,” Gordon says. “It was a bit of fun. I’d just run the full-back down the line so it was a bit of a compliment from him. That’s how I took it, anyway. He was talking to me and Jude throughout the game. There was a lot of tension, so to speak, to me and Jude … I quite liked it.”\n\nGordon had started brightly but his evening – and that of the team – was about to get better. He was involved in the move for Bellingham’s second goal for 2-0, and it was Gordon who won the critical penalty for Harry Kane to make it 3-1 shortly after England lost Jarell Quansah to a red card.They would win 3-2 – a triumph over adversity, taking in the numerical disadvantage, Mexico’s intimidating record at the Azteca, the home crowd and the high altitude. It is precisely how Gordon likes it.\n\nThere has long been the sense that the 25-year-old almost needs something to go wrong for him before he hits his stride. He remembers the personal frustration of Euro 2024 when he made only one appearance – as an 89th-minute substitute against Slovenia, the0-0 final group matchafter which beer cups were thrown at Gareth Southgate. He has carried it into this tournament.\n\n“I didn’t enjoy it at the time but I can use that for experience,” he says. “I’m not going to lie … I wanted the No 11 shirt here. But when I got No 18, which is what I had at the Euros, I thought: ‘It’s actually a good thing because I get to put [things] right in that number.’ It was a waste of a summer for me [in 2024].”\n\nThe World Cup started badly for Gordon. He barely saw the ball in England’s opening game against Croatia, which theywon 4-2, and was poor in the subsequent stalemate with Ghana. He was dropped for game three against Panama when he was an unused substitute, Marcus Rashford – who did get the No 11 shirt – coming in.\n\nRashford kept his place in the last 32 against the Democratic Republic of the Congo and it was a huge moment for Gordon when he replaced him in the 61st minute, with England trailing 1-0. He came up with two assists for Kane inthe 2-1 victory.\n\n“The reason I’ll always do well is because my mentality towards disappointment is very good,” Gordon says. “The first two games didn’t go how I dreamt of starting in aWorld Cupat all. But when I’m called upon against Congo, I reacted very well.\n\n“I missed a lot of football towards the end of the season [because of injury at Newcastle] and I didn’t think it would feel how it felt in the first two games. I felt rusty. But I used them as a platform for the Congo game. I felt like I’d played it safe. I wasn’t playing to my individual strength. When I got the chance against Congo, I just thought: ‘I’m not doing that. I’m going to do the things that got me here.’”\n\nGordon goes back to where it all started; when the desire was first stoked. “I was born in Norris Green in Liverpool and then moved to Walton,” he says. “Both are very poor areas, a lot of things going wrong, but there are things going wrong everywhere. It made me who I am. It created a very strong character and fire in me to get out of that area and want better for my family.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1616_6",
+            "category": "england",
+            "type": "News",
+            "title": "Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
+            "bullets": [
+              "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy yearsA couple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. Seated Nude With Necklace, by Modigliani, went for £41.5m; La Belle Promenade, by Magritte, went for £13.5m. And amid all the feverish commentary on the resilience of the London art market and the enduring appeal of post‑war pieces among the younger generation of collectors, one question above all presented itself: was this all for the benefit of Roberto De Zerbi?Naturally, it would be premature to link the sale of a significant portion of Joe Lewis’s art collection to the lavish summer transfer spending of the football club he owns. But of course money is money, and in a summer where Tottenham Hotspur are spending an unprecedented £230m in the transfer market, funded in large part through cash injections from the Lewis family, the connections make themselves. Are Tottenham’s owners selling off the family heirlooms to pay for Jan Paul van Hecke? And on a wider level, what exactly are the Premier League’s 17th-best club playing at here? Continue reading...",
+            "fullText": "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy years\n\nAcouple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. Seated Nude With Necklace, by Modigliani, went for £41.5m; La Belle Promenade, by Magritte, went for £13.5m. And amid all the feverish commentary on the resilience of the London art market and the enduring appeal of post‑war pieces among the younger generation of collectors, one question above all presented itself: was this all for the benefit of Roberto De Zerbi?\n\nNaturally, it would be premature to link the sale of a significant portion ofJoe Lewis’s art collectionto the lavish summer transfer spending of the football club he owns. But of course money is money, and in a summer where Tottenham Hotspur are spending an unprecedented £230m in the transfer market, funded in large part through cash injections from the Lewis family, the connections make themselves. Are Tottenham’s owners selling off the family heirlooms to pay for Jan Paul van Hecke? And on a wider level, what exactly are the Premier League’s 17th-best club playing at here?\n\nThe consensus appears to be that Tottenham are lavishly spending their way out of the trouble they have found themselves in for the past two seasons. The era of parsimony is over. And while there have been plenty of eyebrows raised at the fees quoted –£85m for Mateus Fernandes from West Ham, apotential £100m for Sandro Tonali from Newcastle,£52m for Van Hecke from Brighton, big wage packets for Marcos Senesiand Andrew Robertson– in a way, the overspending is the point, a deliberate vibe shift, the equivalent of the £9.50 pint you buy at the airport on the first morning of your holiday.\n\nWhether or not any of these players succeed or fail is, in a way, beside the point. Van Hecke is a very good defender but by no stretch of the imagination good enough to merit the 12th‑most expensive transfer fee for a centre-half in history. Fernandes is 21 and his price was inflated by a bidding war with Manchester United. Tonali, by contrast, is 26 years old, the point at which resale value goes into reverse, and for all the Italian’s undoubted playmaking qualities it stretches the bounds of credulity to suggest that Tottenham could not have bought a better midfielder for less money.\n\nSenesi and Robertson, meanwhile, are 29 and 32 respectively and, while both were free transfers, their outsized salaries will generate significant upward pressure on the club’s strict wage ceiling. None of this is rocket science, which suggests that this is a deliberate strategy by Tottenham, an attempt to build a team for now rather than a squad for later.\n\nFor many fans, this loosening of the strings is long overdue. Under the stewardship of Daniel Levy, Tottenham consistently finished near the bottom of the league when it came to wages expended as a proportion of revenue. In 2024‑25, only 45% of revenue went on wages, the lowest of all 20 clubs. And financially speaking, this is now a club rubbing shoulders with the elite, with multiple revenue streams from commercial to hospitality to pop concerts to boxing fights. After a hellish few years, why not open the shoulders? Why not live a little?\n\nOf course, the real issue here is not the money but who is spending it and why. After saving Tottenham from relegation, De Zerbi has been handed significant power over recruitment alongside the sporting director, Johan Lange, and the chief executive, Vinai Venkatesham. A move for Sebastian Kehl from Borussia Dortmund reportedly fell through when Kehl was alarmed at the level of influence De Zerbi enjoyed. And so Spurs fans are watching one of their most consequential transfer windows in the club’s history unfold in the hands of a volatile ideologue manager and the two guys who hired Igor Tudor. Do you trust them to do this right? Do they even trust themselves?\n\nAt the heart of all this, really, is a question that Tottenham have spent years trying and failing to answer: what exactly constitutes success for a club of their size? This is, after all, the ninth-richest club in the world, punching alongside the genuine giants of the sport, and yet the only one that operates without the expectation of regularly winning things. What is the point of Spurs, really? Top-five stalwarts? A cup tilt every now and again? Romance? Banter? A high-yield cash machine? A kind of Statue of Liberty for European football: give me your tired, your poor, your huddled masses, your Conor Gallaghers, your James Maddisons?\n\nKick off your evenings with the Guardian's take on the world of football\n\nPerhaps the central failing of the Daniel Levy years – a structure that should naturally have lent itself to stability and long-term planning – was that it never really settled on an identity. We will be frugal and win things with young players. We will be a Legacy Big Club with a Legacy Big Club manager. We will be the plucky underdog playing fighting football. And now this – Tottenham as luxury marque, a mid-table Ed Woodward vehicle, the struggling salesman who turns up not on a bicycle but with a bid for Eli Junior Kroupi. Perception, yeah?\n\nWe have, of course, glossed over the fact that in the new squad-cost-ratio era, Tottenham’s summer spending has a measurable impact on what they are able to do in future windows, or in other areas of the pitch. We can ignore the fact that they have managed to spend almost an entire Sotheby’s windfall without addressing the chronic lack of a goalscorer to replace Harry Kane or Son Heung-min. We can overlook the departures of Luka Vuskovic and probably Lucas Bergvall, two of the most promising young players in Europe, and what that says about the wider strategy. Because as long as Tottenham keep avoiding relegation, they can keep doing this.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1616_7",
+            "category": "england",
+            "type": "News",
+            "title": "Haaland: England should be confident - the pressure is on them",
+            "bullets": [
+              "Norway's Erling Haaland says England should rightly feel confident ahead of the quarter-final clash ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norway's Erling Haaland says England should rightly feel confident ahead of the quarter-final clash between the two sides, insisting the pressure is firmly on Thomas Tuchel's side to progress.",
+            "fullText": "England take on Norway in Miami on Saturday for a place in the World Cup semi-finals; Norway and Manchester City striker Erling Haaland thinks England have every reason to be confident and insists the pressure is very much on the Three Lions to win the game and qualify for the semi-finals",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-09 @ 13:22:41 EDT",
+  "lastUpdated": "2026-07-09 @ 16:16:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
