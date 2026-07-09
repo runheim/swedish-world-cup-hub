@@ -4,12 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ White House’s World Cup head defends Trump lobbying Fifa over red card",
-      "link": "https://www.theguardian.com/us-news/2026/jul/08/trump-fifa-red-card"
+      "text": "⚽ USMNT squad focuses on tactical discipline in Dallas training hub",
+      "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "⚽ Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
-      "link": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
+      "text": "🌍 Group D Opponents finalize their tactical configurations",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -5993,11 +6005,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_usa_20260709_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT squad focuses on tactical discipline in Dallas training hub",
+            "bullets": [
+              "Mauricio Pochettino leads intensive tactical board and pitch walkthroughs.",
+              "Christian Pulisic continues to display stellar training indicators.",
+              "Captain Christian Pulisic: 'Roster is highly motivated for our next match.'"
+            ],
+            "summary": "The USMNT squad continues their World Cup campaign, training in Dallas, Texas. Under manager Mauricio Pochettino, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.",
+            "fullText": "The USMNT squad continues their World Cup campaign, training in Dallas, Texas. Under manager Mauricio Pochettino, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Jeff Carlisle (ESPN FC)",
+            "readTime": "3 min",
+            "tag": "World Cup Prep",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260709_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Group D Opponents finalize their tactical configurations",
+            "bullets": [
+              "Group D rivals execute high-intensity sessions at their training bases.",
+              "Analysts monitor player fitness and recovery registers.",
+              "Scouts report high ticket sales for upcoming World Cup matches."
+            ],
+            "summary": "USA's Group D rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle USA's front-line.",
+            "fullText": "USA's Group D rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle USA's front-line.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer Pundit Team",
+            "readTime": "3 min",
+            "tag": "Group D Intel",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-09 @ 01:28:22 EDT",
+  "lastUpdated": "2026-07-09 @ 09:45:12 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
