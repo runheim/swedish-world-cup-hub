@@ -4,36 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ 'It was good vibes in there' - Stones on viral prank",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdej0znl156o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ How Kane and Haaland compare - who would you pick?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yzzz54kllo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Idolises Ronaldo, plays like Saka - meet £40m Chelsea winger Quenda",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c629q72yr90o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ England players granted day off after Mexico win",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx24re32r4lo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ The World Cup stars who could have played for England",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0lyj77w9z7o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England’s big chances and France’s shots: how World Cup quarter-finalists’ stats line up",
+      "link": "https://www.theguardian.com/football/2026/jul/09/england-big-chances-france-shots-how-world-cup-quarter-finalists-stats"
     },
     {
-      "text": "⚽ Reece James remains injury doubt as England’s World Cup right-back woes go on",
-      "link": "https://www.theguardian.com/football/2026/jul/08/reece-james-remains-injury-doubt-england-right-back-woes-norway-world-cup-quarter-final"
+      "text": "⚽ Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
+      "link": "https://www.theguardian.com/football/2026/jul/09/team-for-now-not-a-squad-for-later-spurs-are-spending-big-but-what-is-it-for"
     },
     {
-      "text": "⚽ England to get bank holiday if team win World Cup, Starmer expected to announce",
-      "link": "https://www.theguardian.com/football/2026/jul/08/england-to-get-bank-holiday-if-team-win-world-cup-starmer-expected-to-announce"
-    },
-    {
-      "text": "⚽ No league tables, no trophies: how Norway made sport fun for kids – and built a football team that beat Brazil",
-      "link": "https://www.theguardian.com/football/2026/jul/08/how-norway-made-sport-fun-kids-built-football-team-beat-brazil-world-cup"
-    },
-    {
-      "text": "⚽ Statesman, comedian and dealer of hard truths: how Kylian Mbappé became the king of this World Cup",
-      "link": "https://www.theguardian.com/football/2026/jul/08/kylian-mbappe-france-world-cup-2026"
-    },
-    {
-      "text": "⚽ Refereeing at this World Cup has been fine, we don’t need input of Tuchel and Trump | Chris Foy",
-      "link": "https://www.theguardian.com/football/2026/jul/08/refereeing-world-cup-fine-input-tuchel-trump-comment"
+      "text": "⚽ Bellingham unlocked? How Tuchel has helped him find a new level",
+      "link": "https://www.skysports.com/football/news/12040/13561683/how-thomas-tuchel-has-helped-unlock-jude-bellinghams-attacking-potential-for-england-8211-between-the-lines"
     },
     {
       "text": "⚽ Fury vs AJ must start at 2am if fight is staged at Wembley",
@@ -22546,11 +22542,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4106_0",
+            "category": "england",
+            "type": "News",
+            "title": "'It was good vibes in there' - Stones on viral prank",
+            "bullets": [
+              "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel br...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones talks about the viral dressing-room injury prank that left England boss Thomas Tuchel briefly stunned.",
+            "fullText": "England win thriller against Mexico to reach quarter-finals\n\nIt was one oftheviral moments fromEngland's 3-2 victory over Mexico.\n\nA glimpse inside the Three Lions' changing room showed manager Thomas Tuchel clapping along to the post-match tunes, before halting his celebrations in concern as Declan Rice flags that defender John Stones has injured his shoulder.\n\nBut Stones, who'd been holding his shoulder and flexing his arm in apparent discomfort, then starts pumping his fist towards the ceiling as the drop kicks in - to cheers from his team-mates and the obvious relief of Tuchel.\n\nA bouncing Tuchel then pogos over to the 32-year-old to give him a hug and a viral moment is born, clocking up more than 40m views on social media.\n\n\"It's feeling better now, it's feeling better - it has its ups and downs,\" joked Stones when asked about his shoulder during an interview with England's in-house media.\n\nThe prank came after midfielder Jordan Henderson suffered a freak injury as he fell while jumping over the advertising hoardings following the match.\n\nStones added: \"I tried to keep a straight face as I was doing it because I saw he [Tuchel] was concerned and thinking, 'has he actually hurt himself?'.\n\n\"Especially after what Hendo had just done outside, he didn't know what was going to come but it was good vibes in there.\n\n\"I didn't think it would get that much traction to be fair.\"\n\nStones, who started England's opening 4-2 win against Croatia and made a last-minute appearance in the 2-1 win over DR Congo, came on with just over half an hour to play against Mexico when winger Bukayo Saka was sacrificed following Jarrel Quansah's red card.\n\nEngland play Norway in the quarter-finalsin Miami on Saturday (22:00 BST).",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4107_1",
+            "category": "england",
+            "type": "News",
+            "title": "How Kane and Haaland compare - who would you pick?",
+            "bullets": [
+              "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-fin...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Two of the world's best strikers - Harry Kane and Erling Haaland - meet in the World Cup quarter-finals - but who would you rather have?",
+            "fullText": "Erling Haaland has seven goals and Harry Kane six at the 2026 World Cup\n\nFrom the moment Harry Kane's proposed move to Manchester City in August 2021 broke down, his career has been linked with that of Erling Haaland.\n\nThat's because the giant Norwegian arrived the next summer and then fired City to a Treble.\n\nThen, Kane was captain of Tottenham. He had no trophies, no silverware and seemed to have missed out on his big move.\n\nFast forward a few years and the two face off on Saturday as central to their country's World Cup hopes, only now with a different narrative.\n\nSince moving to Bayern Munich in 2023, he has twice won the Bundesliga and the European Golden Shoe for top scorer on the continent.\n\nDespite being born in Leeds, Haaland, who already has seven in his first World Cup, would love nothing more than to stop him.\n\n'That was a rocket' - Kane scores winner for England\n\nAny comparison of Haaland and Kane has to start with the most important metric in football: goals.\n\nEver since Kanescored with his third touchfor his country in March 2015, he has been the driving force behind England's bid to end their long wait for international silverware.\n\nEighty five goals later, he remains the central figure of Thomas Tuchel's side, the classy captain that can always be relied upon for a match-winning performance.\n\nWitness his two goalsagainst DR Congo in the last 32, and a nerveless penalty at Azteca Stadium tosee off Mexicoa round later as examples.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4107_2",
+            "category": "england",
+            "type": "News",
+            "title": "Idolises Ronaldo, plays like Saka - meet £40m Chelsea winger Quenda",
+            "bullets": [
+              "Chelsea's new signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leavin...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea's new signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leaving Sporting's academy for the challenge and exposure of the Premier League.",
+            "fullText": "Chelsea's newest signing Geovany Quenda hopes to follow in the footsteps of Cristiano Ronaldo by leaving Sporting's academy for the challenge and exposure of the Premier League.\n\nOften compared stylistically toArsenalwinger Bukayo Saka, Quenda's journey began with an episode that has since become part of his personal folklore.\n\nArriving at an early training session at grassroots club Damaiense wearing jeans and shoes, he was initially told he could not take part.\n\nBut after producing an effortless first touch and dribble when the ball came his way, coach Ana Correia persuaded club officials to \"make an exception\" for Quenda, as she later recalled in an interview with Sabado.\n\nQuenda's path to the top was far from conventional. Born in Guinea-Bissau, he moved to Portugal at the age of seven and had to adapt quickly to a new environment.\n\nThat journey took him from the Damaiense's under-10s to Benfica's academy before he joined city rivals Sporting, where his development propelled him to prominence in Portuguese football.\n\nNow atChelsea, having reportedly agreed to join as far back as March 2025 but only just formally unveiled on a contract until 2034, the Portugal Under-21 international has the opportunity to showcase his talent on an even bigger stage.\n\nWhen Quenda joinedChelsea, he was accompanied by his father, mother, sisters, friends, agents and his godfather Basaula Lemba, a former top-flight footballer in Portugal who also won 10 caps for Zaire.\n\nLemba played an important role in Quenda's early development before Benfica brought him into their academy system in 2017.\n\nSporting and Porto had also been tracking him at the time, according to former youth coach Fabio Roque.\n\n\"We saw him as an under-10 player playing against us for Benfica,\" Roque told BBC Sport.\n\n\"We knew from our scouting team that he was a good player and had tracked his progress through the Portuguese Football Federation website.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4108_3",
+            "category": "england",
+            "type": "News",
+            "title": "England players granted day off after Mexico win",
+            "bullets": [
+              "England manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as th...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as the squad recharged after their euphoric win over Mexico.",
+            "fullText": "England face Norway in their World Cup quarter-final on Saturday\n\nEngland manager Thomas Tuchel gave his players permission for an offsite family day on Tuesday as the squad recharged after their euphoric win over Mexico.\n\nThe team were allowed to leave their hotel in Prairie Village, near Kansas City, with many of them using the opportunity to spend time with their loved ones away from their World Cup camp.\n\nThe pass from Tuchel extended into the evening with many having dinner with their partners before returning to camp for the team's first training session on Wednesday as they prepare for the World Cup quarter-final against Norway on Saturday.\n\nMonday's 3-2 win in Mexico City was a result and performance that many have described as England's best World Cup performance since the final of 1966.\n\nBut there have been concerns about how mentally and physically taxing the game at the Azteca Stadium - coupled with the four games prior to that victory - has been for the players, given the game was played at high altitude.\n\nSources have indicated the team's final training session before the game against Mexico was mainly a walkthrough, with Tuchel increasingly aware of conserving energy heading into the latter stages of the tournament.\n\nIndeed, Tuchel is hopeful that allowing his players to unwind away from the team camp on Tuesday will ease the strain on his squad before their meeting with the Norwegians in Miami at the weekend.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4108_4",
+            "category": "england",
+            "type": "News",
+            "title": "England’s big chances and France’s shots: how World Cup quarter-finalists’ stats line up",
+            "bullets": [
+              "Each of the eight teams has at least one key strength, from Swiss speed to Spanish defenceThe World ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Each of the eight teams has at least one key strength, from Swiss speed to Spanish defenceThe World Cup has reached the quarter-final stage and the favourites to reach the last four in descending order of likelihood, according to Opta, are France, Spain, Argentina and England. All eight remaining teams have positive data in their favour from the tournament, though. Continue reading...",
+            "fullText": "Each of the eight teams has at least one key strength, from Swiss speed to Spanish defence\n\nThe World Cup has reached the quarter-final stage and the favourites to reach the last four in descending order of likelihood, according to Opta, are France, Spain,Argentinaand England. All eight remaining teams have positive data in their favour from the tournament, though.\n\nThe ability of the France squadto glide past opponents is incredible. Opta measures ball carries of at least five metres, with additional information on whether the player in question ended his run with a shot or chance created. There are nine players who have at least four of both types of productive carry: Ousmane Dembélé, Désiré Doué, Kylian Mbappé and Michael Olise are four of them, with Bradley Barcola one carry-powered chance-creating pass away from joining them.\n\nMorocco have logged the most sprints of the eight teams remaining. They have played an additional half-hour compared with some sides, though there isn’t likely to be too much sprinting in extra time.\n\nIf you divide each team’s sprint total by the distance they have covered, Morocco have the highest average, suggesting they have run most intensely. Playing two of their matches in air-conditioned stadiums may have helped, but they should have the physicality to cope withFrance.\n\nSpain’s average possession is within a couple of decimal places of what they averaged at Euro 2012. While this team is not as dour as their predecessors from 14 years ago, their ownership of the ball has enabled them to have a similarly impervious defence.\n\nTo put the expected goal total Spain have conceded into context,Norwayhave allowed at least 1.49 xG in four of their five matches.\n\nOpta’s high-turnover metric records when a team begins an open-play possession sequence within 40 metres of the opposition goal. Spain lead this stat with 50, whileBelgium(41) are in the chasing pack.\n\nThe edge Belgium enjoy is no team being close to them for the number of high turnovers that resulted in shots (15), with their four goals from them also the top mark. Spain’s backline may get pressed into uncharacteristic mistakes.\n\nQuality, not quantity has very much been Norway’s motto. They have taken only four shots more than Cape Verde despite playing an extra match. The average quality of their chances, as measured by expected goals, has been higher than any other team.\n\nWhile five games is a tiny sample, Norway’s non-penalty xG per shot (0.17) is higher than any team averaged in Europe’s big five leagues last season.\n\nEngland produced a ruthlessattacking performance against Mexico: six shots, five of which were on target, scoring three times. As they struck via two tap-ins and a penalty, their goals were deemed by Opta to be big chances, which are defined as when “a player should reasonably be expected to score”.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4108_5",
+            "category": "england",
+            "type": "News",
+            "title": "Team for now, not a squad for later – Spurs are spending big but what is it for? | Jonathan Liew",
+            "bullets": [
+              "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy yearsA couple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. Seated Nude With Necklace, by Modigliani, went for £41.5m; La Belle Promenade, by Magritte, went for £13.5m. And amid all the feverish commentary on the resilience of the London art market and the enduring appeal of post‑war pieces among the younger generation of collectors, one question above all presented itself: was this all for the benefit of Roberto De Zerbi?Naturally, it would be premature to link the sale of a significant portion of Joe Lewis’s art collection to the lavish summer transfer spending of the football club he owns. But of course money is money, and in a summer where Tottenham Hotspur are spending an unprecedented £230m in the transfer market, funded in large part through cash injections from the Lewis family, the connections make themselves. Are Tottenham’s owners selling off the family heirlooms to pay for Jan Paul van Hecke? And on a wider level, what exactly are the Premier League’s 17th-best club playing at here? Continue reading...",
+            "fullText": "Tottenham’s strategies have changed over the years and this summer’s transfer splurge marks a sharp turn away from the Levy years\n\nAcouple of weeks ago, Sotheby’s in London concluded one of its biggest art auctions. In all, the sale of 25 modern and contemporary works raised almost £300m. Seated Nude With Necklace, by Modigliani, went for £41.5m; La Belle Promenade, by Magritte, went for £13.5m. And amid all the feverish commentary on the resilience of the London art market and the enduring appeal of post‑war pieces among the younger generation of collectors, one question above all presented itself: was this all for the benefit of Roberto De Zerbi?\n\nNaturally, it would be premature to link the sale of a significant portion ofJoe Lewis’s art collectionto the lavish summer transfer spending of the football club he owns. But of course money is money, and in a summer where Tottenham Hotspur are spending an unprecedented £230m in the transfer market, funded in large part through cash injections from the Lewis family, the connections make themselves. Are Tottenham’s owners selling off the family heirlooms to pay for Jan Paul van Hecke? And on a wider level, what exactly are the Premier League’s 17th-best club playing at here?\n\nThe consensus appears to be that Tottenham are lavishly spending their way out of the trouble they have found themselves in for the past two seasons. The era of parsimony is over. And while there have been plenty of eyebrows raised at the fees quoted –£85m for Mateus Fernandes from West Ham, apotential £100m for Sandro Tonali from Newcastle,£52m for Van Hecke from Brighton, big wage packets for Marcos Senesiand Andrew Robertson– in a way, the overspending is the point, a deliberate vibe shift, the equivalent of the £9.50 pint you buy at the airport on the first morning of your holiday.\n\nWhether or not any of these players succeed or fail is, in a way, beside the point. Van Hecke is a very good defender but by no stretch of the imagination good enough to merit the 12th‑most expensive transfer fee for a centre-half in history. Fernandes is 21 and his price was inflated by a bidding war with Manchester United. Tonali, by contrast, is 26 years old, the point at which resale value goes into reverse, and for all the Italian’s undoubted playmaking qualities it stretches the bounds of credulity to suggest that Tottenham could not have bought a better midfielder for less money.\n\nSenesi and Robertson, meanwhile, are 29 and 32 respectively and, while both were free transfers, their outsized salaries will generate significant upward pressure on the club’s strict wage ceiling. None of this is rocket science, which suggests that this is a deliberate strategy by Tottenham, an attempt to build a team for now rather than a squad for later.\n\nFor many fans, this loosening of the strings is long overdue. Under the stewardship of Daniel Levy, Tottenham consistently finished near the bottom of the league when it came to wages expended as a proportion of revenue. In 2024‑25, only 45% of revenue went on wages, the lowest of all 20 clubs. And financially speaking, this is now a club rubbing shoulders with the elite, with multiple revenue streams from commercial to hospitality to pop concerts to boxing fights. After a hellish few years, why not open the shoulders? Why not live a little?\n\nOf course, the real issue here is not the money but who is spending it and why. After saving Tottenham from relegation, De Zerbi has been handed significant power over recruitment alongside the sporting director, Johan Lange, and the chief executive, Vinai Venkatesham. A move for Sebastian Kehl from Borussia Dortmund reportedly fell through when Kehl was alarmed at the level of influence De Zerbi enjoyed. And so Spurs fans are watching one of their most consequential transfer windows in the club’s history unfold in the hands of a volatile ideologue manager and the two guys who hired Igor Tudor. Do you trust them to do this right? Do they even trust themselves?\n\nAt the heart of all this, really, is a question that Tottenham have spent years trying and failing to answer: what exactly constitutes success for a club of their size? This is, after all, the ninth-richest club in the world, punching alongside the genuine giants of the sport, and yet the only one that operates without the expectation of regularly winning things. What is the point of Spurs, really? Top-five stalwarts? A cup tilt every now and again? Romance? Banter? A high-yield cash machine? A kind of Statue of Liberty for European football: give me your tired, your poor, your huddled masses, your Conor Gallaghers, your James Maddisons?\n\nKick off your evenings with the Guardian's take on the world of football\n\nPerhaps the central failing of the Daniel Levy years – a structure that should naturally have lent itself to stability and long-term planning – was that it never really settled on an identity. We will be frugal and win things with young players. We will be a Legacy Big Club with a Legacy Big Club manager. We will be the plucky underdog playing fighting football. And now this – Tottenham as luxury marque, a mid-table Ed Woodward vehicle, the struggling salesman who turns up not on a bicycle but with a bid for Eli Junior Kroupi. Perception, yeah?\n\nWe have, of course, glossed over the fact that in the new squad-cost-ratio era, Tottenham’s summer spending has a measurable impact on what they are able to do in future windows, or in other areas of the pitch. We can ignore the fact that they have managed to spend almost an entire Sotheby’s windfall without addressing the chronic lack of a goalscorer to replace Harry Kane or Son Heung-min. We can overlook the departures of Luka Vuskovic and probably Lucas Bergvall, two of the most promising young players in Europe, and what that says about the wider strategy. Because as long as Tottenham keep avoiding relegation, they can keep doing this.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4108_6",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham unlocked? How Tuchel has helped him find a new level",
+            "bullets": [
+              "England's strength lies in the collective according to Thomas Tuchel. \"If any team has heart and bel...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's strength lies in the collective according to Thomas Tuchel. \"If any team has heart and belief, then it's this team,\" he said after the victory over Mexico. But Jude Bellingham, together with Harry Kane, is showing the value of star quality too.",
+            "fullText": "Between the Lines,unpicks the data behind football's biggest stories and reveals how Thomas Tuchel has helped take Jude Bellingham's game to new heights for England ahead of Saturday's World Cup quarter-final with Norway",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4109_7",
+            "category": "england",
+            "type": "News",
+            "title": "Fury vs AJ must start at 2am if fight is staged at Wembley",
+            "bullets": [
+              "The blockbuster heavyweight clash between Tyson Fury and Anthony Joshua would need to take place at ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The blockbuster heavyweight clash between Tyson Fury and Anthony Joshua would need to take place at 2am if it is to be held at Wembley Stadium.",
+            "fullText": "Organisers of a fight between Tyson Fury and Anthony Joshua want it to start no earlier than 2am if it is to take place at London's Wembley Stadium; it remains unclear whether Mayor of London, Sir Sadiq Khan, and other local authorities will approve an extension to the usual 11pm curfew",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-09 @ 01:27:43 EDT",
+  "lastUpdated": "2026-07-09 @ 09:41:12 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
