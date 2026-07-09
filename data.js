@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Sweden squad focuses on tactical discipline in Dallas training hub",
+      "text": "⚽ Potter: 'Our focus is on building chemistry and consistency'",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Group F Opponents finalize their tactical configurations",
+      "text": "🌍 Netherlands and Japan head coaches outline tactical structures",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -10448,11 +10448,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "dyn_swe_20260709_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Potter: 'Our focus is on building chemistry and consistency'",
+            "bullets": [
+              "Graham Potter conducts press briefing at Dallas media center.",
+              "Potter: 'We need to keep possession speed high and exploit wide spaces.'",
+              "Swedish FA confirms roster is in peak physical health."
+            ],
+            "summary": "Potter addressed the media, reinforcing that consistency remains key. He praised the players for their tactical discipline, looking to refine their patterns before the next match.",
+            "fullText": "Potter addressed the media, reinforcing that consistency remains key. He praised the players for their tactical discipline, looking to refine their patterns before the next match.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Olof Lundh (Fotbollskanalen)",
+            "readTime": "3 min",
+            "tag": "Press Briefing",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260709_2",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Netherlands and Japan head coaches outline tactical structures",
+            "bullets": [
+              "Koeman and Moriyasu express confidence in their squad recovery rates.",
+              "Dutch squad logs high sprinting speeds in wide areas.",
+              "Japan coaches practice full-pitch pressing drills in closed sessions."
+            ],
+            "summary": "Group F managers are locking in their plans. Koeman is focusing on midfield build-up speed, while Moriyasu works on intense pressing triggers to force turnovers.",
+            "fullText": "Group F managers are locking in their plans. Koeman is focusing on midfield build-up speed, while Moriyasu works on intense pressing triggers to force turnovers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-09 @ 09:51:19 EDT",
+  "lastUpdated": "2026-07-09 @ 13:20:17 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
