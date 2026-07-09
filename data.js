@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Pochettino: 'Our focus is on building chemistry and consistency'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Australia and Türkiye head coaches outline tactical structures",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
+      "link": "https://www.theguardian.com/football/2026/jul/09/christian-pulisic-injury-world-cup-usmnt"
     }
   ],
   "timeline": {
@@ -6085,11 +6069,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1711_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
+            "bullets": [
+              "Milan forward was subbed out in a 4-1 lossPulisic had been criticized for his lack of availabilityCh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Milan forward was subbed out in a 4-1 lossPulisic had been criticized for his lack of availabilityChristian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in the World Cup last 16 on Monday, US Soccer announced.Pulisic suffered the injury in the second half in Seattle and was removed shortly afterward. He underwent X-ray and MRI scans on Tuesday to determine the extent of the injury, which is expected to keep Pulisic out for several weeks. US Soccer said the federation and Milan are working collaboratively on his rehab plan. Continue reading...",
+            "fullText": "Pulisic had been criticized for his lack of availability\n\nChristian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in theWorld Cuplast 16 on Monday, US Soccer announced.\n\nPulisic suffered the injury in the second half in Seattle and was removed shortly afterward. He underwent X-ray and MRI scans on Tuesday to determine the extent of the injury, which is expected to keep Pulisic out for several weeks. US Soccer said the federation and Milan are working collaboratively on his rehab plan.\n\nIn the wake of the US’s disastrous exit from the World Cup, some pundits seized upon comments he made to journalists after the match regarding the injury. Asked about what happened, Pulisic said “I just totally twisted my ankle and my knee in one play … I have time to rest. It’s just unfortunate way to finish.”\n\nCarli Lloyd, the former US women’s national team star now working as an analyst for Fox, tweeted “You rest when your playing career is over. Period.” the day after the match, seemingly directed at Pulisic.\n\nLandon Donovan, former captain of the US men’s national team, said on his Unfiltered Soccer podcast that “the reality is, [Pulisic] came out of a World Cup knockout game at home, with his leg still intact … you would have had to fucking drag me off the field. And I would have punched the doctor in the face and said, ‘You’re not taking me off the field. Put whatever you need to put in me, and I’m staying on the field.’”\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nPulisic’s injury-hit World Cup campaign was one of the bigger disappointments of the Americans’ run to the last 16. The Milan forward played brilliantly in the opening 45 minutes of a 4-1 win over Paraguay, but was removed at half-time after aggravating a left-calf injury – an ailment that also caused him to miss the US’s second group game, a 2-0 win over Australia. He came on as a substitute in a dead-rubber 3-2 loss to Turkey, then started and played 88 minutes but was only occasionally dangerous in the 2-0 win over Bosnia and Herzegovina in the last 32.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-09 @ 13:22:55 EDT",
+  "lastUpdated": "2026-07-09 @ 16:17:19 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
