@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Belgium take strength from ‘millions and millions’ of new fans before Spain clash",
+      "link": "https://www.theguardian.com/football/2026/jul/10/belgium-rudi-garcia-world-cup-quarter-final-spain"
+    },
+    {
       "text": "⚽ Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
       "link": "https://www.theguardian.com/football/2026/jul/09/christian-pulisic-injury-world-cup-usmnt"
     }
@@ -6116,10 +6120,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-10": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1520_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Belgium take strength from ‘millions and millions’ of new fans before Spain clash",
+            "bullets": [
+              "Rudi Garcia says his team can benefit from Balogun red card saga‘Everyone is talking about us going...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Rudi Garcia says his team can benefit from Balogun red card saga‘Everyone is talking about us going home but we can do it,’ coach saysRudi Garcia has claimed that Belgium have got “millions and millions” of new supporters after Donald Trump lobbied Fifa to overturn Folarin Balogun’s red card ahead of their victory against the USA in the last 16 – and that they will take “incredible strength” from that against Spain in their quarter-final. The Belgium coach also insisted that he has faith in his team, even though “everyone thinks we are going home”. Garcia, after all, has a not-so-secret weapon sitting on the bench: when striker Romelu Lukaku is introduced, he said, opponents “quake in their boots”.Trump boasted that he had phoned Fifa to get Balogun’s punishment put on hold after the direct red card he was shown against Bosnia and Herzegovina. But despite Fifa’s unprecedented decision to suspended the striker’s ban for a year, Belgium still defeated the USA 4-1. At full-time, the Belgium football federation’s social media accounts declared “overturn this” and players celebrated by parodying Trump’s dance. Garcia also confirmed that he had spoken to Balogun, telling him he could not be blamed for Trump’s lobbying or Fifa’s willingness to cede to it. Continue reading...",
+            "fullText": "Rudi Garcia says his team can benefit from Balogun red card saga\n\n‘Everyone is talking about us going home but we can do it,’ coach says\n\nRudi Garcia has claimed that Belgium have got “millions and millions” of new supporters after Donald Trump lobbied Fifa to overturn Folarin Balogun’s red card ahead of theirvictory against the USAin the last 16 – and that they will take “incredible strength” from that against Spain in their quarter-final. The Belgium coach also insisted that he has faith in his team, even though “everyone thinks we are going home”. Garcia, after all, has a not-so-secret weapon sitting on the bench: when striker Romelu Lukaku is introduced, he said, opponents “quake in their boots”.\n\nTrump boasted that he had phoned Fifato getBalogun’s punishment put on holdafter thedirect red cardhe was shown against Bosnia and Herzegovina. But despite Fifa’s unprecedented decision to suspended the striker’s ban for a year,Belgium still defeated the USA4-1. At full-time, the Belgium football federation’s social media accounts declared“overturn this”andplayers celebratedby parodying Trump’s dance. Garcia also confirmed that he had spoken to Balogun, telling him he could not be blamed for Trump’s lobbying or Fifa’s willingness to cede to it.\n\nThat victory meansBelgiumwill take the USA’s place against Spain at Los Angeles Stadium, with the immense majority of the 80,000-capacity stadium likely to be occupied by American supporters. But Garcia insisted that, far from fearing a hostile reception, which they had already overcome against the co-hosts in Seattle, his team was ready – stronger and more popular than before.\n\n“The conditions will only be as difficult as they were in the round of 16,” Garcia said. “We had 12 million Belgium fans and now, over the last few days, I think we have millions and millions behind us; they have joined our ranks and I think that will be great. I think that will give us incredible strength. I don’t know what [the atmosphere] will be like in the stadium but we will concentrate on what we have to do. We have enough on our plate with the Spanish squad.\n\n“We know we are playing one of the favourites and we know the strength they have as individuals and as a collective, which has been the case for 15 or 20 years now,” Garcia added. “They are the best when it comes to possession of the ball and we know that they have not conceded a goal but statistics are there to be broken and we will do what we can to score. If not, we will be sent packing. We are the second highest scoring team at theWorld Cup. Everyone is talking about us going home but we can do it.\n\n“Maybe some are discovering our team now but I know them off by heart. I know their character and what they can do. The quality of the group is not shown when things are going swimmingly; it is shown when we are in hot water. Against Senegal, a team that should never have finished third in a group, but had France and Norway with them, we were able to get through. I have two XIs: one that starts the game and one that finishes it and we have lots of qualities on the bench. I have one of the best strikers of all time there.”\n\nThat striker was sitting alongside Garcia, who joked that Lukaku was just pretending to be a substitute when actually he was going to start. The two men explained the role played by the country’s all-time leading scorer after a season in which he was unable to start a single game for Napoli.\n\n“We had lots of chats. When he comes on the opponents are quaking in their boots, they are much more worried,” Garcia said, and that has been borne out.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAlthough the 33-year-old has started only one game at this tournament, he has scored three times and provided an assist. He is running at a goal for every 50 minutes played, including one against the US, and his total with the national team is an astonishing 93 goals. Only Cristiano Ronaldo, Lionel Messi, Ali Daei (Iran) and Sunil Chhetri (India) have more. Lukaku hasscored at a faster rate internationally than Ronaldo and Messi.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1520_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
+            "bullets": [
+              "Milan forward was subbed out in a 4-1 lossPulisic had been criticized for his lack of availabilityCh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Milan forward was subbed out in a 4-1 lossPulisic had been criticized for his lack of availabilityChristian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in the World Cup last 16 on Monday, US Soccer announced.Pulisic suffered the injury in the second half in Seattle and was removed shortly afterward. He underwent X-ray and MRI scans on Tuesday to determine the extent of the injury, which is expected to keep Pulisic out for several weeks. US Soccer said the federation and Milan are working collaboratively on his rehab plan. Continue reading...",
+            "fullText": "Pulisic had been criticized for his lack of availability\n\nChristian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in theWorld Cuplast 16 on Monday, US Soccer announced.\n\nPulisic suffered the injury in the second half in Seattle and was removed shortly afterward. He underwent X-ray and MRI scans on Tuesday to determine the extent of the injury, which is expected to keep Pulisic out for several weeks. US Soccer said the federation and Milan are working collaboratively on his rehab plan.\n\nIn the wake of the US’s disastrous exit from the World Cup, some pundits seized upon comments he made to journalists after the match regarding the injury. Asked about what happened, Pulisic said “I just totally twisted my ankle and my knee in one play … I have time to rest. It’s just unfortunate way to finish.”\n\nCarli Lloyd, the former US women’s national team star now working as an analyst for Fox, tweeted “You rest when your playing career is over. Period.” the day after the match, seemingly directed at Pulisic.\n\nLandon Donovan, former captain of the US men’s national team, said on his Unfiltered Soccer podcast that “the reality is, [Pulisic] came out of a World Cup knockout game at home, with his leg still intact … you would have had to fucking drag me off the field. And I would have punched the doctor in the face and said, ‘You’re not taking me off the field. Put whatever you need to put in me, and I’m staying on the field.’”\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nPulisic’s injury-hit World Cup campaign was one of the bigger disappointments of the Americans’ run to the last 16. The Milan forward played brilliantly in the opening 45 minutes of a 4-1 win over Paraguay, but was removed at half-time after aggravating a left-calf injury – an ailment that also caused him to miss the US’s second group game, a 2-0 win over Australia. He came on as a substitute in a dead-rubber 3-2 loss to Turkey, then started and played 88 minutes but was only occasionally dangerous in the 2-0 win over Bosnia and Herzegovina in the last 32.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-09 @ 19:12:34 EDT",
+  "lastUpdated": "2026-07-10 @ 01:15:26 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
