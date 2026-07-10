@@ -8,32 +8,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Guehi a doubt for Norway game and Rice ill with bug",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Mexico boss' explicit heckle a bit of fun - Gordon",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Guehi a doubt for Norway game and Rice ill with bug",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/jul/10/nosferatu-golf-weekend-england-players-trust-thomas-tuchel"
     },
     {
+      "text": "⚽ Football Daily | Mbappé and France are on the march. Who’s going to stop them?",
+      "link": "https://www.theguardian.com/football/2026/jul/10/football-daily-email-gwc-france-morocco"
+    },
+    {
       "text": "⚽ Wing wizards or worries? England and Norway have choices to make out wide",
       "link": "https://www.theguardian.com/football/2026/jul/10/wing-wizards-england-norway-2026-world-cup-quarter-final"
-    },
-    {
-      "text": "⚽ India three down on day one of historic Lord's Test vs England LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13562194/england-vs-india-womens-test-day-one-live-cricket-score-updates-video-and-analysis-from-historic-game-at-lords"
-    },
-    {
-      "text": "⚽ Norway vs England tactical dossier: England must impose themselves - not just stop Haaland",
-      "link": "https://www.skysports.com/football/news/12040/13560879/norway-vs-england-tactical-dossier-how-thomas-tuchels-side-can-stop-erling-haaland-and-reach-the-world-cup-semi-finals"
-    },
-    {
-      "text": "⚽ Guehi a serious doubt for quarter-final - could Burn start vs Norway?",
-      "link": "https://www.skysports.com/football/news/12040/13562168/world-cup-2026-england-defender-marc-guehi-a-serious-doubt-for-quarter-final-clash-with-norway"
     }
   ],
   "timeline": {
@@ -23413,11 +23405,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5610_0",
+            "category": "england",
+            "type": "News",
+            "title": "How do England stop Norway - and Haaland?",
+            "bullets": [
+              "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
+            "fullText": "Erling Haaland has scored seven goals so far at the World Cup\n\nNorway may have been touted by many as this World Cup's dark horse, but their impressive progress still feels like they have exceeded expectations.\n\nSince finishing second in Group I, above Senegal, they have knocked out Ivory Coast and Brazil, scoring 12 goals across five games.\n\nNow they face England who are tasked with nullifying a strong Norway side spearheaded by star striker Erling Haaland.\n\nSo, what do Norway do best and what might England boss Thomas Tuchel look to tweak in order to see his side through to the final four of the World Cup?\n\nNorway boast attacking variety with Stale Solbakken's men fluctuating between wanting to hold on to the ball and being able to attack quickly.\n\nFrom goal-kicks, Orjan Nyland's distribution has been excellent. Norway's first instinct is to play short, often setting up with a wide back four and the keeper forming a fifth option, with two holding midfielders showing for the ball centrally.\n\nWith so many players deep, Norway often have an overload at the back making progressing up the pitch easier.\n\nWhen short options are not viable, Nyland's get-out-of-jail-free card is 6ft 5in Alexander Sorloth who Norway play on the right wing as a wide targetman for long diagonal balls.\n\nLong balls to Sorloth on the right wing is a common pattern to look out for when Norway play\n\nThis is something England left-back Nico O'Reilly will have to be alert to, but, given his 6ft 4in height and frame, this is a far more even match-up than Norway have experienced so far.\n\nThere are a few options, but they come with trade-offs, as do all tactical approaches.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5611_1",
+            "category": "england",
+            "type": "News",
+            "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
+            "bullets": [
+              "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\".",
+            "fullText": "Javier Aguirre has been replaced by Rafael Marquez as Mexico boss following the defeat by England\n\nEngland winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\" and a \"compliment\".\n\nDuring a first-half hydration break, Aguirre first spoke to midfielder Jude Bellingham before calling out to Gordon when they were both close to the touchlineduring England's dramatic 3-2 winin the last 16 at the Azteca Stadium.\n\nThe 67-year-old then shouted an explicit remark to the forward before both of them laughed.\n\n\"I remembered it,\" said Gordon, whomoved from Newcastle United to Barcelona this summer.\"It's just a bit of fun.\n\n\"With all the heat and tension around the game, it was a bit of fun.\n\n\"I'd just run the full-back down the line so it was a bit of a compliment from him. That's how I took it anyway.\"\n\nIt was one of several funny moments from the match widely shared on social media including Harry Kane's post-match interview after losing his voice andEngland defender John Stones pretending he was injured.\n\nBellingham scored twice to put England 2-0 up before Julian Quinones pulled a goal back for the World Cup co-hosts.\n\nJarell Quansah was red-carded for England, who restored their two-goal advantage through a Kane penalty.\n\nRaul Jimenez put away a Mexico spot-kick to make it 3-2 before England held on during a tense finale to secure a quarter-final against Norway on Saturday, 11 July (22:00 BST).\n\nAguirre, who has previously led Atletico Madrid, Mallorca and Espanyol over a 31-year managerial career, has since left his post and been replaced by Rafael Marquez.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5611_2",
+            "category": "england",
+            "type": "News",
+            "title": "Guehi a doubt for Norway game and Rice ill with bug",
+            "bullets": [
+              "England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway q...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender Marc Guehi is managing a slight hamstring injury and could miss Saturday's Norway quarter-final.",
+            "fullText": "Marc Guehi has appeared in all five of England's games at the World Cup\n\nEngland defender Marc Guehi will be assessed on Friday to see if he is fit to play in Saturday's World Cup quarter-final against Norway.\n\nThe centre-back has a slight hamstring injury following England's 3-2 victory over Mexico in the last 16 at the Azteca Stadium.\n\nMeanwhile, right-back Reece James returned to training as expected on Thursday and is in contention for the game, but Declan Rice did not train again because of a sickness bug.\n\nInitially it was hoped Guehi was carrying muscular fatigue and would be fit to face Norway.\n\nBut it is understood the Manchester City defender has a hamstring strain.\n\nGuehi is desperate to prove his fitness and remains optimistic he can be involved.\n\nIf he cannot train with the squad on Friday then there will be major doubt over his inclusion against Norway.\n\nThe issue is not viewed as serious, but with seven-goal Erling Haaland to cope with, England head coach Thomas Tuchel can hardly afford to take fitness risks with defenders.\n\nMidfielder Rice is understood to have missed a second successive day of training because of a sickness bug.\n\nRice had already been suffering with a neural issue affecting his hamstring and lower back, and it has been exacerbated by illness.\n\nEngland have taken steps to ensure the bug does not spread.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5612_3",
+            "category": "england",
+            "type": "News",
+            "title": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
+            "bullets": [
+              "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup,...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on MumsnetLet’s set the world on fire. There’s a section in Bill Buford’s classic football hooligan study, Among the Thugs, where he describes being part of a phalanx of England “faces” steaming through the centre of mid-1980s Rotterdam towards some kind of meet, while their leader – the Top Boy, General or similar – runs up and down the column whispering to his men, saying the “energy is high”, “the energy is high”, “feel it”, “the energy is high”.As it is currently for this England team, and quite clearly the players can feel it. You will probably have seen the dressing-room video, which has more than 40m views. Declan Rice and John Stones are shown playing a prank on Thomas Tuchel after the electrical storm masquerading as a football match at the Estadio Azteca on Sunday. Rice pretends Stones has injured his shoulder. Stones plays along with it, delivering a minimalist acting masterclass so contained there is almost no acting at all, before raising his fist as the beat drops (song: Talk To You, by ANOTR) and the room falls about in generalised hysteria. Continue reading...",
+            "fullText": "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet\n\nLet’s set the world on fire. There’s a section in Bill Buford’s classic football hooligan study, Among the Thugs, where he describes being part of a phalanx ofEngland“faces” steaming through the centre of mid-1980s Rotterdam towards some kind of meet, while their leader – the Top Boy, General or similar – runs up and down the column whispering to his men, saying the “energy is high”, “the energy is high”, “feel it”, “the energy is high”.\n\nAs it is currently for this England team, and quite clearly the players can feel it. You will probably have seen the dressing-room video, which has more than 40m views. Declan Rice and John Stones are shown playing a prank onThomas Tuchelafter the electrical storm masquerading as a football match at the Estadio Azteca on Sunday. Rice pretends Stones has injured his shoulder. Stones plays along with it, delivering a minimalist acting masterclass so contained there is almost no acting at all, before raising his fist as the beat drops (song: Talk To You, by ANOTR) and the room falls about in generalised hysteria.\n\nBut, of course, Rice and Stones are not really the main characters here. It is instead the tall, fidgety man in the short-sleeved shirt that the camera loves and lingers on as he claps along with an unignorable gangly energy, head bobbing, like a glimpse into one of those daytime retro-raves where middle-aged surveyors from Guildford pretend it’s 1989 – the summer of love, hardcore you know the score, have a bang on one of these pal, they’re M&S elderflower pastilles – before leaving in time for a 4.30pm psoriasis appointment.\n\nAs the big reveal happens, Tuchel barks with laughter and bump-hugs Stones. And the energy, well, the energy is undeniable, most notably in the comments underneath, which are uplifting and surprisingly tender, with people saying things like: “He gets it;” “He’s one of us;” and, most telling: “I dunno how to explain it but, man, I love Tuchel.”\n\nTeams are strange things, made up of abstract bonds, metrics that fall between the lines. There is a paradox with this slightly thrown-together England. Tuchel is a rationalist and a details man. Whereas the keynote of thecurrent World Cup campaign is feelings, will, chemicals, overcoming its shortcomings with an excess of spirit. Is this sustainable? Is the Azteca going to end up being the peak, the rush before the comedown of a very difficult, fine-margins quarter-final against Norway in Miami? This is entirely possible. Norway are not just a dangerous team, but one that seem set up to prey on some very specific England weaknesses. In the meantime, however, still illuminated by victory in Mexico, this is a remarkable moment for Tuchel, who is, like late afternoon Miami-Dade County, just so hot right now.\n\nPopulationNorway: 5.6 million; England: 56.3 millionAreaNorway: 148,729 square miles; England: 50,371 square miles\n\nLowest temperature  recordedNorway: -51.4C; England: -26.1C\n\nAverage male heightNorway: 5ft 11in; England: 5ft 9in\n\nNational dishNorway: Fårikål (mutton or lamb, cabbage, black pepper and occasionally some wheat flour); England: chicken tikka masala (invented in Glasgow)Fifa rankingNorway: 19; England: 4Squad value (via Transfermarkt.com)Norway: £502.56m; England: £1.25bnMost expensive playerNorway: Erling Haaland £51.2m; England: Elliot Anderson £116m (transfer to be finalised after World Cup)Best World Cup placingNorway: quarter-final (current); England: winnersAll-time World Cup goalsNorway: 19; England: 115\n\nPremier League players in World Cup squadNorway: 6; England: 20\n\nChampionship players in World Cup squadNorway: 3; England: 0",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5612_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Mbappé and France are on the march. Who’s going to stop them?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Marchons, marchons. Fans of France’s remaining ri...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Marchons, marchons. Fans of France’s remaining rivals at the Geopolitics World Cup – and lovers of business-end big tournament jeopardy – were left sorely disappointed as the favourites steamrolled Morocco. Didier Deschamps’ cohort of strutting roosters had their feathers ruffled by Paraguay’s spectacular heel turn in the last 16, but were largely back in cruise control for their 2-0 quarter-final victory in (a venue near) Boston on Thursday.With the wealth of signings (Cerci, Stanway, Reuteler) already this summer, I wasn’t expecting any more. But then Arsenal follow in Hollywood’s footsteps and get Ona Batlle after another!” – James Vortkamp-Tong.Please don’t refer to the USA USA USA as ‘Trump’s boys’ (yesterday’s Football Daily). From what I understand, they are sane, good sportsmen, well-liked, and a team to be proud of, quite unlike the person in question” – James Driskell.A fellow reader of the France v Morocco MBM commented on how inevitable France look at the moment. This made me wonder, could this team go down in history as Les Inévitables?” – Peter Oh.That was a rather touching last line reference to Bonnie Tyler (yesterday’s Football Daily, full email edition). One would like to read a story about the England team – average year of birth around 1998 – playing her classic tune in the locker room and singing along. Until they got to the hooky lyric, ‘Every now and then, I fall apart’. Good luck on Saturday, lads!’ – Mike Wilner.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nMarchons, marchons.Fans of France’s remaining rivals at the Geopolitics World Cup – and lovers of business-end big tournament jeopardy – were left sorely disappointed as the favourites steamrolled Morocco. Didier Deschamps’ cohort of strutting roosters had their feathers ruffled by Paraguay’s spectacular heel turn in the last 16, but were largely back in cruise control for their2-0 quarter-final victoryin (a venue near) Boston on Thursday.\n\nTruly, this was no close shave at [Gillette] Stadium, despite Kylian Mbappé’s first-half penalty being saved. He won the spot-kick himself, nicking the ball past Noussair Mazraoui and embracing the inevitable contact – not so much having the hasty full-back’s number as presenting him with an itemised data dump. Mbappé couldn’t cash in, though, his tame effort collected by Morocco keeper Yassine ‘Bono’ Bounou. The France captain may have been distracted by: a) an insane amount of faffing from the referee; b) Bono whirring his arms and legs at high speed; and/or c) organising the team’s travel itinerary for the semi-final.\n\nMbappé’s moment of unexpected weakness livened up an otherwise attritional first half, but he made up for it in style on the hour mark, curling home in clinical fashion forhis eighth GWC goal. It was a spectacular finish, met with a collective Gallic shrug from armchair fans as France continue to make the audacious look routine. Six minutes later, the jig was up for Morocco when Bono allowed Ousmane Dembélé’s shot to slip through his fingers. One of this tournament’s very best sides, the Atlas Lions were finished, with or without that error – they ended the game with one shot on target and an xG dangerously close to zero.\n\n“Many people say Kylian is a dictator, that he only thinks of himself,”Deschamps said afterwards, demonstrating an impressive awareness of various Social Media Disgraces for a 57-year-old. “He’s the captain and he’s exemplary.” Even the sight of Mbappé resting an ice pack on his ankle proved a false alarm for rival fans. He is expected to be fit for Tuesday’s semi-final in (a stadium somewhat close to) Dallas. France will face either Spain – yet to concede a goal in five matches – or an undead Belgium side who we could have sworn were knocked out ages ago. Still, if anyone can kill them off for good, Kylian can. He’s on a one-man mission to claim a GWC/Golden Boot/all-time top-scorertreble and ruin Lionel Messi’s retirement. It’s Mbappé’s World Cup – we’re just watching it.\n\nWant a pick of Big Website’s essential sportswriting and highlights in the past seven days? Well,subscribe to the Recap then.\n\nJoin Billy Munday at 8pm BST/3pmEDT/5am AEST for updates on Spain 0-0 Belgium (aet; 1-0 on pens) in the latest GWC quarter-final.\n\n“I remember the first day I finished working with them. They were about to go for their match and I was on a flight to LA. I prayed for them and went to sleep. When I woke up, and it was time to get off the flight, my phone was buzzing. [Marcus] Rashford had scored and, wow, I was happy for them. He told me he loved his hair and lots of attention was paid to his look after the goal. But I didn’t know how big the [Geopolitics] World Cup was then. I know we love football in the UK but I didn’t know to this extent – like all the love I’m getting, with people saying: ‘Thank you for looking after our boys.’ I’m like: ‘Wow! Give me another medal!” – Donald McRaemeets Jayèma, the east London hair stylist who has taken over the GWC.\n\ndouble quotation markWith the wealth of signings (Cerci, Stanway, Reuteler) already this summer, I wasn’t expecting any more. But then Arsenal follow in Hollywood’s footsteps andget Ona Batlle after another!” – James Vortkamp-Tong.\n\ndouble quotation markPlease don’t refer to the USA USA USA as ‘Trump’s boys’ (yesterday’s Football Daily). From what I understand, they are sane, good sportsmen, well-liked, and a team to be proud of, quite unlike the person in question” – James Driskell.\n\ndouble quotation markA fellow reader of the France v Morocco MBM commented on how inevitable France look at the moment. This made me wonder, could this team go down in history asLes Inévitables?” – Peter Oh.\n\ndouble quotation markThat was a rather touching last line reference to Bonnie Tyler (yesterday’s Football Daily, full email edition). One would like to read a story about the England team – average year of birth around 1998 – playing her classic tune in the locker room and singing along. Until they got to the hooky lyric, ‘Every now and then, I fall apart’. Good luck on Saturday, lads!’ – Mike Wilner.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5612_5",
+            "category": "england",
+            "type": "News",
+            "title": "Wing wizards or worries? England and Norway have choices to make out wide",
+            "bullets": [
+              "Thomas Tuchel seems undecided, while Ståle Solbakken has been structured before the World Cup quarte...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel seems undecided, while Ståle Solbakken has been structured before the World Cup quarter-finalWhile there will be much focus on Harry Kane and Erling Haaland before England’s match with Norway, they carry no mystery. They will play. They will probably score.A more complex decision for both Thomas Tuchel and Ståle Solbakken is who they choose to deploy as their wingers. Neither team have completed a game this summer fielding the wide forwards who began it. Continue reading...",
+            "fullText": "Thomas Tuchel seems undecided, while Ståle Solbakken has been structured before the World Cup quarter-final\n\nWhile there will be much focus on Harry Kane and Erling Haaland before England’s match with Norway, they carry no mystery. They will play. They will probably score.\n\nA more complex decision for both Thomas Tuchel and Ståle Solbakken is who they choose to deploy as their wingers. Neither team have completed a game this summer fielding the wide forwards who began it.\n\nEngland have utilised Anthony Gordon and Marcus Rashford on the left, with the Arsenal pair of Noni Madueke and Bukayo Saka covering the opposite flank.\n\n“All four of the wingers are competing against each other at the highest level,” Tuchel said after theopening game against Croatia. With none of the quartet having completed more than 57% of the available minutes at the World Cup or started more than three of the five matches, the competition is fierce.\n\nTuchel seems undecided on his favoured duo. He has tried five of the possible six combinations, with Gordon and Rashford understandably not paired given that both favour the left. The manager’s in-game decisions will have been driven partly by the scoreline but he has changed his wide forwards earlier and earlier with each match.\n\nJarell Quansah’s red card against Mexicoaffected that game in this respect. Saka was withdrawn shortly after the defender’s 54th-minute dismissal, leaving England to play in a wing-less formation.\n\nOne pattern has emerged. In each of England’s previous three matches, the starting wingers were the two who had ended the preceding game.\n\nThe choices may have been influenced by the style of play Tuchel required for a specific opponent. Gordon leads the squad for average length of ball carry at theWorld Cup, at 14.9 metres, while Madueke is top for total distance carried per 90 minutes, with 255.8 metres.\n\nRashford is the leading England winger for carries of at least five metres that ended with a shot, scoring from one against Croatia. Only two players at the tournament have created more goals after carries than Saka, one of whom is theNorwaywinger Andreas Schjelderup.\n\nHis only start occurred when Solbakken made 10 changes for thefinal group game against France. Having assisted Haaland forboth goals against Brazil, the 22-year-old may be in the XI against England.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-10 @ 09:03:08 EDT",
+  "lastUpdated": "2026-07-10 @ 12:56:16 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
