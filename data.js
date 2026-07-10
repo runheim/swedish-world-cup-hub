@@ -6201,11 +6201,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5612_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Time marches on: what the next three years will bring for the USMNT",
+            "bullets": [
+              "After a fun World Cup with a dismal end, the US enters the 2030 cycle with numerous avenues to rebui...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After a fun World Cup with a dismal end, the US enters the 2030 cycle with numerous avenues to rebuild the squadAfter an exciting home World Cup run ended with a disappointing thud in the last 16, there are massive questions lingering around the US men’s national team program. Mauricio Pochettino’s contract is up and US Soccer has made an extension offer, but both parties are taking some time. Matt Crocker’s abrupt exit as sporting director to take a similar job with Saudi Arabia before the World Cup begs more queries about the direction of the sport in this country. And while most of the 2026 squad’s core still projects to contend for 2030, four years is a long time.From now, each year offers a major tournament. This is what the US should hope to clarify at every step of the way. Continue reading...",
+            "fullText": "After a fun World Cup with a dismal end, the US enters the 2030 cycle with numerous avenues to rebuild the squad\n\nAfter an exciting home World Cup runended with a disappointing thudin the last 16, there are massive questions lingering around the US men’s national team program. Mauricio Pochettino’s contract is up and US Soccer has made an extension offer, but both parties are taking some time. Matt Crocker’sabrupt exit as sporting directorto take a similar job with Saudi Arabia before the World Cup begs more queries about the direction of the sport in this country. And while most of the 2026 squad’s core still projects to contend for 2030, four years is a long time.\n\nFrom now, each year offers a major tournament. This is what the US should hope to clarify at every step of the way.\n\nThe US will return to regional competition needing to sustain momentum. The Nations League kicks off in September, although the US will probably enter in November asthe region’s top-four teams get byesstraight to the quarter-finals. The semi-finals and final will be held in March 2027.\n\nThe US won the first three Nations Leagues but failed to reach the final in 2025,faceplanting against Panamabeforefalling to Canadain the third-place match. The next installment is the first chance for this team to show that the summer’s strong form wasn’t an aberration but, instead, a new normal: effective soccer with plenty of license to entertain.\n\nThe Gold Cup follows in the summer, a tournament that has historically been a testing ground for players on the bubble. In the 2019 edition, the US bounced back from missing the previous World Cup with breakout moments for Christian Pulisic and Weston McKennie. Pochettino’s only Gold Cup helped him integrate Malik Tillman, Sebastian Berhalter, Alex Freeman and Matt Freese into the squad.\n\nPlayers who were among the hardest cuts from Pochettino’s squad – such as Aidan Morris, Diego Luna, Tanner Tessmann and the injured Patrick Agyemang – could use it as a launchpad to become a greater part of the core. Those who were too inexperienced to contend for this summer will push hard for an early introduction, includingZavier Gozo, Niko Tsakiris, Adri Mehmeti and Julian Hall.\n\nGoalkeeper could be a position to watch. Even with a Gold Cup under his belt, Freese looked unseasoned this summer and failed to meet the moment against Belgium. Matt Turner turned 32 in June, leaving the door open for alternatives. Getting a backstop installed by next summer would give them multiple tournaments to build cohesion with the team.\n\nThe US also begin World Cup qualifying in November 2027, joining the process in round two with the rest of the region’s top-ranked teams. They’ll be the top team in a group of four, where finishing first or second in the group (with games played in November and March 2028) gets them to the final round. There is simply no excuse for failing to advance from this stage.\n\nThe former is on the calendar in pencil, as there’s no official confirmation that Conmebol will stage its flagship tournament in the US for a second consecutive installment. However, Brazilian newspaper O Globo reported that the 2024 and 2028 tournaments awere awarded in-tandem, with theUSAand other Concacaf nations having paths into the tournament field even if it’s held in South America.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nA more hallowed competition than the Gold Cup, the Copa would be a vital mid-cycle checkpoint to test this group’s mettle. It would be a gut-check moment for starters to reaffirm they should be leaned on with an eye toward 2030, as the final stage of World Cup qualifying looms. Players who are nearing their 30th birthday will need to be especially sharp, as more youthful alternatives will be eager to force themselves into the lineup.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5612_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Christian Pulisic suffered leg fracture in US loss to Belgium, out for several weeks",
+            "bullets": [
+              "Milan forward was subbed out in a 4-1 lossPulisic had been criticized for his lack of availabilityCh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Milan forward was subbed out in a 4-1 lossPulisic had been criticized for his lack of availabilityChristian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in the World Cup last 16 on Monday, US Soccer announced.Pulisic suffered the injury in the second half in Seattle and was removed shortly afterward. He underwent X-ray and MRI scans on Tuesday to determine the extent of the injury, which is expected to keep Pulisic out for several weeks. US Soccer said the federation and Milan are working collaboratively on his rehab plan. Continue reading...",
+            "fullText": "Pulisic had been criticized for his lack of availability\n\nChristian Pulisic suffered a microfracture and bone bruise in his leg in the United States’ 4-1 loss to Belgium in theWorld Cuplast 16 on Monday, US Soccer announced.\n\nPulisic suffered the injury in the second half in Seattle and was removed shortly afterward. He underwent X-ray and MRI scans on Tuesday to determine the extent of the injury, which is expected to keep Pulisic out for several weeks. US Soccer said the federation and Milan are working collaboratively on his rehab plan.\n\nIn the wake of the US’s disastrous exit from the World Cup, some pundits seized upon comments he made to journalists after the match regarding the injury. Asked about what happened, Pulisic said “I just totally twisted my ankle and my knee in one play … I have time to rest. It’s just unfortunate way to finish.”\n\nCarli Lloyd, the former US women’s national team star now working as an analyst for Fox, tweeted “You rest when your playing career is over. Period.” the day after the match, seemingly directed at Pulisic.\n\nLandon Donovan, former captain of the US men’s national team, said on his Unfiltered Soccer podcast that “the reality is, [Pulisic] came out of a World Cup knockout game at home, with his leg still intact … you would have had to fucking drag me off the field. And I would have punched the doctor in the face and said, ‘You’re not taking me off the field. Put whatever you need to put in me, and I’m staying on the field.’”\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nPulisic’s injury-hit World Cup campaign was one of the bigger disappointments of the Americans’ run to the last 16. The Milan forward played brilliantly in the opening 45 minutes of a 4-1 win over Paraguay, but was removed at half-time after aggravating a left-calf injury – an ailment that also caused him to miss the US’s second group game, a 2-0 win over Australia. He came on as a substitute in a dead-rubber 3-2 loss to Turkey, then started and played 88 minutes but was only occasionally dangerous in the 2-0 win over Bosnia and Herzegovina in the last 32.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-10 @ 09:08:52 EDT",
+  "lastUpdated": "2026-07-10 @ 12:56:18 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
