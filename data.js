@@ -4,6 +4,22 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Is it time to give record-breaker Pickford the credit he deserves?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Playing golf with Trump surreal - Kane",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Hey Jude: Bellingham's return to England indispensability",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ All the goals from England's 2026 World Cup campaign so far",
+      "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ England's Guehi, Rice & James all train before Norway game",
       "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,28 +32,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c621jyxkvzko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Mexico boss' explicit heckle a bit of fun - Gordon",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Spain set up France semi-final – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live"
     },
     {
       "text": "⚽ Tuchel fears more Haaland heroics as England seek identity against Norway",
       "link": "https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final"
     },
     {
-      "text": "⚽ Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/jul/10/nosferatu-golf-weekend-england-players-trust-thomas-tuchel"
-    },
-    {
-      "text": "⚽ No FIFA explanation over Quansah suspension claims Tuchel",
+      "text": "⚽ No FIFA explanation over Quansah suspension, claims Tuchel",
       "link": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card"
-    },
-    {
-      "text": "⚽ Carra: Why I'd pick Kane over 'greatest goalscorer' Haaland",
-      "link": "https://www.skysports.com/football/news/12040/13562351/world-cup-2026-norways-erling-haaland-will-go-down-as-footballs-greatest-goalscorer-says-jamie-carragher-ahead-of-showdown-with-englands-harry-kane"
-    },
-    {
-      "text": "⚽ Rice and Guehi give England injury boost ahead of Norway quarter-final",
-      "link": "https://www.skysports.com/football/news/12040/13562422/world-cup-2026-englands-declan-rice-marc-guehi-and-reece-james-train-ahead-of-quarter-final-with-norway"
     }
   ],
   "timeline": {
@@ -23970,11 +23974,187 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4143_0",
+            "category": "england",
+            "type": "News",
+            "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+            "bullets": [
+              "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the Wo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+            "fullText": "England goalkeeper Jordan Pickford celebrates after his superb display in the win against Mexico at The Azteca.\n\nEngland goalkeeper Jordan Pickford enters the history books when he faces Norway in the World Cup quarter-final in Miami.\n\nThe 32-year-old Everton keeper will become England's most capped player in the tournament when he makes his 18th World Cup appearance, eclipsing the previous record held by Peter Shilton.\n\nFollowing his magnificent individual display in England's 3-2 victory in the last 16 against Mexico in the Azteca, it is another sign of how Pickford has maintained unrivalled status as first choice before his 90th international appearance in his fifth major tournament.\n\nPickford's record is outstanding for both club and country so, after his performance in Mexico City, is it time the Wearsider finally received the recognition his record deserves?\n\nI've changed my mind, we might actually be able to win this thing - Shearer\n\nPickford has been a model of consistency for Everton and England, as proved by his Premier League statistics.\n\nIn the last two league seasons, Pickford's clean sheet record of 23 in the last two seasons is second only to David Raya, the keeper with Premier League champions Arsenal, who has 32.\n\nIn his 89 England games, he has conceded 59 goals and kept 44 clean sheets while making, as measured by Opta statistics, only two errors that have led to goals.\n\nFormer England goalkeeper Paul Robinson is one who believes Pickford's contribution has been undervalued.\n\nHe told BBC Sport: \"I think he has been under-appreciated for Everton and England when you look at the numbers he's posting, the games he is playing and the number of clean sheets he has.\n\n\"He is only second behind David Raya in the last two seasons for clean sheets and they are playing for very different teams.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4143_1",
+            "category": "england",
+            "type": "News",
+            "title": "Playing golf with Trump surreal - Kane",
+            "bullets": [
+              "England captain Harry Kane says he once played golf with United States President Donald Trump, descr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\".",
+            "fullText": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\".\n\nThe striker will lead England fortheir World Cup quarter-final against Norwayin Miami on Saturday (22:00 BST) and, in the build-up to that game, revealed he had played golf with Trump in Florida 18 months ago.\n\n\"I played alright to be honest,\" said Bayern Munich striker Kane.\n\n\"He invited me to play when I was down in Palm Beach. So yeah, when the president invites you somewhere...\n\n\"It was a pretty surreal experience just to meet him and obviously play golf with him.\n\n\"His golf is pretty good, to be honest with you. I hope I can play golf as good as him when I'm his age, that's for sure. A unique experience, but I was just grateful that he invited me to play.\"\n\nThe US is co-hosting the 2026 World Cup along with Canada and Mexico, and Kane's comments followed Trump, 80, saying the pair had played together.\n\n\"I think Kane is a great player,\" said Trump after Kane, who has six goals and one assist for England at the World Cup, helped the Three Lions beat Mexico 3-2 in the last 16.\n\n\"I played golf with him and I like him a lot. He's a good golfer too. He's really great.\"\n\nEngland set for open-air Miami heat - but do Norway hold the edge?\n\nHey Jude: Bellingham's return to England indispensability\n\nWhen the World Cup finishes, the football continues on BBC Sport",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4143_2",
+            "category": "england",
+            "type": "News",
+            "title": "Hey Jude: Bellingham's return to England indispensability",
+            "bullets": [
+              "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with Englan...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+            "fullText": "Hey Jude: Bellingham's return to England indispensability\n\nA World Cup body of work that, even by the Real Madrid midfielder's lofty standards, has been as mesmerising as we've seen in an England shirt in recent major tournaments.\n\nIt seems ludicrous now to think that there was even a debate as to whether Bellingham would be in England's World Cup team at all.\n\nBellingham has emerged as one of the stars of England's run to the World Cup quarter-finals - he's arguably been one of the best players of the tournament.\n\nFour goals plus an excellent assist for Harry Kane's goal in the 2-0 win over Panama has had England's supporters serenading the 23-year-old here in the USA.\n\nBut Bellingham appears to be taking it all in his stride.\n\nOf course, he is used to the adulation. It is no surprise that Bellingham finds himself in the position he does today - his route to the top was predicted by those in the game when he burst on to the scene in 2019.\n\nBellingham madehis debut for hometown club Birmingham Cityaged 16 years and 38 days in August 2019.\n\nHe became the Blues' youngest ever player, breaking club legend Trevor Francis' record set in 1970.\n\nA Premier League scouting report from that game suggests the midfielder's talent was quickly apparent, acknowledging his \"great athleticism, long legs, graceful running and work-rate\".\n\nBut it was Bellingham's technical skills that really caught the scout's attention - his ability to carry the ball away from pressure and find space by getting between the lines or pulling wide.\n\nThe report recommended the undisclosed Premier League club immediately sign Bellingham, loan him out and then bring him into their senior squad in 18 months' time.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4144_3",
+            "category": "england",
+            "type": "News",
+            "title": "All the goals from England's 2026 World Cup campaign so far",
+            "bullets": [
+              "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+            "fullText": "Re-live all the goals scored by England so far, as Thomas Tuchel's side gear up to face Norway at the Miami Stadium for their World Cup quarter-final.\n\nREAD MORE:How do England stop Norway - and Haaland?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4145_4",
+            "category": "england",
+            "type": "News",
+            "title": "England's Guehi, Rice & James all train before Norway game",
+            "bullets": [
+              "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway.",
+            "fullText": "England are seeking to reach the semi-finals of the World Cup for only the fourth time\n\nEngland midfielder Declan Rice and defenders Marc Guehi and Reece James all took part in training on the eve of Saturday's World Cup quarter-final against Norway.\n\nJordan Henderson is the only squad player who missed out afterhaving surgeryon a broken arm.\n\nManchester City's Guehi complained of a slight hamstring injury following England's 3-2 victory over Mexico in the last 16 at the Azteca Stadium, but he trained at Fort Lauderdale under the watchful eye of former England captain Sir David Beckham.\n\nRight-back James has missed three games but returned to training as expected on Thursday and featured again on Friday, putting him in contention to face Norway (22:00 BST kick-off) at Miami Stadium.\n\nThe return of Rice, after a sickness bug, is also a boost for Thomas Tuchel as the England head coach attempts to secure a semi-final spot.\n\nRice had already been suffering with a neural issue affecting his hamstring and lower back, and it was exacerbated by illness.\n\nBeckham, whoplayed in three World Cups,,externalwas pictured speaking to captain Harry Kane at Friday's training session.\n\nMarc Guehi has appeared in all five of England's games at the World Cup\n\nJames' return, in what has been England's problem position because of injury and suspension, will come as a welcome boost to Tuchel.\n\nBBC Sportreported on Mondaythat the Chelsea defender was expected to return to training and be in contention for Norway.\n\nOn Thursday it was revealed that Jarell Quansah, who started at right-back against Mexico, had been banned for two games for his red card in the last-16 tie.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4145_5",
+            "category": "england",
+            "type": "News",
+            "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
+            "bullets": [
+              "The two players have won an army of admirers from social media clips and their honesty in interviews...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The two players have won an army of admirers from social media clips and their honesty in interviews.",
+            "fullText": "Jude Bellingham and Erling Haaland face off during the Champions League in 2025\n\nIt is the football bromance that has consumed the internet during the World Cup.\n\nAnd on Saturday night when England's Jude Bellingham and Norway's Erling Haaland face each other fans will be looking out for more than just goals.\n\nThe pair's long-standing friendship, dating back to their Borussia Dortmund (BVB) days, has produced some memorable clips - most of which have been given a new lease of life during the tournament.\n\nFootage of their camaraderie over the years has become a welcome antidote to toxic masculinity and the darker corners of social media.\n\nInstagram in particular is awash with clips during matches of the two hugging or celebrating together.\n\nAnd their confidence in front of TV cameras and on their own social media has won them armies of new admirers.\n\nOne particular clip in September 2021 after BVB's victory over Besiktas saw Haaland, 25, praise Bellingham as \"amazing\".\n\nOn cue he strolled into shot and planted a jokey kiss on his cheek before vanishing.\n\nAnother moment that has featured prominently all week sees Haaland rush in to seemingly protect Bellingham, 23, after a rival player pushed him on the pitch.\n\n\"If you go back to the days of the 90s or 00s a lot of brands fell out with footballers because they were so badly behaved,\" PR expert Mark Borkowski told the BBC.\n\n\"If you look at this generation of footballers they are a different breed and I think it is a lot to do with social media.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4146_6",
+            "category": "england",
+            "type": "News",
+            "title": "How do England stop Norway - and Haaland?",
+            "bullets": [
+              "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
+            "fullText": "Erling Haaland has scored seven goals so far at the World Cup\n\nNorway may have been touted by many as this World Cup's dark horse, but their impressive progress still feels like they have exceeded expectations.\n\nSince finishing second in Group I, above Senegal, they have knocked out Ivory Coast and Brazil, scoring 12 goals across five games.\n\nNow they face England who are tasked with nullifying a strong Norway side spearheaded by star striker Erling Haaland.\n\nSo, what do Norway do best and what might England boss Thomas Tuchel look to tweak in order to see his side through to the final four of the World Cup?\n\nNorway boast attacking variety with Stale Solbakken's men fluctuating between wanting to hold on to the ball and being able to attack quickly.\n\nFrom goal-kicks, Orjan Nyland's distribution has been excellent. Norway's first instinct is to play short, often setting up with a wide back four and the keeper forming a fifth option, with two holding midfielders showing for the ball centrally.\n\nWith so many players deep, Norway often have an overload at the back making progressing up the pitch easier.\n\nWhen short options are not viable, Nyland's get-out-of-jail-free card is 6ft 5in Alexander Sorloth who Norway play on the right wing as a wide targetman for long diagonal balls.\n\nLong balls to Sorloth on the right wing is a common pattern to look out for when Norway play\n\nThis is something England left-back Nico O'Reilly will have to be alert to, but, given his 6ft 4in height and frame, this is a far more even match-up than Norway have experienced so far.\n\nThere are a few options, but they come with trade-offs, as do all tactical approaches.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4146_7",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup 2026: Norway v England buildup, Kane’s round of golf with Trump, Spain set up France semi-final – live",
+            "bullets": [
+              "⚽ All the latest updates as the quarter-finals continue⚽ Player guide | Bracketology | Golden Boot |...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest updates as the quarter-finals continue⚽ Player guide | Bracketology | Golden Boot | Email usThe brilliant Cold War Steve is back with the latest of his special World Cup 2026-themed collages. Look closely!More from Thomas Tuchel. Seize the day is his message. Continue reading...",
+            "fullText": "Lots of chat below the line about England’s captain teeing off with DJT.\n\nLooks like this is going to be an albatross around Harry Kane's neck.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4146_8",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel fears more Haaland heroics as England seek identity against Norway",
+            "bullets": [
+              "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, befo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, before the World Cup quarter-finalThe way that Thomas Tuchel remembers it, he was the only choice for the award. He had led Chelsea to Champions League glory in 2020-21 so when the German publication Sport Bild named its coach of the season, it had to give it to him. “Yeah, there was no way out,” the England head coach says, with a smile. “Because if Jürgen Klopp won at the same time the Charity Shield they give it to him …”The line is delivered in trademark style: deadpan, apart from the twinkle in his eye and it is especially funny to imagine Klopp’s reaction when he reads it. What happened next for Tuchel was less of a laughing matter. As a part of the deal, he gave an interview to Sport Bild and during it he joked about how he would have “no problem” bringing Erling Haaland to Chelsea and playing him up front with Romelu Lukaku. Continue reading...",
+            "fullText": "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, before the World Cup quarter-final\n\nThe way that Thomas Tuchel remembers it, he was the only choice for the award. He had ledChelsea to Champions League gloryin 2020-21 so when the German publicationSportBildnamed its coach of the season, it had to give it to him. “Yeah, there was no way out,” the England head coach says, with a smile. “Because if Jürgen Klopp won at the same time the Charity Shield they give it to him …”\n\nThe line is delivered in trademark style: deadpan, apart from the twinkle in his eye and it is especially funny to imagine Klopp’s reaction when he reads it. What happened next for Tuchel was less of a laughing matter. As a part of the deal, he gave an interview toSportBildand during it he joked about how he would have “no problem” bringing Erling Haaland to Chelsea and playing him up front with Romelu Lukaku.\n\nHaaland’s club at the time, Borussia Dortmund, were unimpressed and Tuchel found himself having to say sorry to them. “I always need to apologise,” Tuchel says. “They don’t get my humour.”\n\nTuchel has had other Haaland-related problems. In 2019-20, when Tuchel was in charge at Paris Saint-Germain, he watched him score both Dortmund goals in a 2-1 Champions Leaguelast-16 first-leg win. PSG turned it around to edge through 3-2 on aggregate. It did not go so well for Tuchel in 2022-23 when he was at Bayern Munich and Haaland had gone to Manchester City. Haaland scored in both legs of theChampions League quarter-finaltie, City progressing 4-1 on aggregate.\n\nTuchel has close-up experience of how devastating Haaland can be and is braced again. Because there is no doubt Haaland will represent the single greatest threat to England’sWorld Cupambitions when he steps out to face them for Norway in Saturday’s quarter-final in Miami.\n\nPopulationNorway: 5.6 million; England: 56.3 million\n\nAreaNorway: 148,729 square miles; England: 50,371 square miles\n\nLowest temperature  recordedNorway: -51.4C; England: -26.1\n\nAverage male heightNorway: 5ft 11in; England: 5ft 9in\n\nNational dishNorway: Fårikål (mutton or lamb, cabbage, black pepper and occasionally some wheat flour); England: chicken tikka masala (invented in Glasgow)\n\nSquad value (via Transfermarkt.com)Norway: £502.56m; England: £1.25bn",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4147_9",
+            "category": "england",
+            "type": "News",
+            "title": "No FIFA explanation over Quansah suspension, claims Tuchel",
+            "bullets": [
+              "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarel...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarell Quansah was handed a two-game suspension following his red card against Mexico.",
+            "fullText": "Thomas Tuchel has revealed England have still not received any explanation from FIFA as to why Jarell Quansah's red card was upgraded to a two-game suspension; Quansah was sent off during the 3-2 win over Mexico; Tuchel has received a big injury boost ahead of the quarter-final vs Norway",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-11 @ 00:34:56 EDT",
+  "lastUpdated": "2026-07-11 @ 07:41:55 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
