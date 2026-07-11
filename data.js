@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Jan Johansson from Fyrås eats his way through the soccer World Cup",
+      "link": "https://www.svt.se/nyheter/lokalt/jamtland/jan-johansson-fran-fyras-ater-sig-igenom-fotbolls-vm"
     }
   ],
   "timeline": {
@@ -10783,10 +10767,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-11": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3730_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jan Johansson from Fyrås eats his way through the soccer World Cup",
+            "bullets": [
+              "The quarter-finals of the World Cup are underway. Before the play-off round, SVT met Jan Johansson, ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The quarter-finals of the World Cup are underway. Before the play-off round, SVT met Jan Johansson, who every day during the World Cup cooks food based on the countries that play - or leave. - Most countries impress, says Jan Johansson.",
+            "fullText": "The quarter-finals of the World Cup are underway. Before the play-off round, SVT met Jan Johansson, who every day during the World Cup cooks food based on the countries that play - or leave.\n\nThe idea came from a friend of Jan Johansson's a few years ago and since then he has had the World Cup in the kitchen during four championships.\n\n- It's a fun way to try a lot of different dishes, you just have to dare to try.\n\nJan Johansson is a physical education teacher by day and has extra time for cooking now during the summer holidays. When SVT visited him at home in Fyrås, a happy Jan Johansson was preparing tagine, a Moroccan stew, when he predicted a win for France.\n\n- Moroccan goat was hard to get hold of, so after a bit of translation I found out that moose works just as well.\n\nBefore each day, Jan checks the game schedule and guesses which country will go out. That country then gets to provide inspiration for the food that ends up on the plate. Sometimes he gets the result right and other times not. But then he gives the countries a new chance on match-free days.\n\n- The other day when there was no match, I included South Korea and Scotland, which I had been wrong about.\n\nAmong other things, South Korean bulgogi, Egyptian shawarma, Canadian poutine and Senegalese cafe have been served. Jan says that most of the dishes have impressed him and the only one that hasn't become a taste sensation so far is a cachupa from Cape Verde.\n\nThe Swedish national team has done its part in the championship and the right that Jan awarded to Sweden was an unusual combination.\n\n– Anchovies ice cream. It was something my mother did for me when I was little. It's a bit of an exciting taste.\n\nHe has previously eaten Norwegian food in the form of Arctic prawns and omelette, but saved a ratatouille for France. Despite that, he finds it difficult to decide whether it will be Norway or France that comes out on top in the end.\n\n- Even if it receives, I think Norway will win. They are playing such good football right now.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-10 @ 18:54:17 EDT",
+  "lastUpdated": "2026-07-11 @ 00:37:30 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
