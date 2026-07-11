@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Guehi and Stones set to start for England in World Cup quarter-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Hey Jude: Bellingham's return to England indispensability",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,24 +16,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cj9gknxm91vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Playing golf with Trump surreal - Kane",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ All the goals from England's 2026 World Cup campaign so far",
       "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Playing golf with Trump surreal - Kane",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Football's best bromance: Why Bellingham and Haaland break the mould",
       "link": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England's Guehi, Rice & James all train before Norway game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3eyqdwq392o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ World Cup 2026: Norway v England buildup; Fifa to sell bits of MetLife pitch; Kane’s round of golf with Trump – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/11/world-cup-2026-spain-v-belgium-reaction-norway-v-england-quarter-final-buildup-and-more-live"
+      "text": "⚽ Norway v England: World Cup 2026 quarter-final – live",
+      "link": "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live"
     }
   ],
   "timeline": {
@@ -24263,11 +24263,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3940_0",
+            "category": "england",
+            "type": "News",
+            "title": "Guehi and Stones set to start for England in World Cup quarter-final",
+            "bullets": [
+              "Marc Guehi has won his fitness race and is expected to be fit for England's World Cup quarter-final ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Marc Guehi has won his fitness race and is expected to be fit for England's World Cup quarter-final against Norway, with John Stones set to play alongside the central defender.",
+            "fullText": "Marc Guehi and John Stones last started together in England's World Cup warm-up against New Zealand in June\n\nMarc Guehi has won his fitness race and is expected to start England's World Cup quarter-final against Norway alongside the recalled John Stones in central defence.\n\nManchester City defender Guehi suffered a minor hamstring strain in the win over Mexico and has missed training sessions this week.\n\nBut he is set to be cleared to continue in the heart of England's defence.\n\nHe is expected to be playing alongside Stones in defence, who is set to be recalled into the starting XI for the first time since the opening game against Croatia.\n\nEzri Konsa is set to be moved from centre-back to right-back.\n\nDeclan Rice is fit to start despite a sickness bug that has hampered his involvement in the preparations for the game, while Noni Madueke is expected to play ahead of Bukayo Saka in another change to the XI.\n\nReece James, who has trained this week after recovering from a hamstring injury, is expected to be on the bench alongside fellow full-back Djed Spence.\n\nThe selection of Stones and Guehi means it is an all-Manchester City central defence from last season to take on their club team-mate Erling Haaland, who has scored seven goals at the World Cup, one more than Harry Kane.Stones left Cityupon the expiry of his contract at the start of this month.\n\nStones, 32, has been a substitute in all England's matches since Croatia. However, he played a key role against Mexico, coming on for Saka after 57 minutes following Jarell Quansah's red card.\n\nWhile the reasons for the expected choice of Madueke are not known, Saka has been managed through the tournament because of an Achilles tendinitis issue which he has been carrying since March.\n\nThis week the Arsenal winger said he would have loved to have arrived at the tournament 100% fit but that he had been managed \"in the best way possible\" and was feeling \"great and ready to go\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3941_1",
+            "category": "england",
+            "type": "News",
+            "title": "Hey Jude: Bellingham's return to England indispensability",
+            "bullets": [
+              "Before tonight's quarter-final against Norway, senior football correspondent Sami Mokbel charts Jude...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before tonight's quarter-final against Norway, senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+            "fullText": "Hey Jude: Bellingham's return to England indispensability\n\nA World Cup body of work that, even by the Real Madrid midfielder's lofty standards, has been as mesmerising as we've seen in an England shirt in recent major tournaments.\n\nIt seems ludicrous now to think that there was even a debate as to whether Bellingham would be in England's World Cup team at all.\n\nBellingham has emerged as one of the stars of England's run to the World Cup quarter-finals - he's arguably been one of the best players of the tournament.\n\nFour goals plus an excellent assist for Harry Kane's goal in the 2-0 win over Panama has had England's supporters serenading the 23-year-old here in the USA.\n\nBut Bellingham appears to be taking it all in his stride.\n\nOf course, he is used to the adulation. It is no surprise that Bellingham finds himself in the position he does today - his route to the top was predicted by those in the game when he burst on to the scene in 2019.\n\nBellingham madehis debut for hometown club Birmingham Cityaged 16 years and 38 days in August 2019.\n\nHe became the Blues' youngest ever player, breaking club legend Trevor Francis' record set in 1970.\n\nA Premier League scouting report from that game suggests the midfielder's talent was quickly apparent, acknowledging his \"great athleticism, long legs, graceful running and work-rate\".\n\nBut it was Bellingham's technical skills that really caught the scout's attention - his ability to carry the ball away from pressure and find space by getting between the lines or pulling wide.\n\nThe report recommended the undisclosed Premier League club immediately sign Bellingham, loan him out and then bring him into their senior squad in 18 months' time.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3941_2",
+            "category": "england",
+            "type": "News",
+            "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+            "bullets": [
+              "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the Wo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+            "fullText": "England goalkeeper Jordan Pickford celebrates after his superb display in the win against Mexico at The Azteca.\n\nEngland goalkeeper Jordan Pickford enters the history books when he faces Norway in the World Cup quarter-final in Miami.\n\nThe 32-year-old Everton keeper will become England's most capped player in the tournament when he makes his 18th World Cup appearance, eclipsing the previous record held by Peter Shilton.\n\nFollowing his magnificent individual display in England's 3-2 victory in the last 16 against Mexico in the Azteca, it is another sign of how Pickford has maintained unrivalled status as first choice before his 90th international appearance in his fifth major tournament.\n\nPickford's record is outstanding for both club and country so, after his performance in Mexico City, is it time the Wearsider finally received the recognition his record deserves?\n\nI've changed my mind, we might actually be able to win this thing - Shearer\n\nPickford has been a model of consistency for Everton and England, as proved by his Premier League statistics.\n\nIn the last two league seasons, Pickford's clean sheet record of 23 in the last two seasons is second only to David Raya, the keeper with Premier League champions Arsenal, who has 32.\n\nIn his 89 England games, he has conceded 59 goals and kept 44 clean sheets while making, as measured by Opta statistics, only two errors that have led to goals.\n\nFormer England goalkeeper Paul Robinson is one who believes Pickford's contribution has been undervalued.\n\nHe told BBC Sport: \"I think he has been under-appreciated for Everton and England when you look at the numbers he's posting, the games he is playing and the number of clean sheets he has.\n\n\"He is only second behind David Raya in the last two seasons for clean sheets and they are playing for very different teams.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3941_3",
+            "category": "england",
+            "type": "News",
+            "title": "All the goals from England's 2026 World Cup campaign so far",
+            "bullets": [
+              "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+            "fullText": "Re-live all the goals scored by England so far, as Thomas Tuchel's side gear up to face Norway at the Miami Stadium for their World Cup quarter-final.\n\nREAD MORE:How do England stop Norway - and Haaland?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3941_4",
+            "category": "england",
+            "type": "News",
+            "title": "Playing golf with Trump surreal - Kane",
+            "bullets": [
+              "England captain Harry Kane says he once played golf with United States President Donald Trump, descr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\".",
+            "fullText": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\".\n\nThe striker will lead England fortheir World Cup quarter-final against Norwayin Miami on Saturday (22:00 BST) and, in the build-up to that game, revealed he had played golf with Trump in Florida 18 months ago.\n\n\"I played alright to be honest,\" said Bayern Munich striker Kane.\n\n\"He invited me to play when I was down in Palm Beach. So yeah, when the president invites you somewhere...\n\n\"It was a pretty surreal experience just to meet him and obviously play golf with him.\n\n\"His golf is pretty good, to be honest with you. I hope I can play golf as good as him when I'm his age, that's for sure. A unique experience, but I was just grateful that he invited me to play.\"\n\nThe US is co-hosting the 2026 World Cup along with Canada and Mexico, and Kane's comments followed Trump, 80, saying the pair had played together.\n\n\"I think Kane is a great player,\" said Trump after Kane, who has six goals and one assist for England at the World Cup, helped the Three Lions beat Mexico 3-2 in the last 16.\n\n\"I played golf with him and I like him a lot. He's a good golfer too. He's really great.\"\n\nEngland set for open-air Miami heat - but do Norway hold the edge?\n\nHey Jude: Bellingham's return to England indispensability\n\nWhen the World Cup finishes, the football continues on BBC Sport",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3941_5",
+            "category": "england",
+            "type": "News",
+            "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
+            "bullets": [
+              "The two players have won an army of admirers from social media clips and their honesty in interviews...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The two players have won an army of admirers from social media clips and their honesty in interviews.",
+            "fullText": "Jude Bellingham and Erling Haaland face off during the Champions League in 2025\n\nIt is the football bromance that has consumed the internet during the World Cup.\n\nAnd on Saturday night when England's Jude Bellingham and Norway's Erling Haaland face each other fans will be looking out for more than just goals.\n\nThe pair's long-standing friendship, dating back to their Borussia Dortmund (BVB) days, has produced some memorable clips - most of which have been given a new lease of life during the tournament.\n\nFootage of their camaraderie over the years has become a welcome antidote to toxic masculinity and the darker corners of social media.\n\nInstagram in particular is awash with clips during matches of the two hugging or celebrating together.\n\nAnd their confidence in front of TV cameras and on their own social media has won them armies of new admirers.\n\nOne particular clip in September 2021 after BVB's victory over Besiktas saw Haaland, 25, praise Bellingham as \"amazing\".\n\nOn cue he strolled into shot and planted a jokey kiss on his cheek before vanishing.\n\nAnother moment that has featured prominently all week sees Haaland rush in to seemingly protect Bellingham, 23, after a rival player pushed him on the pitch.\n\n\"If you go back to the days of the 90s or 00s a lot of brands fell out with footballers because they were so badly behaved,\" PR expert Mark Borkowski told the BBC.\n\n\"If you look at this generation of footballers they are a different breed and I think it is a lot to do with social media.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3942_6",
+            "category": "england",
+            "type": "News",
+            "title": "Norway v England: World Cup 2026 quarter-final – live",
+            "bullets": [
+              "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽️ World Cup kick-off: 5pm EDT/10pm BST/7am AEST⚽️ Player guide | Bracketology | Golden Boot | Mail ScottYou won’t need reminding that tonight’s game could go to extra time and penalty kicks. So if it indeed goes all the way, what on earth should Harry Kane do if he wins the toss? Mo Salah has the answer …England have four players walking the disciplinary tightrope this evening. Jude Bellingham was booked against DR Congo, while Marc Guehi, Nico O’Reilly and Declan Rice were all cautioned against Mexico. A yellow card for any of them tonight, and they’ll miss the semi-final should England get through. Norway have only one player on a yellow in winger Antonio Nusa. (Yellow cards were wiped at the start of the knockouts, and will be again after the quarters.) Continue reading...",
+            "fullText": "Pre-match postbag: the Taylor letters.“With you 100% about Graham Taylor. He seemed out of his depth at the time but I think history has shown that he did the best he could what he was given. Of the three years he was in charge, he was without Paul Gascoigne for a good half of that time, he lost John Barnes in the ‘94 qualifiers lost Barnes to injury in the 94 qualifiers, had a lot of the Italia 90 team retire - Bryan Robson, Peter Shilton, Terry Butcher - or on their way out- Gary Lineker, Chris Waddle etc. Any fans moaning about whatever may happen later tonight would do good to remember anEnglandmidfield once consisting of Andy Sinton, Carlton Palmer, Tony Daley and David Batty. RIP Graham” – Dave Estherby\n\n“In 2012, I saw Graham Taylor at Oslo airport. As he was walking to his flight, dozens of England fans showed enormous, genuine affection for him, and he responded graciously and generously. A great man. His travelling companion, Alan Green, had been disturbing everyone in the business class lounge by reading his contract out loud line-by-line and moaning” – Andrew Goudie",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-11 @ 11:56:54 EDT",
+  "lastUpdated": "2026-07-11 @ 15:39:51 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
