@@ -20,16 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gyvv9w9n9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Tuchel fears more Haaland heroics as England seek identity against Norway",
+      "link": "https://www.theguardian.com/football/2026/jul/11/thomas-tuchel-erling-haaland-england-norway-2026-world-cup-quarter-final"
+    },
+    {
       "text": "⚽ Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/jul/10/nosferatu-golf-weekend-england-players-trust-thomas-tuchel"
     },
     {
-      "text": "⚽ Players and staff to reap £19m bonus bonanza if England win World Cup",
-      "link": "https://www.theguardian.com/football/2026/jul/10/players-and-staff-to-reap-19m-bonus-bonanza-if-england-win-world-cup"
-    },
-    {
-      "text": "⚽ Wing wizards or worries? England and Norway have choices to make out wide",
-      "link": "https://www.theguardian.com/football/2026/jul/10/wing-wizards-england-norway-2026-world-cup-quarter-final"
+      "text": "⚽ No FIFA explanation over Quansah suspension claims Tuchel",
+      "link": "https://www.skysports.com/football/news/12040/13562219/thomas-tuchel-reveals-england-still-yet-to-receive-explanation-over-jarell-quansahs-upgraded-two-game-suspension-after-mexico-red-card"
     },
     {
       "text": "⚽ Carra: Why I'd pick Kane over 'greatest goalscorer' Haaland",
@@ -23810,10 +23810,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-11": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3448_0",
+            "category": "england",
+            "type": "News",
+            "title": "England's Guehi, Rice & James all train before Norway game",
+            "bullets": [
+              "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder Declan Rice and defenders Marc Guehi and Reece James all train with England on the eve of Saturday's World Cup quarter-final against Norway.",
+            "fullText": "England are seeking to reach the semi-finals of the World Cup for only the fourth time\n\nEngland midfielder Declan Rice and defenders Marc Guehi and Reece James all took part in training on the eve of Saturday's World Cup quarter-final against Norway.\n\nJordan Henderson is the only squad player who missed out afterhaving surgeryon a broken arm.\n\nManchester City's Guehi complained of a slight hamstring injury following England's 3-2 victory over Mexico in the last 16 at the Azteca Stadium, but he trained at Fort Lauderdale under the watchful eye of former England captain Sir David Beckham.\n\nRight-back James has missed three games but returned to training as expected on Thursday and featured again on Friday, putting him in contention to face Norway (22:00 BST kick-off) at Miami Stadium.\n\nThe return of Rice, after a sickness bug, is also a boost for Thomas Tuchel as the England head coach attempts to secure a semi-final spot.\n\nRice had already been suffering with a neural issue affecting his hamstring and lower back, and it was exacerbated by illness.\n\nBeckham, whoplayed in three World Cups,,externalwas pictured speaking to captain Harry Kane at Friday's training session.\n\nMarc Guehi has appeared in all five of England's games at the World Cup\n\nJames' return, in what has been England's problem position because of injury and suspension, will come as a welcome boost to Tuchel.\n\nBBC Sportreported on Mondaythat the Chelsea defender was expected to return to training and be in contention for Norway.\n\nOn Thursday it was revealed that Jarell Quansah, who started at right-back against Mexico, had been banned for two games for his red card in the last-16 tie.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3448_1",
+            "category": "england",
+            "type": "News",
+            "title": "Football's best bromance: Why Bellingham and Haaland break the mould",
+            "bullets": [
+              "The two players have won an army of admirers from social media clips for their honesty in interviews...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The two players have won an army of admirers from social media clips for their honesty in interviews.",
+            "fullText": "Jude Bellingham and Erling Haaland face off during the Champions League in 2025\n\nIt is the football bromance that has consumed the internet during the World Cup.\n\nAnd on Saturday night when England's Jude Bellingham and Norway's Erling Haaland face each other fans will be looking out for more than just goals.\n\nThe pair's long-standing friendship, dating back to their Borussia Dortmund (BVB) days, has produced some memorable clips - most of which have been given a new lease of life during the tournament.\n\nFootage of their camaraderie over the years has become a welcome antidote to toxic masculinity and the darker corners of social media.\n\nInstagram in particular is awash with clips during matches of the two hugging or celebrating together.\n\nAnd their confidence in front of TV cameras and on their own social media has won them armies of new admirers.\n\nOne particular clip in September 2021 after BVB's victory over Besiktas saw Haaland, 25, praise Bellingham as \"amazing\".\n\nOn cue he strolled into shot and planted a jokey kiss on his cheek before vanishing.\n\nAnother moment that has featured prominently all week sees Haaland rush in to seemingly protect Bellingham, 23, after a rival player pushed him on the pitch.\n\n\"If you go back to the days of the 90s or 00s a lot of brands fell out with footballers because they were so badly behaved,\" PR expert Mark Borkowski told the BBC.\n\n\"If you look at this generation of footballers they are a different breed and I think it is a lot to do with social media.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3448_2",
+            "category": "england",
+            "type": "News",
+            "title": "How do England stop Norway - and Haaland?",
+            "bullets": [
+              "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England prepare to face Norway in a World Cup quarter-final on Saturday, how can Thomas Tuchel's side handle the main threat - star striker Erling Haaland?",
+            "fullText": "Erling Haaland has scored seven goals so far at the World Cup\n\nNorway may have been touted by many as this World Cup's dark horse, but their impressive progress still feels like they have exceeded expectations.\n\nSince finishing second in Group I, above Senegal, they have knocked out Ivory Coast and Brazil, scoring 12 goals across five games.\n\nNow they face England who are tasked with nullifying a strong Norway side spearheaded by star striker Erling Haaland.\n\nSo, what do Norway do best and what might England boss Thomas Tuchel look to tweak in order to see his side through to the final four of the World Cup?\n\nNorway boast attacking variety with Stale Solbakken's men fluctuating between wanting to hold on to the ball and being able to attack quickly.\n\nFrom goal-kicks, Orjan Nyland's distribution has been excellent. Norway's first instinct is to play short, often setting up with a wide back four and the keeper forming a fifth option, with two holding midfielders showing for the ball centrally.\n\nWith so many players deep, Norway often have an overload at the back making progressing up the pitch easier.\n\nWhen short options are not viable, Nyland's get-out-of-jail-free card is 6ft 5in Alexander Sorloth who Norway play on the right wing as a wide targetman for long diagonal balls.\n\nLong balls to Sorloth on the right wing is a common pattern to look out for when Norway play\n\nThis is something England left-back Nico O'Reilly will have to be alert to, but, given his 6ft 4in height and frame, this is a far more even match-up than Norway have experienced so far.\n\nThere are a few options, but they come with trade-offs, as do all tactical approaches.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3449_3",
+            "category": "england",
+            "type": "News",
+            "title": "Mexico boss' explicit heckle a bit of fun - Gordon",
+            "bullets": [
+              "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\".",
+            "fullText": "Javier Aguirre has been replaced by Rafael Marquez as Mexico boss following the defeat by England\n\nEngland winger Anthony Gordon says being sworn at by Mexico boss Javier Aguirre in a viral moment of their World Cup match was \"just a bit of fun\" and a \"compliment\".\n\nDuring a first-half hydration break, Aguirre first spoke to midfielder Jude Bellingham before calling out to Gordon when they were both close to the touchlineduring England's dramatic 3-2 winin the last 16 at the Azteca Stadium.\n\nThe 67-year-old then shouted an explicit remark to the forward before both of them laughed.\n\n\"I remembered it,\" said Gordon, whomoved from Newcastle United to Barcelona this summer.\"It's just a bit of fun.\n\n\"With all the heat and tension around the game, it was a bit of fun.\n\n\"I'd just run the full-back down the line so it was a bit of a compliment from him. That's how I took it anyway.\"\n\nIt was one of several funny moments from the match widely shared on social media including Harry Kane's post-match interview after losing his voice andEngland defender John Stones pretending he was injured.\n\nBellingham scored twice to put England 2-0 up before Julian Quinones pulled a goal back for the World Cup co-hosts.\n\nJarell Quansah was red-carded for England, who restored their two-goal advantage through a Kane penalty.\n\nRaul Jimenez put away a Mexico spot-kick to make it 3-2 before England held on during a tense finale to secure a quarter-final against Norway on Saturday, 11 July (22:00 BST).\n\nAguirre, who has previously led Atletico Madrid, Mallorca and Espanyol over a 31-year managerial career, has since left his post and been replaced by Rafael Marquez.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3449_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel fears more Haaland heroics as England seek identity against Norway",
+            "bullets": [
+              "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, befo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, before the World Cup quarter-finalThe way that Thomas Tuchel remembers it, he was the only choice for the award. He had led Chelsea to Champions League glory in 2020-21 so when the German publication Sport Bild named its coach of the season, it had to give it to him. “Yeah, there was no way out,” the England head coach says, with a smile. “Because if Jürgen Klopp won at the same time the Charity Shield they give it to him …”The line is delivered in trademark style: deadpan, apart from the twinkle in his eye and it is especially funny to imagine Klopp’s reaction when he reads it. What happened next for Tuchel was less of a laughing matter. As a part of the deal, he gave an interview to Sport Bild and during it he joked about how he would have “no problem” bringing Erling Haaland to Chelsea and playing him up front with Romelu Lukaku. Continue reading...",
+            "fullText": "Head coach says ‘you can’t avoid focusing’ on the forward, who has form against Tuchel’s sides, before the World Cup quarter-final\n\nThe way that Thomas Tuchel remembers it, he was the only choice for the award. He had ledChelsea to Champions League gloryin 2020-21 so when the German publicationSportBildnamed its coach of the season, it had to give it to him. “Yeah, there was no way out,” the England head coach says, with a smile. “Because if Jürgen Klopp won at the same time the Charity Shield they give it to him …”\n\nThe line is delivered in trademark style: deadpan, apart from the twinkle in his eye and it is especially funny to imagine Klopp’s reaction when he reads it. What happened next for Tuchel was less of a laughing matter. As a part of the deal, he gave an interview toSportBildand during it he joked about how he would have “no problem” bringing Erling Haaland to Chelsea and playing him up front with Romelu Lukaku.\n\nHaaland’s club at the time, Borussia Dortmund, were unimpressed and Tuchel found himself having to say sorry to them. “I always need to apologise,” Tuchel says. “They don’t get my humour.”\n\nTuchel has had other Haaland-related problems. In 2019-20, when Tuchel was in charge at Paris Saint-Germain, he watched him score both Dortmund goals in a 2-1 Champions Leaguelast-16 first-leg win. PSG turned it around to edge through 3-2 on aggregate. It did not go so well for Tuchel in 2022-23 when he was at Bayern Munich and Haaland had gone to Manchester City. Haaland scored in both legs of theChampions League quarter-finaltie, City progressing 4-1 on aggregate.\n\nTuchel has close-up experience of how devastating Haaland can be and is braced again. Because there is no doubt Haaland will represent the single greatest threat to England’sWorld Cupambitions when he steps out to face them for Norway in Saturday’s quarter-final in Miami.\n\nPopulationNorway: 5.6 million; England: 56.3 million\n\nAreaNorway: 148,729 square miles; England: 50,371 square miles\n\nLowest temperature  recordedNorway: -51.4C; England: -26.1\n\nAverage male heightNorway: 5ft 11in; England: 5ft 9in\n\nNational dishNorway: Fårikål (mutton or lamb, cabbage, black pepper and occasionally some wheat flour); England: chicken tikka masala (invented in Glasgow)\n\nSquad value (via Transfermarkt.com)Norway: £502.56m; England: £1.25bn",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3449_5",
+            "category": "england",
+            "type": "News",
+            "title": "Like Nosferatu on a golf weekend – but England players trust Tuchel and his aura | Barney Ronay",
+            "bullets": [
+              "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup,...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on MumsnetLet’s set the world on fire. There’s a section in Bill Buford’s classic football hooligan study, Among the Thugs, where he describes being part of a phalanx of England “faces” steaming through the centre of mid-1980s Rotterdam towards some kind of meet, while their leader – the Top Boy, General or similar – runs up and down the column whispering to his men, saying the “energy is high”, “the energy is high”, “feel it”, “the energy is high”.As it is currently for this England team, and quite clearly the players can feel it. You will probably have seen the dressing-room video, which has more than 40m views. Declan Rice and John Stones are shown playing a prank on Thomas Tuchel after the electrical storm masquerading as a football match at the Estadio Azteca last on Sunday. Rice pretends Stones has injured his shoulder. Stones plays along with it, delivering a minimalist acting masterclass so contained there is almost no acting at all, before raising his fist as the beat drops (song: Talk To You, by ANOTR) and the room falls about in generalised hysteria. Continue reading...",
+            "fullText": "Imposing head coach is a details man who has got the balance of squad spirit right at the World Cup, and is even proving a hit on Mumsnet\n\nLet’s set the world on fire. There’s a section in Bill Buford’s classic football hooligan study, Among the Thugs, where he describes being part of a phalanx ofEngland“faces” steaming through the centre of mid-1980s Rotterdam towards some kind of meet, while their leader – the Top Boy, General or similar – runs up and down the column whispering to his men, saying the “energy is high”, “the energy is high”, “feel it”, “the energy is high”.\n\nAs it is currently for this England team, and quite clearly the players can feel it. You will probably have seen the dressing-room video, which has more than 40m views. Declan Rice and John Stones are shown playing a prank onThomas Tuchelafter the electrical storm masquerading as a football match at the Estadio Azteca last on Sunday. Rice pretends Stones has injured his shoulder. Stones plays along with it, delivering a minimalist acting masterclass so contained there is almost no acting at all, before raising his fist as the beat drops (song: Talk To You, by ANOTR) and the room falls about in generalised hysteria.\n\nBut, of course, Rice and Stones are not really the main characters here. It is instead the tall, fidgety man in the short-sleeved shirt that the camera loves and lingers on as he claps along with an unignorable gangly energy, head bobbing, like a glimpse into one of those daytime retro-raves where middle-aged surveyors from Guildford pretend it’s 1989 – the summer of love, hardcore you know the score, have a bang on one of these pal, they’re M&S elderflower pastilles – before leaving in time for a 4.30pm psoriasis appointment.\n\nAs the big reveal happens, Tuchel barks with laughter and bump-hugs Stones. And the energy, well, the energy is undeniable, most notably in the comments underneath, which are uplifting and surprisingly tender, with people saying things like: “He gets it;” “He’s one of us;” and, most telling: “I dunno how to explain it but, man, I love Tuchel.”\n\nTeams are strange things, made up of abstract bonds, metrics that fall between the lines. There is a paradox with this slightly thrown-together England. Tuchel is a rationalist and a details man. Whereas the keynote of thecurrent World Cup campaign is feelings, will, chemicals, overcoming its shortcomings with an excess of spirit. Is this sustainable? Is the Azteca going to end up being the peak, the rush before the comedown of a very difficult, fine-margins quarter-final against Norway in Miami? This is entirely possible.\n\nNorway are not just a dangerous team, but one that seem set up to prey on some very specific England weaknesses. In the meantime, however, still illuminated by victory in Mexico, this is a remarkable moment for Tuchel, who is, like late afternoon Miami-Dade County, just so hot right now.\n\nPopulationNorway: 5.6 million; England: 56.3 million\n\nAreaNorway: 148,729 square miles; England: 50,371 square miles\n\nLowest temperature  recordedNorway: -51.4C; England: -26.1\n\nAverage male heightNorway: 5ft 11in; England: 5ft 9in\n\nNational dishNorway: Fårikål (mutton or lamb, cabbage, black pepper and occasionally some wheat flour); England: chicken tikka masala (invented in Glasgow)",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3450_6",
+            "category": "england",
+            "type": "News",
+            "title": "No FIFA explanation over Quansah suspension claims Tuchel",
+            "bullets": [
+              "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarel...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel has claimed that England have not been offered an explanation as to why defender Jarell Quansah was handed a two-game suspension following his red card against Mexico.",
+            "fullText": "Thomas Tuchel has revealed England have still not received any explanation from FIFA as to why Jarell Quansah's red card was upgraded to a two-game suspension; Quansah was sent off during the 3-2 win over Mexico; Tuchel has received a big injury boost ahead of the quarter-final vs Norway",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3450_7",
+            "category": "england",
+            "type": "News",
+            "title": "Carra: Why I'd pick Kane over 'greatest goalscorer' Haaland",
+            "bullets": [
+              "Jamie Carragher says Erling Haaland will go down as \"the greatest goalscorer of all time\" - but he'd...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jamie Carragher says Erling Haaland will go down as \"the greatest goalscorer of all time\" - but he'd rather have Harry Kane in his team.",
+            "fullText": "Star strikers Harry Kane and Erling Haaland assessed by Sky Sports' Jamie Carragher ahead of World Cup clash; Follow Norway vs England with the Sky Sports website and App, with our live blog running from midday on Saturday to bring you build-up, team news and analysis; kick-off 10pm.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3450_8",
+            "category": "england",
+            "type": "News",
+            "title": "Rice and Guehi give England injury boost ahead of Norway quarter-final",
+            "bullets": [
+              "Declan Rice, Marc Guehi and Reece James gave England a triple injury boost ahead of their World Cup ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice, Marc Guehi and Reece James gave England a triple injury boost ahead of their World Cup quarter-final with Norway.",
+            "fullText": "England's Declan Rice, Marc Guehi and Reece James returned to training on Friday ahead of Saturday's World Cup quarter-final with Norway in Miami; Rice had been ill and Guehi was nursing a hamstring issue but both back in the mix to start; Jordan Henderson only player to miss session",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-10 @ 18:59:25 EDT",
+  "lastUpdated": "2026-07-11 @ 00:34:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
