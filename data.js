@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Guehi and Stones set to start for England in World Cup quarter-final",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c7vyp994jjgo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Hey Jude: Bellingham's return to England indispensability",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg47l8nl7jo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -22,14 +18,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Playing golf with Trump surreal - Kane",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Football's best bromance: Why Bellingham and Haaland break the mould",
-      "link": "https://www.bbc.co.uk/news/articles/cz9l8pzxv7vo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Norway v England: World Cup 2026 quarter-final – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/11/norway-v-england-world-cup-2026-quarter-final-live"
     }
   ],
   "timeline": {
@@ -24388,11 +24376,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4900_0",
+            "category": "england",
+            "type": "News",
+            "title": "Hey Jude: Bellingham's return to England indispensability",
+            "bullets": [
+              "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with Englan...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Senior football correspondent Sami Mokbel charts Jude Bellingham's remarkable resurgence with England at the World Cup.",
+            "fullText": "Hey Jude: Bellingham's return to England indispensability\n\nA World Cup body of work that, even by the Real Madrid midfielder's lofty standards, has been as mesmerising as we've seen in an England shirt in recent major tournaments.\n\nIt seems ludicrous now to think that there was even a debate as to whether Bellingham would be in England's World Cup team at all.\n\nBellingham has emerged as one of the stars of England's run to the World Cup quarter-finals - he's arguably been one of the best players of the tournament.\n\nFour goals plus an excellent assist for Harry Kane's goal in the 2-0 win over Panama has had England's supporters serenading the 23-year-old here in the USA.\n\nBut Bellingham appears to be taking it all in his stride.\n\nOf course, he is used to the adulation. It is no surprise that Bellingham finds himself in the position he does today - his route to the top was predicted by those in the game when he burst on to the scene in 2019.\n\nBellingham madehis debut for hometown club Birmingham Cityaged 16 years and 38 days in August 2019.\n\nHe became the Blues' youngest ever player, breaking club legend Trevor Francis' record set in 1970.\n\nA Premier League scouting report from that game suggests the midfielder's talent was quickly apparent, acknowledging his \"great athleticism, long legs, graceful running and work-rate\".\n\nBut it was Bellingham's technical skills that really caught the scout's attention - his ability to carry the ball away from pressure and find space by getting between the lines or pulling wide.\n\nThe report recommended the undisclosed Premier League club immediately sign Bellingham, loan him out and then bring him into their senior squad in 18 months' time.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4900_1",
+            "category": "england",
+            "type": "News",
+            "title": "Is it time to give record-breaker Pickford the credit he deserves?",
+            "bullets": [
+              "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the Wo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Is it time to finally give England keeper Jordan Pickford the credit he deserves as he enters the World Cup history books, asks chief football writer Phil McNulty.",
+            "fullText": "England goalkeeper Jordan Pickford celebrates after his superb display in the win against Mexico at The Azteca.\n\nEngland goalkeeper Jordan Pickford enters the history books when he faces Norway in the World Cup quarter-final in Miami.\n\nThe 32-year-old Everton keeper will become England's most capped player in the tournament when he makes his 18th World Cup appearance, eclipsing the previous record held by Peter Shilton.\n\nFollowing his magnificent individual display in England's 3-2 victory in the last 16 against Mexico in the Azteca, it is another sign of how Pickford has maintained unrivalled status as first choice before his 90th international appearance in his fifth major tournament.\n\nPickford's record is outstanding for both club and country so, after his performance in Mexico City, is it time the Wearsider finally received the recognition his record deserves?\n\nI've changed my mind, we might actually be able to win this thing - Shearer\n\nPickford has been a model of consistency for Everton and England, as proved by his Premier League statistics.\n\nIn the last two league seasons, Pickford's clean sheet record of 23 in the last two seasons is second only to David Raya, the keeper with Premier League champions Arsenal, who has 32.\n\nIn his 89 England games, he has conceded 59 goals and kept 44 clean sheets while making, as measured by Opta statistics, only two errors that have led to goals.\n\nFormer England goalkeeper Paul Robinson is one who believes Pickford's contribution has been undervalued.\n\nHe told BBC Sport: \"I think he has been under-appreciated for Everton and England when you look at the numbers he's posting, the games he is playing and the number of clean sheets he has.\n\n\"He is only second behind David Raya in the last two seasons for clean sheets and they are playing for very different teams.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4900_2",
+            "category": "england",
+            "type": "News",
+            "title": "All the goals from England's 2026 World Cup campaign so far",
+            "bullets": [
+              "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+            "fullText": "Re-live all the goals scored by England so far, as Thomas Tuchel's side gear up to face Norway at the Miami Stadium for their World Cup quarter-final.\n\nREAD MORE:How do England stop Norway - and Haaland?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4901_3",
+            "category": "england",
+            "type": "News",
+            "title": "Playing golf with Trump surreal - Kane",
+            "bullets": [
+              "England captain Harry Kane says he once played golf with United States President Donald Trump, descr...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\".",
+            "fullText": "England captain Harry Kane says he once played golf with United States President Donald Trump, describing the experience as \"surreal\".\n\nThe striker will lead England fortheir World Cup quarter-final against Norwayin Miami on Saturday (22:00 BST) and, in the build-up to that game, revealed he had played golf with Trump in Florida 18 months ago.\n\n\"I played alright to be honest,\" said Bayern Munich striker Kane.\n\n\"He invited me to play when I was down in Palm Beach. So yeah, when the president invites you somewhere...\n\n\"It was a pretty surreal experience just to meet him and obviously play golf with him.\n\n\"His golf is pretty good, to be honest with you. I hope I can play golf as good as him when I'm his age, that's for sure. A unique experience, but I was just grateful that he invited me to play.\"\n\nThe US is co-hosting the 2026 World Cup along with Canada and Mexico, and Kane's comments followed Trump, 80, saying the pair had played together.\n\n\"I think Kane is a great player,\" said Trump after Kane, who has six goals and one assist for England at the World Cup, helped the Three Lions beat Mexico 3-2 in the last 16.\n\n\"I played golf with him and I like him a lot. He's a good golfer too. He's really great.\"\n\nEngland set for open-air Miami heat - but do Norway hold the edge?\n\nHey Jude: Bellingham's return to England indispensability\n\nWhen the World Cup finishes, the football continues on BBC Sport",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-11 @ 15:39:51 EDT",
+  "lastUpdated": "2026-07-11 @ 18:49:09 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
