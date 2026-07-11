@@ -8,7 +8,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/aik-sankte-mjallby-avgjorde-17-sekunder-efter-jattelage"
     },
     {
-      "text": "⚽ Jan Johansson from Fyrås eats his way through the World Cup",
+      "text": "⚽ Jan Johansson from Fyrås eats his way through the soccer World Cup",
       "link": "https://www.svt.se/nyheter/lokalt/jamtland/jan-johansson-fran-fyras-ater-sig-igenom-fotbolls-vm"
     }
   ],
@@ -10858,11 +10858,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4035_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "AIK defeated Mjällby - decided 17 seconds after a great situation",
+            "bullets": [
+              "In the second half between Mjällby and AIK, 17 intense seconds unfolded. Kristoffer Nordfeldt's swea...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In the second half between Mjällby and AIK, 17 intense seconds unfolded. Kristoffer Nordfeldt's sweaty save paved the way for the opening goal - and AIK eventually won 2–1. - Incredible feeling, says goal scorer Adrian Helm to SVT Sport.",
+            "fullText": "In the second half between Mjällby and AIK, 17 intense seconds unfolded.\n\nKristoffer Nordfeldt's sweaty save paved the way for the opening goal - and AIK eventually won 2–1.\n\n- Incredible feeling, says goal scorer Adrian Helm to SVT Sport.\n\nMjällby had a dream position to take the lead when the clock was 73:16, but Kristoffer Nordfeldt narrowly saved on the goal line.\n\n17 seconds later, AIK had instead taken the lead.\n\nAfter a lightning-quick conversion, Axel Kouame was able to serve substitute Victor Andersson, who made it 1–0. The 21-year-old goalscorer had then been on the field for seven minutes.\n\nAIK then extended the lead via Allsvenskan debutant Adrian Helm in the 90th minute, after another counterattack. However, the score was broken when Ali Youssef made the game exciting with a 2-1 goal in the final minutes.\n\nThe Stockholm club has now taken two straight victories since the Allsvenskan resumed after the summer break.\n\n- Incredible feeling. It's been tough months since I signed, I've been injured basically the whole time, says goal scorer Adrian Helm and continues:\n\n- Very happy. Lots of positive feelings right now.\n\nIn the limping table, AIK is now fifth. Mjällby slips down to eighth place.\n\nHeavy for Mjällby was also that the three key players Tom Pettersson, Jeppe Kjaer and Abdullah Iqbal received a yellow card and miss the next match.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4038_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Jan Johansson from Fyrås eats his way through the soccer World Cup",
+            "bullets": [
+              "The quarter-finals of the World Cup are underway. Before the play-off round, SVT met Jan Johansson, ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The quarter-finals of the World Cup are underway. Before the play-off round, SVT met Jan Johansson, who every day during the World Cup cooks food based on the countries that play - or leave. - Most countries impress, says Jan Johansson.",
+            "fullText": "The quarter-finals of the World Cup are underway. Before the play-off round, SVT met Jan Johansson, who every day during the World Cup cooks food based on the countries that play - or leave.\n\nThe idea came from a friend of Jan Johansson's a few years ago and since then he has had the World Cup in the kitchen during four championships.\n\n- It's a fun way to try a lot of different dishes, you just have to dare to try.\n\nJan Johansson is a physical education teacher by day and has extra time for cooking now during the summer holidays. When SVT visited him at home in Fyrås, a happy Jan Johansson was preparing tagine, a Moroccan stew, when he predicted a win for France.\n\n- Moroccan goat was hard to get hold of, so after a bit of translation I found out that moose works just as well.\n\nBefore each day, Jan checks the game schedule and guesses which country will go out. That country then gets to provide inspiration for the food that ends up on the plate. Sometimes he gets the result right and other times not. But then he gives the countries a new chance on match-free days.\n\n- The other day when there was no match, I included South Korea and Scotland, which I had been wrong about.\n\nAmong other things, South Korean bulgogi, Egyptian shawarma, Canadian poutine and Senegalese cafe have been served. Jan says that most of the dishes have impressed him and the only one that hasn't become a taste sensation so far is a cachupa from Cape Verde.\n\nThe Swedish national team has done its part in the championship and the right that Jan awarded to Sweden was an unusual combination.\n\n– Anchovies ice cream. It was something my mother did for me when I was little. It's a bit of an exciting taste.\n\nHe has previously eaten Norwegian food in the form of Arctic prawns and omelette, but saved a ratatouille for France. Despite that, he finds it difficult to decide whether it will be Norway or France that comes out on top in the end.\n\n- Even if it receives, I think Norway will win. They are playing such good football right now.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-11 @ 11:52:20 EDT",
+  "lastUpdated": "2026-07-11 @ 15:40:38 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
