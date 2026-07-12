@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ AIK defeated Mjällby - decided 17 seconds after a great situation",
       "link": "https://www.svt.se/sport/fotboll/aik-sankte-mjallby-avgjorde-17-sekunder-efter-jattelage"
-    },
-    {
-      "text": "⚽ Jan Johansson from Fyrås eats his way through the World Cup",
-      "link": "https://www.svt.se/nyheter/lokalt/jamtland/jan-johansson-fran-fyras-ater-sig-igenom-fotbolls-vm"
     }
   ],
   "timeline": {
@@ -10939,10 +10935,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-12": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4730_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "AIK defeated Mjällby - decided 17 seconds after a great situation",
+            "bullets": [
+              "In the second half between Mjällby and AIK, 17 intense seconds unfolded. Kristoffer Nordfeldt's swea...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In the second half between Mjällby and AIK, 17 intense seconds unfolded. Kristoffer Nordfeldt's sweaty save paved the way for the opening goal - and AIK eventually won 2–1. - Incredible feeling, says goal scorer Adrian Helm to SVT Sport.",
+            "fullText": "In the second half between Mjällby and AIK, 17 intense seconds unfolded.\n\nKristoffer Nordfeldt's sweaty save paved the way for the opening goal - and AIK eventually won 2–1.\n\n- Incredible feeling, says goal scorer Adrian Helm to SVT Sport.\n\nMjällby had a dream position to take the lead when the clock was 73:16, but Kristoffer Nordfeldt narrowly saved on the goal line.\n\n17 seconds later, AIK had instead taken the lead.\n\nAfter a lightning-quick conversion, Axel Kouame was able to serve substitute Victor Andersson, who made it 1–0. The 21-year-old goalscorer had then been on the pitch for seven minutes.\n\nAIK then extended the lead via Allsvenskan debutant Adrian Helm in the 90th minute, after another counterattack. However, the score was broken when Ali Youssef made the game exciting with a 2-1 goal in the final minutes.\n\nThe Stockholm club has now taken two straight victories since the Allsvenskan resumed after the summer break.\n\n- Incredible feeling. It's been tough months since I signed, I've been injured basically the whole time, says goal scorer Adrian Helm and continues:\n\n- Very happy. Lots of positive feelings right now.\n\nIn the limping table, AIK is now fifth. Mjällby slips down to eighth place.\n\nHeavy for Mjällby was also that the three key players Tom Pettersson, Jeppe Kjaer and Abdullah Iqbal received a yellow card and miss the next match.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-11 @ 18:40:13 EDT",
+  "lastUpdated": "2026-07-12 @ 00:47:30 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
