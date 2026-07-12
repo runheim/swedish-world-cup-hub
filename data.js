@@ -9500,6 +9500,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "These new training balls are flying everywhere.",
       "time": "12:58",
       "isCaptain": true
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Are we wearing the white or blue kits tomorrow?",
+      "time": "06:35",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Just saw the training kit. Actually looks fire this year.",
+      "time": "06:36",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "06:37",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "06:38",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Bags are packed! Who's ready?",
+      "time": "06:39",
+      "isCaptain": false
     }
   ]
 };
