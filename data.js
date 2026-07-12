@@ -4,52 +4,60 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Bellingham reaching heights of World Cup legends with Messi next",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel angry at 'lucky' England - but Bellingham defends players",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel angry at 'lucky' and 'sloppy' England – can 'mentality' be enough?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg474ekv58o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Rice in bed for nearly three days before Norway game - Tuchel",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Bellingham reaching heights of World Cup legends with Messi next",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy5v6544ypxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'He has dragged them through all tournament' - England player ratings",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg0qpjeeryo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'Man of all the moments' - Bellingham gives England the lead",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd95335dp10o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ All the goals from England's 2026 World Cup campaign so far",
-      "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Bellingham scores extra-time winner as England reach semi-finals",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cjrgww8vr98o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Playing golf with Trump surreal - Kane",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8e2z97rp4xo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Did spider cam impact England's opener?",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx2kwwdygr9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Bellingham’s extra-time winner sinks Norway and sends England into World Cup semi-finals",
-      "link": "https://www.theguardian.com/football/2026/jul/12/norway-england-world-cup-quarter-final-match-report"
-    },
-    {
-      "text": "⚽ Jude Bellingham excels in parallel World Cup but cannot win trophy alone | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-parallel-world-cup-norway-england"
-    },
-    {
-      "text": "⚽ England wobble but Djed Spence and John Stones make case for the defence",
-      "link": "https://www.theguardian.com/football/2026/jul/12/england-djed-spence-john-stones-defence-world-cup-norway"
+      "text": "⚽ 'Man of all the moments' - Bellingham gives England the lead",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c20yrd39ge8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Jude Bellingham unimpressed after Tuchel criticises ‘lucky’ England’s performance",
       "link": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-thomas-tuchel-criticises-lucky-england-performance"
     },
     {
+      "text": "⚽ Jude Bellingham excels in parallel World Cup but cannot win trophy alone | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-parallel-world-cup-norway-england"
+    },
+    {
+      "text": "⚽ England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
+      "link": "https://www.theguardian.com/football/2026/jul/12/england-djed-spence-john-stones-defence-world-cup-norway"
+    },
+    {
       "text": "⚽ Norway 1-2 England: World Cup quarter-final player ratings from Miami",
       "link": "https://www.theguardian.com/football/2026/jul/12/norway-1-2-england-world-cup-quarter-final-player-ratings-from-miami"
+    },
+    {
+      "text": "⚽ Bellingham blunts Norway as England make the semis | World Cup Daily – video",
+      "link": "https://www.theguardian.com/football/video/2026/jul/12/bellingham-blunts-norway-as-england-make-the-semis-world-cup-daily"
+    },
+    {
+      "text": "⚽ Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
+      "link": "https://www.skysports.com/football/news/12040/13562724/paul-merson-jude-bellingham-has-x-factor-needed-to-win-england-the-world-cup"
     },
     {
       "text": "⚽ England player ratings: This is Bellingham's summer as Kane has an off day",
@@ -64,7 +72,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.skysports.com/football/news/12040/13562621/thomas-tuchel-unhappy-with-englands-display-in-world-cup-quarter-final-win-over-norway-but-jude-bellingham-responds-with-whatever"
     },
     {
-      "text": "⚽ Bellingham the magician sends England to another World Cup semi-final",
+      "text": "⚽ Bellingham shapes World Cup to his will to secure England’s place in semi-finals",
       "link": "https://www.telegraph.co.uk/football/2026/07/11/norway-vs-england-score-updates-world-cup-quarter-final/"
     }
   ],
@@ -24778,11 +24786,323 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4927_0",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel angry at 'lucky' England - but Bellingham defends players",
+            "bullets": [
+              "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel is praised by former England players for saying his players \"got lucky\" in World Cup quarter-final win over Norway - but match-winner Jude Bellingham disagrees.",
+            "fullText": "Bellingham scores extra-time winner as England reach semi-finals\n\nAfter reaching the stage as hosts in 1966, and then in Italy and Russia in 1990 and 2018, England have another World Cup semi-final to prepare for.\n\nWhen French referee Clement Turpin signalled the end of anincident-filled quarter-final win in Miami,Thomas Tuchel's exhausted players sank to their knees in celebration after being taken to extra time by Norway.\n\nEngland's fans danced in the stands, two-goal Jude Bellingham accidentally clashed heads with Jordan Pickford during the on-pitch celebrations, while captain Harry Kane lined up with his team-mates to acknowledge the thousands of fans who had made the long journey to Florida.\n\n\"We got lucky,\" he said after a quarter-final that saw Norway take the lead, miss a great chance to make it 2-0, have a goal disallowed and also hit the bar.\n\n\"We made life very, very difficult for ourselves. The result is fantastic. We are in the last four. It's amazing but [I am] not happy with the performance - in every sense.\n\n\"We made life difficult for us in the way we played and how we played - sloppy, a lot of technical mistakes, not fast enough, not repetitive enough.\"\n\nTuchel suggested one thing had helped England advance.\n\nWhen asked about his manager's comments and criticism of the performance, Bellingham - who struck in the 47th and 93rd minutes - replied: \"Yeah well, whatever.\n\n\"It's difficult out there, it's a tough shift. All the players have put in a tough shift. My thoughts and appreciation goes to the players out there who put in a great shift.\"\n\nEngland have struggled to set this World Cup alight since overcoming Croatia 4-2 in their first group game.\n\nThey were held by Ghana, did enough to get past Panama 2-0, fell behind to DR Congo before advancing and dug deep to see off Mexico 3-2 with 10 men.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4927_1",
+            "category": "england",
+            "type": "News",
+            "title": "Rice in bed for nearly three days before Norway game - Tuchel",
+            "bullets": [
+              "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England boss Thomas Tuchel says Declan Rice was in bed for most of the three days prior to the World Cup quarter-final win against Norway because of a sickness bug.",
+            "fullText": "Bellingham scores extra-time winner as England reach semi-finals\n\nEngland boss Thomas Tuchel says Declan Rice spent most of the three days before their World Cup quarter-final win against Norway in bed with sickness.\n\nRice startedthe 2-1 victory against Norwaybut looked like he was struggling in the stifling heat of the Miami Stadium before being substituted after the break for Arsenal team-mate Eberechi Eze.\n\nEngland went 1-0 down when Andreas Schjelderup scored for Norway before Jude Bellingham equalised just before half-time, and also grabbed the winner for the Three Lions during extra time.\n\nThe win set up a semi-final against Argentina, who beat Switzerland, that will kick off at 20:00 BST on Wednesday, 15 July and beshown live across the BBC.\n\n\"We had some players struggling in the heat,\" said Tuchel. \"Ezri Konsa was one of them with cramps and the hamstrings.\n\n\"Declan, we made a decision in half-time to become more offensive, to have a bit of an offensive shift.\n\n\"I made the decision when we were 1-0 down and didn't want to go back on the decision because of the equaliser.\"\n\nRice was a doubtfor the Norway game as he had already been suffering with a neural issue affecting his hamstring and lower back, and it was exacerbated by illness.\n\nHe trained on the eve of the quarter-final but made way at the break.\n\nTuchel added: \"We had to take Elliott [Anderson] or Declan out [and] knowing that Declan struggled after the last three days where he was most of the time in bed, I knew he cannot survive 90 minutes.\n\n\"There was a possibility that it goes 120 [minutes], so I didn't want to waste another change, so the decision was to take Declan out earlier than he needed to go out, just to save us another change later down the match.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4928_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham reaching heights of World Cup legends with Messi next",
+            "bullets": [
+              "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records o...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham again dazzles England and the World Cup with his brilliance, matching some records of the all-time greats.",
+            "fullText": "Jude Bellingham was England's two-goal hero again as they beat Norway to reach the World Cup semi-final.\n\nJude Bellingham has carried England through the altitude of Mexico City then the searing heat and humidity of Miami on what increasingly looks like a personal mission to end a 60-year wait to win the World Cup.\n\nThe World Cup can sometimes turn into one player's destiny, carrying an unstoppable momentum towards the sport's greatest prize.\n\nThink Diego Maradona with Argentina in 1986. Think Ronaldo's redemption with Brazil in Yokohama in 2002. Think Lionel Messi finally claiming his personal Holy Grail with Argentina in Doha in 2022.\n\nDespite the England star again coming to his nation's aid withtwo goals that overcame Norwayin the Miami furnace, Bellingham has a long way to go to be bracketed with those iconic figures.\n\nIndeed, there are huge barriers to cross just at this tournament with Messi andArgentina waiting in Atlanta in the semi-final after they beat Switzerland.\n\nAnd, even then, there is the prospect that Spain, or Kylian Mbappe and a brilliant France side, will be the final frontier to cross in ending the agonising barren years that have stretched back to 30 July 1966 when Sir Alf Ramsey's England won the World Cup.\n\nFormidable barriers, but sometimes world-class players find the force of will to shape a World Cup as they wish - and Bellingham is threatening to do that after the latest in a string of magnificent displays.\n\nBellingham scores extra-time winner as England reach semi-finals\n\nDid ball hit spidercam before England goal? Snicko says not - Norway unsure\n\n'Animals', Hand of God and Beckham - Argentina and England's World Cup rivalry\n\nWhile not daring to place Bellingham in the stratosphere of Pele or Maradona - which would be ridiculously premature given their history and legendary status - his match-winning performances against Mexico in the Azteca, then against Norway in Miami, at least allow a flattering statistical comparison.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4928_3",
+            "category": "england",
+            "type": "News",
+            "title": "'He has dragged them through all tournament' - England player ratings",
+            "bullets": [
+              "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reac...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions beat Norway to reach the World Cup semi-finals.",
+            "fullText": "Bellingham scores extra-time winner as England reach semi-finals\n\nJude Bellingham scored twice as England came from behind tobeat Norway 2-1 in extra timeto reach the World Cup semi-finals where they will face Argentina in a match that will beshown live on the BBC.\n\nBBC Sport's England reporterAlex Howellassesses how the players performed in Miami on Saturday - and you can see how BBC Sport readers rated them at the bottom of the page too.\n\nJordan Pickford:Made history as he became the most-capped player for England in World Cups. But Pickford was caught out by Andreas Schjelderup's cross for the Norway opener. An uncertain performance from the England number one.5\n\nEzri Konsa: Dependable as always and the performance showed why he has become such an important fixture in this England team. Solid defensively but maybe lacked going forward, which is to be expected as it's not his natural position. A good performance at right-back, though with one suspect pass to John Stones that put him in trouble and nearly gifted Norway a chance.7\n\nMarc Guehi:Did a good job in marshalling the dangerous Erling Haaland and it was even more impressive considering the centre-back has been nursing a hamstring issue. Guehi is always dependable but had more of the ball than England would have liked as Norway defended deep.8\n\nJohn Stones:Reads the game incredibly well and made a crucial interception that, if missed, would have resulted in a Haaland chance. Got caught on the ball after taking it in a difficult area and was lucky to escape without Norway scoring.7\n\nNico O'Reilly:Has grown in confidence as the tournament has gone on. The Manchester City player is asked to do an incredibly complex job with being the team's left-back, while also providing another option in the left-sided number 10 space when England are in possession. Pinned by Alexander Sorloth and was nearly punished, but the striker shot over.7\n\nElliot Anderson:Anderson started the game in a more advanced position and it was his driving run with the ball that started the move when England made it 1-1. He was then moved back to his familiar number six role when Rice went off.7\n\nDeclan Rice:Moved to be England's deepest midfielder, which could have been due to the illness he had this week or to protect the back four from the threat of the long ball into Haaland and Sortloth. Rice didn't look 100% and was taken off at half-time.6\n\nJude Bellingham:Has been dragging England through tough moments throughout this tournament and he stepped up again to score both goals. In this form, the Three Lions always have a chance and Bellingham has gone to another level during this World Cup.9.5\n\nNoni Madueke:A few good early opportunities to take his man on but did not make the most of them. A disappointing first half and taken off at half-time.5",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4928_4",
+            "category": "england",
+            "type": "News",
+            "title": "Did ball hit spidercam before England goal? Snicko says not - Norway unsure",
+            "bullets": [
+              "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, ar...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norway's World Cup campaign ends in a quarter-final defeat by England, but they leave frustrated, arguing that Jude Bellingham's equaliser should not have counted.",
+            "fullText": "Norway's impressive World Cup campaign endedin a 2-1 quarter-final defeat by England, but their exit was accompanied by frustration as they felt Jude Bellingham's equaliser should have been disallowed for an unusual reason.\n\nThe Norwegians claimed the ball struck one of the spidercam wires in the build-up to Bellingham's equalising goal in Miami. Had it been determined that the ball had touched a wire, the goal would have been ruled out and play restarted with a dropped ball.\n\n\"It's ridiculous, this one with the wire,\" Norway and Fulham midfielder Sander Berge said after the game. \"[The result] 2-1 says itself â there are small margins and we know which way it went.\"\n\nNorway captain Martin Odegaard also questioned the refereeing calls in the last-eight tie.\n\n\"I didn't see it myself [the incident], but margins were not in our favour today with some of the decisions,\" he said. \"Maybe you need that in games like this.\"\n\nNorway were also left aggrieved when a second-half header from Torbjorn Heggem was ruled out following a video assistant referee (VAR) review that penalised Erling Haaland for a shove on Elliot Anderson as a corner was taken.\n\n\"It's an advantage to be as big and physically strong as Erling, but you get punished if you hold a player,\" Berge said.\n\nDid England get lucky with Norway's disallowed goal? - analysis\n\nEngland were trailing to Andreas Schjelderup's opener for Norway when the incident in the build-up to their opener occurred in first-half stoppage time.\n\nReplays showed Norway goalkeeper Orjan Nyland's goal kick passing close to the spidercam cable suspended above the playing surface.\n\nThe ball then fell for Elliot Anderson, who fed Anthony Gordon before the England winger passed for Jude Bellingham to drive on to the ball and calmly score.\n\nSeveral Norway players immediately surrounded referee Clement Turpin, arguing the goal should not have stood. Head coach Stale Solbakken was seen talking to the match official at half-time.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4929_5",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham scores extra-time winner as England reach semi-finals",
+            "bullets": [
+              "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat No...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.",
+            "fullText": "Jude Bellingham scores twice, including an extra-time winner, as England come from behind to beat Norway 2-1 in Miami to reach the World Cup semi-finals.\n\nWatch England in the World Cup semi-final live on BBC One and BBC iPlayer, Wednesday 15 July, 19:00 BST.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4929_6",
+            "category": "england",
+            "type": "News",
+            "title": "Did spider cam impact England's opener?",
+            "bullets": [
+              "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider cam had an impact in Jude Bellingham's first goal for England against Norway.",
+            "fullText": "BBC Sport World Cup pundits Wayne Rooney, Ellen White and Micah Richards look at whether the spider cam had an impact in Jude Bellingham's first goal for England against Norway.\n\nWatch England in the World Cup semi-final live on BBC One and BBC iPlayer, Wednesday 15 July, 19:00 BST.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4929_7",
+            "category": "england",
+            "type": "News",
+            "title": "'Man of all the moments' - Bellingham gives England the lead",
+            "bullets": [
+              "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during ext...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.",
+            "fullText": "Jude Bellingham scores his second goal of the game to give England a 2-1 lead over Norway during extra time of their 2026 World Cup quarter-final in Miami.\n\nWatch England in the World Cup semi-final live on BBC One and BBC iPlayer, Wednesday 15 July, 19:00 BST.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4929_8",
+            "category": "england",
+            "type": "News",
+            "title": "Jude Bellingham unimpressed after Tuchel criticises ‘lucky’ England’s performance",
+            "bullets": [
+              "Head coach says team were ‘sloppy’ and ‘not fast enough’Two-goal Bellingham responds: ‘Yeah, well, w...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach says team were ‘sloppy’ and ‘not fast enough’Two-goal Bellingham responds: ‘Yeah, well, whatever’Jude Bellingham hit back at criticism of England’s performance from Thomas Tuchel after his two goals against Norway booked a place in the World Cup semi-finals for the fourth time.A virtuoso display from the Real Madrid star inspired a comeback victory after Andreas Schjelderup had given Norway the lead, with Bellingham scoring a controversial equaliser just before half-time. Replays appeared to show a Norway goal-kick hitting an overhead cable in the buildup, although Fifa released a statement saying a sensor in the ball showed no evidence it had touched. Norway’s coach, Ståle Solbakken, said it was “pretty clear” it had. Continue reading...",
+            "fullText": "Head coach says team were ‘sloppy’ and ‘not fast enough’\n\nTwo-goal Bellingham responds: ‘Yeah, well, whatever’\n\nJude Bellingham hit back at criticism of England’s performance from Thomas Tuchel after his two goals against Norwaybooked a place in the World Cup semi-finalsfor the fourth time.\n\nA virtuoso display from the Real Madrid star inspired a comeback victory after Andreas Schjelderup had given Norway the lead, with Bellingham scoring a controversial equaliser just before half-time. Replays appeared to show a Norway goal-kick hitting an overhead cable in the buildup, although Fifa released a statement saying a sensor in the ball showed no evidence it had touched. Norway’s coach,Ståle Solbakken, said it was “pretty clear” it had.\n\nBellingham pounced on a mistake from the Norway goalkeeper, Ørjan Håskjold Nyland, in the third minute of extra time to score his sixth goal of the World Cup,two behind Lionel Messi and Kylian Mbappé, and level with his captain, Harry Kane. But despite England reaching the semi-finals for the first time since 2018 under Gareth Southgate, Tuchel was clearly not happy with the performance and claimed his players had “made life very very difficult for ourselves”.\n\n“The result is fantastic, we are in the last four – it’s amazing – but I’m not happy with the performance,” the head coach told ITV. “In every sense. Again the commitment is there but we made life very very difficult for ourselves in the way we played, how we played: sloppy, a lot of technical mistakes, not fast enough, not repetitive enough. We were lucky today.”\n\nBut asked to respond to that criticism, Bellingham was clearly not impressed. “Yeah, well, whatever. Whatever,” he said, his body language also telling. “It’s difficult out there. It’s a tough shift. All the players have put in a tough shift, so my thoughts and appreciation goes to the players who were out there and put in a great shift yet again.”\n\nPressed further in another post-match interview, Bellingham said: “Maybe he doesn’t know what it’s like to play in those kind of conditions against Erling Haaland, [Martin] Ødegaard, [Antonio] Nusa, [Alexander] Sørloth. That’s not an easy team to play against. So, I think we’ve tried to create a positive environment. You’re not going to win every game, popping the ball and making a thousand passes. Sometimes you have to win dirty, and we’ve done that again tonight.”\n\nAsked whether he agreed with Tuchel’s assessment thatEnglandwere lucky, he replied: “No comment.”\n\nTuchel later defended his comments and insisted that there was “no disconnect” with his players. “I’m impressed with the shift they put in and to overcome adversity,” he said. “They cannot get enough praise for that. But I’m also a football coach and we can play better.\n\n“We found the way to get through to the last four, which is of course the most important thing. The analysing head of me still thinks we have to play better. It’s not a problem, but no disconnect for me and my team. Not 1%. I’m full with my heart and fully in love with my players.”\n\nHarry Kane said Tuchel had been less than impressed with the performance but believes that could be exactly what England need if they are to reach a first men’sWorld Cupfinal on foreign soil.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4930_9",
+            "category": "england",
+            "type": "News",
+            "title": "Jude Bellingham excels in parallel World Cup but cannot win trophy alone | Barney Ronay",
+            "bullets": [
+              "Up against Norway’s heart and skill and Florida’s heat, talisman got England through – but there is ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Up against Norway’s heart and skill and Florida’s heat, talisman got England through – but there is much to fixJude against the sun. For much of this game there was a feeling of three separate entities struggling to assert their will in the heavy air of Miami Gardens. First, Norway, in their first World Cup quarter-final, who played with heart, skill and patience, and were by any Jude-free metric probably the better team.Alongside this, forcing itself centre stage, was the July Florida heat, the kind of air that congeals around you like an invisible white sauce, that makes your vision blur and your brain sag, and to which England seemed uniquely vulnerable. Continue reading...",
+            "fullText": "Up against Norway’s heart and skill and Florida’s heat, talisman got England through – but there is much to fix\n\nJude against the sun. For much ofthis gamethere was a feeling of three separate entities struggling to assert their will in the heavy air of Miami Gardens. First, Norway, in their first World Cup quarter-final, who played with heart, skill and patience, and were by any Jude-free metric probably the better team.\n\nAlongside this, forcing itself centre stage, was the July Florida heat, the kind of air that congeals around you like an invisible white sauce, that makes your vision blur and your brain sag, and to whichEnglandseemed uniquely vulnerable.\n\nFor long periods here they looked not just ragged or confused, but utterly done, hanging there like a set of desiccated white shirts on a swampland laundry line.\n\nHumans aren’t really supposed to be down here. Miami is basically a swamp in disguise, a city that appears to exist balanced on a thin film of traffic, tarmac and deep-fried grouper crumb. Across from Miami Stadium there’s a sculpted shopping-centre pond where giant lizards the size of greyhounds skitter back into the mulch as you walk past and turn to look at you, not hostile, just puzzled: a look that says: “What are you doing here, seriously? You have seen this place?”\n\nFlorida’s residents are engaged in a constant battle with “corrosion”, the term for what the air does to every surface, a constant assault of spores damp, warping. Well, the corrosion got England here. They were, to their credit, strong at the end, and steely at the start. But in between they were poor for long periods, guileless and awkward, too many players melting in the glare of the occasion.\n\nAt times this felt like the familiar England parade of we are the hollow men, stuffed men, waiting for the game to happen to them, football as a slow suffocation in that thick sweet air. But they also hadJude Bellingham, who seems increasingly to exist as an entirely different category of human in this team, out there playing a parallel tournament, one that has to this point swept the rest of them along in its wake.\n\nFrom early on it was clear Bellingham’s task here was once again to assert himself not just against the opposition, or even the entropy of his own team, but to emerge as the main character in that three-sided battle against the elements, a man out there single-handedly battling the air, frame-mogging the sun.\n\nBy the end he had scored both goals in England’s 2-1 win over 120 minutes, both of them full body sliding finishes. In between he just refused to lose, transmitting surges of energy and purpose to his wilting teammates.\n\nBoth Bellingham goals came whenNorwayseemed to be running the game and England losing it. Most obviously there was the moment at 1-0 down, with half-time looming, and England having squandered a long period of passive dominance, a team being beaten by the air.\n\nThe equalising goal was England’s first shot. It came from the diagonal run Bellingham makes from right to left, the ball fizzed in via Elliot Anderson, Norway seeming to wait, a kind of aura bubble opening up around that lone white shirt, with time for Bellingham to take another step and shoot with surprising power across Ørjan Håskjold Nyland and into the far corner.\n\nOn his bench Ståle Solbakken erupted in an uncharacteristic fit of fury. At times it has felt at thisWorld Cuplike that Bellingham run is the one thing England have to break the day open, their only free element in a game of squares and right angles. Norway’s coaches will have spent long hours analysing it, replaying it on the big screen. Everyone has a plan until they get Bellinghamed.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4930_10",
+            "category": "england",
+            "type": "News",
+            "title": "England wobble but Djed Spence and John Stones make case for the defence | Jacob Steinberg",
+            "bullets": [
+              "Tuchel’s half-time changes and Pickford’s skittishness lifted Norway, but backline finally rose to o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel’s half-time changes and Pickford’s skittishness lifted Norway, but backline finally rose to occasionEngland were back in Azteca mode in the end. Big Dan Burn was on to thump those headers away. Reece James and the magnificent Djed Spence were covering the flanks, Elliot Anderson was taking care of midfield on his own and the problem for Norway was that the hulking figure leading their attack was no longer on the pitch as they tried to find a way through England’s back five at the end of extra time in Miami.It would be a push to call this a tactical or defensive masterclass from Thomas Tuchel. The German made a rare misstep at half-time, handing the game to Martin Ødegaard when the unwell Declan Rice had to go off, and spent the rest of the second half trying to correct his mistake. First James had to come on for Anthony Gordon, depriving England of one of their main counterattacking outlets as a sense of dread took over, and it was only when the counterpressing of Morgan Rogers was added to the midfield mix that a semblance of order was restored. Continue reading...",
+            "fullText": "Tuchel’s half-time changes and Pickford’s skittishness lifted Norway, but backline finally rose to occasion\n\nEngland were backin Azteca modein the end. Big Dan Burn was on to thump those headers away. Reece James and the magnificent Djed Spence were covering the flanks, Elliot Anderson was taking care of midfield on his own and the problem for Norway was that the hulking figure leading their attack was no longer on the pitch as they tried to find a way through England’s back five at the end of extra time in Miami.\n\nIt would be a push to call this a tactical or defensive masterclass fromThomas Tuchel. The German made a rare misstep at half-time, handing the game to Martin Ødegaard when the unwell Declan Rice had to go off, and spent the rest of the second half trying to correct his mistake. First James had to come on for Anthony Gordon, depriving England of one of their main counterattacking outlets as a sense of dread took over, and it was only when the counterpressing of Morgan Rogers was added to the midfield mix that a semblance of order was restored.\n\nNorway will head home rightly proud of their efforts but no doubt perplexed at how they failed to make to a World Cup semi-final for the first time. There was a moment during the second half when it seemed England were going to need David Beckham to whip off his suit, jump out of the VVIP section and head down to the pitch to rescue them. Something had to change in midfield. Would it be Kobbie Mainoo’s time? On balance, there seemed to be more chance of Tuchel sending on Ellie Goulding to take on Ødegaard, Sander Berge and Patrick Berg. Mainoo is the squad’s great forgotten figure and the more the Norwegian pressure grew the more implausible it felt that this was going to end with their players fighting back the tears after beingbundled out of the tournament by Jude Bellingham.\n\nBeyond Bellingham’s brilliance and a horrible piece of goalkeeping from Ørjan Håskjold Nyland for the winner, though, it was worth dwelling on how England’s maligned defence held them together during the second half. It was not to be Erling Haaland’s day. There were flashes from the Norway striker, not to mention a constant sense of menace, even when the ball was nowhere near him. He landed two headers on Jordan Pickford’s goal and will look back on the moment when, with England rocking after going behind to Andreas Schjelderup’s cross-shot, Alexander Sørloth failed to send him through to double the lead.\n\nCredit goes toJohn Stonesfor narrowing the angles as Sørloth dithered, delayed and ended up fluffing his lines. It was clever defending from the England centre-back, whose performance alongside Marc Guéhi was crucial to how Haaland was managed. The threat was never neutralised but was at least contained. Haaland was restricted to 21 touches and had a pass completion rate of 38% before making way for Jørgen Strand Larsen after the first period of extra time, although those statistics did not quite tell the full story of his seismic battle with Guéhi and Stones.\n\nHaaland knows bothEnglandcentre-backs from Manchester City. Club loyalties were put aside. There were shuddering collisions with Guéhi, who stood up to the test. He went shoulder to shoulder with Haaland on multiple occasions, was not dribbled past and made a series of crucial interventions to help England when Norway were on top.\n\nIt did not help that Pickford was in skittish form and arguably at fault for Schjelderup’s strike. Defence has been a problem for England in every game. Tuchel has been forced to chop and change because of injuries and it was easy to think he had lost faith in Stones, who came into the tournament short of match practice and did not convince whenEngland beat Croatiain Dallas last month.\n\nThis was Stones’s first start since. He is no longer a City player and made only nine appearances in the league last season. Here, though, one of England’s greats stood tall. Nobody got past Stones. His anticipation was second to none. He made six headed clearances – vital given how dangerousNorwaywere from set pieces – and was credited with eight defensive contributions. A rare error, when he was dispossessed in a dangerous area, went unpunished.\n\nKick off your evenings with the Guardian's take on the world of football\n\nEngland in general, of course, were far from perfect. Norway hit the bar and had a goal disallowed in the second half. But with Anderson exposed in midfield after Rice’s departure, there was vast responsibility on the defence to hold out. Nico O’Reilly was tested at left-back and made a crucial tackle on the Norway substitute Oscar Bobb. Ezri Konsa was diligent at right-back before tiring. James, initially introduced in midfield, was powerful when he moved back after Konsa went off. Antonio Nusa, lively when he came on, was not as influential once he was up against the Chelsea captain.\n\nEngland had to show grit. The fans serenaded Stones when he made a block in extra time. In Miami, meanwhile, they will talk of the Miracle of Djed Spence for years to come. The defender came on for O’Reilly and was exceptional. He should have had a penalty after being taken down by Bobb. There was a moment when he shoved Harry Kane aside and almost scored from the edge of the area.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4930_11",
+            "category": "england",
+            "type": "News",
+            "title": "Norway 1-2 England: World Cup quarter-final player ratings from Miami",
+            "bullets": [
+              "Jude Bellingham shone again for England while Marc Guéhi edged a fierce battle with clubmate Erling ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham shone again for England while Marc Guéhi edged a fierce battle with clubmate Erling HaalandOrjan Håskjold Nyland Norway’s hero against Brazil will have nightmares about his error that handed Bellingham his second goal. 3 Continue reading...",
+            "fullText": "Jude Bellingham shone again for England while Marc Guéhi edged a fierce battle with clubmate Erling Haaland\n\nOrjan Håskjold NylandNorway’s hero against Brazil will have nightmares about his error that handed Bellingham his second goal.3\n\nJulian RyersonStruggled to contain Gordon, but loves bombing forward. O’Reilly looked relieved when he was forced off.8\n\nKristoffer AjerThe Brentford defender made some brilliant blocks and was almost the hero when he hit the bar.7\n\nTorbjørn HeggemThought he had scored for a few minutes.Englandthought he got lucky for catching Bellingham.6\n\nDavid Møller WolfeDealt well with threat of Madueke and Saka for most of the game. Occasional forays forward before coming off.6\n\nMartin ØdegaardThe heartbeat of Norway’s team grew in influence massively after a slow start. Gave everything for the cause.8\n\nSander BergeScreened Norway’s back four tirelessly. No easy task in the sweltering conditions in Miami.6\n\nPatrick BergWon ball off Kane for opening goal and a bustling presence throughout. Looks perfect for Premier League.7\n\nAlexander SørlothHeight always causes problems, although he dallied in the first half when a pass to Haaland was on.6\n\nErling HaalandOpponents never feel safe when he’s around but looked totally devastated when he had to come off in extra time.7\n\nAndreas SchjelderupOnly the Benfica winger will know if he actually meant his goal but they all count.7",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4930_12",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham blunts Norway as England make the semis | World Cup Daily – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, John Brewin, Lars Sivertsen and Leander Schaerlaeckens a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, John Brewin, Lars Sivertsen and Leander Schaerlaeckens as England beat Norway 2-1 in extra time to set up a semi-final against Argentina Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning, John Brewin, Lars Sivertsen and Leander Schaerlaeckens as England beat Norway 2-1 in extra time to set up a semi-final against Argentina",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4930_13",
+            "category": "england",
+            "type": "News",
+            "title": "Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
+            "bullets": [
+              "Paul Merson says Jude Bellingham has the X-factor needed to help England win the World Cup.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Paul Merson says Jude Bellingham has the X-factor needed to help England win the World Cup.",
+            "fullText": "Sky Sports'Paul Merson: \"Teams win leagues. X-factor wins tournaments. We have an X-factor player in Jude Bellingham, and also Harry Kane. We have X-factor in abundance with those two. When you have players like that, you always have a chance of winning tournaments.\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4931_14",
+            "category": "england",
+            "type": "News",
+            "title": "England player ratings: This is Bellingham's summer as Kane has an off day",
+            "bullets": [
+              "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England are through to the World Cup semi-finals, with Jude Bellingham's sensational summer carrying on with their 2-1 extra-time win over Norway.",
+            "fullText": "England reached the World Cup semi-finals thanks to two goals from the outstanding Jude Bellingham; Harry Kane had a surprisingly poor outing given his lofty standards this summer; Declan Rice and Noni Madueke came off at half-time, while Elliot Anderson and Anthony Gordon were underrated",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4931_15",
+            "category": "england",
+            "type": "News",
+            "title": "'An absolute superstar' - Bellingham England's hero again",
+            "bullets": [
+              "England have had heroes before - but Jude Bellingham is a special one.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England have had heroes before - but Jude Bellingham is a special one.",
+            "fullText": "Jude Bellingham scored twice against Norway to help England into the World Cup semi-finals; Bellingham is now level with Harry Kane as England's top scorer in the tournament with six goals in total",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4931_16",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel NOT happy with England display but Bellingham responds: 'Whatever'",
+            "bullets": [
+              "Thomas Tuchel admitted he was not happy with England's performance in their nervy World Cup quarter-...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel admitted he was not happy with England's performance in their nervy World Cup quarter-final win over Norway - admitting the Three Lions were \"sloppy, lucky\" and not good enough in \"every sense\".",
+            "fullText": "England beat Norway 2-1 in the World Cup quarter-final but Thomas Tuchel was left unimpressed by his team's performance: \"We made life very, very difficult for ourselves today. I'm not happy with the performance. In every sense. We were lucky.\" Jude Bellingham responded: \"Whatever.\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4943_17",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham shapes World Cup to his will to secure England’s place in semi-finals",
+            "bullets": [
+              "Bellingham shapes World Cup to his will to secure England’s place in semi-finals",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham shapes World Cup to his will to secure England’s place in semi-finals",
+            "fullText": "Jude Bellingham is shaping this World Cup to his will. Great players do that. And Bellingham is one of them. England were exhausted, dead on their feet, but he would just not let them lose. It was not happening on his watch.\n\nTwo more goals from this remarkable young man, the second early in extra time, earned England a place in the semi-finals, eventually overcoming a Norway side who had threatened to overwhelm them in the searing Miami heat.\n\nAnd when the heat is on, Bellingham delivers. It felt fitting that his second goal came after a 25-yard shot from hislifelong friend Morgan Rogerswas spilt. Bellingham pounced, England were through and will now play Argentina for a place in the final.\n\nHe just can't stop scoring!Jude Bellingham gives England the lead in extra time with his 7th goal at this World Cup 🔥pic.twitter.com/xgVaZGawoG\n\nIt is also six goals for Bellingham at the World Cup, the same as Harry Kane, and four alone in the stress and pressure of knockout ties in Mexico and now Miami.\n\nIs he surpassing even the England captain in importance? Maybe. Where would England be without him? The answer: home.\n\nIf they win their semi-final and beat either France or Spain in the final next Sunday, he will certainly be named player of the tournament.\n\nAs Thomas Tuchel said, England just need to find a way to win. They did that. Or, rather, Bellingham did. While the decisive goal was due to his predatory instinct, following in from Rogers’ shot, his first was simply brilliant.\n\nJude Bellingham levels things for England right before half time 🏴󠁧󠁢󠁥󠁮󠁧󠁿That's changed the mood inside the Miami stadium...pic.twitter.com/yj4V3TyTUI\n\nIt also means no England player has scored more goals from open play than Bellingham at a World Cup. And the 23-year-old is a midfielder.\n\nAfterwards Tuchel said “enough said” on Bellingham, who is “world class”, although the England manager was far more passionate, spiky andcritical about the performancein which England started and ended well but in between were extremely fortunate.\n\nAnd so they have matched their best achievement on foreign soil at a World Cup, after the semi-finals in Italy in 1990 and Russia in 2018. It is only the fourth time in the tournament’s history that they have reached this stage.",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-12 @ 00:45:36 EDT",
+  "lastUpdated": "2026-07-12 @ 07:49:43 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
