@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ The head referee admits mistakes: \"Should have been a free kick and a warning\"",
+      "link": "https://www.svt.se/sport/fotboll/domarchefen-erkanner-misstag-borde-blivit-frispark-och-varning"
+    },
+    {
       "text": "⚽ The injury and the national team have made Gustav Lundgren rethink: \"Time is short\"",
       "link": "https://www.svt.se/sport/fotboll/skadan-och-landslaget-har-fatt-gustav-lundgren-att-tanka-om-tiden-ar-knapp"
     }
@@ -11131,11 +11135,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1052_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The head referee admits mistakes: \"Should have been a free kick and a warning\"",
+            "bullets": [
+              "There were really upset feelings in the Degerfors camp after an attention-grabbing penalty situation...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There were really upset feelings in the Degerfors camp after an attention-grabbing penalty situation in yesterday's match against Västerås. Now referee base Stefan Johannesson admits the mistake, but at the same time excludes VAR in the Allsvenskan. - We have to manage this situation without VAR, he says to SVT Sport.",
+            "fullText": "There were really upset feelings in the Degerfors camp after an attention-grabbing penalty situation in yesterday's match against Västerås.\n\nNow referee base Stefan Johannesson admits the mistake, but at the same time excludes VAR in the Allsvenskan.\n\n- We have to manage this situation without VAR, he says to SVT Sport.\n\nThe big talking point from yesterday's Allsvenskan meeting between Västerås and Degerfors was the penalty that VSK was awarded in the opening minutes of the match.\n\nAfter Marcus Baggesen appeared to have marked Degerfors goalkeeper Matvei Igonen, referee Oscar Johnson pointed to the penalty spot - penalty to Västerås.\n\nAn incorrect verdict, now admits Stefan Johannesson, Head of Elite Referees at SvFF:\n\n- It is wrong. It should have been a free kick and a warning, he says.\n\n- I don't think so, or we don't think so when we analyzed it. Warning and free kick would have been correct.\n\nAfter the match, there were strong feelings among several Degerfors players. Striker Dijan Vukojevic saw the referee's statement and said that it is time to introduce VAR in the Allsvenskan.\n\n- Instead of their guy getting a red card, it will be a penalty. How? They can suspend me if they want, but before VAR or shut down the Allsvenskan, he told Värmland's Folkblad.\n\nBut VAR in the Allsvenskan is not relevant, according to Johannesson.\n\n- We have no such discussion because there is no VAR and it has been said that we should not have VAR. We don't have that discussion at all - and we have to manage this situation without VAR.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1055_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The injury and the national team have made Gustav Lundgren rethink: \"Time is short\"",
+            "bullets": [
+              "In the past, Gustav Lundgren has been clear that he is not interested in an adventure abroad. But a ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In the past, Gustav Lundgren has been clear that he is not interested in an adventure abroad. But a swinging spring with both a national team breakthrough and a torn hamstring has made the 31-year-old rethink. - You might regret it if you don't do it, he says to SVT Sport.",
+            "fullText": "In the past, Gustav Lundgren has been clear that he is not interested in an adventure abroad.\n\nBut a swinging spring with both a national team breakthrough and a torn hamstring has made the 31-year-old rethink.\n\n- You might regret it if you don't do it, he says to SVT Sport.\n\nThat's why Gustav Lundgren suddenly opens up abroad - hear more in the clip.\n\nGustav Lundgren has long been loyal to Gai and sees Sweden as his entire football world. But after a declining spring with both national team debuts and injury concerns, thoughts have begun to wander out into Europe.\n\n- Time is still short. It's not like I have 20 years left in my career. You might regret it if you don't.\n\n\"Gurra\" makes it clear, however, that it has nothing to do with Gais.\n\n- I'm doing very well and enjoying myself here, but it's probably awakened some kind of small desire to try something else at some point.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-13 @ 00:54:54 EDT",
+  "lastUpdated": "2026-07-13 @ 13:10:55 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
