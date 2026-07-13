@@ -6632,10 +6632,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-13": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5254_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Argentina’s World Cup built on ‘suffering’ faces its biggest test in England | Pablo Iglesias Maurer",
+            "bullets": [
+              "The defending champions have taken two of their three knockout-round matches to extra-time. England...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The defending champions have taken two of their three knockout-round matches to extra-time. England awaitsArgentina topple Swiss with two goals in extra timeSwitzerland hit out at VAR after ‘mistaken identity’ checkThroughout the World Cup tournament – from the first match through to the 3-1 quarter-final win on Saturday – Lionel Scaloni has been asked one question over and over again: what&nbsp;does he consider the legacy of&nbsp;this Argentina side?Scaloni has been the head coach of Argentina for nearly eight years and his own personal legacy has long been solidified, as have those of many of his players on the pitch against Switzerland on Saturday night. Scaloni ended a near three-decade trophy drought, brought the country its third World Cup and won a pair of Copa&nbsp;Américas to boot. He is Argentina’s most successful coach and, while his appointment was controversial at the time, he is now almost universally revered there. Continue reading...",
+            "fullText": "The defending champions have taken two of their three knockout-round matches to extra-time. England awaits\n\nArgentina topple Swiss with two goals in extra time\n\nSwitzerland hit out at VAR after ‘mistaken identity’ check\n\nThroughout theWorld Cuptournament – from the first match through to the 3-1 quarter-final win on Saturday – Lionel Scaloni has been asked one question over and over again: what does he consider the legacy of this Argentina side?\n\nScaloni has been the head coach of Argentina for nearly eight years and his own personal legacy has long been solidified, as have those of many of his players on the pitch againstSwitzerlandon Saturday night. Scaloni ended a near three-decade trophy drought, brought the country its third World Cup and won a pair of Copa Américas to boot. He is Argentina’s most successful coach and, while his appointment was controversial at the time, he is now almost universally revered there.\n\nScaloni sometimes dodges the question but on Friday he offered a poignant answer, referencing a viral video that surfaced in the wake of Argentina’smiraculous comebackvictory against Egypt in the last 16. In it, a 10-year-old Argentinian child tears his shirt off, raving about what it means to be an Argentinian – the fighting spirit, all of it.\n\n“The training staff and the players, we play football to see these things,” Scaloni said. “Things that come from the heart. It’s incredible – a kid that age says that. If this team has a legacy, that’s what we want. That tomorrow, kids like that think that they can be here playing [for the national team] in the future.”\n\nScaloni’s team have been inspiring through the entire tournament but they have probably shaved several years off the lifespan of their supporters in the process, always leaving things late, always relinquishing leads, always relying on Lionel Messi, their ageless wonder, to do the heavy lifting. Twice this tournament they were nearly eliminated by a badly outmatched opponent and were very nearly sent packing by tiny Cape Verde in the last 32.\n\nAnd on Saturday,Argentinadid it again. TheAlbicelestescored early and seemed in control of the match against a Switzerland team that looked typically unimaginative, rarely challenging the defending champions. Messi seemed in cruise control, drifting in and out of things, his only involvement limited to taking a lovely corner for Argentina’s opening goal. For a spell, it seemed like the whole of Argentina might be afforded a respite from the madness; a chance, for once, to exhale.\n\nAnd then came a mad 10‑minute stretch of the second half where Argentina began to cave. It took just one defensive breakdown to hand Switzerland the equalizer, a simply worked give-and-go that should have been dealt with easily. Even after acontroversial Swiss red cardoffered Argentina a man advantage, they still struggled to finish the game. Messi, for once, looked human, missing a pair of very good chances as the game went to extra time.\n\nIt took a moment of sheer brilliance from a player who had otherwise been entirely quiet – the striker Julian Álvarez – to send Argentina through. His perfectly hit, curling strike allowed, for once, the Argentina faithful to exhale. Their relief turned into ecstasy, finally, when Lautauro Martínez iced the game at the death with a third goal. They were unexpected reminders that Messi, who was looked off during the buildup to the goal, does not always have to play talisman.\n\nAfter the match, the gaggle of Argentinian reporters assembled to talk to the game’s protagonists and ask their questions. Many of them, even in victory, were dotted with words such assufrirandcostar.They had suffered for the win. The win had cost them.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-12 @ 18:50:06 EDT",
+  "lastUpdated": "2026-07-13 @ 00:52:56 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
