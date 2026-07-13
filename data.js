@@ -4,20 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ BBC experts pick their England World Cup semi-final XI - do you agree?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ 'We have another level we can reach' - Kane defends frustrated Tuchel",
       "link": "https://www.bbc.co.uk/sport/football/articles/cy04xjlg5p4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Tuchel unhappy with England display - so why do they keep winning?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c7vy25lqll6o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Rice in bed for nearly three days before Norway game - Tuchel",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpd3wv3v1eeo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
       "link": "https://www.theguardian.com/football/2026/jul/12/thomas-tuchel-jude-bellingham-tension-england-argentina-norway-world-cup-2026"
+    },
+    {
+      "text": "⚽ Andy Burnham has body of work that speaks volumes about how he gets football | Rob Draper",
+      "link": "https://www.theguardian.com/football/2026/jul/13/andy-burnham-body-of-work-football"
     },
     {
       "text": "⚽ England on collision course with Messi and Argentina in World Cup semi-final grudge match",
@@ -28,24 +28,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/12/jude-bellingham-england-world-cup-2026-international-goals-leading-scorers"
     },
     {
-      "text": "⚽ Cablegate: should Jude Bellingham’s first goal against Norway have been disallowed?",
-      "link": "https://www.theguardian.com/football/2026/jul/12/cablegate-should-jude-bellingham-first-goal-against-norway-have-been-disallowed-england-world-cup-2026"
-    },
-    {
-      "text": "⚽ Bellingham blunts Norway as England make the semis | World Cup Daily – video",
-      "link": "https://www.theguardian.com/football/video/2026/jul/12/bellingham-blunts-norway-as-england-make-the-semis-world-cup-daily"
-    },
-    {
-      "text": "⚽ Bellingham and Tuchel's ‘battle of wills’ is healthy for England",
-      "link": "https://www.skysports.com/football/news/12040/13562880/world-cup-2026-jude-bellingham-and-thomas-tuchels-battle-of-wills-is-healthy-for-england"
-    },
-    {
-      "text": "⚽ Merson: Teams win leagues, X-factor wins World Cups - and Bellingham has it",
-      "link": "https://www.skysports.com/football/news/12040/13562724/paul-merson-jude-bellingham-has-x-factor-needed-to-win-england-the-world-cup"
-    },
-    {
-      "text": "⚽ Bellingham shapes World Cup to his will to secure England’s place in semi-finals",
-      "link": "https://www.telegraph.co.uk/football/2026/07/11/norway-vs-england-score-updates-world-cup-quarter-final/"
+      "text": "⚽ Every stat Bellingham tops for England",
+      "link": "https://www.skysports.com/football/news/12040/13562946/jude-bellingham-leads-world-cup-2026-england-stats-after-scoring-twice-against-norway-and-mexico-ahead-of-argentina-semi-final"
     }
   ],
   "timeline": {
@@ -26303,11 +26287,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1033_0",
+            "category": "england",
+            "type": "News",
+            "title": "BBC experts pick their England World Cup semi-final XI - do you agree?",
+            "bullets": [
+              "England are through to the World Cup semi-finals, but who would you pick in your starting XI?",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England are through to the World Cup semi-finals, but who would you pick in your starting XI?",
+            "fullText": "Declan Rice went off at half-time in the quarter-final win over Norway\n\nEngland are through to the World Cup semi-finals, where they will play Argentina.\n\nTheThree Lions beat Norway 2-1to reach the last four, with Wednesday's match (20:00 BST) to beshown live on the BBC.\n\nBBC Sport experts have attempted to pick Thomas Tuchel's side for the match below.\n\nUse our selector to choose your starting XI and comment your thoughts below.\n\nThe main call here is to leave out Ezri Konsa, which I am not sure Thomas Tuchel will do. But if ever there was a match where the experience of John Stones is required, then this is it. Of course if Reece James is still considered not yet ready to start then Konsa would play again at right-back.\n\nThe other big decision is to start Morgan Rogers on the right, which is a position he has played with Aston Villa. I am not sure England have had enough from either Noni Madueke or Bukayo Saka in the wide right position. And despite the word being that Saka is fully fit and free from pain from his ongoing Achilles tendon issue, he has not been firing on all cylinders in the way that we know he can.\n\nSomeone other than Harry Kane and Jude Bellingham has got to weigh in with goals and Rogers has the potential to do that.\n\nRogers was praised by Tuchel for the role he played when he came on in Miami and the manager described him as one of his key players. He has consistently contributed when he has played for England this season, is match sharp and now could be the time to ask him to step up. Plus, Saka and/or Madueke may perhaps be more effective coming on as substitutes.\n\nAnd of course the other selection proviso depends on whether Declan Rice has fully recovered after being pressed into service against Norway so soon after recovering from being unwell.\n\nVery tough choice because you have to factor in injuries, injury and illness in Rice's case, and the fact we are now at the sudden-death stage of the World Cup.\n\nStones' experience will be crucial in such a game so I would partner him with Guehi and start with Konsa at right-back with James having had so little action.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1033_1",
+            "category": "england",
+            "type": "News",
+            "title": "'We have another level we can reach' - Kane defends frustrated Tuchel",
+            "bullets": [
+              "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup f...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Captain Harry Kane says England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966.",
+            "fullText": "England play Argentina in the World Cup semi-finals on Wednesday and if they win would meet either France or Spain in Sunday's final\n\nCaptain Harry Kane has predicted England \"have another level we can reach\" as they bid to win the World Cup for the first time since 1966.\n\nThe Three Lions needed extra time before beating Norway 2-1 on Saturday, with a semi-final on Wednesday in Atlanta against Argentina (20:00 BST,live on BBC One and iPlayer) to come.\n\nAfter the quarter-final, bossThomas Tuchel said he was unhappywith England's performance, saying the team \"got lucky\", were \"sloppy\", made \"a lot of technical mistakes\" and were \"not fast enough, not repetitive enough\".\n\nKane, 32, has scored six goals in this tournament and is England's joint top goalscorer, along with Jude Bellingham.\n\nThe skipper felt Tuchel's frustrations were because the side did not replicate what they were doing in training.\n\n\"When he sees us train and sees the closeness of us and sees what we can do, especially with the players we have, the way we attack, our one-on-ones and the skills, he just wants to see that version of us,\" said Kane.\n\n\"He knows as much as anyone that it's not as simple as that, we're playing against good opposition and good teams.\n\n\"He's trying to drag it out of us and we know ourselves we have another level we can reach.\n\n\"We haven't seen that yet, we've shown it in glimpses. Against Norway it was in glimpses. But we haven't had full control that we would like and I feel we can have.\n\n\"We'll be playing against one of the best teams in the world in the semi-final, so the most pleasing thing is we are in a semi-final and still feel we can improve.\n\n\"But I don't think it is something to get really over the top about. We are showing a lot of good things.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1033_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel and Bellingham need to cool tension with England so close to history | Jacob Steinberg",
+            "bullets": [
+              "The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot affor...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot afford to be distracted heading into the World Cup semi-finalThomas Tuchel lobbed a grenade into the mix. Jude Bellingham picked it up and threw it back. There was an explosion of honesty in Miami, where everyone was struggling to maintain composure in the stifling humidity, and it needs to be dealt with before England try to reach a men’s World Cup final for the first time on foreign soil.It is time for cool heads. Tuchel was searing in his immediate analysis of England’s quarter-final win over Norway, telling ITV’s Gabriel Clarke that the performance was sloppy, not fast enough and full of technical mistakes. Praise for the side’s mentality was there but slightly lost in the noise. It was the criticism that Bellingham was asked about and the way he responded, punching back at Tuchel’s comments with some forthrightness of his own, ran the risk of England’s campaign falling down because of a public disagreement between the head coach and the star player. Continue reading...",
+            "fullText": "The latest episode of Thomas versus Jude does not have to descend into a drama and team cannot afford to be distracted heading into the World Cup semi-final\n\nThomas Tuchel lobbed a grenade into the mix.Jude Bellinghampicked it up and threw it back. There was an explosion of honesty in Miami, where everyone was struggling to maintain composure in the stifling humidity, and it needs to be dealt with before England try to reach a men’s World Cup final for the first time on foreign soil.\n\nIt is time for cool heads. Tuchel was searing in his immediate analysis of England’s quarter-final win over Norway, telling ITV’s Gabriel Clarke that the performance was sloppy, not fast enough and full of technical mistakes. Praise for the side’s mentality was there but slightly lost in the noise. It was the criticism that Bellingham was asked about andthe way he responded, punching back at Tuchel’s comments with some forthrightness of his own, ran the risk of England’s campaign falling down because of a public disagreement between the head coach and the star player.\n\nBellingham was curt in one interview, shrugging and raising his eyebrows before saying: “Yeah, well, whatever … it’s difficult out there,” and went further in another. “Maybe he doesn’t know what it’s like to play in those kind of conditions against Erling Haaland, [Martin] Ødegaard, [Antonio] Nusa, [Alexander] Sørloth,” the midfielder said, a comment interpreted in some quarters as aiming a dig at Tuchel’s modest playing career.\n\nIt felt like an unnecessary reaction from Bellingham, not least because it dragged attention away fromEnglandsetting up an epic semi-final against Argentina in Atlanta on Wednesday. The inevitable worry is it indicated that the tensions in his relationship with Tuchel have not been fully repaired.\n\nHas Tuchel’s comment about Bellingham’s “repulsive” behaviourreally been consignedto the past? In the heat of the moment there were hints that Bellingham is yet to forget. It would be understandable if grievances have been stored up. Tuchel took a hard line last autumn, dropping Bellingham from the squad. There was talk of team dynamics and the dressing room hierarchy coming first. The onus was on Bellingham to adapt and he rose to the challenge, meeting Tuchel’s demands and forcing his way back into the XI before becoming England’s driving force at this tournament.\n\nYet the latest episode of Thomas versus Jude does not have to descend into a drama. The first thing to say is there was nothing that unusual about Tuchel’s initial remarks. He is always candid with the media, always insightful, and in Miami it was easy to see his takedown of England’s performance as a classic managerial psychological play.\n\nTuchel wants to put a second star on the shirt. Reachingthe last four is not enoughfor him. He wants to drive standards and in that sense his comments were a form of shock therapy. There was no faking it. The fact is that England were lucky to beat Norway, who were superior for much of normal time, and Tuchel’s comments were reminiscent of the type of confrontational leadership deployed by José Mourinho in his pomp.\n\nPerhaps that feels unusual in an era where some managers feel a need to be sensitive with modern players. But Tuchel is elite. His fury was delivered with a smirk. He knew what he was doing. It is a tactic used by so many of the greats. We have seen it from Pep Guardiola, who would often take interviewers to task if he thought they were giving Manchester City undue praise. Sir Alex Ferguson could also be acerbic in victory; he even criticised his Aberdeen side after a win in a final.\n\nThere are two problems here, though. The first is that Tuchel has rubbed up against classic English reserve. His candour feels bracing, unsuitable even. What would Gareth Southgate have done? He would have spoken about England breaking down barriers and making more history. He would have spoken softly and sensitively. Tuchel is completely different. He tells it like it is and does not worry too much if it causes offence.\n\nEnter Jude. This is where the second issue lies – the risk of a clash between two massive egos. Consider Bellingham’s position. He is 23 andhad just scored twicein consecutive knockout ties. It is not a surprise he was not interested in negativity. That is not who he is and that willingness to ruffle feathers is part of what allowed him to power England over the line when they were struggling on Saturday.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1033_3",
+            "category": "england",
+            "type": "News",
+            "title": "Andy Burnham has body of work that speaks volumes about how he gets football | Rob Draper",
+            "bullets": [
+              "Prime-minister-in-waiting has been a key figure in overhauls behind the scenes of the game, as well ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Prime-minister-in-waiting has been a key figure in overhauls behind the scenes of the game, as well as helping to create the Hillsborough Independent PanelPicking up the country when it is in a slump of self-doubt is perhaps within Andy Burnham’s reach. And football, close to Burnham’s heart, may provide the template. There have been several occasions in the past 20 years when English football has been in a state of anguish, but a nadir came in 2007, when Burnham made one of his most significant interventions to the national game. If England win the World Cup, expect the prime-minister-in-waiting to take at least a slice of the credit.England had just lost 3-2 to Croatia at Wembley and failed to qualify for Euro 2008, the game where Steve McClaren was dubbed “the wally with the brolly”, the pouring rain adding to the sense of despair. At Wembley that night Burnham was with James Purnell, now poised to become his chief of staff in No 10, as guests of the Premier League’s then chief executive, Richard Scudamore. Burnham was the minister for culture, media and sport, having succeeded Purnell, who had been moved to the Department for Work and Pensions, this being the early days of Gordon Brown’s Labour premiership. Continue reading...",
+            "fullText": "Prime-minister-in-waiting has been a key figure in overhauls behind the scenes of the game, as well as helping to create the Hillsborough Independent Panel\n\nPicking up the country when it is in a slump of self-doubt is perhaps within Andy Burnham’s reach. And football, close to Burnham’s heart, may provide the template. There have been several occasions in the past 20 years when English football has been in a state of anguish, but a nadir came in 2007, when Burnham made one of his most significant interventions to the national game. If England win the World Cup, expect the prime-minister-in-waiting to take at least a slice of the credit.\n\nEnglandhad just lost 3-2 to Croatia at Wembleyand failed to qualify for Euro 2008, the game where Steve McClaren was dubbed“the wally with the brolly”, the pouring rain adding to the sense of despair. At Wembley that night Burnham was with James Purnell, now poised to becomehis chief of staffin No 10, as guests of the Premier League’s then chief executive, Richard Scudamore. Burnham was the minister for culture, media and sport, having succeeded Purnell, who had been moved to the Department for Work and Pensions, this being the early days of Gordon Brown’s Labour premiership.\n\nAs McClaren prepared his resignation and English football went into one of its periodic moments of self-loathing, Burnham, Purnell and Scudamore used the post-match anguish to plot a way out of the wilderness.\n\n“Previously, Richard had been of the mindset that youth development was down to the clubs and it wasn’t for the Premier League to intervene,” said another guest in the box. “But that game was a genuine Damascus moment for Richard and Andy Burnham and James Purnell were a big part of that post-match discussion. There was a lot of chat about what needed to be done and how to do it.”\n\nLong story short, out of that discussion came the wholesale reform of the academy structure of English football, with the Premier League leading the way to create theelite player performance plan(EPPP). Although far from perfect, it was a step change in English football, allowing clubs more time with younger players on the pitch and the ability to recruit from a wider area. It has created the current gold standard of English players coming through.\n\nNot just England players either: Germany’s Jamal Musiala and France’s Michael Olise were among the leading beneficiaries of a system redesigned to produce more creative players. Even if Thomas Tuchel has eschewed them, Phil Foden and Cole Palmer are academy poster boys, coming through at Manchester City, as is Morgan Rogers, who was at West Brom. Jude Bellingham came through Birmingham’s Category B status academy and Harry Kane came through at Tottenham.\n\nThat Burnham was there at its birth – though clearly it was Scudamore, the Football Association and the Premier League employee Ged Roddy who pushed the revolution through – speaks volumes about the depth to which Burnham gets football, even if his Everton top has become the equivalent of Keir Starmer’s “my dad was a toolmaker” trope.\n\nBurnham was at the Villa Park FA Cup semi-final between Everton and Norwich in 1989 when news filtered through of the Hillsborough tragedy at the other tie between Liverpool and Nottingham Forest. That tragedy has marked his life, from his teenager’s perspective at the time to the occasion when he was repeatedly heckled and booed at Anfieldat the 20th anniversary serviceand interrupted by chants of “Justice for the 96”, because of perceived prevarication from the Labour government.\n\nIt was an extremely uncomfortable moment, though he recovered well, a skill set now evident in his communications. He has since said he has never felt more nervous than when addressing the crowd that day and the raw emotion he encountered there led to Burnham helping to create the Hillsborough Independent Panel. That ultimatelyexcoriated several authoritiesand led to several apologies for the disaster from the government, South Yorkshire police and the Sun editor Kelvin MacKenzie, whose apology was rejected by survivors’ families.\n\nIt is also partly owing to Burnham that football has ended up with anindependent regulator. The genesis of that goes back to the botched attempt by major Premier League clubs to forma breakaway European Super Leaguein April 2021 and the then prime ministerBoris Johnson’s threat to drop a “legislative bomb” on the idea. Johnson appointed Dame Tracey Crouch to investigate football in the aftermath and she handily had all the detail prepared on how a regulator could work because, in October 2020, the former FA chair David Bernstein along with Burnham and Gary Neville had produced a report, Saving Our Beautiful Game, which called for a regulator and showed how it could work.\n\nThose familiar with the talking shop that preceded the publication of Saving Our Beautiful Game say Burnham was initially more radical than most, wanting the report to examine how fans could take a stake in clubs, but was talked round to a more moderate position. The football regulator and the EPPP intervention are perhaps signifiers of what may be in store on a national scale. “EPPP was the most interventionist thing the Premier League ever did, but it was intervention in the market for a reason and with purpose,” said a source close to the discussions. “Ultimately, it was about showing the market, in this case the clubs, that it was in their own interest to do the right thing.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1033_4",
+            "category": "england",
+            "type": "News",
+            "title": "England on collision course with Messi and Argentina in World Cup semi-final grudge match",
+            "bullets": [
+              "First competitive game between teams since 2002 World CupGeorgia braced for potential flashpoints in...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "First competitive game between teams since 2002 World CupGeorgia braced for potential flashpoints in Atlanta buildupIt has been billed as one of the biggest grudge matches in the history of international football. After England’s players rode their luck against Erling Haaland’s Norway on a steamy night in Miami, they spent Sunday recuperating at their base in Kansas City as thoughts turn to facing Argentina in the World Cup semi-final on Wednesday.Thomas Tuchel’s team will take on the reigning champions on what promises to be an emotionally charged occasion in Atlanta for the chance to play France or Spain in the final. Continue reading...",
+            "fullText": "First competitive game between teams since 2002 World Cup\n\nGeorgia braced for potential flashpoints in Atlanta buildup\n\nIt has been billed as one of the biggest grudge matches in the history of international football. After England’s players rode their luck against Erling Haaland’s Norway on a steamy night in Miami, they spent Sunday recuperating at their base in Kansas City as thoughts turn to facing Argentina in theWorld Cupsemi-final on Wednesday.\n\nThomas Tuchel’s team will take on the reigning champions on what promises to be an emotionally charged occasion in Atlanta for the chance to play France or Spain in the final.\n\nIt will be the first time the 39-year-oldLionel Messi, arguably the greatest male player of all time and probably playing in his final World Cup, will face England and the first time the two countries have met in a competitive match since the 2002 World Cup in Japan, when David Beckham scored the winning penalty.\n\nBeckham, the president and co-owner of the Major League Soccer club Inter Miami, was in the crowd at Miami Stadium on Saturday night with his wife, Victoria, and members of their family. The formerEnglandcaptain was spotted singing along to Hey Jude after the game in honour of the team’s two-goal hero, Jude Bellingham. He was also pictured with some of England’s players including the captain, Harry Kane, and Declan Rice when they trained at Inter Miami’s training base in Fort Lauderdale before the game.\n\n“What a moment in Miami,” Beckham wrote on Instagram. “I’m so proud of the team tonight reaching the semi-final of the World Cup and to celebrate with my family was so special … Thank you England for giving our country these moments.”\n\nNot for the first time, Bellingham was the hero inEngland’s 2-1 victory, getting the winner in extra time, after Andreas Schjelderup had given Norway the lead. But his equaliser at the end of the first half was tinged with controversy. Replays appeared to show a Norway goal-kick hitting an overhead television cable suspended above the pitch in the buildup, although Fifa released a statement saying a sensor in the ball showed no evidence it had touched. That was contested by Norway’s head coach, Ståle Solbakken, who claimed it created “a misunderstanding among our players”.\n\nTuchelcriticised his players’ performanceafter the game and claimed that they had been “lucky”, despite becoming only the fourth manager of England’s senior men’s team to reach the last four of the World Cup, after Alf Ramsey, Bobby Robson and Gareth Southgate.\n\nHis comments drew a furious response from Bellingham, with the Real Madrid star delivering the withering line that “maybe he doesn’t know what it’s like to play in those kind of conditions against Erling Haaland, [Martin] Ødegaard, [Antonio] Nusa, [Alexander] Sørloth” in an apparent dig at the German’s lack of experience as a top-level player having retired at 25 owing to a knee injury.\n\nTuchel, who extended his contract until 2028 before the World Cup, may need tofind a way to smooth things overwith one of his key players before the monumental meeting with Argentina. But the 52-year-old said he was enjoying the ride, having led England to their first tournament since they lost to Spain in the final of the European Championship in 2024 under Southgate.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1033_5",
+            "category": "england",
+            "type": "News",
+            "title": "Big game Bellingham steps up again with show-stopping World Cup run for England | Andrew Beasley",
+            "bullets": [
+              "Real Madrid forward is thriving on the global stage as the first player to score twice in consecutiv...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Real Madrid forward is thriving on the global stage as the first player to score twice in consecutive knockout matches at the tournament since Maradona in 1986England’s World Cup journey has rapidly become the Jude&nbsp;Bellingham show. He scored twice to see off Norway on Saturday having also bagged a double in the previous round against Mexico. The 23-year-old attacking midfielder loves delivering on the biggest of stages.This is the greatest era of World&nbsp;Cup goal scoring, aided by the expansion of the tournament. The two leading scorers of all time are still in the 2026 edition, with Lionel Messi (21 goals) and Kylian Mbappé (20) joined by Harry Kane (14) in the top six. Erling Haaland scored seven times in only five matches, meaning he may be in the upper reaches of the chart by the time he retires, too. Continue reading...",
+            "fullText": "Real Madrid forward is thriving on the global stage as the first player to score twice in consecutive knockout matches at the tournament since Maradona in 1986\n\nEngland’sWorld Cupjourney has rapidly become the Jude Bellingham show. He scored twice to see off Norway on Saturday having also bagged a double in the previous round against Mexico. The 23-year-old attacking midfielder loves delivering on the biggest of stages.\n\nThis is the greatest era of World Cup goal scoring, aided by the expansion of the tournament. Thetwo leading scorers of all timeare still in the 2026 edition, with Lionel Messi (21 goals) and Kylian Mbappé (20) joined by Harry Kane (14) in the top six. Erling Haaland scored seven times in only five matches, meaning he may be in the upper reaches of the chart by the time he retires, too.\n\nBut these elite forwards haven’t achieved what Bellingham has in the previous two rounds. Nobody has for four decades, in fact. He became the first player to score twice in consecutive knockout matches at the World Cup since Diego Maradona in 1986. While such feats can be somewhat random, Bellingham’s career shows why this particular feat is not surprising.\n\nNine of Bellingham’s 12 international goals have been scored at major tournaments, with seven at World Cups and a pair at Euro 2024. None of the 44 other men with at least 12 goals forEnglandare remotely close to Bellingham for the proportion of their strikes that occurred in major tournaments.\n\nThe story is the same if placed in wider context. Comparing Bellingham with his fellow Golden Boot contenders reveals nobody is near him for outperforming the share of their international minutes at major tournaments with their proportion of goals scored at them.\n\nHe hasn’t stat-padded with penalties or goals against minnows, either. Haaland once scored five in a game against Moldova, the 159th‑ranked side in the world; no team against which Bellingham has scored was below 48th at the time. Even his less glamorous international goals have been dramatic. Bellingham scored in a friendly at Hampden Park, about as hostile a venue as a non‑competitive game gets for England. His other two goals were equalisers in the 87th minute or later, against Belgium in a friendly andGreece in the Nations League. Could he make the difference for a third successive game, in the semi‑final against Argentina?\n\nEngland have had four instances of a player having at least 0.6 non‑penalty expected goals in a game at this tournament. Well done if you guessed Ezri Konsa against Croatia was one of them. The other three were Bellingham in each of the knockout matches. His ability to sniff out the biggest chances is unmatched.\n\nForget qualifying games against the lesser lights of European football. When it truly matters on the global stage, Bellingham is the man for England’s biggest moments.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1034_6",
+            "category": "england",
+            "type": "News",
+            "title": "Every stat Bellingham tops for England",
+            "bullets": [
+              "Jude Bellingham fever grips the nation after the Real Madrid midfielder scored two goals - for the s...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham fever grips the nation after the Real Madrid midfielder scored two goals - for the second game running - in England's 2-1 win over Norway.",
+            "fullText": "Jude Bellingham has scored twice in successive World Cup knockout games and leads England for goals, goal involvements, big chances, take-ons, sprints and runs in behind ahead of the semi-final against Argentina.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-13 @ 00:52:30 EDT",
+  "lastUpdated": "2026-07-13 @ 09:10:38 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
