@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ The injury and the national team have made Gustav Lundgren rethink: \"Time is short\"",
+      "link": "https://www.svt.se/sport/fotboll/skadan-och-landslaget-har-fatt-gustav-lundgren-att-tanka-om-tiden-ar-knapp"
     }
   ],
   "timeline": {
@@ -11123,10 +11107,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-13": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5454_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The injury and the national team have made Gustav Lundgren rethink: \"Time is short\"",
+            "bullets": [
+              "In the past, Gustav Lundgren has been clear that he is not interested in an adventure abroad. But a ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In the past, Gustav Lundgren has been clear that he is not interested in an adventure abroad. But a swinging spring with both a national team breakthrough and a torn hamstring has made the 31-year-old rethink. - You might regret it if you don't do it, he says to SVT Sport.",
+            "fullText": "In the past, Gustav Lundgren has been clear that he is not interested in an adventure abroad.\n\nBut a swinging spring with both a national team breakthrough and a torn hamstring has made the 31-year-old rethink.\n\n- You might regret it if you don't do it, he says to SVT Sport.\n\nThat's why Gustav Lundgren suddenly opens up abroad - hear more in the clip.\n\nGustav Lundgren has long been loyal to Gai and sees Sweden as his entire football world. But after a declining spring with both national team debuts and injury concerns, thoughts have begun to wander out into Europe.\n\n- Time is still short. It's not like I have 20 years left in my career. You might regret it if you don't.\n\n\"Gurra\" makes it clear, however, that it has nothing to do with Gais.\n\n- I'm doing very well and enjoying myself here, but it's probably awakened some kind of small desire to try something else at some point.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-12 @ 18:40:02 EDT",
+  "lastUpdated": "2026-07-13 @ 00:54:54 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
