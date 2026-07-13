@@ -14181,6 +14181,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Dags att vila. Viktig dag imorgon.",
       "time": "12:48",
       "isCaptain": true
+    },
+    {
+      "sender": "Kristoffer Olsson",
+      "avatar": "🇸🇪",
+      "text": "Vem tog mitt kaffe i matsalen?!",
+      "time": "07:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "Dags att vila. Viktig dag imorgon.",
+      "time": "07:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "07:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Ska vi spela padel när vi får ledigt?",
+      "time": "07:52",
+      "isCaptain": true
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "Bara några dagar kvar nu. Känner ni peppen?",
+      "time": "07:53",
+      "isCaptain": false
     }
   ]
 };
