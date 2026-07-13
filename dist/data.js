@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT squad focuses on tactical discipline in Dallas training hub",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D Opponents finalize their tactical configurations",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Football Daily | A 64-team World Cup? More is more when it comes to Fifa-land",
+      "link": "https://www.theguardian.com/football/2026/jul/13/football-daily-email-world-cup"
     }
   ],
   "timeline": {
@@ -6712,11 +6696,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1239_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football Daily | A 64-team World Cup? More is more when it comes to Fifa-land",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!So, here we are. After a century of matches, and...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!So, here we are. After a century of matches, and for the first time in history, the World Cup has entered its sixth week. But is it about to get longer? Gianni Infantino didn’t even get through the first of an agonising two-day rest period before dropping the hint that Fifa would be “examining and discussing” the potential for the 2030 tournament to be a 64-team affair. Some may say – not Football Daily, of course – that this was a handy way to move the news cycle on after Balogun-gate, Cable-gate and the ever-growing industry of suspicion that is VAR-gate. But let’s take it at face value: Fifa appears to be giving this some thought and, after years spent expanding virtually every tournament in their jurisdiction, it has previous.While largely agreeing with Rich Zahradnik’s complaint about your faux Private Eye approach, may I be the 1,057th person to point out that Dundee United’s victory at Stirling Albion (yesterday’s Beyond the GWC, full email edition) doesn’t mean that they progress to round two yet as they still have three games to play in their group” – Stuart Ainsworth (and 1,056 others).In yesterday’s Memory Lane (full email edition) featuring the England 1982 World Cup Panini spread, you finished with ‘want, want, want’ and I can free you from desire. I have the full ‘82 album, complete with the scribbles of a newly-obsessed eight-year-old football fan and the dog ears of an adult who still treasures memories of the tournament. My parents supported its completion as a distraction from our migration from Switzerland to Australia and created a moment in time for me that means all my passwords still start with Zico and my favourite coffee table book remains Baumann’s ‘Fussball Weltmeisterschaft 1982 Spanien’. I’m happy to loan you both the album and book for as long as it takes to satisfy your needs. Yours in love of el jogo bonito” – Phil Hess [thanks Phil, we probably couldn’t afford the return postage, but appreciate the kind offer – Football Daily Ed].This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nSo, here we are. After a century of matches, and for the first time in history, the World Cup has entered its sixth week. But is it about to get longer? Gianni Infantino didn’t even get through the first of an agonising two-day rest period before dropping the hint that Fifa would be“examining and discussing”the potential for the 2030 tournament to be a 64-team affair. Some may say – not Football Daily, of course – that this was a handy way to move the news cycle on after Balogun-gate, Cable-gate and the ever-growing industry of suspicion that is VAR-gate. But let’s take it at face value: Fifa appears to be giving this some thought and, after years spent expanding virtually every tournament in their jurisdiction, it has previous.\n\n“When organising a World Cup, it’s important to organise it for the whole world – not just Europe and South America – but effectively the entire world,” tooted Infantino, taking time out from his Insta for a chat with Swiss media. “If you don’t give smaller countries a chance to participate in the World Cup, they’ll lack the incentive to keep improving.” If you ignore the fact that smaller countries do currently have a chance to participate in the World Cup – it’s called qualifying – not even the most avid best-third-place believers can deny that a 64-team edition would be better than one with 48. Unless Fifa adopts a Swiss-style model and cracks on with a couple of massive 32-team league tables (don’t rule it out), there would be 16 groups of four nations, with the top two progressing to the knockouts, just like those hazy days of Qatar, Russia and before. There would be no more dramatic 3-3 draws between Austria and Algeria to ensure both progress on four points. Happy days, right?\n\nMore new faces are obviously a good thing. Cape Verde were a revelation. Uzbekistan and Jordan gave it a go. Forgetting the six that followed, Curaçao’s equalising goal against Germany was fun; a world of possibilities would open if you added 16 more teams. This expansion would bring an extra 24 games which, given the plan to host the tournament in 23 venues across six countries and three continents, shouldn’t be a problem for the logistics people either. Imagine, it’s a June day in 2030, you’re watching Spain v India in Madrid, then Madagascar v Colombia in Lisbon, then China v France in Rabat and then Argentina v New Caledonia in Buenos Aires – though take a moment to think of the poor person piloting Gianni’s private jet. Four games a day, for three weeks.\n\nMaybe we should be reading even more into this. More is more in Fifa-land. When Infantino says we should be organising a World Cup “for the whole world”, this could be his soft launch of a truly global World Cup for, say, 2034, with all 211 member nations participating and hosts Saudi Arabia, who are cutting back their spending on sport, wondering what on earth they let themselves in for. At least, then, Italy would get their chance again.\n\nThe daily Geopolitics World Cup blogwill have to sate your needs.\n\nOn Thursday night, you can still join Max Rushden, Barry Glendenning, John Brewin, Barney Ronay and Jonathan Wilson live from their sold-out show at the Bowery Ballroom in New York City.Book livestream tickets here.\n\n“I’m notthatbad. [I’ve watched] some as a fan, teams we can’t face; others I analyse. But it’s not like I’m there with pen and paper. But, yeah, I probably am the worst” – Spain metronome Rodrisettles down for a chat with Sid Loweabout their chances against France in the semis, getting the best out of Lamine Yamal and watching the “immense majority” of the 100 GWC games so far.\n\ndouble quotation markWhile largely agreeing with Rich Zahradnik’s complaint about your faux Private Eye approach, may I be the 1,057th person to point out that Dundee United’s victory at Stirling Albion (yesterday’s Beyond the GWC, full email edition) doesn’t mean that they progress to round two yet as they still have three games to play in their group” – Stuart Ainsworth (and 1,056 others).\n\ndouble quotation markIn yesterday’s Memory Lane (full email edition) featuring the England 1982 World Cup Panini spread, you finished with ‘want, want, want’ and I can free you from desire. I have the full ‘82 album, complete with the scribbles of a newly-obsessed eight-year-old football fan and the dog ears of an adult who still treasures memories of the tournament. My parents supported its completion as a distraction from our migration from Switzerland to Australia and created a moment in time for me that means all my passwords still start with Zico and my favourite coffee table book remains Baumann’s ‘Fussball Weltmeisterschaft 1982 Spanien’. I’m happy to loan you both the album and book for as long as it takes to satisfy your needs. Yours in love of el jogo bonito” – Phil Hess [thanks Phil, we probably couldn’t afford the return postage, but appreciate the kind offer – Football Daily Ed].\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Phil Hess. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-13 @ 09:17:09 EDT",
+  "lastUpdated": "2026-07-13 @ 13:12:44 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
