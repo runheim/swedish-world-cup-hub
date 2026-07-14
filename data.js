@@ -11417,11 +11417,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5120_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish WC player Elliot Stroud on the move rumours: \"Everything is not right\"",
+            "bullets": [
+              "After the success in the WC, the days at Strandvallen may be numbered for Mjällby's Elliot Stroud. T...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After the success in the WC, the days at Strandvallen may be numbered for Mjällby's Elliot Stroud. The 24-year-old confirms that a move abroad is tempting - but emphasizes that playing time and the right club weigh more heavily than anything else. - It's about which club you have the greatest chance of playing in, and doing well there. We'll see what it lands in and what it becomes, says Elliot Stroud to SVT Sport.",
+            "fullText": "After the success in the WC, the days at Strandvallen may be numbered for Mjällby's Elliot Stroud. The 24-year-old confirms that a move abroad is tempting - but emphasizes that playing time and the right club weigh more heavily than anything else.\n\n- It's about which club you have the greatest chance of playing in, and doing well there. We'll see what it lands in and what it becomes, says Elliot Stroud to SVT Sport.\n\nGenoa in Serie A or Hull in the Premier League? There are, and have been, many rumors about Mjällby's WC player Elliot Stroud's next club address.\n\nLast yesterday, Italian Sky Sports reported that Genoa would take legal action against Stroud's agents. Genoa believe that Stroud had already signed a pre-contract with the club but that he will now leave having accepted an offer from Hull.\n\nIt is clear that Stroud himself is set on a move soon - although he avoids commenting on the specific clubs that have been speculated about.\n\n- You want to try something new as a footballer and see what you can do, he says.\n\nA move now would mean that Stroud, who did not play a minute for Mjällby after returning from the WC, would miss the reigning Allsvenskan champions' qualifying matches for the Champions League.\n\n- It is clear that you wanted to stay here and did as much as you could. But at the same time you have to think of yourself as a footballer, you don't have a very long career unfortunately, he says.\n\nHear Elliot Stroud comment on the move rumors in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5124_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Haaland let the fans down: \"Doesn't damage his reputation\"",
+            "bullets": [
+              "More than 100,000 Norwegians waited in vain for Erling Braut Haaland. The soccer star went to Sicily...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "More than 100,000 Norwegians waited in vain for Erling Braut Haaland. The soccer star went to Sicily. - I don't think it damages his reputation, says sociologist Trond Blindheim.",
+            "fullText": "More than 100,000 Norwegians waited in vain for Erling Braut Haaland.\n\n- I don't think it damages his reputation, says sociologist Trond Blindheim.\n\nThe Norwegian national soccer team's flight from the United States was delayed by several hours. So when the national team was to be celebrated by upwards of 120,000 Norwegians in Oslo, the biggest biggest star Erling Haaland was not there. He and Sander Berge took a private flight to Sicily instead.\n\nAccording to VG, he was going on holiday, but the Italian newspaper La Sicilia writes that Haaland was invited as a guest of honor at Dolce & Gabbana's annual fashion show in Taormina.\n\nHowever, sociologist Trond Blindheim does not believe that the fans did not get to see and laugh with their great hero harm Haaland's reputation.\n\n- The kids might be a little disappointed that he wasn't there, but I think they'll forgive him given his effort on the field, says Blindheim.\n\n- He is the great hero of this world championship. He is more popular than the king.\n\nNorway went to the quarter-finals of a World Cup for the first time ever, losing to England 1–2 after extra time.\n\nThe homecoming to Oslo was therefore celebrated in a big way. First the team met King Harald, and then Haaland and Berge were there, and then the team went in procession along the parade street Karl Johan and then met the supporters at the Slottsplassen to row.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 15:50:54 EDT",
+  "lastUpdated": "2026-07-14 @ 18:51:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
