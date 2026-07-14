@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Folarin Balogun: Ban reversal caused ‘a lot of outside noise, and that’s hard to avoid’",
       "link": "https://www.theguardian.com/football/2026/jul/14/folarin-balogun-ban-usa-world-cup"
-    },
-    {
-      "text": "⚽ Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel",
-      "link": "https://www.theguardian.com/football/2026/jul/13/xabi-alonso-chelsea-premier-league"
     }
   ],
   "timeline": {
@@ -6901,11 +6897,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5701_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Folarin Balogun: Ban reversal caused ‘a lot of outside noise, and that’s hard to avoid’",
+            "bullets": [
+              "US striker’s red card was suspended after Trump callsFifa president accused of breaching neutrality...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US striker’s red card was suspended after Trump callsFifa president accused of breaching neutrality rulesThe United States striker Folarin Balogun has revealed he predicted Donald Trump’s involvement in overturning his World Cup suspension would “cause a lot of controversy”.The Monaco forward was sent off with a red card in the United States’ round-of-32 meeting with Bosnia and Herzegovina, but Fifa’s disciplinary committee then suspended the one-match ban for a year, allowing Balogun to participate in the Americans’ last-16 loss to Belgium. Continue reading...",
+            "fullText": "US striker’s red card was suspended after Trump calls\n\nFifa president accused of breaching neutrality rules\n\nThe United States striker Folarin Balogun has revealed he predicted Donald Trump’s involvement in overturning hisWorld Cupsuspension would “cause a lot of controversy”.\n\nThe Monaco forward was sent off with a red card in the United States’ round-of-32 meeting with Bosnia and Herzegovina, but Fifa’s disciplinary committee thensuspended the one-match banfor a year, allowing Balogun to participate in the Americans’ last-16 loss to Belgium.\n\nBalogun found himself the lightning rod in a storm of debate as a result, and on Tuesday morning human rights group FairSquare submitted a complaint to theInternational Olympic Committeealleging Fifa president Gianni Infantino breached rules on political neutrality in his dealings with the US president, who admitted he personally intervened on behalf of Balogun and the US co-hosts.\n\nBalogun told CBS: “My initial reaction was I was happy to be back in the team, but when I kind of started to reflect, I knew it was going to cause a lot of controversy, and I could almost see within my teammates a bit of nerves, because it’s something that is so unique.\n\n“But the closer we got to the game I tried to just focus as best as I could, but it was difficult. A lot of outside noise, and that’s hard to avoid.”\n\nThe Arsenal academy product still maintains the red card he was issued for a tackle on Tarik Muharemovic was not the correct decision.\n\nHe added: “I was in shock. It wasn’t even a tackle. I was totally in shock, I think you could see my reaction, but I just had to accept the decision and just try to be there for my team.\n\n“When something’s not intentional it should never be a red card, so it was just an unfortunate situation, and I think it put a lot more pressure on us than we needed.”\n\nSports and human rights nonprofit FairSquare says Infantino – who became an IOC member in 2020 – has repeatedly breached the Olympic Charter and the IOC’s code of ethics, most recently in his handling of the Balogun affair.\n\nThe Times has reported that the disciplinary committee chair Mohammad Al Kamali made the key decision to suspend the ban alone, having never been the sole arbiter in any published previous disciplinary cases.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 15:50:54 EDT",
+  "lastUpdated": "2026-07-14 @ 18:57:08 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
