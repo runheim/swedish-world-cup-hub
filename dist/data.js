@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The head referee admits mistakes: \"Should have been a free kick and a warning\"",
-      "link": "https://www.svt.se/sport/fotboll/domarchefen-erkanner-misstag-borde-blivit-frispark-och-varning"
+      "text": "⚽ Haaland let the fans down: \"Doesn't damage his reputation\"",
+      "link": "https://www.svt.se/sport/fotboll/haaland-svek-fansen-skadar-inte-hans-rykte"
     },
     {
-      "text": "⚽ The injury and the national team have made Gustav Lundgren rethink: \"Time is short\"",
-      "link": "https://www.svt.se/sport/fotboll/skadan-och-landslaget-har-fatt-gustav-lundgren-att-tanka-om-tiden-ar-knapp"
+      "text": "⚽ The head referee admits mistakes: \"Should have been a free kick and a warning\"",
+      "link": "https://www.svt.se/sport/fotboll/domarchefen-erkanner-misstag-borde-blivit-frispark-och-varning"
     }
   ],
   "timeline": {
@@ -11297,11 +11297,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1728_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Haaland let the fans down: \"Doesn't damage his reputation\"",
+            "bullets": [
+              "More than 100,000 Norwegians waited in vain for Erling Braut Haaland. The soccer star went to Sicily...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "More than 100,000 Norwegians waited in vain for Erling Braut Haaland. The soccer star went to Sicily. - I don't think it damages his reputation, says sociologist Trond Blindheim.",
+            "fullText": "More than 100,000 Norwegians waited in vain for Erling Braut Haaland.\n\n- I don't think it damages his reputation, says sociologist Trond Blindheim.\n\nThe Norwegian national soccer team's flight from the United States was delayed by several hours. So when the national team was to be celebrated by upwards of 120,000 Norwegians in Oslo, the biggest biggest star Erling Haaland was not there. He and Sander Berge took a private flight to Sicily instead.\n\nAccording to VG, he was going on holiday, but the Italian newspaper La Sicilia writes that Haaland was invited as a guest of honor at Dolce & Gabbana's annual fashion show in Taormina.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- The kids might be a little disappointed that he wasn't there, but I think they'll forgive him given his effort on the field, says Blindheim.\n\n- He is the great hero of this world championship. He is more popular than the king.\n\nNorway went to the quarter-finals of a World Cup for the first time ever, losing to England 1–2 after extra time.\n\nThe homecoming to Oslo was therefore celebrated in a big way. First the team met King Harald, and then Haaland and Berge were there, and then the team went in procession along the parade street Karl Johan and then met the supporters at the Slottsplassen to row.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1730_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "The head referee admits mistakes: \"Should have been a free kick and a warning\"",
+            "bullets": [
+              "There were really upset feelings in the Degerfors camp after an attention-grabbing penalty situation...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There were really upset feelings in the Degerfors camp after an attention-grabbing penalty situation in yesterday's match against Västerås. Now referee base Stefan Johannesson admits the mistake, but at the same time excludes VAR in the Allsvenskan. - We have to manage this situation without VAR, he says to SVT Sport.",
+            "fullText": "There were really upset feelings in the Degerfors camp after an attention-grabbing penalty situation in yesterday's match against Västerås.\n\nNow referee base Stefan Johannesson admits the mistake, but at the same time excludes VAR in the Allsvenskan.\n\n- We have to manage this situation without VAR, he says to SVT Sport.\n\nThe big talking point from yesterday's Allsvenskan meeting between Västerås and Degerfors was the penalty that VSK was awarded in the opening minutes of the match.\n\nAfter Marcus Baggesen appeared to have marked Degerfors goalkeeper Matvei Igonen, referee Oscar Johnson pointed to the penalty spot - penalty to Västerås.\n\nAn incorrect verdict, now admits Stefan Johannesson, Head of Elite Referees at SvFF:\n\n- It is wrong. It should have been a free kick (for Degerfors) and a warning (for Baggesen), he says.\n\n- I don't think so, or we don't think so when we analyzed it. Warning and free kick would have been correct.\n\nAfter the match, there were strong feelings among several Degerfors players. Striker Dijan Vukojevic saw the referee's statement and said that it is time to introduce VAR in the Allsvenskan.\n\n- Instead of their guy getting a red card, it will be a penalty. How? They can suspend me if they want, but before VAR or shut down the Allsvenskan, he told Värmland's Folkblad.\n\nBut VAR in the Allsvenskan is not relevant, according to Johannesson.\n\n- We have no such discussion because there is no VAR and it has been said that we should not have VAR. We don't have that discussion at all - and we have to manage this situation without VAR.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 00:23:02 EDT",
+  "lastUpdated": "2026-07-14 @ 08:17:30 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
