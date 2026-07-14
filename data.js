@@ -4,20 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Barry's journey from Accrington Stanley to World Cup semi-final",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Henderson & Quansah only England absentees for Argentina",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Why do Argentina sing about England and the Falklands?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c17y75qd8e4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England to make late call on Rice for World Cup semi-final",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Barry's journey from Accrington Stanley to World Cup semi-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'Easy to create divisions' - Kane says England are 'completely together'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Will Scots back Three Lions against Argentina - or it is 'anyone but England'?",
+      "link": "https://www.bbc.co.uk/news/articles/c14y16pxy87o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Huge haul of fake Scotland and England football strips seized in raid",
@@ -27467,11 +27467,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5629_0",
+            "category": "england",
+            "type": "News",
+            "title": "Henderson & Quansah only England absentees for Argentina",
+            "bullets": [
+              "Jordan Henderson and Jarell Quansah are set to be the only players unavailable for England's World C...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jordan Henderson and Jarell Quansah are set to be the only players unavailable for England's World Cup semi-final against Argentina.",
+            "fullText": "Jordan Henderson has not been officially ruled out of the World Cup yet\n\nJordan Henderson and Jarell Quansah are set to be the only players unavailable for England in their World Cup semi-final against Argentina.\n\nHenderson isstill recovering from surgery on the broken armhe suffered while celebrating the win over Mexico in the last 16, while defender Quansah is suspended following his red card in the same game.\n\nIt leaves head coach Thomas Tuchel with options as he finalises his starting XI.\n\nThe England boss is yet to field the same starting back four in consecutive games at the World Cup but has considered keeping the same defence that began the quarter-final against Norway.\n\nEzri Konsa, John Stones, Marc Guehi and Nico O'Reilly all started, and it is understood that Tuchel was impressed with how the quartet operated in the 2-1 win.\n\nDeclan Rice's preparation for the game against Norway was severely disrupted by illness - butBBC Sport reported on Mondaythere was optimism his condition had improved enough for him to take his place in the team on Wednesday.\n\nRice trained fully on Tuesday and is expected to start in Atlanta.\n\nWhen the World Cup finishes, the football continues on BBC Sport",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5629_1",
+            "category": "england",
+            "type": "News",
+            "title": "Why do Argentina sing about England and the Falklands?",
+            "bullets": [
+              "While England see Argentina as football rivals, for Argentina the rivalry is much more than that.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While England see Argentina as football rivals, for Argentina the rivalry is much more than that.",
+            "fullText": "Argentina and England will meet for the fifth time since the Falklands War in 1982\n\n\"For the Malvinas, for Diego, for Leo's last one,\" the Argentina players sang as they celebrated their round-of-16 win over Egypt.\n\nLeo, for Messi and what is expected to be his final tournament.\n\nUp next, a World Cup semi-final meeting with England on Wednesday (20:00 BST).\n\nBut the chant was not just a precursor to a possible meeting with England. Argentina sing about the Malvinas, and about England, all the time.\n\nRenewing the sporting hostility for a place in the World Cup final creates an extra edge.\n\nYet while England see Argentina as football rivals, for Argentina it is so much more than that.\n\nThe Falklands War, and remembering those who fought in it, is of cultural importance to Argentina\n\nThe Falkland Islands, an archipelago in the South Atlantic Ocean, has been a British Overseas Territory since 1833.\n\nThe group of islands is situated 300 miles off the east coast of Argentina, which believes it should have sovereignty.\n\nThis came to a head in 1982 when Argentina invaded the Falkland Islands, but lost the war that resulted.\n\nThe Falklands War lasted 74 days, and claimed the lives of 907 people: 649 Argentine military personnel, 255 from Britain and three Falkland Islanders.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5630_2",
+            "category": "england",
+            "type": "News",
+            "title": "Barry's journey from Accrington Stanley to World Cup semi-final",
+            "bullets": [
+              "His playing career peaked at Accrington Stanley - now Anthony Barry is Thomas Tuchel's right-hand ma...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His playing career peaked at Accrington Stanley - now Anthony Barry is Thomas Tuchel's right-hand man in England's bid for World Cup glory.",
+            "fullText": "In 2015, Anthony Barry was a lower-league footballer at Accrington Stanley, nearing the end of his playing career and taking his first steps as a coach with the club's Under-16 side.\n\nEleven years on, aged just 40, he will sit alongside Thomas Tuchel as England attempt to reach a first men's World Cup final since 1966 when they face Argentina on Wednesday (kick-off 20:00 BST).\n\nBarry has become a recognisable figure during this tournament thanks to his no-nonsense half-time television interviews during England's matches.\n\nHe already has a wide-ranging CV as an elite coach with prior experience at Chelsea, Bayern Munich and with the Portugal and Belgium national teams.\n\nHis journey to this point is one of the most remarkable rises in football.\n\nThe Liverpool-born coach describes himself as the yin to Tuchel's yang and acknowledges their partnership can \"look a bit strange at times\" because of their difference in height and background.\n\nThe England assistant is quick to make clear that Tuchel is the boss - and pokes fun at their \"little and large\" frames, with the German about eight inches taller.\n\nFootball Daily: Anthony Barry on Thomas Tuchel and the World Cup\n\nBarry's playing career path is not one that will be very recognisable to many of those in the England squad, with former midfielder spending most of his time in the lower leagues.\n\nHe was part of the Accrington Stanley side 20 years ago that won the Conference to return to the Football League for the first time in 44 years.\n\nBarry was reminded of that anniversary while speaking to 5 Live Sport.\n\n\"In shock at the question because, 20 years ago, was I really winning the league for Accrington Stanley?\" he said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5630_3",
+            "category": "england",
+            "type": "News",
+            "title": "Will Scots back Three Lions against Argentina - or it is 'anyone but England'?",
+            "bullets": [
+              "As England progress, possibly to a final, some Scottish football fans are making tricky decisions ab...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England progress, possibly to a final, some Scottish football fans are making tricky decisions about where their loyalties lie.",
+            "fullText": "England vs Scotland is the oldest international rivalry in football\n\nEngland are two games away from ending 60 \"years of hurt\".\n\nThe first hurdle is an epic World Cup semi-final against Argentina.\n\nBut for real hurt, as anyone north of the border will tell you, try supporting Scotland.\n\nThe men's team at least managed to join the party in the United States this year, albeit briefly.\n\nAs the Tartan Army reminisces about thoseheady June days in Boston and Miami, a debate is emerging:\n\nShould Scots back their near neighbours, or support anyone but England?\n\nThe Scottish town that started supporting Norway 86 years ago\n\nFrom Boston to Miami: How the Tartan Army lit up the World Cup\n\nTartan Army has 'brought new life' to America's smallest state\n\nScotland versus England is the original international football rivalry,dating back to 1872.\n\nBoth countries lay claim to being the inventors of the sport and in the early days the fixture was dominated by the Scots, who popularised the passing game.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5630_4",
+            "category": "england",
+            "type": "News",
+            "title": "Huge haul of fake Scotland and England football strips seized in raid",
+            "bullets": [
+              "The trading standards seizure in Edinburgh found about 58,000 strips and is estimated to be one of t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The trading standards seizure in Edinburgh found about 58,000 strips and is estimated to be one of the largest of its kind in the UK.",
+            "fullText": "Tens of thousands of fake kits were seized during the Edinburgh raid\n\nA huge haul of fake international football shirts worth an estimated Â£5.5m have been seized in a trading standards raid in Edinburgh.\n\nAbout 58,000 strips - including Scotland and England kits - were intended for sale during the current World Cup finals.\n\nThe seizure is estimated to be one of the largest ever of its kind in the UK.\n\nThe City of Edinburgh Council's Trading Standards Team said it followed a series of intelligence-led operations with assistance from Police Scotland.\n\nScotland fakes were intended for sale during the World Cup\n\nThe council said investigations into the source and supply routes were continuing.\n\nCouncillor Neil Ross described the raid as \"a tremendous result\".\n\nHe said: \"With the World Cup well under way, this is a timely reminder that criminals exploit major sporting events by flooding the market with counterfeit goods to cash in on fan demand.\n\n\"Let me be clear, this is not a victimless crime. Counterfeiters undermine legitimate businesses, rip off supporters and sell products with no guarantee for how or where they were made or whether they meet basic safety standards.\"\n\nThe Scottish Football Association said the trade in fake goods jeopardised its ability to invest in the game at all levels.\n\nA spokesperson said: \"Scotland's return to the Fifa World Cup stage has, understandably, led to huge demand for official kit and merchandise in general.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5631_5",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup and Ballon d’Or in reach as Harry Kane enters defining week of his career",
+            "bullets": [
+              "The striker is driven by a sense of destiny but to be remembered as an all-time great outside Englan...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performancesFive days to win the Ballon d’Or. The way to do it: outshine Lionel Messi in Atlanta, then see off Kylian Mbappé or Lamine Yamal on Sunday. For Harry Kane, nothing will come without a fight. The England captain was doubted when he was a kid, back when the youth coaches at Tottenham wondered if it was worth keeping him, and he faces another seismic battle against Argentina on Wednesday.This could be the crowning moment of Kane’s career. The Bayern Munich striker has enjoyed the season of his life, with more domestic trophies in the bag and 73 goals in 64 appearances for club and country. There are more steps to take, though. The chance to lead England into a first World Cup final abroad is within reach. All Kane has to do to is outperform the greatest footballer of all time. Continue reading...",
+            "fullText": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performances\n\nFive days to win the Ballon d’Or. The way to do it: outshine Lionel Messi in Atlanta, then see off Kylian Mbappé or Lamine Yamal on Sunday. ForHarry Kane, nothing will come without a fight. The England captain was doubted when he was a kid, back when the youth coaches at Tottenham wondered if it was worth keeping him, and he faces another seismic battle against Argentina on Wednesday.\n\nThis could be the crowning moment of Kane’s career. The Bayern Munich striker has enjoyed the season of his life, with more domestic trophies in the bag and 73 goals in 64 appearances for club and country. There are more steps to take, though. The chance to lead England into a firstWorld Cupfinal abroad is within reach. All Kane has to do to is outperform the greatest footballer of all time.\n\nKane has spoken about reaching the level of Messi and Cristiano Ronaldo. Moving to Bayern in 2023 helped, finally bringing England’s record goalscorer the silverware his talent merits. But there is more to achieve on the international stage. Kane is driven by a sense of destiny, a yearning to right past disappointments with his country, and will have a wonderful chance of being crowned the best player in the world if he can fireEnglandto World Cup glory for the first time in 60 years.\n\nKane has talked at this tournament about feeling better than ever physically. He looks at Messi, who is still going strong at 39, and wonders if he can do the same. It is easy to imagine Kane still leading the line for England at the next World Cup, even though he would be 36. He has carefully studied how the best in different sports look after their bodies. “That’s why you do all the work behind the scenes,” Kane said afterrescuing England with two goalsagainst the Democratic Republic of the Congo in the last 32. “Those guys, Messi and Ronaldo, are at the pinnacle of that.”\n\nYet it will take more than an immaculate physical regime for Kane to be remembered as an all-time great outside England. It also requires big-game performances. This is where the likes of Messi make the difference. Argentina’s No 10, who has won the Ballon d’Or a record eight times, is clutch. He scored when Barcelona beat Manchester United in the 2009 and 2011 Champions League finals. He regularly toyed with Real Madrid inelclasicoand was inspirational whenArgentina won the World Cup in 2022. He delivered whenArgentina needed to beat Mexicoin their second group game. He scored in every knockout round, produced a special assist for Julián Alvarez in thesemi-final win over Croatiaand scored twice against France in the final. Those are the levels.\n\nKane, of course, is not short of big moments. He scored a hat-trick for Bayern when they beat Stuttgart 3-0 in the DFB-Pokal final in May. Kane also delivered during Bayern’s most recent Champions League campaign, scoring in every leg when the Bundesliga championsbeat Real Madridin the last eight andlost their semi-final to Paris Saint-Germain. For England, Kane is prolific and his knockout record stands up to scrutiny. He saved Thomas Tuchel’s job with his goals against the DRC and has scored in the last 16 in five consecutive tournaments.\n\nYet it is difficult to keep producing. Kane won the Golden Boot at the 2018 World Cup but he tired during the latter stages and spurned a big chance to double England’s lead in theirsemi-final defeat to Croatia. He has had to be resilient. Kane was criticised early on at Euro 2020. He responded, scoring crucial goals during knockout wins over Germany, Ukraine and Denmark, but he stumbled at the last, offering little asEngland lost on penalties to Italyin the final. The pattern is familiar.\n\nThe last World Cup was painful for Kane. He scored one penalty but missed the next one when England, who were the better side,lost their quarter-final to France. Then came the fitness troubles at Euro 2024. Kane was disrupted by a back issue and, while he scored the winner against Slovakia in the last 16 and equalised with an early penalty during thesemi-final victory over the Netherlands, his tournament was summed up by Gareth Southgate taking him off in the 61st minute when England werebeaten in the final by Spain.\n\nIt is typical of Kane to have bounced back and returned even stronger. He has been one of the stars of this World Cup, scoring six goals in six games. He deliveredagainst Mexico in the Azteca, creating Jude Bellingham’s second goal and scoring the winner from the spot.\n\nWhile Kane was not at his best in thequarter-final win over Norway– the heat and humidity in Miami seemed to affect him more than most – he worked hard and was still on the pitch at the end of extra-time. Even so, a competitor like Kane will not feel that saving England in a last-32 tie against the DRC has done enough for his legacy.\n\nKane will play in more favourable conditions in the Atlanta Stadium, with its roof and air conditioning, and has the craft, strength and height to outwit Cristian Romero and Lisandro Martínez in Argentina’s defence. It will be a battle against two streetwise centre-backs but England will be in business if Kane wins it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5631_6",
+            "category": "england",
+            "type": "News",
+            "title": "War, antics and vitriol – the England v Argentina rivalry is real but now it is only about football",
+            "bullets": [
+              "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach Lionel Scaloni calling for the focus to be on football, not the FalklandsAfter confirmation that match 102, one of the World Cup semi-finals, would be England v Argentina, the 1982 Falklands/Malvinas conflict was mentioned at Lionel Scaloni’s press conference. “No, no, no,” the Argentina head coach tut-tutted emphatically. “This is just a football match. Let’s not look for other stuff. It’s a football game against a great team, with a great manager who I admire. But it’s a football match. End of.”The Argentina midfielder Rodrigo De Paul concurred: “We understand it’s a football game that transcends; it brings back memories of what Diego did. We sing songs about our Malvinas heroes, mainly to remember them, but we have to understand that it’s a football match and that the Malvinas have to be discussed elsewhere. What happened was an atrocity and we always remember the fallen, but what we want is to win this match to get to the final.” Continue reading...",
+            "fullText": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach Lionel Scaloni calling for the focus to be on football, not the Falklands\n\nAfter confirmation that match 102, one of theWorld Cupsemi-finals, would be England v Argentina, the 1982 Falklands/Malvinas conflict was mentioned at Lionel Scaloni’s press conference. “No, no, no,” the Argentina head coach tut-tutted emphatically. “This is just a football match. Let’s not look for other stuff. It’s a football game against a great team, with a great manager who I admire. But it’s a football match. End of.”\n\nTheArgentinamidfielder Rodrigo De Paul concurred: “We understand it’s a football game that transcends; it brings back memories of what Diego did. We sing songs about our Malvinas heroes, mainly to remember them, but we have to understand that it’s a football match and that the Malvinas have to be discussed elsewhere. What happened was an atrocity and we always remember the fallen, but what we want is to win this match to get to the final.”\n\n“What Diego did”, of course, refers to the few minutes in the 1986 World Cup quarter-final against England whenDiego Maradonastunned the world by first punching the ball into the net and then dribbling past several England players to score what became known as the goal of the century. Everything that is possible in football was displayed by one man in a single event bookended by two goals. The good and the bad, the ugly and the beautiful, rolled into a few moments that left a mark on everyone watching. A before and after moment in World Cup history.\n\nAfter the game Maradona joked that he hadn’t handled the ball, “maybe it was the hand of God”, and later still said it “felt good – like pickpocketing an Englishman”. The notion that it was somehow a homage to the fallen in the South Atlantic conflict four years earlier made the idea of retribution for the war somehow stick. But a lesser‑known quote came in 2014 when, working for Venezuelan TV during the World Cup, Maradona referred to a senseless war orchestrated “by two murderous governments”.\n\nAt the 1986 World Cup in Mexico an arranged fight between Argentinian barra bravas and English hooligans took place. One barra brava involved was also a Falklands/Malvinas veteran. I met him years later at a Boca Juniors v River Plate derby in Buenos Aires and asked him if belonging to a firm was in some ways similar to being in the army. “Nobody hates war more than a soldier,” he said, pointing at the terraces. “This here is about love, beauty and joy. This has nothing to do with hate.”\n\nThe great Argentinian novelist and sportswriter Juan Sasturain once said: “We have a lot to thank the English for. Theygave us Borges’s literature, and they gave us football.” Jorge Luis Borges’s literature was indeed hugely influenced by his anglophile intellect. He died only a week before the quarter-final in 1986 and, as the 40th anniversary of his death (and the match) came and went, many sought to link the two, as if Borges’s genius had somehow morphed into Maradona’s – one great artist leading another to glory.\n\nBorges famously described the Falklands conflict as “two bald men fighting over a comb” and though he didn’t like football, some have managed to find a ghostly significance in the fact that the decisive goal inArgentina’s last-32 match against Cape Verdewas an own goal by a player called Diney Borges.\n\nEncounters between the two countries have a lasting impact that shape the way we play, consume and think about football. There are differences, but also much in common. “It’s the fixture where the Mexican wave doesn’t stand a chance,” the former Argentina forward Jorge Valdano said in 1998, when the countries met again on a World Cup stage. The game is too important for both sets of fans. That night in Saint‑Étienne an exaggerated media hype of a potential clash between gangs mobilised extra police but, apart from a dark town square where people were shouting inside a cordon, nothing untoward happened. Atlanta has enhanced security to ward off potential violent clashes now, too.\n\nThere is so much football history between the two sides. On the pitch in 1998 Michael Owen’s solo run towards goal left everyone gasping. Yet David Beckham’s sending off for reacting to a deliberate provocation by Diego Simeone stole the headlines. In 2002 Beckham avenged the calamity that befell him in 1998.\n\nSven-Göran Eriksson had a psychologist on board who reportedly told the players not to make eye contact with the Argentinians – so, as Simeone approached him with a taunting handshake while he was preparing to take a penalty, Beckham simply looked away and scored. It was Argentina’s earliest departure from a World Cup in decades, not getting past the group stage.\n\nThe most recent match between the two countries was a friendly in Geneva in 2005, whichEnglandwon. Walter Samuel and Roberto Ayala were the central defenders for Argentina that day but Diego Borinsky, Scaloni’s official biographer, says the coach José Pékerman realised during that game that Javier Zanetti, his right‑back, should in the future be replaced by Scaloni. Today, Scaloni is the leader of a coaching team that comprises Samuel and Ayala as well as Pablo Aimar, with an emphasis on congeniality, strong human bonds and enjoyment.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5631_7",
+            "category": "england",
+            "type": "News",
+            "title": "Of all England’s great Black footballers, none has been the defining national figure. Until Jude Bellingham | Calum Jacobs",
+            "bullets": [
+              "Bellingham has transcended the hostility he has faced from press and pundits to become the emotional...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham has transcended the hostility he has faced from press and pundits to become the emotional and symbolic focal point of the teamMonths before the World Cup, the familiar chorus of antipathy that had followed Jude Bellingham almost since his emergence on the international stage grew louder. A number of writers, pundits and former professionals questioned whether one of England’s most gifted footballers might prove detrimental to the squad’s harmony. The clearest expression of these arguments appeared in a Daily Mail article in November 2025 beneath one of the most ignominious headlines in English footballing history: “Leave Jude at home.”Amid a wave of criticism directed at Bellingham, Ian Wright felt compelled to defend him on an episode of Stick to Football. Once clipped, his remarks spread rapidly across football’s social media ecosystem and beyond, both because of Wright’s candour, and for placing the hostility directed at Bellingham within a historical tradition of policing Black men’s behaviour. “Someone like Jude, for some reason, frightens these people,” Wright said, before adding: “It’s something you’re taught as a Black man … to keep your head down and be, for want of a better word, a humble fucking slave.”Calum Jacobs is the author of A New Formation: How Black Footballers Shaped the Modern Game and the founder of CARICOM magazineDo you have an opinion on the issues raised in this article? If you would like to submit a response of up to 300 words by email to be considered for publication in our letters section, please click here. Continue reading...",
+            "fullText": "Bellingham has transcended the hostility he has faced from press and pundits to become the emotional and symbolic focal point of the team\n\nMonths before the World Cup, the familiar chorus of antipathy that had followedJude Bellinghamalmost since his emergence on the international stage grew louder. A number of writers, pundits and former professionals questioned whether one of England’s most gifted footballers might prove detrimental to the squad’s harmony. The clearest expression of these arguments appeared in a Daily Mail article in November 2025 beneath one of the most ignominious headlines in English footballing history: “Leave Jude at home.”\n\nAmid a wave of criticism directed at Bellingham, Ian Wright felt compelled to defend him onan episode of Stick to Football. Once clipped, his remarks spread rapidly across football’s social media ecosystem and beyond, both because of Wright’s candour, and for placing the hostility directed at Bellingham within a historical tradition of policing Black men’s behaviour. “Someone like Jude, for some reason, frightens these people,” Wright said, before adding: “It’s something you’re taught as a Black man … to keep your head down and be, for want of a better word, a humble fucking slave.”\n\nThere are, of course, perceived footballing transgressions that have set Bellingham on an unavoidable collision course with English football’s established order. His first “mistake” was to seeBirmingham City retire his shirt numberbefore he had turned 18. His second was to reject England’s elite clubs in favour of Borussia Dortmund. Real Madrid then paid an initial €103m (£88m) for him, entrusting him with the No 5 shirt once worn by Zinedine Zidane. Throughout, Bellingham has appeared almost entirely devoid of the insecurity that has consumed so many English footballers abroad. But Bellingham’s success in Madrid has rarely been treated as a source of English pride; rather, it is read as an implicit challenge to the Premier League’s claim to occupy football’s summit. He is beamed back to us already belonging to the wider world.\n\nWhile these factors partly explain the hostility Bellingham provokes, Wright’s account of why he is read this way is ultimately more convincing. There is a cultural specificity to Bellingham’s comportment that, while immediately familiar to many Black Britons, is read elsewhere as an aggravating factor. As a child, my aunt would insist I walk with my shoulders back, and my head held high, so that I might project an image of myself others might else refuse to imagine. As an adult, I learned this advice was a repetition of words she had first spoken to herself after arriving from the Caribbean into a society that told her she did not belong.\n\nWe don’t know whether Bellingham received similar instruction – perhaps we are simply witnessing the unshakeable self-belief of one of the world’s finest footballers – yet given how common this form of cultural inheritance is among Black families, it is entirely plausible that he did.\n\nEnglish football repeatedly searches the emotional terrain of its history for meaning, obsessing over its solitary triumph and the countless moments of “almost”. It returns, too, to the players in whom it has recognised itself: Bryan Robson, David Beckham, Paul Gascoigne. Perhaps none has proved as enduring as the last of those. Jack Grealish was briefly cast as his spiritual successor, and before Euro 2020, Phil Fodendyed his hair the same peroxide hueGascoigne wore at Euro 96, consciously placing himself within that same lineage.\n\nBellingham exposes the limits of this process of recognition.\n\nEngland has long capped exceptional Black players. Yet whether through outright social refusal – as Paul Gilroy observed in“Race”, Sport and British Society, John Barnes’s exclusion from British sporting greatness became “a matter of national honour” for some England fans and notable pundits – the preference for Alan Shearer that consigned Andrew Cole to his shadow, or the sustained hostility directed at Raheem Sterling, the national side has until now never felt able to declare its defining figure a Black one. But in producing the greatest individual England tournament performances of recent memory, Bellingham has become tactically indispensable and the emotional and symbolic focal point of the national team.\n\nThe spontaneous chorus of Hey Jude that now greetsEnglandvictories offers its own evidence of this: a Black footballer whose name, features and heritage are no barrier to instinctive English identification.\n\nGuardian columnists and writers on what they’ve been debating, thinking about, reading, and more\n\nEach successive generation of Black people born and raised in England is shaped by the country as much as it reshapes England in return. While it would be irresponsible to insist that one footballer can resolve the tensions that so often place Blackness and Englishness in supposed opposition, Bellingham clearly sees no contradiction between the two. Perhaps his greatest significance lies in showing those who come after him that they need see none either.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5631_8",
+            "category": "england",
+            "type": "News",
+            "title": "David Squires on … England’s high-wire act continuing to the World Cup semis",
+            "bullets": [
+              "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals ArgentinaBuy David’s cartoons | Some of his favourite worksAnd his latest book, Chaos in the Box: get it now Continue reading...",
+            "fullText": "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals Argentina",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 15:50:29 EDT",
+  "lastUpdated": "2026-07-14 @ 18:56:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
