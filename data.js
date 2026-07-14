@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Barry's journey from Accrington Stanley to World Cup semi-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gyng8z8v2o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ England to make late call on Rice for World Cup semi-final",
       "link": "https://www.bbc.co.uk/sport/football/articles/ce8m996g9g1o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,28 +16,32 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c8924433kjyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ BBC experts pick their England World Cup semi-final XI - do you agree?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz75x4jgddpo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ World Cup and Ballon d’Or in reach as Harry Kane enters defining week of his career",
+      "link": "https://www.theguardian.com/football/2026/jul/14/world-cup-and-ballon-dor-england-harry-kane"
     },
     {
-      "text": "⚽ Declan Rice winning fitness battle to start for England against Argentina",
-      "link": "https://www.theguardian.com/football/2026/jul/13/england-declan-rice-winning-fitness-battle-argentina-world-cup"
+      "text": "⚽ David Squires on … England’s high-wire act continuing to the World Cup semis",
+      "link": "https://www.theguardian.com/football/picture/2026/jul/14/david-squires-england-high-wire-act-world-cup-semis-cartoon"
+    },
+    {
+      "text": "⚽ BBC heads from Salford to Atlanta for live England v Argentina broadcast",
+      "link": "https://www.theguardian.com/football/2026/jul/14/bbc-salford-atlanta-present-england-v-argentina-live-world-cup"
     },
     {
       "text": "⚽ ‘Gift from the sky’ Elliot Anderson keeps England running as Rogers makes case",
       "link": "https://www.theguardian.com/football/2026/jul/13/elliot-anderson-gift-from-the-sky-keeps-on-giving-morgan-rogers-england-world-cup"
     },
     {
-      "text": "⚽ Spain, France, Argentina and England beware: Demons haunt the World Cup semi-finals",
-      "link": "https://www.theguardian.com/global/2026/jul/13/world-cup-semi-finals-england-argentina-france-spain"
+      "text": "⚽ Rice fit and available to start for England vs Argentina",
+      "link": "https://www.skysports.com/football/news/12040/13563231/england-vs-argentina-declan-rice-fit-for-world-cup-semi-final-as-thomas-tuchels-squad-issues-begin-to-ease"
     },
     {
-      "text": "⚽ World Cup scouting report: the lowdown on England’s semi-final opponents Argentina | Nick Ames",
-      "link": "https://www.theguardian.com/football/2026/jul/13/world-cup-2026-scouting-report-the-lowdown-on-england-semi-final-opponents-argentina"
+      "text": "⚽ 'A little lost' - Why has Mainoo become England's forgotten man?",
+      "link": "https://www.skysports.com/football/news/12040/13563184/world-cup-2026-why-has-england-midfielder-kobbie-mainoo-failed-to-play-a-single-minute-for-thomas-tuchels-side-this-summer"
     },
     {
-      "text": "⚽ Andy Burnham has body of work that speaks volumes about how he gets football | Rob Draper",
-      "link": "https://www.theguardian.com/football/2026/jul/13/andy-burnham-body-of-work-football"
+      "text": "⚽ England vs Argentina tactical dossier: How Tuchel’s side can reach World Cup final",
+      "link": "https://www.skysports.com/football/news/12040/13563015/england-vs-argentina-tactics-how-thomas-tuchels-side-can-stop-lionel-messi-and-co-and-reach-the-world-cup-final"
     }
   ],
   "timeline": {
@@ -26918,11 +26926,187 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0356_0",
+            "category": "england",
+            "type": "News",
+            "title": "Barry's journey from Accrington Stanley to World Cup semi-final",
+            "bullets": [
+              "His playing career peaked at Accrington Stanley - now Anthony Barry is Thomas Tuchel's right-hand ma...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His playing career peaked at Accrington Stanley - now Anthony Barry is Thomas Tuchel's right-hand man in England's bid for World Cup glory.",
+            "fullText": "In 2015, Anthony Barry was a lower-league footballer at Accrington Stanley, nearing the end of his playing career and taking his first steps as a coach with the club's Under-16 side.\n\nEleven years on, he will sit alongside Thomas Tuchel as England attempt to reach a first men's World Cup final since 1966 when they face Argentina on Wednesday (kick-off 20:00 BST).\n\nBarry has become a recognisable figure during this tournament thanks to his no-nonsense half-time television interviews during England's matches.\n\nAt 40 years old, he already has a wide-ranging CV as an elite coach with prior experience at Chelsea, Bayern Munich and with the Portugal and Belgium national teams.\n\nHis journey to this point is one of the most remarkable rises in football.\n\nThe Liverpool-born coach describes himself as the yin to Tuchel's yang and acknowledges their partnership can \"look a bit strange at times\" because of their difference in height and background.\n\nThe England assistant is quick to make clear that Tuchel is the boss - and pokes fun at their \"little and large\" frames, with the German about eight inches taller.\n\nFootball Daily: Anthony Barry on Thomas Tuchel and the World Cup\n\nBarry's playing career path is not one that will be very recognisable to many of those in the England squad, with former midfielder spending most of his time in the lower leagues.\n\nHe was part of the Accrington Stanley side 20 years ago that won the Conference to return to the Football League for the first time in 44 years.\n\nBarry was reminded of that anniversary while speaking to 5 Live Sport.\n\n\"In shock at the question because, 20 years ago, was I really winning the league for Accrington Stanley?\" he said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0356_1",
+            "category": "england",
+            "type": "News",
+            "title": "England to make late call on Rice for World Cup semi-final",
+            "bullets": [
+              "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England will make a late decision on whether Declan Rice is fit to start Wednesday's World Cup semi-final against Argentina.",
+            "fullText": "Declan Rice was withdrawn at half-time during England's quarter-final win against Norway\n\nEngland will make a late decision on whether Declan Rice is fit to start the World Cup semi-final against Argentina.\n\nThere is optimism the Arsenal midfielder can shake off the effects of illness to play on Wednesday.\n\nRice suffered with a sickness bug in the lead-up to Saturday's quarter-final victory over Norway in Miami and was substituted at half-time.\n\nHead coach Thomas Tuchel said afterwards that Rice had spent three days in bed before the match, which England won 2-1 after extra time.\n\nIt is understood Rice has still not recovered fully from the illness - picked up in Mexico, where England beat the co-hosts 3-2 in the last 16 - but his condition has improved markedly over the past 48 hours.\n\nRice is almost certain to rule himself fit for the semi-final given the enormity of the occasion, but given the severity of the illness, England medics are set to make a late call on his availability.\n\nIn addition to his recovery from the sickness bug, Rice has also been carrying a neural problem for several months that affects his lower back and hamstring.\n\nThe midfielder, who has 78 caps, has started all but one of England's World Cup games so far, missing the 2-0 group-stage win over Panama because an injury flared up.\n\nIsmail Elfath sent off Uruguay midfielder Agustin Canobbio in their defeat against Spain\n\nFifa has announced American referee Ismail Elfath will take charge of Wednesday's semi-final.\n\nThe 44-year-old officiated group games between Japan and the Netherlands and Uruguay versus Spain in the tournament, as well as Norway's last-16 win over five-time winners Brazil.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0356_2",
+            "category": "england",
+            "type": "News",
+            "title": "'Easy to create divisions' - Kane says England are 'completely together'",
+            "bullets": [
+              "England captain Harry Kane says the squad are \"completely together\" before their World Cup semi-fina...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane says the squad are \"completely together\" before their World Cup semi-final against Argentina.",
+            "fullText": "England have reached a World Cup semi-final for the fourth time\n\nEngland captain Harry Kane says the squad are \"completely together\" before their World Cup semi-final against Argentina after Jude Bellingham questioned Thomas Tuchel's assessment of their performance against Norway.\n\nThey secured a place in the final four with a draining2-1 win against Norwayin the Miami heat on Saturday, and now face a match in Atlanta on Wednesday (20:00 BST) against the defending world champions, whosaw off Switzerland 3-1.\n\nSpeaking on the pitch straight after the Norway match, Tuchel said England \"got lucky\", and that he was \"not happy\" with his side's performance in \"every sense\".\n\nWhen asked about his manager's comments, Bellingham replied: \"Yeah, well, whatever. It's difficult out there - it's a tough shift.\"\n\nSpeaking to BBC Sport on Monday, Kane said the England camp is far from divided.\n\n\"When you are playing a game like that and to be asked a question five minutes after the final whistle, and he didn't really know what had been said, what do you want Jude [Bellingham] to say?\" Kane said.\n\n\"We had just been through a battle. It is easy to try and create this division - it seems like an English thing to do at these major tournaments.\n\n\"But it is the complete opposite. The group is where we are because of our complete togetherness - not just the players, the coach and the staff. Things sometimes get made out to be more than they are.\"\n\nTuchel's managerial style is different to that of his predecessor Sir Gareth Southgate, but Kane said that is not a bad thing.\n\n\"He [Tuchel] wears his heart on his sleeve and people appreciate that. When he talks, it is never scripted. That is what makes him who he is.\n\n\"When it just comes natural you believe in that, you believe in what he is saying, you believe in his approach. He is one of the best managers in the world for a reason. We understand it. Over the past two years we have got to know him and know what makes him happy.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0357_3",
+            "category": "england",
+            "type": "News",
+            "title": "World Cup and Ballon d’Or in reach as Harry Kane enters defining week of his career",
+            "bullets": [
+              "The striker is driven by a sense of destiny but to be remembered as an all-time great outside Englan...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performancesFive days to win the Ballon d’Or. The way to do it: outshine Lionel Messi in Atlanta, then see off Kylian Mbappé or Lamine Yamal on Sunday. For Harry Kane, nothing will come without a fight. The England captain was doubted when he was a kid, back when the youth coaches at Tottenham wondered if it was worth keeping him, and he faces another seismic battle against Argentina on Wednesday.This could be the crowning moment of Kane’s career. The Bayern Munich striker has enjoyed the season of his life, with more domestic trophies in the bag and 73 goals in 64 appearances for club and country. There are more steps to take, though. The chance to lead England into a first World Cup final abroad is within reach. All Kane has to do to is outperform the greatest footballer of all time. Continue reading...",
+            "fullText": "The striker is driven by a sense of destiny but to be remembered as an all-time great outside England requires big-game performances\n\nFive days to win the Ballon d’Or. The way to do it: outshine Lionel Messi in Atlanta, then see off Kylian Mbappé or Lamine Yamal on Sunday. ForHarry Kane, nothing will come without a fight. The England captain was doubted when he was a kid, back when the youth coaches at Tottenham wondered if it was worth keeping him, and he faces another seismic battle against Argentina on Wednesday.\n\nThis could be the crowning moment of Kane’s career. The Bayern Munich striker has enjoyed the season of his life, with more domestic trophies in the bag and 73 goals in 64 appearances for club and country. There are more steps to take, though. The chance to lead England into a firstWorld Cupfinal abroad is within reach. All Kane has to do to is outperform the greatest footballer of all time.\n\nKane has spoken about reaching the level of Messi and Cristiano Ronaldo. Moving to Bayern in 2023 helped, finally bringing England’s record goalscorer the silverware his talent merits. But there is more to achieve on the international stage. Kane is driven by a sense of destiny, a yearning to right past disappointments with his country, and will have a wonderful chance of being crowned the best player in the world if he can fireEnglandto World Cup glory for the first time in 60 years.\n\nKane has talked at this tournament about feeling better than ever physically. He looks at Messi, who is still going strong at 39, and wonders if he can do the same. It is easy to imagine Kane still leading the line for England at the next World Cup, even though he would be 36. He has carefully studied how the best in different sports look after their bodies. “That’s why you do all the work behind the scenes,” Kane said afterrescuing England with two goalsagainst the Democratic Republic of the Congo in the last 32. “Those guys, Messi and Ronaldo, are at the pinnacle of that.”\n\nYet it will take more than an immaculate physical regime for Kane to be remembered as an all-time great outside England. It also requires big-game performances. This is where the likes of Messi make the difference. Argentina’s No 10, who has won the Ballon d’Or a record eight times, is clutch. He scored when Barcelona beat Manchester United in the 2009 and 2011 Champions League finals. He regularly toyed with Real Madrid inelclasicoand was inspirational whenArgentina won the World Cup in 2022. He delivered whenArgentina needed to beat Mexicoin their second group game. He scored in every knockout round, produced a special assist for Julián Alvarez in thesemi-final win over Croatiaand scored twice against France in the final. Those are the levels.\n\nKane, of course, is not short of big moments. He scored a hat-trick for Bayern when they beat Stuttgart 3-0 in the DFB-Pokal final in May. Kane also delivered during Bayern’s most recent Champions League campaign, scoring in every leg when the Bundesliga championsbeat Real Madridin the last eight andlost their semi-final to Paris Saint-Germain. For England, Kane is prolific and his knockout record stands up to scrutiny. He saved Thomas Tuchel’s job with his goals against the DRC and has scored in the last 16 in five consecutive tournaments.\n\nYet it is difficult to keep producing. Kane won the Golden Boot at the 2018 World Cup but he tired during the latter stages and spurned a big chance to double England’s lead in theirsemi-final defeat to Croatia. He has had to be resilient. Kane was criticised early on at Euro 2020. He responded, scoring crucial goals during knockout wins over Germany, Ukraine and Denmark, but he stumbled at the last, offering little asEngland lost on penalties to Italyin the final. The pattern is familiar.\n\nThe last World Cup was painful for Kane. He scored one penalty but missed the next one when England, who were the better side,lost their quarter-final to France. Then came the fitness troubles at Euro 2024. Kane was disrupted by a back issue and, while he scored the winner against Slovakia in the last 16 and equalised with an early penalty during thesemi-final victory over the Netherlands, his tournament was summed up by Gareth Southgate taking him off in the 61st minute when England werebeaten in the final by Spain.\n\nIt is typical of Kane to have bounced back and returned even stronger. He has been one of the stars of this World Cup, scoring six goals in six games. He deliveredagainst Mexico in the Azteca, creating Jude Bellingham’s second goal and scoring the winner from the spot.\n\nWhile Kane was not at his best in thequarter-final win over Norway– the heat and humidity in Miami seemed to affect him more than most – he worked hard and was still on the pitch at the end of extra-time. Even so, a competitor like Kane will not feel that saving England in a last-32 tie against the DRC has done enough for his legacy.\n\nKane will play in more favourable conditions in the Atlanta Stadium, with its roof and air conditioning, and has the craft, strength and height to outwit Cristian Romero and Lisandro Martínez in Argentina’s defence. It will be a battle against two streetwise centre-backs but England will be in business if Kane wins it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0357_4",
+            "category": "england",
+            "type": "News",
+            "title": "David Squires on … England’s high-wire act continuing to the World Cup semis",
+            "bullets": [
+              "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals ArgentinaBuy David’s cartoons | Some of his favourite worksAnd his latest book, Chaos in the Box: get it now Continue reading...",
+            "fullText": "Our cartoonist sets the scene before the semi-finals, with Thomas Tuchel’s team taking on old rivals Argentina",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0357_5",
+            "category": "england",
+            "type": "News",
+            "title": "BBC heads from Salford to Atlanta for live England v Argentina broadcast",
+            "bullets": [
+              "Corporation finally going to US for blockbuster semi-finalViewing figures set to top ITV’s 18m for w...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Corporation finally going to US for blockbuster semi-finalViewing figures set to top ITV’s 18m for win over NorwayThe BBC will present its coverage of England’s World Cup semi-final against Argentina live from Atlanta, with the corporation’s gamble on Thomas Tuchel’s side set to be rewarded with record viewing figures.ITV attracted a peak audience of 18 million for Saturday’s dramatic extra-time win over Norway, a figure that is likely to be beaten on Wednesday as England seeking to reach their first World Cup final since 1966 with a primetime 8pm UK kick-off. Continue reading...",
+            "fullText": "Corporation finally going to US for blockbuster semi-final\n\nViewing figures set to top ITV’s 18m for win over Norway\n\nThe BBC will present its coverage of England’s World Cup semi-final againstArgentinalive from Atlanta, with the corporation’s gamble on Thomas Tuchel’s side set to be rewarded with record viewing figures.\n\nITV attracted a peak audience of 18 million forSaturday’s dramatic extra-time win over Norway, a figure that is likely to be beaten on Wednesday as England seeking to reach their first World Cup final since 1966 with a primetime 8pm UK kick-off.\n\nThe BBC has exclusive live rights and all its main pundits in place having taken the decision to present theWorld Cupfrom Salford for the bulk of the tournament.\n\nHaving so far relied on brief in-stadium updates from Alan Shearer, who is also working forBBC5 Live, fellow pundits Wayne Rooney and Micah Richards have now joined him in the United States and will be in place at the Atlanta Stadium. ITV, will continue with its hybrid approach of presenting from a rooftop studio in Brooklyn with a team of reporters and pundits in the stadium.\n\nEngland’s progress to the semi-finals for the second time in three World Cups has justified the BBC’s risky undertaking in keeping its first-pick of matches until later in the tournament, with ITV having broadcast two of its group games and thelast-32 win over DR Congobefore the Norway thriller. While ITV has won the ratings war to date, the BBC appears set to surpass its rivals in the final stages, with history suggesting it will get a bigger audience for Sunday’s final, which both will broadcast live.\n\nThe BBC was hindered by a 2am Monday morning kick-off for England’s thrilling last-16 victory over Mexico but stillattracted a peak audience of 9.1m, tripling the record for the largest television audience for a live broadcast between 2am and 4am, held by the 2016 Rio Olympics.\n\nThe BBC has strongly defended its decision to stay in Salford at a time when it has begun the process of cutting 2,000 jobs in an attempt to save £500m. “To have what would probably be an extra couple of hundred people out there – and that’s before you build a studio – you’re talking millions,” BBC Sport director, Alex Kay-Jelski, said last month. “The actual end product people are getting at home, I don’t really think it’s that different.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0357_6",
+            "category": "england",
+            "type": "News",
+            "title": "‘Gift from the sky’ Elliot Anderson keeps England running as Rogers makes case",
+            "bullets": [
+              "Midfielder covered the most ground in win over Norway while Villa man’s cameo impressed Thomas Tuche...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder covered the most ground in win over Norway while Villa man’s cameo impressed Thomas TuchelElliot Anderson can be forgiven for needing additional time to recover from his exertions in the cauldron of Miami. As Manchester City’s new record signing reflected on England’s extra-time victory over Norway with his fellow Geordie, John Murray, from BBC Radio 5 Live, there was no hiding his pure exhaustion.“It was so tough. So tough,” said Anderson, who covered 14.8km in stifling humidity – the most of any England player, beating his captain, Harry Kane, by a few hundred metres. “I was cramping up a few times [in extra time]. But the fighting spirit the lads have is amazing to be part of. The fans should be proud of the amount of fight and determination we&nbsp;showed.” Continue reading...",
+            "fullText": "Midfielder covered the most ground in win over Norway while Villa man’s cameo impressed Thomas Tuchel\n\nElliot Anderson can be forgiven for needing additional time to recover from his exertions in the cauldron of Miami. AsManchester City’s new record signingreflected onEngland’s extra-time victory over Norwaywith his fellow Geordie, John Murray, from BBC Radio 5 Live, there was no hiding his pure exhaustion.\n\n“It was so tough. So tough,” said Anderson, who covered 14.8km in stifling humidity – the most of anyEnglandplayer, beating his captain, Harry Kane, by a few hundred metres. “I was cramping up a few times [in extra time]. But the fighting spirit the lads have is amazing to be part of. The fans should be proud of the amount of fight and determination we showed.”\n\nWhile Jude Bellingham stole the headlines, an alumnus of the Wallsend Boys Club, which has produced eight England men’s internationals, including Alan Shearer and Michael Carrick, enjoyed probably his best game since being promoted from the under-21s. That was despite being deployed in at least four roles during the match as Thomas Tuchel kept tinkering with his midfield after withdrawing Declan Rice at half-time because he was struggling with injury and illness.\n\nMorgan Rogers filled the void after the brief experiments with Reece James and Bellingham as Anderson’s partners. But it was the 23-year-old who was a steadying influence throughout the game and completed an impressive 87 passes for a 94% success rate. He was also instrumental in England’s equaliser after the ball appeared to strike the overhead television cable from a Norway goal-kick, making the most of his good fortune by surging down the left flank, combining with Anthony Gordon to set up Bellingham.\n\nIt is a happy coincidence that Anthony Barry, Tuchel’s assistant, has previously referred to Anderson as “a gift that fell from the sky”.\n\nEngland 3-1 Argentina, 1962:A group game in Chile, and England comfortably defeated  opponents who, as one report put it, employed a “ruthless, massed defensive formation”. Ron Flowers scored an early penalty and Bobby Charlton made it 2-0 from 20 yards just before half-time. Jimmy Greaves poached a third before José Sanfilippo poked home a consolation.\n\nEngland 1-0 Argentina, 1966:The quarter-final is known in Argentina as ‘The robbery of the century’ and was the beginning of the rivalry. The game quickly spiralled into a kicking contest and when Antonio Rattin was dismissed for a second bookable offence in the 33rd minute for verbally abusing referee Rudolf Kreitlein it all kicked off. The Argentina captain refused to leave the pitch and there was an eight-minute delay before the restart, with coaching staff still remonstrating with officials. The game was settled by a Geoff Hurst header from a Martin Peters cross but, at the final whistle, the Argentinians surrounded the referee, who had to be escorted off by police. England manager Sir Alf Ramsey described the Argentinians as “animals”.\n\nEngland 1-2 Argentina, 1986:Arguably the two most memorable moments in these matches came within four minutes of each other in a quarter-final in the Azteca Stadium in Mexico City courtesy of Diego Maradona. The first ‘Hand of God’ incident (pictured) involved the midfielder knocking the ball past goalkeeper Peter Shilton with a raised arm. Then he scored what Fifa has called ‘Goal of the Century’, collecting the ball inside his  half before weaving his way to goal with 11 touches in 11 seconds past helpless England players.\n\nEngland 2-2 Argentina (Argentina won 4-3 on penalties), 1998:A high point for a teenage Michael Owen and a low one for David Beckham in the last 16. Gabriel Batistuta and Alan Shearer had traded penalties in the first 10 minutes  before Owen scored a brilliant solo goal. Javier Zanetti levelled before half-time and Beckham was sent off for kicking out at Diego Simeone while  on the ground two minutes after the interval. Glenn Hoddle’s side held out for penalties, where Carlos Roa to saved David Batty’s must-score fifth spot-kick.\n\nEngland 1-0 Argentina, 2002:A degree of redemption for Beckham, although it was only a group game. Owen terrorised the defence again and after he was brought down by Mauricio Pochettino a minute before half-time, Beckham blasted home the penalty, prompting a kiss of the shirt and an outpouring of emotion.PA Media\n\nIt was at last summer’s European Under-21 Championship that Anderson emerged as a contender for the senior squad when he was the midfield anchor man as theysealed a second titlein succession in Slovakia. He had been deployed as a No 10 in Newcastle’s youth teams and that deftness of touch and technique has been hugely beneficial to his transition to a deeper role for club and country.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0358_7",
+            "category": "england",
+            "type": "News",
+            "title": "Rice fit and available to start for England vs Argentina",
+            "bullets": [
+              "Declan Rice is fit and available to start England's World Cup semi-final against Argentina on Wednes...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Declan Rice is fit and available to start England's World Cup semi-final against Argentina on Wednesday, Sky Sports News understands.",
+            "fullText": "England have nearly a fully-fit squad to face Argentina in World Cup semi-final on Wednesday; Only the suspended Jarell Quansah and midfielder Jordan Henderson, who has a broken wrist, are unavailable; Declan Rice and Nico O'Reilly have overcome their fitness concerns",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0358_8",
+            "category": "england",
+            "type": "News",
+            "title": "'A little lost' - Why has Mainoo become England's forgotten man?",
+            "bullets": [
+              "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Kobbie Mainoo has cut a pretty forlorn-looking figure at this World Cup.",
+            "fullText": "Kobbie Mainoo has not played a single minute for England at the 2026 World Cup; Thomas Tuchel called Eberechi Eze, Reece James and Morgan Rogers from the bench to play in midfield during England's extra-time win over Norway on Saturday",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0358_9",
+            "category": "england",
+            "type": "News",
+            "title": "England vs Argentina tactical dossier: How Tuchel’s side can reach World Cup final",
+            "bullets": [
+              "Here we go. England face Argentina in the World Cup semi-finals on Wednesday - a fixture loaded with...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Here we go. England face Argentina in the World Cup semi-finals on Wednesday - a fixture loaded with history, jeopardy and one final obstacle between Thomas Tuchel’s side and the World Cup final. It may be the biggest England game of a generation, but where could it be won or lost?",
+            "fullText": "England face Argentina in a World Cup semi-final on Wednesday; Lionel Messi and Jude Bellingham lead the cast but width, set-pieces, midfield control, defensive discipline and late goals could decide whether Thomas Tuchel’s side reach the final",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 00:20:42 EDT",
+  "lastUpdated": "2026-07-14 @ 08:04:01 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
