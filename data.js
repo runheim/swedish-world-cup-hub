@@ -6834,11 +6834,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1510_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Alonso ‘optimistic’ he can thrive at Chelsea and avoid coaching carousel",
+            "bullets": [
+              "Only time will tell if the former Leverkusen manager will become yet another victim of the constant...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Only time will tell if the former Leverkusen manager will become yet another victim of the constant churn at Stamford BridgeIf Xabi Alonso arrived at Chelsea under any illusions about the expectations awaiting him, they were staring out from picture frames hung around Stamford Bridge’s Drake Suite. During his unveiling as Chelsea’s new manager, on either side of the room hung large, gleeful photos of José Mourinho and Antonio Conte holding Premier League trophies.Chelsea’s last two managers, Enzo Maresca and Liam Rosenior, were not afforded the Drake Suite treatment previously reserved for Mauricio Pochettino and Frank Lampard before them. But the blue carpet was rolled out once again for one of the most decorated midfielders of his generation, an integral part of Spain’s victories in two European Championships and one World Cup and a coach who has made a strong start to converting that talent to the touchline. Continue reading...",
+            "fullText": "Only time will tell if the former Leverkusen manager will become yet another victim of the constant churn at Stamford Bridge\n\nIfXabi Alonso arrived at Chelseaunder any illusions about the expectations awaiting him, they were staring out from picture frames hung around Stamford Bridge’s Drake Suite. During his unveiling as Chelsea’s new manager, on either side of the room hung large, gleeful photos of José Mourinho and Antonio Conte holding Premier League trophies.\n\nChelsea’s last two managers, Enzo Maresca and Liam Rosenior, were not afforded the Drake Suite treatment previously reserved for Mauricio Pochettino and Frank Lampard before them. But the blue carpet was rolled out once again for one of the most decorated midfielders of his generation, an integral part of Spain’s victories in two European Championships and one World Cup and a coach who has made a strong start to converting that talent to the touchline.\n\nQuite how Alonso – best known in the Premier League for winning trophies with Liverpool – ended up here remains a compelling question. Did he need convincing to stake his reputation on a club that has now made him their sixth permanent manager in four turbulent years since the Todd Boehly and Clearlake Capital takeover?\n\n“For sure we needed to have proper talks,” Alonso said. The fact he has been given the title of “manager”, rather than the “head coach” designation preferred in Chelsea’s modern structure, suggests concessions were made to secure him. He is working with the sporting directors Paul Winstanley and Laurence Stewartand says they are “aligned” on decisions and how to achieve their goals.\n\nFor now. Chelsea may have finished 10th in the Premier League last season and face at least a year without European football. Alonso may have signed a four-year contract. But start slowly and the chaotic circus of years gone by will not be far behind.\n\nLeft behind in the aftermath of last season – whenMaresca stepped downmidway through the campaign and the team, on course for Champions League qualification, plummeted down the table – are a £106m midfielder who wants to leave, a young star who can’t stay fit and a squad criticised for its youth, lack of leaders and chronic indiscipline.\n\nThe frenzy around Enzo Fernández’s future reached such intensity that Real Madrid were forced to put out a statement denying interest. Alonso said the Argentinian wants to stay. He has spoken to the player and, though he declined to elaborate, expects Fernández to return to training after the World Cup.\n\nAlonso has already had some time on the Cobham pitches with Cole Palmer, whose decline was underlined by hisomission from the England World Cup squad, and found a player desperate to stay fit and move past his injury setbacks. “He’s special and if he’s enjoying it, he’s in a good mood, a good spirit, he can be a key player for us,” Alonso said.\n\nThe owners’ attempt to reinvent how to run a Premier League football club has produced a squad packed with young talent intended to soar in value, but the trade-offs have been stark. When Wesley Fofana was sent off on the final day against Sunderland, it wasChelsea’s 11th red card of the season– twice as many as any other side and a new, unwanted club record.\n\n“We want a team with the right mentality, the right hunger, the right standards and on a daily basis build on them,” Alonso said. “I’m not a general, but I’m a good professional, and I know what it takes to be a good professional. Those are the standards we want for the whole building, not just for the team.”\n\nThe reshaping of the squad is already in full flow. Marc Cucurella, one of the few older heads,went to Real Madrid for £52m. Andrey Santos has joined Manchester United for £50m. Tyrique George signed for Everton for £18m. Funds have been generated. Less than a year after arriving from Manchester United for £50m, Alejandro Garnacho is expected to leave. He has been absent from training while the club seeks a buyer.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 08:07:06 EDT",
+  "lastUpdated": "2026-07-14 @ 12:15:18 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
