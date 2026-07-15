@@ -16,10 +16,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'Extremely happy' Deschamps gets the farewell game no-one wants",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Bellingham best player at World Cup - Rooney",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -28,28 +24,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Why do Argentina sing about England and the Falklands?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17y75qd8e4o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'Extremely happy' Deschamps gets the farewell game no-one wants",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Henderson & Quansah only England absentees for Argentina",
       "link": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Huge haul of fake Scotland and England football strips seized in raid",
-      "link": "https://www.bbc.co.uk/news/articles/cm2r2y5ymm6o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Thomas Tuchel trusts England’s ‘special breed’ to find a way past Messi’s Argentina | David Hytner",
-      "link": "https://www.theguardian.com/football/2026/jul/15/thomas-tuchel-england-lionel-messi-argentina-world-cup-2026-semi-final"
-    },
-    {
-      "text": "⚽ ‘Diego, give us a hand’: Argentina v England revives historic tensions",
-      "link": "https://www.theguardian.com/football/2026/jul/15/argentina-england-tensions-world-cup-football"
-    },
-    {
       "text": "⚽ Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
       "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final"
+    },
+    {
+      "text": "⚽ Brazilian World Cup legend Jairzinho takes a shot: Michael Donald’s best photograph",
+      "link": "https://www.theguardian.com/artanddesign/2026/jul/15/jairzinho-footballer-brazil-rio-favelas-michael-donalds-best-photograph"
     },
     {
       "text": "⚽ War, antics and vitriol – the England v Argentina rivalry is real but now it is only about football",
@@ -28119,11 +28107,204 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2233_0",
+            "category": "england",
+            "type": "News",
+            "title": "England's biggest match since 1966 as Three Lions close in on immortality",
+            "bullets": [
+              "England face Argentina in the World Cup semi-finals on Wednesday - and BBC Sport's Phil McNulty expl...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England face Argentina in the World Cup semi-finals on Wednesday - and BBC Sport's Phil McNulty explains why it is the Three Lions' biggest match since 1966.",
+            "fullText": "Head coach Thomas Tuchel has the chance to lead England to their first World Cup final since 1966\n\nEngland have the chance to take a giant stride towards immortality when they face Argentina in the World Cup semi-final in their biggest match since winning the 1966 final at Wembley.\n\nThe Three Lions have reached two World Cup semi-finals in the six decades since then - at Italia '90 and then in Russia eight years ago - but this latest edition reignites an old rivalry, adding layers with history and controversial sub-plots.\n\nEngland have lost the past two European Championship finals but, under the roof of the futuristic Atlanta Stadium, head coach Thomas Tuchel and his players have the chance to write themselves into legend by reaching the country's first men's World Cup final in 60 years.\n\nThe fact it was standing room only at Tuchel's pre-match media briefing, even though it was moved to a bigger venue, illustrates the scale of global interest in this chapter.\n\nWednesday's match (20:00 BST) is England's latest chance to finally reach another global showpiece - a barrier that has proved insurmountable since Sir Alf Ramsey's side lifted the Jules Rimet trophy in 1966.\n\nWatch live on BBC One and BBC iPlayer (UHD coverage available) from 19:00 BST. Listen to build-up and full match commentary on BBC Radio 5 Live and BBC Sounds from 18:00 BST. Follow TV and radio coverage, plus live text updates, in-play video clips, post-match highlights and analysis on the BBC Sport website and app.\n\nA special team beats brilliant individuals - how silky Spain flattened France\n\n'Extremely happy' Deschamps gets the farewell game no-one wants\n\nEngland's recent record in major tournaments is good - but not good enough. Nearly but not quite.\n\nThe only currency that counts at elite level is trophies, and so far winning one has proved agonisingly beyond this England side.\n\nThe journey to the 2018 World Cup semi-finals was widely regarded as a pleasant surprise, but ended badly as Sir Gareth Southgate and his side appeared frozen into conservatism after Kieran Trippier gave them the lead after five minutes against Croatia in Moscow, and they lost 2-1 after extra time.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2233_1",
+            "category": "england",
+            "type": "News",
+            "title": "Keane was Kane's England team-mate - this week they are on different paths",
+            "bullets": [
+              "Will Keane and Harry Kane used to be team-mates for England Under-19s - but this week the former str...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Will Keane and Harry Kane used to be team-mates for England Under-19s - but this week the former strike partners are on very different paths.",
+            "fullText": "Harry Kane (facing camera) congratulates Will Keane on scoring one of his two goals in a 5-0 win for England Under-19s against Slovenia. Five days later, Keane injured his knee and didn't play again for 16 months\n\nIt was one of those sliding doors moments that arise so often in professional sport.\n\nAt the time, of England's two strikers for the Under-19s European Championship qualifier with Switzerland in May 2012, Will Keane seemed most likely to eventually be preparing for a World Cup semi-final this week, not Harry Kane.\n\n\"I'd never had any setbacks at that point,\" says Keane in a fascinating chat with BBC Sport.\n\n\"When you're young, you're fearless. The whole trajectory of my career was up. I made my senior debut [for Manchester United]. We won the Youth Cup. I was doing well for England. Everything was taking off.\"\n\nFate turned against Keane. He sustained a major knee injury near the end of the game and it was 16 months before he played again.\n\nIn that time, Kane completed loan stints at Norwich and Leicester and broke into the Tottenham team.\n\n\"It's timing,\" says Keane. \"Some lads go their whole career and have a few niggles, but nothing derails them too much.\n\n\"That first injury was at a crucial time. I had my foot in the door. The feeling was I would probably have been around the first team.\n\n\"If the injury had happened a couple of years later, I might have been an established squad player. When I had it, I missed 16 months at a crucial part of the transition from reserves to seniors.\"\n\nWill Keane (20) congratulates Jonny Williams (left) on scoring for a PFA team against their French counterparts in Leicester\n\nAs Kane prepares for Argentina, Keane is spending the early part of this week at Champneys Springs in Leicestershire, one of 45 players taking part in the PFA's 12-week pre-season camp.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2233_2",
+            "category": "england",
+            "type": "News",
+            "title": "All the goals from England's 2026 World Cup campaign so far",
+            "bullets": [
+              "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+            "fullText": "Re-live all the goals scored by England so far, as Thomas Tuchel's side gear up to face Argentina in their World Cup semi-final.\n\nREAD MORE:Who else? How Bellingham became indispensable again\n\nWatch England in the World Cup semi-final live on BBC One and BBC iPlayer, Wednesday 15 July, 19:00 BST.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2233_3",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham best player at World Cup - Rooney",
+            "bullets": [
+              "Jude Bellingham has been the best player at the World Cup so far, says former England striker Wayne ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has been the best player at the World Cup so far, says former England striker Wayne Rooney.",
+            "fullText": "Bellingham scores extra-time winner as England reach semi-finals\n\nJude Bellingham has been the best player at the World Cup so far, says former England striker Wayne Rooney.\n\nReal Madrid midfielder Bellingham has scored six goals in six games for England, leaving him only two behind France's Kylian Mbappe and Argentina's Lionel Messi in the Golden Boot standings.\n\nErling Haaland, whose Norway side were eliminated by England in the quarter-finals, is on seven while Three Lions captain Harry Kane is level with Bellingham.\n\nEngland play Messi's Argentina on Wednesday in the second semi-final (20:00 BST). The match is live on BBC One, BBC iPlayer, the BBC Sport website and app, and BBC Radio 5 Live.\n\n\"In terms of best in the world I think you're looking at someone like Mbappe or Haaland,\" Rooney said onThe Wayne Rooney Show.\n\n\"Bellingham hasn't quite hit those levels at Real Madrid this season, but he's been the best player in the tournament for me.\"\n\nBellingham, 23, has become a big-game player for England - with nine goals and three assists in World Cups and European Championships.\n\nHis Real Madrid team-mate Mbappe - with 12 - is the only European player to have scored more than nine goals in a major tournament before the age of 24.\n\nBellingham has averaged a goal or assist every 138 minutes at major tournaments for England, compared to one every 284 minutes in other international matches.\n\nHe scored in the group wins over Croatia and Panama at this World Cup, then twice against both Mexico and Norway in the knockout stage.\n\n\"With Jude, it's all about energy, passion, desire, drive and that's how he's getting his rewards,\" said Rooney.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2234_4",
+            "category": "england",
+            "type": "News",
+            "title": "Pressure is on world champions Argentina in semi-final - Guehi",
+            "bullets": [
+              "England defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face the reigning champions in the World Cup semi-finals.",
+            "fullText": "Marc Guehi has featured in all six matches for England at this World Cup\n\nEngland defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face the reigning champions in the World Cup semi-finals.\n\nWednesday's match in Atlanta (20:00 BST) is England's second semi-final in three World Cups, but they have not reached the final since winning the tournament in 1966.\n\nTo do so this year they have to overcome Argentina, who they will face for the sixth time at a World Cup in the latest chapter of one ofinternational football's biggest rivalries.\n\nFromDiego Maradona's infamous 'Hand of God' goalin 1986 toDavid Beckham's red card12 years later, games between the two nations have rarely lacked drama.\n\n\"The pressure is on them, they are the world champions,\" said Guehi before the last-four tie.\n\nThomas Tuchel's sideovercame Norway 2-1after extra time to book their place in the semi-final at Atlanta Stadium,which will be broadcast live on BBC One and BBC iPlayer.\n\nEight years ago in Moscow,England were knocked out by Croatiaat this stage, having led 1-0 after Kieran Trippier's fifth-minute free-kick.\n\n\"It's the game of your life. You have do what you can for your country,\" said Manchester City centre-back Guehi, 26.\n\nWatch live on BBC One and BBC iPlayer (UHD coverage available) from 19:00 BST. Listen to build-up and full match commentary on BBC Radio 5 Live and BBC Sounds from 18:00 BST. Follow TV and radio coverage, plus live text updates, in-play video clips, post-match highlights and analysis on the BBC Sport website and app.\n\nThomas Tuchel was appointed as England manager in January 2025\n\nEngland boss Thomas Tuchel said there is no issue between him and Jude Bellingham after the midfielder's response to the German's criticism of the performance against Norway.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2234_5",
+            "category": "england",
+            "type": "News",
+            "title": "'Extremely happy' Deschamps gets the farewell game no-one wants",
+            "bullets": [
+              "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.",
+            "fullText": "Spain into World Cup final after dominant victory over France\n\nDidier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.\n\nThe dreams of the 57-year-old, who won the World Cup as both a player (in 1998) and a manager (in 2018), winning it a third time are over after their2-0 defeat by Spainin Tuesday's first semi-final.\n\nHaving danced their way through the tournament with a series of impressive attacking displays, France managed just 10 shots all match in Dallas, their lowest total in the World Cup, with an expected goals of just 0.3 as they belied their pre-match tag of overwhelming favourites.\n\nFormer France midfielder Patrick Vieira told ITV: \"They haven't shown up. I was expecting more. There was a big expectations for France to win the World Cup.\n\n\"France will all disappointed by the result and the performance. All our top players went missing. Collectively we were really bad.\"\n\nMbappe appeared to criticise France's tactics, adding: \"We were three against two in midfield, and against Spain that's hard.\n\n\"There was a lack of communication on the press. We should have done man-to-man press and forced them to run with us.\n\n\"When you don't do what you have to do in a World Cup semi-final, you don't win. Spain respected their gameplan and what the team usually does.\n\n\"They are better than us at controlling a game. We didn't manage to do it. We were too sloppy technically. We could not hurt them when we could have.\"\n\nIt will be zero consolation but Deschamps, in charge since 2012, set a record in Dallas for most World Cup games managed - 26.\n\nHe previously shared the mark of 25 with ex-West Germany boss Helmut Schon.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2235_6",
+            "category": "england",
+            "type": "News",
+            "title": "Henderson & Quansah only England absentees for Argentina",
+            "bullets": [
+              "Jordan Henderson and Jarell Quansah are set to be the only players unavailable for England's World C...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jordan Henderson and Jarell Quansah are set to be the only players unavailable for England's World Cup semi-final against Argentina.",
+            "fullText": "Jordan Henderson has not been officially ruled out of the World Cup yet\n\nJordan Henderson and Jarell Quansah are set to be the only players unavailable for England in their World Cup semi-final against Argentina.\n\nHenderson isstill recovering from surgery on the broken armhe suffered while celebrating the win over Mexico in the last 16, while defender Quansah is suspended following his red card in the same game.\n\nIt leaves head coach Thomas Tuchel with options as he finalises his starting XI.\n\nThe England boss is yet to field the same starting back four in consecutive games at the World Cup but has considered keeping the same defence that began the quarter-final against Norway.\n\nEzri Konsa, John Stones, Marc Guehi and Nico O'Reilly all started, and it is understood that Tuchel was impressed with how the quartet operated in the 2-1 win.\n\nDeclan Rice's preparation for the game against Norway was severely disrupted by illness - butBBC Sport reported on Mondaythere was optimism his condition had improved enough for him to take his place in the team on Wednesday.\n\nRice trained fully on Tuesday and is expected to start in Atlanta.\n\nWatch live on BBC One and BBC iPlayer from 19:00 BST. Listen to build-up and full match commentary on BBC Radio 5 Live and BBC Sounds from 18:00 BST. Follow TV and radio coverage, plus live text updates, in-play video clips, post-match highlights and analysis on the BBC Sport website and app.\n\nWhen the World Cup finishes, the football continues on BBC Sport",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2235_7",
+            "category": "england",
+            "type": "News",
+            "title": "Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
+            "bullets": [
+              "Brilliant buildup play has often withered but control and flawless execution overcame France’s more ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaosWhen the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars.Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes. One semi-final has been distilled down to MESSI v KANE (or MESSI v BELLINGHAM, depending on the broadcaster). The other leaned heavily on hope that Lamine Yamal’s hamstring would finally be at 100% after his April injury. MBAPPÉ v 600 PASSES PER GAME isn’t so snappy. Continue reading...",
+            "fullText": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos\n\nWhen theWorld Cupcame to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars.\n\nFox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes. One semi-final has been distilled down to MESSI v KANE (or MESSI v BELLINGHAM, depending on the broadcaster). The other leaned heavily on hope that Lamine Yamal’s hamstring would finally be at 100% after his April injury. MBAPPÉ v 600 PASSES PER GAME isn’t so snappy.\n\nSpain, despite entering as Europe’s reigning champions, have not garnered the same adoration in their run to a second World Cup final as their fellow semi-finalists. Many wondered how they could possibly contend withFrance. Online skeptics dished out a greater dishonor, accusing Luis de la Fuente’s side of being boring.\n\nThere was no hero’s shot of Spain’s coach bellowing to the 70,176 fans in Dallas, asking whetherthey were not entertained. That isn’t the prize he and his charges are after. Any viewer is allowed to think Spain are dull compared with more breakneck alternatives at this World Cup, but as France learned on Tuesday, their approach is lethal when executed as planned.\n\nAt Euro 2024, De la Fuente’s side operated in a similar style en route to their fourth continental title. They were a team determined to finish their opponents by making them suffer without the ball. Rodri cemented his Ballon d’Or case by anchoring the midfield and affording his teammates greater attacking involvement with expert shielding. Álvaro Morata made his critics eat crow by finishing the chances provided to him, finally the line-leader to actualize Spain’s potential. On either flank was one of the world’s trickiest young wingers: Nico Williams to his left, Lamine Yamal to his right.\n\nMost of those pieces returned for this World Cup. From the back, Unai Simón has left his box with some regularity as the team station themselves further upfield. Rodri has been in rare form this summer, a refreshing sight after his injury-riddled 2025-26 that followed the previous year’s anterior cruciate ligament tear. Fabián Ruiz has stepped up as a capable double-pivot partner, spraying balls up the flank if the lanes to Dani Olmo aren’t glowing.\n\nAnd yet, most of the focus has been on Spain’s relative inability to turn top-notch team play into goals. Lamine Yamal and Williams arrived fresh off of spring injuries; Williams has earned 98 minutes through seven matches and Lamine Yamal is not quite at his unplayable best. Morata missed out on this World Cup squad owing to poor form with Como. In sum, Spain’s brilliant buildup has too often withered upon entering the final third.\n\nSystem play like Spain’s looks far less glamorous without a commanding frontman. Like Queen without Freddie Mercury or U2 without Bono, even the best basslines and beats become background noise without someone commanding attention. A healthier Lamine Yamal might have been that kind of player, but in reality this has been a World Cup dominated by strikers and goalkeepers, not the inverted wingers who have come to dominate the Champions League and Premier League in recent years.\n\nThen again, Lamine Yamal did make a crucial impact on the game against France. Attackers know to look for overcommitted and unaware defenders making off-ground clearances, asMathys Tel found in May. As Lucas Digne readied to side-volley a clearance, he created a window for Lamine Yamal to exploit without the ball. There’s no assist on Lamine Yamal’s ledger for drawing a penalty, but his was an act which created a 0.78-xG chance in a game of fine margins.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFrom there, Spain’s control and flawless execution overcame France’s more variable chaos. Aside from against Paraguay, a team playing with less talent on paper, France played over and through lesser-organized opposition. Their ruthlessness against those opponents branded them as tournament favorites despite a fairly plush path to the quarter-final. Morocco were supposed to give the test they needed but showed up in Foxborough looking dazed and out of ideas before the opening whistle.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2235_8",
+            "category": "england",
+            "type": "News",
+            "title": "Brazilian World Cup legend Jairzinho takes a shot: Michael Donald’s best photograph",
+            "bullets": [
+              "‘Nowadays Jairzinho works with kids in the favelas of Rio where the unwritten rule is that visitors ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘Nowadays Jairzinho works with kids in the favelas of Rio where the unwritten rule is that visitors have to leave by 5pm. I asked for 10 more minutes and when I turned round, a guy had pulled a gun on my crew’I’m not a mad football fan. What I most love about the game is its universal appeal – it’s all about a ball crossing a line, and a goal is a goal whether it involves two jerseys in a park or the one that determines the outcome of a World Cup. But when I realised in 2007 that only 58 people had ever scored a goal in a World Cup final and that only 34 of these men were still alive, I thought it would be a great idea to photograph them.It quickly became apparent that book sales alone would never finance the project – there were only two English players, the rest were in Europe or South America. But a successful pitch to a film producer won me the opportunity to travel to 13 countries with a documentary crew. Over the course of four years, we interviewed every member of the exclusive World Cup club, and I made portraits of them all. Continue reading...",
+            "fullText": "‘Nowadays Jairzinho works with kids in the favelas of Rio where the unwritten rule is that visitors have to leave by 5pm. I asked for 10 more minutes and when I turned round, a guy had pulled a gun on my crew’\n\nI’m not a mad football fan. What I most love about the game is its universal appeal – it’s all about a ball crossing a line, and a goal is a goal whether it involves two jerseys in a park or the one that determines the outcome of aWorld Cup. But when I realised in 2007 that only 58 people had ever scored a goal in a World Cup final and that only 34 of these men were still alive, I thought it would be a great idea to photograph them.\n\nIt quickly became apparent that book sales alone would never finance the project – there were only two English players, the rest were in Europe or South America. But a successful pitch to a film producer won me the opportunity to travel to 13 countries with a documentary crew. Over the course of four years, we interviewed every member of the exclusive World Cup club, and I made portraits of them all.\n\nThis is Jair Ventura Filho, better known asJairzinho, who scored the third goal for Brazil when they took the title in Mexico City in 1970, beating Italy 4-1. Nowadays he works with underprivileged kids in the favelas of Rio de Janeiro. This portrait was taken in a favela in the Manguinhos neighbourhood, where he runs a football school.\n\nThe favelas are these amazing shantytowns where the police have no jurisdiction. There’s an unwritten rule that anyone who doesn’t live in the favela has to be out by 5pm. We had to hire security from the local drug lords – they were basically just kids, and by mid-afternoon they’d got bored and left. We did the shoot with Jairzinho at a public football ground and it was only as we were leaving that I spotted this beautiful old football table outside a bar. It felt like a gift, and Jairzinho really liked it. I said: “We’ve got to do this, can I have 10 more minutes?”\n\nWhen I’m doing documentary photography, I don’t like things to look artificially lit, but I had my assistant Stevie holding a small light. I shoot on a Hasselblad with a digital back and always use a tripod. I learned quite early on that if the camera stays in the same place and I’m looking down into the viewfinder and talking to the person I’m photographing, they don’t change their behaviour, which is not the case if you’re moving around and lift the camera to point directly into their face.\n\nAs I set up the shot, I became aware of a guy approaching down the street on a bicycle – not the kid you can see in the photograph. He came sneaking through the image and disappeared behind me, where Dan the director, Gretha the producer and a few other members of the crew were standing with our local fixer, waiting for us to finish. I was concentrating on Jairzinho, but could hear an increasingly heated conversation going on. Eventually, Dan said, “Michael, I think we ought to go.”\n\nWhen you’re photographing someone famous, they never give you enough time – you just keep going until they’ve had enough. Jairzinho seemed fine, so I carried on for a few more minutes, until I was sure I had the frame. Then I turned to see the man on the bike had pulled a gun on Dan and Gretha. Dan said: “Do you get it now?”\n\nIt seems this guy had taken exception to our presence in the favela. The rest of the crew and the fixer had cleared off, but Stevie, Jairzinho and I had been too focused on what we were doing to notice. Dan and Gretha could easily have insisted we leave immediately, but I really appreciate them giving me the time to get the shot I wanted. We didn’t hang about.\n\nApart from the composition and the fact we managed to shoot in a favela, which is so characteristic of Rio, what I love about this picture is the fact that the chaos going on behind the camera isn’t at all apparent in the portrait. That’s often the case with photography.\n\nBorn:Wakefield. 1966 – although I was born there by mistake, I’m actually from Belfast.High point:Winning stuff is great and seeing work published internationally is great, but the high points are when you really feel you’re completely immersed in what you’re doing.Top tip:If you’re going to make a living you are going to have to do what you’re told, but always make sure you’re also doing your own stuff. Work that really excites you, not what you think you should be doing. That’s where you’ll produce your best work and it will make you better at everything else.\n\nSee more images from “I scored a goal in the World Cup final”here",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2236_9",
+            "category": "england",
+            "type": "News",
+            "title": "War, antics and vitriol – the England v Argentina rivalry is real but now it is only about football",
+            "bullets": [
+              "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach Lionel Scaloni calling for the focus to be on football, not the FalklandsAfter confirmation that match 102, one of the World Cup semi-finals, would be England v Argentina, the 1982 Falklands/Malvinas conflict was mentioned at Lionel Scaloni’s press conference. “No, no, no,” the Argentina head coach tut-tutted emphatically. “This is just a football match. Let’s not look for other stuff. It’s a football game against a great team, with a great manager who I admire. But it’s a football match. End of.”The Argentina midfielder Rodrigo De Paul concurred: “We understand it’s a football game that transcends; it brings back memories of what Diego did. We sing songs about our Malvinas heroes, mainly to remember them, but we have to understand that it’s a football match and that the Malvinas have to be discussed elsewhere. What happened was an atrocity and we always remember the fallen, but what we want is to win this match to get to the final.” Continue reading...",
+            "fullText": "Mexico 1986, France 1998, Japan 2002 … this is a match that transcends, with Argentina’s head coach Lionel Scaloni calling for the focus to be on football, not the Falklands\n\nAfter confirmation that match 102, one of theWorld Cupsemi-finals, would be England v Argentina, the 1982 Falklands/Malvinas conflict was mentioned at Lionel Scaloni’s press conference. “No, no, no,” the Argentina head coach tut-tutted emphatically. “This is just a football match. Let’s not look for other stuff. It’s a football game against a great team, with a great manager who I admire. But it’s a football match. End of.”\n\nTheArgentinamidfielder Rodrigo De Paul concurred: “We understand it’s a football game that transcends; it brings back memories of what Diego did. We sing songs about our Malvinas heroes, mainly to remember them, but we have to understand that it’s a football match and that the Malvinas have to be discussed elsewhere. What happened was an atrocity and we always remember the fallen, but what we want is to win this match to get to the final.”\n\n“What Diego did”, of course, refers to the few minutes in the 1986 World Cup quarter-final against England whenDiego Maradonastunned the world by first punching the ball into the net and then dribbling past several England players to score what became known as the goal of the century. Everything that is possible in football was displayed by one man in a single event bookended by two goals. The good and the bad, the ugly and the beautiful, rolled into a few moments that left a mark on everyone watching. A before and after moment in World Cup history.\n\nAfter the game Maradona joked that he hadn’t handled the ball, “maybe it was the hand of God”, and later still said it “felt good – like pickpocketing an Englishman”. The notion that it was somehow a homage to the fallen in the South Atlantic conflict four years earlier made the idea of retribution for the war somehow stick. But a lesser‑known quote came in 2014 when, working for Venezuelan TV during the World Cup, Maradona referred to a senseless war orchestrated “by two murderous governments”.\n\nAt the 1986 World Cup in Mexico an arranged fight between Argentinian barra bravas and English hooligans took place. One barra brava involved was also a Falklands/Malvinas veteran. I met him years later at a Boca Juniors v River Plate derby in Buenos Aires and asked him if belonging to a firm was in some ways similar to being in the army. “Nobody hates war more than a soldier,” he said, pointing at the terraces. “This here is about love, beauty and joy. This has nothing to do with hate.”\n\nThe great Argentinian novelist and sportswriter Juan Sasturain once said: “We have a lot to thank the English for. Theygave us Borges’s literature, and they gave us football.” Jorge Luis Borges’s literature was indeed hugely influenced by his anglophile intellect. He died only a week before the quarter-final in 1986 and, as the 40th anniversary of his death (and the match) came and went, many sought to link the two, as if Borges’s genius had somehow morphed into Maradona’s – one great artist leading another to glory.\n\nBorges famously described the Falklands conflict as “two bald men fighting over a comb” and though he didn’t like football, some have managed to find a ghostly significance in the fact that the decisive goal inArgentina’s last-32 match against Cape Verdewas an own goal by a player called Diney Borges.\n\nEncounters between the two countries have a lasting impact that shape the way we play, consume and think about football. There are differences, but also much in common. “It’s the fixture where the Mexican wave doesn’t stand a chance,” the former Argentina forward Jorge Valdano said in 1998, when the countries met again on a World Cup stage. The game is too important for both sets of fans. That night in Saint‑Étienne an exaggerated media hype of a potential clash between gangs mobilised extra police but, apart from a dark town square where people were shouting inside a cordon, nothing untoward happened. Atlanta has enhanced security to ward off potential violent clashes now, too.\n\nThere is so much football history between the two sides. On the pitch in 1998 Michael Owen’s solo run towards goal left everyone gasping. Yet David Beckham’s sending off for reacting to a deliberate provocation by Diego Simeone stole the headlines. In 2002 Beckham avenged the calamity that befell him in 1998.\n\nSven-Göran Eriksson had a psychologist on board who reportedly told the players not to make eye contact with the Argentinians – so, as Simeone approached him with a taunting handshake while he was preparing to take a penalty, Beckham simply looked away and scored. It was Argentina’s earliest departure from a World Cup in decades, not getting past the group stage.\n\nThe most recent match between the two countries was a friendly in Geneva in 2005, whichEnglandwon. Walter Samuel and Roberto Ayala were the central defenders for Argentina that day but Diego Borinsky, Scaloni’s official biographer, says the coach José Pékerman realised during that game that Javier Zanetti, his right‑back, should in the future be replaced by Scaloni. Today, Scaloni is the leader of a coaching team that comprises Samuel and Ayala as well as Pablo Aimar, with an emphasis on congeniality, strong human bonds and enjoyment.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2236_10",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel: Argentina and Messi will bring best out of England",
+            "bullets": [
+              "Thomas Tuchel believes the challenge of Argentina and Lionel Messi will bring the best out of his En...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel believes the challenge of Argentina and Lionel Messi will bring the best out of his England side.",
+            "fullText": "England face Argentina in World Cup semi-final on Wednesday at 8pm in Atlanta;  Thomas Tuchel says the challenge of the world champions and their captain Lionel Messi will draw a better performance out of Three Lions after quarter-final win over Norway",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-15 @ 08:08:43 EDT",
+  "lastUpdated": "2026-07-15 @ 12:22:36 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
