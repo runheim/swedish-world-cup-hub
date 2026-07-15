@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Swedish WC player Elliot Stroud on the move rumours: \"Everything is not right\"",
       "link": "https://www.svt.se/sport/fotboll/svenske-vm-spelaren-elliot-stroud-om-flyttryktena-allt-stammer-inte"
-    },
-    {
-      "text": "⚽ Haaland let the fans down: \"Doesn't damage his reputation\"",
-      "link": "https://www.svt.se/sport/fotboll/haaland-svek-fansen-skadar-inte-hans-rykte"
     }
   ],
   "timeline": {
@@ -11499,11 +11495,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1820_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Swedish WC player Elliot Stroud on the move rumours: \"Everything is not right\"",
+            "bullets": [
+              "After the success in the WC, the days at Strandvallen may be numbered for Mjällby's Elliot Stroud. T...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After the success in the WC, the days at Strandvallen may be numbered for Mjällby's Elliot Stroud. The 24-year-old confirms that a move abroad is tempting - but emphasizes that playing time and the right club weigh more heavily than anything else. - It's about which club you have the greatest chance of playing in, and doing well there. We'll see what it lands in and what it becomes, says Elliot Stroud to SVT Sport.",
+            "fullText": "After the success in the WC, the days at Strandvallen may be numbered for Mjällby's Elliot Stroud. The 24-year-old confirms that a move abroad is tempting - but emphasizes that playing time and the right club weigh more heavily than anything else.\n\n- It's about which club you have the greatest chance of playing in, and doing well there. We'll see what it lands in and what it becomes, says Elliot Stroud to SVT Sport.\n\nGenoa in Serie A or Hull in the Premier League? There are, and have been, many rumors about Mjällby's WC player Elliot Stroud's next club address.\n\nLast yesterday, Italian Sky Sports reported that Genoa would take legal action against Stroud's agents. Genoa believe that Stroud had already signed a pre-contract with the club but that he will now leave having accepted an offer from Hull.\n\nIt is clear that Stroud himself is set on a move soon - although he avoids commenting on the specific clubs that have been speculated about.\n\n- You want to try something new as a footballer and see what you can do, he says.\n\nA move now would mean that Stroud, who did not play a minute for Mjällby after returning from the WC, would miss the reigning Allsvenskan champions' qualifying matches for the Champions League.\n\n- It is clear that you wanted to stay here and did as much as you could. But at the same time you have to think of yourself as a footballer, you don't have a very long career unfortunately, he says.\n\nHear Elliot Stroud comment on the move rumors in the player above.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-15 @ 00:22:57 EDT",
+  "lastUpdated": "2026-07-15 @ 08:18:20 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
