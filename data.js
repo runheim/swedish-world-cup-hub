@@ -4,14 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ England's biggest match since 1966 as Three Lions close in on immortality",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20y0zzdx9go?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Keane was Kane's England team-mate - this week they are on different paths",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c30y0zqzvl5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ All the goals from England's 2026 World Cup campaign so far",
       "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -20,32 +12,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Pressure is on world champions Argentina in semi-final - Guehi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'Extremely happy' Deschamps gets the farewell game no-one wants",
       "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Henderson & Quansah only England absentees for Argentina",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20y0gp3p70o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Pressure is on world champions Argentina in semi-final - Guehi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
       "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final"
     },
     {
-      "text": "⚽ Brazilian World Cup legend Jairzinho takes a shot: Michael Donald’s best photograph",
-      "link": "https://www.theguardian.com/artanddesign/2026/jul/15/jairzinho-footballer-brazil-rio-favelas-michael-donalds-best-photograph"
-    },
-    {
-      "text": "⚽ War, antics and vitriol – the England v Argentina rivalry is real but now it is only about football",
-      "link": "https://www.theguardian.com/football/2026/jul/14/england-argentina-world-cup-2026-rivalry"
-    },
-    {
-      "text": "⚽ Tuchel: Argentina and Messi will bring best out of England",
-      "link": "https://www.skysports.com/football/news/12040/13563556/world-cup-2026-argentina-and-lionel-messi-will-bring-best-out-of-england-says-thomas-tuchel-ahead-of-semi-final"
+      "text": "⚽ War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video",
+      "link": "https://www.theguardian.com/football/video/2026/jul/15/war-culture-empire-and-football-england-and-argentinas-deep-romantic-rivalry-video"
     }
   ],
   "timeline": {
@@ -28300,11 +28280,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4414_0",
+            "category": "england",
+            "type": "News",
+            "title": "All the goals from England's 2026 World Cup campaign so far",
+            "bullets": [
+              "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+            "fullText": "Re-live all the goals scored by England so far, as Thomas Tuchel's side gear up to face Argentina in their World Cup semi-final.\n\nREAD MORE:Who else? How Bellingham became indispensable again\n\nWatch England in the World Cup semi-final live on BBC One and BBC iPlayer, Wednesday 15 July, 19:00 BST.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4414_1",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham best player at World Cup - Rooney",
+            "bullets": [
+              "Jude Bellingham has been the best player at the World Cup so far, says former England striker Wayne ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has been the best player at the World Cup so far, says former England striker Wayne Rooney.",
+            "fullText": "Bellingham scores extra-time winner as England reach semi-finals\n\nJude Bellingham has been the best player at the World Cup so far, says former England striker Wayne Rooney.\n\nReal Madrid midfielder Bellingham has scored six goals in six games for England, leaving him only two behind France's Kylian Mbappe and Argentina's Lionel Messi in the Golden Boot standings.\n\nErling Haaland, whose Norway side were eliminated by England in the quarter-finals, is on seven while Three Lions captain Harry Kane is level with Bellingham.\n\nEngland play Messi's Argentina on Wednesday in the second semi-final (20:00 BST). The match is live on BBC One, BBC iPlayer, the BBC Sport website and app, and BBC Radio 5 Live.\n\n\"In terms of best in the world I think you're looking at someone like Mbappe or Haaland,\" Rooney said onThe Wayne Rooney Show.\n\n\"Bellingham hasn't quite hit those levels at Real Madrid this season, but he's been the best player in the tournament for me.\"\n\nBellingham, 23, has become a big-game player for England - with nine goals and three assists in World Cups and European Championships.\n\nHis Real Madrid team-mate Mbappe - with 12 - is the only European player to have scored more than nine goals in a major tournament before the age of 24.\n\nBellingham has averaged a goal or assist every 138 minutes at major tournaments for England, compared to one every 284 minutes in other international matches.\n\nHe scored in the group wins over Croatia and Panama at this World Cup, then twice against both Mexico and Norway in the knockout stage.\n\n\"With Jude, it's all about energy, passion, desire, drive and that's how he's getting his rewards,\" said Rooney.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4414_2",
+            "category": "england",
+            "type": "News",
+            "title": "'Extremely happy' Deschamps gets the farewell game no-one wants",
+            "bullets": [
+              "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.",
+            "fullText": "Spain into World Cup final after dominant victory over France\n\nDidier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.\n\nThe dreams of the 57-year-old, who won the World Cup as both a player (in 1998) and a manager (in 2018), winning it a third time are over after their2-0 defeat by Spainin Tuesday's first semi-final.\n\nHaving danced their way through the tournament with a series of impressive attacking displays, France managed just 10 shots all match in Dallas, their lowest total in the World Cup, with an expected goals of just 0.3 as they belied their pre-match tag of overwhelming favourites.\n\nFormer France midfielder Patrick Vieira told ITV: \"They haven't shown up. I was expecting more. There was a big expectations for France to win the World Cup.\n\n\"France will all disappointed by the result and the performance. All our top players went missing. Collectively we were really bad.\"\n\nMbappe appeared to criticise France's tactics, adding: \"We were three against two in midfield, and against Spain that's hard.\n\n\"There was a lack of communication on the press. We should have done man-to-man press and forced them to run with us.\n\n\"When you don't do what you have to do in a World Cup semi-final, you don't win. Spain respected their gameplan and what the team usually does.\n\n\"They are better than us at controlling a game. We didn't manage to do it. We were too sloppy technically. We could not hurt them when we could have.\"\n\nIt will be zero consolation but Deschamps, in charge since 2012, set a record in Dallas for most World Cup games managed - 26.\n\nHe previously shared the mark of 25 with ex-West Germany boss Helmut Schon.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4415_3",
+            "category": "england",
+            "type": "News",
+            "title": "Pressure is on world champions Argentina in semi-final - Guehi",
+            "bullets": [
+              "England defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face the reigning champions in the World Cup semi-finals.",
+            "fullText": "Marc Guehi has featured in all six matches for England at this World Cup\n\nEngland defender Marc Guehi insists the pressure is on Argentina as the Three Lions prepare to face the reigning champions in the World Cup semi-finals.\n\nWednesday's match in Atlanta (20:00 BST) is England's second semi-final in three World Cups, but they have not reached the final since winning the tournament in 1966.\n\nTo do so this year they have to overcome Argentina, who they will face for the sixth time at a World Cup in the latest chapter of one ofinternational football's biggest rivalries.\n\nFromDiego Maradona's infamous 'Hand of God' goalin 1986 toDavid Beckham's red card12 years later, games between the two nations have rarely lacked drama.\n\n\"The pressure is on them, they are the world champions,\" said Guehi before the last-four tie.\n\nThomas Tuchel's sideovercame Norway 2-1after extra time to book their place in the semi-final at Atlanta Stadium,which will be broadcast live on BBC One and BBC iPlayer.\n\nEight years ago in Moscow,England were knocked out by Croatiaat this stage, having led 1-0 after Kieran Trippier's fifth-minute free-kick.\n\n\"It's the game of your life. You have do what you can for your country,\" said Manchester City centre-back Guehi, 26.\n\nWatch live on BBC One and BBC iPlayer (UHD coverage available) from 19:00 BST. Listen to build-up and full match commentary on BBC Radio 5 Live and BBC Sounds from 18:00 BST. Follow TV and radio coverage, plus live text updates, in-play video clips, post-match highlights and analysis on the BBC Sport website and app.\n\nThomas Tuchel was appointed as England manager in January 2025\n\nEngland boss Thomas Tuchel said there is no issue between him and Jude Bellingham after the midfielder's response to the German's criticism of the performance against Norway.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4415_4",
+            "category": "england",
+            "type": "News",
+            "title": "Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
+            "bullets": [
+              "Brilliant buildup play has often withered but control and flawless execution overcame France’s more ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaosWhen the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars.Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes. One semi-final has been distilled down to MESSI v KANE (or MESSI v BELLINGHAM, depending on the broadcaster). The other leaned heavily on hope that Lamine Yamal’s hamstring would finally be at 100% after his April injury. MBAPPÉ v 600 PASSES PER GAME isn’t so snappy. Continue reading...",
+            "fullText": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos\n\nWhen theWorld Cupcame to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars.\n\nFox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes. One semi-final has been distilled down to MESSI v KANE (or MESSI v BELLINGHAM, depending on the broadcaster). The other leaned heavily on hope that Lamine Yamal’s hamstring would finally be at 100% after his April injury. MBAPPÉ v 600 PASSES PER GAME isn’t so snappy.\n\nSpain, despite entering as Europe’s reigning champions, have not garnered the same adoration in their run to a second World Cup final as their fellow semi-finalists. Many wondered how they could possibly contend withFrance. Online skeptics dished out a greater dishonor, accusing Luis de la Fuente’s side of being boring.\n\nThere was no hero’s shot of Spain’s coach bellowing to the 70,176 fans in Dallas, asking whetherthey were not entertained. That isn’t the prize he and his charges are after. Any viewer is allowed to think Spain are dull compared with more breakneck alternatives at the World Cup but, as France learned on Tuesday, their approach is lethal when executed as planned.\n\nAt Euro 2024, De la Fuente’s side operated in a similar style en route to their fourth continental title. They were a team determined to finish their opponents by making them suffer without the ball. Rodri cemented his Ballon d’Or case by anchoring the midfield and affording his teammates greater attacking involvement with expert shielding. Álvaro Morata made his critics eat crow by finishing the chances provided to him, finally the line-leader to actualize Spain’s potential. On either flank were the world’s trickiest young wingers: Nico Williams to his left, Lamine Yamal to his right.\n\nMost of those pieces returned for this World Cup. From the back, Unai Simón has left his box with some regularity as the team station themselves further upfield. Rodri has been in rare form this summer, a refreshing sight after an injury-riddled 2025-26 that followed the previous year’s anterior cruciate ligament tear. Fabián Ruiz has stepped up as a capable double‑pivot partner, spraying balls up the flank if the lanes to Dani Olmo aren’t glowing.\n\nYet most of the focus has been on Spain’s relative inability to turn top-notch team play into goals. Lamine Yamal and Williams arrived fresh off of spring injuries; Williams has played 98 minutes in seven matches and Lamine Yamal is not quite at his unplayable best. Morata missed out on the squad owing to poor form with Como. To sum up, Spain’s brilliant buildup has too often withered upon entering the final third.\n\nSystem play like Spain’s looks far less glamorous without a commanding frontman. Like Queen without Freddie Mercury or U2 without Bono, even the best basslines and beats become background noise without someone commanding attention. A healthier Lamine Yamal might have been that kind of player but, in reality, this has been a World Cup dominated by strikers and goalkeepers, not the inverted wingers who have come to dominate the Champions League and Premier League in recent years.\n\nThen again, Lamine Yamal did have a crucial impact in the game against France. Attackers know to look for overcommitted and unaware defenders making off-ground clearances, asMathys Tel found in May. As Lucas Digne readied to side-volley a clearance, he created a window for Lamine Yamal to exploit without the ball. There’s no assist on Lamine Yamal’s ledger for drawing a penalty, but his was an act which created a 0.78xG chance in a game of fine margins.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFrom there, Spain’s control and flawless execution overcame France’s more variable chaos. Aside from against Paraguay, a team playing with less talent on paper, France played over and through lesser-organized opposition. Their ruthlessness against those opponents branded them as tournament favorites despite a fairly plush path to the quarter-finals. Morocco were supposed to give the test they needed but showed up in Foxborough looking dazed and out of ideas before the opening whistle.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4415_5",
+            "category": "england",
+            "type": "News",
+            "title": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video",
+            "bullets": [
+              "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is far more complex, says the Guardian’s Jonathan Liew.It began with British influence, raising Argentina as a ‘faithful son’ in their own image through polo, tea, and football. But decades of nationalist rejection, iconic World Cup clashes, and a war over the Falkland Islands turned them into ultimate footballing antagonists.Yet, the two teams haven't played a match in over twenty years. Lionel Messi has never faced England. In an era of over-saturated, commercialised sport, this scarcity has kept the romance of their rivalry alive. Because underneath the bad blood, there is a deep, mutual fascination: two nations that probably revere each other far more than they’d ever care to admit.Love and hate collide: England v Argentina is not simply a grudge match Continue reading...",
+            "fullText": "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is far more complex, says the Guardian’s Jonathan Liew.\n\nIt began with British influence, raising Argentina as a ‘faithful son’ in their own image through polo, tea, and football. But decades of nationalist rejection, iconic World Cup clashes, and a war over the Falkland Islands turned them into ultimate footballing antagonists.\n\nYet, the two teams haven't played a match in over twenty years. Lionel Messi has never faced England. In an era of over-saturated, commercialised sport, this scarcity has kept the romance of their rivalry alive. Because underneath the bad blood, there is a deep, mutual fascination: two nations that probably revere each other far more than they’d ever care to admit.\n\nLove and hate collide: England v Argentina is not simply a grudge match",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-15 @ 12:22:36 EDT",
+  "lastUpdated": "2026-07-15 @ 15:44:22 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
