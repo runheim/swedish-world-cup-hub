@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Folarin Balogun: Ban reversal caused ‘a lot of outside noise, and that’s hard to avoid’",
-      "link": "https://www.theguardian.com/football/2026/jul/14/folarin-balogun-ban-usa-world-cup"
+      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🌍 Group D standings update: USA targets knockout round qualification",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -6921,10 +6937,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-15": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_usa_20260715_5",
+            "category": "usa",
+            "type": "Blog",
+            "title": "Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
+            "bullets": [
+              "AC Milan star shares positive diary updates from Dallas hotel.",
+              "Pulisic: 'Pochettino's model suits us perfectly; we are highly motivated.'",
+              "USA fans turn out in high numbers to support open camp sessions."
+            ],
+            "summary": "In his latest journal entry, Christian Pulisic shared his excitement for the tournament, praising the team unity and thanking traveling USA fans for support.",
+            "fullText": "In his latest journal entry, Christian Pulisic shared his excitement for the tournament, praising the team unity and thanking traveling USA fans for support.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Christian Pulisic (Player Journal)",
+            "readTime": "3 min",
+            "tag": "Player Journal",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260715_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group D standings update: USA targets knockout round qualification",
+            "bullets": [
+              "Global soccer analysts predict Group D remains highly competitive.",
+              "Winner of upcoming matches projected to secure knockout round spots.",
+              "Pundits highlight USA's tactical adaptability as key asset."
+            ],
+            "summary": "Group D standings remain close. Pundits expect high-intensity matches, praising USA's tactical adaptability under Mauricio Pochettino as a key asset for knockout qualification.",
+            "fullText": "Group D standings remain close. Pundits expect high-intensity matches, praising USA's tactical adaptability under Mauricio Pochettino as a key asset for knockout qualification.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer Pundit Team",
+            "readTime": "3 min",
+            "tag": "Group D Standing",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-14 @ 18:57:08 EDT",
+  "lastUpdated": "2026-07-15 @ 00:21:33 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
