@@ -33075,6 +33075,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Don't forget the media duties at 2pm lads.",
       "time": "06:56",
       "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Don't forget the media duties at 2pm lads.",
+      "time": "13:01",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "13:02",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Early night for me. Need the recovery.",
+      "time": "13:03",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Pitch is looking immaculate out there.",
+      "time": "13:04",
+      "isCaptain": false
+    },
+    {
+      "sender": "Trent Alexander-Arnold",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "13:05",
+      "isCaptain": false
     }
   ]
 };
