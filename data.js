@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gio Reyna and Weston McKennie log impressive training sessions",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Scouts monitor USA's wide pressing lanes and transition speed",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Arsène Wenger: US soccer development will depend on ‘consistency’ and ‘education’",
+      "link": "https://www.theguardian.com/football/2026/jul/16/arsene-wenger-us-soccer-development"
     }
   ],
   "timeline": {
@@ -7278,11 +7262,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5657_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Arsène Wenger: US soccer development will depend on ‘consistency’ and ‘education’",
+            "bullets": [
+              "Former Arsenal boss calls out US pay-to-play modelWenger says academy setups are vital for growthArs...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former Arsenal boss calls out US pay-to-play modelWenger says academy setups are vital for growthArsène Wenger, Fifa’s head of global football development, has said that while the US faced numerous structural obstacles to becoming a real soccer power, many of those obstacles are being addressed by leadership at the US Soccer Federation and Major League Soccer.Speaking Thursday in a roundtable with US Soccer chief executive JT Batson and chief operating officer Dan Helfrich, Wenger heaped praise on the federation for its new $250m headquarters in Fayetteville, Georgia, saying “I feel it’s important for every footballer, somewhere, to feel you’re at home.” Continue reading...",
+            "fullText": "Arsène Wenger, Fifa’s head of global football development, has said that while the US faced numerous structural obstacles to becoming a real soccer power, many of those obstacles are being addressed by leadership at the US Soccer Federation and Major League Soccer.\n\nSpeaking Thursday ina roundtablewith US Soccer chief executive JT Batson and chief operating officer Dan Helfrich, Wenger heaped praise on the federation for its new $250m headquarters in Fayetteville, Georgia, saying “I feel it’s important for every footballer, somewhere, to feel you’re at home.”\n\n“We push, with the support of our president [Gianni Infantino], a lot to develop football in the States,” Wenger said, “because [of] diversity, what football likes and what makes football strong, because [there’s] a quantity, 350 million people, and I’m sure there is talent. We [at Fifa] are working together to give a chance to everybody to develop the game and to love the game.”\n\nHowever, Wenger cautioned, there is plenty of work to be done on the pitches that surround the complex. The former Arsenal boss said that there was “no alignment on the global policy of technical development” in the United States until very recently, but stressed that, considering the context of this country’s sprawling geography and disparate soccer ecosystem, decisions on how to move forward should be made by the federation, not Fifa.\n\nThat said, Wenger had some notable criticisms of the US soccer development system – namely the pay-to-play model that can see fees for youth soccer participation rise into the tens of thousands per year for families.\n\n“From outside, I felt that people from a poor background had no real access to the game,” Wenger observed, “and that is quite a big part of a population. Usually, the best football players come from poor backgrounds, and so maybe there’s a job to do there as well to make it possible and available for everybody and, after, to be consistent because it’s not a short-term fix.”\n\nWenger compared the current effort, which has seen teams in MLS, the United Soccer League (USL) and other leagues begin free-to-play academy setups for a region’s elite players, to one undertaken by his home country decades ago.\n\n“I was part of the opening of the first academies in France and it took 10 years. 1973, the first academy opened in France. 1984, France won the European Championship. You have to be consistent, and one of the things that is the most neglected is an identification of talent. It demands an eye. It demands an education. It demands consistency, to always give a chance to young players, to identify who has talent in five years – not now – and that is not easy to develop in every country.”\n\nBefore the topic shifted, Batson stressed that it isn’t a thrifty undertaking.\n\n“This will take time and it will be hard and you have to commit and really stick to it,” Batson said. “And I think that is our commitment, to do that. But I think ultimately, this does take resources.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\n“It’s not a coincidence that the teams that have gone the furthest in this tournament are some of the best-resourced federations in the world. They are able to ensure that there’s access. They’re able to ensure there’s great opportunity. They’re able to ensure there’s great coaching. And they have great government support. They have great community support. They have great professional club support. And so everyone’s working together with a shared mission to bring this to life. And I think that’s the opportunity we have coming out of the summer.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-16 @ 15:40:21 EDT",
+  "lastUpdated": "2026-07-16 @ 18:57:05 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
