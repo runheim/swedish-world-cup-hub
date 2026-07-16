@@ -4,20 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ 'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ce8l15903k8o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Argentina shatter England's World Cup dreams in semi-final",
       "link": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Tuchel retains FA backing despite England defeat",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly5ljl414xo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Argentina face disciplinary action over Falklands banner after semi-final",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'The change didn't work' - England player ratings",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2w3rqp6w1o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Argentina face fine for displaying Falklands banner after semi-final",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c935pgr4dklo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Argentina shatter England's World Cup dreams in semi-final",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwy059qwdg4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ 'No regrets' - Tuchel on England's defeat by Argentina",
@@ -28,44 +32,56 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/czrjg3j4jx1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Bellingham best player at World Cup - Rooney",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ 'Extremely happy' Deschamps gets the farewell game no-one wants",
-      "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Gordon puts England ahead against Argentina",
       "link": "https://www.bbc.co.uk/sport/football/videos/c07re9rxd29o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Bellingham best player at World Cup - Rooney",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yzy0kl2gzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ All the goals from England's 2026 World Cup campaign so far",
       "link": "https://www.bbc.co.uk/sport/videos/cewqex0vl85o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Pressure is on world champions Argentina in semi-final - Guehi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp8l87vevj2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ 'Extremely happy' Deschamps gets the farewell game no-one wants",
+      "link": "https://www.bbc.co.uk/sport/football/articles/czx5x14v5w2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Argentina’s late double breaks England hearts in dramatic World Cup semi-final",
       "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-match-report"
     },
     {
+      "text": "⚽ Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/jul/16/lionel-messi-england-argentina-world-cup"
+    },
+    {
       "text": "⚽ England 1-2 Argentina: World Cup semi-final player ratings",
       "link": "https://www.theguardian.com/football/2026/jul/15/england-argentina-world-cup-semi-final-player-ratings"
     },
     {
-      "text": "⚽ Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
-      "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final"
+      "text": "⚽ 'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit – video",
+      "link": "https://www.theguardian.com/football/video/2026/jul/16/gutted-harry-kane-on-messi-argentina-and-devastation-of-world-cup-semi-final-exit-video"
     },
     {
       "text": "⚽ War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video",
       "link": "https://www.theguardian.com/football/video/2026/jul/15/war-culture-empire-and-football-england-and-argentinas-deep-romantic-rivalry-video"
     },
     {
+      "text": "⚽ Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
+      "link": "https://www.theguardian.com/football/2026/jul/15/spain-game-plan-france-fifa-world-cup-semi-final"
+    },
+    {
       "text": "⚽ Kane: Holding on was not enough against Argentina",
       "link": "https://www.skysports.com/football/news/12040/13563844/england-out-of-world-cup-harry-kane-says-holding-on-was-not-enough-against-argentina"
+    },
+    {
+      "text": "⚽ How Tuchel's changes spectacularly backfired to unravel England",
+      "link": "https://www.skysports.com/football/news/12040/13563777/thomas-tuchel-how-england-unravelled-after-ezri-konsa-substitution-as-familiar-failings-rob-three-lions-of-world-cup-final-place"
+    },
+    {
+      "text": "⚽ Tuchel vows to remain as England head coach after Argentina defeat",
+      "link": "https://www.skysports.com/football/news/12040/13563857/thomas-tuchel-england-head-coach-vows-to-remain-until-euro-2028-despite-world-cup-semi-final-loss-to-argentina"
     }
   ],
   "timeline": {
@@ -28707,10 +28723,358 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-16": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3007_0",
+            "category": "england",
+            "type": "News",
+            "title": "'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?",
+            "bullets": [
+              "England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England went 1-0 up against Argentina before slumping to a heart-breaking semi-final defeat. But did boss Thomas Tuchel's \"negative\" tactics cost the Three Lions a place in the World Cup final?",
+            "fullText": "'The decisions Tuchel made cost England' - analysis\n\nEngland were on the cusp of reaching their first men's World Cup final since 1966.\n\nThey were 1-0 up against reigning world champions Argentina when the clock inside Atlanta Stadium ticked to 84 minutes - and then it all went horribly wrong.\n\nEnzo Fernandez equalised with a thumping strike in the 85th minute before Lautaro Martinez headed a 92nd-minute winner - both goals coming from assists by Lionel Messi.\n\nJust like that, England's World Cup dreamslay in ruins.\n\nThey had worked so hard to take the lead through Anthony Gordon in the 55th minute - and then sat back and paid the price.\n\nThe decision by England boss Thomas Tuchel to go defensive backfired spectacularly.\n\nInstead it is Argentina who go through to Sunday's showpiece against Spain at New York New Jersey Stadium (20:00 BST kick-off).\n\nBut should England have gone for the kill when they went 1-0 up?\n\nThey did not - and had just 12% of possession from going ahead to conceding the second goal.\n\nTuchel only sent on forwards Marcus Rashford and Ivan Toney deep into stoppage time, while defenders Ezri Konsa, Dan Burn and Nico O'Reilly were introduced after the Three Lions took the lead.\n\n\"We have crumbled,\" former England captain Wayne Rooney told BBC Sport.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3007_1",
+            "category": "england",
+            "type": "News",
+            "title": "Argentina shatter England's World Cup dreams in semi-final",
+            "bullets": [
+              "Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock o...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock out Thomas Tuchel's side, in a dramatic semi-final in Atlanta.",
+            "fullText": "Argentina shatter England's World Cup dreams, scoring two late goals to come from behind and knock out Thomas Tuchel's side in a dramatic semi-final in Atlanta.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3007_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel retains FA backing despite England defeat",
+            "bullets": [
+              "Thomas Tuchel retains the backing of the Football Association despite England failing to reach the W...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel retains the backing of the Football Association despite England failing to reach the World Cup final.",
+            "fullText": "'No regrets' - Tuchel on England's defeat against Argentina\n\nEngland head coach Thomas Tuchel retains the backing of the Football Association and is expected to lead the team into Euro 2028.\n\nA2-1 defeat by Argentinaon Wednesday meant England's men missed out on a first World Cup final appearance since 1966.\n\nTuchel was criticised for his substitutions as England squandered a 1-0 lead late on, but he has the full backing of FA chief executive Mark Bullingham.\n\nThe Germansigned a two-year contract extensionin February having been appointed in January 2025 on an 18-month mission to win the World Cup.\n\nThe 2028 European Championship finals are being hosted by England, Wales, Scotland and the Republic of Ireland, and it was said that Tuchel viewed leading the side into a home Euros as a rare opportunity.\n\nArgentina shatter England's World Cup dreams in semi-final\n\nEngland will face France in the bronze-medal match on Saturday (22:00 BST) - and victory will mean this is their best performance in a men's World Cup since 1966.\n\n\"It is heartbreaking to be so close,\" said Bullingham.\n\n\"The players and Thomas gave it everything today and the squad, coaches and staff could not have worked harder during the tournament.\n\n\"I would like to thank them all - and also give my heartfelt thanks to our wonderful fans here in the USA and at home.\"\n\nDespite the disappointment of losing in the semi-final, England's progress will be viewed internally as a relative success.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3008_3",
+            "category": "england",
+            "type": "News",
+            "title": "Argentina face disciplinary action over Falklands banner after semi-final",
+            "bullets": [
+              "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Argentina face the prospect of disciplinary action from Fifa after their players celebrate the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.",
+            "fullText": "Argentina's players display their controversial banner after their win over England\n\nArgentina face the prospect of disciplinary action from Fifa after their players celebrated the World Cup semi-final win against England with a banner in support of their country's claims to the Falkland Islands.\n\nThe defending world champions produced a dramatic late comeback in Atlanta, scoring twiceto defeat Thomas Tuchel's side 2-1and book a showdown with Spain in Sunday's final.\n\nAfter the final whistle, Argentina players celebrated while holding a banner reading \"Las Malvinas son Argentinas\", which translates as \"The Falklands are Argentine\".\n\nThe Falkland Islands, a British overseas territory in the south-west Atlantic Ocean, remain the subject of a sovereignty dispute between Britain and Argentina.\n\nThe two nations went to war over the group of islands, situated 300 miles off Argentina's east coast, from April to June 1982.\n\nThe 74-day conflict led to the deaths of 655 Argentine and 255 British servicemen. Three people from the islands also died.\n\nIn 2014,Fifa fined the Argentine Football Association Â£20,000after its players held up a banner with the same message before a friendly against Slovenia.\n\nWorld football's governing body said the gesture had breached rules on political action and team misconduct.\n\n'That's why he's the king' - Messi sets up third World Cup final\n\nEngland suffer World Cup semi-final heartbreak with loss to Argentina\n\nAfter Wednesday's victory, Argentina vice-president Victoria Villarruelposted on X,external, writing \"it wasn't just another match\" alongside a video of what appeared to be Argentine soldiers.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3008_4",
+            "category": "england",
+            "type": "News",
+            "title": "'The change didn't work' - England player ratings",
+            "bullets": [
+              "BBC Sport's England reporter Alex Howell rates the players after the Three Lions lost to Argentina i...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport's England reporter Alex Howell rates the players after the Three Lions lost to Argentina in the World Cup semi-final.",
+            "fullText": "'The decisions Tuchel made cost England' - analysis\n\nEngland missed out on a first men's World Cup final since 1966 as holders Argentina came from behind to reach back-to-back finals.\n\nBBC Sport England reporterAlex Howellassesses how the players performed in Atlanta on Wednesday - and you can see how BBC Sport readers rated them at the bottom of the page too.\n\nJordan Pickford:The England number one was a lot more assured than in the previous match with Norway. As Argentina sat deep, Pickford had the ball at his feet a lot and could threaten in behind the defence with his kicking. One poor pass which could have ended in an Argentina attack. One excellent save from a close range header to keep England in front but then beaten by a Fernandez strike late on before England lost.7\n\nReece James:It was a big call for Tuchel to bring James back in from the start but it was a decision that nearly paid off. The right-back produced a quality performance going forward and defending too but the whole defence tired before Martinez scored a stoppage-time winner.7\n\nJohn Stones:A game which highlighted why Tuchel has always been so keen to have him in the side as the England back four had a lot of possession of the ball. A calming presence in a game with extremely high levels of tension. Unfortunately for Stones he missed his header as Martinez scored the winner.6\n\nMarc Guehi:It was another dependable performance from Guehi who went under the radar for how solid he was throughout the match.7\n\nDjed Spence:Continued where he left off from his impressive substitute performance against Norway. A great one-v-one defender and his pace offered England a threat in behind when Anthony Gordon went central. Got caught out once but Pickford produced the save. A memorable last-ditch tackle to stop Simeone.8\n\nElliot Anderson:Got on the ball often and kept it ticking over in the England midfield. Best in-possession game of the World Cup. Anderson took the ball in difficult areas and broke up the play too. Managed himself excellently after picking up a yellow card in the first half but it wasn't enough to get England over the line.8\n\nDeclan Rice:Rice looked back to himself after shaking off illness. Covered a lot of ground as usual and linked up with James and Morgan Rogers on the right. His powerful run was a big reason why England took the lead. However, he could not help his side get over the line.7\n\nJude Bellingham:Dealt well with the dark arts in the middle of the pitch very well. Great run to win a free-kick in a dangerous position in the first half. Bellingham looked to carry the ball up the pitch as much as possible and provided a continuous threat. An immense work-rate.7\n\nMorgan Rogers:Brought in on the right-hand side and pressed with real intensity alongside Gordon. His ability to run with the ball gave England an outlet when Argentina grew into the match. Provided the assist for Gordon's goal.7",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3008_5",
+            "category": "england",
+            "type": "News",
+            "title": "'No regrets' - Tuchel on England's defeat by Argentina",
+            "bullets": [
+              "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World C...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium.",
+            "fullText": "England manager Thomas Tuchel believes his team \"got too passive\" after scoring first in the World Cup semi-final against Argentina, which they lost 2-1 at Atlanta Stadium.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3008_6",
+            "category": "england",
+            "type": "News",
+            "title": "'Gutted' - Kane disappointed over World Cup exit",
+            "bullets": [
+              "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
+            "fullText": "England captain Harry Kane gives his analysis on their defeat against Argentina in the 2026 World Cup semi-final at Atlanta Stadium.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3009_7",
+            "category": "england",
+            "type": "News",
+            "title": "Gordon puts England ahead against Argentina",
+            "bullets": [
+              "Anthony Gordon puts England 1-0 up against Argentina in the 2026 World Cup semi-final at the Atlanta...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anthony Gordon puts England 1-0 up against Argentina in the 2026 World Cup semi-final at the Atlanta Stadium.",
+            "fullText": "Anthony Gordon puts England 1-0 up against Argentina in the 2026 World Cup semi-final at the Atlanta Stadium.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3009_8",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham best player at World Cup - Rooney",
+            "bullets": [
+              "Jude Bellingham has been the best player at the World Cup so far, says former England striker Wayne ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham has been the best player at the World Cup so far, says former England striker Wayne Rooney.",
+            "fullText": "Bellingham scores extra-time winner as England reach semi-finals\n\nJude Bellingham has been the best player at the World Cup so far, says former England striker Wayne Rooney.\n\nReal Madrid midfielder Bellingham has scored six goals in six games for England, leaving him only two behind France's Kylian Mbappe and Argentina's Lionel Messi in the Golden Boot standings.\n\nErling Haaland, whose Norway side were eliminated by England in the quarter-finals, is on seven while Three Lions captain Harry Kane is level with Bellingham.\n\nEngland play Messi's Argentina on Wednesday in the second semi-final (20:00 BST). The match is live on BBC One, BBC iPlayer, the BBC Sport website and app, and BBC Radio 5 Live.\n\n\"In terms of best in the world I think you're looking at someone like Mbappe or Haaland,\" Rooney said onThe Wayne Rooney Show.\n\n\"Bellingham hasn't quite hit those levels at Real Madrid this season, but he's been the best player in the tournament for me.\"\n\nBellingham, 23, has become a big-game player for England - with nine goals and three assists in World Cups and European Championships.\n\nHis Real Madrid team-mate Mbappe - with 12 - is the only European player to have scored more than nine goals in a major tournament before the age of 24.\n\nBellingham has averaged a goal or assist every 138 minutes at major tournaments for England, compared to one every 284 minutes in other international matches.\n\nHe scored in the group wins over Croatia and Panama at this World Cup, then twice against both Mexico and Norway in the knockout stage.\n\n\"With Jude, it's all about energy, passion, desire, drive and that's how he's getting his rewards,\" said Rooney.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3009_9",
+            "category": "england",
+            "type": "News",
+            "title": "All the goals from England's 2026 World Cup campaign so far",
+            "bullets": [
+              "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England gear up to face Norway at the Miami Stadium for the World Cup quarter-finals, re-live all the goals that got Thomas Tuchel's side there.",
+            "fullText": "Re-live all the goals scored by England so far, as Thomas Tuchel's side gear up to face Argentina in their World Cup semi-final.\n\nREAD MORE:Who else? How Bellingham became indispensable again\n\nWatch England in the World Cup semi-final live on BBC One and BBC iPlayer, Wednesday 15 July, 19:00 BST.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3009_10",
+            "category": "england",
+            "type": "News",
+            "title": "'Extremely happy' Deschamps gets the farewell game no-one wants",
+            "bullets": [
+              "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Didier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.",
+            "fullText": "Spain into World Cup final after dominant victory over France\n\nDidier Deschamps' long, storied career with France will come to an end not how he would have wanted it - in Saturday's World Cup third-place play-off.\n\nThe dreams of the 57-year-old, who won the World Cup as both a player (in 1998) and a manager (in 2018), winning it a third time are over after their2-0 defeat by Spainin Tuesday's first semi-final.\n\nHaving danced their way through the tournament with a series of impressive attacking displays, France managed just 10 shots all match in Dallas, their lowest total in the World Cup, with an expected goals of just 0.3 as they belied their pre-match tag of overwhelming favourites.\n\nFormer France midfielder Patrick Vieira told ITV: \"They haven't shown up. I was expecting more. There was a big expectations for France to win the World Cup.\n\n\"France will all disappointed by the result and the performance. All our top players went missing. Collectively we were really bad.\"\n\nMbappe appeared to criticise France's tactics, adding: \"We were three against two in midfield, and against Spain that's hard.\n\n\"There was a lack of communication on the press. We should have done man-to-man press and forced them to run with us.\n\n\"When you don't do what you have to do in a World Cup semi-final, you don't win. Spain respected their gameplan and what the team usually does.\n\n\"They are better than us at controlling a game. We didn't manage to do it. We were too sloppy technically. We could not hurt them when we could have.\"\n\nIt will be zero consolation but Deschamps, in charge since 2012, set a record in Dallas for most World Cup games managed - 26.\n\nHe previously shared the mark of 25 with ex-West Germany boss Helmut Schon.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3010_11",
+            "category": "england",
+            "type": "News",
+            "title": "Argentina’s late double breaks England hearts in dramatic World Cup semi-final",
+            "bullets": [
+              "England hearts broken after turnaround in AtlantaIn pictures: our pick of the best big-match imagesE...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England hearts broken after turnaround in AtlantaIn pictures: our pick of the best big-match imagesEngland’s destiny is tournament heartbreak. The only question concerns when it comes and how the fates will contrive to make it as painful as possible. This was an implausibly brutal new low.Thomas Tuchel’s team had fought fire with fire on an occasion that was overloaded with shredded nerves. The first half was a physical fight; it was gripping all the same. And the possibilities seemed endless for England when Anthony Gordon put them in front shortly after half-time. A first appearance in the World Cup final since 1966 looked on. Continue reading...",
+            "fullText": "England’s destiny is tournament heartbreak. The only question concerns when it comes and how the fates will contrive to make it as painful as possible. This was an implausibly brutal new low.\n\nThomas Tuchel’s team had fought fire with fire on an occasion that was overloaded with shredded nerves. The first half was a physical fight; it was gripping all the same. And the possibilities seemed endless for England when Anthony Gordon put them in front shortly after half-time. A first appearance in theWorld Cupfinal since 1966 looked on.\n\nArgentina were not finished. There has been a feeling during this tournament that they are beatable, and yet nobody has beaten them. There is a reason for that. Their champion courage. They dug deep into it in the closing stages to complete one of their greatest fightbacks. That it came against England, the old enemy, made it even sweeter.\n\nThe regrets belonged to England. Tuchel sought to preserve what he had in the final quarter with a switch to a back five, Ezri Konsa coming on for Gordon and playing as the right‑sided centre-half. The head coach had successfully seen out the 3-2 win against Mexico in the last 16 with five defenders on a night when his team were down to 10 men. There was no repeat here.\n\nThe frustration was that the tactical shift invited Argentina to press on to the front foot. Tuchel played with fire. Argentina dominated the closing stages. It was their attack versus England’s defence and the equaliser was well signposted. That it came as late as the 86th minute only added to England’s devastation. They were so close.\n\nEnzo Fernández scored it with a fierce drive after Argentina had worked a short corner via Lionel Messi and England were floored before they could stagger on into extra time. They thought they had escaped when Alexis Mac Allister sent a low shot against the post. It was the second time he had hit the woodwork. But Messi recycled the move on the right, jinked and crossed deep. Lautaro Martínez was unmarked and when the Argentina substitute headed home England were primed to do likewise.\n\nIt has been a strange tournament for Tuchel and his players, the feeling difficult to shake that the results up to this point had outstripped the performance levels. They did not do enough when it mattered the most against Argentina, especially in creative terms. They barely threatened Emi Martínez’s goal. And when defensive resilience was demanded towards the end, it was not there.\n\nArgentina deserved to advance to the final against Spain on Sunday. For England, there was only the beginnings of a familiar inquest.\n\nIt was a night when the history framed everything. Nobody could ignore it and not only because of how loudly the Argentina supporters chanted the line about Las Malvinas in their World Cup song. The echoes could be felt from the pitches of Mexico 86, France 98, and Japan & South Korea 2002 – the most recent tournament clashes between the nations.\n\nThe nervous tension pulsed and the first half was best summed up by the expected goals statistic: England’s stood at 0.05; Argentina’s was 0.03. The first effort on goal of any description did not arrive until the 33rd minute, John Stones heading well wide from a Declan Rice free‑kick. Fernández fizzed a drive high on 38 minutes.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe tackles flew in and tempers were rarely far from boiling point. A snapshot of the first 45 minutes? It was when Messi got the better of Djed Spence in the 37th minute and then evaded challenges from Harry Kane and Gordon. A split second later, in came Elliot Anderson to halt him with a body check. The England midfielder, who revelled in the intensity of the contest, was booked. It was a long way from being the only tactical foul.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3010_12",
+            "category": "england",
+            "type": "News",
+            "title": "Lionel Messi’s inevitable gravity bends another occasion in Argentina’s favour | Barney Ronay",
+            "bullets": [
+              "While England shrank away in Atlanta, Argentina’s No 10 was not finished making his mark on the bigg...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While England shrank away in Atlanta, Argentina’s No 10 was not finished making his mark on the biggest stageTo strive, to seek, to find, and not to yield. Well, not to this lot anyway. On a day of ceaseless rolling noise under Atlanta’s vast refrigerated dome, England reached the end of the road, the end of their own capacities at this World Cup, the end of the gears within this team. Mainly they ran into Lionel Messi, who wasn’t ready to be done just yet. Not like this anyway.With 55 minutes gone England were actually winning this game, 1-0 up thanks to Anthony Gordon’s goal, the only real moment of clarity they produced all match. At which point they simply disappeared as an animate entity from the stage. Continue reading...",
+            "fullText": "While England shrank away in Atlanta, Argentina’s No 10 was not finished making his mark on the biggest stage\n\nTo strive, to seek, to find, and not to yield. Well, not to this lot anyway. On a day of ceaseless rolling noise under Atlanta’s vast refrigerated dome, England reached the end of the road, the end of their own capacities at this World Cup, the end of the gears within this team. Mainly they ran intoLionel Messi, who wasn’t ready to be done just yet. Not like this anyway.\n\nWith 55 minutes goneEnglandwere actually winning this game, 1-0 up thanks to Anthony Gordon’s goal, the only real moment of clarity they produced all match. At which point they simply disappeared as an animate entity from the stage.\n\nEngland played poorly here. The substitutions had no effect. Harry Kane basically did some light cardio quite close to aWorld Cupsemi-final. But it was the change that really did for them, one of those moments where the clock starts to tick backwards, the skies darken, the cow really does appear to have jumped over the moon, and the energy inside the stadium is suddenly revolving entirely around that slouching, mooching figure in dark blue, who from a walking start had begun to do strange, painful things, to draw the spaces together, to make the objects around him revolve in his favour. And feeling also the lack of resistance coming the other way. Suddenly everyone out there was in the Messi space.\n\nFast forward to 91 minutes, the score somehow still 1-1, a scoreline that looked by now like a glitch, like temporary signage, and it was of course Messi who produced the final cut. By that stage England were strung like shipwrecked mariners around their own box, scurvy-ridden, desiccated, a single skinny hand somehow still fixed on the tiller.\n\nAlexis Mac Allister had just struck the post with a low shot. Djed Spence, who chased the day to the end here, managed to nip in front of Messi for a second and nick the ball away. But it was only ever on loan. Facing two full-backs now, Spence and Nico O’Reilly, Messi simply eased into the space where a third should have been, all alone in that portable little patch of green.\n\nThe cross from his right foot was perfectly, tactfully floated into the only logical area, like somebody very slowly and patiently explaining a maths problem. For a moment the ball just seemed to hang there, a lovely soft white orb, the day stretching out, as everyone in the stadium became Messi, seeing the moment before it happened.\n\nTime clicked forward again, Lautaro Martínez nodded the ball past a splayed Jordan Pickford and into the England net. And that was it, the outcome that was always coming from the moment Messi began to see the end of this game, to feel the snags, the subplots disappear, to see that it was time to apply his full force to the shapes in front of him.\n\nThere were some final spasms from the corpse of England’s tournament, although this was like watching a hackneyed stage-show version of England football, Dan Burn hurling his body around theArgentinabox under the high ball, flopping to the turf like a double mattress hurled from an upstairs window.\n\nBut the game was done. England had shrunk from this occasion, had failed to press when they might have, had ultimately been aura-mogged, erased by a form of sporting genius that even on its quieter, more muddled days will eventually find its shape.\n\nThe final whistle brought an endless rolling wave of noise. Although even here Messi kept on walking, finding space, dipping away from the prone bodies of his teammates, both fists pumping the air in the middle of all that heat and light.\n\nEngland were undeniably poor here, a semi-final that they basically tossed away. They produced almost no threat, no energy, no sense they had the capacity to seize the day. There will be time to assess that entropy, to find the faultlines, to wonder what might have been different, from selection to the deeply familiar sense of blinking in the light.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3010_13",
+            "category": "england",
+            "type": "News",
+            "title": "England 1-2 Argentina: World Cup semi-final player ratings",
+            "bullets": [
+              "Lionel Messi was at his effervescent best while Harry Kane struggled to make an impactJordan Pickfor...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lionel Messi was at his effervescent best while Harry Kane struggled to make an impactJordan Pickford Had little chance with either goal. Pulled off a sensational save from González but that will be forgotten now. 7 Continue reading...",
+            "fullText": "Lionel Messi was at his effervescent best while Harry Kane struggled to make an impact\n\nJordan PickfordHad little chance with either goal. Pulled off a sensational save from González but that will be forgotten now.7\n\nReece JamesDominated his flank and fully justified being brought back into the side after injury.7\n\nJohn StonesA rock at the back until the last 10 minutes when his lack of game time caught up with him.7\n\nMarc GuéhiMr Reliable in England’s defence didn’t put a foot wrong again and was unlucky to be on losing side.7\n\nDjed SpenceHas won over the doubters and then some. A Bobby Moore-esque tackle to stop Simeone.8\n\nElliot AndersonAnother all-action display. Booked for taking out Messi brutally but belongs at this level.7\n\nDeclan RiceLooked far more his usual self. But had to be taken off as England tried to protect their lead.6\n\nMorgan RogersPreferred in unusual role on right flank and showed why, by setting up Gordon brilliantly.7\n\nJude BellinghamFired up from the start, came close to losing his rag in injury time – couldn’t save England this time.6\n\nAnthony GordonHas come of age at this tournament. Will never forget scoring in aWorld Cupsemi-final.8\n\nHarry KaneIt was from his long pass that England scored. But he will be hugely disappointed not to have had more of an impact.5",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3010_14",
+            "category": "england",
+            "type": "News",
+            "title": "'Gutted' Harry Kane on Messi, Argentina and devastation of World Cup exit – video",
+            "bullets": [
+              "“I think there's not much to say. For now, everyone has to process what's just happened,” Harry Kane...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "“I think there's not much to say. For now, everyone has to process what's just happened,” Harry Kane said after the defending champions, Argentina, rallied to beat England 2-1 and reach the World Cup final against Spain on Sunday.Trailing 1-0 going into the last five minutes of regulation time, Enzo Fernández and the substitute Lautaro Martínez scored for Argentina. Anthony Gordon had given England the lead, but Lionel Messi and co had other ideas. Argentina pushed for an equaliser and the pressure eventually led to Fernández scoring in the 85th minute. Martinez headed the winner two minutes into injury time.“Everyone's gutted. I'm gutted for all the boys, all the staff, everyone behind the scenes, because we know how much everyone puts into being a successful national team,” said Kane. “When you're so close, when you're 10-plus minutes away and it slips out of your hands like that, obviously, the lads are devastated.”England hearts broken after turnaround in AtlantaIn pictures: our pick of the best big-match images Continue reading...",
+            "fullText": "“I think there's not much to say. For now, everyone has to process what's just happened,” Harry Kane said after the defending champions, Argentina, rallied to beat England 2-1 and reach the World Cup final against Spain on Sunday.Trailing 1-0 going into the last five minutes of regulation time, Enzo Fernández and the substitute Lautaro Martínez scored for Argentina. Anthony Gordon had given England the lead, but Lionel Messi and co had other ideas. Argentina pushed for an equaliser and the pressure eventually led to Fernández scoring in the 85th minute. Martinez headed the winner two minutes into injury time.“Everyone's gutted. I'm gutted for all the boys, all the staff, everyone behind the scenes, because we know how much everyone puts into being a successful national team,” said Kane. “When you're so close, when you're 10-plus minutes away and it slips out of your hands like that, obviously, the lads are devastated.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3010_15",
+            "category": "england",
+            "type": "News",
+            "title": "War, culture, empire and football: England and Argentina’s deep, romantic rivalry – video",
+            "bullets": [
+              "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is far more complex, says the Guardian’s Jonathan Liew.It began with British influence, raising Argentina as a ‘faithful son’ in their own image through polo, tea, and football. But decades of nationalist rejection, iconic World Cup clashes, and a war over the Falkland Islands turned them into ultimate footballing antagonists.Yet, the two teams haven't played a match in over twenty years. Lionel Messi has never faced England. In an era of over-saturated, commercialised sport, this scarcity has kept the romance of their rivalry alive. Because underneath the bad blood, there is a deep, mutual fascination: two nations that probably revere each other far more than they’d ever care to admit.Love and hate collide: England v Argentina is not simply a grudge match Continue reading...",
+            "fullText": "We often call England v Argentina a grudge match – a simple story of mutual hatred. But the truth is far more complex, says the Guardian’s Jonathan Liew.\n\nIt began with British influence, raising Argentina as a ‘faithful son’ in their own image through polo, tea, and football. But decades of nationalist rejection, iconic World Cup clashes, and a war over the Falkland Islands turned them into ultimate footballing antagonists.\n\nYet, the two teams haven't played a match in over twenty years. Lionel Messi has never faced England. In an era of over-saturated, commercialised sport, this scarcity has kept the romance of their rivalry alive. Because underneath the bad blood, there is a deep, mutual fascination: two nations that probably revere each other far more than they’d ever care to admit.\n\nLove and hate collide: England v Argentina is not simply a grudge match",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3010_16",
+            "category": "england",
+            "type": "News",
+            "title": "Lethal Spain execute plan to perfection against France on way to World Cup final | Jeff Rueter",
+            "bullets": [
+              "Brilliant buildup play has often withered but control and flawless execution overcame France’s more ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaosWhen the World Cup came to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars.Fox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes. One semi-final has been distilled down to MESSI v KANE (or MESSI v BELLINGHAM, depending on the broadcaster). The other leaned heavily on hope that Lamine Yamal’s hamstring would finally be at 100% after his April injury. MBAPPÉ v 600 PASSES PER GAME isn’t so snappy. Continue reading...",
+            "fullText": "Brilliant buildup play has often withered but control and flawless execution overcame France’s more variable chaos\n\nWhen theWorld Cupcame to North America, with its final held in the planet’s biggest media market, the tournament was bound to fixate on stars.\n\nFox’s coverage certainly enables that bias. Every game is billed like a boxing bout between two über-talented footballers rather than 22 players figuring things out across 90 minutes. One semi-final has been distilled down to MESSI v KANE (or MESSI v BELLINGHAM, depending on the broadcaster). The other leaned heavily on hope that Lamine Yamal’s hamstring would finally be at 100% after his April injury. MBAPPÉ v 600 PASSES PER GAME isn’t so snappy.\n\nSpain, despite entering as Europe’s reigning champions, have not garnered the same adoration in their run to a second World Cup final as their fellow semi-finalists. Many wondered how they could possibly contend withFrance. Online skeptics dished out a greater dishonor, accusing Luis de la Fuente’s side of being boring.\n\nThere was no hero’s shot of Spain’s coach bellowing to the 70,176 fans in Dallas, asking whetherthey were not entertained. That isn’t the prize he and his charges are after. Any viewer is allowed to think Spain are dull compared with more breakneck alternatives at the World Cup but, as France learned on Tuesday, their approach is lethal when executed as planned.\n\nAt Euro 2024, De la Fuente’s side operated in a similar style en route to their fourth continental title. They were a team determined to finish their opponents by making them suffer without the ball. Rodri cemented his Ballon d’Or case by anchoring the midfield and affording his teammates greater attacking involvement with expert shielding. Álvaro Morata made his critics eat crow by finishing the chances provided to him, finally the line-leader to actualize Spain’s potential. On either flank were the world’s trickiest young wingers: Nico Williams to his left, Lamine Yamal to his right.\n\nMost of those pieces returned for this World Cup. From the back, Unai Simón has left his box with some regularity as the team station themselves further upfield. Rodri has been in rare form this summer, a refreshing sight after an injury-riddled 2025-26 that followed the previous year’s anterior cruciate ligament tear. Fabián Ruiz has stepped up as a capable double‑pivot partner, spraying balls up the flank if the lanes to Dani Olmo aren’t glowing.\n\nYet most of the focus has been on Spain’s relative inability to turn top-notch team play into goals. Lamine Yamal and Williams arrived fresh off of spring injuries; Williams has played 98 minutes in seven matches and Lamine Yamal is not quite at his unplayable best. Morata missed out on the squad owing to poor form with Como. To sum up, Spain’s brilliant buildup has too often withered upon entering the final third.\n\nSystem play like Spain’s looks far less glamorous without a commanding frontman. Like Queen without Freddie Mercury or U2 without Bono, even the best basslines and beats become background noise without someone commanding attention. A healthier Lamine Yamal might have been that kind of player but, in reality, this has been a World Cup dominated by strikers and goalkeepers, not the inverted wingers who have come to dominate the Champions League and Premier League in recent years.\n\nThen again, Lamine Yamal did have a crucial impact in the game against France. Attackers know to look for overcommitted and unaware defenders making off-ground clearances, asMathys Tel found in May. As Lucas Digne readied to side-volley a clearance, he created a window for Lamine Yamal to exploit without the ball. There’s no assist on Lamine Yamal’s ledger for drawing a penalty, but his was an act which created a 0.78xG chance in a game of fine margins.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFrom there, Spain’s control and flawless execution overcame France’s more variable chaos. Aside from against Paraguay, a team playing with less talent on paper, France played over and through lesser-organized opposition. Their ruthlessness against those opponents branded them as tournament favorites despite a fairly plush path to the quarter-finals. Morocco were supposed to give the test they needed but showed up in Foxborough looking dazed and out of ideas before the opening whistle.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3011_17",
+            "category": "england",
+            "type": "News",
+            "title": "Kane: Holding on was not enough against Argentina",
+            "bullets": [
+              "England captain Harry Kane admitted trying to hold on to a 1-0 lead backfired as their World Cup hop...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane admitted trying to hold on to a 1-0 lead backfired as their World Cup hopes were ended by Argentina's late show in a 2-1 semi-final defeat.",
+            "fullText": "England lose World Cup semi-final to Argentina 2-1 in Atlanta; holders stun Three Lions with remarkable late comeback as they score twice in the space of seven minutes; Enzo Fernandez's leveller and Lautaro Martinez's stoppage-time winner sets up final against Spain",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3011_18",
+            "category": "england",
+            "type": "News",
+            "title": "How Tuchel's changes spectacularly backfired to unravel England",
+            "bullets": [
+              "Thomas Tuchel was England's gambler. A squad few others would have picked. A backs-to-the-wall win o...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel was England's gambler. A squad few others would have picked. A backs-to-the-wall win over Mexico. Starting Morgan Rogers based on \"a feeling from the coach\".",
+            "fullText": "England were on verge of first World Cup final since 1966 when Anthony Gordon fired Three Lions ahead against Argentina in Atlanta; Ezri Konsa's arrival only exasperats England's defensive inclinations as World Cup 2026 ends in heartbreak",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3011_19",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel vows to remain as England head coach after Argentina defeat",
+            "bullets": [
+              "Thomas Tuchel says he will stay on to lead England into Euro 2028 despite their World Cup semi-final...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Thomas Tuchel says he will stay on to lead England into Euro 2028 despite their World Cup semi-final defeat to Argentina.",
+            "fullText": "England lose World Cup semi-final to Argentina 2-1 in Atlanta; holders stun Three Lions with remarkable late comeback as they score twice in the space of seven minutes; Thomas Tuchel, extended his initial England contract through to Euro 2028 earlier this year",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-15 @ 18:58:28 EDT",
+  "lastUpdated": "2026-07-16 @ 00:30:19 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
