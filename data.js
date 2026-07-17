@@ -11815,10 +11815,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-17": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3624_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Marinakis, seafood and ‘sweet honey’ of Europe led Glasner to join Nottingham Forest",
+            "bullets": [
+              "Owner ‘even more ambitious than I am’Club pushing to sign Lucas Bergvall from TottenhamOliver Glasne...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Owner ‘even more ambitious than I am’Club pushing to sign Lucas Bergvall from TottenhamOliver Glasner said he wants to bring back the “sweet honey” of European football to Nottingham Forest and suggested the club’s owner, Evangelos Marinakis, may be one of few people more ambitious than him.Glasner revealed talks with ­Marinakis over a seafood platter in Athens convinced him to become Forest’s fifth head coach in less than 12 months, the Austrian signing a three-year contract after a fruitful two years at Crystal Palace. Continue reading...",
+            "fullText": "Oliver Glasner said he wants to bring back the “sweet honey” of European football toNottingham Forestand suggested the club’s owner, Evangelos Marinakis, may be one of few people more ambitious than him.\n\nGlasner revealed talks with ­Marinakis over a seafood platter in Athens convinced him to become Forest’s fifth head coach in less than 12 months, the Austriansigning a three-year contractafter a fruitful two years at Crystal Palace.\n\nGlasner met the Forest squad on Monday, his first day, and said he is enthused by the scope for the club to grow after a season when they avoided relegation and reached theEuropa League semi-finals.\n\nForest are pushing to make the Tottenham midfielder Lucas Bergvall their club-record signing as they seek toreplace Elliot Anderson, who was sold to Manchester City. Glasner is hopeful he will have at least two new signings join them for next week’s Portugal training camp, with the midfielder Xaver Schlager close to joining on a free after leaving RB Leipzig.\n\nForestsacked Vítor Pereirabecause they felt the opportunity to appoint Glasner, out of work after leaving Selhurst Park, was too good to miss. Glasner conceded Forest’s hierarchy were “very hard-working” in their efforts to appoint him. The 51-year-old, who won theFA Cup,Conference Leagueand­Community Shield at Palace, believes he can also exceed expectations at the City Ground, but underlined success will not happen overnight.\n\n“My personal history shows that what we are asking them to do – the habits we want them to do – it takes three to six months to see it for the first time,” he said.\n\n“I’m no magician. I didn’t find the button players can press and all of sudden we win the Premier League. Our goal is to come closer and closer to European places.\n\n“These players felt the sweet honey of playing European football and this year it’s just butter – no honey – on the toast. Hopefully, next year it will be sweeter. If I had felt there was no potential any more, I wouldn’t have signed.”\n\nOf his discussions with Marinakis in Greece, he said: “When we had talks, I probably found one of the few people who is more ambitious than I am so I think we will challenge each other with ambition. Every Premier League club, owner, manager and player is ambitious, but that doesn’t automatically mean that you will win silverware.\n\n“It doesn’t make sense to talk about [winning] silverware after three days. We are not talking about the end product when you don’t know the ingredients. We are now trying to find the ingredients and then hopefully we will get a great meal and then we will be successful.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nGlasner’s analogies were not ­confined to food at his unveiling, when he spoke for more than an hour. Asked about Forest’s need for stability, he said: “Nobody wants to get divorced … I don’t know how it is here in England, but in Austria it [the divorce rate] is 50%. At the ­wedding, you would say ‘no, not us’, but it happens.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-16 @ 18:51:20 EDT",
+  "lastUpdated": "2026-07-17 @ 00:36:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
