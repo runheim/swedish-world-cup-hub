@@ -10605,6 +10605,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Who took my boots?! Not funny guys.",
       "time": "13:16",
       "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Are we wearing the white or blue kits tomorrow?",
+      "time": "06:48",
+      "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "Bags are packed! Who's ready?",
+      "time": "06:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "06:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Just saw the training kit. Actually looks fire this year.",
+      "time": "06:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "06:52",
+      "isCaptain": false
     }
   ]
 };
