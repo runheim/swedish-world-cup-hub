@@ -11942,11 +11942,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4120_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Arguments over the soccer World Cup may be behind the suspected murder in Stenungsund",
+            "bullets": [
+              "The suspected murder at the Hawaii bathing area in Stenungsund may have its beginnings in a conflict...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The suspected murder at the Hawaii bathing area in Stenungsund may have its beginnings in a conflict over football. According to information to SVT, the fight started in a group chat about the ongoing soccer World Cup.",
+            "fullText": "The suspected murder at the Hawaii bathing area in Stenungsund may have its beginnings in a conflict over football. According to information to SVT, the fight started in a group chat about the ongoing soccer World Cup.\n\nA conflict with a connection to football may have been the prelude to the deadly act of violence at the Hawaii beach in Stenungsund. According to information to SVT, it all started in a group chat about the soccer World Cup.\n\n- It started several days before with a rather insignificant dispute. Something to do with football. Then it escalated in some way, says senior prosecutor Sonja Seligmann.\n\nThe suspected murder occurred after a fight broke out at the bathing area, where between 10 and 20 people are said to have gathered. The prosecutor states that some of those involved were familiar with each other, while others had no previous relationship. Two men in their 20s were injured in connection with the incident. One of them later died of his injuries.\n\n- There are many witnesses to the incident and there are still many interrogations to be held, says senior prosecutor Sonja Seligmann.\n\nAccording to previous information, there must have been knives at the scene.\n\nPreviously, three men in their 20s have been detained on probable cause on suspicion of murder and attempted murder. A fourth person has now been arrested just over a week later. The latter has previously been convicted of robbery.\n\nAnother four people are arrested in their absence for \"interference in the case\" according to the Public Prosecutor's Office.\n\nAll detainees are suspected of murder and attempted murder on probable grounds, the higher degree of suspicion.\n\nThe prosecutor is now continuing the work of clarifying the course of events.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-17 @ 15:39:28 EDT",
+  "lastUpdated": "2026-07-17 @ 18:41:20 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
