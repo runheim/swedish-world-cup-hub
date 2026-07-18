@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Gianni Infantino unlikely to face IOC sanctions over Balogun red card scandal",
       "link": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-unlikely-to-face-ioc-sanctions-over-balogun-red-card-scandal"
-    },
-    {
-      "text": "⚽ Infantino’s Faustian bargain with Trump has stained football’s biggest stage",
-      "link": "https://www.theguardian.com/football/2026/jul/18/gianni-infantino-donald-trump-fifa-world-cup-comment"
     }
   ],
   "timeline": {
@@ -7505,11 +7501,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5734_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Gianni Infantino unlikely to face IOC sanctions over Balogun red card scandal",
+            "bullets": [
+              "Donald Trump spoke to Fifa president before ban liftedHuman rights body FairSquare sent complaint to...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Donald Trump spoke to Fifa president before ban liftedHuman rights body FairSquare sent complaint to IOCGianni Infantino is poised to escape without sanction after complaints he breached rules on political neutrality in his dealings with Donald Trump over the Folarin Balogun affair.The International Olympic Committee this week received a formal complaint from the human rights organisation FairSquare regarding Infantino’s conduct after Trump revealed he had called the Fifa president asking him to review Balogun’s ban from the USA’s last-16 tie against Belgium. The ban was subsequently suspended for 12 months after an unprecedented ruling from Fifa’s disciplinary committee. Continue reading...",
+            "fullText": "Donald Trump spoke to Fifa president before ban lifted\n\nGianni Infantino is poised to escape without sanction after complaints he breached rules on political neutrality in his dealings with Donald Trump over the Folarin Balogun affair.\n\nThe International Olympic Committee this week received a formal complaint from the human rights organisation FairSquare regarding Infantino’s conduct after Trump revealed he had called the Fifa president asking him toreview Balogun’s banfrom the USA’slast-16 tie against Belgium. The ban wassubsequently suspendedfor 12 months after an unprecedented ruling from Fifa’s disciplinary committee.\n\nInfantino has been an IOC member since 2020, and its charter states that members must act independently of political and commercial interests. It adds that they cannot accept “from governments, organisations, or other parties, any mandate or instructions liable to interfere with the freedom of their action and vote”.\n\nFairSquare claims that Infantino’s discussions on the matter with Trump represent a breach. Infantino denies this and the Guardian has been told there is unlikely to be a formal investigation.\n\nIOC sources have disclosed that there is an extreme reluctance on its part to intervene in an international federation’s application of its own rules, particularly when internal appeals processes have not been exhausted.\n\nAnother source said the balance of power between the IOC andFifahas shifted significantly over the past two decades, with the former increasingly reliant on the latter for commercial revenue and relevance among younger audiences.\n\nWith the next summer Olympic Games taking place in Los Angeles in 2028 the IOC will hope to capitalise on the football boom in the US that has brought record ticket sales and revenue raised from theWorld Cup, making any action on Balogun even more unlikely.\n\nSignificantly the IOC has yet to receive complaints from Uefa or the Royal Belgium Football Federation, who both condemned the decision to suspend Balogun’s ban.\n\nThe Belgian federation said it was keeping all legal options open, including a possible appeal to the court of arbitration for sport, but has been silent since the team were knocked out of the World Cup in the quarter-finals by Spain, with sources indicating it is ready to drop the matter.\n\nThe federation’s president, Pascale Van Damme, is a member of Fifa Council, the governing body’s main decision-making organ.\n\nInfantino appears to have emerged from the scandal with his powerbase intact, with more than 200 of the 211 Fifa members havingsent letters of personal endorsementto Fifa before next year’s presidential election.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-18 @ 07:50:23 EDT",
+  "lastUpdated": "2026-07-18 @ 11:57:39 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
