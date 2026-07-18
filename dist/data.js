@@ -4,8 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tuchel urges England to finish strongly in emotional address",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3r0l4zn9jpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ 'They made him a defensive player' - Trump questions Kane role in semi",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Stick with Tuchel unless Guardiola is available - Rooney",
@@ -16,12 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c8xnl908y28o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Effort, spirit and moments - but do England lack all-round quality?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Tuchel urges England to finish strongly in emotional address",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62ergl0py2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ West Ham captain Bowen to stay at club",
       "link": "https://www.bbc.co.uk/sport/football/articles/cz64ww3j2yxo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Effort, spirit and moments - but do England lack all-round quality?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz64xyn4vz2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ England missing final piece of jigsaw - Kane",
@@ -36,12 +44,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/jul/17/historic-champions-league-qualifier-moved-pitbull-concert-ilithuania-fk-kauno-zalgiris"
     },
     {
-      "text": "⚽ Papers: Arsenal preparing offer for Aston Villa defender Konsa",
-      "link": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk"
+      "text": "⚽ England need fearless passers and three Tuchel omissions may point the way",
+      "link": "https://www.theguardian.com/football/2026/jul/17/england-passing-world-cup-thomas-tuchel"
     },
     {
-      "text": "⚽ Some England players bemused by Tuchel subs in Argentina defeat",
-      "link": "https://www.skysports.com/football/news/12040/13564497/some-england-players-bemused-by-thomas-tuchel-subs-in-argentina-world-cup-semi-final-defeat"
+      "text": "⚽ Papers: Arsenal preparing offer for Aston Villa defender Konsa",
+      "link": "https://www.skysports.com/football/news/12040/13564545/ezri-konsa-arsenal-preparing-offer-for-aston-villa-defender-as-morgan-rogers-talks-continue-paper-talk"
     }
   ],
   "timeline": {
@@ -31773,10 +31781,222 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-18": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1837_0",
+            "category": "england",
+            "type": "News",
+            "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+            "bullets": [
+              "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defe...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+            "fullText": "Thomas Tuchel was appointed England manager in January 2025 and has a contract through to Euro 2028\n\nEngland head coach Thomas Tuchel has defended his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.\n\nAddressing the media before Saturday's third-place play-off against France in Miami, Tuchel said \"if you need someone to blame, I take the responsibility\".\n\nBut the German head coach insisted he had no regrets and said he and his team felt the pain most of all, describing it as the \"scar we carry now\".\n\nEngland were minutes away from reaching their first men's World Cup final for 60 years.\n\nBut a 1-0 lead agonisingly turned to a 2-1 defeat in the closing stages as England's defence got deeper and deeper under constant pressure from the brilliance and perseverance of Lionel Messi's world champions.\n\nEngland's team spirit should not be questioned, but his side became \"too passive\" in the latter stages\n\nThere is a gap to the top teams and he will not stop trying to close it\n\nThe Mexico and Norway games had an impact by taking a lot physically out of the players\n\nCaptain Harry Kane ended up so deep because \"that's what you do if you defend in a block\".\n\nStick with Tuchel unless Guardiola is available - Rooney\n\nFive reasons for England to be cheerful despite World Cup exit",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1838_1",
+            "category": "england",
+            "type": "News",
+            "title": "'They made him a defensive player' - Trump questions Kane role in semi",
+            "bullets": [
+              "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+            "fullText": "Harry Kane has scored six goals in the 2026 World Cup\n\nUnited States President Donald Trump has joined criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.\n\nManager Thomas Tuchel's second-half substitutions have been criticised by pundits and supporters following the 2-1 defeat, as Argentina scored two late goals to set up Sunday's final against Spain (20:00 BST).\n\nBBC Sport reported on Thursday how anumber of key players had been left disappointedat how England were instructed to finish the game having taken the lead through Anthony Gordon.\n\nTuchel reverted to a back five and made a number of defensive-minded substitutions in the closing stages as Lionel Messi inspired a dramatic comeback.\n\n\"You have a great player in England who I've played golf with. And he is Harry [Kane] who has been fantastic,\" said Trump.\n\n\"I think they perhaps made a mistake when they made him a defensive player. What do I know about soccer? They took the lead, and they took their best player and put him on defence.\n\n\"We got to be a little offensive, right. But no, I'm not going to call it, what do I know about coaching? But that was a little unusual.\"\n\nTuchel was quick to brush off Trump's criticisms when mentioned to him in a news conference later.\n\nSpeaking at Trump Tower during a reception on Friday, the president also spoke about the moment he asked Fifato review USA striker Folarin Balogun's one-match suspension.\n\nBalogun, 25, was set to miss his side's last-16 tie against Belgium after being shown a straight red card for a foul on Bosnia-Herzegovina defender Tarik Muharemovic in the previous round.\n\nBut Fifa made the shock decision to suspend the automatic one-match ban for 12 months, leading to widespread criticism.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1838_2",
+            "category": "england",
+            "type": "News",
+            "title": "Stick with Tuchel unless Guardiola is available - Rooney",
+            "bullets": [
+              "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach u...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible.",
+            "fullText": "Thomas Tuchel is under contract with the FA until summer 2028\n\nWayne Rooney thinks the Football Association should stick with Thomas Tuchel as England head coach unless a move for Pep Guardiola is possible.\n\nTuchel hasretained the backing of the FAafterEngland's 2-1 defeat to Argentinain Wednesday's World Cup semi-final.\n\nThe German was criticised for his substitutions as England squandered a 1-0 lead late on, but says he intends to stay to lead the Three Lions into Euro 2028.\n\nDespite backing Tuchel to remain as England head coach after the World Cup heartbreak, ex-England captain Rooney thinks the FA should \"go and get\" former Manchester City manager Pep Guardiola if he is available.\n\n\"I don't see anyone else out there at the minute, unless you go and get Pep Guardiola. If Pep is available, then maybe you go and get him,\" Rooney said onThe Wayne Rooney Show.\n\n\"I think he is a top-class manager and what the top managers do, they learn from the mistakes and they improve and get better.\n\n\"If we sack him, what managers are we going to bring in? And I don't think there's anyone out there who's as good as Thomas Tuchel, unless Guardiola.\n\n\"But the big thing for me is he's not experienced at World Cups. We had the exact same with [Fabio] Capello.\n\n\"The World Cup is different and you need to feel that environment and now he's felt it.\"\n\nTuchel signed atwo-year contract extensionin February, having been appointed in January 2025 on an 18-month mission to win the World Cup.\n\nThe FA approached Guardiola beforeappointing Tuchel,withreports there was a verbal agreement in place.,external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1839_3",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel did not deliver, but his time with England is not up - Shearer",
+            "bullets": [
+              "Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by critici...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Former England captain Alan Shearer says Three Lions boss Thomas Tuchel will not be fazed by criticism he has faced over the World Cup semi-final defeat.",
+            "fullText": "Like many people, my prediction before this World Cup started was that England would not get further than the last four - but Thomas Tuchel was supposed to prove us all wrong.\n\nTuchel was hired to win this tournament for England - he said so himself when he took charge of the Three Lions in January 2025.\n\nHe was meant to make the difference in the biggest games, to get us past the semi-finals and get us over the line in finals, the times when we have fallen so agonisingly short in recent years.\n\nThat did not happenin Wednesday's 2-1 defeat by Argentina. He got things wrong with the way we retreated after scoring and his substitutions did not help.\n\nIt was extremely frustrating to watch, especially because I felt we had such a good chance of reaching our first World Cup final in 60 years.\n\nWe expected more - I know I did - but just because Tuchel did not deliver does not mean his time should be up.\n\nSome England players disappointed at tactics as Tuchel questions team's DNA\n\nHow coach-on-pitch Messi undid England's tactics on the fly\n\nArgentina shatter England's World Cup dreams in semi-final\n\nTuchel's original contract only lasted until this summer, but he signed a two-year extension in February and is going to lead us into the 2028 European Championship,which England will co-host.\n\nI don't think he is naive enough not to realise that what has happened at this tournament is going to increase the scrutiny on him going forward, and I don't believe any of the criticism he has faced will faze him either.\n\nTuchel is experienced enough and has been successful enough to know how the game works - and because of that he will know his methods will now be questioned even more going forward.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1840_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel urges England to finish strongly in emotional address",
+            "bullets": [
+              "England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional addres...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager Thomas Tuchel urges his players to end the World Cup strongly in an emotional address after their agonising semi-final defeat by Argentina.",
+            "fullText": "Thomas Tuchel was appointed England manager in January 2025 on an initial 18-month deal\n\nManager Thomas Tuchel has called on England to end the World Cup strongly in an emotional address to the squad after their agonising defeat by Argentina.\n\nThe players returned to their base in Kansas City following the semi-final loss on Wednesday to undertake two final training sessions before Saturday's bronze-medal match against France.\n\nAnd sources have told BBC Sport that Tuchel, in a speech to his squad, has collectively encouraged his players to put their disappointment behind them and finish the tournament on a high.\n\nIf England beat France in Miami to claim third place, it would be their best men's World Cup finish since winning the tournament in 1966.\n\nTuchel is also understood to have stressed how proud he was of their efforts in North America as the Three Lions reached only a fourth World Cup semi-final in their history.\n\nThe relationship between the 52-year-old German and his players has become an emerging narrative following Argentina's 2-1 victory in the last-four tie with two late goals.\n\nBBC Sport reported on Thursday how a number of key players had beenleft disappointed at how the team were instructed to finish the gamehaving taken the lead through Anthony Gordon.\n\nTuchel reverted to a back five and made a number of defensive-minded substitutions in the closing stages as Lionel Messi inspired a dramatic comeback by assisting goals for Enzo Fernandez and then Lautaro Martinez's 92nd-minute winner.\n\nHowever, the England head coach has since appeared to refute the idea the defensive retreat was a result of the directions he'd provided his team.\n\nHe said it was never the plan to drop deeper and \"it's maybe not in our DNA... to control the game and ball\".\n\nTuchel is likely to be asked about his team's tactical approach against Argentina in the pre-match news conference for the France game, which is due to take place at 00:30 BST on Saturday.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1840_5",
+            "category": "england",
+            "type": "News",
+            "title": "West Ham captain Bowen to stay at club",
+            "bullets": [
+              "West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Champio...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "West Ham United captain Jarrod Bowen will stay at the club for the forthcoming season in the Championship.",
+            "fullText": "Jarrod Bowen has been at West Ham United since 2020\n\nWest Ham United captain Jarrod Bowen will stay at the club as they prepare for life in the Championship.\n\nThe 29-year-old England forward was part of the side which suffered relegation from the Premier League on the final day of the season, leaving his future in doubt.\n\nBowen, who joined the Hammers from Hull City in 2020, has played 280 times for the club, scoring 85 goals, and has captained the side since 2024 after the departure of Kurt Zouma.\n\nHe has 22 England caps but missed out on a place in Thomas Tuchel's World Cup squad this summer.\n\nThe news provides a welcome boost for West Ham, who have begun their pre-season preparation for their first season in the Championship since 2011-12.\n\nBowen, a key player in the Hammers' front line, started every Premier League match last season, scoring nine goals.\n\nHe famously scored the winner in the final minute against Fiorentina in the 2023 Uefa Conference League final in Prague as West Ham claimed their first major trophy in 43 years.\n\nBowen had been linked with a summer move away from the London Stadium back to the Premier League. He has now committed his future to the club for the 2026-27 season but has not signed a new contract extension, with his current deal running until 2030.\n\nSpeaking tothe Hammers website,external, Bowen said: \"My main motivation is staying and bringing this club back to the Premier League where we belong.\n\n\"It was only right for me to speak at the right time. Ultimately it [relegation] hurt everyone and it should hurt everyone.\n\n\"I flew out to Prague to meet (club directors) Daniel [Kretinsky] and Jiri [Svarc] and the ambition that I got from them, certainly in terms of the direction the club wants to move in, it interests me a lot. It didn't take a lot, because this club means a lot to me.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1840_6",
+            "category": "england",
+            "type": "News",
+            "title": "Effort, spirit and moments - but do England lack all-round quality?",
+            "bullets": [
+              "As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As England reflect on their World Cup semi-final defeat by Argentina, BBC Sport's Phil McNulty looks at what Thomas Tuchel's team were lacking.",
+            "fullText": "Thomas Tuchel led England to their second World Cup semi-final in the past three tournaments\n\nThomas Tuchel claimed you could bottle up England's mentality and sell it. What you could not sell is their big-game reliability when it matters.\n\nHead coach Tuchel was talking in an outspoken interview after the World Cup quarter-final win against Norway, in which he washighly critical of England's performance in the 2-1 victory.\n\nHe later suggested that \"it'smaybe not in our DNAâ¦to control the game and ball\".\n\nThe desperate late collapse that resulted in Englandlosing to Argentina in the subsequent semi-final,missing out on a first men's World Cup final appearance since they won the tournament at Wembley in 1966, raised familiar questions about a string of near misses.\n\nEngland can add this bitter disappointment to successive Euro final losses and the 2018 World Cup semi-final defeat by Croatia, giving weight to the argument they will always be a \"nearly\" team.\n\nEffort, spirit and the knack of producing big moments are commendable but will only take you so far - in England's case, not far enough.\n\nThe devastating late collapse against Argentina joins a catalogue of disappointment now stretching to 60 years.\n\nWhy England's loss to Argentina felt like most painful in 60 years of hurt\n\n'Passive' and 'crumbled' - did Tuchel's defensive tactics cost England?\n\nSome England players disappointed at tactics as Tuchel questions team's DNA\n\nEngland's World Cup campaign was led by the world-class quality of their two outstanding performers: captain Harry Kane and Jude Bellingham.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1841_7",
+            "category": "england",
+            "type": "News",
+            "title": "England missing final piece of jigsaw - Kane",
+            "bullets": [
+              "England captain Harry Kane says the team are \"missing that final piece of the jigsaw\" and need to \"f...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England captain Harry Kane says the team are \"missing that final piece of the jigsaw\" and need to \"find a way to get better\" following defeat to Argentina.",
+            "fullText": "Kane has scored six goals and registered one assist during the 2026 World Cup\n\nEngland captain Harry Kane says the team are \"missing that final piece of the jigsaw\" and need to \"find a way to get better\" following their defeat to Argentina in the semi-finals of the 2026 World Cup.\n\nThe Three Lions took the lead in Atlanta butwere beaten 2-1,with the side and manager Thomas Tuchel being criticised for becoming too defensive after going in front.\n\n\"No words are big enough right now to overcome this empty feeling in the stomach,\"wrote Kane,,externalas several England players took to social media to give their thoughts on the tournament.\n\n\"We were close, really close to another final but it wasn't enough. We've given everything over these last seven weeks and to fall short is hard to take!\n\n\"I know the expectations are high and rightly so, we've been knocking on the door for eight years now but again are missing that final piece of the jigsaw! That's where we have to go away, process it and find a way to get better.\"\n\nAnthony Gordon put England in front after 55 minutes against Argentina but the Three Lions then sat back as they invited pressure from their rivals, who scored two late goals through Enzo Fernandez and Lautaro Martinez to win 2-1.\n\nIn the aftermath, former England captain Wayne Rooney said Tuchel's side \"crumbled\" and became \"too passive\" as they missed out on a first World Cup final since they won the competition in 1966.\n\nTuchel has also been criticised for his defensive substitutions, with England having only 12% of possession from going ahead to conceding the second goal after 92 minutes.\n\nA number of sources have indicated to BBC Sport thata clutch of key players were left disappointedby how the team approached the final stages of the game.\n\nHowever, Tuchel has said that it was never the plan to drop deeper and that \"it's maybe not in our DNAâ¦to control the game and ball\".\n\n'The decisions Tuchel made cost England' - analysis",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1841_8",
+            "category": "england",
+            "type": "News",
+            "title": "Jarrod Bowen declares intention to stay at West Ham despite relegation",
+            "bullets": [
+              "Captain says promotion would bring ‘the most happiness’He visited largest shareholder Daniel Kretins...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Captain says promotion would bring ‘the most happiness’He visited largest shareholder Daniel Kretinsky in PragueJarrod Bowen has said he intends to remain with West Ham after the club’s relegation to the Championship. The forward has attracted interest from Premier League teams but has spelled out his desire to stay after a summer during which he travelled to Prague for talks with the largest shareholder, Daniel Kretinsky.“I feel like we’re moving in the right direction as a club,” Bowen told West Ham’s media channels. “There’s a lot of thinking time over the summer and a lot of things that go in your head. But I look in years and years to come of when I retire, what’s going to bring me the most happiness. For me now that’s getting this club back into the Premier League.” Continue reading...",
+            "fullText": "Captain says promotion would bring ‘the most happiness’\n\nHe visited largest shareholder Daniel Kretinsky in Prague\n\nJarrod Bowen has said he intends to remain with West Ham after the club’s relegation to theChampionship. The forward has attracted interest from Premier League teams but has spelled out his desire to stay after a summer during which he travelled to Prague for talks with the largest shareholder, Daniel Kretinsky.\n\n“I feel like we’re moving in the right direction as a club,” Bowentold West Ham’s media channels. “There’s a lot of thinking time over the summer and a lot of things that go in your head. But I look in years and years to come of when I retire, what’s going to bring me the most happiness. For me now that’s getting this club back into the Premier League.”\n\nBowen has been at West Ham since January 2020, joining from Hull, which was the last time he played in the second tier. Any hope the 29-year-old has of getting back into Thomas Tuchel’s England plans will surely be extinguished by staying at West Ham but the captain, who has a contract to 2030, said it was “a no-brainer for me to be here”. Aston Villa, Everton, Liverpool, Manchester United and Chelsea have been monitoring his situation.\n\nKick off your evenings with the Guardian's take on the world of football\n\nBowen said of his discussions with Kretinsky and Jiri Svarc, a board member: “I flew out to Prague in the Czech Republic to meet Daniel and Jiri and the ambition that I got from them, certainly in terms of the direction the club wants to move in, it interests me a lot. It didn’t take a lot for me, because this club means a lot to me.”West Ham needed to raise money through sales after relegation and have received£85m from Tottenham for Mateus Fernandes. The winger Crysencio Summerville, who is on the radar of Manchester United among other clubs, is expected to leave, as are Aaron Wan‑Bissaka and Jean-Clair Todibo.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1841_9",
+            "category": "england",
+            "type": "News",
+            "title": "Pitbull concert forces historic Champions League qualifier in Lithuania to move",
+            "bullets": [
+              "FK Kauno Zalgiris renting out stadium for gigThey take on KI of Faroe Islands in two-leg tieLithuani...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FK Kauno Zalgiris renting out stadium for gigThey take on KI of Faroe Islands in two-leg tieLithuania’s best team will probably be forced to play a historic Champions League qualifier later this month away from home after renting their stadium out for a show by the US rapper Pitbull.On Tuesday night, the Toplyga champions, FK Kauno Zalgiris, beat Kosovo’s champions, Dritam 3-2, and 4-3 on aggregate, to book their place in the Champions League second qualifying round, in the process securing around €1.7m in prize money. They are scheduled to travel to the Faroe Islands champions, KI, on Tuesday before hosting the second leg in Lithuania on 28 or 29 July. Continue reading...",
+            "fullText": "Lithuania’s best team will probably be forced to play a historicChampions Leaguequalifier later this month away from home after renting their stadium out for a show by the US rapper Pitbull.\n\nOn Tuesday night, the Toplyga champions, FK Kauno Zalgiris, beat Kosovo’s champions, Dritam 3-2, and 4-3 on aggregate, to book their place in the Champions League second qualifying round, in the process securing around €1.7m in prize money. They are scheduled to travel to the Faroe Islands champions, KI, on Tuesday before hosting the second leg in Lithuania on 28 or 29 July.\n\nHowever, not expecting such success in Europe, Zalgiris, best known as Lithuania’s most decorated basketball franchise, had already booked a concert by Pitbull at their 15,000-seater Darius and Girenas Stadium on 31 July, leaving them scrambling for an alternative venue.\n\nZalgiris are understood to have tried to swap the legs to play at home first, but this is unlikely. The Faroe Islands have their national holidays, St Olav’s Day, on 28 and 29 July. Furthermore, another Faroese club, HB, are scheduled to play Motherwell in the Conference League second qualifying round on 30 July, putting additional strain on local policing. So instead of playing at home, Zalgiris will most likely now have to play in Jonava, a town about 30km away, at a stadium holding just over 2,500 people.\n\nSpeaking after the game in Kosovo, Zalgiris’s head coach, Zeljko Sopic did not hide his frustration at the scheduling clash, complaining that the team will have to move “because of a concert by some dog or somebody”, adding: “It’s better I don’t say anything about that. It is what it is.”\n\nThe Zalgiris chair, Mantas Kalnietis, told the Guardian that the club were aware of the potential clash but had hoped to play the first match at home to avoid it. “For the stadium, concerts like this are a major source of revenue, and for the city’s residents it’s also a great time,” Kalnietis said. “Ultimately the income generated strengthens our entire organisation, enabling us to build a better team and improve our chances of reaching the group stage.\n\n“This will be the only concert at the stadium this summer, so we will not face this issue again in the later rounds this year.”\n\nEdgaras Stankevicius, president of the Lithuanian football federation, described the double booking as “really unfortunate”, adding: “Jonava stadium is nice and tidy as well, but it is still a big difference.\n\n“It is normal to want to play these big games in your home stadium. Situations like these certainly do not do any good for the development of Lithuanian football as a whole.”\n\nPitbull will be in Kaunas, Lithuania’s second-largest city, as part of his European “I’m back!” tour, fresh off beating the Guinness world record for the “largest gathering of people wearing bald caps” at his London show last week.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1841_10",
+            "category": "england",
+            "type": "News",
+            "title": "England need fearless passers and three Tuchel omissions may point the way",
+            "bullets": [
+              "Technical class in the fiercest battles was again lacking at the World Cup but there is hope amid th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Technical class in the fiercest battles was again lacking at the World Cup but there is hope amid the soul-searchingThe post-match inquest into England’s elimination was almost over when Thomas Tuchel offered a revealing analysis of Argentina’s knack of instigating late comebacks at this World Cup.“In their culture, ball possession plays a crucial role. It starts from a young age,” he said. “That is in the DNA and it demands a lot of self-confidence – natural self‑confidence to always want the ball, to always be in the gaps, to always define yourself through the ball. I think that is a crucial thing: to show courage.” Continue reading...",
+            "fullText": "Technical class in the fiercest battles was again lacking at the World Cup but there is hope amid the soul-searching\n\nThe post-match inquest into England’s elimination was almost over when Thomas Tuchel offered a revealing analysis of Argentina’s knack of instigating late comebacks at thisWorld Cup.\n\n“In their culture, ball possession plays a crucial role. It starts from a young age,” he said. “That is in the DNA and it demands a lot of self-confidence – natural self‑confidence to always want the ball, to always be in the gaps, to always define yourself through the ball. I think that is a crucial thing: to show courage.”\n\nThis time, it wasn’t meant as a dig at his own players. But after the latest example ofEnglandsurrendering a lead that can be traced all the way back to the 2002 World Cup in Japan, when Michael Owen scored in the 23rd minute against Brazil before the team tried to defend for their lives and failed, there was no avoiding the underlying message.\n\nDespite the Football Association’s best efforts to produce players who are able to “intelligently dominate possession” as outlined when it launched its “England DNA philosophy” at St George’s Park back in December 2014, there is still a shortage of top-class central midfielders with the technical skills required to win a World Cup semi-final.\n\nTuchel’s epitaph for this tournament will be the statistic that Englandhad only 12% of possessionbetween Anthony Gordon opening the scoring in the 55th minute and Lautaro Martínez’s winner in the second minute of stoppage time. Equally as damning is that, of the 39 passes they attempted in that period, 12 came from the goalkeeper, Jordan Pickford, while only five took place in Argentina’s half.\n\nThat indicates – as well as there being a lack of forward runners to put the pressure back on opponents that included a 38-year-old Nicolás Otamendi in defence for the last 20 minutes – that England were unable to play their way out of trouble when Argentina pressed high up the pitch and ended up giving the ball straight back.\n\n“England teams sense changing moments in the game both in and out of possession, reacting instinctively and intelligently,” reads the DNA philosophy that was devised by Dan Ashworth, who was the FA’s director of elite development in 2014. Ashworth returned to St George’s Park last May after his ill-fated spell as Manchester United’s sporting director. He had left the FA for Brighton in 2019 before moving to Newcastle three years later.\n\nHis remit after returning last May in the newly created role of chief football officer to work alongside the technical director, John McDermott, was to oversee the regeneration of the National Football Centre as well as “building the long-term systems that underpin the FA’s performance ambitions”. In other words, find a way of playing without fear when it really comes to the crunch.\n\n“We felt them going backwards and backwards rather than going forward,” said the Argentina goalkeeper, Emiliano Martínez. “Sometimes when you are winning, you have to go forward anyway. You can’t change the gameplan.”\n\nWhile the academy system in England has become the envy of most countries given the resources at the disposal of Premier League clubs, it has still not found a way of producing technically gifted players who are capable of running games from midfield. But there have been signs that things may be starting to change.\n\nElliot Anderson has emerged as an England first-choice over the past 12 months and Manchester City’s£116m summer signingis at the forefront of a new generation of midfielders who look capable of mixing it with the best at the European Championship in two years’ time on home soil.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1842_11",
+            "category": "england",
+            "type": "News",
+            "title": "Papers: Arsenal preparing offer for Aston Villa defender Konsa",
+            "bullets": [
+              "The top stories and transfer rumours from Saturday's newspapers...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+            "fullText": "Plus: Crystal Palace value Chelsea target Maxence Lacroix at up to £60m with the defender wanting to leave; Thomas Tuchel’s appointment as England boss did not gain the unanimous backing of FA board members; Sir Gareth Southgate will attend Sunday’s World Cup final",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-17 @ 18:50:59 EDT",
+  "lastUpdated": "2026-07-18 @ 00:18:45 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
