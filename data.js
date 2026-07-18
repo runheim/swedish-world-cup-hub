@@ -7437,10 +7437,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-18": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1904_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football Daily | Donald Trump gives himself starting role in the bigliest occasion of all",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Donald Trump has largely steered clear of the Geo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Donald Trump has largely steered clear of the Geopolitics World Cup: he is yet to attend a game and appear on screen with his good pal “Jonny” Infantino. Oh, though there was that time Trump rang Fifa to lobby for a review into Folarin Balogun’s red card against Bosnia and Herzegovina, with the reversal of the USA USA USA forward’s last-16 suspension crushing the integrity of the competition. An impactful cameo off the bench, you could argue.Re: naming the 2030 World Cup (Football Daily letters passim). May I suggest ‘The Carbon Footprint WC’ or simply ‘El Carbonaro’” – Krishna Moorthy.Brian Saffer’s suggestions for letting everyone join in the next World Cup and splitting into three divisions surely must lead to it being called the Swiss Model World Cup – SMWC” – George Paterson.You could always stop trying to be too clever by half and just refer to it as ‘the World Cup’” – Alan Burgess.Oh, you thought the STOP FOOTBALL campaign might last two days but, no, Major League Soccerball is back, baby! Four matches were played last night as the league announced, via its back-to-action campaign: ‘Thanks, World; We’ll Take It From Here’” – JJ Zucal.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nDonald Trump has largely steered clear of the Geopolitics World Cup: he is yet to attend a game and appear on screen with his good pal “Jonny” Infantino. Oh, though there was that timeTrump rang Fifa to lobby for a reviewinto Folarin Balogun’s red card against Bosnia and Herzegovina, with the reversal of the USA USA USA forward’s last-16 suspension crushing the integrity of the competition. An impactful cameo off the bench, you could argue.\n\nBut the GWC final between Spain and Argentina – the bigliest, winningest of occasions – demands a starting role for the US president. The White Househas confirmedTrump’s attendance at the New York New Jersey Stadium on Sunday, potentially setting up a re-run of last year’s Copa Gianni final at the same venue. After Enzo Maresca’s Chelsea triumphed against Paris Saint-Germain (how time flies), Trump and Infantino handed over the trophy to Reece James. While Fifa’s president showed an understanding of social norms and tried to vacate the stage before the lift, Trump stayed superglued to his position as he celebrated between Robert Sánchez and a clearly bemused Cole Palmer. “I knew he was going to be here but I didn’t know he was going to be on the stand when we lifted the trophy,” Palmer sniffed. “I was a bit confused.”\n\nThe boos rang out for Trump back then, as they didat Madison Square Gardenwhen he watched the New York Knicks’ sole loss during the NBA finals in June. “It was, I think, mostly cheers,” Trump proclaimed. “It was loud, and it was very enthusiastic.” Any further hostility on Sunday will likely be twisted too. What, you wonder, would be a useful antidote to the presidential sideshow? We can only hope that, regardless of the result, Lionel Messi and Lamine Yamal come together for a few pics on the podium, 19 years on from their first photoshoot with one another.\n\nIt is just ridiculous, isn’t it?Those pictures from 2007are doing the rounds once again, of a 20-year-old Messi cradling a baby for a charity calendar raising funds for Unicef. That child has become the master’s spiritual successor at Barcelona, inheriting the No 10 shirt, and they will meet again in a World Cup final. The snappers will be all over them when they embrace at the close, and let us pray no one tries to photobomb. “Um, excuse me, President Trump … you’re in the shot.”\n\nThe daily GWC news liveblog has a few more days left in it: here’sthe latest edition. While you can also followday two of the Open.\n\nWant a pick of Big Website’s essential sportswriting and highlights in the past seven days? Well,subscribe to the Recap then.\n\n“I’m going to keep watching all the games from Olivos. Since it’s cold and I don’t turn on the heat, I wear an oil company-branded jacket. The day of the Switzerland game, it made me really hot. I took it off, and they scored a goal against us. I put it back on and never took it off again” – at least one populist president won’t be at the GWC final, after Argentina’s Javier Milei’s admission that superstition convinced him to watch Sunday’s match with Spain from home in attire that probably won’t go down well with anyone who cares about the sizzling-hot climate.\n\ndouble quotation markRe: naming the 2030 World Cup (Football Daily letters passim). May I suggest ‘The Carbon Footprint WC’ or simply ‘El Carbonaro’” – Krishna Moorthy.\n\ndouble quotation markBrian Saffer’s suggestions for letting everyone join in the next World Cup and splitting into three divisions surely must lead to it being called the Swiss Model World Cup – SMWC” – George Paterson.\n\ndouble quotation markYou could always stop trying to be too clever by half and just refer to it as ‘the World Cup’” – Alan Burgess.\n\ndouble quotation markOh, you thought the STOP FOOTBALL campaign might last two days but, no, Major League Soccerball is back, baby! Four matches were played last night as the league announced, via its back-to-action campaign: ‘Thanks, World; We’ll Take It From Here’” – JJ Zucal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-17 @ 18:51:52 EDT",
+  "lastUpdated": "2026-07-18 @ 00:19:15 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
