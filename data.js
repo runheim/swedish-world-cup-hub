@@ -16,24 +16,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Stick with Tuchel unless Guardiola is available - Rooney",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c304ldrmmero?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ World Cup 2026 latest: Trump criticises Tuchel, buildup to France v England and Spain v Argentina final",
-      "link": "https://www.theguardian.com/football/live/2026/jul/18/world-cup-latest-buildup-france-england-third-place-spain-argentina"
-    },
-    {
       "text": "⚽ Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job",
       "link": "https://www.theguardian.com/football/2026/jul/18/joe-hart-wayne-rooney-micah-richards-rowing-hudson-river-world-cup"
     },
     {
       "text": "⚽ ‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
       "link": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final"
-    },
-    {
-      "text": "⚽ Joshua vs Itauma is 'perfect story' for Nigeria fight, says promoter",
-      "link": "https://www.skysports.com/boxing/news/12040/13563737/anthony-joshua-vs-moses-itauma-bigger-than-rumble-in-the-jungle-if-staged-in-nigeria-says-promoter-dr-ezekiel-adamu"
     }
   ],
   "timeline": {
@@ -32277,11 +32265,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3947_0",
+            "category": "england",
+            "type": "News",
+            "title": "False nines or firing forwards - England's potential life after Kane",
+            "bullets": [
+              "Are England facing the prospect of using a false nine up front once record scorer Harry Kane calls t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Are England facing the prospect of using a false nine up front once record scorer Harry Kane calls time on his international career?",
+            "fullText": "Harry Kane will be approaching his 37th birthday when the 2030 World Cup comes around\n\n\"It's too early to talk about that,\" said England captain Harry Kane, when asked if he would still be around for the 2030 World Cup.\n\nThe striker fielded the question just minutes after the Three Lions had suffered thecrushing 2-1 semi-final defeatto Argentina in Atlanta that denied them a first men's World Cup final since their sole success in 1966.\n\nYou could not blame him for swerving a definitive answer, yet it was a pertinent question.\n\nAfter a tournament where England's attack relied almost exclusively on Kane - he has six goals along with Jude Bellingham - what are they going to do when their all-time record goalscorer retires?\n\nThis is a player who has captained his country ever since former manager Gareth Southgate gave him the armband nine years ago - and has led from the front with 85 goals in 124 appearances.\n\nTime, though, will eventually catch up with the Bayern Munich forward.\n\nEngland do at least have time for succession planning as, barring injury, Kane will be around for the home Euros in two years' time.\n\nBut he will be 33 in 10 days' time, and turn 35 shortly after that tournament ends.\n\nRealistically, there is a strong chance Saturday's third-placed play-off against France in Miami for the bronze medal will be the final act of his England World Cup career. He will be nearly 37 by 2030's edition.\n\nSo what does the future look like for England when he does call time on his international career?\n\nLiam Delap was tipped to be part of England's World Cup squad before a disappointing first season with Chelsea",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3948_1",
+            "category": "england",
+            "type": "News",
+            "title": "Defiant Tuchel defends decisions and says loss is 'scar we carry now'",
+            "bullets": [
+              "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defe...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England head coach Thomas Tuchel defends his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.",
+            "fullText": "Thomas Tuchel spoke at a news conference in Miami before England's third-place play-off with France\n\nEngland head coach Thomas Tuchel has defended his tactical decisions during the World Cup semi-final defeat by Argentina in a tense news conference.\n\nAddressing the media before Saturday's third-place play-off against France in Miami, Tuchel said \"if you need someone to blame, I take the responsibility\".\n\nBut the German head coach insisted he had no regrets and said he and his team felt the pain most of all, describing it as the \"scar we carry now\".\n\nEngland were minutes away from reaching their first men's World Cup final for 60 years.\n\nBut a 1-0 lead agonisingly turned to a 2-1 defeat in the closing stages as England's defence got deeper and deeper under constant pressure from the brilliance and perseverance of Lionel Messi's world champions.\n\nEngland's team spirit should not be questioned, but his side became \"too passive\" in the latter stages\n\nThere is a gap to the top teams and he will not stop trying to close it\n\nThe Mexico and Norway games had an impact by taking a lot physically out of the players\n\nCaptain Harry Kane ended up so deep because \"that's what you do if you defend in a block\".\n\nStick with Tuchel unless Guardiola is available - Rooney\n\nFive reasons for England to be cheerful despite World Cup exit",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3948_2",
+            "category": "england",
+            "type": "News",
+            "title": "'They made him a defensive player' - Trump questions Kane role in semi",
+            "bullets": [
+              "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "US President Donald Trump joins criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.",
+            "fullText": "Harry Kane has scored six goals in the 2026 World Cup\n\nUnited States President Donald Trump has joined criticism of England's tactics in their World Cup semi-final loss to Argentina, by questioning Harry Kane's second-half \"defensive\" role.\n\nManager Thomas Tuchel's second-half substitutions have been criticised by pundits and supporters following the 2-1 defeat, as Argentina scored two late goals to set up Sunday's final against Spain (20:00 BST).\n\nBBC Sport reported on Thursday how anumber of key players had been left disappointedat how England were instructed to finish the game having taken the lead through Anthony Gordon.\n\nTuchel reverted to a back five and made a number of defensive-minded substitutions in the closing stages as Lionel Messi inspired a dramatic comeback.\n\n\"You have a great player in England who I've played golf with. And he is Harry [Kane] who has been fantastic,\" said Trump.\n\n\"I think they perhaps made a mistake when they made him a defensive player. What do I know about soccer? They took the lead, and they took their best player and put him on defence.\n\n\"We got to be a little offensive, right. But no, I'm not going to call it, what do I know about coaching? But that was a little unusual.\"\n\nTuchel was quick to brush off Trump's criticisms when mentioned to him in a news conference later.\n\nSpeaking at Trump Tower during a reception on Friday, the president also spoke about the moment he asked Fifato review USA striker Folarin Balogun's one-match suspension.\n\nBalogun, 25, was set to miss his side's last-16 tie against Belgium after being shown a straight red card for a foul on Bosnia-Herzegovina defender Tarik Muharemovic in the previous round.\n\nBut Fifa made the shock decision to suspend the automatic one-match ban for 12 months, leading to widespread criticism.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3948_3",
+            "category": "england",
+            "type": "News",
+            "title": "Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job",
+            "bullets": [
+              "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup The BBC punditry trio Wayne Rooney, Micah Richards and Joe Hart are fresh off a boat on New York’s Hudson River after an attempt to honour Rooney’s declaration that he would “row the River Mersey” if Norway reached the World Cup quarter-final. They did, prompting Erling Haaland to tease Rooney, saying: “I’m looking forward to seeing you, Wayney boy.”How was it? Continue reading...",
+            "fullText": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup\n\nThe BBC punditry trioWayne Rooney, Micah Richards and Joe Hart are fresh off a boat on New York’s Hudson River after an attempt to honour Rooney’s declaration that he would “row the River Mersey” if Norway reached the World Cup quarter-final. They did, prompting Erling Haaland to tease Rooney, saying: “I’m looking forward to seeing you, Wayney boy.”\n\nWayne Rooney:“It was more relaxing than I thought. Once we got into a nice little rhythm, we were OK. A couple of other times we came out of the rhythm and Micah nearly killed my back. But no, it was good. Harty looks like he’s been doing it for years. So it was actually enjoyable.”\n\nMicah Richards:“It was good fun. I wouldn’t pick it to do it again, but I enjoyed it – there for the lads.”\n\nJoe Hart:“It sums up how we’ve been the wholeWorld Cup, as a trio. None of us were so comfy doing it but no one cared, we all got on with it and it was a good laugh. And Wazza said he was going to do it and he has done it, so he’s a man of his word.”\n\nTheir first time working together at the World Cup was England’s second group game,the goalless draw with Ghanaon 23 June, but it revealed an instant chemistry between the three.\n\nJH:“It’s gone well because, while we’re all very professional in what we’re doing, we also go way back – like a long way back – and that’s important. It means that we’re ourselves and feel comfortable around each other. Gabby [Logan], Kelly [Cates] and Chappers [Mark Chapman] have been unreal as presenters in getting the best out of us. As a group we’ve really found something.”\n\nWR:“It’s strange in a way, but it’s very similar to when you’re playing on the pitch. We all have our bits of analysis to do but in terms of when we’re talking, you don’t want to speak over someone else, so it’s about eye contact and understanding when you’re coming in next. It’s really good chemistry.”\n\nMR:“Harty – for me, it would have been when you arrived [at Manchester City] from Shrewsbury [in 2006], wouldn’t it?”\n\nJH:“I met Micah when I was 19, he was 18 – so over 20 years ago. And then obviously Wayne was in the England team from when he was like 12 [laughs].”\n\nWR:“I met you, Micah, the first time you were in the England squad [November 2006] and I remember thinking: ‘Who’s this loud lad coming in?’ So we’ve played with and against each other, we enjoy each other’s company and we’ve all had different careers in different ways and are very respectful of what we’ve achieved and, most importantly, now what we’re doing.\n\n“We’re respectful of each other’s opinions. And what helps, too, is that before the show there’s a lot of preparation – we try to talk and help each other out alongside the producers, who do it so well.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3948_4",
+            "category": "england",
+            "type": "News",
+            "title": "‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
+            "bullets": [
+              "A history of racism and ongoing footballing rivalries have made the choice of which team to get behi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topicThe Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thursday she took a different tack, writing instead about why she would not be supporting neighbouring Argentina in the World Cup final.“I have always been an admirer of the hermanos [as Brazilians affectionately call Argentinians] and would have loved to cheer on a fellow South American team,” she wrote on the morning after Argentina’s dramatic semi-final victory over England. “But I admit that the racist scenes involving a minority of the fans, and the silence of the majority on the pitch, turned my stomach.” Continue reading...",
+            "fullText": "A history of racism and ongoing footballing rivalries have made the choice of which team to get behind in Sunday’s final a charged topic\n\nThe Brazilian journalist and columnist Julia Duailibi usually writes about politics in her weekly column for the leading Brazilian newspaper O Globo, but last Thursday she took a different tack, writing instead about why she would not be supporting neighbouringArgentinain the World Cup final.\n\n“I have always been an admirer of thehermanos[as Brazilians affectionately call Argentinians] and would have loved to cheer on a fellow South American team,” shewroteon the morning after Argentina’s dramatic semi-final victory over England. “But I admit that the racist scenes involving a minority of the fans, and the silence of the majority on the pitch, turned my stomach.”\n\nHer stand is just one example of a common sentiment: across Latin America,manypeople have declared their supportfor Spainin Sunday’s final. Racism bysomeArgentinian fans has been cited as one reason, but not the only one.\n\n“In the past, people were more likely to support a Latin American team against a European one, but that has changed quite a lot in recent years,” said Nicolás Cabrera, an Argentinian sociologist and anthropologist who has devoted his academic career to studying football supporters across Latin America.\n\nPreviously, he said, that approach had largely been confined to Argentina’s traditional local rivals – above all Brazil, but also Uruguay and Chile – but has more recently extended to some Mexicans, Colombians and Ecuadorians.\n\n“Rifts began to appear for several reasons,” said Cabrera, who has lived in Rio de Janeiro for the past 10 years, where he is a university lecturer and researcher.\n\nFirst, there is the fact that Argentina have by far been Latin America’s most successful national team in recent years, reaching three of the past fourWorld Cupfinals and winning at least one of them.\n\nOver the same period, their neighbours have suffered much earlier exits This includes Brazil, who have not reached the World Cup final since winning their record fifth title in 2002.\n\nArgentina also have the star who has been lifting trophies and winning hearts around the world for two decades:Lionel Messi, who, even at 39, has been one of this World Cup’s standout players.\n\nCabrera also sees the growing rivalry as a consequence of the increasing number of matches between clubs – the Copa Libertadores continental tournament featured about 20 teams until the 1990s; today, including the preliminary rounds, nearly 50 compete. “As our teams play each other more often, fans start winding each other up,” he said.\n\nBut Cabrera added that social media have also contributed: “Hate speech, racism, xenophobia and discrimination began to circulate in ways that had previously been more marginal and less visible.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-18 @ 11:57:37 EDT",
+  "lastUpdated": "2026-07-18 @ 15:39:51 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
