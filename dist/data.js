@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Fifa gives fraud ‘an open door’ with betting, says Council of Europe chief",
+      "link": "https://www.theguardian.com/football/2026/jul/19/fifa-fraud-open-door-betting-council-of-europe-world-cup"
     }
   ],
   "timeline": {
@@ -7632,11 +7616,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5231_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Fifa gives fraud ‘an open door’ with betting, says Council of Europe chief",
+            "bullets": [
+              "Fifa deal with prediction market company under fireBalogun reprieve showed ‘rules bend under pressur...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifa deal with prediction market company under fireBalogun reprieve showed ‘rules bend under pressure’Fifa has been accused of providing an “open door to fraud” and allowing political influence to cast doubt on the integrity of the World Cup in a stinging rebuke by the Council of Europe’s secretary general.In an open letter published to coincide with Sunday’s final, Alain Berset also called for a new integrity framework to be built before the 2030 tournament, which is mainly being staged in Europe, and warned that Fifa was embroiled in a crisis involving money and power. Continue reading...",
+            "fullText": "Fifa deal with prediction market company under fire\n\nBalogun reprieve showed ‘rules bend under pressure’\n\nFifa has been accused of providing an “open door to fraud” and allowing political influence to cast doubt on the integrity of the World Cup in a stinging rebuke by the Council of Europe’s secretary general.\n\nIn an open letter published to coincide with Sunday’s final, Alain Berset also called for a new integrity framework to be built before the 2030 tournament, which is mainly being staged in Europe, and warned thatFifawas embroiled in a crisis involving money and power.\n\nBerset referenced the scandal surrounding Fifa’s decision to shelve the suspension of the USA striker Folarin Balogun and made apparent allusions to comments made by the Paraguayan senator Celeste Amarillaabout Kylian Mbappéand by the former Spanish prime minister Mariano Rajoyabout the France team.\n\n“The FifaWorld Cup 2026has raised question after question,” Berset wrote. “A sanction suspended under pressure, within days, with no reasons given. The authority of referees called into question. Racist abuse of players, some of it from elected officials. Betting on every pass, every card, every corner. The celebration will end tonight. The questions will not.”\n\nIt is a significant intervention given Fifa and the Council of Europe signed a memorandum of understanding in 2018, which remains valid. The agreement was struck to strengthen their work together on a number of topics, including “human rights, integrity and good governance in sport”. Open criticism of one partner by another is vanishingly rare.\n\nBerset took aim at Fifa’s deal with ADI Predictstreet, which became the World Cup’s official prediction market partner in April. “Betting has moved from the result of a match to moments a single player can produce without changing the score,” he said. “A bet is won by making others lose. It is an open door to fraud. And thisWorld Cuphas opened the door wider.”\n\nIn further reference to the lifting of Balogun’s ban by Fifa, which occurred after a phone call to its president,Gianni Infantino, by his US counterpart, Donald Trump, Berset said: “When the rules bend under pressure, every result is open to doubt.”\n\nInfantino has said the decision to revoke Balogun’s ban was taken independently by Fifa’s disciplinary committee “based on the applicable regulations and the specific facts”.\n\nBerset, who is Swiss, proposed a “working dialogue that starts tonight” to begin the “urgent work of strengthening the integrity of sport” before future World Cups. He referenced work by the Council of Europe – which is the continent’s intergovernmental human rights organisation – in creating a binding treaty to keep fans safe three months after the Heysel Stadium disaster in 1985, as well as further legislation set up to tackle doping in athletics and match-fixing.\n\nThe letter comes a week and a half after 72 members of the European parliament wrote to the 27 EU-based football associations asking for an investigation into Infantino’s involvement in the Balogun case. It pointed to alleged breaches of political neutrality and suggested Fifa had contravened its own code of ethics.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-19 @ 00:41:51 EDT",
+  "lastUpdated": "2026-07-19 @ 07:52:34 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
