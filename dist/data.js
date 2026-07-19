@@ -12189,11 +12189,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5414_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Here, Blekinge will decide the WC final in a hot penalty shootout",
+            "bullets": [
+              "On Sunday evening, Argentina and Spain meet in the final of the soccer World Cup 2026. The match is ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Sunday evening, Argentina and Spain meet in the final of the soccer World Cup 2026. The match is played in New York, and as an upgrade, SVT Blekinge has its own World Cup final in the form of a penalty shootout.",
+            "fullText": "On Sunday evening, Argentina and Spain meet in the final of the soccer World Cup 2026. The match is played in New York, and as an upgrade, SVT Blekinge has its own World Cup final in the form of a penalty shootout.\n\nThe last day of the Football World Cup has come. On Sunday evening, the world's best soccer nation will be crowned and it is Spain and Argentina who will settle for the title. The match played in New York will be followed all over the world – not least in Blekinge.\n\n- Football is very important to people in Argentina. It's in our roots and our blood, says Rodrigo Arotcarena who lives in Sölvesborg.\n\nDuring Javier's upbringing, he did not experience the success that Spain is associated with today.\n\n- As a child, I could never have dreamed of this. Now we have learned to be supporters of a successful team, says Javier Gonzalez Huerta from Ronneby.\n\nSpain advanced to the final after a dominant victory against early favorites France, while Argentina knocked out England in their semi-final after high drama.\n\n- It will be a super tough match. They are the two best teams in the entire tournament on the field, says Javier.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-19 @ 08:01:36 EDT",
+  "lastUpdated": "2026-07-19 @ 11:54:14 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
