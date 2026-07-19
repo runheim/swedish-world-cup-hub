@@ -4,36 +4,60 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ False nines or firing forwards - England's potential life after Kane",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cp87llz7539o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Best England team for a long time? That's a fact, says Rice",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ England beat France in 10-goal thriller to win third-place play-off",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ How did England players rate during the World Cup?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Bellingham breaks England World Cup goals record",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c0qvzqlp4pdo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Tottenham confident of Savinho signing - Sunday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/cn8nypvz22no?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Brilliant first half, turbulent second - Tuchel",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Rice fires England into early lead against France",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c0qvzk59jn0o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ O'Neill eyes 'couple of new faces' for Celtic",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8rnd6n1j78o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'They made him a defensive player' - Trump questions Kane role in semi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjej3y1jgdpo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ O'Neill eyes 'couple of new faces' for Celtic",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8rnd6n1j78o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ France v England: World Cup third-place playoff – live",
-      "link": "https://www.theguardian.com/football/live/2026/jul/18/france-v-england-world-cup-third-place-playoff-live"
+      "text": "⚽ Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+      "link": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report"
     },
     {
       "text": "⚽ Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job",
       "link": "https://www.theguardian.com/football/2026/jul/18/joe-hart-wayne-rooney-micah-richards-rowing-hudson-river-world-cup"
     },
     {
-      "text": "⚽ ‘Rifts began to appear’: Why many Latin Americans want Spain to beat Argentina in the World Cup final",
-      "link": "https://www.theguardian.com/football/2026/jul/18/argentina-spain-latin-america-support-world-cup-final"
+      "text": "⚽ England tournament player ratings: Who impressed and who struggled?",
+      "link": "https://www.skysports.com/football/news/12040/13564813/england-world-cup-player-ratings-every-three-lions-who-took-part-in-the-tournament-rated"
+    },
+    {
+      "text": "⚽ Hat-trick hero Saka: I'm fit and wanted to play more",
+      "link": "https://www.skysports.com/football/news/12040/13564841/france-4-6-england-bukayo-saka-reveals-he-is-fully-fit-and-wanted-to-play-more-at-the-world-cup-after-hat-trick-in-third-place-play-off"
+    },
+    {
+      "text": "⚽ Tuchel learns lesson as England clinch third place in 10-goal thriller",
+      "link": "https://www.telegraph.co.uk/football/2026/07/18/france-vs-england-live-score-world-cup-third-place-playoff/"
     }
   ],
   "timeline": {
@@ -32511,10 +32535,256 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-19": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4124_0",
+            "category": "england",
+            "type": "News",
+            "title": "Best England team for a long time? That's a fact, says Rice",
+            "bullets": [
+              "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Li...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder Declan Rice says \"this is the best England group for a very long time\" after the Three Lions secure a third-placed finish at the 2026 World Cup.",
+            "fullText": "Declan Rice captained England in their 6-4 win over France in Miami\n\n\"This is the best England group for a very long time. That's a fact. No-one can take that away from us.\"\n\nEngland's thrilling 6-4 win against Francesecured the Three Lions a World Cup bronze medal - their best finish since they won the trophy in 1966 - and left Declan Rice adamant major tournament success is \"close\".\n\nDespitethe criticism of Thomas Tuchel's tacticssince their painful semi-final collapse against Argentina, stand-in captain Rice was quick to praise England's efforts at the tournament.\n\nHe added: \"I think we can be proud as a group - we are just gutted we lost in that semi-final.\n\n\"We're tired of saying we're proud of coming in semi-finals and quarter-finals - we want to win with England ultimately. But to come third in this tournament is a real achievement.\n\n\"We're so close, honestly. There's been so much talk about this group over the last few years going out of tournaments. There's been semi-final exits, quarter-finals, finals.\n\n\"I think we need to keep going. I do think it's close.  It's a game of small margins. It's football and the other night we lost on margins and in the boxes.\"\n\nEngland's best World Cup for 60 years - but how should it be judged?\n\nOne of World Cup's all-time classics - England stun France in thriller\n\nDefiant Tuchel defends decisions and says loss is 'scar we carry now'\n\nEngland beat France in 10-goal thriller to win third-place play-off",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4124_1",
+            "category": "england",
+            "type": "News",
+            "title": "England beat France in 10-goal thriller to win third-place play-off",
+            "bullets": [
+              "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's W...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
+            "fullText": "Bukayo Saka scores a hat-trick as England beat France 6-4 in a thriller to record their best men's World Cup finish since 1966.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4124_2",
+            "category": "england",
+            "type": "News",
+            "title": "How did England players rate during the World Cup?",
+            "bullets": [
+              "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport England reporter Alex Howell assess how the Three Lions' players fared in North America.",
+            "fullText": "Jude Bellingham scored six goals for England during the World Cup\n\nEngland finished the World Cup bybeating France 6-4in an extraordinary third-place play-off.\n\nBBC Sport England reporterAlex Howellrates how the players did throughout the tournament.\n\nJordan Pickford:The Everton goalkeeper is undoubtedly England's number one and has proven he can deal with being on the big stage. However, this was not Pickford's best tournament and he produced some erratic moments. His best performance came in the semi-final loss to Argentina, but he will question himself over Enzo Fernandez's goal.6\n\nDean Henderson:England's second-choice goalkeeper came to the tournament in form. Henderson started the bronze-medal match against France, producing an excellent save to deny Kylian Mbappe but conceding four goals.6\n\nJames Trafford:Came to the tournament as third choice and did not feature but travelling to a World Cup is good experience.N/A\n\nEzri Konsa:The Aston Villa defender featured in every game and continued to show he has the quality for international football. A starting centre-back and also played at right-back in the win over Norway in the quarter-finals. He ended the tournament with a goal in the third-place play-off.7\n\nJohn Stones:It was considered a gamble by Thomas Tuchel to take Stones considering his fitness issues. He started the first game, had some shaky moments and dropped out for the next couple. But he regrouped and started the quarter-final win over Norway and semi-final defeat by Argentina. The 32-year-old showed his quality but was caught under the ball for Lautaro Martinez's winner.7\n\nMarc Guehi:A staple of the England backline at major tournaments. Guehi did not start the opening game against Croatia but when he came in he showed his usual calmness and quality. Guehi put in an excellent performance against Manchester City team-mate Erling Haaland in the quarter-final against Norway and performed well until England went out.8\n\nTrevoh Chalobah:The Chelsea defender was called up as a replacement for Tino Livramento. It was a decision that prompted a lot of debate as it was felt it left England short in the full-back areas.Chalobah was brought on in the closing stages of the win over France for his only minutes of the tournament.5\n\nJarell Quansah:This was Quansah's first major tournament and he was arguably a surprise pick in the 26-man squad. But the Bayer Leverkusen defender did show why Tuchel was so keen to have him as a full-back option. Quansah started well against Panama before getting injured, then did likewise against Mexico before he was sent off. He returned for the third-place play-off, and has a bright international future.6\n\nDan Burn:The Newcastle defender's inclusion was the subject of much debate but his performance against Mexico underlined the reasoning. Burn's aerial prowess gave England a way to see out games, though Tuchel turned to that tactic too early when trying to see out a win against Argentina.6.5",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4124_3",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham breaks England World Cup goals record",
+            "bullets": [
+              "Jude Bellingham becomes the first Englishman to score seven goals at a single World Cup with a late ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham becomes the first Englishman to score seven goals at a single World Cup with a late strike against France.",
+            "fullText": "'Six for England!' Bellingham rounds off third-place play-off win\n\nJude Bellingham became the first Englishman to score seven goals at a single World Cup with a late strikein the 6-4 win over France in the third-place play-off.\n\nThe Real Madrid midfielder was level with both Gary Lineker - who scored six times at Mexico '86 - and team-mate Harry Kane, who netted six in Russia in 2018 and at this tournament.\n\nBellingham, 23, was brought on in the 79th minute and scored with the final kick of the game, leading a counter-attack from the halfway line to the France box before beating a defender and slotting into the bottom corner.\n\n\"He has such confidence in his own ability,\" former England midfielder Danny Murphy told BBC One during the match. \"The patience, the skill, the shot. What a goal from England's best player.\"\n\nTwelve minutes earlier he had looked set to take a penalty but instead handed the ball to Bukayo Saka who converted to seal his hat-trick.\n\nAfter the match, Saka told BBC One: \"No, Jude [Bellingham] was never taking it. He was the first one to say go and get your hat-trick, so none of them came to distract me. I was always going to take it.\"\n\nBellingham gives England lead again against Croatia\n\nBellingham scores two in 98 seconds to silence the Azteca\n\n'England's everyman, every game!' Bellingham's equaliser v Norway\n\n'Man of all the moments' - Bellingham gives England the lead\n\n'Six for England!' Bellingham rounds off third-place play-off win",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4124_4",
+            "category": "england",
+            "type": "News",
+            "title": "Tottenham confident of Savinho signing - Sunday's gossip",
+            "bullets": [
+              "Tottenham are hopeful of signing Savinho from Manchester City, Real Madrid cool their interest in Ro...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tottenham are hopeful of signing Savinho from Manchester City, Real Madrid cool their interest in Rodri, AC Milan are keeping tabs on Phil Foden, plus more.",
+            "fullText": "Tottenhamare hopeful of signing Savinho fromManchester City, Real Madrid cool their interest in Rodri, while AC Milan are keeping tabs on Phil Foden.\n\nTottenhamremain confident of signingManchester City's22-year-old Brazil winger Savinho.(Fabrizio Romano),external\n\nReal Madridhave no intention of signingManchester City's30-year-old Spain midfielder Rodri this summer.(Athletic - subscription required),external\n\nAC Milanare keeping tabs on 26-year-oldManchester Cityand England midfielder Phil Foden. (Tuttosport,external).\n\nBut any deal for Foden would only be possible ifAC Milanare able to sell 27-year-old Portugal forward Rafael Leao. (Tuttosport,external)\n\nLeicester Citydefender Ben Nelson has told the club he wants to leave withManchester UnitedandWest Haminterested in the 22-year-old Englishman.(Mail),external\n\nArsenalare set to sign English defender Elijah Upson after the 18-year-old turned down a new contract withTottenham.(Fabrizio Romano),external\n\nPortugal midfielder Joao Palhinha is expected to return toBayern Munichfor the start of pre-season with reports the 31-year-old is due to sign forAston Villawide of the mark.(Sky Germany),external\n\nLiverpoolare set to sign 17-year-old Colombian midfielder Samuel Martinez fromAtletico Nacionalfor about Â£750,000.(Athletic - subscription required),external\n\nReal Madrid,BarcelonaandAtletico Madridare interested in signing 28-year-oldTottenhamand Argentina defender Cristian Romero.(Teamtalk),external\n\nJuventusare ahead ofBorussia DortmundandSunderlandin the race to sign USA forward Folarin Balogun, 25, fromMonaco.(Mundo Deportivo),external\n\nChelseaare still in talks to sign 26-year-old France defender Maxence Lacroix, butCrystal Palace'sasking price of about Â£70m is stalling the deal.(Caught Offside),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4124_5",
+            "category": "england",
+            "type": "News",
+            "title": "Brilliant first half, turbulent second - Tuchel",
+            "bullets": [
+              "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England manager praises his players as England beat France 6-4 for third place in the 2026 World Cup.",
+            "fullText": "England manager praises his players despite a topsy-turvy match, as England beat France 6-4 for third place in the 2026 World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4124_6",
+            "category": "england",
+            "type": "News",
+            "title": "Rice fires England into early lead against France",
+            "bullets": [
+              "Captain Declan Rice gives England an early lead, scoring in the third minute against France in the W...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Captain Declan Rice gives England an early lead, scoring in the third minute against France in the World Cup third-place play-off at Miami Stadium.",
+            "fullText": "Captain Declan Rice gives England an early lead, scoring in the third minute against France in the World Cup third-place play-off at Miami Stadium.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4125_7",
+            "category": "england",
+            "type": "News",
+            "title": "O'Neill eyes 'couple of new faces' for Celtic",
+            "bullets": [
+              "Martin O'Neill insists Celtic are \"making some progress\" in introducing more new faces to his squad ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Martin O'Neill insists Celtic are \"making some progress\" in introducing more new faces to his squad as he opens up on the failure to re-sign Kelechi Iheanacho and Marcelo Saracchi.",
+            "fullText": "Celtic's friendly with Middlesbrough did not attract a large crowd\n\nMartin O'Neill insists Celtic are \"making some progress\" in introducing more new faces to his squad as he opened up on the failure to re-sign Kelechi Iheanacho and Marcelo Saracchi.\n\nThe Scottish champions are again facing criticism from their own fans for their lack of summer transfer activity, with some suggesting it led to a poor attendance atSaturday's 1-1 pre-season friendly drawat home to Middlesbrough.\n\nCamilo Duran, the striker brought in from Qarabag, struck Celtic's equaliser after David Strelec, who had previously been linked with the Glasgow club, had given the Championship side the lead.\n\nThe Colombian, who has now scored twice in pre-season, is the club's only summer addition so far, but O'Neill insisted: \"We will bolster the squad.\n\n\"We are making some progress. We'll hopefully see a couple of new faces by the time that we kick the season off.\"\n\nWho has your Premiership club brought in & let go this summer?\n\nIheanacho rejects new Celtic deal as Saracchi gives up on return\n\nHowever, the Northern Irishman did not want to give any firm promises, citing the example of Iheanacho.\n\nCeltic wanted to retain the Nigerian striker at the end of his one-year contract, but instead he signed earlier this week for Bursaspor, who have only just been promoted to Turkey's second tier.\n\n\"We thought we had a deal with Iheanacho and it didn't go,\" added O'Neill. \"It was something we thought we had sorted out.\"\n\nCeltic chief executive Michael Nicholson has admitted it was proving \"difficult\" to add to their squad because they are competing with big-spending clubs in England's top two divisions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4125_8",
+            "category": "england",
+            "type": "News",
+            "title": "O'Neill eyes 'couple of new faces' for Celtic",
+            "bullets": [
+              "Martin O'Neill insists Celtic are \"making some progress\" in introducing more new faces to his squad ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Martin O'Neill insists Celtic are \"making some progress\" in introducing more new faces to his squad as he opens up on the failure to re-sign Kelechi Iheanacho and Marcelo Saracchi.",
+            "fullText": "Celtic's friendly with Middlesbrough did not attract a large crowd\n\nMartin O'Neill insists Celtic are \"making some progress\" in introducing more new faces to his squad as he opened up on the failure to re-sign Kelechi Iheanacho and Marcelo Saracchi.\n\nThe Scottish champions are again facing criticism from their own fans for their lack of summer transfer activity, with some suggesting it led to a poor attendance atSaturday's 1-1 pre-season friendly drawat home to Middlesbrough.\n\nCamilo Duran, the striker brought in from Qarabag, struck Celtic's equaliser after David Strelec, who had previously been linked with the Glasgow club, had given the Championship side the lead.\n\nThe Colombian, who has now scored twice in pre-season, is the club's only summer addition so far, but O'Neill insisted: \"We will bolster the squad.\n\n\"We are making some progress. We'll hopefully see a couple of new faces by the time that we kick the season off.\"\n\nWho has your Premiership club brought in & let go this summer?\n\nIheanacho rejects new Celtic deal as Saracchi gives up on return\n\nHowever, the Northern Irishman did not want to give any firm promises, citing the example of Iheanacho.\n\nCeltic wanted to retain the Nigerian striker at the end of his one-year contract, but instead he signed earlier this week for Bursaspor, who have only just been promoted to Turkey's second tier.\n\n\"We thought we had a deal with Iheanacho and it didn't go,\" added O'Neill. \"It was something we thought we had sorted out.\"\n\nCeltic chief executive Michael Nicholson has admitted it was proving \"difficult\" to add to their squad because they are competing with big-spending clubs in England's top two divisions.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4125_9",
+            "category": "england",
+            "type": "News",
+            "title": "Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
+            "bullets": [
+              "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he coul...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response from England, albeit against a France team firmly on their sunloungers during an incredible first half in which they conceded four times.Yet with Kylian Mbappé on the hunt for his second successive Golden Boot in Didier Deschamps’ last match in charge of Les Bleus, even that lead courtesy of goals from Declan Rice, Ezri Konsa and two from Bukayo Saka almost wasn’t enough. Mbappé began the comeback straight after half-time before adding his second after Bradley Barcola’s strike. The 27-year-old has become the first male player to reach double figures at a World Cup since Gerd Müller in 1970. Over to you, Lionel. Continue reading...",
+            "fullText": "Where to start with this rollercoaster of a match? Thomas Tuchel had promised a reaction but he could not have imagined the manner of the response fromEngland, albeit against a France team firmly on their sunloungers during an incredible first half in which they conceded four times.\n\nYet withKylian Mbappéon the hunt for his second successive Golden Boot in Didier Deschamps’ last match in charge ofLes Bleus, even that lead courtesy of goals from Declan Rice, Ezri Konsa and two from Bukayo Saka almost wasn’t enough. Mbappé began the comeback straight after half-time before adding his second after Bradley Barcola’s strike. The 27-year-old has become the first male player to reach double figures at a World Cup since Gerd Müller in 1970. Over to you, Lionel.\n\nThankfully for England, Saka’s late penalty to complete his hat-trick and Jude Bellingham’s seventh of the tournament after he came off the bench ensured that an afternoon that had begun with boos for Tuchel from some supporters ended with England claiming third place at the World Cup for the first time. Although the scars oftheir semi-final loss to Argentinawill remain, they at least rounded off their campaign with a memorable victory.\n\nMiami’s leaden skies throughout the day had matched the mood of both teams as they tried to put on a brave face after semi-final exits. As well as his attempt to overhaul Lionel Messi, Mbappé had extra motivation along with his teammates to send Deschamps off into the sunset with a victory after 14 years at the helm. The Real Madrid star published a message on social media in the hours before kick-off thanking the man who guidedFranceto a second world title in 2018 and came so close four years later. “Today is your last dance,” he wrote.\n\nTuchel signed a contract extension before this tournament and has indicated hewants to lead England into Euro 2028on home soil. However after a tetchy pre-match press conference here on Friday night whenthe German doubled downon the conviction that he would make the same decisions again given the chance against Argentina, the next two years look set to be a test of his ability to rebuild his reputation among England’s supporters. The reception Harry Kane and the rest were given after England received their bronze medals suggested the players’ effort over the past five weeks has been fully appreciated.\n\nLike Deschamps, Tuchel made seven changes from the semi-final, with Rice surprisingly named captain in place of Kane despite carrying an injury for the entire tournament. Arsenal, who have serious concerns about how long William Saliba is likely to be sidelined with a back injury, will not have been delighted to find Saka starting either.\n\nThere was also intrigue in the absence from the bench of Kobbie Mainoo, the Manchester United midfielder who has not played a minute at theWorld Cup. The Football Association said he was injured, although Jordan Henderson was listed among the substitutes despite the broken arm sustained celebrating England’s win over Mexico.\n\nAt first, France seemed to be suffering from more of a hangover. Désiré Doué’s loose pass in the third minute was seized upon by Rice and his finish left Mike Maignan with no chance. Mbappé managed to tread on the ball just as he was speeding through on goal before Saka had a goal from an exquisite Morgan Rogers pass chalked off for offside. It needed a block from Maxence Lacroix to halt Saka’s next attack before Konsa beat his marker, Adrien Rabiot, to nod in Rice’s corner. England looked as if they had a point to prove.\n\nMarcus Rashford embarrassed Warren Zaïre-Emery with a nutmeg before unleashing a powerful shot that was well saved by Maignan. At the other end, Dean Henderson brilliantly denied Mbappé, who had cut in from the left, before another save ended up kickstarting the move for England’s third on the break. There was something comical about the way Rashford and Saka took turns trying to score before the latter eventually did. A brilliant pass from Eberechi Eze set up Saka’s second on the stroke of half-time. France’s players looked stunned, even if Mbappé tried his best to laugh it off.\n\nKick off your evenings with the Guardian's take on the world of football\n\nDeschamps responded by making four changes at the break, including Ousmane Dembélé and Bradley Barcola. They had pulled one back within three minutes when Mbappé finished Olise’s through ball after the England substitute Ollie Watkins lost possession. It was not long before Barcola was sprinting back to halfway with the ball tucked under an arm after making it 4-2. Mbappé added his second after exchanging passes with Olise on the edge of England’s area and suddenly Tuchel’s side were really wobbling.\n\nSomehow Olise could not hit the target to force extra time after toying with England’s defence. Bellingham and Elliot Anderson had been summoned from the bench by that stage and it was left to the former and Saka, who did not get off the bench against Argentina, to hammer the final nails into France’s coffin. Between times Dembélé pulled another goal back in this incredible spectacle that will surely go down as the game of the tournament.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4125_10",
+            "category": "england",
+            "type": "News",
+            "title": "Hart, Rooney and Richards on rowing the Hudson and if Tuchel should keep his job",
+            "bullets": [
+              "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup The BBC punditry trio Wayne Rooney, Micah Richards and Joe Hart are fresh off a boat on New York’s Hudson River after an attempt to honour Rooney’s declaration that he would “row the River Mersey” if Norway reached the World Cup quarter-final. They did, prompting Erling Haaland to tease Rooney, saying: “I’m looking forward to seeing you, Wayney boy.”How was it? Continue reading...",
+            "fullText": "Pundits set out on the New York river to fulfil forfeit after Wayne’s errant prediction about Norway at the World Cup\n\nThe BBC punditry trioWayne Rooney, Micah Richards and Joe Hart are fresh off a boat on New York’s Hudson River after an attempt to honour Rooney’s declaration that he would “row the River Mersey” if Norway reached the World Cup quarter-final. They did, prompting Erling Haaland to tease Rooney, saying: “I’m looking forward to seeing you, Wayney boy.”\n\nWayne Rooney:“It was more relaxing than I thought. Once we got into a nice little rhythm, we were OK. A couple of other times we came out of the rhythm and Micah nearly killed my back. But no, it was good. Harty looks like he’s been doing it for years. So it was actually enjoyable.”\n\nMicah Richards:“It was good fun. I wouldn’t pick it to do it again, but I enjoyed it – there for the lads.”\n\nJoe Hart:“It sums up how we’ve been the wholeWorld Cup, as a trio. None of us were so comfy doing it but no one cared, we all got on with it and it was a good laugh. And Wazza said he was going to do it and he has done it, so he’s a man of his word.”\n\nTheir first time working together at the World Cup was England’s second group game,the goalless draw with Ghanaon 23 June, but it revealed an instant chemistry between the three.\n\nJH:“It’s gone well because, while we’re all very professional in what we’re doing, we also go way back – like a long way back – and that’s important. It means that we’re ourselves and feel comfortable around each other. Gabby [Logan], Kelly [Cates] and Chappers [Mark Chapman] have been unreal as presenters in getting the best out of us. As a group we’ve really found something.”\n\nWR:“It’s strange in a way, but it’s very similar to when you’re playing on the pitch. We all have our bits of analysis to do but in terms of when we’re talking, you don’t want to speak over someone else, so it’s about eye contact and understanding when you’re coming in next. It’s really good chemistry.”\n\nMR:“Harty – for me, it would have been when you arrived [at Manchester City] from Shrewsbury [in 2006], wouldn’t it?”\n\nJH:“I met Micah when I was 19, he was 18 – so over 20 years ago. And then obviously Wayne was in the England team from when he was like 12 [laughs].”\n\nWR:“I met you, Micah, the first time you were in the England squad [November 2006] and I remember thinking: ‘Who’s this loud lad coming in?’ So we’ve played with and against each other, we enjoy each other’s company and we’ve all had different careers in different ways and are very respectful of what we’ve achieved and, most importantly, now what we’re doing.\n\n“We’re respectful of each other’s opinions. And what helps, too, is that before the show there’s a lot of preparation – we try to talk and help each other out alongside the producers, who do it so well.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4126_11",
+            "category": "england",
+            "type": "News",
+            "title": "England tournament player ratings: Who impressed and who struggled?",
+            "bullets": [
+              "England's World Cup campaign is officially over and while history has been made - it's not quite the...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England's World Cup campaign is officially over and while history has been made - it's not quite the history the Three Lions wanted.",
+            "fullText": "England ended the World Cup with a third-place finish and a bronze medal - their best performance since the 1966 World Cup - here Sky Sports rates every member of England's 26-man squad as well as head coach Thomas Tuchel and assistant boss Anthony Barry",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4126_12",
+            "category": "england",
+            "type": "News",
+            "title": "Hat-trick hero Saka: I'm fit and wanted to play more",
+            "bullets": [
+              "Bukayo Saka revealed he \"wanted to play more\" at the World Cup after scoring a hat-trick to earn Eng...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka revealed he \"wanted to play more\" at the World Cup after scoring a hat-trick to earn England a bronze medal against France - after Thomas Tuchel tactically left him out of the semi-final loss to Argentina.",
+            "fullText": "Bukayo Saka scored a hat-trick as England finished third at the World Cup after a 6-4 win over France; the England winger admitted he wanted to play more after being available for the World Cup semi-final loss to Argentina; Thomas Tuchel made a tactical call to start Morgan Rogers instead",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4131_13",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel learns lesson as England clinch third place in 10-goal thriller",
+            "bullets": [
+              "Tuchel learns lesson as England clinch third place in 10-goal thriller",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel learns lesson as England clinch third place in 10-goal thriller",
+            "fullText": "Was this evidence ofEnglandhead coach Thomas Tuchel already learning lessons from theArgentina collapse? Let’s hope so.\n\nWith England on the ropes and in danger of throwing away a lead against France, Tuchel resisted the temptation to flood his team with defenders and was rewarded with a World Cup bronze medal.\n\nEngland looked on course to secure an emphatic victory to clinch the nation’s best World Cup finish since 1966 and yet Tuchel was left with the exact same scenario that hadgone so badly against Argentinain the semi-final.\n\nLeading by four goals at half-time, England somehow went into the final hydration break of this bronze medal game with a single-goal advantage. This time, Tuchel steered England over the line by getting his late substitutions right.\n\nJude Bellingham stepped off the bench to cap a wonderful tournament for him personally with the goal that made sure England finished the World Cup in third place.\n\nIt may have resembled an exhibition match at times, with France failing to turn up in the first half. But England’s thrilling 6-4 victory will send Tuchel home from the United States feeling a little bit better, even though he isnot yet off the hook for what happened in Atlanta.\n\nThe fact that success against France was earned with a Bukayo Saka hat-trick, as well as goals from Declan Rice, Ezri Konsa and Bellingham, will prompt more debate over Tuchel’s decision-making when it really mattered. Not least why Saka watched the entire Argentina game from the substitutes’ bench.\n\nTuchel cut a relaxed figure, changing his touchline attire to a casual white T-shirt and tracksuit bottoms. But his team meant business, as they raced into a stunning four-goal first-half lead.\n\nGreat result tonight@England.You've done us proud.https://t.co/kS6nQ51NxI\n\nSaka played like a man with a point to prove. He scored twice and produced the shot from which England won the corner for Konsa’s goal in the opening 45 minutes. Was this a message to Tuchel or simply the winger taking out his frustration on France?\n\nFrance looked uninterested from the start and it was a loose Désiré Doué pass that gifted possession to Rice. As England’s captain for the evening strided forwards, Doué did not bother to track him and Rice curled a lovely shot into the corner of the net to give Tuchel’s team a third-minute lead.\n\nIt's a quick start from England! 🦁⚡Declan Rice fires home the opener in the third minute against France ⚽pic.twitter.com/ID4u3rXOuM",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-18 @ 18:50:06 EDT",
+  "lastUpdated": "2026-07-19 @ 00:41:31 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
