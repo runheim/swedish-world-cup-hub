@@ -12256,11 +12256,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4322_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Here, Blekinge will decide the WC final in a hot penalty shootout",
+            "bullets": [
+              "On Sunday evening, Argentina and Spain meet in the final of the soccer World Cup 2026. The match is ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Sunday evening, Argentina and Spain meet in the final of the soccer World Cup 2026. The match is played in New York, and as an upgrade, SVT Blekinge has its own World Cup final in the form of a penalty shootout.",
+            "fullText": "On Sunday evening, Argentina and Spain meet in the final of the soccer World Cup 2026. The match is played in New York, and as an upgrade, SVT Blekinge has its own World Cup final in the form of a penalty shootout.\n\nThe last day of the Football World Cup has come. On Sunday evening, the world's best soccer nation will be crowned and it is Spain and Argentina who will settle for the title. The match played in New York will be followed all over the world – not least in Blekinge.\n\n- Football is very important to people in Argentina. It's in our roots and our blood, says Rodrigo Arotcarena who lives in Sölvesborg.\n\nDuring Javier's upbringing, he did not experience the success that Spain is associated with today.\n\n- As a child, I could never have dreamed of this. Now we have learned to be supporters of a successful team, says Javier Gonzalez Huerta from Ronneby.\n\nSpain advanced to the final after a dominant victory against early favorites France, while Argentina knocked out England in their semi-final after high drama.\n\n- It will be a super tough match. They are the two best teams in the entire tournament on the field, says Javier.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4324_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina",
+            "bullets": [
+              "German created ‘best England group for togetherness’Captain underlines importance of Nations League ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "German created ‘best England group for togetherness’Captain underlines importance of Nations League gamesHarry Kane has backed Thomas Tuchel to learn from England’s World Cup semi-final defeat against Argentina and believes they must use the forthcoming Nations League campaign to gain experience of playing against the top teams.Kane was an unused substitute as England sealed third place with an entertaining 6-4 victory against France on Saturday – their best finish at a World Cup on foreign soil. Tuchel, who signed a contract extension before the tournament, has been criticised heavily for his tactics against Argentina when he opted to switch to a back five to try to defend a 1-0 lead. Continue reading...",
+            "fullText": "German created ‘best England group for togetherness’\n\nCaptain underlines importance of Nations League games\n\nHarry Kane has backedThomas Tuchelto learn from England’s World Cup semi-final defeat against Argentina and believes they must use the forthcoming Nations League campaign to gain experience of playing against the top teams.\n\nKane was an unused substitute as England sealed third place with anentertaining 6-4 victory against Franceon Saturday – their best finish at a World Cup on foreign soil. Tuchel, who signed a contract extension before the tournament, has been criticised heavily for his tacticsagainst Argentinawhen he opted to switch to a back five to try to defend a 1-0 lead.\n\nKane admittedEnglandhad fallen short against Lionel Scaloni’s side but described the environment Tuchel has created since succeeding Gareth Southgate in 2025 as “the best England group I’ve been a part of in terms of togetherness”.\n\nThe captain said: “I know there are a lot of questions after the other night. We have to process it as players. I’m sure the manager will. It’s his first major tournament. He’ll learn a lot from the players, the situations, the pressures, the travel.\n\n“There are also a lot of things as players we can learn from the other night. For now it’s just trying to process everything. We had a lot of good things, a lot of tough situations we overcame. The group is incredible, the best England group I’ve been a part of in terms of togetherness. The boss was a big part of creating that as well.\n\n“Fans are going to be angry and we understand it. It’s a major tournament and that’s why you dream so big. When it doesn’t go your way you have to take the criticism. We’re all willing to do that, to dare to reach the biggest goal of all. We know over the next two years until we’re facing that situation again there is always going to be a question mark. It’s something we have to take and use as motivation.”\n\nEngland missed out on facing regular top-class opposition in the buildup to theWorld Cupafter being relegated from the top Nations League group in 2022 under Southgate. They were promoted in 2024 and will face Spain, Croatia and Czechia, starting with a rematch of the Euro 2024 final against Luis de la Fuente’s side on 26 September at Wembley. After beating France – albeit in a largely meaningless game – Kane thinks England must take the competition seriously if they are to thrive in tournaments.\n\n“The last 30 minutes of Argentina is not the team we want to be,” he said. “We spent a lot of time over the last two years talking about that situation, to attack those moments. The bottom line is we lost anyway. It’s easy to go away and talk about it. We need to get better at actually being in those situations. We can train, play the qualifiers … I think the Nations League will be big for us, against Spain and Croatia, big teams.\n\n“Getting used to those big environments and finding our best form against those teams, like we did against France, albeit not in the most competitive match. We have to learn, improve. The coach will have improved from these learnings. I can talk as much as I want but ultimately it’s about showing it next time we’re in that situation.”\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-19 @ 15:39:26 EDT",
+  "lastUpdated": "2026-07-19 @ 18:43:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
