@@ -12,24 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Best England team for a long time - that's a fact, says Rice",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4g34gjmyl7o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ England beat France in 10-goal thriller to win third-place play-off",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm2gn7v4jljo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Brilliant first half, turbulent second - Tuchel",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c1j1djgkg98o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Bellingham breaks England World Cup goals record",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0qvzqlp4pdo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ How did England players rate during the World Cup?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2jljx84rwo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ At the World Cup of superstars, a team take home the trophy | Sid Lowe",
+      "link": "https://www.theguardian.com/football/2026/jul/20/world-cup-2026-final-spain-argentina"
     },
     {
       "text": "⚽ Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina",
@@ -38,10 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ England 2026 World Cup squad: player-by-player ratings",
       "link": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings"
-    },
-    {
-      "text": "⚽ Saka hat-trick seals 6-4 England win over France in epic World Cup third-place playoff",
-      "link": "https://www.theguardian.com/football/2026/jul/19/england-france-world-cup-third-place-playoff-match-report"
     },
     {
       "text": "⚽ Tuchel learns lesson as England clinch third place in 10-goal thriller",
@@ -33796,10 +33776,120 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-20": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5802_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal line up Stones free transfer - Monday's gossip",
+            "bullets": [
+              "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chel...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
+            "fullText": "Arsenalare weighing up a move for John Stones as a replacement for the injured William Saliba,Chelseahold formal talks over Maxence Lacroix, whileHull Citywant to sign Leon Bailey fromAston Villa.\n\nArsenalare considering signing 32-year-old England defender John Stones on a free transfer if 25-year-old France defender William Saliba's injury turns out to be long term.(Sun),external\n\nChelseahave held formal talks withCrystal Palaceover a move for France defender Maxence Lacroix with the Eagles valuing the 26-year-old around Â£55m.(Talksport),external\n\nHull Cityare in talks withAston Villaover a deal for 28-year-old Jamaica winger Leon Bailey.(Athletic - subscription required),external\n\nNewFulhammanager Alvaro Arbeloa wants to sign two players from former clubReal Madrid, including 18-year-old Argentina winger Franco Mastantuono and 22-year-old Spain forward Gonzalo Garcia.(Sun),external\n\nBologna's23-year-old English winger Jonathan Rowe remains onAston VillaandChelsea'sshortlists.(Calciomercato - in Italian),external\n\nHull Cityare closing in on the signing of 30-year-old formerNewcastleleft-back Matt Targett, who is a free agent after leaving the club this summer.(Mail),external\n\nLiverpoolare prepared to joinManchester Unitedin the race forRoma's25-year-old France midfielder Manu Kone.(Football Insider),external\n\nAston Villahave held talks withChelseaover the possibility of signing both Nicolas Jackson and Alejandro Garnacho this summer.(Teamtalk),external\n\nAC Milan'sPortugal forward Rafael Leao would prefer a move to the Premier League rather than Turkey, withAston Villaa potential destination for the 27-year-old.(Gazzetta - in Italian),external\n\nLazioare targetingWest Ham'sDR Congo defender Aaron Wan-Bissaka, with the 28-year-old also onArsenal'slist of potential options.(Mail),external\n\nJuventus'number one goalkeeping target isAston Villa's33-year-old Argentina international Emiliano Martinez, while the Serie A club is also keeping an eye onFiorentina's35-year-old Spain goalkeeper David de Gea.(Calciomercato - in Italian),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5803_1",
+            "category": "england",
+            "type": "News",
+            "title": "Has Saka shown Tuchel he's too good to leave out?",
+            "bullets": [
+              "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka’s World Cup hat-trick against France reignited the selection debate and Thomas Tuchel’s decision to leave him out of the semi-final.",
+            "fullText": "Saka hat-trick helps England finish third at World Cup\n\nThree days can feel like an eternity in tournament football.\n\nOn Wednesday night in Atlanta, Bukayo Saka watched from the substitutes' bench as England's World Cup dream slipped away. Despite being fit enough to play, the Arsenal winger remained an unused substitute as Thomas Tuchel's side surrendered a 1-0 lead in the closing stages to lose 2-1 to holders Argentina.\n\nBy Saturday evening in Miami, Saka had delivered his response in the only way he knows how.\n\nA superb hat-trick inspired England to a thrilling6-4 victory over Francein the third-place play-off, earning the Three Lions their best World Cup finish since lifting the trophy in 1966 and reigniting questions over whether one of England's key players should have featured when it mattered most.\n\nSaka's reply could hardly have been more emphatic. He struck twice as England stormed into a 4-0 half-time lead against France, first reacting quickest after Marcus Rashford's saved effort before collecting Eberechi Eze's through ball and calmly firing into the bottom corner.\n\nWith France threatening an unlikely turnaround after the break, Saka completed his hat-trick from the penalty spot to restore England's two-goal cushion.\n\nIt made him only the fourth England player to score a World Cup hat-trick - after Geoff Hurst, Gary Lineker and Harry Kane - and only the second to do so in the knockout stages after Hurst's famous treble in the 1966 final.\n\nEngland beat France in 10-goal thriller to win 'bronze final'\n\nIn England's dramatic World Cup semi-final defeat by Argentina, Tuchel opted to start Morgan Rogers on the right, and the Aston Villa forward initially justified his selection by setting up Anthony Gordon's opening goal early in the second half.\n\nThe Three Lions looked on course for a first World Cup final in 60 years before Tuchel switched to a more defensive shape midway through the second half.\n\nArgentina seized control, with Enzo Fernandez levelling in the 85th minute before Lautaro Martinez headed Lionel Messi's cross home in stoppage time tocomplete a remarkable comeback.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5803_2",
+            "category": "england",
+            "type": "News",
+            "title": "At the World Cup of superstars, a team take home the trophy | Sid Lowe",
+            "bullets": [
+              "The European champions conceded just one goal in the tournament and Spain’s success is a victory for...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The European champions conceded just one goal in the tournament and Spain’s success is a victory for a systemRelease the pressure, let it out. All of it and all of them. Again and again they had come, again and again they had been halted but they would not be denied. A dozen different players had taken aim at Emi Martínez’s goal but somehow he was still standing and time was slipping away, yet Spain refused to do so, so they came some more.And then, suddenly, only this wasn’t really sudden, the result instead of the purest logic, the clearest justice, Pedro Porro’s deep cross found Nico Williams at the far post and he headed back. The ball dropped deep inside the Argentina penalty area, bounced on the turf and just kind of sat there: waiting, willing someone take this moment. Continue reading...",
+            "fullText": "The European champions conceded just one goal in the tournament and Spain’s success is a victory for a system\n\nRelease the pressure, let it out. All of it and all of them. Again and again they had come, again and again they had been halted but they would not be denied. A dozen different players had taken aim at Emi Martínez’s goal but somehow he was still standing and time was slipping away, yetSpainrefused to do so, so they came some more.\n\nAnd then, suddenly, only this wasn’t really sudden, the result instead of the purest logic, the clearest justice, Pedro Porro’s deep cross found Nico Williams at the far post and he headed back. The ball dropped deep inside theArgentinapenalty area, bounced on the turf and just kind of sat there: waiting, willing someone take this moment.\n\nSo at 5.42pm eastern daylight time, 37 seconds into the second period of extra time, Ferran Torres did. And with Spain’s 20th shot of this final, with all his might and all his soul, he won theWorld Cup. The ball travelled at 102km/h, tearing into the net, and Torres turned and tore in the other direction, sprinting to the corner where he leapt into the air and volleyed that too. Not quite so hard as he had hit the shot, but hard. From the bench and the pitch his teammates raced towards him, liberated at last, the joy flooding out. Oh, the release.\n\nAndrés Iniesta once said that the moment the ball sat up for him in the 116th minute of the final in South Africa in 2010, he heard the silence. Maybe Torres heard it too; maybe he heard history call. More often he has heard noise. Here there was an explosion, everyone at that end of New York New Jersey Stadium going absolutely mad. Torres stood there, doing a familiar gesture: jibber-jabber hands, ears “listening” wondering where the critics were now. Then he got the biggest hug Lamine Yamal has ever given.\n\nLate in Spain’s victory over Saudi Arabia on the day that Luis de la Fuente celebrated his 65th birthday, Torres had come on as a substitute and scored the final goal – or thought he had – only for the video assistant referee to take it from him. As they reviewed the footage, Ferran had stood with his hands in front of his mouth in a praying position, muttering to himself:por favor,be a goal; por favor,be a goal.This seemed like a portrait of the pressure, of what players put up with sometimes, a picture perhaps of desperation too. Spain were four goals up already, but here he waspleadingfor it to count.\n\nIn the previous game against Cape Verde, he had hit the bar. In the next game, against Uruguay, he did it again. There was something that his critics took as confirmation, something cruel in how close it was. Too often he had felt that fate somehow was conspiring against him. Turned out, it was saving something for him: the greatest goal, the greatest moment in any player’s career. Justice had been done, not just in the game, which Spain had dominated Spain’s way – at that point Argentina had not had a shot – but to this team. This family, as De la Fuente calls them, all in it together.\n\nIt felt right almost that it should be Torres, a symbol of all of them – like this was another moment shared, the collective expressed in one man who hasn’t always felt it but will now be for ever beloved. Torres became the seventhdifferent Spain player to score in the US. At the World Cup of the stars, ateamtook the trophy. The European champions were the best team here, lifting that trophy having conceded just one goal, and this was a victory for a system, an ideal, a commitment to an identity. In that, it can feel almost inevitable but it is not. This was also a victory for vindication, for the belief their manager has in them and they have in each other, even if others do not. “People have been very unfair with him but he has a spectacular mentality, he keeps going, keeps working, and today life has paid him back,” Pedro Porro said of Torres. “This is for all 26 of us.”\n\nComing into the tournament, Rodri, the captain, had not completed his rehabilitation yet. Lamine Yamal, the star, was returning from injury too, everyone waiting for him until they realised that maybe they didn’t have to. Williams, who had provided the assist, thought he wouldn’t get there: injured for much of the season, he fought back then feared Uruguay had kicked him out of the World Cup.\n\nFabián Ruiz had missed most the season injured. Aymeric Laporte, imperious again, suffered with Athletic. Behind him, the debate around Unai Simón wouldn’t relent. Eric García and Martín Zubimendi came on here to win it: neither had had a minute yet, meaning Spain finished the competition with only two outfielders who have not played. Who had Pedro Porro and Marc Cucurella down as the world’s best full-backs before the tournament? Plenty do now. Mikel Merino, the superest of super subs, had played only 28 minutes since March, but appeared to rescue them. Not once, but twice.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAnd then, at the biggest moment of all, there was Torres.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5803_3",
+            "category": "england",
+            "type": "News",
+            "title": "Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina",
+            "bullets": [
+              "German created ‘best England group for togetherness’Captain underlines importance of Nations League ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "German created ‘best England group for togetherness’Captain underlines importance of Nations League gamesHarry Kane has backed Thomas Tuchel to learn from England’s World Cup semi-final defeat against Argentina and believes they must use the forthcoming Nations League campaign to gain experience of playing against the top teams.Kane was an unused substitute as England sealed third place with an entertaining 6-4 victory against France on Saturday – their best finish at a World Cup on foreign soil. Tuchel, who signed a contract extension before the tournament, has been criticised heavily for his tactics against Argentina when he opted to switch to a back five to try to defend a 1-0 lead. Continue reading...",
+            "fullText": "German created ‘best England group for togetherness’\n\nCaptain underlines importance of Nations League games\n\nHarry Kane has backedThomas Tuchelto learn from England’s World Cup semi-final defeat against Argentina and believes they must use the forthcoming Nations League campaign to gain experience of playing against the top teams.\n\nKane was an unused substitute as England sealed third place with anentertaining 6-4 victory against Franceon Saturday – their best finish at a World Cup on foreign soil. Tuchel, who signed a contract extension before the tournament, has been criticised heavily for his tacticsagainst Argentinawhen he opted to switch to a back five to try to defend a 1-0 lead.\n\nKane admittedEnglandhad fallen short against Lionel Scaloni’s side but described the environment Tuchel has created since succeeding Gareth Southgate in 2025 as “the best England group I’ve been a part of in terms of togetherness”.\n\nThe captain said: “I know there are a lot of questions after the other night. We have to process it as players. I’m sure the manager will. It’s his first major tournament. He’ll learn a lot from the players, the situations, the pressures, the travel.\n\n“There are also a lot of things as players we can learn from the other night. For now it’s just trying to process everything. We had a lot of good things, a lot of tough situations we overcame. The group is incredible, the best England group I’ve been a part of in terms of togetherness. The boss was a big part of creating that as well.\n\n“Fans are going to be angry and we understand it. It’s a major tournament and that’s why you dream so big. When it doesn’t go your way you have to take the criticism. We’re all willing to do that, to dare to reach the biggest goal of all. We know over the next two years until we’re facing that situation again there is always going to be a question mark. It’s something we have to take and use as motivation.”\n\nEngland missed out on facing regular top-class opposition in the buildup to theWorld Cupafter being relegated from the top Nations League group in 2022 under Southgate. They were promoted in 2024 and will face Spain, Croatia and Czechia, starting with a rematch of the Euro 2024 final against Luis de la Fuente’s side on 26 September at Wembley. After beating France – albeit in a largely meaningless game – Kane thinks England must take the competition seriously if they are to thrive in tournaments.\n\n“The last 30 minutes of Argentina is not the team we want to be,” he said. “We spent a lot of time over the last two years talking about that situation, to attack those moments. The bottom line is we lost anyway. It’s easy to go away and talk about it. We need to get better at actually being in those situations. We can train, play the qualifiers … I think the Nations League will be big for us, against Spain and Croatia, big teams.\n\n“Getting used to those big environments and finding our best form against those teams, like we did against France, albeit not in the most competitive match. We have to learn, improve. The coach will have improved from these learnings. I can talk as much as I want but ultimately it’s about showing it next time we’re in that situation.”\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5803_4",
+            "category": "england",
+            "type": "News",
+            "title": "England 2026 World Cup squad: player-by-player ratings",
+            "bullets": [
+              "After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tou...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournamentJordan Pickford Could he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made more World Cup finals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final. 7 Continue reading...",
+            "fullText": "After the team’s third-placed finish, we rate the 24 squad members who made an appearance at the tournament\n\nJordan PickfordCould he have done better with Enzo Fernández’s equaliser for Argentina? Jude Bellingham certainly thought so. But the man who has made moreWorld Cupfinals appearances than any other Englishman made some crucial saves, including a brilliant stop from Nicolas González in the semi-final.7\n\nDean HendersonHad to wait until the third-place playoff for some action and ended up conceding four goals despite a strong performance. Will hope to challenge Pickford over next two years.7\n\nDjed SpenceEmerged as an unlikely cult hero thanks to some wholehearted performances. He will always be remembered for snubbing Thomas Partey’s handshake and his tackle on Giuliano Simeone against Argentina.8\n\nMarc GuéhiSomehow wasn’t Thomas Tuchel’s first-choice initially, although that was rectified after the Croatia game. England’s most consistent and reliable defender – the way he handled Erling Haaland was a masterclass.8\n\nJohn StonesArrived painfully short of match fitness and it showed in the opening game against Croatia. Much improved when called upon in the quarter- and semi-finals. A huge asset when he plays.7\n\nEzri KonsaA few shaky moments during the group stage but recovered well and filled in capably at right-back when needed. At 28, young enough to be there again in four years.7\n\nDan BurnShowed his limitations against Argentina. But he will always have those two epic appearances off the bench against Mexico and Norway. No one will forget the clearing headers so powerful they ended up in the opposition’s half.7\n\nNico O’ReillyHad his strongest game against Norway in the quarter-final when he was at his marauding best. Will be disappointed not to have scored and to have been on the pitch as a substitute when Argentina instigated their semi-final comeback.6\n\nReece JamesSuch a good player when fit, which is sadly far too rare. Missed most of the tournament owing to a hamstring injury and England suffered when he went off against Argentina.6\n\nTrevoh ChalobahThe Chelsea player was a surprise choice to replace Tino Livramento, who pulled out injured at the last minute. Managed only six minutes against France in the end.6\n\nJarell QuansahBrought in to solve the right-back conundrum against Panama, he was doing well until the rush of blood against Mexico and subsequent red card. Recalled for the France game and had to be replaced.5",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5806_5",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel learns lesson as England clinch third place in 10-goal thriller",
+            "bullets": [
+              "Tuchel learns lesson as England clinch third place in 10-goal thriller",
+              "Reported live by The Telegraph Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tuchel learns lesson as England clinch third place in 10-goal thriller",
+            "fullText": "Was this evidence ofEnglandhead coach Thomas Tuchel already learning lessons from theArgentina collapse? Let’s hope so.\n\nWith England on the ropes and in danger of throwing away a lead against France, Tuchel resisted the temptation to flood his team with defenders and was rewarded with a World Cup bronze medal.\n\nEngland looked on course to secure an emphatic victory to clinch the nation’s best World Cup finish since 1966 and yet Tuchel was left with the exact same scenario that hadgone so badly against Argentinain the semi-final.\n\nLeading by four goals at half-time, England somehow went into the final hydration break of this bronze medal game with a single-goal advantage. This time, Tuchel steered England over the line by getting his late substitutions right.\n\nJude Bellingham stepped off the bench to cap a wonderful tournament for him with the goal that made sure England finished the World Cup in third place.\n\nIt may have resembled an exhibition match at times, with France failing to turn up in the first half. But England’s thrilling 6-4 victory will send Tuchel home from the United States feeling a little bit better, even though he isnot yet off the hook for what happened in Atlanta.\n\nThe fact that success against France was earned with a Bukayo Saka hat-trick, as well as goals from Declan Rice, Ezri Konsa and Bellingham, will prompt more debate over Tuchel’s decision-making when it really mattered. Not least why Saka watched the entire Argentina game from the substitutes’ bench.\n\nTuchel cut a relaxed figure, changing his touchline attire to a casual white T-shirt and tracksuit bottoms. But his team meant business, as they raced into a stunning four-goal first-half lead.\n\nSaka played like a man with a point to prove. He scored twice and produced the shot from which England won the corner for Konsa’s goal in the opening 45 minutes. Was this a message to Tuchel or simply the winger taking out his frustration on France?\n\nFrance looked uninterested from the start and it was a loose Désiré Doué pass that gifted possession to Rice. As England’s captain for the evening strode forwards, Doué did not bother to track him and Rice curled a lovely shot into the corner of the net to give Tuchel’s team a third-minute lead.\n\nIt's a quick start from England! 🦁⚡Declan Rice fires home the opener in the third minute against France ⚽pic.twitter.com/ID4u3rXOuM\n\nHaving been criticised for sending on three defenders against Argentina, Tuchel started with five attacking players on the pitch and just Rice in front of the defence.",
+            "author": "The Telegraph Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-19 @ 18:52:37 EDT",
+  "lastUpdated": "2026-07-20 @ 00:58:06 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
