@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Arsenal line up Stones free transfer - Monday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Mbappe wins race for the 2026 World Cup golden boot",
       "link": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Arsenal line up Stones free transfer - Monday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Tuchel is clinging to an outdated English style – he must let players take risks | Jacob Steinberg",
@@ -22,10 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ What’s left after this World Cup? A kind of messy hope | Jonathan Liew",
       "link": "https://www.theguardian.com/commentisfree/2026/jul/20/world-cup-football-messy-hope"
-    },
-    {
-      "text": "⚽ Tuchel's subs, Rodri's rank, Messi's masterclass - World Cup highs & lows",
-      "link": "https://www.skysports.com/football/news/12040/13563289/2026-world-cup-awards-thomas-tuchel-rodri-harry-kane-and-lionel-messi-all-feature-in-tournament-highs-and-lows"
     }
   ],
   "timeline": {
@@ -34084,11 +34080,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0448_0",
+            "category": "england",
+            "type": "News",
+            "title": "Mbappe wins race for the 2026 World Cup golden boot",
+            "bullets": [
+              "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from L...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
+            "fullText": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.\n\nREAD MORE:Mbappe first to win Golden Boot twice as Rodri named best player",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0449_1",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal line up Stones free transfer - Monday's gossip",
+            "bullets": [
+              "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chel...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
+            "fullText": "Arsenalare weighing up a move for John Stones as a replacement for the injured William Saliba,Chelseahold formal talks over Maxence Lacroix, whileLiverpoolconsider rivallingManchester Unitedfor Manu Kone.\n\nArsenalare considering signing 32-year-old England defender John Stones on a free transfer if 25-year-old France defender William Saliba's injury turns out to be long term.(Sun),external\n\nChelseahave held formal talks withCrystal Palaceover a move for France defender Maxence Lacroix with the Eagles valuing the 26-year-old around Â£55m.(Talksport),external\n\nBologna's23-year-old English winger Jonathan Rowe remains onAston VillaandChelsea'sshortlists.(Calciomercato - in Italian),external\n\nLiverpoolare prepared to joinManchester Unitedin the race forRoma's25-year-old France midfielder Manu Kone.(Football Insider),external\n\nAston Villahave held talks withChelseaover the possibility of signing both Nicolas Jackson and Alejandro Garnacho this summer.(Teamtalk),external\n\nAC Milan'sPortugal forward Rafael Leao would prefer a move to the Premier League rather than Turkey, withAston Villaa potential destination for the 27-year-old.(Gazzetta - in Italian),external\n\nLazioare targetingWest Ham'sDR Congo defender Aaron Wan-Bissaka, with the 28-year-old also onArsenal'slist of potential options.(Mail),external\n\nJuventus'number one goalkeeping target isAston Villa's33-year-old Argentina international Emiliano Martinez, while the Serie A club is also keeping an eye onFiorentina's35-year-old Spain goalkeeper David de Gea.(Calciomercato - in Italian),external\n\nEvertoncould rivalInter Milanin the race to signTottenham's25-year-old England defender Djed Spence.(Football Insider),external\n\nLiverpoolwant to sign Sweden left-back Daniel Svensson fromBorussia Dortmund,but may face competition fromArsenalfor the 24-year-old's signature.(Caught Offside),external\n\nHarry Souttar is a potential transfer target forWest Ham UnitedfollowingLeicester City'srelegation to League One. The Hammers' Championship rivalsWrexham, Sheffield Unitedand the 27-year-old defender's former clubStoke Cityare also interested in the Australian international.(Daily Record),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0449_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel is clinging to an outdated English style – he must let players take risks | Jacob Steinberg",
+            "bullets": [
+              "Head coach should ditch a physical approach that has rarely worked and embrace England’s gifted ball...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Head coach should ditch a physical approach that has rarely worked and embrace England’s gifted ball playersOnly England can claim the bronze medal at the World Cup by beating France in a 10-goal thriller and end up even more annoyed with the manager. Yet emotions are still running high after the collapse against Argentina last week and it is going to take more than winning a game low on jeopardy for the criticism of Thomas Tuchel to die down.Hiring Tuchel was centred around the promise that he would make the difference in the big games. When that fell down, all that was left was anger. It exposed the core emptiness of the appointment, of a rich federation covering up the flaws in its coaching development by trying to game the system by throwing money at an expensive outsider. Continue reading...",
+            "fullText": "Head coach should ditch a physical approach that has rarely worked and embrace England’s gifted ball players\n\nOnly England can claim the bronze medal at the World Cup by beating France ina 10-goal thrillerand end up even more annoyed with the manager. Yet emotions are still running high after the collapse against Argentina last week and it is going to take more than winning a game low on jeopardy for the criticism of Thomas Tuchel to die down.\n\nHiring Tuchel was centred around the promise that he would make the difference in the big games. When that fell down, all that was left was anger. It exposed the core emptiness of the appointment, of a rich federation covering up the flaws in its coaching development by trying to game the system by throwing money at an expensive outsider.\n\nWhat is the Football Association’s vision? The initial idea was Tuchel providing a short, sharp shock and his tactical acumen helping England to get over the line. Then came a change after a successful qualifying campaign against modest opposition. The FA moved the goalposts by handing Tuchel a contract extension, and suddenly winning theWorld Cupdid not seem quite as pressing.\n\nYet the idea of Tuchel as a project builder seemed far-fetched during the bitter recriminations after thedefeat by Argentina. Criticised for his negative substitutions when England led, the German talked dismissively of English DNA, lamenting the lack of care in possession. Fair enough, you thought, because this has long been a weakness – only, hadn’t Tuchel caused some of the damage by leaving out most of the ball players from his squad? Would it have been different if Adam Wharton, Trent Alexander-Arnold and Cole Palmer had been around in Atlanta? Maybe not, but a lot of money has been spent on developing a different type of English player in recent decades.\n\nPerhaps Tuchel was thinking of an old English DNA. But maybe this is part of the issue with employing a foreign coach whose focus is on winning by any means possible. This is the third timeEnglandhave been down this road. There is an idea of the manager from abroad as a sophisticate. But Sven-Göran Eriksson was not as tactically adroit as Glenn Hoddle. Eriksson played a traditional 4-4-2 whereas Hoddle was flexible with his formations.\n\nTuchel, too, has struggled to build an identity. He seems taken with an outdated English style. Tuchel wanted to play like a Premier League team, with pace and physicality, but that has rarely worked for England. They tend to be outpassed in big knockout games, which is why there has been such focus in youth football in developing players more at ease with the dominant Spanish passing style.\n\nSpain have justwon another World Cup, their method too much for Argentina in a dour final, and for those watching from afar a big takeaway will surely be that the last two teams standing were led by homegrown coaches.\n\nLuis de la Fuente and Lionel Scaloni have risen through the ranks and are part of a system. They have a feeling for their countries, a sense of the identity. Tuchel has been inserted in the hope he can cover up the FA’s failure to produce its own coaches. No male team led by a foreign manager has secured the World Cup and it should worry the FA when bringing in an outsider with a win-now mentality ends with the senior side using a very different style of play to younger age groups.\n\nThere is a view within youth coaching circles that Tuchel has taken England backwards at this tournament. The under-21s have won the past two European Championships by being brave on the ball. They have beaten Spain in consecutive tournaments and the demand from Lee Carsley is that his players take risks in possession. Tuchel finished the semi-final by lobbing balls towards Dan Burn. He played a pragmatic style and his England ended up unable to throw caution to the wind. This World Cup underlines that turning to celebrated coaches from the club game is not a recipe for success.\n\nBrazil appointed Carlo Ancelotti but went out in the last 16. Roberto Martínez failed with Portugal after sticking with Cristiano Ronaldo. Mauricio Pochettino oversaw the USA sidebeing humiliated by Belgium.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0449_3",
+            "category": "england",
+            "type": "News",
+            "title": "Top 30: from half a million World Cup photos, why I love these the most",
+            "bullets": [
+              "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral, that delicious diving header from Jude Bellingham and a humbling scene in GazaWhat makes a great World Cup photograph? Now there’s a question with myriad answers. Composition, newsworthiness, emotional resonance, expert timing and luck can all contribute to varying degrees. But one thing they all share is the power to capture attention.On the Guardian sport picture desk, we have received more than 500,000 World Cup photographs over the past six weeks, with so many gems among them. Here, with much applause to the photographers who created them and a slight bias towards England, are my favourite images of the tournament. Continue reading...",
+            "fullText": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral,thatdelicious diving header from Jude Bellingham and a humbling scene in Gaza\n\nWhat makes a greatWorld Cupphotograph? Now there’s a question with myriad answers. Composition, newsworthiness, emotional resonance, expert timing and luck can all contribute to varying degrees. But one thing they all share is the power to capture attention.\n\nOn the Guardian sport picture desk, we have received more than 500,000 World Cup photographs over the past six weeks, with so many gems among them. Here, with much applause to the photographers who created them and a slight bias towardsEngland, are my favourite images of the tournament.\n\nAn absolute cracker to start with. In this picture, the cavernous Kansas City Stadium sweeps around a small corner of grass on which the world’s most famous footballer stands alone. You can’t really see it’s Lionel Messi, but somehow you can tell it’s him. It feels as though everybody’s eyes are pointed in his direction, like they’re worshipping a deity in an epic footballing cathedral.\n\nTechnological improvements have led to the creation of high-quality miniature cameras which can be placed inside goalmouths and operated remotely. Seeing the game at such close quarters feels wonderfully dynamic. This frame in particular captures a mad scramble between Brazil and Japan; the wonky angle adds to the sense of chaos.\n\nA self-referential choice, but this was a big news story at the time: England played Croatia in their first game and the England manager, Thomas Tuchel, was so furious he couldn’t see the players during the national anthem that he asked Fifa to move the photographers for subsequent games. In fairness to him, you can see why. Four weeks later, Tuchel would garner headlines again after his substitutions in the semi-final againstArgentinatriggered England’s collapse.\n\nAt first glance it looks innocuous enough, then you notice Tarik Muharemovic’s right ankle buckling under the pressure applied by Folarin Balogun’s mistimed challenge. Replays of the incident suggested the foul was unintentional, though the Bosnian was lucky to escape injury. Balogun received a red card following a VAR review, but his one-game ban was suspended by Fifa after lobbying from Donald Trump. With Balogun back in the team, the USA were dumped out of their own tournament by Belgium in the next round.\n\nI’ve relished seeing so many photographsfrom inside the tunnels at this World Cupbecause the players seem to reveal a little more of themselves away from the public eye. This candid shot of Scotland players Findlay Curtis and Jack Hendry shows them in the wake of their 3-0 loss to Brazil – a defeat that was filled with calamity, and which ultimately led to Scotland’s early exit. They look like they’re outside a head teacher’s office waiting to be reprimanded.\n\nI love a good diving header and this one by Jude Bellingham against Mexico was peachy. From a photographic point of view, you seldom get shots from tribune positions like this during a Premier League season, so they have a real novelty value during major tournaments. But it’s more than just novelty: the elevated vantage point helps to remove the surrounding clutter and give a proper fan’s eye view of the goal. I also love the verdant grass, the shocking pink goalkeeper’s jersey and the sense of anticipation because the ball has yet to cross the line. It reminds me of the signed photograph of Coventry’s Keith Houchen, from the 1987 FA Cup final, that hangs proudly on my dad’s office wall.\n\nSo many hydration breaks, so much Powerade, but only one player managed to look like a Portuguese water dog fresh from a dip in a lake. The Brazil midfielder Bruno Guimarães is pictured here dousing himself in H2O when his side faced Morocco in their opening game at New York New Jersey Stadium. Brazil ultimately went home for an early bath after losing to Norway in the last 16.\n\nThe mass rowing displays performed by Norway’s fans this summer have been a viral sensation. Seen everywhere from Times Square to Miami Beach, they also became a fixture of the team’s post-match partying, with Erling Haaland and Martin Ødegaard both banging a fan’s drum as the side progressed to the quarter-finals. The Vikings were stopped by England, but their journey was one of the feelgood stories of the tournament.\n\nA gorgeous pool of afternoon sunlight spilling on to the pitch, surrounded by deep shadows. You couldn’t really create better low-key lighting conditions if you tried. The photographer just had to nail the exposure and wait for a subject to pass through. The fact that it’s Kylian Mbappé who’s skating across the turf in his rich blue France top adds a nice splash of colour and gravity to the scene.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0449_4",
+            "category": "england",
+            "type": "News",
+            "title": "What’s left after this World Cup? A kind of messy hope | Jonathan Liew",
+            "bullets": [
+              "Kazakhs cheering Uzbeks, Bengalis wild for Argentina … This tournament was once a playground for nat...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Kazakhs cheering Uzbeks, Bengalis wild for Argentina … This tournament was once a playground for nationalism. Now it shows how flimsy that allegiance isIt’s the World Cup final, so you pick a side. And don’t worry if you happen to be part of the 98.9% of the human race that is neither Spanish nor Argentinian – just make something up. Maybe you like the Spain kit. Maybe you’ve always been an admirer of Lionel Messi. Maybe you’re still raw about the Falklands or Diego Maradona, maybe you disagree with the Pedro Sánchez government’s stance on Palestine/Israel, maybe you once ate a dodgy empanada on your gap year. Nobody needs to see your working. Only two rules really apply: be partisan and be quick about it.The MetLife Stadium on Sunday night was a melting pot of colliding incongruities and temporary identities. The former heavyweight boxing champion Mike Tyson was wearing an Argentina shirt. The comedian Trevor Noah wore a Spain shirt. Indeed, ticket sales data suggests that an overwhelming proportion of the crowd was American. The most consequential fixture in international sport was, as it turned out, little more than a grand cosplay for the New Jersey leisure market.Jonathan Liew is a Guardian columnist Continue reading...",
+            "fullText": "Kazakhs cheering Uzbeks, Bengalis wild for Argentina … This tournament was once a playground for nationalism. Now it shows how flimsy that allegiance is\n\nIt’s theWorld Cup final, so you pick a side. And don’t worry if you happen to be part of the 98.9% of the human race that is neither Spanish nor Argentinian – just make something up. Maybe you like the Spain kit. Maybe you’ve always been an admirer of Lionel Messi. Maybe you’re still raw about the Falklands or Diego Maradona, maybe you disagree with the Pedro Sánchez government’s stance on Palestine/Israel, maybe you once ate a dodgy empanada on your gap year. Nobody needs to see your working. Only two rules really apply: be partisan and be quick about it.\n\nThe MetLife Stadium on Sunday night was a melting pot of colliding incongruities and temporary identities. The former heavyweight boxing champion Mike Tyson waswearing an Argentina shirt. The comedian Trevor Noahwore a Spain shirt. Indeed,ticket sales datasuggests that an overwhelming proportion of the crowd was American. The most consequential fixture in international sport was, as it turned out, little more than a grand cosplay for the New Jersey leisure market.\n\nAnd beyond the final, perhaps this has been one of the hidden stories of the World Cup: the gradual reimagining of national allegiance as a kind of single-use consumer brand. For six weeks, the entire nation ofBangladesh went crazy for Argentina. A group of central Asian friends in north London put aside their internecine rivalries to cheer for Uzbekistan. The Arab diaspora swung firmly behind Morocco and Egypt as the tournament progressed. Leftwing progressives who revile the cross of St George when painted on a mini-roundabout were suddenly daubing it on their cheeks.\n\nAll of which upends what we have been told for decades about theWorld Cup, and international sport in general. A tournament that should in theory be the ultimate playground for nationalism has in fact demonstrated the very opposite: the increasing fragility of nationhood as an idea. What the social psychologist Michael Billig termed banal nationalism – the subliminal everyday symbols of nationhood – has now become so banal as to be in essence disposable. If national identity is now something that can be slipped on and off as easily as a football shirt, then what use is it, really?\n\nWe live in an age where the boundaries of nationhood are both ever-more piercingly evoked and ever-more hazily defined. Again, football illustrates this confusion better than almost any other human endeavour. Across western Europe, far-right voices preach the doctrine of nationalism while reviling their own national teams for having too many black players. In Colombia and Brazil, many leftwing fans have chosen to spurn the national team shirt as a result of itsappropriation by rightwing populists.\n\nThis is before we even address the teams themselves: in many cases not so much cogent expressions of national identity or even recognisable products of a system as they are snapshots of a sprawling diaspora at a particular moment in time, splintered on multiple planes by globalisation and migration, assembled out of convenience and expediency. Forty of the 48 competing nationscontained a player born overseas. Only one member of the Curaçao squad was actually born on the Caribbean island. The Cape Verde squad that held the eventual champions, Spain, to a heroic 0-0 draw in the group phase featuredmore players born in Rotterdamthan in the country’s capital.\n\nAnd so the modern World Cup serves two abrupt functions. First, it forces us to confront the idea that most of us have multiple identities cutting across or even against national boundaries, that everywhere is the product of everywhere. Second, it interrogates the criteria by which we pledge allegiance to a country, a process that most of the time lies latent and unspoken, only bursting to the surface in the form of an urgent binary question: “Who do I support for this game?” The historian Eric Hobsbawm’s famous quote about football gestating an “imagined community of millions” takes on a subtly different resonance when you realise that very often this is a community with no defined borders or polity, a community that for 90 minutes draws its number from every corner of the planet.\n\nGuardian columnists and writers on what they’ve been debating, thinking about, reading, and more\n\nWeirdly, this is a phenomenon that has become neither exclusively left- nor right-coded. If nationalism was long regarded as the preserve of the populist right and internationalism as the preserve of the intellectual left, these days the picture is far more nuanced. Today’s rightwing agitators are as likely to pledge allegiance to Donald Trump or wave an Israeli flag as they are to champion the country they’re actually from. The Trump administration has consistently demonstrated greater solidarity withwhite South Africansthan with Black Americans. Across the English-speaking world, conservative outlets freely make alliances across national borders and appeal to abstract concepts such as “Judeo-Christian values” or “western civilisation” while denouncing and dehumanising many of their fellow citizens as traitors and scum.\n\nFootball’s role as a nation builder is often overstated. France’s World Cup triumph in 1998 was hailed as a vindication of the country’s multiethnic identity, but four years later it sent Jean-Marie Le Pen into the final round of the presidential election. Argentina’s 1978 victory on home soil generated a surge of popularity for the country’s military dictatorship, but by 1983 it had collapsed. England’s run to the European Championship final in 2021 did not, for all the good vibes and open letters, arrest our wider descent into gutter politics and culture war.\n\nBut occasionally it can hold up a mirror. And perhaps what this World Cup reflects back at us is a kind of messy hope: that a world of hardening physical borders is doomed to disintegrate on contact with reality. That for all the flags and pageantry, nationality is ultimately little more than a brand, a consumer choice, a piece of content – a mask anyone can happily wear for six weeks, and shed just as easily.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-20 @ 12:23:53 EDT",
+  "lastUpdated": "2026-07-20 @ 16:04:50 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
