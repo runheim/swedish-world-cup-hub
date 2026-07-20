@@ -8,24 +8,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cwy41vd9ewxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Has Saka shown Tuchel he's too good to leave out?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0ejnwj0n4jo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Mbappe wins race for the 2026 World Cup golden boot",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ At the World Cup of superstars, a team take home the trophy | Sid Lowe",
       "link": "https://www.theguardian.com/football/2026/jul/20/world-cup-2026-final-spain-argentina"
     },
     {
+      "text": "⚽ Top 30: from half a million World Cup photos, why I love these the most",
+      "link": "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery"
+    },
+    {
       "text": "⚽ Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina",
       "link": "https://www.theguardian.com/football/2026/jul/19/harry-kane-thomas-tuchel-england-football-world-cup-2026-euro-2028"
-    },
-    {
-      "text": "⚽ England 2026 World Cup squad: player-by-player ratings",
-      "link": "https://www.theguardian.com/football/2026/jul/19/england-2026-world-cup-squad-player-by-player-ratings"
-    },
-    {
-      "text": "⚽ Tuchel learns lesson as England clinch third place in 10-goal thriller",
-      "link": "https://www.telegraph.co.uk/football/2026/07/18/france-vs-england-live-score-world-cup-third-place-playoff/"
     }
   ],
   "timeline": {
@@ -33885,11 +33881,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5921_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal line up Stones free transfer - Monday's gossip",
+            "bullets": [
+              "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chel...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are weighing up a move for John Stones as a replacement for the injured William Saliba, Chelsea hold formal talks over Maxence Lacroix, plus more.",
+            "fullText": "Arsenalare weighing up a move for John Stones as a replacement for the injured William Saliba,Chelseahold formal talks over Maxence Lacroix, whileLiverpoolconsider rivallingManchester Unitedfor Manu Kone.\n\nArsenalare considering signing 32-year-old England defender John Stones on a free transfer if 25-year-old France defender William Saliba's injury turns out to be long term.(Sun),external\n\nChelseahave held formal talks withCrystal Palaceover a move for France defender Maxence Lacroix with the Eagles valuing the 26-year-old around Â£55m.(Talksport),external\n\nBologna's23-year-old English winger Jonathan Rowe remains onAston VillaandChelsea'sshortlists.(Calciomercato - in Italian),external\n\nLiverpoolare prepared to joinManchester Unitedin the race forRoma's25-year-old France midfielder Manu Kone.(Football Insider),external\n\nAston Villahave held talks withChelseaover the possibility of signing both Nicolas Jackson and Alejandro Garnacho this summer.(Teamtalk),external\n\nAC Milan'sPortugal forward Rafael Leao would prefer a move to the Premier League rather than Turkey, withAston Villaa potential destination for the 27-year-old.(Gazzetta - in Italian),external\n\nLazioare targetingWest Ham'sDR Congo defender Aaron Wan-Bissaka, with the 28-year-old also onArsenal'slist of potential options.(Mail),external\n\nJuventus'number one goalkeeping target isAston Villa's33-year-old Argentina international Emiliano Martinez, while the Serie A club is also keeping an eye onFiorentina's35-year-old Spain goalkeeper David de Gea.(Calciomercato - in Italian),external\n\nEvertoncould rivalInter Milanin the race to signTottenham's25-year-old England defender Djed Spence.(Football Insider),external\n\nLiverpoolwant to sign Sweden left-back Daniel Svensson fromBorussia Dortmund,but may face competition fromArsenalfor the 24-year-old's signature.(Caught Offside),external\n\nHarry Souttar is a potential transfer target forWest Ham UnitedfollowingLeicester City'srelegation to League One. The Hammers' Championship rivalsWrexham, Sheffield Unitedand the 27-year-old defender's former clubStoke Cityare also interested in the Australian international.(Daily Record),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5921_1",
+            "category": "england",
+            "type": "News",
+            "title": "Mbappe wins race for the 2026 World Cup golden boot",
+            "bullets": [
+              "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from L...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.",
+            "fullText": "All the goals from the race for the 2026 World Cup golden boot as Kylian Mbappe leads the way from Lionel Messi, Jude Bellingham and Erling Haaland.\n\nREAD MORE:Mbappe first to win Golden Boot twice as Rodri named best player",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5921_2",
+            "category": "england",
+            "type": "News",
+            "title": "At the World Cup of superstars, a team take home the trophy | Sid Lowe",
+            "bullets": [
+              "The European champions conceded just one goal in the tournament and Spain’s success is a victory for...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The European champions conceded just one goal in the tournament and Spain’s success is a victory for a systemRelease the pressure, let it out. All of it and all of them. Again and again they had come, again and again they had been halted but they would not be denied. A dozen different players had taken aim at Emi Martínez’s goal but somehow he was still standing and time was slipping away, yet Spain refused to do so, so they came some more.And then, suddenly, only this wasn’t really sudden, the result instead of the purest logic, the clearest justice, Pedro Porro’s deep cross found Nico Williams at the far post and he headed back. The ball dropped deep inside the Argentina penalty area, bounced on the turf and just kind of sat there: waiting, willing someone take this moment. Continue reading...",
+            "fullText": "The European champions conceded just one goal in the tournament and Spain’s success is a victory for a system\n\nRelease the pressure, let it out. All of it and all of them. Again and again they had come, again and again they had been halted but they would not be denied. A dozen different players had taken aim at Emi Martínez’s goal but somehow he was still standing and time was slipping away, yetSpainrefused to do so, so they came some more.\n\nAnd then, suddenly, only this wasn’t really sudden, the result instead of the purest logic, the clearest justice, Pedro Porro’s deep cross found Nico Williams at the far post and he headed back. The ball dropped deep inside theArgentinapenalty area, bounced on the turf and just kind of sat there: waiting, willing someone take this moment.\n\nSo at 5.42pm eastern daylight time, 37 seconds into the second period of extra time, Ferran Torres did. And with Spain’s 20th shot of this final, with all his might and all his soul, he won theWorld Cup. The ball travelled at 102km/h, tearing into the net, and Torres turned and tore in the other direction, sprinting to the corner where he leapt into the air and volleyed that too. Not quite so hard as he had hit the shot, but hard. From the bench and the pitch his teammates raced towards him, liberated at last, the joy flooding out. Oh, the release.\n\nAndrés Iniesta once said that the moment the ball sat up for him in the 116th minute of the final in South Africa in 2010, he heard the silence. Maybe Torres heard it too; maybe he heard history call. More often he has heard noise. Here there was an explosion, everyone at that end of New York New Jersey Stadium going absolutely mad. Torres stood there, doing a familiar gesture: jibber-jabber hands, ears “listening” wondering where the critics were now. Then he got the biggest hug Lamine Yamal has ever given.\n\nLate in Spain’s victory over Saudi Arabia on the day that Luis de la Fuente celebrated his 65th birthday, Torres had come on as a substitute and scored the final goal – or thought he had – only for the video assistant referee to take it from him. As they reviewed the footage, Ferran had stood with his hands in front of his mouth in a praying position, muttering to himself:por favor,be a goal; por favor,be a goal.This seemed like a portrait of the pressure, of what players put up with sometimes, a picture perhaps of desperation too. Spain were four goals up already, but here he waspleadingfor it to count.\n\nIn the previous game against Cape Verde, he had hit the bar. In the next game, against Uruguay, he did it again. There was something that his critics took as confirmation, something cruel in how close it was. Too often he had felt that fate somehow was conspiring against him. Turned out, it was saving something for him: the greatest goal, the greatest moment in any player’s career. Justice had been done, not just in the game, which Spain had dominated Spain’s way – at that point Argentina had not had a shot – but to this team. This family, as De la Fuente calls them, all in it together.\n\nIt felt right almost that it should be Torres, a symbol of all of them – like this was another moment shared, the collective expressed in one man who hasn’t always felt it but will now be for ever beloved. Torres became the seventhdifferent Spain player to score in the US. At the World Cup of the stars, ateamtook the trophy. The European champions were the best team here, lifting that trophy having conceded just one goal, and this was a victory for a system, an ideal, a commitment to an identity. In that, it can feel almost inevitable but it is not. This was also a victory for vindication, for the belief their manager has in them and they have in each other, even if others do not. “People have been very unfair with him but he has a spectacular mentality, he keeps going, keeps working, and today life has paid him back,” Pedro Porro said of Torres. “This is for all 26 of us.”\n\nComing into the tournament, Rodri, the captain, had not completed his rehabilitation yet. Lamine Yamal, the star, was returning from injury too, everyone waiting for him until they realised that maybe they didn’t have to. Williams, who had provided the assist, thought he wouldn’t get there: injured for much of the season, he fought back then feared Uruguay had kicked him out of the World Cup.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFabián Ruiz had missed most the season injured. Aymeric Laporte, imperious again, suffered with Athletic. Behind him, the debate around Unai Simón wouldn’t relent. Eric García and Martín Zubimendi came on here to win it: neither had had a minute yet, meaning Spain finished the competition with only two outfielders who have not played. Who had Pedro Porro and Marc Cucurella down as the world’s best full-backs before the tournament? Plenty do now. Mikel Merino, the superest of super subs, had played only 28 minutes since March, but appeared to rescue them. Not once, but twice.\n\nAnd then, at the biggest moment of all, there was Torres.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5921_3",
+            "category": "england",
+            "type": "News",
+            "title": "Top 30: from half a million World Cup photos, why I love these the most",
+            "bullets": [
+              "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral, that delicious diving header from Jude Bellingham and a humbling scene in GazaWhat makes a great World Cup photograph? Now there’s a question with myriad answers. Composition, newsworthiness, emotional resonance, expert timing and luck can all contribute to varying degrees. But one thing they all share is the power to capture attention.On the Guardian sport picture desk, we have received more than 500,000 World Cup photographs over the past six weeks, with so many gems among them. Here, with much applause to the photographers who created them and a slight bias towards England, are my favourite images of the tournament. Continue reading...",
+            "fullText": "Our picture editor chooses his favourite images from the tournament including Lionel Messi’s cathedral,thatdelicious diving header from Jude Bellingham and a humbling scene in Gaza\n\nWhat makes a greatWorld Cupphotograph? Now there’s a question with myriad answers. Composition, newsworthiness, emotional resonance, expert timing and luck can all contribute to varying degrees. But one thing they all share is the power to capture attention.\n\nOn the Guardian sport picture desk, we have received more than 500,000 World Cup photographs over the past six weeks, with so many gems among them. Here, with much applause to the photographers who created them and a slight bias towardsEngland, are my favourite images of the tournament.\n\nAn absolute cracker to start with. In this picture, the cavernous Kansas City Stadium sweeps around a small corner of grass on which the world’s most famous footballer stands alone. You can’t really see it’s Lionel Messi, but somehow you can tell it’s him. It feels as though everybody’s eyes are pointed in his direction, like they’re worshipping a deity in an epic footballing cathedral.\n\nTechnological improvements have led to the creation of high-quality miniature cameras which can be placed inside goalmouths and operated remotely. Seeing the game at such close quarters feels wonderfully dynamic. This frame in particular captures a mad scramble between Brazil and Japan; the wonky angle adds to the sense of chaos.\n\nA self-referential choice, but this was a big news story at the time: England played Croatia in their first game and the England manager, Thomas Tuchel, was so furious he couldn’t see the players during the national anthem that he asked Fifa to move the photographers for subsequent games. In fairness to him, you can see why. Four weeks later, Tuchel would garner headlines again after his substitutions in the semi-final againstArgentinatriggered England’s collapse.\n\nAt first glance it looks innocuous enough, then you notice Tarik Muharemovic’s right ankle buckling under the pressure applied by Folarin Balogun’s mistimed challenge. Replays of the incident suggested the foul was unintentional, though the Bosnian was lucky to escape injury. Balogun received a red card following a VAR review, but his one-game ban was suspended by Fifa after lobbying from Donald Trump. With Balogun back in the team, the USA were dumped out of their own tournament by Belgium in the next round.\n\nI’ve relished seeing so many photographsfrom inside the tunnels at this World Cupbecause the players seem to reveal a little more of themselves away from the public eye. This candid shot of Scotland players Findlay Curtis and Jack Hendry shows them in the wake of their 3-0 loss to Brazil – a defeat that was filled with calamity, and which ultimately led to Scotland’s early exit. They look like they’re outside a head teacher’s office waiting to be reprimanded.\n\nI love a good diving header and this one by Jude Bellingham against Mexico was peachy. From a photographic point of view, you seldom get shots from tribune positions like this during a Premier League season, so they have a real novelty value during major tournaments. But it’s more than just novelty: the elevated vantage point helps to remove the surrounding clutter and give a proper fan’s eye view of the goal. I also love the verdant grass, the shocking pink goalkeeper’s jersey and the sense of anticipation because the ball has yet to cross the line. It reminds me of the signed photograph of Coventry’s Keith Houchen, from the 1987 FA Cup final, that hangs proudly on my dad’s office wall.\n\nSo many hydration breaks, so much Powerade, but only one player managed to look like a Portuguese water dog fresh from a dip in a lake. The Brazil midfielder Bruno Guimarães is pictured here dousing himself in H2O when his side faced Morocco in their opening game at New York New Jersey Stadium. Brazil ultimately went home for an early bath after losing to Norway in the last 16.\n\nThe mass rowing displays performed by Norway’s fans this summer have been a viral sensation. Seen everywhere from Times Square to Miami Beach, they also became a fixture of the team’s post-match partying, with Erling Haaland and Martin Ødegaard both banging a fan’s drum as the side progressed to the quarter-finals. The Vikings were stopped by England, but their journey was one of the feelgood stories of the tournament.\n\nA gorgeous pool of afternoon sunlight spilling on to the pitch, surrounded by deep shadows. You couldn’t really create better low-key lighting conditions if you tried. The photographer just had to nail the exposure and wait for a subject to pass through. The fact that it’s Kylian Mbappé who’s skating across the turf in his rich blue France top adds a nice splash of colour and gravity to the scene.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5921_4",
+            "category": "england",
+            "type": "News",
+            "title": "Kane says Tuchel will ‘learn a lot’ from England pressures after exit to Argentina",
+            "bullets": [
+              "German created ‘best England group for togetherness’Captain underlines importance of Nations League ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "German created ‘best England group for togetherness’Captain underlines importance of Nations League gamesHarry Kane has backed Thomas Tuchel to learn from England’s World Cup semi-final defeat against Argentina and believes they must use the forthcoming Nations League campaign to gain experience of playing against the top teams.Kane was an unused substitute as England sealed third place with an entertaining 6-4 victory against France on Saturday – their best finish at a World Cup on foreign soil. Tuchel, who signed a contract extension before the tournament, has been criticised heavily for his tactics against Argentina when he opted to switch to a back five to try to defend a 1-0 lead. Continue reading...",
+            "fullText": "German created ‘best England group for togetherness’\n\nCaptain underlines importance of Nations League games\n\nHarry Kane has backedThomas Tuchelto learn from England’s World Cup semi-final defeat against Argentina and believes they must use the forthcoming Nations League campaign to gain experience of playing against the top teams.\n\nKane was an unused substitute as England sealed third place with anentertaining 6-4 victory against Franceon Saturday – their best finish at a World Cup on foreign soil. Tuchel, who signed a contract extension before the tournament, has been criticised heavily for his tacticsagainst Argentinawhen he opted to switch to a back five to try to defend a 1-0 lead.\n\nKane admittedEnglandhad fallen short against Lionel Scaloni’s side but described the environment Tuchel has created since succeeding Gareth Southgate in 2025 as “the best England group I’ve been a part of in terms of togetherness”.\n\nThe captain said: “I know there are a lot of questions after the other night. We have to process it as players. I’m sure the manager will. It’s his first major tournament. He’ll learn a lot from the players, the situations, the pressures, the travel.\n\n“There are also a lot of things as players we can learn from the other night. For now it’s just trying to process everything. We had a lot of good things, a lot of tough situations we overcame. The group is incredible, the best England group I’ve been a part of in terms of togetherness. The boss was a big part of creating that as well.\n\n“Fans are going to be angry and we understand it. It’s a major tournament and that’s why you dream so big. When it doesn’t go your way you have to take the criticism. We’re all willing to do that, to dare to reach the biggest goal of all. We know over the next two years until we’re facing that situation again there is always going to be a question mark. It’s something we have to take and use as motivation.”\n\nEngland missed out on facing regular top-class opposition in the buildup to theWorld Cupafter being relegated from the top Nations League group in 2022 under Southgate. They were promoted in 2024 and will face Spain, Croatia and Czechia, starting with a rematch of the Euro 2024 final against Luis de la Fuente’s side on 26 September at Wembley. After beating France – albeit in a largely meaningless game – Kane thinks England must take the competition seriously if they are to thrive in tournaments.\n\n“The last 30 minutes of Argentina is not the team we want to be,” he said. “We spent a lot of time over the last two years talking about that situation, to attack those moments. The bottom line is we lost anyway. It’s easy to go away and talk about it. We need to get better at actually being in those situations. We can train, play the qualifiers … I think the Nations League will be big for us, against Spain and Croatia, big teams.\n\n“Getting used to those big environments and finding our best form against those teams, like we did against France, albeit not in the most competitive match. We have to learn, improve. The coach will have improved from these learnings. I can talk as much as I want but ultimately it’s about showing it next time we’re in that situation.”\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-20 @ 00:58:06 EDT",
+  "lastUpdated": "2026-07-20 @ 08:59:24 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
