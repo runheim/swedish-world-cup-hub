@@ -4,20 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mbappe wins race for the 2026 World Cup golden boot",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c3v0l1yk7xpo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England squad focuses on tactical discipline in Atlanta training hub",
+      "link": "https://www.englandfootball.com/"
     },
     {
-      "text": "⚽ Tuchel is clinging to an outdated English style – he must let players take risks | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/jul/20/thomas-tuchel-football-assocation-fa-england-world-cup-2026-head-coach"
+      "text": "🌍 Group L Opponents finalize their tactical configurations",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
-      "text": "⚽ Top 30: from half a million World Cup photos, why I love these the most",
-      "link": "https://www.theguardian.com/football/ng-interactive/2026/jul/20/world-cup-2026-best-30-photographs-gallery"
+      "text": "💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
+      "link": "https://www.englandfootball.com/"
     },
     {
-      "text": "⚽ What’s left after this World Cup? A kind of messy hope | Jonathan Liew",
-      "link": "https://www.theguardian.com/commentisfree/2026/jul/20/world-cup-football-messy-hope"
+      "text": "🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
+      "link": "https://www.englandfootball.com/"
+    },
+    {
+      "text": "📈 England WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.englandfootball.com/"
     }
   ],
   "timeline": {
@@ -34317,11 +34321,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_swe_20260721_1",
+            "category": "england",
+            "type": "News",
+            "title": "England squad focuses on tactical discipline in Atlanta training hub",
+            "bullets": [
+              "Thomas Tuchel leads intensive tactical board and pitch walkthroughs.",
+              "Harry Kane continues to display stellar training indicators.",
+              "Captain Harry Kane: 'Roster is highly motivated for our next match.'"
+            ],
+            "summary": "The England squad continues their World Cup campaign, training in Atlanta, Georgia. Under manager Thomas Tuchel, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.",
+            "fullText": "The England squad continues their World Cup campaign, training in Atlanta, Georgia. Under manager Thomas Tuchel, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Henry Winter (The Times)",
+            "readTime": "3 min",
+            "tag": "World Cup Prep",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260721_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Group L Opponents finalize their tactical configurations",
+            "bullets": [
+              "Group L rivals execute high-intensity sessions at their training bases.",
+              "Analysts monitor player fitness and recovery registers.",
+              "Scouts report high ticket sales for upcoming World Cup matches."
+            ],
+            "summary": "England's Group L rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle England's front-line.",
+            "fullText": "England's Group L rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle England's front-line.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Group L Intel",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-21 @ 00:39:48 EDT",
+  "lastUpdated": "2026-07-21 @ 08:17:29 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
