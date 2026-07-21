@@ -12613,11 +12613,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4720_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Fully booked at the county's large campsites - by Norwegians: \"Not everyone gets a place\"",
+            "bullets": [
+              "Motor week now fills the campsite in Lycksele, the football festival the campsite in Umeå and the sw...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Motor week now fills the campsite in Lycksele, the football festival the campsite in Umeå and the sweltering northern Norwegian summer causes the Norwegians to escape to the sun in Skellefteå. Now, to say the least, pressure is high on the county's largest campsites. - Not everyone can get a place right now, says Mikael Stenman, reception manager at Ansia Camping in Lycksele.",
+            "fullText": "Motor week now fills the campsite in Lycksele, the football festival the campsite in Umeå and the sweltering northern Norwegian summer causes the Norwegians to escape to the sun in Skellefteå. Now, to say the least, pressure is high on the county's largest campsites.\n\n- Not everyone can get a place right now, says Mikael Stenman, reception manager at Ansia Camping in Lycksele.\n\nIt has become a real camping summer in Västerbotten at all the big campsites in Lycksele, Umeå and Skellefteå.\n\n- We have been pretty much fully occupied every day for two weeks now, which is great fun of course, says Eva-Maria Björk, unit manager at the campsites in Skellefteå and Byske.\n\nWithout competition, Norwegians are the largest group that applies to Skellefteå's campsites. Eva-Maria Björk estimates that this could be up to 95 percent of the campers.\n\nEven at Nydala Camping in Umeå, Norwegians have increased enormously compared to last year by 24 percent. The booking situation during July is a total of 8 percent greater than last year and now during the football festival the campsite is fully booked.\n\n- We have a few tent sites left and campsites without electricity, notes Ingela Lundkvist, commercial manager at First Camp.\n\nAccording to reception manager Mikael Stenman, Ansia in Lycksele has had an incredible number of visitors since the end of May. Now the Motor Week also fills the campsite.\n\n- The cottages are fully booked for several weeks to come, it seems, he says.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-21 @ 15:58:43 EDT",
+  "lastUpdated": "2026-07-21 @ 18:47:20 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
