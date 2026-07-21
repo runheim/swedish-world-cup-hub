@@ -4,24 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tuchel: 'Our focus is on building chemistry and consistency'",
-      "link": "https://www.englandfootball.com/"
+      "text": "⚽ Chelsea interested in former Man City defender Stones",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "🌍 Croatia and Ghana head coaches outline tactical structures",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+      "text": "⚽ Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
+      "link": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia"
     },
     {
-      "text": "💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "📈 England WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.englandfootball.com/"
+      "text": "⚽ Stones emerges as potential Chelsea target",
+      "link": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city"
     }
   ],
   "timeline": {
@@ -34401,11 +34393,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5842_0",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea interested in former Man City defender Stones",
+            "bullets": [
+              "Chelsea are interested in signing England defender John Stones on a free transfer following his depa...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
+            "fullText": "John Stones' Manchester City contract expired while he was at the World Cup with England\n\nChelseaare interested in signing England defender John Stones on a free transfer following his departure fromManchester City.\n\nThe west London side have joined Inter Milan in considering a move for the 32-year-old, who became a free agent when his City contract expired at the end of June.\n\nChelseaare also in talks to signCrystal Palace defender Maxence Lacroixwhile assessing other options in the market, including Como's Jacobo Ramon.\n\nThey are also looking to sell central defenders to make space in their squad for potential new arrivals.\n\nFellow England international Trevoh Chalobah is in talks to join Como, while Axel Disasi and Benoit Badiashile are among those available for sale.\n\nStones made 295 appearances for City after joining fromEvertonfor Â£47.5m in 2016.\n\nHe helped the club win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nThe former Barnsley defender also has 93 international caps and was part of the Three Lions side who finished third at the World Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5842_1",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
+            "bullets": [
+              "Bhatia backed by father-in-law Lakshmi MittalMinority stake deal values the club at £4.5bnLiverpool’...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bhatia backed by father-in-law Lakshmi MittalMinority stake deal values the club at £4.5bnLiverpool’s owner is in talks over selling a significant minority stake to a consortium led by the Queens Park Rangers co-owner Amit Bhatia and backed by his father-in-law Lakshmi Mittal, the billionaire Indian steel magnate.Fenway Sports Group confirmed in a statement to the Financial Times that it had begun negotiations with a group led by Bhatia over a potential share sale that would value Liverpool at about £4.5bn. Continue reading...",
+            "fullText": "Liverpool’s owner is in talks over selling a significant minority stake to a consortium led by the Queens Park Rangers co-owner Amit Bhatia and backed by his father-in-law Lakshmi Mittal, the billionaire Indian steel magnate.\n\nFenway Sports Group confirmed in a statementto the Financial Timesthat it had begun negotiations with a group led by Bhatia over a potential share sale that would value Liverpool at about £4.5bn.\n\n“An investment consortium led and managed by Amit Bhatia has expressed interest in making a strategic minority investment in Liverpool Football Club,” the statement said.\n\nFSG paid £300m to take control of Liverpool in 2010 and is poised to secure a spectacular return on its investment. The Boston-based investment group led by John W Henry, who also own the Boston Red Sox and Pittsburgh Penguins, has previously held discussions over a minority sale without reaching agreement, but with the Mittal family managing assets of £16bn there is no doubt the buyers have the resources to execute the transaction.\n\nIndustry sources expressed surprise at the purported £4.5bn valuation, which is far higher than recent sales of similar sized Premier League clubs.\n\nChelsea were bought four years ago by the Todd Boehly/Clearlake Capital group for £2.5bn, although that was a distressed sale because the owner Roman Abramovich was subject to UK government sanctions, and Sir Jim Ratcliffe’s purchase of 25% of Manchester United in 2024 valued the club at £3.9bn.\n\nIn an indication of the seriousness of the consortium’s bid for Liverpool Bhatia resigned as a director ofQPRon Tuesday after 19 years. The London-born entrepreneur has held numerous leadership roles at QPR since investing in the club in 2007. He said: “QPR has been a deeply important part of my life, and of my family’s life … I step back from my formal responsibilities with pride, gratitude and affection.”\n\nLiverpool are in the US under their new head coach, Andoni Iraola, for a pre-season tour which begins with a game against Sunderland in Nashville on Saturday.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5842_2",
+            "category": "england",
+            "type": "News",
+            "title": "Stones emerges as potential Chelsea target",
+            "bullets": [
+              "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer windo...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
+            "fullText": "John Stones is searching for a new club following his World Cup campaign with England after leaving Manchester City at the end of his contract earlier this month; Chelsea have raised around £130m through player sales during the current window, with further departures expected",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-21 @ 12:22:51 EDT",
+  "lastUpdated": "2026-07-21 @ 15:58:42 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
