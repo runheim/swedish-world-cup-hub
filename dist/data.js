@@ -4,11 +4,15 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Chelsea, Arsenal and Spurs all want Rashford - Wednesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70g8j875klo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Chelsea interested in former Man City defender Stones",
       "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Liverpool owner in talks to sell stake to QPR co-owner Amit Bhatia",
+      "text": "⚽ Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for £1.35bn",
       "link": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia"
     },
     {
@@ -34450,11 +34454,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5709_0",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea, Arsenal and Spurs all want Rashford - Wednesday's gossip",
+            "bullets": [
+              "A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Vill...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Villa's Ezri Konsa, and Nottingham Forest look set to sign a new defender.",
+            "fullText": "A trio of Premier League heavyweights all want Marcus Rashford,Arsenalare interested inAston Villa's Ezri Konsa, andNottingham Forestlook set to sign a new defender.\n\nTottenham,ChelseaandArsenalare all plotting a move forManchester Unitedforward Marcus Rashford, 28, but the Old Trafford hierarchy do not want to sell him to another English club.(The I - subscription required),external\n\nAston Villa'sArgentina goalkeeper Emiliano Martinez, 33, is a target forJuventuswhileArsenalare interested in Villa's 28-year-old England defender Ezri Konsa.(Telegraph - subscription required),external\n\nNottingham Forestare in advanced talks to signSporting CPand Ivory Coast defender Ousmane Diomande, 22.(Fabrizio Romano),external\n\nWest Ham'sFrench centre-back Jean-Clair Todibo, 26, is wanted byJuventus.(Gazzetta dello Sport - in Italian),external\n\nManchester Unitedremain keen to sign a central midfielder but have cooled their interest inBrighton'sCameroon international Carlos Baleba andBournemouth'sGuernseyman Alex Scott, both 22, because of their high price tags.(Teamtalk),external\n\nBournemouthare determined to keep hold of Scott, who is interestingArsenal, even though the England Under-21 international has rejected a new contract with the Cherries.(Telegraph - subscription required),external\n\nIpswichhave agreed a deal in principle to signCeltic'sJapanese forward Daizen Maeda, 28, for Â£8m plus Â£2m in add-ons.(Sky Sports),external\n\nManchester United's18-year-old Australian full-back James Overy is being monitored byRangersand several clubs in Australia.(Mail Plus - subscription required),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5709_1",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea interested in former Man City defender Stones",
+            "bullets": [
+              "Chelsea are interested in signing England defender John Stones on a free transfer following his depa...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
+            "fullText": "John Stones' Manchester City contract expired while he was at the World Cup with England\n\nChelseaare interested in signing England defender John Stones on a free transfer following his departure fromManchester City.\n\nThe west London side have joined Inter Milan in considering a move for the 32-year-old, who became a free agent when his City contract expired at the end of June.\n\nChelseaare also in talks to signCrystal Palace defender Maxence Lacroixwhile assessing other options in the market, including Como's Jacobo Ramon.\n\nThey are also looking to sell central defenders to make space in their squad for potential new arrivals.\n\nFellow England international Trevoh Chalobah is in talks to join Como, while Axel Disasi and Benoit Badiashile are among those available for sale.\n\nStones made 295 appearances for City after joining fromEvertonfor Â£47.5m in 2016.\n\nHe helped the club win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nThe former Barnsley defender also has 93 international caps and was part of the Three Lions side who finished third at the World Cup.\n\nChelseaannounced the Â£117m signing of England midfielderMorgan RogersfromAston Villaon Tuesday evening.\n\nThe Blues are also in talks with Villa about Argentina wingerAlejandro Garnachomoving on loan in the opposite direction.\n\nJackson to play for Alonso in pre-season despite uncertain future",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5710_2",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for £1.35bn",
+            "bullets": [
+              "Bhatia resigns as a director of QPRMinority stake deal values the club at £4.5bnLiverpool’s owner is...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bhatia resigns as a director of QPRMinority stake deal values the club at £4.5bnLiverpool’s owner is in talks over ­selling a minority stake to a consortium led by the former Queens Park Rangers co‑owner Amit ­Bhatia and backed by his father-in-law ­Lakshmi&nbsp;Mittal, the billionaire Indian&nbsp;steel magnate. The Guardian understands a sale of 30% of the club is being discussed, with an offer of around £1.35bn on the table.Fenway Sports Group confirmed in a statement to the Financial Times that it had begun negotiations with a group led by Bhatia over a ­potential minority share sale that would value ­Liverpool at about £4.5bn. Continue reading...",
+            "fullText": "Liverpool’s owner is in talks over ­selling a minority stake to a consortium led by the former Queens Park Rangers co‑owner Amit ­Bhatia and backed by his father-in-law ­Lakshmi Mittal, the billionaire Indian steel magnate. The Guardian understands a sale of 30% of the club is being discussed, with an offer of around £1.35bn on the table.\n\nFenway Sports Group confirmed in a statementto the Financial Timesthat it had begun negotiations with a group led by Bhatia over a ­potential minority share sale that would value ­Liverpool at about £4.5bn.\n\n“An investment consortium led and ­managed by Amit Bhatia has expressed ­interest in ­making a strategic ­minority ­investment in Liverpool Football Club,” the statement said.\n\nIt is believed that talks over the deal have been going on for three months.\n\nFSG paid £300m to take ­control of Liverpool in 2010 and is poised to secure a spectacular return on its investment. The ­Boston‑based group, led by John W Henry, which also owns the ­Boston Red Sox and Pittsburgh ­Penguins, has pre­viously held discussions over a minority sale without reaching agreement but, with the Mittal family ­possessing an estimated net worth of £23bn, there is no doubt the buyers have the resources to execute the transaction.\n\nIndustry sources expressed surprise at the purported £4.5bn valuation but it is in line with recent deals.\n\nChelsea were bought four years ago by the Todd Boehly/Clearlake Capital group for an overall £4.25bn, although £2.5bn was to purchase the shares from Roman Abramovich. These proceeds were deposited into a frozen UK bank account while £1.75bn was a legally binding commitment for future investment directly into the club. Sir Jim Ratcliffe’s purchase of 25% of Manchester United in 2024 valued the club at £4.3bn.\n\nIn an indication of the ­seriousness of the consortium’s bid for ­Liverpool, Bhatia resigned as a director ofQPRon Tuesday after 19 years. The ­London-born entrepreneur has held numerous leadership roles at QPR since investing in the club in 2007. He said: “QPR has been a deeply important part of my life, and of my family’s life … I step back from my formal responsibilities with pride, gratitude and affection.”\n\nLiverpool are in the US under their new head coach, Andoni Iraola, for a pre-season tour which begins with a game against Sunderland in ­Nashville on Saturday.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5710_3",
+            "category": "england",
+            "type": "News",
+            "title": "Stones emerges as potential Chelsea target",
+            "bullets": [
+              "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer windo...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Free agent defender John Stones has emerged as a potential option for Chelsea in this transfer window.",
+            "fullText": "John Stones is searching for a new club following his World Cup campaign with England after leaving Manchester City at the end of his contract earlier this month; Chelsea have raised around £130m through player sales during the current window, with further departures expected",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-21 @ 15:58:42 EDT",
+  "lastUpdated": "2026-07-21 @ 18:57:11 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
