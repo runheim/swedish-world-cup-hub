@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Vanessa Kamga's tribute to little sister Patricia: \"Better than I was\"",
+      "link": "https://www.svt.se/sport/friidrott/vanessa-kamgas-hyllning-till-lillasyster-patricia-battre-an-jag-var"
+    },
+    {
       "text": "⚽ Fully booked at the county's large campsites - by Norwegians: \"Not everyone gets a place\"",
       "link": "https://www.svt.se/nyheter/lokalt/vasterbotten/fullbelagt-pa-lanets-stora-campingar-av-norrman-alla-far-inte-plats"
     }
@@ -12661,11 +12665,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2729_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Vanessa Kamga's tribute to little sister Patricia: \"Better than I was\"",
+            "bullets": [
+              "Vanessa Kamga has been joined in the national athletics team by little sister Patricia. Now she send...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Vanessa Kamga has been joined in the national athletics team by little sister Patricia. Now she sends a tribute to the 20-year-old. - You are a better junior than I was, and you are the family's first Olympian, says Vanessa Kamga.",
+            "fullText": "Vanessa Kamga has been joined in the national athletics team by little sister Patricia.\n\n- You are a better junior than I was, and you are the family's first Olympian, says Vanessa Kamga.\n\nSee what Vanessa would like to take after Patricia, in the player above.\n\nVanessa Kamga broke through almost ten years ago, when she broke several Swedish junior records in the discus. Alongside the casting, little sister Patricia followed everything with joy.\n\nNow, nine years after Vanessa's first junior record was broken, Patricia has joined older sister in the national team.\n\n- It was so inspiring to be able to follow everything and it was thanks to Vanessa that I started athletics, says Patricia.\n\nPatricia has broken several Swedish junior records in the hammer and has a personal record of 72.17. In 2024, she also took home the gold at the European Youth Olympics.\n\n- You are the family's first Olympian, as you won the Youth Olympics. You also have more records than I do, says Vanessa.\n\nEven though Vanessa is Sweden's best discus thrower, Patricia was early in choosing the hammer instead.\n\n- I tried a little discus, but felt early on that the hammer was my thing, says Patricia.\n\n- I think there would have been a lot of talk if we had both run the discus, that many would have compared us, says Vanessa.\n\nVanessa is already ready for this summer's EC in Birmingham, while Patricia is one of five girls fighting for a place in hammer. A selection there would mean a senior debut, and a clear goal. But there is someone else the sisters dream of even more.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2732_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Fully booked at the county's large campsites - by Norwegians: \"Not everyone gets a place\"",
+            "bullets": [
+              "The motor week now fills the campsite in Lycksele, the football festival the campsite in Umeå and th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The motor week now fills the campsite in Lycksele, the football festival the campsite in Umeå and the sweltering northern Norwegian summer causes the Norwegians to escape to the sun in Skellefteå. Now, to say the least, pressure is high on the county's largest campsites. - Not everyone can get a place right now, says Mikael Stenman, reception manager at Ansia Camping in Lycksele.",
+            "fullText": "The motor week now fills the campsite in Lycksele, the football festival the campsite in Umeå and the sweltering northern Norwegian summer causes the Norwegians to escape to the sun in Skellefteå. Now, to say the least, pressure is high on the county's largest campsites.\n\n- Not everyone can get a place right now, says Mikael Stenman, reception manager at Ansia Camping in Lycksele.\n\nIt has become a real camping summer in Västerbotten at all the big campsites in Lycksele, Umeå and Skellefteå.\n\n- We have been pretty much fully occupied every day for two weeks now, which is great fun of course, says Eva-Maria Björk, unit manager at the campsites in Skellefteå and Byske.\n\nWithout competition, Norwegians are the largest group that applies to Skellefteå's campsites. Eva-Maria Björk estimates that this could be up to 95 percent of the campers.\n\nEven at Nydala Camping in Umeå, Norwegians have increased enormously compared to last year by 24 percent. The booking situation during July is a total of 8 percent greater than last year and now during the football festival the campsite is fully booked.\n\n- We have a few tent sites left and campsites without electricity, notes Ingela Lundkvist, commercial manager at First Camp.\n\nAccording to reception manager Mikael Stenman, Ansia in Lycksele has had an incredible number of visitors since the end of May. Now the Motor Week also fills the campsite.\n\n- The cottages are fully booked for several weeks to come, it seems, he says.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-22 @ 00:42:25 EDT",
+  "lastUpdated": "2026-07-22 @ 08:27:32 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
