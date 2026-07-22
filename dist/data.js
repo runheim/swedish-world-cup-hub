@@ -8146,11 +8146,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0414_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Why many Black Americans were rooting for Argentina to lose the World Cup | Etan Thomas",
+            "bullets": [
+              "Many Black Americans were not cheering Spain’s complicated history. They were rooting against the ra...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Many Black Americans were not cheering Spain’s complicated history. They were rooting against the racism, politics and silence associated with ArgentinaThere are moments in sports when you realize people aren’t just watching the score any more. They’re watching values. They’re watching who speaks. They’re watching who stays silent. And they’re watching what those silences say.I found myself thinking about that throughout this World Cup. On paper, Sunday’s final looked simple. Spain v Argentina. Two footballing giants and countries with glorious soccer histories. Two nations whose pasts are also stained by colonization, oppression and chapters of history that shouldn’t be whitewashed simply because someone can score a goal. Continue reading...",
+            "fullText": "Many Black Americans were not cheering Spain’s complicated history. They were rooting against the racism, politics and silence associated with Argentina\n\nThere are moments in sports when you realize people aren’t just watching the score any more. They’re watching values. They’re watching who speaks. They’re watching who stays silent. And they’re watching what those silences say.\n\nI found myself thinking about that throughout this World Cup. On paper, Sunday’s final looked simple.SpainvArgentina. Two footballing giants and countries with glorious soccer histories. Two nations whose pasts are also stained by colonization, oppression and chapters of history that shouldn’t be whitewashed simply because someone can score a goal.\n\nSo no, this wasn’t some fairytale of good versus evil. Spain’s colonial legacy is well documented. Nobody who knows history should pretend otherwise.\n\nYet for many Black Americans, this final wasn’t really about rootingforSpain. It was about rootingagainstArgentina.\n\nWhen your fanbase repeatedly becomes associated with racist incidents … when videos circulate of Argentinian fans decked out in Argentina team gear hurling racial epithets toward Black people … when the world watched members of Argentina’s national teamsing a racist chant targeting France’s Black playersafter winning Copa América … when American streamer IShowSpeed was verbally assaulted by fans fully dressed in Argentina team gear … when word spreads across social media that in Argentina, there is a real hamburger business in Llavallol whose official name uses the “-a” version of the N-word:“Big N– Burgers”… when Argentina president Javier Milei openly embraces positions that align very closely with Donald Trump and offers support for Israel in the midst of a genocide, ethnic cleansing and slaughter of Palestinians … when Benjamin Netanyahu is asked on a recent podcast if he was rooting for Messi and says, “No, before Messi, Milei. He’s a superstar” … eventually, the tide of supports shifts. After a while, any accomplishments on the field become overshadowed.\n\nIt’s like a college basketball coach who has all the appearances of a great program. He has a great winning percentage and a high graduation rate, and all of his players are disciplined, articulate and present themselves as professionals. But you keep hearing stories of verbal abuse and berating, whispers of a tyrant coach who is actively damaging his players’ mental health. At some point, the results become secondary and people start asking, “What’s going on with the Indiana Hoosiers?”\n\nArgentina kept giving people reasons to ask that question. Which brings us toLionel Messi.\n\nThis is where people get uncomfortable because everybody loves Messi, and for good reason. His brilliance doesn’t require exaggeration. His résumé speaks louder than any sports debate ever could. Whether you think he’s the greatest player ever or merely one of them – shoutout toPelé– you’re arguing over different shades of greatness.\n\nBut greatness on the field has never automatically translated into courage off it.\n\nMuhammad Ali taught us that. Bill Russell taught us that.Mahmoud Abdul-Rauftaught us that.Craig Hodgestaught us that. John Carlos and Tommie Smith taught us that. Being extraordinary with a ball, a bat or track shoes isn’t the same thing as being willing to risk comfort for conviction.\n\nTo my knowledge, throughout this entireWorld Cup, Messi never publicly condemned the racist incidents involving sections of Argentina’s fanbase. He did not publicly address the racist chant that drew worldwide criticism after Copa América. Nor has he publicly spoken out after videos of Argentina supporters racially abusing Black people circulated online.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-22 @ 15:51:53 EDT",
+  "lastUpdated": "2026-07-22 @ 19:04:16 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
