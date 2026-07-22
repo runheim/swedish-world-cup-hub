@@ -12,12 +12,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cg4dze3ellko?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Liverpool owner FSG in talks to sell 30% stake to Amit Bhatia consortium for £1.35bn",
-      "link": "https://www.theguardian.com/sport/2026/jul/21/liverpool-owners-fsg-in-talks-sell-stake-qpr-co-owner-amit-bhatia"
+      "text": "⚽ Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool",
+      "link": "https://www.theguardian.com/football/2026/jul/22/amazon-founder-jeff-bezos-consortium-stake-liverpool-football"
     },
     {
-      "text": "⚽ Stones emerges as potential Chelsea target",
-      "link": "https://www.skysports.com/football/news/12040/13565768/chelsea-transfer-news-john-stones-emerges-as-potential-option-after-summer-exit-from-man-city"
+      "text": "⚽ Southampton head coach Tonda Eckert charged with misconduct by FA over spygate scandal",
+      "link": "https://www.theguardian.com/football/2026/jul/22/southampton-tonda-eckert-charged-with-misconduct-by-fa-over-spygate-scandal"
+    },
+    {
+      "text": "⚽ ‘A unique talent’: Phil Foden signs new four-year Manchester City contract",
+      "link": "https://www.theguardian.com/football/2026/jul/22/phil-foden-signs-new-four-year-manchester-city-contract"
+    },
+    {
+      "text": "⚽ Southampton boss Eckert charged by FA over Spygate scandal",
+      "link": "https://www.skysports.com/football/news/12040/13565861/tonda-eckert-southampton-boss-charged-by-fa-over-spygate-scandal-that-expelled-club-from-championship-play-offs"
+    },
+    {
+      "text": "⚽ 'This means everything to me' - Foden signs new Man City contract",
+      "link": "https://www.skysports.com/football/news/12040/13565922/phil-foden-contract-man-city-star-signs-new-four-year-contract-running-until-summer-of-2030"
     }
   ],
   "timeline": {
@@ -34604,11 +34616,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1943_0",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea, Arsenal and Spurs all want Rashford - Wednesday's gossip",
+            "bullets": [
+              "A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Vill...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A trio of Premier League heavyweights all want Marcus Rashford, Arsenal are interested in Aston Villa's Ezri Konsa, and Nottingham Forest look set to sign a new defender.",
+            "fullText": "A trio of Premier League heavyweights all want Marcus Rashford,Arsenalare interested inAston Villa's Ezri Konsa, andNottingham Forestlook set to sign a new defender.\n\nTottenham,ChelseaandArsenalare all plotting a move forManchester Unitedforward Marcus Rashford, 28, but the Old Trafford hierarchy do not want to sell him to another English club.(The I - subscription required),external\n\nAston Villa'sArgentina goalkeeper Emiliano Martinez, 33, is a target forJuventuswhileArsenalare interested in Villa's 28-year-old England defender Ezri Konsa.(Telegraph - subscription required),external\n\nNottingham Forestare in advanced talks to signSporting CPand Ivory Coast defender Ousmane Diomande, 22.(Fabrizio Romano),external\n\nManchester Unitedremain keen to sign a central midfielder but have cooled their interest inBrighton'sCameroon international Carlos Baleba andBournemouth'sGuernseyman Alex Scott, both 22, because of their high price tags.(Teamtalk),external\n\nBournemouthare determined to keep hold of Scott, who is interestingArsenal, even though the England Under-21 international has rejected a new contract with the Cherries.(Telegraph - subscription required),external\n\nIpswichhave agreed a deal in principle to signCeltic'sJapanese forward Daizen Maeda, 28, for Â£8m plus Â£2m in add-ons.(Sky Sports),external\n\nManchester United's18-year-old Australian full-back James Overy is being monitored byRangersand several clubs in Australia.(Mail Plus - subscription required),external\n\nWest Hamare considering a move forLeicester City'sEnglish defender Ben Nelson with the Hammers hoping they can secure the 22-year-old for a cut-price fee following the Foxes relegation to League One. (Football Insider,external)\n\nWest Hamare also interested inLeicester Citycentre-back Harry Souttar, though they face competition fromWrexhamfor the 27-year-old Australia international. (Daily Record,external)\n\nWest Ham'sFrench centre-back Jean-Clair Todibo, 26, is wanted byJuventus.(Gazzetta dello Sport - in Italian),external\n\nCardiff City,Sheffield UnitedandWatfordare keen on Scotland centre-half John Souttar, withRangerslooking for a seven-figure fee for the 29-year-old who is not so keen onLeicester Cityas he is reluctant to drop to England's third tier. (Daily Record,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1943_1",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea interested in former Man City defender Stones",
+            "bullets": [
+              "Chelsea are interested in signing England defender John Stones on a free transfer following his depa...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea are interested in signing England defender John Stones on a free transfer following his departure from Manchester City.",
+            "fullText": "John Stones' Manchester City contract expired while he was at the World Cup with England\n\nChelseaare interested in signing England defender John Stones on a free transfer following his departure fromManchester City.\n\nThe west London side have joined Inter Milan in considering a move for the 32-year-old, who became a free agent when his City contract expired at the end of June.\n\nChelseaare also in talks to signCrystal Palace defender Maxence Lacroixwhile assessing other options in the market, including Como's Jacobo Ramon.\n\nThey are also looking to sell central defenders to make space in their squad for potential new arrivals.\n\nFellow England international Trevoh Chalobah is in talks to join Como, while Axel Disasi and Benoit Badiashile are among those available for sale.\n\nStones made 295 appearances for City after joining fromEvertonfor Â£47.5m in 2016.\n\nHe helped the club win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nThe former Barnsley defender also has 93 international caps and was part of the Three Lions side who finished third at the World Cup.\n\nChelseaannounced the Â£117m signing of England midfielderMorgan RogersfromAston Villaon Tuesday evening.\n\nThe Blues are also in talks with Villa about Argentina wingerAlejandro Garnachomoving on loan in the opposite direction.\n\nWhy Chelsea have signed so many Man City academy graduates",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1943_2",
+            "category": "england",
+            "type": "News",
+            "title": "Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool",
+            "bullets": [
+              "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bidBezos has previously explored buying NFL fr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bidBezos has previously explored buying NFL franchisesAmazon founder Jeff Bezos has held talks about joining the consortium that is seeking to buy around 30% of Liverpool.The group led by former Queens Park Rangers co‑owner Amit ­Bhatia has made a provisional offer of £1.35bn to buy a stake from Fenway Sports Group (FSG), and is talking to other potential investors over supplying funding. Bezos has a personal fortune of around $257bn according to Forbes, making him the fourth richest person in the world. Continue reading...",
+            "fullText": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bid\n\nBezos has previously explored buying NFL franchises\n\nAmazon founderJeff Bezoshas held talks about joining the consortium that is seeking to buy around 30% of Liverpool.\n\nThe group led by former Queens Park Rangers co‑owner Amit ­Bhatia hasmade a provisional offer of £1.35bn to buy a stake from Fenway Sports Group (FSG), and is talking to other potential investors over supplying funding. Bezos has a personal fortune of around $257bn according to Forbes, making him the fourth richest person in the world.\n\nThe 62-year-old has previously explored bids for NFL franchises Seattle Seahawks and Washington Commanders without completing a deal, but has never before looked at investing in the Premier League. Sources with knowledge of the talks have indicated that any deal with Bhatia’s consortium would see Bezos receive equity inLiverpool.\n\nBezos is currently executive chairman of Amazon having relinquished day-to-day control when he stepped down as chief executive five years ago. Under his leadership the online retailer has looked to diversify as an entertainment provider in recent years and has bought numerous sports right for its streaming service.\n\nAmazon had live UK rights for 20 Premier League games each season for six years until the end of last year, and currently broadcasts the Champions League in several European countries, as well as NFL in the United States.\n\nThe Bhatia bid for Liverpool is understood to value the club at around £4.5bn, higher than the valuation of Manchester United when Sir Jim Ratcliffe bought 25% of the club two years ago. While the search for fresh investors is continuing, Bhatia is believed to have secured financial backing from his father-in-law, Indian steel magnate Lakshmi Mittal, whose family wealth is estimated at around £23bn.\n\nBhatia was a director and co-owner of QPR until yesterday when he transferred his shares to fellow owner Ruben Gnanalingam to pave the way for his consortium’s prospective investment in Liverpool.\n\nAn FSG spokesperson has confirmed the talks, saying:“An investment consortium led, managed, and represented by Amit Bhatia has expressed interest in making a strategic minority investment in Liverpool Football Club”. FSG previously sold 3% of the club to US private equity firm Dynasty Equity in 2023.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1943_3",
+            "category": "england",
+            "type": "News",
+            "title": "Southampton head coach Tonda Eckert charged with misconduct by FA over spygate scandal",
+            "bullets": [
+              "33-year-old German could be hit with one-year banSouth-coast club denied chance to win promotionTond...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "33-year-old German could be hit with one-year banSouth-coast club denied chance to win promotionTonda Eckert has been charged with misconduct by the Football Association for orchestrating the spying scandal that saw Southampton being kicked out of the Championship playoff final.The FA announced action against the 33-year-old German, who has accepted “full responsibility” for sending club staff to observe training sessions of three opponents, on Wednesday, confirming he is facing three counts of misconduct and has until 28 July to provide responses. Continue reading...",
+            "fullText": "Tonda Eckert has been charged with misconduct by the Football Association for orchestrating the spying scandal that saw Southampton beingkicked out of the Championship playoff final.\n\nThe FA announced action against the 33-year-old German, who has accepted “full responsibility” for sending club staff to observe training sessions of three opponents, on Wednesday, confirming he is facing three counts of misconduct and has until 28 July to provide responses.\n\n“It’s alleged that the head coach acted in an improper manner and/or brought the game into disrepute by directing and/or authorising the observation of training sessions of Oxford United FC, Ipswich Town FC and Middlesbrough FC ahead of fixtures between these clubs andSouthamptonFC in December 2025, April 2026 and May 2026 respectively,” read a statement from the FA, who could impose a range of punishments on Eckert, including a one-year ban.\n\nSouthampton were denied the chance to win promotion after an independent disciplinary commission found the club “seriously violated” the integrity of the competition after sending an analyst to Middlesbrough on the eve of their playoff semi-final first leg.\n\nEckert had also ordered analyststo spy on Oxford United and Ipswichduring the regular season. He apologised to fans for his actions in a video broadcast on Tuesday, and repeated his claims that spying on rivals’ training sessions is common practice in his native Germany and that he was ignorant of the rules outlawing spying led to the English Football League (EFL) .\n\nEckert joined Southampton as Under-21s manager last summer before taking over the first team in the autumn and quickly turned around the relegated Premier League club’s fortunes, steering them from a the lower rungs of the Championship table to the play-offs.\n\nThe Southampton owner, Dragan Solak, has said he wants the German head coach to lead the club into the Premier League next season. He wants wants to “close the chapter and look ahead together as one, including Tonda and his staff”. Saints have also been deducted four points in the Championship next season.\n\nKick off your evenings with the Guardian's take on the world of football\n\nIn 2019, the FA issued formal warnings to the then Leeds manager Marcelo Bielsa and a club analyst for spying on Derby, but English football’s governing body said it would “take appropriate action should further evidence of this nature come to light”.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1943_4",
+            "category": "england",
+            "type": "News",
+            "title": "‘A unique talent’: Phil Foden signs new four-year Manchester City contract",
+            "bullets": [
+              "26-year-old looking forward to working with Maresca‘To stay this long at the club is a dream really,...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "26-year-old looking forward to working with Maresca‘To stay this long at the club is a dream really,’ he saysPhil Foden has signed a new four-year contract with Manchester City, saying he is looking forward to “trying to win more” at his boyhood club.The fresh deal, which has an additional 12-month option, ties the 26-year-old to the club until 2030 and he is is relishing working again with Enzo Maresca. The new City manager was Pep Guardiola’s assistant during the 2022-23 treble-winning season. Continue reading...",
+            "fullText": "26-year-old looking forward to working with Maresca\n\n‘To stay this long at the club is a dream really,’ he says\n\nPhil Foden has signed a new four-year contract withManchester City, saying he is looking forward to “trying to win more” at his boyhood club.\n\nThe fresh deal, which has an additional 12-month option, ties the 26-year-old to the club until 2030 and he is is relishing working again with Enzo Maresca. The new City manager was Pep Guardiola’s assistant during the 2022-23 treble-winning season.\n\nFoden said: “Committing my future to City means everything to me. Playing for this club is all I’ve ever wanted to do and it’s always an honour to wear the shirt. It’s not lost on me that I’ve been lucky enough to be part of a historic period with so many titles won, but we’re always looking to the future and trying to win more.\n\n“I can only thank the club, staff, teammates and fans who continue to put their faith in me. I hope I’ll be able to repay you for years to come. I can’t wait to work with Enzo again. He was brilliant during the treble season – someone all the players respected and loved working with. To have him back here is exciting. Personally, I know I’ve improved so much from working with our coaches and world-class squad. I am excited for the next phase of my career at this great club.”\n\nWith John Stones and Bernardo Silva having left the club, Foden is City’s most decorated player with 17 major honours. The forward has won six Premier Leagues, one Champions League, three FA Cups, five League Cups one Uefa Super Cup and one Club World Cup.\n\nFoden expressed disbelief at how long he has been at City. “Not in a million years [would I think this],” he said. “I would say I had a dream to make it to the first team, but to stay this long, it’s a dream really. And like I said, I’m just enjoying it and trying to make the most of it.”\n\nThe new deal indicate the firm belief of Maresca, and Hugo Viana, the director of football, that Foden can recapture his form. He lost his regular starting place under Guardiola and he was not selected by Thomas Tuchel for England’s World Cup squad. Foden’s form has fallen away since he was a key part of City’s 2023-24 title success and winning the Football Writers’ Association and Professional Footballers’ Association player of the year awards.\n\nLast season, after the 2-2 draw with Nottingham Forest on 4 March, Foden started only two league games and was substituted after 58 minutes of the 2-1 FA Cup final victory over Southampton. Foden has spent his whole career with City, joining as an eight-year-old.\n\nKick off your evenings with the Guardian's take on the world of football\n\nViana said: “Everyone at Manchester City is incredibly proud of Phil. He represents everything good about our academy. He is a unique talent, and his creativity is a joy to watch. None of what he has achieved would be possible without the focus, dedication and humility to work hard in every moment and absorb all of the knowledge available to him through our coaches and players.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1944_5",
+            "category": "england",
+            "type": "News",
+            "title": "Southampton boss Eckert charged by FA over Spygate scandal",
+            "bullets": [
+              "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bring...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bringing the game into disrepute over the 'Spygate' scandal.",
+            "fullText": "Southampton were expelled from the Championship play-offs in May after admitting to \"multiple breaches\" of unauthorised filming of their opponents' training, including before their semi-final against Middlesbrough; the FA waited for the EFL to conclude their process before investigating",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1945_6",
+            "category": "england",
+            "type": "News",
+            "title": "'This means everything to me' - Foden signs new Man City contract",
+            "bullets": [
+              "Man City have announced Phil Foden has signed a new contract at the club.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Man City have announced Phil Foden has signed a new contract at the club.",
+            "fullText": "Foden's previous contract was set to expire in the summer of 2027; the 26-year-old made his debut for Man City in November 2017 and has gone on to make 369 first team appearances, scoring 110 goals and winning 20 trophies",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-22 @ 00:40:35 EDT",
+  "lastUpdated": "2026-07-22 @ 08:19:45 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
