@@ -35134,10 +35134,137 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-23": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4411_0",
+            "category": "england",
+            "type": "News",
+            "title": "Foden signs new four-year Man City contract",
+            "bullets": [
+              "Manchester City midfielder Phil Foden signs a new four-year contract with the club, extending his st...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City midfielder Phil Foden signs a new four-year contract with the club, extending his stay until 2030.",
+            "fullText": "Phil Foden scored seven goals and assisted five times in the Premier League last season\n\nManchester Citymidfielder Phil Foden has signed a new four-year contract which will keep him at the club until 2030.\n\nThe 26-year-old's previous deal was due to expire next summer but he has opted to extend his stay under new head coach Enzo Maresca.\n\nFoden was given his first-team debut as a 17-year-old by former boss Pep Guardiola and has gone on to make 369 appearances for City, winning six Premier League titles, one Champions League and two FA Cups.\n\nHe was left out of Thomas Tuchel's England World Cup squad in May after an inconsistent season where he made only 23 Premier League starts.\n\nFoden says \"he can't wait\" to work with Maresca again, with the Italian an assistant to Guardiola during City's Treble-winning 2022-23 season.\n\n\"Committing my future to City means everything to me. Playing for this club is allâ¯ I'veâ¯ever wanted to do and it's â¯always an honour to wear the shirt,\" said Foden\n\n\"It'sâ¯not lost on me thatâ¯I'veâ¯been lucky enough to be part of a historic period with so many titles won, butâ¯we'reâ¯always looking to the future and trying to win more.\n\n\"I can't wait to work with Enzo again. He was brilliant during the Treble season â someone all the players respected and loved working with.\"\n\nItaly could make financial 'exceptions' for Guardiola\n\nHow 'baby boy' Haaland conquered America at the World Cup\n\nRodri's stock at all-time high as he adds to trophy collection",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4412_1",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield | Andy Hunter",
+            "bullets": [
+              "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi M...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading...",
+            "fullText": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked\n\nA consortium led by Amit Bhatia, the former co-owner of Queens Park Rangers and son-in-law of the Indian steel magnate Lakshmi Mittal, hasopened talks with Liverpool’s owner, Fenway Sports Group, over buying a significant stake in the club. Neither party has commented on the size of the stake or the investment amount being offered but it is believed to be a provisional offer of £1.35bn for about 30%. Discussions began three months ago but FSG insists the talks remain at a preliminary stage.\n\nThe reported offer values Liverpool at about £4.5bn. Manchester United were valued at slightly less when Sir Jim Ratcliffe bought aninitial 25% stake in February 2024, increased to 27.7%, although the latest valuation of United by Forbes was $7.2bn (£5.38bn). Forbes, again, had Real Madrid as the most valuable club in the world at $9.5bn, with Barcelona in second place at $7.5bn. Todd Boehly and Clearlake Capitalacquired Chelsea for £4.25bn in May 2022as a distressed asset sale after the Russian oligarch Roman Abramovich was sanctioned by the UK government.\n\nFirst of all, £1.35bn for 30% of Liverpool would represent a healthy profit on a club itbought for £300m in 2010and whose value has soared since. And the principal owner, John W Henry, is a venture capitalist, after all. But it is also true that FSG remains fiercely competitive and to continue challenging among an elite that includes oil-rich states necessitates ever more investment. That is why FSG has sought, and occasionally found, new investors before. The current talks are not considered part of an exit strategy by Liverpool’s owners but a potential opportunity to attract considerable funds while remaining in overall control. The company has parked plans to buy a second club – a decision that led to Michael Edwards’s recent departure as FSG’s chief executive of football – and last summer funded the biggest transfer outlay in Liverpool’s history of almost £450m. To maintain and improve those levels, having made only a modest profit of £8m when winning the Premier League title under Arne Slot in 2024-25, requires injecting fresh capital into the club.\n\nSeveral times. In March 2021, FSG sold 10% of the company to RedBird Capital Partners for £543m. In 2022, FSG hired the investment banks Goldman Sachs and Morgan Stanley to seek out potential buyers for a 10% stake in Liverpool. No deal was done and Henry confirmed the following year that FSG was always open to new investment but not looking to sell the club. In 2023, FSG sold a reported 4% stake in Liverpool to Dynasty Equity, an American sports investment company, for £164m. That money was largely used to pay off debts incurred during the pandemic.\n\nBhatia, who stepped down as co-owner and director of QPR on Tuesday after 18 years, is believed to have secured financial backing from Mittal. The Mittal family wealth is estimated to be £23bn. Those riches pale in comparison, however, with another potential investor – Amazon’s founder, Jeff Bezos. The fourth-richest person in the world could afford to buy Liverpool outright and still have $250bn left in his back pocket. Bezos has been approached about joining the consortium but is reportedly undecided on whether to invest in a Premier League club for the first time. Bezos is no longer chief executive of Amazon but is executive chair of a company that has expanded from online retail into entertainment and sports rights, including for Premier League games, in recent years.\n\nEven without Bezos on board, the consortium’s proposed offer would improve Liverpool’s capital considerably as the club begins a new era under Andoni Iraola. How much say and sway Bhatia and others would have over Liverpool’s football operations remains to be ironed out. With the FSG president, Mike Gordon, returning to a more prominent role at the club after Edwards’s exit, it seems unlikely that Liverpool’s owners would follow the Glazers’ example with Ratcliffe at Manchester United and grant a minority shareholder full control on the football side. Given talks are only at a preliminary stage, Liverpool’s transfer plans for this summer are not expected to be affected.\n\nTalks continue until a deal is done or collapses. FSG’s willingness to confirm Bhatia’s bid in a statement to the Financial Times on Tuesday, and Bhatia’s departure from QPR that very same day, indicates negotiations are heading towards a successful conclusion.\n\nThe best public interest journalism relies on first-hand accounts from people in the know. If you have something to share on this subject, you can contact us confidentially using the following methods:\n\nThe Guardian app has a tool to send tips about stories. Messages are end to end encrypted and concealed within the routine activity that every Guardian mobile app performs. This prevents an observer from knowing that you are communicating with us at all, let alone what is being said.\n\nIf you don’t already have the Guardian app, download it (iOS/Android) and go to the menu. Select ‘Secure Messaging’. When asked to select a recipient, select the ‘Sport (UK and Global)’ team.\n\nFinally, our guide attheguardian.com/tipslists several ways to contact us securely, and discusses the pros and cons of each.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4412_2",
+            "category": "england",
+            "type": "News",
+            "title": "England cannot afford trip to amputee World Cup – and the FA will not help",
+            "bullets": [
+              "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in MexicoEvery time Scott Rogers walks into St George’s Park there is a sign on the wall that catches his eye. It boasts that the 330-acre site is the proud home of all England’s football teams. “I look at it every time and go, ‘Well, not all of them’” Rogers says.As head coach, Rogers guided the England men’s amputee team to the Nations League trophy in 2023. But while the Football Association funds six para national teams, amputee football is not among them. Continue reading...",
+            "fullText": "With no national funding, England’s successful men’s amputee side is struggling to raise the £50,000 needed for November’s tournament in Mexico\n\nEvery time Scott Rogers walks into St George’s Park there is a sign on the wall that catches his eye. It boasts that the 330-acre site is the proud home of all England’s football teams. “I look at it every time and go, ‘Well, not all of them’” Rogers says.\n\nAs head coach, Rogers guided the England men’s amputee team to the Nations League trophy in 2023. But while the Football Association funds six para national teams, amputee football is not among them.\n\nNow one of the world’s leading amputee nations is struggling to raise enough money to compete at the men’s World Cup in Mexico in November. England earned £21.5m in prize money for finishing third in the World Cup and got £1.1m in preparation funds. The amputee side are trying to scrape together £50,000 to cover their tournament costs.\n\n“The FA say they’re funded for a certain amount of para teams and at the moment there isn’t the funding to bring amputee football into the fold,” Rogers says. “We’re Nations League champions, and there’s a chance we won’t go to this World Cup. For an England team at the top of the game to miss a World Cup due to funding, it doesn’t sit right.”\n\nThe amputee programme was under the FA umbrella until 2006, when the governing body cut funding. “That left a lot of bad feeling at the time,” Rogers says.\n\nThey set up as a charity and have built a thriving structure. The women’s team reached the quarter-finals of the inaugural World Cup in 2024. The junior system has more than 70 players aged four to 17. They have doctors, strength and conditioning coaches, analysts, technical coaches. It is run by volunteers and funded by donations.\n\nRogers, a former youth coach at Wigan and Blackburn, became involved in 2000. “Whatever I’d do with an under-18 elite able-bodied team, I’d do with these lads because they were incredible,” he says.\n\n“When people think about amputee football, they probably imagine it’s slow and laborious.It’s the opposite: fast-paced, brutal at times. They snap crutches almost every game. I fell in love with it.”\n\nFA representatives shadowed the team at the 2022 World Cup and were impressed. But though they made a funding offer, it fell short of what was in place. “All the signs were good,” Rogers says. But the offer would have reduced training frequency and cut the number of coaches and specialists. It was declined. Coming back under the FA umbrella while continuing to take money from other sources was not an option, Rogers says.\n\nWhenOwen Coyle Jr– son of the former Burnley manager – stepped down as head coach in 2023, Rogers took over. Previously, players each had to raise £1,500 to secure their place for tournaments, but Rogers scrapped the requirement.\n\nAn appearance on ITV’s Good Morning Britain provided the funding boost to play at Euro 2024, their pot rising from £4,000 of their £40,000 target to more than £50,000 within hours. For the World Cup this year, they are not even halfway to the £50,000 needed.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4412_3",
+            "category": "england",
+            "type": "News",
+            "title": "‘A unique talent’: Phil Foden signs new four-year Manchester City contract",
+            "bullets": [
+              "26-year-old looking forward to working with Maresca‘To stay this long at the club is a dream’Phil Fo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "26-year-old looking forward to working with Maresca‘To stay this long at the club is a dream’Phil Foden has signed a new four-year contract with Manchester City, saying he is looking forward to “trying to win more” at his boyhood club. The deal, which has an additional 12-month option, ties the 26-year-old to the club until 2030.Foden is relishing working again with Enzo Maresca. The new City manager was Pep Guardiola’s ­assistant during the 2022-23 treble-winning season. Continue reading...",
+            "fullText": "26-year-old looking forward to working with Maresca\n\nPhil Foden has signed a new four-year contract withManchester City, saying he is looking forward to “trying to win more” at his boyhood club. The deal, which has an additional 12-month option, ties the 26-year-old to the club until 2030.\n\nFoden is relishing working again with Enzo Maresca. The new City manager was Pep Guardiola’s ­assistant during the 2022-23 treble-winning season.\n\nFoden said: “Committing my future to City means everything to me. Playing for this club is all I’ve ever wanted to do and it’s always an honour to wear the shirt. It’s not lost on me that I’ve been lucky enough to be part of a historic period with so many titles won, but we’re always looking to the future and trying to win more.\n\n“I can only thank the club, staff, teammates and fans who continue to put their faith in me. I hope I’ll be able to repay you for years to come. I can’t wait to work with Enzo again. He was brilliant during the treble season – someone all the players respected and loved working with.\n\n“To have him back here is exciting. Personally, I know I’ve improved so much from ­working with our coaches and world-class squad. I am excited for the next phase of my career at this great club.”\n\nWith John Stones and Bernardo Silva having left the club, Foden is City’s most decorated player with 17 major honours. The forward has won six Premier Leagues, one Champions League, three FA Cups, five League Cups,one Uefa Super Cupandone Club World Cup.\n\nFoden expressed disbelief at how long he has been at City. “Not in a million years [would I think this],” he said. “I would say I had a dream to make it to the first team, but to stay this long, it’s a dream. And like I said, I’m just enjoying it and trying to make the most of it.”\n\nFoden is hopeful Maresca’s mode of play will suit him. “You can tell by the first few sessions I’ve done with him – the way he likes to play out from the back and play a lot of possession-based – it suits my game really well. I’m looking forward to that and hopefully it can help my game go to the next stage,” he said.\n\nThe new deal indicates the firm belief of Maresca and Hugo Viana, the director of football, that Foden can recapture his form. He lost his starting place under Guardiola and was left out of England’s World Cup squad. Foden’s form has fallen away since he was a key part ofCity’s 2023-24 title successand winning the Football Writers’ Association and Professional Footballers’ Association player of the year awards.\n\nKick off your evenings with the Guardian's take on the world of football\n\nLast season, after the2-2 draw with Nottingham Foreston 4 March, Foden started two league games and was substituted after 58 minutes of the2-1 FA Cup semi-final victory over Southampton. Foden has spent his whole career with City, joining as an eight-year-old.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4412_4",
+            "category": "england",
+            "type": "News",
+            "title": "Amazon founder Jeff Bezos in talks to join consortium seeking 30% stake in Liverpool",
+            "bullets": [
+              "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bidBezos has previously explored buying NFL fr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bidBezos has previously explored buying NFL franchisesThe Amazon founder Jeff Bezos has held talks about joining the consortium that is seeking to buy around 30% of Liverpool.The group led by the former Queens Park Rangers co‑owner Amit Bhatia has made a provisional offer of £1.35bn to buy a stake from Fenway Sports Group (FSG), and is talking to other potential investors over supplying funding. Continue reading...",
+            "fullText": "Billionaire keen to be part of Amit ­Bhatia’s £1.35bn bid\n\nBezos has previously explored buying NFL franchises\n\nThe Amazon founderJeff Bezoshas held talks about joining the consortium that is seeking to buy around 30% of Liverpool.\n\nThe group led by the former Queens Park Rangers co‑owner Amit Bhatia hasmade a provisional offer of £1.35bnto buy a stake from Fenway Sports Group (FSG), and is talking to other potential investors over supplying funding.\n\nBezos has a personal fortune of around $257bn, according to Forbes, making him the fourth-richest person in the world.\n\nThe 62-year-old has previously explored bids for the NFL franchises Seattle Seahawks and Washington Commanders without completing a deal, but has never before looked at investing in the Premier League.\n\nSources with knowledge of the talks have indicated that any deal with Bhatia’s consortium would see Bezos receive equity inLiverpool.\n\nBezos is the executive chair of Amazon having relinquished day-to-day control when he stepped down as chief executive five years ago. Under his leadership the online retailer has looked to diversify as an entertainment provider in recent years and has bought numerous sports rights for its streaming service.\n\nAmazon had live UK rights for 20 Premier League games each season for six seasons until the end of last year, and broadcasts the Champions League in several European countries, as well as NFL in the US.\n\nThe Bhatia bid for Liverpool is understood to value the club at around £4.5bn, higher than the valuation of Manchester United when Sir Jim Ratcliffe bought 25% of the club two years ago.\n\nWhile the search for fresh investors is continuing, Bhatia is believed to have secured financial backing from his father-in-law, the Indian steel magnate Lakshmi Mittal, whose family wealth is estimated at around £23bn.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4412_5",
+            "category": "england",
+            "type": "News",
+            "title": "Southampton boss Eckert charged by FA over Spygate scandal",
+            "bullets": [
+              "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bring...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Southampton head coach Tonda Eckert has been charged by the FA with misconduct and potentially bringing the game into disrepute over the 'Spygate' scandal.",
+            "fullText": "Southampton were expelled from the Championship play-offs in May after admitting to \"multiple breaches\" of unauthorised filming of their opponents' training, including before their semi-final against Middlesbrough; the FA waited for the EFL to conclude their process before investigating",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4413_6",
+            "category": "england",
+            "type": "News",
+            "title": "'This means everything to me' - Foden signs new Man City contract",
+            "bullets": [
+              "Man City have announced Phil Foden has signed a new contract at the club.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Man City have announced Phil Foden has signed a new contract at the club.",
+            "fullText": "Foden's previous contract was set to expire in the summer of 2027; the 26-year-old made his debut for Man City in November 2017 and has gone on to make 369 first team appearances, scoring 110 goals and winning 20 trophies",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-22 @ 19:03:44 EDT",
+  "lastUpdated": "2026-07-23 @ 00:44:13 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
