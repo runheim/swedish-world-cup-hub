@@ -16676,6 +16676,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
       "time": "07:02",
       "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "Dags att vila. Viktig dag imorgon.",
+      "time": "13:08",
+      "isCaptain": false
+    },
+    {
+      "sender": "Kristoffer Olsson",
+      "avatar": "🇸🇪",
+      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
+      "time": "13:09",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "13:10",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Vem tog mitt kaffe i matsalen?!",
+      "time": "13:11",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Hörni, samling i teorisalen om 10 minuter.",
+      "time": "13:12",
+      "isCaptain": false
     }
   ]
 };
