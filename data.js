@@ -39229,6 +39229,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Bags packed and ready. Let's get it.",
       "time": "07:08",
       "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "13:07",
+      "isCaptain": false
+    },
+    {
+      "sender": "Phil Foden",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "13:08",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "That training session was proper intense.",
+      "time": "13:09",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Morning lads! Just checking in.",
+      "time": "13:10",
+      "isCaptain": true
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Pitch is looking immaculate out there.",
+      "time": "13:11",
+      "isCaptain": false
     }
   ]
 };
