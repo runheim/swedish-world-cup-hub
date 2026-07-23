@@ -4,28 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Foden signs new four-year Man City contract",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg4dz410ld6o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ England U16 player fight was resolved quickly - FA",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9d85v9n1n5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ ‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool",
       "link": "https://www.theguardian.com/football/2026/jul/23/andoni-iraola-liverpool-interview-spain"
     },
     {
-      "text": "⚽ ‘A surprising success’: US, Mexico and Canada fans on hosting the World Cup",
-      "link": "https://www.theguardian.com/football/2026/jul/23/surprising-success-us-mexico-canada-fans-hosting-world-cup-joy-love-hope-fun-prices-politics"
-    },
-    {
       "text": "⚽ Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield",
       "link": "https://www.theguardian.com/football/2026/jul/22/liverpool-open-talks-over-selling-significant-stake-in-the-club"
-    },
-    {
-      "text": "⚽ England cannot afford trip to amputee World Cup – and the FA will not help",
-      "link": "https://www.theguardian.com/football/2026/jul/22/england-cannot-afford-trip-to-amputee-world-cup-and-the-fa-will-not-help"
-    },
-    {
-      "text": "⚽ Arsenal interested in Stones, Konsa after Saliba injury blow",
-      "link": "https://www.skysports.com/football/news/12040/13566206/arsenal-transfer-news-gunners-interested-in-john-stones-and-ezri-konsa-after-william-saliba-injury-blow"
     }
   ],
   "timeline": {
@@ -35364,11 +35352,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2616_0",
+            "category": "england",
+            "type": "News",
+            "title": "England U16 player fight was resolved quickly - FA",
+            "bullets": [
+              "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matt...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matter\".",
+            "fullText": "A fight between England Under-16 players at a camp in Turkey was caused by an \"internal matter\" which was \"quickly resolved\", says the FA.\n\nAn online clip from the camp in late-2025 shows two players fighting in a hotel room, while several others film and encourage them.\n\nThe FA said the issue has been settled and no further action will be taken.\n\nAn FA spokesperson said: \"We were made aware of an internal matter during an Under-16s camp in October 2025. This was quickly resolved at the time.\"\n\nThe clip, which is about a minute long, shows a boy wearing official England kit grab a phone from a boy who is lying on the bed in a hotel room.\n\nThe pair scuffle over the phone, leading to punches and kicks as well as grappling.\n\nAt one point the boy who attempted to take the phone tries to get the other boy in a headlock, before dragging him around the room and throwing him on the floor.\n\nThe fight took place while the Under-16s were in Sedi.\n\nThey played Turkey, Wales and Portugal in October and November 2025.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2616_1",
+            "category": "england",
+            "type": "News",
+            "title": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool",
+            "bullets": [
+              "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identityOver coffee in Liverpool’s plush hotel in Chicago, Andoni Iraola presents his theory for the phenomenal success of Basque and Spanish coaches. It is a theory that will shape his entire approach to life as&nbsp;the Liverpool head coach and his&nbsp;attempts to bring the connection, the joy and the belief back to Anfield. It centres on the power of the collective.The Champions League, the Premier League, the Europa League, the FA Cup, the League Cup, the European Championship and, as of Sunday, the World Cup: all currently in the hands of Basque and Spanish coaches, even if Pep Guardiola has since taken his leave from Manchester City. Next season, four men from the small Basque region of Gipuzkoa will manage four of the Premier League’s main contenders, Iraola included, alongside Mikel Arteta, Xabi Alonso and Unai Emery. There is, Iraola believes, a simple explanation for the rise of the guys from Gipuzkoa and for Spanish dominance across a global stage. Continue reading...",
+            "fullText": "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identity\n\nOver coffee in Liverpool’s plush hotel in Chicago,Andoni Iraolapresents his theory for the phenomenal success of Basque and Spanish coaches. It is a theory that will shape his entire approach to life as the Liverpool head coach and his attempts to bring the connection, the joy and the belief back to Anfield. It centres on the power of the collective.\n\nThe Champions League, the Premier League, the Europa League, the FA Cup, the League Cup, the European Championship and, as of Sunday, the World Cup: all currently in the hands of Basque and Spanish coaches, even if Pep Guardiola has since taken his leave from Manchester City. Next season, four men from the small Basque region of Gipuzkoa will manage four of the Premier League’s main contenders, Iraola included, alongside Mikel Arteta, Xabi Alonso and Unai Emery. There is, Iraola believes, a simple explanation for the rise of the guys from Gipuzkoa and for Spanish dominance across a global stage.\n\n“They ask me why a lot of Basque managers especially have arrived to this level and why Spanish teams are winning a lot of things,” Iraola explains. “I always say that a sense of collectiveness is very important. Spain has never had the best athletes. If you analyse in swimming, boxing, track and field, Spain don’t normally win medals. But in collective sports they are very good. In football, basketball, handball, hockey, normally they have good teams. We always put the team first. An example is someone like Rodri. He didn’t score or make an assist but at the end they won the World Cup and he won best player of the tournament. Team-first was always integrated in how we were raised.”\n\nIraola, warm and friendly despite the jetlag at the start of Liverpool’s pre-season tour of the US, then gives an immediate example of how he embodies those values. He is asked about a letter he sent toLiverpoolin January 2014 when, as captain of boyhood club Athletic Club, he rejected the opportunity to sign for Brendan Rodgers’s team. By all accounts courteous and apologetic, as well as highly unusual, the letter provides a telling insight into Iraola’s character. It is an open goal of a question to a new head coach wanting to win over a new fanbase. But Iraola declines to shoot.\n\nFollowing a lengthy pause, he says: “I don’t know if I want to tell this story so early in my career here. I would like to win some games first. It is a nice story but if you remember me in some months, then you can ask me again. I don’t like to do this from the beginning. I just don’t want to. It will look like I am selling myself. We need some time, and to win some games.”\n\nIraola’s outlook is refreshing – “Don’t become the protagonist,” he says of his role – and one that Liverpool can easily identify with. Continuing with the theme of Spain’s collectiveness, he adds: “I think there has to be something in society. It cannot only just be about football. I think things work when we are not just selfish, no? When, in the end, you prioritise the situation of the one who has less. That happens also in football. The ones that don’t play, the ones who come from the academy, the ones who earn less. You can compare it with society.”\n\nBut, and it is a “but” that needs saying given what Iraola hopes to achieve, there were few signs of togetherness at Liverpool last season asArne Slot’s reign unravelledamid acrimony in the dressing room and in the crowd. The power of the individual took over, and the power of the team appeared secondary. Mohamed Salah’s frequent attempts to undermine his former, title-winning coach was not the only example of that last season.\n\n“I cannot change the personality of the players,” says Iraola, who will manage for the first time as Liverpool head coach on Saturday against Sunderland in Nashville. “Some players are very different to me but they are great players. I don’t want to change everyone and what they think is the best way. But I think we need to think collectively in this game. As a player you are always selfish. You always want to play, you always want to get your stats, you always want to play all the minutes, but I think there has to be an understanding that this is not going to always happen and still I have to be helpful with my teammates and with the team.\n\n“The first thing we have to do is try to play well, but it’s not just only about playing well. Supporters have to identify with what they see on the pitch. Sometimes it’s not about just putting one ball in the top corner. A lot of the time, the ones watching the game, OK, they cannot do that but they can run, they can fight for the balls, they can press, they can fight until the last line for every situation and when they see this from the players of their team it’s easier to get behind that team. I will encourage my team to give them these things.”\n\nIraola never came close to signing for Liverpool 12 years ago despite the best efforts of Michael Edwards,until recently the chief executive of footballfor the club’s owners, Fenway Sports Group. “I never really wanted to leave Athletic Club,” their former right-back admits. “For me, Athletic Club was the place to be. The only way of leaving was to go to the MLS [with New York City FC] and try something completely different. I didn’t want to become a problem for the club.”\n\nThe 44-year-old, however, does see parallels between his boyhood club and his new one. He explains: “This is one of the biggest clubs in the world and, in some way, the comparison to Athletic Club probably isn’t fair, but in a lot of ways I see a lot of similar things. This sense of belonging, of being a little bit different. This connection, also, with players from the academy. The atmosphere of Anfield.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2616_2",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool primed for business: Bezos, Bhatia and the next steps at Anfield",
+            "bullets": [
+              "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi M...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked Continue reading...",
+            "fullText": "Fenway Sports Group looks to be locked in talks with a consortium led by the son-in-law of Lakshmi Mittal, while the Amazon founder has now been linked\n\nA consortium led by Amit Bhatia, the former co-owner of Queens Park Rangers and son-in-law of the Indian steel magnate Lakshmi Mittal, has opened talks with Liverpool’s owner, Fenway Sports Group,over buying a significant stake in the club. Neither party has commented on the size of the stake or the investment amount being offered but it is believed to be a provisional offer of £1.35bn for about 30%. Discussions began three months ago but FSG insists the talks remain at a preliminary stage.\n\nThe reported offer values Liverpool at about £4.5bn. Manchester United were valued at slightly less when Sir Jim Ratcliffe bought aninitial 25% stake in February 2024, increased to 27.7%, although the latest valuation of United by Forbes was $7.2bn (£5.38bn). Forbes, again, had Real Madrid as the most valuable club in the world at $9.5bn, with Barcelona in second place at $7.5bn. Todd Boehly and Clearlake Capitalacquired Chelsea for £4.25bn in May 2022as a distressed asset sale after the Russian oligarch Roman Abramovich was sanctioned by the UK government.\n\nFirst of all, £1.35bn for 30% of Liverpool would represent a healthy profit on a club itbought for £300m in 2010and whose value has soared since. And the principal owner, John W Henry, is a venture capitalist, after all. But it is also true that FSG remains fiercely competitive and to continue challenging among an elite that includes oil-rich states necessitates ever more investment. That is why FSG has sought, and occasionally found, new investors before. The current talks are not considered part of an exit strategy by Liverpool’s owners but a potential opportunity to attract considerable funds while remaining in overall control. The company has parked plans to buy a second club – a decision that led to Michael Edwards’s recent departure as FSG’s chief executive of football – and last summer funded the biggest transfer outlay in Liverpool’s history of almost £450m. To maintain and improve those levels, having made only a modest profit of £8m when winning the Premier League title under Arne Slot in 2024-25, requires injecting fresh capital into the club.\n\nSeveral times. In March 2021, FSG sold 10% of the company to RedBird Capital Partners for £543m. In 2022, FSG hired the investment banks Goldman Sachs and Morgan Stanley to seek out potential buyers for a 10% stake in Liverpool. No deal was done and Henry confirmed the following year that FSG was always open to new investment but not looking to sell the club. In 2023, FSG sold a reported 4% stake in Liverpool to Dynasty Equity, an American sports investment company, for £164m. That money was largely used to pay off debts incurred during the pandemic.\n\nBhatia, who stepped down as co-owner and director of QPR on Tuesday after 18 years, is believed to have secured financial backing from Mittal. The Mittal family wealth is estimated to be £23bn. Those riches pale in comparison, however, with another potential investor – Amazon’s founder, Jeff Bezos. The fourth-richest person in the world could afford to buy Liverpool outright and still have $250bn left in his back pocket. Bezos has been approached about joining the consortium but is reportedly undecided on whether to invest in a Premier League club for the first time. Bezos is no longer chief executive of Amazon but is executive chair of a company that has expanded from online retail into entertainment and sports rights, including for Premier League games, in recent years.\n\nEven without Bezos on board, the consortium’s proposed offer would improve Liverpool’s capital considerably as the club begins a new era under Andoni Iraola. How much say and sway Bhatia and others would have over Liverpool’s football operations remains to be ironed out. With the FSG president, Mike Gordon, returning to a more prominent role at the club after Edwards’s exit, it seems unlikely that Liverpool’s owners would follow the Glazers’ example with Ratcliffe at Manchester United and grant a minority shareholder full control on the football side. Given talks are only at a preliminary stage, Liverpool’s transfer plans for this summer are not expected to be affected.\n\nTalks continue until a deal is done or collapses. FSG’s willingness to confirm Bhatia’s bid in a statement to the Financial Times on Tuesday, and Bhatia’s departure from QPR that very same day, indicates negotiations are heading towards a successful conclusion.\n\nThe best public interest journalism relies on first-hand accounts from people in the know. If you have something to share on this subject, you can contact us confidentially using the following methods:\n\nThe Guardian app has a tool to send tips about stories. Messages are end to end encrypted and concealed within the routine activity that every Guardian mobile app performs. This prevents an observer from knowing that you are communicating with us at all, let alone what is being said.\n\nIf you don’t already have the Guardian app, download it (iOS/Android) and go to the menu. Select ‘Secure Messaging’. When asked to select a recipient, select the ‘Sport (UK and Global)’ team.\n\nFinally, our guide attheguardian.com/tipslists several ways to contact us securely, and discusses the pros and cons of each.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-23 @ 08:17:23 EDT",
+  "lastUpdated": "2026-07-23 @ 12:26:17 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
