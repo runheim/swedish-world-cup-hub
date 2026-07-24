@@ -13007,11 +13007,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3159_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The World Cup is over - the restaurateur Önder in Västerås sums it up: \"Sad\"",
+            "bullets": [
+              "After 39 days of football festivities, it's back to everyday life again for Västmanland's restaurate...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After 39 days of football festivities, it's back to everyday life again for Västmanland's restaurateurs. Despite several sold-out matches, the WC was not a financial success for the sports bar Allstar in Västerås. - The income and expenses have kind of gone hand in hand, says the sports bar's owner Önder Alagöz.",
+            "fullText": "After 39 days of football festivities, it's back to everyday life again for Västmanland's restaurateurs. Despite several sold-out matches, the WC was not a financial success for the sports bar Allstar in Västerås.\n\n- The income and expenses have kind of gone hand in hand, says the sports bar's owner Önder Alagöz.\n\nThe relatively newly opened Västeråskrogen has shown almost every match in the record-breaking world championship, but now it's over.\n\n- It's a bit sad actually. You have thought, what will happen now? It's like you've been in another world for a while, says restaurateur Önder Alagöz.\n\nLate kick-off times and high costs for the restaurants to show the football World Cup meant that many restaurateurs hesitated to show the matches. But despite that, Önder also showed Sweden's match against Tunisia, which started at 04:00, in the end. He already misses the championship.\n\nIn the clip: \"Don't think it's reasonable\" - the restaurateur critical of the expensive fees to show the World Cup matches.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-24 @ 08:22:17 EDT",
+  "lastUpdated": "2026-07-24 @ 12:31:59 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
