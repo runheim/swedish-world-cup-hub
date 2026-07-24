@@ -4,16 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Why Rogers and Palmer will thrive together in Alonso's Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Kane set for talks with Bayern Munich over new deal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Man Utd handed Tchouameni boost - Friday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/cedjnz7wxy6o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ England U16 player fight was resolved quickly - FA",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9d85v9n1n5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ ‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool",
-      "link": "https://www.theguardian.com/football/2026/jul/23/andoni-iraola-liverpool-interview-spain"
     }
   ],
   "timeline": {
@@ -35565,11 +35569,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1030_0",
+            "category": "england",
+            "type": "News",
+            "title": "Why Rogers and Palmer will thrive together in Alonso's Chelsea",
+            "bullets": [
+              "Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xab...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Why Morgan Rogers' skillset means he and fellow attacking midfielder Cole Palmer will prosper in Xabi Alonso's Chelsea.",
+            "fullText": "Good friends Palmer (left) and Rogers are now team-mates\n\nMorgan Rogers was quick to mention one of his closest friends, Cole Palmer, when he signed for Chelsea from Aston Villa.\n\n\"We've been speaking about this for a while - that we would always love to play together,\" said the Â£117m attacking midfielder.\n\n\"He's been non-stop ringing my phone, texting me, and I can't wait. That's probably the most special thing, playing with one of your best friends and being around him every day. It's something I'm really excited about.\"\n\nBoth men might be keen to play together... but can new Chelsea manager Xabi Alonso find the system to accommodate two such similar profiles?\n\nWe take a closer look at Rogers' skillset and assess how Alonso might set up his side this season.\n\nIt is difficult to clearly define Rogers by a fixed position.\n\nAs with all players, getting the best from them means appreciating the wider role they are capable of. A player's ideal role can also change depending on the players around them and the opposition's set-up.\n\nAston Villa manager Unai Emery gave Rogers a major role in the side's recent successes, something that contributed to his hefty transfer fee.\n\nEmery's system is built upon defensive solidity, often in a 4-4-2 shape off the ball. Villa often spent long periods without the ball before attacking into large areas of space at pace.\n\nThis is a style of play that suits Rogers, who combines impressive ball-striking with standout athleticism.\n\nLast season, he generally played on the left of a 4-2-3-1, narrowing in from the wing and leaving the left-back to provide the width.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1031_1",
+            "category": "england",
+            "type": "News",
+            "title": "Kane set for talks with Bayern Munich over new deal",
+            "bullets": [
+              "Harry Kane is set to begin talks over a new Bayern Munich contract, with Barcelona and various Saudi...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane is set to begin talks over a new Bayern Munich contract, with Barcelona and various Saudi Arabian clubs reportedly interested in the England captain.",
+            "fullText": "Harry Kane is set to hold new contract talks with Bayern Munich\n\nHarry Kane is set to open formal talks with Bayern Munich over a new contract with the German champions.\n\nEngland captain Kane's current deal expires at the end of the coming season, but Bayern are keen to extend the striker's stay.\n\nIt is understood the 32-year-old is aware of the Bundesliga club's intention to offer him a new contract, with discussions expected to progress in the coming weeks.\n\nKane joined Bayern from Tottenham in 2023 in a deal worth a reported Â£86m.\n\nThe striker has enjoyed great success in Munich, helping the club win two Bundesliga titles and the German Cup.\n\nKane, who scored six goals for England at the recent World Cup, has scored 146 goals in 134 appearances for Bayern since his arrival.\n\nDespite Bayern's desire to tie him down to a new deal, Kane continues to attract interest from clubs across Europe and beyond.\n\nBarcelona have a long-standing interest in the England captain, while clubs in Saudi Arabia have also been linked with the centre-forward.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1031_2",
+            "category": "england",
+            "type": "News",
+            "title": "Man Utd handed Tchouameni boost - Friday's gossip",
+            "bullets": [
+              "Real Madrid open to selling Aurelien Tchouameni to Manchester United, Arsenal eye John Stones and Ez...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Real Madrid open to selling Aurelien Tchouameni to Manchester United, Arsenal eye John Stones and Ezri Konsa, Chelsea favourites for Kerim Alajbegovic, Yan Diomande back on radar of Premier League clubs and Daizen Maeda set for Ipswich Town move.",
+            "fullText": "Real Madrid open to selling Aurelien Tchouameni toManchester United,Arsenaleye John Stones and Ezri Konsa,Chelseafavourites for Kerim Alajbegovic, Yan Diomande back on radar of Premier League clubs and Daizen Maeda set forIpswich Townmove.\n\nLa Liga giantsReal Madridare open to selling 26-year-old France defensive midfielder Aurelien Tchouameni toManchester United.(Sun,external)\n\nAS Romaand France midfielder Manu Kone, 25, andBrighton's22-year-old Cameroon international Carlos Baleba are also being considered byManchester Unitedas they aim to strengthen their midfield.(Sky Sports),external\n\nBournemouth's27-year-old United States midfielder Tyler Adams, valued at about Â£35m, is also an option for Michael Carrick's side.(Mail,external)\n\nFormerManchester Citydefender John Stones, 32, and 28-year-old Ezri Konsa ofAston Villaare amongArsenaltargets as the Gunners turn to the England duo after an injury to France defender William Saliba, 25.(Sky Sports,external)\n\nChelseaare favourites to sign Bosnia-Herzegovina attacking midfielder Kerim Alajbegovic, 18, fromBayer Leverkusen,while Xabi Alonso's side are also in talks withCrystal Palaceto sell French centre-back Axel Disasi, 28.(Telegraph - subscription required,external)\n\nChelseahave also agreed a deal to sign 15-year-old American winger Benji Flowers from Major League Soccer sideFC Dallaswhen he turns 18.(Athletic - subscription required,external)\n\nArsenalandManchester Cityare among the clubs in a race to sign Ivory Coast winger Yan Diomande fromRB Leipzig, who previously rejected a Â£69m bid fromLiverpoolfor the 19-year-old.(Bild - in German,external)\n\n'Celtic close to Hogh signing' - Friday's Scottish Gossip\n\nLiverpool confident of signing Barcola - Thursday's gossip\n\nLiverpooland England Under-20 defender Amara Nallo, 19, is set to join Finnish clubHJK Helsinkion a season-long loan.(Athletic - subscription required,external)\n\nCelticand Japan striker Daizen Maeda, 28, will undergo a medical on Friday to complete his Â£10m move toIpswich Town.(Sky Sports,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1031_3",
+            "category": "england",
+            "type": "News",
+            "title": "England U16 player fight was resolved quickly - FA",
+            "bullets": [
+              "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matt...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matter\".",
+            "fullText": "A fight between England Under-16 players at a camp in Turkey was caused by an \"internal matter\" which was \"quickly resolved\", says the FA.\n\nAn online clip from the camp in late-2025 shows two players fighting in a hotel room, while several others film and encourage them.\n\nThe FA said the issue has been settled and no further action will be taken.\n\nAn FA spokesperson said: \"We were made aware of an internal matter during an Under-16s camp in October 2025. This was quickly resolved at the time.\"\n\nThe clip, which is about a minute long, shows a boy wearing official England kit grab a phone from a boy who is lying on the bed in a hotel room.\n\nThe pair scuffle over the phone, leading to punches and kicks as well as grappling.\n\nAt one point the boy who attempted to take the phone tries to get the other boy in a headlock, before dragging him around the room and throwing him on the floor.\n\nThe fight took place while the Under-16s were in Sedi.\n\nThey played Turkey, Wales and Portugal in October and November 2025.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-24 @ 00:41:18 EDT",
+  "lastUpdated": "2026-07-24 @ 08:10:32 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
