@@ -8304,10 +8304,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-24": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4150_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
+            "bullets": [
+              "Norwegian federation president: Fifa on a ‘slippery slope’Trump called Infantino for review of Balog...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norwegian federation president: Fifa on a ‘slippery slope’Trump called Infantino for review of Balogun’s redDonald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators.The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August. Continue reading...",
+            "fullText": "Norwegian federation president: Fifa on a ‘slippery slope’\n\nDonald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at theWorld Cupis set to provoke a formal complaint to Fifa ethics investigators.\n\nTheNorwaysoccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.\n\n“We need our leader in Fifa to say that this was an error,” Norwegian federation president Lise Klavenesstold the Timesin an interview published Thursday.\n\nAfter Trump called Fifa president Gianni Infantino, a one-game ban for Balogun’s red-card tackle against Bosnia and Herzegovina was deferred so he could play against Belgium with a quarterfinals place at stake.\n\nBelgiumbeat the US 4-1after a chaotic 36 hours at the World Cup. The Belgium players were seemingly fired up by one of the all-time controversies in tournament history.\n\nTrump called the referee’s red card for Balogun after video review a “horrible” call andtook creditfor getting Fifa to review what should routinely have been a one-game ban.\n\n“We all know that this verdict was influenced from external forces and did not have the proper process,” Klaveness told the Times of the Fifa ruling that was unprecedented in the past 60 years at World Cups. “When you bend a rule like this, you’re on a slippery slope that will put the whole game at risk,” said the former Women’s World Cup player for Norway, who is an elected member of European soccer body Uefa’s executive committee.\n\nKlaveness is a lawyer and judge who has positioned the Norwegian federation as a conscience in world soccer since her election in 2022. “It is a worry for the game when you compromise fundamental rules of the game,” she said Thursday about not enforcing Balogun’s ban.\n\nNorway previously joined a London-based NGO’s complaint to the Fifa ethics committee alleging Infantino breached a statutory duty of political neutrality, including by creating a peace prize to award to Trump at the World Cup draw in December.\n\nThe close personal and political ties between Trump and Infantino include the US president believing the soccer official could be a good pick as next secretary general of the United Nations, the New York Post reported this week.\n\nThe human rights NGO, FairSquare, also hasfiled an ethics complaintabout the Balogun incident to the International Olympic Committee, where Infantino is an elected member, about breaching its rules on political neutrality.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-23 @ 18:57:16 EDT",
+  "lastUpdated": "2026-07-24 @ 00:41:54 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
