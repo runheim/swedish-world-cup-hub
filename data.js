@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
+      "link": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills"
+    },
+    {
       "text": "⚽ Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
       "link": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
     }
@@ -8328,11 +8332,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1635_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
+            "bullets": [
+              "Tommy Elphick and Shaun Cooper to work on set-piecesIraola felt ‘very lucky’ to work with them at Bo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tommy Elphick and Shaun Cooper to work on set-piecesIraola felt ‘very lucky’ to work with them at BournemouthAndoni Iraola has outlined the roles his backroom staff will play in trying to improve Liverpool’s set-piece record next season and admitted he was “very lucky” to inherit a talented coaching team at Bournemouth.Iraola has brought several members of his Bournemouth backroom team with him to Liverpool since succeeding Arne Slot last month. Tommy Elphick, a boyhood Liverpool fan, and Shaun Cooper have joined as first-team coaches while Iraola’s long-time colleague Pablo de la Torre has arrived as assistant coach. Alejandro Rosalen has taken over as first-team goalkeeping coach after five years with Napoli. Continue reading...",
+            "fullText": "Tommy Elphick and Shaun Cooper to work on set-pieces\n\nIraola felt ‘very lucky’ to work with them at Bournemouth\n\nAndoni Iraola has outlined the roles his backroom staff will play in trying to improve Liverpool’s set-piece record next season and admitted he was “very lucky” to inherit a talented coaching team at Bournemouth.\n\nIraola has brought several members of his Bournemouth backroom team with him to Liverpool sincesucceeding Arne Slot last month. Tommy Elphick, a boyhood Liverpool fan, and Shaun Cooper have joined as first-team coaches while Iraola’s long-time colleague Pablo de la Torre has arrived as assistant coach. Alejandro Rosalen has taken over as first-team goalkeeping coach after five years with Napoli.\n\nIraola worked alongside De la Torre in his first coaching job at AEK Larnaca, and again at Rayo Vallecano, and said having trusted confidantes alongside him would be invaluable for his first season in charge at Anfield. “For me, it was important they came with me,” said Iraola, who will take charge of his firstLiverpoolgame on Saturday in a pre-season friendly against Sunderland in Nashville. “Pablo is a physical coach but has been with me almost all the years I have been coaching. So, for me, he is much more than a physical coach really. He is an assistant and we know each other very well.\n\n“I was very lucky with Tommy and Shaun when I arrived at Bournemouth. Because I was unlucky to have the issue with my assistant coach Iñigo Pérez [who was denied a work permit when attempting to follow Iraola from Rayo Vallecano to Bournemouth]. After, it worked out very well for him because now he is coaching Villarreal. Maybe we play him in the Champions League.\n\n“But when I had Tommy and Shaun there, we did not feel the need to bring in another assistant. They were very prepared, they were very helpful for me in terms of understanding the English culture, the mentality of the players, what they were used to, what they like in training, even the small details that maybe in Spain are different. Also the experience Tommy has at Aston Villa, Bournemouth, Brighton, Huddersfield; they can be in a closer position to the players. They can feel more identified. I am a little bit older. Some of the players maybe didn’t know I was a player.”\n\nOne requirement for Iraola and his backroom staff will be to address Liverpool’s problems at set pieces. Only Bournemouth (26), Crystal Palace (25) and Leeds (24) conceded more set-piece goals than Liverpool’s 23 in what proved Slot’s final season as head coach, having won the title in his first. “They are very good coaches,” said Iraola. “We kind of understand the game similarly and they have different roles in the coaching staff, they help with set pieces also. That’s the reason I continued with them.\n\n“Tommy does defensive set plays, Shaun does more offensive, more creative ones. But also we are working very well here with the set-piece analyst [Lewis Mahoney], who was very good in the second half of last season. He is already with the club, so they are working on some stuff.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1635_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
+            "bullets": [
+              "Norwegian federation president: Fifa on a ‘slippery slope’Trump called Infantino for review of Balog...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Norwegian federation president: Fifa on a ‘slippery slope’Trump called Infantino for review of Balogun’s redDonald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at the World Cup is set to provoke a formal complaint to Fifa ethics investigators.The Norway soccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August. Continue reading...",
+            "fullText": "Norwegian federation president: Fifa on a ‘slippery slope’\n\nDonald Trump’s role in clearing Folarin Balogun from a mandatory one-game ban at theWorld Cupis set to provoke a formal complaint to Fifa ethics investigators.\n\nTheNorwaysoccer federation said Thursday its board of directors will consider filing the complaint at its next meeting, likely on 6 August.\n\n“We need our leader in Fifa to say that this was an error,” Norwegian federation president Lise Klavenesstold the Timesin an interview published Thursday.\n\nAfter Trump called Fifa president Gianni Infantino, a one-game ban for Balogun’s red-card tackle against Bosnia and Herzegovina was deferred so he could play against Belgium with a quarterfinals place at stake.\n\nBelgiumbeat the US 4-1after a chaotic 36 hours at the World Cup. The Belgium players were seemingly fired up by one of the all-time controversies in tournament history.\n\nTrump called the referee’s red card for Balogun after video review a “horrible” call andtook creditfor getting Fifa to review what should routinely have been a one-game ban.\n\n“We all know that this verdict was influenced from external forces and did not have the proper process,” Klaveness told the Times of the Fifa ruling that was unprecedented in the past 60 years at World Cups. “When you bend a rule like this, you’re on a slippery slope that will put the whole game at risk,” said the former Women’s World Cup player for Norway, who is an elected member of European soccer body Uefa’s executive committee.\n\nKlaveness is a lawyer and judge who has positioned the Norwegian federation as a conscience in world soccer since her election in 2022. “It is a worry for the game when you compromise fundamental rules of the game,” she said Thursday about not enforcing Balogun’s ban.\n\nNorway previously joined a London-based NGO’s complaint to the Fifa ethics committee alleging Infantino breached a statutory duty of political neutrality, including by creating a peace prize to award to Trump at the World Cup draw in December.\n\nThe close personal and political ties between Trump and Infantino include the US president believing the soccer official could be a good pick as next secretary general of the United Nations, the New York Post reported this week.\n\nThe human rights NGO, FairSquare, also hasfiled an ethics complaintabout the Balogun incident to the International Olympic Committee, where Infantino is an elected member, about breaching its rules on political neutrality.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-24 @ 00:41:54 EDT",
+  "lastUpdated": "2026-07-24 @ 08:16:38 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
