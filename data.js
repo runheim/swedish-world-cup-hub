@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
       "link": "https://www.theguardian.com/football/2026/jul/24/andoni-iraola-backs-backroom-staff-to-help-cure-liverpool-set-piece-ills"
-    },
-    {
-      "text": "⚽ Norway considers filing Fifa ethics complaint over Trump role in World Cup red card saga",
-      "link": "https://www.theguardian.com/football/2026/jul/23/norway-fifa-ethics-complaint-trump-balogun-red-card"
     }
   ],
   "timeline": {
@@ -8372,11 +8368,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4217_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Andoni Iraola backs backroom staff to help cure Liverpool’s set-piece ills",
+            "bullets": [
+              "Tommy Elphick and Shaun Cooper to work on set-piecesIraola felt ‘very lucky’ to work with them at Bo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Tommy Elphick and Shaun Cooper to work on set-piecesIraola felt ‘very lucky’ to work with them at BournemouthAndoni Iraola has outlined the roles his backroom staff will play in trying to improve Liverpool’s set-piece record next season and admitted he was “very lucky” to inherit a talented coaching team at Bournemouth.Iraola has brought several members of his Bournemouth backroom team with him to Liverpool since succeeding Arne Slot last month. Tommy Elphick, a boyhood Liverpool fan, and Shaun Cooper have joined as first-team coaches while Iraola’s long-time colleague Pablo de la Torre has arrived as assistant coach. Alejandro Rosalen has taken over as first-team goalkeeping coach after five years with Napoli. Continue reading...",
+            "fullText": "Tommy Elphick and Shaun Cooper to work on set-pieces\n\nIraola felt ‘very lucky’ to work with them at Bournemouth\n\nAndoni Iraola has outlined the roles his backroom staff will play in trying to improve Liverpool’s set-piece record next season and admitted he was “very lucky” to inherit a talented coaching team at Bournemouth.\n\nIraola has brought several members of his Bournemouth backroom team with him to Liverpool sincesucceeding Arne Slot last month. Tommy Elphick, a boyhood Liverpool fan, and Shaun Cooper have joined as first-team coaches while Iraola’s long-time colleague Pablo de la Torre has arrived as assistant coach. Alejandro Rosalen has taken over as first-team goalkeeping coach after five years with Napoli.\n\nIraola worked alongside De la Torre in his first coaching job at AEK Larnaca, and again at Rayo Vallecano, and said having trusted confidants alongside him would be invaluable for his first season in charge at Anfield. “For me, it was important they came with me,” said Iraola, who will take charge of his firstLiverpoolgame on Saturday in a pre-season friendly against Sunderland in Nashville. “Pablo is a physical coach but has been with me almost all the years I have been coaching. So, for me, he is much more than a physical coach really. He is an assistant and we know each other very well.\n\n“I was very lucky with Tommy and Shaun when I arrived at Bournemouth. Because I was unlucky to have the issue with my assistant coach Iñigo Pérez [who was denied a work permit when attempting to follow Iraola from Rayo Vallecano to Bournemouth]. After, it worked out very well for him because now he is coaching Villarreal. Maybe we play him in the Champions League.\n\n“But when I had Tommy and Shaun there, we did not feel the need to bring in another assistant. They were very prepared, they were very helpful for me in terms of understanding the English culture, the mentality of the players, what they were used to, what they like in training, even the small details that maybe in Spain are different. Also the experience Tommy has at Aston Villa, Bournemouth, Brighton, Huddersfield; they can be in a closer position to the players. They can feel more identified. I am a little bit older. Some of the players maybe didn’t know I was a player.”\n\nOne requirement for Iraola and his backroom staff will be to address Liverpool’s problems at set pieces. Only Bournemouth (26), Crystal Palace (25) and Leeds (24) conceded more set-piece goals than Liverpool’s 23 in what proved Slot’s final season as head coach, having won the title in his first. “They are very good coaches,” said Iraola. “We kind of ­understand the game similarly and they have different roles in the coaching staff, they help with set pieces also. That’s the reason I continued with them.\n\n“Tommy does defensive set plays, Shaun does more offensive, more ­creative ones. But also we are working very well here with the set-piece analyst [Lewis Mahoney], who was very good in the second half of last season. He is already with the club, so they are working on some stuff.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-24 @ 08:16:38 EDT",
+  "lastUpdated": "2026-07-24 @ 12:42:21 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
