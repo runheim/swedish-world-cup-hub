@@ -35507,10 +35507,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-24": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4117_0",
+            "category": "england",
+            "type": "News",
+            "title": "Man Utd handed Tchouameni boost - Friday's gossip",
+            "bullets": [
+              "Real Madrid open to selling Aurelien Tchouameni to Manchester United, Arsenal eye John Stones and Ez...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Real Madrid open to selling Aurelien Tchouameni to Manchester United, Arsenal eye John Stones and Ezri Konsa, Chelsea favourites for Kerim Alajbegovic, Yan Diomande back on radar of Premier League clubs and Daizen Maeda set for Ipswich Town move.",
+            "fullText": "Real Madrid open to selling Aurelien Tchouameni toManchester United,Arsenaleye John Stones and Ezri Konsa,Chelseafavourites for Kerim Alajbegovic, Yan Diomande back on radar of Premier League clubs and Daizen Maeda set forIpswich Townmove.\n\nLa Liga giantsReal Madridare open to selling 26-year-old France defensive midfielder Aurelien Tchouameni toManchester United.(Sun,external)\n\nAS Romaand France midfielder Manu Kone, 25, andBrighton's22-year-old Cameroon international Carlos Baleba are also being considered byManchester Unitedas they aim to strengthen their midfield.(Sky Sports),external\n\nBournemouth's27-year-old United States midfielder Tyler Adams, valued at about Â£35m, is also an option for Michael Carrick's side.(Mail,external)\n\nFormerManchester Citydefender John Stones, 32, and 28-year-old Ezri Konsa ofAston Villaare amongArsenaltargets as the Gunners turn to the England duo after an injury to France defender William Saliba, 25.(Sky Sports,external)\n\nChelseaare favourites to sign Bosnia-Herzegovina attacking midfielder Kerim Alajbegovic, 18, fromBayer Leverkusen,while Xabi Alonso's side are also in talks withCrystal Palaceto sell French centre-back Axel Disasi, 28.(Telegraph - subscription required,external)\n\nChelseahave also agreed a deal to sign 15-year-old American winger Benji Flowers from Major League Soccer sideFC Dallaswhen he turns 18.(Athletic - subscription required,external)\n\nArsenalandManchester Cityare among the clubs in a race to sign Ivory Coast winger Yan Diomande fromRB Leipzig, who previously rejected a Â£69m bid fromLiverpoolfor the 19-year-old.(Bild - in German,external)\n\nLiverpool confident of signing Barcola - Thursday's gossip\n\nLiverpooland England Under-20 defender Amara Nallo, 19, is set to join Finnish clubHJK Helsinkion a season-long loan.(Athletic - subscription required,external)\n\nCelticand Japan striker Daizen Maeda, 28, will undergo a medical on Friday to complete his Â£10m move toIpswich Town.(Sky Sports,external)\n\nLeeds United'sEnglish winger Jack Harrison, 29, is closing in on a move to MLS sideNew England Revolution.(Athletic - subscription required,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4117_1",
+            "category": "england",
+            "type": "News",
+            "title": "England U16 player fight was resolved quickly - FA",
+            "bullets": [
+              "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matt...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The FA says a fight between two players at an England Under-16s camp was caused by an \"internal matter\".",
+            "fullText": "A fight between England Under-16 players at a camp in Turkey was caused by an \"internal matter\" which was \"quickly resolved\", says the FA.\n\nAn online clip from the camp in late-2025 shows two players fighting in a hotel room, while several others film and encourage them.\n\nThe FA said the issue has been settled and no further action will be taken.\n\nAn FA spokesperson said: \"We were made aware of an internal matter during an Under-16s camp in October 2025. This was quickly resolved at the time.\"\n\nThe clip, which is about a minute long, shows a boy wearing official England kit grab a phone from a boy who is lying on the bed in a hotel room.\n\nThe pair scuffle over the phone, leading to punches and kicks as well as grappling.\n\nAt one point the boy who attempted to take the phone tries to get the other boy in a headlock, before dragging him around the room and throwing him on the floor.\n\nThe fight took place while the Under-16s were in Sedi.\n\nThey played Turkey, Wales and Portugal in October and November 2025.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4117_2",
+            "category": "england",
+            "type": "News",
+            "title": "‘Don’t become the protagonist’: Andoni Iraola on the secret of Spain’s success and his role at Liverpool",
+            "bullets": [
+              "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identityOver coffee in Liverpool’s plush hotel in Chicago, Andoni Iraola presents his theory for the phenomenal success of Basque and Spanish coaches. It is a theory that will shape his entire approach to life as&nbsp;the Liverpool head coach and his&nbsp;attempts to bring the connection, the joy and the belief back to Anfield. It centres on the power of the collective.The Champions League, the Premier League, the Europa League, the FA Cup, the League Cup, the European Championship and, as of Sunday, the World Cup: all currently in the hands of Basque and Spanish coaches, even if Pep Guardiola has since taken his leave from Manchester City. Next season, four men from the small Basque region of Gipuzkoa will manage four of the Premier League’s main contenders, Iraola included, alongside Mikel Arteta, Xabi Alonso and Unai Emery. There is, Iraola believes, a simple explanation for the rise of the guys from Gipuzkoa and for Spanish dominance across a global stage. Continue reading...",
+            "fullText": "Liverpool’s new head coach is settling into the pre-season tour in Chicago as he begins to reshape the Reds’ identity\n\nOver coffee in Liverpool’s plush hotel in Chicago,Andoni Iraolapresents his theory for the phenomenal success of Basque and Spanish coaches. It is a theory that will shape his entire approach to life as the Liverpool head coach and his attempts to bring the connection, the joy and the belief back to Anfield. It centres on the power of the collective.\n\nThe Champions League, the Premier League, the Europa League, the FA Cup, the League Cup, the European Championship and, as of Sunday, the World Cup: all currently in the hands of Basque and Spanish coaches, even if Pep Guardiola has since taken his leave from Manchester City. Next season, four men from the small Basque region of Gipuzkoa will manage four of the Premier League’s main contenders, Iraola included, alongside Mikel Arteta, Xabi Alonso and Unai Emery. There is, Iraola believes, a simple explanation for the rise of the guys from Gipuzkoa and for Spanish dominance across a global stage.\n\n“They ask me why a lot of Basque managers especially have arrived to this level and why Spanish teams are winning a lot of things,” Iraola explains. “I always say that a sense of collectiveness is very important. Spain has never had the best athletes. If you analyse in swimming, boxing, track and field, Spain don’t normally win medals. But in collective sports they are very good. In football, basketball, handball, hockey, normally they have good teams. We always put the team first. An example is someone like Rodri. He didn’t score or make an assist but at the end they won the World Cup and he won best player of the tournament. Team-first was always integrated in how we were raised.”\n\nIraola, warm and friendly despite the jetlag at the start of Liverpool’s pre-season tour of the US, then gives an immediate example of how he embodies those values. He is asked about a letter he sent toLiverpoolin January 2014 when, as captain of boyhood club Athletic Club, he rejected the opportunity to sign for Brendan Rodgers’s team. By all accounts courteous and apologetic, as well as highly unusual, the letter provides a telling insight into Iraola’s character. It is an open goal of a question to a new head coach wanting to win over a new fanbase. But Iraola declines to shoot.\n\nFollowing a lengthy pause, he says: “I don’t know if I want to tell this story so early in my career here. I would like to win some games first. It is a nice story but if you remember me in some months, then you can ask me again. I don’t like to do this from the beginning. I just don’t want to. It will look like I am selling myself. We need some time, and to win some games.”\n\nIraola’s outlook is refreshing – “Don’t become the protagonist,” he says of his role – and one that Liverpool can easily identify with. Continuing with the theme of Spain’s collectiveness, he adds: “I think there has to be something in society. It cannot only just be about football. I think things work when we are not just selfish, no? When, in the end, you prioritise the situation of the one who has less. That happens also in football. The ones that don’t play, the ones who come from the academy, the ones who earn less. You can compare it with society.”\n\nBut, and it is a “but” that needs saying given what Iraola hopes to achieve, there were few signs of togetherness at Liverpool last season asArne Slot’s reign unravelledamid acrimony in the dressing room and in the crowd. The power of the individual took over, and the power of the team appeared secondary. Mohamed Salah’s frequent attempts to undermine his former, title-winning coach was not the only example of that last season.\n\n“I cannot change the personality of the players,” says Iraola, who will manage for the first time as Liverpool head coach on Saturday against Sunderland in Nashville. “Some players are very different to me but they are great players. I don’t want to change everyone and what they think is the best way. But I think we need to think collectively in this game. As a player you are always selfish. You always want to play, you always want to get your stats, you always want to play all the minutes, but I think there has to be an understanding that this is not going to always happen and still I have to be helpful with my teammates and with the team.\n\n“The first thing we have to do is try to play well, but it’s not just only about playing well. Supporters have to identify with what they see on the pitch. Sometimes it’s not about just putting one ball in the top corner. A lot of the time, the ones watching the game, OK, they cannot do that but they can run, they can fight for the balls, they can press, they can fight until the last line for every situation and when they see this from the players of their team it’s easier to get behind that team. I will encourage my team to give them these things.”\n\nIraola never came close to signing for Liverpool 12 years ago despite the best efforts of Michael Edwards,until recently the chief executive of footballfor the club’s owners, Fenway Sports Group. “I never really wanted to leave Athletic Club,” their former right-back admits. “For me, Athletic Club was the place to be. The only way of leaving was to go to the MLS [with New York City FC] and try something completely different. I didn’t want to become a problem for the club.”\n\nThe 44-year-old, however, does see parallels between his boyhood club and his new one. He explains: “This is one of the biggest clubs in the world and, in some way, the comparison to Athletic Club probably isn’t fair, but in a lot of ways I see a lot of similar things. This sense of belonging, of being a little bit different. This connection, also, with players from the academy. The atmosphere of Anfield.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-23 @ 18:56:44 EDT",
+  "lastUpdated": "2026-07-24 @ 00:41:18 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
