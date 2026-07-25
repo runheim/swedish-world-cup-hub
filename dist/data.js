@@ -4,14 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Kane set for talks with Bayern Munich over new deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly5d2n2879o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Why Rogers and Palmer will thrive together in Alonso's Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gwpzzgpyko?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Hamilton fastest as Ferrari dominate Hungarian GP practice",
       "link": "https://www.skysports.com/f1/news/12040/13566538/hungarian-gp-lewis-hamilton-tops-charles-leclerc-in-practice-two-as-ferrari-dominate-friday-at-hungaroring"
     }
@@ -35903,11 +35895,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5504_0",
+            "category": "england",
+            "type": "News",
+            "title": "Hamilton fastest as Ferrari dominate Hungarian GP practice",
+            "bullets": [
+              "Lewis Hamilton edged his team-mate Charles Leclerc to the fastest time in second practice as Ferrari...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lewis Hamilton edged his team-mate Charles Leclerc to the fastest time in second practice as Ferrari dominated the first day of running at the Hungarian Grand Prix.",
+            "fullText": "Lewis Hamilton tops Charles Leclerc as Ferrari claim impressive one-two in second practice; Championship leader Kimi Antonelli only 13th as Mercedes struggle;watch Hungarian GP Qualifying live on Sky Sports F1 at 3pm on Saturday, and the race at 2pm on Sunday",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-25 @ 00:36:52 EDT",
+  "lastUpdated": "2026-07-25 @ 07:55:04 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
