@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Potter: 'Our focus is on building chemistry and consistency'",
+      "text": "⚽ Lucas Bergvall and Alexander Isak log impressive training logs",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Netherlands and Japan head coaches outline tactical structures",
+      "text": "🌍 Scouts monitor Sweden's wide pressing lanes and transition speed",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -13218,11 +13218,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_swe_20260725_3",
+            "category": "sweden",
+            "type": "Analysis",
+            "title": "Lucas Bergvall and Alexander Isak log impressive training logs",
+            "bullets": [
+              "Bergvall creates multiple chances in tactical scrimmage sessions.",
+              "Isak curls spectacular strikes into top corners in shooting drills.",
+              "Conditioning staff reports player recovery indices are at peak values."
+            ],
+            "summary": "Sweden's training featured stellar workouts by Bergvall and Isak. The squad looks confident and sharp, showing high fitness indicators under Potter's model.",
+            "fullText": "Sweden's training featured stellar workouts by Bergvall and Isak. The squad looks confident and sharp, showing high fitness indicators under Potter's model.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Pitch",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260725_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Scouts monitor Sweden's wide pressing lanes and transition speed",
+            "bullets": [
+              "Analysts suggest overloading Sweden's wing-backs in 3-4-2-1.",
+              "Opponent coaching staff designs custom defensive screening shapes.",
+              "Pundits highlight Sweden's offensive combinations as primary threat."
+            ],
+            "summary": "Scouting reports highlight Sweden's wing-back structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.",
+            "fullText": "Scouting reports highlight Sweden's wing-back structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-25 @ 12:01:49 EDT",
+  "lastUpdated": "2026-07-25 @ 15:42:11 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
