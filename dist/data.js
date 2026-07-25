@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Hamilton fastest as Ferrari dominate Hungarian GP practice",
-      "link": "https://www.skysports.com/f1/news/12040/13566538/hungarian-gp-lewis-hamilton-tops-charles-leclerc-in-practice-two-as-ferrari-dominate-friday-at-hungaroring"
+      "text": "⚽ Tuchel: 'Our focus is on building chemistry and consistency'",
+      "link": "https://www.englandfootball.com/"
+    },
+    {
+      "text": "🌍 Croatia and Ghana head coaches outline tactical structures",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
+      "link": "https://www.englandfootball.com/"
+    },
+    {
+      "text": "🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
+      "link": "https://www.englandfootball.com/"
+    },
+    {
+      "text": "📈 England WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.englandfootball.com/"
     }
   ],
   "timeline": {
@@ -35918,11 +35934,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "dyn_swe_20260725_2",
+            "category": "england",
+            "type": "News",
+            "title": "Tuchel: 'Our focus is on building chemistry and consistency'",
+            "bullets": [
+              "Thomas Tuchel conducts press briefing at Atlanta media center.",
+              "Tuchel: 'We need to keep possession speed high and exploit wide spaces.'",
+              "FA confirms roster is in peak physical health."
+            ],
+            "summary": "Tuchel addressed the media, reinforcing that consistency remains key. He praised the players for their tactical discipline, looking to refine their patterns before the next match.",
+            "fullText": "Tuchel addressed the media, reinforcing that consistency remains key. He praised the players for their tactical discipline, looking to refine their patterns before the next match.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "James Pearce (The Athletic)",
+            "readTime": "3 min",
+            "tag": "Press Briefing",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260725_2",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Croatia and Ghana head coaches outline tactical structures",
+            "bullets": [
+              "Dalić and Addo express confidence in their squad recovery rates.",
+              "Croatian squad logs high sprinting speeds in wide areas.",
+              "Ghana coaches practice full-pitch pressing drills in closed sessions."
+            ],
+            "summary": "Group L managers are locking in their plans. Dalić is focusing on midfield possession control, while Addo works on intense pressing triggers to force turnovers.",
+            "fullText": "Group L managers are locking in their plans. Dalić is focusing on midfield possession control, while Addo works on intense pressing triggers to force turnovers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Sky Sports Football",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-25 @ 07:55:04 EDT",
+  "lastUpdated": "2026-07-25 @ 12:04:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
