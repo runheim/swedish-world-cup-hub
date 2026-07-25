@@ -4,24 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tuchel: 'Our focus is on building chemistry and consistency'",
-      "link": "https://www.englandfootball.com/"
+      "text": "⚽ St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "🌍 Croatia and Ghana head coaches outline tactical structures",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "📈 England WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.englandfootball.com/"
+      "text": "⚽ St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "timeline": {
@@ -35974,11 +35962,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4059_0",
+            "category": "england",
+            "type": "News",
+            "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+            "bullets": [
+              "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+            "fullText": "Joe Westley scored twice against Clyde as Dundee go through as runners-up\n\nSt Johnstone crashed out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeezed through after Montrose blew their chance at home to Spartans.\n\nMontrose only required a point to progress to the last 16 as Group B winners, but the League 1 side lost 2-0 to visitors from the division below.\n\nSt Johnstone needed a win to have at least a chance of progressing as one of the best runners-up but end up finishing third behind Inverness Caledonian Thistle and East Fife, who also fail to make the knock-out stage.\n\nAberdeen, Ayr United, Kilmarnock, Ross County and Stenhousemuir join United and Caley Thistle as group winners.\n\nDundee and Partick Thistle also go through as two of three best-placed runners-up.\n\nThe final group winner and best runner-up will be decided on Sunday.\n\nSt Mirren will win Group C if they avoid defeat at home to Dunfermline Athletic.\n\nIf Dunfermline win, they are guaranteed to go through as group winners or runners-up as they would have a better goal difference than Queen's Park.\n\nPremier Sports Cup - Draw enough for Kilmarnock, St Johnstone miss out, Stenhousemuir win group\n\nWho has your Premiership club brought in & let go this summer?\n\nKevin Nisbet, with his sixth goal of the group stage, opened the scoring for Aberdeen against fourth-tier Kelty Hearts with his third spot kick of the season after just two minutes.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4059_1",
+            "category": "england",
+            "type": "News",
+            "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+            "bullets": [
+              "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+            "fullText": "Joe Westley scored twice against Clyde as Dundee go through as runners-up\n\nSt Johnstone crashed out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeezed through after Montrose blew their chance at home to Spartans.\n\nMontrose only required a point to progress to the last 16 as Group B winners, but the League 1 side lost 2-0 to visitors from the division below.\n\nSt Johnstone needed a win to have at least a chance of progressing as one of the best runners-up but end up finishing third behind Inverness Caledonian Thistle and East Fife, who also fail to make the knock-out stage.\n\nAberdeen, Ayr United, Kilmarnock, Ross County and Stenhousemuir join United and Caley Thistle as group winners.\n\nDundee and Partick Thistle also go through as two of three best-placed runners-up.\n\nThe final group winner and best runner-up will be decided on Sunday.\n\nSt Mirren will win Group C if they avoid defeat at home to Dunfermline Athletic.\n\nIf Dunfermline win, they are guaranteed to go through as group winners or runners-up as they would have a better goal difference than Queen's Park.\n\nPremier Sports Cup - Draw enough for Kilmarnock, St Johnstone miss out, Stenhousemuir win group\n\nWho has your Premiership club brought in & let go this summer?\n\nKevin Nisbet, with his sixth goal of the group stage, opened the scoring for Aberdeen against fourth-tier Kelty Hearts with his third spot kick of the season after just two minutes.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-25 @ 12:04:14 EDT",
+  "lastUpdated": "2026-07-25 @ 15:40:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
