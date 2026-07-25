@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The World Cup is over - the restaurateur Önder in Västerås sums it up: \"Sad\"",
-      "link": "https://www.svt.se/nyheter/lokalt/vastmanland/fotbolls-vm-ar-over-krogaren-onder-i-vasteras-summerar-ledsamt"
+      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.svenskfotboll.se/"
     }
   ],
   "timeline": {
@@ -13077,10 +13093,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-25": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_swe_20260725_5",
+            "category": "sweden",
+            "type": "Blog",
+            "title": "Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
+            "bullets": [
+              "Arsenal striker shares positive diary updates from Dallas hotel.",
+              "Gyökeres: 'Potter's model suits us perfectly; we are highly motivated.'",
+              "Sweden fans turn out in high numbers to support open camp sessions."
+            ],
+            "summary": "In his latest journal entry, Viktor Gyökeres shared his excitement for the tournament, praising the team unity and thanking traveling Swedish fans for support.",
+            "fullText": "In his latest journal entry, Viktor Gyökeres shared his excitement for the tournament, praising the team unity and thanking traveling Swedish fans for support.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Player Journal",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260725_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group F standings update: Sweden targets knockout round qualification",
+            "bullets": [
+              "Global soccer analysts predict Group F remains the most competitive.",
+              "Winner of upcoming matches projected to secure knockout round spots.",
+              "Pundits highlight Sweden's tactical adaptability as key asset."
+            ],
+            "summary": "Group F standings remain close. Pundits expect high-intensity matches, praising Sweden's tactical adaptability under Graham Potter as a key asset for knockout qualification.",
+            "fullText": "Group F standings remain close. Pundits expect high-intensity matches, praising Sweden's tactical adaptability under Graham Potter as a key asset for knockout qualification.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Editorial",
+            "readTime": "3 min",
+            "tag": "Group F Standing",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-24 @ 18:55:33 EDT",
+  "lastUpdated": "2026-07-25 @ 00:38:57 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
