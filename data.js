@@ -36183,11 +36183,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0141_0",
+            "category": "england",
+            "type": "News",
+            "title": "Gomez injury overshadows winning start for Iraola",
+            "bullets": [
+              "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+            "fullText": "Both Dominik Szoboszlai and Federico Chiesa scored for Liverpool in Nashville\n\nLiverpoolstarted life under Andoni Iraola with a 4-2 win overSunderlandthanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.\n\nBut the Iraola era had initially got off to the worst possible start when Joe Gomez, who started the game as centre-back and captain, went down injured and was taken off in the eighth minute.\n\n\"Probably the worst news has been straight away the injury of Joe. We were happy because we were going through training without losing any players and unluckily for us we've lost Joe straight away,\" said Iraola, who was also without new signing Jeremy Jacquet - who plays centre-half - for the opening friendly ofLiverpool's tour of the USA.\n\n\"With Jeremy we decided to take it easy with him. He's had a lot of months without playing and he's been training very well but we're going to take it easy with him,\" Iraola added. \"He will play probably in the last game of this tour and he will have time to have minutes.\"\n\nWith Virgil van Dijk given extra time off following the Netherlands' World Cup campaign, it meant that two teenage centre-backs held the line until the 68th minute.\n\nMor Talla Ndiaye, 18, and Ifeanyi Ndukwe, 18, made their debuts and both performed admirably given the situation but neither can be expected to feature regularly yet. Meanwhile, Giovanni Leoni, 19, is still undergoing individual training as he works his way back from a severe ACL tear.\n\nIraola said earlier in the week that his squad was \"very thin\" defensively.Liverpool's sporting director, Richard Hughes, was in Nashville for the game and if he wasn't aware already, seeing Gomez trudge off must have underlined how they are desperately short when it comes to experience in the centre-back department.\n\nKieran Morrison gave Liverpool the lead in the first half\n\nOn Friday evening, some of theLiverpoolsquad took the short walk from their hotel in downtown Nashville to Broadway - the famous entertainment district here in the state of Tennessee.\n\nSzoboszlai, who was among that group, certainly took some inspiration. Wearing the armband after coming on at half-time and picking up from exactly where he left off last season, the Hungarian scored a belter from outside the box to level the game at 2-2 afterSunderlandhad gone ahead through Timur Tutierov, having initially levelled through Enzo le Fee.\n\nSeeing Harvey Elliott make a surging run on his first game back at the club, after his spell atAston Villa, to assist Morrison forLiverpool's opener was another positive.  Morrison, 19, showed his quality with a lovely left-footed finish after cutting in from the right.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0142_1",
+            "category": "england",
+            "type": "News",
+            "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+            "bullets": [
+              "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+            "fullText": "Joe Westley scored twice against Clyde as Dundee go through as runners-up\n\nSt Johnstone crashed out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeezed through after Montrose blew their chance at home to Spartans.\n\nMontrose only required a point to progress to the last 16 as Group B winners, but the League 1 side lost 2-0 to visitors from the division below.\n\nSt Johnstone needed a win to have at least a chance of progressing as one of the best runners-up but end up finishing third behind Inverness Caledonian Thistle and East Fife, who also fail to make the knock-out stage.\n\nAberdeen, Ayr United, Kilmarnock, Ross County and Stenhousemuir join United and Caley Thistle as group winners.\n\nDundee and Partick Thistle also go through as two of three best-placed runners-up.\n\nThe final group winner and best runner-up will be decided on Sunday.\n\nSt Mirren will win Group C if they avoid defeat at home to Dunfermline Athletic.\n\nIf Dunfermline win, they are guaranteed to go through as group winners or runners-up as they would have a better goal difference than Queen's Park.\n\nPremier Sports Cup - Draw enough for Kilmarnock, St Johnstone miss out, Stenhousemuir win group\n\nWho has your Premiership club brought in & let go this summer?\n\nKevin Nisbet, with his sixth goal of the group stage, opened the scoring for Aberdeen against fourth-tier Kelty Hearts with his third spot kick of the season after just two minutes.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0142_2",
+            "category": "england",
+            "type": "News",
+            "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+            "bullets": [
+              "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+            "fullText": "Joe Westley scored twice against Clyde as Dundee go through as runners-up\n\nSt Johnstone crashed out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeezed through after Montrose blew their chance at home to Spartans.\n\nMontrose only required a point to progress to the last 16 as Group B winners, but the League 1 side lost 2-0 to visitors from the division below.\n\nSt Johnstone needed a win to have at least a chance of progressing as one of the best runners-up but end up finishing third behind Inverness Caledonian Thistle and East Fife, who also fail to make the knock-out stage.\n\nAberdeen, Ayr United, Kilmarnock, Ross County and Stenhousemuir join United and Caley Thistle as group winners.\n\nDundee and Partick Thistle also go through as two of three best-placed runners-up.\n\nThe final group winner and best runner-up will be decided on Sunday.\n\nSt Mirren will win Group C if they avoid defeat at home to Dunfermline Athletic.\n\nIf Dunfermline win, they are guaranteed to go through as group winners or runners-up as they would have a better goal difference than Queen's Park.\n\nPremier Sports Cup - Draw enough for Kilmarnock, St Johnstone miss out, Stenhousemuir win group\n\nWho has your Premiership club brought in & let go this summer?\n\nKevin Nisbet, with his sixth goal of the group stage, opened the scoring for Aberdeen against fourth-tier Kelty Hearts with his third spot kick of the season after just two minutes.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0142_3",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+            "bullets": [
+              "Liverpool defeat Sunderland 4-2 in friendly in NashvilleGomez’s early injury leaves two teenagers in...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool defeat Sunderland 4-2 in friendly in NashvilleGomez’s early injury leaves two teenagers in central defenceThe Andoni Iraola era at Liverpool opened with victory over Sunderland in Nashville – and a deepening of concerns over the defensive options at his disposal. The sight of Joe Gomez hobbling off after 10 minutes of the new head coach’s first game and two teenagers forming a raw partnership in the centre of defence in his absence intensified the spotlight on a department in need of work.Liverpool had few issues at the other end of the pitch against Régis Le Bris’s side, who were resplendent in pink in Tennessee, where second-half finishes from Dominik Szoboszlai, Federico Chiesa and Lewis Koumas delivered an ultimately comfortable win. Continue reading...",
+            "fullText": "Liverpool defeat Sunderland 4-2 in friendly in Nashville\n\nGomez’s early injury leaves two teenagers in central defence\n\nTheAndoni Iraola eraat Liverpool opened with victory over Sunderland in Nashville – and a deepening of concerns over the defensive options at his disposal. The sight of Joe Gomez hobbling off after 10 minutes of the new head coach’s first game and two teenagers forming a raw partnership in the centre of defence in his absence intensified the spotlight on a department in need of work.\n\nLiverpool had few issues at the other end of the pitch against Régis Le Bris’s side, who were resplendent in pink in Tennessee, where second-half finishes from Dominik Szoboszlai, Federico Chiesa and Lewis Koumas delivered an ultimately comfortable win.\n\n“Probably the worst news has been straight away the injury of Joe,” said Iraola, who will have been impressed by lively displays from Calum Scanlon, Kieran Morrison and Koumas. “We were happy because we were going through training without losing any players and unluckily for us we’ve lost Joe straight away.”\n\nGeodis Park paid tribute to the late Kevin Keegan before kick-off on Saturday, with both sets of supporters applauding the Liverpool, Hamburg and Newcastle great prior to observing an impeccable period of silence in his memory. The crowd itself was sparse, with plenty of empty seats in the 30,000 capacity stadium, although the official attendance was given as 24,897. Charging from $129 to $392 (£96 to £292) for tickets to a pre-season friendly missing its contingent of World Cup players perhaps explains why.\n\nSunderland were without Granit Xhaka, Brian Brobbey and summer signing Thomas Meunier. Liverpool’s absentee list included World Cup finalists Alexis Mac Allister and Victor Muñoz, along with Florian Wirtz, Alexander Isak and Ryan Gravenberch, who will join the tour next week, and Virgil van Dijk, Cody Gakpo and Alisson, who will resume pre-season training next week but back on Merseyside.\n\nLiverpool also had a summer signing missing. Jérémy Jacquet, who was acquired for an initial £55m from Rennes, was left out as a precaution but is expected to feature before the tour concludes against Leeds in Chicago on Sunday.\n\n“With Jérémy we decided to take it easy with him,” Iraola explained. “He’s had a lot of months without playing, he’s been training very well, but we’re going to take it easy with him. He will play probably in the last game of this US tour, he will have time to have minutes.”\n\nHaving expressed worry over his “very thin” defensive options earlier in the week, Iraola’s resources were stretched further when Gomez went down injured early on. The luckless Gomez was unable to continue after treatment and his departure meant Liverpool’s central defence comprised two 18-year-olds recruited in January, Mor Talla Ndiaye and Ifeanyi Ndukwe. Kostas Tsimikas took the captain’s armband from Gomez, then passed it on to Szoboszlai when he was replaced at the interval. Talla Ndiaye, a £1m signing from Amitié in Senegal, and Ndukwe, a £2.5m transfer from Austria Vienna who teamed up with Liverpool only this summer, reflect the club’s policy of recruiting central defenders for the future.\n\nThe here and now, however, must also be addressed. With Ibrahima Konaté joining Real Madrid, Giovanni Leoni yet to resume full training after his anterior cruciate ligament injury, Gomez injury-prone and Jacquet untested in the Premier League, though rated extremely highly, the responsibility on Van Dijk will be considerable next season. As it was last season.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-26 @ 07:52:32 EDT",
+  "lastUpdated": "2026-07-26 @ 12:01:42 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
