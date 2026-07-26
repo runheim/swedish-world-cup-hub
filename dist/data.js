@@ -10,6 +10,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
       "link": "https://www.bbc.co.uk/sport/football/articles/c70gegrnen5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+      "link": "https://www.theguardian.com/football/2026/jul/26/liverpool-start-iraola-era-in-style-to-beat-sunderland-but-gomez-injury-puts-spotlight-on-defence"
     }
   ],
   "timeline": {
@@ -36043,10 +36047,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-26": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4956_0",
+            "category": "england",
+            "type": "News",
+            "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+            "bullets": [
+              "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+            "fullText": "Joe Westley scored twice against Clyde as Dundee go through as runners-up\n\nSt Johnstone crashed out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeezed through after Montrose blew their chance at home to Spartans.\n\nMontrose only required a point to progress to the last 16 as Group B winners, but the League 1 side lost 2-0 to visitors from the division below.\n\nSt Johnstone needed a win to have at least a chance of progressing as one of the best runners-up but end up finishing third behind Inverness Caledonian Thistle and East Fife, who also fail to make the knock-out stage.\n\nAberdeen, Ayr United, Kilmarnock, Ross County and Stenhousemuir join United and Caley Thistle as group winners.\n\nDundee and Partick Thistle also go through as two of three best-placed runners-up.\n\nThe final group winner and best runner-up will be decided on Sunday.\n\nSt Mirren will win Group C if they avoid defeat at home to Dunfermline Athletic.\n\nIf Dunfermline win, they are guaranteed to go through as group winners or runners-up as they would have a better goal difference than Queen's Park.\n\nPremier Sports Cup - Draw enough for Kilmarnock, St Johnstone miss out, Stenhousemuir win group\n\nWho has your Premiership club brought in & let go this summer?\n\nKevin Nisbet, with his sixth goal of the group stage, opened the scoring for Aberdeen against fourth-tier Kelty Hearts with his third spot kick of the season after just two minutes.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4957_1",
+            "category": "england",
+            "type": "News",
+            "title": "St Johnstone crash out as Dundee Utd squeeze through - League Cup round-up",
+            "bullets": [
+              "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "St Johnstone crash out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeeze through after Montrose blow their chance.",
+            "fullText": "Joe Westley scored twice against Clyde as Dundee go through as runners-up\n\nSt Johnstone crashed out the Premier Sports Cup thanks to East Fife's dramatic stoppage-time equaliser, but Premiership rivals Dundee United squeezed through after Montrose blew their chance at home to Spartans.\n\nMontrose only required a point to progress to the last 16 as Group B winners, but the League 1 side lost 2-0 to visitors from the division below.\n\nSt Johnstone needed a win to have at least a chance of progressing as one of the best runners-up but end up finishing third behind Inverness Caledonian Thistle and East Fife, who also fail to make the knock-out stage.\n\nAberdeen, Ayr United, Kilmarnock, Ross County and Stenhousemuir join United and Caley Thistle as group winners.\n\nDundee and Partick Thistle also go through as two of three best-placed runners-up.\n\nThe final group winner and best runner-up will be decided on Sunday.\n\nSt Mirren will win Group C if they avoid defeat at home to Dunfermline Athletic.\n\nIf Dunfermline win, they are guaranteed to go through as group winners or runners-up as they would have a better goal difference than Queen's Park.\n\nPremier Sports Cup - Draw enough for Kilmarnock, St Johnstone miss out, Stenhousemuir win group\n\nWho has your Premiership club brought in & let go this summer?\n\nKevin Nisbet, with his sixth goal of the group stage, opened the scoring for Aberdeen against fourth-tier Kelty Hearts with his third spot kick of the season after just two minutes.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4957_2",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool start Iraola era in style to beat Sunderland but Gomez injury deepens defensive worries",
+            "bullets": [
+              "Liverpool defeat Sunderland 4-2 in friendly in NashvilleWhen Gomez went down, central defence formed...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool defeat Sunderland 4-2 in friendly in NashvilleWhen Gomez went down, central defence formed by two teenagers The Andoni Iraola era at Liverpool opened with a victory over Sunderland in Nashville – and a deepening of concerns over the defensive options at his disposal. The sight of Joe Gomez hobbling off after 10 minutes of the new head coach’s first game and two teenagers forming a raw central defence partnership in his absence intensified the spotlight on a department in need of work.Liverpool had few issues at the other end of the pitch against Regis Le Bris’s side, resplendent in pink in Tennessee, where second half finishes from Dominik Szoboszlai, Federico Chiesa and Lewis Koumas delivered an ultimately comfortable win. Continue reading...",
+            "fullText": "Liverpool defeat Sunderland 4-2 in friendly in Nashville\n\nWhen Gomez went down, central defence formed by two teenagers\n\nTheAndoni Iraola eraat Liverpool opened with a victory over Sunderland in Nashville – and a deepening of concerns over the defensive options at his disposal. The sight of Joe Gomez hobbling off after 10 minutes of the new head coach’s first game and two teenagers forming a raw central defence partnership in his absence intensified the spotlight on a department in need of work.\n\nLiverpool had few issues at the other end of the pitch against Regis Le Bris’s side, resplendent in pink in Tennessee, where second half finishes from Dominik Szoboszlai, Federico Chiesa and Lewis Koumas delivered an ultimately comfortable win.\n\n“Probably the worst news has been straight away the injury of Joe,” admitted Iraola, who will have been impressed by lively displays from Calum Scanlon, Kieran Morrison and Koumas.\n\n“We were happy because we were going through training without losing any players and unluckily for us we’ve lost Joe straight away.”\n\nGeodis Park paid tribute to the late Kevin Keegan before kick-off on Saturday with both sets of supporters applauding the Liverpool, Hamburg and Newcastle great prior to observing an impeccable period of silence in his memory. The crowd itself was sparse, with plenty of empty seats around the 30,000 capacity stadium, although the official attendance was given as 24,897. Charging from $129 to $392 (£96 to £292) for tickets to a pre-season friendly missing its contingent of World Cup players perhaps explains why.\n\nSunderland were without Granit Xhaka, Brian Brobbey and summer signing Thomas Meunier. Liverpool’s absentee list included World Cup finalists Alexis Mac Allister and Victor Munoz, Florian Wirtz, Alexander Isak and Ryan Gravenberch, who will join the tour next week, and Virgil van Dijk, Cody Gakpo and Alisson, who also resume pre-season training next week but back on Merseyside.\n\nLiverpool also had a summer signing missing. Jeremy Jacquet, acquired for an initial £55m from Rennes, was left out as a precaution but is expected to feature before the tour concludes against Leeds in Chicago next Sunday.\n\n“With Jeremy we decided to take it easy with him,” Iraola explained. “He’s had a lot of months without playing, he’s been training very well, but we’re going to take it easy with him. He will play probably in the last game of this US tour, he will have time to have minutes.”\n\nHaving expressed worry over his “very thin” defensive options earlier in the week, Iraola’s resources were stretched further when Gomez went down injured early on. The luckless Gomez was unable to continue after treatment and his departure meant Liverpool’s central defence comprised two 18-year-olds recruited in January, Mor Talla Ndiaye and Ifeanyi Ndukwe. Kostas Tsimikas took the captain’s armband from Gomez, then passed it on to Szoboszlai when he was replaced at the interval.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-25 @ 18:55:53 EDT",
+  "lastUpdated": "2026-07-26 @ 00:49:57 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
