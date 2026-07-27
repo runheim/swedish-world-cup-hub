@@ -6,6 +6,14 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Rogers and Palmer can play together - Alonso",
       "link": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Salah, Stones & Sancho - who are the Premier League free agents?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78g7pj9gyno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+      "link": "https://www.theguardian.com/football/2026/jul/27/football-daily-email-transfer-season"
     }
   ],
   "timeline": {
@@ -36339,11 +36347,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5744_0",
+            "category": "england",
+            "type": "News",
+            "title": "Rogers and Palmer can play together - Alonso",
+            "bullets": [
+              "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer.",
+            "fullText": "Morgan Rogers scored 10 goals and registered seven assists in 37 Premier League matches last season for Aston Villa\n\nChelseamanager Xabi Alonso says he has a \"plan\" to play club record Â£117m signing Morgan Rogers alongside Cole Palmer - and believes the England international will make an \"instant impact\".\n\nThe midfielder became themost expensive British player of all-timewhen he moved fromAston Villato Stamford Bridge last week.\n\nThe 24-year-old is on holiday after playing for England at the World Cup, whileChelseahave begun their pre-season tour in Sydney.\n\n\"In that position we needed an important player and I'm sure there were not many better options than Morgan Rogers,\" Alonso said.\n\n\"You need players who can have that almost instant impact and I'm sure Morgan won't need much time to adapt to the club, the system and his team-mates,\" Alonso said.\n\n\"That was the idea, to get a top player, and Morgan is one of them.\"\n\nRogers has signed a six-year contract withChelsea, with an option for a further year.\n\nAlonso insisted he will be ready, despite not yet taking part in pre-season training, and believes he will be compatible with fellow England international Palmer.\n\nThe pair describe each other as being among their \"best friends in football\", with Rogers sayingthey would love to play together.\n\n\"I have a plan. I have an idea. I can see them linking really well,\" Alonso said of the pair.\n\n\"We need to have a good mix. If we get that balance right and those special players in the right positions, with good control, then we will be more competitive with and without the ball.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5744_1",
+            "category": "england",
+            "type": "News",
+            "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
+            "bullets": [
+              "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season.",
+            "fullText": "The 2026-27 Premier League season is fast approaching but there are still plenty of players yet to secure their club futures.\n\nWhether by choice or force, contracts have been run down and career paths changed.\n\nBBC Sport takes a look at some of the  notable out-of-contract players who were playing for a club in the English top flight last season.\n\nSalah, Stones and Sancho are all currently free agents\n\nStones now left City after a decade at the club in which he won 15 major trophies. Picked for England by Thomas Tuchel despite recent injury issues, Stones has most recently been linked with former clubEvertonand Italian giants AC Milan.\n\nSalah's last few months at Anfield were not easy as his relationship with boss Arne Slot appeared to disintegrate. Both have now leftLiverpool. It was widely expected Salah would move to the Saudi Pro League once the World Cup was over but he has since been linked with a move to Turkish club Besiktas.\n\nIt has been a turbulent few years for Sancho since joining United from Borussia Dortmund for Â£73m in 2021 and he has spent the last two and-a-half years playing elsewhere on loan, most recently atAston Villafollowing a lacklustre period atChelsea. Sancho made just 30 Premier League appearances for United but has reportedly received an offer from Qatari side Al-Rayyan.\n\nMali midfielder Bissouma made just 11 top-flight appearances last season as he struggled with injury and off-field issues at Spurs. He is reportedly keen on staying in the Premier League, withFulhamsaid to be interested.\n\nFormerManchester Citynumber two goalkeeper Ortega made 10 appearances across all competitions for Forest last season. A move to Greek side Olympiacos is potentially close.\n\nA difficult four-year spell at United for the Dutch left-back was marred by injuries and long stints on the sidelines. A chronic knee issue requiring surgery kept him out for over 500 days, causing him to miss the entire 2023â24 campaign. He has made just 11 appearances across all competitions since.\n\nTraore was released by the Hammers in the wake of their relegation to the Championship after just six months at the club. The powerful Spanish winger has been linked with a move back to Wolves, where he spent five years.\n\nOther Premier League players who are out of contract:",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5744_2",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!If this is an attention economy, there is no grea...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda for 11 months of any calendar year, it has been a summer of “look at me”, largely in vain as the Geopolitics World Cup’s often grubby charms snaffled up football focus. Often faint, sometimes shrill, the keening sound of season 2026-27 approaching, of this meaning more, was never far away as clubs congratulated or commiserated their players out in North America in grasping for relevance. And with the GWC safely bagged up, the club football military industrial complex is kicking back into gear, via the usual fashion, a transfer saga, and as is customary, one that involves Real Madrid.The passing of Kevin Keegan brought back memories of Hull City when Paul O’Riley, a young pro, went to Firewall FC on loan for six weeks. After his loan finished he came back raving about this kid who was so dedicated. He wanted to win all the long runs, sprints and would come back in the afternoon to run up and down the terraces with weights in his hands. Being from Donny I already knew about Kevin Keegan (also a Donny lad). Vince Grimes, a fellow pro at Hull, was always banging on about Terry Heath and a young kid called Kevin Keegan. Vince kept telling the coaching staff at Hull about Keegan and that they should buy him. Their response was they’d been to watch him play several times and didn’t fancy him. Not long after all this Keegan went to Liverpool and the rest is history. Many years later when he was managing Newcastle, I wrote to him asking if he’d allow from a lad from Australia to have a spell at Newcastle. He wrote back and said he’d be welcome. Not only that, they picked the lad up from the airport, sorted out his digs, took him to Wembley on the first-team bus for the Charity Shield game and Alan Shearer gave the lad his match boots” – Micky Dale.‘People talk about it being impossible. That means nothing. I truly believe that we can do something special” – Jermain Defoe, 6 April … ‘Following recent discussions, I can confirm that I have mutually agreed to leave my position as manager of Woking FC. Unfortunately, circumstances have ultimately made it impossible for me to continue in the position’ – Jermain Defoe, 24 July. Apparently ‘impossible’ does mean something after all” – Phil C0ckburn. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nIf this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda for 11 months of any calendar year, it has been a summer of “look at me”, largely in vain as the Geopolitics World Cup’s often grubby charms snaffled up football focus. Often faint, sometimes shrill, the keening sound of season 2026-27 approaching, of this meaning more, was never far away as clubs congratulated or commiserated their players out in North America in grasping for relevance. And with the GWC safely bagged up, the club football military industrial complex is kicking back into gear, via the usual fashion, a transfer saga, and as is customary, one that involves Real Madrid.\n\nThe central protagonist this time of a patchwork of preparing bids, coming days, exploring moves and eventual here-we-going is Vinícius Júnior. The eternal Brazilian Ballon d’Or hopeful – andrefusenik– has been linked with, gasp,Arsenal. As myriad examples in recent history prove, Liverpool’s summer of 2025 as the most obvious, winning the transfer market means little in the actual, material world. Though in the summer months, there is no levy placed on the wild fantasy scenarios being played out in the minds of Gunners fans. Arsenal plus Viní equals limitless glory, orgiastic scenes of the great man thwacking corners for Gabriel and William Saliba to convert. Leandro Trossard, farewell, the new king is in town. Though what about Christos Tzolis, the Greek flier signed just last week as replacement for the departed Belgian?\n\nThose who profess to know about this stuff – and often get things right – suggest there are legs in this. There are, though, flags on the play. Real Madrid and Florentino Pérez, recently re-elected Madrileño overlord – have form for using monied Premier League clubs as pawns. Viní has been in contract negotiations, his current deal expiring a year hence. He is reported to earn £400,000 per week, and is hardly likely to want less. Madrid do not wish him to depart for free. And this is Arsenal, whose owners have spent big in recent years, though have sometimes baulked at top dollar. Last year, they opted for Viktor Gyökeres rather than enter the Alexander Isak affair, a move that worked out well enough and Viní’s is a very different stratosphere to such dealing.\n\nAttached to all that flimflam is Yan Diomande, the Ivorian winger, one of those players who’s become a household name despite very few of us having the time to watch RB Leipzig. Everybody wants him, it seems, but Madrid are now saidto have beaten PSG to his signature, which then opens up questions of Bradley Barcola’s potential, probably very expensive, move to Liverpool. Thus, Football Daily finds itself pulled into the miasma, that aching sense of what might be, of who will go where, what it will all look like. Just when we thought we were out, they pulled us back in.\n\n“You were so consumed by hate and criticism that you missed it all. To those behind their pens and papers, behind ⁠their screens spreading hate and false rumours, I want to say that while you are sitting behind, we at Fifa are ​on the front lines organising, working hard, and delivering ‌the best show in the ‌world. We experienced no violence, no incidents, 100% safety and security, only joy and happiness” – Fifa big cheese Gianni Infantinoposts an open letter on his social media disgraces, urging detractors to “take a moment to reflect, meditate, pray” after a GWC marked by controversies including US visa restrictions affecting supporters and officials from several countries, concerns involving teams from conflict-hit regions, soaring ticket prices for fans … and the suspension of an automatic one-match ban imposed on USA USA USA striker Folarin Balogun after US president Donald Trump called Infantino directly.\n\ndouble quotation markThe passing of Kevin Keegan brought back memories of Hull City when Paul O’Riley, a young pro, went to Firewall FC on loan for six weeks. After his loan finished he came back raving about this kid who was so dedicated. He wanted to win all the long runs, sprints and would come back in the afternoon to run up and down the terraces with weights in his hands. Being from Donny I already knew about Kevin Keegan (also a Donny lad). Vince Grimes, a fellow pro at Hull, was always banging on about Terry Heath and a young kid called Kevin Keegan. Vince kept telling the coaching staff at Hull about Keegan and that they should buy him. Their response was they’d been to watch him play several times and didn’t fancy him. Not long after all this Keegan went to Liverpool and the rest is history. Many years later when he was managing Newcastle, I wrote to him asking if he’d allow from a lad from Australia to have a spell at Newcastle. He wrote back and said he’d be welcome. Not only that, they picked the lad up from the airport, sorted out his digs, took him to Wembley on the first-team bus for the Charity Shield game and Alan Shearer gave the lad his match boots” – Micky Dale.\n\ndouble quotation mark‘People talk about it being impossible. That means nothing. I truly believe that we can do something special” – Jermain Defoe, 6 April … ‘Following recent discussions, I can confirm that I have mutually agreed to leave my position as manager of Woking FC. Unfortunately, circumstances have ultimately made it impossible for me to continue in the position’ – Jermain Defoe, 24 July. Apparently ‘impossible’ does mean something after all” – Phil C0ckburn.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Micky Dale. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-27 @ 09:31:05 EDT",
+  "lastUpdated": "2026-07-27 @ 12:57:45 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
