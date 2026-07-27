@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Fifa president Gianni Infantino accuses critics of spreading hate at World Cup",
+      "link": "https://www.theguardian.com/football/2026/jul/27/gianni-infantino-hits-out-fifa-critics-hate-open-letter-world-cup"
     }
   ],
   "timeline": {
@@ -8898,11 +8882,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3539_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup",
+            "bullets": [
+              "Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment of IranThe Fifa president, Gianni Infantino, has hit back at critics of the World Cup, accusing them of spreading hate and false narratives while defending the tournament ⁠as a success that celebrated ⁠unity, safety and inclusion.In ​an open letter published on Monday, Infantino said detractors had overlooked the joy and togetherness experienced by millions of fans around the world who witnessed the tournament, ⁠won by Spain and staged in the United States, Canada and Mexico. Continue reading...",
+            "fullText": "Infantino claims critics of World Cup ‘missed it all’\n\nHe again defends Balogun affair and treatment of Iran\n\nThe Fifa president,Gianni Infantino, has hit back at critics of the World Cup, accusing them of spreading hate and false narratives while defending the tournament ⁠as a success that celebrated ⁠unity, safety and inclusion.\n\nIn ​an open letter published on Monday, Infantino said detractors had overlooked the joy and togetherness experienced by millions of fans around the world who witnessed the tournament, ⁠won by Spainand staged in the United States, Canada and Mexico.\n\n“You were so consumed by hate and criticism that you missed it all,” said the 56-year-old. “To those behind their pens and papers, behind ⁠their screens spreading hate and false rumours, I want to say that while you are sitting behind, we atFifaare ​on the front lines organising, working hard, and delivering ‌the best show in the ‌world. We experienced no violence, no incidents, 100% safety and security, only joy and happiness.”\n\nFifa faced criticism about a number of issues ‌during the World Cup, including US visa restrictions affecting supporters and officials from several countries and concerns for teams from conflict-hit regions. Infantino’s letter followed scrutiny of Fifa’s suspension of an automatic one-match ban imposed on the US striker Folarin Balogunafter the intervention of Donald Trump. Officiating decisions in Argentina’s last-16 victory over Egypt also received criticism,most strongly from the Egypt manager, Hossam Hassan.\n\n“Potentially mistaken red or yellow cards or subsequent ​decisions not to ban players in certain situations are routine and widely accepted in some of the biggest leagues worldwide,” Infantino said in his letter. “It’s curious that the same countries employing these practices are the ones criticising.“\n\nThe Somali referee, Omar Artan, wasbarred from entering the USdespite having a valid visa while the Iran team and staff were subject todifficult travel restrictionsimposed on them by the US government as a consequence of the war between the two countries.\n\n“Iran ​entered the United States without ‌incident or conflict. The ​Iranian team received visas ​to enter because football is about peace. It’s not about politics,” said Infantino. “Countries facing serious health issues or other challenges were granted visas.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nInfantino’s letter is likely to lead to further criticism and ridicule of the man who on the eve of the previous World Cup in Qatardeclared: “Today I feel Qatari. Today I feel Arabic. Today I feel African. Today I feel gay. Today I feel disabled. Today I feel a migrant worker.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-27 @ 01:01:17 EDT",
+  "lastUpdated": "2026-07-27 @ 09:35:40 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
