@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gomez injury overshadows winning start for Iraola",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2genrg72do?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Rogers and Palmer can play together - Alonso",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cre4qpq5j4wo?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "timeline": {
@@ -36316,11 +36316,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3105_0",
+            "category": "england",
+            "type": "News",
+            "title": "Rogers and Palmer can play together - Alonso",
+            "bullets": [
+              "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer.",
+            "fullText": "Morgan Rogers scored 10 goals and registered seven assists in 37 Premier League matches last season for Aston Villa\n\nChelseamanager Xabi Alonso says he has a \"plan\" to play club record Â£117m signing Morgan Rogers alongside Cole Palmer - and believes the England international will make an \"instant impact\".\n\nThe midfielder became themost expensive British player of all-timewhen he moved fromAston Villato Stamford Bridge last week.\n\nThe 24-year-old is on holiday after playing for England at the World Cup, whileChelseahave begun their pre-season tour in Sydney.\n\n\"In that position we needed an important player and I'm sure there were not many better options than Morgan Rogers,\" Alonso said.\n\n\"You need players who can have that almost instant impact and I'm sure Morgan won't need much time to adapt to the club, the system and his team-mates,\" Alonso said.\n\n\"That was the idea, to get a top player, and Morgan is one of them.\"\n\nRogers has signed a six-year contract withChelsea, with an option for a further year.\n\nAlonso insisted he will be ready, despite not yet taking part in pre-season training, and believes he will be compatible with fellow England international Palmer.\n\nThe pair describe each other as being among their \"best friends in football\", with Rogers sayingthey would love to play together.\n\n\"I have a plan. I have an idea. I can see them linking really well,\" Alonso said of the pair.\n\n\"We need to have a good mix. If we get that balance right and those special players in the right positions, with good control, then we will be more competitive with and without the ball.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-27 @ 01:00:27 EDT",
+  "lastUpdated": "2026-07-27 @ 09:31:05 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
