@@ -8928,11 +8928,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0243_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup",
+            "bullets": [
+              "Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Infantino claims critics of World Cup ‘missed it all’ He again defends Balogun affair and treatment of IranThe Fifa president, Gianni Infantino, has launched an extraordinary attack at critics of the World Cup, accusing them of spreading hate and false narratives, while defending the tournament as a success that celebrated unity, safety and inclusion.In a 15-part message published on Monday on Instagram, Infantino claimed detractors had overlooked the joy and togetherness experienced by millions of people around the world who witnessed the tournament, won by Spain and staged in the US, Canada and Mexico. Continue reading...",
+            "fullText": "Infantino claims critics of World Cup ‘missed it all’\n\nHe again defends Balogun affair and treatment of Iran\n\nThe Fifa president,Gianni Infantino, has launched an extraordinary attack at critics of the World Cup, accusing them of spreading hate and false narratives, while defending the tournament as a success that celebrated unity, safety and inclusion.\n\nIn a 15-part message published on Monday on Instagram, Infantino claimed detractors had overlooked the joy and togetherness experienced by millions of people around the world who witnessed the tournament,won by Spainand staged in the US, Canada and Mexico.\n\n“You were so consumed by hate and criticism that you missed it all,” the 56-year-old Swiss said. “To those behind their pens and papers, behind their screens spreading hate and false rumours, I want to say that while you are sitting behind, we atFifaare ​on the front lines organising, working hard, and delivering ‌the best show in the ‌world. We experienced no violence, no incidents, 100% safety and security, only joy and happiness.”\n\nFifa was criticised about a number of issues ‌during the World Cup, including US visa restrictions affecting supporters and officials from several countries, and concerns for teams from conflict-hit regions. Infantino’s open letter followed scrutiny of Fifa’s suspension of an automatic one-match ban imposed on the USA striker Folarin Balogunafter the intervention of Donald Trump. Officiating decisions in Argentina’s last-16 win against Egypt also received criticism,most strongly from the Egypt manager, Hossam Hassan.\n\nIn his social-media intervention, Infantino said: “Potentially mistaken red or yellow cards or subsequent decisions not to ban players in certain situations are routine and widely accepted in some of the biggest leagues worldwide. It’s curious that the same countries employing these practices are the ones criticising.”\n\nThe Somali referee Omar Artan wasbarred from entering the USdespite having a valid visa, while the Iran team and staff were subject todifficult travel restrictionsimposed on them by the US government as a consequence of the war between the two countries. Infantino said: “Iran ​entered the United States without ‌incident or conflict. The Iranian team received visas to enter because football is about peace. It’s not about politics. Countries facing serious health issues or other challenges were granted visas.”\n\nInfantino’s letter is likely to lead to ridicule of the man who on the eve of the previous World Cup in Qatardeclared: “Today I feel Qatari. Today I feel Arabic. Today I feel African. Today I feel gay. Today I feel disabled. Today I feel a migrant worker.” It has certainly led to further criticism, with the human rights organisation, FairSquare, claiming Infantino’s statement shows he has become “divorced” from his unpopularity.\n\n“Infantino’s score-settling rant further underscores his unfitness to govern world football,” Nicholas McGeehan, director and co-founder of FairSquare, told the Dalily Telegraph. “He is cosseted by yes‑men inside the organisation and divorced from the reality of his unpopularity outside of it.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nFairSquare issued a formal complaint against Infantino to the International Olympic Committee, accusing him of breaching its charter by failing to adhere to rules on political neutrality “through statements or other clear expressions of support for the US president”. Infantino has been a member of the IOC since 2020.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-27 @ 12:57:30 EDT",
+  "lastUpdated": "2026-07-27 @ 16:02:44 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
