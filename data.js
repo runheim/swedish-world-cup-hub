@@ -36292,10 +36292,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-27": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0027_0",
+            "category": "england",
+            "type": "News",
+            "title": "Gomez injury overshadows winning start for Iraola",
+            "bullets": [
+              "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool start life under Andoni Iraola with a 4-2 win over Sunderland thanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.",
+            "fullText": "Both Dominik Szoboszlai and Federico Chiesa scored for Liverpool in Nashville\n\nLiverpoolstarted life under Andoni Iraola with a 4-2 win overSunderlandthanks to goals from Kieran Morrison, Dominik Szoboszlai, Federico Chiesa and Lewis Koumas.\n\nBut the Iraola era had initially got off to the worst possible start when Joe Gomez, who started the game as centre-back and captain, went down injured and was taken off in the eighth minute.\n\n\"Probably the worst news has been straight away the injury of Joe. We were happy because we were going through training without losing any players and unluckily for us we've lost Joe straight away,\" said Iraola, who was also without new signing Jeremy Jacquet - who plays centre-half - for the opening friendly ofLiverpool's tour of the USA.\n\n\"With Jeremy we decided to take it easy with him. He's had a lot of months without playing and he's been training very well but we're going to take it easy with him,\" Iraola added. \"He will play probably in the last game of this tour and he will have time to have minutes.\"\n\nWith Virgil van Dijk given extra time off following the Netherlands' World Cup campaign, it meant that two teenage centre-backs held the line until the 68th minute.\n\nMor Talla Ndiaye, 18, and Ifeanyi Ndukwe, 18, made their debuts and both performed admirably given the situation but neither can be expected to feature regularly yet. Meanwhile, Giovanni Leoni, 19, is still undergoing individual training as he works his way back from a severe ACL tear.\n\nIraola said earlier in the week that his squad was \"very thin\" defensively.Liverpool's sporting director, Richard Hughes, was in Nashville for the game and if he wasn't aware already, seeing Gomez trudge off must have underlined how they are desperately short when it comes to experience in the centre-back department.\n\nKieran Morrison gave Liverpool the lead in the first half\n\nOn Friday evening, some of theLiverpoolsquad took the short walk from their hotel in downtown Nashville to Broadway - the famous entertainment district here in the state of Tennessee.\n\nSzoboszlai, who was among that group, certainly took some inspiration. Wearing the armband after coming on at half-time and picking up from exactly where he left off last season, the Hungarian scored a belter from outside the box to level the game at 2-2 afterSunderlandhad gone ahead through Timur Tutierov, having initially levelled through Enzo le Fee.\n\nSeeing Harvey Elliott make a surging run on his first game back at the club, after his spell atAston Villa, to assist Morrison forLiverpool's opener was another positive.  Morrison, 19, showed his quality with a lovely left-footed finish after cutting in from the right.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-26 @ 18:58:50 EDT",
+  "lastUpdated": "2026-07-27 @ 01:00:27 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
