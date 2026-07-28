@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
+      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
+      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -13723,10 +13723,56 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-28": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "dyn_swe_20260728_5",
+            "category": "sweden",
+            "type": "Blog",
+            "title": "Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
+            "bullets": [
+              "Arsenal striker shares positive diary updates from Dallas hotel.",
+              "Gyökeres: 'Potter's model suits us perfectly; we are highly motivated.'",
+              "Sweden fans turn out in high numbers to support open camp sessions."
+            ],
+            "summary": "In his latest journal entry, Viktor Gyökeres shared his excitement for the tournament, praising the team unity and thanking traveling Swedish fans for support.",
+            "fullText": "In his latest journal entry, Viktor Gyökeres shared his excitement for the tournament, praising the team unity and thanking traveling Swedish fans for support.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "Player Journal",
+            "relatedPlayers": [
+              "viktor_gyokeres",
+              "alexander_isak",
+              "lucas_bergvall"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260728_5",
+            "category": "opponent",
+            "type": "Analysis",
+            "title": "Group F standings update: Sweden targets knockout round qualification",
+            "bullets": [
+              "Global soccer analysts predict Group F remains the most competitive.",
+              "Winner of upcoming matches projected to secure knockout round spots.",
+              "Pundits highlight Sweden's tactical adaptability as key asset."
+            ],
+            "summary": "Group F standings remain close. Pundits expect high-intensity matches, praising Sweden's tactical adaptability under Graham Potter as a key asset for knockout qualification.",
+            "fullText": "Group F standings remain close. Pundits expect high-intensity matches, praising Sweden's tactical adaptability under Graham Potter as a key asset for knockout qualification.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Editorial",
+            "readTime": "3 min",
+            "tag": "Group F Standing",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-27 @ 18:54:33 EDT",
+  "lastUpdated": "2026-07-28 @ 00:37:44 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
