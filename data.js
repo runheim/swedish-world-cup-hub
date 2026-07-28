@@ -36696,10 +36696,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-07-28": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3359_0",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea open talks to sign Henderson and Welbeck",
+            "bullets": [
+              "Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbec...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea are in talks to sign Brentford midfielder Jordan Henderson and Brighton striker Danny Welbeck.",
+            "fullText": "Jordan Henderson and Danny Welbeck have made 863 Premier League appearances between them\n\nChelseaare in talks to signBrentford's Jordan Henderson andBrighton's Danny Welbeck.\n\nEngland midfielder Henderson, 36, has a year left on hisBrentfordcontract but the Bees are willing to let him leave on a free transfer.\n\nEx-England striker Welbeck, 35, is keen on moving to Stamford Bridge and there is optimism fromChelsea's side that a deal can be concluded.\n\nThe Blues are looking for experience because of an acceptance that their model of signing young players needs a \"tweak\" - according to influential owner Behdad Eghbali in April.\n\nWelbeck scored a career-high 13 league goals in 37 games forBrightonlast season, taking his tally to 51 goals in 201 matches since joining from Watford in 2020.\n\nWelbecksigned a 12-month contract extensionin March, with his current deal running until the end of the 2026-27 season.\n\nHenderson made 34 appearances in all competitions forBrentfordlast season after joining from Ajax.\n\nHe made one substitute appearance for England at the World Cup before breaking his arm falling over advertising hoardings while celebrating their last-16 win over Mexico.\n\nAlonso expects 'movement' on transfers - what can Chelsea achieve this season?\n\nChelsea will be 'different' - Colwill says Blues 'ready' to compete with Arsenal\n\nThere are questions over the futures of severalChelseaforwards, with Joao Pedro regarded as the club's first-choice option.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3359_1",
+            "category": "england",
+            "type": "News",
+            "title": "Inter in advanced talks with England defender Stones",
+            "bullets": [
+              "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.",
+            "fullText": "John Stones' Manchester City contract expired while he was at the World Cup with England\n\nEngland defender John Stones is in advanced talks with Inter Milan about joining the Italian side on a free transfer.\n\nThe centre-half is a free agentafter leaving Manchester Cityat the end of June.\n\nStones has been the subject of major interest from clubs across Europe, including Chelsea and Juventus.\n\nBut Serie A champions Inter have held positive discussions with the 32-year-old and are understood to be leading the race to sign the Premier League and Champions League winner on a two-year contract.\n\nStones made 295 appearances for City after joining from Everton for Â£47.5m in 2016.\n\nHe helped City win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nThe former Barnsley defender has won 93 international caps and was part of the England squad who finished third at the World Cup.\n\nSalah, Stones & Sancho - who are the Premier League free agents?\n\nFind all the latest football transfers on our dedicated page",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rogers and Palmer can play together - Alonso",
+            "bullets": [
+              "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea manager Xabi Alonso says he has a \"plan\" to play club record £117m signing Morgan Rogers alongside Cole Palmer.",
+            "fullText": "Morgan Rogers scored 10 goals and registered seven assists in 37 Premier League matches last season for Aston Villa\n\nChelseamanager Xabi Alonso says he has a \"plan\" to play club record Â£117m signing Morgan Rogers alongside Cole Palmer - and believes the England international will make an \"instant impact\".\n\nThe midfielder became themost expensive British player of all-timewhen he moved fromAston Villato Stamford Bridge last week.\n\nThe 24-year-old is on holiday after playing for England at the World Cup, whileChelseahave begun their pre-season tour in Sydney.\n\n\"In that position we needed an important player and I'm sure there were not many better options than Morgan Rogers,\" Alonso said.\n\n\"You need players who can have that almost instant impact and I'm sure Morgan won't need much time to adapt to the club, the system and his team-mates,\" Alonso said.\n\n\"That was the idea, to get a top player, and Morgan is one of them.\"\n\nRogers has signed a six-year contract withChelsea, with an option for a further year.\n\nAlonso insisted he will be ready, despite not yet taking part in pre-season training, and believes he will be compatible with fellow England international Palmer.\n\nThe pair describe each other as being among their \"best friends in football\", with Rogers sayingthey would love to play together.\n\n\"I have a plan. I have an idea. I can see them linking really well,\" Alonso said of the pair.\n\n\"We need to have a good mix. If we get that balance right and those special players in the right positions, with good control, then we will be more competitive with and without the ball.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_3",
+            "category": "england",
+            "type": "News",
+            "title": "Salah, Stones & Sancho - who are the Premier League free agents?",
+            "bullets": [
+              "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport takes a look at some of the notable out-of-contract players who playing in the English top flight last season.",
+            "fullText": "The 2026-27 Premier League season is fast approaching but there are still plenty of players yet to secure their club futures.\n\nWhether by choice or force, contracts have been run down and career paths changed.\n\nBBC Sport takes a look at some of the  notable out-of-contract players who were playing for a club in the English top flight last season.\n\nSalah, Stones and Sancho are all currently free agents\n\nStones now left City after a decade at the club in which he won 15 major trophies. Picked for England by Thomas Tuchel despite recent injury issues, Stones has most recently been linked with former clubEvertonand Italian giants AC Milan.\n\nSalah's last few months at Anfield were not easy as his relationship with boss Arne Slot appeared to disintegrate. Both have now leftLiverpool. It was widely expected Salah would move to the Saudi Pro League once the World Cup was over but he has since been linked with a move to Turkish club Besiktas.\n\nIt has been a turbulent few years for Sancho since joining United from Borussia Dortmund for Â£73m in 2021 and he has spent the last two and-a-half years playing elsewhere on loan, most recently atAston Villafollowing a lacklustre period atChelsea. Sancho made just 30 Premier League appearances for United but has reportedly received an offer from Qatari side Al-Rayyan.\n\nMali midfielder Bissouma made just 11 top-flight appearances last season as he struggled with injury and off-field issues at Spurs. He is reportedly keen on staying in the Premier League, withFulhamsaid to be interested.\n\nFormerManchester Citynumber two goalkeeper Ortega made 10 appearances across all competitions for Forest last season. A move to Greek side Olympiacos is potentially close.\n\nA difficult four-year spell at United for the Dutch left-back was marred by injuries and long stints on the sidelines. A chronic knee issue requiring surgery kept him out for over 500 days, causing him to miss the entire 2023â24 campaign. He has made just 11 appearances across all competitions since.\n\nTraore was released by the Hammers in the wake of their relegation to the Championship after just six months at the club. The powerful Spanish winger has been linked with a move back to Wolves, where he spent five years.\n\nOther Premier League players who are out of contract:",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_4",
+            "category": "england",
+            "type": "News",
+            "title": "John Stones set for Inter move after shining for England at World Cup",
+            "bullets": [
+              "Defender left Manchester City on free transfer‘I still feel I have so much to give to a club’Inter a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Defender left Manchester City on free transfer‘I still feel I have so much to give to a club’Inter are closing in on signing John Stones as a free transfer after the 32-year-old defender left Manchester City in June.Inter and their rival Italian club Juventus were interested in Stones before the World Cup and the Nerazzurri are now in pole position to recruit him following his impressive form in England’s run to the semi-finals. Continue reading...",
+            "fullText": "Inter are closing in on signing John Stones as a free transfer after the 32-year-old defender leftManchester Cityin June.\n\nInter and their rival Italian club Juventus were interested in Stones before the World Cup and theNerazzurriare now in pole position to recruit him following his impressive form in England’s run to the semi-finals.\n\nStones made 13 appearances for City last season before being injured in December. Yet after being out for two months and staying injury-free, he was selected only five more times by City’s then manager Pep Guardiola.\n\nAt the World Cup, Stones started the opening game for Thomas Tuchel’s team against Croatia, was an unused substitute against Ghana and Panama, made substitute appearances in the knockout wins against the Democratic Republic of the Congo and Mexico, before starting the quarter-final victory against Norway and the 2-1 semi-final defeat against Argentina.\n\nTowards the end of last season Stones spoke of his continuing ambition to play at the top level. “I still feel I have so much to give a club and I feel in a good moment physically,” he said. “There is a lot for me still to fight for in my career and a new challenge will be exciting. I’m keeping an open mind. I can take what I have learned here and maybe pass it on.”\n\nWhile Inter are confident of signing Stones, the deal could yet collapse should a requisite Premier League club express an interest.\n\nKick off your evenings with the Guardian's take on the world of football\n\nArsenal’s William Saliba is out for an extended period with a back injury, meaning a defender is needed for cover in Mikel Arteta’s squad. Chelsea under Xabi Alonso are expected to play with three centre-backs so are in the market to sign at least one. Neither Arsenal nor Chelsea, though, are yet to make a move for Stones.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_5",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea explore surprise moves for Danny Welbeck and Jordan Henderson",
+            "bullets": [
+              "Brighton striker scored 13 goals in league last seasonVeteran Brentford midfielder has a year left o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brighton striker scored 13 goals in league last seasonVeteran Brentford midfielder has a year left on contractChelsea are understood to be in talks over a move to sign Danny Welbeck from Brighton. The 35-year-old is a surprise candidate to bolster Xabi Alonso’s forward line after scoring 13 goals in 37 Premier League matches last season.In a further unexpected move, there are also reports the club are in negotiations to bring in England midfielder Jordan Henderson from Brentford. The 36-year-old has a year left on his contract, but it is claimed the Bees would be willing to let him leave on a free transfer. Continue reading...",
+            "fullText": "Brighton striker scored 13 goals in league last season\n\nVeteran Brentford midfielder has a year left on contract\n\nChelsea are understood to be in talks over a move to signDanny Welbeckfrom Brighton. The 35-year-old is a surprise candidate to bolster Xabi Alonso’s forward line after scoring 13 goals in 37 Premier League matches last season.\n\nIn a further unexpected move, there are also reports the club are in negotiations to bring in England midfielder Jordan Henderson fromBrentford. The 36-year-old has a year left on his contract, but it is claimed the Bees would be willing to let him leave on a free transfer.\n\nThe former Liverpool captain made 34 appearances for Brentford last season and was a member of England’s World Cup squad. He broke his arm when he fell over advertising hoardings celebrating their win over Mexico.\n\nWelbeck also has a year remaining on his deal and there is optimism a deal can be concluded as Brighton are understood to be willing to let the striker move for the right price.\n\nShould a deal be reached it would increase the likelihood of departures from Stamford Bridge, with uncertainty surrounding the futures of Liam Delap and Nicolas Jackson. Delap is considered second-choice striker behind João Pedro, who impressed in his debutChelseacampaign with 15 league goals, while Jackson spent last season on loan at Bayern Munich and has attracted interest from Aston Villa.\n\nDelap had been expected to be given a second year to prove himself after an unsuccessful debut campaign following his £30m move from Ipswich a year ago, though this latest development would seem to cast doubt on his future.\n\nInterest in Welbeck and Henderson reflects a revised Chelsea transfer policy as the club seek to recruit more established players under Alonso.\n\nKick off your evenings with the Guardian's take on the world of football\n\nWelbeck, who scored twice when Brightonwon 3-1 at Stamford Bridge last season, signed a 12-month deal in March which runs until the end of the 2026-27 season. If the move happens, Welbeck would join a long line of players and staff to make the switch from Brighton to Chelsea in recent years, including the goalkeeper Robert Sánchez, midfielder Moises Caicedo and striker João Pedro.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_6",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Vinícius to Arsenal? Club football’s military industrial complex kicks back into gear",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!If this is an attention economy, there is no grea...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!If this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda for 11 months of any calendar year, it has been a summer of “look at me”, largely in vain as the Geopolitics World Cup’s often grubby charms snaffled up football focus. Often faint, sometimes shrill, the keening sound of season 2026-27 approaching, of this meaning more, was never far away as clubs congratulated or commiserated their players out in North America in grasping for relevance. And with the GWC safely bagged up, the club football military industrial complex is kicking back into gear, via the usual fashion, a transfer saga, and as is customary, one that involves Real Madrid.The passing of Kevin Keegan brought back memories of Hull City when Paul O’Riley, a young pro, went to Firewall FC on loan for six weeks. After his loan finished he came back raving about this kid who was so dedicated. He wanted to win all the long runs, sprints and would come back in the afternoon to run up and down the terraces with weights in his hands. Being from Donny I already knew about Kevin Keegan (also a Donny lad). Vince Grimes, a fellow pro at Hull, was always banging on about Terry Heath and a young kid called Kevin Keegan. Vince kept telling the coaching staff at Hull about Keegan and that they should buy him. Their response was they’d been to watch him play several times and didn’t fancy him. Not long after all this Keegan went to Liverpool and the rest is history. Many years later when he was managing Newcastle, I wrote to him asking if he’d allow from a lad from Australia to have a spell at Newcastle. He wrote back and said he’d be welcome. Not only that, they picked the lad up from the airport, sorted out his digs, took him to Wembley on the first-team bus for the Charity Shield game and Alan Shearer gave the lad his match boots” – Micky Dale.‘People talk about it being impossible. That means nothing. I truly believe that we can do something special” – Jermain Defoe, 6 April … ‘Following recent discussions, I can confirm that I have mutually agreed to leave my position as manager of Woking FC. Unfortunately, circumstances have ultimately made it impossible for me to continue in the position’ – Jermain Defoe, 24 July. Apparently ‘impossible’ does mean something after all” – Phil C0ckburn. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nIf this is an attention economy, there is no greater attention-seeker than club football. Not content with dominating the sporting agenda for 11 months of any calendar year, it has been a summer of “look at me”, largely in vain as the Geopolitics World Cup’s often grubby charms snaffled up football focus. Often faint, sometimes shrill, the keening sound of season 2026-27 approaching, of this meaning more, was never far away as clubs congratulated or commiserated their players out in North America in grasping for relevance. And with the GWC safely bagged up, the club football military industrial complex is kicking back into gear, via the usual fashion, a transfer saga, and as is customary, one that involves Real Madrid.\n\nThe central protagonist this time of a patchwork of preparing bids, coming days, exploring moves and eventual here-we-going is Vinícius Júnior. The eternal Brazilian Ballon d’Or hopeful – andrefusenik– has been linked with, gasp,Arsenal. As myriad examples in recent history prove, Liverpool’s summer of 2025 as the most obvious, winning the transfer market means little in the actual, material world. Though in the summer months, there is no levy placed on the wild fantasy scenarios being played out in the minds of Gunners fans. Arsenal plus Viní equals limitless glory, orgiastic scenes of the great man thwacking corners for Gabriel and William Saliba to convert. Leandro Trossard, farewell, the new king is in town. Though what about Christos Tzolis, the Greek flier signed just last week as replacement for the departed Belgian?\n\nThose who profess to know about this stuff – and often get things right – suggest there are legs in this. There are, though, flags on the play. Real Madrid and Florentino Pérez, recently re-elected Madrileño overlord – have form for using monied Premier League clubs as pawns. Viní has been in contract negotiations, his current deal expiring a year hence. He is reported to earn £400,000 per week, and is hardly likely to want less. Madrid do not wish him to depart for free. And this is Arsenal, whose owners have spent big in recent years, though have sometimes baulked at top dollar. Last year, they opted for Viktor Gyökeres rather than enter the Alexander Isak affair, a move that worked out well enough and Viní’s is a very different stratosphere to such dealing.\n\nAttached to all that flimflam is Yan Diomande, the Ivorian winger, one of those players who’s become a household name despite very few of us having the time to watch RB Leipzig. Everybody wants him, it seems, but Madrid are now saidto have beaten PSG to his signature, which then opens up questions of Bradley Barcola’s potential, probably very expensive, move to Liverpool. Thus, Football Daily finds itself pulled into the miasma, that aching sense of what might be, of who will go where, what it will all look like. Just when we thought we were out, they pulled us back in.\n\n“You were so consumed by hate and criticism that you missed it all. To those behind their pens and papers, behind ⁠their screens spreading hate and false rumours, I want to say that while you are sitting behind, we at Fifa are ​on the front lines organising, working hard, and delivering ‌the best show in the ‌world. We experienced no violence, no incidents, 100% safety and security, only joy and happiness” – Fifa big cheese Gianni Infantinoposts an open letter on his social media disgraces, urging detractors to “take a moment to reflect, meditate, pray” after a GWC marked by controversies including US visa restrictions affecting supporters and officials from several countries, concerns involving teams from conflict-hit regions, soaring ticket prices for fans … and the suspension of an automatic one-match ban imposed on USA USA USA striker Folarin Balogun after US president Donald Trump called Infantino directly.\n\ndouble quotation markThe passing of Kevin Keegan brought back memories of Hull City when Paul O’Riley, a young pro, went to Firewall FC on loan for six weeks. After his loan finished he came back raving about this kid who was so dedicated. He wanted to win all the long runs, sprints and would come back in the afternoon to run up and down the terraces with weights in his hands. Being from Donny I already knew about Kevin Keegan (also a Donny lad). Vince Grimes, a fellow pro at Hull, was always banging on about Terry Heath and a young kid called Kevin Keegan. Vince kept telling the coaching staff at Hull about Keegan and that they should buy him. Their response was they’d been to watch him play several times and didn’t fancy him. Not long after all this Keegan went to Liverpool and the rest is history. Many years later when he was managing Newcastle, I wrote to him asking if he’d allow from a lad from Australia to have a spell at Newcastle. He wrote back and said he’d be welcome. Not only that, they picked the lad up from the airport, sorted out his digs, took him to Wembley on the first-team bus for the Charity Shield game and Alan Shearer gave the lad his match boots” – Micky Dale.\n\ndouble quotation mark‘People talk about it being impossible. That means nothing. I truly believe that we can do something special” – Jermain Defoe, 6 April … ‘Following recent discussions, I can confirm that I have mutually agreed to leave my position as manager of Woking FC. Unfortunately, circumstances have ultimately made it impossible for me to continue in the position’ – Jermain Defoe, 24 July. Apparently ‘impossible’ does mean something after all” – Phil C0ckburn.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Micky Dale. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_7",
+            "category": "england",
+            "type": "News",
+            "title": "Stones verbally agrees Inter move amid Arsenal, Chelsea interest",
+            "bullets": [
+              "John Stones has verbally agreed to join Inter on a free transfer, according to Sky in Italy.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "John Stones has verbally agreed to join Inter on a free transfer, according to Sky in Italy.",
+            "fullText": "England international join Stones has verbally agreed a move to Inter Milan; the former Manchester City defender is set to finalise terms on a two-year deal; Premier League clubs Chelsea and Arsenal had registered interest",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3400_8",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea interested in Henderson after holding positive talks with Welbeck",
+            "bullets": [
+              "Chelsea are interested in signing Jordan Henderson from Brentford.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea are interested in signing Jordan Henderson from Brentford.",
+            "fullText": "Chelsea hold an interest in Brentford midfielder Jordan Henderson; the England international is recovering from an arm injury sustained during the 2026 World Cup; the Blues have also held positive talks over the signing of Danny Welbeck",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-27 @ 19:01:49 EDT",
+  "lastUpdated": "2026-07-28 @ 00:34:01 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
