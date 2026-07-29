@@ -6,6 +6,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames",
       "link": "https://www.theguardian.com/football/2026/jul/29/uefa-show-backbone-concrete-action-fifa-infantino-world-cup-plans"
+    },
+    {
+      "text": "⚽ USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
+      "link": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status"
     }
   ],
   "timeline": {
@@ -9270,11 +9274,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2143_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames",
+            "bullets": [
+              "European football has shown an increased willingness to talk tough with Fifa but words can only be w...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "European football has shown an increased willingness to talk tough with Fifa but words can only be wielded so many times• FA joins criticism of Fifa plan to sell off World Cup stakesAs the World Cup neared its conclusion, one leading figure in European football pondered how Gianni Infantino might attempt to rinse away the damaging stain of the Folarin Balogun scandal. It all came down to money. “He will just announce more funds for everyone,” was the gist, although the tournament passed without any explanation of how Fifa would carve up its record $15bn (£11.2bn) haul.That was the tip of the iceberg. Infantino’s plan to sell chunks of the World Cup to private investors, announced on Tuesday, nine days after the final, has sent shock waves around the sport and left senior personnel scrambling. There is little time for a coordinated response given Fifa, at the height of what passes for football’s holiday period, has given FAs until 19 September to decide whether to accept the initial $20m payment that would effectively count as endorsement of the new scheme. Continue reading...",
+            "fullText": "European football has shown an increased willingness to talk tough with Fifa but words can only be wielded so many times\n\nFA joins criticism of Fifa plan to sell off World Cup stakes\n\nAs the World Cup neared its conclusion, one leading figure in European football pondered how Gianni Infantino might attempt to rinse away the damaging stain ofthe Folarin Balogun scandal. It all came down to money. “He will just announce more funds for everyone,” was the gist, although the tournament passed without any explanation of how Fifa would carve up its record $15bn (£11.2bn) haul.\n\nThat was the tip of the iceberg. Infantino’s plan tosell chunks of the World Cup to private investors, announced on Tuesday, nine days after the final, has sent shock waves around the sport and left senior personnel scrambling. There is little time for a coordinated response given Fifa, at the height of what passes for football’s holiday period, has given FAs until 19 September to decide whether to accept the initial $20m payment that would effectively count as endorsement of the new scheme.\n\nThe reaction must come quickly. Perhaps, when Uefa assesses its next move, it will look back to 2021 and remember the credit it happily banked inblocking the proposed European Super League. Fifa’s plan, which could allow private investors a say in how and when its tournaments are run, is potentially more seismic and global in scale. If football’s future has been on a ticking clock under Infantino, the time is one minute to midnight.\n\nUefa’s speed in responding to the plan was of a piece with its renewed appetite, honed over a number of run-ins over the past 15 months, to stick the boot intoFifa. “This crosses a line that football’s governing institutions should never cross,” it said, although anyone feeling a sense of deja vu needed only to scroll back three weeks. On 6 July, another Uefa statement said the shelving of Balogun’s suspension “crossed a red line”. These are strong, accurate words, but they can be wielded only so many times.\n\nInfantino can rush his proposals through by counting on votes from the overwhelming number of FAs, primarily based outside Europe, who pledge fealty to his administration. But a show of backbone from football’s most powerful continent, a sporting behemoth that has eaten up any competition on the pitch and through the financial clout of its institutions, would be a major blow to Fifa. It would only take concrete action from a few of Europe’s major nations, with their governments in lockstep, to render any plan to sell off football’s crown jewels untenable.\n\nWho will put their heads above the parapet? This is a moment to remember that,as the Guardian revealed in mid-July, more than 200 of Fifa’s 211 members have already submitted letters in support of his candidacy for re-election early next year. Most of those resisting significant pressure to offer backing are from Europe, with Germany the highest-profile holdout. But England’s FA, which is hoping to rubber-stamp its hosting of the 2035 Women’s World Cup, was quick to offer its endorsement well before this summer.\n\nThen there are cases such as Finland, whose FA president, Ari Lahti, said in June that his country aimed “not to be an eyesore” by refusing to back Infantino. It is a common stance, even among federations who are vocal in private about their disgust for Fifa’s trampling over norms andproximity to the Donald Trump administration. Countries of all sizes have a duty to put the beauty contest on hold.\n\nAny talk of boycotting future World Cups, which would surely have to include the women’s edition in Brazil next year, is complicated by a section of Fifa’s statutes that says its members are obliged to take part in its competitions. The only way to avoid financially prohibitive sanctions may be to threaten the most radical step of all: a withdrawal from Fifa and the creation of a new governance model for football.\n\nUefa’s position may be made trickier by its close relationship to the thus far taciturn European Football Clubs (EFC), which would like to set up a joint venture with Fifa to run the Club World Cup. EFC andUefaalready run a joint venture, UC3, that operates the commercial aspect of Uefa competitions, but one of the key differences from Fifa’s proposal is that it does not involve private capital.\n\nSomehow, everyone must be corralled together if Infantino is to be tackled. Another way would be to remove some wind from Infantino’s sails by putting up a serious electoral opponent. After the Balogun affair, conversations with figures at all levels of the sport speculated whether Uefa might endorse its own candidate to run for the Fifa presidency in March. Consensus suggested it would be too soon; that this will be a period of positioning for 2031 when, according to Fifa’s current rules, Infantino must stand aside.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2143_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
+            "bullets": [
+              "Deal would extend Argentinian through 2030 World CupCoach would stand to earn ‘significantly’ morePo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Deal would extend Argentinian through 2030 World CupCoach would stand to earn ‘significantly’ morePochettino’s tenure has been mixed bag of resultsUSMNT head coach Mauricio Pochettino and US Soccer are “in the final stages” of finalizing an agreement for a new contract through the 2030 World Cup, multiple sources briefed on ongoing negotiations have told the Guardian. Those sources requested anonymity because they were not authorized to speak on the matter.Pochettino was brought on as US head coach in September 2024, tapped to lead the team through the 2026 World Cup, where the Americans suffered a disappointing exit in the last 16. Both sides had expressed interest in potentially extending the deal in the run-up to the tournament, with US Soccer chief executive JT Batson saying the federation was “excited” about the potential of building on progress made during Pochettino’s initial spell as head coach. Continue reading...",
+            "fullText": "Deal would extend Argentinian through 2030 World Cup\n\nUSMNT head coachMauricio Pochettinoand US Soccer are “in the final stages” of finalizing an agreement for a new contract through the 2030 World Cup, multiple sources briefed on ongoing negotiations have told the Guardian. Those sources requested anonymity because they were not authorized to speak on the matter.\n\nPochettino was brought on as US head coach in September 2024, tapped to lead the team through the 2026 World Cup, where the Americans suffereda disappointing exitin the last 16. Both sides had expressed interest in potentiallyextendingthe deal in the run-up to the tournament, with US Soccer chief executive JT Batson saying the federation was “excited” about the potential of building on progress made during Pochettino’s initial spell as head coach.\n\nTelemundo’s Andres Cantor was first to report progress on recent contract talks.\n\nPochettino had told Spanish-language media on 17 July that a decision on his future was coming “next week”, but neither the federation nor Pochettino himself has spoken on the matter. Sources said on Tuesday that both sides were eager to get a deal over the line so focus could be turned towards the USMNT’s next slate of friendlies, due to be played in late September and early October.\n\nPochettino’s tenure as US coach has been a mixed bag. Early results, including a fourth-place finish in the Nations League and losing to Mexico in a Gold Cup final were balanced by more respectable results, including the US’s best-ever group-stage finish at a World Cup. To some, Pochettino’s initial run as US coach will be remembered for one thing alone: the team’s 4-1 humiliation at the hands of Belgium in the last 16 of the World Cup.\n\nFinancial details of Pochettino’s potential new deal have not yet surfaced, though one source close to the ongoing negotiations said that the Argentinian stands to earn “significantly” more than his previous deal. Pochettino earned roughly $6m per year as US coach, notwithstanding performance bonuses, with a $2.5m signing bonus. That number already made Pochettino the third-highest-earning international coach in global soccer. It was partially subsidized by philanthropic support, most notably from hedge fund billionaire Ken Griffin.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nPochettino, who had never coached internationally prior to taking over the USMNT, continued to attractwidespread interestduring his tenure, most notably from Premier League side Tottenham Hotspur, where he’d previously enjoyed success. The Argentinian was also linked with Real Madrid, though both clubs have since filled their coaching vacancies.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-29 @ 08:57:17 EDT",
+  "lastUpdated": "2026-07-29 @ 12:21:52 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
