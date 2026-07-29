@@ -4,24 +4,32 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Why Chelsea want to sign older players",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn0nw0lyrkdo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Henderson nears Chelsea move as Welbeck has medical",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Birmingham & Preston - Barcelona's unlikely UK camp",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y3k55m172o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ FA joins criticism of Fifa plan to sell off World Cup stakes to private investors",
+      "link": "https://www.theguardian.com/football/2026/jul/29/concacaf-joins-criticism-of-fifa-infantino-plan-to-sell-off-world-cup-stakes-to-private-investors"
+    },
+    {
+      "text": "⚽ Where all 20 Premier League clubs should strengthen before the season",
+      "link": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+    },
+    {
+      "text": "⚽ Is Kazuyoshi Miura the oldest goalscorer in competitive football history? | The Knowledge",
+      "link": "https://www.theguardian.com/football/2026/jul/29/is-kazuyoshi-miura-oldest-goalscorer-football-history-knowledge"
     },
     {
       "text": "⚽ Xabi Alonso plays down Welbeck and Henderson moves after Chelsea win",
       "link": "https://www.theguardian.com/football/2026/jul/28/xabi-alonso-danny-welbeck-jordan-henderson-chelsea-western-sydney-wanderers"
     },
     {
-      "text": "⚽ ‘He’s back’: Zinedine Zidane named France head coach in long-awaited homecoming",
-      "link": "https://www.theguardian.com/football/2026/jul/28/france-zinedine-zidane-head-coach-long-awaited-homecoming"
-    },
-    {
       "text": "⚽ Roberto Mancini returns as Italy head coach with Claudio Ranieri named technical director",
       "link": "https://www.theguardian.com/football/2026/jul/28/roberto-mancini-returns-italy-head-coach-claudio-ranieri-technical-director"
-    },
-    {
-      "text": "⚽ How Premier League Futures programme is helping former academy prospects",
-      "link": "https://www.theguardian.com/football/2026/jul/28/how-premier-league-futures-programme-is-helping-former-academy-prospects"
     }
   ],
   "timeline": {
@@ -37501,11 +37509,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5332_0",
+            "category": "england",
+            "type": "News",
+            "title": "Henderson nears Chelsea move as Welbeck has medical",
+            "bullets": [
+              "Brighton striker Danny Welbeck is given permission to have a medical at Stamford Bridge as his switc...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brighton striker Danny Welbeck is given permission to have a medical at Stamford Bridge as his switch to Chelsea moves closer.",
+            "fullText": "Chelseahave agreed a deal to sign Danny Welbeck while Jordan Henderson is set to cancel hisBrentfordcontract to enable a move to Stamford Bridge.\n\nHenderson, 36, is under contract until 2027. Welbeck, 35, has agreed a two-year deal and been given permission byBrightonto conduct a medical at Stamford Bridge.\n\nA fee for the striker has also been agreed but remains undisclosed asChelseatie up the deal for him to join pre-season in Hong Kong afterChelsea's final match in Australia againstTottenhamon Saturday evening.\n\nWelbeck will become the oldest signing under the Todd Boehly and Clearlake Capital ownership, until Henderson's likely arrival with the west Londoners.\n\nIt is part of new manager Xabi Alonso's drive to add experience toChelsea's squad, which has been the youngest in the Premier League for the past two seasons.\n\nTheir focus on youth has been viewed as a factor in their inability to challenge consistently for major honours.\n\nTowards the end of last season's disappointing campaign, when they finished 10th and won nothing,Chelseaco-owner Behdad Eghbali said their recruitment model needed a \"tweak\".\n\nSince then,Chelseahave made an offer to reuniteSunderlandmidfielder Granit Xhaka, 34, with Alonso - they won the Bundesliga title together at Bayer Leverkusen in 2024.\n\nThey have also signed 26-year-old centre-back Maxence Lacroix fromCrystal Palaceon a six-year contract, pending an official announcement, while talks continue over Henderson.\n\nMorgan Rogers, who signed for a club-record Â£117m fromAston Villaearlier this month, is relatively experienced, despite having just turned 24.\n\nThe club have also signed 21-year-old full-back Marco Palestra from Atalanta.\n\nWelbeck, formerly ofManchester UnitedandArsenal, has hit 90 goals in 400 top-flight appearances - and is the leading Premier League scorer atBrighton, who he joined on a free transfer from Watford in 2021.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5333_1",
+            "category": "england",
+            "type": "News",
+            "title": "Birmingham & Preston - Barcelona's unlikely UK camp",
+            "bullets": [
+              "Barcelona will be training at St George's Park this week and taking on Championship sides Birmingham...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barcelona will be training at St George's Park this week and taking on Championship sides Birmingham City and Preston.",
+            "fullText": "Hansi Flick led Barcelona to the Spanish title by eight points last season\n\nAs Premier League clubs jet off to the Far East and the United States, Barcelona have made the Midlands their home.\n\nManager Hansi Flick has brought his La Liga champions to St George's Park in Staffordshire for a training camp this week as their pre-season preparations continue.\n\nBarca's eight World Cup winners - including Lamine Yamal - remain on a break after their triumph with Spain this month, but new signing Karim Adeyemi is included after his summer move from Borussia Dortmund.\n\nIn addition to Lamine Yamal, his Spain team-mates Ferran Torres, Joan Garcia, Eric Garcia, Pau Cubarsi, Gavi, Dani Olmo, Pedri and Lamine Yamal are also on a post-World Cup break.\n\nTwo friendlies against Championship sides await - against Birmingham at St Andrew's on Friday, and against Preston behind closed doors at St George's Park on Monday - with the knock-on effects of the World Cup playing a part in the organising of those matches.\n\nLionel Messi trained at St George's Park during Barcelona's last visit 12 years ago\n\nBarcelona ruled out a long-haul tour to the United States because of the World Cup schedule.\n\nAs well as missing their Spain stars, they are without another six senior internationals, including England's Anthony Gordon following his Â£80m move from Newcastle.\n\nBrazil's Raphinha, France's Jules Kounde and Uruguay's Ronald Araujo are absent too.\n\nHaving opted out of a transatlantic tour, Barca had spent a large part of the year looking at their options, trying to work around the fact that their players return at different times because of the World Cup.\n\nBirmingham had been speaking to the club for a number of months as they looked to boost their own profile.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5333_2",
+            "category": "england",
+            "type": "News",
+            "title": "FA joins criticism of Fifa plan to sell off World Cup stakes to private investors",
+            "bullets": [
+              "FA in talks with other European associationsOptions include boycott and potential breakawayMembers g...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "FA in talks with other European associationsOptions include boycott and potential breakawayMembers given 19 September deadline to opt inThe Football Association has joined Uefa in condemning Fifa’s plan to sell off stakes in the World Cup to private investors.In a statement released on Wednesday morning the FA said it was yet to see any details of the controversial proposals, and expressed grave concerns over Fifa’a governance. Continue reading...",
+            "fullText": "The Football Association has joined Uefa in condemning Fifa’s plan to sell off stakes in theWorld Cupto private investors.\n\nIn a statement released on Wednesday morning the FA said it was yet to see any details of the controversial proposals, and expressed grave concerns over Fifa’a governance.\n\nThe FA chair, Debbie Hewitt, is one of eight Fifa vice-presidents and watched many World Cup matches alongside the president,Gianni Infantino, yet appears to have been shut out of any discussions over plans that are at an advanced stage.\n\nFifa has given its 211 member associations a deadline of 19 September to decide whether to apply for an initial payment of $20m (£15m) for the proceeds of a 20% sale of a new commercial entity – Fifa Forward Enterprise (FFE) – that has been valued at $20bn (£15bn).\n\nThe FA’s statement is significant as it is the first time the governing body has criticised Fifa under Infantino, having stayed quiet throughoutthe Folarin Balalogun affairduring the World Cup and endorsed the award of the 2034 tournament to Saudi Arabia.\n\nThe FA is understood to have held talks with Uefa and other European associations, who are determined to kill the plan, with all options, including a boycott of Fifa tournaments and a potential breakaway, thought to be on the table.\n\n“We were completely unaware of this proposal and have no substantive details, including what the proposition actually is, and what conditions are attached,” said the FA in a statement. “Based on the limited information, we are deeply concerned about the lack of process and governance to get to this point, and the apparent substance and principles involved. When the proposal is shared in the full and transparent way now promised by Fifa, we will make our views clear, and comment further.”\n\nThe FA’s statement followed a similarly strong release from Concacaf, which is particularly significant given that the North, Central American and Caribbean confederation has just delivered the most lucrative World Cup in history for Fifa, which produced revenues of $15bn.\n\nThe Concacaf president, Victor Montagliani, was instrumental in winning the joint US, Mexican and Canadian bid for 2026, but was also kept in the dark over Fifa’s plans.\n\n“Concacaf was only made aware of this matter through media reports and, subsequently, via a media release,” Concacaf said in a statement released to the Guardian. “We are deeply concerned by the lack of due process.\n\n“We share the disappointment of many within our region and the game that this level of detail has been designed and shared publicly before any discussion with the relevant governance bodies and stakeholders has taken place.\n\n“As leaders within football, we are the custodians of the game. Collectively, Fifa, the confederations and every member association have a responsibility to always act in the best interests of the sport. Every decision we make must be guided by good governance, robust processes and long-term stewardship.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5333_3",
+            "category": "england",
+            "type": "News",
+            "title": "Where all 20 Premier League clubs should strengthen before the season",
+            "bullets": [
+              "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeperBy Opta AnalystDeclan Rice was worked to the bone by Arsenal last season, playing 4,456 minutes in all competitions. This showed at points during the World Cup, when the midfielder’s body looked on the verge of breaking down. Arsenal need high-quality reinforcements in the centre of the pitch so Rice can occasionally have a rest. Christian Nørgaard struggled to get on to the park last season, with Mikel Arteta seemingly not trusting the former Brentford captain. An extra midfield option could prove crucial to Arsenal retaining their crown. Continue reading...",
+            "fullText": "Manchester United and Arsenal need midfielders, Liverpool should sign a winger and Chelsea require a goalkeeper\n\nDeclan Rice was worked to the bone by Arsenal last season, playing 4,456 minutes in all competitions. This showed at points during the World Cup, when the midfielder’s body looked on the verge of breaking down. Arsenal need high-quality reinforcements in the centre of the pitch so Rice can occasionally have a rest. Christian Nørgaard struggled to get on to the park last season, with Mikel Arteta seemingly not trusting in the former Brentford captain. An extra midfield option could prove crucial to Arsenal retaining their crown.\n\nAston Villa have finished in the top seven for the last four seasons andthey won the Europa League last season. They need more depth in the squad to establish themselves among the Premier League’s elite permanently, but may lose left-back Lucas Digne to Paris Saint-Germain. Ian Maatsen is a fine player but he cannot play every week in a season that includes a Champions League campaign, hence Villa’s interest in signing Pervis Estupiñán from Milan.\n\nAdam Smith is a Bournemouth legend who has made more than 400 appearances for the club but he is 35 years old. Max Aarons and Julián Araujo were signed to replace him but, for one reason or another, things have not worked out for them. And Álex Jiménez has gone out on loan to Fiorentina. Marco Rose needs to make a statement signing at right-back so Smith can finally rest.\n\nBrentford have already addressed their biggest weaknesses, but they could do with an upgrade at left-back. Rico Henry has struggled for fitness and form since suffering a horrific injury three years ago. He played 30 games in all competitions last season but made four errors leading to shots – the joint most of any Brentford player. Reinforcing the left flank would also free up Keane Lewis-Potter to play further forward if Keith Andrews wants to utilise him more on the wing.\n\nBrighton will have been planning for James Milner’s retirement and Pascal Gross’s ageing legs for a long time. Only six midfielders over the age of 34 played in thePremier Leaguelast season, and two of them played for Brighton. They are thin in the middle of the park and there’s also the possibility of more departures. Carlos Baleba is frequently linked with a move and Yasin Ayari’s impressive performances at the World Cup may have caught someone’s eye. Nobody scored more goals from outside the penalty area at the tournament than the Sweden midfielder. Brighton could do with someone else in there even if Baleba and Ayari stay.\n\nChelsea have spent more than £200m this summer –£117m of it on Morgan Rogers– but still have several problem positions. They seem keen to sign a centre-back, and should add depth in central midfield and on the left wing, but a goalkeeper is where the most urgent attention is needed. Robert Sánchez has never truly convinced. Since he joined in August 2023, he ranks second in the Premier League for both errors leading to shots (17) and errors leading to goals (seven). Of the worst 10 culprits in both metrics, Sánchez has made the fewest appearances and played the fewest minutes. Mike Penders has arrived from Strasbourg but, at 20, he is one for the future. Xabi Alonso does not want to start his tenure worrying about the reliability of his first-choice goalkeeper.\n\nThere are a lot of unknowns for Coventry as they return to the Premier League for the first time in 25 years, not least how well centre-forwards Haji Wright and Ellis Simms will take to leading the line against the best defences in England. But the biggest unknown of all is who will be between the sticks, because Coventry do not have a first-choice goalkeeper. They want to make Carl Rushworth’s loan deal permanent, but have not been able to agree a fee with Brighton. Only Bristol City keeper Radek Vitek (+8.5) prevented more goals with his saves in the Championship last season than Rushworth (+8.2). Without him, there’s a big hole that needs filling.\n\nPierre Sage used a back three in all of Lens’ league games last season, so it’s likely that Crystal Palace will continue to employ the 3-4-2-1 formation that served them so well under Oliver Glasner. They will need more depth at centre-back, though. Having lost Marc Guéhi to Manchester City in January, their Premier League win rate last season dropped from 35% withthe England international starting to 22.2% withouthim. Jaydee Canvot is an adequate replacement, but Palace are still short on numbers at the back. If Maxence Lacroix also leaves the club, their need for another centre-back will become even starker.\n\nSéamus Coleman’s 17-year stay at Everton has come to an end and Nathan Patterson is also expected to depart, meaning Jake O’Brien is likely to be their only remaining recognised right-back. Well, we say “recognised right-back”, but the consensus among Everton fans is that the hulking Republic of Ireland international is not dynamic or technical enough to be a full-back. James Garner has also filled in there from time to time. It has been a problem position for a while now.\n\nFulham need more players who can score goals. Raúl Jiménez (nine) and Harry Wilson (10) accounted for 19 of their 43 Premier League goals (excluding own goals) last season and they have both left on free transfers. No one else scored more than four league goals last season. More will be expected from Rodrigo Muniz (one goal), Samuel Chukwueze (three goals) and Kevin (one goal), but Fulham clearly need greater depth in attack. New manager Álvaro Arbeloa is keen to sign Gonzalo García from Real Madrid but Fulham need at least two new faces.\n\nHull City desperately need to add a few splashes of quality to their attack. Oli McBurnie has the physicality to lead the line, but the 30-year-old needs players to run off him to be effective. Hull have sold Kyle Joseph to Middlesbrough and have not tried to re-sign Joe Gelhardt after his loan, meaning they are light in attack.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5333_4",
+            "category": "england",
+            "type": "News",
+            "title": "Is Kazuyoshi Miura the oldest goalscorer in competitive football history? | The Knowledge",
+            "bullets": [
+              "Plus: UK prime ministers’ football allegiances, top-flight W teams in England and united UnitedsMail...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: UK prime ministers’ football allegiances, top-flight W teams in England and united UnitedsMail us with your all of your questions and answers“Kazuyoshi Miura recently scored in the Emperor’s Cup at the tender age of 59 – is he the oldest goalscorer in football history?” asks Terry Winter.If we were picking an all-time Knowledge XI, ‘King Kazu’ would be in the mix for a place. He’s appeared in various age-related queries over the years, and tales of his exploits always give us hope as we wheeze through middle-age. On Saturday, Miura scored his first competitive goal ⁠in nearly four years as ⁠Fukushima ​United thrashed Iwaki Furukawa 7-0 in the Emperor’s Cup. Continue reading...",
+            "fullText": "Plus: UK prime ministers’ football allegiances, top-flight W teams in England and united Uniteds\n\n“Kazuyoshi Miura recently scored in the Emperor’s Cup at the tender age of 59 – is he the oldest goalscorer in football history?”asks Terry Winter.\n\nIf we were picking an all-time Knowledge XI, ‘King Kazu’ would be in the mix for a place. He’s appeared in various age-related queries over the years, andtales of his exploitsalways give us hope as we wheeze through middle-age. On Saturday, Miura scored hisfirst competitive goal ⁠in nearly four yearsas ⁠Fukushima ​United thrashed Iwaki Furukawa 7-0 in the Emperor’s Cup.\n\nMiura’s goal extended his record for the oldest goalscorer in professional football. These are the oldest goalscorers we could find, butdrop us a lineif you can beat them.\n\n59 years 149 days, Kazuyoshi Miura:Fukushima United 7-0 Iwaku Furukawa, Emperor’s Cup, 25 July 2026\n\n51 years 5 days, Innocent Benza:Herentals College FC 1-2 Hwange Colliery, Zimbabwe Premier Soccer League, 25 May 2023\n\n49 years 208 days, Billy Meredith:Brighton 1-5 Manchester City, FA Cup, 23 February 1924\n\n49 years, 14 days, Stanley Matthews:Stoke City 2-2 Swansea City, FA Cup, 15 February 1964\n\nInnocent Benza, aka IB9 and no we didn’t make that up, was on target when Herentals College FC lost 2-1 to Hwange Colliery in the Zimbabwe Premier Soccer League three years ago. He’s believed to be the oldest top-flight goalscorer. In fact he may have scored a more recent goal, as he was still going strong last season when hereached 200 gamesfor Herentals College FC.\n\nBenza has got another 20 years to go if he wants to become the oldest goalscorer on record, though. In March 2020, Ezzeldin Bahader scored a penalty on his debut for 6th of October SC in the Egyptian Third Division. He was – and you’ll like this – 74 years, 125 days old. For the sake of Portugal’s future World Cup chances, Cristiano Ronaldo should not be made aware of this record.\n\nTop of the tree in women’s football appears to beFormiga, who scored for Brazil against Canada in November 2019 at the age of 41 years, 249 days. She retired soon after,having amassed 234 capsover a 26-year international career.\n\nWith Andy Burnham succeeding Keir Starmer as Labour leader, the UK now has anEverton-supporting prime minister. (A few years ago, he appeared on our own Daniel Harris’s podcast todiscuss the 1995 FA Cup final.)",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5333_5",
+            "category": "england",
+            "type": "News",
+            "title": "Xabi Alonso plays down Welbeck and Henderson moves after Chelsea win",
+            "bullets": [
+              "‘There will be a lot of transfer links, a lot of rumours’Chelsea hit back to beat Western Sydney Wan...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘There will be a lot of transfer links, a lot of rumours’Chelsea hit back to beat Western Sydney Wanderers 6-4Xabi Alonso refused to confirm Chelsea are interested in signing the veterans Danny Welbeck and Jordan Henderson after his first game in charge of the team, a 6-4 pre-season victory against Western Sydney Wanderers on Tuesday, but said he was looking to build a squad that had “proper balance”.Chelsea are understood to be in talks over a surprise move to sign the 35-year-old Welbeck from Brighton, with the club also reportedly interested in signing the 36-year-old Henderson from Brentford. The links to two Premier League stalwarts reflects a revised transfer strategy under Alonso, with Chelsea seeking to recruit more experienced players into their squad as opposed to focused solely on signing young players, often tying them to lengthy contracts. Continue reading...",
+            "fullText": "‘There will be a lot of transfer links, a lot of rumours’\n\nChelsea hit back to beat Western Sydney Wanderers 6-4\n\nXabi Alonso refused to confirm Chelsea are interested in signing theveterans Danny Welbeck and Jordan Hendersonafter his first game in charge of the team, a 6-4 pre-season victory against Western Sydney Wanderers on Tuesday, but said he was looking to build a squad that had “proper balance”.\n\nChelsea are understood to be in talks over a surprise move to sign the 35-year-old Welbeck from Brighton, with the club also reportedly interested in signing the 36-year-old Henderson from Brentford. The links to two Premier League stalwarts reflects a revised transfer strategy under Alonso, withChelseaseeking to recruit more experienced players into their squad as opposed to focused solely on signing young players, often tying them to lengthy contracts.\n\n“I’m sure that from today to the last day of the transfer [window] there will be a lot of links, a lot of rumours, so to be commenting on all of them, it’s going to be a hard task,” Alonso said. “But for sure, we need proper balance in terms of qualities, in terms of positions, in terms of balance. We want to have a complete squad and we want to make a good team.”\n\nThe new Chelsea manager fielded a youthful side at the Accor Stadium at Sydney Olympic Park in Homebush, with Liam Delap and Tosin Adarabioyo the most experienced members of the starting lineup. Alonso waited until the 63rd minute to bring on a host of star names, including Cole Palmer and João Pedro. The Brazilian forward, who missed out on a place in Carlo Ancelotti’s World Cup squad, made a significant impact off the bench, scoring a hat-trick in just nine minutes as Chelsea took control of the game against their A-League opponents.\n\nJoão Pedro scored 20 goals during an excellent debut season for Chelsea, havingarrived from Brighton for £60m 12 months ago, and asked about the player’s mood before the upcoming campaign, Alonso said: “Very hungry. João is really, really determined to have a great season. He wants to, after a great last year, when he scored many goals. He wants to keep scoring more and more.”\n\nA number of Chelsea’s youngsters showed plenty of promise, with the 17-year-old Dastan Satpayev opening the scoring after six minutes. The Kazakh forward is yet to sign officially for the club and is playing in pre-season as a triallist. His opening goal came from a defence-splitting pass from another teenager, Ryan Kavuma-McQueen, with Satpayev smashing the ball home at the near post.\n\nChelsea’s back four struggled in the first half against a lively Wanderers frontline and their reported new set-piece coach, Aston Villa’s Austin MacPhee, will have plenty to work on judging by the ease with which Brandon Borrello and Anthony Pantazopoulos won headers from a corner as the latter scored at the back post for the hosts.\n\nThe Wanderers took the lead through Aydan Hammond before a lovely finish from the Portuguese midfielder Dário Essugo made it 2-2 at the break. The goals kept coming in the second half when the left-back Landon Emenalo, who impressed going forward, saw his clearance deflected into the path of Dylan Scicluna, who put the Sydney side 3-2 ahead. Alonso then turned to his bench and his substitutions made an immediate impact. João Pedro held off a number of challenges on the edge of the box before pulling the ball back to Jamie Gittens, who fired home from close range.\n\nKick off your evenings with the Guardian's take on the world of football\n\nBut this topsy-turvy game, which felt like England’s third-place playoff against France at the World Cup andfinished with the same scoreline, provided more entertainment as the Australian side went ahead for a third time after Estêvão Willian lost possession on the edge of his own area. Awan Lual was on hand to slide the ball through Robert Sánchez’s legs to put his side 4-3 ahead.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5333_6",
+            "category": "england",
+            "type": "News",
+            "title": "Roberto Mancini returns as Italy head coach with Claudio Ranieri named technical director",
+            "bullets": [
+              "Mancini replaces Gattuso for second spell in chargeRanieri takes over from Paolo Maldini in overseei...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mancini replaces Gattuso for second spell in chargeRanieri takes over from Paolo Maldini in overseeing roleRoberto Mancini has agreed to be Italy head coach for a second time, the president of the Italian Football ​Federation (FIGC), Giovanni Malagò, said on Tuesday, also confirming Claudio Ranieri would take over as technical director.Mancini replaces Gennaro Gattuso, who ⁠left the post in April after Italy failed to qualify for a third World Cup in succession, and returns to a job he held between 2018 and 2023. He led the national team to European Championship glory in 2021 with a penalty shootout victory over England at Wembley but then failed to reach the 2022 World Cup and a slow start to Euro 2024 qualifying. In total, Mancini managed Italy for 58 matches during his first spell and at club level has managed Inter, Fiorentina and Manchester City, where he spent three years and guided them to their first Premier League title in 2011-12. Continue reading...",
+            "fullText": "Mancini replaces Gattuso for second spell in charge\n\nRanieri takes over from Paolo Maldini in overseeing role\n\nRoberto Mancini has agreed to be Italy head coach for a second time, the president of the Italian Football ​Federation (FIGC), Giovanni Malagò, said on Tuesday, also confirming Claudio Ranieri would take over as technical director.\n\nMancini replaces Gennaro Gattuso, who ⁠left the post in April after Italy failed to qualify for a third World Cup in succession, and returns to a job he held between 2018 and 2023. He led the national team toEuropean Championship glory in 2021with a penalty shootout victory over England at Wembley but then failed to reach the 2022 World Cup and a slow start to Euro 2024 qualifying. In total, Mancini managed Italy for 58 matches during his first spell and at club level has managed Inter, Fiorentina and Manchester City, where he spent three years and guided them to theirfirst Premier League title in 2011-12.\n\n“Mancini is the coach,” Malago ‌said on Tuesday. “I believed that the best person to become head coach was ‌Roberto Mancini.”\n\nThe former FIGC technical director ‌Paolo Maldini and his adviser, Leonardo, resigned from their roles on Monday after Andrea Pirlo’sappointment as head coach was blockedbecause of the former midfielder’s ties to a Russian betting firm. Pep Guardiola was the association’s first choice but turned down the job last month.\n\nKick off your evenings with the Guardian's take on the world of football\n\nRanieri replaces ⁠Maldini. The 74-year-old, wholed Leicester City to the Premier League title in ​2016, will oversee technical operations and ​elite football development across Italy’s national team structures. “I needed someone with ​whom I could share ‌the decision on ​the coach, because ​without that shared view my reasoning would have carried little weight,” Malago said. “So consequently, we have a new coach and a new technical director for Italy.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-29 @ 00:39:18 EDT",
+  "lastUpdated": "2026-07-29 @ 08:53:33 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
