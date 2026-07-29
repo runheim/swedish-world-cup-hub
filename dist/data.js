@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames",
-      "link": "https://www.theguardian.com/football/2026/jul/29/uefa-show-backbone-concrete-action-fifa-infantino-world-cup-plans"
-    },
-    {
       "text": "⚽ USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
       "link": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status"
     }
@@ -9314,11 +9310,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5150_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
+            "bullets": [
+              "Deal would extend Argentinian through 2030 World CupCoach would stand to earn ‘significantly’ morePo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Deal would extend Argentinian through 2030 World CupCoach would stand to earn ‘significantly’ morePochettino’s tenure has been mixed bag of resultsUSMNT head coach Mauricio Pochettino and US Soccer are “in the final stages” of finalizing an agreement for a new contract through the 2030 World Cup, multiple sources briefed on ongoing negotiations have told the Guardian. Those sources requested anonymity because they were not authorized to speak on the matter.Pochettino was brought on as US head coach in September 2024, tapped to lead the team through the 2026 World Cup, where the Americans suffered a disappointing exit in the last 16. Both sides had expressed interest in potentially extending the deal in the run-up to the tournament, with US Soccer chief executive JT Batson saying the federation was “excited” about the potential of building on progress made during Pochettino’s initial spell as head coach. Continue reading...",
+            "fullText": "Deal would extend Argentinian through 2030 World Cup\n\nUSMNT head coachMauricio Pochettinoand US Soccer are “in the final stages” of finalizing an agreement for a new contract through the 2030 World Cup, multiple sources briefed on ongoing negotiations have told the Guardian. Those sources requested anonymity because they were not authorized to speak on the matter.\n\nPochettino was brought on as US head coach in September 2024, tapped to lead the team through the 2026 World Cup, where the Americans suffereda disappointing exitin the last 16. Both sides had expressed interest in potentiallyextendingthe deal in the run-up to the tournament, with US Soccer chief executive JT Batson saying the federation was “excited” about the potential of building on progress made during Pochettino’s initial spell as head coach.\n\nTelemundo’s Andres Cantor was first to report progress on recent contract talks.\n\nPochettino had told Spanish-language media on 17 July that a decision on his future was coming “next week”, but neither the federation nor Pochettino himself has spoken on the matter. Sources said on Tuesday that both sides were eager to get a deal over the line so focus could be turned towards the USMNT’s next slate of friendlies, due to be played in late September and early October.\n\nPochettino’s tenure as US coach has been a mixed bag. Early results, including a fourth-place finish in the Nations League and losing to Mexico in a Gold Cup final were balanced by more respectable results, including the US’s best-ever group-stage finish at a World Cup. To some, Pochettino’s initial run as US coach will be remembered for one thing alone: the team’s 4-1 humiliation at the hands of Belgium in the last 16 of the World Cup.\n\nFinancial details of Pochettino’s potential new deal have not yet surfaced, though one source close to the ongoing negotiations said that the Argentinian stands to earn “significantly” more than his previous deal. Pochettino earned roughly $6m per year as US coach, notwithstanding performance bonuses, with a $2.5m signing bonus. That number already made Pochettino the third-highest-earning international coach in global soccer. It was partially subsidized by philanthropic support, most notably from hedge fund billionaire Ken Griffin.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nPochettino, who had never coached internationally prior to taking over the USMNT, continued to attractwidespread interestduring his tenure, most notably from Premier League side Tottenham Hotspur, where he’d previously enjoyed success. The Argentinian was also linked with Real Madrid, though both clubs have since filled their coaching vacancies.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-29 @ 12:21:52 EDT",
+  "lastUpdated": "2026-07-29 @ 15:52:00 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
