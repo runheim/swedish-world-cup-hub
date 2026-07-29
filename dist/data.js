@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames",
+      "link": "https://www.theguardian.com/football/2026/jul/29/uefa-show-backbone-concrete-action-fifa-infantino-world-cup-plans"
     }
   ],
   "timeline": {
@@ -9263,11 +9247,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5714_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Uefa has to show backbone: concrete action can make Fifa’s World Cup plans untenable | Nick Ames",
+            "bullets": [
+              "European football has shown an increased willingness to talk tough with Fifa but words can only be w...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "European football has shown an increased willingness to talk tough with Fifa but words can only be wielded so many times• FA joins criticism of Fifa plan to sell off World Cup stakesAs the World Cup neared its conclusion, one leading figure in European football pondered how Gianni Infantino might attempt to rinse away the damaging stain of the Folarin Balogun scandal. It all came down to money. “He will just announce more funds for everyone,” was the gist, although the tournament passed without any explanation of how Fifa would carve up its record $15bn (£11.2bn) haul.That was the tip of the iceberg. Infantino’s plan to sell chunks of the World Cup to private investors, announced nine days after the final, has sent shockwaves around the sport and left senior personnel scrambling. There is little time for a coordinated response given Fifa, at the height of what passes for football’s holiday period, has given FAs until 19 September to decide whether to accept the initial $20m (£15m) payment that would effectively count as endorsement of the new scheme. Continue reading...",
+            "fullText": "European football has shown an increased willingness to talk tough with Fifa but words can only be wielded so many times\n\nFA joins criticism of Fifa plan to sell off World Cup stakes\n\nAs the World Cup neared its conclusion, one leading figure in European football pondered how Gianni Infantino might attempt to rinse away the damaging stain ofthe Folarin Balogun scandal. It all came down to money. “He will just announce more funds for everyone,” was the gist, although the tournament passed without any explanation of how Fifa would carve up its record $15bn (£11.2bn) haul.\n\nThat was the tip of the iceberg. Infantino’s plan tosell chunks of the World Cup to private investors, announced nine days after the final, has sent shockwaves around the sport and left senior personnel scrambling. There is little time for a coordinated response given Fifa, at the height of what passes for football’s holiday period, has given FAs until 19 September to decide whether to accept the initial $20m (£15m) payment that would effectively count as endorsement of the new scheme.\n\nThe reaction must come quickly. Perhaps, when Uefa assesses its next move, it will look back to 2021 and remember the credit it happily banked inblocking the proposed European Super League. Fifa’s plan, which could allow private investors a say in how and when its tournaments are run, is potentially more seismic and global in scale. If football’s future has been on a ticking clock under Infantino, the time is now one minute to midnight.\n\nUefa’s speed in responding to the plan was of a piece with its renewed appetite, honed over a number of run-ins over the past 15 months, to stick the boot intoFifa. “This crosses a line that football’s governing institutions should never cross,” it said, although anyone feeling a sense of deja vu needed only to scroll back three weeks. On 6 July another Uefa statement said the shelving of Balogun’s suspension “crossed a red line”. These are strong, accurate words but they can only be wielded so many times.\n\nInfantino can rush his proposals through by counting on votes from the overwhelming number of FAs, primarily based outside Europe, who pledge fealty to his administration. But a show of backbone from football’s most powerful continent, a sporting behemoth that has eaten up any competition on the pitch and through the financial clout of its institutions, would be a major blow to Fifa. It would only take concrete action from a clutch of Europe’s major nations, with their governments in lockstep, to render any plan to sell off football’s crown jewels untenable.\n\nWho will put their heads above the parapet? This is a moment to remember that,as the Guardian revealed in mid-July,more than 200 of Fifa’s 211 members have already submitted letters in support of his candidacy for re-election early next year, which appears a fait accompli. Most of those resisting significant pressure to offer backing are from Europe, with Germany the highest-profile holdout. But England’s FA, which is looking to rubber-stamp its hosting of the 2035 Women’s World Cup, was quick out of the blocks to offer its own endorsement well before this summer.\n\nThen there are cases such as Finland, whose FA president, Ari Lahti, said in June that his country aimed “not to be an eyesore” by refusing to back Infantino. It is a common stance, even among federations who are vocal in private about their disgust for Fifa’s trampling over norms and proximity to the Trump administration. Countries of all sizes now have a duty to put the beauty contest on hold.\n\nAny talk of boycotting future World Cups, which would surely have to include the women’s edition in Brazil next year, is complicated by a section of Fifa’s own statutes that says its members are obliged to take part in its competitions. The only way to avoid financially prohibitive sanctions may be to threaten the most radical step of all: a withdrawal from Fifa and the creation of a new governance model for football.\n\nUefa’s position may be made trickier by its close relationship to the thus far taciturn European Football Clubs (EFC), which would like to set up a joint venture with Fifa to run the Club World Cup. EFC andUefaalready run a joint venture, UC3, that operates the commercial aspect of Uefa competitions but one of the key differences from Fifa’s proposal is that it does not involve private capital.\n\nSomehow everyone must be corralled together if Infantino is to be tackled. Another way would be to remove some wind from Infantino’s sails by putting up a serious electoral opponent. After the Balogun affair, conversations with figures at all levels of the sport speculated whether Uefa might endorse its own candidate to run for the Fifa presidency in March. Consensus suggested that it would be too soon; that this will be a period of positioning for 2031 when, according to Fifa’s current rules, Infantino must stand aside.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-29 @ 00:40:18 EDT",
+  "lastUpdated": "2026-07-29 @ 08:57:17 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
