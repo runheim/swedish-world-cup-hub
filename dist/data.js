@@ -4,16 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Defender Stones joins Inter Milan on free transfer",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ The winner who played for Tuchel - potential Newcastle boss Jaissle",
       "link": "https://www.bbc.co.uk/sport/football/articles/cy8eglx37gdo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ France defender Maxence Lacroix joins ‘beautiful club’ Chelsea from Crystal Palace",
+      "text": "⚽ Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
       "link": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup"
     },
     {
-      "text": "⚽ Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
-      "link": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos"
+      "text": "⚽ FA raises minimum ban for racism and other forms of discrimination to 10 matches",
+      "link": "https://www.theguardian.com/football/2026/jul/30/fa-raise-minimum-ban-for-discrimination-to-10-matches"
+    },
+    {
+      "text": "⚽ Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
+      "link": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
+    },
+    {
+      "text": "⚽ Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
+      "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans"
     },
     {
       "text": "⚽ Eubank Jr's negotiations for Nigeria ring return 'coming along nicely'",
@@ -38204,11 +38216,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5941_0",
+            "category": "england",
+            "type": "News",
+            "title": "Defender Stones joins Inter Milan on free transfer",
+            "bullets": [
+              "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and sign...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+            "fullText": "England defender John Stones has joined Italian champions Inter Milan on a free transfer and signed a two-year contract.\n\nThe 32-year-old leftManchester Citywhen hisdeal expired at the end of Juneafter 10 successful years at the Premier League club.\n\nStones said he had \"lived all my dreams out\" after helping City win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nSince he became a free agent, the centre-back has attracted interest from clubs across Europe, includingChelseaand Juventus.\n\nInter Milan were crowned Serie A champions for the 21st time last season and will start their title defence against newly promoted Monza on Saturday, 22 August.\n\nFormer Barnsley defender Stones made 295 appearances for City, scoring 19 goals, afterjoining from Everton for Â£47.5min 2016.\n\nHe has won 93 caps and was part of the England squad who finished third at this summer's World Cup, starting the quarter-final victory against Norway and 2-1 semi-final defeat by Argentina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5941_1",
+            "category": "england",
+            "type": "News",
+            "title": "The winner who played for Tuchel - potential Newcastle boss Jaissle",
+            "bullets": [
+              "German Matthias Jaissle is the favourite to replace Eddie Howe at Newcastle - and has a reputation f...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "German Matthias Jaissle is the favourite to replace Eddie Howe at Newcastle - and has a reputation for attacking football and winning trophies.",
+            "fullText": "Matthias Jaissle has managed clubs in Austria and Saudi Arabia\n\nMatthias Jaissle is the surprise favourite to take over asNewcastlehead coach as Eddie Howe's replacement - and would arrive with a strong recent record of success.\n\nHowe, 48,is set to leave St James' Parkafter nearly five years. He had been in charge since November 2021 when he replaced Steve Bruce and took the Magpies to their first domestic trophy in 70 years by winning the Carabao Cup in 2025.\n\nFormer RB Salzburg boss Jaissle, currently in charge of Saudi Arabian side Al-Ahli, is now expected to come in.\n\nThe 38-year-old German was a centre-half, progressing through the Stuttgart youth system before playing senior football for Hoffenheim from 2007 to 2014.\n\nHe represented Germany at Under-21 level, but was forced to retire through injury at the age of 25.\n\nJaissle took his first coaching steps as assistant manager of Danish club Brondby between 2017 and 2019. He then took over RB Salzburg's Under-18 academy team before becoming a head coach for the first time at Liefering in Austria's second tier.\n\nHe guided them to a second-placed finish, the club's joint best-ever position, and that achievement helped him become RB Salzburg manager in 2021, replacing Jesse Marsch, who would later manageLeeds Unitedand then Canada at the 2026 World Cup.\n\nIn two seasons with RB Salzburg, Jaissle won the Austrian Bundesliga twice and also the Austrian Cup once.\n\nTheir team included Benjamin Sesko and Brenden Aaronson, who now play in the Premier League withManchester UnitedandLeeds Unitedrespectively, and German forward Karim Adeyemi, now at Barcelona.\n\nJaissle joined Saudi club Al-Ahli in 2023 and led them to consecutive Asian Champions League titles in 2025 and 2026. Such success would have been noted byNewcastle's Saudi ownership in the event of Howe leaving St James' Park.\n\nMagpies supporters will be encouraged by Jaissle's methods - his teams play high-pressing attacking football. He demands they show intensity and force turnovers as high up the pitch as possible.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5942_2",
+            "category": "england",
+            "type": "News",
+            "title": "Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
+            "bullets": [
+              "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club M...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club Maxence Lacroix has joined Chelsea from Crystal Palace to become the club’s fifth signing of the summer. The France international, who won the FA Cup and Conference League with Palace, was the Blues’ main defensive target of the window.Lacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat by England. Continue reading...",
+            "fullText": "Maxence Lacroix has joined Chelsea fromCrystal Palaceto become the club’s fifth signing of the summer. The France international, who won the FA Cup and Conference League with Palace, was the Blues’ main defensive target of the window.\n\nLacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat by England.\n\n“Everyone knows the legend ofChelsea, its tradition of winning, and to be a part of that is a proud moment. I think it’s the best move for me because it’s the best club in the world. When I spoke with the manager, I saw that we have the same direction and desire for this club.\n\n“We want to win. When you see the quality of the players here, everything we have around the club, it’s something that we can achieve. The ambition is to lift trophies, and I can’t wait to contribute.”\n\nChelsea had been looking to add experience to their back line havingmissed out on Rennes’ Jérémy Jacquetin January, with the player opting to join Liverpool. Levi Colwill, who is considered to be a key part of the club’s long-term plans, missed almost all of last season with an anterior cruciate ligament injury, with Wesley Fofana and Trevoh Chalobah forming the central-defensive partnership for much of the campaign.\n\nAfter a dismal season that saw the club finish 10th, the club’s hierarchy has acknowledged a change in recruitment policy is needed, with a refocusing away from young, inexperienced players towards ones that can help the team compete for the title.\n\nLacroix, who made 55 appearances last season for Palace, has been one of the league’s most consistent defenders since moving to Selhurst Park from Wolfsburg in 2024.\n\nThe Blues confirmed theclub-record arrival of Aston Villa forward Morgan Rogerslast week, and have also added Atalanta defender Marco Palestra, striker Emmanuel Emegha from Strasbourg and Sporting Lisbon’s Geovany Quenda.\n\nChelsea also look set to signBrighton’s Danny Welbeck and Jordan Hendersonafter his contract with Brentford was terminated.\n\nKick off your evenings with the Guardian's take on the world of football\n\nJohn Stoneshas joined Inter on a two-year contract, the Serie A club have announced.\n\nThe England centre-back was a free agent after leaving Manchester City and had attracted interest from clubs across Europe.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5942_3",
+            "category": "england",
+            "type": "News",
+            "title": "FA raises minimum ban for racism and other forms of discrimination to 10 matches",
+            "bullets": [
+              "Discrimination ‘continues to be challenge’Current minimum ban is six matchesThe FA is to increase th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Discrimination ‘continues to be challenge’Current minimum ban is six matchesThe FA is to increase the minimum punishment for discriminatory behaviour to 10 matches, in an attempt to counteract behaviour it says “continues to be a challenge across the game”.The changes will come into force at the start of the new season and will apply to players and other football participants who are found guilty of an “aggravated breach” of the FA’s disciplinary rules on improper conduct, effectively actions that included discriminatory behaviour against any protected characteristics. Currently the minimum suspension for such a breach is six matches. Continue reading...",
+            "fullText": "The FA is to increase the minimum punishment for discriminatory behaviour to 10 matches, in an attempt to counteract behaviour it says “continues to be a challenge across the game”.\n\nThe changes will come into force at the start of the new season and will apply to players and other football participants who are found guilty of an “aggravated breach” of the FA’s disciplinary rules on improper conduct, effectively actions that included discriminatory behaviour against any protected characteristics. Currently the minimum suspension for such a breach is six matches.\n\nAcross the 2025-26 season 10 individuals were found guilty of aggravated breaches, with their punishments, decided by independent Regulatory Commissions, ranging from six to nine matches. Under the new rules a punishment of fewer than 10 matches will only be allowed if sufficient mitigating factors have been presented, and the individual themselves has pleaded guilty to the charge.\n\nAmong the cases heard involved the Preston’s Milutin Osmajic, in which the Montenegrin was found to have made racist remarks to the Burnley player Hannibal Mejbri during a Championship match. Osmajic, who denied making the remarks, was served with a nine-match ban and given a minimum fine of £20,000. There has been growing concern that the behaviour of players in the professional game has trickled down the pyramid, creating greater problems in the grassroots game.\n\n“We are committed to delivering a game free from discrimination. While significant progress has been made in recent years, discriminatory conduct continues to be a challenge across the game,” the FA said in a statement. “Enhanced measures are necessary to tackle this abhorrent conduct, and our updated sanction guidelines will now require regulatory commissions to impose a standard suspension of at least 10 matches in these circumstances.”\n\nThe new rules do afford commissions some flexibility. Cases that involve aggravated breaches “in writing only or via any communication device” – ie comments made online – could receive a punishment as low as three matches in the event of mitigating factors being accepted. If, however, an individual found to have breached the rules then commits a second offence, bans of over a year could be applied.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5942_4",
+            "category": "england",
+            "type": "News",
+            "title": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
+            "bullets": [
+              "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the projectIt isn’t just football fans and Uefa executives who want to give Gianni Infantino the red card for his plan to sell off 20% of the World Cup to a privately backed commercial enterprise. The Fifa president is also in the crosshairs of the House of Representatives Judiciary Committee in Washington and ranking Democrat member Jamie Raskin. The reason? Infantino’s plan, which is backed by Joshua Kushner’s investment fund, has, for some observers, president Trump’s sticky fingers all over it.Raskin told Politico that Fifa was “going directly into business with the Trump family”, before making reference to the peace prize Infantino awarded the president in December and Fifa’s use of office space in Trump Tower, New York. “Apparently the fake Peace Prize and giant lease with Trump Tower weren’t enough – now Infantino performs a kickback hat-trick by pursuing a multibillion-dollar deal with Jared Kushner’s brother to sell ownership stakes in the World Cup to private investors.” Continue reading...",
+            "fullText": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the project\n\nIt isn’t just football fans andUefa executiveswho want to give Gianni Infantino the red card for his plan to sell off 20% of the World Cup to a privately backed commercial enterprise. The Fifa president is also in the crosshairs of the House of Representatives Judiciary Committee in Washington and ranking Democrat member Jamie Raskin. The reason? Infantino’s plan, which is backed by Joshua Kushner’s investment fund, has, for some observers, president Trump’s sticky fingers all over it.\n\nRaskin told Politico that Fifa was “going directly into business with the Trump family”, before making reference to the peace prize Infantino awarded the president in December and Fifa’s use of office space in Trump Tower, New York. “Apparently the fake Peace Prize and giant lease with Trump Tower weren’t enough – now Infantino performs a kickback hat-trick by pursuing a multibillion-dollar deal with Jared Kushner’s brother to sell ownership stakes in the World Cup to private investors.”\n\nAs is often the case with Trump, the Kushner family is at the centre of any tangled web he weaves. Jared and Joshua’s father, Charles Kushner,convicted of tax evasion, witness tampering, illegal campaign contributions and sentenced to two years in prison, isTrump’s ambassador to Francethough he speaks no French. He was pardoned by Trump in 2020.\n\nJared, married to Trump’s daughter Ivanka, is a Special Envoy for Peace and helped negotiate the Islamabad Memorandum ceasefire with Iran, which has now seemingly collapsed. He was also the man charged with fulfilling Trump’s pledge of bringing the Russia-Ukraine war to an end within 24 hours of him assuming the presidency.\n\nBut at the heart of this and once again keeping influence very much within the family is Jared’s younger brother, Joshua, 41, who has established various private investment funds including Thrive Eternal, who will be lead investor in Fifa Forward Enterprise, the commercial spin-offInfantino is proposing to sell shares in.\n\nWith Jared having divested his shares in Thrive Capital (the parent company of Thrive Eternal) in 2017 when taking on a role in Trump’s first administration, the familial ties seem especially tight around this project, as intimated by Raskin, who has alreadysummoned Infantino to attend the House judiciary committee. He has also requested Fifa documents related to any gifts and benefits provided to Trump and details of the visitor logs for Fifa’s office space in Trump Tower.\n\nGiven Trump’sboasting that his direct line to Infantinopersuaded Fifa to suspend the USA’s Folarin Balogun’s red card for the World Cup last-16 game against Belgium –the USA lost 4-1– it is an unfortunate look for Infantino that the extended Trump family, through marriage, will be leading the sale of the century, the handing over of substantial control of the World Cup. Some critics say even a 20% minority stake will in effect be a controlling stake if Infantino remains in charge without accountability. Joshua, though, is only following in the footsteps of his older brother Jared in his incredible capacity for dealmaking.\n\nSix months after the end of the first Trump presidency and after having being involved in US negotiations with Saudi Arabia during Trump’s first term, Jared managed to secure £2bn worth of funding for his own investment vehicle, Affinity Fund Management, from the Saudi Public Investment Fund (PIF), which is chaired by Crown Prince Mohammed bin Salman, the de facto ruler of the kingdom.The New York Times reportedthat PIF advisers raised objections about the deal reeling to “the inexperience of the Affinity Fund management” andthat the Kingdom of Saudi Arabia seemed to bear “the bulk of the investment and risk” but the PIF board, chaired by the crown prince, overruled those warning to approve the money.\n\nCoincidentally, Saudi Arabia will be hosting the 2034World Cupin a bid driven by Prince Mohammed. The PIF, also owner of Newcastle United and Aramco, the oil company which is 81% owned by the Kingdom of Saudi Arabia, is Fifa’s newest World Cup sponsor, with deals reportedly worth around $100m a year.\n\nKushner has alwaysdefended the tie-up with the PIF, challenging critics to “point to a single decision we made that wasn’t in the interest of America”. Prince Mohammed was implicated in the murder of US citizen Jamal Khashoggi in Istanbul in 2018, with the United Nationsconcluding that the state of Saudi Arabia was responsiblewhilea US intelligence report, that was released by the former president Joe Biden, concluded that Prince Mohammed “approved an operation … to capture or kill” the Saudi dissident. The Saudi government rejected both reports, calling them “inaccurate”.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5942_5",
+            "category": "england",
+            "type": "News",
+            "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
+            "bullets": [
+              "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
+            "fullText": "Joe Gomez was taken off with muscle problem in a pre-season friendly against Sunderland; the Liverpool defender is expected to miss the Premier League opener against Newcastle, live onSky Sports; Liverpool are light on centre-backs, but are not expected to sign a replacement",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5943_6",
+            "category": "england",
+            "type": "News",
+            "title": "Eubank Jr's negotiations for Nigeria ring return 'coming along nicely'",
+            "bullets": [
+              "Chris Eubank Jr's negotiations to fight in Nigeria this December are \"coming along nicely,\" accordin...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chris Eubank Jr's negotiations to fight in Nigeria this December are \"coming along nicely,\" according to Balmoral Promotions founder Ezekiel Adamu.",
+            "fullText": "Balmoral Promotions founder Ezekiel Adamu has provided further detail on Chris Eubank Jr's potential fight in Nigeria this year; Eubank Jr is considering his next steps after defeat to Conor Benn in November",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-30 @ 12:26:36 EDT",
+  "lastUpdated": "2026-07-30 @ 15:59:43 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
