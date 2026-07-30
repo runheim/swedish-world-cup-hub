@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ USMNT coach Mauricio Pochettino, US Soccer in ‘final stages’ of agreeing on new contract",
-      "link": "https://www.theguardian.com/football/2026/jul/29/mauricio-pochettino-us-soccer-contract-status"
-    },
-    {
       "text": "⚽ Fifa wants more money for its members but that does not guarantee investment | John Duerden",
       "link": "https://www.theguardian.com/football/2026/jul/30/fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment"
     }
@@ -9425,11 +9421,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2623_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Fifa wants more money for its members but that does not guarantee investment | John Duerden",
+            "bullets": [
+              "Asia and Africa are bastions of support for Gianni Infantino but Fifa’s money has not always been we...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Asia and Africa are bastions of support for Gianni Infantino but Fifa’s money has not always been well spent in the regionsFifa’s justification for its proposed plans to sell stakes in the World Cup to private investors is about giving the 211 member associations more money to develop football. It’s safe to say that in the past, funds have done more developing in some places than in others, with millions either going missing or not being used for their original purpose and Fifa too often shutting the stable door after the horse, laden with cash, has ambled out.The reaction has been swift. Uefa has declared its outrage, Concacaf – the North, Central American and Caribbean governing body – has gone for concern and the Asian Football Confederation (AFC) is disappointed at the lack of consultation. From the Confederation of African Football (Caf), there is, as yet, no word. Asia and Africa have over the years provided Gianni Infantino with steadfast support. There were murmurs over the Fifa president’s close relationship with Donald Trump during the World Cup, especially during the Folarin Balogun affair, but extra cash may help prevent anything louder coming out of Kuala Lumpur or Cairo. Continue reading...",
+            "fullText": "Asia and Africa are bastions of support for Gianni Infantino but Fifa’s money has not always been well spent in the regions\n\nFifa’s justification for its proposed plans to sell stakes in the World Cup to private investors is about giving the 211 member associations more money to develop football. It’s safe to say that in the past, funds have done more developing in some places than in others, with millions either going missing or not being used for their original purpose andFifatoo often shutting the stable door after the horse, laden with cash, has ambled out.\n\nThe reaction has been swift. Uefa has declared its outrage, Concacaf – the North, Central American and Caribbean governing body – has gone for concern and the Asian Football Confederation (AFC) is disappointed at the lack of consultation. From the Confederation of African Football (Caf), there is, as yet, no word. Asia and Africa have over the years provided Gianni Infantino with steadfast support. There were murmurs over the Fifa president’s close relationship with Donald Trump during the World Cup, especially during the Folarin Balogun affair, but extra cash may help prevent anything louder coming out of Kuala Lumpur or Cairo.\n\nThe sums on offer are significant – with promises of “over $10bn” (£7.5bn) being redistributed – and could do significant good, especially in countries that lack the infrastructure and facilities the big powers have. In the past, however, there has often been too little oversight too late when checking if the money that flows down from Switzerland actually trickles into all the necessary places around the world. This may not be surprising given that,according to reports, only about a fifth of federations actually return audited accounts detailing how the money is spent.\n\nFor example, between 2015 and 2025, the Nigerian Football Federation (NFF), is believed to have received more than $20m in development grants from Fifa and Caf. In 2024, the chairman of the Professional Footballers Association of Nigeria task force, Harrison Jalla,demanded that the NFF account for the money. “What happened to these funds from Fifa and Caf?” he asked. “All these funds disappeared into thin air and translated into huge debts.”\n\nIn October, it was announced that the Nigerian parliament was to launchaninvestigation into the federation’s activities. Behind the motion was the lawmaker Adedayo Adesola. “There has been a significant absence of visible improvement or grassroots growth in Nigerian football, despite these massive financial interventions,” he said. “There is a need to take decisive action to stop further misuse of public funds by the leadership of NFF.”Last week, the senate committee on sportscriticised the federation for repeatedly failing to honour invitations to account for expenditure.\n\nIn March, Jean-Guy Blaise Mayolas, president of Congo-Brazzaville’s football federation (Fecofoot) wasconvicted on chargesof embezzling $1.3m of Fifa funds. It was claimed that Mayolas had misappropriated much of the money that was expected to be used to fund a training centre, women’s football and Covid relief. In 2019,Fifa banned the Caf executive committee member Musa Bilityfor a decade for “having misappropriated Fifa funds”.\n\nIn Asia, there have been plenty of issues too. In June, Fifasuspended Nepal’s FAdue to third-party interference but football in the Himalayan nation had been in turmoil for years. It had funds cut off by Fifa in 2021 after financial irregularities were discovered. In 2014, the then FA president, Ganesh Thapa, was investigated by Nepal’s anti-corruption agency, the commission for investigation of abuse of authority, but this was put on hold the next year. In 2015, however, hewas banned by Fifa for 10 yearsafter it ruled he had “committed various acts of misconduct over several years”.\n\nIn neighbouring India in 2024, Nilanjan Bhattacharjee, the legal head of the All Indian Football Federation, accused the president, Kaylan Chaubey, of corruption and a lack of transparency in using federation funds, chargesthe latter strongly denied. The AFC asked Bhattacharjee, who was fired for his comments, to submit any evidence. He said he had done so, but so far, there has been no official response from the AFC or the football federation.\n\nKick off your evenings with the Guardian's take on the world of football\n\nIn Bangladesh, more than $7m was allocated between 2016 and 2022 for football projects but only about $620,000 was reportedly used. In 2023, Fifa publisheda reportdetailing the financial irregularities it had found. Abu Nayeem Shohag, general secretary of the Bangladesh Football Federation,was banned from the sport.\n\nFifa said: “Specifically, it is alleged that Mr Shohag – whilst maintaining his position as General Secretary – participated in procurement and payment processes (within the BFF) which were supported with falsified quotations/documentation and subsequently paid for, or expected to be paid for, with FIFA Forward funds.” Shohag, who denied the accusations, appealed and took the case to the court of arbitration for sport but the original decision was upheld in 2024.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-30 @ 08:26:18 EDT",
+  "lastUpdated": "2026-07-30 @ 12:26:30 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
