@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Not so black and white: how Eddie Howe lost control at Newcastle in one summer",
+      "text": "⚽ Not so black and white: how Eddie Howe lost control at Newcastle in one summer | Louise Taylor",
       "link": "https://www.theguardian.com/football/2026/jul/30/not-so-black-and-white-how-one-summer-saw-eddie-howe-lose-control-at-newcastle"
     }
   ],
@@ -14275,11 +14275,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5756_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Not so black and white: how Eddie Howe lost control at Newcastle in one summer | Louise Taylor",
+            "bullets": [
+              "Everything was looking rosy for Howe at St James’ Park until Alexander Isak’s departure led to rushe...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Everything was looking rosy for Howe at St James’ Park until Alexander Isak’s departure led to rushed signings and a messy seasonLast September, David Hopkinson, just installed as Newcastle’s chief executive, perched on a stool at a downstairs corner table in Shearer’s Bar at St James’ Park and between sips of zero alcohol lager, likened Eddie Howe to Bruce Springsteen. According to Hopkinson, Newcastle’s manager was “the Boss” and “the talent”. He conjured up an imaginary scene involving Springsteen asking for M&amp;M’s before a concert and being duly supplied with a dressing room overflowing with the brightly coloured confectionery. The same principle, he said, would apply to “Eddie”, who would e furnished with “whatever he wants”.Six months later, things had changed. In late March, Hopkinson sat around a heavy wooden table in a St James’ Park boardroom and, between sips of coffee, said he did not “have a stance on the manager’s future”. What he could tell assembled reporters was that a recent home defeat by Sunderland “hurt”. It “resonated” and was being taken “seriously”. Given that Newcastle had just lost a Champions League tie 8-3 to Barcelona on aggregate and were en route to finishing 12th in the Premier League, Howe admitted to “sleepless nights” before a summit with the club’s majority Saudi Arabian ownership at Matfen Hall hotel in Northumberland the following month. Continue reading...",
+            "fullText": "Everything was looking rosy for Howe at St James’ Park until Alexander Isak’s departure led to rushed signings and a messy season\n\nLast September, David Hopkinson, just installed as Newcastle’s chief executive, perched on a stool at a downstairs corner table in Shearer’s Bar at St James’ Park and between sips of zero alcohol lager, likenedEddie Howeto Bruce Springsteen. According to Hopkinson, Newcastle’s manager was “the Boss” and “the talent”. He conjured up an imaginary scene involving Springsteen asking for M&M’s before a concert and being duly supplied with a dressing room overflowing with the brightly coloured confectionery. The same principle, he said, would apply to “Eddie”, who would e furnished with “whatever he wants”.\n\nSix months later, things had changed. In late March, Hopkinson sat around a heavy wooden table in a St James’ Park boardroom and, between sips of coffee, said he did not “have a stance on the manager’s future”. What he could tell assembled reporters was that arecent home defeatby Sunderland “hurt”. It “resonated” and was being taken “seriously”. Given that Newcastle had just lost aChampions League tie 8-3 to Barcelona on aggregateand were en route to finishing 12th in the Premier League, Howe admitted to “sleepless nights” before a summit with the club’s majority Saudi Arabian ownership at Matfen Hall hotel in Northumberland the following month.\n\nThe 48-year-old, who only a year earlier had choreographedNewcastle’s Carabao Cup triumph, securing their first domestic trophy since 1955, would win that particular battle. Thanks to a convincing, typically articulate presentation detailing his future tactical plans, Howe was allowed by the visitors from Riyadh to remain in the job he had occupied since November 2021. Even then, however, he suspected he was losing a war that had begun long before Hopkinson’s installation.\n\nIt was an often subliminal conflict about power and control that started when Amanda Staveley, the club’s former co-owner, was ousted in the summer of 2024. Howe had been very much Staveley’s appointment and, given that she was then responsible for running the club on a daily basis, he was permitted considerable say in buying and selling players.\n\nDuring his time in charge of Bournemouth, Howe exerted significant control over all spheres of the organisation, his unwillingness to delegate even extending to proof reading the match programme. In an era when sporting directors rather than managers invariably call the ultimate shots in the Premier League Howe, unusually, enjoyed similar authority at Newcastle. With Andy Howe, his nephew, occupying a senior recruitment role and invitations to visit the team’s training ground issued at Eddie’s discretion, Howe’s word was law.\n\nThat regimen initially served him well. When Paul Mitchell, who succeeded Dan Ashworth as sporting director, suggested alterations to transfer policy and playing style, Howe made his displeasure plain. Within a year Mitchell left. It was June 2025 and with the League Cup won three months earlier the manager had never seemed more secure. Yet that exit of a second sporting director arguably prefaced Howe’s ownfall.\n\nAdmittedly, it was not his fault Alexander Isak forced a £125m move to Liverpool last summer, but Howe was heavily involved in Newcastle signing £240m of largely underachieving talent in a forlorn attempt to compensate for the Sweden striker’s defection. If neither the £69m Nick Woltemade nor the £55m Yoane Wissa were suitable replacements for Isak, Jacob Ramsey and Anthony Elanga often underwhelmed. Only the central defender Malick Thiaw impressed.\n\nMoreover, it had not gone unnoticed in Riyadh that Howe’s unwillingness to sell players exacerbated the ownership’s financial problems at a time when Newcastle’s comparatively low commercial revenues made it a struggle to remain within football’s spending rules. In May, the club entered a Uefa settlement agreement after breaching European investment rules last season. It dictates they must balance the books very carefully for the next three years and explains why their latest sporting director, Ross Wilson,sold Anthony Gordonand Sandro Tonali to Barcelona and Tottenham respectively this summer. Howe was reluctant to lose the pair and became dismayed at the prospect of seeing another key individual in Bruno Guimarães depart for Arsenal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nWilson, who arrived from Nottingham Forest in October, has presided over a marked policy pivot involving signing young players possessing high resale potential. So far this close season Newcastle have acquired four promising yet inexperienced newcomers aged 20 or under in Ewen Jaouen, Bazoumana Touré, Aladji Bamba and Sean Steur. Hopkinson has boasted that Newcastle are aiming to be one “of the best clubs in the world” by 2030 but Howe is not the only one to have detected a disconnect between such lofty expectations and a bold experiment with youth that could easily go badly wrong. Well aware he had remained at Bournemouth a season too long before being sacked in 2020, it seems Howe decided it would be better to jump rather than be pushed, and leave on amicable terms.\n\nIn five years on Tyneside, he improved some players almost beyond recognition – Joelinton and Jacob Murphy in particular – and choreographed an often thrilling brand of football during two Champions League campaigns. At their high tempo, hard-pressing best, Newcastle were gloriously entertaining, but Howe’s team became frequently poor in possession and adept at forfeiting leads. Pace and athleticism seemed prioritised ahead of vision and incision. Like their workaholic manager, Newcastle increasingly resembled a team that had forgotten how to relax and read the game’s nuances.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-30 @ 16:00:16 EDT",
+  "lastUpdated": "2026-07-30 @ 18:57:56 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
