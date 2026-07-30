@@ -4,28 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Henderson nears Chelsea move as Welbeck has medical",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c935lvyeykwo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ The winner who played for Tuchel - potential Newcastle boss Jaissle",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cy8eglx37gdo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Birmingham & Preston - Barcelona's unlikely UK camp",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y3k55m172o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Chelsea complete deal for Crystal Palace and France defender Maxence Lacroix",
+      "link": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup"
     },
     {
       "text": "⚽ Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
       "link": "https://www.theguardian.com/football/2026/jul/29/fifa-open-disciplinary-proceedings-against-argentina-over-falklands-banner-and-final-chaos"
     },
     {
-      "text": "⚽ Gianni Infantino’s big World Cup sale and Fifa’s race to the bottom line",
+      "text": "⚽ Football Daily | Gianni Infantino’s big World Cup sale and Fifa’s race to the bottom line",
       "link": "https://www.theguardian.com/football/2026/jul/29/gianni-infantinos-big-world-cup-sale-and-fifas-race-to-the-bottom-line"
     },
     {
-      "text": "⚽ Where all 20 Premier League clubs should strengthen before the season",
-      "link": "https://www.theguardian.com/football/2026/jul/29/premier-league-clubs-strengthen-season-manchester-united-arsenal-midfielders-city-liverpool-chelsea"
+      "text": "⚽ Norrie into Los Cabos quarter-finals as Osaka advances in Washington",
+      "link": "https://www.skysports.com/tennis/news/12040/13568318/cameron-norrie-reaches-los-cabos-open-quarter-finals-as-naomi-osaka-continues-strong-form-at-dc-open-in-washington"
     },
     {
-      "text": "⚽ Is Kazuyoshi Miura the oldest goalscorer in competitive football history? | The Knowledge",
-      "link": "https://www.theguardian.com/football/2026/jul/29/is-kazuyoshi-miura-oldest-goalscorer-football-history-knowledge"
+      "text": "⚽ Merson: Vini Jr is playing Arsenal",
+      "link": "https://www.skysports.com/football/news/12040/13568179/chelsea-transfer-news-danny-welbeck-and-jordan-henderson-good-for-experience-but-striker-needs-game-time-says-paul-merson"
     }
   ],
   "timeline": {
@@ -38030,11 +38030,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2108_0",
+            "category": "england",
+            "type": "News",
+            "title": "The winner who played for Tuchel - potential Newcastle boss Jaissle",
+            "bullets": [
+              "German Matthias Jaissle is the favourite to replace Eddie Howe at Newcastle - and has a reputation f...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "German Matthias Jaissle is the favourite to replace Eddie Howe at Newcastle - and has a reputation for attacking football and winning trophies.",
+            "fullText": "Matthias Jaissle has managed clubs in Austria and Saudi Arabia\n\nMatthias Jaissle is the surprise favourite to take over asNewcastlehead coach as Eddie Howe's replacement - and would arrive with a strong recent record of success.\n\nHowe, 48,is set to leave St James' Parkafter nearly five years. He had been in charge since November 2021 when he replaced Steve Bruce and took the Magpies to their first domestic trophy in 70 years by winning the Carabao Cup in 2025.\n\nFormer RB Salzburg boss Jaissle, currently in charge of Saudi Arabian side Al-Ahli, is now expected to come in.\n\nThe 38-year-old German was a centre-half, progressing through the Stuttgart youth system before playing senior football for Hoffenheim from 2007 to 2014.\n\nHe represented Germany at Under-21 level, but was forced to retire through injury at the age of 25.\n\nJaissle took his first coaching steps as assistant manager of Danish club Brondby between 2017 and 2019. He then took over RB Salzburg's Under-18 academy team before becoming a head coach for the first time at Liefering in Austria's second tier.\n\nHe guided them to a second-placed finish, the club's joint best-ever position, and that achievement helped him become RB Salzburg manager in 2021, replacing Jesse Marsch, who would later manageLeeds Unitedand then Canada at the 2026 World Cup.\n\nIn two seasons with RB Salzburg, Jaissle won the Austrian Bundesliga twice and also the Austrian Cup once.\n\nTheir team included Benjamin Sesko and Brenden Aaronson, who now play in the Premier League withManchester UnitedandLeeds Unitedrespectively, and German forward Karim Adeyemi, now at Barcelona.\n\nJaissle joined Saudi club Al-Ahli in 2023 and led them to consecutive Asian Champions League titles in 2025 and 2026. Such success would have been noted byNewcastle's Saudi ownership in the event of Howe leaving St James' Park.\n\nMagpies supporters will be encouraged by Jaissle's methods - his teams play high-pressing attacking football. He demands they show intensity and force turnovers as high up the pitch as possible.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2108_1",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea complete deal for Crystal Palace and France defender Maxence Lacroix",
+            "bullets": [
+              "Centre-back signs six-year deal with Xabi Alonso’s sideLacroix is fifth signing of busy summer for c...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Centre-back signs six-year deal with Xabi Alonso’s sideLacroix is fifth signing of busy summer for clubMaxence Lacroix has joined Chelsea from Crystal Palace to become the club’s fifth signing of the summer so far. The France international, who won the FA Cup and Conference League with Palace, has been the Blues’ main defensive target of the window.Lacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat to England. Continue reading...",
+            "fullText": "Centre-back signs six-year deal with Xabi Alonso’s side\n\nMaxence Lacroix has joined Chelsea fromCrystal Palaceto become the club’s fifth signing of the summer so far. The France international, who won the FA Cup and Conference League with Palace, has been the Blues’ main defensive target of the window.\n\nLacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat to England.\n\n“Everyone knows the legend ofChelsea, its tradition of winning, and to be a part of that is a proud moment. I think it’s the best move for me because it’s the best club in the world. When I spoke with the manager, I saw that we have the same direction and desire for this club.\n\n“We want to win. When you see the quality of the players here, everything we have around the club, it’s something that we can achieve. The ambition is to lift trophies, and I can’t wait to contribute.”\n\nChelsea had been looking to add experience to their back line havingmissed out on Rennes’ Jeremy Jacquetin January, with the player opting to join Liverpool. Levi Colwill, who is considered to be a key part of the club’s long-term plans, missed almost all of last season with an anterior cruciate ligament injury, with Wesley Fofana and Trevoh Chalobah forming the central-defensive partnership for much of the campaign.\n\nAfter a dismal season that saw the club finish 10th, the club’s hierarchy has acknowledged a change in recruitment policy is needed, with a refocusing away from young, inexperienced players towards ones that can help the team compete for the title.\n\nLacroix, who made 55 appearances last season for Palace, has been one of the league’s most consistent defenders since moving to Selhurst Park from Wolfsburg in 2024.\n\nThe Blues confirmed theclub-record arrival of Aston Villa forward Morgan Rogerslast week, and have also added Atalanta defender Marco Palestra, striker Emmanuel Emegha from Strasbourg and Sporting Lisbon’s Geovany Quenda.\n\nKick off your evenings with the Guardian's take on the world of football\n\nChelsea also look set to signBrighton’s Danny Welbeck and Jordan Hendersonafter his contract with Brentford was terminated.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2108_2",
+            "category": "england",
+            "type": "News",
+            "title": "Fifa opens disciplinary proceedings against Argentina over Falklands banner and final chaos",
+            "bullets": [
+              "Players held banner after semi-final against EnglandParedes and Molina investigated over brawl after...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Players held banner after semi-final against EnglandParedes and Molina investigated over brawl after finalFifa has opened disciplinary ­proceedings against Argentina over the Falkland Islands banner ­displayed after their World Cup semi‑final win against England in&nbsp;Atlanta.As Argentina celebrated ­reaching the final with their dramatic 2-1 ­victory, several players held a sign ­proclaiming “Las Malvinas son ­Argentinas” – the ­Malvinas are Argentinian – in ­reference to the ­British overseas territory in the south&nbsp;Atlantic. Continue reading...",
+            "fullText": "Players held banner after semi-final against England\n\nParedes and Molina investigated over brawl after final\n\nFifa has opened disciplinary ­proceedings against Argentina over the Falkland Islands banner ­displayed after theirWorld Cup semi‑final winagainst England in Atlanta.\n\nAsArgentinacelebrated ­reaching the final with their dramatic 2-1 ­victory, several players held a sign ­proclaiming “Las Malvinas son ­Argentinas” – the ­Malvinas are Argentinian – in ­reference to the ­British overseas territory in the south Atlantic.\n\nThe dispute over the islands, which have been ruled by Britain since 1833, is long running and led to a 74-day conflict in 1982, during which more than 900 people – 649 Argentinians and 255 Britons – lost their lives.\n\nFifa’s disciplinary code ­prohibits “using a sports event for ­demonstrations of a non-sporting nature” and the banner prompted political debate on both sides of the ­Atlantic. A spokesperson for the then UK prime minister, Keir Starmer, said: “The World Cup might not be ours, but the Falkland Islands ­definitely are.”Andrew Giuliani, the head of the White House Fifa taskforce, defended Argentina’s players, saying the US believed in free speech.\n\nThe incident was not the first time an Argentina team had expressed such sentiments. In 2014,Fifafined Argentina £20,000 for a far larger banner held ‌up by players before a friendly with Slovenia in La Plata.\n\nFifa’s fullWorld Cupcharge sheet against the Argentinian Football Association also includes ­“discriminatory chants and gestures, late kick-offs, failure to comply with match and security protocols, the display of inappropriate messages by the team and spectators and the throwing of objects by spectators in relation to several matches”.\n\nSeveral players are also under investigation in relation to the ­chaotic scenes that followed ­Argentina’s 1-0extra-time defeat by Spainin the final. As Spain attempted to celebrate, ­altercations broke out across the pitch at New York New Jersey Stadium.\n\nThe Argentina midfielder Leandro Paredes, who was seen wrestling Spain’s Eric García to the ground, faces three counts of assault under the Fifa disciplinary code, while the defender Nahuel Molina faces two counts of assault (one completed and one attempted) and one count of unsporting behaviour.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe assistant coach, Roberto Ayala, faces one count of assault, and Thiago Almada, an unused substitute in the final, one count of unsporting behaviour. Spain’s Gavi also faces an unsporting behaviour charge.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2108_3",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Gianni Infantino’s big World Cup sale and Fifa’s race to the bottom line",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!We begin Football Daily’s 29 July 2026 edition wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!We begin Football Daily’s 29 July 2026 edition with a trip back to 26 February 2016. Gianni Infantino has been elected as the new Fifa president on a promise to clean up a disgraced organisation. “A good day for football,” says the FA director, David Gill. “A good day for the sport,” concurs the American Fifa executive committee member, Sunil Gulati. “Who’s that bald loser on the news?” says an unnamed Republican candidate.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nWe begin Football Daily’s 29 July 2026 edition with a trip back to 26 February 2016.Gianni Infantinohas been elected as the new Fifa president on a promise to clean up a disgraced organisation. “A good day for football,” says the FA director, David Gill. “A good day for the sport,” concurs the American Fifa executive committee member, Sunil Gulati. “Who’s that bald loser on the news?” says an unnamed Republican candidate.\n\nInfantino’s message is simple. “Fifa has gone through sad times, moments of crisis. But those times are over. We enter now a new era. We’ll restore the image ofFifaand make sure you will be happy with what we do.” Infantino, whose pitch included a boast that he had vastly increased Uefa’s revenues, promised to address Fifa’s $550m (£414m) financial black hole. “It’s your money, not the money of the Fifa president,” he said. “The money of Fifa has to be used to develop football … I’m a candidate of the whole world and football. We have to build bridges, not walls.”\n\nWe’re tempted to leave it at that, as we’re quietly confident you get the message, but editorial norms dictate we should talk about the news that Fifa is seeking private investment in the World Cup and the rest of its competitions.Big Website has done an explainer and everything. The proposed investment is in excess of £7.5bn and, according to a Fifa statement, would be used to expand the net worth of Infantino and Joshua Kushn – we beg your pardon, we completely misread that. We forgot to meditate, pray and chill this morning, so our focus isn’t as good as it could be. The Fifa statement says the money will be used to “expand football development funding”. Fifa’s money does not belong to its president – Infantino said it himself in 2016.\n\nLook, we all know football is about the bottom line. Money doesn’t just talk; it never shuts up. In that context, it’s some achievement for Infantino and friends to come up with an idea so egregious that almost everyone in football has responded with: “Bit much, mate.” Uefa, Concacaf and the FA are among those who have strongly criticised the proposals. Uefa’s 55 members are to hold an emergency meeting, with a potential World Cup boycott on the table. Just 10 days ago, Ferran Torres scored the winning goal in the Geopolitics World Cup final, a moment of pure euphoria that would be worth gazillions if only you could bottle it. But you can’t. At its best, football revives the child in all of us. Whatever the linguists tell you, there’s no infant in Infantino.\n\n“Football belongs to no individual and to no ‌institution. It belongs to the people. If Fifa were transferred into a profit-oriented ⁠corporate structure, it ​would lose ​its soul” – former Fifa president and man of the people Sepp Blatter weighs in on plans to sell off the World Cup.\n\n“I note that, despite the fact that the GWC is over, Football Daily is still arriving in my inbox in the early afternoon. As someone used to it screeching in late like a Djed Spence sliding tackle, I find this disconcerting. Also, the realisation that it isn’t home time yet is almost as disappointing as the contents of the email” – Richard O’Hagan [normal service has resumed, for today at least – Football Daily Ed].\n\n“I think Readng/Readino (yesterday’s full email edition) should turn their grammatical errors into a rebranding opportunity that adds a little continental pizazz. Athletic Readino, Real Readino, Dynamo Readng, Sporting Readino. It’d see people flocking to this bustling, cosmopolitan destination town. Possibly” – Martin Clifford.\n\nKick off your evenings with the Guardian's take on the world of football\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Martin Clifford. Terms and conditions for our competitions, when we run them, arehere.\n\nBig Website: now onBlueSpace,TikBook,Instachat, you name it.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2109_4",
+            "category": "england",
+            "type": "News",
+            "title": "Norrie into Los Cabos quarter-finals as Osaka advances in Washington",
+            "bullets": [
+              "Cameron Norrie continued his return to form at the Los Cabos Open by beating James Duckworth in stra...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Cameron Norrie continued his return to form at the Los Cabos Open by beating James Duckworth in straight sets to reach the quarter-finals.",
+            "fullText": "Cameron Norrie beat James Duckworth in straight sets to reach the quarter-finals in Mexico; Naomi Osaka is through to the last eight in Washington;watch the Mubadala DC Open and the Los Cabos Open live onSky Sports",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2110_5",
+            "category": "england",
+            "type": "News",
+            "title": "Merson: Vini Jr is playing Arsenal",
+            "bullets": [
+              "In his latest Sky Sports column, Paul Merson gives his take on Chelsea's potential double signing of...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In his latest Sky Sports column, Paul Merson gives his take on Chelsea's potential double signing of Jordan Henderson and Danny Welbeck, Arsenal's pursuit of Vinicius Jr and the possibility of Man City losing Rodri to Real Madrid.",
+            "fullText": "In his latest Sky Sports column, Paul Merson discusses Chelsea's potential double signing of Jordan Henderson and Danny Welbeck; Arsenal have pursued Vinicius Jr and hold interest in Bradley Barcola; Rodri could leave Man City for Real Madrid with Elliot Anderson at the Etihad",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-30 @ 00:25:22 EDT",
+  "lastUpdated": "2026-07-30 @ 08:21:10 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
