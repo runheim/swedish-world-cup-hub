@@ -8,16 +8,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ The winner who played for Tuchel - potential Newcastle boss Jaissle",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cy8eglx37gdo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
-      "link": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup"
+      "text": "⚽ Who should win the men’s Ballon d’Or?",
+      "link": "https://www.theguardian.com/football/who-scored-blog/2026/jul/31/ballon-dor-win-harry-kane-rodri-lamine-yamal-kylian-mbappe-lionel-messi"
     },
     {
       "text": "⚽ FA raises minimum ban for racism and other forms of discrimination to 10 matches",
       "link": "https://www.theguardian.com/football/2026/jul/30/fa-raise-minimum-ban-for-discrimination-to-10-matches"
+    },
+    {
+      "text": "⚽ Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
+      "link": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup"
     },
     {
       "text": "⚽ Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
@@ -26,10 +26,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
       "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans"
-    },
-    {
-      "text": "⚽ Eubank Jr's negotiations for Nigeria ring return 'coming along nicely'",
-      "link": "https://www.skysports.com/boxing/news/12040/13568430/chris-eubank-jr-nigeria-ring-return-negotiations-coming-along-nicely"
     }
   ],
   "timeline": {
@@ -38593,11 +38589,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4926_0",
+            "category": "england",
+            "type": "News",
+            "title": "Defender Stones joins Inter Milan on free transfer",
+            "bullets": [
+              "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and sign...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+            "fullText": "England defender John Stones has joined Italian champions Inter Milan on a free transfer and signed a two-year contract.\n\nThe 32-year-old leftManchester Citywhen hisdeal expired at the end of Juneafter 10 successful years at the Premier League club.\n\nStones said he had \"lived all my dreams out\" after helping City win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nSince he became a free agent, the centre-back has attracted interest from clubs across Europe, includingChelseaand Juventus.\n\nInter Milan were crowned Serie A champions for the 21st time last season and will start their title defence against newly promoted Monza on Saturday, 22 August.\n\nFormer Barnsley defender Stones made 295 appearances for City, scoring 19 goals, afterjoining from Everton for Â£47.5min 2016.\n\nHe has won 93 caps and was part of the England squad who finished third at this summer's World Cup, starting the quarter-final victory against Norway and 2-1 semi-final defeat by Argentina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4926_1",
+            "category": "england",
+            "type": "News",
+            "title": "Who should win the men’s Ballon d’Or?",
+            "bullets": [
+              "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual prizeBy WhoScoredSeventy-three goals in 64 games for club and country – the second most prolific season by any player in history after Lionel Messi’s 82-goal campaign in 2011-12 – not bad for a man who once sat on the bench alongside Jamie Vardy in the Championship. Harry Kane was not a teenage prodigy like a few of the other players on this list but here he is crashing football’s top table at the age of 33. Continue reading...",
+            "fullText": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual prize\n\nSeventy-three goals in 64 games for club and country – the second most prolific season by any player in history after Lionel Messi’s 82-goal campaign in 2011-12 – not bad for a man who once sat on the bench alongside Jamie Vardy in the Championship. Harry Kane was not a teenage prodigy like a few of the other players on this list but here he is crashing football’s top table at the age of 33.\n\nIt feels strange that a player who has scored at least 24 goals in each of the last 12 seasons, has won back-to-back Golden Boots in the Premier League, aWorld CupGolden Boot and two European Golden Shoes, has never finished higher than 10th in Ballon d’Or voting.\n\nThe numbers were always there but now he is adding the silverware. Kane’s trophy drought ended when Bayern Munich won the Bundesliga last year and that triumph has opened the floodgates. Another Bundesliga title followed this season, alongside the DFB-Pokal and German Supercup.\n\nEngland did not end their trophy drought at the World Cup but their captain scored six goals and overtook Gary Lineker as England’s top scorer at the tournament, ensuring he remained in contention for the Ballon d’Or.\n\n“It’s about being calm. When I’m in the area with the ball, I decide what happens,” said Lamine Yamal in February after he had scoredthe first hat-trick of his careerin Barcelona’s 4-1 win against Villarreal. For most 19-year-olds this would sound like arrogance, but Yamal is not like most 19-year-olds.\n\nHe offered more proof of that this summer. The Spain forward became the first player to appear in a European Championship final and a World Cup final before turning 20 – and he won both. He only scored one goal at the World Cup, which was a modest return by his own lofty standards, but he was influential throughout. He won a gamechanging penalty in thesemi-final against France, he made more successful take-ons than Messi across the tournament, and he had a hand in breaking down an Argentina side hellbent on baiting him into a physical duel in the final. He achieved all this after going into the tournament with a hamstring injury. Joe Hart captured the mood best after the final, saying: “Lamine Yamal is 19 years old. What a beautiful day for him. He’s 19 and has completed football.”\n\nAdd in the 24 goals and 18 assists he racked up in 45 appearances for Barcelona as they won La Liga and the Supercopa, and he has a strong case to go one better than his runners-up finish inlast year’s Ballon d’Or.\n\n“We’ll see the real Rodri at the World Cup,” said Pep Guardiola last October, when the Manchester City captain returned to action after suffering an ACL injury. There were doubts that the 2023 Ballon d’Or winner would ever return to his best. But, as with most things in football, Guardiola was right.\n\nRodri was the heartbeat and the safety blanket in the Spain team, dictating every phase of the game, controlling possession and extinguishing almost every danger posed to his backline – Spain only conceded one goal in their eight matches at the tournament. Rodri completed 756 passes (more than anyone at the tournament) and he also topped the charts for touches, line-breaking passes and passes in the opposition third. In the final alone he completed 101 passes, completely strangling the life out of Argentina to the extent that they did not have a single shot on target.\n\nHe lifted the trophy as Spain’s captain, won the Golden Ball as the tournament’s best player and earned a place in one of football’s most exclusive clubs as only the fourth man in history to have won the World Cup, European Championship, European Cup and Ballon d’Or, joining Gerd Müller, Franz Beckenbauer and Zinedine Zidane.\n\nKylian Mbappé went toe-to-toe with his old Paris Saint-Germain teammate Lionel Messi at the World Cup. They battled it out for the trophy, the Golden Boot, the Golden Ball and a place in the history books as the competition’s all-time leading scorer. He won two of the four. His two goals in the third-place playoff against England ensured he became the first man to win the Golden Boot twice. It also brought him to 22 goals in World Cups – one more than Messi – and made him the first man to reach double figures in a single edition since Müller in 1970.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4927_2",
+            "category": "england",
+            "type": "News",
+            "title": "FA raises minimum ban for racism and other forms of discrimination to 10 matches",
+            "bullets": [
+              "Discrimination ‘continues to be challenge’Current minimum ban is six matchesThe FA is to increase th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Discrimination ‘continues to be challenge’Current minimum ban is six matchesThe FA is to increase the minimum punishment for discriminatory behaviour to 10 matches, in an attempt to counteract behaviour it says “continues to be a challenge across the game”.The changes will come into force at the start of the new season and will apply to players and other football participants who are found guilty of an “aggravated breach” of the FA’s disciplinary rules on improper conduct, effectively actions that included discriminatory behaviour against any protected characteristics. Currently the minimum suspension for such a breach is six matches. Continue reading...",
+            "fullText": "The FA is to increase the minimum punishment for discriminatory behaviour to 10 matches, in an attempt to counteract behaviour it says “continues to be a challenge across the game”.\n\nThe changes will come into force at the start of the new season and will apply to players and other football participants who are found guilty of an “aggravated breach” of the FA’s disciplinary rules on improper conduct, effectively actions that included discriminatory behaviour against any protected characteristics. Currently the minimum suspension for such a breach is six matches.\n\nAcross the 2025-26 season 10 individuals were found guilty of aggravated breaches, with their punishments, decided by independent Regulatory Commissions, ranging from six to nine matches. Under the new rules a punishment of fewer than 10 matches will only be allowed if sufficient mitigating factors have been presented, and the individual themselves has pleaded guilty to the charge.\n\nAmong the cases heard involved the Preston’s Milutin Osmajic, in which the Montenegrin was found to have made racist remarks to the Burnley player Hannibal Mejbri during a Championship match. Osmajic, who denied making the remarks, was served with a nine-match ban and given a minimum fine of £20,000. There has been growing concern that the behaviour of players in the professional game has trickled down the pyramid, creating greater problems in the grassroots game.\n\n“We are committed to delivering a game free from discrimination. While significant progress has been made in recent years, discriminatory conduct continues to be a challenge across the game,” the FA said in a statement. “Enhanced measures are necessary to tackle this abhorrent conduct, and our updated sanction guidelines will now require regulatory commissions to impose a standard suspension of at least 10 matches in these circumstances.”\n\nThe new rules do afford commissions some flexibility. Cases that involve aggravated breaches “in writing only or via any communication device” – ie comments made online – could receive a punishment as low as three matches in the event of mitigating factors being accepted. If, however, an individual found to have breached the rules then commits a second offence, bans of over a year could be applied.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4927_3",
+            "category": "england",
+            "type": "News",
+            "title": "Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
+            "bullets": [
+              "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club M...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club Maxence Lacroix has joined Chelsea from Crystal Palace to become the club’s fifth signing of the summer. The France international, who won the FA Cup and Conference League with Palace, was the Blues’ main defensive target of the window.Lacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat by England. Continue reading...",
+            "fullText": "Maxence Lacroix has joined Chelsea fromCrystal Palaceto become the club’s fifth signing of the summer. The France international, who won the FA Cup and Conference League with Palace, was the Blues’ main defensive target of the window.\n\nLacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat by England.\n\n“Everyone knows the legend ofChelsea, its tradition of winning, and to be a part of that is a proud moment. I think it’s the best move for me because it’s the best club in the world. When I spoke with the manager, I saw that we have the same direction and desire for this club.\n\n“We want to win. When you see the quality of the players here, everything we have around the club, it’s something that we can achieve. The ambition is to lift trophies, and I can’t wait to contribute.”\n\nChelsea had been looking to add experience to their back line havingmissed out on Rennes’ Jérémy Jacquetin January, with the player opting to join Liverpool. Levi Colwill, who is considered to be a key part of the club’s long-term plans, missed almost all of last season with an anterior cruciate ligament injury, with Wesley Fofana and Trevoh Chalobah forming the central-defensive partnership for much of the campaign.\n\nAfter a dismal season that saw the club finish 10th, the club’s hierarchy has acknowledged a change in recruitment policy is needed, with a refocusing away from young, inexperienced players towards ones that can help the team compete for the title.\n\nLacroix, who made 55 appearances last season for Palace, has been one of the league’s most consistent defenders since moving to Selhurst Park from Wolfsburg in 2024.\n\nThe Blues confirmed theclub-record arrival of Aston Villa forward Morgan Rogerslast week, and have also added Atalanta defender Marco Palestra, striker Emmanuel Emegha from Strasbourg and Sporting Lisbon’s Geovany Quenda.\n\nChelsea also look set to signBrighton’s Danny Welbeck and Jordan Hendersonafter his contract with Brentford was terminated.\n\nKick off your evenings with the Guardian's take on the world of football\n\nJohn Stoneshas joined Inter on a two-year contract, the Serie A club have announced.\n\nThe England centre-back was a free agent after leaving Manchester City and had attracted interest from clubs across Europe.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4927_4",
+            "category": "england",
+            "type": "News",
+            "title": "Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
+            "bullets": [
+              "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the projectIt isn’t just football fans and Uefa executives who want to give Gianni Infantino the red card for his plan to sell off 20% of the World Cup to a privately backed commercial enterprise. The Fifa president is also in the crosshairs of the House of Representatives Judiciary Committee in Washington and ranking Democrat member Jamie Raskin. The reason? Infantino’s plan, which is backed by Joshua Kushner’s investment fund, has, for some observers, president Trump’s sticky fingers all over it.Raskin told Politico that Fifa was “going directly into business with the Trump family”, before making reference to the peace prize Infantino awarded the president in December and Fifa’s use of office space in Trump Tower, New York. “Apparently the fake Peace Prize and giant lease with Trump Tower weren’t enough – now Infantino performs a kickback hat-trick by pursuing a multibillion-dollar deal with Jared Kushner’s brother to sell ownership stakes in the World Cup to private investors.” Continue reading...",
+            "fullText": "Joshua Kushner is now the kingpin in driving the sale of the World Cup to investors and family ties are tight around the project\n\nIt isn’t just football fans andUefa executiveswho want to give Gianni Infantino the red card for his plan to sell off 20% of the World Cup to a privately backed commercial enterprise. The Fifa president is also in the crosshairs of the House of Representatives Judiciary Committee in Washington and ranking Democrat member Jamie Raskin. The reason? Infantino’s plan, which is backed by Joshua Kushner’s investment fund, has, for some observers, president Trump’s sticky fingers all over it.\n\nRaskin told Politico that Fifa was “going directly into business with the Trump family”, before making reference to the peace prize Infantino awarded the president in December and Fifa’s use of office space in Trump Tower, New York. “Apparently the fake Peace Prize and giant lease with Trump Tower weren’t enough – now Infantino performs a kickback hat-trick by pursuing a multibillion-dollar deal with Jared Kushner’s brother to sell ownership stakes in the World Cup to private investors.”\n\nAs is often the case with Trump, the Kushner family is at the centre of any tangled web he weaves. Jared and Joshua’s father, Charles Kushner,convicted of tax evasion, witness tampering, illegal campaign contributions and sentenced to two years in prison, isTrump’s ambassador to Francethough he speaks no French. He was pardoned by Trump in 2020.\n\nJared, married to Trump’s daughter Ivanka, is a Special Envoy for Peace and helped negotiate the Islamabad Memorandum ceasefire with Iran, which has now seemingly collapsed. He was also the man charged with fulfilling Trump’s pledge of bringing the Russia-Ukraine war to an end within 24 hours of him assuming the presidency.\n\nBut at the heart of this and once again keeping influence very much within the family is Jared’s younger brother, Joshua, 41, who has established various private investment funds including Thrive Eternal, who will be lead investor in Fifa Forward Enterprise, the commercial spin-offInfantino is proposing to sell shares in.\n\nWith Jared having divested his shares in Thrive Capital (the parent company of Thrive Eternal) in 2017 when taking on a role in Trump’s first administration, the familial ties seem especially tight around this project, as intimated by Raskin, who has alreadysummoned Infantino to attend the House judiciary committee. He has also requested Fifa documents related to any gifts and benefits provided to Trump and details of the visitor logs for Fifa’s office space in Trump Tower.\n\nGiven Trump’sboasting that his direct line to Infantinopersuaded Fifa to suspend the USA’s Folarin Balogun’s red card for the World Cup last-16 game against Belgium –the USA lost 4-1– it is an unfortunate look for Infantino that the extended Trump family, through marriage, will be leading the sale of the century, the handing over of substantial control of the World Cup. Some critics say even a 20% minority stake will in effect be a controlling stake if Infantino remains in charge without accountability. Joshua, though, is only following in the footsteps of his older brother Jared in his incredible capacity for dealmaking.\n\nSix months after the end of the first Trump presidency and after having being involved in US negotiations with Saudi Arabia during Trump’s first term, Jared managed to secure £2bn worth of funding for his own investment vehicle, Affinity Fund Management, from the Saudi Public Investment Fund (PIF), which is chaired by Crown Prince Mohammed bin Salman, the de facto ruler of the kingdom.The New York Times reportedthat PIF advisers raised objections about the deal reeling to “the inexperience of the Affinity Fund management” andthat the Kingdom of Saudi Arabia seemed to bear “the bulk of the investment and risk” but the PIF board, chaired by the crown prince, overruled those warning to approve the money.\n\nCoincidentally, Saudi Arabia will be hosting the 2034World Cupin a bid driven by Prince Mohammed. The PIF, also owner of Newcastle United and Aramco, the oil company which is 81% owned by the Kingdom of Saudi Arabia, is Fifa’s newest World Cup sponsor, with deals reportedly worth around $100m a year.\n\nKushner has alwaysdefended the tie-up with the PIF, challenging critics to “point to a single decision we made that wasn’t in the interest of America”. Prince Mohammed was implicated in the murder of US citizen Jamal Khashoggi in Istanbul in 2018, with the United Nationsconcluding that the state of Saudi Arabia was responsiblewhilea US intelligence report, that was released by the former president Joe Biden, concluded that Prince Mohammed “approved an operation … to capture or kill” the Saudi dissident. The Saudi government rejected both reports, calling them “inaccurate”.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4928_5",
+            "category": "england",
+            "type": "News",
+            "title": "Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
+            "bullets": [
+              "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Joe Gomez is expected to miss the start of Liverpool's Premier League campaign through injury - but it is not likely to impact the Reds' transfer plans.",
+            "fullText": "Joe Gomez was taken off with muscle problem in a pre-season friendly against Sunderland; the Liverpool defender is expected to miss the Premier League opener against Newcastle, live onSky Sports; Liverpool are light on centre-backs, but are not expected to sign a replacement",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-31 @ 00:51:07 EDT",
+  "lastUpdated": "2026-07-31 @ 08:49:28 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
