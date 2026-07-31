@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Sally, 5, rides the new pump track in Medåker: \"Going fast\"",
       "link": "https://www.svt.se/nyheter/lokalt/vastmanland/sally-5-aker-nya-pumptracken-i-medaker-ska-ga-fort"
-    },
-    {
-      "text": "⚽ Not so black and white: how Eddie Howe lost control at Newcastle in one summer | Louise Taylor",
-      "link": "https://www.theguardian.com/football/2026/jul/30/not-so-black-and-white-how-one-summer-saw-eddie-howe-lose-control-at-newcastle"
     }
   ],
   "timeline": {
@@ -14424,11 +14420,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0240_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sally, 5, rides the new pump track in Medåker: \"Going fast\"",
+            "bullets": [
+              "The new activity facility in Medåker has opened and is already attracting many families with childre...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The new activity facility in Medåker has opened and is already attracting many families with children and other cycling enthusiasts to the small town outside Arboga. - Great fun to come here. I guess I'm a bit more into extreme sports instead of just football, says father Jesper from Arboga, who was visiting with the family.",
+            "fullText": "This new activity facility in Medåker has opened and is already attracting many families with children and other cycling enthusiasts to the small town outside Arboga.\n\n- Great fun to come here. I guess I'm a bit more into extreme sports instead of just football, says father Jesper from Arboga, who was visiting with the family.\n\nWhen SVT revisits Parkuddens IF on a Monday morning, around ten cars are already parked at the facility. Here, the sports ground has been given a facelift where a flowtrail, a kilometer-long track and a pump track have been built at the expense of one of the football pitches.\n\nThe pump track had a sneak premiere at the beginning of July, but there are still some minor works, such as signage, before the official opening at the end of August. The investment has been made possible thanks to support from the Allmänna arvsfonden and RF-SISU of just over SEK 10.5 million.\n\n- In terms of activity, the facility almost takes care of itself. It is the service all around that needs work, and we have actually seen a slight upswing there. More people are interested in helping and keeping things tidy here, says Magnus Bohrlund, facilities manager at Medåkers IF.\n\nMedåker is a bit outside the larger towns. Why do you think you can continue to attract people going forward?\n\n- People go to the mountains to ski. Here it becomes a bit the same - you go to Medåker to have \"wheel play\" with the family. The distances are not huge, so I don't think there will be any problem, says Magnus Bohrlund.\n\nIn the clip: This is how the record investment in spontaneous sports in Medåker turned out.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-31 @ 12:42:18 EDT",
+  "lastUpdated": "2026-07-31 @ 16:02:40 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
