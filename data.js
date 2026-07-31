@@ -8,24 +8,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cp3rklgggn5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Who should win the men’s Ballon d’Or?",
-      "link": "https://www.theguardian.com/football/who-scored-blog/2026/jul/31/ballon-dor-win-harry-kane-rodri-lamine-yamal-kylian-mbappe-lionel-messi"
+      "text": "⚽ Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
+      "link": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches"
     },
     {
-      "text": "⚽ FA raises minimum ban for racism and other forms of discrimination to 10 matches",
-      "link": "https://www.theguardian.com/football/2026/jul/30/fa-raise-minimum-ban-for-discrimination-to-10-matches"
+      "text": "⚽ Who should win the men’s Ballon d’Or?",
+      "link": "https://www.theguardian.com/football/who-scored-blog/2026/jul/31/ballon-dor-win-harry-kane-rodri-lamine-yamal-kylian-mbappe-lionel-messi"
     },
     {
       "text": "⚽ Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
       "link": "https://www.theguardian.com/football/2026/jul/30/chelsea-crystal-palace-maxence-lacroix-transfer-roundup"
     },
     {
-      "text": "⚽ Fifa’s sale of the century: how Kushners and Trump are at centre of a tangled web",
-      "link": "https://www.theguardian.com/football/2026/jul/30/fifas-sale-of-the-century-how-kushners-and-trump-are-at-centre-of-a-tangled-web"
+      "text": "⚽ Football Daily | Will Gianni Infantino survive as Fifa president?",
+      "link": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
     },
     {
-      "text": "⚽ Gomez to miss start of season - but will it impact Liverpool's transfer plans?",
-      "link": "https://www.skysports.com/football/news/12040/13568582/liverpool-injury-news-joe-gomez-to-miss-start-of-premier-league-season-but-will-it-affect-summer-transfer-plans"
+      "text": "⚽ Chelsea handed £10m fine and suspended transfer ban",
+      "link": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era"
     }
   ],
   "timeline": {
@@ -38697,11 +38697,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4555_0",
+            "category": "england",
+            "type": "News",
+            "title": "Defender Stones joins Inter Milan on free transfer",
+            "bullets": [
+              "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and sign...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England defender John Stones joins Italian Serie A champions Inter Milan on a free transfer and signs a two-year contract.",
+            "fullText": "England defender John Stones has joined Italian champions Inter Milan on a free transfer and signed a two-year contract.\n\nThe 32-year-old leftManchester Citywhen hisdeal expired at the end of Juneafter 10 successful years at the Premier League club.\n\nStones said he had \"lived all my dreams out\" after helping City win six Premier League titles, the Champions League, two FA Cups, five League Cups, three Community Shields, the Club World Cup and the Uefa Super Cup.\n\nSince he became a free agent, the centre-back has attracted interest from clubs across Europe, includingChelseaand Juventus.\n\nInter Milan were crowned Serie A champions for the 21st time last season and will start their title defence against newly promoted Monza on Saturday, 22 August.\n\nFormer Barnsley defender Stones made 295 appearances for City, scoring 19 goals, afterjoining from Everton for Â£47.5min 2016.\n\nHe has won 93 caps and was part of the England squad who finished third at this summer's World Cup, starting the quarter-final victory against Norway and 2-1 semi-final defeat by Argentina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4555_1",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
+            "bullets": [
+              "Club escape suspended six-point deduction on appealOwners admitted secret payments by previous regim...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Club escape suspended six-point deduction on appealOwners admitted secret payments by previous regimeChelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during the Roman Abramovich era.The sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club was found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involving Chelsea legends Samuel Eto’o, Eden Hazard and Willian were among those found to have breached the rules. The commission originally handed down a stronger sanction that would have given Chelsea a suspended six-point deduction, but it was overturned after an appeal by the club. Continue reading...",
+            "fullText": "Club escape suspended six-point deduction on appeal\n\nChelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during theRoman Abramovichera.\n\nThe sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club was found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involvingChelsealegends Samuel Eto’o, Eden Hazard and Willian were among those found to have breached the rules. The commission originally handed down a stronger sanction that would have given Chelsea a suspended six-point deduction, but it was overturned after an appeal by the club.\n\nThe offences were self-reported by Chelsea when new ownership entered Stamford Bridge in 2022 and the disciplinary panel praised the club for its actions as well as its co-operation through the hearing. Chelsea, who are also operating under a settlement agreement with Uefa, said they had “worked openly and transparently with all regulators” and were “pleased to confirm that this brings all regulatory proceedings against the club to a close”.\n\nWritten reasons published by the FA show the independent commission took a very dim view of the Abramovich-era administration, saying their rule-breaking showed “a shameful and arrogant disregard for the rules of the game … which has done so much to bring the game of football in general, and the name of CFC into disrepute”. They also said, however, that there were aspects of the case brought by the FA that caused them “particular concern”.\n\nWhile praising the FA’s co-operation on the case, the commission criticised the governing body for both failing to charge individuals related to the misdemeanours and for requesting that a sporting sanction should not be applied as punishment. After a submission by the Premier League, which also argued against a sporting sanction, Chelsea appealed against the commission’s original sanction and the six-point deduction was replaced with a suspended two-window ban on registering new players. While the commission had originally argued Chelsea had both sought and gained a sporting advantage from their actions, the appeal board found that there was insufficient evidence to show that any advantage had actually been achieved.\n\nChelsea winger Mykhailo Mudryk can return to playing immediately after the Football Association and the World Anti-Doping Agency “resolved his appeal” against a ban for failing a doping test.\n\nThe Ukrainian was suspended for four years after failing a drug test which revealed the presence of a low concentration of meldonium, a prohibited substance, in 2024. Mudryk filed an appeal with the Court of Arbitration for Sport while changes to Wada procedures in the interim mean that had his failed test produced the same result now, charges would not have been brought.\n\nThe FA said: “Changes have been made … which, while not retroactive, mean that if Mr Mudryk’s sample was collected today, the concentration of meldonium in the sample would not have been reported and no anti-doping rule violations [ADRVs] would have resulted. Further to that development and to other circumstances of the case, the FA and Mr Mudryk have now – with the agreement of Wada – resolved the appeal proceedings.\n\n“As a part of the agreement, Mr Mudryk accepted that he had committed the ADRVs charged and acceded to a period of ineligibility equal to the time served at the date of the agreement. Mr Mudryk is no longer ineligible and may return to competition with immediate effect.”PA Media\n\nThe Premier League and the FA had been examining tens of millions of pounds in secret payments made by offshore companies that were owned by Abramovich. Details of the transactions were uncoveredas part of Cyprus Confidential, an investigation by the Guardian and international media partners, based on a leak of data from Cypriot financial services firms that the Russian oligarch used to manage his vast fortunes.\n\nDeals revealed by the leak included apparent off-book payments to Hazard’s agent and an associate of the title-winning manager Antonio Conte.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4555_2",
+            "category": "england",
+            "type": "News",
+            "title": "Who should win the men’s Ballon d’Or?",
+            "bullets": [
+              "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual prizeBy WhoScoredSeventy-three goals in 64 games for club and country – the second most prolific season by any player in history after Lionel Messi’s 82-goal campaign in 2011-12 – not bad for a man who once sat on the bench alongside Jamie Vardy in the Championship. Harry Kane was not a teenage prodigy like a few of the other players on this list but here he is crashing football’s top table at the age of 33. Continue reading...",
+            "fullText": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual prize\n\nSeventy-three goals in 64 games for club and country – the second most prolific season by any player in history after Lionel Messi’s 82-goal campaign in 2011-12 – not bad for a man who once sat on the bench alongside Jamie Vardy in the Championship. Harry Kane was not a teenage prodigy like a few of the other players on this list but here he is crashing football’s top table at the age of 33.\n\nIt feels strange that a player who has scored at least 24 goals in each of the last 12 seasons, has won back-to-back Golden Boots in the Premier League, aWorld CupGolden Boot and two European Golden Shoes, has never finished higher than 10th in Ballon d’Or voting.\n\nThe numbers were always there but now he is adding the silverware. Kane’s trophy drought ended when Bayern Munich won the Bundesliga last year and that triumph has opened the floodgates. Another Bundesliga title followed this season, alongside the DFB-Pokal and German Supercup.\n\nEngland did not end their trophy drought at the World Cup but their captain scored six goals and overtook Gary Lineker as England’s top scorer at the tournament, ensuring he remained in contention for the Ballon d’Or.\n\n“It’s about being calm. When I’m in the area with the ball, I decide what happens,” said Lamine Yamal in February after he had scoredthe first hat-trick of his careerin Barcelona’s 4-1 win against Villarreal. For most 19-year-olds this would sound like arrogance, but Yamal is not like most 19-year-olds.\n\nHe offered more proof of that this summer. The Spain forward became the first player to appear in a European Championship final and a World Cup final before turning 20 – and he won both. He only scored one goal at the World Cup, which was a modest return by his own lofty standards, but he was influential throughout. He won a gamechanging penalty in thesemi-final against France, he made more successful take-ons than Messi across the tournament, and he had a hand in breaking down an Argentina side hellbent on baiting him into a physical duel in the final. He achieved all this after going into the tournament with a hamstring injury. Joe Hart captured the mood best after the final, saying: “Lamine Yamal is 19 years old. What a beautiful day for him. He’s 19 and has completed football.”\n\nAdd in the 24 goals and 18 assists he racked up in 45 appearances for Barcelona as they won La Liga and the Supercopa, and he has a strong case to go one better than his runners-up finish inlast year’s Ballon d’Or.\n\n“We’ll see the real Rodri at the World Cup,” said Pep Guardiola last October, when the Manchester City captain returned to action after suffering an ACL injury. There were doubts that the 2023 Ballon d’Or winner would ever return to his best. But, as with most things in football, Guardiola was right.\n\nRodri was the heartbeat and the safety blanket in the Spain team, dictating every phase of the game, controlling possession and extinguishing almost every danger posed to his backline – Spain only conceded one goal in their eight matches at the tournament. Rodri completed 756 passes (more than anyone at the tournament) and he also topped the charts for touches, line-breaking passes and passes in the opposition third. In the final alone he completed 101 passes, completely strangling the life out of Argentina to the extent that they did not have a single shot on target.\n\nHe lifted the trophy as Spain’s captain, won the Golden Ball as the tournament’s best player and earned a place in one of football’s most exclusive clubs as only the fourth man in history to have won the World Cup, European Championship, European Cup and Ballon d’Or, joining Gerd Müller, Franz Beckenbauer and Zinedine Zidane.\n\nKylian Mbappé went toe-to-toe with his old Paris Saint-Germain teammate Lionel Messi at the World Cup. They battled it out for the trophy, the Golden Boot, the Golden Ball and a place in the history books as the competition’s all-time leading scorer. He won two of the four. His two goals in the third-place playoff against England ensured he became the first man to win the Golden Boot twice. It also brought him to 22 goals in World Cups – one more than Messi – and made him the first man to reach double figures in a single edition since Müller in 1970.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4555_3",
+            "category": "england",
+            "type": "News",
+            "title": "Maxence Lacroix joins ‘beautiful club’ Chelsea as John Stones seals Inter deal",
+            "bullets": [
+              "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club M...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "France centre-back moves to Blues in £52m transferStones signs two-year contract with Serie A club Maxence Lacroix has joined Chelsea from Crystal Palace to become the club’s fifth signing of the summer. The France international, who won the FA Cup and Conference League with Palace, was the Blues’ main defensive target of the window.Lacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat by England. Continue reading...",
+            "fullText": "Maxence Lacroix has joined Chelsea fromCrystal Palaceto become the club’s fifth signing of the summer. The France international, who won the FA Cup and Conference League with Palace, was the Blues’ main defensive target of the window.\n\nLacroix, 26, signs a six-year deal with Xabi Alonso’s side. “I am really happy to be part of this beautiful club,” said Lacroix, who played three times for France at the World Cup, including in their 6-4 bronze medal match defeat by England.\n\n“Everyone knows the legend ofChelsea, its tradition of winning, and to be a part of that is a proud moment. I think it’s the best move for me because it’s the best club in the world. When I spoke with the manager, I saw that we have the same direction and desire for this club.\n\n“We want to win. When you see the quality of the players here, everything we have around the club, it’s something that we can achieve. The ambition is to lift trophies, and I can’t wait to contribute.”\n\nChelsea had been looking to add experience to their back line havingmissed out on Rennes’ Jérémy Jacquetin January, with the player opting to join Liverpool. Levi Colwill, who is considered to be a key part of the club’s long-term plans, missed almost all of last season with an anterior cruciate ligament injury, with Wesley Fofana and Trevoh Chalobah forming the central-defensive partnership for much of the campaign.\n\nAfter a dismal season that saw the club finish 10th, the club’s hierarchy has acknowledged a change in recruitment policy is needed, with a refocusing away from young, inexperienced players towards ones that can help the team compete for the title.\n\nLacroix, who made 55 appearances last season for Palace, has been one of the league’s most consistent defenders since moving to Selhurst Park from Wolfsburg in 2024.\n\nThe Blues confirmed theclub-record arrival of Aston Villa forward Morgan Rogerslast week, and have also added Atalanta defender Marco Palestra, striker Emmanuel Emegha from Strasbourg and Sporting Lisbon’s Geovany Quenda.\n\nChelsea also look set to signBrighton’s Danny Welbeck and Jordan Hendersonafter his contract with Brentford was terminated.\n\nKick off your evenings with the Guardian's take on the world of football\n\nJohn Stoneshas joined Inter on a two-year contract, the Serie A club have announced.\n\nThe England centre-back was a free agent after leaving Manchester City and had attracted interest from clubs across Europe.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4555_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Will Gianni Infantino survive as Fifa president?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!You have to hand it to Gianni Infantino, his timi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!You have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopolitics World Cup, Fifa’s omnipresent overlord knew he had to strike while the iron was hot. There would be a small gap in the news cycle. Domestic seasons around the world would be starting soon and there is always transfer news to dominate column inches and air time. But Gianni would not be denied. It was time to announce his grand plan. People like the World Cup? Great! Then why not sell stakes in the World Cup to rich private investors and make Fifa some more cash – genius! However, he managed to get his timing all wrong, allowing the brave boys from Uefa and Concacaf to take action, the former threatening to boycott all Fifa competitions until the plans are ditched.I have no problem with Gianni Infantino seeking to sell the commercial rights for the next World Cup finals for $20bn or more. This is the biggest sporting competition and deserves to raise as much revenue as possible from sponsors. That he can offer all the member countries upwards of $30m each would be a godsend for many smaller associations. What I do expect for the good of the game and for spectators of all ages is that the broadcasting of all matches remains free to air and doesn’t end up behind expensive paywalls. It’s bad enough in the UK that the Premier League, Football League, Prem Rugby and all first-class cricket matches are now behind paywalls and that access to actual matches is priced well beyond the average spectator’s ability to pay. How are fans, particularly those who are young and/or from poorer households, going to be able to afford to see matches? Fifa, Uefa and the FA have a duty to bring their sport to the widest audience possible at reasonable entrance prices at stadiums or for free on television. Rant over” – Tim Leech.Amid all the speculation over the demise of Eddie Howe at Newcastle (yesterday’s Football Daily), surely one look at that new kit would’ve been enough to see off anyone with a modicum of taste. He departs with dignity intact” – Steve Bennett. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nYou have to hand it to Gianni Infantino, his timing was impeccable. After the relative on-field success of the Geopolitics World Cup, Fifa’s omnipresent overlord knew he had to strike while the iron was hot. There would be a small gap in the news cycle. Domestic seasons around the world would be starting soon and there is always transfer news to dominate column inches and air time. But Gianni would not be denied. It was time to announce his grand plan. People like the World Cup? Great! Then why not sell stakes in the World Cup to rich private investors and make Fifa some more cash – genius! However, he managed to get his timing all wrong, allowing the brave boys from Uefa and Concacaf to take action, the former threatening to boycott all Fifa competitions until the plans are ditched.\n\nUefa and Concacaf received more support on Friday morning in the shape of the Asian Football Confederation, which released a statement saying it “stands in solidarity” with its counterparts. That now means – and this, reader, is a fast-moving tale, which means Football Daily could be even further behind the curve than usual by the time you read this – that 143 of Fifa’s 211 members stand against Infantino, despite a Limmy-esque doubling down from Fifa in the early hours of Friday morning, which said, without parody, that “nobody is selling football. This is not something Fifa would ever entertain.” Well, we guess you can’t sell the World Cup if most of the big nations aren’t even involved.\n\nOne now has to wonder whether Infantinocan withstand it all. The scale and ferocity of the backlash to his plans bring to mind the fierce opposition that met the idea of €uropean $uper £eague in 2021 – only this is on a global scale, with whole confederations voicing concern. What makes all this wilder was that Infantino’s position seemed genuinely impregnable even after the GWC, the Folarin Balogun controversy and all that.Just a fortnight agoit was reported that he would be reelected as Fifa president by a landslide in March, standing unopposed, with more than 200 of Fifa’s 211 member associations sending formal letters of support. This then would appear to be pure self-destruction, an own goal of epic proportions. Even Infantino’s senior adviser, Carlos Cordeiro, ⁠resigned ⁠with immediate effect on Friday, calling his ‌plan “a bad deal for ‌football”. It seems confederations, executives and even those inside the Fifa machine are finally waking up and smelling the coffee.\n\nWhat happens next? If Infantino wants to remain in his gig, he surely has to bin the proposals and back down, something we’re pretty sure he isn’t keen on. But with his position under threat, perhaps he will break the habit in an attempt to cling on to power. Or perhaps Fifa will start acting like a proper democratic organisation and force his resignation, before holding an election in which the best candidate is chosen for the role. Maybe someone who champions fairness and equality? Maybe someone who puts the game of football before any financial gain for Fifa? We can but dream.\n\nTributes have been paid to the former Milan and Italy defender Franco Baresi, one of the most recognisable players from the ⁠golden era of Italian football in the 1980s and 1990s, whohas died at the age of 66. “The entire history of ⁠AC Milan is in ⁠tears following the ​passing of Franco Baresi,” said the club. “His example and integrity will be forever etched into the club’s DNA, just as his iconic No 6 shirt is.” Former teammate Paolo Maldini added: “Today I feel the same thing as to when for one reason or another you were unable to be on the pitch with us. How are we going to cope without our captain?” There’s alsoa warm piece from Jonathan Wilson.\n\n“Everyone who spoke said it was unacceptable. The word ‘blackmail’ was used. Not by us, but by others. Bringing external owners into football’s core business is an alien element, and it should remain an alien element” – Norwegian Football Federation president Lise Klaveness revealswhat went down inside Uefa’s meetingon Thursday when member associations voted 55-0 in favour of a boycott threat following Gianni’s latest grand wheeze.\n\nBig Website: onBlueSpace,TikBook,Instachat, you name it.\n\ndouble quotation markI have no problem with Gianni Infantino seeking to sell the commercial rights for the next World Cup finals for $20bn or more. This is the biggest sporting competition and deserves to raise as much revenue as possible from sponsors. That he can offer all the member countries upwards of $30m each would be a godsend for many smaller associations. What I do expect for the good of the game and for spectators of all ages is that the broadcasting of all matches remains free to air and doesn’t end up behind expensive paywalls. It’s bad enough in the UK that the Premier League, Football League, Prem Rugby and all first-class cricket matches are now behind paywalls and that access to actual matches is priced well beyond the average spectator’s ability to pay. How are fans, particularly those who are young and/or from poorer households, going to be able to afford to see matches? Fifa, Uefa and the FA have a duty to bring their sport to the widest audience possible at reasonable entrance prices at stadiums or for free on television. Rant over” – Tim Leech.\n\ndouble quotation markAmid all the speculation over the demise of Eddie Howe at Newcastle (yesterday’s Football Daily), surely one look at that new kit would’ve been enough to see off anyone with a modicum of taste. He departs with dignity intact” – Steve Bennett.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Steve Bennett. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4556_5",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea handed £10m fine and suspended transfer ban",
+            "bullets": [
+              "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules, the FA has announced.",
+            "fullText": "Chelsea fined and given suspended transfer ban for 74 breaches of FA agent regulations; club's owners self-reported breaches to the FA, the Premier League and UEFA after making the discovery when they bought Chelsea in May 2022; Chelsea were fined by the Premier League in March",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-31 @ 08:49:28 EDT",
+  "lastUpdated": "2026-07-31 @ 12:45:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
