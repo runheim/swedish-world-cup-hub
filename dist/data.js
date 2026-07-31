@@ -9618,11 +9618,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0211_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Can We Kick It?: new doc is timely take on Black history, pay-to-play and future of US soccer",
+            "bullets": [
+              "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthroughAkbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’s collapse against Belgium for a last-16 exit.“Unfortunately, that performance in the last game did not help at all,” he says. Continue reading...",
+            "fullText": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthrough\n\nAkbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’scollapseagainst Belgium for a last-16 exit.\n\n“Unfortunately, that performance in the last game did not help at all,” he says.\n\n“You have to be careful what you ask for, right?” he says. “You want people to watch the sport. You got the most people in America to watch that game and that is the product we put out there? It reinforced a lot of the thoughts about soccer.”\n\nMajeed has a lot of thoughts about soccer. As the director of Can We Kick It?,a feature documentaryreleased this summer, he has also heard the thoughts about soccer from a cast of players, coaches, administrators, parents and fans. The project explores how the sport has engaged – and often not engaged – with Black communities in the United States.\n\nCan We Kick It? delivers an honesty often missing in conversations about soccer in the US. The film tells the story of the sport through a Black lens and with Black voices and asks hard questions about why the sport – from grassroots to elite professional levels – has struggled to cut into Black American culture.\n\nThe documentary tells the story of Howard University, a historically Black university in Washington, beingcontroversially strippedof a 1971 NCAA title but rebounding to take the 1974 championship undefeated. It reminds that American soccer’s real “shot heard around the world” was not Paul Caligiuri’s mythologized qualifying goal for the 1990 World Cup but Joe Gaetjens’s winner against England at the 1950 World Cup. Soccer, the film argues, may be the world’s game but in the United States, one community has been left out of its story and growth.\n\nMajeed, inspired by conversations he has had for decades about the cultural, structural and economic barriers facing the game’s reach into urban America, suggests the sport’s failure to connect with urban audiences is part of a larger discussion on how the sport engages with wider American culture.\n\n“African Americans were part of the game from the very beginning and we were at the 1950 World Cup,” he says. “I grew up playing in North Carolina in the 80s and I didn’t see a lot of people like me playing the sport – particularly as I got better.\n\n“I didn’t see a soccer match until I was 19. We played a game that we didn’t see on TV. I had a soccer book with all the greats in it. So it was a book that got me into the game.”\n\nFollowing grad school, Majeed launched a basketball academy and as an American traveling abroad discovered something present in much of the rest of the world, but not yet in the US.\n\n“The biggest grassroots sport in the world is soccer,” he explains. “Basketball is the most grassroots sport in the US but globally it is not. There is a void in the US. Soccer is not accessible to vast parts of the community and it is not reaching parts of the community that would enjoy it.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-31 @ 16:02:42 EDT",
+  "lastUpdated": "2026-07-31 @ 19:02:13 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
