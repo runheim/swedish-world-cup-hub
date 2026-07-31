@@ -4,8 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Fifa wants more money for its members but that does not guarantee investment | John Duerden",
-      "link": "https://www.theguardian.com/football/2026/jul/30/fifa-wants-more-money-for-its-members-but-that-does-not-guarantee-investment"
+      "text": "⚽ Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans",
+      "link": "https://www.theguardian.com/football/2026/jul/31/fifa-world-cup-privatisation-consultation-sell-off-plan"
+    },
+    {
+      "text": "⚽ Can We Kick It?: new doc is timely take on Black history, pay-to-play and future of US soccer",
+      "link": "https://www.theguardian.com/football/2026/jul/31/can-we-kick-it-soccer-documentary"
     }
   ],
   "timeline": {
@@ -9515,11 +9519,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5225_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Infantino increasingly embattled after senior adviser resigns over World Cup sell-off plans",
+            "bullets": [
+              "Infantino’s role as president under increasing pressure143 of Fifa’s 211 members now stand against s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Infantino’s role as president under increasing pressure143 of Fifa’s 211 members now stand against schemeGianni Infantino’s authority has been dealt a fresh blow after Carlos Cordeiro, one of his senior advisers, resigned with immediate effect in protest at proposals to sell a stake in the World Cup.In the latest embarrassment for Infantino, who saw European FAs threaten to boycott future Fifa tournaments on Thursday, the former US Soccer chief Cordeiro criticised “a bad deal for football” and pointed out that the global governing body already sits on huge amounts of debt-free reserves. Continue reading...",
+            "fullText": "Infantino’s role as president under increasing pressure\n\nGianni Infantino’s authority has been dealt a fresh blow after Carlos Cordeiro, one of his senior advisers, resigned with immediate effect in protest at proposals to sell a stake in the World Cup.\n\nIn the latest embarrassment for Infantino, who saw European FAs threaten to boycott futureFifatournaments on Thursday, the former US Soccer chief Cordeiro criticised “a bad deal for football” and pointed out that the global governing body already sits on huge amounts of debt-free reserves.\n\n“I cannot stand by while Fifa considers selling a stake in the World Cup,” Cordeiro said in his resignation statement. “I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.”\n\nCordeiro has worked for Fifa since 2021 as senior adviser to Infantino. He also operated as a senior adviser to the White House taskforce on this summer’s World Cup.\n\nIn resigning he said Fifa “already has the financial capacity to provide [additional financial] support from existing resources”. He added that Fifa would be “mortgaging football’s future without any compelling justification” if it sold off a permanent stake.\n\nIn addition, Cordeiro questioned the lack of transparency in Fifa’s process. “Why this deal?” he asked. “Why now? What oversight exists? Who benefits? Was there a competitive process? What governance will be in place? What will investors ultimately gain, and at what cost to football?”\n\nIt adds to the pressure growing on Infantino and Fifa, which is facing calls for an urgent review of its governance after insisting that the planned World Cup sell-off will continue despite the threat of a boycott from all 55 European nations.\n\nIn a strongly worded statement issued on Friday morning, the Asian Football Confederation backedUefa’s and Concacaf’s oppositionto the creation of a new commercial company, Fifa Forward Enterprise (FFE), saying it “cannot realistically achieve the necessary broad consensus and unity required to move forward”, and urging Fifa to “undertake an urgent review of its governance and decision-making framework”.\n\nFifa had attempted to double down on its position overnight,releasing a statement at 4am UK timesaying “we will proceed with this consultation process to ensure that each MA [member association] has the ability to express its vote based on facts,” but it is now clear Infantino is facing united opposition to his proposals from around the globe.\n\nUefa, Concacaf and the AFC constitute 143 of Fifa’s 211 members, so if their coalition remains united there is no prospect of Infantino getting the votes he needs. The 56-year-old’s position as Fifa president is also under threat for the first time since he was elected in 2016, unless he backs down quickly.\n\nWhile stopping short of matching Uefa’s boycott the AFC went further than Concacaf in clearly stating that the FFE proposal should be dropped. “The AFC stands in solidarity with Uefa and Concacaf in expressing serious concerns over Fifa’s proposal to introduce private investment into Fifa’s flagship competitions and the decision-making process around FFE,” its statement read. “The fact that the situation has reached the point where the real possibility of a Fifa World Cup boycott has entered public discourse should concern everyone who cares about the future of our game.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5225_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Can We Kick It?: new doc is timely take on Black history, pay-to-play and future of US soccer",
+            "bullets": [
+              "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthroughAkbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’s collapse against Belgium for a last-16 exit.“Unfortunately, that performance in the last game did not help at all,” he says. Continue reading...",
+            "fullText": "Akbar Majeed’s new feature tells the story of the sport through a Black lens and asks hard questions about the barriers facing the game’s breakthrough\n\nAkbar Majeed takes a deep breath as he considers the legacy of the 2026 World Cup and, in particular, the effect of the US team’scollapseagainst Belgium for a last-16 exit.\n\n“Unfortunately, that performance in the last game did not help at all,” he says.\n\n“You have to be careful what you ask for, right?” he says. “You want people to watch the sport. You got the most people in America to watch that game and that is the product we put out there? It reinforced a lot of the thoughts about soccer.”\n\nMajeed has a lot of thoughts about soccer. As the director of Can We Kick It?,a feature documentaryreleased this summer, he has also heard the thoughts about soccer from a cast of players, coaches, administrators, parents and fans. The project explores how the sport has engaged – and often not engaged – with Black communities in the United States.\n\nCan We Kick It? delivers an honesty often missing in conversations about soccer in the US. The film tells the story of the sport through a Black lens and with Black voices and asks hard questions about why the sport – from grassroots to elite professional levels – has struggled to cut into Black American culture.\n\nThe documentary tells the story of Howard University, a historically Black university in Washington, beingcontroversially strippedof a 1971 NCAA title but rebounding to take the 1974 championship undefeated. It reminds that American soccer’s real “shot heard around the world” was not Paul Caligiuri’s mythologized qualifying goal for the 1990 World Cup but Joe Gaetjens’s winner against England at the 1950 World Cup. Soccer, the film argues, may be the world’s game but in the United States, one community has been left out of its story and growth.\n\nMajeed, inspired by conversations he has had for decades about the cultural, structural and economic barriers facing the game’s reach into urban America, suggests the sport’s failure to connect with urban audiences is part of a larger discussion on how the sport engages with wider American culture.\n\n“African Americans were part of the game from the very beginning and we were at the 1950 World Cup,” he says. “I grew up playing in North Carolina in the 80s and I didn’t see a lot of people like me playing the sport – particularly as I got better.\n\n“I didn’t see a soccer match until I was 19. We played a game that we didn’t see on TV. I had a soccer book with all the greats in it. So it was a book that got me into the game.”\n\nFollowing grad school, Majeed launched a basketball academy and as an American traveling abroad discovered something present in much of the rest of the world, but not yet in the US.\n\n“The biggest grassroots sport in the world is soccer,” he explains. “Basketball is the most grassroots sport in the US but globally it is not. There is a void in the US. Soccer is not accessible to vast parts of the community and it is not reaching parts of the community that would enjoy it.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-31 @ 00:51:54 EDT",
+  "lastUpdated": "2026-07-31 @ 08:52:29 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
