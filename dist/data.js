@@ -18769,6 +18769,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Någon som är sugen på lite FIFA ikväll?",
       "time": "07:22",
       "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Någon som är sugen på lite FIFA ikväll?",
+      "time": "13:17",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "13:18",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "13:19",
+      "isCaptain": true
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "13:20",
+      "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "Bosse, stäng av musiken nu, måste sova! 😂",
+      "time": "13:21",
+      "isCaptain": false
     }
   ]
 };
