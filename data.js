@@ -12,10 +12,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/who-scored-blog/2026/jul/31/ballon-dor-win-harry-kane-rodri-lamine-yamal-kylian-mbappe-lionel-messi"
     },
     {
-      "text": "⚽ Football Daily | Will Gianni Infantino survive as Fifa president?",
-      "link": "https://www.theguardian.com/football/2026/jul/31/football-daily-email-gianni-infantino-fifa"
-    },
-    {
       "text": "⚽ Chelsea handed £10m fine and suspended transfer ban",
       "link": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era"
     }
@@ -38963,10 +38959,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-01": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4452_0",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
+            "bullets": [
+              "Club escape suspended six-point deduction on appealOwners admitted secret payments by previous regim...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Club escape suspended six-point deduction on appealOwners admitted secret payments by previous regimeChelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during the Roman Abramovich era.The sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club were found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involving Chelsea legends Samuel Eto’o, Eden Hazard and Willian were among those found to have breached the rules. The commission originally handed down a stronger sanction that would have given Chelsea a suspended six-point deduction, but it was overturned after an appeal by the club. Continue reading...",
+            "fullText": "Club escape suspended six-point deduction on appeal\n\nChelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during theRoman Abramovichera.\n\nThe sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club were found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involvingChelsealegends Samuel Eto’o, Eden Hazard and Willian were among those found to have breached the rules. The commission originally handed down a stronger sanction that would have given Chelsea a suspended six-point deduction, but it was overturned after an appeal by the club.\n\nThe offences were self-reported by Chelsea when new ownership entered Stamford Bridge in 2022 and the disciplinary panel praised the club for their actions and cooperation through the hearing. Chelsea, who are also operating under a settlement agreement with Uefa, said they had “worked openly and transparently with all regulators” and were “pleased to confirm that this brings all regulatory proceedings against the club to a close”.\n\nWritten reasons published by the FA show the independent commission took a very dim view of the Abramovich-era administration, saying their rule-breaking showed “a shameful and arrogant disregard for the rules of the game … which has done so much to bring the game of football in general, and the name of CFC into disrepute”. They also said, however, that there were aspects of the case brought by the FA that caused them “particular concern”.\n\nWhile praising the FA’s cooperation on the case, the commission criticised the governing body for both failing to charge individuals related to the misdemeanours and for requesting that a sporting sanction should not be applied as punishment. After a submission by the Premier League, which also argued against a sporting sanction, Chelsea appealed against the commission’s original sanction and the six-point deduction was replaced with a suspended two-window ban on registering new players. While the commission had originally argued Chelsea had sought and gained a sporting advantage from their actions, the appeal board found that there was insufficient evidence to show that any advantage had actually been achieved.\n\n“Chelsea’s lawyers performed a masterclass in non-adversarial diplomacy with both the FA and the Premier League,” said Stefan Borson, a football finance expert who is head of sport at the law firm McCarthy Denning.\n\n“Even where the FA’s independent panel disagreed with the position presented by the FA and Chelsea, it still found a way to discount a 15-point deduction starting point down to a six-point suspended penalty. Ultimately, even that was appealed away, leaving Chelsea to pay a final meagre fine out of its retained escrow from Abramovich’s proceeds.”\n\nChelsea winger Mykhailo Mudryk can return to playing immediately after the Football Association and the World Anti-Doping Agency “resolved his appeal” against a ban for failing a doping test.\n\nThe Ukrainian was suspended for four years after failing a drug test which revealed the presence of a low concentration of meldonium, a prohibited substance, in 2024. Mudryk filed an appeal with the Court of Arbitration for Sport while changes to Wada procedures in the interim mean that had his failed test produced the same result now, charges would not have been brought.\n\nThe FA said: “Changes have been made … which, while not retroactive, mean that if Mr Mudryk’s sample was collected today, the concentration of meldonium in the sample would not have been reported and no anti-doping rule violations [ADRVs] would have resulted. Further to that development and to other circumstances of the case, the FA and Mr Mudryk have now – with the agreement of Wada – resolved the appeal proceedings.\n\n“As a part of the agreement, Mr Mudryk accepted that he had committed the ADRVs charged and acceded to a period of ineligibility equal to the time served at the date of the agreement. Mr Mudryk is no longer ineligible and may return to competition with immediate effect.”PA Media",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4453_1",
+            "category": "england",
+            "type": "News",
+            "title": "Who should win the men’s Ballon d’Or?",
+            "bullets": [
+              "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual prizeBy WhoScoredSeventy-three goals in 64 games for club and country – the second most prolific season by any player in history after Lionel Messi’s 82-goal campaign in 2011-12 – not bad for a man who once sat on the bench alongside Jamie Vardy in the Championship. Harry Kane was not a teenage prodigy like a few of the other players on this list but here he is crashing football’s top table at the age of 33. Continue reading...",
+            "fullText": "Harry Kane, Rodri, Lamine Yamal, Kylian Mbappé and Lionel Messi are the frontrunners for the annual prize\n\nSeventy-three goals in 64 games for club and country – the second most prolific season by any player in history after Lionel Messi’s 82-goal campaign in 2011-12 – not bad for a man who once sat on the bench alongside Jamie Vardy in the Championship. Harry Kane was not a teenage prodigy like a few of the other players on this list but here he is crashing football’s top table at the age of 33.\n\nIt feels strange that a player who has scored at least 24 goals in each of the last 12 seasons, has won back-to-back Golden Boots in the Premier League, aWorld CupGolden Boot and two European Golden Shoes, has never finished higher than 10th in Ballon d’Or voting.\n\nThe numbers were always there but now he is adding the silverware. Kane’s trophy drought ended when Bayern Munich won the Bundesliga last year and that triumph has opened the floodgates. Another Bundesliga title followed this season, alongside the DFB-Pokal and German Supercup.\n\nEngland did not end their trophy drought at the World Cup but their captain scored six goals and overtook Gary Lineker as England’s top scorer at the tournament, ensuring he remained in contention for the Ballon d’Or.\n\n“It’s about being calm. When I’m in the area with the ball, I decide what happens,” said Lamine Yamal in February after he had scoredthe first hat-trick of his careerin Barcelona’s 4-1 win against Villarreal. For most 19-year-olds this would sound like arrogance, but Yamal is not like most 19-year-olds.\n\nHe offered more proof of that this summer. The Spain forward became the first player to appear in a European Championship final and a World Cup final before turning 20 – and he won both. He only scored one goal at the World Cup, which was a modest return by his own lofty standards, but he was influential throughout. He won a gamechanging penalty in thesemi-final against France, he made more successful take-ons than Messi across the tournament, and he had a hand in breaking down an Argentina side hellbent on baiting him into a physical duel in the final. He achieved all this after going into the tournament with a hamstring injury. Joe Hart captured the mood best after the final, saying: “Lamine Yamal is 19 years old. What a beautiful day for him. He’s 19 and has completed football.”\n\nAdd in the 24 goals and 18 assists he racked up in 45 appearances for Barcelona as they won La Liga and the Supercopa, and he has a strong case to go one better than his runners-up finish inlast year’s Ballon d’Or.\n\n“We’ll see the real Rodri at the World Cup,” said Pep Guardiola last October, when the Manchester City captain returned to action after suffering an ACL injury. There were doubts that the 2023 Ballon d’Or winner would ever return to his best. But, as with most things in football, Guardiola was right.\n\nRodri was the heartbeat and the safety blanket in the Spain team, dictating every phase of the game, controlling possession and extinguishing almost every danger posed to his backline – Spain only conceded one goal in their eight matches at the tournament. Rodri completed 756 passes (more than anyone at the tournament) and he also topped the charts for touches, line-breaking passes and passes in the opposition third. In the final alone he completed 101 passes, completely strangling the life out of Argentina to the extent that they did not have a single shot on target.\n\nHe lifted the trophy as Spain’s captain, won the Golden Ball as the tournament’s best player and earned a place in one of football’s most exclusive clubs as only the fourth man in history to have won the World Cup, European Championship, European Cup and Ballon d’Or, joining Gerd Müller, Franz Beckenbauer and Zinedine Zidane.\n\nKylian Mbappé went toe-to-toe with his old Paris Saint-Germain teammate Lionel Messi at the World Cup. They battled it out for the trophy, the Golden Boot, the Golden Ball and a place in the history books as the competition’s all-time leading scorer. He won two of the four. His two goals in the third-place playoff against England ensured he became the first man to win the Golden Boot twice. It also brought him to 22 goals in World Cups – one more than Messi – and made him the first man to reach double figures in a single edition since Müller in 1970.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4453_2",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea handed £10m fine and suspended transfer ban",
+            "bullets": [
+              "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea have been fined £10m and given a suspended two-window transfer ban by an independent appeal board after admitting breaches of Football Association agent rules, the FA has announced.",
+            "fullText": "Chelsea fined and given suspended transfer ban for 74 breaches of FA agent regulations; club's owners self-reported breaches to the FA, the Premier League and UEFA after making the discovery when they bought Chelsea in May 2022; Chelsea were fined by the Premier League in March",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-07-31 @ 19:00:22 EDT",
+  "lastUpdated": "2026-08-01 @ 00:44:53 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
