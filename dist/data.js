@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cqx7g9x5n5jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
-      "link": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches"
+      "text": "⚽ There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+      "link": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
     }
   ],
   "timeline": {
@@ -39053,11 +39053,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0035_0",
+            "category": "england",
+            "type": "News",
+            "title": "Foden aims to repay Man City faith in fresh start",
+            "bullets": [
+              "Manchester City midfielder Phil Foden is aiming to \"repay\" the faith shown to him by the club as he ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City midfielder Phil Foden is aiming to \"repay\" the faith shown to him by the club as he looks forward to a \"fresh start\" under new boss Enzo Maresca.",
+            "fullText": "Phil Foden was the Professional Footballers' Association player of the year in 2024\n\nManchester Citymidfielder Phil Foden is aiming to \"repay\" the faith shown in him by the club as he aims for a \"fresh start\" under new manager Enzo Maresca.\n\nThe 26-year-old scored 19 goals as City won the Premier League in 2023-24 and was named the Professional Footballers' Association player of the year and the league's player of the season.\n\nHowever, he has not managed to hit those heights in the past two seasons - scoring 10 times last term, but failing to net in his past 31 appearances for club and country.\n\nDespite his struggles, Foden was offered a new contract by City andsigned a four-year deallast month to keep him at Etihad Stadium until 2030.\n\n\"It has made me feel relaxed and I can just concentrate on being the best version of me and give back to the football club for them trusting in me,\" Foden said.\n\n\"It is nice to see the support from the club and obviously it means a lot.\n\n\"It's about time I try and repay them and give back to the club.\"\n\nFoden was given his first-team debut as a 17-year-old by former manager Pep Guardiola and has gone on to make 369 appearances for City, winning six Premier League titles, one Champions League and two FA Cups.\n\nGuardiola left at the end of last season and Italian Maresca was named as his replacement, returning to the club where he previously worked in the academy and as first-team assistant.\n\nAsked how he was feeling this summer, academy product Foden said: \"Very good - a fresh start, a new manager and up to now, really enjoying it.\n\n\"It is very strange but I know Enzo from before, so that also helps. I know him quite well and what [he] is about.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0035_1",
+            "category": "england",
+            "type": "News",
+            "title": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+            "bullets": [
+              "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to det...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leaderThere is no time to dance around the subject. Gianni Infantino must stand down as Fifa president or otherwise be legally removed. No fresh chances can be made available for an official who has demolished trust in football’s integrity and governance, trashing all remaining credibility of the body that oversees the world’s most-cherished sport.Infantino was forced into a humiliating climbdown on Saturday morning when he accepted the failure of his plan to sell off portions of the World Cup to private investment. He resolved to resume dialogue about football’s growth “in the spirit of shared interest in our game”. But such a naked attempt to save his own skin cannot hold. Every day Infantino remains in power is a fresh stain on an institution whose reputation is on the floor. Continue reading...",
+            "fullText": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader\n\nThere is no time to dance around the subject.Gianni Infantinomust stand down as Fifa president or otherwise be legally removed. No fresh chances can be made available for an official who has demolished trust in football’s integrity and governance, trashing all remaining credibility of the body that oversees the world’s most-cherished sport.\n\nInfantino wasforced into a humiliating climbdownon Saturday morning when he accepted the failure of his plan to sell off portions of the World Cup to private investment. He resolved to resume dialogue about football’s growth “in the spirit of shared interest in our game”. But such a naked attempt to save his own skin cannot hold. Every day Infantino remains in power is a fresh stain on an institution whose reputation is on the floor.\n\nThe overreach involved in unilaterally launching theFifaForward Enterprise (FFE) scheme – with its vision to place huge influence on football’s future in the palms of venture capitalists – would be enough to bring down most leaders. But Infantino’s rap sheet goes far beyond that. He has routinely made a mockery of Fifa’s own statutes and governance regulations, so nobody should be surprised that patience has finally snapped in corridors of power globally. Fifa’s “football unites the world” slogan has never looked more empty.\n\nArticle 10.3 of those regulations, which specifically pertains to the presidency, requires the incumbent to ensure “Fifa’s objectives, mission, strategic direction, policies and values are sustainably pursued, protected and implemented, and that a positive image of Fifa is fostered”. It stipulates “promoting friendly and peaceful relations within Fifa”, which is a nonsense given the degree to which federations and senior personnel have distanced themselves from Infantino in recent days.\n\nThe rules give no green light to the pursuit of multiple private projects that, most recently in lockstep with the current US administration or its tributaries, have been tabled with scant appetite for oversight or explanation.\n\nWhere to begin?The Folarin Balogun sagatipped many leading figures in football, particularly in Europe, towards the edge. There had already been widespread bafflement and disgust atInfantino’s presentation of the new Fifa peace prizeto Donald Trump in December, with little background given about the process and highly contestable information provided about the US president’s qualifying achievements. Stakeholders were frustrated by a lack of consultation aboutthe introduction of “hydration breaks”, which fundamentally toyed with the fabric of matches at this summer’s World Cup.\n\nThe bizarre expedited bidding process for the 2034 tournament, which resulted in Saudi Arabia’s candidature beingwaved through in December 2024, also brought widespread criticism. This list only covers the past 20 months of controversies inflicted by Infantino, capped on Friday by revelations thatplans for a 64-team World Cup are in full swing.\n\nWhen ascathing statement from Uefa on Saturdaycalled for an end to “secret schemes on fast track timescales, cooked up by faceless individuals and of dubious benefit to the game”, it was not only referring to the FFE project and its casual sidelining of other decision makers within Fifa.\n\nA critical mass has been reached. Uefa took a decisive lead in following more than a year of harsh words with strong, united action inpledging to boycott future Fifa tournamentsif Infantino did not withdraw his plan. It undoubtedly influenced the outcome and the Uefa president, Aleksander Ceferin, secured an achievement that may define his own reign. But it will mean nothing if Infantino, who is understood to have deployed a major consultancy to smooth relations with federations in recent days, is given the oxygen to dangle fresh promises and turn heads back towards the status quo.\n\nThere is an acknowledgment within Uefa and beyond that the pace must not let up. Senior figures are adamant Infantino must not survive the current scandal. Some insiders feel a crucial next step will be for member associations, the overwhelming majority of whom had formally pledged their support for Infantino’s re-election next March, to recall those letters.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-01 @ 07:53:19 EDT",
+  "lastUpdated": "2026-08-01 @ 12:00:35 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
