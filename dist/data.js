@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Foden aims to repay Man City faith in fresh start",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx7g9x5n5jo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
       "link": "https://www.theguardian.com/football/2026/jul/31/chelsea-fined-10m-suspended-transfer-ban-fa-agent-breaches"
-    },
-    {
-      "text": "⚽ Who should win the men’s Ballon d’Or?",
-      "link": "https://www.theguardian.com/football/who-scored-blog/2026/jul/31/ballon-dor-win-harry-kane-rodri-lamine-yamal-kylian-mbappe-lionel-messi"
-    },
-    {
-      "text": "⚽ Chelsea handed £10m fine and suspended transfer ban",
-      "link": "https://www.skysports.com/football/news/12040/13568791/chelsea-handed-10m-fine-and-suspended-transfer-ban-after-admitting-fa-rule-breaches-dating-back-to-roman-abramovich-era"
     }
   ],
   "timeline": {
@@ -39017,11 +39013,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5318_0",
+            "category": "england",
+            "type": "News",
+            "title": "Foden aims to repay Man City faith in fresh start",
+            "bullets": [
+              "Manchester City midfielder Phil Foden is aiming to \"repay\" the faith shown to him by the club as he ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City midfielder Phil Foden is aiming to \"repay\" the faith shown to him by the club as he looks forward to a \"fresh start\" under new boss Enzo Maresca.",
+            "fullText": "Phil Foden was the Professional Footballers' Association player of the year in 2024\n\nManchester Citymidfielder Phil Foden is aiming to \"repay\" the faith shown in him by the club as he aims for a \"fresh start\" under new manager Enzo Maresca.\n\nThe 26-year-old scored 19 goals as City won the Premier League in 2023-24 and was named the Professional Footballers' Association player of the year and the league's player of the season.\n\nHowever, he has not managed to hit those heights in the past two seasons - scoring 10 times last term, but failing to net in his past 31 appearances for club and country.\n\nDespite his struggles, Foden was offered a new contract by City andsigned a four-year deallast month to keep him at Etihad Stadium until 2030.\n\n\"It has made me feel relaxed and I can just concentrate on being the best version of me and give back to the football club for them trusting in me,\" Foden said.\n\n\"It is nice to see the support from the club and obviously it means a lot.\n\n\"It's about time I try and repay them and give back to the club.\"\n\nFoden was given his first-team debut as a 17-year-old by former manager Pep Guardiola and has gone on to make 369 appearances for City, winning six Premier League titles, one Champions League and two FA Cups.\n\nGuardiola left at the end of last season and Italian Maresca was named as his replacement, returning to the club where he previously worked in the academy and as first-team assistant.\n\nAsked how he was feeling this summer, academy product Foden said: \"Very good - a fresh start, a new manager and up to now, really enjoying it.\n\n\"It is very strange but I know Enzo from before, so that also helps. I know him quite well and what [he] is about.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5319_1",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea fined £10m and given suspended transfer ban by FA over agent breaches",
+            "bullets": [
+              "Club escape suspended six-point deduction on appealOwners admitted secret payments by previous regim...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Club escape suspended six-point deduction on appealOwners admitted secret payments by previous regimeChelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during the Roman Abramovich era.The sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club were found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involving Chelsea legends Samuel Eto’o, Eden Hazard and Willian were among those found to have breached the rules. The commission originally handed down a stronger sanction that would have given Chelsea a suspended six-point deduction, but it was overturned after an appeal by the club. Continue reading...",
+            "fullText": "Club escape suspended six-point deduction on appeal\n\nChelsea have been fined £10m by the FA and served with a suspended transfer ban for multiple violations of transfer rules during theRoman Abramovichera.\n\nThe sanction reflects a similar punishment handed to the Blues by the Premier League earlier this year after the club were found to have used unlicensed agents and sought to obscure the nature of their transfer dealings between 2009 and 2022. Deals involvingChelsealegends Samuel Eto’o, Eden Hazard and Willian were among those found to have breached the rules. The commission originally handed down a stronger sanction that would have given Chelsea a suspended six-point deduction, but it was overturned after an appeal by the club.\n\nThe offences were self-reported by Chelsea when new ownership entered Stamford Bridge in 2022 and the disciplinary panel praised the club for their actions and cooperation through the hearing. Chelsea, who are also operating under a settlement agreement with Uefa, said they had “worked openly and transparently with all regulators” and were “pleased to confirm that this brings all regulatory proceedings against the club to a close”.\n\nWritten reasons published by the FA show the independent commission took a very dim view of the Abramovich-era administration, saying their rule-breaking showed “a shameful and arrogant disregard for the rules of the game … which has done so much to bring the game of football in general, and the name of CFC into disrepute”. They also said, however, that there were aspects of the case brought by the FA that caused them “particular concern”.\n\nWhile praising the FA’s cooperation on the case, the commission criticised the governing body for both failing to charge individuals related to the misdemeanours and for requesting that a sporting sanction should not be applied as punishment. After a submission by the Premier League, which also argued against a sporting sanction, Chelsea appealed against the commission’s original sanction and the six-point deduction was replaced with a suspended two-window ban on registering new players. While the commission had originally argued Chelsea had sought and gained a sporting advantage from their actions, the appeal board found that there was insufficient evidence to show that any advantage had actually been achieved.\n\n“Chelsea’s lawyers performed a masterclass in non-adversarial diplomacy with both the FA and the Premier League,” said Stefan Borson, a football finance expert who is head of sport at the law firm McCarthy Denning.\n\n“Even where the FA’s independent panel disagreed with the position presented by the FA and Chelsea, it still found a way to discount a 15-point deduction starting point down to a six-point suspended penalty. Ultimately, even that was appealed away, leaving Chelsea to pay a final meagre fine out of its retained escrow from Abramovich’s proceeds.”\n\nChelsea winger Mykhailo Mudryk can return to playing immediately after the Football Association and the World Anti-Doping Agency “resolved his appeal” against a ban for failing a doping test.\n\nThe Ukrainian was suspended for four years after failing a drug test which revealed the presence of a low concentration of meldonium, a prohibited substance, in 2024. Mudryk filed an appeal with the Court of Arbitration for Sport while changes to Wada procedures in the interim mean that had his failed test produced the same result now, charges would not have been brought.\n\nThe FA said: “Changes have been made … which, while not retroactive, mean that if Mr Mudryk’s sample was collected today, the concentration of meldonium in the sample would not have been reported and no anti-doping rule violations [ADRVs] would have resulted. Further to that development and to other circumstances of the case, the FA and Mr Mudryk have now – with the agreement of Wada – resolved the appeal proceedings.\n\n“As a part of the agreement, Mr Mudryk accepted that he had committed the ADRVs charged and acceded to a period of ineligibility equal to the time served at the date of the agreement. Mr Mudryk is no longer ineligible and may return to competition with immediate effect.”PA Media",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-01 @ 00:44:53 EDT",
+  "lastUpdated": "2026-08-01 @ 07:53:19 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
