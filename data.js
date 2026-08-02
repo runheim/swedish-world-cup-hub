@@ -9922,11 +9922,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4212_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Gianni Infantino could face leadership challenge as Fifa council members rebel",
+            "bullets": [
+              "Council wants to trigger emergency general meeting Members demand review of Balogun decisionGianni I...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Council wants to trigger emergency general meeting Members demand review of Balogun decisionGianni Infantino is facing a rebellion from members of the Fifa council who are attempting to force an extraordinary general meeting (EGM) that could develop into a full-blown leadership challenge.The Guardian has learned that moves to call an EGM were already under way before the emergence of Infantino’s abortive plan to sell off stakes in the World Cup, with council members demanding an independent review into the unprecedented decision to lift Folarin Balogun’s suspension during the World Cup, which involved multiple phone calls from Donald Trump. Continue reading...",
+            "fullText": "Gianni Infantino is facing a rebellion from members of the Fifa council who are attempting to force an extraordinary general meeting (EGM) that could develop into a full-blown leadership challenge.\n\nThe Guardian has learned that moves to call an EGM were already under way before the emergence of Infantino’s abortive plan to sell off stakes in the World Cup, with council members demanding an independent review into the unprecedented decision tolift Folarin Balogun’s suspensionduring the World Cup, which involved multiple phone calls from Donald Trump.\n\nTheFifacouncil is the world governing body’s main decision-making forum composed of 28 representatives of the six confederations, eight vice-presidents and Infantino. Under Fifa rules a motion from 50% or 19 of the 37 council members can trigger an EGM.\n\nIt is understood that the rebels had already reached double figures before it emerged that Infantino had secretly proposed to sell 20% of a new World Cup operating company to Thrive Capital, an investment company founded by Joshua Kushner, the younger brother of Trump’s son-in-law Jared Kushner.\n\nThe unhappy council members had been planning on calling for Infantino to resign if he refused to sanction an independent review of the Balogun affair, which led to the Norwegian FA filing an official complaint to the International Olympic Committee alleging Fifa had breached rules on political neutrality by bowing to pressure from Trump.\n\nFifa has insisted all along that it followed due process, with the decision taken independently by its ethics committee, but has yet to publish a written report on the hearing.\n\nThe rebels are likely to have been emboldened by Infantino’s U-turn over the World Cup sell-off debacle, with the plan abandoned in a statement from Fifa in the early hours of Saturday morning afterUefa, Concacaf – the North and Central American and Caribbean confederation – and the Asian Football Confederation denounced it.\n\nUefa and Concacaf both issued further statementscondemning Infantino and calling for a thorough review of Fifa’s governance on Saturday, but it is unclear if they have sufficient support from the rest of the world to oust him.\n\nThe Confederation of African Football and the South American Conmebol remain fully behind Infantino, while the Qatar Football Association issued a statement yesterday backing him to stay as president.\n\nOf the 37 council members 14 are from Europe and North America so support from Asia will be required to put real pressure on Infantino.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe Fifa council is not due to meet until November with the rebels attempting to move quickly to force an EGM, where Infantino would be asked to explain himself. A refusal to commission an external review into Balogun would lead to more active attempts to oust Infantino, with alternative presidential candidates already being sounded out.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-02 @ 12:02:14 EDT",
+  "lastUpdated": "2026-08-02 @ 15:42:12 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
