@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
-      "link": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
+      "text": "⚽ Dunkley leads Trent Rockets past SunRisers Leeds",
+      "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
     }
   ],
   "timeline": {
@@ -39234,11 +39234,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0203_0",
+            "category": "england",
+            "type": "News",
+            "title": "Dunkley leads Trent Rockets past SunRisers Leeds",
+            "bullets": [
+              "Sophia Dunkley's 56 off 33 balls fired the Trent Rockets past SunRisers Leeds in an impressive victo...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sophia Dunkley's 56 off 33 balls fired the Trent Rockets past SunRisers Leeds in an impressive victory by five runs in The Hundred at Trent Bridge.",
+            "fullText": "Trent Rockets secured a five-run victory over SunRisers Leeds at Trent Bridge propelled by Sophia Dunkley's 56 off 33 balls; Annabel Sutherland also recorded a half-century for the visitors;watch every Hundred game live on Sky Sports through to the finals on August 16",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-02 @ 07:51:35 EDT",
+  "lastUpdated": "2026-08-02 @ 12:02:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
