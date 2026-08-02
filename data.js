@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Foden aims to repay Man City faith in fresh start",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx7g9x5n5jo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
       "link": "https://www.theguardian.com/football/2026/aug/01/humiliated-gianni-infantino-must-stand-down-fifa-or-be-removed-uefa-football-politics"
     }
@@ -39215,11 +39211,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5135_0",
+            "category": "england",
+            "type": "News",
+            "title": "There can be no letup. Humiliated Infantino must stand down at Fifa or be removed | Nick Ames",
+            "bullets": [
+              "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to det...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leaderThere is no time to dance around the subject. Gianni Infantino must stand down as Fifa president or otherwise be legally removed. No fresh chances can be made available for an official who has demolished trust in football’s integrity and governance, trashing all remaining credibility of the body that oversees the world’s most-cherished sport.Infantino was forced into a humiliating climbdown on Saturday morning when he accepted the failure of his plan to sell off portions of the World Cup to private investment. He resolved to resume dialogue about football’s growth “in the spirit of shared interest in our game”. But such a naked attempt to save his own skin cannot hold. Every day Infantino remains in power is a fresh stain on an institution whose reputation is on the floor. Continue reading...",
+            "fullText": "Uefa’s call for a boycott and declaration of no-confidence must be the opening salvos in push to dethrone game’s global leader\n\nThere is no time to dance around the subject.Gianni Infantinomust stand down as Fifa president or otherwise be legally removed. No fresh chances can be made available for an official who has demolished trust in football’s integrity and governance, trashing all remaining credibility of the body that oversees the world’s most-cherished sport.\n\nInfantino wasforced into a humiliating climbdownon Saturday morning when he accepted the failure of his plan to sell off portions of the World Cup to private investment. He resolved to resume dialogue about football’s growth “in the spirit of shared interest in our game”. But such a naked attempt to save his own skin cannot hold. Every day Infantino remains in power is a fresh stain on an institution whose reputation is on the floor.\n\nThe overreach involved in unilaterally launching theFifaForward Enterprise (FFE) scheme – with its vision to place huge influence on football’s future in the palms of venture capitalists – would be enough to bring down most leaders. But Infantino’s rap sheet goes far beyond that. He has routinely made a mockery of Fifa’s own statutes and governance regulations, so nobody should be surprised that patience has finally snapped in corridors of power globally. Fifa’s “football unites the world” slogan has never looked more empty.\n\nArticle 10.3 of those regulations, which specifically pertains to the presidency, requires the incumbent to ensure “Fifa’s objectives, mission, strategic direction, policies and values are sustainably pursued, protected and implemented, and that a positive image of Fifa is fostered”. It stipulates “promoting friendly and peaceful relations within Fifa”, which is a nonsense given the degree to which federations and senior personnel have distanced themselves from Infantino in recent days.\n\nThe rules give no green light to the pursuit of multiple private projects that, most recently in lockstep with the current US administration or its tributaries, have been tabled with scant appetite for oversight or explanation.\n\nWhere to begin?The Folarin Balogun sagatipped many leading figures in football, particularly in Europe, towards the edge. There had already been widespread bafflement and disgust atInfantino’s presentation of the new Fifa peace prizeto Donald Trump in December, with little background given about the process and highly contestable information provided about the US president’s qualifying achievements. Stakeholders were frustrated by a lack of consultation aboutthe introduction of “hydration breaks”, which fundamentally toyed with the fabric of matches at this summer’s World Cup.\n\nThe bizarre expedited bidding process for the 2034 tournament, which resulted in Saudi Arabia’s candidature beingwaved through in December 2024, also brought widespread criticism. This list only covers the past 20 months of controversies inflicted by Infantino, capped on Friday by revelations thatplans for a 64-team World Cup are in full swing.\n\nWhen ascathing statement from Uefa on Saturdaycalled for an end to “secret schemes on fast track timescales, cooked up by faceless individuals and of dubious benefit to the game”, it was not only referring to the FFE project and its casual sidelining of other decision makers within Fifa.\n\nA critical mass has been reached. Uefa took a decisive lead in following more than a year of harsh words with strong, united action inpledging to boycott future Fifa tournamentsif Infantino did not withdraw his plan. It undoubtedly influenced the outcome and the Uefa president, Aleksander Ceferin, secured an achievement that may define his own reign. But it will mean nothing if Infantino, who is understood to have deployed a major consultancy to smooth relations with federations in recent days, is given the oxygen to dangle fresh promises and turn heads back towards the status quo.\n\nThere is an acknowledgment within Uefa and beyond that the pace must not let up. Senior figures are adamant Infantino must not survive the current scandal. Some insiders feel a crucial next step will be for member associations, the overwhelming majority of whom had formally pledged their support for Infantino’s re-election next March, to recall those letters.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-02 @ 00:46:13 EDT",
+  "lastUpdated": "2026-08-02 @ 07:51:35 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
