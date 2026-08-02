@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Dunkley leads Trent Rockets past SunRisers Leeds",
+      "text": "⚽ Dunkley leads Trent Rockets past SunRisers Leeds as MI London remain winless",
       "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
     }
   ],
@@ -39257,11 +39257,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4120_0",
+            "category": "england",
+            "type": "News",
+            "title": "Dunkley leads Trent Rockets past SunRisers Leeds as MI London remain winless",
+            "bullets": [
+              "Sophia Dunkley's 56 off 33 balls fired Trent Rockets past SunRisers Leeds in an impressive victory b...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sophia Dunkley's 56 off 33 balls fired Trent Rockets past SunRisers Leeds in an impressive victory by five runs in The Hundred at Trent Bridge.",
+            "fullText": "Trent Rockets secured a five-run victory over SunRisers Leeds at Trent Bridge propelled by Sophia Dunkley's 56 off 33 balls; MI London remain winless after loss to Manchester Super Giants;watch every Hundred game live on Sky Sports through to the finals on August 16",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-02 @ 12:02:03 EDT",
+  "lastUpdated": "2026-08-02 @ 15:41:20 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
