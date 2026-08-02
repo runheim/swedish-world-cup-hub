@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gianni Infantino could face leadership challenge as Fifa council members rebel",
-      "link": "https://www.theguardian.com/football/2026/aug/02/gianni-infantino-could-face-leadership-challenge-as-fifa-council-members-rebel"
+      "text": "⚽ Leeds stage thrilling comeback to sink Liverpool in Chicago friendly",
+      "link": "https://www.theguardian.com/football/2026/aug/02/leeds-stage-thrilling-comeback-to-sink-liverpool-in-chicago-friendly"
     }
   ],
   "timeline": {
@@ -9945,11 +9945,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5656_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Leeds stage thrilling comeback to sink Liverpool in Chicago friendly",
+            "bullets": [
+              "Liverpool 2-4 LeedsCalvert-Lewin scores twice as Leeds come back from 2-0 downAfter 45 minutes at So...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Liverpool 2-4 LeedsCalvert-Lewin scores twice as Leeds come back from 2-0 downAfter 45 minutes at Soldier Field the tale of Liverpool’s pre-season tour of the US was of three straight wins and Andoni Iraola’s ideas taking shape thanks in no small part to Florian Wirtz and Alexander Isak. After 90, with Liverpool’s expensive duo off the scene, it centred on a stirring Leeds fightback and the recurrence of a fragility that Iraola could well do without.Daniel Farke’s team staged a convincing comeback to inflict a first defeat of pre-season on the new ­Liverpool head coach. Dominic ­Calvert-Lewin, twice, Brenden Aaronson and Sean Longstaff all scored in the space 25 minutes as Liverpool failed to deal with Leeds’ strength at set-pieces and the disruption caused by a series of half-times changes. The drop-off from Liverpool, who led 2-0 at half-time, following the departures of Wirtz, Isak, Trey Nyoni and Rio Ngumoha was drastic. Continue reading...",
+            "fullText": "Calvert-Lewin scores twice as Leeds come back from 2-0 down\n\nAfter 45 minutes at Soldier Field the tale of Liverpool’s pre-season tour of the US was of three straight wins and Andoni Iraola’s ideas taking shape thanks in no small part to Florian Wirtz and Alexander Isak. After 90, with Liverpool’s expensive duo off the scene, it centred on a stirring Leeds fightback and the recurrence of a fragility that Iraola could well do without.\n\nDaniel Farke’s team staged a convincing comeback to inflict a first defeat of pre-season on the new ­Liverpool head coach. Dominic ­Calvert-Lewin, twice, Brenden Aaronson and Sean Longstaff all scored in the space 25 minutes as Liverpool failed to deal with Leeds’ strength at set-pieces and the disruption caused by a series of half-times changes. The drop-off from Liverpool, who led 2-0 at half-time, following the departures of Wirtz, Isak, Trey Nyoni and Rio Ngumoha was drastic.\n\n“Why are there so many fans?” an incredulous Chicago police officer asked his colleague as the crowds descended on Soldier Field, a stadium as impressive in design and location as the skyline that towers behind it. More than 32,000 had been present the previous night to see Robert Lewandowski mark his home debut for Chicago Fire with both goals in a 2-1 win over Dean Smith’s Charlotte FC. The lure of Liverpool and Leeds, even for a friendly, attracted an eye-catching 49,128 to the edge of Lake Michigan.\n\nWirtz and Isak had missed the midweek win over Wrexham in New York having started pre-season training only on Monday. Ring-rusty or not, they both brought an immediate improvement to Liverpool’s performance level and displayed a rapport that will be crucial to realising Iraola’s vision next season.\n\nIsak looked sharper, more aware of his teammates and more involved in a Liverpool performance than he did during a first season hindered by fitness and injury problems. The Sweden international played all four of his country’s games at the World Cup and, Liverpool will hope, may not need too much time to get back up to speed as a result. That appeared the case here.\n\nIt was Isak who instigated the counterattack that led to Liverpool winning a corner having weathered early set-piece pressure. Dominik Szoboszlai took it, Milos Kerkez deftly flicked it across the six-yard box and Luke Chambers lashed in the finishing touch. Isak also led Liverpool’s pressing game with an aggression and relentlessness that augurs well.\n\nWirtz was involved in much of Liverpool’s best work during his 45 minutes on the pitch. His instinctive link-up play with Isak and Ngumoha, who gave James Justin a torrid time at right back, caused Leeds frequent problems. Liverpool’s second goal five minutes before the break was a delight. Nyoni, who has enjoyed a fine tour at the heart of Iraola’s midfield, floated an inch-perfect cross into Jeremie Frimpong’s run down the right. Frimpong hooked the ball back across goal first time and Wirtz stole in between three Leeds players to slide home. On the touchline Farke berated the officials over an offside call that went ignored in the buildup.\n\nNyoni, Ngumoha, Wirtz and Isak were replaced as planned at the interval by Ryan Gravenberch, making his first appearance under Iraola, Lewis Koumas, Federico Chiesa and Curtis Jones respectively. Farke also made four half-time changes and the introduction of Calvert-Lewin, the new signing Harry Wilson, Longstaff and Aaronson brought the necessary improvement. The contest was completely transformed.\n\nThe Leeds comeback commenced with a mistake by Kerkez. His over-elaborate back-heel was seized on by Ethan Ampadu, who released Aaronson in space on the left of the Liverpool penalty area. The USA international beat Giorgi Mamardashvili with a confident low finish. Calvert-Lewin levelled from close range after Joe Rodon flicked on a long throw from Ampadu and, just two minutes later, a third of Farke’s half-time substitutes put Leeds ahead in slapstick fashion. Jones attempted to sweep away Aaronson’s low cross into the Liverpool area and succeeded only in turning the ball against Longstaff. The Leeds midfielder looked sheepish after the rebound trickled beyond a stunned Mamardashvili.\n\nKick off your evenings with the Guardian's take on the world of football\n\nLeeds were not done there. Worryingly for Iraola, his team were undone by an identical routine to Calvert-Lewin’s first goal. Another Ampadu long throw, another flick on, this time by the commanding new recruit Tarik Muharemovic, and the former Everton striker inflicted more punishment on Liverpool by converting a towering header off the underside of the crossbar.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-02 @ 15:42:12 EDT",
+  "lastUpdated": "2026-08-02 @ 18:56:56 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
