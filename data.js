@@ -4,8 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Dunkley leads Trent Rockets past SunRisers Leeds as MI London remain winless",
-      "link": "https://www.skysports.com/cricket/news/12040/13569158/the-hundred-sophia-dunkley-fifty-fires-trent-rockets-past-sunrisers-leeds-despite-annabel-sutherland-heroics"
+      "text": "⚽ FA set to withdraw support for Fifa president Infantino",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ SFA 'aligned with Uefa's lack of confidence in Infantino'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
+      "link": "https://www.theguardian.com/football/2026/aug/03/manchester-united-women-head-coach-marc-skinner-leaves-role-after-five-years"
     }
   ],
   "timeline": {
@@ -39328,11 +39336,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3154_0",
+            "category": "england",
+            "type": "News",
+            "title": "FA set to withdraw support for Fifa president Infantino",
+            "bullets": [
+              "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+            "fullText": "Gianni Infantino has been in charge of Fifa for 10 years\n\nThe English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support for him amid the fallout from hisscrapped plansto sell off stakes in Fifa competitions to private investors.\n\nIt comes as Uefa threatens legal action over the proposals andWales publicly withdraw backingfor Infantino's bid to continue as Fifa president.\n\nNext March, Infantino is set to stand for re-election for a fourth and final term as president and would need 106 votes from Fifa's 211 members to win.\n\nSources have told BBC Sport the Scottish FA's position on the future of Infantino remains aligned with Uefa's lack of confidence in the 56-year-old.\n\nInfantino's leadershiphad already been publicly questionedby football's governing bodies in Europe, North and Central America and the Caribbean, with Uefa and Concacaf releasing statements criticising the plans.\n\nFifa and Infantino wanted to create a commercial subsidiary to run its main events, including its World Cups, and external investors would have been able to buy stakes in it.\n\nWorld football's governing body said it would \"invite third parties to make minority, non-controlling investments\" in a new subsidiary called Fifa Forward Enterprise (FFE).\n\nAs first reported by The Telegraph, Uefa said in a letter to Infantino \"it is actively considering legal action, arbitration, and/or regulatory complaints (together, the 'proceedings') arising out of and in connection with the FFE plan proposed by Fifa\".\n\nUefa added it wants \"immediate steps\" to \"preserve all documents and electronically stored information\" in Fifa's possession \"independent\" of their internal policies that may result in \"routine document destruction or deletion\".\n\nA bruising 24 hours - what next for Fifa and under-pressure Infantino?\n\nCall for 'full review' as pressure grows on Infantino",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3154_1",
+            "category": "england",
+            "type": "News",
+            "title": "SFA 'aligned with Uefa's lack of confidence in Infantino'",
+            "bullets": [
+              "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+            "fullText": "Gianni Infantino has been in charge of Fifa for 10 years\n\nThe English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support for him amid the fallout from hisscrapped plansto sell off stakes in Fifa competitions to private investors.\n\nIt comes as Uefa threatens legal action over the proposals andWales publicly withdraw backingfor Infantino's bid to continue as Fifa president.\n\nNext March, Infantino is set to stand for re-election for a fourth and final term as president and would need 106 votes from Fifa's 211 members to win.\n\nSources have told BBC Sport the Scottish FA's position on the future of Infantino remains aligned with Uefa's lack of confidence in the 56-year-old.\n\nInfantino's leadershiphad already been publicly questionedby football's governing bodies in Europe, North and Central America and the Caribbean, with Uefa and Concacaf releasing statements criticising the plans.\n\nFifa and Infantino wanted to create a commercial subsidiary to run its main events, including its World Cups, and external investors would have been able to buy stakes in it.\n\nWorld football's governing body said it would \"invite third parties to make minority, non-controlling investments\" in a new subsidiary called Fifa Forward Enterprise (FFE).\n\nAs first reported by The Telegraph, Uefa said in a letter to Infantino \"it is actively considering legal action, arbitration, and/or regulatory complaints (together, the 'proceedings') arising out of and in connection with the FFE plan proposed by Fifa\".\n\nUefa added it wants \"immediate steps\" to \"preserve all documents and electronically stored information\" in Fifa's possession \"independent\" of their internal policies that may result in \"routine document destruction or deletion\".\n\nA bruising 24 hours - what next for Fifa and under-pressure Infantino?\n\nCall for 'full review' as pressure grows on Infantino",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3154_2",
+            "category": "england",
+            "type": "News",
+            "title": "Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
+            "bullets": [
+              "United want to grow homegrown talent rather than spendSkinner departs by mutual consent after five y...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "United want to grow homegrown talent rather than spendSkinner departs by mutual consent after five yearsMarc Skinner has left his role as Manchester United’s head coach by mutual consent after five years, partly because of the club’s transfer strategy. The 43-year-old is understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women’s Super League’s bigger spenders.The former Birmingham and Orlando head coach led Manchester United to three consecutive Women’s FA Cup finals between 2023 and 2025, winning one – and the club’s first major women’s trophy – in 2024 at Wembley with a 4-0 victory over . His side also reached the quarter-finals of the Women’s Champions League in 2025-26, as well as the League Cup final. Continue reading...",
+            "fullText": "United want to grow homegrown talent rather than spend\n\nMarc Skinner has left his role as Manchester United’s head coach by mutual consent after five years, partly because of the club’s transfer strategy. The 43-year-old is understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women’s Super League’s bigger spenders.\n\nThe former Birmingham and Orlando head coach led Manchester United to three consecutive Women’s FA Cup finals between 2023 and 2025, winning one – and the club’s first major women’s trophy – in 2024 at Wembley with a4-0 victory over. His side also reached the quarter-finals of the Women’s Champions League in 2025-26, as well asthe League Cup final.\n\nSkinner has repeatedly called for greater investment in the team in the transfer market and a change in strategy from the club this summerhas led to his exit.\n\nSkinner oversaw a second-placed finish in the 2022-23 campaign, the club’s highest league position, after a fourth-placed finish in his first season in charge, in 2021-22. United then finished fifth, third and fourth respectively in his final three years in charge.\n\nSources have indicated the women’s team has a new direction this summer, focused on building a team sustainably with homegrown players, which the club are understood to feel fits their identity of developing youth. Investments are being made into United’s academy.\n\nBut other sources have said Skinner was increasingly frustrated at seeing WSL sides outspend United. Thesale of French striker Melvine Malard to Chelsea, for a club-record fee in the region of £850,000, has caused concern about the club’s ambition for the upcoming season.\n\nIt comes while London City Lionesses –United’s opponents on the season’s opening dayon 4 September – have spent significantly on Spain’sAlexia PutellasandMapi León, as well as France winger Kadidiatou Diani.\n\nSources close to the club have indicated they feel such spending is not sustainable in the women’s game. Ultimately, discussions around these matters have concluded with the club and Skinner parting ways before a new campaign when the team can make a fresh start.\n\nNo topic is too small or too big for us to cover as we deliver a twice-weekly roundup of the wonderful world of women’s football\n\nSince it became clear Skinner would be leaving, the club have a shortlist of candidates and they are expected to name his replacement relatively quickly.\n\n“Marc leaves having made a significant contribution to the continued progress ofManchester United Women,” United said. “The club places on record its sincere thanks for his professionalism, commitment and dedication throughout his time at United, and wishes him every success in the future.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-03 @ 00:55:18 EDT",
+  "lastUpdated": "2026-08-03 @ 09:31:55 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
