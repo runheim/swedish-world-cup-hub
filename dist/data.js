@@ -14478,6 +14478,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Who's up for some FIFA tonight in my room?",
       "time": "12:59",
       "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "These new training balls are flying everywhere.",
+      "time": "08:26",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "08:27",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Anyone else still jetlagged?",
+      "time": "08:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "08:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Are we wearing the white or blue kits tomorrow?",
+      "time": "08:30",
+      "isCaptain": false
     }
   ]
 };
