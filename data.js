@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ England midfielder Henderson joins Chelsea",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ FA set to withdraw support for Fifa president Infantino",
       "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,8 +16,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cp30vg829nxo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Marc Skinner may have been a Marmite manager but Manchester United’s budget was spread thin | Tom Garry",
+      "link": "https://www.theguardian.com/football/2026/aug/03/marc-skinner-manchester-united-budget-wsl-womens-super-league"
+    },
+    {
       "text": "⚽ Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
       "link": "https://www.theguardian.com/football/2026/aug/03/manchester-united-women-head-coach-marc-skinner-leaves-role-after-five-years"
+    },
+    {
+      "text": "⚽ 'Couldn't turn it down' - Chelsea confirm Henderson signing",
+      "link": "https://www.skysports.com/football/news/12040/13569179/jordan-henderson-transfer-news-chelsea-confirm-signing-of-midfielder-following-brentford-exit"
     }
   ],
   "timeline": {
@@ -39393,11 +39405,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0912_0",
+            "category": "england",
+            "type": "News",
+            "title": "England midfielder Henderson joins Chelsea",
+            "bullets": [
+              "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier Leagu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+            "fullText": "Jordan Henderson made his Premier League debut against Chelsea nearly 18 years ago\n\nEngland midfielder Jordan Henderson has joinedChelseaon a two-year deal after his contract withBrentfordwas mutually terminated.\n\nHenderson, 36, captainedLiverpoolto the Premier League title in 2019-20 and also won the Champions League, FA Cup, League Cup twice, the Uefa Super Cup and the Fifa Club World Cup in his time at Anfield.\n\nIn 2023 he moved to Saudi Arabian club Al-Ettifaq, before joining Dutch side Ajax in January 2024, and returned to the Premier League withBrentfordlast summer, making 32 top-flight appearances in 2025-26.\n\n\"Given the size of the club, the manager [Xabi Alonso] who I have great admiration for, and the quality of the players, this was a huge opportunity I couldn't turn down,\" said Henderson.\n\n\"For me, it's about giving everything every single day, both on and off the field, to help the players around me and the team as much as possible. I'm very excited to get going.\"\n\nHenderson came through the ranks atSunderlandand made his Premier League debut for them as a substitute in a 5-0 loss toChelseaon 1 November, 2008.\n\nComo agree Â£31m deal to sign Chalobah from Chelsea\n\nAlonso heals Real Madrid scars to lead Chelsea's senior revolution\n\nHe earned the first of his 91 England caps in 2010 and has played in seven major international competitions, including the final of the European Championship in 2021 as the Three Lions lost on penalties to Italy.\n\nThis summer he became the first Englishman to feature in four different World Cups when he came on as a late substitute in the 2-0 victory over Panama.\n\nHowever, that would be his only appearance of the tournament as he then suffered abroken arm in freak circumstances.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0912_1",
+            "category": "england",
+            "type": "News",
+            "title": "FA set to withdraw support for Fifa president Infantino",
+            "bullets": [
+              "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+            "fullText": "Gianni Infantino has been in charge of Fifa for 10 years\n\nThe English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support for him amid the fallout from hisscrapped plansto sell off stakes in Fifa competitions to private investors.\n\nIt comes as Uefa threatens legal action over the proposals andWales publicly withdraw backingfor Infantino's bid to continue as Fifa president.\n\nNext March, Infantino is set to stand for re-election for a fourth and final term as president and would need 106 votes from Fifa's 211 members to win.\n\nSources have told BBC Sport the Scottish FA's position on the future of Infantino remains aligned with Uefa's lack of confidence in the 56-year-old.\n\nInfantino's leadershiphad already been publicly questionedby football's governing bodies in Europe, North and Central America and the Caribbean, with Uefa and Concacaf releasing statements criticising the plans.\n\nFifa and Infantino wanted to create a commercial subsidiary to run its main events, including its World Cups, and external investors would have been able to buy stakes in it.\n\nWorld football's governing body said it would \"invite third parties to make minority, non-controlling investments\" in a new subsidiary called Fifa Forward Enterprise (FFE).\n\nAs first reported by The Telegraph, Uefa said in a letter to Infantino \"it is actively considering legal action, arbitration, and/or regulatory complaints (together, the 'proceedings') arising out of and in connection with the FFE plan proposed by Fifa\".\n\nUefa added it wants \"immediate steps\" to \"preserve all documents and electronically stored information\" in Fifa's possession \"independent\" of their internal policies that may result in \"routine document destruction or deletion\".\n\nIf Infantino goes, who might replace him as Fifa president?\n\nA bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0912_2",
+            "category": "england",
+            "type": "News",
+            "title": "SFA 'aligned with Uefa's lack of confidence in Infantino'",
+            "bullets": [
+              "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support amid the fallout from his scrapped plans to sell off stakes in Fifa competitions to private investors.",
+            "fullText": "Gianni Infantino has been in charge of Fifa for 10 years\n\nThe English Football Association is set to write to Fifa president Gianni Infantino withdrawing its support for him amid the fallout from hisscrapped plansto sell off stakes in Fifa competitions to private investors.\n\nIt comes as Uefa threatens legal action over the proposals andWales publicly withdraw backingfor Infantino's bid to continue as Fifa president.\n\nNext March, Infantino is set to stand for re-election for a fourth and final term as president and would need 106 votes from Fifa's 211 members to win.\n\nSources have told BBC Sport the Scottish FA's position on the future of Infantino remains aligned with Uefa's lack of confidence in the 56-year-old.\n\nInfantino's leadershiphad already been publicly questionedby football's governing bodies in Europe, North and Central America and the Caribbean, with Uefa and Concacaf releasing statements criticising the plans.\n\nFifa and Infantino wanted to create a commercial subsidiary to run its main events, including its World Cups, and external investors would have been able to buy stakes in it.\n\nWorld football's governing body said it would \"invite third parties to make minority, non-controlling investments\" in a new subsidiary called Fifa Forward Enterprise (FFE).\n\nAs first reported by The Telegraph, Uefa said in a letter to Infantino \"it is actively considering legal action, arbitration, and/or regulatory complaints (together, the 'proceedings') arising out of and in connection with the FFE plan proposed by Fifa\".\n\nUefa added it wants \"immediate steps\" to \"preserve all documents and electronically stored information\" in Fifa's possession \"independent\" of their internal policies that may result in \"routine document destruction or deletion\".\n\nIf Infantino goes, who might replace him as Fifa president?\n\nA bruising 24 hours - what next for Fifa and under-pressure Infantino?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0912_3",
+            "category": "england",
+            "type": "News",
+            "title": "Marc Skinner may have been a Marmite manager but Manchester United’s budget was spread thin | Tom Garry",
+            "bullets": [
+              "He divided opinion but made the most of a small budget – his successor must work with youngsters not...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings“If we want to compete at this later stage, we’ve seen what we’ve got to do, as a club. It’s our choice now, isn’t it? We have to look at what we seriously want to achieve … It takes, sometimes, a punch in the face to wake up.”Those were the words of the Manchester United head coach Marc Skinner after his side went out of the Women’s Champions League with elimination by Bayern Munich in April. Just over four months later, the bruise from that punch has faded, but so, it would seem, have the club’s ambitions to compete in the transfer market, and Skinner has decided not to get into the ring for another round. Continue reading...",
+            "fullText": "He divided opinion but made the most of a small budget – his successor must work with youngsters not big signings\n\n“If we want to compete at this later stage, we’ve seen what we’ve got to do, as a club. It’s our choice now, isn’t it? We have to look at what we seriously want to achieve … It takes, sometimes, a punch in the face to wake up.”\n\nThose were the words of the Manchester United head coach Marc Skinner after his side went out of the Women’s Champions League with elimination by Bayern Munich in April. Just over four months later, the bruise from that punch has faded, but so, it would seem, have the club’s ambitions to compete in the transfer market, and Skinner has decided not to get into the ring for another round.\n\nThe 43-year-old wanted that run to the quarter-finals to trigger further investment in the starting team. The club, though, feel that the levels of spending in the transfer market are unsustainable and therefore want to focus on developing young, homegrown talent. Once that juxtaposition was firmly established this summer, it was inevitable that Skinner and United were likely to part company, as they did on Monday, to end his five years in charge.\n\nUnited’s Marmite manager, Skinner certainly divided opinion in the WSL. He was the league’s longest-serving manager by a distance, but arguably also the most heavily maligned coach online. In the sport, though, there are coaches who admire the job he did on – according to the most recent set of WSL clubs’ financial accounts – a little over a third of the playing budget of Chelsea and around half that of Arsenal’s.\n\nFor members of the media, Skinner’s press conferences will probably be one of the most memorable aspects of his tenure, unique because of the extensive length of the former Birmingham and Orlando head coach’s answers. For example, before the 2025 Women’s FA Cup final, one of his answers was 1,000 words long.\n\nTo some, his determination to provide long, considered responses was a sign of his thoughtfulness and showed an admirable desire to be transparent. To others, his drawn-out answers demonstrated an inability to be concise and this communication problem dogged his relationship with the fans throughout much of his tenure. Often, unintentionally, his words would irritate sections of the fanbase. In 2025, one former United player privately described Skinner as a “great bloke, but he goes on a bit” and it is fair to say not every player liked his team-talk style, while others enjoyed his passion.\n\nOn the pitch, the 2022-23 season, Skinner’s second, was the club’s strongest as they finished second in the table, boosted by a robust defensive record, conceding 12 times in 22 games, and they came within a whisker of winning the title. Then there was the comparatively low moment of languishing down in fifth in the 2024-25 campaign, counteracted by winning2025’s Women’s FA Cup, lifting United’s first major women’s trophy.\n\nYet, whether you loved him or loathed him at Leigh Sports Village, Skinner overachieved at United on a purely pound-for-pound basis, reaching four domestic cup finals – including three consecutive Women’s FA Cup finals – despite typically operating on a mid-table budget for much of his incumbency. He was certainly not every player’s cup of tea, and there will be lessons he will need to learn from the highs and lows of his five years at the club, but now that both of the coaches who have managed United’s women in the modern era have wanted to leave, in part, because of funding issues, there are questions for the club’s hierarchy to answer.\n\nNo topic is too small or too big for us to cover as we deliver a twice-weekly roundup of the wonderful world of women’s football\n\nIn the 2024-25 season, of the eight WSL clubs to publish their wage bills via Companies House, United’s ranked fourth for expenditure, and it was a similar story in 2023-24. For next season, they will operate on a far smaller wage bill than the big-spending independent club London City Lionesses and there are understood to be fears held among some staff at United that they are soon likely to be outbid for players’ wages by Tottenham too.\n\nThe club embarked on new direction this summer, establishing a long-term aim to sustainably succeed with young homegrown players and play exciting football in line with what they believe are the traditions of the club and their culture. Yet that seems to be at odds with the targets outlined during the 2024-25 season when their “Project 150” included a “Mission 1” for the women to win a first WSL title by the club’s 150th anniversary in 2028.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0913_4",
+            "category": "england",
+            "type": "News",
+            "title": "Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
+            "bullets": [
+              "United want to grow homegrown talent rather than spendSkinner departs by mutual consent after five y...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "United want to grow homegrown talent rather than spendSkinner departs by mutual consent after five yearsMarc Skinner has left his role as Manchester United’s head coach by mutual consent after five years, partly because of the club’s transfer ­strategy. The 43-year-old is ­understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women’s Super League’s bigger spenders.The former Birmingham and Orlando head coach led United to three consecutive Women’s FA&nbsp;Cup finals between 2023 and 2025, ­winning one – the club’s first major women’s trophy – in 2024 at Wembley with a 4-0 victory against Tottenham. They also reached the Women’s Champions League quarter‑finals, as well as the League Cup final, in 2025-26. Continue reading...",
+            "fullText": "United want to grow homegrown talent rather than spend\n\nMarc Skinner has left his role as Manchester United’s head coach by mutual consent after five years, partly because of the club’s transfer strategy. The 43-year-old is understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women’s Super League’s bigger spenders.\n\nThe former Birmingham and Orlando head coach led United to three consecutive Women’s FA Cup finals between 2023 and 2025, winning one – the club’s first major women’s trophy – in 2024 at Wembley with a4-0 victory against Tottenham. They also reached the Women’s Champions League quarter‑finals, as well asthe League Cup final, in 2025-26.\n\nSkinner has repeatedly called for greater investment in the team in the transfer market, and a change in strategy from the club this summer has led to his exit. He oversaw a second-placed finish in the 2022-23 campaign, the club’s highest league position, after a fourth-placed finish in 2021‑22, his first season in charge. United then finished fifth, third and fourth respectively in his final three years in charge.\n\nSources have indicated the women’s side has a new direction this summer, focused on building a team sustainably with homegrown players, which the club are understood to feel fits their identity of developing youth. Investments are being made into United’s academy.\n\nBut other sources have said Skinner was increasingly frustrated at seeing WSL sides outspend United. Thesale of the French striker Melvine Malard to Chelseathis summer, for a club-record fee in the region of £850,000, has caused concern about the club’s ambition for the upcoming season.\n\nIt comes while London City Lionesses –United’s opponents on the season’s opening dayon 4 September – have spent significantly on Spain’sAlexia PutellasandMapi León, as well as the France winger Kadidiatou Diani.\n\nSources close to the club have indicated that they feel such spending is not sustainable in the women’s game. Ultimately, discussions around these matters have concluded with the club and Skinner parting ways before a new campaign when the team can make a fresh start.\n\nNo topic is too small or too big for us to cover as we deliver a twice-weekly roundup of the wonderful world of women’s football\n\nSince it became clear that Skinner would be leaving, the club have put together a shortlist of candidates and are expected to name his replacement relatively quickly.\n\n“Marc leaves having made a significant contribution to the continued progress ofManchester United Women,” United said. “The club places on record its sincere thanks for his professionalism, commitment and dedication throughout his time at United, and wishes him every success in the future.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0913_5",
+            "category": "england",
+            "type": "News",
+            "title": "'Couldn't turn it down' - Chelsea confirm Henderson signing",
+            "bullets": [
+              "Chelsea have confirmed the signing of England midfielder Jordan Henderson.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea have confirmed the signing of England midfielder Jordan Henderson.",
+            "fullText": "Chelsea have confirmed the signing of Jordan Henderson; the 36-year-old has signed a two-year-deal at Stamford Bridge; Chelsea wanted to add experience to Xabi Alonso's squad and have now signed Henderson and Danny Welbeck, 35, in the same window",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-03 @ 09:31:55 EDT",
+  "lastUpdated": "2026-08-03 @ 13:09:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
