@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Lucas Bergvall and Alexander Isak log impressive training logs",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Scouts monitor Sweden's wide pressing lanes and transition speed",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Benjamin Nygren edges Celtic past Dundee for winning start to title defence",
+      "link": "https://www.theguardian.com/football/2026/aug/03/celtic-dundee-scottish-premiership-match-report"
     }
   ],
   "timeline": {
@@ -15051,11 +15035,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5424_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Benjamin Nygren edges Celtic past Dundee for winning start to title defence",
+            "bullets": [
+              "Benjamin Nygren was quickly back on the goal trail as Celtic began the defence of their Premiership ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Benjamin Nygren was quickly back on the goal trail as Celtic began the defence of their Premiership title with a 1-0 home win over Dundee. Before the game, Celtic fans cheered as the captain, Callum McGregor, unfurled the flag which confirmed again a 14th title win in 15 seasons.It was all a bit flat in a first half with Martin O’Neill’s side struggling to get into their stride as the visitors posed problems. However, the Sweden midfielder Nygren, so prolific last season with 21 goals, struck with a close-range header in the 52nd minute and the goal proved enough to keep the three points in Glasgow as a new season got up and running for the champions. Continue reading...",
+            "fullText": "Benjamin Nygren was quickly back on the goal trail as Celtic began the defence of their Premiership title with a 1-0 home win overDundee. Before the game, Celtic fans cheered as the captain, Callum McGregor, unfurled the flag which confirmed again a 14th title win in 15 seasons.\n\nIt was all a bit flat in a first half with Martin O’Neill’s side struggling to get into their stride as the visitors posed problems. However, the Sweden midfielder Nygren, so prolific last season with 21 goals, struck with a close-range header in the 52nd minute and the goal proved enough to keep the three points in Glasgow as a new season got up and runningfor the champions.\n\nCeltic supporters continue to call for new recruits to the squad but Camilo Durán, the Colombian striker signed from Qarabag reportedly for £5.5m, and Kasper Høgh, the Denmark forward who cost a club-record £11m plus add-ons from Bodø/Glimt, made their debuts.\n\nAlistair Johnston and Arne Engels, both attracting transfer interest, also started for the champions while the Dundee goalkeeper Owen Goodman came in for his debut.\n\nHøgh fired wide in the ninth minute after being set up by Nygren, then the Dane redirected an effort from Nygren past a post. Moments later at the other end, as the ball bounced around Celtic’s penalty area, Dundee’s Charlie Reilly hit the side netting with a shot from 12 yards.\n\nSteven Pressley’s well-drilled outfit were finding joy with the high ball, either crosses or throw-ins and in the 33rd minute defender Owen Bevan got his head to the ball in the box but the Celtic goalkeeper Viljami Sinisalo gathered comfortably.\n\nFive minutes later, Engels missed the best chance of the match to that point, unmarked in the visitors’ box, he headed a cross from Kieran Tierney past a post, before the Celtic left-back drew a fine save from Goodman with a close-range drive.\n\nThe home side faltered at the start of the second half but when Tierney curled in a cross from the left, Nygren headed past Goodman from inside the box and the growing anxiety subsided.\n\nCeltic will face LASK in the Champions League playoffs.\n\nMartin O’Neill’s side were drawn out first against the Austrian champions. The Linz-based club won the Austrian Bundesliga for the second time last season, finishing two points ahead of the defending champions Sturm Graz.\n\nThe Hoops avoided a potential rematch with Kairat Almaty, who knocked Celtic out on penalties at the same stage last season following a goalless 210 minutes of action.\n\nThe first leg will take place on 18/19 August, with the second leg the following week.PA Media",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-03 @ 16:09:27 EDT",
+  "lastUpdated": "2026-08-03 @ 18:54:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
