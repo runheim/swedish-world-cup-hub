@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
-      "link": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
-    },
-    {
       "text": "⚽ Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030",
       "link": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-new-contract-us-soccer-world-cup"
+    },
+    {
+      "text": "⚽ Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+      "link": "https://www.theguardian.com/football/2026/aug/03/mauricio-pochettino-usmnt-return"
     }
   ],
   "timeline": {
@@ -10165,11 +10165,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5630_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino agrees deal to stay as US coach through World Cup 2030",
+            "bullets": [
+              "Pochettino joined US national team in 2024Coach led US to last 16 at 2026 World CupUS men’s national...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Pochettino joined US national team in 2024Coach led US to last 16 at 2026 World CupUS men’s national team head coach Mauricio Pochettino and the US Soccer Federation have agreed to a contract extension that will keep Pochettino attached to the program through 2030, US Soccer announced on Monday.The two sides had been actively engaged in discussions on a contract extension for several months, long before the USMNT’s disappointing, last-16 exit in this summer’s World Cup, with the federation making it clear it desired Pochettino to stay. Conversations picked up in the weeks following the World Cup, with the Guardian reporting last week that the sides had been in the “final stages” of agreeing to a deal. Financial details of the contract extension were not released, but Pochettino is expected to get a raise on top of the $6m per year he earned under his previous deal with the federation – already the largest outlay for a US head coach. Continue reading...",
+            "fullText": "US men’s national team head coachMauricio Pochettinoand the US Soccer Federation have agreed to a contract extension that will keep Pochettino attached to the program through 2030, US Soccer announced on Monday.\n\nThe two sides had been actively engaged in discussions on a contract extension for several months, long before the USMNT’s disappointing, last-16 exit in this summer’s World Cup, with the federation making it clear it desired Pochettino to stay. Conversations picked up in the weeks following the World Cup, with the Guardianreportinglast week that the sides had been in the “final stages” of agreeing to a deal. Financial details of the contract extension were not released, but Pochettino is expected to get a raise on top of the $6m per year he earned under his previous deal with the federation – already the largest outlay for a US head coach.\n\nThe Guardian understands that billionaire hedge fund manager Ken Griffin, who bankrolled US Soccer’s initial contract with Pochettino, will once again be the primary funder for the new deal. A source familiar with the agreement characterized Pochettino’s return as being in an “expanded role.” Another source said the primary focus of Pochettino and his staff will be on the senior US team, while the federation’s announcement said that the coaching staff will “advise and support” the federation on “the broader development of the full national team pathway, youth soccer, coaching education, professional league collaboration and other technical facets across the soccer community.”\n\n“It has become clear to us that there is tremendous potential to make the men’s national team program even stronger,” Pochettino said in US Soccer’s announcement. “The passion we experienced from the fans throughout theWorld Cuponly strengthened our belief in what is possible here. We are excited by the opportunity to bring all our experience and knowledge to even more areas of U.S. Soccer while helping strengthen the pathways for players, coaches and teams across the Federation.”\n\nUnder Pochettino, the US’s World Cup got off to a bright start and featured arguably the program’s best-ever performance at the tournament, a comprehensive,4-1 dismantling of Paraguayin their group-stage opener. Strong efforts against Australia and Bosnia and Herzegovina followed, setting the stage for the last-16 encounter with Belgium. The US were outclassed in every way in that match, with Pochettino – along with many players – taking the brunt of the blame for the loss.\n\nPochettino is widely liked by players and staff, with some crediting the coach for overhauling the group’s mentality. He clashed with some players who he felt weren’t fully committed, most notably Milan midfielder Christian Pulisic, going as far as to air his grievances publicly. His relationship with the media alsocame under scrutinyin his tenure, the result of a handful of dust-ups with reporters and journalists who cover the team regularly.\n\nAfter the USMNT’s crashout against Belgium, Pochettino expressed pride in the work his staff had done with players. He had been at the helm for about 20 months at that point, and Pochettino suggested that the truncated tenure had only been enough to evaluate the group properly and put standards and practices in place.\n\n“With good things and not so good things,” Pochettino told the Guardian after the Belgium loss, “it was amazing, this journey. It still hasn’t been two years working here. And we all know that a process is about a four-year cycle. Today I think we closed the chapter about assessing players, playing in that competition that is so difficult. I think now we have a complete assessment from a lot of players, and if we commit to be here in the future, we have a clear idea of our decisions for the future – before, it was very difficult.”\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nDuring his time with the US, Pochettino has put together a respectable record of 18 wins, 12 losses and one draw. His early struggles included a fourth-place finish in the 2025 Nations League and a loss to Mexico in the final of the Gold Cup, a tournament he navigated with a heavily rotated squad. He did have his highlights – the electrifying start to this summer’s World Cup, anda 5-1 thrashing of Uruguayin a friendly that ranks as one of the program’s most surprising results.\n\nStill, Pochettino was largely hired to do one job: advance the US past the last 16 and into the quarter-finals at a home World Cup. He did not manage to do so, but the federation has now offered him another chance to hit that goal in 2030.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5630_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Mauricio Pochettino’s US return is risky, expensive and probably unnecessary | Leander Schaerlaeckens",
+            "bullets": [
+              "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefitM...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefitMauricio Pochettino and US Soccer enjoyed their time together.Or, rather, they enshoyed it, as Pochettino would pronounce it in his thick Argentinian accent, which charmingly carries over when he speaks English. Continue reading...",
+            "fullText": "In giving the head coach another World Cup cycle, US Soccer is tempting fate for negligible benefit\n\nMauricio Pochettino and US Soccer enjoyed their time together.\n\nOr, rather, theyenshoyedit, as Pochettino would pronounce it in his thick Argentinian accent, which charmingly carries over when he speaks English.\n\nNevertheless, the two sides should have moved on from each other.\n\nFrom his 10 September 2024 appointment through the US men’s national team’s 4-1 last-16 World Cup elimination at the hands of Belgium on 6 July, Pochettino had broadly accomplished what he was brought in to do.\n\nHe energized a team who had grown stale. He found a playing system and style that suited a generation of USMNT players who were unprecedented in their pedigree and talent but lacked difference-makers on the World Cup stage. He coaxed from themtwo excellent performances– including a 4-1 hammering of Paraguay that was surely the best the Americans have ever looked at a World Cup – and two very good ones. Then it all caved in against Belgium after the good vibes had been ruined by a meddlesome president in all that Folarin Balogun suspension/unsuspension business.\n\nNow,he will be back, having accepted a contract offer extended to him by the US Soccer Federation before the World Cup and kept on the table after the team was eliminated a round sooner than many had hoped they would reach. Pochettino’s new deal runs through the 2030 World Cup, giving him a full cycle to try again.\n\nThis is something of a gamble. The inclination to see what Pochettino will construct atop the sturdy foundations he laid is understandable, but it assumes that he even stays through the length of his new deal.\n\nIt feels like the Argentinian and his staff are still here on account of the absence of opportunity elsewhere, to coach the sort of club he has worked for over the course of a decade – the likes of Tottenham Hotspur, Paris Saint-Germain, Chelsea. Perhaps he settled for a prolonged stay with the US men by default; perhaps not. Before the World Cup, Pochettino was reportedly in talks with Milan, who ultimately hired Ruben Amorim as manager instead.\n\nIt seems unlikely Pochettino will actually stick around four more years as one top coaching job after another opens up and he invariably winds up on the lists of rumored candidates. Should he leave early, the team will once again be starting over mid-cycle.\n\nBesides, the job he returns to is very different from the one he has done.\n\nFor the USMNT, World Cup qualifiers for 2030won’t even startuntil November of 2027, although there will be editions of the Concacaf Nations League and Gold Cup to slog through before then – to say nothing of a great many friendlies against teams you are largely supposed to beat every time. The final round of World Cup qualifying will be played in June of 2028 and the fall of 2029, after still more Nations League and Gold Cup duties. Mind you, Concacaf will have six places at the next World Cup, with a possible seventh through a playoff – as opposed to three automatic berths for the 2022 World Cup, the last edition before the tournament expanded and was hosted in this region. The stakes and peril will simply not be the same as before. The adrenaline rush of high-stakes games is an awfully long way off.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-04 @ 00:37:40 EDT",
+  "lastUpdated": "2026-08-04 @ 08:56:46 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
