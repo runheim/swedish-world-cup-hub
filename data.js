@@ -39650,10 +39650,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-04": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3706_0",
+            "category": "england",
+            "type": "News",
+            "title": "England midfielder Henderson joins Chelsea",
+            "bullets": [
+              "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier Leagu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+            "fullText": "Jordan Henderson made his Premier League debut against Chelsea nearly 18 years ago\n\nEngland midfielder Jordan Henderson has joinedChelseaon a two-year deal after his contract withBrentfordwas mutually terminated.\n\nHenderson, 36, captainedLiverpoolto the Premier League title in 2019-20 and also won the Champions League, FA Cup, League Cup twice, the Uefa Super Cup and the Fifa Club World Cup in his time at Anfield.\n\nIn 2023 he moved to Saudi Arabian club Al-Ettifaq, before joining Dutch side Ajax in January 2024, and returned to the Premier League withBrentfordlast summer, making 32 top-flight appearances in 2025-26.\n\n\"Given the size of the club, the manager [Xabi Alonso] who I have great admiration for, and the quality of the players, this was a huge opportunity I couldn't turn down,\" said Henderson.\n\n\"For me, it's about giving everything every single day, both on and off the field, to help the players around me and the team as much as possible. I'm very excited to get going.\"\n\nHenderson came through the ranks atSunderlandand made his Premier League debut for them as a substitute in a 5-0 loss toChelseaon 1 November, 2008.\n\nComo agree Â£31m deal to sign Chalobah from Chelsea\n\nAlonso heals Real Madrid scars to lead Chelsea's senior revolution\n\nHe earned the first of his 91 England caps in 2010 and has played in seven major international competitions, including the final of the European Championship in 2021 as the Three Lions lost on penalties to Italy.\n\nThis summer he became the first Englishman to feature in four different World Cups when he came on as a late substitute in the 2-0 victory over Panama.\n\nHowever, that would be his only appearance of the tournament as he then suffered abroken arm in freak circumstances.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3706_1",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+            "bullets": [
+              "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTrevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England defender’s departure was agreed on the same day the club completed the signing of Jordan Henderson.Chalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club. The move will be seen as a coup for Como’s head coach, Cesc Fàbregas, with the former Chelsea midfielder pushing to bring the centre-back to Italy. Continue reading...",
+            "fullText": "Trevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m.The England defender’s departure was agreed on the same day the club completed the signing of Jordan Henderson.\n\nChalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club. The move will be seen as a coupfor Como’s head coach, Cesc Fàbregas, with the former Chelsea midfielder pushing to bring the centre-back to Italy.\n\nThe clubs have settled on a package that includes £5.1m in performance-related add-ons and a sell-on clause. For Chelsea, the departure of another homegrown academy product – Chalobah, now 27, has been at the club since he was eight – will generate pure profit, a key factor as they continueto balance the books.\n\nOn another busy day in west Londonthe new manager, Xabi Alonso, welcomed Henderson to the club after his departure from Brentford. The 36-year-old joined on a free transfer after playing 34 times for the Bees last season, a campaign that also earned him a place in England’s World Cup squad.\n\n“Given the size of the club, the manager, who I have great admiration for, and the quality of the players, this was a huge opportunity I couldn’t turn down,” Henderson said. “I was so impressed with how much the ownership ‌wantChelseato be successful and move in the right direction.”\n\nHenderson came through Sunderland’s academy before joining Liverpool in 2011. He spent 12 seasons at Anfield, playing 492 games in all competitions, and captained the team toChampions League victory in 2019and the ‌Premier League title in 2020.\n\nHe left Liverpoolfor Al-Ettifaqin the Saudi Pro League in 2023, but ​six months laterjoined Ajax. He moved on again last summerto join Brentford.\n\nHenderson played six minutes at the World Cupbefore breaking an armin a post-match accident after England’s last-16 victory against Mexico. He is Chelsea’s fourth English signing of the transfer window, afterthe record acquisition of Morgan Rogers​from Aston Villa,Danny Welbeck from Brightonand the teenager Harrison Bettoni from Wigan.\n\nKick off your evenings with the Guardian's take on the world of football\n\nGonzalo García has joined Fulham from Real Madrid for £34m on a five-year contract. The deal, which includes an option for the club to extend by a further 12 months, sees the 22-year-old Spanish striker reunite with former Real head coach, Alvaro Arbeloa. Garcia said: “I’m very grateful, very happy to be here. I have to thank the board and Arbeloa for the trust they’ve put in me, and I’m very, very excited to start.”Garcia had been with Real since joining in 2014 aged 10 and made 39 appearances forLos Blancoslast season, registering eight goals and three assists.\n\nCésar Palacios has also made the switch from the Bernabéu to Craven Cottage for an undisclosed fee. The 21-year-old attacking midfielder will wear the No 8 shirt.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3706_2",
+            "category": "england",
+            "type": "News",
+            "title": "Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
+            "bullets": [
+              "United want to grow homegrown talent rather than spendSkinner departs by mutual consent after five y...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "United want to grow homegrown talent rather than spendSkinner departs by mutual consent after five yearsMarc Skinner has left his role as Manchester United’s head coach by mutual consent after five years, partly because of the club’s transfer strategy. The 43-year-old is understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women’s Super League’s bigger spenders.The former Birmingham and Orlando head coach led United to three consecutive Women’s FA Cup finals between 2023 and 2025, winning one – the club’s first major women’s trophy – in 2024 at Wembley with a 4-0 victory against Tottenham. They also reached the Women’s Champions League quarter‑finals, as well as the League Cup final, in 2025-26. Continue reading...",
+            "fullText": "United want to grow homegrown talent rather than spend\n\nMarc Skinner has left his role as Manchester United’s head coach by mutual consent after five years, partly because of the club’s transfer strategy. The 43-year-old is understood to have initiated the discussions that led to his departure, having felt it was the right time to leave the club. United are focusing on developing young players, rather than enter into bidding wars with some of the Women’s Super League’s bigger spenders.\n\nThe former Birmingham and Orlando head coach led United to three consecutive Women’s FA Cup finals between 2023 and 2025, winning one – the club’s first major women’s trophy – in 2024 at Wembley with a4-0 victory against Tottenham. They also reached the Women’s Champions League quarter‑finals, as well asthe League Cup final, in 2025-26.\n\nSkinner has repeatedly called for greater investment in the team in the transfer market, and a change in strategy from the club this summer has led to his exit. He oversaw a second-placed finish in the 2022-23 campaign, the club’s highest league position, after a fourth-placed finish in 2021‑22, his first season in charge. United then finished fifth, third and fourth respectively in his final three years in charge.\n\nSources have indicated the women’s side has a new direction this summer, focused on building a team sustainably with homegrown players, which the club are understood to feel fits their identity of developing youth. Investments are being made into United’s academy.\n\nBut other sources have said Skinner was increasingly frustrated at seeing WSL sides outspend United. Thesale of the French striker Melvine Malard to Chelseathis summer, for a club-record fee in the region of £850,000, has caused concern about the club’s ambition for the upcoming season.\n\nIt comes while London City Lionesses –United’s opponents on the season’s opening dayon 4 September – have spent significantly on Spain’sAlexia PutellasandMapi León, as well as the France winger Kadidiatou Diani.\n\nSources close to the club have indicated that they feel such spending is not sustainable in the women’s game. Ultimately, discussions around these matters have concluded with the club and Skinner parting ways before a new campaign when the team can make a fresh start.\n\nNo topic is too small or too big for us to cover as we deliver a twice-weekly roundup of the wonderful world of women’s football\n\nSince it became clear that Skinner would be leaving, the club have put together a shortlist of candidates and are expected to name his replacement relatively quickly.\n\n“Marc leaves having made a significant contribution to the continued progress ofManchester United Women,” United said. “The club places on record its sincere thanks for his professionalism, commitment and dedication throughout his time at United, and wishes him every success in the future.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-03 @ 19:00:39 EDT",
+  "lastUpdated": "2026-08-04 @ 00:37:09 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
