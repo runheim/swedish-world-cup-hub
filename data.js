@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ England midfielder Henderson joins Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
       "link": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"
+    },
+    {
+      "text": "⚽ Chelsea, Jordan Henderson and a transfer pivot for the ages",
+      "link": "https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-henderson-transfer-pivot-for-the-ages-football-daily"
     },
     {
       "text": "⚽ Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
@@ -39765,11 +39765,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_5106_0",
+            "category": "england",
+            "type": "News",
+            "title": "Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
+            "bullets": [
+              "Senior Fifa duo pile pressure on under-fire presidentWenger reveals he knew nothing about investment...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Senior Fifa duo pile pressure on under-fire presidentWenger reveals he knew nothing about investment planGianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general, Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”.In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football. Continue reading...",
+            "fullText": "Senior Fifa duo pile pressure on under-fire president\n\nWenger reveals he knew nothing about investment plan\n\nGianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general, Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”.\n\nIn further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme,Arsène Wengerissued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football.\n\nThe comments by Grafström and Wenger followthe resignation last week of Carlos Cordeiro, a senior adviser to Infantino, and a scathing rebuke from the Fifa chief operating officer, Kevin Lamour, in which he said the administration had been “deceived” by its president.\n\nGrafström spoke out in an email toFifastaff, referring to an “extraordinary and challenging” week. His message stopped short of criticising Infantino by name and promised to shield colleagues from the strife ravaging their organisation.\n\nIn a section referring to the perceived success of the World Cup this summer, he wrote: “A sad and reproachable series of events – which were thankfully concluded with the FFE [Fifa Forward Enterprise] project permanently abandoned – for as much as we feel dismayed by them, should not overshadow this reality.\n\n“We have all been thrown into the middle of a turmoil, which is difficult to comprehend and accept, but, as secretary general, I urge you to remain focused on what has always united us: serving football and serving our 211 member associations, hand in hand with all relevant stakeholders and in full compliance with the Fifa statutes and Fifa regulations.\n\n“I assure you that as members of the administration, you will be defended and safeguarded from the political context we currently experience. You do not need to worry.\n\n“Individuals, unstable moments and unfortunate episodes come and go. The institution, its mission and its responsibility towards world football continue, and that is why we should always keep our professionalism, sense of perspective and composure.”\n\nSuch strong words from Infantino’s deputy will heighten the sense that the president is becoming isolated within the upper echelons of his own administration.\n\nMeanwhile Wenger, who assumed his Fifa position in November 2019, confirmed he had been among the many senior Fifa staff sidelined by Infantino’s plan. “I was not involved in this strategic plan and first became aware of the project through media reports,” he said.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5106_1",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea, Jordan Henderson and a transfer pivot for the ages",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Who’s next? Can they convince Craig Gordon to rev...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Who’s next? Can they convince Craig Gordon to reverse his recent retirement? Invite Bolo Zenden back for a second spell at Stamford Bridge? Get Kieran Richardson to replace Marc Cucurella? Chelsea really have cooked up a fascinating transfer policy: to recreate the Sunderland XI that triumphed 3-0 at the Bridge in November 2010. Danny Welbeck, 19 and on loan from Manchester United, sealed victory that day; Jordan Henderson, 20 and days away from his England debut, ran things in the middle alongside Lee Cattermole. Sixteen years later, Welbeck and Henderson are teammates once again, brought together by Chelsea’s sudden realisation that Alan Hansen had a point.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nWho’s next? Can they convince Craig Gordon to reverse his recent retirement? Invite Bolo Zenden back for a second spell at Stamford Bridge? Get Kieran Richardson to replace Marc Cucurella? Chelsea really have cooked up a fascinating transfer policy: to recreatethe Sunderland XI that triumphed 3-0 at the Bridgein November 2010. Danny Welbeck, 19 and on loan from Manchester United, sealed victory that day; Jordan Henderson, 20 and days away from his England debut, ran things in the middle alongside Lee Cattermole. Sixteen years later, Welbeck and Henderson are teammates once again, brought together by Chelsea’s sudden realisation thatAlan Hansen had a point.\n\nHenderson continues to surprise with his post-Liverpool career path,swapping Dammam for Amsterdambefore exploring thedifferent corners of west London, all in the space of three years. How can one say no to the charms of Xabi Alonso? “Given the size of the club, the manager, who I have great admiration for, and the quality of the ⁠players, this was a huge opportunity I couldn’t turn down,”Henderson bellowed, before awarding BlueCo a medal for participation. “I was also so impressed with how much the ownership want Chelsea to be successful and move in the right direction.”\n\nIt’ll take some time getting used to Henderson in blue, though you wonder just how much we’ll see of him on the pitch, his reputation nowadays less focused on what he does with the ball at his feet. Now it’s all about his role as The Standard Setter, the peace lily that brings a dressing room together. “The best guy I’ve ever come across I think in football,” cooed Morgan Rogers while on duty for England this summer, a view also taken by Jude Bellingham.Chelsea’s new record signingwill surely welcome the soothing instructions of Hendo at Cobham.\n\nThe club’s pivot in transfer strategy is, of course, incredibly amusing: spending gargantuan sums on young talent before clocking on to the grand idea that not all of your first-team players should be eligible for a railcard. And even then, old habits die hard: the signing of Welbeck is yet another from Brighton, following the same path taken in recent seasons by Cucurella, Moisés Caicedo, Robert Sánchez and João Pedro. It all makes for a spectacular act of plagiarism, with Alonso’sChelseacombining the Tony Bloom project down south with a flavour of Steve Bruce’s Sunderland. Football Daily looks forward to reading about Nedum Onuoha in Wednesday’s Rumour Mill.\n\n“I was not involved in this strategic plan and first became aware of the project through media reports. The decision to withdraw the project was absolutely necessary and beyond question, because I firmly believe in an independent Fifa that serves our game with commitment, transparency, and integrity” – Arsène Wenger, these days Fifa’s chief of global development,puts a metaphorical moatbetween himself and his president, Gianni Infantino. Fifa secretary general Mattias Grafström, Infantino’s No 2, has also called the failed World Cup private investment plan a “sad and reproachable series of events”.\n\nBig Website: onBlueSpace,TikBook,Instachat, you name it.\n\n“Whoever wrote the Uefa statements over the weekend deserves a pay rise. Crystal clear messages, each line dripping with contempt and – for once – speaking for millions of football fans. ‘Thou shalt not pass’ at its best” – Gabriele Weber.\n\n“The sublime Marcus Stewart scored for Huddersfield at Wolverhampton in September 1999, the game’s only goal,with a Panenka. Steve Bruce, his manager, said that, if he ever tried to do that again, he’d chip him. He took the warning seriously and didn’t try another even after Bruce left the club. Please give this a little space in your diary; not for my sake, but for Marcus’s, as hecontends with the most appalling illness” – Richard Askham.\n\n“Has anyone ever seen Infantino and The Hood from Thunderbirds in the same room?” – Craig Fawcett.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Gabriele Weber. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5106_2",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+            "bullets": [
+              "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTrevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England defender’s departure was agreed on the same day the club completed the signing of Jordan Henderson.Chalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club. The move will be seen as a coup for Como’s head coach, Cesc Fàbregas, with the former Chelsea midfielder pushing to bring the centre-back to Italy. Continue reading...",
+            "fullText": "Trevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m.The England defender’s departure was agreed on the same day the club completed the signing of Jordan Henderson.\n\nChalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club. The move will be seen as a coupfor Como’s head coach, Cesc Fàbregas, with the former Chelsea midfielder pushing to bring the centre-back to Italy.\n\nThe clubs have settled on a package that includes £5.1m in performance-related add-ons and a sell-on clause. For Chelsea, the departure of another homegrown academy product – Chalobah, now 27, has been at the club since he was eight – will generate pure profit, a key factor as they continueto balance the books.\n\nOn another busy day in west Londonthe new manager, Xabi Alonso, welcomed Henderson to the club after his departure from Brentford. The 36-year-old joined on a free transfer after playing 34 times for the Bees last season, a campaign that also earned him a place in England’s World Cup squad.\n\n“Given the size of the club, the manager, who I have great admiration for, and the quality of the players, this was a huge opportunity I couldn’t turn down,” Henderson said. “I was so impressed with how much the ownership ‌wantChelseato be successful and move in the right direction.”\n\nHenderson came through Sunderland’s academy before joining Liverpool in 2011. He spent 12 seasons at Anfield, playing 492 games in all competitions, and captained the team toChampions League victory in 2019and the ‌Premier League title in 2020.\n\nHe left Liverpoolfor Al-Ettifaqin the Saudi Pro League in 2023, but ​six months laterjoined Ajax. He moved on again last summerto join Brentford.\n\nHenderson played six minutes at the World Cupbefore breaking an armin a post-match accident after England’s last-16 victory against Mexico. He is Chelsea’s fourth English signing of the transfer window, afterthe record acquisition of Morgan Rogers​from Aston Villa,Danny Welbeck from Brightonand the teenager Harrison Bettoni from Wigan.\n\nKick off your evenings with the Guardian's take on the world of football\n\nGonzalo García has joined Fulham from Real Madrid for £34m on a five-year contract. The deal, which includes an option for the club to extend by a further 12 months, sees the 22-year-old Spanish striker reunite with former Real head coach, Alvaro Arbeloa. Garcia said: “I’m very grateful, very happy to be here. I have to thank the board and Arbeloa for the trust they’ve put in me, and I’m very, very excited to start.”Garcia had been with Real since joining in 2014 aged 10 and made 39 appearances forLos Blancoslast season, registering eight goals and three assists.\n\nCésar Palacios has also made the switch from the Bernabéu to Craven Cottage for an undisclosed fee. The 21-year-old attacking midfielder will wear the No 8 shirt.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-04 @ 08:51:44 EDT",
+  "lastUpdated": "2026-08-04 @ 12:51:11 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
