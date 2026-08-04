@@ -8,12 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c62qnnrzqk5o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
-      "link": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
+      "text": "⚽ Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
+      "link": "https://www.theguardian.com/football/2026/aug/04/arsene-wenger-gianni-infantino-grafstrom-criticise-world-cup-plan-fifa"
     },
     {
-      "text": "⚽ Marc Skinner leaves Manchester United Women head coach role amid transfer frustration",
-      "link": "https://www.theguardian.com/football/2026/aug/03/manchester-united-women-head-coach-marc-skinner-leaves-role-after-five-years"
+      "text": "⚽ Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+      "link": "https://www.theguardian.com/football/2026/aug/03/transfer-roundup-chelsea-sell-trevoh-chalobah-sign-jordan-henderson"
     }
   ],
   "timeline": {
@@ -39708,11 +39708,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5140_0",
+            "category": "england",
+            "type": "News",
+            "title": "England midfielder Henderson joins Chelsea",
+            "bullets": [
+              "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier Leagu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Free agent Jordan Henderson signs a two-year deal with Chelsea after his contract with Premier League rivals Brentford is mutually terminated.",
+            "fullText": "Jordan Henderson made his Premier League debut against Chelsea nearly 18 years ago\n\nEngland midfielder Jordan Henderson has joinedChelseaon a two-year deal after his contract withBrentfordwas mutually terminated.\n\nHenderson, 36, captainedLiverpoolto the Premier League title in 2019-20 and also won the Champions League, FA Cup, League Cup twice, the Uefa Super Cup and the Fifa Club World Cup in his time at Anfield.\n\nIn 2023 he moved to Saudi Arabian club Al-Ettifaq, before joining Dutch side Ajax in January 2024, and returned to the Premier League withBrentfordlast summer, making 32 top-flight appearances in 2025-26.\n\n\"Given the size of the club, the manager [Xabi Alonso] who I have great admiration for, and the quality of the players, this was a huge opportunity I couldn't turn down,\" said Henderson.\n\n\"For me, it's about giving everything every single day, both on and off the field, to help the players around me and the team as much as possible. I'm very excited to get going.\"\n\nHenderson came through the ranks atSunderlandand made his Premier League debut for them as a substitute in a 5-0 loss toChelseaon 1 November 2008.\n\nComo agree Â£31m deal to sign Chalobah from Chelsea\n\nAlonso heals Real Madrid scars to lead Chelsea's senior revolution\n\nHe earned the first of his 91 England caps in 2010 and has played in seven major tournaments, including the final of the European Championship in 2021 as the Three Lions lost on penalties to Italy.\n\nThis summer he became the first Englishman to feature in four different World Cups when he came on as a late substitute in the 2-0 victory over Panama.\n\nHowever, that would be his only appearance of the tournament as he then suffered abroken arm in freak circumstances.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5140_1",
+            "category": "england",
+            "type": "News",
+            "title": "Wenger and Infantino’s No 2 Grafström criticise ‘sad and reproachable’ World Cup plan",
+            "bullets": [
+              "Senior Fifa duo pile pressure on under-fire presidentWenger reveals he knew nothing about investment...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Senior Fifa duo pile pressure on under-fire presidentWenger reveals he knew nothing about investment planGianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”.In further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme, Arsène Wenger issued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football. Continue reading...",
+            "fullText": "Senior Fifa duo pile pressure on under-fire president\n\nWenger reveals he knew nothing about investment plan\n\nGianni Infantino’s authority was dealt a further blow after his No 2, the Fifa secretary general Mattias Grafström, called the failed World Cup private investment plan a “sad and reproachable series of events”.\n\nIn further evidence that senior Fifa personnel continue to distance themselves from Infantino and his botched scheme,Arsène Wengerissued a statement on Tuesday morning saying the project’s withdrawal was “absolutely necessary and beyond question”. The former Arsenal manager is Fifa’s chief of global development and had publicly been silent about the crisis unfolding in world football.\n\nThe comments by Grafström and Wenger followlast week’s resignation of Carlos Cordeiro, a senior advisor to Infantino, and a scathing rebuke from the Fifa chief operating officer, Kevin Lamour, in which he said the administration had been “deceived” by its president.\n\nGrafström spoke out in an email toFifastaff, seen by the Guardian, referring to an “extraordinary and challenging” week. His message stopped short of criticising Infantino by name and promised to shield colleagues from the strife ravaging their organisation.\n\nIn a section referring to the perceived success of this summer’s World Cup, he wrote: “A sad and reproachable series of events – which were thankfully concluded with the FFE project permanently abandoned – for as much as we feel dismayed by them, should not overshadow this reality.\n\n“We have all been thrown into the middle of a turmoil, which is difficult to comprehend and accept, but, as secretary general, I urge you to remain focused on what has always united us: serving football and serving our 211 Member Associations, hand in hand with all relevant stakeholders and in full compliance with the Fifa Statutes and Fifa Regulations.\n\n“I assure you that as members of the administration, you will be defended and safeguarded from the political context we currently experience. You do not need to worry.\n\n“Individuals, unstable moments and unfortunate episodes come and go. The institution, its mission and its responsibility towards world football continue, and that is why we should always keep our professionalism, sense of perspective and composure.”\n\nSuch strong words from Infantino’s deputy will heighten the sense that the president is becoming isolated within the upper echelons of his own administration.\n\nMeanwhile Wenger, who assumed his current position in November 2019, confirmed he had been among the many senior Fifa staff sidelined by Infantino’s plan. “I was not involved in this strategic plan and first became aware of the project through media reports,” he said. “The decision to withdraw the project was absolutely necessary and beyond question, because I firmly believe in an independent Fifa that serves our game with commitment, transparency, and integrity.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5140_2",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer roundup: Chelsea sell Trevoh Chalobah and sign Jordan Henderson",
+            "bullets": [
+              "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chalobah to join Cesc Fàbregas at Como for £27.5mFulham sign Real Madrid’s Gonzalo García for £34mTrevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m. The England defender’s departure was agreed on the same day the club completed the signing of Jordan Henderson.Chalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club. The move will be seen as a coup for Como’s head coach, Cesc Fàbregas, with the former Chelsea midfielder pushing to bring the centre-back to Italy. Continue reading...",
+            "fullText": "Trevoh Chalobah’s long association with Chelsea is to end after Como agreed a deal worth an initial £25.7m.The England defender’s departure was agreed on the same day the club completed the signing of Jordan Henderson.\n\nChalobah made 105 Premier League appearances for Chelsea and established himself as a first-team option during a number of turbulent periods for the club. The move will be seen as a coupfor Como’s head coach, Cesc Fàbregas, with the former Chelsea midfielder pushing to bring the centre-back to Italy.\n\nThe clubs have settled on a package that includes £5.1m in performance-related add-ons and a sell-on clause. For Chelsea, the departure of another homegrown academy product – Chalobah, now 27, has been at the club since he was eight – will generate pure profit, a key factor as they continueto balance the books.\n\nOn another busy day in west Londonthe new manager, Xabi Alonso, welcomed Henderson to the club after his departure from Brentford. The 36-year-old joined on a free transfer after playing 34 times for the Bees last season, a campaign that also earned him a place in England’s World Cup squad.\n\n“Given the size of the club, the manager, who I have great admiration for, and the quality of the players, this was a huge opportunity I couldn’t turn down,” Henderson said. “I was so impressed with how much the ownership ‌wantChelseato be successful and move in the right direction.”\n\nHenderson came through Sunderland’s academy before joining Liverpool in 2011. He spent 12 seasons at Anfield, playing 492 games in all competitions, and captained the team toChampions League victory in 2019and the ‌Premier League title in 2020.\n\nHe left Liverpoolfor Al-Ettifaqin the Saudi Pro League in 2023, but ​six months laterjoined Ajax. He moved on again last summerto join Brentford.\n\nHenderson played six minutes at the World Cupbefore breaking an armin a post-match accident after England’s last-16 victory against Mexico. He is Chelsea’s fourth English signing of the transfer window, afterthe record acquisition of Morgan Rogers​from Aston Villa,Danny Welbeck from Brightonand the teenager Harrison Bettoni from Wigan.\n\nKick off your evenings with the Guardian's take on the world of football\n\nGonzalo García has joined Fulham from Real Madrid for £34m on a five-year contract. The deal, which includes an option for the club to extend by a further 12 months, sees the 22-year-old Spanish striker reunite with former Real head coach, Alvaro Arbeloa. Garcia said: “I’m very grateful, very happy to be here. I have to thank the board and Arbeloa for the trust they’ve put in me, and I’m very, very excited to start.”Garcia had been with Real since joining in 2014 aged 10 and made 39 appearances forLos Blancoslast season, registering eight goals and three assists.\n\nCésar Palacios has also made the switch from the Bernabéu to Craven Cottage for an undisclosed fee. The 21-year-old attacking midfielder will wear the No 8 shirt.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-04 @ 00:37:09 EDT",
+  "lastUpdated": "2026-08-04 @ 08:51:44 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
