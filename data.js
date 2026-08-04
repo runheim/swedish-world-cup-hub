@@ -10247,11 +10247,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_0350_0",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT to face Mexico and Canada in friendlies to kick off 2030 World Cup cycle",
+            "bullets": [
+              "Fall opponents also include Peru and ChileMatches set for 26 September to 6 OctoberFirst games since...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fall opponents also include Peru and ChileMatches set for 26 September to 6 OctoberFirst games since Pochettino agreed to returnThe US men’s national team will kick off the next World Cup cycle with four matches over 11 days on home soil.The friendlies include games against Peru, Chile, Mexico and Canada in US cities that didn’t host World Cup action this summer. Continue reading...",
+            "fullText": "The US men’s national team will kick off the next World Cup cycle with four matches over 11 days on home soil.\n\nThe friendlies include games against Peru, Chile, Mexico and Canada in US cities that didn’t host World Cup action this summer.\n\nThe Americans will face Peru on 26 September at Inter.co Stadium in Orlando, Florida. Three days later, they will host Chile at Energizer Park in St Louis. The US-Mexico rivalry resumes 3 October at State Farm Stadium in Glendale, Arizona. And the finale against Canada follows three days later at Allianz Field in St Paul, Minnesota.\n\nAll four matches will be broadcast on TNT, HBO Max, Telemundo, Universo and Peacock.\n\nThe games come on the heels of the US team’s run to the last 16 at the World Cup. They also will serve as the first action since US head coach Mauricio Pochettinoagreed to a new dealthat puts him under contract through 2030.\n\n“We are so excited to start this new phase of our journey with matches in front of our home fans,” Pochettino said in a statement. “Their amazing energy during the summer has set the standard.\n\n“Our objective is always to play the best opponents possible, and these matches provide a variety of experiences for this group of players as we begin this new chapter of the US Men’s National Team.”\n\nThe 2030 World Cup will be held in Spain, Portugal and Morocco.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-04 @ 16:08:12 EDT",
+  "lastUpdated": "2026-08-04 @ 19:04:01 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
