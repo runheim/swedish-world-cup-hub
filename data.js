@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
+      "link": "https://www.theguardian.com/football/2026/aug/05/football-transfer-rumours-folarin-balogun-tottenham-hotspur-pedro-neto-manchester-city"
+    },
+    {
       "text": "⚽ USMNT to face Mexico and Canada in friendlies to kick off 2030 World Cup cycle",
       "link": "https://www.theguardian.com/football/2026/aug/04/usmnt-friendlies-mexico-canada"
     }
@@ -10295,11 +10299,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4914_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
+            "bullets": [
+              "Today’s fluff is riding a unicycleIt’s been a quiet summer thus far for Folarin Balogun, so why not...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff is riding a unicycleIt’s been a quiet summer thus far for Folarin Balogun, so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him to Roberto De Zerbi’s side to see if they are willing to bite. One forward certainly of interest to the Italian manager is Chelsea’s Nicolas Jackson but no bid has been made.This seems like a sensible point to put in some Tottenham and Manchester City gossip. If Savinho heads down south, as has been discussed for a long old while, Enzo Maresca would like Pedro Neto to replace him as a wing demon, having worked with the Portugal international at Chelsea. In further Spurs winger news, Manor Solomon was close to leaving for West Ham but Hull have entered the race as part of their accelerated transfer activity as they seek to ascertain if the Israeli is a Housemartins fan. Continue reading...",
+            "fullText": "It’s been a quiet summer thus far forFolarin Balogun, so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him to Roberto De Zerbi’s side to see if they are willing to bite. One forward certainly of interest to the Italian manager is Chelsea’sNicolas Jacksonbut no bid has been made.\n\nThis seems like a sensible point to put in some Tottenham andManchester Citygossip. IfSavinhoheads down south, as has been discussed for a long old while, Enzo Maresca would likePedro Netoto replace him as a wing demon, having worked with the Portugal international at Chelsea. In further Spurs winger news,Manor Solomonwas close to leaving for West Ham but Hull have entered the race as part of their accelerated transfer activity as they seek to ascertain if the Israeli is a Housemartins fan.\n\nTijjani Reijndershas never fully settled at Manchester City because finding a role for him is difficult. Nottingham Forest seem to have a cunning plan for the midfielder but, again, where he fits in at the City Ground is one to ponder, especially with a £55m being bandied about. Meanwhile, Manchester United believeMorgan Gibbs-Whiteis an ideal candidate to replaceBruno Fernandes, if the Portuguese decides to depart Old Trafford, but that will take a while.\n\nA more likely bit of business at the Etihad Stadium is the signing ofGerónimo Rullifrom Marseille. The Argentinian goalkeeper is seen as an ideal replacement forJames Trafford, who is packing his bags for Leeds.\n\nIt is quiet no more around the Crystal Palace chequebook as Steve Parish is eager to spend some cash onZavier Gozoof Real Salt Lake. The teenage winger is highly thought of in Major League Soccer and could see south-east London as the ideal next step in his development.\n\nJadon Sanchosupposedly hasloadsof offers on the table but he just needs to choose the right one. Clubs in Europe and Saudi Arabia are keen on landing the former England international who is available for nothing after leaving Manchester United in the summer.\n\nAfter completing the signing of Freddie Potts from West Ham, Club Brugge have their eyes on another Londoner. Crystal Palace’sRomain Esse, from Lambeth, has made it on to the Belgian side’s radar after his loan spell with Coventry. Speaking of wingers in the English capital,Abdul Abdulmalikof Boreham Wood is wanted by the Swedish side Djurgårdens. A bid totalling £1m has been rejected but another could be coming to really test the National League side’s resolve.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAndRomelu Lukaku’stime in Europe could be coming to an end. After being prolific yet underrated for much of his career, Atlanta United want him to try his hand in MLS. The Napoli striker is, inexplicably, still only 33 and, despite fitness problems in recent times, was still a handful at the World Cup.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4914_1",
+            "category": "usa",
+            "type": "News",
+            "title": "USMNT to face Mexico and Canada in friendlies to kick off 2030 World Cup cycle",
+            "bullets": [
+              "Fall opponents also include Peru and ChileMatches set for 26 September to 6 OctoberFirst games since...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fall opponents also include Peru and ChileMatches set for 26 September to 6 OctoberFirst games since Pochettino agreed to returnThe US men’s national team will kick off the next World Cup cycle with four matches over 11 days on home soil.The friendlies include games against Peru, Chile, Mexico and Canada in US cities that didn’t host World Cup action this summer. Continue reading...",
+            "fullText": "The US men’s national team will kick off the next World Cup cycle with four matches over 11 days on home soil.\n\nThe friendlies include games against Peru, Chile, Mexico and Canada in US cities that didn’t host World Cup action this summer.\n\nThe Americans will face Peru on 26 September at Inter.co Stadium in Orlando, Florida. Three days later, they will host Chile at Energizer Park in St Louis. The US-Mexico rivalry resumes 3 October at State Farm Stadium in Glendale, Arizona. And the finale against Canada follows three days later at Allianz Field in St Paul, Minnesota.\n\nAll four matches will be broadcast on TNT, HBO Max, Telemundo, Universo and Peacock.\n\nThe games come on the heels of the US team’s run to the last 16 at the World Cup. They also will serve as the first action since US head coach Mauricio Pochettinoagreed to a new dealthat puts him under contract through 2030.\n\n“We are so excited to start this new phase of our journey with matches in front of our home fans,” Pochettino said in a statement. “Their amazing energy during the summer has set the standard.\n\n“Our objective is always to play the best opponents possible, and these matches provide a variety of experiences for this group of players as we begin this new chapter of the US Men’s National Team.”\n\nThe 2030 World Cup will be held in Spain, Portugal and Morocco.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-05 @ 00:37:13 EDT",
+  "lastUpdated": "2026-08-05 @ 08:49:22 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
