@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Which footballer made the biggest leap in competitive levels between games? | The Knowledge",
-      "link": "https://www.theguardian.com/football/2026/aug/05/which-footballer-biggest-leap-in-competitive-levels-between-games-the-knowledge"
-    },
-    {
-      "text": "⚽ Crystal Palace ready to swoop for US star Zavier Gozo and stand firm on Wharton",
+      "text": "⚽ Transfer roundup: Coventry to make Yirenkyi record signing, Palace swoop for Gozo",
       "link": "https://www.theguardian.com/football/2026/aug/05/crystal-palace-ready-to-swoop-for-us-star-zavier-gozo-and-stand-firm-on-wharton"
     },
     {
-      "text": "⚽ Football Daily | Chelsea, Jordan Henderson and a transfer pivot for the ages",
-      "link": "https://www.theguardian.com/football/2026/aug/04/chelsea-jordan-henderson-transfer-pivot-for-the-ages-football-daily"
+      "text": "⚽ Which footballer made the biggest leap in competitive levels between games? | The Knowledge",
+      "link": "https://www.theguardian.com/football/2026/aug/05/which-footballer-biggest-leap-in-competitive-levels-between-games-the-knowledge"
     }
   ],
   "timeline": {
@@ -39950,11 +39946,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_4211_0",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer roundup: Coventry to make Yirenkyi record signing, Palace swoop for Gozo",
+            "bullets": [
+              "Promoted side closing on £23m deal with NordsjællandPalace target USA’s Zavier Gozo, hold firm on Wh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Promoted side closing on £23m deal with NordsjællandPalace target USA’s Zavier Gozo, hold firm on WhartonCoventry are poised to break their transfer record for the fourth time in this window after agreeing a £23m fee with the Danish side Nordsjælland for the Ghana midfielder Caleb Yirenkyi.The deal for Yirenkyi, who impressed during the Black Stars’ World Cup campaign and scored the winning goal against Panama in the group stage, will be a record for the Danish top flight and comes after Coventry have already spent almost £60m on the winger Loum Tchaouna, the defender Aurèle Amenda and the goalkeeper Carl Rushworth. Yirenkyi, who was named young player of the year in the Danish league last season, will travel to Coventry in the coming hours to complete his move. Continue reading...",
+            "fullText": "Promoted side closing on £23m deal with Nordsjælland\n\nPalace target USA’s Zavier Gozo, hold firm on Wharton\n\nCoventry are poised to break their transfer record for the fourth time in this window after agreeing a £23m fee with the Danish side Nordsjælland for the Ghana midfielder Caleb Yirenkyi.\n\nThe deal for Yirenkyi, who impressed during the Black Stars’ World Cup campaign andscored the winning goal against Panamain the group stage, will be a record for the Danish top flight and comes after Coventry have already spent almost £60m on the winger Loum Tchaouna, the defender Aurèle Amenda and the goalkeeper Carl Rushworth. Yirenkyi, who was named young player of the year in the Danish league last season, will travel to Coventry in the coming hours to complete his move.\n\nThe 20-year-old is a product of the Right to Dream academy in Ghana and has been with Nordsjælland since 2024. It is understood that the Coventry manager, Frank Lampard, has spoken to his formerChelseateammate Michael Essien, who is now working as a coach at Nordsjælland, about what Yirenkyi could bring to his newly promoted side. Brighton and Everton have also been linked with him in the past.\n\nCrystal Palaceare closing in on the signing of the USA youth international Zavier Gozo as their new manager, Pierre Sage, attempts to strengthen his squad before the new season.\n\nGozo, a 19-year-old who plays for Real Salt Lake in Major League Soccer and has represented the USA at various youth levels up to under-23, is expected to complete an £11m move to south London after he was left out of his side’s game on Tuesday night owing to an “excused absence”.\n\nIt is understood that Palace have tracked Gozo’s progress at Real Salt Lake – who are part-owned by David Blitzer, the American who is one of Palace’s co-owners – for some time and view him as a potential successor to Daniel Muñoz at right wing-back. Palace need cover after Nathaniel Clyne’s departure at the end of his contract and selling Danny Imray to Wrexham for a fee that is thought to have been in the region of £5m last week.\n\nSage is also hoping to bring in several more players before the end of the transfer window as Palace prepare to juggle their Premier League challenge with a Europa League campaign, with a particular focus on replacing Maxence Lacroix afterthe France defender’s departure to Chelsea. Axel Disasi, who spent the second half of last season on loan at West Ham, is one option, while Palace have also been in talks with Brest over the teenage centre-back Raphaël Le Guen. Negotiations with Augsburg – the German club where Blitzer also owns a stake – regarding the French defender Chrislain Matsima broke down last week.\n\nPalace are also thought to be targeting another forward and midfielder but are determined not to sell any of their leading players, including Adam Wharton, who has interest from Chelsea. The former Arsenal defender Takehiro Tomiyasu has been training with Palace in preseason as he aims to earn a move after leaving Ajax, with his fellow Japan international Daichi Kamada signing a one-year contract extension last month.\n\nPalace are also expected to offer Ismaïla Sarr a new deal to ward off interest from Fenerbahce in the Senegal forward, who scored 21 goals last season. Club Brugge have had an initial offer for Romain Esse rejected but the Belgian club are expected to return with an improved bid for the England Under-21 forward.\n\nChelsea, meanwhile, are close to agreeing a £16.3m deal to sign the defender Pep Chavarría from Rayo Vallecano. The 28-year-old, who was part of the team that reached the Conference League final last season, is a left-sided defender and will provide competition for Jorrel Hato following the departure of Marc Cucurella to Real Madrid.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4211_1",
+            "category": "england",
+            "type": "News",
+            "title": "Which footballer made the biggest leap in competitive levels between games? | The Knowledge",
+            "bullets": [
+              "Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?!Mail...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?!Mail us with your all of your questions and answers“Malachi Fagan-Walcott’s final game of last season was for York City against Rochdale in the National League. His first competitive game of 2026-27 season was for Hearts against Sturm Graz in a Champions League qualifier. Has a player ever made a bigger leap in competitive levels between consecutive club games?” asks Tom Reed.Does a jump from the Welsh League to the FA Cup count as a bigger leap? Probably not, but this was an FA Cup semi-final, rather than a Champions League qualifier, and it’s a cracking yarn regardless. “I’ll nominate Gary Plumley,” writes Russell Connor. “Gary made almost 200 appearances for Newport County in four separate spells over the course of a decade but by 1987 he had effectively retired and was running a wine bar while making occasional appearances for Ebbw Vale in the Welsh League.Steve Baines, the only referee in the English professional leagues to have had significant experience as a player.Dick Jol, who refereed the 2001 Champions League final between Bayern Munich and Valencia.Ben Haverkort, who as a player received 73 yellow cards and six reds, many for verbally abusing referees. Continue reading...",
+            "fullText": "Plus: worst penalty shootouts, poachers turned gamekeepers … and footballers donating antiques?!\n\n“Malachi Fagan-Walcott’s final game of last season was for York City against Rochdale in the National League. His first competitive game of 2026-27 season was for Hearts against Sturm Graz in a Champions League qualifier. Has a player ever made a bigger leap in competitive levels between consecutive club games?”asks Tom Reed.\n\nDoes a jump from the Welsh League to the FA Cup count as a bigger leap? Probably not, but this was an FA Cup semi-final, rather than a Champions League qualifier, and it’s a cracking yarn regardless. “I’ll nominateGary Plumley,” writes Russell Connor. “Gary made almost 200 appearances for Newport County in four separate spells over the course of a decade but by 1987 he had effectively retired and was running a wine bar while making occasional appearances for Ebbw Vale in the Welsh League.\n\n“In the build-up to the FA Cup semi-final in 1987, Watford found themselves short a goalkeeper after both Tony Coton and Steve Sherwood broke a thumb and finger respectively. As luck would have it, Gary’s dad Eddie was chief executive of Watford at the time which led to Gary being signed by the club to play in the game.\n\n“Watford lost 4-1, and by all accounts Plumley didn’t cover himself in glory. His reward was a cheque for expenses, which he used to buy a fridge. The family referred it to as the Watford Fridge. Here’s aninterview with Plumleyabout the game.”\n\nYou can also readread thisfrom the Guardian archive.\n\n“Erling and Alf-Inge Haaland bought the only surviving copy of the first printed edition of Snorri Sturluson’s medieval history of Norwegian kings anddonated it to their hometown of Time in Norway,”writes Kári Tulinius.“Have other footballers bought and donated rare books or other antiques?”\n\n“In 2017, the then Spurs midfielder Mousa Dembélé bought a 700-year-old building in Antwerp which he began converting into a hotel,” writes Tom Reed. “During the renovations a treasure trove of 18th-century porcelain, glass, pottery and tableware was discovered. Dembélé donated a portion of the treasure, reportedly valued at over £1m, to the local museum and the rest went on display in the lobby of the newly renovated hotel which he (perhaps optimistically) named De Gulde Schoen (The Golden Shoe).”\n\n“On Sunday, Sean Murdoch was the referee for St Mirren v Dunfermline in the Scottish League Cup. Murdoch was previously a goalkeeper and played for Dunfermline. Are there any other examples of a former player refereeing a match for a club they had played for?”asks Ian Golightly.\n\nWe had this question in 2010, when the answers included:\n\nSteve Baines,the only referee in the English professional leaguesto have had significant experience as a player.\n\nDick Jol,who refereed the 2001 Champions League final between Bayern Munich and Valencia.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-05 @ 08:30:24 EDT",
+  "lastUpdated": "2026-08-05 @ 12:42:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
