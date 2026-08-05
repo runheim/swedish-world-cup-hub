@@ -20000,6 +20000,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
       "time": "07:14",
       "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "13:17",
+      "isCaptain": true
+    },
+    {
+      "sender": "Kristoffer Olsson",
+      "avatar": "🇸🇪",
+      "text": "Vilket mål på träningen! Jag tror jag hittat formen.",
+      "time": "13:18",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "13:19",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Hörni, samling i teorisalen om 10 minuter.",
+      "time": "13:20",
+      "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
+      "time": "13:21",
+      "isCaptain": false
     }
   ]
 };
