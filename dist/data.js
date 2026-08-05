@@ -10358,11 +10358,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0633_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Folarin Balogun to Spurs? Pedro Neto to Manchester City?",
+            "bullets": [
+              "Today’s fluff is riding a unicycleIt’s been a quiet summer thus far for Folarin Balogun, so why not...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff is riding a unicycleIt’s been a quiet summer thus far for Folarin Balogun, so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him to Roberto De Zerbi’s side to see if they are willing to bite. One forward certainly of interest to the Italian manager is Chelsea’s Nicolas Jackson but no bid has been made.This seems like a sensible point to put in some Tottenham and Manchester City gossip. If Savinho heads down south, as has been discussed for a long old while, Enzo Maresca would like Pedro Neto to replace him as a wing demon, having worked with the Portugal international at Chelsea. In further Spurs winger news, Manor Solomon was close to leaving for West Ham but Hull have entered the race as part of their accelerated transfer activity as they seek to ascertain if the Israeli is a Housemartins fan. Continue reading...",
+            "fullText": "It’s been a quiet summer thus far forFolarin Balogun, so why not stir up some controversy by signing for the arch rivals of your boyhood club? The Monaco striker, who started his career at Arsenal, is being linked with a move to Tottenham, who need a goalscorer to ensure they do not finish 17th again. The American’s agents have offered him to Roberto De Zerbi’s side to see if they are willing to bite. One forward certainly of interest to the Italian manager is Chelsea’sNicolas Jacksonbut no bid has been made.\n\nThis seems like a sensible point to put in some Tottenham andManchester Citygossip. IfSavinhoheads down south, as has been discussed for a long old while, Enzo Maresca would likePedro Netoto replace him as a wing demon, having worked with the Portugal international at Chelsea. In further Spurs winger news,Manor Solomonwas close to leaving for West Ham but Hull have entered the race as part of their accelerated transfer activity as they seek to ascertain if the Israeli is a Housemartins fan.\n\nTijjani Reijndershas never fully settled at Manchester City because finding a role for him is difficult. Nottingham Forest seem to have a cunning plan for the midfielder but, again, where he fits in at the City Ground is one to ponder, especially with a £55m being bandied about. Meanwhile, Manchester United believeMorgan Gibbs-Whiteis an ideal candidate to replaceBruno Fernandes, if the Portuguese decides to depart Old Trafford, but that will take a while.\n\nA more likely bit of business at the Etihad Stadium is the signing ofGerónimo Rullifrom Marseille. The Argentinian goalkeeper is seen as an ideal replacement forJames Trafford, who is packing his bags for Leeds.\n\nIt is quiet no more around the Crystal Palace chequebook as Steve Parish is eager to spend some cash onZavier Gozoof Real Salt Lake. The teenage winger is highly thought of in Major League Soccer and could see south-east London as the ideal next step in his development.\n\nJadon Sanchosupposedly hasloadsof offers on the table but he just needs to choose the right one. Clubs in Europe and Saudi Arabia are keen on landing the former England international who is available for nothing after leaving Manchester United in the summer.\n\nAfter completing the signing of Freddie Potts from West Ham, Club Brugge have their eyes on another Londoner. Crystal Palace’sRomain Esse, from Lambeth, has made it on to the Belgian side’s radar after his loan spell with Coventry. Speaking of wingers in the English capital,Abdul Abdulmalikof Boreham Wood is wanted by the Swedish side Djurgårdens. A bid totalling £1m has been rejected but another could be coming to really test the National League side’s resolve.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAndRomelu Lukaku’stime in Europe could be coming to an end. After being prolific yet underrated for much of his career, Atlanta United want him to try his hand in MLS. The Napoli striker is, inexplicably, still only 33 and, despite fitness problems in recent times, was still a handful at the World Cup.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-05 @ 12:42:23 EDT",
+  "lastUpdated": "2026-08-05 @ 16:06:36 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
