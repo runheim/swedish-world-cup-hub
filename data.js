@@ -4,16 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Alessia Russo: ‘When you join the club, you take on a part of Arsenal and the love’",
-      "link": "https://www.theguardian.com/football/2026/aug/06/alessia-russo-arsenal-england-wsl-football-interview"
+      "text": "⚽ England forward Toney charged with assault in Soho",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
-      "link": "https://www.theguardian.com/football/2026/aug/06/football-transfer-rumours-arsenal-ezri-konsa-raul-asencio-liverpool"
+      "text": "⚽ 39 moves across five countries - football's ultimate journeyman",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Papers: Liverpool could rival Arsenal in Konsa chase",
-      "link": "https://www.skysports.com/football/news/12040/13570526/ezri-konsa-transfer-liverpool-set-to-rival-arsenal-for-aston-villa-and-england-defender-paper-talk"
+      "text": "⚽ England striker Ivan Toney charged with assault after Soho nightclub incident",
+      "link": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident"
+    },
+    {
+      "text": "⚽ England striker Toney charged with assault",
+      "link": "https://www.skysports.com/football/news/12040/13570613/ivan-toney-england-striker-charged-with-assault-causing-actual-bodily-harm"
     }
   ],
   "timeline": {
@@ -40472,11 +40476,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3558_0",
+            "category": "england",
+            "type": "News",
+            "title": "England forward Toney charged with assault in Soho",
+            "bullets": [
+              "The 30-year-old former Brentford striker is due to appear in court next month.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 30-year-old former Brentford striker is due to appear in court next month.",
+            "fullText": "Ivan Toney played England's final game of the 2026 World Cup last month\n\nEngland footballer Ivan Toney has been charged with assault at a nightclub in central London.\n\nThe 30-year-old, who plays for Saudi Pro League club Al-Ahli, was charged on 31 July following an incident on Wardour Street in Soho on 6 December.\n\nThe former Brentford striker, who started England's 6-4 win over France in the \"bronze final\" of the World Cup last month, has been charged with assault causing actual bodily harm and is due to appear at Westminster Magistrates' Court on 24 September.\n\nA spokesperson for Toney said: \"Ivan acknowledges the charge and although he is naturally shocked, he looks forward to being given the opportunity to clear his name in court.\"\n\nAfter starting his career at Northampton Town, the striker had permanent spells at Newcastle, Peterborough and Brentford before moving to Saudi Arabia in 2024.\n\nHe was a surprise selection for England's World Cup squad but apart from the France game, his only other appearance was as a late substitute in the2-1 semi-final defeat to Argentina.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3558_1",
+            "category": "england",
+            "type": "News",
+            "title": "39 moves across five countries - football's ultimate journeyman",
+            "bullets": [
+              "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his ext...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As he prepares to manage in the FA Cup for the first time, Zeph Thomas tells BBC Sport about his extraordinary career path spanning 39 moves in 18 years.",
+            "fullText": "Zeph Thomas has played for 29 different clubs since being released by Rotherham United in 2008\n\n\"If I didn't get the money I thought I deserved, I'd be off,\" says Zeph Thomas, as he attempts to explain a career path that has spanned an extraordinary 39 moves in 18 years.\n\nThe Bradford-born winger, 36, is one of football's ultimate journeymen.\n\nRossington Main (five spells), Mickleover Sports (four spells), Frickley Athletic (three spells), Garden City Broncbusters (United States), Montegnee (Belgium), Thunder Bay Chill (Canada).\n\nCowdenbeath, Boston United, Harrogate Town, Scarborough Athletic, Stafford Rangers, Leek Town.\n\nIlkeston Town, Matlock Town, Goole, Glossop North End, Stocksbridge Park Steels, Brighouse Town (two spells), Emley, Harrogate Railway Athletic, Sheffield, Shaw Lane, Belper Town, Parkgate, Campion, Eccleshill United, Selby Town and Ossett United.\n\nThe former St Kitts & Nevis international has embraced his player-manager role at ninth-tier South Yorkshire club Dearne & District since being appointed in 2024.\n\nAfter winning the Northern Counties East League First Division last season, the village club based in Goldthorpe, near Barnsley, play their first ever FA Cup match on Saturday when they visit Runcorn Town - one of 219 extra preliminary round ties scheduled to take place.\n\n\"We've gone from being in the Doncaster Saturday League in 2021 to playing in the FA Cup,\" adds Thomas.\n\n\"It's massive for the area because they have never seen this team play in the competition.\"\n\nWhere & when? This weekend's FA Cup extra preliminary round fixtures\n\nThomas (far left, front row) pictured with St Kitts and Nevis national team - who he qualified to play for through his grandfather - in 2013",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3559_2",
+            "category": "england",
+            "type": "News",
+            "title": "England striker Ivan Toney charged with assault after Soho nightclub incident",
+            "bullets": [
+              "Met police say charge relates to alleged assault that reportedly took place in December at venue in ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Met police say charge relates to alleged assault that reportedly took place in December at venue in LondonThe England footballer Ivan Toney has been charged with assault after an incident at a nightclub in Soho in December last year.Scotland Yard said the striker had been charged on 31 July with assault causing actual bodily harm. Toney, who plays for the Saudi Pro League club Al-Ahli, is due to appear at Westminster magistrates court on 24 September. Continue reading...",
+            "fullText": "Met police say charge relates to alleged assault that reportedly took place in December at venue in London\n\nThe England footballer Ivan Toney has been charged with assault after an incident at a nightclub in Soho in December last year.\n\nScotland Yard said the striker had been charged on 31 July with assault causing actual bodily harm. Toney, who plays for the Saudi Pro League club Al-Ahli, is due to appear at Westminster magistrates court on 24 September.\n\nThe Sun newspaper reported in December that Toney had been arrested after an alleged head-butt. It claimed a fan recognised the footballer and grabbed at him while seeking a photograph with him before the incident.\n\nOn Friday the Metropolitan police said the charges related to an incident on 6 December at a nightclub on Wardour Street in central London, reportedly the now-closed 100 Wardour Street.\n\nA spokesperson for Toney said: “Ivan acknowledges the charge and although he is naturally shocked, he looks forward to being given the opportunity to clear his name in court.”\n\nToney was at the centre of one of the most curious transfers on deadline day in August 2024 when he completed a late move from Brentford to Al-Ahli worth a reported £40m. He has also played for Newcastle United and his home town club Northampton Town, as well as several others on loan as he looked to establish himself.\n\nSeen as a late bloomer in football terms, he had made only two Premier League appearances before his 25th birthday, but went on to score 67 goals in 128 appearances over the next three seasons at the top level.\n\nHe has played 10 times for England, scoring once in a friendly match against Belgium in 2024, and was part of the 2026 World Cup squad, making appearances against Argentina in the semi-final and in the win over France as England finished third.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3559_3",
+            "category": "england",
+            "type": "News",
+            "title": "England striker Toney charged with assault",
+            "bullets": [
+              "England striker Ivan Toney has been charged with assault causing actual bodily harm, following a nig...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England striker Ivan Toney has been charged with assault causing actual bodily harm, following a nightclub incident in December 2025.",
+            "fullText": "Ivan Toney, who represented England at this summer's World Cup has been charged with assault causing actual bodily harm following a nightclub incident in December 2025; he will appear at Westminster Magistrates' Court on Thursday September 24",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-07 @ 00:05:43 EDT",
+  "lastUpdated": "2026-08-07 @ 07:36:00 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
