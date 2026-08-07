@@ -40414,10 +40414,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-07": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0542_0",
+            "category": "england",
+            "type": "News",
+            "title": "Alessia Russo: ‘When you join the club, you take on a part of Arsenal and the love’",
+            "bullets": [
+              "Honorary Gooner’s game went up a level last season. Now, the forward wants to push on for more troph...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Honorary Gooner’s game went up a level last season. Now, the forward wants to push on for more trophies, starting with the WSLArms hooked over the bar at the front of the bus, sunglasses on, a drink in one hand and the other pointed towards the fans as she moved to the music and joined in with the singing and chanting, Alessia Russo was having a blast.“I had the time of my life that day,” says the Arsenal forward of the 9km parade through the red smoke-filled streets of north London after Arsenal men’s Premier League triumph and Arsenal women’s Champions Cup success. Continue reading...",
+            "fullText": "Honorary Gooner’s game went up a level last season. Now, the forward wants to push on for more trophies, starting with the WSL\n\nArms hooked over the bar at the front of the bus, sunglasses on, a drink in one hand and the other pointed towards the fans as she moved to the music and joined in with the singing and chanting,Alessia Russowas having a blast.\n\n“I had the time of my life that day,” says the Arsenal forwardof the 9km paradethrough the red smoke-filled streets of north London after Arsenal men’s Premier League triumph andArsenal women’s Champions Cup success.\n\nIt has been a running joke among fans to refer to the 27-year-old as a “childhood Gooner”, which was turbo-charged when the shirt a very small Russo was wearing in a family photo with the FA Cup was changed from a Manchester United one into an Arsenal one.\n\nWhile she was not a childhood Gooner, she is fast becoming an adult one.\n\n“Since I’ve joined the club and seen the people around the place, it’s impossible to not become a part of Arsenal and to feel like I support Arsenal,” she says. “I want them to do well, I’m backing them every way, and the parade was just one of the most amazing things I’ve experienced. The fans, the atmosphere, celebrating the men winning the Prem, something they’d worked so hard for for so many years, I was just soaking it in, having fun and enjoying myself.\n\n“It was just a really, really special day. It was nice to experience it with Lotte [Wubben-Moy] and Leah [Williamson] who are proper Gooners, but when you come to Arsenal you take on a part of it and start to understand and absorb their love for Arsenal. I definitely feel that and it’s nice to feel like you’re a part of something like that.\n\n“You pick out moments where you win trophies as the main ones that stand out within your career, but that will definitely always stand out for me.”\n\nThere were people everywhere, on every balcony, rooftop, bollard and traffic light, of all ages, races and religions. Young boys, but also, in contrast to the Arsenal parades of the 90s and noughties, so many young girls. Cultivating and supporting that fresh generation interested in watching and playing the game is something Russo is passionate about.\n\nThat is the reason she launched her own foundation this year and why she helped launch the fifth year of Starling Bank’sKick Oninitiative. This partners local businesses with girls’ teams in need of sponsorship and subsidises the front-of-shirt sponsorship.\n\nStarling commissioned surveys of 1,000 adult female players, 1,010 11-17 female players, 501 small- and medium-sized business leaders and 1,092 grassroots football coaches. Nearly every grassroots female football club (97%) said their team needed more funds, with opportunities for girls suffering as a result. The surveys found 76% of female players said they will have to drop out of their team or the sport altogether if more funding is not secured in the next five years, and 40% of female players said their team does not receive the same amount of funding as men’s teams.\n\n“They are quite damning statistics, which is such a shame considering the growth we see in the women’s game,” says Russo. “Over the past five or six years, the growth has just been incredible, but there’s still work to do at the bottom to build it up.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0542_1",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Arsenal back for £60m Konsa? Asencio to Liverpool?",
+            "bullets": [
+              "Today’s rumours are prising open their war chestAston Villa struggling to hold on to their World Cup...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s rumours are prising open their war chestAston Villa struggling to hold on to their World Cup stars has become something of a theme of this transfer window and off we go again with Arsenal stepping up their interest in Ezri Konsa. The Daily Mail reports that the Premier League champions, having had a bid for the England defender rebuffed last month, are coming back with a bigger offer for Konsa, who Villa value at £60m minimum. Meanwhile, Villa are trying to nail down a £14m deal for Atlético Madrid’s Italian left-back Matteo Ruggeri.Liverpool are looking for defensive reinforcements and could swoop for the Real Madrid centre-back Raúl Asencio. The 23-year-0ld has been told he can leave the Bernabéu and various Mr 15%s have approached Liverpool about a move, reports Teamtalk. Also on Andoni Iraola’s radar is the teenage Paris Saint-Germain winger Ibrahim Mbaye. The 18-year-old, who scored a stunning goal for Senegal against France at the World Cup, is believed to be keen on a move to Anfield. Continue reading...",
+            "fullText": "Aston Villa struggling to hold on to their World Cup stars has become something of a theme of this transfer window and off we go again with Arsenal stepping up their interest inEzri Konsa. The Daily Mail reports that the Premier League champions, having had a bid for the England defender rebuffed last month, are coming back with a bigger offer for Konsa, who Villa value at £60m minimum. Meanwhile, Villa are trying to nail down a £14m deal for Atlético Madrid’s Italian left-backMatteo Ruggeri.\n\nLiverpool are looking for defensive reinforcements and could swoop for the Real Madrid centre-backRaúl Asencio. The 23-year-0ld has been told he can leave the Bernabéu and various Mr 15%s have approached Liverpool about a move, reports Teamtalk. Also on Andoni Iraola’s radar is the teenage Paris Saint-Germain wingerIbrahim Mbaye. The 18-year-old, who scored a stunning goal for Senegal against France at the World Cup, is believed to be keen on a move to Anfield.\n\nAcross the city, Everton like the cut ofAlistair Johnston’s jib and the Celtic and Canada full-back fancies a switch to the Premier League, according to the Scotsman, which reports that David Moyes and Martin O’Neill have already had a chinwag about a possible deal.\n\nIt’s all happening in Turkey. Mohamed Salah, whosearrival at Trabzonsporon Wednesday brought fans into the streets, could be joined by his old mateDarwin Núñezas the Turkish club prepare to party like it’s 2023. The Uruguayan striker has struggledsince joining Al-Hilalin the Saudi Pro League last year and would be available on a free.\n\nElsewhere, Fenerbahce have been linked with a move, most likely on loan, for Real Madrid’sEndrick. Fiorentina and Roma have also shown interest in the Brazil forward, who was on loan at Lyon last season, but Fenerbahce reportedly fancy their chances of adding young Endrick to a maverick squad that contains veterans Nathan Aké, N’Golo Kanté and Marco Asensio.\n\nAfter another summer of high-profile exits, Newcastle could do with some incomings and Football Insider reckons a bid for the Tottenham midfielderLucas Bergvallis on the cards, though Nottingham Forest are also making eyes at the Swede. Down in west London, Fulham are eyeing up a deal for Southampton’s Northern Ireland midfielderShea Charles, who Saints value at £30m.\n\nMiddlesbrough are poised to snap up the goalkeeperRadek Vitekfrom Manchester United from after the clubs agreed a £14m deal. The 22-year-old Czech spent last season on loan at Bristol City, making 41 appearances, and did not feature for United’s first team but that hasn’t stopped the Reds getting a 35% sell-on clause inserted into the deal, according to Sky Sports. Boro are also about to complete a £7m deal for the Spurs centre-halfAshley Phillips.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAnd Hamburg are keen on bringing the Leeds defenderSebastiaan Bornauwback to the Bundesliga after a year in Yorkshire. The 27-year-old has previously played for Wolfsburg and Köln.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0543_2",
+            "category": "england",
+            "type": "News",
+            "title": "Papers: Liverpool could rival Arsenal in Konsa chase",
+            "bullets": [
+              "The top stories and transfer rumours from Friday's newspapers...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The top stories and transfer rumours from Friday's newspapers...",
+            "fullText": "Latest transfer news and headlines as Manchester United and Arsenal send scouts to watch Shakhtar Donetsk striker Kaua Elias; Mo Salah set to earn more than £14m per season in two-year deal at Trabzonspor; Manchester United duo Joshua Zirkzee and Altay Bayindir both set to leave",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-06 @ 21:29:39 EDT",
+  "lastUpdated": "2026-08-07 @ 00:05:43 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
