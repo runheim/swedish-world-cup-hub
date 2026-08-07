@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ The Norwegian demand: Wants Gianni Infantino to resign",
+      "link": "https://www.svt.se/sport/fotboll/norska-kravet-vill-att-gianni-infantino-avgar"
     }
   ],
   "timeline": {
@@ -15518,11 +15502,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4909_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Norwegian demand: Wants Gianni Infantino to resign",
+            "bullets": [
+              "The Norwegian Football Association wants to replace Gianni Infantino as FIFA president. This is now ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Norwegian Football Association wants to replace Gianni Infantino as FIFA president. This is now announced during a press conference. - We will ask him to resign, says Lise Klaveness, president of the Norwegian Football Association.",
+            "fullText": "The Norwegian Football Association wants to replace Gianni Infantino as FIFA president.\n\n- We will ask him to resign, says Lise Klaveness, president of the Norwegian Football Association.\n\nNorway will not support Gianni Infantino during the upcoming presidential election.\n\nOn Friday, the Norwegian Football Association is holding a press conference to discuss the recent Fifa controversies.\n\n- Irrevocable violations have occurred, says Lise Klaveness.\n\nThe NFF's chairman has been clear that he has no confidence in Infantino as Fifa president.\n\n- We have reached a situation where extraordinary measures are required to create lasting change, she says.\n\nThe demand comes after recent rounds surrounding Gianni Infantino's proposal to sell shares of the World Cup.\n\nThe Norwegian himself has come up as a possible name to take over the role. Among other things, Gianni Infantino's representative, Sepp Blatter, has stated that he wants to see Klaveness take over.\n\n- I register that my name is mentioned, but it is not a topic at all. We are not ready for that. It should be about the issue and not about the person. That's how we work. We're not there yet, says Klaveness.\n\nThe Norwegian also sent a pik at the former Fifa chairman.\n\n- Sepp Blatter was chairman when I was a player. I remember he thought we should play in shorter shorts, and then I commented on that. But I have no comment on this.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-07 @ 00:07:11 EDT",
+  "lastUpdated": "2026-08-07 @ 07:49:09 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
