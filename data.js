@@ -15652,6 +15652,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "These new training balls are flying everywhere.",
       "time": "05:43",
       "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Early night for me. Big day tomorrow.",
+      "time": "12:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "Poch's tactical session today was intense. Mind blown.",
+      "time": "12:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "12:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "These new training balls are flying everywhere.",
+      "time": "12:32",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "12:33",
+      "isCaptain": false
     }
   ]
 };
