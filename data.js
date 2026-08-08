@@ -15619,11 +15619,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2517_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Maradona's \"Hand of God\" ball sold at auction",
+            "bullets": [
+              "The soccer ball with which Diego Maradona scored his famous \"Hand of God\" goal is expected to sell f...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The soccer ball with which Diego Maradona scored his famous \"Hand of God\" goal is expected to sell for millions at auction in Texas later in August.",
+            "fullText": "The soccer ball with which Diego Maradona scored his famous \"Hand of God\" goal is expected to sell for millions at auction in Texas later in August.\n\nIn the quarter-finals of the 1986 FIFA World Cup, the superstar scored a controversial goal which he later said was scored \"a bit with Maradona's head and a bit with the hand of God\". Argentina won the match and the whole World Cup.\n\nIn addition, it is the same ball that Maradona scored the \"goal of the century\" with in the same match.\n\nNow the ball is expected to go under the club for 10 million dollars, equivalent to 95 million kroner.\n\nThe ball has already been sold once, by the same referee who approved the famous World Cup goal. Even Maradona's football shirt from the same match has fetched many millions at auction.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-08 @ 07:32:24 EDT",
+  "lastUpdated": "2026-08-08 @ 11:25:17 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
