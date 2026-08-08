@@ -8,16 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2rp0n9pydo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ England forward Toney charged with assault in Soho",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9nz7qwyqo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
+      "link": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer"
     },
     {
-      "text": "⚽ 39 moves across five countries - football's ultimate journeyman",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdx7wq2r21yo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ England striker Ivan Toney charged with assault after Soho nightclub incident",
-      "link": "https://www.theguardian.com/uk-news/2026/aug/07/england-striker-ivan-toney-charged-with-assault-after-soho-nightclub-incident"
+      "text": "⚽ Bracey shares memories of Lawrence ahead of Sunday's tribute",
+      "link": "https://www.skysports.com/cricket/news/12040/13570579/james-bracey-on-memories-of-syd-lawrence-ahead-of-day-to-raise-funds-for-motor-neurone-disease-to-see-emotion-on-his-face-was-very-special"
     }
   ],
   "timeline": {
@@ -40773,10 +40769,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-08": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1745_0",
+            "category": "england",
+            "type": "News",
+            "title": "Politicians, private jets and power - the life of a Fifa president",
+            "bullets": [
+              "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
+            "fullText": "Gianni Infantino, pictured with Colombian FA president Ramon Jesurun, is attending the inauguration of the country's new president Abelardo de la Espriella\n\nGianni Infantino stepped off a plane in Cali and was greeted on the runway by the president of the Colombian Football Federation.\n\nRamon Jesurun, a close ally of Infantino's, saw it as a chance to show his support, with the two men smiling in a photo opportunity for the federation's Instagram account.\n\nInfantino had not travelled to Colombia for any run-of-the-mill meeting on Friday. He would attend the inauguration of the country's new president Abelardo de la Espriella.\n\nInfantino was accompanied by Alejandro Dominguez, the president of South America's football governing body Conmebol, who praised both his record and the \"enormously successful\" 2026 World Cup, saying \"we stand with Gianni\".\n\nIt involves building ties with some of the most powerful people in the world, shown by Infantino's relationship with US President Donald Trump.\n\nBefore the biggest scandal to hit his tenure -the aborted Fifa Forward Enterprise plan- Infantino was an incredibly powerful figure who appeared bulletproof.\n\nNow, after an apology and stated desire to withstand the backlash of his plan to sell a stake in the men's World Cup to private equity firms, Infantino appears to be trying to return to business as usual.\n\nUefa's threat to boycott Fifa tournaments still stands. That will be tested with the Fifa Under-20 World Cup set to kick off in Poland in 29 days.\n\nPerhaps emboldened by the support he has received from outside Europe in recent days, Infantino is not going to stand down easily.\n\nBut what exactly is the role of the Fifa president?\n\nGianni Infantino apologised for the Fifa Forward Enterprise proposal, but now it seems to be business as usual for the Fifa president",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1745_1",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
+            "bullets": [
+              "Andoni Iraola moves to improve defensive optionsUruguay defender expected to complete his medical Li...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andoni Iraola moves to improve defensive optionsUruguay defender expected to complete his medical Liverpool have agreed to sign Ronald Araújo on a season-long loan from Barcelona after Andoni Iraola was faced with lack of defensive options for the start of the new season.Concerns over Jérémy Jacquet – the France Under -21 defender who arrived last season for more than £50m – and injuries to Joe Gomez and Giovanni Leoni have left Liverpool short of options at the back after the departure of Ibrahima Konaté on a free transfer to Real Madrid. Continue reading...",
+            "fullText": "Liverpool have agreed to sign Ronald Araújo on a season-long loan from Barcelona after Andoni Iraola wasfaced with lack of defensive optionsfor the start of the new season.\n\nConcerns over Jérémy Jacquet – the France Under -21 defender who arrived last season for more than £50m – and injuries to Joe Gomez and Giovanni Leoni have leftLiverpoolshort of options at the back after the departure of Ibrahima Konaté on a free transfer to Real Madrid.\n\nAraújo, who was part of the Barça side that won La Liga last season, will add much-needed cover in the short-term. The Uruguay defender is expected to complete his medical on Sunday after travelling to Merseyside. The deal for the 27-year-old is believed to contain an option to buy at the end of the season.\n\nAraújo has made more than 200 appearances forBarcelonabut only made 11 league starts under Hansi Flick last season.\n\nLiverpool are understood to have shown an interest in Aston Villa’s Ezri Konsa but were put off by the England defender’s £60m valuation. Arsenal have seen an initial approach for Konsa rejected.\n\nJacquet, who signed from Rennes in February, has not made a competitive appearance yet after picking up a serious shoulder injury last season and Iraola admitted that he had asked to be substituted in the friendly against Leeds last week. “It was just some overload, and I hope he’s not injured in that way. I don’t think we’ve lost anyone,” he said.\n\nLiverpool have held talks with Paris Saint-Germain over a move for Bradley Barcola, although the European champions value him at around £145m. PSG are expected to make a move for Spain’s World Cup final hero Ferran Torres, who has only one year left on his contract at the Camp Nou.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1745_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bracey shares memories of Lawrence ahead of Sunday's tribute",
+            "bullets": [
+              "When James Bracey thinks of Syd Lawrence, he does not first think of wickets, records or milestones.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When James Bracey thinks of Syd Lawrence, he does not first think of wickets, records or milestones.",
+            "fullText": "For Gloucestershire cricketer James Bracey, one Syd Lawrence memory stands above all others: September 2024 when Gloucestershire won T20 Blast for first time; Lawrence, already battling MND, was there to present trophy; \"A very special and happy moment for me to see what that meant to him\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-07 @ 23:03:18 EDT",
+  "lastUpdated": "2026-08-08 @ 07:17:45 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
