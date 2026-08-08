@@ -12,6 +12,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer"
     },
     {
+      "text": "⚽ Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
+      "link": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke"
+    },
+    {
       "text": "⚽ Bracey shares memories of Lawrence ahead of Sunday's tribute",
       "link": "https://www.skysports.com/cricket/news/12040/13570579/james-bracey-on-memories-of-syd-lawrence-ahead-of-day-to-raise-funds-for-motor-neurone-disease-to-see-emotion-on-his-face-was-very-special"
     }
@@ -40827,11 +40831,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2944_0",
+            "category": "england",
+            "type": "News",
+            "title": "Politicians, private jets and power - the life of a Fifa president",
+            "bullets": [
+              "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fifa president Gianni Infantino appears to be trying to return to business as usual after the failed World Cup private investment plan - but it may not be that easy.",
+            "fullText": "Gianni Infantino, pictured with Colombian FA president Ramon Jesurun, is attending the inauguration of the country's new president Abelardo de la Espriella\n\nGianni Infantino stepped off a plane in Cali and was greeted on the runway by the president of the Colombian Football Federation.\n\nRamon Jesurun, a close ally of Infantino's, saw it as a chance to show his support, with the two men smiling in a photo opportunity for the federation's Instagram account.\n\nInfantino had not travelled to Colombia for any run-of-the-mill meeting on Friday. He would attend the inauguration of the country's new president Abelardo de la Espriella.\n\nInfantino was accompanied by Alejandro Dominguez, the president of South America's football governing body Conmebol, who praised both his record and the \"enormously successful\" 2026 World Cup, saying \"we stand with Gianni\".\n\nIt involves building ties with some of the most powerful people in the world, shown by Infantino's relationship with US President Donald Trump.\n\nBefore the biggest scandal to hit his tenure -the aborted Fifa Forward Enterprise plan- Infantino was an incredibly powerful figure who appeared bulletproof.\n\nNow, after an apology and stated desire to withstand the backlash of his plan to sell a stake in the men's World Cup to private equity firms, Infantino appears to be trying to return to business as usual.\n\nUefa's threat to boycott Fifa tournaments still stands. That will be tested with the Fifa Under-20 World Cup set to kick off in Poland in 29 days.\n\nPerhaps emboldened by the support he has received from outside Europe in recent days, Infantino is not going to stand down easily.\n\nBut what exactly is the role of the Fifa president?\n\nGianni Infantino apologised for the Fifa Forward Enterprise proposal, but now it seems to be business as usual for the Fifa president",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2944_1",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
+            "bullets": [
+              "Andoni Iraola moves to improve defensive optionsUruguay defender expected to complete his medical Li...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Andoni Iraola moves to improve defensive optionsUruguay defender expected to complete his medical Liverpool have agreed to sign Ronald Araújo on a season-long loan from Barcelona after Andoni Iraola was faced with lack of defensive options for the start of the new season.Concerns over Jérémy Jacquet – the France Under -21 defender who arrived last season for more than £50m – and injuries to Joe Gomez and Giovanni Leoni have left Liverpool short of options at the back after the departure of Ibrahima Konaté on a free transfer to Real Madrid. Continue reading...",
+            "fullText": "Liverpool have agreed to sign Ronald Araújo on a season-long loan from Barcelona after Andoni Iraola wasfaced with lack of defensive optionsfor the start of the new season.\n\nConcerns over Jérémy Jacquet – the France Under -21 defender who arrived last seasonfor more than £50m– and injuries to Joe Gomez and Giovanni Leoni have left Liverpool short of options at the back after the departure of Ibrahima Konaté on a free transfer to Real Madrid.\n\nAraújo, who was part of the Barça side that won La Liga last season, will add much-needed cover in the short-term. The Uruguay defender is expected to complete his medical on Sunday.\n\nThe deal for the 27-year-old is believed to contain an option to buy at the end of the season. Araújo has made more than 200 appearances forBarcelona, but only made 11 league starts last season.\n\nLiverpool have shown an interest in Aston Villa’s Ezri Konsa, but were put off by the £60m valuation of the England defender. Arsenal have had an initial approach for Konsa rejected.\n\nJacquet, who signed from Rennes in February, has not made a competitive appearance after picking up a serious shoulder injury last season and did not feature during Liverpool’s three-match tour of the United States. Iraola said last week that he has been feeling “some discomfort, so we don’t want to rush him”.\n\nThe Liverpool manager added: “He comes from a lot of months without playing. And obviously I would like to try with him with Virgil [van Dijk] when he recovers, because with the injury of Joe we’ve been without senior centre-backs. But we have to be careful with Jeremy.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nLiverpool have held talks withParis Saint-Germainover a move for Bradley Barcola, although the European champions value him at around £145m. PSG are expected to make a move for Spain’s World Cup final hero Ferran Torres, who has one year left on his contract at the Camp Nou.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2944_2",
+            "category": "england",
+            "type": "News",
+            "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
+            "bullets": [
+              "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75mBruno Guimarães has broken a very niche record. His £75m move to Arsenal is the most expensive transfer for a midfielder aged at least 28. This should not be taken too seriously given the previous record holder, Zinedine Zidane, moved 25 years ago from Juventus to Real Madrid, and would have cost far more in 2026 money. But it shows how highly the Gunners rate the Brazilian to have spent so much on a player who will be in his 30s before the end of next year. It is a transfer for today, not tomorrow.The question is why. One reason is that Guimarães rarely misses matches. Another is that he can play anywhere across midfield in the 4-3-3 formation Mikel Arteta often deploys. These attributes could be priceless with Declan Rice managing long-term nerve pain in his hamstring and Martin Ødegaard playing 40% of possible Premier League minutes last season. Continue reading...",
+            "fullText": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75m\n\nBruno Guimarães has broken a very niche record.His £75m move to Arsenalis the most expensive transfer for a midfielder aged at least 28. This should not be taken too seriously given the previous record holder, Zinedine Zidane, moved 25 years ago from Juventus to Real Madrid, and would have cost far more in 2026 money. But it shows how highly the Gunners rate the Brazilian to have spent so much on a player who will be in his 30s before the end of next year. It is a transfer for today, not tomorrow.\n\nThe question is why. One reason is that Guimarães rarely misses matches. Another is that he can play anywhere across midfield in the 4-3-3 formation Mikel Arteta often deploys. These attributes could be priceless with Declan Rice managing long-term nerve pain in his hamstring and Martin Ødegaard playing 40% of possible Premier League minutes last season.\n\nThe former Newcastle player is adept at breaking up attacks. Opta’s data showsArsenalmisplaced 1,492 passes in the final third last season, the fourth most in the Premier League. That is a lot of potential opportunities for the opposition to hit them on the break.\n\nGuimarães is unafraid to give away a free-kick if required. He was penalised for 45 fouls in the league last season, a mark he hit in all four of his full campaigns with Newcastle. Only Moisés Caicedo also reached that level in each of the previous four Premier League seasons.\n\nDespite committing the fourth-most fouls in the competition since making his debut for Newcastle in February 2022, nine players have received more yellow cards than Guimarães in that time. Not all indiscretions are equal, but referees seem to view him favourably.\n\nThey are even nicer on the other side of the foul equation. Guimarães excels in winning free-kicks. He has suffered 410 fouls in the Premier League, more than 100 more than anyone else during his time in England.\n\nLook around other top European leagues, at competitions where referees are quicker to award a foul than they are in England. Aside from the Lazio winger Mattia Zaccagni (with 418), you will not find anyone who has won more free-kicks than Guimarães. Vinicius Júnior is a shade above him on a pro-rata basis, with 2.95 fouls drawn per 90 minutes to 2.89, andArsenal were trying to sign himtoo.\n\nGuimarães ranked no lower than second in the Premier League for fouls suffered in each of the previous four seasons, twice leading the standings for England, France, Germany, Italy and Spain. This will have been an enticing selling point for a team that spin so much gold from set plays. And here’s the ultimate win from Arsenal’s perspective: only two players have scored more set-piece goals than Guimarães in the Premier League since early 2022 and they already own one of them.\n\nHis 12 goals is the joint-most by a midfielder or forward. By moving to Arsenal he has linked up with one of the defenders above him, his fellow Brazilian Gabriel.\n\nThe 28-year-old is not the only big loss to Newcastle this summer.Sandro TonaliandAnthony Gordonwere vital players and also in Newcastle’s top four for free-kicks won last season. But their combined foul total was less than Guimarães’s and neither scored from a set piece either.\n\nFor a team that plays the wayArsenal do, this particular set of skills may just be worth £75m, even for a relative veteran.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2946_3",
+            "category": "england",
+            "type": "News",
+            "title": "Bracey shares memories of Lawrence ahead of Sunday's tribute",
+            "bullets": [
+              "When James Bracey thinks of Syd Lawrence, he does not first think of wickets, records or milestones.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When James Bracey thinks of Syd Lawrence, he does not first think of wickets, records or milestones.",
+            "fullText": "For Gloucestershire cricketer James Bracey, one Syd Lawrence memory stands above all others: September 2024 when Gloucestershire won T20 Blast for first time; Lawrence, already battling MND, was there to present trophy; \"A very special and happy moment for me to see what that meant to him\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-08 @ 07:17:45 EDT",
+  "lastUpdated": "2026-08-08 @ 11:29:46 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
