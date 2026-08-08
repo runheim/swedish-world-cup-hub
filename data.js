@@ -6,6 +6,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Maradona's \"Hand of God\" ball sold at auction",
       "link": "https://www.svt.se/sport/fotboll/maradonas-guds-hand-boll-saljs-pa-auktion"
+    },
+    {
+      "text": "⚽ Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+      "link": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
     }
   ],
   "timeline": {
@@ -15642,11 +15646,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0713_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Maradona's \"Hand of God\" ball sold at auction",
+            "bullets": [
+              "The soccer ball with which Diego Maradona scored his famous \"Hand of God\" goal is expected to sell f...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The soccer ball with which Diego Maradona scored his famous \"Hand of God\" goal is expected to sell for millions at auction in Texas later in August.",
+            "fullText": "The soccer ball with which Diego Maradona scored his famous \"Hand of God\" goal is expected to sell for millions at auction in Texas later in August.\n\nIn the quarter-finals of the 1986 FIFA World Cup, the superstar scored a controversial goal which he later said was scored \"a bit with Maradona's head and a bit with the hand of God\". Argentina won the match and the whole World Cup.\n\nIn addition, it is the same ball that Maradona scored the \"goal of the century\" with in the same match.\n\nNow the ball is expected to go under the club for 10 million dollars, equivalent to 95 million kroner.\n\nThe ball has already been sold once, by the same referee who approved the famous World Cup goal. Even Maradona's football shirt from the same match has fetched many millions at auction.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0715_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+            "bullets": [
+              "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low blockData shows deal could be another set-piece masterstrokeIf there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing. “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.”After more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for the Seleção in their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity. Continue reading...",
+            "fullText": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block\n\nData shows deal could be another set-piece masterstroke\n\nIf there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled asArsenal’s new £75m signing. “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.”\n\nAfter more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for theSeleçãoin their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity.\n\nWhile his emotional statement released by Newcastle as his move toArsenalwas confirmed on Saturday said they “did everything they could to keep me”, at the age of 28 he clearly felt it may never come again.\n\nAndrea Berta’s pursuit of Vinícius Júnior came up short this week after the Brazil forward signed an improved six-year deal with Real Madrid. But at least Arsenal’s sporting director was finally able to bring in a player who was first courted by the club in the early days of Mikel Arteta’s reign, and who will add to the outstanding crop of central midfielders at his disposal.\n\nEdu Gaspar, Berta’s predecessor, is understood to have first enquired about Guimarães when he was still at Athletico Paranaense in Brazil before he joined Lyon in the January 2020 transfer window – a few weeks after Arteta’s arrival at the Emirates.\n\nThey were also interested when Newcastle won the race to sign him in January 2022 for €40m, which came back to haunt Arsenal when he scored in a 2-0 win that went a long way to them missing out on Champions League qualification that season.\n\nThat first of nine appearances is the only time he scored against Arsenal, but Guimarães always impressed in a variety of roles whenever he came up against them, including in the Carabao Cup semi-final Newcastle won 4-0 on aggregate in 2025. He has covered more distance, won more duels and committed more fouls against Arsenal than any other side since making his Premier League debut.\n\nIt was no surprise that Declan Rice – the only player in the division to have covered more distance than Guimarães in that period and who enjoyed their fair share of battles – was one of the first to welcome him to Arsenal with a message that said “come here and please no more fights, now we’re friends”.\n\nIt is hard to argue with Guimarães that Arsenal have “one of the best midfields” in Europe because last season proved it. Yet having gone all the way to the Champions League final before spending the summer with England, after suffering with neural pain in his hamstring and lower back since December, Rice must be treated with the utmost care in the coming months. Guimarães can provide cover for him in a box-to-box role and gives Arteta options to rotate his other midfielders more frequently.\n\nHe did not seem to trust Christian Nørgaard, who has joined Everton, to deputise for Martín Zubimendi in the Premier League last year, and that led to the Spain midfielder running out of steam in the spring.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-08 @ 11:25:17 EDT",
+  "lastUpdated": "2026-08-08 @ 15:07:15 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
