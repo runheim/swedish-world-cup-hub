@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mauricio Pochettino reviews tactical chalkboards for midfield build-ups",
+      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Paraguay coaching staff reviews video logs of USA's defensive shapes",
+      "text": "🌍 Group D standings update: USA targets knockout round qualification",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -10739,7 +10739,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-07 @ 18:35:39 EDT",
+  "lastUpdated": "2026-08-07 @ 23:03:52 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
