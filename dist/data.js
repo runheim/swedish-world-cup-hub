@@ -4,24 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
-      "link": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
+      "text": "⚽ New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ ‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
+      "link": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
     },
     {
       "text": "⚽ Carabao Cup: Millwall keeper saves four penalties, Preston prevail in Goodison home game",
       "link": "https://www.theguardian.com/football/2026/aug/08/carabao-cup-roundup-preston-huddersfield-goodison-park-millwall-qpr-penalties"
     },
     {
-      "text": "⚽ Liverpool agree to sign Barcelona’s Ronald Araújo on loan as Jacquet cover",
-      "link": "https://www.theguardian.com/football/2026/aug/08/liverpool-barcelona-ronald-araujo-loan-football-transfer"
+      "text": "⚽ Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+      "link": "https://www.theguardian.com/football/2026/aug/08/bruno-guimaraes-mikel-arteta-arsenal-options-midfield"
     },
     {
       "text": "⚽ Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
       "link": "https://www.theguardian.com/football/2026/aug/08/why-the-data-shows-guimaraes-deal-could-be-another-arsenal-set-piece-masterstroke"
-    },
-    {
-      "text": "⚽ Burnley edge win on penalties, West Ham through in Carabao Cup first round",
-      "link": "https://www.skysports.com/football/news/12040/13570969/carabao-cup-burnley-edge-win-on-penalties-west-ham-norwich-watford-through"
     }
   ],
   "timeline": {
@@ -41183,10 +41183,103 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-09": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1806_0",
+            "category": "england",
+            "type": "News",
+            "title": "New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
+            "bullets": [
+              "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Trent Alexander-Arnold faces a defining second season at Real Madrid as he looks to prove his worth under Jose Mourinho.",
+            "fullText": "Trent Alexander-Arnold featured in 35 of Real Madrid's 62 matches in all competitions last season\n\nMore than 14 months after leaving Liverpool for Real Madrid, Trent Alexander-Arnold will soon begin his second season with the Spanish club under a third manager in Jose Mourinho.\n\nThe 27-year-old right-back arrived with huge expectations.\n\nWhen signing him, Real Madrid regarded him as one of the most versatile defenders in the world and one who could influence games through his passing range, crossing ability and experience in managing high-pressure moments.\n\nHowever, his first season was disrupted by injuries, managerial changes and the difficulty of adapting to a new league and environment as he failed to make England's World Cup squad.\n\nNow, after encouraging signs during pre-season, Alexander-Arnold will hope to finally establish himself as a key figure in the Spanish capital in the forthcoming campaign.\n\nAlexander-Arnold made 21 La Liga appearances for Real Madrid in 2025-26\n\nReal Madrid paid Liverpool a reported 10m euros (Â£8.4m) for Alexander-Arnold, releasing him from his contract on 1 June 2025, a month early.\n\nBut an eagerly awaited debut campaign never reached the heights many expected.\n\nTwo separate injuriesaffected him. A hamstring issue last September sidelined him for seven weeks, while a thigh problem in December kept him out for a further two months.\n\nThat denied Alexander-Arnold the sustained run of games needed to build momentum and a connection with supporters.\n\nOverall, he featured in 35 of Real Madrid's 62 matches across all competitions last season, but was not first choice, starting 27 times as he shared the right-back role with club legend Dani Carvajal.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1806_1",
+            "category": "england",
+            "type": "News",
+            "title": "‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
+            "bullets": [
+              "The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinis...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished businessWhen Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show, taking his seat in the front row alongside rapper Cardi B, the online reaction was swift. Within hours, footage of the Udinese and Nigeria goalkeeper was all over TikTok and Instagram – where his audience now stretches near to two million followers – transforming the appearance into a viral cultural moment that crossed beyond the boundaries of football.Yet ask Okoye to reflect on his sudden explosion into the fashion ecosystem, and he frames it not as a pursuit of celebrity or status, but as a genuine interest in art. “Being at the Paris fashion week was really impressive,” Okoye tells the Guardian. “It was my first time really coming into contact with high fashion, and it was fascinating. It’s a true art form. I enjoyed it immensely, and since that moment I’ve become a much bigger fan of fashion than I was before.” Continue reading...",
+            "fullText": "The former Watford player talks about his off-field pursuits, lessons from the World Cup and unfinished business\n\nWhen Maduka Okoye visited Paris fashion week for the Jean Paul Gaultier show, taking his seat in the front row alongside rapper Cardi B, the online reaction was swift. Within hours, footage of theUdineseand Nigeria goalkeeper was all over TikTok and Instagram – where his audience now stretches near to two million followers – transforming the appearance into a viral cultural moment that crossed beyond the boundaries of football.\n\nYet ask Okoye to reflect on his sudden explosion into the fashion ecosystem, and he frames it not as a pursuit of celebrity or status, but as a genuine interest in art. “Being at the Paris fashion week was really impressive,” Okoye tells the Guardian. “It was my first time really coming into contact with high fashion, and it was fascinating. It’s a true art form. I enjoyed it immensely, and since that moment I’ve become a much bigger fan of fashion than I was before.”\n\nIn an era where elite footballers are expected to be multi-dimensional figures – balancing pitch performance, personal branding, digital presence and commercial partnerships – Okoye embodies a generation navigating this global landscape with ease.\n\nCrucially, he knows exactly where to steer the ship.\n\nWhile some athletes run the danger of losing their bearings when the off-pitch spotlight intensifies, the goalkeeper draws a sharp, impenetrable line between his two realms.\n\n“What happens off the pitch is one thing, what happens on the pitch is another,” he says. “You have to separate the two. I never let these two worlds collide. Even though marketing and personal branding are part of the business today, at the end of the day I am a goalkeeper, and my main job is to protect my team’s goal. Outside football, I pursue things that matter to me but my priority and my work remain between the posts. These two worlds don’t overlap. What I do off the pitch has zero impact on what I do on it, and those two spheres will never cross.”\n\nReinforcing that boundary is the daily environment in which Okoye operates. Playing for Udinese, nestled in the calm, industrious region of Friuli-Venezia Giulia, creates a vivid contrast with the flashing cameras of Paris or the hyper-fast churn of social media trends. For Okoye, who grew up in Düsseldorf, Udine offers an essential sanctuary.\n\n“I grew up in a big city, so in my heart I am and always will be a city boy, used to the metropolitan rhythm,” he smiles. “However, as you grow older, you learn to appreciate the peaceful side of life. I really like Udine. It’s a human, quiet city. You have your peace there and you can focus 100% on your work. I’m genuinely happy to live here. The serenity in Udine is good for you as a person and makes you feel very comfortable.”\n\nThat quiet focus away from the noise is paying dividends on the pitch. Having arrived after spells with Sparta Rotterdam and Watford – where he only made two senior appearances – he has established himself as a cornerstone between the posts for Udinese. In a footballing landscape often obsessed with highlight-reel saves, Okoye is staying focused.\n\n“I believe there is always room for improvement in every direction,” he says. “I’m very happy working here with a great goalkeeping staff. I’m on a good path, learning every day, and I can’t wait to show it on the pitch during the season.”\n\nWhen asked which goalkeeper impressed him most during the recent World Cup, Okoye says: “I found Spain’s Unai Simón very impressive, especially towards the final stages. Not so much for making hundreds of saves, but for the way he remained inside the game, defending deep balls against France. For me, that was goalkeeping of the highest level.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1806_2",
+            "category": "england",
+            "type": "News",
+            "title": "Carabao Cup: Millwall keeper saves four penalties, Preston prevail in Goodison home game",
+            "bullets": [
+              "Lukas Jensen the shootout hero for Millwall at QPRKyle Walker hits winner in Burnley shootout victor...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Lukas Jensen the shootout hero for Millwall at QPRKyle Walker hits winner in Burnley shootout victoryAlex Neil felt Lukas Jensen deserved his moment of glory after the fit-again goalkeeper saved all four QPR penalties to take Millwall through to the second round of the Carabao Cup.After a 1-1 draw, with a late Mark Sykes own goal bringing Rangers level after Luke Cundle’s opener, Millwall won 2-0 in a shootout which included six missed spot-kicks. Jensen, back after a long injury lay-off, kept out penalties from Ilias Chair, Harvey Vale, Koki Saito and Kwame Poku. Continue reading...",
+            "fullText": "Kyle Walker hits winner in Burnley shootout victory\n\nAlex Neil felt Lukas Jensen deserved his moment of glory after the fit-again goalkeeper saved all fourQPRpenalties to takeMillwallthrough to the second round of theCarabao Cup.\n\nAfter a 1-1 draw, with a late Mark Sykes own goal bringing Rangers level after Luke Cundle’s opener,Millwallwon 2-0 in a shootout which included six missed spot-kicks. Jensen, back after a long injury lay-off, kept out penalties from Ilias Chair, Harvey Vale, Koki Saito and Kwame Poku.\n\nThe Millwall manager said: “To save four penalties is really, really rare. And to put in the context behind that, Lukas has been missing for 15 months – he had a bad injury and then came back and had a setback. I think he would have been dreaming about that moment for 15 months – making four penalty saves and being the reason we’re through to the next round. And I’m absolutely delighted for him because he’s a great professional and a good lad, so fair play to him.”\n\nBurnleyprevailed 4-3 in a shootout to book their place in the second round after the Championship club had been held to a 1-1 draw by League OneNotts Countyat Turf Moor. Veteran defender Kyle Walker held his nerve with the winning kick after Clarets goalkeeper Max Weiss had saved from Emile Acquah and Jacob Bedeau.\n\nRussell Martin celebrated his first competitive game in charge ofLeicesterwith a 1-0 victory overNorthamptonthanks to Caleb Okoli’s first-half goal. The former Southampton and Rangers manager has been tasked with leading Leicester’s recovery following relegation to League One and overcame a spirited showing from League Two opponents at the King Power Stadium.\n\nAndre Brooks scored on his debut asNorwichcruised to a 4-1 victory over visitorsMK Dons. The Canaries made a blistering start at Carrow Road, pouncing on some sloppy defending to grab an early two-goal advantage. Mohamed Touré was put clean through by Kenny McLean after the Dons had made a hash of their first attempt to play out from the back and blasted home with just 40 seconds on the clock.\n\nThe hosts then made it 2-0 after seven minutes as Touré picked out Anis Ben Slimane who calmly found the corner. Norwich effectively settled the issue on 43 minutes when Brooks’ shot found the net via a deflection off Ben Chrisene, who was credited with the goal. The Dons pulled one back on 56 minutes through Ryan Wintle, but Brooks made it four just before the hour.\n\nTony Mowbray wants to see more cutting edge from hisBlackburnside after his return to the club began with a comeback 2-1 win at League OneBurton. Substitutes Andri Gudjohnsen and Jayden Fevrier netted late goals to secure victory after Zac Scutt’s opener. “We got there in the end.” Mowbray said. “We said at half-time that we should have scored four or five goals. Not could have. Should have.”\n\nDelano Burgzorg scored the winning penalty in the shootout after Jusef Erabi equalised in stoppage time for 10-manPrestonto knock outHuddersfield. The game took place at Goodison Park, the former Everton men’s ground, due to Preston’s Deepdale pitch not being ready. Daniel Iversen saved two penalties, after a thrilling end to normal time that ended 1-1 when Erabi cancelled out Radinio Balker’s strike. Preston played 69 minutes without Lewis Gibson who was shown a red card.\n\nSheffield Wednesday’s manager, Henrik Pedersen, praised his team’s performance after they beat Championship sideBolton1-0. Substitute Jamal Lowe scored in the 70th minute. Bolton had Xavier Simons sent off in the 56th minute when he received a red card after clashing with Harry Gray.\n\nPedersen said: “I saw a lot of steps in the right direction for our aggressive pressing, for our quick transition, more players higher up when we won the ball, more forward mindset. We keep on going, and they keep on working as a group. It means everything in this situation where we are.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1806_3",
+            "category": "england",
+            "type": "News",
+            "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+            "bullets": [
+              "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low blockData shows deal could be another set-piece masterstrokeIf there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing. “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.”After more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for the Seleção in their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity. Continue reading...",
+            "fullText": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block\n\nData shows deal could be another set-piece masterstroke\n\nIf there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled asArsenal’s new £75m signing. “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.”\n\nAfter more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for theSeleçãoin their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity.\n\nWhile his emotional statement released by Newcastle as his move toArsenalwas confirmed on Saturday said they “did everything they could to keep me”, at the age of 28 he clearly felt it may never come again.\n\nAndrea Berta’s pursuit of Vinícius Júnior came up short this week after the Brazil forward signed an improved six-year deal with Real Madrid. But at least Arsenal’s sporting director was finally able to bring in a player who was first courted by the club in the early days of Mikel Arteta’s reign, and who will add to the outstanding crop of central midfielders at his disposal.\n\nEdu Gaspar, Berta’s predecessor, is understood to have first enquired about Guimarães when he was still at Athletico Paranaense in Brazil before he joined Lyon in the January 2020 transfer window – a few weeks after Arteta’s arrival at the Emirates.\n\nThey were also interested when Newcastle won the race to sign him in January 2022 for €40m, which came back to haunt Arsenal when he scored in a 2-0 win that went a long way to them missing out on Champions League qualification that season.\n\nThat first of nine appearances is the only time he scored against Arsenal, but Guimarães always impressed in a variety of roles whenever he came up against them, including in the Carabao Cup semi-final Newcastle won 4-0 on aggregate in 2025. He has covered more distance, won more duels and committed more fouls against Arsenal than any other side since making his Premier League debut.\n\nIt was no surprise that Declan Rice – the only player in the division to have covered more distance than Guimarães in that period and who enjoyed their fair share of battles – was one of the first to welcome him to Arsenal with a message that said “come here and please no more fights, now we’re friends”.\n\nIt is hard to argue with Guimarães that Arsenal have “one of the best midfields” in Europe because last season proved it. Yet having gone all the way to the Champions League final before spending the summer with England, after suffering with neural pain in his hamstring and lower back since December, Rice must be treated with the utmost care in the coming months. Guimarães can provide cover for him in a box-to-box role and gives Arteta options to rotate his other midfielders more frequently.\n\nHe did not seem to trust Christian Nørgaard, who has joined Everton, to deputise for Martín Zubimendi in the Premier League last year, and that led to the Spain midfielder running out of steam in the spring.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1806_4",
+            "category": "england",
+            "type": "News",
+            "title": "Data shows Bruno Guimarães deal could be another Arsenal set-piece masterstroke",
+            "bullets": [
+              "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75mBruno Guimarães has broken a very niche record. His £75m move to Arsenal is the most expensive transfer for a midfielder aged at least 28. This should not be taken too seriously given the previous record holder, Zinedine Zidane, moved 25 years ago from Juventus to Real Madrid, and would have cost far more in 2026 money. But it shows how highly the Gunners rate the Brazilian to have spent so much on a player who will be in his 30s before the end of next year. It is a transfer for today, not tomorrow.The question is why. One reason is that Guimarães rarely misses matches. Another is that he can play anywhere across midfield in the 4-3-3 formation Mikel Arteta often deploys. These attributes could be priceless with Declan Rice managing long-term nerve pain in his hamstring and Martin Ødegaard playing 40% of possible Premier League minutes last season. Continue reading...",
+            "fullText": "Brazilian excels at winning free-kicks and conjuring results from them, hence why the champions were willing to spend £75m\n\nBruno Guimarães has broken a very niche record.His £75m move to Arsenalis the most expensive transfer for a midfielder aged at least 28. This should not be taken too seriously given the previous record holder, Zinedine Zidane, moved 25 years ago from Juventus to Real Madrid, and would have cost far more in 2026 money. But it shows how highly the Gunners rate the Brazilian to have spent so much on a player who will be in his 30s before the end of next year. It is a transfer for today, not tomorrow.\n\nThe question is why. One reason is that Guimarães rarely misses matches. Another is that he can play anywhere across midfield in the 4-3-3 formation Mikel Arteta often deploys. These attributes could be priceless with Declan Rice managing long-term nerve pain in his hamstring and Martin Ødegaard playing 40% of possible Premier League minutes last season.\n\nThe former Newcastle player is adept at breaking up attacks. Opta’s data showsArsenalmisplaced 1,492 passes in the final third last season, the fourth most in the Premier League. That is a lot of potential opportunities for the opposition to hit them on the break.\n\nGuimarães is unafraid to give away a free-kick if required. He was penalised for 45 fouls in the league last season, a mark he hit in all four of his full campaigns with Newcastle. Only Moisés Caicedo also reached that level in each of the previous four Premier League seasons.\n\nDespite committing the fourth-most fouls in the competition since making his debut for Newcastle in February 2022, nine players have received more yellow cards than Guimarães in that time. Not all indiscretions are equal, but referees seem to view him favourably.\n\nThey are even nicer on the other side of the foul equation. Guimarães excels in winning free-kicks. He has suffered 410 fouls in the Premier League, more than 100 more than anyone else during his time in England.\n\nLook around other top European leagues, at competitions where referees are quicker to award a foul than they are in England. Aside from the Lazio winger Mattia Zaccagni (with 418), you will not find anyone who has won more free-kicks than Guimarães. Vinicius Júnior is a shade above him on a pro-rata basis, with 2.95 fouls drawn per 90 minutes to 2.89, andArsenal were trying to sign himtoo.\n\nGuimarães ranked no lower than second in the Premier League for fouls suffered in each of the previous four seasons, twice leading the standings for England, France, Germany, Italy and Spain. This will have been an enticing selling point for a team that spin so much gold from set plays. And here’s the ultimate win from Arsenal’s perspective: only two players have scored more set-piece goals than Guimarães in the Premier League since early 2022 and they already own one of them.\n\nHis 12 goals is the joint-most by a midfielder or forward. By moving to Arsenal he has linked up with one of the defenders above him, his fellow Brazilian Gabriel.\n\nThe 28-year-old is not the only big loss to Newcastle this summer.Sandro TonaliandAnthony Gordonwere vital players and also in Newcastle’s top four for free-kicks won last season. But their combined foul total was less than Guimarães’s and neither scored from a set piece either.\n\nFor a team that plays the wayArsenal do, this particular set of skills may just be worth £75m, even for a relative veteran.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-08 @ 23:10:52 EDT",
+  "lastUpdated": "2026-08-09 @ 07:18:06 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
