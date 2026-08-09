@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Dijan Vukojevic scored a dream goal against MFF: \"It's world class!\"",
+      "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass"
+    },
+    {
       "text": "⚽ Lucas, 18, from Vingåker is charging for the WC in clay pigeon shooting: \"It's important to focus\"",
       "link": "https://www.svt.se/nyheter/lokalt/sormland/lucas-18-fran-vingaker-laddar-for-vm-i-lerduveskytte-galler-att-fokusera"
     },
@@ -15808,11 +15812,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2652_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Dijan Vukojevic scored a dream goal against MFF: \"It's world class!\"",
+            "bullets": [
+              "Goal of the year in the Allsvenskan? It is very possible that Degerfors' Dijan Vukojevic was respons...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goal of the year in the Allsvenskan? It is very possible that Degerfors' Dijan Vukojevic was responsible for that in the 2–1 away win against Malmö. - What do you say? Wow, he says to SVT Sport.",
+            "fullText": "The goal of the year in the Allsvenskan? It is very possible that Degerfors' Dijan Vukojevic was responsible for it in the 2-1 away win against Malmö. - What do you say? Wow, he says to SVT Sport.\n\nDijan Vukojevic made a fool of himself when he finished from 65 meters - well before the center circle.\n\nAnd in true David Beckham fashion, he sent the ball in a high arc over Robin Olsen and into the net.\n\nAfter the 1–0 goal, they were lyrical in TV4's commentary booth.\n\n- That's the goal of the year! Everyone else can lay down! exclaimed commentator Åke Unger.\n\nMFF's Sead Hakšabanović was not as impressed when he was interviewed at halftime:\n\n- I know I have the ability to reach 80 meters if necessary, so it's just a matter of driving, says Dijan Vukojevic himself.\n\nIt was not entirely different from Victor Edvardsen's dream goal against Djurgården five years ago. That goal was scored at Stora Valla at home in Degerfors.\n\nIn the second half, Vukojevic was in front again and scored 2–1, which decided the match for Degerfors. The Värmlanders' first victory in Malmö since 1993.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- This gives us a confidence boost and a belief in what we are doing, says Degerfors Nahom Girmai Netabay to SVT Sport.\n\n- There are 14 games left, but it's a push. Now we are in the race, says Vukojevic.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2655_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Lucas, 18, from Vingåker is charging for the WC in clay pigeon shooting: \"It's important to focus\"",
+            "bullets": [
+              "Three shooters from Vingåker's hunting shooting club are selected for the national team in compak sp...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Three shooters from Vingåker's hunting shooting club are selected for the national team in compak sporting, a variant of clay pigeon shooting that is decided in Italy in mid-August. The youngest is 18-year-old Lucas Johansson. - It will be fun and an experience to come to other countries, he says.",
+            "fullText": "Three shooters from Vingåker's hunting shooting club are selected for the national team in compak sporting, a variant of clay pigeon shooting that is decided in Italy in mid-August. The youngest is 18-year-old Lucas Johansson.\n\n- It will be fun and an experience to come to other countries, he says.\n\nThe difference between compak sporting and, for example, the Olympic disciplines skeet and trap is that in compak sporting there are more throwers who shoot the pigeons away. The technique is to keep a proper anticipation before the shot, which is the difficulty.\n\n- It becomes a habit, you sort of know when to shoot, says Lucas Johansson.\n\nIn addition to Lucas, who competes in the junior class, he is joined by Reima Vuorisalo and Göran Malmkvist, who competes in the veteran class.\n\n- It's fun that it comes with people you know well, trust and who you can ask for advice, says Lucas Johansson.\n\nThe fact that Vingåker's hunting and shooting club has three shooters in the national team may be due to the fact that the club has developed a lot in recent years, says Göran Malmkvist.\n\n- From having very few licensed shooters, we now have around 20 and three juniors, he says and continues:\n\n- It is the future of the entire shooting movement that we get young shooters in.\n\nTo become a successful shooter, you must have the will to train a lot and have good coaches, says Lucas Johansson, but it also requires more.\n\n- Having parents who can support, it's not a cheap sport, he says.\n\nFrom Sörmland, Amanda von Eisenhart is also part of the women's national team and the leader Timo Rajasaari.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2657_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Versatile Bruno Guimarães gives Mikel Arteta options to shuffle midfield pack | Ed Aarons",
+            "bullets": [
+              "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low blockData shows deal could be another set-piece masterstrokeIf there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled as Arsenal’s new £75m signing. “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.”After more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for the Seleção in their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity. Continue reading...",
+            "fullText": "While able to play deeper, the onus will also be on Arsenal’s £75m signing to provide creativity in an attack that has struggled to break down the low block\n\nData shows deal could be another set-piece masterstroke\n\nIf there was one of his many assets Newcastle supporters grew to love above all about Bruno Guimarães then it was best summed up by the man himself after being unveiled asArsenal’s new £75m signing. “That’s a tough one,” said the Brazil midfielder when asked what fans in north London can expect from him. “I would say I can pass the ball, run a lot and play like a warrior. I’ll never give up.”\n\nAfter more than four years on Tyneside and having seen Alexander Isak, Anthony Gordon and Sandro Tonali precede Eddie Howe’s departure, Guimarães – who was devastated after missing a penalty for theSeleçãoin their defeat against Norway in the last 16 of the World Cup – was determined to seize his opportunity.\n\nWhile his emotional statement released by Newcastle as his move toArsenalwas confirmed on Saturday said they “did everything they could to keep me”, at the age of 28 he clearly felt it may never come again.\n\nAndrea Berta’s pursuit of Vinícius Júnior came up short this week after the Brazil forward signed an improved six-year deal with Real Madrid. But at least Arsenal’s sporting director was finally able to bring in a player who was first courted by the club in the early days of Mikel Arteta’s reign, and who will add to the outstanding crop of central midfielders at his disposal.\n\nEdu Gaspar, Berta’s predecessor, is understood to have first enquired about Guimarães when he was still at Athletico Paranaense in Brazil before he joined Lyon in the January 2020 transfer window – a few weeks after Arteta’s arrival at the Emirates.\n\nThey were also interested when Newcastle won the race to sign him in January 2022 for €40m, which came back to haunt Arsenal when he scored in a 2-0 win that went a long way to them missing out on Champions League qualification that season.\n\nThat first of nine appearances is the only time he scored against Arsenal, but Guimarães always impressed in a variety of roles whenever he came up against them, including in the Carabao Cup semi-final Newcastle won 4-0 on aggregate in 2025. He has covered more distance, won more duels and committed more fouls against Arsenal than any other side since making his Premier League debut.\n\nIt was no surprise that Declan Rice – the only player in the division to have covered more distance than Guimarães in that period and who enjoyed their fair share of battles – was one of the first to welcome him to Arsenal with a message that said “come here and please no more fights, now we’re friends”.\n\nIt is hard to argue with Guimarães that Arsenal have “one of the best midfields” in Europe because last season proved it. Yet having gone all the way to the Champions League final before spending the summer with England, after suffering with neural pain in his hamstring and lower back since December, Rice must be treated with the utmost care in the coming months. Guimarães can provide cover for him in a box-to-box role and gives Arteta options to rotate his other midfielders more frequently.\n\nHe did not seem to trust Christian Nørgaard, who has joined Everton, to deputise for Martín Zubimendi in the Premier League last year, and that led to the Spain midfielder running out of steam in the spring.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-09 @ 07:32:43 EDT",
+  "lastUpdated": "2026-08-09 @ 11:26:57 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
