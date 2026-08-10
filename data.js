@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Villa interested in Endrick loan - Monday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Man City close in on Bouaddi - Tuesday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
@@ -41668,11 +41668,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_3651_0",
+            "category": "england",
+            "type": "News",
+            "title": "Man City close in on Bouaddi - Tuesday's gossip",
+            "bullets": [
+              "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham.",
+            "fullText": "Manchester Cityon the verge of signing Ayyoub Bouaddi, Serie A interest inArsenalduo Gabriel Jesus and Gabriel Martinelli, Real Madrid want Martin Zubimendi and Harry Kane target for Barcelona andTottenham.\n\nManchester Cityare closing in on signing Ayyoub Bouaddi, 18, fromLille, who value the Morocco midfielder at 100m euros (Â£85m).(Guardian),external\n\nReal Madridare interested in signing World Cup-winning Spain midfielder Martin Zubimendi, 25, from Premier League championsArsenal.(Football.London,external)\n\nArsenaland Brazil forward Gabriel Jesus, 29, is open to a move toNapolithis summer.(La Gazzetta dello Sport - in Italian),external\n\nItalian sideAS Romahave held initial talks with Gabriel Martinelli's representatives as they explore a move for the 25-year-oldArsenaland Brazil winger.(Mirror,external)\n\nBarcelonaandTottenhamhave both made recent enquiries toBayern Munichabout England forward Harry Kane, 33, over a summer transfer.(Teamtalk),external\n\nManchester Cityare aware of interest fromNottingham Forestin their Netherlands midfielder Tijjani Reijnders, 28, who was signed from AC Milan last summer for Â£46m.(Sky Sports),external\n\nBradley Barcola, 23, has given the green light toLiverpooldespiteArsenalmaking a late move for theParis St-Germainand France forward, who is valued at about Â£130m.(Sun,external)\n\nInter Milanand Italy defender Alessandro Bastoni, 27, andCrystal Palaceand England midfielder Adam Wharton, 22, remain of interest toReal Madrid, who are intent on making three more summer signings.(Fichajes - in Spanish),external\n\nMarseilleand Denmarkmidfielder Pierre-Emile Hojbjerg, 31, has turned down the opportunity to joinNewcastle.(Talksport),external\n\nManchester Unitedare strongly considering a move forRB Leipzigand Germany defender David Raum, 28, after failing to sign England left-back Lewis Hall, 21, fromNewcastle.(Teamtalk,external)\n\nTottenhamand England defender Djed Spence, 26, is back on the agenda atInter Milanafter their struggles to sign formerAston Villaand France winger Moussa Diaby fromAl-Ittihad.(Sky Sport - in Italian,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3651_1",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
+            "bullets": [
+              "Group including Amazon founder has held talks with FSGBhatia and Facebook co-founder Saverin also in...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Group including Amazon founder has held talks with FSGBhatia and Facebook co-founder Saverin also involvedA consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers.The Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.35bn. The deal is effectively agreed, but may take up to a month to complete. Continue reading...",
+            "fullText": "Group including Amazon founder has held talks with FSG\n\nBhatia and Facebook co-founder Saverin also involved\n\nA consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks withFenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers.\n\nThe Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.35bn. The deal is effectively agreed, but may take up to a month to complete.\n\nBezos has a personal fortune of around $257bn (£190bn), according to Forbes, making him the fourth-richest person in the world, while Saverin is reportedly worth $32bn. This will be Bezos’s first investment in football, but he has previously looked into bidding for NFL franchises. The 62-year-old will receive equity as part of the deal, which Deloitte has advised on.\n\nBezos is the executive chair ofAmazonhaving relinquished day-to-day control when he stepped down as chief executive five years ago. Under his leadership, the online retailer has diversified into being an entertainment provider and has bought numerous sports rights for its streaming service.\n\nAmazon had live UK rights for 20 Premier League games each season for six seasons until the end of last year and broadcasts the Champions League in several European countries, as well as some NFL games in the US.\n\nFSG bought Liverpool in 2010and have overseen two Premier League titles. FSG sold 3% of the club tothe US private equity firm Dynasty Equityin 2023.\n\nIt has been a summer of change at Anfield, withAndoni IraolareplacingArne Slot as head coach, Mohamed Salah left on a free transfer and hasjoined Trabzonsporand Michael Edwards departed his role as chief executive officer at FSG.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3652_2",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal step up push for defensive cover with Timber and Saliba sidelined",
+            "bullets": [
+              "Fresh bid expected for Villa’s KonsaArteta says existing players need to improveArsenal are stepping...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fresh bid expected for Villa’s KonsaArteta says existing players need to improveArsenal are stepping up their efforts to sign defensive cover for William Saliba after Mikel Arteta revealed that Jurriën Timber is well away from returning to competitive action. Saliba will be out for an extended period after breaking down during the World Cup with a back injury.After Arsenal lost a second successive friendly when Borussia Dortmund won 3-2 on Sunday to lift the Emirates Cup in a performance that featured several defensive mistakes, Arteta would not be drawn on when the France defender is expected to return, but said it would take “some time to heal”. Continue reading...",
+            "fullText": "Arsenal are stepping up their efforts to sign defensive cover for William Saliba after Mikel Arteta revealed that Jurriën Timber is well away from returning to competitive action. Saliba will be out for an extended period after breaking downduring the World Cup with a back injury.\n\nAfter Arsenal lost a second successive friendly when Borussia Dortmundwon 3-2 on Sundayto lift the Emirates Cup in a performance that featured several defensive mistakes, Arteta would not be drawn on when the France defender is expected to return, but said it would take “some time to heal”.\n\nThere are also concerns over Timber, who pulled out of the Netherlands squad on the eve of the World Cup after failing to recover from a persistent groin injury that forced him to miss most of the run‑in last season.\n\n“Jurriën is progressing really well,” Arteta said. “He’s on the pitch, he’s doing quite a lot right now, but it’s still weeks away. I cannot tell you how much.\n\n“William Saliba is in rest mode at the moment for two weeks. He had to do almost nothing, an aggravated injury, so it’s going to take some time to heal.”\n\nPressed on howArsenalwill cope without Saliba, he said: “We have experienced that in the past, unfortunately. When he’s been available, he’s hit home and the stats are incredible. We know we lost a massive player, the same with Jurriën.”\n\nArsenal have had a bid for Aston Villa’s Ezri Konsa rejected and are expected to return with a new offer for the England centre-back, who is also capable of playing at right-back. Villa value him at £60m, but with less than two years left on his contract Arsenal are unwilling to pay that much for the 28‑year‑old.\n\nThe Premier League champions have also shown an interest in signing Cristian Romero from Tottenham, but any move for the Argentina defender is extremely unlikely given Spurs’ reluctance to sell to their north London rivals.\n\nKick off your evenings with the Guardian's take on the world of football\n\nArteta, who started against Dortmund with Cristhian Mosquera in central defence alongside Gabriel Magalhães, said Arsenal’s existing players must get up to speed before the Community Shield against Manchester City on Sunday, but did not rule out bringing in another defender.\n\n“It has to be the right player in the market to make us much better,” he said. “We conceded some poor goals today, in the way we competed especially. But that’s a collective responsibility. So we need to improve with the players we have.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-10 @ 15:28:39 EDT",
+  "lastUpdated": "2026-08-10 @ 18:36:52 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
