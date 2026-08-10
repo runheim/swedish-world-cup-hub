@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Dijan Vukojevic scored a dream goal against MFF: \"It's world class!\"",
       "link": "https://www.svt.se/sport/fotboll/dijan-vukojevic-slog-till-med-drommal-mot-mff-det-ar-varldsklass"
-    },
-    {
-      "text": "⚽ Lucas, 18, from Vingåker is charging for the WC in clay pigeon shooting: \"It's important to focus\"",
-      "link": "https://www.svt.se/nyheter/lokalt/sormland/lucas-18-fran-vingaker-laddar-for-vm-i-lerduveskytte-galler-att-fokusera"
     }
   ],
   "timeline": {
@@ -15986,10 +15982,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-10": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5037_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Dijan Vukojevic scored a dream goal against MFF: \"It's world class!\"",
+            "bullets": [
+              "Goal of the year in the Allsvenskan? It is very possible that Degerfors' Dijan Vukojevic was respons...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goal of the year in the Allsvenskan? It is very possible that Degerfors' Dijan Vukojevic was responsible for that in the 2–1 away win against Malmö. - What do you say? Wow, he says to SVT Sport. - Unfortunately, the ball disappears in the sun, says Robin Olsen.",
+            "fullText": "The goal of the year in the Allsvenskan? It is very possible that Degerfors' Dijan Vukojevic was responsible for it in the 2-1 away win against Malmö. - What do you say? Wow, he says to SVT Sport. - Unfortunately, the ball disappears in the sun, says Robin Olsen.\n\nDijan Vukojevic made a fool of himself when he finished from 65 meters - well before the center circle.\n\nAnd in true David Beckham fashion, he sent the ball in a high arc over Robin Olsen and into the net.\n\nAfter the 1–0 goal, they were lyrical in TV4's commentary booth.\n\n- That's the goal of the year! Everyone else can lay down! exclaimed commentator Åke Unger.\n\nMFF's Sead Hakšabanović was not as impressed when he was interviewed at halftime:\n\n- I know I have the ability to reach 80 meters if necessary, so it's just a matter of driving, says Dijan Vukojevic himself.\n\nIt was not entirely different from Victor Edvardsen's dream goal against Djurgården five years ago. That goal was scored at Stora Valla at home in Degerfors.\n\nIn the second half, Vukojevic was in front again and scored 2–1, which decided the match for Degerfors. The Värmlanders' first victory in Malmö since 1993.\n\nIt is the team's first victory in the Allsvenskan since April 23. Before today, they had five straight losses. They had also not managed a single goal.\n\n- This gives us a confidence boost and a belief in what we are doing, says Degerfors Nahom Girmai Netabay to SVT Sport.\n\n- There are 14 games left, but it's a push. Now we are in the race, says Vukojevic.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-09 @ 23:23:07 EDT",
+  "lastUpdated": "2026-08-10 @ 07:50:37 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
