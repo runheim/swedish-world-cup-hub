@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Potter: 'Our focus is on building chemistry and consistency'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Netherlands and Japan head coaches outline tactical structures",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Sirius lost 2-0 against BP - after nightmare minutes",
+      "link": "https://www.svt.se/sport/fotboll/sirius-tappade-2-0-mot-bp-efter-mardromsminuter"
     }
   ],
   "timeline": {
@@ -16062,11 +16046,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2917_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sirius lost 2-0 against BP - after nightmare minutes",
+            "bullets": [
+              "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league leaders. But it ended with a shared pot at Studenterna's, after two quick BP goals. - We show a strong mentality, says BP's captain Simon Strand to SVT Sport.",
+            "fullText": "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league leaders.\n\nBut it ended with a shared pot at Studenterna's, after two quick BP goals.\n\n- We show a strong mentality, says BP's captain Simon Strand to SVT Sport.\n\nThe superior league leaders initially showed no major lack of shooting league leader Robbie Ure, who received permission from Sirius to visit a foreign club.\n\n1-0 Victor Svensson, who celebrated the goal with a golf swing, made it 1-0 after a surprising shot from outside the penalty area in the 17th minute. Just minutes later, Isak Bjerkebo increased the score to 2–0, after a careless play by BP's goalkeeper Leo Cavallius.\n\nJust eleven minutes after Svensson's 1–0, BP had equalised.\n\nOliver Zandén carefully twisted the ball from a slightly relaxed Mohamed Soumah and was able to thump the ball past Sirius goalkeeper David Celic from a tight angle. Three minutes later, Obilor Okeke equalised.\n\n- We do really well in the first half. Even though we concede two goals, we keep the game up, come back and show a strong mentality, says BP's Simon Strand.\n\nSirius pushed for a winning goal in the second half, but could never get the ball in.\n\n- We play a perfectly okay match. We are a bit sloppy from time to time, but in some moments we play really well. Too bad we walk away with a point today. We must win this match, says a visibly disappointed Sirius August Ljungberg to SVT Sport.\n\nLjungberg stepped into Robbie Ure's position, but he does not see himself as the top scorer's natural replacement.\n\n- We don't play in the same position. Now it was Robbie out and me in. It's big shoes to fill, but I'm doing my best.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-10 @ 11:56:50 EDT",
+  "lastUpdated": "2026-08-10 @ 15:29:17 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
