@@ -8,12 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2klxw043xo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ New season, new boss - will Alexander-Arnold be key figure at Real Madrid?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c78gvzvwql0o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ ‘It’s a true art form’: Nigeria goalkeeper Maduka Okoye on high fashion and life at Udinese",
-      "link": "https://www.theguardian.com/football/2026/aug/09/nigeria-udinese-goalkeeper-maduka-okoye-football-high-fashion-interview"
+      "text": "⚽ Arsenal step up push for defensive cover with Timber and Saliba sidelined",
+      "link": "https://www.theguardian.com/football/2026/aug/10/arsenal-defensive-backup-jurrien-timber-william-saliba-sidelined-transfer-window"
     }
   ],
   "timeline": {
@@ -41513,10 +41509,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-10": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3953_0",
+            "category": "england",
+            "type": "News",
+            "title": "Villa interested in Endrick loan - Monday's gossip",
+            "bullets": [
+              "Aston Villa interested in Endrick loan, Harry Kane expected to extend Bayern Munich deal and Arsenal...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa interested in Endrick loan, Harry Kane expected to extend Bayern Munich deal and Arsenal make Bradley Barcola contact, plus more.",
+            "fullText": "Aston Villainterested in Endrick loan, Harry Kane expected to extend Bayern Munich deal andArsenalmake Bradley Barcola contact.\n\nAston VillaandRomahave expressed an interest in signing Brazil forward Endrick, 22, on loan fromReal Madrid.(AS - in Spanish),external\n\nEngland striker Harry Kane, 33, is expected to extend his contract withBayern Munichuntil 2029.(Times - subscription required),external\n\nArsenalhave made contact with Bradley Barcola's camp as they bid to hijackLiverpool'smove to sign the France forward, 23, fromParis St-Germain.(Give Me Sport),external\n\nEngland forward Marcus Rashford, 28, is committed to reviving hisManchester Unitedcareer after returning to the club following his loan spell withBarcelona.(Sun),external\n\nLiverpoolcould open the door for Netherlands forward Cody Gakpo, 27, to joinTottenhamif they secure one of their attacking targets.(Football Insider),external\n\nArsenalandTottenhamshowed an interest inBarcelona'sFerran Torres before the Spain forward, 26, agreed personal terms withParis St-Germain.(TeamTalk),external\n\nCrystal Palacehave opened talks over signing Senegal midfielder Lamine Camara, 22, fromMonaco.(Nicolo Schira),external\n\nManchester UnitedandArsenalare among the clubs chasingClub Brugge'sBelgium left-back Joaquin Seys, 21.(Sun),external\n\nHector Fort has been told he can leaveBarcelonathis summer, withEvertonandFulhamamong the clubs interested in the Spanish right-back, 20.(TeamTalk),external\n\nFulhamhave agreed to sign Northern Ireland midfielder Shea Charles, 22, fromSouthamptonin a deal worth up to Â£30m.(Athletic - subscription required),external\n\nScottish striker Robbie Ure, 22, is set to joinSevillafrom Swedish league leadersIK Siriusfor 9m euros (Â£7.7m).(ESPN),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3954_1",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal step up push for defensive cover with Timber and Saliba sidelined",
+            "bullets": [
+              "Fresh bid expected for Villa’s KonsaArteta says existing players need to improveArsenal are stepping...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Fresh bid expected for Villa’s KonsaArteta says existing players need to improveArsenal are stepping up their efforts to sign defensive cover for William Saliba after Mikel Arteta revealed Jurriën Timber is well away from returning to competitive action. Saliba will be sidelined for an extended period after breaking down during the World Cup with a back injury.After Arsenal lost a second successive friendly when Borussia Dortmund won 3-2 on Sunday to lift the Emirates Cup in a performance that featured several defensive mistakes, Arteta would not be drawn on when the France defender is expected to return, but said it would take “some time to heal”. Continue reading...",
+            "fullText": "Arsenal are stepping up their efforts to sign defensive cover for William Saliba after Mikel Arteta revealed Jurriën Timber is well away from returning to competitive action. Saliba will be sidelined for an extended period after breaking downduring the World Cup with a back injury.\n\nAfter Arsenal lost a second successive friendly when Borussia Dortmundwon 3-2 on Sundayto lift the Emirates Cup in a performance that featured several defensive mistakes, Arteta would not be drawn on when the France defender is expected to return, but said it would take “some time to heal”.\n\nThere are also concerns over Timber, who pulled out of the Netherlands squad on the eve of the World Cup after failing to recover from a persistent groin injury that led him to miss most of the run-in last season.\n\n“Jurriën is progressing really well,” Arteta said. “He’s on the pitch, he’s doing quite a lot right now, but it’s still weeks away. I cannot tell you how much.\n\n“William Saliba is in rest mode at the moment for two weeks. He had to do almost nothing, an aggravated injury, so it’s going to take some time to heal.”\n\nPressed on howArsenalwill cope without Saliba, he said: “We have experienced that in the past, unfortunately. When he’s been available, he’s hit home and the stats are incredible. We know we lost a massive player, the same with Jurriën.”\n\nArsenal have had a bid for Aston Villa’s Ezri Konsa rejected and are expected to return with a new offer for the England defender, who is also capable of playing at right-back. Villa value him at £60m, but with less than two years left on his contract Arsenal are unwilling to pay that much for the 28-year-old. The Premier League champions have also shown an interest in signing Cristian Romero from Tottenham, but any move for the Argentina defender is extremely unlikely given Spurs’ reluctance to sell to their north London rivals.\n\nArteta, who started with Cristhian Mosquera in central defence alongside Gabriel Magalhães against Dortmund, said Arsenal’s existing players must get up to speed before Sunday’s Community Shield against Manchester City, but did not rule out bringing in another defender.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“It has to be the right player in the market to make us much better,” he said. “We conceded some poor goals today, in the way we competed especially. But that’s a collective responsibility. So we need to improve with the players we have.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-09 @ 23:21:08 EDT",
+  "lastUpdated": "2026-08-10 @ 07:39:55 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
