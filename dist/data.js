@@ -16492,6 +16492,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Are we wearing the white or blue kits tomorrow?",
       "time": "06:05",
       "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "12:54",
+      "isCaptain": true
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "12:55",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Early night for me. Big day tomorrow.",
+      "time": "12:56",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Are we wearing the white or blue kits tomorrow?",
+      "time": "12:57",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "12:58",
+      "isCaptain": false
     }
   ]
 };
