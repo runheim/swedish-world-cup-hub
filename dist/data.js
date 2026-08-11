@@ -8,12 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cre417w85reo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
-      "link": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group"
-    },
-    {
-      "text": "⚽ Dortmund scout behind Haaland and Bellingham moves wanted by PL clubs",
-      "link": "https://www.skysports.com/football/news/12040/13571673/sebastian-krug-borussia-dortmund-scout-behind-erling-haaland-and-jude-bellingham-moves-wanted-by-premier-league-clubs"
+      "text": "⚽ Walker's 'hangover' warning as Burnley chase fast start",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "timeline": {
@@ -41841,11 +41837,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0047_0",
+            "category": "england",
+            "type": "News",
+            "title": "Man City close in on Bouaddi - Tuesday's gossip",
+            "bullets": [
+              "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham.",
+            "fullText": "Manchester Cityon the verge of signing Ayyoub Bouaddi, Serie A interest inArsenalduo Gabriel Jesus and Gabriel Martinelli, Real Madrid want Martin Zubimendi and Harry Kane target for Barcelona andTottenham.\n\nManchester Cityare closing in on signing Ayyoub Bouaddi, 18, fromLille, who value the Morocco midfielder at 100m euros (Â£85m).(Guardian),external\n\nReal Madridare interested in signing World Cup-winning Spain midfielder Martin Zubimendi, 25, from Premier League championsArsenal.(Football.London,external)\n\nArsenaland Brazil forward Gabriel Jesus, 29, is open to a move toNapolithis summer.(La Gazzetta dello Sport - in Italian),external\n\nItalian sideAS Romahave held initial talks with Gabriel Martinelli's representatives as they explore a move for the 25-year-oldArsenaland Brazil winger.(Mirror,external)\n\nBarcelonaandTottenhamhave both made recent enquiries toBayern Munichabout England forward Harry Kane, 33, over a summer transfer.(Teamtalk),external\n\nManchester Cityare aware of interest fromNottingham Forestin their Netherlands midfielder Tijjani Reijnders, 28, who was signed from AC Milan last summer for Â£46m.(Sky Sports),external\n\nBradley Barcola, 23, has given the green light toLiverpooldespiteArsenalmaking a late move for theParis St-Germainand France forward, who is valued at about Â£130m.(Sun,external)\n\nInter Milanand Italy defender Alessandro Bastoni, 27, andCrystal Palaceand England midfielder Adam Wharton, 22, remain of interest toReal Madrid, who are intent on making three more summer signings.(Fichajes - in Spanish),external\n\nMarseilleand Denmarkmidfielder Pierre-Emile Hojbjerg, 31, has turned down the opportunity to joinNewcastle.(Talksport),external\n\nManchester Unitedare strongly considering a move forRB Leipzigand Germany defender David Raum, 28, after failing to sign England left-back Lewis Hall, 21, fromNewcastle.(Teamtalk,external)\n\nTottenhamand England defender Djed Spence, 26, is back on the agenda atInter Milanafter their struggles to sign formerAston Villaand France winger Moussa Diaby fromAl-Ittihad.(Sky Sport - in Italian,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0047_1",
+            "category": "england",
+            "type": "News",
+            "title": "Walker's 'hangover' warning as Burnley chase fast start",
+            "bullets": [
+              "Burnley defender Kyle Walker warns his team-mates they cannot \"have a hangover\" as they target an im...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Burnley defender Kyle Walker warns his team-mates they cannot \"have a hangover\" as they target an immediate Premier League return.",
+            "fullText": "Kyle Walker played in 36 of Burnley's 38 Premier League games in 2025-26\n\nBurnley defender Kyle Walker has warned his team-mates they cannot \"have a hangover\" after relegation as they target an immediate Premier League return.\n\nThe Clarets finished 19th in the top flight last season and begin their Championship campaign on Sunday at home to West Ham, another team relegated in 2025-26.\n\nBurnley have dropped down from the Premier League in 2021-22 and 2023-24, only to then instantly win promotion at the first attempt.\n\nFormer England international Walker, 36, feels those at the club cannot feel sorry for themselves if they are to return to the elite.\n\nSpeaking at the EFL launch day in Manchester, he said: \"I'm very excited, it's a different challenge for me personally but it's all about the club and bouncing back to the Premier League â that is vital.\n\n\"This club has had ups and downs, but we need to bounce back and stay in the Premier League for the things this club does for everyone.\n\n\"It's about your mentality. The lads have had a taste of the Premier League but we don't want to have a hangover and we want to make sure they are on the ball from the first minute.\n\n\"We have an obligation to be - to themselves, their team-mates and also the fans that support this club.\"\n\nBurnley only won four top-flight games last season, finishing 19 points behind 17th-placed Tottenham.\n\nKyle Walker played 96 times for England and announced his international retirement in March\n\nHowever, Walker, who won the Premier League six times with Manchester City and also the Champions League, feels there is plenty to be excited about for Clarets supporters.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-11 @ 07:35:34 EDT",
+  "lastUpdated": "2026-08-11 @ 12:00:47 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
