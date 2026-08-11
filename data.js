@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Behrang Safari: Malmö FF needs it",
+      "link": "https://www.svt.se/sport/fotboll/behrang-safari-det-behover-malmo-ff"
+    },
+    {
       "text": "⚽ Sirius lost 2-0 against BP - after nightmare minutes",
       "link": "https://www.svt.se/sport/fotboll/sirius-tappade-2-0-mot-bp-efter-mardromsminuter"
     }
@@ -16116,10 +16120,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-11": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4712_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Behrang Safari: Malmö FF needs it",
+            "bullets": [
+              "Malmö FF is a bit off the top of the Allsvenskan. Behrang Safari has a clear picture of the requirem...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Malmö FF is a bit off the top of the Allsvenskan. Behrang Safari has a clear picture of the requirements for a change. - That has never existed before, says the expert in SVT's Fotbollsstudion.",
+            "fullText": "Behrang Safari has a clear picture of the requirements for a change.\n\n- That has never existed before, says the expert in SVT's Fotbollsstudion.\n\nHear Behrang Safari on what is required by MFF in the player above.\n\nThe Sky Blues are in ninth place in the Allsvenskan and have seven wins, two draws and seven losses.\n\nEarlier this year, the then coach Miguel Angél Ramirez was fired and at the end of June the replacement was presented: Gaute Helstrup, 50, from Norway.\n\nStill, it is an MFF that mixes and gives. Behrang Safari, an expert in SVT's Football studio, has a clear picture of what is required.\n\nAs you know, Safari has a past in MFF. He debuted in the Allsvenskan as a 19-year-old and represented the team between 2004 and 2008 and 2016 and 2020.\n\nDON'T MISS: Fotbollstudion, SVT's magazine program with the best from Allsvenskan, every Monday starting at 21.10 on Play.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4714_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sirius lost 2-0 against BP - after nightmare minutes",
+            "bullets": [
+              "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league leaders. But it ended with a shared pot at Studenterna's, after two quick BP goals. After the match, Sirius' coach Andreas Engelmark was really pissed off at the referee's decision. - The way you communicate is a breakdown, he says.",
+            "fullText": "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league leaders.\n\nBut it ended with a shared pot at Studenterna's, after two quick BP goals.\n\nAfter the match, Sirius' coach Andreas Engelmark was really pissed off at the referee's decision.\n\n- The way you communicate is a breakdown, he says.\n\nThe superior league leaders initially showed no major lack of shooting league leader Robbie Ure, who received leave from Sirius to visit a foreign club.\n\n1-0 Victor Svensson, who celebrated the goal with a golf swing, made it 1-0 after a surprising shot from outside the penalty area in the 17th minute. Just minutes later, Isak Bjerkebo increased the score to 2–0, after a careless play by BP's goalkeeper Leo Cavallius.\n\nJust eleven minutes after Svensson's 1–0, BP had equalised.\n\nOliver Zandén carefully twisted the ball from a slightly relaxed Mohamed Soumah and was able to thump the ball past Sirius goalkeeper David Celic from a tight angle. Three minutes later, Obilor Okeke equalised.\n\n- We do really well in the first half. Even though we concede two goals, we keep the game up, come back and show a strong mentality, says BP's captain Simon Strand.\n\nSirius pushed for a winning goal in the second half, but could never get the ball in.\n\nAfter the match, Sirius' coach Andreas Engelmark was really annoyed at the referee's decision and is said to have shouted in the players' corridor. At the press conference, he elaborated on his criticism:\n\n- It is incredibly bad dialogue from the judges out there. It's a breakdown how to communicate. You communicate with yellow cards, which I think is far too bad. It is incredibly weak not to communicate and have no dialogue.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-10 @ 23:15:35 EDT",
+  "lastUpdated": "2026-08-11 @ 07:47:14 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
