@@ -12,8 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group"
     },
     {
-      "text": "⚽ Arsenal step up push for defensive cover with Timber and Saliba sidelined",
-      "link": "https://www.theguardian.com/football/2026/aug/10/arsenal-defensive-backup-jurrien-timber-william-saliba-sidelined-transfer-window"
+      "text": "⚽ Dortmund scout behind Haaland and Bellingham moves wanted by PL clubs",
+      "link": "https://www.skysports.com/football/news/12040/13571673/sebastian-krug-borussia-dortmund-scout-behind-erling-haaland-and-jude-bellingham-moves-wanted-by-premier-league-clubs"
     }
   ],
   "timeline": {
@@ -41783,10 +41783,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-11": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3533_0",
+            "category": "england",
+            "type": "News",
+            "title": "Man City close in on Bouaddi - Tuesday's gossip",
+            "bullets": [
+              "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham.",
+            "fullText": "Manchester Cityon the verge of signing Ayyoub Bouaddi, Serie A interest inArsenalduo Gabriel Jesus and Gabriel Martinelli, Real Madrid want Martin Zubimendi and Harry Kane target for Barcelona andTottenham.\n\nManchester Cityare closing in on signing Ayyoub Bouaddi, 18, fromLille, who value the Morocco midfielder at 100m euros (Â£85m).(Guardian),external\n\nReal Madridare interested in signing World Cup-winning Spain midfielder Martin Zubimendi, 25, from Premier League championsArsenal.(Football.London,external)\n\nArsenaland Brazil forward Gabriel Jesus, 29, is open to a move toNapolithis summer.(La Gazzetta dello Sport - in Italian),external\n\nItalian sideAS Romahave held initial talks with Gabriel Martinelli's representatives as they explore a move for the 25-year-oldArsenaland Brazil winger.(Mirror,external)\n\nBarcelonaandTottenhamhave both made recent enquiries toBayern Munichabout England forward Harry Kane, 33, over a summer transfer.(Teamtalk),external\n\nManchester Cityare aware of interest fromNottingham Forestin their Netherlands midfielder Tijjani Reijnders, 28, who was signed from AC Milan last summer for Â£46m.(Sky Sports),external\n\nBradley Barcola, 23, has given the green light toLiverpooldespiteArsenalmaking a late move for theParis St-Germainand France forward, who is valued at about Â£130m.(Sun,external)\n\nInter Milanand Italy defender Alessandro Bastoni, 27, andCrystal Palaceand England midfielder Adam Wharton, 22, remain of interest toReal Madrid, who are intent on making three more summer signings.(Fichajes - in Spanish),external\n\nMarseilleand Denmarkmidfielder Pierre-Emile Hojbjerg, 31, has turned down the opportunity to joinNewcastle.(Talksport),external\n\nManchester Unitedare strongly considering a move forRB Leipzigand Germany defender David Raum, 28, after failing to sign England left-back Lewis Hall, 21, fromNewcastle.(Teamtalk,external)\n\nTottenhamand England defender Djed Spence, 26, is back on the agenda atInter Milanafter their struggles to sign formerAston Villaand France winger Moussa Diaby fromAl-Ittihad.(Sky Sport - in Italian,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3534_1",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
+            "bullets": [
+              "Group including Amazon founder has held talks with FSGBhatia and Facebook co-founder Saverin also in...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Group including Amazon founder has held talks with FSGBhatia and Facebook co-founder Saverin also involvedA consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks with Fenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers.The Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.35bn. The deal is effectively agreed, but may take up to a month to complete. Continue reading...",
+            "fullText": "Group including Amazon founder has held talks with FSG\n\nBhatia and Facebook co-founder Saverin also involved\n\nA consortium including the Amazon founder, Jeff Bezos, is close to completing a deal for a 30% stake in Liverpool after months of talks withFenway Sports Group. The investors are led by Amit Bhatia, the son-in-law of the Indian billionaire Lakshmi Mittal and who previously was a shareholder and director at Queens Park Rangers.\n\nThe Facebook co-founder Eduardo Saverin is another member of the group who will pay in the region of £1.35bn. The deal is effectively agreed, but may take up to a month to complete.\n\nBezos has a personal fortune of around $257bn (£190bn), according to Forbes, making him the fourth-richest person in the world, while Saverin is reportedly worth $32bn. This will be Bezos’s first investment in football, but he has previously looked into bidding for NFL franchises. The 62-year-old will receive equity as part of the deal, which Deloitte has advised on.\n\nBezos is the executive chair ofAmazonhaving relinquished day-to-day control when he stepped down as chief executive five years ago. Under his leadership, the online retailer has diversified into being an entertainment provider and has bought numerous sports rights for its streaming service.\n\nAmazon had live UK rights for 20 Premier League games each season for six seasons until the end of last year and broadcasts the Champions League in several European countries, as well as some NFL games in the US.\n\nFSG bought Liverpool in 2010and have overseen two Premier League titles. FSG sold 3% of the club tothe US private equity firm Dynasty Equityin 2023.\n\nIt has been a summer of change at Anfield, withAndoni IraolareplacingArne Slot as head coach, Mohamed Salah left on a free transfer and hasjoined Trabzonsporand Michael Edwards departed his role as chief executive officer at FSG.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3534_2",
+            "category": "england",
+            "type": "News",
+            "title": "Dortmund scout behind Haaland and Bellingham moves wanted by PL clubs",
+            "bullets": [
+              "A number of clubs in the Premier League and Europe are exploring a deal to recruit Borussia Dortmund...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A number of clubs in the Premier League and Europe are exploring a deal to recruit Borussia Dortmund director of scouting and recruiting Sebastian Krug.",
+            "fullText": "Borussia Dortmund director of scouting and recruiting Sebastian Krug of interest to a number of clubs in Premier League and Europe; German played a key role in Dortmund's recruitment of Erling Haaland, Jude Bellingham, Jadon Sancho and Jamie Bynoe-Gittens",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-10 @ 23:13:46 EDT",
+  "lastUpdated": "2026-08-11 @ 07:35:34 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
