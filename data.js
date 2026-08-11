@@ -16092,11 +16092,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1535_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sirius lost 2-0 against BP - after nightmare minutes",
+            "bullets": [
+              "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league leaders. But it ended with a shared pot at Studenterna's, after two quick BP goals. After the match, Sirius' coach Andreas Engelmark was really pissed off at the referee's decision. - The way you communicate is a breakdown, he says.",
+            "fullText": "When Isak Bjerkebo put Sirius 2-0, most probably believed in a fifth straight victory for the league leaders.\n\nBut it ended with a shared pot at Studenterna's, after two quick BP goals.\n\nAfter the match, Sirius' coach Andreas Engelmark was really pissed off at the referee's decision.\n\n- The way you communicate is a breakdown, he says.\n\nThe superior league leaders initially showed no major lack of shooting league leader Robbie Ure, who received permission from Sirius to visit a foreign club.\n\n1-0 Victor Svensson, who celebrated the goal with a golf swing, made it 1-0 after a surprising shot from outside the penalty area in the 17th minute. Just minutes later, Isak Bjerkebo increased the score to 2–0, after a careless play by BP's goalkeeper Leo Cavallius.\n\nJust eleven minutes after Svensson's 1–0, BP had equalised.\n\nOliver Zandén carefully twisted the ball from a slightly relaxed Mohamed Soumah and was able to thump the ball past Sirius goalkeeper David Celic from a tight angle. Three minutes later, Obilor Okeke equalised.\n\n- We do really well in the first half. Even though we concede two goals, we keep the game up, come back and show a strong mentality, says BP's captain Simon Strand.\n\nSirius pushed for a winning goal in the second half, but could never get the ball in.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- It is incredibly bad dialogue from the judges out there. It's a breakdown how to communicate. You communicate with yellow cards, which I think is far too bad. It is incredibly weak not to communicate and have no dialogue.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-10 @ 18:28:54 EDT",
+  "lastUpdated": "2026-08-10 @ 23:15:35 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
