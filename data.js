@@ -10,6 +10,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Walker's 'hangover' warning as Burnley chase fast start",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+      "link": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
     }
   ],
   "timeline": {
@@ -41877,11 +41881,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3303_0",
+            "category": "england",
+            "type": "News",
+            "title": "Man City close in on Bouaddi - Tuesday's gossip",
+            "bullets": [
+              "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City on the verge of signing Ayyoub Bouaddi, Serie A interest in Arsenal duo Gabriel Jesus and Gabriel Martinelli plus Harry Kane a target for Barcelona and Tottenham.",
+            "fullText": "Manchester Cityon the verge of signing Ayyoub Bouaddi, Serie A interest inArsenalduo Gabriel Jesus and Gabriel Martinelli, Real Madrid want Martin Zubimendi and Harry Kane target for Barcelona andTottenham.\n\nManchester Cityare closing in on signing Ayyoub Bouaddi, 18, fromLille, who value the Morocco midfielder at 100m euros (Â£85m).(Guardian),external\n\nReal Madridare interested in signing World Cup-winning Spain midfielder Martin Zubimendi, 25, from Premier League championsArsenal.(Football.London,external)\n\nArsenaland Brazil forward Gabriel Jesus, 29, is open to a move toNapolithis summer.(La Gazzetta dello Sport - in Italian),external\n\nItalian sideAS Romahave held initial talks with Gabriel Martinelli's representatives as they explore a move for the 25-year-oldArsenaland Brazil winger.(Mirror,external)\n\nBarcelonaandTottenhamhave both made recent enquiries toBayern Munichabout England forward Harry Kane, 33, over a summer transfer.(Teamtalk),external\n\nManchester Cityare aware of interest fromNottingham Forestin their Netherlands midfielder Tijjani Reijnders, 28, who was signed from AC Milan last summer for Â£46m.(Sky Sports),external\n\nBradley Barcola, 23, has given the green light toLiverpooldespiteArsenalmaking a late move for theParis St-Germainand France forward, who is valued at about Â£130m.(Sun,external)\n\nInter Milanand Italy defender Alessandro Bastoni, 27, andCrystal Palaceand England midfielder Adam Wharton, 22, remain of interest toReal Madrid, who are intent on making three more summer signings.(Fichajes - in Spanish),external\n\nMarseilleand Denmarkmidfielder Pierre-Emile Hojbjerg, 31, has turned down the opportunity to joinNewcastle.(Talksport),external\n\nManchester Unitedare strongly considering a move forRB Leipzigand Germany defender David Raum, 28, after failing to sign England left-back Lewis Hall, 21, fromNewcastle.(Teamtalk,external)\n\nTottenhamand England defender Djed Spence, 26, is back on the agenda atInter Milanafter their struggles to sign formerAston Villaand France winger Moussa Diaby fromAl-Ittihad.(Sky Sport - in Italian,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3303_1",
+            "category": "england",
+            "type": "News",
+            "title": "Walker's 'hangover' warning as Burnley chase fast start",
+            "bullets": [
+              "Burnley defender Kyle Walker warns his team-mates they cannot \"have a hangover\" as they target an im...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Burnley defender Kyle Walker warns his team-mates they cannot \"have a hangover\" as they target an immediate Premier League return.",
+            "fullText": "Kyle Walker played in 36 of Burnley's 38 Premier League games in 2025-26\n\nBurnley defender Kyle Walker has warned his team-mates they cannot \"have a hangover\" after relegation as they target an immediate Premier League return.\n\nThe Clarets finished 19th in the top flight last season and begin their Championship campaign on Sunday at home to West Ham, another team relegated in 2025-26.\n\nBurnley have dropped down from the Premier League in 2021-22 and 2023-24, only to then instantly win promotion at the first attempt.\n\nFormer England international Walker, 36, feels those at the club cannot feel sorry for themselves if they are to return to the elite.\n\nSpeaking at the EFL launch day in Manchester, he said: \"I'm very excited, it's a different challenge for me personally but it's all about the club and bouncing back to the Premier League â that is vital.\n\n\"This club has had ups and downs, but we need to bounce back and stay in the Premier League for the things this club does for everyone.\n\n\"It's about your mentality. The lads have had a taste of the Premier League but we don't want to have a hangover and we want to make sure they are on the ball from the first minute.\n\n\"We have an obligation to be - to themselves, their team-mates and also the fans that support this club.\"\n\nBurnley only won four top-flight games last season, finishing 19 points behind 17th-placed Tottenham.\n\nKyle Walker played 96 times for England and announced his international retirement in March\n\nHowever, Walker, who won the Premier League six times with Manchester City and also the Champions League, feels there is plenty to be excited about for Clarets supporters.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3303_2",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Far be it for Football Daily to make cheap gags [...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Far be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master of the universe Jeff Bezos in a consortium buying around 30% of Liverpool FC. Will new signings arrive via prompt delivery but end up next door at Everton? How will fans rate the packaging? Etc, etc. There’s also the involvement of Eduardo Saverin, the Facebook co-founder poking his head in. Though long ago unfriended by Mark Zuckerberg, Saverin still ranked No 56 on Forbes’s billionaires list. These are seriously rich men, and among the planet’s chino class, to quote Vladimir Putin, “soccer is popular”. The Geopolitics World Cup posh seats were full of those eyeing up deals on a frontier hardly new to investors from the USA USA USA, but where there may be much more gold to strike. See Gianni Infantino’s misreading of the art of the deal as an, ahem, prime example.Having also boycotted the GWC and also being very concerned about the season to come, I sympathise with Ken Muir (yesterday’s Football Daily letters). But at least Hearts know who their manager is. Due to the absurd, months-long FA ‘investigation’ into the manager who’s clearly admitted culpability for the undisputed facts of Spygate, my club, Southampton, is in a horrid limbo. Surely it could have been done and dusted in a couple of weeks and Saints could have planned accordingly. But perhaps the FA blazers were too busy writing their letter of support to Gianni Infantino to worry about destabilising my football club” – Bob Cushion.‘It’s 15 years of frustration here at this club,’ says Rangers boss Derek McInnes (yesterday’s Quote of the Day.) Steven Gerrard and the sole object in his managerial trophy cabinet would like a word, Derek” – David Maddock.Given the surfeit of the recent GWC machinations, the blatherings and canvassing for Gianni to do one (or not) and the less-than-sportsmanlike attitude from members of the Argentina team, can we please have a reprise of the Football Daily’s erstwhile, eventually abortive, attempt to ‘STOP FOOTBALL’? It has to be worth a thought, before VAR, PGMOL and Arsenal’s Dark Arts Department™ get to work on the 2026-27 Premier League shenanigans, surely?” – Budgie Wright.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nFar be it for Football Daily to make cheap gags [wait, what? – Football Daily Ed] relating to the involvement of Amazon founder and master of the universe Jeff Bezos in a consortiumbuying around 30% of Liverpool FC. Will new signings arrive via prompt delivery but end up next door at Everton? How will fans rate the packaging? Etc, etc. There’s also the involvement of Eduardo Saverin, the Facebook co-founder poking his head in. Though long ago unfriended by Mark Zuckerberg, Saverin still ranked No 56 on Forbes’s billionaires list. These are seriously rich men, and among the planet’s chino class, to quote Vladimir Putin, “soccer is popular”. The Geopolitics World Cup posh seats were full of those eyeing up deals on a frontier hardly new to investors from the USA USA USA, but where there may be much more gold to strike. See Gianni Infantino’s misreading of the art of the deal as an, ahem, prime example.\n\nBezos is no football man, barely known as a sports fan. Links with buying the Seattle Seahawks, his local NFL franchise, were speculative. He is, though, the third richest man in the world, according to appendage-measuring listicles. Amazon’s market value is higher than Brazil’s annual GDP. For certain people, that triggers arousal at the thought of their team being able to buy the biggest and best players in the world. Just imagine if their club was to spend, say, £446m in a single summer. How good would that be?\n\nFor others, there is a regrettable mission creep towards a civic institution – one that, despite global fame, cleaves to its local community – being tossed around by venture capitalists. Though that process has been in train sinceTom Hicks and George Gillettarrived on Merseyside, full of huckster charm, almost two decades ago. The socialism and collectivism Bill Shankly envisaged for the club he made famous disappeared in the sepia-tinged rearview mirror. Football was a business even back in Shanks’ day but now attracts the richest suits of all; if Bezos is chancing his arm in football, what price Elon Musk or Google tycoon Larry Page are seen wearing the scarf of their chosen club? Oh joy.\n\nCurrent overlords Fenway Sports Group, who picked up the pieces from impending disaster in 2010, are, yes, a consortium of American venture capitalists. Their existential aim is to make as much loot as possible from an asset purchased for a knockdown price of £300m. It’s gone well. This mooted deal includes Bezos, Saverin and Amit Bhatia, a frontman you may recognise from when QPR fans celebrated their owners being richer than Roman Abramovich. That did not go well. The latest deal would value the club at £4.4bn. High-fives all round, though the doubles and trebles may take time. Liverpool enter the season with an imbalanced squad, unsuited to a manager whose arrival was generally seen as a Good Thing. If football is all about money, even the biggest money cannot solve every problem.\n\n“After careful consideration, we don’t feel it is right to proceed at this time without the necessary preparation in place, but we will remain in conversation with the club and see what is possible in the future” – one wealthy benefactor not entering the game – yet – is Turki Alalshikh, whose bid to buy a controlling interest in Derby will no longer proceed, with the club now off the market.\n\nHere’s David Squires on …the masochistic life of a Football League fan.\n\ndouble quotation markHaving also boycotted the GWC and also being very concerned about the season to come, I sympathise with Ken Muir (yesterday’s Football Daily letters). But at least Hearts know who their manager is. Due to the absurd, months-long FA ‘investigation’ into the manager who’s clearly admitted culpability for the undisputed facts of Spygate, my club, Southampton, is in a horrid limbo. Surely it could have been done and dusted in a couple of weeks and Saints could have planned accordingly. But perhaps the FA blazers were too busy writing their letter of support to Gianni Infantino to worry about destabilising my football club” – Bob Cushion.\n\ndouble quotation mark‘It’s 15 years of frustration here at this club,’ says Rangers boss Derek McInnes (yesterday’s Quote of the Day.) Steven Gerrard and the sole object in his managerial trophy cabinet would like a word, Derek” – David Maddock.\n\ndouble quotation markGiven the surfeit of the recent GWC machinations, the blatherings and canvassing for Gianni to do one (or not) and the less-than-sportsmanlike attitude from members of the Argentina team, can we please have a reprise of the Football Daily’s erstwhile, eventually abortive, attempt to ‘STOP FOOTBALL’? It has to be worth a thought, before VAR, PGMOL and Arsenal’s Dark Arts Department™ get to work on the 2026-27 Premier League shenanigans, surely?” – Budgie Wright.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s letter o’ the day winner is … Bob Cushion, who gets some Football Weekly merch. Terms and conditions for our competitions can be viewedhere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-11 @ 12:00:47 EDT",
+  "lastUpdated": "2026-08-11 @ 15:33:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
