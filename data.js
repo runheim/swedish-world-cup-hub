@@ -8,7 +8,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/barcelona-bekraftar-roony-bardghji-korsbandsskadad"
     },
     {
-      "text": "⚽ Behrang Safari: Malmö FF needs it",
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://www.svt.se/sport/fotboll/behrang-safari-det-behover-malmo-ff"
     }
   ],
@@ -16298,11 +16298,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3351_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Barcelona confirm: Roony Bardghji cruciate ligament injury - to undergo surgery",
+            "bullets": [
+              "The 20-year-old talent has suffered his second cruciate ligament injury in his career. Bardghji has ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 20-year-old talent has suffered his second cruciate ligament injury in his career. Bardghji has to undergo surgery and is expected to be out of football for a longer time. - He will undergo surgery in the next few days, Barcelona wrote in a statement.",
+            "fullText": "The 20-year-old talent has suffered his second cruciate ligament injury in his career. Bardghji has to undergo surgery and is expected to be out of football for a longer time.\n\n- He will undergo surgery in the next few days, Barcelona wrote in a statement.\n\nIn 2024, Swedish super talent Roony Bardghji injured his cruciate ligament and was out for almost a year.\n\nNow the 20-year-old Barcelona player has torn the cruciate ligament again, the Spanish club confirms.\n\nHe will undergo surgery within the next few days and according to the club, the damage has occurred on his right knee. On X, transfer specialist Fabrizio Romano writes that he is expected to be out of action for six to seven months.\n\nWinger Bardghji, who did not make Graham Potter's World Cup squad, is rumored to be on his way out of Barcelona and was not allowed to accompany the team to Italy for a couple of pre-season games last week.\n\nThe technical Swede played 28 games for Barcelona last season and accounted for two goals and four assists.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3354_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Malmö FF is a bit off the top of the Allsvenskan. Behrang Safari has a clear picture of the requirem...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Malmö FF is a bit off the top of the Allsvenskan. Behrang Safari has a clear picture of the requirements for a change. - That has never existed before, says the expert in SVT's Fotbollsstudion.",
+            "fullText": "Behrang Safari has a clear picture of the requirements for a change.\n\n- That has never existed before, says the expert in SVT's Fotbollsstudion.\n\nHear Behrang Safari on what is required by MFF in the player above.\n\nThe Sky Blues are in ninth place in the Allsvenskan and have seven wins, two draws and seven losses.\n\nEarlier this year, the then coach Miguel Angél Ramirez was fired and at the end of June the replacement was presented: Gaute Helstrup, 50, from Norway.\n\nHowever, it is still an MFF that mixes and gives. Behrang Safari, expert in SVT's Football studio, has a clear picture of what is required.\n\nAs you know, Safari has a past in MFF. He debuted in the Allsvenskan as a 19-year-old and represented the team between 2004 and 2008 and 2016 and 2020.\n\nDON'T MISS: Fotbollstudion, SVT's magazine program with the best from Allsvenskan, every Monday starting at 21.10 on Play.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-11 @ 18:34:01 EDT",
+  "lastUpdated": "2026-08-11 @ 23:33:54 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
