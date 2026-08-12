@@ -4,12 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Walker's 'hangover' warning as Burnley chase fast start",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx7ldvyd8do?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Football Daily | Liverpool, Jeff Bezos and mission creep off the field at Anfield",
-      "link": "https://www.theguardian.com/football/2026/aug/11/football-daily-email-liverpool-jeff-bezos-and-co"
+      "text": "⚽ Jodar on course for tennis history as Rybakina fights past Osaka",
+      "link": "https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka"
     }
   ],
   "timeline": {
@@ -42015,10 +42011,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-12": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3712_0",
+            "category": "england",
+            "type": "News",
+            "title": "Jodar on course for tennis history as Rybakina fights past Osaka",
+            "bullets": [
+              "Spanish teenager Rafael Jodar is on course to break the record for the fastest rise into the top 10 ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Spanish teenager Rafael Jodar is on course to break the record for the fastest rise into the top 10 of men's tennis after beating Arthur Filis in the quarter-finals of the Canadian Open.",
+            "fullText": "Rafael Jodar could make history as he beat Arthur Filis in the quarter-finals of the Canadian Open; Elena Rybakina edged out Naomi Osaka in a thriller;watch the semi-finals for the men's and women's tournaments on Wednesday night from 11pm, live on Sky Sports Tennis",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-11 @ 23:31:48 EDT",
+  "lastUpdated": "2026-08-12 @ 07:37:12 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
