@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ European Super Cup: Paris Saint-Germain v Aston Villa – live",
+      "link": "https://www.theguardian.com/football/live/2026/aug/12/european-super-cup-paris-saint-germain-v-aston-villa-live"
+    },
+    {
       "text": "⚽ Jodar on course for tennis history as Rybakina fights past Osaka",
       "link": "https://www.skysports.com/tennis/news/12040/13572099/canadian-open-rafael-jodar-on-course-for-mens-tennis-history-as-elena-rybakina-fights-back-to-beat-naomi-osaka"
     }
@@ -42079,11 +42083,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3453_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal reignite interest in Aston Villa's Konsa",
+            "bullets": [
+              "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their searc...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+            "fullText": "Konsa was a key player for England at this summer's World Cup\n\nArsenalare reigniting their interest inAston Villacentral defender Ezri Konsa.\n\nKonsa, 28, is still on holiday after the World Cup and is not with the Villa squad for Wednesday's Super Cup game against Paris St-Germain.\n\nThe Gunners' initial summer move for Konsa did not materialise, with the London club only willing to pay in the region of Â£30m for the England international who is valued at Â£60m by Villa.\n\nKonsa played 48 games in all competitions last season forAston Villa, winning the Europa League.\n\nHaving successfully signedBruno GuimaraesfromNewcastle, Premier League championsArsenalhave turned their attention to defence and are accelerating their interest in Konsa, whose versatility is seen favourably at the Emirates Stadium.\n\nArsenalaccept they will need to significantly improve their original offer if they are to be successful in their efforts to land Konsa but whether Villa are willing to let the defender leave for a fee under their valuation remains to be seen.\n\nMultiple sources have told BBC Sport the Gunners have also held exploratory talks withTottenhamover a potential move for their club captain Cristian Romero.\n\nSpurs are thought to have no intention of selling the 28-year-old toArsenalgiven the intense rivalry between the two north London clubs.\n\nBut that has not preventedArsenalfrom making enquiries into what would be one of the most surprising transfers of the summer window.\n\nA knee injury againstSunderlandin April ruled Romero out for the remainder of the domestic season but he returned to be a starter for Argentina at the World Cup, where he played 70 minutes of the final defeat by Spain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3453_1",
+            "category": "england",
+            "type": "News",
+            "title": "European Super Cup: Paris Saint-Germain v Aston Villa – live",
+            "bullets": [
+              "Live Super Cup updates from 8pm BSTEmail Scott | Premier League previews: Aston VillaPSG get the bal...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Live Super Cup updates from 8pm BSTEmail Scott | Premier League previews: Aston VillaPSG get the ball rolling. Or rather sailing, as they hoof it into the stand, rugby style, as is their wont. “I’m glad that Omar Artan will get a chance to do what he does best, after being denied entry to the GWC,” writes Peter Oh. “Never mind the ‘104 Super Bowls’, here comes the Super Cup!”The teams are out! PSG in their first-choice blue and red, Villa in a very light blue that’s almost white, which, it says here, “pays rich tribute to the famous stadium’s Holte End, drawing inspiration from the iconic mosaic that greets loyal fans as they file into the stand.” We’ll be off in a minute! Continue reading...",
+            "fullText": "31 min:Cash throws in long from the right. Hemmings has a whack from the edge of the box. His effort is blocked by Pacho. Unai Emery won’t be enjoying the scoreline, but he’ll be happy enough with the performance so far of his two young lads, Hemmings and Madjo.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3455_2",
+            "category": "england",
+            "type": "News",
+            "title": "Jodar on course for tennis history as Rybakina fights past Osaka",
+            "bullets": [
+              "Spanish teenager Rafael Jodar is on course to break the record for the fastest rise into the top 10 ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Spanish teenager Rafael Jodar is on course to break the record for the fastest rise into the top 10 of men's tennis after beating Arthur Filis in the quarter-finals of the Canadian Open.",
+            "fullText": "Rafael Jodar could make history as he beat Arthur Filis in the quarter-finals of the Canadian Open; Elena Rybakina edged out Naomi Osaka in a thriller;watch the semi-finals for the men's and women's tournaments on Wednesday night from 11pm, live on Sky Sports Tennis",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-12 @ 11:59:16 EDT",
+  "lastUpdated": "2026-08-12 @ 15:34:55 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
