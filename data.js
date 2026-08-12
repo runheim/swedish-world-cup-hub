@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+      "link": "https://www.theguardian.com/football/2026/aug/12/football-transfer-rumours-folarin-balogun-to-tottenham-gabriel-jesus-to-napoli"
     }
   ],
   "timeline": {
@@ -11576,10 +11560,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-12": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4207_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Folarin Balogun to Tottenham? Gabriel Jesus to Napoli?",
+            "bullets": [
+              "Today’s fluff is coming back with a better offerBradley Barcola is firmly in Liverpool’s sights as t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff is coming back with a better offerBradley Barcola is firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions League winner reportedly wants to leave Paris Saint-Germain, and Anfield is his preferred destination, though Arsenal have apparently been making eyes at the France international too. For their part PSG are thought to be closing on deals for Barcelona’s World Cup winner Ferran Torres and the Ajax winger Mika Godts, though the 21-year-old Belgium international had talked at the weekend of “putting an end” to rumours that he was refusing to play for Ajax in order to force a move.England’s World Cup cult hero Djed Spence could soon be exhibiting his marauding runs and eye-catching slide tackles in Serie A. Inter are interested in a £25.6m move for the Tottenham full-back, who fancies a move to San Siro and might find himself struggling for regular first-team football in north London after Roberto De Zerbi’s busy summer in the market. Continue reading...",
+            "fullText": "Bradley Barcolais firmly in Liverpool’s sights as they look to rebuild their attack in the post-Mohamed Salah era. The two-time Champions League winner reportedly wants to leave Paris Saint-Germain, and Anfield is his preferred destination, though Arsenal have apparently been making eyes at the France international too. For their part PSG are thought to be closing on deals for Barcelona’s World Cup winnerFerran Torresand the Ajax wingerMika Godts, though the 21-year-old Belgium international had talked at the weekend of “putting an end” to rumours that he was refusing to play for Ajax in order to force a move.\n\nEngland’s World Cup cult heroDjed Spencecould soon be exhibiting his marauding runs and eye-catching slide tackles in Serie A. Inter areinterested in a £25.6m movefor the Tottenham full-back, who fancies a move to San Siro and might find himself struggling for regular first-team football in north London after Roberto De Zerbi’s busy summer in the market.\n\nNapoli are stepping up their interest inGabriel Jesus, who could be available for around €20m (£17m). With the Arsenal striker entering the final year of his contract at the Emirates and first-team opportunities with the English champions likely to be limited, Jesus could be amenable to a move. Arsenal meanwhile are keen onJules Koundé, reports the Mirror, but an awful lot of ifs and ands are in play around the Barcelona and France full-back. For one Koundé is happy to stay at the Camp Nou, even if Barça might be prepared to cash in on a player with four years remaining on his contract, and the Spanish champions’ preferred replacement, Pedro Porro, has five years to go on his after recently signing a new deal with Tottenham.\n\nAs for Spurs, a rumoured target is controversy’sFolarin Balogun. L’Equipe says talks have been initiated with Monaco about a €60m (£51.2m) move for the USA and former Arsenal striker, who impressed at the World Cup. Another Monaco player attracting Premier League interest is the wingerIgor Paixao, at whom Leeds continue to make eyes. The Ligue 1 club’s manager, Bruno Genesio, is eager to keep the Brazilian though.\n\nMykhailo Mudrykcould be sent to Coventry on his return from drug-ban limbo. Chelsea are open to loan offers for the Ukrainian winger and Frank Lampard’s newly promoted side have jostled their way to the front of the queue, according to football.london.\n\nEverton are weighing up their interest in three full-backs – Celtic’sAlastair Johnson, West Ham’sAaron Wan-Bissakaand the English right-backBrooke Norton-Cuffy, who has been at Genoa since 2024. David Moyes will also be cheered by news thatIliman Ndiayehas reportedly turned down a move to the Saudi Pro League’s Al-Hilal. Fulham meanwhile like the look of the 20-year-old Barcelona defenderHector Fort, who spent last season on loan at Elche and does not appear to have a future at the Camp Nou.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAnd Wednesday’s Manchester United rumour has the Red Devils in for the Club Brugge left-backJoaquin Seys. The 21-year-old Belgium international would set them back around £30m.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-11 @ 23:31:49 EDT",
+  "lastUpdated": "2026-08-12 @ 07:42:10 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
