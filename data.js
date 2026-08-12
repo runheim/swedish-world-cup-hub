@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Barcelona confirm: Roony Bardghji cruciate ligament injury - to undergo surgery",
       "link": "https://www.svt.se/sport/fotboll/barcelona-bekraftar-roony-bardghji-korsbandsskadad"
-    },
-    {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://www.svt.se/sport/fotboll/behrang-safari-det-behover-malmo-ff"
     }
   ],
   "timeline": {
@@ -16339,10 +16335,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-12": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5019_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Barcelona confirm: Roony Bardghji cruciate ligament injury - to undergo surgery",
+            "bullets": [
+              "The 20-year-old talent has suffered his second cruciate ligament injury in his career. Bardghji has ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 20-year-old talent has suffered his second cruciate ligament injury in his career. Bardghji has to undergo surgery and is expected to be out of football for a long time. - He will undergo surgery in the next few days, Barcelona wrote in a statement.",
+            "fullText": "The 20-year-old talent has suffered his second cruciate ligament injury in his career. Bardghji has to undergo surgery and is expected to be out of football for a long time.\n\n- He will undergo surgery in the next few days, Barcelona wrote in a statement.\n\nIn 2024, Swedish super talent Roony Bardghji injured his cruciate ligament and was out for almost a year.\n\nNow the 20-year-old Barcelona player has torn the cruciate ligament again, the Spanish club confirms.\n\nHe will have surgery within the next few days and according to the club, the damage has occurred on his right knee. At X, transfer specialist Fabrizio Romano writes that he is expected to be out of action for six to seven months.\n\nWinger Bardghji, who did not make Graham Potter's World Cup squad, is rumored to be on his way out of Barcelona and was not allowed to accompany the team to Italy for a couple of pre-season games last week.\n\nThe technical Swede played 28 games for Barcelona last season and accounted for two goals and four assists.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-11 @ 23:33:54 EDT",
+  "lastUpdated": "2026-08-12 @ 07:50:19 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
