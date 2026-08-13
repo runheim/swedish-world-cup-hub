@@ -47798,6 +47798,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Anyone up for some darts in the games room?",
       "time": "06:01",
       "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "12:43",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ollie Watkins",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "12:44",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Don't forget the media duties at 2pm lads.",
+      "time": "12:45",
+      "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Early night for me. Need the recovery.",
+      "time": "12:46",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Morning lads! Just checking in.",
+      "time": "12:47",
+      "isCaptain": false
     }
   ]
 };
