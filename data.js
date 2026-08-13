@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Kvaratskhelia and Madjo show that beautiful game can wash away Infantino’s stain | Nick Ames",
+      "link": "https://www.theguardian.com/football/2026/aug/12/psg-aston-villa-uefa-super-cup-kvaratskhelia-fifa-gianni-infantino"
+    },
+    {
       "text": "⚽ Papers: Arsenal hold further talks over Villa's Konsa",
       "link": "https://www.skysports.com/football/news/12040/13572412/arsenal-transfer-news-gunners-hold-further-talks-over-aston-villa-defender-ezri-konsa-paper-talk"
     }
@@ -42176,11 +42180,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3459_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal reignite interest in Aston Villa's Konsa",
+            "bullets": [
+              "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their searc...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+            "fullText": "Konsa was a key player for England at this summer's World Cup\n\nArsenalare reigniting their interest inAston Villacentral defender Ezri Konsa.\n\nKonsa, 28, is still on holiday after the World Cup and is not with the Villa squad for Wednesday's Super Cup game against Paris St-Germain.\n\nThe Gunners' initial summer move for Konsa did not materialise, with the London club only willing to pay in the region of Â£30m for the England international who is valued at Â£60m by Villa.\n\nKonsa played 48 games in all competitions last season forAston Villa, winning the Europa League.\n\nHaving successfully signedBruno GuimaraesfromNewcastle, Premier League championsArsenalhave turned their attention to defence and are accelerating their interest in Konsa, whose versatility is seen favourably at the Emirates Stadium.\n\nArsenalaccept they will need to significantly improve their original offer if they are to be successful in their efforts to land Konsa but whether Villa are willing to let the defender leave for a fee under their valuation remains to be seen.\n\nMultiple sources have told BBC Sport the Gunners have also held exploratory talks withTottenhamover a potential move for their club captain Cristian Romero.\n\nSpurs are thought to have no intention of selling the 28-year-old toArsenalgiven the intense rivalry between the two north London clubs.\n\nBut that has not preventedArsenalfrom making enquiries into what would be one of the most surprising transfers of the summer window.\n\nA knee injury againstSunderlandin April ruled Romero out for the remainder of the domestic season but he returned to be a starter for Argentina at the World Cup, where he played 70 minutes of the final defeat by Spain.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3459_1",
+            "category": "england",
+            "type": "News",
+            "title": "Kvaratskhelia and Madjo show that beautiful game can wash away Infantino’s stain | Nick Ames",
+            "bullets": [
+              "Uefa presented some of its crown jewels through European champions PSG but the turmoil engulfing Fif...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Uefa presented some of its crown jewels through European champions PSG but the turmoil engulfing Fifa is still the main topic on the menuThis was an opportune night to show off some of Uefa’s crown jewels. Khvicha Kvaratskhelia knows a thing or two about sitting Fifa tournaments out, albeit through sheer accident of birth, but proved yet again that he will show up whatever the stage. It was some way to kick off a European football season when the Georgian, with a familiar exhibition of assured footwork and rip-roaring finishing, found Marco Bizot’s top corner. Given the past fortnight’s events nobody could turn their noses up at a reminder of why, through the muck and grubbiness that has thrown the sport into turmoil, we are all really here.Earlier on, the Uefa hierarchy and guests had enjoyed their pre-match lunch inside Hangar 7, a vast exhibition hall next to Salzburg airport that houses an array of cars and craft from Red Bull’s various endeavours. A main course of Wagyu tenderloin stole the scene and, for those craving a dose of local flavour, curd cheese dumplings were served next. But the main topic of conversation on the menu brought a more bitter taste. The fallout from Gianni Infantino’s collapsed Fifa Forward Enterprise scheme will cast its own eclipse over football until an agreeable resolution has been reached. Continue reading...",
+            "fullText": "Uefa presented some of its crown jewels through European champions PSG but the turmoil engulfing Fifa is still the main topic on the menu\n\nThis was an opportune night to show off some of Uefa’s crown jewels. Khvicha Kvaratskhelia knows a thing or two about sitting Fifa tournaments out, albeit through sheer accident of birth, but proved yet again that he will show up whatever the stage. It was some way to kick off a European football season when the Georgian, with a familiar exhibition of assured footwork and rip-roaring finishing, found Marco Bizot’s top corner. Given the past fortnight’s events nobody could turn their noses up at a reminder of why, through the muck and grubbiness that has thrownthe sport into turmoil, we are all really here.\n\nEarlier on, the Uefa hierarchy and guests had enjoyed their pre-match lunch inside Hangar 7, a vast exhibition hall next to Salzburg airport that houses an array of cars and craft from Red Bull’s various endeavours. A main course of Wagyu tenderloin stole the scene and, for those craving a dose of local flavour, curd cheese dumplings were served next. But the main topic of conversation on the menu brought a more bitter taste. The fallout from Gianni Infantino’scollapsed Fifa Forward Enterprise schemewill cast its own eclipse over football until an agreeable resolution has been reached.\n\nIt is becoming clearer by the day that this will not occur straightaway. The chances of Infantino stepping aside voluntarily appear slim, even if he will have to front up and answer for himself at some point.Uefahas, at least, set a brisk pace in efforts to bring about his removal. There was a palpable sense of purpose on the sidelines of an occasion that does not always lure its member associations from the sun lounger. If a first day back at school is usually for reintroductions and holiday tales, this time there was a steady hum of discussion concerning the fundamentals of football’s future around Uefa’s temporary base in the neo-baroque trappings of Hotel Sacher.\n\nIn the short term there remains a live risk that the prognosis involves a boycott of Fifa-run competitions, beginning in theory with the under-20 women’s World Cup next month. How strongly that holds remains to be seen. Uefa can certainly feel confident in its own product, fronted by a Champions League with revenues that have long roused the green-eyed monster within Fifa’s mandarins. Eventhis Super Cup final, a souped-up friendly between the world’s best team and contenders revelling in a generational high, offered enough hope that football tends to rise high above those wrecking it from within.\n\nA dazzling first impression on the wider consciousness by Brian Madjo, a 17-year-old striker of phenomenal strength and composure, told that the future is worth nurturing. Madjo, who had never played a competitive game for Aston Villa, scored their equaliser and gave Paris Saint-Germain’s defence a pummelling all night. The PSG matchwinner, Désiré Doué, is a bona-fide star who turned 21 in June and was similarly unknown three years ago. Sport stretches, strains and regenerates, even if it is never wise to take that for granted.\n\nThe presence of Omar Artan, the Somali refereedenied entry to the USbefore the World Cup, was a reminder of modern-day tensions. How refreshing it was to see Artan, who officiated with a sure touch and quiet authority, given his chance after Uefa swiftly awarded him the final in June. It is what a fluid, coherent global football landscape should look like and was only ever going to be a significant win for the European game’s governing body.\n\nBefore the match a supporter could be seen queueing at the turnstile wearing a Somalia national team tracksuit top. Anyone worried Artan and his all-African team of colleagues would be spared the full elite football experience could crack a wry smile as they were lightly booed upon collecting their medals, the Villa support smarting from the correct VAR call that awarded Doué’s goal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nBack in Hangar-7, whose glass-panelled design has greenhouse-like consequences on days like these, Uefa’s delegates had sucked up the obligatory speeches and chewed over what might come next. There will be more heat to weather in the seven months before Infantino is due to stand for re-election in Rabat, which has become a safe haven for the embattled Swiss. The strength of Europe’s united front may be the decisive factor in whether, as one diner bullishly opined later, Infantino really is toast.\n\nIn the meantime, the beguiling, unorthodox and often unplayable figure of Kvaratskhelia spoke more eloquently than any politician could. Uefa and many of its allies will meet again in a fortnight for the Champions League draw, held in Monaco and generally an event that causes more buzz among powerbrokers. They must quickly find a way to ensure football’s voice continues to overwhelm the unseemly hubbub threatening to engulf it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3459_2",
+            "category": "england",
+            "type": "News",
+            "title": "Papers: Arsenal hold further talks over Villa's Konsa",
+            "bullets": [
+              "The top stories and transfer rumours from Thursday's newspapers...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The top stories and transfer rumours from Thursday's newspapers...",
+            "fullText": "Latest transfer news and headlines as Arsenal continue their interest in Aston Villa's Ezri Konsa; Gunners weigh up Galatasaray bid for Gabriel Martinelli; Barcelona make improved bid for Rodri; Newcastle target Brighton's Carlos Baleba",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-12 @ 18:40:21 EDT",
+  "lastUpdated": "2026-08-12 @ 23:34:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
