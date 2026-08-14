@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ High-flying Sirius chase shock Allsvenskan title despite losing ‘best player in league’",
+      "link": "https://www.theguardian.com/football/2026/aug/14/sirius-allsvenskan-title-robbie-ure-sevilla-transfer"
     }
   ],
   "timeline": {
@@ -16754,10 +16738,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-14": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4707_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "High-flying Sirius chase shock Allsvenskan title despite losing ‘best player in league’",
+            "bullets": [
+              "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good rea...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the jobFor most teams, losing a forward with 15 goals in 15 games midway through the season, amid a historic title chase, might be cause for panic. Sirius, the runaway Allsvenskan leaders, are not most teams.“I’m actually really confident,” says Henrik Castegren, the club captain, when asked about the team’s ability to adapt after Robbie Ure’s move to Sevilla for a club-record fee, reported to be £5.6m plus add-ons. “I’m really happy for Robbie, but also quite sad because I enjoyed playing with him a lot. I think he was by far the best player in this league for the first six months [of the season] … but, with that being said, I’m feeling quite comfortable with us moving forward.” Continue reading...",
+            "fullText": "They may have sold Robbie Ure, their top scorer, to Sevilla, but the team from Uppsala have good reason to believe they can finish the job\n\nFor most teams, losing a forward with 15 goals in 15 games midway through the season, amid a historic title chase, might be cause for panic.Sirius, the runaway Allsvenskan leaders, are not most teams.\n\n“I’m actually really confident,” says Henrik Castegren, the club captain, when asked about the team’s ability to adapt after Robbie Ure’s move to Sevilla for a club-record fee, reported to be £5.6m plus add-ons. “I’m really happy for Robbie, but also quite sad because I enjoyed playing with him a lot. I think he was by far the best player in this league for the first six months [of the season] … but, with that being said, I’m feeling quite comfortable with us moving forward.”\n\nIt helps that Sirius have been here before. They loaned last season’s top scorer, Leo Walta, to Swansea in February before the deal became permanent this summer for a fee of around £3m. Like Ure, Walta arrived at a young age, developed rapidly, caught the eye of a wealthier club and earned Sirius a significant profit, which they reinvested. That has become the blueprint for their success, allowing a club with no major honours to their name, having spent most of their existence in Sweden’s lower leagues, to compete for a first Allsvenskan title against storied rivals with far greater resources.\n\n“One important part of our strategy is to have a lot of sellable players,” says Jonathan Ederström, Sirius’s sporting director. “We’re not the biggest in Sweden, we’re not the richest in Sweden, we don’t have the fanciest history in Sweden, but we decided that we were going to aim to become the best in terms of development. Having the best development culture, but also building a squad with mostly young players that we saw big potential in.”\n\nIn that sense the departure of Ure, a former Scotland youth international who came through Rangers’ academy and Anderlecht’s reserves before moving to Sweden at the start of last season, is a sign that Sirius’s model is working exactly as intended. “It’s such a good thing for all parties,” says Ederström. “It’s a fantastic journey for Robbie, but it’s also fantastic for Sirius.”\n\nAs well as allowing for reinvestment in the squad – Sirius have already signed Jesper Uneken, a promising 22-year-old forward from PSV Eindhoven, as Ure’s replacement, along with the Finland Under-21 midfielder Otso Liimatta from Famalicão – the fee will be ploughed back into the club’s infrastructure and facilities. “[The other advantage] is that we become more attractive as a club for other players around the world,” says Ederström. “It can be close by in Sweden but it can also be Belgium, or Netherlands, or Scotland obviously. Hopefully it helps us getting the next Robbie here.”\n\nNo one is expecting Uneken to match Ure’s numbers immediately and, if there is a period of adjustment, Sirius have plenty of breathing room. They are 12 points clear of second-placed Hammarby and undefeated in the league with just under half the season to play. Isak Bjerkebo, their left winger, has also been prolific, tallying 14 goals and nine assists in all competitions. They also have one of the tightest defences in the league buttressed by Mohamed Soumah, a goalscoring centre-back brought in with money reinvested from the deal that took Walta to Swansea, and a high-tempo midfield capable of harrying opponents to exhaustion.\n\nHolding it all together is Andreas Engelmark, who was appointed head coach in January last year. The team’s ascent is all the more impressive given that his early days in charge were hard going. Sirius spent a significant portion of last season looking nervously over their shoulders, dropping to 14th, the Allsvenskan’s relegation playoff spot, for several weeks. Engelmark battled on and, despite sustaining the heaviest defeat of the season, an 8-2 loss at Djurgården in September, Sirius ended strongly. In fact, they have not lost in the league since.\n\n“Even though he went tough when the results weren’t there last summer, he stuck to what he thought was the best going forward,” says Castegren. “That, I would say, is his biggest strength, to not give that up and start doing other short-term stuff.\n\n“He really sees you as a player and adjusts small things to get the most out of you, and also how you can complement the team as a collective. I really feel comfortable, in that sense, now Robbie has left us, that we can find ways to get results, to perform well and play well.”\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-13 @ 23:34:17 EDT",
+  "lastUpdated": "2026-08-14 @ 07:47:07 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
