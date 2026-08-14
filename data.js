@@ -4,24 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Fresh talks over Arsenal move for Aston Villa's Konsa",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Rashford, Mainoo & transfers - Carrick calls for more signings",
       "link": "https://www.bbc.co.uk/sport/football/articles/c79g4px5z1zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Kieran Trippier: ‘The Championship is relentless … it’s totally different to the Premier League’",
-      "link": "https://www.theguardian.com/football/2026/aug/13/kieran-trippier-wolves-championship-premier-league-england"
+      "text": "⚽ Fresh talks over Arsenal move for Aston Villa's Konsa",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2v175j40zo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ We have been staring at Phil Foden for close to a decade – how well do we actually know him? | Jonathan Liew",
-      "link": "https://www.theguardian.com/football/2026/aug/13/we-have-been-staring-at-phil-foden-for-close-to-a-decade-how-well-do-we-actually-know-him"
-    },
-    {
-      "text": "⚽ Championship 2026-27 preview: the contenders, hopefuls and strugglers",
-      "link": "https://www.theguardian.com/football/2026/aug/13/championship-2026-27-preview-the-contenders-hopefuls-and-strugglers"
+      "text": "⚽ Bowen: As long as West Ham get back to the PL, I don't care how we do it",
+      "link": "https://www.skysports.com/football/news/12040/13572527/jarrod-bowen-exclusive-west-ham-captain"
     }
   ],
   "timeline": {
@@ -42873,10 +42865,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-14": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3448_0",
+            "category": "england",
+            "type": "News",
+            "title": "Rashford, Mainoo & transfers - Carrick calls for more signings",
+            "bullets": [
+              "Before his first full season as Manchester United head coach, Michael Carrick explains why the club ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Before his first full season as Manchester United head coach, Michael Carrick explains why the club need more players, discusses why he is in a privileged position and talks Marcus Rashford and Kobbie Mainoo.",
+            "fullText": "Michael Carrick won 12 out of his 17 games in charge of Manchester United last season\n\nManchester United boss Michael Carrick is determined to keep pushing to improve his squad this summer.\n\nCarrick is about to begin his first full Premier League campaign in charge at Old Trafford.\n\nHe is acutely aware of the responsibilities that come with being the public face of such a worldwide institution, which he says it is a \"privilege\" to lead.\n\nHowever, it also means having to address thorny issues with the media, which currently include a perceived lack of signings.\n\nCarrick says he is delighted with United's business so far â they have spent Â£83m to sign Andrey Santos from Chelsea and Youri Tielemans from Aston Villa, with the out-of-contract Karl Darlow also joining as back-up goalkeeper.\n\nHowever, with weaknesses at left-back and in central midfield, as they prepare for a return to the Champions League after a two-year absence, Carrick knows the work cannot stop now.\n\nBecause in a summer where his club missed out on key targets such as Elliot Anderson and Matheus Fernandes because they refused to match rival offers and are spending less than newly promoted Ipswich and Coventry, Carrick knows more transfer business needs to be done despite a desire to avoid the costly mistakes of the past.\n\n\"We want more, we need more, we keep looking for how we can do that,\" he said.\n\n\"Money's money, I get that. We feel like we have to be pushing for everything we're involved in, while being realistic of what the recent history's looked like over a period of time.\n\n\"For now, we've got to make the most of it, but we've got to push every boundary we can to be able to win again, basically.\n\nMichael Carrick signs autographs for Manchester United fans after the pre-season victory against Leeds at Croke Park",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3449_1",
+            "category": "england",
+            "type": "News",
+            "title": "Fresh talks over Arsenal move for Aston Villa's Konsa",
+            "bullets": [
+              "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their searc...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa's central defender Ezri Konsa is thought to be Arsenal's preferred option in their search for a new central defender.",
+            "fullText": "Ezri Konsa was a key player for England at this summer's World Cup\n\nArsenalhave held fresh talks over a move forAston Villacentral defender Ezri Konsa.\n\nIt is understood the Gunners have signalled an intention in recent days to improve on their initial proposal of around Â£30m for the England international.\n\nHowever,Arsenal's valuation still falls significantly short of the Â£60m Villa want for Konsa.\n\nVilla are showing no inclination, as things stand, to accept anything below their asking price.\n\nThe 28-year-old, who is still on holiday after the World Cup, is Mikel Arteta's preferred defensive target.\n\nHaving signedBruno GuimaraesfromNewcastle, the Premier League champions have turned their attention to defence - and look favourably on Konsa's versatility.\n\nMultiple sources had told BBC Sport the Gunners also held exploratory talks withTottenhamover a potential move for their club captain Cristian Romero beforeSpurs agreed a fee with Atletico Madrid.\n\nKonsa played 48 games in all competitions last season forAston Villa, winning the Europa League.\n\nWhy half of England's World Cup defenders are on the move",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3449_2",
+            "category": "england",
+            "type": "News",
+            "title": "Bowen: As long as West Ham get back to the PL, I don't care how we do it",
+            "bullets": [
+              "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitabl...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When West Ham were relegated from the Premier League after 15 years back in May, it seemed inevitable Jarrod Bowen would not be there to join them as they returned to the Sky Bet Championship.",
+            "fullText": "Jarrod Bowen on staying at West Ham in the Championship, missing out on the World Cup, promotion by any means and more;watch the full feature in the build-up to Burnley vs West Ham, live on Sky Sports Football and Main Event from 4pm on Sunday",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-13 @ 23:32:09 EDT",
+  "lastUpdated": "2026-08-14 @ 07:34:49 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
