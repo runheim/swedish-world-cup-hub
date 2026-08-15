@@ -4,20 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Premier League clubs looking to EFL for next Semenyo & Eze",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ No player bigger than a club - is that changing for some fans?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
       "link": "https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium"
     },
     {
-      "text": "⚽ Arsenal open talks with Bayer Leverkusen over deal for Jarell Quansah",
-      "link": "https://www.theguardian.com/football/2026/aug/14/arsenal-bayer-leverkusen-jarell-quansah-transfer-talks"
+      "text": "⚽ Continental clash: where world football stands on Fifa and Infantino – explained",
+      "link": "https://www.theguardian.com/football/2026/aug/14/continental-clash-where-world-football-stands-on-fifa-and-infantino-explained"
     },
     {
       "text": "⚽ Football Daily | Rangers and the paradox of a painful exit that boosts their trophy chances",
       "link": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter"
-    },
-    {
-      "text": "⚽ Continental clash: where world football stands on Fifa and Infantino – explained",
-      "link": "https://www.theguardian.com/football/2026/aug/14/continental-clash-where-world-football-stands-on-fifa-and-infantino-explained"
     }
   ],
   "timeline": {
@@ -43224,10 +43228,103 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-15": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0849_0",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League clubs looking to EFL for next Semenyo & Eze",
+            "bullets": [
+              "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
+            "fullText": "The rises of Antoine Semenyo and Eberechi Eze shows the value of EFL development\n\nWhenManchester Citypaid Â£12.5m to sign Jeremy Monga from Leicester City last month, they were not alone in wanting one of English football's most highly rated teenagers.\n\nArsenalalso coveted the 17-year-old winger, but City won the battle for a player who joined Leicester aged eight and has already broken records in senior football.\n\nMonga became Leicester's second-youngest Premier League player in April 2025, aged 15 years and 271 days, before becoming their youngest league starter and surpassing Jude Bellingham as the Championship's youngest goalscorer.\n\nHe represents the more established end of a wider battle for young domestic talent.\n\nPremier League clubs are increasingly looking to EFL and Scottish academies for players who can be brought into their development structures, sometimes before they have established themselves in senior football.\n\nAntoine Semenyo was rejected by several academies before Bristol City spotted him playing college football. After loans at Newport County andSunderland, he established himself in the Championship before joiningBournemouthfor about Â£10m, thenManchester Cityin a Â£64m move.\n\nOllie Watkins came through at Exeter City, Adam Wharton at Blackburn Rovers and Eberechi Eze - after being released byArsenal- rebuilt his career at Millwall and QPR.\n\nFor recruitment departments, finding the next player capable of following a similar route can be enormously valuable.\n\nBBC Sport research has identified 14 players recruited from EFL or Scottish Premiership academies for Premier League development squads so far this summer.\n\nThat matches the 14 such transfers made across the whole of 2025-26. There were eight in 2024-25, 18 in 2023-24 and seven in 2022-23.\n\nMore striking is the profile of this summer's recruits. Of the 14 identified, 11 are 18 years old. Last season only five of the 14 players in the equivalent sample were 18.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0850_1",
+            "category": "england",
+            "type": "News",
+            "title": "No player bigger than a club - is that changing for some fans?",
+            "bullets": [
+              "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigg...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
+            "fullText": "Lionel Messi joined Inter Miami in 2023 and won an eighth Ballon d'Or later that year\n\nThe golden ticket came gift-wrapped in flamingo pink. Instantly iconic. Nailed on to adorn bedroom walls from Buenos Aires to Barcelona and be splashed across billboards the world over.\n\nLionel Messi's arrival at Inter Miami was about as sure a marketing hit as you could ask for. Social media accounts spiked, shirts sold out, match tickets went for stupid money.\n\n\"A lot of people are walking around cities and towns in the UK and Europe wearing that flamingo pink of Inter Miami with zero affiliation to Miami, having never been there,\" explains sports brand strategist James Kirkham.\n\n\"It's quite a normal thing now. But it is the player who has done the job.\"\n\nThat football lovers should want to show a connection with arguably the greatest player of all time comes as no surprise - likewise his long-term rival in the now-distinct yellow of Al-Nassr.\n\nMessi or Cristiano Ronaldo. Barcelona or Real Madrid. MLS or Saudi Pro League.\n\nThese generational superstars have long stirred heated debate, from curious kids with jumpers for goalposts to social media cultists armed with memes and virtual binders of blistering stats.\n\nBut this trend of following individual players transcends merely Messi and Ronaldo.\n\n\"It's been happening for a while, ever since the sheer impact and influence of gaming, particularly on young fans,\" says Kirkham, who remembers a swell of support for Zlatan Ibrahimovic.\n\nKirkham says younger fans are actually \"less rigid or tribal than they used to be\" and boast a \"more encyclopaedic knowledge\" developed through video games - including EA Sports FC or Football Manager. Other touch points come via YouTube and trading cards.\n\nThey follow teams from different countries or leagues not for the badge on the front, but because of the name on the back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0850_2",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
+            "bullets": [
+              "Confirmed deal values club as a whole at £5.5bnAmit Bhatia will become club’s new vice-chairmanLiver...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Confirmed deal values club as a whole at £5.5bnAmit Bhatia will become club’s new vice-chairmanLiverpool’s owner, Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook co-founder Eduardo Saverin. The deal is understood to be worth £1.65bn, valuing Liverpool at £5.5bn, and will see Bhatia become the club’s new vice-chair on an expanded board.Bhatia, the son-in-law of Indian steel magnate Lakshmi Mittal, initiated and led talks with FSG on behalf of the 1892 Holdings consortium, a reference to Liverpool’s founding year. The former co-owner of Queens Park Rangers has received financial backing from the Mittal Family Trust, the K5 Sports fund, of which Bezos is the lead investor, and EE Capital, the family office of Elaine and Eduardo Saverin. Continue reading...",
+            "fullText": "Liverpool’s owner,Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook co-founder Eduardo Saverin. The deal is understood to be worth £1.65bn, valuing Liverpool at £5.5bn, and will see Bhatia become the club’s new vice-chair on an expanded board.\n\nBhatia, the son-in-law of Indian steel magnate Lakshmi Mittal, initiated and led talks with FSG on behalf of the 1892 Holdings consortium, a reference to Liverpool’s founding year. The former co-owner of Queens Park Rangers has received financial backing from the Mittal Family Trust, the K5 Sports fund, of which Bezos is the lead investor, and EE Capital, the family office of Elaine and Eduardo Saverin.\n\nElaine Saverin, wife of Eduardo, and Bryan Baum, co-founder and managing partner of K5 Global, will also join the Liverpool board. Bezos is considered a passive investor and will not have a seat on the board.\n\nDespite the involvement of Bezos, the third richest man in the world with $272bn (£201bn), Eduardo Saverin, worth an estimated $33bn and the Mittal family, worth around $17bn, FSG will remain in operational control of Liverpool as well as majority owners. 1892 Holdings’ investment remains subject to regulatory approval, which could take up to 90 days, and will have no impact on Liverpool’s transfer budget or strategy for this summer. There is also no change to the leadership or day-to-day running of Liverpool.\n\nFSG insist the deal is not part of an exit strategy from a club they acquired in 2010 for £300m after the near-ruinous ownership of Tom Hicks and George Gillett. The transaction does not compel FSG to sell more of the club to 1892 at a future date, or include obligations for 1892 to increase their stake, but it does give Bhatia’s consortium options to purchase more of Liverpool should the majority owners eventually decide to sell.\n\nIt is the makeup of Bhatia’s consortium, rather than any financial need, that FSG claim attracted them to the British-Indian businessman’s proposal. The FSG leadership team of principal owner John W Henry, chair Tom Werner and president Mike Gordon have spent almost a year getting to know Bhatia and believe the deal will create further opportunities for Liverpool in global business, technology and investment, including in the important markets of India and Asia.\n\nGordon, who has resumed a more hands-on role at Liverpool following the departure of Michael Edwards as chief executive of football at FSG, said: “Liverpool has always been built by thinking beyond one season and making decisions with the club’s long-term interests in mind. That approach continues to attract interest from respected investors and business leaders around the world.\n\n“As we considered this opportunity, it became clear that Amit and the consortium shared our long-term philosophy and appreciation for what makes Liverpool special. Their experience and perspective will complement the strong foundation already in place, and we look forward to working together.”\n\nWith Premier League and Uefa financial regulations linking a club’s spending to turnover, the new investment will not have an immediate benefit for head coach Andoni Iraola and his Liverpool team. However, the commercial opportunities presented by the involvement of Bezos, Bhatia and Saverin will enable the Anfield club to grow their annual revenue significantly. Liverpool’s annual revenue increased to a record £703m in the year ending May 2025.\n\nKick off your evenings with the Guardian's take on the world of football\n\nSpeaking on behalf of 1892 Holdings, Bhatia said: “We are incredibly proud to be investing in Liverpool Football Club and to be doing so alongside FSG. We have the utmost respect and admiration for FSG as owners and for everything they have achieved at Anfield.\n\n“To be welcomed as a partner in a club of this stature is a huge privilege. We are making this investment because we believe deeply in Liverpool and its leadership, and we look forward to supporting the club’s continued success for years to come.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0850_3",
+            "category": "england",
+            "type": "News",
+            "title": "Continental clash: where world football stands on Fifa and Infantino – explained",
+            "bullets": [
+              "With Oceania praising Fifa on Friday, all six confederations have finally had their say on the fallo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "With Oceania praising Fifa on Friday, all six confederations have finally had their say on the fallout from the World Cup sell-off planThe Oceania Football Confederation’s (OFC) decision to belatedly issue a statement following this week’s executive committee meeting praising Fifa’s “progress achieved over the last decade” means all six continental confederations have finally had their say on the fallout from the World Cup sell-off plan that has split world football, with the votes seeming tied at three apiece on the key issue of whether Gianni Infantino should remain as Fifa president. Continue reading...",
+            "fullText": "With Oceania praising Fifa on Friday, all six confederations have finally had their say on the fallout from the World Cup sell-off plan\n\nThe Oceania Football Confederation’s (OFC) decision tobelatedly issue a statementfollowing this week’s executive committee meeting praising Fifa’s “progress achieved over the last decade” means all six continental confederations have finally had their say on the fallout from theWorld Cup sell-off planthat has split world football, with the votes seeming tied at three apiece on the key issue of whether Gianni Infantino should remain as Fifa president.\n\nSignificantly however, the individual member associations will not necessarily follow the lead set by their regional confederations, as New Zealand Football (NZF) quickly illustrated by contradicting the OFC’s position in withdrawing their support for Infantino and calling for an independent review of the sell-off plan.\n\nNZF is the biggest federation in the OFC and has previously benefited from Infantino’s patronage as the co-hosts of the2023 Women’s World Cupwith Australia, which demonstrates how even some former allies are turning on the beleaguered president in an unprecedented situation for the global game.\n\nWhile the OFC stopped just short of providing a ringing endorsement for Infantino’s re-election other confederations have been more bullish, with the Confederation of African Football (Caf) and the South American confederation (Conmebol) boldly declaring they want him to stay on for a third full term.\n\nThe 56-year-old has also received public declarations of support from individual Fifa member associations, some of whom are tied to the confederations who want him out,most significantly Mexico in Concacafand Qatar and the United Arab Emirates in the Asian Football Confederation.\n\nSignificantly the 2034World Cuphosts Saudi Arabia have yet to declare their hand as the Saudi Football Federation is without a president, with elections taking place this month, and their position could be key in determining how many Asian countries follow the lead of the AFC.\n\nUefa has been the most vocal and vociferous opponents, even threatening to boycottFifatournaments if Infantino does not withdraw his candidacy, with the vast majority of their 55 members united behind them. The picture in Asia is less clear cut as outlined above, and it is unclear how many of their 47 members back the AFC leadership.\n\nConcacaf’s 41 members appear more united, although the Grenada Football Association on Friday joined Mexico in declaring their support for Infantino.\n\nMexico is a special case as they have made clear they want to leave the confederation in any case to join Conmebol to gain more lucrative matches against Brazil and Argentina, but senior figures at Uefa are also convinced that individual African countries can be picked off and persuaded to join the rebels.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAfter three weeks of frenetic activity football’s civil war has hardened into a stalemate, which is unlikely to be definitively resolved until next year’s presidential election at Fifa congress in Rabat in March.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0850_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Rangers and the paradox of a painful exit that boosts their trophy chances",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!All new managers want to hit the ground running. ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!All new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take Graeme Souness, whose start as Rangers’ player-manager put the ‘pish’ in ‘inauspicious’. On his league debut, away to Hibs, he was sent off in the first half after a revenge attack on the wrong mullet. Rangers lost 2-1 and were beaten in the third game as well. Graeme out! Rangers won the League Cup and finished the season as champions for the first time in nine years.When I reflect on the lack of support for my very reasonable case from 1,057 people (Football Daily letters passim), I find consolation in the fact that I won letter o’the day, and none of them did. The Football Daily merch, when it arrives, will have pride of place in the trophy room at Cushion Towers” – Bob Cushion.So Arsenal are looking to spend €30m on Ezri Konsa as defensive cover. Meanwhile, the club I support, Exeter City, don’t have two brass farthings to rub together (ask your dad). Something wrong here” – Dave Hill.I will admit to the occasional snigger, but today was the first time in a long time that I’ve actually laughed out loud at a joke in the Fiver – the one about Portugal and Euro 2028. It was a joke, wasn’t it?” – Bill Muskett.That 6ft 4in striker Brian Madjo has a very high ceiling is the most common sense, practical thing about modern football I’ve read in a long time” – Peter Oh.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nAll new managers want to hit the ground running. But landing with a dull thud has never been a barrier to future glory, certainly not at Ibrox. Take Graeme Souness, whose start as Rangers’ player-manager put the ‘pish’ in ‘inauspicious’. On his league debut, away to Hibs, he was sent off in the first half after a revenge attack on the wrong mullet. Rangers lost 2-1 and were beaten in the third game as well. Graeme out! Rangers won the League Cup and finished the season as champions for the first time in nine years.\n\nDick Advocaat had a similarly awkward start in 1998. In his first game, played at Tranmere’s Prenton Park, Rangers went 3-0 down to Shelbourne in the first leg of their Big Vase tie. They went through comfortably in the end but lost the first league game a few days later.Dic-Advocaat out! Rangers had to settle for a domestic treble that season. Different times, when toys were played with for more than a few seconds before being launched from the pram with maximum force, followed a few seconds later by a handful of freshly sourced excreta. In 2026, alas, hot air and horse pucky are an acceptable substitute for reasonable discourse. And so, after failing to win any of his first four games as Rangers manager, Derek McInnes is “out of his depth” and a “dead man walking”.\n\nQue Sera, Sera? Eff that! Turns out the future is ours to see after four games, two of them in a competition Rangers had no chance of winning anyway. Football Daily hasn’t a clue if McInnes is up to the Brobdingnagian challenge of managing Rangers, one that most tea-timely newsletters don’t really understand. But we do know that a culture of self-fulfilling poppycock, where ostentatious negativity is football’s version of the fatberg and many people would rather be right than happy, is a stain on our daily bread.\n\nThat said, what a roflcopter of a start! Given the events of last season, it was never going to be an equanimity-cultivating experience for a new Rangers manager to see Russell Martin’s start and lower it. Rangers have one point from two league games and are out of Bigger Vase after themost costly 1-1 drawagainst Polish opposition on British soil since Brian Clough called somebody a clown. Paradoxically, the aggregate defeat to Jagiellonia Bialystok – and subsequent drop into Tin Pot – has increased Rangers’ chances of winning a trophy under McInnes. Time will tell whether those chances have increased from 0.0000001% to 0.0000002%, from 9% to 9.4% or from some other figure to some other figure. Right now, the supercomputers know, and the bairns in the prams certainly don’t.\n\nJoin Dominic Booth at 8pm BST for live updates on Wolves 2-0 Blackburn in the Championship opener.\n\n“If Gianni Infantino doesn’t get re-elected unanimously, then whoever voted against him needs to get their head examined” – Andrew Giuliani, the chief suit of the White House Task Force for the Geopolitics World Cup, emerges from Donald Trump’s fundament to give his view on the Fifa crisis. Alas, Giuliani’s interview with the Athletic didn’t take place atFour Seasons Total Landscaping.\n\ndouble quotation markWhen I reflect on the lack of support for my very reasonable case from 1,057 people (Football Daily letters passim), I find consolation in the fact that I won letter o’the day, and none of them did. The Football Daily merch, when it arrives, will have pride of place in the trophy room at Cushion Towers” – Bob Cushion.\n\ndouble quotation markSo Arsenal are looking to spend €30m on Ezri Konsa as defensive cover. Meanwhile, the club I support, Exeter City, don’t have two brass farthings to rub together (ask your dad). Something wrong here” – Dave Hill.\n\ndouble quotation markI will admit to the occasional snigger, but today was the first time in a long time that I’ve actually laughed out loud at a joke in the Fiver – the one about Portugal and Euro 2028. It was a joke, wasn’t it?” – Bill Muskett.\n\ndouble quotation markThat 6ft 4in striker Brian Madjo has a very high ceiling is the most common sense, practical thing about modern football I’ve read in a long time” – Peter Oh.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s letter o’ the day winner is … Peter Oh, who gets some Football Weekly merch. Terms and conditions for our competitions can be viewedhere.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-14 @ 22:28:35 EDT",
+  "lastUpdated": "2026-08-15 @ 07:08:50 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
