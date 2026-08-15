@@ -10,10 +10,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ No player bigger than a club - is that changing for some fans?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
-      "link": "https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium"
     }
   ],
   "timeline": {
@@ -43369,11 +43365,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5436_0",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
+            "bullets": [
+              "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
+            "fullText": "The rises of Antoine Semenyo and Eberechi Eze shows the value of EFL development\n\nWhenManchester Citypaid Â£12.5m to sign Jeremy Monga from Leicester City last month, they were not alone in wanting one of English football's most highly rated teenagers.\n\nArsenalalso coveted the 17-year-old winger, but City won the battle for a player who joined Leicester aged eight and has already broken records in senior football.\n\nMonga became Leicester's second-youngest Premier League player in April 2025, aged 15 years and 271 days, before becoming their youngest league starter and surpassing Jude Bellingham as the Championship's youngest goalscorer.\n\nHe represents the more established end of a wider battle for young domestic talent.\n\nPremier League clubs are increasingly looking to EFL and Scottish academies for players who can be brought into their development structures, sometimes before they have established themselves in senior football.\n\nAntoine Semenyo was rejected by several academies before Bristol City spotted him playing college football. After loans at Newport County andSunderland, he established himself in the Championship before joiningBournemouthfor about Â£10m, thenManchester Cityin a Â£64m move.\n\nOllie Watkins came through at Exeter City, Adam Wharton at Blackburn Rovers and Eberechi Eze - after being released byArsenal- rebuilt his career at Millwall and QPR.\n\nFor recruitment departments, finding the next player capable of following a similar route can be enormously valuable.\n\nBBC Sport research has identified 14 players recruited from EFL or Scottish Premiership academies for Premier League development squads so far this summer.\n\nThat matches the 14 such transfers made across the whole of 2025-26. There were eight in 2024-25, 18 in 2023-24 and seven in 2022-23.\n\nMore striking is the profile of this summer's recruits. Of the 14 identified, 11 are 18 years old. Last season only five of the 14 players in the equivalent sample were 18.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5436_1",
+            "category": "england",
+            "type": "News",
+            "title": "No player bigger than a club - is that changing for some fans?",
+            "bullets": [
+              "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigg...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
+            "fullText": "Lionel Messi joined Inter Miami in 2023 and won an eighth Ballon d'Or later that year\n\nThe golden ticket came gift-wrapped in flamingo pink. Instantly iconic. Nailed on to adorn bedroom walls from Buenos Aires to Barcelona and be splashed across billboards the world over.\n\nLionel Messi's arrival at Inter Miami was about as sure a marketing hit as you could ask for. Social media accounts spiked, shirts sold out, match tickets went for stupid money.\n\n\"A lot of people are walking around cities and towns in the UK and Europe wearing that flamingo pink of Inter Miami with zero affiliation to Miami, having never been there,\" explains sports brand strategist James Kirkham.\n\n\"It's quite a normal thing now. But it is the player who has done the job.\"\n\nThat football lovers should want to show a connection with arguably the greatest player of all time comes as no surprise - likewise his long-term rival in the now-distinct yellow of Al-Nassr.\n\nMessi or Cristiano Ronaldo. Barcelona or Real Madrid. MLS or Saudi Pro League.\n\nThese generational superstars have long stirred heated debate, from curious kids with jumpers for goalposts to social media cultists armed with memes and virtual binders of blistering stats.\n\nBut this trend of following individual players transcends merely Messi and Ronaldo.\n\n\"It's been happening for a while, ever since the sheer impact and influence of gaming, particularly on young fans,\" says Kirkham, who remembers a swell of support for Zlatan Ibrahimovic.\n\nKirkham says younger fans are actually \"less rigid or tribal than they used to be\" and boast a \"more encyclopaedic knowledge\" developed through video games - including EA Sports FC or Football Manager. Other touch points come via YouTube and trading cards.\n\nThey follow teams from different countries or leagues not for the badge on the front, but because of the name on the back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-15 @ 11:20:08 EDT",
+  "lastUpdated": "2026-08-15 @ 14:54:36 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
