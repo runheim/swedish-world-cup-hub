@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Premier League clubs looking to EFL for next Semenyo & Eze",
+      "text": "⚽ Premier League clubs looking to EFL for next Semenyo and Eze",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -14,14 +14,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
       "link": "https://www.theguardian.com/football/2026/aug/14/liverpool-fc-ownership-stake-sale-jeff-bezos-consortium"
-    },
-    {
-      "text": "⚽ Continental clash: where world football stands on Fifa and Infantino – explained",
-      "link": "https://www.theguardian.com/football/2026/aug/14/continental-clash-where-world-football-stands-on-fifa-and-infantino-explained"
-    },
-    {
-      "text": "⚽ Football Daily | Rangers and the paradox of a painful exit that boosts their trophy chances",
-      "link": "https://www.theguardian.com/football/2026/aug/14/rangers-football-daily-newsletter"
     }
   ],
   "timeline": {
@@ -43320,11 +43312,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2007_0",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
+            "bullets": [
+              "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
+            "fullText": "The rises of Antoine Semenyo and Eberechi Eze shows the value of EFL development\n\nWhenManchester Citypaid Â£12.5m to sign Jeremy Monga from Leicester City last month, they were not alone in wanting one of English football's most highly rated teenagers.\n\nArsenalalso coveted the 17-year-old winger, but City won the battle for a player who joined Leicester aged eight and has already broken records in senior football.\n\nMonga became Leicester's second-youngest Premier League player in April 2025, aged 15 years and 271 days, before becoming their youngest league starter and surpassing Jude Bellingham as the Championship's youngest goalscorer.\n\nHe represents the more established end of a wider battle for young domestic talent.\n\nPremier League clubs are increasingly looking to EFL and Scottish academies for players who can be brought into their development structures, sometimes before they have established themselves in senior football.\n\nAntoine Semenyo was rejected by several academies before Bristol City spotted him playing college football. After loans at Newport County andSunderland, he established himself in the Championship before joiningBournemouthfor about Â£10m, thenManchester Cityin a Â£64m move.\n\nOllie Watkins came through at Exeter City, Adam Wharton at Blackburn Rovers and Eberechi Eze - after being released byArsenal- rebuilt his career at Millwall and QPR.\n\nFor recruitment departments, finding the next player capable of following a similar route can be enormously valuable.\n\nBBC Sport research has identified 14 players recruited from EFL or Scottish Premiership academies for Premier League development squads so far this summer.\n\nThat matches the 14 such transfers made across the whole of 2025-26. There were eight in 2024-25, 18 in 2023-24 and seven in 2022-23.\n\nMore striking is the profile of this summer's recruits. Of the 14 identified, 11 are 18 years old. Last season only five of the 14 players in the equivalent sample were 18.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2008_1",
+            "category": "england",
+            "type": "News",
+            "title": "No player bigger than a club - is that changing for some fans?",
+            "bullets": [
+              "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigg...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
+            "fullText": "Lionel Messi joined Inter Miami in 2023 and won an eighth Ballon d'Or later that year\n\nThe golden ticket came gift-wrapped in flamingo pink. Instantly iconic. Nailed on to adorn bedroom walls from Buenos Aires to Barcelona and be splashed across billboards the world over.\n\nLionel Messi's arrival at Inter Miami was about as sure a marketing hit as you could ask for. Social media accounts spiked, shirts sold out, match tickets went for stupid money.\n\n\"A lot of people are walking around cities and towns in the UK and Europe wearing that flamingo pink of Inter Miami with zero affiliation to Miami, having never been there,\" explains sports brand strategist James Kirkham.\n\n\"It's quite a normal thing now. But it is the player who has done the job.\"\n\nThat football lovers should want to show a connection with arguably the greatest player of all time comes as no surprise - likewise his long-term rival in the now-distinct yellow of Al-Nassr.\n\nMessi or Cristiano Ronaldo. Barcelona or Real Madrid. MLS or Saudi Pro League.\n\nThese generational superstars have long stirred heated debate, from curious kids with jumpers for goalposts to social media cultists armed with memes and virtual binders of blistering stats.\n\nBut this trend of following individual players transcends merely Messi and Ronaldo.\n\n\"It's been happening for a while, ever since the sheer impact and influence of gaming, particularly on young fans,\" says Kirkham, who remembers a swell of support for Zlatan Ibrahimovic.\n\nKirkham says younger fans are actually \"less rigid or tribal than they used to be\" and boast a \"more encyclopaedic knowledge\" developed through video games - including EA Sports FC or Football Manager. Other touch points come via YouTube and trading cards.\n\nThey follow teams from different countries or leagues not for the badge on the front, but because of the name on the back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2008_2",
+            "category": "england",
+            "type": "News",
+            "title": "Liverpool owner FSG seals £1.65bn sale of 30% stake to consortium including Jeff Bezos",
+            "bullets": [
+              "Confirmed deal values club as a whole at £5.5bnAmit Bhatia will become club’s new vice-chairmanLiver...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Confirmed deal values club as a whole at £5.5bnAmit Bhatia will become club’s new vice-chairmanLiverpool’s owner, Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook co-founder Eduardo Saverin. The deal is understood to be worth £1.65bn, valuing Liverpool at £5.5bn, and will see Bhatia become the club’s new vice-chair on an expanded board.Bhatia, the son-in-law of Indian steel magnate Lakshmi Mittal, initiated and led talks with FSG on behalf of the 1892 Holdings consortium, a reference to Liverpool’s founding year. The former co-owner of Queens Park Rangers has received financial backing from the Mittal Family Trust, the K5 Sports fund, of which Bezos is the lead investor, and EE Capital, the family office of Elaine and Eduardo Saverin. Continue reading...",
+            "fullText": "Liverpool’s owner,Fenway Sports Group, has confirmed it has agreed the sale of 30% of the club to a consortium including Amit Bhatia, the Amazon founder Jeff Bezos and the Facebook co-founder Eduardo Saverin. The deal is understood to be worth £1.65bn, valuing Liverpool at £5.5bn, and will see Bhatia become the club’s new vice-chair on an expanded board.\n\nBhatia, the son-in-law of Indian steel magnate Lakshmi Mittal, initiated and led talks with FSG on behalf of the 1892 Holdings consortium, a reference to Liverpool’s founding year. The former co-owner of Queens Park Rangers has received financial backing from the Mittal Family Trust, the K5 Sports fund, of which Bezos is the lead investor, and EE Capital, the family office of Elaine and Eduardo Saverin.\n\nElaine Saverin, wife of Eduardo, and Bryan Baum, co-founder and managing partner of K5 Global, will also join the Liverpool board. Bezos is considered a passive investor and will not have a seat on the board.\n\nDespite the involvement of Bezos, the third richest man in the world with $272bn (£201bn), Eduardo Saverin, worth an estimated $33bn and the Mittal family, worth around $17bn, FSG will remain in operational control of Liverpool as well as majority owners. 1892 Holdings’ investment remains subject to regulatory approval, which could take up to 90 days, and will have no impact on Liverpool’s transfer budget or strategy for this summer. There is also no change to the leadership or day-to-day running of Liverpool.\n\nFSG insist the deal is not part of an exit strategy from a club they acquired in 2010 for £300m after the near-ruinous ownership of Tom Hicks and George Gillett. The transaction does not compel FSG to sell more of the club to 1892 at a future date, or include obligations for 1892 to increase their stake, but it does give Bhatia’s consortium options to purchase more of Liverpool should the majority owners eventually decide to sell.\n\nIt is the makeup of Bhatia’s consortium, rather than any financial need, that FSG claim attracted them to the British-Indian businessman’s proposal. The FSG leadership team of principal owner John W Henry, chair Tom Werner and president Mike Gordon have spent almost a year getting to know Bhatia and believe the deal will create further opportunities for Liverpool in global business, technology and investment, including in the important markets of India and Asia.\n\nGordon, who has resumed a more hands-on role at Liverpool following the departure of Michael Edwards as chief executive of football at FSG, said: “Liverpool has always been built by thinking beyond one season and making decisions with the club’s long-term interests in mind. That approach continues to attract interest from respected investors and business leaders around the world.\n\n“As we considered this opportunity, it became clear that Amit and the consortium shared our long-term philosophy and appreciation for what makes Liverpool special. Their experience and perspective will complement the strong foundation already in place, and we look forward to working together.”\n\nWith Premier League and Uefa financial regulations linking a club’s spending to turnover, the new investment will not have an immediate benefit for head coach Andoni Iraola and his Liverpool team. However, the commercial opportunities presented by the involvement of Bezos, Bhatia and Saverin will enable the Anfield club to grow their annual revenue significantly. Liverpool’s annual revenue increased to a record £703m in the year ending May 2025.\n\nKick off your evenings with the Guardian's take on the world of football\n\nSpeaking on behalf of 1892 Holdings, Bhatia said: “We are incredibly proud to be investing in Liverpool Football Club and to be doing so alongside FSG. We have the utmost respect and admiration for FSG as owners and for everything they have achieved at Anfield.\n\n“To be welcomed as a partner in a club of this stature is a huge privilege. We are making this investment because we believe deeply in Liverpool and its leadership, and we look forward to supporting the club’s continued success for years to come.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-15 @ 07:08:50 EDT",
+  "lastUpdated": "2026-08-15 @ 11:20:08 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
