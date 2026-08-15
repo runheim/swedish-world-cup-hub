@@ -16925,11 +16925,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1307_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Perseus Karlström fourth in chaotic EC marathon underway",
+            "bullets": [
+              "Perseus Karlström was a medal hope ahead of the first ever EC marathon race underway. But he was nev...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Perseus Karlström was a medal hope ahead of the first ever EC marathon race underway. But he was never really close. It ended with a fourth place – in a chaotic competition. - It was quite noisy, notes Karlström.",
+            "fullText": "Perseus Karlström was a medal hope before the first-ever EC marathon race was underway. But he was never really close. It ended with a fourth place - in a chaotic competition. - It was quite noisy, notes Karlström.\n\nIn the past, 20 km and 35 km have been the distances in the athletics EC's walking competitions.\n\nBut this year these were replaced by half marathons and marathons.\n\nBut the competitions were not held on different occasions. Instead, both distances were completed at the same time, and both for men and women at the same time.\n\nThis meant that during the first half of the marathon there were a lot of walkers out at the same time, which led to a lot of debate and criticism in various forums. Both against the fact that it became crowded, but also that it became unfairly sporting.\n\n- It was quite noisy the first 12-15 kilometers with a lot of people on the course, says Perseus Karlström to SVT Sport, and also says that there were several holes in the course that he stepped on, which caused him pain.\n\nOne who was critical was SVT Sports commentator Gustav Zetterlund, who above all criticized the fact that walkers competing in different classes could walk together and get help from each other.\n\n- I think it is regrettable that there should be questions about whether she got help from him or not. I think she might have been the strongest anyway, but I think the question mark even comes up is unnecessary, he said in connection with the fact that Maria Perez, who competed in the women's half-marathon, went together with Miguel Ángel López, who competed in the men's marathon.\n\nPerez won the half marathon by a landslide in a new world record time of 1.30.06 – 58 seconds ahead of Italy's Aleandrina Mihal.\n\nKarlström then? The Swede, who took EC gold in 20 km in 2024 and also has a WC silver on his merit list, was never in the close fight and finished in fourth place.\n\n- It was a really good race anyway. It's a shame that I have to go to the toilet after 14-15 kilometers as it's quite windy. The first 20 kilometers were slow as the body doesn't really get going, but then it starts to get significantly better, says Karlström.\n\nThe 36-year-old, who has struggled with illness during the year, was 3.29 behind victorious Italian Massimo Stano, who became the first European to run a marathon in under three hours. His winning time was 2.56.49 – eight seconds ahead of the aforementioned Spaniard Lopez.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-15 @ 14:55:08 EDT",
+  "lastUpdated": "2026-08-15 @ 18:13:07 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
