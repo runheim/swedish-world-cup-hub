@@ -10,6 +10,14 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ No player bigger than a club - is that changing for some fans?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact"
+    },
+    {
+      "text": "⚽ Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
+      "link": "https://www.theguardian.com/football/2026/aug/15/newcastle-matthias-jaissle-bayer-leverkusen-defeat-amar-dedic"
     }
   ],
   "timeline": {
@@ -43405,11 +43413,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2050_0",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League clubs looking to EFL for next Semenyo and Eze",
+            "bullets": [
+              "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for the...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Premier League clubs are continuing to recruit young players from EFL and Scottish academies for their U21 and B-team squads.",
+            "fullText": "The rises of Antoine Semenyo and Eberechi Eze shows the value of EFL development\n\nWhenManchester Citypaid Â£12.5m to sign Jeremy Monga from Leicester City last month, they were not alone in wanting one of English football's most highly rated teenagers.\n\nArsenalalso coveted the 17-year-old winger, but City won the battle for a player who joined Leicester aged eight and has already broken records in senior football.\n\nMonga became Leicester's second-youngest Premier League player in April 2025, aged 15 years and 271 days, before becoming their youngest league starter and surpassing Jude Bellingham as the Championship's youngest goalscorer.\n\nHe represents the more established end of a wider battle for young domestic talent.\n\nPremier League clubs are increasingly looking to EFL and Scottish academies for players who can be brought into their development structures, sometimes before they have established themselves in senior football.\n\nAntoine Semenyo was rejected by several academies before Bristol City spotted him playing college football. After loans at Newport County andSunderland, he established himself in the Championship before joiningBournemouthfor about Â£10m, thenManchester Cityin a Â£64m move.\n\nOllie Watkins came through at Exeter City, Adam Wharton at Blackburn Rovers and Eberechi Eze - after being released byArsenal- rebuilt his career at Millwall and QPR.\n\nFor recruitment departments, finding the next player capable of following a similar route can be enormously valuable.\n\nBBC Sport research has identified 14 players recruited from EFL or Scottish Premiership academies for Premier League development squads so far this summer.\n\nThat matches the 14 such transfers made across the whole of 2025-26. There were eight in 2024-25, 18 in 2023-24 and seven in 2022-23.\n\nMore striking is the profile of this summer's recruits. Of the 14 identified, 11 are 18 years old. Last season only five of the 14 players in the equivalent sample were 18.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2051_1",
+            "category": "england",
+            "type": "News",
+            "title": "No player bigger than a club - is that changing for some fans?",
+            "bullets": [
+              "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigg...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "From Lionel Messi and Cristiano Ronaldo to Erling Haaland and Jude Bellingham, are star names a bigger draw than clubs for young fans?",
+            "fullText": "Lionel Messi joined Inter Miami in 2023 and won an eighth Ballon d'Or later that year\n\nThe golden ticket came gift-wrapped in flamingo pink. Instantly iconic. Nailed on to adorn bedroom walls from Buenos Aires to Barcelona and be splashed across billboards the world over.\n\nLionel Messi's arrival at Inter Miami was about as sure a marketing hit as you could ask for. Social media accounts spiked, shirts sold out, match tickets went for stupid money.\n\n\"A lot of people are walking around cities and towns in the UK and Europe wearing that flamingo pink of Inter Miami with zero affiliation to Miami, having never been there,\" explains sports brand strategist James Kirkham.\n\n\"It's quite a normal thing now. But it is the player who has done the job.\"\n\nThat football lovers should want to show a connection with arguably the greatest player of all time comes as no surprise - likewise his long-term rival in the now-distinct yellow of Al-Nassr.\n\nMessi or Cristiano Ronaldo. Barcelona or Real Madrid. MLS or Saudi Pro League.\n\nThese generational superstars have long stirred heated debate, from curious kids with jumpers for goalposts to social media cultists armed with memes and virtual binders of blistering stats.\n\nBut this trend of following individual players transcends merely Messi and Ronaldo.\n\n\"It's been happening for a while, ever since the sheer impact and influence of gaming, particularly on young fans,\" says Kirkham, who remembers a swell of support for Zlatan Ibrahimovic.\n\nKirkham says younger fans are actually \"less rigid or tribal than they used to be\" and boast a \"more encyclopaedic knowledge\" developed through video games - including EA Sports FC or Football Manager. Other touch points come via YouTube and trading cards.\n\nThey follow teams from different countries or leagues not for the badge on the front, but because of the name on the back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2051_2",
+            "category": "england",
+            "type": "News",
+            "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+            "bullets": [
+              "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical exertions of last season were immense – as seen by Declan Rice’s clear exhaustion and Bukayo Saka’s intermittent contributions at the World Cup, where William Saliba picked up a back injury – but so too was the emotional strain.The first weeks of a new season after a major tournament, especially the World Cup, are often a little erratic anyway, but this feels like a particularly unpredictable start to a campaign. Nine of the 20 Premier League clubs have changed manager this summer. For the first time in 40 years, none of the five big managerial beasts of the Premier League era – Sir Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp and Pep Guardiola – will be in charge of a club. There are unknowns and uncertainty everywhere, even at Arsenal. Mikel Arteta may be the longest-serving manager in the league but there are questions even there; it would be no great surprise if Arsenal were to start slowly. Continue reading...",
+            "fullText": "Wembley curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018\n\nThe doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical exertions of last season were immense – as seen by Declan Rice’s clear exhaustion and Bukayo Saka’s intermittent contributions at the World Cup, where William Salibapicked up a back injury– but so too was the emotional strain.\n\nThe first weeks of a new season after a major tournament, especially the World Cup, are often a little erratic anyway, but this feels like a particularly unpredictable start to a campaign. Nine of the 20 Premier League clubs have changed manager this summer. For the first time in 40 years, none of the five big managerial beasts of the Premier League era – Sir Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp and Pep Guardiola – will be in charge of a club. There are unknowns and uncertainty everywhere, even atArsenal. Mikel Arteta may be the longest-serving manager in the league but there are questions even there; it would be no great surprise if Arsenal were to start slowly.\n\nManchester City are at the other end of the scale, after two seasons that were disappointing by their extremely elevated recent standards, and with a new manager after a decade under Guardiola. Enzo Maresca may look like his predecessor and his football may look like a version of his predecessor’s – notably from that period when he was his assistant manager – but he arrives at City surrounded by questions. He led Leicester to promotion and won the Europa Conference League and Club World Cup with Chelsea, but fans of those clubs seemed unconvinced by the style of play. And while Chelsea clearly had problems with the balance of their squad, and got dramatically worse after he left, it wasn’t entirely clear he was making the best of the resources he had.\n\nThe Community Shield is a first opportunity to make some kind of assessment of whether Arsenal’s hunger is as sharp as it was last season, and of how City’s squad are adapting to their new manager. It is, though, a largely ceremonial occasion, any lessons drawn to be taken with extreme caution. Notsince 2018have the winners of the Community Shield gone on to win the Premier League; in that sense, it’s a sort of anti-bellwether. Where it can give indicators as to the season ahead tends to be less in showcasing the strengths of a potential champion than in exposing the flaws that might bring a side low.\n\nThis year is unlikely to bring a repeat of 1974, when the scrap between Kevin Keegan and Billy Bremner exposed both the Liverpool forward’s unease at the retirement of Bill Shankly and, more consequentially, the general loss of morale at Leeds after Brian Clough had succeeded Don Revie. Often the significance of the Community Shield is properly recognised only in retrospect. José Mourinho was clearly in a strange mood when he turned up for the 2015-16 game unshaven and in tracksuit bottoms and a baggy T-shirt before suffering hisfirst ever defeat to Arsène Wenger. Few suspected, though, the chaos that was about to unspool at Chelsea, culminating with Mourinho’s dismissal that December.\n\nLast season, asCrystal Palace beat Liverpool on penaltiesafter a 2-2 draw, there were abundant indications of what was to come, especially about Arne Slot’s side. Mohamed Salah seemed disconnected from the rest of the forward line. The defence was a mess. Twice they conceded equalisers. Whether they were recognised at the time is another matter; the difficulty is separating teething problems or a team being only partway through their preparation for the new season from longer-term issues that could still be undermining a team two or three months into the season.\n\nThere are few obvious questions to which Sunday’s meeting could begin to offer answers. Bruno Guimarães came off the bench for Arsenal in Wednesday’s friendly against Como and could be involved, probably alongside Myles Lewis-Skelly in midfield. The 19-year-old has been prominent in pre-season after Declan Rice, Martín Zubimendi and Martin Ødegaard were given extended breaks after the World Cup, but he has been linked with a move. In that context, his celebration after scoring against Como, making a heart sign with his hands and tapping the badge, felt significant.\n\nAfter thesale of Leandro Trossard, the left side of Arsenal’s attack is in need of strengthening. Morgan Rogers went to Chelsea and Vinícius Júnior stayed at Real Madrid, but they did sign the24-year-old Greece international Christos Tzolisfrom Club Brugge. Sunday offers an opportunity to see how he fits in, and whether Arsenal still need another option on that flank.\n\nFor City, the biggest personnel issue probably surrounds the future of Rodri, whoseproposed move to Barcelonais yet to materialise, which in turn leaves City hanging on a potential replacement. Enzo Fernández appears the preferred candidate but whether his comparative lack of physicality can be accommodated deep in midfield, even after the signing of the robust Elliot Anderson, remains to be seen.\n\nKick off your evenings with the Guardian's take on the world of football\n\nTijjani Reijnders started friendlies against Inter and Atlético but is on his way to Al-Qadsiah while Bernardo Silva has joined Real Madrid, meaning a significant overhaul of midfield. Whether that includes Phil Foden in the long term is unclear. Since being named player of the year in 2024, he has struggled for form, but started the Inter and Atlético games. As others recover from the World Cup, the next few weeks offer an opportunity to reassert himself.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2051_3",
+            "category": "england",
+            "type": "News",
+            "title": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
+            "bullets": [
+              "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar DedicReasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat by Bayer Leverkusen.The bad news is that a suddenly youthful team still coming to terms with life without this summer’s departed stars, Anthony Gordon, Sandro Tonali and Bruno Guimarães, look more than a little undercooked before Liverpool’s visit on Premier League duty next Sunday. Continue reading...",
+            "fullText": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar Dedic\n\nReasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat byBayer Leverkusen.\n\nThe bad news is that a suddenly youthful team still coming to terms with life without this summer’s departed stars, Anthony Gordon, Sandro Tonali and Bruno Guimarães, look more than a little undercooked before Liverpool’s visit on Premier League duty next Sunday.\n\nLate last year these teams drew a Champions League group stage game in Leverkusen but since then the Germans have reconstructed a then transitional squad and Newcastle dismantled theirs.\n\nEddie Howe’s sudden departure at the end of July has left Matthias Jaissle, late of Jeddah’s Al-Ahli, to pick up the managerial pieces. Despite this defeat on a day when Leverkusen looked to be playing within themselves, the 38-year-old German is already showing a few, albeit tentative, indications that he just might be able to put one of football’s most complicated jigsaws back together.\n\nIf Malick Thiaw, Anthony Elanga and Yoane Wissa in particular appear re-energised by his coaching, Jaissle’s faith in the 17-year-old Mason Miley, the younger brother of the midfielder Lewis, was fully vindicated as the academy product shone at right-back.\n\n“Mason’s a young lad with the attitude we need; he has the right heart and the right quality,” said Jaissle as he sipped an energy drink intended to replace the body’s lost electrolytes. If only he could find such a simple solution to filling the missing links left by Gordon, Tonali and Guimarães.\n\nAt least Dan Burn is still around and will be Newcastle’s captain, with Joelinton as his deputy. The Brazilian, though, is injured and will miss the Liverpool game, while Burn was not involved here as Jaissle split his squad in two during a weekend that features another friendly here, against Strasbourg on Sunday.\n\nLeverkusen represented the new manager’s first match in charge at St James’ Park but it was hardly the ideal start. Inside a minute his team were behind.\n\nWhen Ibrahim Maza manoeuvred the ball on to his left foot in the area, Newcastle’s new goalkeeper, Lukas Hornicek, was powerless to resist the resultant shot. No matter that it was only a friendly, even Howe’s normally super-confident successor looked a little crestfallen.\n\n“It’s a big challenge,” he said. “It’s a big transition.”\n\nJaissle cut a restless figure as he prowled the home technical area, sometimes straying far too far outside its confines for the liking of match officials.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-15 @ 14:54:36 EDT",
+  "lastUpdated": "2026-08-15 @ 18:20:51 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
