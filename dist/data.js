@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ The people on national highway 62: \"The cities are everything and the rural areas are nothing\"",
       "link": "https://www.svt.se/nyheter/lokalt/varmland/manniskorna-vid-riksvag-62-staderna-ar-allt-och-glesbygden-ingenting"
     }
   ],
@@ -17042,11 +17042,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1247_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The people on national highway 62: \"The cities are everything and the rural areas are nothing\"",
+            "bullets": [
+              "One hour to hospital and dentist. Six miles to the children's soccer practice. The conditions in spa...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "One hour to hospital and dentist. Six miles to the children's soccer practice. The conditions in sparsely populated areas do not scare the residents of highway 62. When it comes to the election, however, they feel completely forgotten. In the clips, they tell more about life far from the big cities.",
+            "fullText": "One hour to hospital and dentist. Six miles to the children's soccer practice. The conditions in sparsely populated areas do not scare the residents of highway 62.\n\nWhen it comes to the election, however, they feel completely forgotten.\n\nIn the clips, they tell more about life far from the big cities.\n\nIn 25 years, the number of students in northern Klarälvdalen has dropped by 65 percent. Join principal Madelene Cicek on a journey between the district's two last remaining schools.\n\nDavid Jonasson drives a forest machine at the top of the Norwegian border.\n\nHe is worried about the constant race risk on national highway 62.\n\n- You lose trust when they don't want to listen, he says.\n\nLovisa Gustavsson works in home care in the small communities along national highway 62.\n\nShe is convinced that life in the village will soon disappear.\n\nThe timber truck weighs 64 tonnes. Join Stefan Berglund on a working day on national highway 62.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nThe application has been rejected by the Land and Environment Court because the court considers that the overall environmental effects have not been sufficiently investigated.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-16 @ 14:55:10 EDT",
+  "lastUpdated": "2026-08-16 @ 18:12:47 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
