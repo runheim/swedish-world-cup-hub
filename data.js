@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Calafiori’s fast start inspires Arsenal to big Community Shield win over Manchester City",
-      "link": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
+      "text": "⚽ ‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca",
+      "link": "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield"
     }
   ],
   "timeline": {
@@ -43675,11 +43675,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2022_0",
+            "category": "england",
+            "type": "News",
+            "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
+            "bullets": [
+              "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 vic...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
+            "fullText": "Riccardo Calafiori scored his first goal for Arsenal since finding the target against Manchester United on 17 August 2025\n\nArsenal dominated Manchester City as they beat Enzo Maresca's side 3-0 in the Community Shield in the Principality Stadium.\n\nRiccardo Calafiori opened the scoring inside 30 seconds for the Premier League champions before Kai Havertz added a second with a close range header.\n\nArsenal captain Martin Odegaard then wrapped up the win with a clever finish just three minutes after the break.\n\nHere's how the players rated as the first piece of silverware of the season was lifted.\n\nStrong favourites or tougher task - will Arsenal defend their title?\n\nCommunity Shield: Reaction as Arsenal cruise to win against poor Man City\n\nWhy were Arsenal so dominant in the Community Shield?\n\nDavid Raya: A good save from Phil Foden and an excellent take from a corner in the first half. The Arsenal keeper is so good on the ball and played one memorable pass to Christos Tzolis to spark a counter-attack.7\n\nBen White: It goes under the radar how valuable a fit Ben White is to Arsenal. He's an experienced member of this team and dealt with the threat of Jeremy Doku while providing back up to Noni Madueke in attack. He produced a massive block to deny Doku when the winger was well placed to shoot in the second half.7\n\nCristhian Mosquera: A good recovery run and pass back to Raya when under pressure from Erling Haaland. Looked comfortable all game.7\n\nGabriel Magalhaes: Produced a big block as Doku tried to cross the ball. Gabriel celebrated it towards the winger and with the rest of the Arsenal back four. Kept Haaland extremely quiet.8",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2023_1",
+            "category": "england",
+            "type": "News",
+            "title": "‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca",
+            "bullets": [
+              "Champions delight manager by ‘winning the first trophy’Maresca wants Manchester City signings to arr...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Champions delight manager by ‘winning the first trophy’Maresca wants Manchester City signings to arrive soonMikel Arteta said his Arsenal players demonstrated their hunger to defend the Premier League title in their Community Shield triumph over Manchester City. Arsenal, who ended their 22-year wait last season and are seeking to win back-to-back top-flight titles for the first time since 1934-35, beat City 3-0 at the Principality Stadium in Cardiff in Enzo Maresca’s first significant match in charge.Riccardo Calafiori opened the scoring after 24 seconds, the fastest goal in the competition since Bobby Owen’s strike for City in 1968, before Kai Havertz doubled Arsenal’s lead and their captain, Martin Ødegaard, completed the scoring on 48 minutes. The 3-0 defeat represented the joint-heaviest loss for a City manager in their first game in charge, with Harry Newbould the most recent to suffer a three-goal opening defeat – 4-1, also to Arsenal, in 1906. It is also Maresca’s joint-heaviest defeat as a manager in England. Continue reading...",
+            "fullText": "Champions delight manager by ‘winning the first trophy’\n\nMaresca wants Manchester City signings to arrive soon\n\nMikel Arteta said his Arsenal players demonstrated their hunger to defend the Premier League title in theirCommunity Shield triumphover Manchester City. Arsenal, who ended their 22-year wait last season and are seeking to win back-to-back top-flight titles for the first time since 1934-35, beat City 3-0 at the Principality Stadium in Cardiff in Enzo Maresca’s first significant match in charge.\n\nRiccardo Calafiori opened the scoring after 24 seconds, the fastest goal in the competition since Bobby Owen’s strike for City in 1968, before Kai Havertz doubled Arsenal’s lead and their captain, Martin Ødegaard, completed the scoring on 48 minutes. The 3-0 defeat represented the joint-heaviest loss for a City manager in their first game in charge, with Harry Newbould the most recent to suffer a three-goal opening defeat – 4-1, also toArsenal, in 1906. It is also Maresca’s joint-heaviest defeat as a manager in England.\n\nArteta was delighted with Arsenal’s convincing display. “I am obviously extremely happy with the performance, the result and winning the first trophy,” he said. “We talked about the desire we have to start the season and to show ourselves how much we want it and I saw a lot of positive things against a top opponent. I’m very impressed in the manner that we played, in the manner that we competed. That’s the standard for us. If we drive the standards at this level, I’m sure that we’re going to be really, really competitive.”\n\nAsked about the desire displayed by his team, he said: “Because we want to go straight again. The desire comes [because] I want to live that moment again. I want to live other moments, even bigger than them … we know what it’s going to take. We know the difficulty of the task. We’ve never done it at this club, to win it again. We know that it’s going to demand something special and we are ready for it.”\n\nArteta praised the performance of Christos Tzolis, who was involved in all three goals. “He is a really intelligent boy and he has a massive quality, which is when he is in the last 20-30m [of the pitch] he is so composed to pick people out in and around the box,” said the Arsenal manager. “And also to finish actions and he has shown that again two or three times. He was decisive.”\n\nØdegaard said the team’s performance was evidence they are capable of winning back-to-back titles. “We played some brilliant football,” said Arsenal’s captain. “[It was a] great performance and a great way to start the season. I always want to help the team as much as possible with goals and assists. I want to score more goals. We showed our level today. We’ve shown we’re ready. We’re serious and we want to do it again. We want to attack it. We want to do it again. When you get a taste of how nice it is you want to do it again. We want to win everything.”\n\nMaresca acknowledged City, who are closing on a deal to sign Lille’s Ayyoub Bouaddi as they prepare to sell Rodri to Barcelona, would welcome new arrivals before their league opener at home to Bournemouth on Sunday. Rodri did not travel to Cardiff, where Elliot Anderson started in midfield, and Jack Grealish arrived from the substitutes’ bench for his first City appearance since May 2025. “Any new signing, the sooner they arrive the better because we are starting the Premier League in one week and if they start to work with us as soon as possible it’s better that they can also understand the way we want to play,” he said.\n\nMaresca said he was not alarmed by the manner of the defeat. “In general I’m always concerned, even when we win games so imagine how [concerned] that we didn’t win the game,” said the Italian, who succeeded Pep Guardiola this summer. “It’s just the beginning, we have many things that we need to do better, I think the reaction was good after conceding the first goal and now try to reset and analyse the game and think from Tuesday about the next game.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-16 @ 14:53:54 EDT",
+  "lastUpdated": "2026-08-16 @ 18:20:23 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
