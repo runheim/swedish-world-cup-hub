@@ -4,14 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Premier League clubs looking to EFL for next Semenyo and Eze",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y6w5972lyo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ No player bigger than a club - is that changing for some fans?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cn8ner50zdno?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
       "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact"
     },
@@ -43562,10 +43554,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-16": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0927_0",
+            "category": "england",
+            "type": "News",
+            "title": "Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
+            "bullets": [
+              "Curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not land...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018The doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical exertions of last season were immense – as seen by Declan Rice’s clear exhaustion and Bukayo Saka’s intermittent contributions at the World Cup, where William Saliba picked up a back injury – but so too was the emotional strain.The first weeks of a new season after a major tournament, especially the World Cup, are often a little erratic anyway, but this feels like a particularly unpredictable start to a campaign. Nine of the 20 Premier League clubs have changed manager this summer. For the first time in 40 years, none of the five big managerial beasts of the Premier League era – Sir Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp and Pep Guardiola – will be in charge of a club. There are unknowns and uncertainty everywhere, even at Arsenal. Mikel Arteta may be the longest-serving manager in the league but there are questions even there; it would be no great surprise if Arsenal were to start slowly. Continue reading...",
+            "fullText": "Curtain-raiser can offer clues but it is no reliable pointer to a season – its winners have not landed the title since 2018\n\nThe doubt for anyone when a long-strived-for goal has been achieved is hunger. Arsenal waited 22 years for their 14th league title and, compounding the yearning, finished second three times in a row before finally lifting the Premier League trophy in May. The physical exertions of last season were immense – as seen by Declan Rice’s clear exhaustion and Bukayo Saka’s intermittent contributions at the World Cup, where William Salibapicked up a back injury– but so too was the emotional strain.\n\nThe first weeks of a new season after a major tournament, especially the World Cup, are often a little erratic anyway, but this feels like a particularly unpredictable start to a campaign. Nine of the 20 Premier League clubs have changed manager this summer. For the first time in 40 years, none of the five big managerial beasts of the Premier League era – Sir Alex Ferguson, Arsène Wenger, José Mourinho, Jürgen Klopp and Pep Guardiola – will be in charge of a club. There are unknowns and uncertainty everywhere, even atArsenal. Mikel Arteta may be the longest-serving manager in the league but there are questions even there; it would be no great surprise if Arsenal were to start slowly.\n\nManchester City are at the other end of the scale, after two seasons that were disappointing by their extremely elevated recent standards, and with a new manager after a decade under Guardiola. Enzo Maresca may look like his predecessor and his football may look like a version of his predecessor’s – notably from that period when he was his assistant manager – but he arrives at City surrounded by questions. He led Leicester to promotion and won the Europa Conference League and Club World Cup with Chelsea, but fans of those clubs seemed unconvinced by the style of play. And while Chelsea clearly had problems with the balance of their squad, and got dramatically worse after he left, it wasn’t entirely clear he was making the best of the resources he had.\n\nThe Community Shield is a first opportunity to make some kind of assessment of whether Arsenal’s hunger is as sharp as it was last season, and of how City’s squad are adapting to their new manager. It is, though, a largely ceremonial occasion, any lessons drawn to be taken with extreme caution. Notsince 2018have the winners of the Community Shield gone on to win the Premier League; in that sense, it’s a sort of anti-bellwether. Where it can give indicators as to the season ahead tends to be less in showcasing the strengths of a potential champion than in exposing the flaws that might bring a side low.\n\nThis year is unlikely to bring a repeat of 1974, when the scrap between Kevin Keegan and Billy Bremner exposed both the Liverpool forward’s unease at the retirement of Bill Shankly and, more consequentially, the general loss of morale at Leeds after Brian Clough had succeeded Don Revie. Often the significance of the Community Shield is properly recognised only in retrospect. José Mourinho was clearly in a strange mood when he turned up for the 2015-16 game unshaven and in tracksuit bottoms and a baggy T-shirt before suffering hisfirst ever defeat to Arsène Wenger. Few suspected, though, the chaos that was about to unspool at Chelsea, culminating with Mourinho’s dismissal that December.\n\nLast season, asCrystal Palace beat Liverpool on penaltiesafter a 2-2 draw, there were abundant indications of what was to come, especially about Arne Slot’s side. Mohamed Salah seemed disconnected from the rest of the forward line. The defence was a mess. Twice they conceded equalisers. Whether they were recognised at the time is another matter; the difficulty is separating teething problems or a team being only partway through their preparation for the new season from longer-term issues that could still be undermining a team two or three months into the season.\n\nThere are few obvious questions to which Sunday’s meeting could begin to offer answers. Bruno Guimarães came off the bench for Arsenal in Wednesday’s friendly against Como and could be involved, probably alongside Myles Lewis-Skelly in midfield. The 19-year-old has been prominent in pre-season after Declan Rice, Martín Zubimendi and Martin Ødegaard were given extended breaks after the World Cup, but he has been linked with a move. In that context, his celebration after scoring against Como, making a heart sign with his hands and tapping the badge, felt significant.\n\nAfter thesale of Leandro Trossard, the left side of Arsenal’s attack is in need of strengthening. Morgan Rogers went to Chelsea and Vinícius Júnior stayed at Real Madrid, but they did sign the24-year-old Greece international Christos Tzolisfrom Club Brugge. Sunday offers an opportunity to see how he fits in, and whether Arsenal still need another option on that flank.\n\nFor City, the biggest personnel issue probably surrounds the future of Rodri, whoseproposed move to Barcelonais yet to materialise, which in turn leaves City hanging on a potential replacement. Enzo Fernández appears the preferred candidate but whether his comparative lack of physicality can be accommodated deep in midfield, even after the signing of the robust Elliot Anderson, remains to be seen.\n\nKick off your evenings with the Guardian's take on the world of football\n\nTijjani Reijnders started friendlies against Inter and Atlético but is on his way to Al-Qadsiah while Bernardo Silva has joined Real Madrid, meaning a significant overhaul of midfield. Whether that includes Phil Foden in the long term is unclear. Since being named player of the year in 2024, he has struggled for form, but started the Inter and Atlético games. As others recover from the World Cup, the next few weeks offer an opportunity to reassert himself.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0927_1",
+            "category": "england",
+            "type": "News",
+            "title": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
+            "bullets": [
+              "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar DedicReasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat by Bayer Leverkusen.The bad news is that a suddenly youthful team still coming to terms with life without this summer’s departed stars, Anthony Gordon, Sandro Tonali and Bruno Guimarães, look more than a little undercooked before Liverpool’s visit on Premier League duty next Sunday. Continue reading...",
+            "fullText": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar Dedic\n\nReasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat byBayer Leverkusen.\n\nThe bad news is that a suddenly youthful team still coming to terms with life without this summer’s departed stars, Anthony Gordon, Sandro Tonali and Bruno Guimarães, look more than a little undercooked before Liverpool’s visit on Premier League duty next Sunday.\n\nLate last year these teams drew a Champions League group stage game in Leverkusen but since then the Germans have reconstructed a then transitional squad and Newcastle dismantled theirs.\n\nEddie Howe’s sudden departure at the end of July has left Matthias Jaissle, late of Jeddah’s Al-Ahli, to pick up the managerial pieces. Despite this defeat on a day when Leverkusen looked to be playing within themselves, the 38-year-old German is already showing a few, albeit tentative, indications that he just might be able to put one of football’s most complicated jigsaws back together.\n\nIf Malick Thiaw, Anthony Elanga and Yoane Wissa in particular appear re-energised by his coaching, Jaissle’s faith in the 17-year-old Mason Miley, the younger brother of the midfielder Lewis, was fully vindicated as the academy product shone at right-back.\n\n“Mason’s a young lad with the attitude we need; he has the right heart and the right quality,” said Jaissle as he sipped an energy drink intended to replace the body’s lost electrolytes. If only he could find such a simple solution to filling the missing links left by Gordon, Tonali and Guimarães.\n\nAt least Dan Burn is still around and will be Newcastle’s captain, with Joelinton as his deputy. The Brazilian, though, is injured and will miss the Liverpool game, while Burn was not involved here as Jaissle split his squad in two during a weekend that features another friendly here, against Strasbourg on Sunday.\n\nLeverkusen represented the new manager’s first match in charge at St James’ Park but it was hardly the ideal start. Inside a minute his team were behind.\n\nWhen Ibrahim Maza manoeuvred the ball on to his left foot in the area, Newcastle’s new goalkeeper, Lukas Hornicek, was powerless to resist the resultant shot. No matter that it was only a friendly, even Howe’s normally super-confident successor looked a little crestfallen.\n\n“It’s a big challenge,” he said. “It’s a big transition.”\n\nJaissle cut a restless figure as he prowled the home technical area, sometimes straying far too far outside its confines for the liking of match officials.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-15 @ 22:37:09 EDT",
+  "lastUpdated": "2026-08-16 @ 07:09:27 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
