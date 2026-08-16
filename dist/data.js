@@ -17682,6 +17682,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "What time is the team meeting again?",
       "time": "12:24",
       "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Someone tell Weston to stop singing in the showers.",
+      "time": "05:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Ready to make history this summer. Let's go!",
+      "time": "05:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Early night for me. Big day tomorrow.",
+      "time": "05:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "05:31",
+      "isCaptain": true
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Just saw the training kit. Actually looks fire this year.",
+      "time": "05:32",
+      "isCaptain": false
     }
   ]
 };
