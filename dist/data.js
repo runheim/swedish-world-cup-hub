@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Community Shield offers insight into Arsenal’s desire and Maresca’s Manchester City impact | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/aug/15/community-shield-offers-insight-into-arsenals-desire-and-marescas-manchester-city-impact"
+      "text": "⚽ Nabizada’s breakaway solo stunner edges Watford past Southampton",
+      "link": "https://www.theguardian.com/football/2026/aug/16/watford-southampton-championship-match-report"
     },
     {
       "text": "⚽ Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
@@ -43595,11 +43595,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2139_0",
+            "category": "england",
+            "type": "News",
+            "title": "Nabizada’s breakaway solo stunner edges Watford past Southampton",
+            "bullets": [
+              "Southampton will have to get used to being barracked as they travel the Championship this autumn, th...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Southampton will have to get used to being barracked as they travel the Championship this autumn, the Spygate team are set to be everyone’s favourite boo-boys in the second tier. Certainly that was the case in Hertfordshire, with Watford fans and players alike beside themselves after a hard-fought victory, decided by two memorable first-half goals.Watford paid tribute to Kenny Jackett before the match, the one-club legend and local boy hailed with two minutes of applause. As everyone clapped, the cameras remained stubbornly focussed on Tonda Eckert in the dugout. The Southampton manager has the potential to become a pantomime villain as this season unspools. Remaining under investigation by the FA for his part in the Spygate affair, and with the prospect of a potentially heavy sanction to follow, Eckert’s fate has cast uncertainty over his side’s prospects this season and given opponents added motivation. Continue reading...",
+            "fullText": "Southampton will have to get used to being barracked as they travel theChampionshipthis autumn, the Spygate team are set to be everyone’s favourite boo-boys in the second tier. Certainly that was the case in Hertfordshire, with Watford fans and players alike beside themselves after a hard-fought victory, decided by two memorable first-half goals.\n\nWatford paid tribute to Kenny Jackett before the match, the one-club legend and local boy hailed with two minutes of applause. As everyone clapped, the cameras remained stubbornly focussed on Tonda Eckert in the dugout. TheSouthamptonmanager has the potential to become a pantomime villain as this season unspools. Remaining under investigation by the FA for his part in the Spygate affair, and with the prospect of a potentially heavy sanction to follow, Eckert’s fate has cast uncertainty over his side’s prospects this season and given opponents added motivation.\n\nSouthampton fans praised the manager and cursed the EFL. Watford’s support, for their part, turned their attention to the match once the whistle had been blown and lustily informed the visitors that they were cheats.\n\nSouthampton were showcasing a remodelled attacking lineup with Lewis Dobbin, signed from Aston Villa after successful Championship loans, providing a direct threat down the left and Kuryu Matsuki preferred to Tom Fellows on the right. There were initial signs of an understanding between Dobbin and Canada World Cup star Cyle Larin too, before Watford bulldozed their way to an early lead.\n\nAlessio Dionisi has become Watford’s 12th full-time manager in five years, and he was joined for his Vicarage Road debut by a number of new signings, largely from a familiar source. The Spain under-21 midfielder Iker Bravo was one of several signings to join from “sister” club Udinese this summer, and he made an instant quick with a quite stunning solo goal in the 12th minute.\n\nTo score, Bravo had to deploy a combination of skills. Looking to latch on to a long ball from the corner of the Watford box, the 6ft playmaker won the first header then, crucially, got a second touch with an outstretched toe to get the ball under control. He then span and began to drive at goal, entering the box before chopping right and getting off a low shot that Daniel Peretz got a hand to, but could not keep out.\n\nThe energy in the stands grew immediately and the home side went on to dominate the first half. They doubled their lead in the 29th minute and it was another one to remember, this time for 19-year-old academy graduate Amin Nabizada, who exploited the same gaps on the left of the Southampton defence to run with the ball from his own half before finishing well from a tight angle.\n\nThere was no immediate turn around from the visitors following the half-time break. The first 10 minutes of the second half were subdued and slow. But Southampton eventually took advantage of the drop in tempo to move the ball beyond the Watford backline and get back into the game in the 56th minute. With Matsuki pulling out wide, young Southampton midfielder Cameron Bragg moved unmarked into the right hand side of the box. Receiving the ball and shifting it left as a defender bore down on him, Bragg found Larin, who poked home from 10 yards out.\n\nKick off your evenings with the Guardian's take on the world of football\n\nLarin had a chance to equalise two minutes later with a shot on the turn after Watford failed to clear their lines, but goalkeeper Federico Ravaglia – another new signing – turned the ball round a post. When Finn Azaz came on for Dobbin he bought an inch to fire off a low drive that just went beyond the left hand post. Southampton’s fans were singing “we’ll score when we want” as a succession of dangerous set pieces were sent over by Ryan Manning.\n\nBut as the game passed through a flurry of substitutions Eckert’s side were unable to generate enough momentum to unsettle Watford and their only late chance was scuffed wide by Taylor Harwood-Bellis. Opening matches rarely offer much insight into how a season will pan out. But Watford fans were able to enjoy both temperate weather and a decent performance. If Southampton are to turn the negative energy of Spygate into something positive they will have to start again next week.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2139_1",
+            "category": "england",
+            "type": "News",
+            "title": "Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
+            "bullets": [
+              "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar DedicReasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat by Bayer Leverkusen.The bad news is that a suddenly youthful team still coming to terms with life without this summer’s departed stars, Anthony Gordon, Sandro Tonali and Bruno Guimarães, look more than a little undercooked before Liverpool’s visit on Premier League duty next Sunday. Continue reading...",
+            "fullText": "In spite of a 2-1 loss to Bayer Leverkusen, the new head coach at St James’ Park showed signs he is on the right path, and is closing in on Benfica’s Amar Dedic\n\nReasons to be fearful or cause to be cheerful? Newcastle fans among a crowd in excess of 39,000 at St James’ Park on Saturday had much to debate as they headed home from a slightly underwhelming 2-1 friendly defeat byBayer Leverkusen.\n\nThe bad news is that a suddenly youthful team still coming to terms with life without this summer’s departed stars, Anthony Gordon, Sandro Tonali and Bruno Guimarães, look more than a little undercooked before Liverpool’s visit on Premier League duty next Sunday.\n\nLate last year these teams drew a Champions League group stage game in Leverkusen but since then the Germans have reconstructed a then transitional squad and Newcastle dismantled theirs.\n\nEddie Howe’s sudden departure at the end of July has left Matthias Jaissle, late of Jeddah’s Al-Ahli, to pick up the managerial pieces. Despite this defeat on a day when Leverkusen looked to be playing within themselves, the 38-year-old German is already showing a few, albeit tentative, indications that he just might be able to put one of football’s most complicated jigsaws back together.\n\nIf Malick Thiaw, Anthony Elanga and Yoane Wissa in particular appear re-energised by his coaching, Jaissle’s faith in the 17-year-old Mason Miley, the younger brother of the midfielder Lewis, was fully vindicated as the academy product shone at right-back.\n\n“Mason’s a young lad with the attitude we need; he has the right heart and the right quality,” said Jaissle as he sipped an energy drink intended to replace the body’s lost electrolytes. If only he could find such a simple solution to filling the missing links left by Gordon, Tonali and Guimarães.\n\nAt least Dan Burn is still around and will be Newcastle’s captain, with Joelinton as his deputy. The Brazilian, though, is injured and will miss the Liverpool game, while Burn was not involved here as Jaissle split his squad in two during a weekend that features another friendly here, against Strasbourg on Sunday.\n\nLeverkusen represented the new manager’s first match in charge at St James’ Park but it was hardly the ideal start. Inside a minute his team were behind.\n\nWhen Ibrahim Maza manoeuvred the ball on to his left foot in the area, Newcastle’s new goalkeeper, Lukas Hornicek, was powerless to resist the resultant shot. No matter that it was only a friendly, even Howe’s normally super-confident successor looked a little crestfallen.\n\n“It’s a big challenge,” he said. “It’s a big transition.”\n\nJaissle cut a restless figure as he prowled the home technical area, sometimes straying far too far outside its confines for the liking of match officials.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-16 @ 07:09:27 EDT",
+  "lastUpdated": "2026-08-16 @ 11:21:39 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
