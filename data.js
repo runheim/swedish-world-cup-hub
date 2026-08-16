@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Nabizada’s breakaway solo stunner edges Watford past Southampton",
-      "link": "https://www.theguardian.com/football/2026/aug/16/watford-southampton-championship-match-report"
+      "text": "⚽ Odegaard's importance, Anderson and Foden struggle - how the players rated",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Newcastle’s Matthias Jaissle looks on bright side despite lacklustre Leverkusen defeat",
-      "link": "https://www.theguardian.com/football/2026/aug/15/newcastle-matthias-jaissle-bayer-leverkusen-defeat-amar-dedic"
+      "text": "⚽ Calafiori’s fast start inspires Arsenal to big Community Shield win over Manchester City",
+      "link": "https://www.theguardian.com/football/2026/aug/16/arsenal-manchester-city-community-shield-match-report"
     }
   ],
   "timeline": {
@@ -43635,11 +43635,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5354_0",
+            "category": "england",
+            "type": "News",
+            "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
+            "bullets": [
+              "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 vic...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
+            "fullText": "Riccardo Calafiori scored his first goal for Arsenal since finding the target against Manchester United on 17 August 2025\n\nArsenal dominated Manchester City as they beat Enzo Maresca's side 3-0 in the Community Shield in the Principality Stadium.\n\nRiccardo Calafiori opened the scoring inside 30 seconds for the Premier League champions before Kai Havertz added a second with a close range header.\n\nArsenal captain Martin Odegaard then wrapped up the win with a clever finish just three minutes after the break.\n\nHere's how the players rated as the first piece of silverware of the season was lifted.\n\nStrong favourites or tougher task - will Arsenal defend their title?\n\nCommunity Shield: Reaction as Arsenal cruise to win against poor Man City\n\nWhy were Arsenal so dominant in the Community Shield?\n\nDavid Raya: A good save from Phil Foden and an excellent take from a corner in the first half. The Arsenal keeper is so good on the ball and played one memorable pass to Christos Tzolis to spark a counter-attack.7\n\nBen White: It goes under the radar how valuable a fit Ben White is to Arsenal. He's an experienced member of this team and dealt with the threat of Jeremy Doku while providing back up to Noni Madueke in attack. He produced a massive block to deny Doku when the winger was well placed to shoot in the second half.7\n\nCristhian Mosquera: A good recovery run and pass back to Raya when under pressure from Erling Haaland. Looked comfortable all game.7\n\nGabriel Magalhaes: Produced a big block as Doku tried to cross the ball. Gabriel celebrated it towards the winger and with the rest of the Arsenal back four. Kept Haaland extremely quiet.8",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5354_1",
+            "category": "england",
+            "type": "News",
+            "title": "Calafiori’s fast start inspires Arsenal to big Community Shield win over Manchester City",
+            "bullets": [
+              "For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Ars...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Arsenal seizing the lead after 24 seconds ended with Mikel Arteta’s side ­lifting the Community Shield. Arsenal eviscerated City, Riccardo Calafiori’s smart early opener after Myles Lewis-­Skelly’s brilliant pass ­seemingly leaving their opponents with irrecoverable damage. Kai Havertz doubled Arsenal’s lead on 28 ­minutes and Martin Ødegaard in effect sealed the win three minutes into the ­second half, taking great ­pleasure in ­fooling ­Gianluigi ­Donnarumma in the City goal before finishing. On this evidence, the post-Pep ­Guardiola era could be trickier than widely&nbsp;envisaged.Christos Tzolis shone on the left, playing the whole game in Cardiff. He was involved in all three goals, assisting two. No Arsenal player played more passes into the final third. It was Tzolis’s cross to switch play to Noni Madueke, one of 10 passes before Calafiori rippled the City net. Between Lewis-Skelly rolling the ball to Martin Ødegaard at kick-off and Calafiori peeling off Abdukodir Khusanov to finish, City had a single touch of the ball; Elliot Anderson intercepted Calafiori’s pass aimed at Ødegaard in the City 18-yard box. But then Madueke cushioned a header for Ben White, who tucked into midfield, and Lewis-Skelly rolled Phil Foden before releasing Calafiori goal-side of Rúben Dias with a sumptuous reverse ball. Continue reading...",
+            "fullText": "For Enzo Maresca, a miserable first meaningful game in charge of Manchester City that began with Arsenal seizing the lead after 24 seconds ended with Mikel Arteta’s side ­lifting theCommunity Shield. Arsenal eviscerated City, Riccardo Calafiori’s smart early opener after Myles Lewis-­Skelly’s brilliant pass ­seemingly leaving their opponents with irrecoverable damage. Kai Havertz doubled Arsenal’s lead on 28 ­minutes and Martin Ødegaard in effect sealed the win three minutes into the ­second half, taking great ­pleasure in ­fooling ­Gianluigi ­Donnarumma in the City goal before finishing. On this evidence, the post-Pep ­Guardiola era could be trickier than widely envisaged.\n\nChristos Tzolis shone on the left, playing the whole game in Cardiff. He was involved in all three goals, assisting two. NoArsenalplayer played more passes into the final third. It was Tzolis’s cross to switch play to Noni Madueke, one of 10 passes before Calafiori rippled the City net. Between Lewis-Skelly rolling the ball to Martin Ødegaard at kick-off and Calafiori peeling off Abdukodir Khusanov to finish, City had a single touch of the ball; Elliot Anderson intercepted Calafiori’s pass aimed at Ødegaard in the City 18-yard box. But then Madueke cushioned a header for Ben White, who tucked into midfield, and Lewis-Skelly rolled Phil Foden before releasing Calafiori goal-side of Rúben Dias with a sumptuous reverse ball.\n\nJust like that, Arsenal were away. Calafiori was mobbed by his teammates but wagged his finger in the direction of Lewis-Skelly, high­lighting the teenager’s part in the goal. Lewis-Skelly has been offered to clubs this summer but played a central role before being replaced by Martín Zubimendi.\n\nBruno ­Guimarães, wearing the No 39 shirt, a nod to his father’s taxi number in Rio de Janeiro while growing up, but this time in Arsenal red, was busy on his debut before being replaced by Declan Rice in a planned half-time departure. Tzolis, though, was the undoubted pick of the new faces on show. Anderson was unusually overwhelmed on his first appearance since the World Cup.\n\nArsenal were game but City seemed to treat the contest as an inconvenience. Maresca felt the ­reaction to Calafiori’s goal was encouraging and they did carve out a couple of chances. David Raya got a strong right palm to an Erling Haaland shot from distance and then White made a magnificent block to prevent Haaland a simple finish after Antoine Semenyo’s cross took a kind deflection. Gabriel Magalhães celebrated wildly after a clean tackle on Jérémy Doku. As Arsenal cavorted around the pitch presenting their latest ­trophy to their supporters, squiggles of confetti in the sky, Haaland trudged down the tunnel, hands clasped behind his back.\n\nCalafiori’s early strike provided the perfect tonic for Arsenal to continue the party atmosphere that electrified their Premier League title parade across north London at the end of May. The importance of this victory will be debated, but by winning this competition, back at the ­Principality Stadium for the first time since 2006 owing to The Weeknd’s gig at ­Wembley, they put down an impressive marker as they look to build on last season’s success. City, without Rodri amid doubts over his future, with Barcelona pushing to sign the midfielder, lacked any ­semblance of control.\n\nCity had been lightly raced in comparison to their opponents – they played the first of their three pre-season matches this month in Hong Kong, while this represented ­Arsenal’s sixth outing since the World Cup – and how it showed. Arsenal were crisp in possession, clever in the way they pulled an ominously open City apart. Maresca’s side were exposed across the pitch but Donnarumma was ­particularly unconvincing in goal, at fault for Arsenal’s second, making a hash of his attempt to keep out Havertz’s header, and embarrassed for the third. ­Ødegaard delighted in feinting to shoot, sending Donna­rumma seesawing to his left, and then promptly firing in a simple finish. “Can we play you every week?” came the chant from the Arsenal support.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFor Arsenal, who begin their ­Premier League title defence at home to Coventry in Friday’s ­curtain-raiser, this impressive display will only heighten hopes of another ­blockbuster season. They seem well-equipped to fight on several fronts, though remain in the market for a centre-back, with Jarell Quansah and Ezri Konsa of interest. For City, who host Bournemouth next Sunday, there was little to whet the appetite. Semenyo was muted. Haaland’s only real sight of goal, towards the end of the first half, ended with the Norway striker sending a wayward shot wide of Raya’s net after the ball bobbled.\n\nIt was not supposed to be this easy for Arsenal. The previous three Community Shield matches had gone the distance, penalties ­deciding the ­winners. That was never on the agenda this time. Instead, ­Arsenal cruised to the biggest win in the ­competition since they beat City in 2014, when Arteta captained the side from midfield. “We want to build on what we achieved and continue to have the ambition to win major trophies,” Arteta said before the game. “That starts today.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-16 @ 11:21:39 EDT",
+  "lastUpdated": "2026-08-16 @ 14:53:54 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
