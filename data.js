@@ -4,12 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Dublin Dons? The failed attempt to bring a Premier League club to Ireland",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c05q03v8nrno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Odegaard's importance, Anderson and Foden struggle - how the players rated",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8jnnknwnd1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ ‘That’s the standard’: Mikel Arteta hails Arsenal’s desire on blue day for Maresca",
-      "link": "https://www.theguardian.com/football/2026/aug/16/mikel-arteta-arsenal-desire-enzo-maresca-community-shield"
+      "text": "⚽ Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
+      "link": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory"
     }
   ],
   "timeline": {
@@ -43756,10 +43760,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-17": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1403_0",
+            "category": "england",
+            "type": "News",
+            "title": "Dublin Dons? The failed attempt to bring a Premier League club to Ireland",
+            "bullets": [
+              "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dubli...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Just how close did an Irish consortium come to buying a Premier League team and moving them to Dublin?",
+            "fullText": "Wimbledon left their Plough Lane home in 1991 before ground-sharing with Crystal Palace\n\n\"People would be laughing now but it's something that would have worked, no doubt about it.\"\n\nThis weekend, and across each one to follow through the Premier League season, thousands will make the journey from all over the island of Ireland to take in a game from England's top flight.\n\nIndeed, despite increased interest in the league from all four corners of the globe, those making the short trip from across the Irish Sea still account for the greatest number of travelling supporters each season.\n\nSuch is the fixation with all things Premier League that the 75,000 fans who packed a sold-out Croke Park for last week's friendly betweenManchester UnitedandLeedsrepresented a record crowd for any football match in the Republic of Ireland.\n\nEarlier in the month,Arsenalalso drew a huge crowd to the Aviva Stadium for their own friendly with Real Betis.\n\nBut what if such occasions were a fortnightly norm rather than summer one-offs? Well, three decades ago an outlandish plan asked that very question.\n\nA crowd of 75,000 watched Manchester United play Leeds in a pre-season friendly at Croke Park this month\n\nIt started with an innocuous report in a Sunday broadsheet. The newspaper told of Wimbledon chairman Sam Hammam's fractious relationship with Merton Council and the ongoing struggle to come to an arrangement over a permanent home for the club.\n\nHammam had bought the club in 1981 but, with plans for an all-seater stadium in Merton having come to nothing, they had been ground-sharing withCrystal Palacesince 1991, a situation that suited neither landlord nor tenant.\n\n\"We'd always get dog's abuse off Palace fans calling us squatters,\" recalled Kenny Cunningham, the Dublin-born full-back who joined the club from Millwall in 1994.\n\n\"There wasn't a huge amount of respect there, I don't think. A bit tongue in cheek maybe, but I think they meant it.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1403_1",
+            "category": "england",
+            "type": "News",
+            "title": "Odegaard's importance, Anderson and Foden struggle - how the players rated",
+            "bullets": [
+              "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 vic...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Arsenal and Man City's players rated following the Premier League champions' comfortable 3-0 victory over the FA Cup winners in the Community Shield.",
+            "fullText": "Riccardo Calafiori scored his first goal for Arsenal since finding the target against Manchester United on 17 August 2025\n\nArsenal dominated Manchester City as they beat Enzo Maresca's side 3-0 in the Community Shield in the Principality Stadium.\n\nRiccardo Calafiori opened the scoring inside 30 seconds for the Premier League champions before Kai Havertz added a second with a close range header.\n\nArsenal captain Martin Odegaard then wrapped up the win with a clever finish just three minutes after the break.\n\nHere's how the players rated as the first piece of silverware of the season was lifted.\n\nStrong favourites or tougher task - will Arsenal defend their title?\n\nCommunity Shield: Reaction as Arsenal cruise to win against poor Man City\n\nWhy were Arsenal so dominant in the Community Shield?\n\nDavid Raya: A good save from Phil Foden and an excellent take from a corner in the first half. The Arsenal keeper is so good on the ball and played one memorable pass to Christos Tzolis to spark a counter-attack.7\n\nBen White: It goes under the radar how valuable a fit Ben White is to Arsenal. He's an experienced member of this team and dealt with the threat of Jeremy Doku while providing back up to Noni Madueke in attack. He produced a massive block to deny Doku when the winger was well placed to shoot in the second half.7\n\nCristhian Mosquera: A good recovery run and pass back to Raya when under pressure from Erling Haaland. Looked comfortable all game.7\n\nGabriel Magalhaes: Produced a big block as Doku tried to cross the ball. Gabriel celebrated it towards the winger and with the rest of the Arsenal back four. Kept Haaland extremely quiet.8",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1403_2",
+            "category": "england",
+            "type": "News",
+            "title": "Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
+            "bullets": [
+              "Morgan Rogers is convinced Chelsea can once again compete for the top trophies and says he and Cole ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Morgan Rogers is convinced Chelsea can once again compete for the top trophies and says he and Cole Palmer know exactly how to play together.",
+            "fullText": "Morgan Rogers unfazed by price tag and confident of forming effective partnership with Cole Palmer; watch full interview on Premier League Show from 5pm on Sky Sports News;Chelsea visit Fulham in the first Monday Night Football of the season on August 24, kick-off 8pm",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-16 @ 22:36:23 EDT",
+  "lastUpdated": "2026-08-17 @ 07:14:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
