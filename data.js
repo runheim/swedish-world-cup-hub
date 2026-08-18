@@ -4,12 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Guardiola-Walker fallout revealed in new documentary",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Aston Villa agree deal for West Ham's Wan-Bissaka",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Kane set to begin talks over new Bayern contract",
       "link": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Guardiola-Walker fallout revealed in new documentary",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Transfer roundup: Dedic completes £29.5m Newcastle move, Wan-Bissaka loaned to Villa",
+      "link": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
+    },
+    {
+      "text": "⚽ Lakers governer Buss contesting siblings' plans to sell ownership stake",
+      "link": "https://www.skysports.com/nba/news/12040/13574406/los-angeles-lakers-jeanie-buss-contests-siblings-plans-to-sell-ownership-stake-to-josh-kushner-and-bob-iger"
     },
     {
       "text": "⚽ Sky Sports and The Fast and the Curious announce new partnership",
@@ -44196,11 +44208,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0602_0",
+            "category": "england",
+            "type": "News",
+            "title": "Aston Villa agree deal for West Ham's Wan-Bissaka",
+            "bullets": [
+              "Latest update from BBC Sport.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from BBC Sport covering the England national football team.",
+            "fullText": "Aaron Wan-Bissaka has also played for Manchester United and Crystal Palace\n\nAston Villahave agreed a deal sign West Ham defender Aaron Wan-Bissaka.\n\nThe DR Congo right-back will join on an initial loan deal with an obligation to buy at the end of the season.\n\nWan-Bissaka has been given permission to travel for a medical in the Midlands but the exact terms are not known, with the Hammers having previously asked interested clubs to pay a Â£25m fee.\n\nThe 28-year-old has missed Championship club West Ham's first two matches of the season during negotiations.\n\nWest Ham have sold Mateus Fernandes toTottenhamfor Â£85m and Crysencio Summerville for Â£60m this summer, but captain Jarrod Bowen has signed a new contract.\n\nVilla, meanwhile, have also had a busy summer in the transfer market, most notably selling Morgan Rogers toChelseafor Â£117m.\n\nThey currently have the lowest net spend in the Premier League, at about Â£110m after sales are taken into account.\n\nDespite that, Villa have signed midfielders Johan Manzambi and Joao Gomes, as well asChelseawinger Alejandro Garnacho on a loan deal with an obligation to buy. They have also added highly rated young centre-back Modou Keba Cisse.\n\nVilla begin their Premier League campaign atBrightonon Sunday (14:00 BST) and will also compete in the Champions League after finishing fourth and winning the Europa League under Unai Emery last season.\n\nSubscribe and listen for everything you love about Villa",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0602_1",
+            "category": "england",
+            "type": "News",
+            "title": "Kane set to begin talks over new Bayern contract",
+            "bullets": [
+              "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions.",
+            "fullText": "Kane has scored 146 goals in 147 games in all competitions for Bayern Munich\n\nHarry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions.\n\nThe 33-year-old striker has entered the final 12 months of the four-year deal he signed after his Â£86.4m move from Tottenham Hotspur in August 2023.\n\nKane scored 61 goals in 51 appearances in all competitions for Bayern last season as Vincent Kompany's side completed a league and cup double.\n\n\"We obviously said we wanted to talk after the World Cup and after my holiday. So I'm not sure exactly when, but they'll start this week, next week... we'll start those talks,\" Kane said.\n\n\"Like I've said before, we're calm, I think they're calm with the situation.\n\n\"Obviously now is the time to start talking, because there's only a year left. That's important. But both sides are relaxed, and I'm pretty sure there'll be some talks this week or next week.\"\n\nThe England captain has scored 98 goals in 94 games across three Bundesliga campaigns, and has won three successive Bundesliga Golden Boot awards.\n\nKane scored six goals for England at the 2026 World Cup, becoming England's all-time leading World Cup scorer with 14 goals in 18 appearances.\n\nHe is among the favourites to win the 2026 Ballon d'Or, but insisted he is focused on the upcoming season.\n\n\"The Ballon d'Or is as big as it gets, from an individual point of view,\" he said.\n\n\"I know I had a great season last season, but the focus is on this new season.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0603_2",
+            "category": "england",
+            "type": "News",
+            "title": "Guardiola-Walker fallout revealed in new documentary",
+            "bullets": [
+              "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
+            "fullText": "A new documentary series reveals details of Guardiola's final two seasons at Manchester City, including a bust-up with captain Kyle Walker\n\nA new documentary shows the momentManchester Citymanager Pep Guardiola told his players that he was \"incredibly sad\" that captain Kyle Walker had asked to leave the club.\n\nIn an emotional scene, the Spanish manager is also shown telling the players \"you cannot behave\" the way Walker did.\n\nFormer City defender Walker joined AC Milan on loan in January 2025, after asking his manager if he could leave the club for a fresh challenge.\n\nA new Amazon Prime documentary series following Guardiola's final two years at the club captures the manager addressing his team just days after the defender's departure.\n\n\"So sad, what happened with Kyle,\" he says, before a home match withChelsea.\n\n\"It was so easy for him to come to me [and say] 'I'm tired'. But you cannot behave as a captain the way he has done it. You cannot, in the toughest moments in our lives.\n\n\"What did you do my friends? What did you do with your captain? Tell me, what did you do?\"\n\nWhile it is not clear what specific behaviour from his captain Guardiola is referring to, one scene does capture an argument between the pair followinga loss at Anfield in December 2024, during which Walker was at fault for losing the ball to Luis Diaz before the formerLiverpoolwinger won a penalty.\n\n\"Kyle has to know that if you lose the ball it's a goal,\" Guardiola tells his dressing room afterwards, which draws an angry reaction from the defender, who says: \"Every meeting, it's my name\".\n\nGuardiola's response was to say: \"Maybe because you're a captain.\"\n\nWalker replies: \"OK. You didn't want me to be your captain\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0603_3",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer roundup: Dedic completes £29.5m Newcastle move, Wan-Bissaka loaned to Villa",
+            "bullets": [
+              "Right-back worked with Matthias Jaissle at RB SalzburgGuglielmo Vicario completes loan move to Juven...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Right-back worked with Matthias Jaissle at RB SalzburgGuglielmo Vicario completes loan move to JuventusThe chance to be reunited with Matthias Jaissle convinced Amar Dedic to swap Benfica for Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent summer on Tyneside and the 24-year-old Bosnia and Herzegovina international is likely to start at right‑back at home to Liverpool on Sunday.“Working with Matthias again was a big factor for me,” said Dedic, who played for Newcastle’s new manager at RB Salzburg. “We know each other well; he knows what I can bring to the pitch and I’m really happy to play for him again. It’s a special feeling and a real honour to join Newcastle.” Continue reading...",
+            "fullText": "Right-back worked with Matthias Jaissle at RB Salzburg\n\nThe chance to be reunited with Matthias Jaissle convinced Amar Dedic to swapBenficafor Newcastle in a £29.5m transfer. Dedic becomes Newcastle’s sixth signing of a turbulent summer on Tyneside and the 24-year-old Bosnia and Herzegovina international is likely to start at right‑back at home to Liverpool on Sunday.\n\n“Working with Matthias again was a big factor for me,” said Dedic, who played for Newcastle’s new manager at RB Salzburg. “We know each other well; he knows what I can bring to the pitch and I’m really happy to play for him again. It’s a special feeling and a real honour to join Newcastle.”\n\nWith Tino Livramento still recovering from a calf injury, Newcastle’s lack of senior right-backs has been highlighted in pre-season and, soon after replacing Eddie Howe this month, Jaissle advised club executives that Dedic could fill the void. It helps that a defender also comfortable at left-back understands the German’s playing philosophy.\n\nNewcastle are also talking to Manchester City about the possibility of signing the midfielder Nico González, having lost Sandro Tonali and Bruno Guimarães.\n\nAston Villahave agreed a deal with West Ham to sign Aaron Wan-Bissaka on loan with an option to make his move permanent at the end of the season. Villa had an initial offer to take Wan-Bissaka on a straight loan rejected by West Ham. The DR Congo defender will provide Unai Emery with cover for Matty Cash. Villa are also hoping to sign João Palhinha and remain in talks with Bayern Munich over the Portugal midfielder.\n\nJuventusconfirmed they have signed Guglielmo Vicario fromTottenhamon a season-long loan. The deal includes an option for Juve to make the goalkeeper’s move permanent at the end of ​the season, ‌Tottenham said. Vicario, ‌29, joined Spurs from Empoli ‌in 2023 and has made 117 appearances for the north London club. He was part of the side ‌that won the Europa League in 2025, ending the ​club’s 17-year wait for a major trophy, but lost his place to Antonin Kinsky after the arrival of Roberto De Zerbi as manager in March.\n\nSunderlandwere set to announce their acquisition of a new left-back after fending off competition from Roma and Newcastle to win the race to sign the Toulouse defender Dayann Methalie for £25.6m, but that transfer was on hold on Tuesday night after it emerged that the 20-year-old had failed part of his medical. Sunderland’s specialists are believed to have detected a potential back problem and the defender has now returned to Toulouse, where an independent French consultant is set to examine him.\n\nA France Under-21s international, Metahlie made 28 Ligue One appearances last season and has been lined up to compete with Reinildo for a place in Régis Le Bris’s starting XI. Methalie, who had been about to sign a five-year contract at the Stadium of Light, is also comfortable operating as a left-sided central defender or wingback.\n\nHarry Kane, meanwhile, has said “now is the time to start talking” about signing a new deal atBayern Munich. The 33-year-old is entering the last season of his initial four-year deal at the Bundesliga champions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0603_4",
+            "category": "england",
+            "type": "News",
+            "title": "Lakers governer Buss contesting siblings' plans to sell ownership stake",
+            "bullets": [
+              "Los Angeles Lakers governor Jeanie Buss is contesting her siblings' plans to sell the family's remai...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Los Angeles Lakers governor Jeanie Buss is contesting her siblings' plans to sell the family's remaining 17.8 per cent ownership stake in the team.",
+            "fullText": "Josh Kushner, the brother of US President Donald Trump's son-in-law Jared, and former Disney chief executive Bob Iger agreed a deal to buy the controlling interest in the Los Angeles Lakers at a valuation of $12.5 billion (£9.3bn) - a record for a professional sports team",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0603_5",
+            "category": "england",
+            "type": "News",
+            "title": "Sky Sports and The Fast and the Curious announce new partnership",
+            "bullets": [
+              "Sky Sports and The Fast and the Curious have announced a new long-term strategic partnership, ahead ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sky Sports and The Fast and the Curious have announced a new long-term strategic partnership, ahead of Formula 1's return to action this weekend with the Dutch Grand Prix.",
+            "fullText": "The partnership between The Fast and the Curious podcast and Sky Sports will create further opportunities to tell the stories behind F1 and bring listeners closer to the action than ever before;watch the Dutch Grand Prix Sprint weekend live on Sky Sports F1 from Friday",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-18 @ 11:31:44 EDT",
+  "lastUpdated": "2026-08-18 @ 15:06:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
