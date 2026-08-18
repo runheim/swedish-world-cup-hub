@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Hear the Mexican goal roar - from the Allsvenskan: \"Goooool!\"",
+      "link": "https://www.svt.se/sport/fotboll/hor-mexikanska-malvralet-fran-derbykanonen-goooool"
+    },
+    {
       "text": "⚽ Isak Bjerkebo has snubbed bids: \"Be very clear\"",
       "link": "https://www.svt.se/sport/fotboll/isak-bjerkebo-har-nobbat-bud-var-valdigt-tydlig"
     }
@@ -17261,10 +17265,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-18": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2823_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Hear the Mexican goal roar - from the Allsvenskan: \"Goooool!\"",
+            "bullets": [
+              "Mexican goal roars from the Allsvenskan complete hits often get a lot of attention from the fans. No...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Mexican goal roars from the Allsvenskan complete hits often get a lot of attention from the fans. Not least the latest – in connection with the Stockholm derby. - That's my style, says Giancarlo Garcia, commentator on Azteca Deportes Network, in SVT's Fotbollsstudion.",
+            "fullText": "Mexican goal roars from the Allsvenskan complete hits often get a lot of attention from the fans.\n\nNot least the latest – in connection with the Stockholm derby.\n\n- That's my style, says Giancarlo Garcia, commentator on Azteca Deportes Network, in SVT's Fotbollsstudion.\n\nA couple of years ago, Allsvenskan began to be broadcast in Mexico and several excerpts from the commentary have since been widely distributed.\n\nOne of the main characters behind? Commentator Giancarlo Garcia.\n\n- I don't really know why we started commenting on the Allsvenskan, he says in SVT's Fotbollstudion.\n\n- Here we are impressed by the level, the clubs, the history and the atmosphere in the Allsvenskan. It's a physical league, you have to fight for every ball.\n\nGiancarlo Garcia commented, for example, on Linus Carlstrand's goal for AIK in the Stockholm derby against Djurgården last weekend.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2829_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak Bjerkebo has snubbed bids: \"Be very clear\"",
+            "bullets": [
+              "Success with series leader Sirius. Interest in Isak Bjerkebo, 23, is great - and an offer has reache...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Success with series leader Sirius. Interest in Isak Bjerkebo, 23, is great - and an offer has reached the star. - There was nothing that suited me, he says in SVT's Fotbollsstudion.",
+            "fullText": "Interest in Isak Bjerkebo, 23, is great - and an offer has reached the star.\n\n- There was nothing that suited me, he says in SVT's Fotbollsstudion.\n\nSee and hear Isak Bjerkebo about the future in the player above.\n\nSirius tops the Allsvenskan table, largely thanks to the offensive duo Robbie Ure and Isak Bjerkebo.\n\nThe former has already been sold to Sevilla for a record sum of around SEK 100 million, according to information.\n\nBut what will happen to winger Bjerkebo, noted for 13 goals and 9 assists, then?\n\n- I have received an offer. I don't even know if Sirius had time to take that into account, but I was clear (that I didn't want to), says the 23-year-old in SVT's Fotboll:sstudion.\n\nFor a move to happen, something special, career-wise, is required.\n\n- It should benefit both (Sirius too). If Sirius gets something on the table that they like, then I get to take that into consideration as well.\n\nBjerkebo has previously represented teams such as Kalmar and Varberg. He joined Sirius in 2025.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-17 @ 22:32:45 EDT",
+  "lastUpdated": "2026-08-18 @ 07:28:29 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
