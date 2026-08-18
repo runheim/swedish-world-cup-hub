@@ -8,16 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c62xj5evpjpo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Dublin Dons? The failed attempt to bring a Premier League club to Ireland",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c05q03v8nrno?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
       "link": "https://www.theguardian.com/football/2026/aug/17/sebastien-pocognoli-scotland-football-daily-newsletter"
     },
     {
-      "text": "⚽ Rogers on playing with 'artist' Palmer and getting Chelsea back to the top",
-      "link": "https://www.skysports.com/football/news/12040/13572952/chelseas-morgan-rogers-relishing-prospect-of-playing-with-cole-palmer-as-he-targets-premier-league-and-champions-league-glory"
+      "text": "⚽ Sky Sports and The Fast and the Curious announce new partnership",
+      "link": "https://www.skysports.com/f1/news/12040/13574066/the-fast-and-the-curious-sky-sports-announces-new-partnership-ahead-of-f1s-return-to-action-at-dutch-gp"
     }
   ],
   "timeline": {
@@ -44085,10 +44081,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-18": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1403_0",
+            "category": "england",
+            "type": "News",
+            "title": "Guardiola-Walker fallout revealed in new documentary",
+            "bullets": [
+              "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A new documentary series about Pep Guardiola's final two seasons at Manchester City reveals the bust-up he had with former captain Kyle Walker.",
+            "fullText": "A new documentary series reveals details of Guardiola's final two seasons at Manchester City, including a bust-up with captain Kyle Walker\n\nA new documentary shows the momentManchester Citymanager Pep Guardiola told his players that he was \"incredibly sad\" that captain Kyle Walker had asked to leave the club.\n\nIn an emotional scene, the Spanish manager is also shown telling the players \"you cannot behave\" the way Walker did.\n\nFormer City defender Walker joined AC Milan on loan in January 2025, after asking his manager if he could leave the club for a fresh challenge.\n\nA new Amazon Prime documentary series following Guardiola's final two years at the club captures the manager addressing his team just days after the defender's departure.\n\n\"So sad, what happened with Kyle,\" he says, before a home match withChelsea.\n\n\"It was so easy for him to come to me [and say] 'I'm tired'. But you cannot behave as a captain the way he has done it. You cannot, in the toughest moments in our lives.\n\n\"What did you do my friends? What did you do with your captain? Tell me, what did you do?\"\n\nWhile it is not clear what specific behaviour from his captain Guardiola is referring to, one scene does capture an argument between the pair followinga loss at Anfield in December 2024, during which Walker was at fault for losing the ball to Luis Diaz before the formerLiverpoolwinger won a penalty.\n\n\"Kyle has to know that if you lose the ball it's a goal,\" Guardiola tells his dressing room afterwards, which draws an angry reaction from the defender, who says: \"Every meeting, it's my name\".\n\nGuardiola's response was to say: \"Maybe because you're a captain.\"\n\nWalker replies: \"OK. You didn't want me to be your captain\".",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1404_1",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Pocognoli looks the part as Scotland’s new boss but a question remains: can he boogie?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!When Berti Vogts was unveiled as Scotland’s first...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!When Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002, he had a simple instruction. “When we are playing,” he said, “you can call me Berti McVogts!” Scotland fans preferred a slightly courser sobriquet when, six months later, Scotland went 2-0 down to the Faroe Islands before scrambling a 2-2 draw. Vogts left after two-and-a-half ultimately unsuccessful years, and since then Scotland have preferred homegrown managers. But it’s good to try everything twice, except maybe Gigli, and the Scottish FA has appointed one of European football’s most interesting young managers: Sébastien Pocognoli, who was unveiled at a press conference on Monday.Watching Manchester City under new management for the first time, it’s kind of spooky how much Enzo Maresca channels the ghost of Pep Guardiola on the touchline. Except they are losing” – Chris Jersan.Dave Hill’s letter [Friday’s Football Daily] made me feel old. My immediate reaction was: ‘Too much money sloshing around at the top; there should be a salary cap.’ Then I realised that I could just about remember the campaign for a minimum wage for footballers. All in the span of one lifetime” – Trevor Townson.Re: your mention in Friday’s Football Daily of Graeme Souness being sent off in the first half of his first game as Rangers player-manager v Hibs. This event led to pubs popular with Celtic fans in the east end of Glasgow being inundated with requests for a new drink: ‘I’ll have a Souness please … mine’s a half and then I’m off’” – Danny Sullivan.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nWhen Berti Vogts was unveiled as Scotland’s first foreign manager, back in 2002,he had a simple instruction. “When we are playing,” he said, “you can call me Berti McVogts!” Scotland fans preferred a slightly courser sobriquet when, six months later, Scotland went 2-0 down to the Faroe Islands beforescrambling a 2-2 draw. Vogts left after two-and-a-half ultimately unsuccessful years, and since then Scotland have preferred homegrown managers. But it’s good to try everything twice, except maybeGigli, and the Scottish FA has appointed one of European football’s most interesting young managers: Sébastien Pocognoli, who wasunveiled at a press conferenceon Monday.\n\nIt’s 2026, not 2002, and the way to win people over is with a PowerPoint presentation rather than a cheesy pun. So even though Pocognoli’s middle name, Jean, gave him a bit of a portmanteau open goal, he didn’t ask to be called Jockognoli. Pocognoli, 39, is a former Belgium international who played for West Brom and Brighton. He had a glorious start to his senior coaching career in 2024-25 when he led Union Saint-Gilloise to their first Belgian title since 1935. His head was soon hunted by Monaco, who dispensed it in the summer after a disappointing season. Although Monaco finished seventh, their lowest position since 2019-20, Pocognoli’s win percentage of 42 wasn’t a complete affront to the memory of Tim Sherwood.\n\n“I’m very proud to be here,” roared Pocognoli. “Scotland is a passionate country and I think also, regarding the strong foundation that Steve Clarke and his staff did, that I can use this heritage to put the next accent in the style of play while also developing players for the future.” Pocognoli looked the part: sharp suit, art-dealer haircut, beard that has been through at least three focus groups to find the optimum length. He looked a bit like a cross between Diego Simeone and Gerard Piqué, which would be a helluva style of play to master.\n\n“Since negotiations began, I have been doing a lot of research, asking a lot of questions and looking at areas that we can build on,” continued Pocognoli, who confirmed that Barry Can’t Swim and Limmy would be joining his coaching staff. Craig Mulholland, the SFA’s chief football suit, said Pocognoli “will bring an aggressive, front-foot style of play that will excite supporters”. For all the Scotland fans who wanted to feel their pulse while watching Clarke’s side, the next few years will provide either told-you-so validation or football’s latest reminder that you should be careful what you wish for.\n\n“FIRST TIME EVER. Game delayed due to a child who’s scootered their way on to the pitch. Fair play to the Rangers manager for stopping the game and Charlie Elliott taking her back to her parent” –Montrose FC’s liveupdates on their SPWPL opener against Rangers – a 4-1 win for the Glaswegians – were briefly interrupted by news of a rogue fan with absolutely zero respect for the rules.\n\ndouble quotation markWatching Manchester City under new management for the first time, it’s kind of spooky how much Enzo Maresca channels the ghost of Pep Guardiola on the touchline. Except they are losing” – Chris Jersan.\n\ndouble quotation markDave Hill’s letter [Friday’s Football Daily] made me feel old. My immediate reaction was: ‘Too much money sloshing around at the top; there should be a salary cap.’ Then I realised that I could just about remember the campaign for aminimumwage for footballers. All in the span of one lifetime” – Trevor Townson.\n\ndouble quotation markRe: your mention in Friday’s Football Daily of Graeme Souness being sent off in the first half of his first game as Rangers player-manager v Hibs. This event led to pubs popular with Celtic fans in the east end of Glasgow being inundated with requests for a new drink: ‘I’ll have a Souness please … mine’s a half and then I’m off’” – Danny Sullivan.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day winner is … Danny Sullivan. Terms and conditions for our competitions can be viewedhere.\n\nFootball Weekly is here, baby! Inaudioandvideoform.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1404_2",
+            "category": "england",
+            "type": "News",
+            "title": "Sky Sports and The Fast and the Curious announce new partnership",
+            "bullets": [
+              "Sky Sports and The Fast and the Curious have announced a new long-term strategic partnership, ahead ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sky Sports and The Fast and the Curious have announced a new long-term strategic partnership, ahead of Formula 1's return to action this weekend with the Dutch Grand Prix.",
+            "fullText": "The partnership between The Fast and the Curious podcast and Sky Sports will create further opportunities to tell the stories behind F1 and bring listeners closer to the action than ever before;watch the Dutch Grand Prix Sprint weekend live on Sky Sports F1 from Friday",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-17 @ 22:31:40 EDT",
+  "lastUpdated": "2026-08-18 @ 07:14:04 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
