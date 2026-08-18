@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Gio Reyna and Weston McKennie log impressive training sessions",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Scouts monitor USA's wide pressing lanes and transition speed",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Jeff Bezos consortium could be majority Liverpool shareholder within a year",
+      "link": "https://www.theguardian.com/football/2026/aug/18/jeff-bezos-liverpool-1892-holdings-fenway-bid"
     }
   ],
   "timeline": {
@@ -12868,11 +12852,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2345_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Jeff Bezos consortium could be majority Liverpool shareholder within a year",
+            "bullets": [
+              "1892 Holdings has first refusal if FSG opts to sellGroup paid more than £2bn for initial 38% slice o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "1892 Holdings has first refusal if FSG opts to sellGroup paid more than £2bn for initial 38% slice of club1892 Holdings, the new investor in Liverpool, has first refusal to become the majority shareholder in the next 12 months should Fenway Sports Group decide to sell.The consortium led by Amit Bhatia and including the Amazon founder Jeff Bezos was believed to have bought 30% to one-third of Liverpool when the deal was announced on Friday. However, the agreement is for 38% of the Anfield club, meaning 1892 has paid FSG just over £2bn to become a minority shareholder. The increased stake, first reported by the Athletic, still values Liverpool at about&nbsp;£5.5bn. Continue reading...",
+            "fullText": "1892 Holdings has first refusal if FSG opts to sell\n\nGroup paid more than £2bn for initial 38% slice of club\n\n1892 Holdings, the new investor in Liverpool, has first refusal to become the majority shareholder in the next 12 months shouldFenway Sports Groupdecide to sell.\n\nThe consortium led by Amit Bhatia and including the Amazon founderJeff Bezoswas believed to have bought 30% to one-third of Liverpool when the deal was announced on Friday. However, the agreement is for 38% of the Anfield club, meaning 1892 has paid FSG just over £2bn to become a minority shareholder. The increased stake, first reported by the Athletic, still values Liverpool at about £5.5bn.\n\nFSG also insisted on Friday the deal with 1892 was not part of an exit strategy from a club it bought for £300m in 2010 and it was not compelled to sell more ofLiverpoolto the consortium at a future date. That remains the case but should FSG decide to sell or reduce its shareholding in the next 12 months, then 1892 has an agreement in place that gives it the option to buy a controlling stake.\n\nLiverpool’s majority owner has stressed it is an option for 1892 over the next 12 months, one that could lead to further investment, and is not a formal commitment on its part. FSG remains in operational control of Liverpool. But it does raise the possibility of Bezos, Bhatia and the Facebook co-founder Eduardo Saverin, another billionaire member of the consortium, replacing FSG as Liverpool’s majority shareholders in the near future.\n\nBezos, one of the richest men in the world, is deemed a passive investor in Liverpool at this stage, having bought into 1892 through the K5 Sports fund, of which he is the lead investor. Bryan Baum, the co-founder and managing partner of K5 Global, will have a seat on an expanded Liverpool board alongside Bhatia as vice-chair and Elaine Saverin, wife of Eduardo. Bhatia has received financial backing from the Mittal Family Trust to buy into Liverpool. His father-in-law is the Indian steel magnate Lakshmi Mittal, another billionaire. The Mittal family are worth around $17bn and Saverin an estimated $33bn.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-18 @ 15:06:17 EDT",
+  "lastUpdated": "2026-08-18 @ 18:23:48 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
