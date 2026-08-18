@@ -49801,6 +49801,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Who saw that strike in training?! Unbelievable.",
       "time": "05:29",
       "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "12:17",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Anyone up for some darts in the games room?",
+      "time": "12:18",
+      "isCaptain": true
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who's got control of the playlist today? Needs sorting out.",
+      "time": "12:19",
+      "isCaptain": false
+    },
+    {
+      "sender": "Trent Alexander-Arnold",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "12:20",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Need a proper cup of tea before the tactical meeting.",
+      "time": "12:21",
+      "isCaptain": false
     }
   ]
 };
