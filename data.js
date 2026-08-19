@@ -4,12 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Jeff Bezos consortium could be majority Liverpool shareholder within a year",
-      "link": "https://www.theguardian.com/football/2026/aug/18/jeff-bezos-liverpool-1892-holdings-fenway-bid"
-    },
-    {
-      "text": "⚽ In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
-      "link": "https://www.theguardian.com/football/2026/aug/18/zavier-gozo-crystal-palace-mls-real-salt-lake-transfer"
+      "text": "⚽ Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
+      "link": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
     }
   ],
   "timeline": {
@@ -13001,11 +12997,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0207_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
+            "bullets": [
+              "USA striker missed no matches after sending-off‘Far too often now decisions are viewed as corrupt’Ho...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USA striker missed no matches after sending-off‘Far too often now decisions are viewed as corrupt’Howard Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the new Premier League season, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time.“I was really troubled by it,” Webb said of the reprieve for the USA striker Balogun, which followed a direct appeal from the US president, Donald Trump. “What do we know? We know for sure that a red card was shown. I understand why it was given. We know that there was pressure placed by a politician on to Fifa, because that was admitted. And we know that the suspension was taken away for that particular tournament and suspended through a process which seemingly didn’t exist before the tournament started.” Continue reading...",
+            "fullText": "‘Far too often now decisions are viewed as corrupt’\n\nHoward Webb was “really troubled” by the decision of Fifa’s disciplinary committee to suspend Folarin Balogun’s ban for a red card during the World Cup, warning of a growing belief in refereeing conspiracies among supporters. Webb, English football’s chief refereeing officer, was speaking before the newPremier Leagueseason, where, among a series of new measures, independent assessments of key refereeing decisions are to be made public for the first time.\n\n“I was really troubled by it,” Webb said of the reprieve for the USA striker Balogun, whichfollowed a direct appeal from the US president, Donald Trump. “What do we know? We know for sure that a red card was shown. I understand why it was given. We know that there was pressure placed by a politician on to Fifa, because that was admitted. And we know that the suspension was taken away for that particular tournament and suspended through a process which seemingly didn’t exist before the tournament started.”\n\nWebb said the scandal would only reinforce a change that has already taken place, whereby spectators watch a referee make a mistake and see conspiracy rather than human error. “We live in a world now which is different to the one that I occupied as a referee,” he said. “Decisions were previously viewed as correct or incorrect, based on your judgment. Far too often now decisions are viewed as correct or corrupt by people who want to type all over social media. They try to draw inferences around decisions that they don’t agree with and draw a motivation behind that decision which is borne out of no facts, no evidence.”\n\nWebb’s feelings on the Balogun scandal were echoed by the chief executive of the Premier League, Richard Masters. “We should be talking about looking back on the World Cup and the football that was played, and Spain being obviously the best team and England’s agonising semi-final defeat,” Masters said. “We’re not. We’re talking about other issues. I think that’s a huge shame. The Balogun issue … is very difficult to comprehend really when you look at it.”\n\nEnglish football’s refereeing body has announced a series of measures and targets for the new season, including a rebrand. Now known as Pro Ref, it has committed to publish each week the assessments of an independent key match incident (KMI) panel, which assesses the biggest decisions taken by Premier League referees. As reported by the Guardian, Pro Ref will alsopublish audio of conversationsbetween referees and players during matches, and it will continue to use X to publish real-time information during games.\n\nPro Ref has expanded the pool of specialist video assistant referees working at Stockley Park as it seeks to reduce the length of time taken on interventions – which averaged 41 seconds last season – and eliminate incidents where VARs intervene and should not. “I’d rather have missed interventions than over-interventions,” Webb said. “I’d rather VAR not get involved wrongly to rectify something that wasn’t wrong in the first place, because that’s a damaging effect on the game.” In a further attempt to improve the speed of decision-making, the protocol behind semi-automatic offside technology has also been streamlined.\n\nKick off your evenings with the Guardian's take on the world of football\n\nWebb said fans and players alike can also expect to see more penalties awarded for holding at set pieces. “More situations will be penalised, not only in August or September, but throughout the season,” Webb said. “[But] I’m not going to commit to say we’re going to go from here to penalising lots of contact. Contact is still part of the game, we still maintain a high threshold, but this time next year, all being well, we’ll be able to reflect on a season where more offences have been penalised.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 11:31:13 EDT",
+  "lastUpdated": "2026-08-19 @ 15:02:13 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
