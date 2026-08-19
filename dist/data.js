@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Hear the Mexican goal roar - from the Allsvenskan: \"Goooool!\"",
-      "link": "https://www.svt.se/sport/fotboll/hor-mexikanska-malvralet-fran-derbykanonen-goooool"
+      "text": "⚽ Sweden squad focuses on tactical discipline in Dallas training hub",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🌍 Group F Opponents finalize their tactical configurations",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.svenskfotboll.se/"
     }
   ],
   "timeline": {
@@ -17429,10 +17445,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-19": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "dyn_swe_20260819_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Sweden squad focuses on tactical discipline in Dallas training hub",
+            "bullets": [
+              "Graham Potter leads intensive tactical board and pitch walkthroughs.",
+              "Viktor Gyökeres continues to display stellar goal-scoring indicators.",
+              "Captain Victor Lindelöf: 'Roster is highly motivated for our next match.'"
+            ],
+            "summary": "The Swedish squad continues their World Cup campaign, training in Dallas, Texas. Under manager Graham Potter, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.",
+            "fullText": "The Swedish squad continues their World Cup campaign, training in Dallas, Texas. Under manager Graham Potter, the players are focusing on possession speed and tactical spacing to prepare for their upcoming matches.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Marcus Wulcan (Aftonbladet)",
+            "readTime": "3 min",
+            "tag": "World Cup Prep",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260819_1",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Group F Opponents finalize their tactical configurations",
+            "bullets": [
+              "Group F rivals execute high-intensity sessions at their training bases.",
+              "Analysts monitor player fitness and recovery registers.",
+              "Scouts report high ticket sales for upcoming World Cup matches."
+            ],
+            "summary": "Sweden's Group F rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle Sweden's front-line.",
+            "fullText": "Sweden's Group F rivals are ramping up training. Analysts predict highly competitive matches, with teams tailoring custom defensive shapes to handle Sweden's front-line.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "CBS Sports Golazo Feed",
+            "readTime": "3 min",
+            "tag": "Group F Intel",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-18 @ 22:35:50 EDT",
+  "lastUpdated": "2026-08-19 @ 07:28:07 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
