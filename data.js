@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Aston Villa agree deal for West Ham's Wan-Bissaka",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cgr7vvpkw0eo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Arsenal pushing on with deal to sign Villa's Konsa",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Al Hilal target England's Kane - Wednesday's gossip",
+      "text": "⚽ Al-Hilal target England's Kane - Wednesday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -16,12 +16,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Transfer roundup: Dedic completes £29.5m Newcastle move, Wan-Bissaka loaned to Villa",
-      "link": "https://www.theguardian.com/football/2026/aug/18/newcastle-sign-amar-dedic-benfica-transfer-window"
+      "text": "⚽ Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+      "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
     },
     {
-      "text": "⚽ Lakers governer Buss contesting siblings' plans to sell ownership stake",
-      "link": "https://www.skysports.com/nba/news/12040/13574406/los-angeles-lakers-jeanie-buss-contests-siblings-plans-to-sell-ownership-stake-to-josh-kushner-and-bob-iger"
+      "text": "⚽ March, May and more: footballers scoring in months that match their names | The Knowledge",
+      "link": "https://www.theguardian.com/football/2026/aug/19/march-may-and-more-footballers-scoring-in-months-that-match-their-names"
+    },
+    {
+      "text": "⚽ Arsenal in advanced talks to sign Villa's Konsa",
+      "link": "https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender"
+    },
+    {
+      "text": "⚽ Rain stops play with Pakistan two down vs England at Headingley LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain"
+    },
+    {
+      "text": "⚽ Watkins keen on move to Al Hilal as talks ongoing with Villa",
+      "link": "https://www.skysports.com/football/news/12040/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker"
     }
   ],
   "timeline": {
@@ -44512,10 +44524,154 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-19": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1337_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal pushing on with deal to sign Villa's Konsa",
+            "bullets": [
+              "Arsenal refocus their efforts on negotiating a deal with Aston Villa to sign defender Ezri Konsa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal refocus their efforts on negotiating a deal with Aston Villa to sign defender Ezri Konsa.",
+            "fullText": "Konsa, who helped Villa win the Europa League, was a key player for England at the World Cup\n\nArsenalare accelerating their interest inAston Villadefender Ezri Konsa.\n\nVarious sources have indicated that there is some optimism an agreement for the England international to move to Emirates Stadium is possible.\n\nKonsa isArsenal's first choice defensive target but so far the Premier League champions have not met Villa's Â£60m valuation.\n\nBBC Sport revealed last week thatArsenalhad reopened talks with Villa over a deal for Konsa but still fell short of reaching an agreement.\n\nThe Gunners then appeared to pivot to Bayer Leverkusen's Jarrell Quansah.\n\nHowever,Arsenalhave refocused their efforts on Konsa with a sense now the deal will get completed.\n\nFresh talks over Arsenal move for Aston Villa's Konsa\n\nWhy half of England's World Cup defenders are on the move",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1337_1",
+            "category": "england",
+            "type": "News",
+            "title": "Al-Hilal target England's Kane - Wednesday's gossip",
+            "bullets": [
+              "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Ni...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
+            "fullText": "Al-Hilal in talks with Harry Kane and Ollie Watkins,Newcastleexplore move forManchester City's Nico Gonzalez,Sunderlandmove for Dayann Methalie in danger of collapsing.\n\nRepresentatives for England captain Harry Kane, 33, have held talks with Saudi Pro League sideAl-Hilal, with theBayern Munichstriker open to a move in the future. (Talksport,external)\n\nMeanwhileAston Villaand England striker Ollie Watkins, 29, has agreed personal terms withAl-Hilal, though the Saudi side are yet to submit a transfer offer to Villa.(Teamtalk),external\n\nNewcastlehave opened exploratory talks withManchester Cityover a potential move for Spanish midfielder Nico Gonzalez, 24.(The Athletic - subscription required),external\n\nSunderland'sÂ£25.7m move forToulouseand France Under-21 defender Dayann Methalie, 20, is in danger of collapsing after concerns were raised over his medical.(Daily Mail),external\n\nCoventryhave had an offer worth Â£8.5m for England midfielder Ruben Loftus-Cheek, 30, rejected byAC Milan.(Tuttosport - in Italian),external\n\nReal Sociedadhave made an approach forWest Hamand Mexico midfielder Edson Alvarez, 28, withAjaxhaving cooled their interest.(Sky Sports),external\n\nIpswichhave had a second offer rejected forBayer Leverkusenand Argentina midfielder Exequiel Palacios, 27.(Florian Plettenberg),external\n\nTottenhamare considering a move forParis St-Germainand Ukraine defender Illia Zabarnyi, 23, after selling Cristian Romero toAtletico Madrid.(Teamtalk),external\n\nLiverpooland England midfielder Curtis Jones, 25, remains a top target forInter Milan, who believe a bid of 35m euros (Â£29m) will be successful. (CaughtOffside,external)\n\nWolveshave entered the race forBrightonwinger Amario Cozier-Duberry, 21, with the England under-20 international remaining a target forRangersand former loan clubBolton. (The Argus,external)\n\nMalagaare pursuing English winger Ryan Kent, 29, who has been a free agent since leavingSeattle Soundersin January. (Fichajes - in Spanish,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1337_2",
+            "category": "england",
+            "type": "News",
+            "title": "Kane set to begin talks over new Bayern contract",
+            "bullets": [
+              "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions.",
+            "fullText": "Kane has scored 146 goals in 147 games in all competitions for Bayern Munich\n\nHarry Kane says he is ready to begin discussions with Bayern Munich over extending his contract with the Bundesliga champions.\n\nThe 33-year-old striker has entered the final 12 months of the four-year deal he signed after his Â£86.4m move from Tottenham Hotspur in August 2023.\n\nKane scored 61 goals in 51 appearances in all competitions for Bayern last season as Vincent Kompany's side completed a league and cup double.\n\n\"We obviously said we wanted to talk after the World Cup and after my holiday. So I'm not sure exactly when, but they'll start this week, next week... we'll start those talks,\" Kane said.\n\n\"Like I've said before, we're calm, I think they're calm with the situation.\n\n\"Obviously now is the time to start talking, because there's only a year left. That's important. But both sides are relaxed, and I'm pretty sure there'll be some talks this week or next week.\"\n\nThe England captain has scored 98 goals in 94 games across three Bundesliga campaigns, and has won three successive Bundesliga Golden Boot awards.\n\nKane scored six goals for England at the 2026 World Cup, becoming England's all-time leading World Cup scorer with 14 goals in 18 appearances.\n\nHe is among the favourites to win the 2026 Ballon d'Or, but insisted he is focused on the upcoming season.\n\n\"The Ballon d'Or is as big as it gets, from an individual point of view,\" he said.\n\n\"I know I had a great season last season, but the focus is on this new season.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1338_3",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+            "bullets": [
+              "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the only thing the England captain Harry Kane has been talking about recently. Well, his representatives at least. It is thought the Bayern Munich striker’s team have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.However, it’s also understood the 33-year-old wants to remain at the German club with discussions beginning on his new contract in Munich. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly. Continue reading...",
+            "fullText": "It seems the possibility of winning the Ballon d’Or is not the only thing the England captainHarry Kanehas been talking about recently. Well, his representatives at least. It is thought the Bayern Munich striker’s team have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.\n\nHowever, it’s also understood the 33-year-old wants to remain at the German club with discussions beginning on his new contract in Munich. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly.\n\nAl-Hilal are not in the market for only one England star though, they are bidding for two.Ollie Watkinsis reported to have agreed personal terms with the club, though the Saudi club have not yet officially logged a transfer bid with the 30-year-old’s current club, Aston Villa. Reports differ as to whether Al-Hilal want to bring in only one striker or more, with some claiming the club have turned to Watkins after a deal with Kane did not come to fruition. But who knows? Maybe Watkins and Kane will fight for the starting shirt.\n\nOne player who won’t be starting for Manchester United in the upcoming season isGaviwho has turned down the chance to join the Premier League club. The Spain World Cup winner wants to remain at Barcelona.\n\nUnited fans may be growing frustrated with the lack of star signings this window but concerns are not just about insufficient numbers of players coming through the doors; the Reds are also being raided. Napoli are said to be interested in the forwardJoshua Zirkzee. The Netherlands player was largely competing from the bench last season for Michael Carrick’s side.\n\nNapoli seem to have their fingers in any number of pies as they have also reached out to Chelsea aboutNicolas Jacksonas well as enquiring aboutGabriel Jesusat Arsenal. If they were to sign Jesus though they would have to sell one of the forwards in their squad before welcoming the Brazilian star.\n\nStaying in Serie A, Milan have rejected a bid from Coventry forRuben Loftus-Cheek. The newly promoted Premier League club wanted to bring the 30-year-old midfielder back to the top flight for the first time since 2023 when he played for Chelsea but an £8.5m offer was turned down by the Italian side.\n\nCircling back to the Premier League, Manchester City have lost one of their key players in Rodri, whosigned for Barcelona on Tuesday, which has left Enzo Maresca scouring his transfer options in midfield. Among the names on the new manager’s list is Crystal Palace’sAdam Wharton. The price tag for the England international is unclear, which could affect the move given City have already spent £116m on Elliot Anderson in this window.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFinally,Jack Grealishmay have been spotted atCardiff’s 1-1 draw against Wrexhamin the Championship on Monday, which sparked rumours of a move to Wales for the 30-year-old but it seems more likely that the England international will remain in the Premier League. That assumption comes after news that Everton’s chief executive, Angus Kinnear, has interest in bringing the star back to Hill Dickinson Stadium after a loan deal last season. But Grealish could also remain at his current club, Manchester City.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1338_4",
+            "category": "england",
+            "type": "News",
+            "title": "March, May and more: footballers scoring in months that match their names | The Knowledge",
+            "bullets": [
+              "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awardedMail ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awardedMail us with your all of your questions and answers“Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months?” wonders Paul Tiffen.Our wonderful readers have managed to cover the entire year, pretty much, so let’s get going. The list below includes just some of the many examples you sent in. Continue reading...",
+            "fullText": "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awarded\n\n“Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months?”wonders Paul Tiffen.\n\nOur wonderful readers have managed to cover the entire year, pretty much, so let’s get going. The list below includes just some of the many examples you sent in.\n\nJanuary“Not all last names exist for English months, so I also took month names in some other languages,” writes Mykola Kozlenko. “I only accepted exact spellings, [so] I don’t accept Auguste or Augustin for the month of August, but Agosto is fine.” As is Janvier, which gave Mykola their first goalscorer: “Nicolas Janvier. Scored on 30 January 2016 for Lannion v Rennes Reserves.”\n\nFebruary“Jayden Fevrier. Scored on 3 February 2024 for Colchester against Forest Green Rovers,” writes Mykola.\n\nMarch“In German, March is ‘März’,” writes Dirk Maas. “In the 1992-93 edition of the 2. Bundesliga,Heiko Märzscored twice in March, for Hansa Rostock against St. Pauli and Darmstadt.” Dirk also points out thatSolly March’s portfolio of goals in March includes two for Brighton in FA Cup quarter-finals: against Millwall in 2019 and Grimsby in 2023.\n\nApril“April Heinrichsscored twice for the USA on April Fools’ Day 1991 against Yugoslavia in the Grand Hotel Varna Tournament in Bulgaria,” writes Dan Almond. “She also scored on 3 April against Hungary and again in the final as the USA beat USSR 5-0.”\n\nMay“David Mayscored the opening goal in Manchester United’s final game of the 1995-96 season,” writes Sinan Eccles. “The 3-0 win against Middlesbrough at the Riverside on 5 May 1996 secured the title for United. Andy Cole and Ryan Giggs scored the others. Eric Cantona got the late winner in a 1-0 victory over Liverpool in the FA Cup final to secure United their second domestic double in three seasons.”\n\nMatt Beaumont points out thatAlfie Mayscored on 7 May 2023 for Cheltenham Town v Charlton – and then joined the Addicks two months later, leaving as Cheltenham’s record goalscorer.\n\nJuneBack to Mykola Kozlenko: “Brazil’sEdigar Junioscored on 22 June 2019 for Yokohama F Marinos against Matsumoto Yamaga in the J-League.”\n\nJulyThree goalscoring Julios in July were found by Mykola …\n\nAnderson Julio(Ecuador), 13 July 2023, Real Salt Lake v Sporting KC",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1338_5",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal in advanced talks to sign Villa's Konsa",
+            "bullets": [
+              "Arsenal are in advanced talks with Aston Villa to sign Ezri Konsa.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal are in advanced talks with Aston Villa to sign Ezri Konsa.",
+            "fullText": "Ezri Konsa has two years remaining on his Aston Villa contract; Arsenal also held an interest in Jarell Quansah but look set to move for Konsa; Arsenal currently have William Saliba and Jurrien Timber out injured",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1339_6",
+            "category": "england",
+            "type": "News",
+            "title": "Rain stops play with Pakistan two down vs England at Headingley LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "England face Pakistan at Headingley (August 19-23) before further Tests at Lord's (August 27-31) and Edgbaston (September 9-13); Joe Root back as permanent captain following Ben Stokes' international retirement; Marcus Trescothick interim coach with Stephen Fleming taking over in winter",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1339_7",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins keen on move to Al Hilal as talks ongoing with Villa",
+            "bullets": [
+              "Al Hilal are in talks with Aston Villa over a deal to sign striker Ollie Watkins, who is keen on the...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Al Hilal are in talks with Aston Villa over a deal to sign striker Ollie Watkins, who is keen on the move.",
+            "fullText": "England striker Ollie Watkins being targeted as potential replacement for Karim Benzema but Al Hilal have had one offer already knocked back; Watkins scored 16 goals in Premier League last season for Aston Villa and earned a spot in Thomas Tuchel's England squad for World Cup",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-18 @ 22:34:25 EDT",
+  "lastUpdated": "2026-08-19 @ 07:13:39 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
