@@ -12961,11 +12961,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3108_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Jeff Bezos consortium could be majority Liverpool shareholder within a year",
+            "bullets": [
+              "1892 Holdings has first refusal if FSG opts to sellGroup paid more than £2bn for initial 38% slice o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "1892 Holdings has first refusal if FSG opts to sellGroup paid more than £2bn for initial 38% slice of club1892 Holdings, the new investor in Liverpool, has first refusal to become the majority shareholder in the next 12 months should Fenway Sports Group decide to sell.The consortium led by Amit Bhatia and including the Amazon founder Jeff Bezos was believed to have bought 30% to one-third of Liverpool when the deal was announced on Friday. However, the agreement is for 38% of the Anfield club, meaning 1892 has paid FSG just over £2bn to become a minority shareholder. The increased stake, first reported by the Athletic, still values Liverpool at about&nbsp;£5.5bn. Continue reading...",
+            "fullText": "1892 Holdings has first refusal if FSG opts to sell\n\nGroup paid more than £2bn for initial 38% slice of club\n\n1892 Holdings, the new investor in Liverpool, has first refusal to become the majority shareholder in the next 12 months shouldFenway Sports Groupdecide to sell.\n\nThe consortium led by Amit Bhatia and including the Amazon founderJeff Bezoswas believed to have bought 30% to one-third of Liverpool when the deal was announced on Friday. However, the agreement is for 38% of the Anfield club, meaning 1892 has paid FSG just over £2bn to become a minority shareholder. The increased stake, first reported by the Athletic, still values Liverpool at about £5.5bn.\n\nFSG also insisted on Friday the deal with 1892 was not part of an exit strategy from a club it bought for £300m in 2010 and it was not compelled to sell more ofLiverpoolto the consortium at a future date. That remains the case but should FSG decide to sell or reduce its shareholding in the next 12 months, then 1892 has an agreement in place that gives it the option to buy a controlling stake.\n\nLiverpool’s majority owner has stressed it is an option for 1892 over the next 12 months, one that could lead to further investment, and is not a formal commitment on its part. FSG remains in operational control of Liverpool. But it does raise the possibility of Bezos, Bhatia and the Facebook co-founder Eduardo Saverin, another billionaire member of the consortium, replacing FSG as Liverpool’s majority shareholders in the near future.\n\nBezos, one of the richest men in the world, is deemed a passive investor in Liverpool at this stage, having bought into 1892 through the K5 Sports fund, of which he is the lead investor. Bryan Baum, the co-founder and managing partner of K5 Global, will have a seat on an expanded Liverpool board alongside Bhatia as vice-chair and Elaine Saverin, wife of Eduardo. Bhatia has received financial backing from the Mittal Family Trust to buy into Liverpool. His father-in-law is the Indian steel magnate Lakshmi Mittal, another billionaire. The Mittal family are worth around $17bn and Saverin an estimated $33bn.\n\nThe best public interest journalism relies on first-hand accounts from people in the know. If you have something to share on this subject, you can contact us confidentially using the following methods:\n\nThe Guardian app has a tool to send tips about stories. Messages are end to end encrypted and concealed within the routine activity that every Guardian mobile app performs. This prevents an observer from knowing that you are communicating with us at all, let alone what is being said.\n\nIf you don’t already have the Guardian app, download it (iOS/Android) and go to the menu. Select ‘Secure Messaging’. When asked to select a recipient, select the ‘Sport (UK and Global)’ team.\n\nFinally, our guide attheguardian.com/tipslists several ways to contact us securely, and discusses the pros and cons of each.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3108_1",
+            "category": "usa",
+            "type": "News",
+            "title": "In Zavier Gozo, Crystal Palace land a US prospect living up to the hype",
+            "bullets": [
+              "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a US...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthroughFor much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day after he and Real Salt Lake teammate Diego Luna learned they wouldn’t be on Mauricio Pochettino’s squad for this summer’s World Cup, the 19-year-old Gozo admitted the rejection made him realize how close he’d gotten to earning a spot.“I thought I would be less disappointed than I was,” Gozo said in May. “Obviously, it wasn’t like I was supposed to go. I feel like I was disappointed, but I also think it just gave me so much more motivation to be able to make the first team, whenever that is.” Continue reading...",
+            "fullText": "The 19-year-old US youth international has turned heads in MLS this year, and is on the cusp of a USMNT breakthrough\n\nFor much of the past year, the story of American starlet Zavier Gozo has been one of realizing potential – even in failure. Speaking with the Guardian the day after he and Real Salt Lake teammate Diego Lunalearnedthey wouldn’t be on Mauricio Pochettino’s squad for this summer’s World Cup, the 19-year-old Gozo admitted the rejection made him realize how close he’d gotten to earning a spot.\n\n“I thought I would be less disappointed than I was,”Gozo saidin May. “Obviously, it wasn’t like I was supposed to go. I feel like I was disappointed, but I also think it just gave me so much more motivation to be able to make the first team, whenever that is.”\n\nIf it works out well, Gozo’s move to Crystal Palace could see that happen sooner than many would have anticipated a year ago. ThePremier Leagueclub finalized the transfer of Gozo from Real Salt Lake on Tuesday in a five-year deal. The agreement is reportedly worth around $15m (£11m).\n\nThe move follows one of the most rapid ascents of any American men’s prospect in recent memory.\n\nGozo joined theReal Salt Lakeacademy in 2021 at age 14, debuting with their second team, Real Monarchs, a year later. His MLS debut came in 2023, when he was still just 16. Over time, Gozo emerged as an option at right wing-back offering precocious confidence on the ball, capping his first full season with RSL with four goals and three assists in 1,810 minutes.\n\nThis season, Gozo has been given increased license to stay upfield. His technique in close quarters has been especially impressive, with deft touches and passes helping RSL get into dangerous areas. His end product has also been on greater display, with six goals and five assists in 1,417 minutes thus far.\n\nHis ability to set up his own shot as well as create dangerous looks for his teammates helps him stand out. Gozo has made 67 progressive carries upfield, per Futi, a category led by Lionel Messi, Denis Bouanga, Evander and Anders Dreyer – four members of last year’sMLSBest XI.\n\nThe question for any young player of Gozo’s caliber is how best to position themselves for international consideration. On the one hand, he had already established himself as a regular starter in MLS. On the other, strong performances in MLS – as in any league – provide no guarantee of landing on a national team, as Gozo’s teammate Luna learned the hard way by being among Pochettino’s toughest omissions.\n\nAs a result, Gozo felt he was nearing the ideal window for making a move across the Atlantic.\n\n“I feel like I’m ready to go,” Gozo addedwithout hesitation. “Whether that happens or not, I don’t know, but I think this is a unique situation I have. I’m blessed to be in a situation where I have such a good club to be at, but I also think, you know … What’s next in my career? I don’t know.”\n\nThe son of an American mother and an Ivorian father, Gozo also earned his first US youth international callup in 2022, beginning with the U-15s. He has become a regular with the youth national teams.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 07:20:01 EDT",
+  "lastUpdated": "2026-08-19 @ 11:31:13 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
