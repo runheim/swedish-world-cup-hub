@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Referees’ chief Howard Webb ‘really troubled’ by Folarin Balogun escaping World Cup ban",
+      "text": "⚽ ‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
       "link": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
     }
   ],
@@ -13020,11 +13020,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2429_0",
+            "category": "usa",
+            "type": "News",
+            "title": "‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
+            "bullets": [
+              "CEO says English football is ‘everything that it should be’Concern over perception following World C...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "CEO says English football is ‘everything that it should be’Concern over perception following World Cup scandalRichard Masters has sought to reassure fans that the Premier League remains “everything that it should be” after the Folarin Balogun red-card scandal called the integrity of disciplinary decisions into question.Both Masters, the chief executive of the Premier League, and Howard Webb, the chief refereeing officer for English football, were critical of the process that led to Fifa’s ­disciplinary committee suspending the USA striker’s one-game ban for a year after an intervention by the US president, Donald Trump. Masters went further, calling for a candidate with “a different offer” to run against Gianni Infantino for Fifa president next year. Continue reading...",
+            "fullText": "CEO says English football is ‘everything that it should be’\n\nConcern over perception following World Cup scandal\n\nRichard Masters has sought to reassure fans that thePremier Leagueremains “everything that it should be” after the Folarin Balogun red-card scandal called the integrity of disciplinary decisions into question.\n\nBoth Masters, the chief executive of the Premier League, and Howard Webb, the chief refereeing officer for English football, were critical of the process that led to Fifa’s ­disciplinary committeesuspending the USA striker’s one-game banfor a yearafter an intervention by the US president, Donald Trump. Masters went further, calling for a candidate with “a different offer” to run against Gianni Infantino for Fifa president next year.\n\nAsked about the Balogun affair, Masters – who was speaking in advance of the new Premier League season beginning on Friday – said: “We should be talking about looking back on the World Cup and the football that was played, and Spain being obviously the best team and ­England’s agonising semi-final defeat,” Masters said. “We’re not. We’re talking about other issues. I think that’s a huge shame. The Balogun issue … is very difficult to comprehend, really, when you look at it.”\n\nMasters insisted that the taint of the scandal would not reach out into the Premier League, even as refereeing conspiracy theories continue among fans. “Do people believe their eyes? I do scroll through social media every now and then. I do bump into some of the stuff that people are saying and thinking out there,” Masters said. “But I do still believe that fans, when they turn up to matches that are 99% sold out, when they watch what’s going on on the pitch, they see everything that it should be. It’s still the same.\n\n“It’s English football. Everyone’s trying their best.Refereesare trying their best. There’s lots of controversy, but it is what it says it is.”\n\nThe Premier League, as a member of the World Leagues Association, is still waiting for the outcome of a complaint made againstFifato the European Commission two years ago over a lack of consultation over the fixture calendar.\n\nMasters said it was vital that Infantino was properly challenged in the Fifa presidential election next year. “I think that what needs to happen now is another candidate needs to emerge within the deadline with a new offer, a different offer, that can hopefully unify the confederations,” he said.\n\nWebb said he had been “really troubled” by the Balogun scandal, as he announced new measures to increase transparency over refereeing decisions in England. “What do we know? We know for sure that a red card was shown. I understand why it was given,” he said.\n\n“We know that there was pressure placed by a politician on to Fifa,because that was admitted. And we know that the suspension was taken away for that particular tournament and suspended through a process which seemingly didn’t exist before the tournament started.”\n\nHe continued: “We live in a world now which is different to the one that I occupied as a referee. Decisions were previously viewed as correct or incorrect, based on your judgment. Far too often now decisions are viewed as correct or corrupt by people who want to type all over social media. They try to draw inferences around decisions that they don’t agree with and what’s the motivation behind that decision. Which is born out of no facts, no evidence.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 15:02:13 EDT",
+  "lastUpdated": "2026-08-19 @ 18:24:33 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
