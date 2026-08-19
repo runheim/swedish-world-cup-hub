@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Arsenal pushing on with deal to sign Villa's Konsa",
+      "text": "⚽ Arsenal agree £50m-plus deal to sign Villa's Konsa",
       "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -12,8 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c70gdd61kk4o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Kane set to begin talks over new Bayern contract",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c07rlr0yzkvo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+      "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
     },
     {
       "text": "⚽ Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
@@ -24,16 +24,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/aug/19/march-may-and-more-footballers-scoring-in-months-that-match-their-names"
     },
     {
-      "text": "⚽ Arsenal in advanced talks to sign Villa's Konsa",
-      "link": "https://www.skysports.com/football/news/12040/13574665/ezri-konsa-transfer-news-arsenal-in-advanced-talks-to-sign-aston-villa-and-england-defender"
-    },
-    {
-      "text": "⚽ Rain stops play with Pakistan two down vs England at Headingley LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13574594/england-vs-pakistan-first-test-day-one-live-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain"
-    },
-    {
-      "text": "⚽ Watkins keen on move to Al Hilal as talks ongoing with Villa",
-      "link": "https://www.skysports.com/football/news/12040/13574587/ollie-watkins-transfer-aston-villa-in-talks-with-saudi-club-al-hilal-over-england-striker"
+      "text": "⚽ Arsenal agree £51m deal to sign Aston Villa's Konsa",
+      "link": "https://www.skysports.com/football/news/12040/13574724/ezri-konsa-transfer-news-arsenal-agree-deal-with-aston-villa-to-sign-england-defender"
     }
   ],
   "timeline": {
@@ -44667,11 +44659,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3114_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
+            "bullets": [
+              "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+            "fullText": "Ezri Konsa helped Aston Villa win the Europa League and was a key player for England at the World Cup\n\nArsenalhave agreed a deal worth more than Â£50m to signAston Villadefender Ezri Konsa.\n\nThe England international is set to have a medical before completing his move to Emirates Stadium.\n\nBBC Sport revealed last week thatArsenalhad reopened talks with Villa over a deal for Konsa but still fell short of reaching an agreement.\n\nThe Gunners then appeared to pivot to Bayer Leverkusen's Jarell Quansah.\n\nHowever,Arsenalrefocused their efforts on Konsa and have now struck a deal for the player with Villa.\n\nThe 28-year-old, who joined the Villans in July 2019, has made 286 appearances over the past seven seasons.\n\nKonsa featured 48 times last term in all competitions, scoring two goals and contributing one assist, as Unai Emery's side lifted the Europa League and finished fourth in the Premier League to secure Champions League football for 2026-27.\n\nKonsa has not featured at all duringAston Villa's preâseason, includingthe 2â1 defeat to Paris StâGermain in the Uefa Super Cup, after Emery gave him four weeks off following the World Cup.\n\nHe played in every game of England's World Cup run as the Three Lions finished third.\n\nSpeaking after thefinal warmâup matchagainst Borussia Monchengladbach, Emery explained the absence of Konsa, Emiliano Martinez and Ollie Watkins, saying: \"They are joining us after this match.\"\n\nTransfers latest: Man Utd chasing Brighton's Baleba, Arsenal step up Konsa interest",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3115_1",
+            "category": "england",
+            "type": "News",
+            "title": "Al-Hilal target England's Kane - Wednesday's gossip",
+            "bullets": [
+              "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Ni...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Al-Hilal in talks with Harry Kane and Ollie Watkins, Newcastle explore move for Manchester City's Nico Gonzalez, Sunderland move for Dayann Methalie in danger of collapsing.",
+            "fullText": "Al-Hilal in talks with Harry Kane and Ollie Watkins,Newcastleexplore move forManchester City's Nico Gonzalez,Sunderlandmove for Dayann Methalie in danger of collapsing.\n\nRepresentatives for England captain Harry Kane, 33, have held talks with Saudi Pro League sideAl-Hilal, with theBayern Munichstriker open to a move in the future. (Talksport,external)\n\nMeanwhileAston Villaand England striker Ollie Watkins, 29, has agreed personal terms withAl-Hilal, though the Saudi side are yet to submit a transfer offer to Villa.(Teamtalk),external\n\nNewcastlehave opened exploratory talks withManchester Cityover a potential move for Spanish midfielder Nico Gonzalez, 24.(The Athletic - subscription required),external\n\nSunderland'sÂ£25.7m move forToulouseand France Under-21 defender Dayann Methalie, 20, is in danger of collapsing after concerns were raised over his medical.(Daily Mail),external\n\nCoventryhave had an offer worth Â£8.5m for England midfielder Ruben Loftus-Cheek, 30, rejected byAC Milan.(Tuttosport - in Italian),external\n\nReal Sociedadhave made an approach forWest Hamand Mexico midfielder Edson Alvarez, 28, withAjaxhaving cooled their interest.(Sky Sports),external\n\nIpswichhave had a second offer rejected forBayer Leverkusenand Argentina midfielder Exequiel Palacios, 27.(Florian Plettenberg),external\n\nTottenhamare considering a move forParis St-Germainand Ukraine defender Illia Zabarnyi, 23, after selling Cristian Romero toAtletico Madrid.(Teamtalk),external\n\nLiverpooland England midfielder Curtis Jones, 25, remains a top target forInter Milan, who believe a bid of 35m euros (Â£29m) will be successful. (CaughtOffside,external)\n\nWolveshave entered the race forBrightonwinger Amario Cozier-Duberry, 21, with the England under-20 international remaining a target forRangersand former loan clubBolton. (The Argus,external)\n\nMalagaare pursuing English winger Ryan Kent, 29, who has been a free agent since leavingSeattle Soundersin January. (Fichajes - in Spanish,external)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3115_2",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+            "bullets": [
+              "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for Ollie WatkinsArsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.Mikel Arteta hopes Konsa, whose Villa contract has two years to run, can make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, having sustained a back injury in France’s World Cup semi-final defeat against Spain. Konsa’s appeal is bolstered by the fact he can also play at right-back, where Timber is battling to return from a groin injury which has affected him for months. Continue reading...",
+            "fullText": "Defender to provide cover for injured Saliba and Timber\n\nVilla braced for fresh bid from Al-Hilal for Ollie Watkins\n\nArsenal have agreed a £51m deal to sign Ezri Konsa fromAston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.\n\nMikel Arteta hopes Konsa, whose Villa contract has two years to run, can make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, havingsustained a back injuryin France’s World Cup semi-final defeat against Spain. Konsa’s appeal is bolstered by the fact he can also play at right-back, where Timber is battling to return from a groin injury which has affected him for months.\n\nKonsa starred for England on their run to the World Cup semi-finals. A fixture in Villa’s successful team, the 28-year-old will encounter fierce competition atArsenal, especially when Saliba is fit. Arteta rates Saliba’s partnership with Gabriel Magalhães as the best in England but he thinks the addition of a player of Konsa’s calibre is a signal of Arsenal’s desire to build on their title success of last season and dominate.\n\nThe manager knows that his team played 63 matches in all competitions last season, which included runs to the Champions League and Carabao Cup finals, and he hopes to have a similar number this time out. As such, he believes he will be able to give Konsa the minutes he would expect, particularly when injuries are factored in. Arteta is also determined to have more high-quality options so that he can better rotate. At present, he has eight defenders, including Myles Lewis-Skelly, who can play in midfield.\n\nKonsa joined Villa from Brentford in 2019 and has been central to their rise up the Premier League table under Unai Emery. He has made 286 appearances for them and was a part of the team that won the Europa League last season. Arsenal kick off the new season at home to Coventry on Friday night.\n\nMeanwhile, Villa are braced for another bid fromAl-Hilalfor Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al-Hilal are pursuing a move for Villa’s all-time Premier League goalscorer, who has reached double figures in the top flight in his six seasons at the club after joining from Brentford.\n\nIf Villa sell Watkins, who has two years on his contract, they would seek to replace the 30-year-old England striker and Emery is a big admirer of Nicolas Jackson, but Chelsea’s valuation of £65m is thought to be prohibitive to any deal. There is an acceptance at Villa that any marquee arrival before the close of the window would probably have to follow another major sale, owing to the Premier League’s financial regulations.\n\nEmery has had to significantly reshape his squad this summer after the departures ofMorgan Rogers,Youri TielemansandLucas Digne, who joined Chelsea, Manchester United and Paris Saint-Germain respectively, with Konsa now also on the move.\n\nVilla have signed Zion Suzuki as a replacement for Emiliano Martínez, whose future remains unclear. Suzuki, a £30m buy from Parma, will be the first Japanese goalkeeper to play in the Premier League.\n\nVilla have completed the £17m signing of Matteo Ruggeri from Atlético Madrid and remain in talks with Bayern Munich over a deal for João Palhinha and West Ham for Aaron Wan-Bissaka. Villa have also signedJohan Manzambi from Freiburgfor a club-record £52m andJoão Gomes from Wolvesfor £38m. There could be further sales, with Villa hoping to find Martínez a new club.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3115_3",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+            "bullets": [
+              "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the only thing the England captain, Harry Kane, has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.However, it is also understood the 33-year-old wants to remain at Bayern with discussions beginning on his new contract. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly. Continue reading...",
+            "fullText": "It seems the possibility of winning the Ballon d’Or is not the only thing the England captain,Harry Kane, has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.\n\nHowever, it is also understood the 33-year-old wants to remain at Bayern with discussions beginning on his new contract. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly.\n\nAl-Hilal are not in the market for only one England striker though, they are bidding for two.Ollie Watkinsis reported to have agreed personal terms, though the Saudi club have not yet officially logged a transfer bid with the 30-year-old’s current club, Aston Villa. Reports differ as to whether Al-Hilal want to bring in only one striker or more, with some claiming the club have turned to Watkins after a deal with Kane did not come to fruition. But who knows? Maybe Watkins and Kane will fight for the starting shirt.\n\nOne player who won’t be starting for Manchester United in the new season isGaviwho has turned down the chance to join the Premier League club. The Spain World Cup winner wants to remain at Barcelona.\n\nUnited fans may be growing frustrated with the lack of star signings this window, but concerns are not just about insufficient numbers of players coming through the doors; the Reds are also being raided. Napoli are said to be interested inJoshua Zirkzee. The Netherlands forward was largely competing from the bench last season for United.\n\nNapoli seem to have their fingers in any number of pies as they have also reached out to Chelsea aboutNicolas Jacksonas well as enquiring aboutGabriel Jesusat Arsenal. If they were to sign Jesus though they would have to sell one of the forwards before welcoming the Brazilian.\n\nStaying in Serie A, Milan have rejected a bid from Coventry forRuben Loftus-Cheek. The promoted club wanted to bring the 30-year-old midfielder back to the top flight for the first time since 2023 when he played for Chelsea, but an £8.5m offer was turned down by the Italian side.\n\nCircling back to the Premier League, Manchester City have lost one of their key players in Rodri, whosigned for Barcelona on Tuesday, which has left them scouring transfer options in midfield. Among the names on the new manager’s list is Crystal Palace’sAdam Wharton. The price tag for the England international is unclear, which could affect the move given City have already spent£116m on Elliot Andersonin this window.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFinally,Jack Grealishwas spotted atCardiff’s 1-1 draw against Wrexhamin the Championship on Monday, which sparked rumours of a move to Wales for the 30-year-old, but it seems more likely that the England international will remain in the Premier League. That assumption comes after news that Everton’s chief executive, Angus Kinnear, has interest in bringing thim back to Hill Dickinson Stadium after a loan deal last season. But Grealish could also remain at Manchester City.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3115_4",
+            "category": "england",
+            "type": "News",
+            "title": "March, May and more: footballers scoring in months that match their names | The Knowledge",
+            "bullets": [
+              "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awardedMail ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awardedMail us with your all of your questions and answers“Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months?” wonders Paul Tiffen.Our wonderful readers have managed to cover the entire year, pretty much, so let’s get going. The list below includes just some of the many examples you sent in. Continue reading...",
+            "fullText": "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awarded\n\n“Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months?”wonders Paul Tiffen.\n\nOur wonderful readers have managed to cover the entire year, pretty much, so let’s get going. The list below includes just some of the many examples you sent in.\n\nJanuary“Not all last names exist for English months, so I also took month names in some other languages,” writes Mykola Kozlenko. “I only accepted exact spellings, [so] I don’t accept Auguste or Augustin for the month of August, but Agosto is fine.” As is Janvier, which gave Mykola their first goalscorer: “Nicolas Janvier. Scored on 30 January 2016 for Lannion v Rennes Reserves.”\n\nFebruary“Jayden Fevrier. Scored on 3 February 2024 for Colchester against Forest Green Rovers,” writes Mykola.\n\nMarch“In German, March is ‘März’,” writes Dirk Maas. “In the 1992-93 edition of the 2. Bundesliga,Heiko Märzscored twice in March, for Hansa Rostock against St. Pauli and Darmstadt.” Dirk also points out thatSolly March’s portfolio of goals in March includes two for Brighton in FA Cup quarter-finals: against Millwall in 2019 and Grimsby in 2023.\n\nApril“April Heinrichsscored twice for the USA on April Fools’ Day 1991 against Yugoslavia in the Grand Hotel Varna Tournament in Bulgaria,” writes Dan Almond. “She also scored on 3 April against Hungary and again in the final as the USA beat USSR 5-0.”\n\nMay“David Mayscored the opening goal in Manchester United’s final game of the 1995-96 season,” writes Sinan Eccles. “The 3-0 win against Middlesbrough at the Riverside on 5 May 1996 secured the title for United. Andy Cole and Ryan Giggs scored the others. Eric Cantona got the late winner in a 1-0 victory over Liverpool in the FA Cup final to secure United their second domestic Double in three seasons.”\n\nMatt Beaumont points out thatAlfie Mayscored on 7 May 2023 for Cheltenham Town v Charlton – and then joined the Addicks two months later, leaving as Cheltenham’s record goalscorer.\n\nJuneBack to Mykola Kozlenko: “Brazil’sEdigar Junioscored on 22 June 2019 for Yokohama F Marinos against Matsumoto Yamaga in the J-League.”\n\nJulyThree goalscoring Julios in July were found by Mykola …\n\nAnderson Julio(Ecuador), 13 July 2023, Real Salt Lake v Sporting KC",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3115_5",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal agree £51m deal to sign Aston Villa's Konsa",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "Ezri Konsa had two years remaining on his Aston Villa contract; Arsenal also held an interest in Jarell Quansah but look set to move for Konsa; Arsenal currently have William Saliba and Jurrien Timber out injured",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 07:13:39 EDT",
+  "lastUpdated": "2026-08-19 @ 11:31:17 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
