@@ -23292,6 +23292,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Hörni, samling i teorisalen om 10 minuter.",
       "time": "12:22",
       "isCaptain": false
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "Dags att vila. Viktig dag imorgon.",
+      "time": "05:22",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "God morgon! Är alla redo för dagens första pass?",
+      "time": "05:23",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Vem tog mitt kaffe i matsalen?!",
+      "time": "05:24",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "05:25",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Har alla koll på schemat för morgondagen?",
+      "time": "05:26",
+      "isCaptain": false
     }
   ]
 };
