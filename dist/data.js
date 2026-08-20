@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ ‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League",
+      "link": "https://www.theguardian.com/football/2026/aug/19/celtic-lask-champions-league-playoff-match-report"
     }
   ],
   "timeline": {
@@ -17610,11 +17594,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3408_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League",
+            "bullets": [
+              "A stunning double from the summer signing Camilo Durán helped Celtic open up a commanding lead again...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A stunning double from the summer signing Camilo Durán helped Celtic open up a commanding lead against Lask in their Champions League playoff. Benjamin Nygren also produced a superb finish to send Martin O’Neill’s side on their way to a 3-0 first-leg win over their Austrian opponents in Glasgow.The visitors had two goals disallowed for offside and created chances throughout in an open encounter but Celtic were clinical as they continued their strong start to the season. Nygren has been at the heart of it with four goals and four assists in as many games and he opened the scoring in the 26th minute. The Swede readjusted his body to volley into the top corner from 20 yards after a weak clearance from Kieran Tierney’s cross. Continue reading...",
+            "fullText": "A stunning double from the summer signing Camilo Durán helped Celtic open up a commanding lead against Lask in theirChampions Leagueplayoff. Benjamin Nygren also produced a superb finish to send Martin O’Neill’s side on their way to a 3-0 first-leg win over their Austrian opponents in Glasgow.\n\nThe visitors had two goals disallowed for offside and created chances throughout in an open encounter butCelticwere clinical as they continued their strong start to the season. Nygren has been at the heart of it with four goals and four assists in as many games and he opened the scoring in the 26th minute. The Swede readjusted his body to volley into the top corner from 20 yards after a weak clearance from Kieran Tierney’s cross.\n\nDurán scored an almost identical goal 12 minutes later, firing into the same top corner from the same spot after Tierney’s cross was headed out. The only major difference was the Colombian struck his volley first time.\n\nThe former Qarabag forward netted his third Celtic goal midway through the second half, exchanging passes with Nygren after a flick from another summer signing, Kasper Høgh, and stroking the ball into the top corner from inside the box.\n\nO’Neill said of his double goalscorer: “He was exceptional. Really exceptional. He’s been fantastic for us since he’s arrived at the football club. His goals were terrific, his play was great. His running back, helping full-backs, helping Colby [Donovan] out on a number of occasions. It was just a magnificent performance.\n\n“And if he stays clear of injury, he’s going to be a really, really good player. Whatever we paid for Durán, I think he has paid his ticket by now. I don’t think it was an awful lot of money when you consider some of the fees that they’re talking about for the Premier League.\n\n“I think he’s a real bargain – £4.5m or something like that there. The centre-forward [Hogh] has given us a bit of presence there, which I don’t think we had last year, despite Daizen [Maeda] probably winning the league for us single-handedly. It’s nice to have that.”\n\nThe victory puts Celtic firmly in the driving seat before the second leg in Linz next Tuesday and eased nerves among home fans after more transfer tribulations.\n\nCeltic went out at this stage last year, drawing a blank against Kairat Almaty after failing to sign a proven striker. The arrival of Durán and Høgh solved that problem but other signings were slow to come and the German midfielder Mika Baur was handed a start in his Celtic Park debut.\n\nThe 22-year-old’s inclusion was necessitated by the departure of Arne Engels to West Ham at the weekend, which caused more anxiety among Celtic fans who have seen their team fail in their last five Champions League qualifying campaigns. The playoff defeat against the Kazakhstan side followed losses in earlier rounds against AEK Athens, Cluj, Ferencvaros and Midtjylland in recent seasons.\n\nThe Celtic fans were in full voice in the buildup but there were early worries. Moses Usor sent a brilliant volley into the top corner inside 30 seconds but was flagged offside, before Samuel Adeniran scuffed a shot wide when clean through.\n\nTheLaskforward soon forced a save from Viljami Sinisalo with Celtic looking very open in central midfield without Engels, but Durán threatened twice from half-chances before Nygren opened the scoring.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 18:16:43 EDT",
+  "lastUpdated": "2026-08-19 @ 22:34:08 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
