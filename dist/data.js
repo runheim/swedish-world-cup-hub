@@ -8,6 +8,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Algorithms amplified World Cup racism, says report",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c2k7en0lxkjo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Kane plays down returning to Premier League in future",
       "link": "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,16 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
     },
     {
-      "text": "⚽ Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
-      "link": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily"
-    },
-    {
       "text": "⚽ Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
       "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
     },
     {
       "text": "⚽ March, May and more: footballers scoring in months that match their names | The Knowledge",
       "link": "https://www.theguardian.com/football/2026/aug/19/march-may-and-more-footballers-scoring-in-months-that-match-their-names"
+    },
+    {
+      "text": "⚽ Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
+      "link": "https://www.theguardian.com/football/2026/aug/19/sensible-soccer-clubs-signing-players-transfers-football-daily"
     }
   ],
   "timeline": {
@@ -45017,11 +45021,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3249_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal agree £50m-plus deal to sign Villa's Konsa",
+            "bullets": [
+              "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+            "fullText": "Ezri Konsa helped Aston Villa win the Europa League and was a key player for England at the World Cup\n\nArsenalhave agreed a deal worth more than Â£50m to signAston Villadefender Ezri Konsa.\n\nThe England international is set to have a medical before completing his move to Emirates Stadium.\n\nBBC Sport revealed last week thatArsenalhad reopened talks with Villa over a deal for Konsa but still fell short of reaching an agreement.\n\nThe Gunners then appeared to pivot to Bayer Leverkusen's Jarell Quansah.\n\nHowever,Arsenalrefocused their efforts on Konsa and have now struck a deal for the player with Villa.\n\nThe 28-year-old, who joined the Villans in July 2019, has made 286 appearances over the past seven seasons.\n\nKonsa featured 48 times last term in all competitions, scoring two goals and contributing one assist, as Unai Emery's side lifted the Europa League and finished fourth in the Premier League to secure Champions League football for 2026-27.\n\nKonsa has not featured at all duringAston Villa's preâseason, includingthe 2â1 defeat to Paris StâGermain in the Uefa Super Cup, after Emery gave him four weeks off following the World Cup.\n\nHe played in every game of England's World Cup run as the Three Lions finished third.\n\nSpeaking after thefinal warmâup matchagainst Borussia Monchengladbach, Emery explained the absence of Konsa, Emiliano Martinez and Ollie Watkins, saying: \"They are joining us after this match.\"\n\nUsually, winning the Europa League and qualifying for the Champions League would leave a club in a position of strength.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3249_1",
+            "category": "england",
+            "type": "News",
+            "title": "Algorithms amplified World Cup racism, says report",
+            "bullets": [
+              "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research.",
+            "fullText": "A number of England players were a target for racist abuse\n\nRacist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research.\n\nThe activist group Hope Not Hate analysed more than 300,000 posts on the platform X (formerly Twitter) during the 2026 World Cup and found more than 5,500 explicitly racist posts targeting England players.\n\nThe organisation argues that X's recommender algorithm pushed toxic content into millions of feeds, because posts which provoke anger and outrage can generate more interaction.\n\nPosts generating strong reactions keep people on the platform for longer and can ultimately help drive advertising revenue.\n\n\"X is actually benefiting from this hate,\" Patrik Hermansson, senior researcher at Hope Not Hate told BBC Sport.\n\n\"It drives engagement on its platform and it effectively uses its algorithm to elevate and show it to more of its users.\n\n\"They show up in the recommendation feed - they are not obscure corners of this website, they are front and centre.\n\n\"That's a choice it doesn't have to make and yet it does\".\n\nJude Bellingham was the player most targeted by racist abuse, while Bukayo Saka and Kobbie Mainoo experienced the highest proportion of racism compared with the total number of posts mentioning them.\n\nDjed Spence, who has converted to Islam in recent years, was also subjected to a distinct stream of anti-Muslim abuse, Hope Not Hate said.\n\nIn addition, researchers examined how abuse gathered in the replies to individual high-profile posts on the platform.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3249_2",
+            "category": "england",
+            "type": "News",
+            "title": "Kane plays down returning to Premier League in future",
+            "bullets": [
+              "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.",
+            "fullText": "Kane has scored 98 league goals in three seasons at Bayern Munich\n\nHarry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.\n\nThe striker leftTottenhamto join Bayern Munich in 2023 having scored 213 goals in the English top flight, 47 goals short of Alan Shearer's tally of 260.\n\nKane has been in sensational form for club and country since moving to Munich, and last season hit a total of 73 goals.\n\nHe has entered the final 12 months of the four-year deal he signed after his Â£86.4m move from Spurs three years ago,but is set to begin discussing a new contract at Bayern.\n\nAfter receiving the Golden Shoe for finishing top scorer in the Bundesliga on Wednesday, the England captain stressed how settled he feels at Bayern.\n\nKane said: \"When I first left, for sure it was something I thought - I would definitely be coming back. That itch isn't there as much anymore.\n\n\"I am extremely happy here in Munich, it opened my eyes to a totally different world of football outside of England and it has made me appreciate European football even more.\n\n\"I just think the team we have here and the manager, my family is really settled here, it is just about being in the best place possible.\n\n\"Never say never, but for now I am concentrating on Bayern Munich and we will see what the future holds.\"\n\nKane says he is proud of being in Ballon dâOr contention\n\nKane scored 61 goals in 51 appearances for Bayern last season as Vincent Kompany's side completed a league and cup double.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3249_3",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+            "bullets": [
+              "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for Ollie WatkinsArsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.Mikel Arteta hopes Konsa, whose Villa contract has two years to run, can help make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, having sustained a back injuryin France’s World Cup semi-final defeat against Spain. Continue reading...",
+            "fullText": "Defender to provide cover for injured Saliba and Timber\n\nVilla braced for fresh bid from Al-Hilal for Ollie Watkins\n\nArsenal have agreed a £51m deal to sign Ezri Konsa fromAston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.\n\nMikel Arteta hopes Konsa, whose Villa contract has two years to run, can help make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, havingsustained a back injuryin France’s World Cup semi-final defeat against Spain.\n\nKonsa’s appeal is bolstered by the fact he can also play at right-back, where Timber is battling to return from a groin injury which has affected him for months.\n\nKonsa starred for England on their run to the World Cup semi-finals. A fixture in Villa’s successful team, the 28-year-old will encounter fierce competition atArsenal, especially when Saliba is fit. Arteta rates Saliba’s partnership with Gabriel Magalhães as the best in England but he thinks the addition of a player of Konsa’s calibre is a signal of Arsenal’s desire to build on their title success of last season and dominate.\n\nThe manager knows that his team played 63 matches in all competitions last season, which included runs to the Champions League and Carabao Cup finals, and he hopes to have a similar number this time out. As such, he believes he will be able to give Konsa the minutes he would expect, particularly when injuries are factored in. Arteta is also determined to have more high-quality options so that he can better rotate. At present, he has eight defenders, including Myles Lewis-Skelly, who can play in midfield.\n\nKonsa joined Villa from Brentford in 2019 and has been central to their rise under Unai Emery. He has made 286 appearances for them and was a part of the team that won the Europa League last season. Arsenal kick off the new season at home to Coventry on Friday night.\n\nMeanwhile, Villa are braced for another bid fromAl-Hilalfor Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al-Hilal are pursuing a move for Villa’s all-time Premier League goalscorer, who has reached double figures in the top flight in his six seasons at the club after joining from Brentford.\n\nIf Villa sell Watkins, who has two years on his contract, they would seek to replace the 30-year-old England striker and Emery is a big admirer of Nicolas Jackson, but Chelsea’s valuation of £65m is thought to be prohibitive to any deal. There is an acceptance at Villa that any marquee arrival before the close of the window would probably have to follow another major sale, owing to the Premier League’s financial regulations.\n\nEmery has had to significantly reshape his squad this summer after the departures ofMorgan Rogers,Youri TielemansandLucas Digne, who joined Chelsea, Manchester United and Paris Saint-Germain respectively, with Konsa now also on the move.\n\nVilla have signed Zion Suzuki as a replacement for Emiliano Martínez, whose future remains unclear. Suzuki, a £30m buy from Parma, will be the first Japanese goalkeeper to play in the Premier League.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3250_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
+            "bullets": [
+              "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the o...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s gossip is still on the beachIt seems the possibility of winning the Ballon d’Or is not the only thing the England captain, Harry Kane, has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.However, it is also understood the 33-year-old wants to remain at Bayern with discussions beginning on his new contract. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly. Continue reading...",
+            "fullText": "It seems the possibility of winning the Ballon d’Or is not the only thing the England captain,Harry Kane, has been talking about recently. Well, his representatives at least. It is thought Bayern Munich have been in talks with the Saudi Pro League’s Al-Hilal with Kane reportedly open to a future move.\n\nHowever, it is also understood the 33-year-old wants to remain at Bayern with discussions beginning on his new contract. The Bundesliga transfer window closes on 31 August so if a move east were to happen it would have to be done quickly.\n\nAl-Hilal are not in the market for only one England striker though, they are bidding for two.Ollie Watkinsis reported to have agreed personal terms, though the Saudi club have not yet officially logged a transfer bid with the 30-year-old’s current club, Aston Villa. Reports differ as to whether Al-Hilal want to bring in only one striker or more, with some claiming the club have turned to Watkins after a deal with Kane did not come to fruition. But who knows? Maybe Watkins and Kane will fight for the starting shirt.\n\nOne player who won’t be starting for Manchester United in the new season isGaviwho has turned down the chance to join the Premier League club. The Spain World Cup winner wants to remain at Barcelona.\n\nUnited fans may be growing frustrated with the lack of star signings this window, but concerns are not just about insufficient numbers of players coming through the doors; the Reds are also being raided. Napoli are said to be interested inJoshua Zirkzee. The Netherlands forward was largely competing from the bench last season for United.\n\nNapoli seem to have their fingers in any number of pies as they have also reached out to Chelsea aboutNicolas Jacksonas well as enquiring aboutGabriel Jesusat Arsenal. If they were to sign Jesus though they would have to sell one of the forwards before welcoming the Brazilian.\n\nStaying in Serie A, Milan have rejected a bid from Coventry forRuben Loftus-Cheek. The promoted club wanted to bring the 30-year-old midfielder back to the top flight for the first time since 2023 when he played for Chelsea, but an £8.5m offer was turned down by the Italian side.\n\nCircling back to the Premier League, Manchester City have lost one of their key players in Rodri, whosigned for Barcelona on Tuesday, which has left them scouring transfer options in midfield. Among the names on the new manager’s list is Crystal Palace’sAdam Wharton. The price tag for the England international is unclear, which could affect the move given City have already spent£116m on Elliot Andersonin this window.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFinally,Jack Grealishwas spotted atCardiff’s 1-1 draw against Wrexhamin the Championship on Monday, which sparked rumours of a move to Wales for the 30-year-old, but it seems more likely that the England international will remain in the Premier League. That assumption comes after news that Everton’s chief executive, Angus Kinnear, has interest in bringing thim back to Hill Dickinson Stadium after a loan deal last season. But Grealish could also remain at Manchester City.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3250_5",
+            "category": "england",
+            "type": "News",
+            "title": "March, May and more: footballers scoring in months that match their names | The Knowledge",
+            "bullets": [
+              "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awardedMail ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awardedMail us with your all of your questions and answers“Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months?” wonders Paul Tiffen.Our wonderful readers have managed to cover the entire year, pretty much, so let’s get going. The list below includes just some of the many examples you sent in. Continue reading...",
+            "fullText": "Plus: goalkeepers sent off far from their penalty area, and the fastest spot-kicks ever awarded\n\n“Birmingham’s August Priske scored the only goal at Swansea in the League Cup on 8 August. Can you think of any other examples of players scoring in their namesake months?”wonders Paul Tiffen.\n\nOur wonderful readers have managed to cover the entire year, pretty much, so let’s get going. The list below includes just some of the many examples you sent in.\n\nJanuary“Not all last names exist for English months, so I also took month names in some other languages,” writes Mykola Kozlenko. “I only accepted exact spellings, [so] I don’t accept Auguste or Augustin for the month of August, but Agosto is fine.” As is Janvier, which gave Mykola their first goalscorer: “Nicolas Janvier. Scored on 30 January 2016 for Lannion v Rennes Reserves.”\n\nFebruary“Jayden Fevrier. Scored on 3 February 2024 for Colchester against Forest Green Rovers,” writes Mykola.\n\nMarch“In German, March is ‘März’,” writes Dirk Maas. “In the 1992-93 edition of the 2. Bundesliga,Heiko Märzscored twice in March, for Hansa Rostock against St. Pauli and Darmstadt.” Dirk also points out thatSolly March’s portfolio of goals in March includes two for Brighton in FA Cup quarter-finals: against Millwall in 2019 and Grimsby in 2023.\n\nApril“April Heinrichsscored twice for the USA on April Fools’ Day 1991 against Yugoslavia in the Grand Hotel Varna Tournament in Bulgaria,” writes Dan Almond. “She also scored on 3 April against Hungary and again in the final as the USA beat USSR 5-0.”\n\nMay“David Mayscored the opening goal in Manchester United’s final game of the 1995-96 season,” writes Sinan Eccles. “The 3-0 win against Middlesbrough at the Riverside on 5 May 1996 secured the title for United. Andy Cole and Ryan Giggs scored the others. Eric Cantona got the late winner in a 1-0 victory over Liverpool in the FA Cup final to secure United their second domestic Double in three seasons.”\n\nMatt Beaumont points out thatAlfie Mayscored on 7 May 2023 for Cheltenham Town v Charlton – and then joined the Addicks two months later, leaving as Cheltenham’s record goalscorer.\n\nJuneBack to Mykola Kozlenko: “Brazil’sEdigar Junioscored on 22 June 2019 for Yokohama F Marinos against Matsumoto Yamaga in the J-League.”\n\nJulyThree goalscoring Julios in July were found by Mykola …\n\nAnderson Julio(Ecuador), 13 July 2023, Real Salt Lake v Sporting KC",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3250_6",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ career Harry’s mooted move from Bayern Munich to Al-Hilal would be comparable with. The flawed masterpiece The Magnificent Ambersons, perhaps, or that thing where he loses his mind over Findus peas.Don Revie and his merry henchmen [Tuesday’s Memory Lane, full email edition] getting ready for a night on the lash, as it was back then. Lest we forget: one-club man Jack Charlton once said ‘I cant play football, but I can stop those that can’. Diamond geezer eh?” – Alvin Jordan.It was bewildering to read in Tuesdays’s Football Daily that ‘Kevin Lamour was a lone dissenting voice inside Fifa’s lair when Gianni Infantino’s plot to flog part of the World Cup to private investors – potentially on the cheap – was rumbled’. He was far from lone. Fifa’s secretary-general, Mattias Grafström, called the FFE plans a ‘sad and reproachable series of events’ in an email to staff. Fifa’s chief of global development, someone called Arsène Wenger, pronounced the withdrawal of FFE ‘absolutely necessary and beyond question’. Above all, Infantino’s right-hand man, the Fifa senior advisor Carlos Cordeiro, stated: ‘I cannot stand by while Fifa considers selling a stake in the World Cup. Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.’ And unlike Lamour, Grafström, or Wenger, Cordeiro put his money where his mouth was and resigned” – Simon Skinner.Talking of players’ wages, my Middlesborough friend who knew Wilf Mannion told me that when he was chosen to play for England at Wembley that they gave him a third-class rail ticket to get there. Unfortunately the train was so crowded that he had to sit on his suitcase in the corridor the whole way to London (not an unusual situation in those days)” – Bob Hopper.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nIn the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ careerHarry’s mooted move from Bayern Munich to Al-Hilalwould be comparable with. The flawed masterpiece The Magnificent Ambersons, perhaps, or that thing where he loses his mind over Findus peas.\n\nBut potential transfers are all the rage right now, nestled as we currently are in the otherwise barren taint betwixt the aforementioned GWC and the new domestic season. Arsenal are in the market for a centre-back, because they always are – the foundations built by George Graham go wide and deep – and are sniffing theatrically aroundEzri Konsa of Aston VillaandBayer Leverkusen’s Jarel Quansah. Either would suffice. Or possibly both. Quansah’s former club Liverpool are desperate for defensive reinforcements too, so naturally they’re concentrating their efforts on yet another slight forward, Ethan Nwaneri the latest name on a long list that also includes half of the PSG squad and will probably lead nowhere. To be fair, their sporting director Richard Hughes is reportedly off to Al-Hilal once this window shuts, and there’s all this Kane stuff going on, the poor man can’t be expected to do everything at once.\n\nBy way of contrast, Manchester United have been much more proactive in the market this summer. Having signed just a single useful central midfielder between 2007 and 2025 in Bruno Fernandes (subs please check), it now appears they’ll land three in as many months. They’ve already thrownAndrey SantosandYouri Tielemansinto that big gaping hole that’s been in the middle of Old Trafford for decades, and are nowvery close to adding 2024’s Carlos Baleba to the mix. The only question will be whether the difference between the £100m previously demanded by Brighton and the £65m the Cameroon international could now cost is either a smart bit of business by United or a big red flag. Football Daily certainly isn’t sure, so without anything useful to contribute, and the weather outside finally turning, we’re off to prepare for the onset of winter. Now, where’s that goddamn sled? We can never find that goddamn sled.\n\n“We are so close to making history for unbeaten games in a row. This isn’t normal in football” – former Watford boss Xisco Muñoz tells Sam Cunninghamhow he plans to leadall-conquering Johor Darul Ta’zim to AFC Big Cup glory.\n\ndouble quotation markDon Revie and his merry henchmen [Tuesday’s Memory Lane, full email edition] getting ready for a night on the lash, as it was back then. Lest we forget: one-club man Jack Charlton once said ‘I cant play football, but I can stop those that can’. Diamond geezer eh?” – Alvin Jordan.\n\ndouble quotation markIt was bewildering to read in Tuesdays’s Football Daily that ‘Kevin Lamour was a lone dissenting voice inside Fifa’s lair when Gianni Infantino’s plot to flog part of the World Cup to private investors – potentially on the cheap – was rumbled’. He was far from lone. Fifa’s secretary-general, Mattias Grafström, called the FFE plans a ‘sad and reproachable series of events’ in an email to staff. Fifa’s chief of global development, someone called Arsène Wenger, pronounced the withdrawal of FFE ‘absolutely necessary and beyond question’. Above all, Infantino’s right-hand man, the Fifa senior advisor Carlos Cordeiro, stated: ‘I cannot stand by while Fifa considers selling a stake in the World Cup. Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.’ And unlike Lamour, Grafström, or Wenger, Cordeiro put his money where his mouth was and resigned” – Simon Skinner.\n\ndouble quotation markTalking of players’ wages, my Middlesborough friend who knew Wilf Mannion told me that when he was chosen to play for England at Wembley that they gave him a third-class rail ticket to get there. Unfortunately the train was so crowded that he had to sit on his suitcase in the corridor the whole way to London (not an unusual situation in those days)” – Bob Hopper.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day winner is … Simon Skinner. Terms and conditions for our competitions can be viewedhere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 18:24:07 EDT",
+  "lastUpdated": "2026-08-19 @ 22:32:50 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
