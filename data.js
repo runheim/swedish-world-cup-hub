@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ ‘Believe your eyes’: Masters says Premier League’s integrity cannot be doubted",
-      "link": "https://www.theguardian.com/football/2026/aug/19/referees-chief-howard-webb-really-troubled-by-folarin-balogun-escaping-world-cup-ban"
+      "text": "⚽ Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
+      "link": "https://www.theguardian.com/football/2026/aug/20/the-balogun-affair-premier-league-referees-newsletter"
     }
   ],
   "timeline": {
@@ -13114,11 +13114,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0937_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football Daily | The Balogun affair and Premier League’s battle with conspiracy theorists",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!While Football Daily remains open to the idea tha...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!While Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Area 51, we have never had much truck with tinfoil hat-wearing conspiracy theorists when it comes to officiating in football. While refereeing a match in which all 22 participants are expert gaslighters will inevitably lead to mistakes, we’ve always presumed these gaffes can be attributed to good old-fashioned incompetence and not some shadowy cabal who have devoted their life’s work to keeping [insert your team’s name here] firmly in their place. Sadly, a random trawl of assorted Social Media Disgrace platforms on any given day during the season proves there is no shortage of paranoid fans, while “the Folarin Balogun affair” at the Geopolitics World Cup will have added no end of grist to their mill. After all, if an entitled president can successfully agitate to have a player’s suspension swept under the rug, who’s to say dark forces aren’t also at play when it comes to deciding whether the ball went out for a throw-in off Gabriel Martinelli or Enzo Le Fée?May I be among 1,057 others born in the 1980s to mention that one of Orson Welles’ final film roles was as the voice of Unicron in Transformers: The Movie. His character was an enormous planet which travelled through space, devouring other planets. If that isn’t a suitable metaphor for the Premier League and its transfer windows, I don’t know what is” – Luke Davydaitis (and no others).I wonder if West Ham and Wolves fans are regretting ever complaining that they had to wait for the last day of Big Website’s Premier League previews? And if Tottenham fans will take it as a hint that said complaining may lead to no preview at all” – Doug Peters.If Carlos Baleba ends up at Manchester United, I hope we can rely on their fans to finally deliver the ‘Daydream Baleba’ chant the world deserves” – Chris Jersan.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nWhile Football Daily remains open to the idea that Stanley Kubrick directed the moon landings and the Pentagon is hiding grey aliens in Area 51, we have never had much truck with tinfoil hat-wearing conspiracy theorists when it comes to officiating in football. While refereeing a match in which all 22 participants are expert gaslighters will inevitably lead to mistakes, we’ve always presumed these gaffes can be attributed to good old-fashioned incompetence and not some shadowy cabal who have devoted their life’s work to keeping [insert your team’s name here] firmly in their place. Sadly, a random trawl of assorted Social Media Disgrace platforms on any given day during the season proves there is no shortage of paranoid fans, while “the Folarin Balogun affair” at the Geopolitics World Cup will have added no end of grist to their mill. After all, if an entitled president can successfully agitate to have a player’s suspension swept under the rug, who’s to say dark forces aren’t also at play when it comes to deciding whether the ball went out for a throw-in off Gabriel Martinelli or Enzo Le Fée?\n\nIf you have already formed a firm opinion on which way the aforementioned (and totally notional) throw-in should have gone, then you are unlikely to have been appeased by the assurances offered byRichard Masters and Howard Webbthat top-flight refereeing will be as patchy as ever in the coming season, despite obvious post-Balogun concerns. The chief executive of the Premier League and the chief refereeing officer for English football presented a united front as they both criticised Fifa’s scandalous decision to suspend the USA USA USA striker’s one-match ban, while attempting to assure fans no such chicanery would ever be sanctioned by those in charge of maintaining order and discipline in The Best League In The World™. “Do people believe their eyes?” asked Masters. “I do scroll through social media every now and then. I do bump into some of the stuff that people are saying and thinking out there. But it’s English football. Everyone’s trying their best. Referees are trying their best. There’s lots of controversy, but it is what it says it is.”\n\nRowing in behind the Premier League’s chief suit, Webb fondly harked back to his own days as a referee, when his high-profile mistakes were largely put down to ineptitude rather than anything more sinister. “We live in a world now which is different to the one I occupied as a ref, in that the decisions that are taken were previously viewed as correct or incorrect based on your judgment,” Webb honked. “Far too often now, decisions are viewed as correct or corrupt by people who want to type all over social media. It opens up space for people to think: ‘Aha, you see this sort of things happening all the time behind the scenes!’ It’s really not like that in my professional experience.” And while Webb is almost certainly correct, a deep mistrust will always remain. Because let’s face it, that isexactlywhat the most paranoid of fans will have expected somebody at the heart of a massive conspiracy to say.\n\n“I got to know the heavy side of life. I had to end my career as a footballer quite early, but that also showed me you can see all challenges in a positive way, and see the opportunity behind it. Now I’m here as Newcastle manager … I couldn’t dream about that 15 years ago. That’s life” – Matthias Jaissle on the serious knee injury that set him on a path to becoming a coach, and eventually following in Alan Pardew’s footsteps.\n\nKick off your evenings with the Guardian's take on the world of football\n\ndouble quotation markMay I be among 1,057 others born in the 1980s to mention that one of Orson Welles’ final film roles was as the voice of Unicron in Transformers: The Movie. His character was an enormous planet which travelled through space, devouring other planets. If that isn’t a suitable metaphor for the Premier League and its transfer windows, I don’t know what is” – Luke Davydaitis (and no others).\n\ndouble quotation markI wonder if West Ham and Wolves fans are regretting ever complaining that they had to wait for the last day of Big Website’s Premier League previews? And if Tottenham fans will take it as a hint that said complaining may lead to no preview at all” – Doug Peters.\n\ndouble quotation markIf Carlos Baleba ends up at Manchester United, I hope we can rely on their fans to finally deliver the ‘Daydream Baleba’ chant the world deserves” – Chris Jersan.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day winner is … Luke Davydaitis. Terms and conditions for our competitions can be viewedhere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.\n\nFootball Weekly continues to preview the Premier League with part two: Hull City to Tottenham.Listen hereorwatch the video version– and here’spart one, in case you missed it.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-20 @ 11:33:12 EDT",
+  "lastUpdated": "2026-08-20 @ 15:09:40 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
