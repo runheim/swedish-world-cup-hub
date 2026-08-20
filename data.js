@@ -4,8 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Arsenal agree £50m-plus deal to sign Villa's Konsa",
+      "text": "⚽ Konsa set for Arsenal medical before £50m-plus move",
       "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Trippier suffers knee injury on Wolves league debut",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckgd5x38p74o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Algorithms amplified World Cup racism, says report",
@@ -16,16 +20,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/clylkxekeleo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Frugal or foolish? Manchester United may regret not backing Carrick",
+      "link": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
+    },
+    {
+      "text": "⚽ Premier League: nine newcomers to watch in the top flight this season",
+      "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+    },
+    {
       "text": "⚽ Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
       "link": "https://www.theguardian.com/football/2026/aug/19/aston-villa-al-hilal-ollie-watkins"
-    },
-    {
-      "text": "⚽ Football transfer rumours: Al-Hilal eye moves for Harry Kane and Ollie Watkins?",
-      "link": "https://www.theguardian.com/football/2026/aug/19/football-transfer-rumours-al-hilal-eye-moves-for-harry-kane-and-ollie-watkins"
-    },
-    {
-      "text": "⚽ March, May and more: footballers scoring in months that match their names | The Knowledge",
-      "link": "https://www.theguardian.com/football/2026/aug/19/march-may-and-more-footballers-scoring-in-months-that-match-their-names"
     },
     {
       "text": "⚽ Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
@@ -45147,10 +45151,154 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-20": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1521_0",
+            "category": "england",
+            "type": "News",
+            "title": "Konsa set for Arsenal medical before £50m-plus move",
+            "bullets": [
+              "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal agree a deal worth more than £50m to sign Aston Villa and England defender Ezri Konsa.",
+            "fullText": "Ezri Konsa helped Aston Villa win the Europa League and was a key player for England at the World Cup\n\nAston Villadefender Ezri Konsa will have a medical withArsenalon Thursday before a Â£50m-plus move to the Emirates Stadium.\n\nArsenalagreed a deal withAston Villafor the England international on Wednesday following weeks of negotiations.\n\nThe centre-back has now been given permission to travel to north London.\n\nBBC Sport revealed last week thatArsenalhad reopened talks with Villa over a deal for Konsa but still fell short of reaching an agreement.\n\nThe Gunners then appeared to pivot towards Bayer Leverkusen's Jarell Quansah before successfully refocusing their efforts on Konsa.\n\nThe 28-year-old, who joined the Villans in July 2019, has made 286 appearances over the past seven seasons.\n\nKonsa featured 48 times last term in all competitions, scoring two goals and contributing one assist, as Unai Emery's side lifted the Europa League and finished fourth in the Premier League to secure Champions League football for 2026-27.\n\nKonsa has not featured at all duringAston Villa's preâseason, includingthe 2â1 defeat to Paris StâGermain in the Uefa Super Cup, after Emery gave him four weeks off following the World Cup.\n\nHe played in every game of England's World Cup run as the Three Lions finished third.\n\nSpeaking after thefinal warmâup matchagainst Borussia Monchengladbach, Emery explained the absence of Konsa, Emiliano Martinez and Ollie Watkins, saying: \"They are joining us after this match.\"\n\nUsually, winning the Europa League and qualifying for the Champions League would leave a club in a position of strength.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1521_1",
+            "category": "england",
+            "type": "News",
+            "title": "Trippier suffers knee injury on Wolves league debut",
+            "bullets": [
+              "Wolverhampton Wanderers confirm right-back Kieran Trippier suffered a knee ligament injury during hi...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Wolverhampton Wanderers confirm right-back Kieran Trippier suffered a knee ligament injury during his league debut for the club against Blackburn.",
+            "fullText": "Kieran Trippier signed a two-year deal at Molineux in June\n\nWolverhampton Wanderers have confirmed right-back Kieran Trippier suffered a knee ligament injury on his league debut.\n\nThe club said former England international Trippier sustained a medial collateral ligament (MCL) injury in his left knee during Friday's2-2 draw with Blackburn Rovers.\n\nThe 35-year-old is expected to be out \"for a number of weeks\" having arrived on a free transfer in June.\n\nMeanwhile fellow defender, Yerson Mosquera, is also set for a spell on the sidelines after picking up an injury against Blackburn.\n\nMosquera, 25, has sustained a slight tear in his ankle ligaments and is expected to miss several weeks of action.\n\nHowever, Wolves director of performance, Phil Hayward, provided better news on winger Rafiki Said.\n\nThe 26-year-old summer signingsuffered a \"high-grade\" injury to his MCLduring a pre-season friendly against Maidenhead United last month, just 11 days after arriving at the club.\n\n\"Rafiki's been working very hard in the gym for the last few weeks with his brace on. He's now out of the brace and the most recent scan looks great, so he's heading, certainly, in the right direction,\" Hayward said.\n\nHayward confirmed that goalkeeper Sam Johnstone was a week away from full fitness while Haiti international midfielder Jean-Ricner Bellegarde was another couple of weeks from returning to first-team training.\n\nSubscribe and listen for everything you love about Wolves",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1522_2",
+            "category": "england",
+            "type": "News",
+            "title": "Algorithms amplified World Cup racism, says report",
+            "bullets": [
+              "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Racist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research.",
+            "fullText": "A number of England players were a target for racist abuse\n\nRacist abuse aimed at England footballers on social media was amplified during the World Cup by algorithms designed to maximise engagement and profit, according to new research.\n\nThe activist group Hope Not Hate analysed more than 300,000 posts on the platform X (formerly Twitter) during the 2026 World Cup and found more than 5,500 explicitly racist posts targeting England players.\n\nThe organisation argues that X's recommender algorithm pushed toxic content into millions of feeds, because posts which provoke anger and outrage can generate more interaction.\n\nPosts generating strong reactions keep people on the platform for longer and can ultimately help drive advertising revenue.\n\n\"X is actually benefiting from this hate,\" Patrik Hermansson, senior researcher at Hope Not Hate told BBC Sport.\n\n\"It drives engagement on its platform and it effectively uses its algorithm to elevate and show it to more of its users.\n\n\"They show up in the recommendation feed - they are not obscure corners of this website, they are front and centre.\n\n\"That's a choice it doesn't have to make and yet it does\".\n\nJude Bellingham was the player most targeted by racist abuse, while Bukayo Saka and Kobbie Mainoo experienced the highest proportion of racism compared with the total number of posts mentioning them.\n\nDjed Spence, who has converted to Islam in recent years, was also subjected to a distinct stream of anti-Muslim abuse, Hope Not Hate said.\n\nIn addition, researchers examined how abuse gathered in the replies to individual high-profile posts on the platform.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1523_3",
+            "category": "england",
+            "type": "News",
+            "title": "Kane plays down returning to Premier League in future",
+            "bullets": [
+              "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.",
+            "fullText": "Kane has scored 98 league goals in three seasons at Bayern Munich\n\nHarry Kane says \"the itch isn't there as much anymore\" to one day return to England from Germany and try and break the all-time scoring record in the Premier League.\n\nThe striker leftTottenhamto join Bayern Munich in 2023 having scored 213 goals in the English top flight, 47 goals short of Alan Shearer's tally of 260.\n\nKane has been in sensational form for club and country since moving to Munich, and last season hit a total of 73 goals.\n\nHe has entered the final 12 months of the four-year deal he signed after his Â£86.4m move from Spurs three years ago,but is set to begin discussing a new contract at Bayern.\n\nAfter receiving the Golden Shoe for finishing top scorer in the Bundesliga on Wednesday, the England captain stressed how settled he feels at Bayern.\n\nKane said: \"When I first left, for sure it was something I thought - I would definitely be coming back. That itch isn't there as much anymore.\n\n\"I am extremely happy here in Munich, it opened my eyes to a totally different world of football outside of England and it has made me appreciate European football even more.\n\n\"I just think the team we have here and the manager, my family is really settled here, it is just about being in the best place possible.\n\n\"Never say never, but for now I am concentrating on Bayern Munich and we will see what the future holds.\"\n\nKane says he is proud of being in Ballon dâOr contention\n\nKane scored 61 goals in 51 appearances for Bayern last season as Vincent Kompany's side completed a league and cup double.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1523_4",
+            "category": "england",
+            "type": "News",
+            "title": "Frugal or foolish? Manchester United may regret not backing Carrick",
+            "bullets": [
+              "Another left-back has been a priority all summer, but there seems to be no sign of one coming to Old...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Another left-back has been a priority all summer, but there seems to be no sign of one coming to Old TraffordAfter signing Aaron Wan-Bissaka in 2019, Manchester United’s PR machine boasted they had scouted 804 right-backs before landing on the Crystal Palace player. At the time it felt like an&nbsp;unnecessary brag, designed to&nbsp;convince fans and journalists the&nbsp;club were doing their due diligence when it came to scouting and data.Now, as the search for a left-back to challenge Luke Shaw drags on with less than two weeks of the summer transfer window remaining, there seems to be a lack of credible targets. Continue reading...",
+            "fullText": "Another left-back has been a priority all summer, but there seems to be no sign of one coming to Old Trafford\n\nAftersigning Aaron Wan-Bissakain 2019, Manchester United’s PR machine boasted they had scouted 804 right-backs before landing on the Crystal Palace player. At the time it felt like an unnecessary brag, designed to convince fans and journalists the club were doing their due diligence when it came to scouting and data.\n\nNow, as the search for a left-back to challenge Luke Shaw drags on with less than two weeks of the summer transfer window remaining, there seems to be a lack of credible targets.\n\nAs they did with Wan-Bissaka seven years ago, United’s analysts this summer plumped for a prodigious English full-back playing for one of the Premier League middleweights. That player, Lewis Hall, ticks many boxes for the club except for the price, with Newcastle understandablyslapping a premiumon the 21-year-oldhaving already lostAnthony Gordon, Sandro Tonali and Bruno Guimarães. United have indicated a reluctance to pay over the odds for players and hence negotiations for Hall have hit the rocks, with Newcastle valuing him at about £70m.\n\nHowever, United’s need for a left-back reinforcement to help out Shaw, and probably displace him longer term, is clear. The 31-year-old started every Premier League game last season and performed solidly, but his history with injuries is such that another ever-present campaign is highly unlikely, especially as United will have far more than the 40 games they played last season – the minimum amount possible and the fewest since 1914-15.\n\nWith the return of Champions League football, United should play upwards of 50 games. With Casemiro gone and Manuel Ugarteunavailable for the rest of 2026with a knee ligament injury, United would appear to have found the final piece of their midfield puzzleas they pursue Brighton’s Carlos Baleba. Up front,Marcus Rashford is backafter loans at Aston Villa and Barcelona and, if he stays, will offer pace and variety to boost the attack.\n\nThat leavesone major area of concern, heightened by the fact Shaw struggled in a 4-2 pre-season defeat to Ruben Amorim’s Milan on Saturday. Although Jorge Salinas of Racing Santander and Club Brugge’s Joaquin Seys have been linked with the club, both are green and would appear unready to usurp Shaw. Patrick Dorgu is viewed as more of a winger by Michael Carrick while Diogo Dalot and Noussair Mazraoui are clunky fits on the left side of defence. Youngster Harry Amass is likely to be sold or loaned out.\n\nUnited will be fairly happy with their midfield business if and when they get the Baleba deal done. Andrey Santos andYouri Tielemanshave impressed in pre-season after United chose not to go afterElliot Anderson, signed by Manchester City for £116m, norTonaliorMateus Fernandes, who joined Tottenham for a combined £185m. A third new midfielder was always needed to reducethe burden on Santos, Tielemans and Kobbie Mainoo over a long season.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“We’ve done really good business,” Carrick said last week, before news of the Baleba transfer was mooted. “We’re delighted with that [but] we want more, we need more. We keep looking for how we can do that, so that never stops.\n\n“Over time we need to be pushing to enhance the squad, 100% we need to do that.”\n\nBut if Carrick is to push for one final marquee signing, can United afford not to fully back their manager when there is a hole in the squad? Can they find value in the market as they did with Santos and Tielemans? The hope is a left-back transfer comes out of nowhere, as the deals for the three midfielders have done.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1523_5",
+            "category": "england",
+            "type": "News",
+            "title": "Premier League: nine newcomers to watch in the top flight this season",
+            "bullets": [
+              "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brou...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brought in exciting playersBy Opta AnalystAnthony Gordon will be a difficult act to follow at Newcastle, but Touré could be a shrewd replacement. Blessed with electric pace, the 20-year-old is a bit more of an old-fashioned winger in that he predominantly plays from the left and is left-footed. As a result, he was more of a creator than a goalscorer for Hoffenheim last season. Continue reading...",
+            "fullText": "Newcastle, Arsenal, Brentford, Everton, Leeds, Coventry, Aston Villa, Hull and Ipswich have all brought in exciting players\n\nAnthony Gordon will be a difficult act to follow at Newcastle, but Touré could be a shrewd replacement. Blessed with electric pace, the 20-year-old is a bit more of an old-fashioned winger in that he predominantly plays from the left and is left-footed. As a result, he was more of a creator than a goalscorer for Hoffenheim last season.\n\nOf his 14 Bundesliga goal involvements last term, nine were assists, and Touré’s total of 44 chances created in open play was bettered by five players. Gordon laid on only 24 chances in open play in thePremier Leaguelast season. Touré is a high-volume crosser (his 115 in open play were the fourth most in the Bundesliga last season) and will be different to Gordon, but potentially a valuable source of danger.\n\nWhile hardly the most glamorous name in the Premier League, Leandro Trossard was a useful and dependable player for Arsenal. Replacing him is easier said than done.Tzolis has been given that taskand he looks a good fit.\n\nFor starters, he was a highly effective creator for Club Brugge last season, with his 135 chances created being 35 more than anyone else in the Belgian Pro League. Crucially, he produced the goods at set pieces – and we know how important they are for Mikel Arteta. Declan Rice was Arsenal’s most effective player from set pieces last season, creating 27 chances; Tzolis’s deliveries yielded 52 opportunities. That accounted for 38.5% of his total chances created. While Rice (42.9%) had a greater proportion from dead-ball situations, his total (63) was far lower than the Greek winger’s.\n\nTzolis is unlikely to match the 40 goal involvements he recorded last season, though he made a strong first impression during theCommunity Shield win against Manchester Citywith two assists.\n\nThere are plenty of French football experts who were very surprised to see Sangaréonlyend up atBrentfordthis summer. The fact the Mali international has just a single season’s experience in a top league may have counted against him, though Brentford look set to benefit from the hesitance of others.\n\nSangaré proved himself to be an eye-catching all-round midfielder at Lens last season. Across Europe’s top five leagues, only Elliot Anderson (8.26) and Exequiel Palacios (8.04) averaged more possession regains per 90 (900+ minutes) than him (8.01). And when looking specifically at possession won in the middle third of the pitch, his 4.7 per 90 saw him rank second.\n\nSangaré offered plenty on the ball as well. Only four Ligue 1 players tallied more secondary chances created (that’s the passbeforethe pass that creates a chance) than his 31. He uses the ball smartly and is a dependable presence in the buildup, both in terms of his distribution and ability to hold on to the ball under pressure.\n\nHackney built a strong reputation during his four full seasons in the Championship with Middlesbrough after coming through the club’s academy. But, after Boro failed to earn promotion last season, it seemed highly unlikely the former England Under-21s international would be staying at the Riverside Stadium.Everton were the ones to make the movefor a fee that could rise to £25m.\n\nHackney is a deep-lying playmaker who is accurate in possession but also brings a degree of progressiveness with his passing – without being overly risky. At 33.5%, his proportion of open-play passes played forward is only a little over average among positional peers in the Championship last season, but at the same time his 52 secondary chances created were the most of everyone in the division. Similarly, his 4.86 expected assists (xA) saw him rank seventh. If the 24-year-old adjusts to the top flight, an England call-up may not be too far away.\n\nCoventry attracted a lot of praise (and envy) when they signed Yirenkyi from Nordsjælland this month. The 20-year-old Ghana international has been exciting people in analytics circles for a while thanks to his broad skill set. Nominally a central midfielder, Yirenkyi can feature as a No 6, a No 8 or even at right-back, and his range of talents suggests he could be a good fit for the Premier League.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1523_6",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal agree £51m deal to sign Ezri Konsa from Aston Villa",
+            "bullets": [
+              "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Defender to provide cover for injured Saliba and TimberVilla braced for fresh bid from Al-Hilal for Ollie WatkinsArsenal have agreed a £51m deal to sign Ezri Konsa from Aston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.Mikel Arteta hopes Konsa, whose Villa contract has two years to run, can help make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, having sustained a back injuryin France’s World Cup semi-final defeat against Spain. Continue reading...",
+            "fullText": "Defender to provide cover for injured Saliba and Timber\n\nVilla braced for fresh bid from Al-Hilal for Ollie Watkins\n\nArsenal have agreed a £51m deal to sign Ezri Konsa fromAston Villa. The Premier League champions have been keen to find defensive cover for William Saliba and Jurriën Timber, who are out with injuries. They have tracked Konsa throughout the summer and have made a breakthrough in the negotiations.\n\nMikel Arteta hopes Konsa, whose Villa contract has two years to run, can help make light of Saliba’s absence in central defence. The timeframe for the Frenchman’s return is unclear but he is not expected to play before mid-October, havingsustained a back injuryin France’s World Cup semi-final defeat against Spain.\n\nKonsa’s appeal is bolstered by the fact he can also play at right-back, where Timber is battling to return from a groin injury which has affected him for months.\n\nKonsa starred for England on their run to the World Cup semi-finals. A fixture in Villa’s successful team, the 28-year-old will encounter fierce competition atArsenal, especially when Saliba is fit. Arteta rates Saliba’s partnership with Gabriel Magalhães as the best in England but he thinks the addition of a player of Konsa’s calibre is a signal of Arsenal’s desire to build on their title success of last season and dominate.\n\nThe manager knows that his team played 63 matches in all competitions last season, which included runs to the Champions League and Carabao Cup finals, and he hopes to have a similar number this time out. As such, he believes he will be able to give Konsa the minutes he would expect, particularly when injuries are factored in. Arteta is also determined to have more high-quality options so that he can better rotate. At present, he has eight defenders, including Myles Lewis-Skelly, who can play in midfield.\n\nKonsa joined Villa from Brentford in 2019 and has been central to their rise under Unai Emery. He has made 286 appearances for them and was a part of the team that won the Europa League last season. Arsenal kick off the new season at home to Coventry on Friday night.\n\nMeanwhile, Villa are braced for another bid fromAl-Hilalfor Ollie Watkins, after rejecting an offer worth almost £40m for the striker. Al-Hilal are pursuing a move for Villa’s all-time Premier League goalscorer, who has reached double figures in the top flight in his six seasons at the club after joining from Brentford.\n\nIf Villa sell Watkins, who has two years on his contract, they would seek to replace the 30-year-old England striker and Emery is a big admirer of Nicolas Jackson, but Chelsea’s valuation of £65m is thought to be prohibitive to any deal. There is an acceptance at Villa that any marquee arrival before the close of the window would probably have to follow another major sale, owing to the Premier League’s financial regulations.\n\nEmery has had to significantly reshape his squad this summer after the departures ofMorgan Rogers,Youri TielemansandLucas Digne, who joined Chelsea, Manchester United and Paris Saint-Germain respectively, with Konsa now also on the move.\n\nVilla have signed Zion Suzuki as a replacement for Emiliano Martínez, whose future remains unclear. Suzuki, a £30m buy from Parma, will be the first Japanese goalkeeper to play in the Premier League.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1523_7",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Sensible soccer: are football clubs actually signing the players they need?",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!In the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ career Harry’s mooted move from Bayern Munich to Al-Hilal would be comparable with. The flawed masterpiece The Magnificent Ambersons, perhaps, or that thing where he loses his mind over Findus peas.Don Revie and his merry henchmen [Tuesday’s Memory Lane, full email edition] getting ready for a night on the lash, as it was back then. Lest we forget: one-club man Jack Charlton once said ‘I cant play football, but I can stop those that can’. Diamond geezer eh?” – Alvin Jordan.It was bewildering to read in Tuesdays’s Football Daily that ‘Kevin Lamour was a lone dissenting voice inside Fifa’s lair when Gianni Infantino’s plot to flog part of the World Cup to private investors – potentially on the cheap – was rumbled’. He was far from lone. Fifa’s secretary-general, Mattias Grafström, called the FFE plans a ‘sad and reproachable series of events’ in an email to staff. Fifa’s chief of global development, someone called Arsène Wenger, pronounced the withdrawal of FFE ‘absolutely necessary and beyond question’. Above all, Infantino’s right-hand man, the Fifa senior advisor Carlos Cordeiro, stated: ‘I cannot stand by while Fifa considers selling a stake in the World Cup. Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.’ And unlike Lamour, Grafström, or Wenger, Cordeiro put his money where his mouth was and resigned” – Simon Skinner.Talking of players’ wages, my Middlesborough friend who knew Wilf Mannion told me that when he was chosen to play for England at Wembley that they gave him a third-class rail ticket to get there. Unfortunately the train was so crowded that he had to sit on his suitcase in the corridor the whole way to London (not an unusual situation in those days)” – Bob Hopper.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nIn the 1941 RKO Radio Pictures/Mercury repertory theatre production Citizen Kane, Orson Welles essayed a man who began as a whirlwind of prolific energy, only to spectacularly fizzle out, to the extent that near the end, stubborn pride his only remaining fuel, he could barely move around or achieve anything of note at all. Football Daily isn’t sure how any of this relates to Charles Foster’s namesake Harry, or his recent Geopolitics World Cup campaign; nor are we sure what bit of Welles’ careerHarry’s mooted move from Bayern Munich to Al-Hilalwould be comparable with. The flawed masterpiece The Magnificent Ambersons, perhaps, or that thing where he loses his mind over Findus peas.\n\nBut potential transfers are all the rage right now, nestled as we currently are in the otherwise barren taint betwixt the aforementioned GWC and the new domestic season. Arsenal are in the market for a centre-back, because they always are – the foundations built by George Graham go wide and deep – and are sniffing theatrically aroundEzri Konsa of Aston VillaandBayer Leverkusen’s Jarel Quansah. Either would suffice. Or possibly both. Quansah’s former club Liverpool are desperate for defensive reinforcements too, so naturally they’re concentrating their efforts on yet another slight forward, Ethan Nwaneri the latest name on a long list that also includes half of the PSG squad and will probably lead nowhere. To be fair, their sporting director Richard Hughes is reportedly off to Al-Hilal once this window shuts, and there’s all this Kane stuff going on, the poor man can’t be expected to do everything at once.\n\nBy way of contrast, Manchester United have been much more proactive in the market this summer. Having signed just a single useful central midfielder between 2007 and 2025 in Bruno Fernandes (subs please check), it now appears they’ll land three in as many months. They’ve already thrownAndrey SantosandYouri Tielemansinto that big gaping hole that’s been in the middle of Old Trafford for decades, and are nowvery close to adding 2024’s Carlos Baleba to the mix. The only question will be whether the difference between the £100m previously demanded by Brighton and the £65m the Cameroon international could now cost is either a smart bit of business by United or a big red flag. Football Daily certainly isn’t sure, so without anything useful to contribute, and the weather outside finally turning, we’re off to prepare for the onset of winter. Now, where’s that goddamn sled? We can never find that goddamn sled.\n\n“We are so close to making history for unbeaten games in a row. This isn’t normal in football” – former Watford boss Xisco Muñoz tells Sam Cunninghamhow he plans to leadall-conquering Johor Darul Ta’zim to AFC Big Cup glory.\n\ndouble quotation markDon Revie and his merry henchmen [Tuesday’s Memory Lane, full email edition] getting ready for a night on the lash, as it was back then. Lest we forget: one-club man Jack Charlton once said ‘I cant play football, but I can stop those that can’. Diamond geezer eh?” – Alvin Jordan.\n\ndouble quotation markIt was bewildering to read in Tuesdays’s Football Daily that ‘Kevin Lamour was a lone dissenting voice inside Fifa’s lair when Gianni Infantino’s plot to flog part of the World Cup to private investors – potentially on the cheap – was rumbled’. He was far from lone. Fifa’s secretary-general, Mattias Grafström, called the FFE plans a ‘sad and reproachable series of events’ in an email to staff. Fifa’s chief of global development, someone called Arsène Wenger, pronounced the withdrawal of FFE ‘absolutely necessary and beyond question’. Above all, Infantino’s right-hand man, the Fifa senior advisor Carlos Cordeiro, stated: ‘I cannot stand by while Fifa considers selling a stake in the World Cup. Let me be clear: I had no involvement in this proposal, and I oppose it unequivocally. It is a bad deal for Fifa’s member associations, a bad deal for football, and a bad deal for the long-term future of the game.’ And unlike Lamour, Grafström, or Wenger, Cordeiro put his money where his mouth was and resigned” – Simon Skinner.\n\ndouble quotation markTalking of players’ wages, my Middlesborough friend who knew Wilf Mannion told me that when he was chosen to play for England at Wembley that they gave him a third-class rail ticket to get there. Unfortunately the train was so crowded that he had to sit on his suitcase in the corridor the whole way to London (not an unusual situation in those days)” – Bob Hopper.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day winner is … Simon Skinner. Terms and conditions for our competitions can be viewedhere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-19 @ 22:32:50 EDT",
+  "lastUpdated": "2026-08-20 @ 07:15:24 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
