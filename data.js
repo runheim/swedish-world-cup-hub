@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ ‘Really exceptional’: O’Neill hails Durán as Celtic surge towards Champions League",
-      "link": "https://www.theguardian.com/football/2026/aug/19/celtic-lask-champions-league-playoff-match-report"
+      "text": "⚽ Premier League returns and Arsenal sense opportunity with rivals in flux",
+      "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-returns-arsenal-sense-opportunity"
     }
   ],
   "timeline": {
@@ -17688,11 +17688,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_1858_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Premier League returns and Arsenal sense opportunity with rivals in flux",
+            "bullets": [
+              "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the keyMikel Arteta wants to get his messaging absolutely right. According to him, Arsenal are not about to defend their Premier League title. They are set to attack another one.Remember Win the dog, who the manager brought in to the club’s training ground a few years back? She must now be called “Won”. But it is when Arteta quibbles over another bout of semantics that he highlights why he is entering the new season with such energy and optimism. Continue reading...",
+            "fullText": "New managers galore suggest many of the usual suspects will struggle to dethrone the champions, but their own hunger could be the key\n\nMikel Arteta wants to get his messaging absolutely right. According to him, Arsenal are not about to defend theirPremier Leaguetitle. They are set to attack another one.\n\nRemember Win the dog, who the manager brought in to the club’s training ground a few years back? She must now be called “Won”. But it is when Arteta quibbles over another bout of semantics that he highlights why he is entering the new season with such energy and optimism.\n\nDo not talk to him about Arsenal’s stability. He prefers the word “consistency” along with more thrusting ones like “ambition”. The overall theme is clear. When Arteta surveys the landscape at the top end of the English game, he sees a settled environment at his club and flux elsewhere.\n\nIn terms of the so-called Big Six – the richest clubs in the country, as ranked by Deloitte – there are new managers at Manchester City, Liverpool and Chelsea; a virtually new one at Tottenham and a relatively new one atManchester United. It has been a summer of unprecedented change in the Premier League with nine clubs with a new man in charge. Of those who hold out hope of a title challenge, only Aston Villa have a fully bedded-in manager in Unai Emery.\n\nRather abruptly, Arteta finds himself as the longest-serving manager in the division;he took over from Emeryat Arsenal in December 2019. Emery is second on the list,having been at Villafor three years and nine months, and only one other –Daniel Farke at Leeds– has been at his club for more than three years.\n\nWhen Arteta was given the job at Arsenal, Pep Guardiola was two titles into his storied City tenure, Jürgen Klopp had won the Champions League atLiverpooland was on his way to winning the league that season and José Mourinho had just joined Spurs.\n\nArteta has seen them all off, withGuardiola’s departure from Cityat the end of last season being the most significant single shift in the dynamics for the forthcoming campaign.\n\nArteta is nowthe big beast, the only current manager to have won the Premier League, and as Arsenal prepare for the curtain-raiser at home to Coventry on Friday night, it is hard to ignore the confidence they are projecting. With virtually of all their rivals in transition, uncertainty undercutting the excitement, predictions difficult to make in the face of little actual evidence, Arsenal are reassured by their firm foundations. They sense opportunity, another title; the creation of a dynasty. That is the ultimate goal.\n\nThere is something more. Namely how everything changed for them in the closing weeks of last season. City had done the hard work, clawing back a nine-point deficit from the middle of March – a period when they had a game in hand. But in the five-match shootout that followed, City blinked first,drawing at Everton. Most know how nerve-racking it was for Arsenal. Not least Arteta. The Emirates Stadium was a sea of anxiety when Arsenal last played there – against Burnley in the penultimate game of the season. They gota 1-0 win over the line.\n\nThenCity drew at Bournemouthand it was over; Arsenal’s 22-year wait, the oppressive weight. It is impossible to underestimate the feeling of liberation. Nobody can question the bottle of this team. Nobody will taunt them with the cry of “second again, olé, olé.” It is plain Arteta and his players will feed off it and perhaps it will lead to a more expansive style of football. The fear of falling short inhibited their game as the heat rose last time out.\n\nArsenal have made changes behind the scenes, looking for the marginal gains, most notably in the medical department where the head doctor, Zafar Iqbal, was mutually consented in early June. Arnaldo Abrantes has come in from Aston Villa to replace him. If the players can stay fitter for longer, Arsenal believe they can stay ahead. They have protected themselves with moves to deepen an already well-stocked squad.Bruno Guimarãesis the most eye-catching addition, withEzri Konsa about to follow.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-20 @ 15:09:47 EDT",
+  "lastUpdated": "2026-08-20 @ 18:18:58 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
