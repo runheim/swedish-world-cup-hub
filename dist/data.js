@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ 'Hungry to win' - Villa's Konsa joins Arsenal in £51m deal",
+      "text": "⚽ 'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&amp;at_campaign=rss"
     },
     {
@@ -12,20 +12,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ What does Heggebo's deception ban mean for football?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
       "link": "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ West Ham's Wan‑Bissaka joins Aston Villa on loan",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ West Brom's Heggebo banned for 'handball goal'",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c7vg26r2yd1o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Konsa joins Arsenal; Shakhtar to play European home games at Chelsea; Paredes gets 10-match ban: football – live",
-      "link": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live"
     },
     {
       "text": "⚽ Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
@@ -46067,11 +46059,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0540_0",
+            "category": "england",
+            "type": "News",
+            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+            "bullets": [
+              "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+            "fullText": "Ezri Konsa was a key player for England at the World Cup\n\nEzri Konsa says he is proud to play for \"one of the best teams in the world\" as he completed his Â£55m move toArsenal.\n\nThe 28-year-old England defender joins the Premier League champions fromAston Villaon a four-year contract, with the option to extend for a further year.\n\nAfter weeks of negotiation, the clubsreached an agreementon Wednesday which could earn Villa up to an additional Â£4m in add-ons.\n\n\"It's a privilege to be here and can't wait to get started,\" said Konsa,who revealed he had spoken withArsenal's Three Lions players about joining while at the World Cup.\n\n\"I want to keep winning, I'm hungry to win and that's what I'm here for.\n\n\"It's a proud moment for me and my family to play for one of the best teams in the world.\"\n\nBBC Sport revealedArsenal were in talks with Villaabout signing Konsa last week, but the clubs disagreed on his valuation.\n\nBayer Leverkusen's Jarrell Quansah, who represented England alongside Konsa at this summer's World Cup, was also an option for the Gunners before a fee was finally agreed.\n\nArsenal's sporting director Andrea Berta said: \"Ezri is a defender of high quality, whose athleticism, composure and tactical intelligence have established him as one of the Premier League's most consistent performers.\n\n\"Being comfortable in both central defence and at right-back, Ezri will bring valuable versatility to our squad while maintaining the high defensive standards which are fundamental to our challenge of winning major trophies.\"\n\nKonsa made 286 appearances for Villa since joining in July 2019 fromBrentfordand helped them win the Europa League in May, the club's first European trophy since 1982.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0541_1",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins could leave Villa before transfer deadline - Emery",
+            "bullets": [
+              "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer.",
+            "fullText": "Ollie Watkins scored 21 goals last season to help Aston Villa win the Europa League\n\nStriker Ollie Watkins could continue theAston Villaexodus with boss Unai Emery unable to guarantee he will stay.\n\nThe England international is wanted by Saudi club Al-Hilal, with Emery confirming offers have been made.\n\nEzri Konsa is moving toArsenalfor Â£51m while Morgan Rogersjoined Chelsea for a record Â£117m,with Youri Tielemans and Lucas Digne also leaving this summer.\n\nEmery wants to keep Watkins but admits the 30-year-oldcould leave Villa Park.\n\n\"We have an issue with him, it's clear. He is our player. We have had offers for him,\" said Emery.\n\n\"I don't want to sell him but it can change because if it's a good option for him and the club and I can replace him in the squad, this is the routine we have and we did before with the players who are leaving.\n\n\"With Ollie, he is here, for me he is a fantastic striker, we have always believed in him.\n\n\"Now he is our player, there are 10 days more or less to finish the transfer window, we will see what happens, I'm happy with him, if he is staying with us he will continue playing his level.\n\n\"If he leaving it's because it is good for three ways, one is him, another is the club and another is the team.\"\n\nWatkins has scored 108 goals for Villa since joining fromBrentfordfor Â£28m in 2020 and is the club's record Premier League scorer.\n\nIf Watkins and goalkeeper Emi Martinez leave, VIlla will have soldsix of the starting XI which won the Europa League two months ago.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0541_2",
+            "category": "england",
+            "type": "News",
+            "title": "What does Heggebo's deception ban mean for football?",
+            "bullets": [
+              "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two match...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\".",
+            "fullText": "Aune Heggebo joined West Brom from Norwegian side SK Brann for an undisclosed fee in July 2025\n\nIt is 0-0 between Norwich City and West Bromwich Albion with 15 minutes remaining in the opening game of the season at Carrow Road.\n\nBaggies forward Jimmy Jay-Morgan crosses it into Norwich's six-yard box at pace, flying by the outstretched hand of Canaries keeper Vladan Kovacevic and into the path of Albion striker Aune Heggebo.\n\nThe Norwegian jumps, seemingly trying to guide it in with his foot but it hits his hand instead and flies into the net.\n\nDid he mean to handball it? Hard to tell at the speed it all happened.\n\nNorwich players protest, but referee Tim Robinson and his assistants did not see it and the goal is given.\n\nWest Brom lead 1-0 in the Championship match. Morgan doubles the lead before Mathias Kvistgaarden scores a 90th-minute consolation for the hosts.\n\nIn a league without Video Assistant Referees (VAR), apart from the lingering unhappiness at the decision which contributed toWest Brom's 2-1 win,that is normally the end of it.\n\nHeggebo became the first player to be charged by the Football Association with \"deception of a match official\", a little known rule first broughtin 2017-18.,external\n\nLittle detail, reasoning or context has been given beyond afactual statement announcing the ban from the Football Association.,external\n\nNow attention is turning to what precedent might have been set.\n\nIf you gain from something that may well have been accidental â West Brom insist it was â should you own up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0541_3",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
+            "bullets": [
+              "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same te...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same team successfully, new head coach Jose Mourinho says.",
+            "fullText": "Jose Mourinho says Jude Bellingham, Vinicius Jr and Kylian Mbappe are not \"incompatible\" together in a team\n\nReal Madrid boss Jose Mourinho says it will be hard to find the \"perfect set-up\" to fit Kylian Mbappe, Vinicius Jr and Jude Bellingham into the same team, but insists the trio are not \"incompatible\".\n\nAfterlast season was overshadowed by chaos,amid fan unrest and allegations of players fighting at the Bernabeu, Mourinho will need all three of his stars if Los Blancos want to reclaim the Spanish title from a Barcelona team who have won the past two.\n\nHowever, the 63âyearâold, whose return to Real for asecond stint in charge was confirmed in June, admitted he faces a \"difficult\" task in fitting all three players into the same starting eleven.\n\nSpeaking to the media before Real's La Liga opener against Espanyol on Saturday, Mourinho said: \"They are incredible players and incredible players want to play with incredible players. Top players have frustration when they play with teammates who are not top.\n\n\"The best want to play with the best. After the tactical adjustments, it might be a little bit more difficult,\" he added.\n\nReal Madrid in crisis - inside the conflict and chaos at the Bernabeu\n\nBefore facing Bayern Munich in the Champions League quarter-final last season, Jude Bellingham said \"it can be difficult\" to be at his individual best when he, Mbappe and Vinicius are all on the pitch together.\n\n\"It's difficult, because I still feel like there have been many games where we've mixed really well,\" Bellingham said when asked about combining with his star team-mates.\n\n\"It can be difficult when we're all on the same side. We're fluid, we have freedom to move around, at times that can disorganise a bit, but with both of them, you have to trust in their ability.\"\n\nMourinho said England's Bellingham, France's Mbappe and Brazil's Vinicius all played in \"perfect\" roles for their countries during the World Cup, but admitted replicating that in Madrid this season will be a tougher task.\n\n\"It's harder for Mourinho to find the perfect set-up for all three. It's harder. But here we are. I want all three of them to feel comfortable on the field together,\" he said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0541_4",
+            "category": "england",
+            "type": "News",
+            "title": "Crystal Palace agree Disasi loan and tell Manchester City that Wharton is not for sale",
+            "bullets": [
+              "Centre-back to join from Chelsea after Acheampong snubWharton has three years left on current deal a...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Centre-back to join from Chelsea after Acheampong snubWharton has three years left on current deal at PalaceCrystal Palace have agreed a deal with Chelsea to sign Axel Disasi on loan and are expecting further interest in some of their key players in the final week of the transfer window, having informed Manchester City that Adam Wharton is not for sale.Palace have been searching for a replacement for Maxence Lacroix after selling the France defender to Chelsea and are also understood to have approached Xabi Alonso’s side over a potential move for Josh Acheampong. But with Chelsea not willing to allow the England Under-21s international to leave Stamford Bridge, Palace have opted to bring in Disasi instead. The 28-year-old, who spent the second half of last season on loan at West Ham, is set to complete his medical on Friday. Continue reading...",
+            "fullText": "Centre-back to join from Chelsea after Acheampong snub\n\nWharton has three years left on current deal at Palace\n\nCrystal Palace have agreed a deal with Chelsea to sign Axel Disasi on loan and are expecting further interest in some of their key players in the final week of the transfer window, having informedManchester Citythat Adam Wharton is not for sale.\n\nPalace have been searching for areplacement for Maxence Lacroixafter selling the France defender to Chelsea and are also understood to have approached Xabi Alonso’s side over a potential move for Josh Acheampong. But with Chelsea not willing to allow the England Under-21s international to leave Stamford Bridge, Palace have opted to bring in Disasi instead. The 28-year-old, who spent the second half of last season on loan at West Ham, is set to complete his medical on Friday.\n\nPalace are also hoping to bring in a midfielder before the deadline and have expressed an interest in signing Kévin Danois from Auxerre and Monaco’s Lamine Camara. But it is understood the Conference League winners are determined to keep Wharton after City made an inquiry about the England midfielder this week. The 22-year-old has three years left on his contract at Selhurst Park and it is thought Palace would demand a sizeable fee to consider selling him. Liverpool andChelseahave both also shown interest in Wharton in the past, with the latter said to be monitoring his situation should City make a bid for Enzo Fernández.\n\nPierre Sage is hoping Wharton will stay for another season. “We sold big players and now I think it’s not the moment to do that,” said Palace’s manager as he prepared for their Premier League opener against Everton on Saturday. “Adam can play at a big club but I think one year with us, one year with a new dynamic, will be good for him and we need him.”\n\nSage delivered the same message about Ismaïla Sarr after Palace turned down a bid of about £26m from Galatasaray for the Senegal forward. The Turkish side are expected to return with an improved offer and could face competition from their Istanbul rivals Fenerbache for last season’s top scorer. “We will keep him,” said Sage. “He’s a really important player for the club and for us. He will be able to play this weekend.”\n\nThere is, however, a strong possibility that Daniel Muñoz could depart after Palace signed Anan Khalaili last week, and given his fellow new recruits Óscar Minguezaand Zavier Gozocan also fill the right-wingback role. The Colombia defender has entered the final two years of his contract and is thought to be valued at about £25m, with Everton, Nottingham Forest and Tottenham having been linked with him in recent days.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0541_5",
+            "category": "england",
+            "type": "News",
+            "title": "New rules, managers and pundits: what’s different this Premier League season?",
+            "bullets": [
+              "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the DayThe 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked.Marco Rose – BournemouthXabi Alonso – ChelseaPierre Sage – Crystal PalaceÁlvaro Arbeloa – FulhamGary O’Neil - Ipswich TownAndoni Iraola – LiverpoolEnzo Maresca- Manchester CityMatthias Jaissle – NewcastleOliver Glasner – Nottingham Forest Continue reading...",
+            "fullText": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day\n\nThe 2026-27Premier Leagueseason kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked.\n\nThe Premier League has some law and rule changes this season and the first will lead to a crackdown on time wasting.\n\nReferees will be able to start a countdown of five seconds if they believe players are ticking down the clock during throw-ins and goal-kicks. If players take more than five seconds once the countdown has been enforced, the goal-kick becomes a corner and the throw-in is reversed.\n\nThat is not all that is being done to cut time-wasting. Last season, if a player was injured and play stopped as a result, they had to leave the pitch for 30 seconds. In this campaign, it will be increased to a minute and the only exceptions will be if a foul that received a card led to the injury, or other unusual circumstances.\n\nThere will also be a change to limit tactical timeouts by goalkeepers going down injured. If they do, a manager must choose another player to leave the pitch for one minute. Substitutions will also need to take just 10 seconds; if a player takes longer than that to leave the pitch, his replacement will not be able to come on for a further minute.\n\nThere will also be changes to video assistant referee interventions. VARs will now be able to intervene on second yellow cards if they have been shown in error. They cannot, however, tell a referee to issue a second yellow if one is not shown.\n\nVARs will also be able to get involved where an attacking foul happens before a set piece is taken which leads to a penalty, a goal or a disciplinary sanction. They will be able to intervene to have the set piece retaken.\n\nDespite players being given red cards for speaking to opposition players with their mouths covered at the World Cup this past summer, this is not a rule that will be adopted by the Premier League.\n\nThis season the defending champions, Arsenal, will have the longest-serving manager in the Premier League. Mikel Arteta has been in charge since 2019 and delivered his first title last season; Aston Villa’s Unai Emery is second on the list, with Leeds’ Daniel Farke third.\n\nThe upcoming campaign will set a record for the most new managers at the start of a Premier League season. The nine new names in the dugout are:\n\nThere have been hundreds of signingsin this summer’s transfer windowand many have caught fans’ attention. Here are five to keep an eye on for this upcoming season:",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0542_6",
+            "category": "england",
+            "type": "News",
+            "title": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
+            "bullets": [
+              "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially d...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fansIt seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of Ronaldinho’s signing. The Brazilian, a former Ballon d’Or winner and one of the most recognisable figures in world football, had played his last official match in 2015 for Fluminense; a professional signing in Serie C at 46 years of age seemed unrealistic, to say the least. With football’s attention taken by the World Cup, the game was shocked by this bolt from the blue. For the most part it remained in disbelief.There was much discussion, in the city and around the world, about the real value of this operation, and we talked about it too, speaking with the mayor, the fans and the president of Ravenna, Ignazio Cipriani, scion of the family known globally for Harry’s Bar, who is giving his city much more than a dream. Continue reading...",
+            "fullText": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fans\n\nIt seemed like a joke, a hoax, when at 10pm on 19 June, Ravennabroke the news of Ronaldinho’s signing. The Brazilian, a former Ballon d’Or winner and one of the most recognisable figures in world football, had played his last official match in 2015 for Fluminense; a professional signing in Serie C at 46 years of age seemed unrealistic, to say the least. With football’s attention taken by the World Cup, the game was shocked by this bolt from the blue. For the most part it remained in disbelief.\n\nThere was much discussion, in the city and around the world, about the real value of this operation, and we talked about it too, speaking with the mayor, the fans and the president of Ravenna, Ignazio Cipriani, scion of the family known globally for Harry’s Bar, who is giving his city much more than a dream.\n\nThat dream materialised, dispelling any doubts, at 11.50am on Thursday, whenRonaldinho, in a floral shirt and Bermuda shorts, with his now-familiar flat cap on his head, walked down the steps of the private jet that brought him from Milan Linate to the runway of Forlì airport. It is all true, all real. From there, he went on to the customary medical, like a true footballer. Ronaldinho is becoming a partner in the Ravenna club, as explained by the president, but he will also play his part on the pitch, with the dream of scoring the final goal of his career in the yellow and red jersey.\n\nThen came the quick press conference, organised by the ownership at the Monaldina, the historic residence of the Gardini-Ferruzzi entrepreneurial family, the maternal dynasty from which Cipriani descends. There were few questions and hushed answers, very few words carefully chosen by Ronaldinho, who with his customary smile and gentle manners seems to have stepped back in time.\n\n“The Milan derby is the most beautiful memory of my previous Italian experience,” began the former Barcelona and Milan No 10, before clarifying what drove him to Romagna: “Friendship and passion are the keys that brought me back here.”\n\nHe then clarified his goals in Ravenna: “To help, to excite the other players, and to have a spectacular season. To win, if possible.” Regarding his possible presence on the pitch, he explained: “If a goal comes, my experience in Ravenna will become even more beautiful, but whether I will actually play will be decided by the president and the coach.”\n\nWhat does he think of the enthusiasm of Ravenna, a city that has literally gone crazy for him? Ronaldinho smiled and replied: “I just arrived, but I have a great desire to live this experience with the whole city.” His mission, he had already declared, is to bring happiness and love.\n\nEchoing his words and capturing the essence of the city’s excitement was Ariedo Braida. Almost enunciating every word, the veteran executive summarised the operation with a striking remark: “We have the magic of football in Ravenna, what more could we ask for?”\n\nThe former Milan and Barcelona director also recalled the opinion expressed by Kevin-Prince Boateng in 2016, according to which Ronaldinho holds the top spot in a ranking that also includes Pelé, Maradona, Messi and Cristiano Ronaldo.\n\nClosing the circle was Cipriani himself, who revealed the behind-the-scenes workings of the miracle, after clarifying: “Ronaldinho is in shape.” When asked how he convinced the Brazilian champion, the answer was identical to that of the player: “Friendship and passion.” Cipriani then confirmed Ronaldinho’s entry as a shareholder in Ravenna FC, insisting on the profound meaning of the corporate move: “It’s not just about marketing, it’s not just international visibility. It is the chance to create a new enthusiasm around the club and the yellow and red jersey.”\n\nThen the party began, organised in grand style on a stage set up on the beach at Marina di Ravenna, featuring the presentation of the entire Ravenna squad. The club’s president does not hide the ambition of a rapid climb to Serie B, with his sights set on the top flight. The star of the event, needless to say, was the Brazilian legend, who for the first time presented himself before his new people, those Ravenna fans who back in June were curious, sceptical, or in disbelief.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-21 @ 11:33:45 EDT",
+  "lastUpdated": "2026-08-21 @ 15:05:43 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
