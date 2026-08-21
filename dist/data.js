@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ West Ham's Wan‑Bissaka joins Aston Villa on loan",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c629pr7lwd1o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Seven defenders on the books - why Arsenal still want Konsa",
       "link": "https://www.bbc.co.uk/sport/football/articles/c62ey2y9n79o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,20 +16,28 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c7vg26r2yd1o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Konsa set for Arsenal medical before £50m-plus move",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c98vz9jvg0vo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Arsenal complete £51m Konsa deal, Wan-Bissaka joins Villa, Iraola on Liverpool’s ‘thin squad’: football – live",
+      "link": "https://www.theguardian.com/football/live/2026/aug/21/premier-league-returns-with-arsenal-v-coventry-transfer-news-and-more-football-live"
+    },
+    {
+      "text": "⚽ Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+      "link": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz"
+    },
+    {
+      "text": "⚽ New rules, managers and pundits: what’s different this Premier League season?",
+      "link": "https://www.theguardian.com/football/2026/aug/21/new-rules-managers-pundits-premier-league-season-2026-2027"
     },
     {
       "text": "⚽ Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
       "link": "https://www.theguardian.com/football/2026/aug/20/ronaldinho-46-serie-c-ravenna-unveiling-comeback"
     },
     {
-      "text": "⚽ Frugal or foolish? Manchester United may regret not backing Carrick",
-      "link": "https://www.theguardian.com/football/2026/aug/20/manchester-united-may-regret-not-backing-michael-carrick"
+      "text": "⚽ Archer strikes twice as Pakistan trail by over 200 vs England on day three LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13575275/england-vs-pakistan-first-test-day-three-live-latest-cricket-score-updates-highlights-and-analysis-as-joe-root-returns-as-captain"
     },
     {
-      "text": "⚽ Premier League: nine newcomers to watch in the top flight this season",
-      "link": "https://www.theguardian.com/football/2026/aug/20/premier-league-newcomers-newcastle-arsenal-brentford-everton-leeds-villa-coventry-hull-ipswich-transfer-window"
+      "text": "⚽ Arsenal complete £51m Konsa deal",
+      "link": "https://www.skysports.com/football/news/12040/13574990/ezri-konsa-arsenal-complete-51m-deal-for-aston-villa-and-england-defender"
     }
   ],
   "timeline": {
@@ -45736,10 +45748,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-21": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1456_0",
+            "category": "england",
+            "type": "News",
+            "title": "West Ham's Wan‑Bissaka joins Aston Villa on loan",
+            "bullets": [
+              "DR Congo right-back Aaron Wan‑Bissaka arrives at Villa Park on an initial loan deal with a \"conditio...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "DR Congo right-back Aaron Wan‑Bissaka arrives at Villa Park on an initial loan deal with a \"conditional obligation to buy\".",
+            "fullText": "Aaron WanâBissaka started all four of DR Congo's matches at the 2026 World Cup\n\nAston Villahave completed the signing of West Ham defender Aaron Wan-Bissaka on a season-long loan deal.\n\nVilla's move for the DR Congo right-back includes a \"conditional obligation to buy\".\n\nThe exact terms are not known, with West Ham having previously asked interested clubs to pay a Â£25m fee.\n\nLast season, Villa signedLiverpoolmidfielder Harvey Elliott on a season-long loan with an obligation to buy for Â£35m.\n\nHowever, the deal was only set to be made permanent if Elliott played 10 league games and, afterfeaturing in just four, he returned toLiverpoolthis summer.\n\nWan-Bissaka missed Championship club West Ham's first two matches of the season during negotiations for a return to the top flight.\n\nThe 28-year-old joined West Ham on a sevenâyear contract fromManchester Unitedin 2024.\n\nHe has made 65 appearances across his two seasons at the club, including 25 last season when the Hammers were relegated to the Championship.\n\nHe previously played 190 times forManchester United, winning the League Cup in 2023 and the FA Cup in 2024.\n\nWanâBissaka started all four of DR Congo's matches at the 2026 World Cup, helping them progress to the round of 32.\n\nHe could feature in Villa's first game of the season atBrightonon Sunday (14:00 BST) and will also compete in the Champions League after Unai Emery's side finished fourth and won the Europa League last term.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1457_1",
+            "category": "england",
+            "type": "News",
+            "title": "Seven defenders on the books - why Arsenal still want Konsa",
+            "bullets": [
+              "Arsenal have already spent more than £100m this summer as they look to defend their Premier League t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal have already spent more than £100m this summer as they look to defend their Premier League title - so why do they want Ezri Konsa as well?",
+            "fullText": "Bukyao Saka and Ezri Konsa teamed up with England at the World Cup - and are set to do so again at Arsenal\n\nArsenalare not standing still as they look to defend their Premier League title.\n\nThe Gunners have spent more than Â£100m already, bringing in Bruno Guimaraes fromNewcastle(Â£75m) and Club Brugge winger Christos Tzolis (Â£34m) during this transfer window.\n\nAnd they are now set to bring in Ezri Konsa fromAston Villafor around Â£51m.\n\nIt may seem strange thatArsenal- who have seven senior defenders - want to bring in another established centre-back, but there are reasons why Mikel Arteta has decided to go for the England international.\n\nLast season,Arsenal's extremely well drilled backline, aided by the effective partnership of William Saliba and Gabriel Magalhaes, helped them win their first title in 22 years. They only conceded 27 league goals.\n\nBut half of their title-winning defence is not going to be fit for the first part of the season.\n\nSaliba has been ruled out for an 'extended period' with a long-term back issue which he had been managing last season and which ended his World Cup with France early.\n\nJurrien Timber,Arsenal's first-choice right-back, is also out for the opening weeks of the season with a groin problem that caused him to pull out of the Netherlands World Cup squad.\n\nThat leaves Ben White, who has had his own fitness issues in recent seasons, asArsenal's only fit right-back and 21-year-old Cristhian Mosquera as the only right sided centre back to partner Gabriel Magalhaes.\n\nIt could be argued thatArsenal, who also made defender Piero Hincapie's loan deal permanent this summer, could be able to cope without signing another defender.\n\nBut Arteta does not seem to like fielding two left-footed players at centre-back - which would happen if White got injured and Mosquera had to move to right-back.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1457_2",
+            "category": "england",
+            "type": "News",
+            "title": "West Brom's Heggebo banned for 'handball goal'",
+            "bullets": [
+              "West Bromwich Albion striker Aune Heggebo is banned for two matches by the FA for scoring a goal wit...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "West Bromwich Albion striker Aune Heggebo is banned for two matches by the FA for scoring a goal with his hand against Norwich City.",
+            "fullText": "Aune Heggebo will now miss West Bromwich Albion's next two games\n\nWest Bromwich Albion striker Aune Heggebo has been banned for two matches by the Football Association for scoring a goal with his hand inSaturday's 2-1 win at Norwich City.\n\nThe Norway forward was charged with a breach of Rule E3.1 in relation to his goal at Carrow Road, which went in off his arm as he got on the end of Jimmy-Jay Morgan's left-wing cross in the 75th minute to give the visitors the lead.\n\nAfter the game, Canaries head coach Philippe Clement said the incident was \"a decisive moment in the game. I think this is a clear-cut goal that should be disallowed\".\n\nThe FA alleged Heggebo did \"successfully deceive a match official by handling the ball in a direct successful attempt to score a goal\" with a regulatory commission upholding the misconduct charge - and subsequent suspension - on Thursday.\n\nThe Baggies had appealed against the charge in the belief it was accidental, stating the ball's deflection off the Norwich goalkeeper \"materially affected the ball's trajectory and left him [Heggebo] with less than 0.1 of a second to react\".\n\nThey will now be without the striker for their Championship game against Burnley on Sunday and the Carabao Cup second-round tie at Premier League Newcastle United on 26 August.\n\nThe charge over a handball is believed to be the first of its kind in English football, following a rule change prior to the 2024-25 season.\n\nAlbionsaid they would write to the FA,external\"requesting clarification on how a player is reasonably expected to react should similar circumstances arise in the future\".\n\nAune Heggebo's controversial effort put Albion in front before Jimmy-Jay Morgan doubled their lead with Norwich pulling a goal back on 90 minutes\n\nSubscribe and listen for everything you love about the Baggies\n\nLatest West Bromwich Albion news, analysis and fan views",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1457_3",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal complete £51m Konsa deal, Wan-Bissaka joins Villa, Iraola on Liverpool’s ‘thin squad’: football – live",
+            "bullets": [
+              "⚽ All the latest football news, comment and previews⚽ This weekend’s fixtures | Read Football Daily ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ All the latest football news, comment and previews⚽ This weekend’s fixtures | Read Football Daily | Mail WillNothing like a bit of exclusive news to kick off the shift. Can we keep this momentum going? We shall see!Uefa and Concacaf have begun talks about setting up a combined Nations League tournament featuring all 96 European and North and Central American and Caribbean countries, in another direct challenge to Fifa. Continue reading...",
+            "fullText": "What are our writers predicting for this season?Check out the video.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1457_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+            "bullets": [
+              "Today’s fluff does not do Sudoku After Vinícius Júnior signed a shiny new deal at Real Madrid, Arsen...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff does not do Sudoku After Vinícius Júnior signed a shiny new deal at Real Madrid, Arsenal are having to look elsewhere for a new winger. Turkey’s Kenan Yildizm who plies his trade with Juventus, is of interest to Mikel Arteta and the Gunners hierarchy. One potential way of getting the deal done is to send Gabriel Martinelli in the opposite direction.It is all fun and games at Manchester City where they are trying to rebuild a midfield inside a week. Adam Wharton is supposedly on their wishlist but with a £100m price tag, the expense could be a little too much. City have reportedly put in a call to Selhurst Park but received a swift rebuffing in response. Considering the proximity of that Sainsbury’s to the Palace ground, any potential purchase of a midfielder would come with a lot of Nectar points. With Savinho on his way to Tottenham, City could replace him with Allan Elias, a left-footed right winger at Palmeiras – a team not keen on selling. Ruben Amorim is eager on a return to Manchester but only to take Rúben Dias to Milan. Continue reading...",
+            "fullText": "After Vinícius Júnior signed a shiny new deal at Real Madrid, Arsenal are having to look elsewhere for a new winger. Turkey’sKenan Yildizmwho plies his trade with Juventus, is of interest to Mikel Arteta and the Gunners hierarchy. One potential way of getting the deal done is to sendGabriel Martinelliin the opposite direction.\n\nIt is all fun and games at Manchester City where they are trying to rebuild a midfield inside a week.Adam Whartonis supposedly on their wishlist but with a £100m price tag, the expense could be a little too much. City have reportedly put in a call to Selhurst Park but received a swift rebuffing in response. Considering the proximity of that Sainsbury’s to the Palace ground, any potential purchase of a midfielder would come with a lot of Nectar points. WithSavinho on his way to Tottenham, City could replace him withAllan Elias, a left-footed right winger at Palmeiras – a team not keen on selling. Ruben Amorim is eager on a return to Manchester but only to takeRúben Diasto Milan.\n\nOver at Anfield there are plans afoot for Liverpool to bid £55m forEndrickto test Real Madrid’s mettle on the matter. The Brazilian spent time on loan at Lyon last season and was recently linked with Aston Villa, who could re-enter the race shouldOllie Watkins head to Al-Hilal.\n\nThere is still a good chance of a Chelsea clearout, withNicolas Jacksonchatting with Napoli over a move to Italy, while Atlético Madrid are also keen. Palace are in the market for a centre-back and are keen on signing up Blues bomb squad memberAxel Disasi. The Frenchman is unwanted at Stamford Bridge, so would be a relatively straightforward signing after previous loan spells with Aston Villa and West Ham. Auxerre’sKevin Danoisis another player Pierre Sage likes the look of, with the 22-year-old midfielder marketed at £25m.\n\nOn thing that could sour the mood at Selhurst Park is the departure of frontmanJean-Philippe Matetawho is getting admiring glances from Tottenham. The Frenchman has been tipped to move on for a while and is into the final year of his contract, which could force Palace to cash in.\n\nThe latest news from Hull’s transfer tombola has linked them toOussama Targhallineof Feyenoord. A bid has already been faxed to the Netherlands but Porto, Atalanta and Bologna are also in in pursuit of the midfielder.\n\nLeeds, Liverpool and Everton are in the hat for Midtjylland wingerDaríoOsorio.The Chilean shown great promise in Denmark and the Europa League, and could become one of the finds of the window if someone stumps the cash. If you like a bit of niche on your bingo card, then Polish side Radomiak Radom having a loan offer for Leeds youngsterAlfie Cresswellrejected is right up there.\n\nKick off your evenings with the Guardian's take on the world of football\n\nBurnley are nervous about losingZian Flemmingbefore the end of this window, with Lille ramping up their interest in the forward.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1457_5",
+            "category": "england",
+            "type": "News",
+            "title": "New rules, managers and pundits: what’s different this Premier League season?",
+            "bullets": [
+              "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the DayThe 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked.Marco Rose – BournemouthXabi Alonso – ChelseaPierre Sage – Crystal PalaceÁlvaro Arbeloa – FulhamGary O’Neil - Ipswich TownAndoni Iraola – LiverpoolEnzo Maresca- Manchester CityMatthias Jaissle – NewcastleOliver Glasner – Nottingham Forest Continue reading...",
+            "fullText": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day\n\nThe 2026-27Premier Leagueseason kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked.\n\nThe Premier League has some law and rule changes this season and the first will lead to a crackdown on time wasting.\n\nReferees will be able to start a countdown of five seconds if they believe players are ticking down the clock during throw-ins and goal-kicks. If players take more than five seconds once the countdown has been enforced, the goal-kick becomes a corner and the throw-in is reversed.\n\nThat is not all that is being done to cut time-wasting. Last season, if a player was injured and play stopped as a result, they had to leave the pitch for 30 seconds. In this campaign, it will be increased to a minute and the only exceptions will be if a foul that received a card led to the injury, or other unusual circumstances.\n\nThere will also be a change to limit tactical timeouts by goalkeepers going down injured. If they do, a manager must choose another player to leave the pitch for one minute. Substitutions will also need to take just 10 seconds; if a player takes longer than that to leave the pitch, his replacement will not be able to come on for a further minute.\n\nThere will also be changes to video assistant referee interventions. VARs will now be able to intervene on second yellow cards if they have been shown in error. They cannot, however, tell a referee to issue a second yellow if one is not shown.\n\nVARs will also be able to get involved where an attacking foul happens before a set piece is taken which leads to a penalty, a goal or a disciplinary sanction. They will be able to intervene to have the set piece retaken.\n\nDespite players being given red cards for speaking to opposition players with their mouths covered at the World Cup this past summer, this is not a rule that will be adopted by the Premier League.\n\nThis season the defending champions, Arsenal, will have the longest-serving manager in the Premier League. Mikel Arteta has been in charge since 2019 and delivered his first title last season; Aston Villa’s Unai Emery is second on the list, with Leeds’ Daniel Farke third.\n\nThe upcoming campaign will set a record for the most new managers at the start of a Premier League season. The nine new names in the dugout are:\n\nThere have been hundreds of signingsin this summer’s transfer windowand many have caught fans’ attention. Here are five to keep an eye on for this upcoming season:",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1458_6",
+            "category": "england",
+            "type": "News",
+            "title": "Ronaldinho, 46, on mission of love and happiness – and maybe goals – at Serie C’s Ravenna",
+            "bullets": [
+              "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially d...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fansIt seemed like a joke, a hoax, when at 10pm on 19 June, Ravenna broke the news of Ronaldinho’s signing. The Brazilian, a former Ballon d’Or winner and one of the most recognisable figures in world football, had played his last official match in 2015 for Fluminense; a professional signing in Serie C at 46 years of age seemed unrealistic, to say the least. With football’s attention taken by the World Cup, the game was shocked by this bolt from the blue. For the most part, it remained in disbelief.There was much discussion, in the city and around the world, about the real value of this operation, and we talked about it too, speaking with the mayor, the fans, and the president of Ravenna, Ignazio Cipriani, scion of the family known globally for Harry’s Bar, who is giving his city much more than a dream. Continue reading...",
+            "fullText": "Brazilian legend pledges excitement at his unveiling for a comeback that is winning over initially disbelieving fans\n\nIt seemed like a joke, a hoax, when at 10pm on 19 June, Ravennabroke the news of Ronaldinho’s signing. The Brazilian, a former Ballon d’Or winner and one of the most recognisable figures in world football, had played his last official match in 2015 for Fluminense; a professional signing in Serie C at 46 years of age seemed unrealistic, to say the least. With football’s attention taken by the World Cup, the game was shocked by this bolt from the blue. For the most part, it remained in disbelief.\n\nThere was much discussion, in the city and around the world, about the real value of this operation, and we talked about it too, speaking with the mayor, the fans, and the president of Ravenna, Ignazio Cipriani, scion of the family known globally for Harry’s Bar, who is giving his city much more than a dream.\n\nA dream that materialised, dispelling any doubts, at 11.50am on Thursday, whenRonaldinho, in a floral shirt and Bermuda shorts, with his now-familiar flat cap on his head, walked down the steps of the private jet that brought him from Milan Linate to the runway of Forlì airport. It is all true, all real. From there, he went on to the customary medical, like a true footballer. Ronaldinho is becoming a partner in the Ravenna club, as explained by the president, but he will also do his part on the pitch, with the dream of scoring the final goal of his career in the yellow-and-red jersey.\n\nThen came the quick press conference, organised by the ownership at the Monaldina, the historic residence of the Gardini-Ferruzzi entrepreneurial family, the maternal dynasty from which Cipriani descends. There were few questions and hushed answers, very few words carefully chosen by Ronaldinho, who with his customary smile and gentle manners truly seems to have stepped back in time.\n\n“The Milan derby is the most beautiful memory of my previous Italian experience,” began the former Barcelona and Milan No 10, before clarifying what drove him to Romagna: “Friendship and passion are the keys that brought me back here.”\n\nHe then clarified his goals in Ravenna: “To help, to excite the other players, and to have a spectacular season. To win, if possible.” Regarding his possible presence on the pitch, he explained: “If a goal comes, my experience in Ravenna will become even more beautiful, but whether I will actually play will be decided by the president and the coach.”\n\nWhat does he think of the enthusiasm of Ravenna, a city that has literally gone crazy for him? Ronaldinho smiled and replied: “I just arrived, but I have a great desire to live this experience with the whole city.” His mission, he had already declared, is to bring happiness and love.\n\nEchoing his words and capturing the essence of the city’s excitement was Ariedo Braida. Almost enunciating every word, the veteran executive summarised the operation with a striking remark: “We have the magic of football in Ravenna, what more could we ask for?”\n\nThe former Milan and Barcelona director also recalled the opinion expressed by Kevin-Prince Boateng in 2016, according to which Ronaldinho holds the top spot in a ranking that also includes Pelé, Maradona, Messi and Cristiano Ronaldo.\n\nClosing the circle was Cipriani himself, who revealed the behind-the-scenes of the miracle, after clarifying: “Ronaldinho is in shape.” When asked how he convinced the Brazilian champion, the answer was identical to that of the player: “Friendship and passion.” Cipriani then confirmed Ronaldinho’s entry as a shareholder in Ravenna FC, insisting on the profound meaning of the corporate move: “It’s not just about marketing, it’s not just international visibility. It is the chance to create a new enthusiasm around the club and the yellow-and-red jersey.”\n\nThen the party began, organised in grand style on a stage set up on the beach at Marina di Ravenna, featuring the presentation of the entire Ravenna squad. The club’s president does not hide the ambition of a rapid climb to Serie B, with his sights set on the top flight. The star of the event, needless to say, was the Brazilian star, who for the first time presented himself before his new people, those Ravenna fans who back in June were curious, sceptical, or in disbelief.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1458_7",
+            "category": "england",
+            "type": "News",
+            "title": "Archer strikes twice as Pakistan trail by over 200 vs England on day three LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "England playing Pakistan in three-Test series, with game at Headingley followed by matches at Lord's (August 27-31) and Edgbaston (September 9-13) - all live on Sky Sports; Joe Root back for second stint as captain following Ben Stokes' international retirement",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1458_8",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal complete £51m Konsa deal",
+            "bullets": [
+              "Arsenal have completed the £51m deal to sign defender Ezri Konsa from Aston Villa.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal have completed the £51m deal to sign defender Ezri Konsa from Aston Villa.",
+            "fullText": "Ezri Konsa completes £51m move to Arsenal from Aston Villa; England defender provides additional competition in defence for the Premier League champions; Konsa's signing comes with William Saliba out for an extended period, plus Jurrien Timber is also injured",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-20 @ 22:39:04 EDT",
+  "lastUpdated": "2026-08-21 @ 07:14:58 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
