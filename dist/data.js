@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Alexander Isak braces himself for daunting reunion with Newcastle",
+      "link": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool"
     }
   ],
   "timeline": {
@@ -17927,10 +17911,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-22": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2325_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Alexander Isak braces himself for daunting reunion with Newcastle",
+            "bullets": [
+              "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at a...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ ParkWhen Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there are no hiding places. After that coach pulls up, its occupants must navigate a set of painted steps before reaching the glass-doored sanctuary of the players’ entrance at St James’ Park. It is a short climb but only a handful of portable metal barriers separate visiting sides from congregated Newcastle fans. When particularly disliked opponents arrive, it can all feel loudly claustrophobic.Once inside, Isak, who spent most of last summer staging a form of unilateral industrial action in order to force a £125m move from Tyneside to Merseyside, must negotiate a human chicane of once-familiar club staff stationed along the route to the away dressing room. If eye contact may be minimal, two factors should soften the pre-match mood surrounding his first return to St James’ Park. Eddie Howe has been replaced by Matthias Jaissle and the latest meeting between Newcastle and Liverpool will play out against an outpouring of love for Kevin Keegan, following his death in July. Continue reading...",
+            "fullText": "Striker must win over new head coach after tough first season at Liverpool – starting on Sunday at an inhospitable St James’ Park\n\nWhen Liverpool’s team bus turns a tight corner and inches down the narrow, covered, access road behind Newcastle’s Milburn Stand on Sunday, Alexander Isak will know there are no hiding places. After that coach pulls up, its occupants must navigate a set of painted steps before reaching the glass-doored sanctuary of the players’ entrance at St James’ Park. It is a short climb but only a handful of portable metal barriers separate visiting sides from congregated Newcastle fans. When particularly disliked opponents arrive, it can all feel loudly claustrophobic.\n\nOnce inside, Isak, who spent most of last summer staging a form of unilateral industrial action in order to force a£125m move from Tyneside to Merseyside, must negotiate a human chicane of once-familiar club staff stationed along the route to the away dressing room. If eye contact may be minimal, two factors should soften the pre-match mood surrounding his first return to St James’ Park. Eddie Howe has been replaced by Matthias Jaissle and the latest meeting between Newcastle and Liverpool will play out against an outpouring of love for Kevin Keegan,following his death in July.\n\nIsak will find the pitch that was once his playground surrounded by tributes to a player and manager revered and adored by both clubs. Despite scoring 54 goals in 86 Premier League appearances for Newcastle, including the decisive goal intheir 2025 Carabao Cup final triumphagainst Liverpool at Wembley, the Swede’s north-east legacy is very different. He can expect to feel the more feral side of the home crowd’s emotional power as they recall that, on the evening of 25 August last year, he remained locked inside his rented mansion in Northumberland. Barely 10 miles south,Newcastle lost 3-2 to Liverpool. By 1 September, Isak was shaking hands with Arne Slot and Mohamed Salah at Anfield.\n\nHis old friends on Tyneside would, rather like the protagonist in the William Hughes Mearns poem Antigonish, be subsequently haunted by images of “a man who wasn’t there” throughout a season when Newcastle finished a disappointing 12th in the league. Similarly, Isak’s less-than-ideal preparation during a summer when he skipped Newcastle’s pre-season tour of south east Asia ensured that he became a shadow of the striker Slot craved, let alone the teammate an ageing Salah needed. Granted,the broken leg he sustained in Decemberfurther disrupted that maiden Liverpool campaign, but several parties involved in this most protracted and painful transfer lost an awful lot.\n\nWith Slot and Salah gone, Isak must now win over a new head coach in Andoni Iraola as he strives to recapture that extraordinary ability to glide gazelle-like across the pitch before sending a series of often first-time shots from sometimes improbable angles beyond assorted goalkeepers. Part of that imperious ability can be attributed to three years of stellar coaching as Howe refined the former Real Sociedad striker’s game to the point where even the very best defenders found Isak to be unplayable.\n\nThere were other occasions when he drifted to the margins rather than through the lines, and odd games when mysterious niggles sidelined him. But, until last July, the quiet 26-year-old appeared an unlikely rebel. Howe perhaps underestimated the immense determination of a player whose reserved demeanour he possibly mistook for malleability.\n\nIsak certainly blindsided Newcastle when on 19 August last year he upstaged Salah at the Professional Football Association awards. The striker was a no-show at the ceremony and as the Egyptian collected his player of the year trophy, the audience were distracted by a barrage of vibrating phones. An Instagram message from Isakhad accused Newcastle of breaking pledges to sell him. “When promises are broken and trust is lost, the relationship can’t continue,” he posted.\n\nAs Howe denied offering a striker deeply disappointed not to be awarded a pay rise in 2024 an exit strategy, the club’s ownership appeared anxious to avoid the loss of face involved in permitting Liverpool to poach their prize possession. Newcastle’s oft-reiterated message was that Isak would eventually be “reintegrated” but things changed on the afternoon of 25 August when a delegation featuring senior figures from Saudi Arabia’s Public Investment Fund (PIF) visited Isak’s home in well-heeled Darras Hall for conciliation talks.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThey departed without any rapprochement and five days later the Germany forwardNick Woltemade joined Newcastle from Stuttgartfor £69m. Forty-eight hours on, Isak was a Liverpool player, leaving Newcastle’s dressing room divided between those sympathetic to his decision to in effect go on strike and others, most notably Bruno Guimarães, who were outraged.\n\nBy then Hugo Ekitiké had also moved to Anfield for £69m from Eintracht Frankfurt. The French forward had been a long-term Howe target and the enduring puzzle about “Isakgate” is why Newcastle, then struggling to comply with football’s spending rules, did not sell Isak to Liverpool earlier in the summer, when Slot would subsequently have been unlikely to move for Ekitiké. Matters were complicated by Newcastle’s then outgoing chief executive, Darren Eales, being absent on medical leave and the lack of a sporting director after Paul Mitchell’s departure following a power struggle with Howe.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-21 @ 22:31:52 EDT",
+  "lastUpdated": "2026-08-22 @ 07:23:25 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
