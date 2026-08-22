@@ -13445,11 +13445,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5653_0",
+            "category": "usa",
+            "type": "News",
+            "title": "US soccer wants excitement after the World Cup – the Open Cup provides it",
+            "bullets": [
+              "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an ob...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to startThe new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he is a fan of jeopardy. When asked the obligatory pro/rel question in his introductory press conference, Berg responded, “I don’t think it’s appropriate for our league, but I think there are other ways to create jeopardy during the regular season, [and] again in the playoffs.”He referred to this summer’s World Cup, which was co-hosted by the US, and the excitement it provided, adding, “Millions of people across North America experienced that passion firsthand. They fell in love with the drama, the atmosphere, the supporter culture and the emotion that makes soccer unlike anything else. In the World Cup, we all enjoyed knockout games after the group stage. I call those games of consequence or games of jeopardy.” Continue reading...",
+            "fullText": "MLS wants to build on the momentum of the World Cup. America’s top domestic cup competition is an obvious place to start\n\nThe new commissioner of Major League Soccer, Larry Berg, isn’t keen on the idea of promotion and relegation, but he is a fan of jeopardy. When asked the obligatory pro/rel question inhis introductory press conference, Berg responded, “I don’t think it’s appropriate for our league, but I think there are other ways to create jeopardy during the regular season, [and] again in the playoffs.”\n\nHe referred to this summer’s World Cup, which was co-hosted by the US, and the excitement it provided, adding, “Millions of people across North America experienced that passion firsthand. They fell in love with the drama, the atmosphere, the supporter culture and the emotion that makes soccer unlike anything else. In the World Cup, we all enjoyed knockout games after the group stage. I call those games of consequence or games of jeopardy.”\n\nWhat if the US already had something similar in its domestic game?\n\nA cup competition open to amateur and professional teams across the country, older than the World Cup itself, offering underdog drama, a platform for diverse supporter cultures, and the emotion andjeopardyof knockout soccer.\n\nEstablished in 1913, theUS Open Cuphas stuck around while professional leagues have come and gone. Today, it endures as US soccer’s most prestigious cup competition, equivalent to famous competitions such as England’s FA Cup, Germany’s DFB Pokal, and the Copa do Brasil. Given that US professional sports leagues operate closed, franchise-based divisions, it is a rare professional tournament that is open to teams from various leagues at all levels across the country. In recent years, though, it has reached a crisis point.\n\nAs the two main men’s professional leagues, MLS and USL, move to expand their own operations, seemingly in competition with each other, there has been a danger the Open Cup could get left behind. MLS has already tried to leave it altogether.\n\nBy 2023, the Open Cup had reached a sound state in which all eligible professional teams were entering, a record 71 that year.\n\nThe Open Cup’s stories, such as El Farolito (born out of a San Francisco burrito bar) being the best-performing amateur team in two of the last three editions, and second-tier team Sacramento Republic making it all the way to the final in 2022, are unusual in US sport and were starting to attract mainstream nationwide coverage as a result. In 2023, US Soccer took control of the marketing of the tournament from MLS’s marketing arm, Soccer United Marketing (SUM), and Lionel Messi was about to grace the competition. There was a positive platform from which to build.\n\nThen – coinciding with Messi’s arrival, the expansion of the SUM-marketed Leagues Cup, and the end of SUM’s involvement in the Open Cup – MLS announced at the end of 2023 that it would no longer enter its teams into the tournament. The backlash eventually led to a compromise in which a handful of MLS teams entered the Open Cup, but it has not been the same since.\n\nFor the 2025 edition, the most recent not to be affected by the World Cup, just 16 of MLS’s 27 US-based teams entered the tournament. The increase in the number of professional teams combined with the World Cup’s introduction to the domestic calendar meant that in 2026, USL also sent just 17 of its then 24 USL Championship teams.\n\nThere is hope that the cup will return to full professional participation, or at least better, more merit-based avenues of qualification, including the top teams.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-22 @ 11:20:33 EDT",
+  "lastUpdated": "2026-08-22 @ 14:56:54 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
