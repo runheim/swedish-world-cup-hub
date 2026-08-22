@@ -16,12 +16,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Watkins could leave Villa before transfer deadline - Emery",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Championship roundup: Millwall beat Norwich; Portsmouth sink Lincoln",
+      "link": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton"
     },
     {
       "text": "⚽ Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
@@ -46574,11 +46570,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2023_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal start title defence with comfortable win over Coventry",
+            "bullets": [
+              "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+            "fullText": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.\n\nMATCH REPORT:Premier League - Arsenal 3-0 Coventry City",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2023_1",
+            "category": "england",
+            "type": "News",
+            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+            "bullets": [
+              "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+            "fullText": "Ezri Konsa was a key player for England at the World Cup\n\nEzri Konsa says he is proud to play for \"one of the best teams in the world\" as he completed his Â£55m move toArsenal.\n\nThe 28-year-old England defender joins the Premier League champions fromAston Villaon a four-year contract, with the option to extend for a further year.\n\nAfter weeks of negotiation, the clubsreached an agreementon Wednesday which could earn Villa up to an additional Â£4m in add-ons.\n\n\"It's a privilege to be here and can't wait to get started,\" said Konsa,who revealed he had spoken withArsenal's Three Lions players about joining while at the World Cup.\n\n\"I want to keep winning, I'm hungry to win and that's what I'm here for.\n\n\"It's a proud moment for me and my family to play for one of the best teams in the world.\"\n\nBBC Sport revealedArsenal were in talks with Villaabout signing Konsa last week, but the clubs disagreed on his valuation.\n\nBayer Leverkusen's Jarrell Quansah, who represented England alongside Konsa at this summer's World Cup, was also an option for the Gunners before a fee was finally agreed.\n\nArsenal's sporting director Andrea Berta said: \"Ezri is a defender of high quality, whose athleticism, composure and tactical intelligence have established him as one of the Premier League's most consistent performers.\n\n\"Being comfortable in both central defence and at right-back, Ezri will bring valuable versatility to our squad while maintaining the high defensive standards which are fundamental to our challenge of winning major trophies.\"\n\nKonsa made 286 appearances for Villa since joining in July 2019 fromBrentfordand helped them win the Europa League in May, the club's first European trophy since 1982.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2024_2",
+            "category": "england",
+            "type": "News",
+            "title": "What does Heggebo's deception ban mean for football?",
+            "bullets": [
+              "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two match...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\".",
+            "fullText": "Aune Heggebo joined West Brom from Norwegian side SK Brann for an undisclosed fee in July 2025\n\nIt is 0-0 between Norwich City and West Bromwich Albion with 15 minutes remaining in the opening game of the season at Carrow Road.\n\nBaggies forward Jimmy Jay-Morgan crosses it into Norwich's six-yard box at pace, flying by the outstretched hand of Canaries keeper Vladan Kovacevic and into the path of Albion striker Aune Heggebo.\n\nThe Norwegian jumps, seemingly trying to guide it in with his foot but it hits his hand instead and flies into the net.\n\nDid he mean to handball it? Hard to tell at the speed it all happened.\n\nNorwich players protest, but referee Tim Robinson and his assistants did not see it and the goal is given.\n\nWest Brom lead 1-0 in the Championship match. Morgan doubles the lead before Mathias Kvistgaarden scores a 90th-minute consolation for the hosts.\n\nIn a league without Video Assistant Referees (VAR), apart from the lingering unhappiness at the decision which contributed toWest Brom's 2-1 win,that is normally the end of it.\n\nHeggebo became the first player to be charged by the Football Association with \"deception of a match official\", a little known rule first broughtin 2017-18.,external\n\nLittle detail, reasoning or context has been given beyond afactual statement announcing the ban from the Football Association.,external\n\nNow attention is turning to what precedent might have been set.\n\nIf you gain from something that may well have been accidental â West Brom insist it was â should you own up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2024_3",
+            "category": "england",
+            "type": "News",
+            "title": "Championship roundup: Millwall beat Norwich; Portsmouth sink Lincoln",
+            "bullets": [
+              "Arconte double helps Millwall sink 10-man Norwich 3-0Portsmouth beat Lincoln 3-1 to register first l...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arconte double helps Millwall sink 10-man Norwich 3-0Portsmouth beat Lincoln 3-1 to register first league winTairyk Arconte scored his first two goals for Millwall as they breezed past 10-man Norwich 3-0 to make it two wins from two this season. Having been tipped to challenge for the playoffs, Norwich have lost both of their opening games and had defender José Córdoba sent off in the second half at The Den.Millwall were rewarded for their lively start in the 18th minute when Mark Sykes’s ball found Josh Coburn, whose shot was pushed out by Vladan Kovacevic for Arconte to tap in the rebound on his home debut.This story will be updated Continue reading...",
+            "fullText": "Arconte double helps Millwall sink 10-man Norwich 3-0\n\nPortsmouth beat Lincoln 3-1 to register first league win\n\nTairyk Arconte scored his first two goals forMillwallas they breezed past 10-manNorwich3-0 to make it two wins from two this season. Having been tipped to challenge for the playoffs, Norwich have lost both of their opening games and had defender José Córdoba sent off in the second half at The Den.\n\nMillwall were rewarded for their lively start in the 18th minute when Mark Sykes’s ball found Josh Coburn, whose shot was pushed out by Vladan Kovacevic for Arconte to tap in the rebound on his home debut.\n\nMillwall deservedly went 2-0 ahead after 58 minutes when Zak Sturge’s ball into the box was headed back by Jake Cooper for Arconte to steer a volley into the bottom corner.\n\nNorwich’s afternoon went from bad to worse in the 64th minute when Córdoba was sent off for a second yellow card after bundling over Arconte as he charged towards the area.\n\nVictory was sealed with six minutes remaining when a slick counterattack ended with Luke Cundle sliding in Millwall’s third.\n\nPortsmouthclaimed their first win of the season with a comprehensive 3-1 success atLincoln.Portsmouth, who had lost their first two games of the campaign by the same scoreline, found themselves under the cosh early on, but a seventh-minute goal from Ryan Kavuma-McQueen put them in the driving seat.\n\nAdrian Segecic doubled the lead nine minutes later before Reeco Hackett-Fairchild pulled one back from the spot just past the half-hour mark.\n\nSubstitute Ebrima Adams made the game safe with a superb strike after 69 minutes to leave Lincoln still searching for their first win back in the second tier for more than 60 years.\n\nKick off your evenings with the Guardian's take on the world of football\n\nDemarai Gray rescued a point forBirminghamwith a late penalty in a 2-2 draw at home toBristol City. Scott Twine’s 33rd-minute effort gave the visitors the advantage before they conceded a 42nd-minute equaliser to Carlos Vicente. Dom Ballard converted Rio Cardines’s cross with a superb flick with his back to goal after 85 minutes to restore Bristol City’s lead but they could not hold on.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2024_4",
+            "category": "england",
+            "type": "News",
+            "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+            "bullets": [
+              "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery f...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.In the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product. Continue reading...",
+            "fullText": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign\n\nWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.\n\nIn the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product.\n\nFor Arsenal’s supporters, on this evidence at least, it might just be a slightly easier experience this time around. They say retaining a title is never easy. Well winning it wasn’t exactly painless either. But how do you manage that altered gravity? On the one hand there’s the Roy Keane approach, performative hunger, serial victory as an act of self-harm. Win the league, stab yourself in the leg, and win it again.\n\nDoes hunger matter so much with the game so mechanised, a matter of patterns, systems, processed movements? For Arsenal it is more a case of finding other rhythms and deeper gears. Even before thisstraightforward 3-0 defeat of Coventry, the goal was clear enough. Win the league, but win it better. Make these games less interesting, or at least less painful.\n\nWell, stage one complete. Two things happened here. First, Arsenal won this game as comfortably as any in the last two seasons. This was like watching a team in demo mode, just trying out the new software, revving the throttle in neutral. And second, Martin Ødegaard played, once again, a little bit more like the half-remembered Martin Ødegaard: 75 minutes, 72 touches, 55 short, clipped little passes. And this is significant.\n\nIn the absence of a headline attacking signing, attention has fixed on Ødegaard and the chance he can become himself again after the injury-addled figure of last season. At his best he is just such a constant ferret, a press machine, master of space and of the nudged pass, the look of a thrusting young corporate actuary and the feet of a cage-ball urchin.\n\nØdegaard’s goal here was the obvious headline moment, Arsenal’s third on 48 minutes. In the moment of execution it felt like a fun and slightly silly thing, the kind of goal Prince Edward might have scored in It’s A Knockout in 1981, set up by Brian Blessed, Emu in goal. But the move to get there was the real deal.\n\nThe Norwegian made it in the way he likes to make things, driving the move from just behind the attacking line, twitching the threads. There was a nice delayed pass to Ben White, a drift into space. The finish was comical. Ødegaard sometimes has a strange way of shooting, sidling up to the ball, his foot connecting at an odd angle, a kind of power-stub. Here he miskicked in front of goal, but still sent the ball floating weirdly to the left of Carl Rushworth, who clawed at it helplessly, like a cat flapping its paw at a shadow on the wall.\n\nØdegaard laughed as he wheeled away. But the celebration was real. This was his first goal at the Emirates since last December. And either side there were signs of something else too, a reawakening of the link-up with Bukayo Saka. Just before half-time they pinged the ball between each other six or seven times, eventually finding space for Declan Rice to shoot just wide. This was like old times. Here they are, the guys, with something between them that is genuinely rare in elite teams: a sense of play, invention, pleasure in the connection.\n\nNorth London had been agreeably crisp and even a little chilly at kick-off. As a contest, Arsenal-Coventry has Classic Barclays energy: Darren Huckerby running the channels, your TV screen making whooshing noises, Richard Keys with a filthy late-August tan, lemon-yellow blazer sleeves hitched up.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-22 @ 07:09:40 EDT",
+  "lastUpdated": "2026-08-22 @ 11:20:25 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
