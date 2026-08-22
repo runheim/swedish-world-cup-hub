@@ -19260,6 +19260,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Rest up boys, big session tomorrow.",
       "time": "05:32",
       "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "12:19",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Anyone else still jetlagged?",
+      "time": "12:20",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "Bags are packed! Who's ready?",
+      "time": "12:21",
+      "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Just watched the film from training. We look sharp.",
+      "time": "12:22",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "The altitude here is no joke. Lungs are burning!",
+      "time": "12:23",
+      "isCaptain": false
     }
   ]
 };
