@@ -12,32 +12,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Watkins could leave Villa before transfer deadline - Emery",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ What does Heggebo's deception ban mean for football?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Watkins could leave Villa before transfer deadline - Emery",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9v4wj07e8eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
       "link": "https://www.bbc.co.uk/sport/football/articles/cdrv1nx150jo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Arsenal sweep Coventry aside to start Premier League title defence in style",
-      "link": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
-    },
-    {
       "text": "⚽ Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass"
-    },
-    {
-      "text": "⚽ New rules, managers and pundits: what’s different this Premier League season?",
-      "link": "https://www.theguardian.com/football/2026/aug/21/new-rules-managers-pundits-premier-league-season-2026-2027"
-    },
-    {
-      "text": "⚽ Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
-      "link": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz"
     }
   ],
   "timeline": {
@@ -46477,10 +46465,120 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-22": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_0938_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal start title defence with comfortable win over Coventry",
+            "bullets": [
+              "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+            "fullText": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.\n\nMATCH REPORT:Premier League - Arsenal 3-0 Coventry City",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0938_1",
+            "category": "england",
+            "type": "News",
+            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+            "bullets": [
+              "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+            "fullText": "Ezri Konsa was a key player for England at the World Cup\n\nEzri Konsa says he is proud to play for \"one of the best teams in the world\" as he completed his Â£55m move toArsenal.\n\nThe 28-year-old England defender joins the Premier League champions fromAston Villaon a four-year contract, with the option to extend for a further year.\n\nAfter weeks of negotiation, the clubsreached an agreementon Wednesday which could earn Villa up to an additional Â£4m in add-ons.\n\n\"It's a privilege to be here and can't wait to get started,\" said Konsa,who revealed he had spoken withArsenal's Three Lions players about joining while at the World Cup.\n\n\"I want to keep winning, I'm hungry to win and that's what I'm here for.\n\n\"It's a proud moment for me and my family to play for one of the best teams in the world.\"\n\nBBC Sport revealedArsenal were in talks with Villaabout signing Konsa last week, but the clubs disagreed on his valuation.\n\nBayer Leverkusen's Jarrell Quansah, who represented England alongside Konsa at this summer's World Cup, was also an option for the Gunners before a fee was finally agreed.\n\nArsenal's sporting director Andrea Berta said: \"Ezri is a defender of high quality, whose athleticism, composure and tactical intelligence have established him as one of the Premier League's most consistent performers.\n\n\"Being comfortable in both central defence and at right-back, Ezri will bring valuable versatility to our squad while maintaining the high defensive standards which are fundamental to our challenge of winning major trophies.\"\n\nKonsa made 286 appearances for Villa since joining in July 2019 fromBrentfordand helped them win the Europa League in May, the club's first European trophy since 1982.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0939_2",
+            "category": "england",
+            "type": "News",
+            "title": "What does Heggebo's deception ban mean for football?",
+            "bullets": [
+              "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two match...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\".",
+            "fullText": "Aune Heggebo joined West Brom from Norwegian side SK Brann for an undisclosed fee in July 2025\n\nIt is 0-0 between Norwich City and West Bromwich Albion with 15 minutes remaining in the opening game of the season at Carrow Road.\n\nBaggies forward Jimmy Jay-Morgan crosses it into Norwich's six-yard box at pace, flying by the outstretched hand of Canaries keeper Vladan Kovacevic and into the path of Albion striker Aune Heggebo.\n\nThe Norwegian jumps, seemingly trying to guide it in with his foot but it hits his hand instead and flies into the net.\n\nDid he mean to handball it? Hard to tell at the speed it all happened.\n\nNorwich players protest, but referee Tim Robinson and his assistants did not see it and the goal is given.\n\nWest Brom lead 1-0 in the Championship match. Morgan doubles the lead before Mathias Kvistgaarden scores a 90th-minute consolation for the hosts.\n\nIn a league without Video Assistant Referees (VAR), apart from the lingering unhappiness at the decision which contributed toWest Brom's 2-1 win,that is normally the end of it.\n\nHeggebo became the first player to be charged by the Football Association with \"deception of a match official\", a little known rule first broughtin 2017-18.,external\n\nLittle detail, reasoning or context has been given beyond afactual statement announcing the ban from the Football Association.,external\n\nNow attention is turning to what precedent might have been set.\n\nIf you gain from something that may well have been accidental â West Brom insist it was â should you own up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0939_3",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins could leave Villa before transfer deadline - Emery",
+            "bullets": [
+              "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer.",
+            "fullText": "Ollie Watkins scored 21 goals last season to help Aston Villa win the Europa League\n\nStriker Ollie Watkins could continue theAston Villaexodus with boss Unai Emery unable to guarantee he will stay.\n\nThe England international is wanted by Saudi club Al-Hilal, with Emery confirming offers have been made.\n\nEzri Konsa is moving toArsenalfor Â£51m while Morgan Rogersjoined Chelsea for a record Â£117m,with Youri Tielemans and Lucas Digne also leaving this summer.\n\nEmery wants to keep Watkins but admits the 30-year-oldcould leave Villa Park.\n\n\"We have an issue with him, it's clear. He is our player. We have had offers for him,\" said Emery.\n\n\"I don't want to sell him but it can change because if it's a good option for him and the club and I can replace him in the squad, this is the routine we have and we did before with the players who are leaving.\n\n\"With Ollie, he is here, for me he is a fantastic striker, we have always believed in him.\n\n\"Now he is our player, there are 10 days more or less to finish the transfer window, we will see what happens, I'm happy with him, if he is staying with us he will continue playing his level.\n\n\"If he leaving it's because it is good for three ways, one is him, another is the club and another is the team.\"\n\nWatkins has scored 108 goals for Villa since joining fromBrentfordfor Â£28m in 2020 and is the club's record Premier League scorer.\n\nIf Watkins and goalkeeper Emi Martinez leave, VIlla will have soldsix of the starting XI which won the Europa League two months ago.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0939_4",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
+            "bullets": [
+              "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same te...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same team successfully, new head coach Jose Mourinho says.",
+            "fullText": "Jose Mourinho says Jude Bellingham, Vinicius Jr and Kylian Mbappe are not \"incompatible\" together in a team\n\nReal Madrid boss Jose Mourinho says it will be hard to find the \"perfect set-up\" to fit Kylian Mbappe, Vinicius Jr and Jude Bellingham into the same team, but insists the trio are not \"incompatible\".\n\nAfterlast season was overshadowed by chaos,amid fan unrest and allegations of players fighting at the Bernabeu, Mourinho will need all three of his stars if Los Blancos want to reclaim the Spanish title from a Barcelona team who have won the past two.\n\nHowever, the 63âyearâold, whose return to Real for asecond stint in charge was confirmed in June, admitted he faces a \"difficult\" task in fitting all three players into the same starting eleven.\n\nSpeaking to the media before Real's La Liga opener against Espanyol on Saturday, Mourinho said: \"They are incredible players and incredible players want to play with incredible players. Top players have frustration when they play with teammates who are not top.\n\n\"The best want to play with the best. After the tactical adjustments, it might be a little bit more difficult,\" he added.\n\nReal Madrid in crisis - inside the conflict and chaos at the Bernabeu\n\nBefore facing Bayern Munich in the Champions League quarter-final last season, Jude Bellingham said \"it can be difficult\" to be at his individual best when he, Mbappe and Vinicius are all on the pitch together.\n\n\"It's difficult, because I still feel like there have been many games where we've mixed really well,\" Bellingham said when asked about combining with his star team-mates.\n\n\"It can be difficult when we're all on the same side. We're fluid, we have freedom to move around, at times that can disorganise a bit, but with both of them, you have to trust in their ability.\"\n\nMourinho said England's Bellingham, France's Mbappe and Brazil's Vinicius all played in \"perfect\" roles for their countries during the World Cup, but admitted replicating that in Madrid this season will be a tougher task.\n\n\"It's harder for Mourinho to find the perfect set-up for all three. It's harder. But here we are. I want all three of them to feel comfortable on the field together,\" he said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0939_5",
+            "category": "england",
+            "type": "News",
+            "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+            "bullets": [
+              "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery f...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.In the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product. Continue reading...",
+            "fullText": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign\n\nWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.\n\nIn the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product.\n\nFor Arsenal’s supporters, on this evidence at least, it might just be a slightly easier experience this time around. They say retaining a title is never easy. Well winning it wasn’t exactly painless either. But how do you manage that altered gravity? On the one hand there’s the Roy Keane approach, performative hunger, serial victory as an act of self-harm. Win the league, stab yourself in the leg, and win it again.\n\nDoes hunger matter so much with the game so mechanised, a matter of patterns, systems, processed movements? For Arsenal it is more a case of finding other rhythms and deeper gears. Even before thisstraightforward 3-0 defeat of Coventry, the goal was clear enough. Win the league, but win it better. Make these games less interesting, or at least less painful.\n\nWell, stage one complete. Two things happened here. First, Arsenal won this game as comfortably as any in the last two seasons. This was like watching a team in demo mode, just trying out the new software, revving the throttle in neutral. And second, Martin Ødegaard played, once again, a little bit more like the half-remembered Martin Ødegaard: 75 minutes, 72 touches, 55 short, clipped little passes. And this is significant.\n\nIn the absence of a headline attacking signing, attention has fixed on Ødegaard and the chance he can become himself again after the injury-addled figure of last season. At his best he is just such a constant ferret, a press machine, master of space and of the nudged pass, the look of a thrusting young corporate actuary and the feet of a cage-ball urchin.\n\nØdegaard’s goal here was the obvious headline moment, Arsenal’s third on 48 minutes. In the moment of execution it felt like a fun and slightly silly thing, the kind of goal Prince Edward might have scored in It’s A Knockout in 1981, set up by Brian Blessed, Emu in goal. But the move to get there was the real deal.\n\nThe Norwegian made it in the way he likes to make things, driving the move from just behind the attacking line, twitching the threads. There was a nice delayed pass to Ben White, a drift into space. The finish was comical. Ødegaard sometimes has a strange way of shooting, sidling up to the ball, his foot connecting at an odd angle, a kind of power-stub. Here he miskicked in front of goal, but still sent the ball floating weirdly to the left of Carl Rushworth, who clawed at it helplessly, like a cat flapping its paw at a shadow on the wall.\n\nØdegaard laughed as he wheeled away. But the celebration was real. This was his first goal at the Emirates since last December. And either side there were signs of something else too, a reawakening of the link-up with Bukayo Saka. Just before half-time they pinged the ball between each other six or seven times, eventually finding space for Declan Rice to shoot just wide. This was like old times. Here they are, the guys, with something between them that is genuinely rare in elite teams: a sense of play, invention, pleasure in the connection.\n\nNorth London had been agreeably crisp and even a little chilly at kick-off. As a contest, Arsenal-Coventry has Classic Barclays energy: Darren Huckerby running the channels, your TV screen making whooshing noises, Richard Keys with a filthy late-August tan, lemon-yellow blazer sleeves hitched up.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-21 @ 22:30:54 EDT",
+  "lastUpdated": "2026-08-22 @ 07:09:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
