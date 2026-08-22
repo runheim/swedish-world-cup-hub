@@ -4,8 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Arsenal start title defence with comfortable win over Coventry",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Alvarez open to Arsenal transfer - Sunday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg0gxxkp1vo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Kayode seals emphatic Brentford victory in wake-up call for sorry Spurs",
+      "link": "https://www.theguardian.com/football/2026/aug/22/brentford-tottenham-premier-league-match-report"
     },
     {
       "text": "⚽ Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
@@ -46689,11 +46693,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2107_0",
+            "category": "england",
+            "type": "News",
+            "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
+            "bullets": [
+              "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
+            "fullText": "Atletico Madrid forward Julian Alvarez open toArsenaltransfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move.\n\nArgentina forwardJulian Alvarez, 26, is open to joiningArsenal, having previously favoured a switch toBarcelona, with his relationship with current clubAtletico Madridstarting to turn \"unsavoury\".(Standard),external\n\nArsenalmanager Mikel Arteta and sporting director Andrea Berta have maintained frequent contact with Alvarez this summer and, while the Argentine still prefers a move toBarcelona,he now views the Gunners as a welcome emergency solution.(AS - in Spanish),external\n\nTottenhamare confident they will be able to conclude a deal to sign 27-year-old Egypt forward Omar Marmoush fromManchester Cityby the start of next week.(Fabrizio Romano),external\n\nEngland striker Ollie Watkins has toldAston Villahe wants to leave the club amid interest from Saudi Pro League sideAl-Hilal.(GiveMeSport),external\n\nSpain left-back Alejandro Balde, 22, has decided to leaveBarcelona, withManchester Unitedmaking contact over a possible move.(Metro via Jijantes),external\n\nAlternatively, Balde is determined to fight for his place at the Spanish champions. (Mundo Deportivo - in Spanish,external)\n\nReal Madridwill not letLiverpoolsign Brazil forward Endrick, 20, having already sold Spanish forward Gonzalo Garcia, 22, toFulhamearlier in the transfer window. (Football Insider,external)\n\nChelseahave rejected a loan bid fromRomafor England Under-21 forward Jamie Bynoe-Gittens, 22. (Talksport,external)\n\nTottenhamhave made midfielder Pape Matar Sarr, 23, available for transfer, with the Senegal international set to joinGalatasaray. (Sacha Tavolieri via Teamtalk,external)\n\nBesiktashave submitted a bid toNewcastleto sign Joe Willock after making the 27-year-old English midfielder their top transfer target.(Fabrizio Romano),external\n\nLiverpoolhave been given a boost in their bid to signParis St-Germain'sFrance forward Bradley Barcola, 23, and Senegal attacker Ibrahim Mbaye, 18, after both players were left out of the squad for Sunday's Ligue 1 game against Rennes.(Standard via RMC),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2108_1",
+            "category": "england",
+            "type": "News",
+            "title": "Kayode seals emphatic Brentford victory in wake-up call for sorry Spurs",
+            "bullets": [
+              "Continue down this road and it will not be long before the chants of “Lincoln away” start up again. ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Continue down this road and it will not be long before the chants of “Lincoln away” start up again. This was the start of Tottenham’s brave new era but there was no sign of any change. The old flaws were still there in a cowardly display – with and without the ball – and after a summer of extravagant spending it will alarm Roberto De Zerbi that his side opened the season looking like relegation candidates rather than contenders for European football.If anything it was a reminder that winning the transfer window is not the same as winning on the pitch. There has been plenty of excitable predictions about Spurs, whose outlay is likely to soon surpass £300m, but are they based on anything substantial? Not on the evidence of this game. There were no patterns of play from Spurs. They were timid in possession and chaotic at the back. They failed to perform the basics and they crumbled in the face of relentless pressing from Brentford, whose blend of power, speed and skill revealed a team determined to kick on in their second season under Keith Andrews. Continue reading...",
+            "fullText": "Continue down this road and it will not be long before the chants of “Lincoln away” start up again. This was the start of Tottenham’s brave new era but there was no sign of any change. The old flaws were still there in a cowardly display – with and without the ball – and after a summer of extravagant spending it will alarm Roberto De Zerbi that his side opened the season looking like relegation candidates rather than contenders for European football.\n\nIf anything it was a reminder that winning the transfer window is not the same as winning on the pitch. There has been plenty of excitable predictions about Spurs, whose outlay is likely to soon surpass £300m, but are they based on anything substantial? Not on the evidence of this game. There were no patterns of play from Spurs. They were timid in possession and chaotic at the back. They failed to perform the basics and they crumbled in the face of relentless pressing fromBrentford, whose blend of power, speed and skill revealed a team determined to kick on in their second season under Keith Andrews.\n\nSpurs could count themselves fortunate it finished 3-0. Brentford should have scored more – Igor Thiago, normally so reliable from the spot, marred an intelligent forward display by missing a penalty – but this was a joyous start to their campaign. Keane Lewis-Potter, Vitaly Janelt and Michael Kayode scored the goals and in the final analysis it was impossible not to dwell on a sparkling debut in midfield from Mamadou Sangaré, who already looks a bargain after joining from Lens for £39m.\n\nHow do Brentford keep picking up these gems? Spurs broke their transfer record this summer, signingSandro Tonali from Newcastle for £100m. They spent £85m on Mateus Fernandes, who came on for his debut, but Sangaré was head and shoulders above any of De Zerbi’s midfielders. The Malian offered energy, showed quality in possession and made the opening goal with a lovely piece of play, tearing Spurs to shreds by playing a clever one-two with Thiago before pulling the ball back from the right for Lewis-Potter to run in from left-back and beat Antonin Kinsky from close range in the 12th minute.\n\nIt helps that Sangaré, working in tandem with Janelt and Mathias Jensen, has slotted into a cohesive unit. Brentford have enjoyed a calm window and are well drilled by Andrews. “There’s real trust in what we’ve built,” the Brentford manager said.\n\nIn contrast Spurs were fragmented and undercooked. They stared into the abyss last year, averting relegation on the final day, and have so much to improve. De Zerbi, who saw a lack of fight, will worry that his side appeared to believe an extravagant transfer window meant they could stroll to victory.\n\nIt will take more than moving on from the constraints of Levynomics for Spurs to regain their place in the top six. De Zerbi has to raise standards. Spurs have moved at dizzying speed in their first summer since moving Daniel Levy aside as chair but De Zerbi needs time and was honest in his assessment of this defeat, admitting that the performance was bereft of soul and was emblematic of a team of individuals.\n\nThese are still early days. Spurs started with four debutants and have players to come back from injury. Even so it was worrying to hear De Zerbi say his side did not win a single second ball. Spurs could not have been weaker. They had three new faces in their back four – Andy Robertson was at left-back while Jan Paul van Hecke partnered Marcos Senesi in the middle – but Brentford found wide open spaces from the start, created havoc with deliveries from the wings and had chances to score before Lewis-Potter’s goal.\n\nMuch is made of Brentford’s threat from set pieces but this was proof that they can be just as effective in open play. Spurs were sliced apart and they continued to ship openings. Thiago headed against the bar and Dango Ouattara twice went through on goal, only to take a heavy touch on both occasions.\n\nKick off your evenings with the Guardian's take on the world of football\n\nBrentford were rampant. Thiago bullied Senesi and Van Hecke while Kevin Schade had fun running at the Spurs captain Archie Gray on the left.\n\nIt was not until Brentford were 3-0 up in the second half that Spurs created a chance of any note. De Zerbi will hope that bringing inOmar Marmoush and Savinho from Manchester Citywill add more bite in attack. However, disappointing displays from Richarlison, Mathys Tel and Mikey Moore were far from the only problem for Spurs. There were frailties in every department. Lucas Bergvall was at fault for the second goal, losing a 50-50 with Jensen. Kinsky then failed to push Jensen’s shot to safety, leaving Janelt to convert the rebound.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2108_2",
+            "category": "england",
+            "type": "News",
+            "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+            "bullets": [
+              "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery f...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.In the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product. Continue reading...",
+            "fullText": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign\n\nWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.\n\nIn the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product.\n\nFor Arsenal’s supporters, on this evidence at least, it might just be a slightly easier experience this time around. They say retaining a title is never easy. Well winning it wasn’t exactly painless either. But how do you manage that altered gravity? On the one hand there’s the Roy Keane approach, performative hunger, serial victory as an act of self-harm. Win the league, stab yourself in the leg, and win it again.\n\nDoes hunger matter so much with the game so mechanised, a matter of patterns, systems, processed movements? For Arsenal it is more a case of finding other rhythms and deeper gears. Even before thisstraightforward 3-0 defeat of Coventry, the goal was clear enough. Win the league, but win it better. Make these games less interesting, or at least less painful.\n\nWell, stage one complete. Two things happened here. First, Arsenal won this game as comfortably as any in the last two seasons. This was like watching a team in demo mode, just trying out the new software, revving the throttle in neutral. And second, Martin Ødegaard played, once again, a little bit more like the half-remembered Martin Ødegaard: 75 minutes, 72 touches, 55 short, clipped little passes. And this is significant.\n\nIn the absence of a headline attacking signing, attention has fixed on Ødegaard and the chance he can become himself again after the injury-addled figure of last season. At his best he is just such a constant ferret, a press machine, master of space and of the nudged pass, the look of a thrusting young corporate actuary and the feet of a cage-ball urchin.\n\nØdegaard’s goal here was the obvious headline moment, Arsenal’s third on 48 minutes. In the moment of execution it felt like a fun and slightly silly thing, the kind of goal Prince Edward might have scored in It’s A Knockout in 1981, set up by Brian Blessed, Emu in goal. But the move to get there was the real deal.\n\nThe Norwegian made it in the way he likes to make things, driving the move from just behind the attacking line, twitching the threads. There was a nice delayed pass to Ben White, a drift into space. The finish was comical. Ødegaard sometimes has a strange way of shooting, sidling up to the ball, his foot connecting at an odd angle, a kind of power-stub. Here he miskicked in front of goal, but still sent the ball floating weirdly to the left of Carl Rushworth, who clawed at it helplessly, like a cat flapping its paw at a shadow on the wall.\n\nØdegaard laughed as he wheeled away. But the celebration was real. This was his first goal at the Emirates since last December. And either side there were signs of something else too, a reawakening of the link-up with Bukayo Saka. Just before half-time they pinged the ball between each other six or seven times, eventually finding space for Declan Rice to shoot just wide. This was like old times. Here they are, the guys, with something between them that is genuinely rare in elite teams: a sense of play, invention, pleasure in the connection.\n\nNorth London had been agreeably crisp and even a little chilly at kick-off. As a contest, Arsenal-Coventry has Classic Barclays energy: Darren Huckerby running the channels, your TV screen making whooshing noises, Richard Keys with a filthy late-August tan, lemon-yellow blazer sleeves hitched up.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-22 @ 14:55:52 EDT",
+  "lastUpdated": "2026-08-22 @ 18:21:08 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
