@@ -28,8 +28,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/aug/21/arsenal-coventry-premier-league-match-report"
     },
     {
+      "text": "⚽ Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+      "link": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass"
+    },
+    {
       "text": "⚽ New rules, managers and pundits: what’s different this Premier League season?",
       "link": "https://www.theguardian.com/football/2026/aug/21/new-rules-managers-pundits-premier-league-season-2026-2027"
+    },
+    {
+      "text": "⚽ Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+      "link": "https://www.theguardian.com/football/2026/aug/21/football-transfer-rumours-endrick-to-liverpool-arsenal-to-swap-martinelli-for-yildiz"
     }
   ],
   "timeline": {
@@ -46309,11 +46317,170 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3050_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal start title defence with comfortable win over Coventry",
+            "bullets": [
+              "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+            "fullText": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.\n\nMATCH REPORT:Premier League - Arsenal 3-0 Coventry City",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3050_1",
+            "category": "england",
+            "type": "News",
+            "title": "'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
+            "bullets": [
+              "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal complete the £55m signing of England defender Ezri Konsa from Aston Villa.",
+            "fullText": "Ezri Konsa was a key player for England at the World Cup\n\nEzri Konsa says he is proud to play for \"one of the best teams in the world\" as he completed his Â£55m move toArsenal.\n\nThe 28-year-old England defender joins the Premier League champions fromAston Villaon a four-year contract, with the option to extend for a further year.\n\nAfter weeks of negotiation, the clubsreached an agreementon Wednesday which could earn Villa up to an additional Â£4m in add-ons.\n\n\"It's a privilege to be here and can't wait to get started,\" said Konsa,who revealed he had spoken withArsenal's Three Lions players about joining while at the World Cup.\n\n\"I want to keep winning, I'm hungry to win and that's what I'm here for.\n\n\"It's a proud moment for me and my family to play for one of the best teams in the world.\"\n\nBBC Sport revealedArsenal were in talks with Villaabout signing Konsa last week, but the clubs disagreed on his valuation.\n\nBayer Leverkusen's Jarrell Quansah, who represented England alongside Konsa at this summer's World Cup, was also an option for the Gunners before a fee was finally agreed.\n\nArsenal's sporting director Andrea Berta said: \"Ezri is a defender of high quality, whose athleticism, composure and tactical intelligence have established him as one of the Premier League's most consistent performers.\n\n\"Being comfortable in both central defence and at right-back, Ezri will bring valuable versatility to our squad while maintaining the high defensive standards which are fundamental to our challenge of winning major trophies.\"\n\nKonsa made 286 appearances for Villa since joining in July 2019 fromBrentfordand helped them win the Europa League in May, the club's first European trophy since 1982.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3051_2",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins could leave Villa before transfer deadline - Emery",
+            "bullets": [
+              "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa boss Unai Emery says striker Ollie Watkins could follow several star players out of the door this summer.",
+            "fullText": "Ollie Watkins scored 21 goals last season to help Aston Villa win the Europa League\n\nStriker Ollie Watkins could continue theAston Villaexodus with boss Unai Emery unable to guarantee he will stay.\n\nThe England international is wanted by Saudi club Al-Hilal, with Emery confirming offers have been made.\n\nEzri Konsa is moving toArsenalfor Â£51m while Morgan Rogersjoined Chelsea for a record Â£117m,with Youri Tielemans and Lucas Digne also leaving this summer.\n\nEmery wants to keep Watkins but admits the 30-year-oldcould leave Villa Park.\n\n\"We have an issue with him, it's clear. He is our player. We have had offers for him,\" said Emery.\n\n\"I don't want to sell him but it can change because if it's a good option for him and the club and I can replace him in the squad, this is the routine we have and we did before with the players who are leaving.\n\n\"With Ollie, he is here, for me he is a fantastic striker, we have always believed in him.\n\n\"Now he is our player, there are 10 days more or less to finish the transfer window, we will see what happens, I'm happy with him, if he is staying with us he will continue playing his level.\n\n\"If he leaving it's because it is good for three ways, one is him, another is the club and another is the team.\"\n\nWatkins has scored 108 goals for Villa since joining fromBrentfordfor Â£28m in 2020 and is the club's record Premier League scorer.\n\nIf Watkins and goalkeeper Emi Martinez leave, VIlla will have soldsix of the starting XI which won the Europa League two months ago.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3051_3",
+            "category": "england",
+            "type": "News",
+            "title": "What does Heggebo's deception ban mean for football?",
+            "bullets": [
+              "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two match...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport explores the fallout from the decision to ban West Brom striker Aune Heggebo for two matches for \"successfully deceiving a match official\".",
+            "fullText": "Aune Heggebo joined West Brom from Norwegian side SK Brann for an undisclosed fee in July 2025\n\nIt is 0-0 between Norwich City and West Bromwich Albion with 15 minutes remaining in the opening game of the season at Carrow Road.\n\nBaggies forward Jimmy Jay-Morgan crosses it into Norwich's six-yard box at pace, flying by the outstretched hand of Canaries keeper Vladan Kovacevic and into the path of Albion striker Aune Heggebo.\n\nThe Norwegian jumps, seemingly trying to guide it in with his foot but it hits his hand instead and flies into the net.\n\nDid he mean to handball it? Hard to tell at the speed it all happened.\n\nNorwich players protest, but referee Tim Robinson and his assistants did not see it and the goal is given.\n\nWest Brom lead 1-0 in the Championship match. Morgan doubles the lead before Mathias Kvistgaarden scores a 90th-minute consolation for the hosts.\n\nIn a league without Video Assistant Referees (VAR), apart from the lingering unhappiness at the decision which contributed toWest Brom's 2-1 win,that is normally the end of it.\n\nHeggebo became the first player to be charged by the Football Association with \"deception of a match official\", a little known rule first broughtin 2017-18.,external\n\nLittle detail, reasoning or context has been given beyond afactual statement announcing the ban from the Football Association.,external\n\nNow attention is turning to what precedent might have been set.\n\nIf you gain from something that may well have been accidental â West Brom insist it was â should you own up?",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3052_4",
+            "category": "england",
+            "type": "News",
+            "title": "Bellingham, Vinicius Jr and Mbappe not incompatible - Mourinho",
+            "bullets": [
+              "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same te...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Real Madrid trio Jude Bellingham, Vinicius Jr and Kylian Mbappe can all play together in the same team successfully, new head coach Jose Mourinho says.",
+            "fullText": "Jose Mourinho says Jude Bellingham, Vinicius Jr and Kylian Mbappe are not \"incompatible\" together in a team\n\nReal Madrid boss Jose Mourinho says it will be hard to find the \"perfect set-up\" to fit Kylian Mbappe, Vinicius Jr and Jude Bellingham into the same team, but insists the trio are not \"incompatible\".\n\nAfterlast season was overshadowed by chaos,amid fan unrest and allegations of players fighting at the Bernabeu, Mourinho will need all three of his stars if Los Blancos want to reclaim the Spanish title from a Barcelona team who have won the past two.\n\nHowever, the 63âyearâold, whose return to Real for asecond stint in charge was confirmed in June, admitted he faces a \"difficult\" task in fitting all three players into the same starting eleven.\n\nSpeaking to the media before Real's La Liga opener against Espanyol on Saturday, Mourinho said: \"They are incredible players and incredible players want to play with incredible players. Top players have frustration when they play with teammates who are not top.\n\n\"The best want to play with the best. After the tactical adjustments, it might be a little bit more difficult,\" he added.\n\nReal Madrid in crisis - inside the conflict and chaos at the Bernabeu\n\nBefore facing Bayern Munich in the Champions League quarter-final last season, Jude Bellingham said \"it can be difficult\" to be at his individual best when he, Mbappe and Vinicius are all on the pitch together.\n\n\"It's difficult, because I still feel like there have been many games where we've mixed really well,\" Bellingham said when asked about combining with his star team-mates.\n\n\"It can be difficult when we're all on the same side. We're fluid, we have freedom to move around, at times that can disorganise a bit, but with both of them, you have to trust in their ability.\"\n\nMourinho said England's Bellingham, France's Mbappe and Brazil's Vinicius all played in \"perfect\" roles for their countries during the World Cup, but admitted replicating that in Madrid this season will be a tougher task.\n\n\"It's harder for Mourinho to find the perfect set-up for all three. It's harder. But here we are. I want all three of them to feel comfortable on the field together,\" he said.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3052_5",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal sweep Coventry aside to start Premier League title defence in style",
+            "bullets": [
+              "What a difference a title makes. The last time Arsenal played in front of their own supporters, you ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five days on and having ended their long wait to be crowned champions the following night when Manchester City slipped up against Bournemouth, Arsenal gave Coventry a rude awakening in their first Premier League game for 25 years.It’s now 46 matches since Arsenal lost at home to a newly promoted side and there was never any doubt about this result as soon as Kai Havertz – who scored the only goal against Burnley that turned out to be priceless – picked up where he left off by giving Arsenal the lead in the 15th minute. A tap-in from Bukayo Saka and captain Martin Ødegaard matching his Premier League tally from last season just after half-time made it almost the perfect start for the reigning champions. Continue reading...",
+            "fullText": "What a difference a title makes. The last time Arsenal played in front of their own supporters, you could cut the nervous tension with a knife as Mikel Arteta’s side scraped to a 1-0 victory over already relegated Burnley. Ninety five days on and having ended their long wait to be crowned champions the following night when Manchester City slipped up against Bournemouth, Arsenal gave Coventry a rude awakening in their firstPremier Leaguegame for 25 years.\n\nIt’s now 46 matches sinceArsenallost at home to a newly promoted side and there was never any doubt about this result as soon as Kai Havertz – who scored the only goal against Burnley that turned out to be priceless – picked up where he left off by giving Arsenal the lead in the 15th minute. A tap-in from Bukayo Saka and captain Martin Ødegaard matching his Premier League tally from last season just after half-time made it almost the perfect start for the reigning champions.\n\nArteta had warned beforehand that his players were hungry for more silverware this season and as well as assembling one of the deepest squads, they now have the vital experience of having actually done it. It was telling that with 15 minutes still to play and his side cruising towards victory, the Arsenal manager had the luxury of replacing the outstanding Ødegaard and Declan Rice with two World Cup winners in Mikel Merino and Martín Zubimendi.\n\nIt could have been much worse for Coventry had Arsenal not taken their foot off the accelerator by then. But Frank Lampard will know that their chances of survival will not rest on this result and next week’s homecoming against Hull should provide more of a barometer of their prospects.\n\nIn another show of their considerable strength, Arsenal had paraded their new signing Ezri Konsa before kick-off after the England defender completed his £51m move from Aston Villa. But they were without Bruno Guimarães after the £75m midfielder picked up an injury on his debut in Sunday’s convincing Community Shield victory over City.\n\n• Mikel Arteta recorded his150th Premier League victoryin charge of Arsenal, and is now one of only five managers to reach 150 wins in fewer than 250 games (249), after Pep Guardiola (204), José Mourinho (231), Jürgen Klopp (237), and Alex Ferguson (247).\n\n• Arsenal areunbeaten in 46 Premier League home gamesagainst promoted sides, extending the longest such run by any team in the competition’s history (W41 D5). Within this run, they have won the most recent 17 matches by an aggregate score of 47-9.\n\n• Frank Lampard (pictured) haswon only one of his last 18 gamesas a manager in the Premier League (D4 L13), while his side have failed to keep a clean sheet in each of the last 17.Opta\n\nCoventry’s line-up contained five new signings including the Ghana midfielder Caleb Yirenkyi and it showed. At least they managed to avoid a repeat of their only two previous visits to this stadium when they conceded 10 goals in FA and League Cup ties at a time they were in the third tier. But while not many of the supporters who made the journey to north London will remember Micky Quinn’s hat-trick in Coventry’s win on the opening day of the 1993-94 season at the old Highbury, Lampard had urged his players to show belief that they belong at this level.\n\nSadly for him, Arsenal were in no mood for sentimentality. Christos Tzolis was not the most eye-catching arrival of the summer but the Greece forward was a lively presence from the start and could have given them the lead twice in the first 10 minutes before Havertz eventually did. Tzolis and Riccardo Calafiori teamed up on the left flank to dispossess Milan van Ewijk and the Italian rolled a pass perfectly on to the onrushing Havertz to finish.\n\nBefore Coventry knew what had hit them they were two behind. A flowing move started by Rice involving a clever one-two with Ødegaard saw Carl Rushworth play a cross from Tzolis straight to the grateful Saka. Yirenkyi went into the book for hauling down Myles Lewis-Skelly as Coventry struggled to keep their heads above water. It was no surprise that Lampard looked so concerned as he watched on with his arms folded firmly across his chest. Only four of his squad have previous Premier League experience that amounts to little more than 200 games in total. They will need to learn quickly.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3052_6",
+            "category": "england",
+            "type": "News",
+            "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+            "bullets": [
+              "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery f...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.In the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product. Continue reading...",
+            "fullText": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign\n\nWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.\n\nIn the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product.\n\nFor Arsenal’s supporters, on this evidence at least, it might just be a slightly easier experience this time around. They say retaining a title is never easy. Well winning it wasn’t exactly painless either. But how do you manage that altered gravity? On the one hand there’s the Roy Keane approach, performative hunger, serial victory as an act of self-harm. Win the league, stab yourself in the leg, and win it again.\n\nDoes hunger matter so much with the game so mechanised, a matter of patterns, systems, processed movements? For Arsenal it is more a case of finding other rhythms and deeper gears. Even before thisstraightforward 3-0 defeat of Coventry, the goal was clear enough. Win the league, but win it better. Make these games less interesting, or at least less painful.\n\nWell, stage one complete. Two things happened here. First, Arsenal won this game as comfortably as any in the last two seasons. This was like watching a team in demo mode, just trying out the new software, revving the throttle in neutral. And second, Martin Ødegaard played, once again, a little bit more like the half-remembered Martin Ødegaard: 75 minutes, 72 touches, 55 short, clipped little passes. And this is significant.\n\nIn the absence of a headline attacking signing, attention has fixed on Ødegaard and the chance he can become himself again after the injury-addled figure of last season. At his best he is just such a constant ferret, a press machine, master of space and of the nudged pass, the look of a thrusting young corporate actuary and the feet of a cage-ball urchin.\n\nØdegaard’s goal here was the obvious headline moment, Arsenal’s third on 48 minutes. In the moment of execution it felt like a fun and slightly silly thing, the kind of goal Prince Edward might have scored in It’s A Knockout in 1981, set up by Brian Blessed, Emu in goal. But the move to get there was the real deal.\n\nThe Norwegian made it in the way he likes to make things, driving the move from just behind the attacking line, twitching the threads. There was a nice delayed pass to Ben White, a drift into space. The finish was comical. Ødegaard sometimes has a strange way of shooting, sidling up to the ball, his foot connecting at an odd angle, a kind of power-stub. Here he miskicked in front of goal, but still sent the ball floating weirdly to the left of Carl Rushworth, who clawed at it helplessly, like a cat flapping its paw at a shadow on the wall.\n\nØdegaard laughed as he wheeled away. But the celebration was real. This was his first goal at the Emirates since last December. And either side there were signs of something else too, a reawakening of the link-up with Bukayo Saka. Just before half-time they pinged the ball between each other six or seven times, eventually finding space for Declan Rice to shoot just wide. This was like old times. Here they are, the guys, with something between them that is genuinely rare in elite teams: a sense of play, invention, pleasure in the connection.\n\nNorth London had been agreeably crisp and even a little chilly at kick-off. As a contest, Arsenal-Coventry has Classic Barclays energy: Darren Huckerby running the channels, your TV screen making whooshing noises, Richard Keys with a filthy late-August tan, lemon-yellow blazer sleeves hitched up.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3052_7",
+            "category": "england",
+            "type": "News",
+            "title": "New rules, managers and pundits: what’s different this Premier League season?",
+            "bullets": [
+              "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the DayThe 2026-27 Premier League season kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked.Marco Rose – BournemouthXabi Alonso – ChelseaPierre Sage – Crystal PalaceÁlvaro Arbeloa – FulhamGary O’Neil - Ipswich TownAndoni Iraola – LiverpoolEnzo Maresca- Manchester CityMatthias Jaissle – NewcastleOliver Glasner – Nottingham Forest Continue reading...",
+            "fullText": "A crackdown on time wasting, a record number of new people in charge, and some new faces on Match of the Day\n\nThe 2026-27Premier Leagueseason kicks off on Friday and while the familiar rivalries return, the English top flight has some alterations this campaign. From evolved rules to new faces and broadcast changes, there is plenty to catch up on before a ball is kicked.\n\nThe Premier League has some law and rule changes this season and the first will lead to a crackdown on time wasting.\n\nReferees will be able to start a countdown of five seconds if they believe players are ticking down the clock during throw-ins and goal-kicks. If players take more than five seconds once the countdown has been enforced, the goal-kick becomes a corner and the throw-in is reversed.\n\nThat is not all that is being done to cut time-wasting. Last season, if a player was injured and play stopped as a result, they had to leave the pitch for 30 seconds. In this campaign, it will be increased to a minute and the only exceptions will be if a foul that received a card led to the injury, or other unusual circumstances.\n\nThere will also be a change to limit tactical timeouts by goalkeepers going down injured. If they do, a manager must choose another player to leave the pitch for one minute. Substitutions will also need to take just 10 seconds; if a player takes longer than that to leave the pitch, his replacement will not be able to come on for a further minute.\n\nThere will also be changes to video assistant referee interventions. VARs will now be able to intervene on second yellow cards if they have been shown in error. They cannot, however, tell a referee to issue a second yellow if one is not shown.\n\nVARs will also be able to get involved where an attacking foul happens before a set piece is taken which leads to a penalty, a goal or a disciplinary sanction. They will be able to intervene to have the set piece retaken.\n\nDespite players being given red cards for speaking to opposition players with their mouths covered at the World Cup this past summer, this is not a rule that will be adopted by the Premier League.\n\nThis season the defending champions, Arsenal, will have the longest-serving manager in the Premier League. Mikel Arteta has been in charge since 2019 and delivered his first title last season; Aston Villa’s Unai Emery is second on the list, with Leeds’ Daniel Farke third.\n\nThe upcoming campaign will set a record for the most new managers at the start of a Premier League season. The nine new names in the dugout are:\n\nThere have been hundreds of signingsin this summer’s transfer windowand many have caught fans’ attention. Here are five to keep an eye on for this upcoming season:",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3053_8",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Endrick to Liverpool? Arsenal to swap Martinelli for Yildiz?",
+            "bullets": [
+              "Today’s fluff does not do Sudoku Since Vinícius Júnior signed a shiny new deal at Real Madrid, Arsen...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff does not do Sudoku Since Vinícius Júnior signed a shiny new deal at Real Madrid, Arsenal have been having to look elsewhere for a new winger. Turkey’s and Juventus’s Kenan Yildizm is of interest to Mikel Arteta and the Gunners hierarchy. One potential way of getting the deal done is to send Gabriel Martinelli in the opposite direction.It is all fun and games at Manchester City, where they are trying to rebuild a midfield inside a week. Adam Wharton is supposedly on their wishlist but, with a £100m price tag, the expense could be a little too much. City have reportedly put in a call to Selhurst Park but received a swift rebuffing in response. Considering the proximity of that Sainsbury’s to the Palace ground, any potential purchase of a midfielder would come with a lot of Nectar points. With Savinho on his way to Tottenham, City could replace him with Allan Elias, a left-footed right-winger at Palmeiras – a team not keen on selling. Ruben Amorim is eager on a return to Manchester but only to take Rúben Dias to Milan. Continue reading...",
+            "fullText": "Since Vinícius Júnior signed a shiny new deal at Real Madrid, Arsenal have been having to look elsewhere for a new winger. Turkey’s and Juventus’sKenan Yildizmis of interest to Mikel Arteta and the Gunners hierarchy. One potential way of getting the deal done is to sendGabriel Martinelliin the opposite direction.\n\nIt is all fun and games at Manchester City, where they are trying to rebuild a midfield inside a week.Adam Whartonis supposedly on their wishlist but, with a £100m price tag, the expense could be a little too much. City have reportedly put in a call to Selhurst Park but received a swift rebuffing in response. Considering the proximity of that Sainsbury’s to the Palace ground, any potential purchase of a midfielder would come with a lot of Nectar points. WithSavinho on his way to Tottenham, City could replace him withAllan Elias, a left-footed right-winger at Palmeiras – a team not keen on selling. Ruben Amorim is eager on a return to Manchester but only to takeRúben Diasto Milan.\n\nOver at Anfield there are plans afoot for Liverpool to bid £55m forEndrickto test Real Madrid’s mettle on the matter. The Brazilian spent time on loan at Lyon last season and was recently linked with Aston Villa, who could re-enter the race shouldOllie Watkins head to Al-Hilal.\n\nThere is still a good chance of a Chelsea clearout, withNicolas Jacksonchatting with Napoli over a move to Italy, while Atlético Madrid are also keen. Palace are in the market for a centre-back and are keen on signing up the Blues’ bomb-squad memberAxel Disasi. The Frenchman is unwanted at Stamford Bridge, so would be a relatively straightforward signing after previous loan spells with Aston Villa and West Ham. Auxerre’sKevin Danoisis another player Pierre Sage likes the look of, with the 22-year-old midfielder marketed at £25m.\n\nOn thing that could sour the mood at Selhurst Park is the departure of frontmanJean-Philippe Mateta, who is getting admiring glances from Tottenham. The Frenchman has been tipped to move on for a while and is into the final year of his contract, which could force Palace to cash in.\n\nThe latest news from Hull’s transfer tombola has linked them toOussama Targhallineof Feyenoord. A bid has already been faxed to the Netherlands but Porto, Atalanta and Bologna are also in in pursuit of the midfielder.\n\nLeeds, Liverpool and Everton are in the hat for the Midtjylland wingerDaríoOsorio.The Chilean shown great promise in Denmark and the Europa League, and could become one of the finds of the window if someone stumps the cash. If you like a bit of niche on your bingo card, then the Polish side Radomiak Radom having a loan offer for Leeds youngsterAlfie Cresswellrejected is right up there.\n\nKick off your evenings with the Guardian's take on the world of football\n\nBurnley are nervous about losingZian Flemmingbefore the end of this window, with Lille ramping up their interest in the forward.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-21 @ 18:24:06 EDT",
+  "lastUpdated": "2026-08-21 @ 22:30:54 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
