@@ -8,18 +8,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cgr7e17010go?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'Hungry to win' - Villa's Konsa joins Arsenal in £55m deal",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg97jpkkego?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ What does Heggebo's deception ban mean for football?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c05q3946r6ro?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Championship roundup: Millwall beat Norwich; Portsmouth sink Lincoln",
-      "link": "https://www.theguardian.com/football/2026/aug/22/championship-roundup-millwall-norwich-west-ham-norwich-charlton"
-    },
-    {
       "text": "⚽ Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/aug/21/martin-degaard-of-old-is-back-with-the-pass-that-makes-the-pass"
     }
@@ -46661,11 +46649,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5552_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal start title defence with comfortable win over Coventry",
+            "bullets": [
+              "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.",
+            "fullText": "Goals from Kai Havertz, Bukayo Saka and Martin Odegaard give champions Arsenal a comfortable 3-0 win over newcomers Coventry City, in the opening game of the Premier League campaign at the Emirates Stadium.\n\nMATCH REPORT:Premier League - Arsenal 3-0 Coventry City",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5552_1",
+            "category": "england",
+            "type": "News",
+            "title": "Martin Ødegaard resumes his role as Arsenal’s smoothing agent and pass master | Barney Ronay",
+            "bullets": [
+              "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery f...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaignWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.In the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product. Continue reading...",
+            "fullText": "His goal was like something from It’s A Knockout, but the Arsenal captain showed signs of recovery from an injury-wrecked campaign\n\nWe’re back, baby. Welcome to the content zone. And yes, we did actually go away for a bit. Seriously. Check back. We really did.\n\nIn the lead-up to this Premier League opener, Sky Sports had been trailing the fact it will show a total of 1,500 live games this season. Lay these end-to-end and that adds up to about 3,000 hours, or 125 whole days doing nothing but watching football. Chuck in the endless over-gorge of clips, highlights, noises off, VAR rage, furious punditry shemozzles, and that’s pretty much the next eight months spent slumped in your memory foam chair, cramming in those great dripping handfuls of sweet, sweet football-derived product.\n\nFor Arsenal’s supporters, on this evidence at least, it might just be a slightly easier experience this time around. They say retaining a title is never easy. Well winning it wasn’t exactly painless either. But how do you manage that altered gravity? On the one hand there’s the Roy Keane approach, performative hunger, serial victory as an act of self-harm. Win the league, stab yourself in the leg, and win it again.\n\nDoes hunger matter so much with the game so mechanised, a matter of patterns, systems, processed movements? For Arsenal it is more a case of finding other rhythms and deeper gears. Even before thisstraightforward 3-0 defeat of Coventry, the goal was clear enough. Win the league, but win it better. Make these games less interesting, or at least less painful.\n\nWell, stage one complete. Two things happened here. First, Arsenal won this game as comfortably as any in the last two seasons. This was like watching a team in demo mode, just trying out the new software, revving the throttle in neutral. And second, Martin Ødegaard played, once again, a little bit more like the half-remembered Martin Ødegaard: 75 minutes, 72 touches, 55 short, clipped little passes. And this is significant.\n\nIn the absence of a headline attacking signing, attention has fixed on Ødegaard and the chance he can become himself again after the injury-addled figure of last season. At his best he is just such a constant ferret, a press machine, master of space and of the nudged pass, the look of a thrusting young corporate actuary and the feet of a cage-ball urchin.\n\nØdegaard’s goal here was the obvious headline moment, Arsenal’s third on 48 minutes. In the moment of execution it felt like a fun and slightly silly thing, the kind of goal Prince Edward might have scored in It’s A Knockout in 1981, set up by Brian Blessed, Emu in goal. But the move to get there was the real deal.\n\nThe Norwegian made it in the way he likes to make things, driving the move from just behind the attacking line, twitching the threads. There was a nice delayed pass to Ben White, a drift into space. The finish was comical. Ødegaard sometimes has a strange way of shooting, sidling up to the ball, his foot connecting at an odd angle, a kind of power-stub. Here he miskicked in front of goal, but still sent the ball floating weirdly to the left of Carl Rushworth, who clawed at it helplessly, like a cat flapping its paw at a shadow on the wall.\n\nØdegaard laughed as he wheeled away. But the celebration was real. This was his first goal at the Emirates since last December. And either side there were signs of something else too, a reawakening of the link-up with Bukayo Saka. Just before half-time they pinged the ball between each other six or seven times, eventually finding space for Declan Rice to shoot just wide. This was like old times. Here they are, the guys, with something between them that is genuinely rare in elite teams: a sense of play, invention, pleasure in the connection.\n\nNorth London had been agreeably crisp and even a little chilly at kick-off. As a contest, Arsenal-Coventry has Classic Barclays energy: Darren Huckerby running the channels, your TV screen making whooshing noises, Richard Keys with a filthy late-August tan, lemon-yellow blazer sleeves hitched up.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-22 @ 11:20:25 EDT",
+  "lastUpdated": "2026-08-22 @ 14:55:52 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
