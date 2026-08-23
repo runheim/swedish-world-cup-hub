@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Kane first Englishman to win Germany's player of the year award",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ 'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,16 +20,20 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/crl7l3yx0g9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Brighton hammer Aston Villa and João Gomes red adds to Unai Emery’s pain",
+      "link": "https://www.theguardian.com/football/2026/aug/23/brighton-aston-villa-premier-league-match-report"
+    },
+    {
+      "text": "⚽ European football: Bayern Munich’s Harry Kane named player of the year in Germany",
+      "link": "https://www.theguardian.com/football/2026/aug/23/european-football-psg-rennes-torino-milan-elche-barcelona-bayern-munich-harry-kane"
+    },
+    {
       "text": "⚽ Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday",
       "link": "https://www.theguardian.com/football/2026/aug/22/meet-the-new-spurs-same-as-the-old-spurs"
     },
     {
       "text": "⚽ José Mourinho marks Real Madrid return with late drama and touch of humility",
       "link": "https://www.theguardian.com/football/2026/aug/23/jose-mourinho-real-madrid-romance-espanyol-la-liga"
-    },
-    {
-      "text": "⚽ Kayode seals emphatic Brentford victory in wake-up call for sorry Spurs",
-      "link": "https://www.theguardian.com/football/2026/aug/22/brentford-tottenham-premier-league-match-report"
     }
   ],
   "timeline": {
@@ -46946,11 +46954,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2231_0",
+            "category": "england",
+            "type": "News",
+            "title": "Kane first Englishman to win Germany's player of the year award",
+            "bullets": [
+              "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+            "fullText": "Harry Kane has been the Bundesliga's top scorer in each of his three seasons at Bayern Munich\n\nHarry Kane has been voted Germany's footballer of the year for 2026, becoming the first Englishman to win the award.\n\nThe Bayern Munich striker scored 61 goals in all competitions last season as his side completed a league and cup double and reached the semi-finals of the Champions League.\n\nBundesliga players or German players playing abroad are eligible for the award, which is organised by Kicker magazine and voted for by 695 members of the German sports journalists association.\n\nKane received 272 votes, with Bayern team-mate Michael Olise â runner-up in 2025 behind Florian Wirtz â again second, this time with 203 votes\n\n\"It's almost impossible to find the right superlatives to describe Harry Kane - sometimes I'm at a loss for words,\" Bayern sporting director Max Eberl said.\n\n\"He's already been named England's Footballer of the Year, and now he's also won it in Germany.\"\n\nThe England captain is among the favourites to win the 2026 Ballon d'Or, which will be awarded in London in October. If he wins, he will become the second English player to receive the honour while representing a German club, joining Kevin Keegan who won in 1978 and '79 while playing for Hamburg.\n\nBayern boss Vincent Kompany was named coach of the year, while their women's captain Giulia Gwinn won the award for best female player.\n\nKane and Kompany will be honoured on Friday at Bayern's Bundesliga opener against VfB Stuttgart at the Allianz Arena.\n\nBayern began their season with silverware on Saturday as they beat Borussia Dortmund 2-1 in the German Super Cup.\n\nOn Wednesday, Kane received the 2026 Golden Shoe award for being the top scorer across Europe's top leagues last season.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2231_1",
+            "category": "england",
+            "type": "News",
+            "title": "'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
+            "bullets": [
+              "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Trent Alexander-Arnold says he still receives abuse from Liverpool fans online after leaving Anfield for Real Madrid 14 months ago.",
+            "fullText": "Alexander-Arnold left Liverpool for Real Madrid last summer\n\nTrent AlexanderâArnold says he still hopes for \"a degree of understanding\" fromLiverpoolfans after revealing he continues to receive abuse 14 months on from leaving Anfield for Real Madrid.\n\nAfter adisrupted first season in Spainand missing out on England's World Cup squad, the 27âyearâoldtold the Mirror,externalthat the reaction to his departure from the club he supports \"hurts\".\n\nHe says he watches everyLiverpoolgame and made it clear his boyhood club will always have a \"place in my heart\".\n\n\"The booing and disappointment fromLiverpoolsupporters is something I'm absolutely able to shoulder. I can understand it, in my own way,\" he said.\n\n\"But I hope one day there'll be a degree of understanding about the decisions I wanted to make around my own life.\n\n\"It hurts because of how much I've put into the club over the course of 20 years and the sacrifices I made for the club during that period.\"\n\nNew season, new boss - will Alexander-Arnold be key figure at Real Madrid?\n\nDespite being booed on his return to Anfield during Real's1â0 Champions League defeat in November,AlexanderâArnold says he can \"dissociate\" the abuse that night and online from the interactions he has with fans when he comes back to Merseyside to visit family.\n\n\"Not a single interaction I've had in person reflects the sort of stuff you get online or via social media,\" he said.\n\nAlexander Arnold, who featured in 35 of Real Madrid's 62 matches across all competitions last season, said online abuse is a \"sad part of life\" in 2026 and that some messages have \"crossed the line\".\n\n\"I choose to keep those things away from me because they don't feel real,\" said Trent.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2231_2",
+            "category": "england",
+            "type": "News",
+            "title": "Alvarez open to Arsenal transfer - Sunday's gossip",
+            "bullets": [
+              "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Atletico Madrid forward Julian Alvarez open to Arsenal transfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move, plus more.",
+            "fullText": "Atletico Madrid forward Julian Alvarez open toArsenaltransfer, Spurs confident on completing Omar Marmoush deal, Ollie Watkins wants Al-Hilal move.\n\nArgentina forwardJulian Alvarez, 26, is open to joiningArsenal, having previously favoured a switch toBarcelona, with his relationship with current clubAtletico Madridstarting to turn \"unsavoury\".(Standard),external\n\nArsenalmanager Mikel Arteta and sporting director Andrea Berta have maintained frequent contact with Alvarez this summer and, while the Argentine still prefers a move toBarcelona,he now views the Gunners as a welcome emergency solution.(AS - in Spanish),external\n\nTottenhamare confident they will be able to conclude a deal to sign 27-year-old Egypt forward Omar Marmoush fromManchester Cityby the start of next week.(Fabrizio Romano),external\n\nEngland striker Ollie Watkins has toldAston Villahe wants to leave the club amid interest from Saudi Pro League sideAl-Hilal.(GiveMeSport),external\n\nSpain left-back Alejandro Balde, 22, has decided to leaveBarcelona, withManchester Unitedmaking contact over a possible move.(Metro via Jijantes),external\n\nAlternatively, Balde is determined to fight for his place at the Spanish champions. (Mundo Deportivo - in Spanish,external)\n\nReal Madridwill not letLiverpoolsign Brazil forward Endrick, 20, having already sold Spanish forward Gonzalo Garcia, 22, toFulhamearlier in the transfer window. (Football Insider,external)\n\nChelseahave rejected a loan bid fromRomafor England Under-21 forward Jamie Bynoe-Gittens, 22. (Talksport,external)\n\nTottenhamhave made midfielder Pape Matar Sarr, 23, available for transfer, with the Senegal international set to joinGalatasaray. (Sacha Tavolieri via Teamtalk,external)\n\nBesiktashave submitted a bid toNewcastleto sign Joe Willock after making the 27-year-old English midfielder their top transfer target.(Fabrizio Romano),external\n\nLiverpoolhave been given a boost in their bid to signParis St-Germain'sFrance forward Bradley Barcola, 23, and Senegal attacker Ibrahim Mbaye, 18, after both players were left out of the squad for Sunday's Ligue 1 game against Rennes.(Standard via RMC),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2231_3",
+            "category": "england",
+            "type": "News",
+            "title": "'It's not doom and gloom just yet' - what is going on at Morton?",
+            "bullets": [
+              "It's been a rocky start to the season for Morton with seven straight defeats, while the fans' group ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It's been a rocky start to the season for Morton with seven straight defeats, while the fans' group running the Championship club are dealing with a shortfall in funding.",
+            "fullText": "\"Greenock needs Morton and Morton needs Greenock. We've got to keep this club going.\"\n\nJohn McCartney has been a Greenock Morton supporter for over 60 years. He has a lifetime of memories watching his local side but, standing outside Cappielow ahead of Morton's Championship meeting with Arbroath, his concern for the future of the club is greater than at any point in his decades-long association with his team.\n\nThe club's major sponsor, Dalrada, has encountered difficulties, and the knock-on effect has placed significant strain on Morton's finances.\n\nPlans are in motion to bring the club back on to a more solid financial footing, but for fans, it is a worrying time.\n\n\"I've got so many good memories of Morton and I want others,\" John continues.\n\n\"I want the next generation to have that as well, and the one after. I totally and absolutely want Morton to get through this and I'll do everything I can to help, and I'm sure a lot of the fans feel the same as I do.\n\n\"Other clubs have been the same - Hamilton were here, Dumbarton were here, Inverness, and it's our turn now.\n\n\"They all got through it. We can definitely get through this, but we've got to pull together, we've got to fight to keep Morton going, because it's really, really important for Greenock, and for us, for me.\"\n\nDalrada began their sponsorship arrangement with Morton in June last year which was worth an initial Â£540,000. A further Â£240,000 was committed by Dalrada in September, but the company's recent problems led to a reduction in payments and, consequently, a cash flow problem at Cappielow.\n\nThe club has been community owned for five years but there have been recent resignations from volunteer directors of Morton Club Together.\n\nMulti-club investment group Estrella had plans to to spend Â£750,000 for a 35% stake only to withdraw that offer last week, saying Morton's \"situation has deteriorated significantly, both financially and on the pitch\" since a memorandum of understanding was established in March.\n\n\"Well put it this way, we're not at the point of having to turn the lights off,\" Morton general manager Mark Kelly told BBC Scotland.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2232_4",
+            "category": "england",
+            "type": "News",
+            "title": "Brighton hammer Aston Villa and João Gomes red adds to Unai Emery’s pain",
+            "bullets": [
+              "Brighton’s Jack Hinshelwood scored twice in a matter of seconds as Albion raced into a 4-0 lead by t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Brighton’s Jack Hinshelwood scored twice in a matter of seconds as Albion raced into a 4-0 lead by the 31st minute, before João Gomes was sent off before half-time for violent conduct to make it a disastrous start to the season for Aston Villa.Unai Emery, who has had Morgan Rogers, Ezri Konsa and Youri Tielemans sold this summer, saw his team go a goal down in the eighth minute when Victor Lindelöf was powerless to prevent an own goal after Maxim De Cuyper’s shot from a tight angle bounced on to him after hitting the woodwork. Pau Torres had given the ball away.David Hytner’s report from the Amex Stadium to follow shortly Continue reading...",
+            "fullText": "It is important to say thatAston Villawere not the only team here to have lost key players over the summer; to play under the threat of further departures; to be without others because of injury. It has been a testing time for the Brighton manager, Fabian Hürzeler, who has said goodbye to Danny Welbeck, Jan Paul van Hecke and James Milner, among others.\n\nHürzeler was without Carlos Baleba and Yankuba Minteh, officially because of injuries although their proposed moves to Manchester United and Liverpool, respectively, were surely a part of things. Kaoru Mitoma was out with a more cut-and-dried fitness issue.\n\nVilla’s problems have been similar, if a little better documented. The sales of Ezri Konsa, Morgan Rogers, Lucas Digne and Youri Tielemans. The ongoing uncertainty over Ollie Watkins, who is the subject of interest from Al Hilal and seemingly ready to leave. He was not a part of the match-day squad and with Brian Madjo and Tammy Abraham injured, Unai Emery had no available centre-forward; he pressed Emiliano Buendía into emergency service in the position. Emiliano Martínez is also set to leave. The marquee signing, Johan Manzambi, is still not fit.\n\nOnly one club dealt with their problems. It was a red-letter day for Brighton, who began the season with a statement of intent; plenty of hard running and some ruthless finishing, too. Jack Hinshelwood led the way during what was a first-half onslaught, scoring twice while Maxim De Cuyper got one and put another in off the Villa defender, Victor Lindelöf.\n\nIt was a humbling for Villa. Their supporters wanted to remind everybody at kick-off time of how they had won the Europa League in May. They were left stunned by what followed – the four concessions before the interval and the knowledge that the damage could have been much worse. Their one piece of luck was that Brighton did not turn the screw in the secondhalf. Hürzeler’s men had done enough.\n\nThe symbol of Villa’s wretchedness was the new signing, João Gomes, who was passed fit after an injury concern but proceeded to get himself sent off for violent conduct in the 40th minute at 4-0. The debutant aimed a high boot at the Brighton striker, Georginio Rutter. Gomes might have been dismissed before that. He was horribly off the pace. Then again, he was not alone in Villa colours.\n\nWhen it was all over, the Brighton celebrations exploding around the Amex Stadium, Emery beat a hasty retreat. There was no handshake for Hürzeler, only worry lines across his brow. There is so much for him to ponder.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2232_5",
+            "category": "england",
+            "type": "News",
+            "title": "European football: Bayern Munich’s Harry Kane named player of the year in Germany",
+            "bullets": [
+              "Striker becomes first Englishman to win the awardTeammate Michael Olise finishes secondBayern Munich...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Striker becomes first Englishman to win the awardTeammate Michael Olise finishes secondBayern Munich striker Harry Kane was voted the 2026 player of the year in Germany by an association of sports journalists on Sunday, finishing ahead of teammate Michael Olise. Kicker magazine revealed the results of its yearly polls of members of the Association of German Sports Journalists.Kane, the England captain, won the award after a stellar season in which he won the Bundesliga and German Cup while Bayern also reached the Champions League semi-finals. The 33-year-old scored 61 goals for the club last season in all competitions. He then scored six goals as England reached the World Cup semi-finals before losing to Argentina. On Saturday he featured in Bayern’s 2-1 German Super Cup victory over Borussia Dortmund.This story will be updated Continue reading...",
+            "fullText": "Bayern Munich striker Harry Kane was voted the 2026 player of the year in Germany by an association of sports journalists on Sunday, finishing ahead of teammate Michael Olise. Kicker magazine revealed the results of its yearly polls of members of the Association of German Sports Journalists.\n\nKane, the England captain, won the award after a stellar season in which he won the Bundesliga and German Cup while Bayern also reached the Champions League semi-finals. The 33-year-old scored 61 goals for the club last season in all competitions. He then scored six goals as England reached the World Cup semi-finals before losing to Argentina. On Saturday he featured in Bayern’s 2-1 German Super Cup victory over Borussia Dortmund.\n\nBayern’s Vincent Kompany was named coach of the year, while their women’s captain Giulia Gwinn won the award for best female player.\n\nThe 695 members of the journalists’ association vote on the award, with Bundesliga players and German footballers playing abroad eligible for the playing honours. Kane, 33, is the first Englishman to win the award while Olise also finished second in 2025, behind Florian Wirtz.\n\n“It’s almost impossible to find the right superlatives to describe Harry Kane – sometimes I’m at a loss for words,” Bayern sporting director Max Eberl said in a statement. “He’s already been named England’s Footballer of the Year, and now he’s also won it in Germany.”\n\nThe England captain is among the favourites for the Ballon d’Or, which will be handed out in London in October.\n\nGwinn, who shared the women’s award last year with Ann-Katrin Berger, ensured more joy for Bayern as she finished clear of teammate ahead of her teammate Klara Bühl.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2232_6",
+            "category": "england",
+            "type": "News",
+            "title": "Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday",
+            "bullets": [
+              "Canny Brentford show it will take more than a few new players to restore any sense of stability to T...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Canny Brentford show it will take more than a few new players to restore any sense of stability to TottenhamThis was supposed to be New Spurs. Daniel Levy, such a magnet for fan apathy, has been sidelined. Roberto De Zerbi’s recruitment drive has won the transfer market. The stadium is still nice. But Spurs and ambition were always an awkward combination and all those cash-fuelled dreams were shattered within an hour of the new season. A few headed for the exits after Brentford’s third goal on 49 minutes. There were not many left by the time those in freakish purple made their way over to that corner of the Gtech at full time.There was no escaping the irony that the best player on the splendid opening-day pitch was the only new face in Brentford’s starting XI. Mamadou Sangaré, signed for a club-record fee from Lens, made sure his Premier League debut was played at his pace – faster and more dynamic than any of Sandro Tonali, Lucas Bergvall or Conor Gallagher could deal with in midfield. The Mali international ran off Bergvall to set up Keane Lewis-Potter’s first and struck the shot that led to Michael Kayode’s third. Continue reading...",
+            "fullText": "Canny Brentford show it will take more than a few new players to restore any sense of stability to Tottenham\n\nThis was supposed to beNew Spurs. Daniel Levy, such a magnet for fan apathy, has been sidelined.Roberto De Zerbi’s recruitment drivehas won the transfer market. The stadium is still nice. But Spurs and ambition were always an awkward combination and all those cash-fuelled dreams were shattered within an hour of the new season. A few headed for the exits after Brentford’s third goal on 49 minutes. There were not many left by the time those in freakish purple made their way over to that corner of the Gtech at full time.\n\nThere was no escaping the irony that the best player on the splendid opening-day pitch was the only new face in Brentford’s starting XI.Mamadou Sangaré, signed for a club-record fee from Lens, made sure his Premier League debut was played at his pace – faster and more dynamic than any of Sandro Tonali, Lucas Bergvall or Conor Gallagher could deal with in midfield. The Mali international ran off Bergvall to set up Keane Lewis-Potter’s first and struck the shot that led to Michael Kayode’s third.\n\nSangaré is an example of what happens when a club gets its recruitment right. The 24-year-old is clearly a player on the up – and has the temperament to match his talent. His career has not been easy, moving to Europe and Red Bull Salzburg at 18 but spending his years in Austria on loans in the second tier and in Belgium. After a year at Lens that included Coupe de France glory and individual Ligue 1 accolades,Brentfordpaid what already looks like a bargain £41m. The standing ovation at his second-half withdrawal was the least he deserved.\n\nOn the other side, Tonali was the face of Tottenham’s troubles,the £100m marquee signingplaying a game where the ball seemed to elude him, tease him from afar. De Zerbi has spoken this summer of how impressed he had been watching the midfielder play as a teenager for the Italian club he supports, Brescia. He looked considerably less impressed with the 26-year-old version after he skied a volley high over the crossbar on 40 minutes, completing a first half of misplaced passes and frustrated fouls, always one step behind the imperious Sangaré.\n\nDe Zerbi is known for his boldness – and there was certainly something to be said for making Archie Gray the youngest captain in Tottenham’s history in the absence of the injured new club skipper, Micky van de Ven. You could forgive his predecessor, Cristian Romero, for feeling a touch smugin his new Madrid apartment. The edgy Marcos Senesi, such an unflappable figure amid the turnover in the Bournemouth defence last season,clearly spent too much timewith his Argentina teammate Romero at the World Cup.His defensive partner, Jan Paul van Hecke, has not settled in either.Scotland’s captain, Andy Robertson, led out by the 20-year-old Gray here, must be asking what he has let himself in for.\n\nSo must Savinho and Omar Marmoush, pending arrivals that will take Spurs’ summer spending towardsthe dizzying heights of £400m– only Liverpool in 2025 have spent more in a single window out of any club, anywhere. Spurs had brought in six new players before a ball was kicked but still started the seasonwith Richarlison leading the line. The contrast between his meek performance and that of his compatriot and opposite number Igor Thiago, combining power and poise, felt significant. The ease with which Brentford’s No 9 had it all afternoon was evident in his over-relaxed penalty that pinged back off the foot of a post at 3-0.\n\nAfter establishing a two-goal lead through Lewis-Potter and Vitaly Janelt, Brentford were unfazed by Spurs’ introduction of their £85m signing Mateus Fernandes at the break and carried on where they left off.How high can they fly this season? Unlike many of their rivals, Keith Andrews’ side are without the burden of European football after missing out on the final day of last season. Second-half substitutes such as Jaidon Anthony and Callum Wilson are handy additions of firepower at a fraction of the cost in a market that is ballooning off the back of Spurs’ wild spending.\n\nKick off your evenings with the Guardian's take on the world of football\n\nTottenham started last season with a3-0 win over Burnleyand a2-0 victory at Manchester City– points that promised a new beginning under Thomas Frank, who haunted them from his old manor here, but ultimately proved vital in their fight for survival under De Zerbi in May. Where does this result and performance leave the head coach? This will probably work out eventually – his vastly changed squad must be given time to gel. But what if thisisNew Spurs? A constant cycle of new lows and new ways of embarrassing themselves. After two 17th-place finishes in succession, would anyone blame them for taking that now?",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2232_7",
+            "category": "england",
+            "type": "News",
+            "title": "José Mourinho marks Real Madrid return with late drama and touch of humility",
+            "bullets": [
+              "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 win at EspanyolJosé Mourinho says he is calmer now so when the rest of the bench emptied, sprinting down the touchline to celebrate the 90th-minute goal that finally delivered victory on his first game in charge of Real Madrid in 4,380 days, he did not set off with them. Instead, he clenched his fists, got to his feet and walked down the touchline behind the subs, watching them head, shouting, towards Carlos Espí. As they piled on down in the corner, he pulled over his captain Fede Valverde for a word. Which might just have been: phew.For all those stars; for all that Mourinho’s main task might just have been to find a way to fit Kylian Mbappé, Vinícius Júnior and Jude Bellingham together; for all that he had introduced Yan Diomande, the most expensive player in the club’s history, it was a 21-year-old, unknown six months ago and unexpectedly signed from Levante, who got the goal that secured victory upon the coach’s second coming. Continue reading...",
+            "fullText": "The old master is back at Madrid as he begins with celebrations, frustrations and relief in a 2-1 win at Espanyol\n\nJosé Mourinho says he is calmer now so when the rest of the bench emptied, sprinting down the touchline to celebrate the 90th-minute goal that finally delivered victory on his first game in charge of Real Madrid in 4,380 days, he did not set off with them. Instead, he clenched his fists, got to his feet and walked down the touchline behind the subs, watching them head, shouting, towards Carlos Espí. As they piled on down in the corner, he pulled over his captain Fede Valverde for a word. Which might just have been:phew.\n\nFor all those stars; for all that Mourinho’s main task might just have been to find a way to fit Kylian Mbappé, Vinícius Júnior and Jude Bellingham together; for all that he had introducedYan Diomande, the most expensive player in the club’s history, it was a 21-year-old, unknown six months ago and unexpectedly signed from Levante, who got the goal that secured victory upon the coach’s second coming.\n\nEspí, whose goals had rescued Levante from relegation last season and who is still living at Madrid’s Valdebebas training ground like his coach, the two of them sharing breakfast every morning, was signed for pretty much this: to be a different type of striker, an old-school No 9, with a presence in the area. And when a scrappy, broken-up move ended with Mbappé seeing the ball run away from him in the area, there he was to force it over the line. Perhaps even to pose a question: is his a profile they could do with and not just in reserve? This time, at least, it had worked.\n\nMourinho’s first game since a 4-2 win over Osasuna in May 2013 began with the photographers abandoning their places behind the goal to surround him on the bench, no doubt what the attraction was; it ended with him hugging theEspanyolcoach Manolo González, high-fiving the referee and ducking down the tunnel. In between time, reality was revealed, which he surely always imagined it would be: it is early, solutions are never immediate, and he had said that Espanyol were a good side. At times, they showed it too. Madrid had more chances, but Manolo’s team had largely succeeded in limiting the visitors.\n\nOn a night where Madrid exhibited some of the old flaws, there were doubts still – it is the first day after all – but they were at least allayed for a little while. There will be other days, sterner tests of this team; there will also be sterner tests of Mourinho’s temperament, of course.\n\nWhen Madrid faced Benfica in the spring, Mourinho had described his time there as “three hard, intense, sometimes violent years”. But the thing about nostalgia is that as the bad slips into the distance, only the good remains. Mourinho said that he is “not the kind of man who misses anything”, someone who has “regrets”; plenty though had missed him, the president Florentino Pérez first among them. In his worldview, managers are mostly a necessary evil; the Portuguese is virtually the only coach he had ever truly liked.\n\nThere are those who had longed for exactly that intensity, violence even: for a hard man to lead them, some kind of iron surgeon to fix them and go to war with their rivals, someone with the personality to impose. For all that by the end they really could not go on, at some level Pérez had always been drawn to Mourinho’s return. He clung to the idea that their success after his departure – six Champions League wins in 11 years – was down to him, that he had made it possible. He had shown the way.\n\nMourinho told a story on the eve of this game revealing that after every trophy Madrid won he would have got a call from Pérez. “I always said no, no, no, it was nothing to do with me,” he said, which was a neat way of saying it kind of was. This was not a confidence betrayed: Pérez had said much the same. It took the president 13 years to attend to his urge, but now Mourinho was back.\n\nAnd, perhaps, why not? The last returnees had done rather well, while all the others had failed. There was a moment at the end of that story when Mourinho said the trophies belonged to Zinedine Zidane and Carlo Ancelotti, not him, andinnocentlychecked that they were the only men to have won anything. The diagnosis of their ills, the challenge before them, required his surgery too. Like in 2010, Madrid had fallen behind Barcelona. They have not won a major title in two years, and that was about culture as well as football.\n\nIt may not be as simple aseffortbut that is a start. “We have to try not to negotiate things that are non-negotiable,” Mourinho said. “Commitment can’t be missing.” Mourinho has the authority to change that, or so it goes. He would be afforded it, anyway. That at least is the theory. Habits had been changed, demands made. Sessions had improved, or the attitude towards them. Diomande had said he was ready to “die” for his coach, who insisted that was just a phrase, but he could not help but be pleased with that.\n\nThere were other reasons to be optimistic. Vinícius’s future had been resolved at last, no lingering doubts over status or resentment. The World Cup is out the way, no other priority on the horizon. Mourinho noted that Brazil, France and England had found a way to get the best out of Vinícius, Mbappe and Bellingham, but that getting the best of all three is different. “I don’t think they’re incompatible,” he said; last year it often looked like they were, Bellingham, admitting that they find themselves occupying the same spaces at times.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-23 @ 07:10:18 EDT",
+  "lastUpdated": "2026-08-23 @ 11:22:32 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
