@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Alexander Isak braces himself for daunting reunion with Newcastle",
-      "link": "https://www.theguardian.com/football/2026/aug/22/alexander-isak-braces-furious-newcastle-reunion-liverpool"
+      "text": "⚽ Isak returns to Newcastle with Liverpool, Premier League buildup, and more – matchday live",
+      "link": "https://www.theguardian.com/football/live/2026/aug/23/isak-returns-to-newcastle-with-liverpool-premier-league-buildup-and-more-matchday-live"
     },
     {
       "text": "⚽ Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday",
@@ -18049,10 +18049,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-23": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_2355_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak returns to Newcastle with Liverpool, Premier League buildup, and more – matchday live",
+            "bullets": [
+              "",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from The Guardian Football covering the Swedish national football team.",
+            "fullText": "“What struck me was not how bad Spurs were, but how good Brentford were for a club not considered one of the elite. I think Brentford fans can look forward to a really decent season.\n\n“Maybe Spurs did make them look good, but I also think the pace at which Brentford reacted to every change of possession was really sharp. They looked seriously well drilled for the first week of the season.”",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2357_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Meet the new Spurs, same as the old Spurs despite big summer spending | Billy Munday",
+            "bullets": [
+              "Canny Brentford show it will take more than a few new players to restore any sense of stability to T...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Canny Brentford show it will take more than a few new players to restore any sense of stability to TottenhamThis was supposed to be New Spurs. Daniel Levy, such a magnet for fan apathy, has been sidelined. Roberto De Zerbi’s recruitment drive has won the transfer market. The stadium is still nice. But Spurs and ambition were always an awkward combination and all those cash-fuelled dreams were shattered within an hour of the new season. A few headed for the exits after Brentford’s third goal on 49 minutes. There were not many left by the time those in freakish purple made their way over to that corner of the Gtech at full time.There was no escaping the irony that the best player on the splendid opening-day pitch was the only new face in Brentford’s starting XI. Mamadou Sangaré, signed for a club-record fee from Lens, made sure his Premier League debut was played at his pace – faster and more dynamic than any of Sandro Tonali, Lucas Bergvall or Conor Gallagher could deal with in midfield. The Mali international ran off Bergvall to set up Keane Lewis-Potter’s first and struck the shot that led to Michael Kayode’s third. Continue reading...",
+            "fullText": "Canny Brentford show it will take more than a few new players to restore any sense of stability to Tottenham\n\nThis was supposed to beNew Spurs. Daniel Levy, such a magnet for fan apathy, has been sidelined.Roberto De Zerbi’s recruitment drivehas won the transfer market. The stadium is still nice. But Spurs and ambition were always an awkward combination and all those cash-fuelled dreams were shattered within an hour of the new season. A few headed for the exits after Brentford’s third goal on 49 minutes. There were not many left by the time those in freakish purple made their way over to that corner of the Gtech at full time.\n\nThere was no escaping the irony that the best player on the splendid opening-day pitch was the only new face in Brentford’s starting XI.Mamadou Sangaré, signed for a club-record fee from Lens, made sure his Premier League debut was played at his pace – faster and more dynamic than any of Sandro Tonali, Lucas Bergvall or Conor Gallagher could deal with in midfield. The Mali international ran off Bergvall to set up Keane Lewis-Potter’s first and struck the shot that led to Michael Kayode’s third.\n\nSangaré is an example of what happens when a club gets its recruitment right. The 24-year-old is clearly a player on the up – and has the temperament to match his talent. His career has not been easy, moving to Europe and Red Bull Salzburg at 18 but spending his years in Austria on loans in the second tier and in Belgium. After a year at Lens that included Coupe de France glory and individual Ligue 1 accolades,Brentfordpaid what already looks like a bargain £41m. The standing ovation at his second-half withdrawal was the least he deserved.\n\nOn the other side, Tonali was the face of Tottenham’s troubles,the £100m marquee signingplaying a game where the ball seemed to elude him, tease him from afar. De Zerbi has spoken this summer of how impressed he had been watching the midfielder play as a teenager for the Italian club he supports, Brescia. He looked considerably less impressed with the 26-year-old version after he skied a volley high over the crossbar on 40 minutes, completing a first half of misplaced passes and frustrated fouls, always one step behind the imperious Sangaré.\n\nDe Zerbi is known for his boldness – and there was certainly something to be said for making Archie Gray the youngest captain in Tottenham’s history in the absence of the injured new club skipper, Micky van de Ven. You could forgive his predecessor, Cristian Romero, for feeling a touch smugin his new Madrid apartment. The edgy Marcos Senesi, such an unflappable figure amid the turnover in the Bournemouth defence last season,clearly spent too much timewith his Argentina teammate Romero at the World Cup.His defensive partner, Jan Paul van Hecke, has not settled in either.Scotland’s captain, Andy Robertson, led out by the 20-year-old Gray here, must be asking what he has let himself in for.\n\nSo must Savinho and Omar Marmoush, pending arrivals that will take Spurs’ summer spending towardsthe dizzying heights of £400m– only Liverpool in 2025 have spent more in a single window out of any club, anywhere. Spurs had brought in six new players before a ball was kicked but still started the seasonwith Richarlison leading the line. The contrast between his meek performance and that of his compatriot and opposite number Igor Thiago, combining power and poise, felt significant. The ease with which Brentford’s No 9 had it all afternoon was evident in his over-relaxed penalty that pinged back off the foot of a post at 3-0.\n\nAfter establishing a two-goal lead through Lewis-Potter and Vitaly Janelt, Brentford were unfazed by Spurs’ introduction of their £85m signing Mateus Fernandes at the break and carried on where they left off.How high can they fly this season? Unlike many of their rivals, Keith Andrews’ side are without the burden of European football after missing out on the final day of last season. Second-half substitutes such as Jaidon Anthony and Callum Wilson are handy additions of firepower at a fraction of the cost in a market that is ballooning off the back of Spurs’ wild spending.\n\nKick off your evenings with the Guardian's take on the world of football\n\nTottenham started last season with a3-0 win over Burnleyand a2-0 victory at Manchester City– points that promised a new beginning under Thomas Frank, who haunted them from his old manor here, but ultimately proved vital in their fight for survival under De Zerbi in May. Where does this result and performance leave the head coach? This will probably work out eventually – his vastly changed squad must be given time to gel. But what if thisisNew Spurs? A constant cycle of new lows and new ways of embarrassing themselves. After two 17th-place finishes in succession, would anyone blame them for taking that now?",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-22 @ 22:41:17 EDT",
+  "lastUpdated": "2026-08-23 @ 07:23:57 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
