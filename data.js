@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Newcastle and Liverpool crank up the entertainment for emotional send-off | Sam Dalling",
+      "link": "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-entertainment-emotional-kevin-keegan"
     }
   ],
   "timeline": {
@@ -18205,11 +18189,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_4123_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Newcastle and Liverpool crank up the entertainment for emotional send-off | Sam Dalling",
+            "bullets": [
+              "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-o...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubsIt’s 4.35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths. Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him.But Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before. (Yet) another memeable‑moment inbound. Continue reading...",
+            "fullText": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs\n\nIt’s 4.35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths. Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him.\n\nBut Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before. (Yet) another memeable‑moment inbound.\n\nA tiny part of each of them, though, thinks: “Wait, hang on, this is a new season, a fresh start.” The slate is not just clean but has been entirely replaced and is now AI-operated.\n\nElanga takes a touch, a tad heavier ideal but it pushes the ball away from Alisson. A moment of composure follows and Newcastle lead. An entirely goalless league season passed after Elanga’s £55m transfer from Nottingham Forest and now, within five minutes of a new one, his drought is broken.\n\nElanga missed a much easier opportunity against Aston Villa on the 2025-26 opening day, and his confidence never recovered. Can you walk back through a sliding door?\n\nNearly two hours later, there remain just a few precious seconds for Liverpool to salvage something. Victor Muñoz is brought down clumsily by Lewis Hall.Dominik Szoboszlai converts the resulting penalty. 2-2.\n\nMuñoz apparently gave Newcastle positive noises about joining them during summer. Then, in a flexing of financial muscle,Liverpoolmet the Osasuna forward’s release clause and to Anfield he went. What was that about sliding doors?\n\nThose two goals bookended an afternoon that was, if you want to do go down that road, a fitting tribute to the recently departed Kevin Keegan. Entertaining but flawed.\n\nAs a term, legend is so chronically overused now that it is meaningless. ButKeegan is a prime example of the word’s proper application. Shortly before kick-off everyone present paid an emotional tribute to him. Legend. Hero. King. All subjective labels essentially turned objective.\n\nWith Liverpool, Keegan’s seven trophies in six years – including three titles and the European Cup – set the club up to be the behemoth they now are. Across three spells at Newcastle, he jabbed syringes of hope into a flailing, helpless shell.\n\nSt James’ Park is not quite the house that Keegan built, but it is no stretch to say it is the house built because of him. Without his steering Newcastle to Second Division safety in 1992 as manager, the club in its current guise might not exist.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-23 @ 18:13:32 EDT",
+  "lastUpdated": "2026-08-23 @ 22:41:23 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
