@@ -24288,6 +24288,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Dags att vila. Viktig dag imorgon.",
       "time": "05:39",
       "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Har alla koll på schemat för morgondagen?",
+      "time": "12:22",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
+      "time": "12:23",
+      "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "12:24",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jesper Karlsson",
+      "avatar": "🇸🇪",
+      "text": "Dags att vila. Viktig dag imorgon.",
+      "time": "12:25",
+      "isCaptain": false
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "Träningen idag var intensiv, precis som det ska vara.",
+      "time": "12:26",
+      "isCaptain": false
     }
   ]
 };
