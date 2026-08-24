@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Watkins' departure would cut deepest - and Villa did not see it coming",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Heggebo deception ban opens can of worms for FA - West Brom boss",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2zn8ynj9eo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -16,24 +20,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Watkins' absence at Brighton a question for him - Emery",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'Up front next week?' Maresca's Guehi gamble pays off",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Chelsea change course with Alonso primed to banish the chaos of youth",
       "link": "https://www.theguardian.com/football/2026/aug/24/chelsea-change-course-with-alonso-primed-to-banish-the-chaos-of-youth"
-    },
-    {
-      "text": "⚽ ‘Call his agent’: Emery feels Watkins should explain absence from Villa’s rout by Brighton",
-      "link": "https://www.theguardian.com/football/2026/aug/23/unai-emery-feels-ollie-watkins-should-explain-absence-from-aston-villa-loss-brighton"
-    },
-    {
-      "text": "⚽ Maresca concedes Manchester City ‘a work in progress’ after hair-raising escape",
-      "link": "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
     }
   ],
   "timeline": {
@@ -47927,11 +47919,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0845_0",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+            "bullets": [
+              "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painfu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+            "fullText": "Ollie Watkins scored his last Aston Villa goals in their final-day win at Manchester City last season\n\nLast year, it was Emi Martinez looking to leave forManchester United. When asked about the Argentina goalkeeper's absence from last season's opening league match againstCrystal Palace, head coach Unai Emery just repeated replacement Marco Bizot's name several times.\n\nTwelve months on, for their Premier League opener atBrightonon Sunday, Ollie Watkins was the name to make Emery bristle.\n\n\"This question is for him. I can answer only with my silence,\" he said, when asked why the striker was not included.\n\nThat Villa lost 4-0 -conceding all four in a calamitous opening 31 minutesbefore having debutant Joao Gomes sent off - merely added added to the perceived insult.\n\nSaudi Pro League side Al-Hilal have had four offers rejected for Watkins - whose time at Villa now appears to be at a tumultuous end.\n\nAl-Hilal, who have offered close to Â£40m, are not near toAston Villa's asking price. As next Tuesday's transfer deadline nears, Villa will play hardball for their all-time record Premier League goalscorer.\n\nA deal is still believed to be some way off,even if Emery revealed last week the striker could leave.\n\nAl-Hilal,who signed Crysensio Summerville from West Ham in July, are likely to need to move one of their overseas players to make room for Watkins, despite loaning Darwin Nunez to Diriyah last week, so there are other moving parts in the deal.\n\nWatkins has been training on his own, having returned from an extended break following the World Cup and is understood to have made his feelings clear to the Villa hierarchy about moving.\n\nThere have been no public comments from Watkins or his representatives but he is understood to be open to the move.\n\nThey have also kept quiet about Emery's response - particularly his enigmatic \"silence\" answer to Sky Sports' question on why his striker was not involved atBrighton, which appeared to lay the blame at Watkins' door.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0845_1",
+            "category": "england",
+            "type": "News",
+            "title": "Heggebo deception ban opens can of worms for FA - West Brom boss",
+            "bullets": [
+              "West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune He...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.",
+            "fullText": "Aune Heggebo has scored 10 Championship goals in 47 appearances since moving to West Brom in July 2025\n\nWest Bromwich Albion head coach James Morrison says the Football Association have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.\n\nJimmy-Jay Morgan's cross hit Heggebo's hand on its way into the net to give Albion the lead in their 2-1 win over Norwich City on the first day of the Championship season.\n\nThe Norway international forwardlast week became the first playerto be charged with \"deception of a match official\" since the rule was introduced in the 2017-18 season.\n\nMorrison said the incident was accidental and that the onus had not been on the player to tell referee Tim Robinson.\n\n\"We wanted to back Bo because he's not that type of person,\" he told BBC Radio WM.\n\n\"He was upset because he was saying it [the charge] was calling him a cheat, basically, and we all know he's not that.\n\n\"He'll be looking at the cross when it came in, it flicked from the goalkeeper's hands into him.\n\n\"He's not going to run to the referee is he, and say, 'I handballed that'? Not in a million years.\"\n\nWhat does Heggebo's deception ban mean for football?\n\nControversial goal tees up West Brom win at Norwich\n\nThe \"disappointed\" Albion boss said the ban had opened \"a can of worms for the FA\" to punish what they deem as deception.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0845_2",
+            "category": "england",
+            "type": "News",
+            "title": "'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
+            "bullets": [
+              "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Log...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.",
+            "fullText": "Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of departure, following his absence from Aston Villa's match-day squad against Brighton.\n\nREAD MORE:Watkins' absence at Brighton a question for him - Emery",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0846_3",
+            "category": "england",
+            "type": "News",
+            "title": "How the Guehi gamble paid off for Maresca",
+            "bullets": [
+              "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.",
+            "fullText": "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0846_4",
+            "category": "england",
+            "type": "News",
+            "title": "'Up front next week?' Maresca's Guehi gamble pays off",
+            "bullets": [
+              "Rather than playing safe in selecting his Manchester City side for the first time in the Premier Lea...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
+            "fullText": "Maresca's Man City reign begins with dramatic comeback against Bournemouth\n\nEnzo Maresca might have been expected to keep his head down and not make any curious team selections in his first Premier League game in charge ofManchester City.\n\nInstead, he made the surprising decision to field Marc Guehi in a holding role and, eventually, the gamble paid off.\n\nAll the heat prior to kick-off had been on rivalsManchester Unitedand free-spendingTottenhamfollowing their demoralising opening defeats, but for 84 minutes on Sunday that unwanted focus looked set to shift to Etihad Stadium.\n\nCity had suffered a chastening 3-0 defeat by championsArsenalin the Community Shield last Sunday and were heading towards back-to-back defeats to start the season.\n\nBut a late rescue act courtesy of a towering header from Guehi - who all the attention was on - and Josko Gvardiol's cool finish salvaged an unlikely 2-1 comeback victory againstBournemouth.\n\nEyebrows were raised before kick-off when Maresca decided to field a team consisting of six players who can play as defenders, but the serious questions cropped up during the warm-up.\n\nWith the back four going through their routines with a City coach, it appeared England centre-back Guehi would be deployed as the holding midfielder. When referee Jarred Gillett blew his whistle to start proceedings, it became clear that this was the reality.\n\nBut instead of the story being about Guehi being played out of position, the formerCrystal Palaceskipper scored to help switch the narrative to it being an ingenious move from the new head coach.\n\nPundits and supporters were taken aback by the switch in position and so too was the player himself.\n\nGuehi told Sky Sports: \"It was just an idea the manager had. We worked on it in the week. We're trying different things, trying different solutions for the team.\n\nGuehi also told BBC Sport he had not played in midfield too often, adding: \"I enjoyed it simply because I got so much help from so many people. When you have that you feel comfortable to just go out and play and do what you can for the team.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0846_5",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea change course with Alonso primed to banish the chaos of youth",
+            "bullets": [
+              "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hopeIt is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Danny Welbeck, there has been a clear shift in strategy this summer. Some grownups are in the room at last and, for Xabi Alonso, the hope is that bringing in more experience will help a squad still packed with youngsters show more composure when adversity strikes.Discipline was a problem for Chelsea last season: they had 11 red cards in all competitions and a lot of the wounds were self-inflicted. Chelsea were impetuous, on the receiving end of too many bookings for dissent and prone to collapsing at the first sign of trouble. No wonder Alonso, who was the epitome of calm during his playing career, has focused on maintaining “emotional control” before opening his tenure as manager with Monday’s trip to Fulham. Continue reading...",
+            "fullText": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hope\n\nIt is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Danny Welbeck, there has been a clear shift in strategy this summer. Some grownups are in the room at last and, forXabi Alonso, the hope is that bringing in more experience will help a squad still packed with youngsters show more composure when adversity strikes.\n\nDiscipline was a problem forChelsealast season: they had 11 red cards in all competitions and a lot of the wounds were self-inflicted. Chelsea were impetuous, on the receiving end of too many bookings for dissent and prone to collapsing at the first sign of trouble. No wonder Alonso, who was the epitome of calm during his playing career, has focused on maintaining “emotional control” before opening his tenure as manager with Monday’s trip to Fulham.\n\nIt will be a test of Chelsea’s mentality. Craven Cottage has been the setting for some spectacular implosions during the BlueCo era, the path to two 2-1 victories for Fulham over their neighbours smoothed by João Félix earning a red card on his Chelsea debut in 2023 and byMarc Cucurella getting himself sent off after 22 minutes last season.\n\nChelsea need to change, and hiring Alonso was a tacit admission that their approach required fine-tuning. Internally there was a recognition that the club had undervalued the importance of aura when it came to hiring coaches.\n\nThey blundered with Graham Potter and Liam Rosenior, neither of whom were capable of standing the heat. Alonso is a different breed. The 44-year-old burnished his reputation byleading Bayer Leverkusen to the Bundesliga titlein 2024 and he wowed Chelsea during his discussions over the role, so much so that they broke with the past by naming him manager rather than head coach.\n\nNow the players can look to the dugout and see an authority figure. Alonso has not seized absolute power – he is still part of a wider structure, collaborating with an extensive recruitment team – but there is no doubt that his arrival has lent credibility to a project that was in danger of falling apart when the Rosenior experiment ended.\n\nOf course, it remains to be seen if success in Germany means Alonso can dominate in England. Leverkusen was special but Real Madrid left him with a scar. Then again, the Bernabéu is not exactly where managers go to develop. It makes Álvaro Arbeloa,who stepped in at Madrid after Alonso’s sackinglast season, a similar unknown after replacing Marco Silva at Fulham.\n\nYet there is optimism around Chelsea. Can they mount a title challenge for the first time in a decade? There is a lot of ground to make up after finishing 10th last season. Weaknesses linger, particularly in goal, and a push for the top four looks likelier.\n\nHowever, no European football could be a blessing, giving Alonso more time in training. He looks tactically flexible. Chelsea switched between a back four and a back three during pre-season.Cucurella has joined Madridbut Marco Palestra, signed from Atalanta for £43m, and Pep Chavarría, a £16.3m arrival from Rayo Vallecano, could play as wingbacks.\n\nThe recruitment looks purposeful. After years of buying promising youngsters Chelsea have targeted ready-made players. Maxence Lacroix, the 26-year-old France centre-back, is a sensible signing from Crystal Palace. Morgan Rogers,signed from Aston Villa for £117m, can play in a range of positions in attacking midfield and could form an exciting partnership with a rested Cole Palmer, who has a point to prove after missing out on England’s World Cup squad.\n\nThere is talent here. There always has been, though. The flaw has more been around mindset. It is a footballing norm to have wise heads around to protect young players. Chelsea went too far in the opposite direction and it is one of the first areas Alonso has addressed.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-24 @ 11:38:39 EDT",
+  "lastUpdated": "2026-08-24 @ 15:08:46 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
