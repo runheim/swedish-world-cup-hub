@@ -8,10 +8,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cqx7x1wpz20o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Watkins' absence at Brighton a question for him - Emery",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
       "link": "https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -20,16 +16,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Watkins' absence at Brighton a question for him - Emery",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20j3vjvy48o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Kane first Englishman to win Germany's player of the year award",
       "link": "https://www.bbc.co.uk/sport/football/articles/c4g4g83v25yo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'It hurts' - Alexander-Arnold reveals he still receives abuse after Liverpool exit",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqjxj2zz77ro?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ 'It's not doom and gloom just yet' - what is going on at Morton?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crl7l3yx0g9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Chelsea change course with Alonso primed to banish the chaos of youth",
+      "link": "https://www.theguardian.com/football/2026/aug/24/chelsea-change-course-with-alonso-primed-to-banish-the-chaos-of-youth"
     },
     {
       "text": "⚽ ‘Call his agent’: Emery feels Watkins should explain absence from Villa’s rout by Brighton",
@@ -38,6 +34,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Maresca concedes Manchester City ‘a work in progress’ after hair-raising escape",
       "link": "https://www.theguardian.com/football/2026/aug/23/enzo-maresca-concedes-manchester-city-work-in-progress-bournemouth"
+    },
+    {
+      "text": "⚽ Kane and Bayern’s Ballon d’Or push: ‘It can only be Harry’",
+      "link": "https://www.skysports.com/football/news/12040/13574308/harry-kanes-ballon-dor-push-why-bayern-munich-believe-winning-the-award-could-be-big-for-the-player-and-the-club"
     }
   ],
   "timeline": {
@@ -47629,10 +47629,171 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-24": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1626_0",
+            "category": "england",
+            "type": "News",
+            "title": "'Up front next week?' Maresca's Guehi gamble pays off",
+            "bullets": [
+              "Rather than playing safe in selecting his Manchester City side for the first time in the Premier Lea...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Rather than playing safe in selecting his Manchester City side for the first time in the Premier League, Enzo Maresca made a bold choice in midfield. Ultimately, it paid off.",
+            "fullText": "Maresca's Man City reign begins with dramatic comeback against Bournemouth\n\nEnzo Maresca might have been expected to keep his head down and not make any curious team selections in his first Premier League game in charge ofManchester City.\n\nInstead, he made the surprising decision to field Marc Guehi in a holding role and, eventually, the gamble paid off.\n\nAll the heat prior to kick-off had been on rivalsManchester Unitedand free-spendingTottenhamfollowing their demoralising opening defeats, but for 84 minutes on Sunday that unwanted focus looked set to shift to Etihad Stadium.\n\nCity had suffered a chastening 3-0 defeat by championsArsenalin the Community Shield last Sunday and were heading towards back-to-back defeats to start the season.\n\nBut a late rescue act courtesy of a towering header from Guehi - who all the attention was on - and Josko Gvardiol's cool finish salvaged an unlikely 2-1 comeback victory againstBournemouth.\n\nEyebrows were raised before kick-off when Maresca decided to field a team consisting of six players who can play as defenders, but the serious questions cropped up during the warm-up.\n\nWith the back four going through their routines with a City coach, it appeared England centre-back Guehi would be deployed as the holding midfielder. When referee Jarred Gillett blew his whistle to start proceedings, it became clear that this was the reality.\n\nBut instead of the story being about Guehi being played out of position, the formerCrystal Palaceskipper scored to help switch the narrative to it being an ingenious move from the new head coach.\n\nPundits and supporters were taken aback by the switch in position and so too was the player himself.\n\nGuehi told Sky Sports: \"It was just an idea the manager had. We worked on it in the week. We're trying different things, trying different solutions for the team.\n\nGuehi also told BBC Sport he had not played in midfield too often, adding: \"I enjoyed it simply because I got so much help from so many people. When you have that you feel comfortable to just go out and play and do what you can for the team.\"",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1627_1",
+            "category": "england",
+            "type": "News",
+            "title": "'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
+            "bullets": [
+              "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Log...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After being left out of Aston Villa's match-day squad against Brighton, Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of leaving the club for Al Hilal.",
+            "fullText": "Match of the Day's Gabby Logan, Danny Murphy and Joe Hart consider if Ollie Watkins is on the verge of departure, following his absence from Aston Villa's match-day squad against Brighton.\n\nREAD MORE:Watkins' absence at Brighton a question for him - Emery",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1627_2",
+            "category": "england",
+            "type": "News",
+            "title": "How the Guehi gamble paid off for Maresca",
+            "bullets": [
+              "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.",
+            "fullText": "Match of the Day's Joe Hart discusses Manchester City's Marc Guehi and his performance in midfield, with plenty of praise for the centre half in a different position against Bournemouth.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1627_3",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins' absence at Brighton a question for him - Emery",
+            "bullets": [
+              "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says bo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins' absence in Aston Villa's thrashing at Brighton is a question for the striker, says boss Unai Emery.",
+            "fullText": "Aston Villaboss Unai Emery says forward Ollie Watkins' absence in the 4-0 thrashing atBrightonis a \"question for him\".\n\nThe 30-year-old was left out of the matchday squad for Villa's Premier League opener after Emery confirmed earlier in the weekthere had been offers from Saudi club Al-Hilalfor the striker.\n\nAsked if it was his decision to leave Watkins out, Emery told Match of the Day: \"This question is for him. You can call him and try to get his answer.\n\n\"The players here wanted to play and we had two strikers with a small injury. The question on Watkins is for him.\"\n\nCaptain John McGinn added to Sky Sports: \"It's a difficult one. He's been an amazing player and a record goalscorer - my job as captain is to get the best out of all the players that are here today.\n\n\"It's not easy coming here. I'm proud of the players that were here today and fought for the club.\"\n\nWatkins could become the latest of Villa's European heroes to exit this summer.\n\nVilla ended a 30-year wait for a trophy by lifting the Europa League in May against Freiburg.\n\nBut the club could have sold six of the starting XI by the end of the transfer window.\n\n\"We are building the team. Last year and two years ago we were building the team in August,\" said Emery after the defeat atBrighton.\n\nEzri Konsa's departure to Arsenalwas the latest high-profile exit at Villa Park this summer as Emery's squad undergoes drastic change.\n\nIstanbul goalscorers Youri Tielemans and Morgan Rogers left last month,Rogers' Â£117m move to Chelsea a record for an English player.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1628_4",
+            "category": "england",
+            "type": "News",
+            "title": "Kane first Englishman to win Germany's player of the year award",
+            "bullets": [
+              "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win t...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane has been voted 2026 German footballer of the year, becoming the first Englishman to win the award.",
+            "fullText": "Harry Kane has been the Bundesliga's top scorer in each of his three seasons at Bayern Munich\n\nLive coverage of Bundesliga match on BBC iPlayer, website and app\n\nHarry Kane has been voted Germany's footballer of the year for 2026, becoming the first Englishman to win the award.\n\nThe Bayern Munich striker scored 61 goals in all competitions last season as his side completed a league and cup double and reached the semi-finals of the Champions League.\n\nBundesliga players or German players playing abroad are eligible for the award, which is organised by Kicker magazine and voted for by 695 members of the German sports journalists association.\n\nKane received 272 votes, with Bayern team-mate Michael Olise â runner-up in 2025 behind Florian Wirtz â again second, this time with 203 votes\n\n\"It's almost impossible to find the right superlatives to describe Harry Kane - sometimes I'm at a loss for words,\" Bayern sporting director Max Eberl said.\n\n\"He's already been named England's Footballer of the Year, and now he's also won it in Germany.\"\n\nThe England captain is among the favourites to win the 2026 Ballon d'Or, which will be awarded in London in October. If he wins, he will become the second English player to receive the honour while representing a German club, joining Kevin Keegan who won in 1978 and '79 while playing for Hamburg.\n\nBayern boss Vincent Kompany was named coach of the year, while their women's captain Giulia Gwinn won the award for best female player.\n\nKane and Kompany will be honoured on Friday at Bayern's Bundesliga opener against VfB Stuttgart at the Allianz Arena.\n\nBayern began their season with silverware on Saturday as they beat Borussia Dortmund 2-1 in the German Super Cup.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1628_5",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea change course with Alonso primed to banish the chaos of youth",
+            "bullets": [
+              "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hopeIt is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Danny Welbeck, there has been a clear shift in strategy this summer. Some grownups are in the room at last and, for Xabi Alonso, the hope is that bringing in more experience will help a squad still packed with youngsters show more composure when adversity strikes.Discipline was a problem for Chelsea last season: they had 11 red cards in all competitions and a lot of the wounds were self-inflicted. Chelsea were impetuous, on the receiving end of too many bookings for dissent and prone to collapsing at the first sign of trouble. No wonder Alonso, who was the epitome of calm during his playing career, has focused on maintaining “emotional control” before opening his tenure as manager with Monday’s trip to Fulham. Continue reading...",
+            "fullText": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hope\n\nIt is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Danny Welbeck, there has been a clear shift in strategy this summer. Some grownups are in the room at last and, forXabi Alonso, the hope is that bringing in more experience will help a squad still packed with youngsters show more composure when adversity strikes.\n\nDiscipline was a problem forChelsealast season: they had 11 red cards in all competitions and a lot of the wounds were self-inflicted. Chelsea were impetuous, on the receiving end of too many bookings for dissent and prone to collapsing at the first sign of trouble. No wonder Alonso, who was the epitome of calm during his playing career, has focused on maintaining “emotional control” before opening his tenure as manager with Monday’s trip to Fulham.\n\nIt will be a test of Chelsea’s mentality. Craven Cottage has been the setting for some spectacular implosions during the BlueCo era, the path to two 2-1 victories for Fulham over their neighbours smoothed by João Félix earning a red card on his Chelsea debut in 2023 and byMarc Cucurella getting himself sent off after 22 minutes last season.\n\nChelsea need to change, and hiring Alonso was a tacit admission that their approach required fine-tuning. Internally there was a recognition that the club had undervalued the importance of aura when it came to hiring coaches.\n\nThey blundered with Graham Potter and Liam Rosenior, neither of whom were capable of standing the heat. Alonso is a different breed. The 44-year-old burnished his reputation byleading Bayer Leverkusen to the Bundesliga titlein 2024 and he wowed Chelsea during his discussions over the role, so much so that they broke with the past by naming him manager rather than head coach.\n\nNow the players can look to the dugout and see an authority figure. Alonso has not seized absolute power – he is still part of a wider structure, collaborating with an extensive recruitment team – but there is no doubt that his arrival has lent credibility to a project that was in danger of falling apart when the Rosenior experiment ended.\n\nOf course, it remains to be seen if success in Germany means Alonso can dominate in England. Leverkusen was special but Real Madrid left him with a scar. Then again, the Bernabéu is not exactly where managers go to develop. It makes Álvaro Arbeloa,who stepped in at Madrid after Alonso’s sackinglast season, a similar unknown after replacing Marco Silva at Fulham.\n\nYet there is optimism around Chelsea. Can they mount a title challenge for the first time in a decade? There is a lot of ground to make up after finishing 10th last season. Weaknesses linger, particularly in goal, and a push for the top four looks likelier.\n\nHowever, no European football could be a blessing, giving Alonso more time in training. He looks tactically flexible. Chelsea switched between a back four and a back three during pre-season.Cucurella has joined Madridbut Marco Palestra, signed from Atalanta for £43m, and Pep Chavarría, a £16.3m arrival from Rayo Vallecano, could play as wingbacks.\n\nThe recruitment looks purposeful. After years of buying promising youngsters Chelsea have targeted ready-made players. Maxence Lacroix, the 26-year-old France centre-back, is a sensible signing from Crystal Palace. Morgan Rogers,signed from Aston Villa for £117m, can play in a range of positions in attacking midfield and could form an exciting partnership with a rested Cole Palmer, who has a point to prove after missing out on England’s World Cup squad.\n\nThere is talent here. There always has been, though. The flaw has more been around mindset. It is a footballing norm to have wise heads around to protect young players. Chelsea went too far in the opposite direction and it is one of the first areas Alonso has addressed.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1628_6",
+            "category": "england",
+            "type": "News",
+            "title": "‘Call his agent’: Emery feels Watkins should explain absence from Villa’s rout by Brighton",
+            "bullets": [
+              "England forward is considering move to Al-Hilal‘This question is for him … I answer only with silenc...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England forward is considering move to Al-Hilal‘This question is for him … I answer only with silence’Unai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering 4-0 defeat by Brighton at the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squad as the England striker considers a move to Al-Hilal in Saudi Arabia.Emery was forced to rely on the attacking midfielder Emiliano Buendía as an emergency striker and his team disappeared without trace on the south coast. They were 4-0 down after 31 minutes and had their new signing João Gomes sent off on his debut in the 40th minute. Gomes kicked up and out at the Brighton striker Georginio Rutter after being dispossessed by him. Continue reading...",
+            "fullText": "‘This question is for him … I answer only with silence’\n\nUnai Emery did nothing to deny that Ollie Watkins had refused to play for Aston Villa in their sobering4-0 defeat by Brightonat the Amex on Sunday. The head coach had a selection crisis up front with Brian Madjo and Tammy Abraham injured. However, he did not include Watkins in the matchday squad as the England striker considers a move to Al-Hilal in Saudi Arabia.\n\nEmery was forced to rely on the attacking midfielder Emiliano Buendía as an emergency striker and his team disappeared without trace on the south coast. They were 4-0 down after 31 minutes and had their new signing João Gomes sent off on his debut in the 40th minute. Gomes kicked up and out at the Brighton striker Georginio Rutter after being dispossessed by him.\n\nAl-Hilal have made a number of bids for Watkins, all of which have been rejected. It is understood the 30-year-old is open to the move and Emery talked on Friday like a manager who was realistic about the sale happening. Villa would plainly like to replace Watkins should he depart as they approach the end of another difficult summer window. They have already sold Ezri Konsa, Morgan Rogers, Lucas Digne and Youri Tielemans, while they are expected to move on Emiliano Martínez.\n\nEmery was asked why he had not picked Watkins against Brighton. “This question is for him,” he said. “I can answer only with my silence.” Emery was then asked if Watkins had refused to play, to which he said: “I think you can call him and you can call his agent and he can respond.”\n\nThe Guardian have contacted Watkins’s agent for comment.\n\n“He [Watkins] can only explain his answer, I can’t,” Emery added, after being asked if he felt let down by Watkins.\n\nEmery reported that Madjo would be out for “two weeks more … more or less” while attacking midfielder Johan Manzambi – who has been the club’s marquee summer signing – would “need maybe some days more [than that]”. He was unclear about a timeframe for Abraham’s return.\n\nIn the Guardian app, tap the Profile settings button at the top right, then select Notifications. Turn on sport notifications.\n\nIf you already have the Guardian app, make sure you’re on the most recent version.\n\nIf you don't have the Guardian app, download it from theiOS App Storeon iPhone or theGoogle Play storeon Android by searching for 'The Guardian'.\n\nEmery talked up the resistance of his players in the second half against Brighton and said he was optimistic about finding solutions for the season ahead. But he returned to the difficult preparations for the opening fixture, noting that: “Two strikers are injured and another striker gives his answer.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1628_7",
+            "category": "england",
+            "type": "News",
+            "title": "Maresca concedes Manchester City ‘a work in progress’ after hair-raising escape",
+            "bullets": [
+              "Gvardiol’s stoppage-time strike gives City points‘I’m looking for solutions. When you win games it h...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Gvardiol’s stoppage-time strike gives City points‘I’m looking for solutions. When you win games it helps’Enzo Maresca said Manchester City remain a “work in progress” after Sunday’s last-gasp win over Bournemouth at the Etihad Stadium.Marc Guéhi’s 85th-minute equaliser and Josko Gvardiol’s 91st-minute winner gave City’s new manager victory in his first game, after Marcus Tavernier’s first-half strike for the visitors. Continue reading...",
+            "fullText": "‘I’m looking for solutions. When you win games it helps’\n\nEnzo Maresca said Manchester City remain a “work in progress” after Sunday’slast-gasp win over Bournemouthat the Etihad Stadium.\n\nMarc Guéhi’s 85th-minute equaliser and Josko Gvardiol’s 91st-minute winner gave City’s new manager victory in his first game, after Marcus Tavernier’s first-half strike for the visitors.\n\nMaresca thought his side performed similarly to last Sunday’s3-0 Community Shield lossto Arsenal. “I feel in the same position as after Arsenal,” the Italian said. “It’s normal you judge after results but I don’t see big changes. Unfortunately, this is a work in progress and I’m looking for solutions. For sure when you win games it helps.\n\n“If you think of the Premier League – it won’t happen that you will concede nothing. The goal we conceded was their first shot. They had two or three dangerous moments but it’s how you react. We’ve still got [Erling] Haaland, Elliot [Anderson], Marc [Guéhi], Nico O’Reilly [who all started], who are in pre-season still. It’s a huge difference in terms of physicality and we are going to get better and better.”\n\nBefore the game City unfurled a huge tifo bearing his image that said: “Welcome back Enzo.” He said: “It is the perfect day. I was very pleased to see the banner when the game started. We gave them [fans] the joy at the end. It was quite emotional. The spirit was fantastic. It’s a game we deserved to win [but] you don’t need to wait for the last five minutes. We missed chances, then they scored and it became more complicated.”\n\nMaresca fielded Guéhi in an unfamiliar midfield role. “I know Marc from [ Crystal] Palace and I always thought he could play as a midfielder because he is very good,” the manager said. “So we tried it for a few days and I think he was quite good. He gives us a solution for the future,.”\n\nIn his first game managingBournemouth, Marco Rose came close to leading them to a first away win against City. “We’re competitors, we came here to win for the first time,” said the German. “We were in a good way to do so. But we did many good things. We have a lot of things to improve. At the end, how the game went was quite unlucky to lose that way. We had two situations – one corner kick and one attacking [move] – when we defended too passively.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“We need to defend the corner better and the second goal was just too passive. We always try to push up – we want to defend higher. Here you need to find the right triggers and it’s hard to press. We did it really well until the end.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1629_8",
+            "category": "england",
+            "type": "News",
+            "title": "Kane and Bayern’s Ballon d’Or push: ‘It can only be Harry’",
+            "bullets": [
+              "Harry Kane is the favourite to win the Ballon d’Or. Having spent the past week talking to some of th...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane is the favourite to win the Ballon d’Or. Having spent the past week talking to some of the key figures at Bayern Munich – as well as Kane himself – it is apparent that clinching this award is as important to the German club as it is the England captain.",
+            "fullText": "With Harry Kane in the frame to win the Ballon d'Or this year, Adam Bate visits Germany to find out more about why claiming the award matters to Bayern Munich too. \"Being a platform for a Ballon d'Or winner is something which counts more than statistics.\"",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-23 @ 22:40:13 EDT",
+  "lastUpdated": "2026-08-24 @ 07:16:29 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
