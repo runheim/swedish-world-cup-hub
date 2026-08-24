@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://www.svt.se/sport/fotboll/guds-hand-bollen-sald-for-32-miljoner-kronor"
+    },
+    {
       "text": "⚽ Newcastle and Liverpool crank up the entertainment for emotional send-off | Sam Dalling",
       "link": "https://www.theguardian.com/football/2026/aug/23/newcastle-liverpool-entertainment-emotional-kevin-keegan"
     }
@@ -18213,10 +18217,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-24": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3218_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "In 1986, Diego Armando Maradona scored one of the most famous soccer goals of all time. With the hel...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In 1986, Diego Armando Maradona scored one of the most famous soccer goals of all time. With the help of \"God's hand\", he scored 1-0 for Argentina against England. Now the ball has been sold - for almost SEK 32 million.",
+            "fullText": "In 1986, Diego Armando Maradona scored one of the most famous football goals of all time. With the help of \"God's hand\", he scored 1-0 for Argentina against England. Now the ball has been sold - for almost SEK 32 million.\n\nIt was six minutes into the second half of the 1986 World Cup quarter-final that Maradona gave Argentina the lead against England.\n\nThe English protested wildly, and the replays clearly showed why: Maradona had used his hand to get the ball into the goal.\n\n- It was the hand of God, said Maradona later, after what ended up being a 2-1 victory - after Maradona then scored what was named the \"Goal of the Century\" when he dribbled away large parts of the English team.\n\nThe ball was long owned by the Tunisian referee of the match, Ali Bin Nasser.\n\nFour years ago, however, he sold it at auction for $2.37 million. A year later, it was sold again for $2.04 million, and now it has once again found a new owner.\n\nThis time it was sold for 3.35 million dollars, which corresponds to just under 32 million kroner, reports several foreign media.\n\nHowever, it was far from the auction company's hope. Before the auction, they had expressed the hope that it could go for a similar amount to the shirt that Maradona wore in the same match was sold for in 2022: 9.3 million dollars (88 million kroner).\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3219_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Newcastle and Liverpool crank up the entertainment for emotional send-off | Sam Dalling",
+            "bullets": [
+              "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-o...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubsIt’s 4.35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths. Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him.But Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before. (Yet) another memeable‑moment inbound. A tiny part of each of them, though, thinks: “Wait, hang on, this is a new season, a fresh start.” The slate is not just clean but has been entirely replaced and is now AI-operated. Continue reading...",
+            "fullText": "While the teams produced more promise than polish, this thrilling encounter gave an emotional send-off to a legend of both clubs\n\nIt’s 4.35pm on Tyneside. William Osula sets Anthony Elanga away, slightly right of centre and just short of 50,000 draw collective breaths. Pace is no issue; Elanga has no shortage of that, and Milos Kerkez won’t catch him.\n\nBut Newcastle fans have seen this clip before and remember the ending. Muscles tighten, cheeks clench, as they brace themselves for it to start again like it carried on before. (Yet) another memeable‑moment inbound. A tiny part of each of them, though, thinks: “Wait, hang on, this is a new season, a fresh start.” The slate is not just clean but has been entirely replaced and is now AI-operated.\n\nElanga takes a touch, a tad heavier ideal but it pushes the ball away from Alisson. A moment of composure follows and Newcastle lead. An entirely goalless league season passed after Elanga’s £55m transfer from Nottingham Forest and now, within five minutes of a new one, his drought is broken. Elanga missed a much easier opportunity against Aston Villa on the 2025-26 opening day, and his confidence never recovered. Can you walk back through a sliding door?\n\nNearly two hours later, there remain just a few precious seconds for Liverpool to salvage something. Victor Muñoz is brought down clumsily by Lewis Hall.Dominik Szoboszlai converts the resulting penalty. 2-2.\n\nMuñoz apparently gave Newcastle positive noises about joining them during summer. Then, in a flexing of financial muscle,Liverpoolmet the Osasuna forward’s release clause and to Anfield he went. What was that about sliding doors?\n\nThose two goals bookended an afternoon that was, if you want to do go down that road, a fitting tribute to the recently departed Kevin Keegan. Entertaining but flawed.\n\nAs a term, legend is so chronically overused now that it is meaningless. ButKeegan is a prime example of the word’s proper application. Shortly before kick-off everyone present paid an emotional tribute to him. Legend. Hero. King. All subjective labels essentially turned objective.\n\nWith Liverpool, Keegan’s seven trophies in six years – including three titles and the European Cup – set the club up to be the behemoth they now are. Across three spells at Newcastle, he jabbed syringes of hope into a flailing, helpless shell.\n\nSt James’ Park is not quite the house that Keegan built, but it is no stretch to say it is the house built because of him. Without his steering Newcastle to Second Division safety in 1992 as manager, the club in its current guise might not exist.\n\nSo, why does Keegan remain so adored? He is in effect a symbol of what football once was and should still be, can be even. Maybe. Forget spreadsheets, financial acronyms and PR-doused messaging. Ignore expected this and that, low blocks and cancelling each other out. Find the joy. Forget perfect; take a risk. Failure and fallibility? Both absolutely OK.\n\nThose are sentiments Andoni Iraola and Matthias Jaissle would do well to remember as they look to settle themselves into new gigs. The former, with Liverpool being champions two seasons ago, will be under the greater pressure. A repeat of his start at Bournemouth, where he won only at the 10th time of asking, would be difficult to tolerate.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-23 @ 22:41:23 EDT",
+  "lastUpdated": "2026-08-24 @ 07:32:19 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
