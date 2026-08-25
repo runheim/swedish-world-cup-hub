@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Pochettino: 'Our focus is on building chemistry and consistency'",
+      "text": "⚽ Gio Reyna and Weston McKennie log impressive training sessions",
       "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "🌍 Australia and Türkiye head coaches outline tactical structures",
+      "text": "🌍 Scouts monitor USA's wide pressing lanes and transition speed",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -14032,11 +14032,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_usa_20260825_3",
+            "category": "usa",
+            "type": "Analysis",
+            "title": "Gio Reyna and Weston McKennie log impressive training sessions",
+            "bullets": [
+              "Reyna creates multiple chances in tactical scrimmage sessions.",
+              "McKennie curls spectacular strikes into top corners in shooting drills.",
+              "Conditioning staff reports player recovery indices are at peak values."
+            ],
+            "summary": "USA's training featured stellar workouts by Reyna and McKennie. The squad looks confident and sharp, showing high fitness indicators under Pochettino's model.",
+            "fullText": "USA's training featured stellar workouts by Reyna and McKennie. The squad looks confident and sharp, showing high fitness indicators under Pochettino's model.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Soccer Staff",
+            "readTime": "3 min",
+            "tag": "Training Pitch",
+            "relatedPlayers": [
+              "christian_pulisic",
+              "weston_mckennie",
+              "folarin_balogun"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260825_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Scouts monitor USA's wide pressing lanes and transition speed",
+            "bullets": [
+              "Analysts suggest overloading USA's fullbacks in 4-3-3 layouts.",
+              "Opponent coaching staff designs custom defensive screening shapes.",
+              "Pundits highlight USA's offensive combinations as primary threat."
+            ],
+            "summary": "Scouting reports highlight USA's fullback structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.",
+            "fullText": "Scouting reports highlight USA's fullback structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-25 @ 11:41:40 EDT",
+  "lastUpdated": "2026-08-25 @ 15:07:35 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
