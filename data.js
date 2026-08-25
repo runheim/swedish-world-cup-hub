@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ The expert states: \"Malmö is a middle team\"",
       "link": "https://www.svt.se/sport/fotboll/experten-slar-fast-malmo-ar-ett-mittenlag"
     }
   ],
@@ -18462,11 +18462,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0746_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The expert states: \"Malmö is a middle team\"",
+            "bullets": [
+              "Malmö went on a new slap in the face. The sky blues are far from their glory days, says SVT Sports' ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Malmö went on a new slap in the face. The sky blues are far from their glory days, says SVT Sports' expert. - A middle team, says Magnus Eriksson in \"Footbollstudion\".",
+            "fullText": "The sky blues are far from their glory days, says SVT Sports' expert.\n\n- A middle team, says Magnus Eriksson in \"Footbollstudion\".\n\nMalmö park in seventh place in the Allsvenskan and have the closest to a loss in the protocol. It was 0-3 when Djurgården visited on Monday.\n\n- Malmö is not what it has been in recent years, says Magnus Eriksson in \"Fotbollsstudion\".\n\nMFF not least has a negative home deficit this season and stands at a paltry three wins and a whopping six losses so far.\n\n- It is easy to come to Malmö and take three points, says SVT expert Jonas Eriksson.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-25 @ 11:38:10 EDT",
+  "lastUpdated": "2026-08-25 @ 15:07:46 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
