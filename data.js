@@ -8,28 +8,24 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cq63ry9q6jzo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Heggebo deception ban opens can of worms for FA - West Brom boss",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zn8ynj9eo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ 'To have a good team, we need a great Cole' - Alonso on Palmer",
       "link": "https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ 'It would appear he's no longer wanting to play for Aston Villa' - does Watkins want out?",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwy4y5k4kg4o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Heggebo deception ban opens can of worms for FA - West Brom boss",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2zn8ynj9eo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ How the Guehi gamble paid off for Maresca",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cdewe13009do?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Chelsea’s front three dazzle as they edge out Fulham in derby thriller",
-      "link": "https://www.theguardian.com/football/2026/aug/24/fulham-chelsea-premier-league-match-report"
+      "text": "⚽ Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
+      "link": "https://www.theguardian.com/football/2026/aug/24/premier-league-chelsea-xabi-alonso-fulham"
     },
     {
       "text": "⚽ Chelsea change course with Alonso primed to banish the chaos of youth",
       "link": "https://www.theguardian.com/football/2026/aug/24/chelsea-change-course-with-alonso-primed-to-banish-the-chaos-of-youth"
+    },
+    {
+      "text": "⚽ Palmer's back, an electric attack - but Chelsea's goalkeeper problem remains",
+      "link": "https://www.skysports.com/football/news/12040/13576819/cole-palmers-back-an-electric-chelsea-attack-but-goalkeeper-problem-remains-after-opening-premier-league-win-at-fulham"
     }
   ],
   "timeline": {
@@ -48156,11 +48152,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_3356_0",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins' departure would cut deepest - and Villa did not see it coming",
+            "bullets": [
+              "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painfu...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins has been an Aston Villa legend but it appears his time at the club is nearing a painful end amid interest from Saudi Arabia.",
+            "fullText": "Ollie Watkins scored his last Aston Villa goals in their final-day win at Manchester City last season\n\nLast year, it was Emi Martinez looking to leave forManchester United. When asked about the Argentina goalkeeper's absence from last season's opening league match againstCrystal Palace, head coach Unai Emery just repeated replacement Marco Bizot's name several times.\n\nTwelve months on, for their Premier League opener atBrightonon Sunday, Ollie Watkins was the name to make Emery bristle.\n\n\"This question is for him. I can answer only with my silence,\" he said, when asked why the striker was not included.\n\nThat Villa lost 4-0 -conceding all four in a calamitous opening 31 minutesbefore having debutant Joao Gomes sent off - merely added to the perceived insult.\n\nSaudi Pro League side Al-Hilal have had four offers rejected for Watkins - whose time at Villa now appears to be at a tumultuous end.\n\nAl-Hilal, who have offered close to Â£40m, are not near toAston Villa's asking price. As next Tuesday's transfer deadline nears, Villa will play hardball for their all-time record Premier League goalscorer.\n\nA deal is still believed to be some way off,even if Emery revealed last week the striker could leave.\n\nAl-Hilal,who signed Crysensio Summerville from West Ham in July, are likely to need to move one of their overseas players to make room for Watkins, despite loaning Darwin Nunez to Diriyah last week, so there are other moving parts in the deal.\n\nWatkins has been training on his own, having returned from an extended break following the World Cup and is understood to have made his feelings clear to the Villa hierarchy about moving.\n\nThere have been no public comments from Watkins or his representatives but he is understood to be open to the move.\n\nThey have also kept quiet about Emery's response - particularly his enigmatic \"silence\" answer to Sky Sports' question on why his striker was not involved atBrighton, which appeared to lay the blame at Watkins' door.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3356_1",
+            "category": "england",
+            "type": "News",
+            "title": "'To have a good team, we need a great Cole' - Alonso on Palmer",
+            "bullets": [
+              "Chelsea manager Xabi Alonso praises Cole Palmer's \"responsibility, maturity and freedom\" after a goa...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea manager Xabi Alonso praises Cole Palmer's \"responsibility, maturity and freedom\" after a goal and an assist from the playmaker seals a 3-2 victory over Fulham at Craven Cottage. In Alonso's first Premier League match in charge, the Spaniard insists his new squad can achieve \"special things\" this season.",
+            "fullText": "Chelsea manager Xabi Alonso praises Cole Palmer's \"responsibility, maturity and freedom\" after a goal and an assist from the playmaker seals a 3-2 victory over Fulham at Craven Cottage. In Alonso's first Premier League match in charge, the Spaniard insists his new squad can achieve \"special things\" this season.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3357_2",
+            "category": "england",
+            "type": "News",
+            "title": "Heggebo deception ban opens can of worms for FA - West Brom boss",
+            "bullets": [
+              "West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune He...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "West Bromwich Albion head coach James Morrison says the FA have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.",
+            "fullText": "Aune Heggebo has scored 10 Championship goals in 47 appearances since moving to West Brom in July 2025\n\nWest Bromwich Albion head coach James Morrison says the Football Association have \"opened a can of worms\" over Aune Heggebo's two-match ban for deception.\n\nJimmy-Jay Morgan's cross hit Heggebo's hand on its way into the net to give Albion the lead in their 2-1 win over Norwich City on the first day of the Championship season.\n\nThe Norway international forwardlast week became the first playerto be charged with \"deception of a match official\" since the rule was introduced in the 2017-18 season.\n\nMorrison said the incident was accidental and that the onus had not been on the player to tell referee Tim Robinson.\n\n\"We wanted to back Bo because he's not that type of person,\" he told BBC Radio WM.\n\n\"He was upset because he was saying it [the charge] was calling him a cheat, basically, and we all know he's not that.\n\n\"He'll be looking at the cross when it came in, it flicked from the goalkeeper's hands into him.\n\n\"He's not going to run to the referee is he, and say, 'I handballed that'? Not in a million years.\"\n\nWhat does Heggebo's deception ban mean for football?\n\nControversial goal tees up West Brom win at Norwich\n\nThe \"disappointed\" Albion boss said the ban had opened \"a can of worms for the FA\" to punish what they deem as deception.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3357_3",
+            "category": "england",
+            "type": "News",
+            "title": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
+            "bullets": [
+              "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed inAfter a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws, there was a sense, perhaps even a need, for Chelsea to emerge as a serious contender – if only to prevent the title race becoming a procession. And while they were far from flawless, there were at least some indications that they could mount some kind of challenge.They looked extremely dangerous in the final third, and Cole Palmer was involved in all three Chelsea goals, perhaps benefiting from a first summer off in three years. But they were rather less impressive through midfield or at the back, despite Josh Acheampong’s all-action performance, while goalkeeper remains the problem it has been since Thibaut Courtois left. Continue reading...",
+            "fullText": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in\n\nAfter a weekend on whichpretty much every potential challengerto Arsenal haddemonstrated their flaws, there was a sense, perhaps even a need, for Chelsea to emerge as a serious contender – if only to prevent the title race becoming a procession. And while they were far from flawless, there were at least some indications that they could mount some kind of challenge.\n\nThey looked extremely dangerous in the final third, and Cole Palmer was involved in all threeChelseagoals, perhaps benefiting from a first summer off in three years. But they were rather less impressive through midfield or at the back, despite Josh Acheampong’s all-action performance, while goalkeeper remains the problem it has been since Thibaut Courtois left.\n\nIt could easily have gone wrong: in the final quarter-hour; Antonee Robinson lofted an effort wide with Robert Sánchez off his line and Ryan Sessegnon smacked a shot from a narrow angle straight at the Spanish keeper. But neither opportunity was taken and so Chelsea got Xabi Alonso’s reign off to a winning start.\n\nAt this stage, performances and learning the system are probably the most important thing, but if there is to be some sort of dart at the title, results matter if only to keep Chelsea somewhere near the race until the point at which Alonso’s principles are absorbed and they do find something close to top form.\n\nPerhaps what’s most striking, though, ishow different the approach isto Enzo Maresca’s. Where Maresca prioritised control to often stultifying effect, Alonso’s game is based on rapid turnovers and transition. It’ll probably settle down as his systems become deeper rooted but there was a sense of recklessness at times to their play. It was harum-scarum, end-to-end, thrilling stuff, which is all very well to watch, and may even come as a relief afterthe sterility of Marescaandthe shambles of Liam Rosenior, but may not be great for consistency or sustained runs of form.\n\nAlonso could hardly have dreamed of a quicker start, João Pedro putting Chelsea ahead after 31 seconds, matching the record for the quickest goal scored in the reign of a Premier League manager, David Unsworth’s goal – also against Fulham – inDavid Moyes’s first game in charge of Evertonin March 2002. João Pedro had scored eight goals in eight pre-season games; and this a player Maresca told not to focus on scoring goals shortly before he went on a run of seven games without a shot. That was a first indication of a forward line starting to show signs of an impressive understanding. All three combined for the third goal, Morgan Rogers flicking on for João Pedro who held the ball up for the overlapping Palmer to slip his shot cleverly between Bernd Leno’s legs.\n\nAlonso’s first go at finding a pattern amid the legions of players assembled by BlueCo involved a midfield made up of two players who, despite being at Chelsea together for the past three years, had never previously been paired in the centre: Roméo Lavia and Reece James. It was not entirely by choice: Moisés Caicedo was left out as a precaution while Enzo Fernández remained on the bench until the 65th minute asManchester City continue their pursuit of him. And it didn’t entirely work. It may look a defensively robust pairing but there were long spells when Fulham had control of midfield.\n\nA feature of Alonso’s approach, and one of the reasons it takes time and commitment to learn – qualities that were notably lacking at Real Madrid – is that players can emerge in unexpected positions. Which doesn’t entirely explain how the right-sided centre-back Maxence Lacroix found himself running on to Palmer’s pass in theFulhambox but, having got there, he demonstrated great poise to skip around Jorge Cuenca and cut the ball back for Rogers to score his first Chelsea goal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nYet for all that was new and positive, and for all that was raw and unintentionally exciting, there wasone glaring and inexplicably familiar failingfor Chelsea: in goal. Sánchez’s positioning seemed very strange for Fulham’s first goal, drilled in at his near post by Josh King (who also benefited from a bizarrely ineffectual attempt to track from Rogers), and while it was a far less glaring error, he pushed Timothy Castagne’s shot straight to Gonzalo García for Fulham’s second.\n\nAlthough Sánchez doesn’t perhaps quite deserve the negative reputation he has among certain Chelsea fans, he did make a league-high five errors leading to goals in 2024-25 and three last season. It remains mystifying that a clubthat signs wide forwards by the dozencontinues to refuse to invest in a top-class goalkeeper. That may yet hold Chelsea back.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3357_4",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea change course with Alonso primed to banish the chaos of youth",
+            "bullets": [
+              "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hopeIt is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Danny Welbeck, there has been a clear shift in strategy this summer. Some grownups are in the room at last and, for Xabi Alonso, the hope is that bringing in more experience will help a squad still packed with youngsters show more composure when adversity strikes.Discipline was a problem for Chelsea last season: they had 11 red cards in all competitions and a lot of the wounds were self-inflicted. Chelsea were impetuous, on the receiving end of too many bookings for dissent and prone to collapsing at the first sign of trouble. No wonder Alonso, who was the epitome of calm during his playing career, has focused on maintaining “emotional control” before opening his tenure as manager with Monday’s trip to Fulham. Continue reading...",
+            "fullText": "The 44-year-old is focused on maintaining ‘emotional control’ and a slew of sensible signings offer genuine hope\n\nIt is a necessary reset. Although it would be pushing it to say that Chelsea have switched from development centre to retirement home, even after the signings of Jordan Henderson and Danny Welbeck, there has been a clear shift in strategy this summer. Some grownups are in the room at last and, forXabi Alonso, the hope is that bringing in more experience will help a squad still packed with youngsters show more composure when adversity strikes.\n\nDiscipline was a problem forChelsealast season: they had 11 red cards in all competitions and a lot of the wounds were self-inflicted. Chelsea were impetuous, on the receiving end of too many bookings for dissent and prone to collapsing at the first sign of trouble. No wonder Alonso, who was the epitome of calm during his playing career, has focused on maintaining “emotional control” before opening his tenure as manager with Monday’s trip to Fulham.\n\nIt will be a test of Chelsea’s mentality. Craven Cottage has been the setting for some spectacular implosions during the BlueCo era, the path to two 2-1 victories for Fulham over their neighbours smoothed by João Félix earning a red card on his Chelsea debut in 2023 and byMarc Cucurella getting himself sent off after 22 minutes last season.\n\nChelsea need to change, and hiring Alonso was a tacit admission that their approach required fine-tuning. Internally there was a recognition that the club had undervalued the importance of aura when it came to hiring coaches.\n\nThey blundered with Graham Potter and Liam Rosenior, neither of whom were capable of standing the heat. Alonso is a different breed. The 44-year-old burnished his reputation byleading Bayer Leverkusen to the Bundesliga titlein 2024 and he wowed Chelsea during his discussions over the role, so much so that they broke with the past by naming him manager rather than head coach.\n\nNow the players can look to the dugout and see an authority figure. Alonso has not seized absolute power – he is still part of a wider structure, collaborating with an extensive recruitment team – but there is no doubt that his arrival has lent credibility to a project that was in danger of falling apart when the Rosenior experiment ended.\n\nOf course, it remains to be seen if success in Germany means Alonso can dominate in England. Leverkusen was special but Real Madrid left him with a scar. Then again, the Bernabéu is not exactly where managers go to develop. It makes Álvaro Arbeloa,who stepped in at Madrid after Alonso’s sackinglast season, a similar unknown after replacing Marco Silva at Fulham.\n\nYet there is optimism around Chelsea. Can they mount a title challenge for the first time in a decade? There is a lot of ground to make up after finishing 10th last season. Weaknesses linger, particularly in goal, and a push for the top four looks likelier.\n\nHowever, no European football could be a blessing, giving Alonso more time in training. He looks tactically flexible. Chelsea switched between a back four and a back three during pre-season.Cucurella has joined Madridbut Marco Palestra, signed from Atalanta for £43m, and Pep Chavarría, a £16.3m arrival from Rayo Vallecano, could play as wingbacks.\n\nThe recruitment looks purposeful. After years of buying promising youngsters Chelsea have targeted ready-made players. Maxence Lacroix, the 26-year-old France centre-back, is a sensible signing from Crystal Palace. Morgan Rogers,signed from Aston Villa for £117m, can play in a range of positions in attacking midfield and could form an exciting partnership with a rested Cole Palmer, who has a point to prove after missing out on England’s World Cup squad.\n\nThere is talent here. There always has been, though. The flaw has more been around mindset. It is a footballing norm to have wise heads around to protect young players. Chelsea went too far in the opposite direction and it is one of the first areas Alonso has addressed.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3357_5",
+            "category": "england",
+            "type": "News",
+            "title": "Palmer's back, an electric attack - but Chelsea's goalkeeper problem remains",
+            "bullets": [
+              "Cole Palmer looked like Cole Palmer again but Chelsea's progress this season will be hampered by sti...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Cole Palmer looked like Cole Palmer again but Chelsea's progress this season will be hampered by sticking with Robert Sanchez in goal, argued Jamie Carragher.",
+            "fullText": "Cole Palmer, Joao Pedro and Morgan Rogers all score to give Chelsea 3-2 victory at Fulham; Palmer was outstanding but Robert Sanchez came in for criticism from Gary Neville and Jamie Carragher, who said it's \"impossible\" for Chelsea to win the title with Sanchez in goal",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-24 @ 18:26:18 EDT",
+  "lastUpdated": "2026-08-24 @ 22:33:57 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
