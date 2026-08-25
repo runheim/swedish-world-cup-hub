@@ -4,8 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ 'To have a good team, we need a great Cole' - Alonso on Palmer",
-      "link": "https://www.bbc.co.uk/sport/football/videos/crl6r2wgd35o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Xavi hopes time at the ‘university of football’ will end with Dutch success",
+      "link": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona"
     },
     {
       "text": "⚽ Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
@@ -48438,11 +48438,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2658_0",
+            "category": "england",
+            "type": "News",
+            "title": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
+            "bullets": [
+              "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach“My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many connections with this country.”Those connections date back to when Xavi was drafted as a youngster into La Masia, the famed Barcelona academy whose fundamentals are rooted in Dutch total football, inspired by Rinus Michels and Johan Cruyff. Xavi’s first-team debut came under Louis van Gaal, and he spent many years under Frank Rijkaard before becoming one of the main pillars of the dream team under Pep Guardiola, who was hugely inspired by Cruyff. Continue reading...",
+            "fullText": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach\n\n“My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation asthe Netherlands coachon Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many connections with this country.”\n\nThose connections date back to when Xavi was drafted as a youngster into La Masia, the famed Barcelona academy whose fundamentals are rooted in Dutch total football, inspired by Rinus Michels and Johan Cruyff. Xavi’s first-team debut came under Louis van Gaal, and he spent many years under Frank Rijkaard before becoming one of the main pillars of the dream team under Pep Guardiola, who was hugely inspired by Cruyff.\n\nXavi opened a Cruyff court – a multifunctional sport space for children – with Cruyff in his home town of Terrassa in 2014, and on Tuesday shared special memories of his time with Cruyff, who died in 2016. “With Johan in the last period of his life I had some meetings,” he said. “And he was always positive. Even when he was sick, he was positive. This is what I learned: always smiling. This is what I want to show here to the players. My first goal is to help them, and then enjoy the process. And we will be in a process to win.”\n\nXavi says he wants to “dominate the game, to take the initiative with the ball and at the same time our goal is to show everybody a team with passion, with desire and ambition. And this is very important for me as a coach.”\n\nIn theNetherlands, there has always been a strong emphasis on attacking football, which is why Xavi fitted the bill. The Catalan was asked whether he would use five defenders, as Van Gaal and Ronald Koeman did at times in recent years. “That this is not my idea,” he said. “We want to play in another system [like] 4-3-3, 4-2-3-1, 3-4-3. In those systems we can dominate the game more.”\n\nXavi said he had spoken to Frenkie de Jong – whom he coached at Barcelona – and Virgil van Dijk. He added that he would speak again to Van Dijk, the captain, in the near future to hear his ambitions with the team.\n\nThe 46-year-old was also clear he is willing to select players from the Saudi Pro League, something more relevant after Tijjani Reijnders moved from Manchester City to Al-Qadsiah last week. Two years ago, Koeman was clear when Steven Bergwijn moved to Al-Ittihad that the forward would no longer be selected because the league did not match the level he expected from his players.\n\n“It’s a good league as well,” Xavi said. “Maybe we choose some players from Saudi, from Eredivisie, Premier League, La Liga. I don’t care about the leagues, I care about the performances and the players.”\n\nNigel de Jong, the director of elite football at the Dutch football federation (KNVB), had earlier been open about the process that led to Xavi’s appointment. He said he had first tested the waters with Guardiola, who indicated he did not want to take a job in the near future, before holding two meetings with Arne Slot, who eventually chose to remain a club coach.\n\nDe Jong then invited Xavi to Amsterdam for a meeting also attended by Clarence Seedorf, a member of the KNVB’s supervisory board. The following day De Jong and Seedorf spoke at length with Michael Reiziger, the Netherlands’ under-21s coach, who played alongside Xavi at Barcelona for several years.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2658_1",
+            "category": "england",
+            "type": "News",
+            "title": "Glaring weakness in goal remains but early signs Xabi Alonso’s Chelsea should be fun | Jonathan Wilson",
+            "bullets": [
+              "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed inAfter a weekend on which pretty much every potential challenger to Arsenal had demonstrated their flaws, there was a sense, perhaps even a need, for Chelsea to emerge as a serious contender – if only to prevent the title race becoming a procession. And while they were far from flawless, there were at least some indications that they could mount some kind of challenge.They looked extremely dangerous in the final third, and Cole Palmer was involved in all three Chelsea goals, perhaps benefiting from a first summer off in three years. But they were rather less impressive through midfield or at the back, despite Josh Acheampong’s all-action performance, while goalkeeper remains the problem it has been since Thibaut Courtois left. Continue reading...",
+            "fullText": "The failure to replace Robert Sánchez remains a mystery but the new-look front three should buy time for the new manager’s principles to bed in\n\nAfter a weekend on whichpretty much every potential challengerto Arsenal haddemonstrated their flaws, there was a sense, perhaps even a need, for Chelsea to emerge as a serious contender – if only to prevent the title race becoming a procession. And while they were far from flawless, there were at least some indications that they could mount some kind of challenge.\n\nThey looked extremely dangerous in the final third, and Cole Palmer was involved in all threeChelseagoals, perhaps benefiting from a first summer off in three years. But they were rather less impressive through midfield or at the back, despite Josh Acheampong’s all-action performance, while goalkeeper remains the problem it has been since Thibaut Courtois left.\n\nIt could easily have gone wrong: in the final quarter-hour; Antonee Robinson lofted an effort wide with Robert Sánchez off his line and Ryan Sessegnon smacked a shot from a narrow angle straight at the Spanish keeper. But neither opportunity was taken and so Chelsea got Xabi Alonso’s reign off to a winning start.\n\nAt this stage, performances and learning the system are probably the most important thing, but if there is to be some sort of dart at the title, results matter if only to keep Chelsea somewhere near the race until the point at which Alonso’s principles are absorbed and they do find something close to top form.\n\nPerhaps what’s most striking, though, ishow different the approach isto Enzo Maresca’s. Where Maresca prioritised control to often stultifying effect, Alonso’s game is based on rapid turnovers and transition. It’ll probably settle down as his systems become deeper rooted but there was a sense of recklessness at times to their play. It was harum-scarum, end-to-end, thrilling stuff, which is all very well to watch, and may even come as a relief afterthe sterility of Marescaandthe shambles of Liam Rosenior, but may not be great for consistency or sustained runs of form.\n\nAlonso could hardly have dreamed of a quicker start, João Pedro putting Chelsea ahead after 31 seconds, matching the record for the quickest goal scored in the reign of a Premier League manager, David Unsworth’s goal – also against Fulham – inDavid Moyes’s first game in charge of Evertonin March 2002. João Pedro had scored eight goals in eight pre-season games; and this a player Maresca told not to focus on scoring goals shortly before he went on a run of seven games without a shot. That was a first indication of a forward line starting to show signs of an impressive understanding. All three combined for the third goal, Morgan Rogers flicking on for João Pedro who held the ball up for the overlapping Palmer to slip his shot cleverly between Bernd Leno’s legs.\n\nAlonso’s first go at finding a pattern amid the legions of players assembled by BlueCo involved a midfield made up of two players who, despite being at Chelsea together for the past three years, had never previously been paired in the centre: Roméo Lavia and Reece James. It was not entirely by choice: Moisés Caicedo was left out as a precaution while Enzo Fernández remained on the bench until the 65th minute asManchester City continue their pursuit of him. And it didn’t entirely work. It may look a defensively robust pairing but there were long spells when Fulham had control of midfield.\n\nA feature of Alonso’s approach, and one of the reasons it takes time and commitment to learn – qualities that were notably lacking at Real Madrid – is that players can emerge in unexpected positions. Which doesn’t entirely explain how the right-sided centre-back Maxence Lacroix found himself running on to Palmer’s pass in theFulhambox but, having got there, he demonstrated great poise to skip around Jorge Cuenca and cut the ball back for Rogers to score his first Chelsea goal.\n\nKick off your evenings with the Guardian's take on the world of football\n\nYet for all that was new and positive, and for all that was raw and unintentionally exciting, there wasone glaring and inexplicably familiar failingfor Chelsea: in goal. Sánchez’s positioning seemed very strange for Fulham’s first goal, drilled in at his near post by Josh King (who also benefited from a bizarrely ineffectual attempt to track from Rogers), and while it was a far less glaring error, he pushed Timothy Castagne’s shot straight to Gonzalo García for Fulham’s second.\n\nAlthough Sánchez doesn’t perhaps quite deserve the negative reputation he has among certain Chelsea fans, he did make a league-high five errors leading to goals in 2024-25 and three last season. It remains mystifying that a clubthat signs wide forwards by the dozencontinues to refuse to invest in a top-class goalkeeper. That may yet hold Chelsea back.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2658_2",
+            "category": "england",
+            "type": "News",
+            "title": "Alvarez left with two options: Atletico or Arsenal",
+            "bullets": [
+              "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Julian Alvarez must take one of two paths before the transfer deadline: stay at Atletico Madrid and try to rebuild his connection with the fans or get his head around a potential move to Arsenal.",
+            "fullText": "Julian Alvarez is holding out for a move to Barcelona, but Atletico Madrid are standing firm on the refusal to sell to their LaLiga rivals; Atletico football expert Ruben Uría believes the only way out for Alvarez is to join Premier League champions Arsenal",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-25 @ 15:06:58 EDT",
+  "lastUpdated": "2026-08-25 @ 18:26:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
