@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Xavi hopes time at the ‘university of football’ will end with Dutch success",
       "link": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona"
-    },
-    {
-      "text": "⚽ Alvarez left with two options: Atletico or Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13576975/julian-alvarez-transfer-latest-atletico-standing-firm-on-barcelona-as-arsenal-become-only-get-out-for-argentine-striker"
     }
   ],
   "timeline": {
@@ -48532,10 +48528,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-26": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_1821_0",
+            "category": "england",
+            "type": "News",
+            "title": "Xavi hopes time at the ‘university of football’ will end with Dutch success",
+            "bullets": [
+              "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach“My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many connections with this country.”Those connections date back to when Xavi was drafted as a youngster into La Masia, the famed Barcelona academy whose fundamentals are rooted in Dutch total football, inspired by Rinus Michels and Johan Cruyff. Xavi’s first-team debut came under Louis van Gaal, and he spent many years under Frank Rijkaard before becoming one of the main pillars of the dream team under Pep Guardiola, who was hugely inspired by Cruyff. Continue reading...",
+            "fullText": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach\n\n“My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation asthe Netherlands coachon Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many connections with this country.”\n\nThose connections date back to when Xavi was drafted as a youngster into La Masia, the famed Barcelona academy whose fundamentals are rooted in Dutch total football, inspired by Rinus Michels and Johan Cruyff. Xavi’s first-team debut came under Louis van Gaal, and he spent many years under Frank Rijkaard before becoming one of the main pillars of the dream team under Pep Guardiola, who was hugely inspired by Cruyff.\n\nXavi opened a Cruyff court – a multifunctional sport space for children – with Cruyff in his home town of Terrassa in 2014, and on Tuesday shared special memories of his time with Cruyff, who died in 2016. “With Johan in the last period of his life I had some meetings,” he said. “And he was always positive. Even when he was sick, he was positive. This is what I learned: always smiling. This is what I want to show here to the players. My first goal is to help them, and then enjoy the process. And we will be in a process to win.”\n\nXavi says he wants to “dominate the game, to take the initiative with the ball and at the same time our goal is to show everybody a team with passion, with desire and ambition. And this is very important for me as a coach.”\n\nIn theNetherlands, there has always been a strong emphasis on attacking football, which is why Xavi fitted the bill. The Catalan was asked whether he would use five defenders, as Van Gaal and Ronald Koeman did at times in recent years. “That this is not my idea,” he said. “We want to play in another system [like] 4-3-3, 4-2-3-1, 3-4-3. In those systems we can dominate the game more.”\n\nXavi said he had spoken to Frenkie de Jong – whom he coached at Barcelona – and Virgil van Dijk. He added that he would speak again to Van Dijk, the captain, in the near future to hear his ambitions with the team.\n\nThe 46-year-old was also clear he is willing to select players from the Saudi Pro League, something more relevant after Tijjani Reijnders moved from Manchester City to Al-Qadsiah last week. Two years ago, Koeman was clear when Steven Bergwijn moved to Al-Ittihad that the forward would no longer be selected because the league did not match the level he expected from his players.\n\n“It’s a good league as well,” Xavi said. “Maybe we choose some players from Saudi, from Eredivisie, Premier League, La Liga. I don’t care about the leagues, I care about the performances and the players.”\n\nNigel de Jong, the director of elite football at the Dutch football federation (KNVB), had earlier been open about the process that led to Xavi’s appointment. He said he had first tested the waters with Guardiola, who indicated he did not want to take a job in the near future, before holding two meetings with Arne Slot, who eventually chose to remain a club coach.\n\nDe Jong then invited Xavi to Amsterdam for a meeting also attended by Clarence Seedorf, a member of the KNVB’s supervisory board. The following day De Jong and Seedorf spoke at length with Michael Reiziger, the Netherlands’ under-21s coach, who played alongside Xavi at Barcelona for several years.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-25 @ 22:41:40 EDT",
+  "lastUpdated": "2026-08-26 @ 07:18:21 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
