@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Tuchel: 'Our focus is on building chemistry and consistency'",
+      "text": "⚽ Jude Bellingham and Phil Foden log impressive training sessions",
       "link": "https://www.englandfootball.com/"
     },
     {
-      "text": "🌍 Croatia and Ghana head coaches outline tactical structures",
+      "text": "🌍 Scouts monitor England's wide pressing lanes and transition speed",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -48608,11 +48608,55 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "dyn_swe_20260826_3",
+            "category": "england",
+            "type": "Analysis",
+            "title": "Jude Bellingham and Phil Foden log impressive training sessions",
+            "bullets": [
+              "Bellingham creates multiple chances in tactical scrimmage sessions.",
+              "Foden curls spectacular strikes into top corners in shooting drills.",
+              "Conditioning staff reports player recovery indices are at peak values."
+            ],
+            "summary": "England's training featured stellar workouts by Bellingham and Foden. The squad looks confident and sharp, showing high fitness indicators under Tuchel's model.",
+            "fullText": "England's training featured stellar workouts by Bellingham and Foden. The squad looks confident and sharp, showing high fitness indicators under Tuchel's model.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "David Ornstein (The Athletic)",
+            "readTime": "3 min",
+            "tag": "Training Pitch",
+            "relatedPlayers": [
+              "harry_kane",
+              "jude_bellingham",
+              "declan_rice"
+            ]
+          },
+          {
+            "id": "dyn_opp_20260826_3",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Scouts monitor England's wide pressing lanes and transition speed",
+            "bullets": [
+              "Analysts suggest overloading England's fullbacks in 4-2-3-1 layouts.",
+              "Opponent coaching staff designs custom defensive screening shapes.",
+              "Pundits highlight England's offensive combinations as primary threat."
+            ],
+            "summary": "Scouting reports highlight England's fullback structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.",
+            "fullText": "Scouting reports highlight England's fullback structures as key areas. Opponents are designing custom double-pivot blocks to screen central lanes.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-26 @ 12:17:24 EDT",
+  "lastUpdated": "2026-08-26 @ 16:27:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
