@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Details: Uefa drops boycott threat against Fifa",
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://www.svt.se/sport/fotboll/uppgifter-uefa-lagger-ner-bojkotthot-mot-fifa"
     }
   ],
@@ -18634,11 +18634,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_3117_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-26 @ 12:14:38 EDT",
+  "lastUpdated": "2026-08-26 @ 16:31:17 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
