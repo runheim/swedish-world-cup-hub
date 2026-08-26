@@ -24680,6 +24680,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Har alla koll på schemat för morgondagen?",
       "time": "12:27",
       "isCaptain": false
+    },
+    {
+      "sender": "Kristoffer Olsson",
+      "avatar": "🇸🇪",
+      "text": "Har alla koll på schemat för morgondagen?",
+      "time": "05:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "05:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "05:31",
+      "isCaptain": true
+    },
+    {
+      "sender": "Dejan Kulusevski",
+      "avatar": "🇸🇪",
+      "text": "Någon som är sugen på lite FIFA ikväll?",
+      "time": "05:32",
+      "isCaptain": false
+    },
+    {
+      "sender": "Emil Krafth",
+      "avatar": "🇸🇪",
+      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
+      "time": "05:33",
+      "isCaptain": false
     }
   ]
 };
