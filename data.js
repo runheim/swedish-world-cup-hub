@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Sweden squad focuses on tactical discipline in Dallas training hub",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Group F Opponents finalize their tactical configurations",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Details: Uefa drops boycott threat against Fifa",
+      "link": "https://www.svt.se/sport/fotboll/uppgifter-uefa-lagger-ner-bojkotthot-mot-fifa"
     }
   ],
   "timeline": {
@@ -18627,11 +18611,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1438_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Details: Uefa drops boycott threat against Fifa",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nThe proposal was later scrapped and now Uefa is said to have received assurances that Fifa will never consider selling ownership stakes in the World Cup again. According to several foreign media, including the news agency Reuters and the British newspaper The Times, the promise thus got Uefa to drop the threat of a boycott.\n\n- It is not a loss for UEFA. It is rather that they want to avoid ruining an opportunity that young players have dreamed of all their lives. But the action and determination to bring about a change will continue, says a source to Reuters.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-26 @ 07:33:22 EDT",
+  "lastUpdated": "2026-08-26 @ 12:14:38 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
