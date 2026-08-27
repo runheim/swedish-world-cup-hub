@@ -4,8 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Al-Hilal closing in on Watkins - Thursday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3eq9pjgewjo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Is Saka getting back to his best at Arsenal?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cz0z7jyepgxo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
+      "link": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez"
+    },
+    {
+      "text": "⚽ Pakistan choose to bowl vs England after rain delays start at Lord's LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13577649/england-vs-pakistan-second-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win"
+    },
+    {
+      "text": "⚽ Palmer 'back to his best' with Alonso's freedom",
+      "link": "https://www.skysports.com/football/news/12040/13577403/cole-palmer-chelsea-attacker-ready-to-put-troublesome-2025-26-season-behind-him-after-promising-start-under-xabi-alonso"
     }
   ],
   "timeline": {
@@ -48660,10 +48672,86 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-27": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3604_0",
+            "category": "england",
+            "type": "News",
+            "title": "Is Saka getting back to his best at Arsenal?",
+            "bullets": [
+              "Bukayo Saka has struggled to produce his best on a consistent basis in recent months, but could be g...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka has struggled to produce his best on a consistent basis in recent months, but could be getting back to top form this season.",
+            "fullText": "Bukayo Saka scored 11 goals and provided nine assists in all competitions for Arsenal last season\n\nBukayo Saka's performance inArsenal's impressive opening-day win has already convinced some fans the Gunners are going to defend their Premier League crown.\n\nThe 24-year-old's game-time for the north London outfit was managed at the end of last season, as well as with England at the World Cup, because of an Achilles injury he picked up in March.\n\nSaka missed the March international break and seven games for the Gunners, but returned to help them lift the Premier League title for the first time in 22 years.\n\nThe winger was then taken off during the Champions League final asArsenallost to Paris-St Germain in Budapest and his performance was criticised.\n\nEngland boss Thomas Tuchel also limited his minutes during the World Cup, but asked if he found it frustrating being judged while not 100% fit, Saka said it was a \"gamble\" he was willing to take.\n\nA rest after the tournament seems to have allowed Saka to start this campaign at his best. He looked sharp against newly promoted Coventry on Friday, giving full-back Jay Dasilva a torrid time whilescoring the second goal in the 3-0 win.\n\nThe sight of Saka flying down the right wing and involved in a lot ofArsenal's attacks will be welcomed by supporters.\n\nBecause, despite a stop-start season last year, Saka still clocked up 49 appearances for the Gunners and their win percentage was notably more impressive with him in the team.\n\nSaka only started three of England's eight games at the World Cup, including scoring a hat-trick in the 6-4 third-place final win over France.\n\nThat result secured England's best finish in a World Cup on foreign soil.\n\nSaka, though, had been left out of the semi-final defeat by Argentina, despite starting the last-16 win over Mexico and the quarter-final win over Norway.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3604_1",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
+            "bullets": [
+              "Today’s fluff knows how to liveOllie Watkins is on his way out and Nicolas Jackson is about to arriv...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff knows how to liveOllie Watkins is on his way out and Nicolas Jackson is about to arrive, but not all is straightforward in the world of Aston Villa’s transfer plans. Crystal Palace are doing their level best to hijack a move for Club Brugge centre-back Joel Ordóñez and have entered into talks for the Ecuadorian. This has forced Unai Emery and friends to seek an alternative, leading them straight to Jean-Clair Todibo of West Ham, who is very much available. The Eagles are also eyeing a shock move for Marseille’s Quinten Timber, brother of Jurrien, to keep them busy as the window creaks towards closure.There is often a good deal of denial regarding the state of Chelsea’s goalkeeping department, but after Robert Sánchez’s latest blunder they may have seen the light. A bid for Aston Villa’s second-choice goalkeeper Emiliano Martínez, who has been ousted by Zion Suzuki, could be in the offing from Stamford Bridge. Meanwhile, Honest Ahanor is heading to join the Xabi Alonso revolution after an agreement was made with Atalanta for the defender. Continue reading...",
+            "fullText": "Ollie Watkins is on his way out and Nicolas Jackson is about to arrive, but not all is straightforward in the world ofAston Villa’s transfer plans. Crystal Palace are doing their level best to hijack a move for Club Brugge centre-backJoel Ordóñezand have entered into talks for the Ecuadorian. This has forced Unai Emery and friends to seek an alternative, leading them straight toJean-ClairTodiboof West Ham, who is very much available. The Eagles are also eyeing a shock move for Marseille’sQuinten Timber, brother of Jurrien, to keep them busy as the window creaks towards closure.\n\nThere is often a good deal of denial regardingthe state of Chelsea’s goalkeeping department, but after Robert Sánchez’s latest blunder they may have seen the light. A bid for Aston Villa’s second-choice goalkeeperEmiliano Martínez, who has been ousted by Zion Suzuki, could be in the offing from Stamford Bridge. Meanwhile,Honest Ahanoris heading to join the Xabi Alonso revolution after an agreement was made with Atalanta for the defender.\n\nIt is never quiet at Brighton because even if they are finished recruiting for the first team squad, they are seeking the next generation. One of the players who fits into the latter category is Deportivo Cali’sMatias Orozco. The 18-year-old is a target for the Seagulls, who would almost certainly loan him straight out to continue his education elsewhere. Another teenager on the Amex Stadium wanted list is Peterborough forwardBolu Shofowoke.Sunderland are on the look out for more attacking flair and have a couple of options,in addition to Jack Grealish, who is interesting Aston Villa and Everton, too. First, there is Marseille’sIgor Paixãoand talks have been held with the French club regarding the winger. It is, however, sensible to considering others, so the Black Cats have also had a bit of a natter with Sporting regardingGeny Catamo, who has three assists from his first three league games in Portugal.\n\nEverton are contemplating a move for Midjytlland’sFranculino Djú. The Guinea-Bissau international has been prolific in Denmark and has the potential to shine in the Premier League.\n\nNottingham Forest could be about to sellMorato, their understudy centre-back, to Roma. Forest are in the market for a right wing-back, withDodôa potential target if a deal for Celta Vigo’s Javi Rueda collapses.\n\nNothing has gone too well forJames Ward-Prowsesince leaving Southampton in 2023, the midfielder unsuccessfully loaned out to Forest and Burnley from West Ham. He has rarely been popular with Nuno Espírito Santo, so it makes plenty of sense to return to St Mary’s to see out the final years of his career.\n\nKick off your evenings with the Guardian's take on the world of football\n\nElsewhere in the Championship, Wolves are set to sign the goalkeeperJoão Virginiafrom Sporting. We must use a search engine to find out who his agent is because Virginia keeps getting good moves despite the 26-year-old boasting 23 league appearances in his career.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3605_2",
+            "category": "england",
+            "type": "News",
+            "title": "Pakistan choose to bowl vs England after rain delays start at Lord's LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "England lead three-match series 1-0 after innings-and-103-run victory at Headingley last week; build-up to Lord's Test dominated by Brydon Carse's nightclub incident in Derby; Carse withdrawn from England squad; watch second Test live on Sky Sports Cricket and contract-free with NOW",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3606_3",
+            "category": "england",
+            "type": "News",
+            "title": "Palmer 'back to his best' with Alonso's freedom",
+            "bullets": [
+              "Cole Palmer says this is the best he has felt \"in ages\" after starting the season strongly under Xab...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Cole Palmer says this is the best he has felt \"in ages\" after starting the season strongly under Xabi Alonso at Chelsea - and he is putting the tricky previous campaign behind him.",
+            "fullText": "Cole Palmer impressed during Xabi Alonso's first Premier League win as Chelsea boss against Fulham; Palmer revealed the 'freedom' he feels playing under the Spaniard;watch Chelsea vs Luton live in Carabao Cup action from 7.15pm on Thursday, kick-off 7.30pm",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-26 @ 22:57:57 EDT",
+  "lastUpdated": "2026-08-27 @ 07:36:06 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
