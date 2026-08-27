@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ Details: Uefa drops boycott threat against Fifa",
       "link": "https://www.svt.se/sport/fotboll/uppgifter-uefa-lagger-ner-bojkotthot-mot-fifa"
     }
   ],
@@ -18681,10 +18681,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-27": {
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4000_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Details: Uefa drops boycott threat against Fifa",
+            "bullets": [
+              "The European football confederation, Uefa, does not go ahead with its threat to boycott Fifa's compe...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The European football confederation, Uefa, does not go ahead with its threat to boycott Fifa's competitions. That after having received assurances that Fifa will never sell ownership stakes in the World Cup. This is reported by several credible media.",
+            "fullText": "The European football confederation, Uefa, is not going ahead with its threat to boycott Fifa's competitions. This is after it has received assurances that Fifa will never sell ownership stakes in the World Cup. Several credible media reports.\n\nThe international football confederation, Fifa, planned earlier this summer to sell shares of the World Cup to private investors.\n\nIt prompted the European football confederation Uefa to threaten to boycott future Fifa competitions.\n\nThe proposal was later scrapped and now Uefa is said to have received assurances that Fifa will never consider selling ownership stakes in the World Cup again. According to several foreign media, including the news agency Reuters and the British newspaper The Times, the promise thus got Uefa to drop the threat of a boycott.\n\n- It is not a loss for UEFA. It is rather that they want to avoid ruining an opportunity that young players have dreamed of all their lives. But the action and determination to bring about a change will continue, says a source to Reuters.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-26 @ 22:45:24 EDT",
+  "lastUpdated": "2026-08-27 @ 07:40:00 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
