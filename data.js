@@ -4,20 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Is Saka getting back to his best at Arsenal?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cz0z7jyepgxo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG",
+      "link": "https://www.theguardian.com/football/2026/aug/27/champions-league-draw-arsenal-face-real-madrid-as-manchester-city-get-psg"
+    },
+    {
+      "text": "⚽ Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+      "link": "https://www.theguardian.com/football/2026/aug/27/uefa-criminal-complaint-plan-fifa-gianni-infantino-analysis"
     },
     {
       "text": "⚽ Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
       "link": "https://www.theguardian.com/football/2026/aug/27/football-transfer-rumour-mill-crystal-palace-hijack-aston-villa-move-joel-ordonez"
-    },
-    {
-      "text": "⚽ Pakistan choose to bowl vs England after rain delays start at Lord's LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13577649/england-vs-pakistan-second-test-day-one-live-latest-cricket-score-updates-videos-and-analysis-from-lords-as-joe-roots-side-target-series-win"
-    },
-    {
-      "text": "⚽ Palmer 'back to his best' with Alonso's freedom",
-      "link": "https://www.skysports.com/football/news/12040/13577403/cole-palmer-chelsea-attacker-ready-to-put-troublesome-2025-26-season-behind-him-after-promising-start-under-xabi-alonso"
     }
   ],
   "timeline": {
@@ -48747,11 +48743,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_5019_0",
+            "category": "england",
+            "type": "News",
+            "title": "Champions League draw: Arsenal face Real Madrid, Man City get Barcelona and PSG",
+            "bullets": [
+              "Manchester United will host Bayern MunichAston Villa welcome PSG; Liverpool go to InterArsenal face ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester United will host Bayern MunichAston Villa welcome PSG; Liverpool go to InterArsenal face mouthwatering assignments against Real Madrid and Bayern Munich as they bid to go one better than last season’s agonising near miss and win a first Champions League title.Mikel Arteta’s side were pipped on penalties by Paris Saint-Germain in the final three months ago and will be expected to cruise through this season’s league phase. The bulk of their draw appears kind but they are tasked with a visit to the Allianz Arena to play Bayern, whom they beat 3-1 at the Emirates Stadium last November, and host Real, who are once again under the charge of José Mourinho. Two seasons ago, Arsenal beat the Spanish giants 3-0 at home in a quarter-final first leg, Declan Rice scoring two memorable free-kicks. Continue reading...",
+            "fullText": "Arsenal face mouthwatering assignments against Real Madrid and Bayern Munich as they bid to go one better than last season’s agonising near miss and win a firstChampions Leaguetitle.\n\nMikel Arteta’s side werepipped on penalties by Paris Saint-Germain in the final three months agoand will be expected to cruise through this season’s league phase. The bulk of their draw appears kind but they are tasked with a visit to the Allianz Arena to play Bayern, whom theybeat 3-1 at the Emirates Stadium last November, and host Real, who are once again under the charge of José Mourinho. Two seasons ago, Arsenalbeat the Spanish giants 3-0 at home in a quarter-final first leg, Declan Rice scoring two memorable free-kicks.\n\nArsenal will also welcome Borussia Dortmund, Lille and the Azerbaijani debutants Sabah to north London. Their other away fixtures involve trips to Napoli, Slavia Prague and a reunion with their ex-player Héctor Bellerin at Real Betis.\n\nManchester City will swiftly renew acquaintances with Rodri when they visit Barcelona during Enzo Maresca’s first Champions League campaign in charge. They will greet Kevin De Bruyne and Napoli at the Etihad Stadium, just as they did last season incruising to a 2-0 win. Their other home ties bring an enticing meeting with the reigning champions, PSG, a tie against Sporting and a visit by AEK Athens. Trips to Porto, RB Leipzig and Lens will round off their schedule.\n\nThe return ofManchester Unitedto Europe’s elite competition throws up home games with Bayern, Roma, RB Leipzig and Sabah. Michael Carrick’s team will travel to Como, who are managed by Cesc Fàbregas, along with Atlético Madrid, Sporting and Villarreal.\n\nLiverpool will host Atlético, Porto, Villarreal and Lens. They visit Lask, the newcomers whosensationally beat Celtic on Tuesday, along with Club Brugge, Fenerbahce and Inter in a relatively kind-looking set of games.\n\nAston Villa, ravaged in recent weeks by the departures of key players, will hope to have strengthened sufficiently for a home tie with PSG and a visit to Barcelona. They will be heartened by astirring performance in their recent Super Cup defeat to Luis Enrique’s side in Salzburg. Borussia Dortmund, Fenerbahce and the Norwegian new boys Viking Stavanger will also visit Villa Park. Unai Emery will also take his team to Club Brugge, Galatasaray and Slavia Prague.\n\nManchester City:PSG (home), Barcelona (away), Sporting (h), Porto (a), Napoli (h), Leipzig (a), AEK Athens (h), Lens (a).\n\nLiverpool:Atlético Madrid (h), Inter (a), Porto (h), Club Brugge (a), Villarreal (h), Fenerbahce (a), Lens (h), Lask (a).\n\nArsenal: Real Madrid (h), Bayern Munich (a), Borussia Dortmund (h), Real Betis (a), Lille (h), Napoli (a), Sabah (h), Slavia Prague (a).\n\nAston Villa: PSG (h), Barcelona (a), Dortmund (h), Club Brugge (a), Fenerbahce (h), Galatasaray (a), Viking (h), Slavia Prague (a).\n\nManchester United:Bayern (h), Atletico (a), Roma (h), Sporting (a), Leipzig (h), Villarreal (a), Sabah (h), Como (a).",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5019_1",
+            "category": "england",
+            "type": "News",
+            "title": "Uefa raises stakes with criminal complaint in battle to unseat Infantino | Matt Hughes",
+            "bullets": [
+              "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove himAnyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions, revealed by the Guardian on Wednesday, as a backward step in the attempt to remove Gianni Infantino as Fifa’s president has been quickly disabused of that notion.In a stunning development that overshadowed one of the biggest days in the European football calendar as national football federation and club executives gathered for the Champions League draw in Monte Carlo, Uefa announced it was preparing to make a legal complaint against Infantino in Switzerland alleging “criminal mismanagement” for his role in the failed World Cup sell-off plan. Continue reading...",
+            "fullText": "Uefa has begun a legal process against the embattled Fifa president but it will still be an uphill struggle to remove him\n\nAnyone who interpreted Uefa’s decision to withdraw a proposed boycott of Fifa competitions,revealed by the Guardian on Wednesday, as a backward step in the attempt to remove Gianni Infantino as Fifa’s president has been quickly disabused of that notion.\n\nIn a stunning development that overshadowed one of the biggest days in the European football calendar as national football federation and club executives gathered for the Champions League draw in Monte Carlo, Uefa announced it waspreparing to make a legal complaintagainst Infantino in Switzerland alleging “criminal mismanagement” for his role in the failed World Cup sell-off plan.\n\nUefa, having removed the immediate pressure on Fifa on one front bypermitting European teams to playin next month’s Under-20 Women’s World Cup and October’s senior Women’s World Cup qualifiers, has dramatically increased the stakes on another.\n\nThe first step in that legal process is seeking disclosure in the United States of documents relating to the abandonedFifaForward Enterprise (FFE) proposal, which Uefa described in a 56-page document sent to three US courts as having an “absurdly low enterprise value of only approximately $20bn” (£14.7bn).\n\nFrom the moment it became clear Infantino would not resign after withdrawing the FFE plan four days after it became public,Uefahas been pursuing the valuation issue, which if the sale had progressed would have enabled Joshua Kushner’s Thrive Capital to buy 21% of future Fifa revenues in perpetuity for $4.2bn.\n\nThe Guardian revealed on 6 August that Uefa was commissioning an independent valuation of FFE amid concerns Infantino was planning to sell off football’s crown jewel on the cheap, a feeling exacerbated by the fact Fifa’s sales deck did not contain any information on the valuation process or evidence of a competitive tender.\n\nAs one source who questioned Fifa’s valuation said this month: “We need to find out if they were selling the World Cup at a knockdown price.” The intention to bring a criminal complaint is the logical extension of this process.\n\nEven the most cursory of inquiries over the past few weeks vindicated Uefa’s concerns. Fifa’s revenue for the four-year cycle that culminated in this summer’s World Cup was $15bn, leading market analysts to suggest that $20bn was a low valuation, particularly as the proposal did not appear to include provisions to prevent expansion and the creation of new tournaments.\n\nKushner’s subsequent purchase of the LA Lakers with the former Disney chief Bob Iger for $12.5bn further convinced Uefa that Thrive Capital had been given a sweetheart deal by Infantino, a conviction underlined by its suspicion that Infantino was lining up a lucrative role worth tens of millions of pounds a year as FFE’s chair after standing down as Fifa’s president, which he plans to do in 2031 if he wins a further, final term.\n\nInfantino’s determination to cling to office – demonstrated by his decision to enter campaign mode byattending a meeting of the Caribbean Football Unionlast weekend in the Dominican Republic where, as the Guardian revealed, he suddenly approved several funding projects – emboldened Uefa further.\n\nUefa has taken the legal route after being thwarted in numerous requests to Fifa to disclose documents. It has made court filings in New York, Florida and Colorado to obtain papers it may submit to Swiss courts seeking criminal charges.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5019_2",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Palace to hijack Aston Villa move for Joel Ordóñez?",
+            "bullets": [
+              "Today’s fluff knows how to liveOllie Watkins is on his way out and Nicolas Jackson is about to arriv...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff knows how to liveOllie Watkins is on his way out and Nicolas Jackson is about to arrive, but not all is straightforward in the world of Aston Villa’s transfer plans. Crystal Palace are doing their level best to hijack a move for Club Brugge centre-back Joel Ordóñez and have entered into talks for the Ecuadorian. This has forced Unai Emery and friends to seek an alternative, leading them straight to Jean-Clair Todibo of West Ham, who is very much available. The Eagles are also eyeing a shock move for Marseille’s Quinten Timber, brother of Jurrien, to keep them busy as the window creaks towards closure.There is often a good deal of denial regarding the state of Chelsea’s goalkeeping department, but after Robert Sánchez’s latest blunder they may have seen the light. A bid for Aston Villa’s second-choice goalkeeper Emiliano Martínez, who has been ousted by Zion Suzuki, could be in the offing from Stamford Bridge. Meanwhile, Honest Ahanor is heading to join the Xabi Alonso revolution after an agreement was made with Atalanta for the defender. Continue reading...",
+            "fullText": "Ollie Watkins is on his way out and Nicolas Jackson is about to arrive, but not all is straightforward in the world ofAston Villa’s transfer plans. Crystal Palace are doing their level best to hijack a move for Club Brugge centre-backJoel Ordóñezand have entered into talks for the Ecuadorian. This has forced Unai Emery and friends to seek an alternative, leading them straight toJean-ClairTodiboof West Ham, who is very much available. The Eagles are also eyeing a shock move for Marseille’sQuinten Timber, brother of Jurrien, to keep them busy as the window creaks towards closure.\n\nThere is often a good deal of denial regardingthe state of Chelsea’s goalkeeping department, but after Robert Sánchez’s latest blunder they may have seen the light. A bid for Aston Villa’s second-choice goalkeeperEmiliano Martínez, who has been ousted by Zion Suzuki, could be in the offing from Stamford Bridge. Meanwhile,Honest Ahanoris heading to join the Xabi Alonso revolution after an agreement was made with Atalanta for the defender.\n\nIt is never quiet at Brighton because even if they are finished recruiting for the first team squad, they are seeking the next generation. One of the players who fits into the latter category is Deportivo Cali’sMatias Orozco. The 18-year-old is a target for the Seagulls, who would almost certainly loan him straight out to continue his education elsewhere. Another teenager on the Amex Stadium wanted list is Peterborough forwardBolu Shofowoke.Sunderland are on the look out for more attacking flair and have a couple of options,in addition to Jack Grealish, who is interesting Aston Villa and Everton, too. First, there is Marseille’sIgor Paixãoand talks have been held with the French club regarding the winger. It is, however, sensible to considering others, so the Black Cats have also had a bit of a natter with Sporting regardingGeny Catamo, who has three assists from his first three league games in Portugal.\n\nEverton are contemplating a move for Midjytlland’sFranculino Djú. The Guinea-Bissau international has been prolific in Denmark and has the potential to shine in the Premier League.\n\nNottingham Forest could be about to sellMorato, their understudy centre-back, to Roma. Forest are in the market for a right wing-back, withDodôa potential target if a deal for Celta Vigo’s Javi Rueda collapses.\n\nNothing has gone too well forJames Ward-Prowsesince leaving Southampton in 2023, the midfielder unsuccessfully loaned out to Forest and Burnley from West Ham. He has rarely been popular with Nuno Espírito Santo, so it makes plenty of sense to return to St Mary’s to see out the final years of his career.\n\nKick off your evenings with the Guardian's take on the world of football\n\nElsewhere in the Championship, Wolves are set to sign the goalkeeperJoão Virginiafrom Sporting. We must use a search engine to find out who his agent is because Virginia keeps getting good moves despite the 26-year-old boasting 23 league appearances in his career.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-27 @ 07:36:06 EDT",
+  "lastUpdated": "2026-08-27 @ 16:50:19 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
