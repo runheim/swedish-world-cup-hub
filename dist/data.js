@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Jude Bellingham and Phil Foden log impressive training sessions",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "🌍 Scouts monitor England's wide pressing lanes and transition speed",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Jude Bellingham continues to lead intense training drills in the Atlanta camp.",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "🚑 Luke Shaw completes full fitness registers; coaching staff confirms 100% squad availability.",
-      "link": "https://www.englandfootball.com/"
-    },
-    {
-      "text": "📈 England WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.englandfootball.com/"
+      "text": "⚽ Al-Hilal closing in on Watkins - Thursday's gossip",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3eq9pjgewjo?at_medium=RSS&amp;at_campaign=rss"
     }
   ],
   "timeline": {
@@ -48652,11 +48636,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5757_0",
+            "category": "england",
+            "type": "News",
+            "title": "Al-Hilal closing in on Watkins - Thursday's gossip",
+            "bullets": [
+              "Al-Hilal close in on a £50m deal for Ollie Watkins, Chelsea line up Bournemouth's Alex Scott, Sunder...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Al-Hilal close in on a £50m deal for Ollie Watkins, Chelsea line up Bournemouth's Alex Scott, Sunderland make a loan offer for Jack Grealish, plus more.",
+            "fullText": "Al-Hilal close in on a Â£50m deal for Ollie Watkins,Chelsealine upBournemouth's Alex Scott, andSunderlandmake an offer forManchester City's Jack Grealish.\n\nAl-Hilalhave agreed a deal of about Â£50m withAston Villato sign England forward Ollie Watkins, 30.(Fabrizio Romano),external\n\nChelseahave lined upBournemouth'sEnglish midfielder Alex Scott, 23, as a replacement for Argentina's Enzo Fernandez, 25, who might be on the move toManchester City.(Sun),external\n\nAston Villatarget Rafael Leao is close to agreeing a move fromAC Milan,withGalatasarayset to pay about Â£38m for the 27-year-old Portugal winger.(Corriere dello Sport - in Italian),external\n\nSunderlandhave madeManchester Cityan offer to sign England winger Jack Grealish, 30, on loan.(Athletic - subscription required),external\n\nChelseaare also closing in on a Â£36m deal to sign Italy defender Honest Ahanor, 18, fromAtalanta.(Sky Sport Italy - in Italian,external)\n\nBarcelonaand Spain defender Alejandro Balde, 22, remains onManchester United'sshortlist to reinforce their left-back position.(Fichajes - in Spanish),external\n\nNewcastlehave not yet walked away from a deal to signLilleand Belgium winger Matias Fernandez-Pardo, 21, but will not do anything that causes problems in meeting Premier League and Uefa spending rules.(Mail - subscription required),external\n\nBayer Leverkusen'sFrench striker Martin Terrier, 29, is being lined up by his former clubLilleas a replacement for Fernandez-Pardo.(L'Equipe - in French),external\n\nFiorentinahave turned downNottingham Forest'sinitial bid of Â£6m for their Brazilian right-back Dodo, 27.(Sky Sport Italy - in Italian,external)\n\nMarseilleare confident of keeping Brazilian forward Igor Paixao, 26, despite interest fromArsenalandSunderland.(Teamtalk),external\n\nAston Villahave asked aboutWest Hamand France defender Jean-Clair Todibo, 26, as they search for a centre-back.(Mail),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-26 @ 16:27:59 EDT",
+  "lastUpdated": "2026-08-26 @ 22:57:57 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
