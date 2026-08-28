@@ -25170,6 +25170,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Vi ska visa hela världen vad vi går för!",
       "time": "20:43",
       "isCaptain": false
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Vi ses i lobbyn kl 10. Glöm inte passet!",
+      "time": "16:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Vilken stämning det är här i lägret. Framåt Sverige!",
+      "time": "16:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Dejan Kulusevski",
+      "avatar": "🇸🇪",
+      "text": "Bara några dagar kvar nu. Känner ni peppen?",
+      "time": "16:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Carl Starfelt",
+      "avatar": "🇸🇪",
+      "text": "Träningen idag var intensiv, precis som det ska vara.",
+      "time": "16:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Bra jobbat på planen idag, grabbar.",
+      "time": "16:32",
+      "isCaptain": false
     }
   ]
 };
