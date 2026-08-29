@@ -4,24 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Bournemouth v Everton, Coventry v Hull and more: football clockwatch – live",
+      "link": "https://www.theguardian.com/football/live/2026/aug/29/premier-league-bournemouth-everton-coventry-hull-efl-clockwatch-live"
     },
     {
-      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Víctor Muñoz rescues Liverpool to deny Nottingham Forest another Anfield win",
+      "link": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report"
     }
   ],
   "timeline": {
@@ -19065,11 +19053,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3227_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Bournemouth v Everton, Coventry v Hull and more: football clockwatch – live",
+            "bullets": [
+              "Updates from 3pm games (BST) around the groundsGet in touch: mail Sarah and follow us on BlueskyThe ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Updates from 3pm games (BST) around the groundsGet in touch: mail Sarah and follow us on BlueskyThe Liverpool v Nottingham Forest match is turning into a right battle. Alexander Isak equalised for the Reds but Morgan Gibbs-White just slotted a beautiful penalty to put Forest ahead once again. All the updates:Hull City make one change as Matt Crooks makes way for Hidemasa Morita, who will make his full Hull debut. Continue reading...",
+            "fullText": "Coventry 0-0 Hull City, 71 min: Coventry have a corner but the opportunity is wasted. This game does have all the air of one that a team could steal the result at the death.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3228_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Víctor Muñoz rescues Liverpool to deny Nottingham Forest another Anfield win",
+            "bullets": [
+              "Some of the billionaires behind Liverpool were present for the opening match of Andoni Iraola’s Anfi...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Some of the billionaires behind Liverpool were present for the opening match of Andoni Iraola’s Anfield reign but were given more food-for-thought than the feast they might have been expecting. Nottingham Forest were full value for the second 2-2 draw of Iraola’s tenure as Liverpool demonstrated they need sturdier foundations as well as the decoration of £123m Bradley Barcola.Oliver Glasner’s team, like Newcastle last week, exploited Liverpool’s defensive frailties regularly and were on course for a third successive Premier League win at Anfield before summer signing Víctor Muñoz salvaged another late draw for the hosts with a superb equaliser. Dan Ndoye and Morgan Gibbs-White twice put Forest ahead only for Alexander Isak and Muñoz to level. Continue reading...",
+            "fullText": "Some of the billionaires behind Liverpool were present for the opening match of Andoni Iraola’s Anfield reign but were given more food-for-thought than the feast they might have been expecting.Nottingham Forestwere full value for the second 2-2 draw of Iraola’s tenure as Liverpool demonstrated they need sturdier foundations as well as the decoration of £123m Bradley Barcola.\n\nOliver Glasner’s team,like Newcastle last week, exploited Liverpool’s defensive frailties regularly and were on course for a third successive Premier League win at Anfield before summer signing Víctor Muñoz salvaged another late draw for the hosts with a superb equaliser. Dan Ndoye and Morgan Gibbs-White twice put Forest ahead only for Alexander Isak and Muñoz to level.\n\nWatching on from the directors’ box, uncomfortably at times one would imagine, were Liverpool’s prospective new vice-chair Amit Bhatia and his father-in-law, the Indian steel magnate Lakshmi Mittal. Bhatia and Mittal, who has given financial backingto 1892 Holdings acquiringa 38% stake in Liverpool, were the invited guests of John W Henry. Jeff Bezos and Eduardo Saverin, other members of the consortium, were not in attendance. The club’s principal owner was present to witness the start of a brave new era at Anfield. Turns out it looked very much like the old one, even down to Dominik Szoboszlai ending the contest at right-back.\n\nAfter a rousing tribute before kick-off to the late Kevin KeeganLiverpoolwere soon exposed by the pace and sharp movement of the Forest attack. Long balls released Ndoye behind the home defence twice in the opening six minutes and, while the attacking midfielder lost his footing on both occasions, Liverpool failed to deal with the source of their problems. Alexis Mac Allister created the first real opening of the game with an incisive pass into Cody Gakpo, who was denied by an excellent Neco Williams tackle, but otherwise the most persistent threat in the first half came from the visitors.\n\nOla Aina and Ndoye combined to give Igor Jesus an early opportunity from four yards out. The striker’s shot was deflected wide by the outstretched boot of summer arrival Jérémy Jacquet. Ndoye then headed wide of the far post from James McAtee’s inviting cross and Igor Jesus had another shot blocked with Gibbs-White screaming for a pass in front of goal. The breakthrough was not long in coming.\n\nHaving cleared a Forest corner, Liverpool were undone by Matz Sels’s long clearance over their defence to Igor Jesus. The striker held up the goalkeeper’s delivery despite the close attentions of Jacquet and Mac Allister to find Gibbs-White, who rolled a simple pass to the unmarked Ndoye. The Switzerland international steered a precise finish low beyond Alisson’s left hand and inside the far corner.\n\nAnfield erupted shortly afterwards when Florian Wirtz swept a smart finish on the turn inside Sels’s right hand post. A much-needed goal for Liverpool and their £116m playmaker, however, was disallowed by the video assistant referee for an offside against Jeremie Frimpong in the buildup. Patience in Frimpong is in short supply at Anfield judging by the exasperation that greeted his poor crossing and defensive toils. Iraola would replace both of his full-backs before the afternoon was over.\n\nSels tipped over from Wirtz’s header following a fine cross by Gakpo, potentially playing his final Liverpool game depending on their incomings over the next few days. But the hosts were indebted to Alisson for denying Forest a second goal on the stroke of half-time. Aina flew past Muñoz on the right before picking out Igor Jesus near the penalty spot. His first time effort flew towards the top corner but Alisson produced a superb save to turn the shot on to the crossbar.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe Brazilian’s intervention assumed even greater significance when Liverpool levelled on the hour. Gakpo gave a timely reminder of his quality when receiving Wirtz’s pass and spinning away from two Forest defenders, Williams and Murillo, in one movement. He then supplied a perfect pass across the face of the Forest goal for Isak to tap home his first goal of the campaign.\n\nQuick thinking by the Forest substitute andnew record signing Liam Delap, coupled with dozy defending from Jacquet and Frimpong, enabled the visitors to retake the lead from the penalty spot. Delap released Williams into the penalty area with a quickly-taken throw-in while the Liverpool defenders slept. The former Liverpool full-back sent a shot high and wide of Alisson’s goal before being felled by the keeper, who was booked for his protests. Gibbs-White swept an emphatic penalty kick to the keeper’s right as Alisson dived left.\n\nLiverpool, improved by Iraola’s substitutions, fought back for a second time when Wirtz pierced the Forest defence with a fine pass behind Murillo to Muñoz. The £34.5m summer signing from Osasuna marked his home debut with a brilliant finish off the underside of the crossbar to rescue a point for Iraola’s work-in-progress.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-29 @ 03:59:51 EDT",
+  "lastUpdated": "2026-08-29 @ 11:32:28 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
