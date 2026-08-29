@@ -16,20 +16,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Departing Watkins apologised for refusing to play - Emery",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg7z1wyn1no?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Aston Villa close on Jackson and Mbaye as Emery clears air with departing Watkins",
-      "link": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins"
-    },
-    {
-      "text": "⚽ Cartoon alpaca Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
+      "text": "⚽ Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
       "link": "https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football"
     },
     {
-      "text": "⚽ 'Box-office' Archer spell stirs 'relentless' England bowling display",
-      "link": "https://www.skysports.com/cricket/news/12040/13578213/jofra-archer-englands-box-office-fast-bowler-touches-94-mph-in-blistering-spell-against-pakistan-at-lords"
+      "text": "⚽ Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
+      "link": "https://www.theguardian.com/football/2026/aug/28/nicolas-jackson-nears-aston-villa-move-unai-emery-ollie-watkins"
     }
   ],
   "timeline": {
@@ -49559,11 +49551,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2139_0",
+            "category": "england",
+            "type": "News",
+            "title": "Trippier praises Miley's 'big presence' as Newcastle face Tonali reunion",
+            "bullets": [
+              "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Newcastle midfielder Lewis Miley is backed to \"go as far as he wants\" as the 20-year-old prepares to face former team-mate Sandro Tonali at Tottenham Hotspur Stadium.",
+            "fullText": "Lewis Miley became the youngest player in Champions League history to set up a goal for an English club with his assist against AC Milan in 2023\n\nIt has been an eventful summer on Tyneside, but 25 May proved a particularly significant date.\n\nOn the same dayTottenham Hotspurmanager Roberto de Zerbi reached out to Sandro Tonali,Newcastle Unitedannounced Lewis Miley had signed a new long-term contract.\n\nNewcastlehave recruited three midfielders this summer to offset the departures of Tonali and Bruno Guimaraes to Spurs andArsenal, but it is rather telling that manager Matthias Jaissle is already a \"big fan\" of one he inherited.\n\nJaissle certainly did not think twice about starting Miley againstLiverpoolon the opening weekend, despite him only playing 45 minutes in pre-season following a spell out with a broken leg.\n\nNewcastle have since signed Nico Gonzalez from Manchester City in a deal worth up to Â£52m,,externalbut the new arrival is expected to complement Miley rather than hinder his progress and the academy graduate looks set to keep his place as he faces Tonali for the first time atTottenham HotspurStadium on Saturday (17:30 BST).\n\nAfter previously learning from Tonali and Guimaraes, the 20-year-old now has the chance to step up in his natural role in the middle of the park.\n\nKieran Trippier believes his \"very humble\" former team-mate Miley is \"more than capable\" of doing just that.\n\n\"You can see the development from when he first started training with the first team to where he is now,\" the ex-England defender said.\n\n\"He's become a big presence and his ability for his age is immense. He can go as far as he wants to - I believe in him that much.\n\n\"But the most important thing is that he's grounded and always wants to learn. That will stand him in really good stead.\"\n\nMiley's level-headedness also made him a firm favourite of formerNewcastlehead coach Eddie Howe.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2139_1",
+            "category": "england",
+            "type": "News",
+            "title": "What will Jackson bring to Villa with Watkins set for exit?",
+            "bullets": [
+              "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins lo...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "BBC Sport examines what new striker Nicolas Jackson will bring to Aston Villa, with Ollie Watkins looking set to join Al-Hilal.",
+            "fullText": "Nicolas Jackson spent the 2025-26 season on loan at Bayern Munich\n\nAston Villahave completed the signing of Nicolas Jackson in a deal worth up to Â£65m, with Ollie Watkins looking set to join Saudi Pro League side Al-Hilal.\n\nUnai Emery's Villa are undergoing a major overhaul this summer, with key players including Morgan Rogers, Ezri Konsa, Youri Tielemans and Lucas Digne having already departed.\n\nJackson, 25, joins a number of new additions including Johan Manzambi, Joao Gomes, Zion Suzuki and Matteo Ruggeri.\n\nThat level of squad disruption was evident on the opening weekend, when Emery's sideslumped to a 4-0 defeat at Brighton.\n\nWith Watkins, 30, unavailable and both Tammy Abraham and 17-year-old Brian Madjo injured, Villa started without a recognised centre-forward - Emiliano Buendia led the line.\n\nThe arrival of Jackson - who overtakes Manzambi to become Villa's record signing - fromChelseagives Emery a specialist striker to work with.\n\nIt also looks set to coincide with the end of Watkins' six-year spell at Villa, during which he scored 108 goals in 278 games and became one of the defining players of the rise under Emery.\n\nHowever, the stats suggest Jackson is not just a like-for-like replacement for the England international - he is a different type of number nine.\n\nOn the surface, Jackson's numbers at Bayern Munich last season compare favourably with those of Watkins at Villa.\n\nThe Senegal forward scored 11 goals and provided three assists in 1,320 minutes across all competitions, averaging 1.0 goal involvements per 90 minutes. Watkins recorded 21 goals and five assists in 3,837 minutes, an average of 0.6 per 90.\n\nJackson also generated more attacking opportunities. He averaged 3.8 shots per 90 compared with Watkins' 2.6, and 2.2 shots on target to 1.2.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2140_2",
+            "category": "england",
+            "type": "News",
+            "title": "Cherki genius and Wharton excels - Palace v Man City player ratings",
+            "bullets": [
+              "How Crystal Palace and Manchester City's players rated following their Premier League match.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Crystal Palace and Manchester City's players rated following their Premier League match.",
+            "fullText": "Manchester City beat Crystal Palace 4-1 at Selhurst Park on Friday\n\nManchester Citycontinued their winning Premier League start under manager Enzo Maresca with victory atCrystal Palace. Here's how I rated the players, and you can see how you scored them below.\n\nPremier League: Cherki and Haaland both score twice as Man City beat Palace - reaction\n\nDean Henderson:No chance forManchester City's goals but demonstrated his quality with a fine save early on from Anderson, then others from Semenyo and Cherki.7\n\nJaydee Convot:Did nothing wrong but ultimately Palace had no answer to Cherki.6\n\nChris Richards:Good battle with Haaland, but only one player was winning that one. Should have scored with a first-half header.6\n\nTakehiro Tomiyasu:Solid as usual and will bring experience to the Palace ranks.6\n\nAnan Khalaili:No lack of effort or energy but short of end product.6\n\nDaichi Kamada:Busy in midfield as always but struggled to exert influence.5\n\nAdam Wharton:Class act. Composure, vision and a superb range of passing. At the heart of Palace's good things, although like others in the Palace ranks was eventually over-run.7\n\nTyrick Mitchell:Tenacious and quick but missed a big chance to equalise with a header in the first half.6\n\nEddie Nketiah:Lively early on, forcing a save from Donnarumma, but faded and wasted a crucial opportunity early in the second half.5",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2140_3",
+            "category": "england",
+            "type": "News",
+            "title": "Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
+            "bullets": [
+              "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out thereThis week Central Cee launched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corporate tie-in with Coca-Cola, the press release for which appears to have involved a man in golf-casual clothing frowning at his computer screen for half an hour before typing “cool urban street words, what are?” into the AI search box, then nipping off for a quick brain-bowl strategy lunch with Roger from the Bluesky Synergy hub.The song is really good, because Central Cee is really good. He’s super-smart with words, funny and snappy, but also surprisingly tender and raw. Continue reading...",
+            "fullText": "Much like Central Cee, the Chelsea attacker is a distinct presence and right now is perhaps the only truly creative English player out there\n\nThis weekCentral Ceelaunched his new Premier League song, called The Team. It owes its existence to a youth-centred, fist-bumping corporate tie-in with Coca-Cola, the press release for which appears to have involved a man in golf-casual clothing frowning at his computer screen for half an hour before typing “cool urban street words, what are?” into the AI search box, then nipping off for a quick brain-bowl strategy lunch with Roger from the Bluesky Synergy hub.\n\nThe song is really good, because Central Cee is really good. He’s super-smart with words, funny and snappy, but also surprisingly tender and raw.\n\nAnd yes, this is an oh-no-dad’s-talking-about-rap moment. You can just scroll down if you like. The whole thing moves on to Cole Palmer very quickly, why he’s both the best English footballer and very easy to love currently, for various reasons.\n\nCentral Cee is a significant figure, perhaps the biggest British recording artist right now. He’s also oddly raw and fearless in the things he says, in a way that feels distinct from the standard, mannered modern person, and which has got him into trouble at least once.\n\nA few years back there was a furore when Central Cee decided to speak out against sexual prejudice. This sounds as if it should just be fine. Except, Central Cee’s call for tolerance was expressed via a lyric in the song Doja. And that lyric was: “How can I be homophobic? My bitch is gay.”\n\nHmm. Problems there. What Central Cee is saying here, what Central Cee has done while appearing to express a progressive sensibility, is to introduce an entirely new tier of … Basically what he’s saying is: how can I be homophobic? I’m far too busy being sexist.\n\nThis caused understandable offence. The b-word is demeaning and cheap, whatever your intentions. Don’t say it. Find better words. To his credit, Central Cee was very good at explaining and apologising, open to other views, while also seeming genuinely non-judgmental of other people regardless of difference or identity, with the exception, of course, of wastemen, mugs and snitches.\n\nHe seems to have been forgiven now. More than that, he’s startlingly successful, the most streamed British rap artist of all time. Young people respond to him hungrily. He seems adaptive, fitted to the modern world. In the Coke video he looks blankly into the lens, gives you everything and nothing, risky but also weirdly fearless.\n\nWhat does this have to do with Cole Palmer, and the surge of heartfelt Palmer-love across all platforms this week after hisbrilliant performance against Fulhamon Monday?\n\nFirst, Palmer is good friends with Central Cee. He even turned up at the launch of the Coke song just before Chelsea’s Premier League opener. And Palmer really was sensational at Craven Cottage, twirling about between the defensive lines, all perfect touch and interesting angles.\n\nThe reaction was significant too. Everyone went wild for this. In particular passionate football men of a certain age went wild.This boy is gold, this boy gets people off their seats,the man in the TalkSport video chair growled, speaking from the gut and the spleen, coming off less like a piece of football analysis, more like a man offering a brave, husky funeral elegy for a very loyal family dog.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2140_4",
+            "category": "england",
+            "type": "News",
+            "title": "Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
+            "bullets": [
+              "Jackson joins from Chelsea, PSG’s Mbaye poised to joinSaudi-bound Watkins says sorry for refusing to...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jackson joins from Chelsea, PSG’s Mbaye poised to joinSaudi-bound Watkins says sorry for refusing to playUnai Emery said Aston Villa were embarking on a “new chapter” as he welcomed the signing of Chelsea’s Nicolas Jackson, with Paris Saint-Germain’s Ibrahim Mbaye poised to complete a near-£100m remake of his attack.Jackson, for whom Villa have paid an initial £47.5m, is in line to make his debut at home against Arsenal on Monday and the club are finalising a move for Mbaye, who will also cost about £47m. They needed to reshape up front after accepting a £50m bid from Al-Hilal for Ollie Watkins, and are generating more funds by selling Emiliano Martínez to Chelsea for £7.5m. Continue reading...",
+            "fullText": "Jackson joins from Chelsea, PSG’s Mbaye poised to join\n\nSaudi-bound Watkins says sorry for refusing to play\n\nUnai Emery said Aston Villa were embarking on a “new chapter” as he welcomed the signing of Chelsea’s Nicolas Jackson, with Paris Saint-Germain’s Ibrahim Mbaye poised to complete a near-£100m remake of his attack.\n\nJackson, for whom Villa have paid an initial £47.5m, is in line to make his debut at home against Arsenal on Monday and the club are finalising a move for Mbaye, who will also cost about £47m. They needed to reshape up front after accepting a £50m bid from Al-Hilal for Ollie Watkins, and are generating more funds by sellingEmiliano Martínez to Chelseafor £7.5m.\n\nJackson and Mbaye have been longstanding targets for the Villa manager. The 18-year-old winger Mbaye, a Senegal teammate of Jackson, was one of the preferred options to strengthen a key position. He played 24 Ligue 1 games for PSG last season, 10 from the start. In recent days, Villa pushed to sign Rafael Leão from Milan but the Portuguese winger is poised to join Galatasaray, whom Villa will visit in the Champions League.\n\nJackson was Emery’s No 1 target to replace Watkins, who declined the offer of a new contract in favour of a £50m move to the Saudi Pro League club Al-Hilal. Jackson’s fee may rise to a club-record £65m with add-ons.\n\nThe striker, who spent last season on loan at Bayern Munich, will reunite with Unai Emery, who coached him at Villarreal. “He’s been very important to me since the beginning,” Jackson said of Emery. “I’m very happy to be here and working for him again.”\n\n“With the coach, I’ve known him for a long time,” Jackson told theAston Villawebsite. “With him calling me and from talking to him, he explained the project to me. I like the project so much, and that’s why I’m here. Hopefully we can do a lot of things together.”\n\nEmery said Watkins’ departure reduced him to tears and he revealed the England striker apologised to him and his teammates forrefusing to play in the 4-0 defeatat Brighton last weekend, leaving Villa without a recognised striker.\n\n“I can tell you his commitment and his behaviour was fantastic always,” Emery said. “He told us after the match he was sorry and he told us that he made a mistake, that he was wrong. We accepted it, the players as well, because he always had very good behaviour and commitment with the club, with us and with me.\n\n“For me, he is a fantastic guy, an even more fantastic a guy than a player. I told him bye with a huge hug and a small tear but now it’s a new chapter here with Nicolas Jackson. A new chapter, we replace him and of course all the best to Watkins in Saudi. With Nicolas Jackson replacing him, we are of course happy.”\n\nEmery said the £50m fees generated for Watkins, who will be 31 in December, and Konsa, who turns 29 in October, were “crazy” given their ages. “We don’t want to be a club to sell players, but the responsibility is to accept it … because for the club it is a good deal. It does not change our objectives.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-29 @ 03:57:00 EDT",
+  "lastUpdated": "2026-08-29 @ 11:21:40 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
