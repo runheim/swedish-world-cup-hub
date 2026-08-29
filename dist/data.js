@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
+      "text": "⚽ Viktor Gyökeres shares World Cup journal: 'We are ready for the challenge'",
       "link": "https://www.svenskfotboll.se/"
     },
     {
-      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
+      "text": "🌍 Group F standings update: Sweden targets knockout round qualification",
       "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
     },
     {
@@ -19023,7 +19023,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-28 @ 19:50:20 EDT",
+  "lastUpdated": "2026-08-28 @ 21:49:28 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
