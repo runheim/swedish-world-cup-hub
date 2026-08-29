@@ -49649,11 +49649,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5453_0",
+            "category": "england",
+            "type": "News",
+            "title": "Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
+            "bullets": [
+              "When a club is an established part of English football’s upper echelons, plays its home games inside...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship transfer record following relegation from the top flight, there are expectations that naturally follow. By all accounts, West Ham were supposed to breeze through what is only meant to be a brief dalliance with a second-tier existence. To be winless three league matches into the season was inconceivable.If the travelling contingent’s boos after this draw at Watford were fleeting, their subsequent burst of “you’re getting sacked in the morning” directed at their team’s manager left no ambiguity. No matter how embryonic this campaign is, the repeated impotency is already unacceptable, and now Nuno Espírito Santo is in the firing line. Continue reading...",
+            "fullText": "When a club is an established part of English football’s upper echelons, plays its home games inside a 68,000-seater stadium, and promptly breaks the Championship transfer recordfollowing relegation from the top flight, there are expectations that naturally follow. By all accounts, West Ham were supposed to breeze through what is only meant to be a brief dalliance with a second-tier existence. To be winless three league matches into the season was inconceivable.\n\nIf the travelling contingent’s boos after this draw atWatfordwere fleeting, their subsequent burst of “you’re getting sacked in the morning” directed at their team’s manager left no ambiguity. No matter how embryonic this campaign is, the repeated impotency is already unacceptable, and now Nuno Espírito Santo is in the firing line.\n\nA 46-gameChampionshipseason is long and there remains abundant time to turn things around. But when you suggest that spending £22m on Arne Engels is with a view to him playing in the Premier League – as Nuno did earlier this summer – you leave yourself little wriggle room when things do not follow the expectedly smooth course.\n\n“We are a big club, we are favourites to go up,” said Nuno. “We have three games, we have two points. Who is happy? But me? I believe. I trust my boys. I work very hard with them. We are building a team. Things will change. I am positive.\n\n“The fans are the most important part of our club and I respect them so much. I understand everything. I just ask again to keep believing, keep trusting us, keep going and we will try to reverse it. The win must come, hopefully on Tuesday [against fellow relegated side Wolves]. We need it.”\n\nThat this draw – which followed another against Burnley and defeat to Charlton – came against a Watford team openly treading water only emphasised West Ham’s struggles.\n\nA side that only finished 16th last season has barely strengthened in the intervening months, with the lack of depth leaving new manager Alessio Dionisi no choice but to alter training sessions to cope with having so few first-team players at his disposal. A bench that included two goalkeepers sent a silent message to those tasked with providing Watford reinforcements in the closing days of the transfer window.\n\nYet after what was anticipated to be a horror start to the campaign – with fixturesagainst promotion favourites Southampton, Wrexham and West Ham – Dionisi’s side are unbeaten. The Italian admitted he did not know of Amin Nabizada before arriving in Hertfordshire, but few Championship followers are now unaware of the 19-year-old academy product’s unbridled talent now.\n\nThe English-born Afghanistan international had never started a senior game prior to this season, but has been ever present in Dionisi’s side so far this campaign, frequently providing Watford’s most potent attacking threat. His second goal in three appearances put the hosts ahead when a neat stepover created sufficient space on the left side of the penalty area, and he delicately curled the ball over Mads Hermansen and into the top corner.\n\nKick off your evenings with the Guardian's take on the world of football\n\nFor all that West Ham’s vigour rose as the match wore on, they ended it with just a solitary shot on target. A hefty dose of fortune was required for their equaliser, which arrived eight minutes after Nabizada’s opener. Watford’s culprit was Kévin Keben, who attempted to shepherd the ball out of play on his own goalline, only for Valentín Castellanos to nick it off him and prod across goal where it deflected off the unfortunate Mattie Pollock and into the Watford net.\n\nAs Jarrod Bowen increasingly exerted his influence on proceedings, so Watford dropped deeper and West Ham enjoyed the type of territorial dominance expected of a side with vast Premier League experience and an England international in their ranks. But it counted for little, with Watford coming closest to a winner when Iker Bravo’s shot deflected over following a rapid counterattack.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-29 @ 17:02:58 EDT",
+  "lastUpdated": "2026-08-29 @ 19:54:53 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
