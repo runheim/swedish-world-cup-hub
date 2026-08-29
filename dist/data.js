@@ -4,11 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Bournemouth v Everton, Coventry v Hull and more: football clockwatch – live",
-      "link": "https://www.theguardian.com/football/live/2026/aug/29/premier-league-bournemouth-everton-coventry-hull-efl-clockwatch-live"
-    },
-    {
-      "text": "⚽ Víctor Muñoz rescues Liverpool to deny Nottingham Forest another Anfield win",
+      "text": "⚽ Iraola’s Liverpool start slowly again but Muñoz strike denies Nottingham Forest",
       "link": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report"
     }
   ],
@@ -19097,7 +19093,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-29 @ 11:32:28 EDT",
+  "lastUpdated": "2026-08-29 @ 14:08:51 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
