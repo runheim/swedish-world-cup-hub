@@ -12,12 +12,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/czjz9j3r8p8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Cherki genius and Wharton excels - Palace v Man City player ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c1j4ryr777yo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Cole Palmer is a unicorn in this world inventing moments of pure pleasure | Barney Ronay",
-      "link": "https://www.theguardian.com/football/2026/aug/28/cole-palmer-chelsea-central-cee-england-football"
+      "text": "⚽ Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
+      "link": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report"
     },
     {
       "text": "⚽ Aston Villa sign Jackson and close on Mbaye as Emery clears air with departing Watkins",
@@ -49646,7 +49642,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-29 @ 11:21:40 EDT",
+  "lastUpdated": "2026-08-29 @ 14:11:58 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
