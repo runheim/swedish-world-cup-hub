@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Kristoffer Nordfeldt is praised after the derby victory: \"He stands on his head\"",
+      "link": "https://www.svt.se/sport/fotboll/kristoffer-nordfeldt-hyllas-efter-derbysegern-han-star-pa-huvudet"
+    },
+    {
       "text": "⚽ Lavish spending fails to fix Tottenham’s big issue – the lack of soul and spine | Jonathan Liew",
       "link": "https://www.theguardian.com/football/2026/aug/29/lavish-spending-fails-to-fix-tottenhams-big-issue-the-lack-of-a-soul-or-spine"
     }
@@ -19204,7 +19208,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-30 @ 11:15:00 EDT",
+  "lastUpdated": "2026-08-30 @ 14:23:21 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
