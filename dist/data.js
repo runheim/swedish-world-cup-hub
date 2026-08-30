@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Kristoffer Nordfeldt is praised after the derby victory: \"He stands on his head\"",
       "link": "https://www.svt.se/sport/fotboll/kristoffer-nordfeldt-hyllas-efter-derbysegern-han-star-pa-huvudet"
-    },
-    {
-      "text": "⚽ Lavish spending fails to fix Tottenham’s big issue – the lack of soul and spine | Jonathan Liew",
-      "link": "https://www.theguardian.com/football/2026/aug/29/lavish-spending-fails-to-fix-tottenhams-big-issue-the-lack-of-a-soul-or-spine"
     }
   ],
   "timeline": {
@@ -19204,11 +19200,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_2115_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Kristoffer Nordfeldt is praised after the derby victory: \"He stands on his head\"",
+            "bullets": [
+              "A defeated AIK beat Hammarby in the 08 derby. Kristoffer Nordfeldt stood on his head. - You understa...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A defeated AIK beat Hammarby in the 08 derby. Kristoffer Nordfeldt stood on his head. - You understand why he is in the national team, says Linus Carlstrand to SVT Sport.",
+            "fullText": "An AIK tipped for defeat beat Hammarby in the 08 derby. Kristoffer Nordfeldt stood on his head. - You understand why he is in the national team, says Linus Carlstrand to SVT Sport.\n\nWatch Kristoffer Nordfeldt's saves - and the tributes from his teammates in the player above.\n\nThe national team goalkeeper acted magnificently between the posts for large parts of the first half. Not least in the 26th minute when he first saved Paulos Abraham's penalty kick, and then offered a foot parade on the return.\n\n\"Kribba\", as he is called in the AIK ranks, stood for a frog when he played a ball away which led to Abraham still making it 2-1 for Hammarby at the end of the second, but got up in the second.\n\nThere, Nordfeldt continued to play great and was a big factor behind AIK's promotion and turnaround to 3–2.\n\n- Nice to be able to contribute, it's a young team we have out there so it's nice to be able to contribute with experience, says the 37-year-old to SVT Sport.\n\n- You can't believe that he is 37 years old when he stands and jumps like that, it's unbelievable, says 3-2 shooter Sixten Gustafsson, who thinks that Nordfeldt got both man of the match instead.\n\n- He is a great leader who pushes us young people to success, says the 19-year-old.\n\n- Nordfeldt was fantastic and it's always annoying when the opponent's goalkeeper has a day like that, says Bajen's coach Henrik Rydström to SVT Sport.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-30 @ 14:23:21 EDT",
+  "lastUpdated": "2026-08-30 @ 17:21:15 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
