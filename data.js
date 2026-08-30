@@ -4,8 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Amin Nabizada sparkles for Watford as draw puts pressure on West Ham’s Nuno",
-      "link": "https://www.theguardian.com/football/2026/aug/29/watford-west-ham-championship-match-report"
+      "text": "⚽ Watkins completes £51m move to Saudi side Al-Hilal",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c70le5gllyeo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Chelsea hold off Brighton in 4-3 win but remain chaotic under Xabi Alonso",
+      "link": "https://www.theguardian.com/football/2026/aug/30/chelsea-brighton-premier-league-match-report"
+    },
+    {
+      "text": "⚽ European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
+      "link": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter"
+    },
+    {
+      "text": "⚽ Watkins joins Al Hilal as Villa agree Harwood-Bellis deal",
+      "link": "https://www.skysports.com/football/news/12040/13579158/aston-villa-transfer-news-ollie-watkins-joins-al-hilal-as-deal-agreed-for-taylor-harwood-bellis"
     }
   ],
   "timeline": {
@@ -49724,7 +49736,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-30 @ 11:05:56 EDT",
+  "lastUpdated": "2026-08-30 @ 14:26:51 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
