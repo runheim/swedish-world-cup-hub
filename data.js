@@ -15103,11 +15103,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5717_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+            "bullets": [
+              "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players.After an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the fact Bradley Barcola is en route from PSG, the Reds want more wide forwards. Much seems to depend on Cody Gakpo’s future – with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’s Estêvão, as well as Yankuba Minteh and Ismaïla Sarr. What on earth Iraola’s forward options will look like in a couple of days is anyone’s guess. Continue reading...",
+            "fullText": "Elite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players.\n\nAfter an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the factBradley Barcola is en route from PSG, the Reds want more wide forwards. Much seems to depend onCody Gakpo’s future– with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’sEstêvão,as well asYankuba MintehandIsmaïla Sarr.What on earth Iraola’s forward options will look like in a couple of days is anyone’s guess.\n\nIt looked like Spurs were in for Iliman Ndiaye, but former Chelsea manChristian Pulisichas been touted as a possible alternative as the club’s owners look to give Roberto De Zerbi even more talented attacking players to work with. Heaven knows he needs them.\n\nCrystal Palace are another club in dire need of a transfer boost or two and it seems Pierre Sage has identified midfield as a key area to be strengthened. The Eagles are battling Fulham for Eintracht Frankfurt midfielderHugo Larsson, but are also keen onQuinten Timberof Marseille; while 18-year-old centre-backHonest Ahanorlooks set to join on loan from Atalanta. They are also trying to hold on toDean Hendersonamid interest from Nottingham Forest.\n\nManchester United may be feeling all warm and fuzzy aftertheir demolition of Ipswich, but they could have a couple of players poached from under their noses, with Fenerbahce apparently preparing to swoop forMarcus RashfordandLeny Yorothe subject of admiring glances from Milan and his former manager Ruben Amorim.Joshua Zirkzeeto Serie A remains a distinct possibility, but he won’t be joining Fiorentina.\n\nIn terms of incomings at Old Trafford, a left-back remains a priority and a surprise last-minute deal for Aston Villa’sIan Maatsencould be on the cards. And if United do lose Zirkzee or Rashford, they have been alerted to the fact Atlético Madrid strikerAlexander Sorlothcould be available for the small price of £30m.\n\nMeanwhile, it may have escaped the attention of many, but Leicester have not started life in League One particularly well – they are mired in the bottom half. But the Foxes are targeting as many as seven deals before Tuesday’s transfer deadline. Sheffield United’sMark McGuinness, Coventry manJoel Latibeaudiereand Wrexham midfield duoGeorge Dobson and Matty Jamesmay all fit the bill for Russell Martin at the King Power Stadium.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-31 @ 16:40:35 EDT",
+  "lastUpdated": "2026-08-31 @ 18:57:21 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
