@@ -4,12 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
-      "link": "https://www.theguardian.com/football/2026/aug/30/mikel-arteta-premier-league-matchday-squad-player-welfare-arsenal"
+      "text": "⚽ How did match-winner Saka do? Aston Villa v Arsenal ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
-      "link": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter"
+      "text": "⚽ Saka earns Arsenal hard-fought win at Aston Villa",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+      "link": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report"
     },
     {
       "text": "⚽ Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
@@ -50172,11 +50176,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5709_0",
+            "category": "england",
+            "type": "News",
+            "title": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
+            "bullets": [
+              "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+            "fullText": "Bukayo Saka's goal gaveArsenala 1-0 victory atAston Villa.\n\nHere's how BBC Sport rated the players, and how you rated them.\n\nZion Suzuki:A debut for the Â£30m goalkeeper from Parma who had no chance with the opening goal. Misjudged his first corner but his distribution caught the eye and will be useful this season.7\n\nMatty Cash:His usual solid display and got the better of Christos Tzolis, who was replaced at the break.6\n\nPau Torres:Helped keepArsenalat bay until they broke the deadlock in the second half.6\n\nVictor Lindelof:The Sweden international diligently tried to keepArsenalin check. Has not let Villa down since arriving on a free transfer.6\n\nIan Maatsen:With new signing Matteo Ruggeri on the bench, he has competition and had his hands full with Bukayo Saka, and was beaten to the ball for the goal.6\n\nBoubacar Kamara:The midfielder is so crucial to how Villa play and he offered an important shield to frustrate the Gunners until Saka's opener.7\n\nRoss Barkley:The formerEvertonyoungster has been given a second chance at Villa as they rebuild and tried to keep the hosts flowing.6\n\nJohn McGinn:The skipper drilled over and was his usual energetic self as Villa tried to unsettleArsenaland did not drop his energy levels.6\n\nEmi Buendia:The Argentina international hit the bar early and was a good creative outlet for the hosts but could not find the killer touch.6\n\nGeorge Hemmings:Villa rate the 19-year-old highly and he showed no fear against the champions. He threatened in the first half, especially with one low cross.7",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5709_1",
+            "category": "england",
+            "type": "News",
+            "title": "Saka earns Arsenal hard-fought win at Aston Villa",
+            "bullets": [
+              "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston V...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+            "fullText": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5709_2",
+            "category": "england",
+            "type": "News",
+            "title": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+            "bullets": [
+              "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length.Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scoring for the first time since 2002 but, despite successive defeats, this time there was no capitulation. Continue reading...",
+            "fullText": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as theAston Villafull-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length.\n\nUnai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scoring for the first time since 2002 but, despite successive defeats, this time there was no capitulation.\n\nFor Villa, this was a marked improvement on defeat at Brighton in their opener. After 31 minutes in their previous game, they trailed 4-0 and after 40 were down to 10 men.\n\nHere they could take plenty of encouragement from a promising if not fruitless performance, the debutants Zion Suzuki and Nicolas Jackson impressing, having taken the No 1 and No 11 shirts vacated by Emiliano Martínez and Ollie Watkins respectively. Suzuki and Jackson were the only changes to Villa’s starting XI but they appeared far more cohesive. Suzuki’s eye for a pass was particularly noticeable, pinging 50-yard passes to George Hemmings, the 19-year-old who kept his place, and John McGinn within a few minutes of each other.\n\nEmi Buendía smacked the crossbar after Boubacar Kamara overawed Christos Tzolis – Martin Ødegaard subsequently asked questions of the referee, Jarred Gillett – but Jackson otherwise created Villa’s best opening. The Senegal forward, who worked under Emery at Villarreal, pinched possession from Gabriel Magalhães a few yards into the Villa half and galloped into the other before sending a near-perfect cross in from the right. Hemmings burst into the six-yard box but was unable to convert. Villa are just the second team to fail to register a shot on target in their first twoPremier Leaguematches in a season since 2003-04, along with Swansea City in 2017-18.\n\nThis fixture last season ended in despair forArsenal, their players splayed across the turf after Buendía’s 95th-minute winner with the last kick of the game. Arteta said that defeat still haunts him and reminded his players as much before this game. “That was still in my tummy and I spoke to my players about it, the image of the players on the floor, totally gutted,” the Arsenal manager said. “We used that [as inspiration].”\n\nIn that game last season Eberechi Eze was at fault for Matty Cash’s opener and was subsequently hooked at half-time. Here it was a case of role‑reversal, Eze shining after coming on for the second half in place of Christos Tzolis, who was booked after a foul on Cash and muted.\n\n“I think he learnt a lesson,” Arteta said of Eze, who was involved in Arsenal seizing the lead approaching the hour. Arsenal slowed things down and then punished Villa for switching off. Cristhian Mosquera pushed a pass to Eze, who was afforded space by Cash, Villa’s defender concerned about an unmarked Riccardo Calafiori. Eze promptly spied Calafiori’s underlapping run and the Italian steered the ball across the six-yard box where Saka beat Maatsen to the punch and scrambled the cross into the net.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThis is a new-look Villa, on and off the pitch. A handful of staff in hard hats were positioned in the closed North Stand moonlighting as ball boys; the corner of rubble between the remaining skeleton and the Trinity Road Stand remains akin to an excavation site. Ibrahim Mbaye, whose £47m move from Paris Saint‑Germain is to be announced on Tuesday, was in the directors’ box. Taylor Harwood-Bellis is also poised to sign in a £25m deal from Southampton. Six of Villa’s starting XI from their Europa League triumph may have departed but Emery has made no complaints and has relayed his no-excuses mantra to his squad. “We do not look backwards,” he said.\n\nVilla’s frustrations were palpable. McGinn, in a hurry to get Villa level, was booked for wiping out Merino. Aaron Wan-Bissaka replaced Cash for his Villa debut and his first job was to stretch his legs to muffle an advancing Eze. Alejandro Garnacho entered in place of Ross Barkley. Arteta introduced Ezri Konsa for his debut, adding further steel.\n\nVilla could not find a way through and Arsenal’s winning habit already appears ominous. “It is painful to lose,” Emery said. “But we can feel optimistic with how we competed.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5709_3",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
+            "bullets": [
+              "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectationsOllie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami as England defeated France 6-4 in a game for third place at the World Cup. They will be reunited on Tuesday in Riyadh for Al-Hilal v Al-Ahli, the first big clash between title hopefuls in the Saudi Pro League season.Aston Villa fans will be hoping that, starting against Arsenal on Monday, Nicolas Jackson can quickly help them to forget their departed talisman. That’s what Toney did at Brentford in 2020 when he replaced Watkins. It may not only be supporters in the West Midlands and west London who will be curious to see how their alumni get on in west Asia. England’s head coach, Thomas Tuchel, will surely tune in (or even turn up?) to get a look at the two forwards battling to become the clear understudy to Harry Kane as a new international cycle starts. Continue reading...",
+            "fullText": "Al-Hilal’s signing from Villa is thrown straight into big game against Al-Ahli and faces the highest of expectations\n\nOllie Watkins and Ivan Toney spent 33 minutes on the pitch together a few weeks ago in Miami asEngland defeated France 6-4in a game for third place at the World Cup. They will be reunited on Tuesday in Riyadh for Al-Hilal v Al-Ahli, the first big clash between title hopefuls in the Saudi Pro League season.\n\nAston Villa fans will be hoping that, starting against Arsenal on Monday, Nicolas Jackson can quickly help them to forget their departed talisman. That’s what Toney did at Brentford in 2020 when he replaced Watkins. It may not only be supporters in the West Midlands and west London who will be curious to see how their alumni get on in west Asia. England’s head coach, Thomas Tuchel, will surely tune in (or even turn up?) to get a look at the two forwards battling to become the clear understudy to Harry Kane as a new international cycle starts.\n\nBefore that bronze-medal match, Watkins and Toney had enough time together in North America on and off the bench to chat about Saudi Arabia. The former has joined Al-Hilal and probably doesn’t need any advice on how to score goals in theSaudi Pro Leaguebut if he does then his Three Lions teammate is the man to ask.\n\nToney, 30, arrived in the Middle East two years ago, signing for Al-Ahli in Jeddah, the country’s most passionate football city, to play under Matthias Jaissle. He took a little time to get going in his first season but ended with 23 league goals and the Asian Champions League title, the club’s first. The second brought 32 league goals and Toney was pipped to the Golden Boot by Julián Quiñones on the final day but there was the small consolation of a second Asian triumph. With four goals in three games this season more honours, of a personal and team nature, are on the cards.\n\nAl-Ahli have won one domestic league title in more than 40 years and that is their focus this season butWatkins joinsa historically winning machine with record hauls at home and in Asia – 19 and four respectively. Even before the big spending started in the summer of 2023, Al-Hilal were an institution and could make a case for being the biggest in Asia, with social media followings that ranked alongside any in the world. Finishing second, as they did last season, is not tolerated for long and there has been plenty of criticism of the coach, Simone Inzaghi, for allowing their local rivals Al-Nassr, for whom Cristiano Ronaldo plays, to win last season.\n\nWatkins’s timing off the pitch looks as good as that on it. He is joining a team that appear to be approaching top gear, scoring nine goals in their first two league games. With service from Rúben Neves, Sergej Milinkovic‑Savic, Crysencio Summerville and, potentially, Gabriel Martinelli, the forward should hit the ground running. Well, not too much running. Riyadh temperatures are in the mid-forties during the day and it is hard to overstate how much of a shock it can be at first, but the mercury will soon start to drop to more manageable levels.\n\nSaudi spending has also dropped since that summer of 2023 when SPL clubs splashed out more than £700m on players such as Karim Benzema (who is poised to leave Al-Hilal), N’Golo Kanté, Riyad Mahrez, Roberto Firmino, Sadio Mané and others with the experience to go with their star power. The focus since has switched to younger and cheaper options who offer resale value.\n\nThéo Hernandez at Al-Hilal came in 2025 for not much more than £20m. The teenage striker Mohamed Kader Meïté came from Rennes for not much more and the 18‑year‑old Côte d’Ivoire under‑23 international has opened his account for the season.\n\nWatkins, at 30, is a bit different. It shows there is money available for the right stars and, given the bewildering sums flying around the Premier League, the reported fee of just over £50m does not seem especially excessive. Al-Hilal’s transfer dealings are, perhaps, slightly different from those of the other top teams. The Blues were part of the Big Four taken over by the Public Investment Fund in 2023 but were handed over to the billionaire businessman Prince Al Waleed bin Talal this year.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAl-Hilal’s spending has outstripped the others’ in this window and the pressure is on. Watkins is used to Villa, a second‑level Premier League team unable to challenge for the title, a situationreinforced over the past few weeksas the Europa League winners have sold players. Now he is at a club that demand success, the epitome of Asia’s establishment.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5709_4",
+            "category": "england",
+            "type": "News",
+            "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+            "bullets": [
+              "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players.After an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the fact Bradley Barcola is en route from PSG, the Reds want more wide forwards. Much seems to depend on Cody Gakpo’s future – with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’s Estêvão, as well as Yankuba Minteh and Ismaïla Sarr. What on earth Iraola’s forward options will look like in a couple of days is anyone’s guess. Continue reading...",
+            "fullText": "Elite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players.\n\nAfter an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the factBradley Barcola is en route from PSG, the Reds want more wide forwards. Much seems to depend onCody Gakpo’s future– with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’sEstêvão,as well asYankuba MintehandIsmaïla Sarr.What on earth Iraola’s forward options will look like in a couple of days is anyone’s guess.\n\nIt looked like Spurs were in for Iliman Ndiaye, but former Chelsea manChristian Pulisichas been touted as a possible alternative as the club’s owners look to give Roberto De Zerbi even more talented attacking players to work with. Heaven knows he needs them.\n\nCrystal Palace are another club in dire need of a transfer boost or two and it seems Pierre Sage has identified midfield as a key area to be strengthened. The Eagles are battling Fulham for Eintracht Frankfurt midfielderHugo Larsson, but are also keen onQuinten Timberof Marseille; while 18-year-old centre-backHonest Ahanorlooks set to join on loan from Atalanta. They are also trying to hold on toDean Hendersonamid interest from Nottingham Forest.\n\nManchester United may be feeling all warm and fuzzy aftertheir demolition of Ipswich, but they could have a couple of players poached from under their noses, with Fenerbahce apparently preparing to swoop forMarcus RashfordandLeny Yorothe subject of admiring glances from Milan and his former manager Ruben Amorim.Joshua Zirkzeeto Serie A remains a distinct possibility, but he won’t be joining Fiorentina.\n\nIn terms of incomings at Old Trafford, a left-back remains a priority and a surprise last-minute deal for Aston Villa’sIan Maatsencould be on the cards. And if United do lose Zirkzee or Rashford, they have been alerted to the fact Atlético Madrid strikerAlexander Sorlothcould be available for the small price of £30m.\n\nMeanwhile, it may have escaped the attention of many, but Leicester have not started life in League One particularly well – they are mired in the bottom half. But the Foxes are targeting as many as seven deals before Tuesday’s transfer deadline. Sheffield United’sMark McGuinness, Coventry manJoel Latibeaudiereand Wrexham midfield duoGeorge Dobson and Matty Jamesmay all fit the bill for Russell Martin at the King Power Stadium.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-31 @ 16:40:39 EDT",
+  "lastUpdated": "2026-08-31 @ 18:57:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
