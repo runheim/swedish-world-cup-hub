@@ -22,10 +22,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
       "link": "https://www.theguardian.com/football/2026/aug/30/european-football-real-madrid-malaga-napoli-como-inter"
-    },
-    {
-      "text": "⚽ Hits and misses: Mainoo impresses as well as Fernandes",
-      "link": "https://www.skysports.com/football/news/12040/13579146/kobbie-mainoo-stars-alongside-bruno-fernandes-in-man-utds-win-over-ipswich-premier-league-hits-and-misses"
     }
   ],
   "timeline": {
@@ -49923,10 +49919,103 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-08-31": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0755_0",
+            "category": "england",
+            "type": "News",
+            "title": "Watkins completes £51m move to Saudi side Al-Hilal",
+            "bullets": [
+              "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after comp...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Ollie Watkins says he never imagined or intended his Aston Villa career to \"end this way\" after completing his £51m move to Al-Hilal.",
+            "fullText": "Ollie Watkins started Aston Villa's Europa League final win over Freiburg\n\nOllie Watkins says he never imagined or intended hisAston Villacareer to \"end this way\" after completing his Â£51m move to Al-Hilal.\n\nThe 30-year-old striker, Villa's record Premier League scorer with 91 goals, joins the Saudi Pro League sideon a three-year deal.\n\nThe England international made himself unavailable for Villa's Premier League opener againstBrightonlast weekend, which Unai Emery saidWatkins apologised for.\n\n\"Firstly, I would like to say, never did I intend, nor did I imagine, my time atAston Villawould end this way,\" Watkins posted on social media.\n\n\"With that being said, I am eternally grateful for the last six years. Not only has it shaped me as a player, but as a person.\n\n\"We've been through so many ups and downs in my six seasons here, but one thing that has never changed is that I have given everything for this club.\"\n\nIn six years at Villa, Watkins played a crucial role in the club's rise under manager Emery as they established themselves as regular top-six challengers and won the Europa League, their first European trophy in 44 years.\n\nEmery said he had \"small tears\" as he said goodbye to the \"fantastic\" Watkins - the latest in a series of Villa exits this summer, with Morgan Rogers, Ezri Konsa, Youri Tielemans, Lucas Digne and Emiliano Martinez all departing.\n\nAt Al-Hilal, Watkins joins Dutch winger Crysencio Summerville, who departed West Ham following their relegation from the Premier League, whileArsenalwinger Gabriel Martinelli is set to travel to Saudi Arabia on Tuesday for a medical with the club.\n\n\"From my first goals in the 7-2 win overLiverpoolto getting the club back into Europe, the Champions League nights at Villa Park to that unforgettable night in Istanbul and becoming Villa's record Premier League goalscorer,\" he added.\n\n\"It is an achievement that I never thought would be possible when I signed for the club.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0756_1",
+            "category": "england",
+            "type": "News",
+            "title": "Tottenham enquire about Pulisic - Monday's gossip",
+            "bullets": [
+              "Spurs turn attention to Christian Pulisic, Liverpool and Everton show interest in Stuttgart winger J...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Spurs turn attention to Christian Pulisic, Liverpool and Everton show interest in Stuttgart winger Jamie Leweling, and Crystal Palace want to keep Dean Henderson after Nottingham Forest bid.",
+            "fullText": "Spurs turn attention to Christian Pulisic,LiverpoolandEvertonshow interest in Stuttgart's Jamie Leweling, andCrystal Palacewant to keep Dean Henderson afterNottingham Forestbid.\n\nTottenhamhave enquired toAC Milanabout signing 27-year-old United States winger Christian Pulisic.(Teamtalk),external\n\nLiverpoolandEvertonare interested inStuttgartwinger Jamie Leweling, 25, with Roma also pushing to sign the German.(Patrick Berger,external/Sky Sport Germany),external\n\nNewcastleare exploring a deal to signLilleforward Matias Fernandez-Pardo, 21, but nothing is advanced in terms of negotiations for the Belgium international.(Florian Plettenberg),external\n\nEvertonare working on a second loan deal forMan Cityand England winger Jack Grealish.(Athletic),external\n\nCrystal Palaceare determined to keep England goalkeeper Dean Henderson, 29, after a bid fromNottingham Forest.(Mail - subscription required),external\n\nNewcastle United,Aston VillaandChelseaare all interested in signing 20-year-old Cameroon striker Christian Kofane fromBayer Leverkusen.(Football Insider),external\n\nLiverpoolare monitoringGenkgoalkeeper Lucca Brughmans, 18, but if a deal happens this summer it will not result in an immediate move for the Belgium youth international.(Ben Jacobs),external\n\nCrystal PalaceandFulhamare in talks over a move forEintracht Frankfurtmidfielder Hugo Larsson, 22, with a fee of around Â£25m potentially enough to secure the Swede.(Teamtalk),external\n\nCrystal Palacehave revived talks withMarseillefor 25-year-old Netherlands midfielder Quinten Timber.(Mail - subscription required),external\n\nJuventusare still considering signingManchester Unitedstriker Joshua Zirkzee, 25, but a move for the Netherlands forward will depend on whether Jonathan David leaves the Serie A side forAtletico Madrid.(Sky Sport Italy),external\n\nNapoli interested in Woltemade loan - Sunday's gossip",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0756_2",
+            "category": "england",
+            "type": "News",
+            "title": "Mikel Arteta ‘begging’ Premier League to expand 20-man matchday squads",
+            "bullets": [
+              "Arsenal manager says dropping players ‘affects wellbeing’Serie A allows 25-player matchday squads an...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal manager says dropping players ‘affects wellbeing’Serie A allows 25-player matchday squads and La Liga 23Arsenal have asked the Premier League to increase the size of matchday squads, with Mikel Arteta saying the current system is detrimental to player welfare. Top‑flight clubs can name 20 players for games, including a minimum of three homegrown players. In Spain’s La Liga, clubs can name a matchday squad of 23, while Italy’s Serie A allows 25.Arsenal have competed on multiple fronts in recent seasons. Last year, as well as winning the Premier League, they reached the finals of the Champions League and Carabao Cup, as well as the quarter-finals of the FA Cup. With pressure increasing on the football calendar and players facing more matches, Arteta sees no reason why English teams should operate with smaller squads than those from other European leagues. Continue reading...",
+            "fullText": "Arsenal manager says dropping players ‘affects wellbeing’\n\nSerie A allows 25-player matchday squads and La Liga 23\n\nArsenal have asked thePremier Leagueto increase the size of matchday squads, with Mikel Arteta saying the current system is detrimental to player welfare. Top‑flight clubs can name 20 players for games, including a minimum of three homegrown players. In Spain’s La Liga, clubs can name a matchday squad of 23, while Italy’s Serie A allows 25.\n\nArsenal have competed on multiple fronts in recent seasons. Last year, as well as winning the Premier League, they reached the finals of theChampions LeagueandCarabao Cup, as well as the quarter-finals of the FA Cup. With pressure increasing on the football calendar and players facing more matches, Arteta sees no reason why English teams should operate with smaller squads than those from other European leagues.\n\n“I’ve been begging the Premier League if we can extend those numbers just for the welfare of the players, which is the most important thing, because I think every squad needs more than 20 outfield players, ideally, to sustain the level of demand in international games that we have,” Arteta said, as he prepares for the champions’ trip to Aston Villa on Monday night. “But these are the rules, and within the rules we have to play. We need to be very close to the players to explain those situations in the right way, for everybody to feel important, because they will be.”\n\nClubs can register a squad of 25 senior players – those aged over 21 – for the season, with at least eight homegrown. As a result, five senior players registered for the season miss out each game. Arteta has said it can be difficult to tell players they are not involved and that the news can negatively affect their wellbeing.\n\n“The question has to be to the players. What do they want? If they raise their hands and say: ‘No, I prefer to stay at home and not travel,’ I think we have an issue because then they don’t love what they do, which is the matchday,” he said. “But I’m sure that if you ask the players, everybody would like to be part of the squad on matchday, because that’s the way that they can fulfil themselves.\n\n“Otherwise you have to tell somebody: ‘You are not even part of this matchday,’ and that’s really tough. And it doesn’t help anybody. It doesn’t help the club. It doesn’t help the valuation of the player. It doesn’t help the player feel part of something. It’s a real issue that has a really simple solution.”\n\nArteta added: “And all the clubs, because I’ve done the research with all the top clubs in Europe, we are not different to anybody. Most of them, 90% of them, they have more players than us. So we are going to have to deal with that.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0756_3",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer roundup: Ollie Watkins completes move to Al-Hilal from Aston Villa",
+            "bullets": [
+              "England forward’s exit continues busy summer for VillaNews follows Emiliano Martínez moving to Chels...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England forward’s exit continues busy summer for VillaNews follows Emiliano Martínez moving to ChelseaAl-Hilal have signed Ollie Watkins from Aston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club where he became their top scorer in the Premier League. The England international, who had ​two years left on ‌his Villa contract, has moved for a reported £51m.Watkins ‌signed a three-year contract as Al-Hilal acquired ‌a proven goalscorer after he scored 21 goals in all competitions last season, including five goals in the Europa League as he helped deliver a European trophy to Unai Emery’s side. Continue reading...",
+            "fullText": "England forward’s exit continues busy summer for Villa\n\nAl-Hilal have signedOllie WatkinsfromAston Villa, ⁠the two clubs announced on Sunday, as the 30-year-old striker ended a successful ⁠six-year spell with ⁠the ​Midlands club where he became their top scorer in the Premier League. The England international, who had ​two years left on ‌his Villa contract, has moved for a reported £51m.\n\nWatkins ‌signed a three-year contract asAl-Hilalacquired ‌a proven goalscorer after he scored 21 goals in all competitions last season, including five goals in the Europa League as he helped deliver a European trophy to Unai Emery’s side.\n\nHowever, an ‌exit was on the cards before the transfer window closed, with Emery revealing the ​striker had apologised for making himself unavailable for the club’s Premier League opener, a 4-0 defeat at Brighton.\n\nWatkins scored 91 Premier League goals for Villa and 108 ⁠in all competitions since arriving from Brentford for £28m in ​2020. The striker is among ​a string of departures from Villa ​in the ‌close season following ​the ​exits of key players such as Morgan Rogers and Emi Martinez to Chelsea –the latter moving on Sunday– Ezri Konsa to Arsenal and Youri Tielemans to Manchester United.\n\nIn the Guardian app, tap the Profile settings button at the top right, then select Notifications. Turn on sport notifications.\n\nIf you already have the Guardian app, make sure you’re on the most recent version.\n\nIf you don't have the Guardian app, download it from theiOS App Storeon iPhone or theGoogle Play storeon Android by searching for 'The Guardian'.\n\nRoma have stepped up their Serie A challenge with the acquisition of two captains, midfielderMarten De Rooncoming over from Atalanta and centre-backLeonardo Balerdijoining from Marseille. The 35-year-old De Roon evolved into Atalanta’s skipper after a decade spent in Bergamo over two spells. He will reunite with Roma’s manager Gian Piero Gasperini, who formerly coached him at Atalanta.\n\nAnd the former Serie A MVPRafael Leãohas completed a €38m transfer from Milan to Galatasaray. The Turkish side confirmed a deal for the Portugal winger, signing him to a four-year contract with a net salary of €10m per season.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0756_4",
+            "category": "england",
+            "type": "News",
+            "title": "European football: Bellingham sparks Real Madrid’s cruise to maintain perfect start",
+            "bullets": [
+              "Promoted Málaga slump to 4-0 defeat at the BernabéuComo defeat Napoli; Jones makes Inter debut in wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Promoted Málaga slump to 4-0 defeat at the BernabéuComo defeat Napoli; Jones makes Inter debut in winReal Madrid maintained their perfect start to the season in La Liga with a comfortable 4-0 home ⁠win over promoted Málaga on Sunday, scoring three times inside 30 minutes before adding a late fourth.Jude Bellingham’s brilliant solo opener, an own ⁠goal by the Málaga goalkeeper, ⁠Alfonso Herrero, and ​a sharp Kylian Mbappé volley in effect settled the contest before half-time, with the substitute Arda Guler wrapping up the victory in added time at ⁠the Bernabéu. Continue reading...",
+            "fullText": "Promoted Málaga slump to 4-0 defeat at the Bernabéu\n\nReal Madridmaintained their perfect start to the season in La Liga with a comfortable 4-0 home ⁠win over promotedMálagaon Sunday, scoring three times inside 30 minutes before adding a late fourth.\n\nJude Bellingham’s brilliant solo opener, an own ⁠goal by theMálagagoalkeeper, ⁠Alfonso Herrero, and ​a sharp Kylian Mbappé volley in effect settled the contest before half-time, with the substitute Arda Guler wrapping up the victory in added time at ⁠the Bernabéu.\n\nThe win lifted Madrid to nine points from three matches, two clear of Atlético Madrid and Alavés. Barcelona, fourth on six points with a ⁠game in hand, host Rayo Vallecano on Monday.\n\nBellingham opened the scoring in the 19th minute ‌with a superb burst through the middle, collecting a loose ball near the edge of the area, gliding past three defenders and firing low beneath Herrero. They ​doubled their lead seven minutes later after Herrero could only palm out Mbappé’s effort. Bellingham headed the rebound back towards goal and, as Herrero and a teammate collided while trying to clear, the ball ended up in the net.\n\nMbappé then made it 3-0 in the 30th minute, meeting Trent Alexander-Arnold’s cross ⁠with a fine volley from the centre of the box. The second half drifted until Guler, shortly ​after coming on, started ‌and finished a ​slick move, feeding Vinícius Júnior before tapping in the Brazilian’s return pass to complete the rout.\n\nPierre-Emerick Aubameyang scored for the third straight game asDeportivo La CoruñabeatValencia3-1. The former Arsenal and Chelsea forward, who joined Deportivo from Marseille in the off-season, scored his side’s second goal as the newly promoted side won for the first time this season.\n\nNapolisuffered a 2-1 defeat at home toComo⁠inSerie A, with all three goals coming in an entertaining opening half. Assane Diao looked the most threatening player in the opening stages ⁠and the winger was instrumental in the visitors’ 17th-minute opening goal. Diao went past ​Mathías Olivera on the right wing ‌and played a pass ‌across to Martin Baturina whose shot on the turn from close to the penalty ‌spot found the bottom corner of the net.\n\nNoa Lang missed an excellent chance to equalise, sending a header over from inside the six-yard box, beforeNapolidrew level on the half-hour mark. Rasmus Højlund collected a pass on the edge of the area and drilled the ball low into the far corner, but Como were back in front four minutes later when Napoli ​were caught napping at the back.\n\nAndré-Frank Zambo Anguissa underhit a pass back to Amir Rrahmani in his own box, allowing Baturina to nick the ball away. It fell to Tasos Douvikas and Como’s top scorer last season netted his second goal of this ⁠campaign.\n\nHakan Calhanoglu’s early strike earnedIntera 1-0 win atCagliarias they continued a perfect start to their title defence. The Turkey midfielder guided home a first-time strike from the edge of the box after nine minutes to make it two goals in two games and set the tone for a first half dominated by the champions in Sardinia.\n\nCurtis Jonesmade his Inter debutfrom the bench in the second half, but Inter’s lack of composure in front of goal almost came back to bite them as Cagliari threatened a shock equaliser with a flurry of late chances.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-30 @ 20:13:30 EDT",
+  "lastUpdated": "2026-08-31 @ 03:07:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
