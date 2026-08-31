@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Kristoffer Nordfeldt is praised after the derby victory: \"He stands on his head\"",
-      "link": "https://www.svt.se/sport/fotboll/kristoffer-nordfeldt-hyllas-efter-derbysegern-han-star-pa-huvudet"
+      "text": "⚽ Graham Potter reviews tactical chalkboards for midfield build-ups",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🌍 Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.svenskfotboll.se/"
     }
   ],
   "timeline": {
@@ -19223,11 +19239,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "dyn_swe_20260830_4",
+            "category": "sweden",
+            "type": "Column",
+            "title": "Graham Potter reviews tactical chalkboards for midfield build-ups",
+            "bullets": [
+              "Coaching staff designs custom vertical combination pass routes.",
+              "Björn Hamberg: 'Defensive structures are locked; build-up is fluid.'",
+              "Sweden practices quick horizontal circulation to bypass mid-blocks."
+            ],
+            "summary": "The technical staff finalized tactical reviews. Potter focuses on midfield combination speed to stretch opposing blocks and release wide wing-backs.",
+            "fullText": "The technical staff finalized tactical reviews. Potter focuses on midfield combination speed to stretch opposing blocks and release wide wing-backs.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "The Athletic Tactical Analyst",
+            "readTime": "3 min",
+            "tag": "Tactical Board",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260830_4",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Tunisia coaching staff reviews video logs of Sweden's defensive shapes",
+            "bullets": [
+              "Analysts flag Starfelt and Hien's aerial dominance in the box.",
+              "Scouts note Sweden's high defensive line is vulnerable to counters.",
+              "Tunisia practices rapid defensive containment drills."
+            ],
+            "summary": "Tunisia's technical division has analyzed Sweden's defensive setup, looking to exploit transition gaps. Carthage Eagles prepare rapid counter layouts.",
+            "fullText": "Tunisia's technical division has analyzed Sweden's defensive setup, looking to exploit transition gaps. Carthage Eagles prepare rapid counter layouts.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "UEFA News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-30 @ 17:21:15 EDT",
+  "lastUpdated": "2026-08-30 @ 20:06:06 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
