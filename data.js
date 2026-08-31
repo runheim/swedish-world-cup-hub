@@ -21466,6 +21466,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Anyone else still jetlagged?",
       "time": "15:05",
       "isCaptain": false
+    },
+    {
+      "sender": "Gio Reyna",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "12:49",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Are we wearing the white or blue kits tomorrow?",
+      "time": "12:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Tyler Adams",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "12:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "12:52",
+      "isCaptain": true
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Who took my boots?! Not funny guys.",
+      "time": "12:53",
+      "isCaptain": false
     }
   ]
 };
