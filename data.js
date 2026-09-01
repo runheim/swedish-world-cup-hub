@@ -15131,10 +15131,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-01": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_2128_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+            "bullets": [
+              "Manchester City confirm Allan signing for initial £32.1mPalace sell Muñoz to Forest and poised to si...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City confirm Allan signing for initial £32.1mPalace sell Muñoz to Forest and poised to sign AhanorNick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle.Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m. Continue reading...",
+            "fullText": "Manchester City confirm Allan signing for initial £32.1m\n\nPalace sell Muñoz to Forest and poised to sign Ahanor\n\nNick Woltemadeis close to a loan move from Newcastle toJuventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle.\n\nJuventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m.\n\nAny switch for the 24-year-old appears contingent on Matias Fernandez-Pardo completing a £51m move from Lille. The 21-year-old Belgium international was top of Jaissle’s wish list and is due in Newcastle for a medical. He can play across the front line, including as a No 10.\n\nWoltemade is unlikely to be the only player leaving before the deadline on Tuesday night. The winger Jacob Murphy is wanted by Nottingham Forest, Nick Pope – Jaissle’s third-choice goalkeeper – is looking for a new club and Besiktas retain an interest in Joe Willock.\n\nPope, who started last season as Howe’s first choice and harboured then-realistic ambitions to be part of England’s World Cup squad, wants first-team football after falling behind the new signings Lukas Hornicek and Ewen Jaouen.Willock has impressed Jaissle and, despite offers from Istanbul, an exit that looked inevitable under Howe may be postponed.\n\nEverton have agreed a £40m fee with Monaco for the strikerFolarin Balogun. The USA international has attracted interest all summer after impressing at the World Cup, where he gained notoriety for having his red card punishment suspended after an intervention from Donald Trump.\n\nAlthough born in New York, Balogun was brought up in London and started his career at Arsenal. He made 10 senior Arsenal appearances , and had loans at Middlesbrough and Reims, before being sold in 2023 toMonaco, where he was the player of the year last season after scoring 13 goals in 30 Ligue 1 appearances.Balogun is regarded as a replacement forBeto, who has had a medical with Fiorentina after an offer of about £15m was accepted.\n\nThe deal for Balogun limits the chances of Richarlison returning to Everton from Tottenham.\n\nManchester City have confirmed the signing ofAllan Eliasfrom Palmeiras in a €37.5m (£32.1m) plus €2.5m deal. The 22-year-old wide forward made his debut for Palmeiras last year and has made 96 appearances for the club, scoring nine goals and making 12 assists.\n\nAllan is City’s third major acquisition of the window after Elliot Anderson, for £116m, and Ayyoub Bouaddi, for £85m. City are open to a loan for Jack Grealish, with Everton hopeful of taking the 30-year-old midfielder.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2128_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
+            "bullets": [
+              "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s chatter is talking about its dreams againElite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players.After an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the fact Bradley Barcola is en route from PSG, the Reds want more wide forwards. Much seems to depend on Cody Gakpo’s future – with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’s Estêvão, as well as Yankuba Minteh and Ismaïla Sarr. What on earth Iraola’s forward options will look like in a couple of days is anyone’s guess. Continue reading...",
+            "fullText": "Elite football clubs splash out millions on their scouting efforts these days, gather reams of data and spend countless meticulous hours assembling their recruitment plans, yet somehow the final days of the transfer window remain a desperate scrap, for some, to recruit players.\n\nAfter an underwhelming start to the season and with a slightly threadbare frontline, Liverpool certainly find themselves in that bracket and, despite the factBradley Barcola is en route from PSG, the Reds want more wide forwards. Much seems to depend onCody Gakpo’s future– with Manchester City and Tottenham in pursuit – but Andoni Iraola’s side have been linked with Chelsea’sEstêvão,as well asYankuba MintehandIsmaïla Sarr.What on earth Iraola’s forward options will look like in a couple of days is anyone’s guess.\n\nIt looked like Spurs were in for Iliman Ndiaye, but former Chelsea manChristian Pulisichas been touted as a possible alternative as the club’s owners look to give Roberto De Zerbi even more talented attacking players to work with. Heaven knows he needs them.\n\nCrystal Palace are another club in dire need of a transfer boost or two and it seems Pierre Sage has identified midfield as a key area to be strengthened. The Eagles are battling Fulham for Eintracht Frankfurt midfielderHugo Larsson, but are also keen onQuinten Timberof Marseille; while 18-year-old centre-backHonest Ahanorlooks set to join on loan from Atalanta. They are also trying to hold on toDean Hendersonamid interest from Nottingham Forest.\n\nManchester United may be feeling all warm and fuzzy aftertheir demolition of Ipswich, but they could have a couple of players poached from under their noses, with Fenerbahce apparently preparing to swoop forMarcus RashfordandLeny Yorothe subject of admiring glances from Milan and his former manager Ruben Amorim.Joshua Zirkzeeto Serie A remains a distinct possibility, but he won’t be joining Fiorentina.\n\nIn terms of incomings at Old Trafford, a left-back remains a priority and a surprise last-minute deal for Aston Villa’sIan Maatsencould be on the cards. And if United do lose Zirkzee or Rashford, they have been alerted to the fact Atlético Madrid strikerAlexander Sorlothcould be available for the small price of £30m.\n\nMeanwhile, it may have escaped the attention of many, but Leicester have not started life in League One particularly well – they are mired in the bottom half. But the Foxes are targeting as many as seven deals before Tuesday’s transfer deadline. Sheffield United’sMark McGuinness, Coventry manJoel Latibeaudiereand Wrexham midfield duoGeorge Dobson and Matty Jamesmay all fit the bill for Russell Martin at the King Power Stadium.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-31 @ 21:00:38 EDT",
+  "lastUpdated": "2026-09-01 @ 02:21:28 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
