@@ -19399,11 +19399,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2506_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Official: Djurgården signs Charlie Rosenqvist",
+            "bullets": [
+              "Now it's official. Charlie Rosenqvist leaves Kalmar for Djurgården. He will be the Allsvenskan's mos...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Now it's official. Charlie Rosenqvist leaves Kalmar for Djurgården. He will be the Allsvenskan's most expensive purchase ever. - It feels incredibly fun to be able to sign and I am both proud and excited, says the youngster in a statement.",
+            "fullText": "- It feels incredibly fun to sign and I am both proud and excited, says the youngster in a statement.\n\nThe negotiations between Kalmar and Djurgården have been going on for a while - but now they are at the finish line. In connection with the Blue Stripes' home meeting with Mjällby, the 19-year-old was presented as a new acquisition. He stepped out at half-time to the great cheers of the crowd, during the last day of the transfer window.\n\n- It will be magical to be able to put on the Djurgårds jersey, with my name on the back, and then play in front of the supporters, says Rosenqvist in a statement.\n\nAccording to Aftonbladet, it is a deal of just over SEK 40 million, including bonuses. This means that the transfer is the most expensive ever to an Allsvenskan club.\n\n- It's really nice to get him in. We already had an eye on him before the season. We can use him both as a winger and back-up to Kristian Lien, says head coach Jani Honkavaara in TV4's broadcast.\n\nCharlie Rosenqvist has played 19 games in the Allsvenskan this year and is noted for 7 goals.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 02:24:52 EDT",
+  "lastUpdated": "2026-09-01 @ 11:25:06 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
