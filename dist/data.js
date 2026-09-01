@@ -4,24 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Saka earns Arsenal hard-fought win at Aston Villa",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
+      "link": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report"
     },
     {
       "text": "⚽ Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
       "link": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez"
     },
     {
-      "text": "⚽ Emery’s new team begin to emerge as Aston Villa rebuild on and off the pitch | Jonathan Wilson",
-      "link": "https://www.theguardian.com/football/2026/aug/31/unai-emery-aston-villa-rebuild-arsenal-premier-league"
-    },
-    {
       "text": "⚽ Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/sep/01/saka-strike-maintains-arsenals-perfect-start-plus-deadline-day-football-weekly-video"
-    },
-    {
-      "text": "⚽ Experimental England storm to highest ODI chase in win over Ireland",
-      "link": "https://www.skysports.com/cricket/news/12040/13579985/england-beat-ireland-in-first-odi-as-maia-bouchier-scores-century-in-teams-highest-run-chase-in-the-format"
     }
   ],
   "timeline": {
@@ -50627,11 +50619,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4935_0",
+            "category": "england",
+            "type": "News",
+            "title": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
+            "bullets": [
+              "It was a match between two disjointed sides, two teams trying to carve out new identities following ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least.First-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured his brace alongside a goal for Konstantinos Mavropanos. The defender doubled up himself too, albeit by scoring at his own end, as Wolves tried to claw their way back into contention. The visitors also added a decent goal from the midfielder Marshall Munetsi to their tally. For all their obvious technical ability, however, César Peixoto’s side lacked the hosts’ sang-froid at the crucial moments and that proved the decisive factor. Continue reading...",
+            "fullText": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into theChampionship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least.\n\nFirst-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured his brace alongside a goal for Konstantinos Mavropanos. The defender doubled up himself too, albeit by scoring at his own end, as Wolves tried to claw their way back into contention. The visitors also added a decent goal from the midfielder Marshall Munetsi to their tally. For all their obvious technical ability, however, César Peixoto’s side lacked the hosts’ sang-froid at the crucial moments and that proved the decisive factor.\n\nNuno’s mantra after the match was “I think we can do better”, but he was clearly grateful for the win. “We all know that it was much needed,” he said. “Looking back even on today, we have mistakes again but we’ve been much more effective in our attacking actions.”\n\nWith West Ham’s uncertainty extending beyond the field of play, there was much interest taken from the appearance of Amanda Staveley in the stands here. The former Newcastle shareholder remains in the running to acquire a stake in West Ham and could be seen punching the air at Mukasa’s first-half banger. The Manchester City loanee was not the only new recruit to impress, with Arne Engels excellent alongside him in midfield.\n\nWhat gave off the vibes of being an uninspiring opening half ended up being blessed by three goals. West Ham were on the back foot for much of the opening half-hour but established a two-goal lead by the 40th minute after a short spell of improved play. The opening goal was a memorable one, hit by Mukasa from 25 yards and cannoning into the net off the underside of the bar. It was a memorable way for the teenager to open his account, and it came after a piece of smart attacking play that got Kyle Walker-Peters behind Wolves’ defensive line. Seven minutes later, Bowen converted a penalty after swift feet from Joel Piroe confused André into an untimely tackle.\n\nBefore Nuno could get his troops into the dressing room and preach the importance of a clean sheet, Wolves hit back. With West Ham’s defence pushing up, a fortunate deflection off the previously bewildered André opened up the opportunity for Munetsi to run into space, check inside Mavropanos and finish coolly inside Mads Hermansen’s left-hand post.\n\nWith nascent enthusiasm tempered by the late concession, the atmosphere among the home support quietened as the second half began, perhaps in anticipation of further trials for West Ham. Instead they extended their lead in short order and it was Mukasa who struck again. This was a lovely move, starting with a cute through ball from Bowen that Pablo dummied to take four Wolves players out of the equation. Receiving on the edge of the box, Mukasa stood up Toti Gomes, shifted to his left and hit a shot that deflected off the Wolves skipper and beyond the despairing José Sá.\n\n“I’m delighted by the way he played,” Nuno said of Mukasa. “All the young lads, not just those who joined this summer, have brought us energy and talent. There’s a lot of things to improve but I’m delighted to have him.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nWolves responded to the third goal by grabbing hold of possession once more, but the sprightly Fer López spurned two chances. Up the other end, however, and an Engels corner was deep and dangerous and, after Mavropanos saw a towering header crash off the bar, the Greek defender smashed the rebound home on the volley. Six minutes after celebrating, Mavropanos got the final touch to a cross from Jackson Tchatchoua to turn the ball into his own net.\n\nWolves created no further chances, but could take solace from the performance of the full-back Tchatchoua, who looked impactful at both ends, while Mateus Mané was dominant on the left. “We created a lot of chances to score, they scored more goals,” said Peixoto. “West Ham took their chances and that’s the difference.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4935_1",
+            "category": "england",
+            "type": "News",
+            "title": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+            "bullets": [
+              "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ult...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prizeIf Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performance that reassured everyone he is back to his best. Add Anthony Gordon to the mix – impressive again in his link-up play – and you have a fluid, fearsome front three.Yet after the departures of Ferran Torres, Robert Lewandowski and Marcus Rashford this summer, there is no doubt Barcelona not only still want a centre-forward but require one – at least one. Hansi Flick was very happy to see Gabriel Jesus, an £8.6m arrival from Arsenal, in the stands. “He’s a top striker,” the coach said. But Atlético Madrid’s Álvarez is the ultimate prize. Continue reading...",
+            "fullText": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prize\n\nIf Raphinha has any misgivings about playing as a makeshift No 9 forBarcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performance that reassured everyone he is back to his best. Add Anthony Gordon to the mix – impressive again in his link-up play – and you have a fluid, fearsome front three.\n\nYet after the departures of Ferran Torres, Robert Lewandowski and Marcus Rashford this summer, there is no doubt Barcelona not only still want a centre-forward but require one – at least one. Hansi Flick was very happy to see Gabriel Jesus, an £8.6m arrival from Arsenal, in the stands. “He’s a top striker,” the coach said. But Atlético Madrid’s Álvarez is the ultimate prize.\n\nWhile Mikel Arteta has apparently attemptedto speed up a possible dealwith a phone call to Álvarez, the Barcelona president, Joan Laporta, has conducted his interest largely in public. He stirred the pot again last Wednesday after Arsenal’s interest was firmed up. “This whole situation has created a lot of noise,” said Laporta, who specialises in creating a lot of noise, in a video on Barça’s social channels. “Atlético told us they were not selling [Alvarez]. However, it looks like, from what we hear now, they are trying to reach agreements with other clubs.”\n\nLaporta left little to the imagination: “We are very interested in buying Julián Álvarez. We would like our offer to be accepted.” Atlético are not playing ball – and who can blame them? Barcelona’s courting of Antoine Griezmann, who announced he was staying at Atlético in a TV documentary in 2018 only to move to the Camp Nou in 2019,still leaves a sour taste. Again they have shown disapproval at Barcelona’s behaviour in their pursuit of Álvarez. “This situation isn’t about money, it’s about dignity,” an embattled Atlético said in a statement the day after Laporta’s video message.\n\nAfter the hostile reception he received from Atlético’s fans at the Metropolitano when coming on as a substitute against Villarreal the previous weekend, Álvarez missed some training sessions and the 3-1 win at Sevilla on Saturday. Atlético said the striker was unwell. He returned to training on Sunday, with Arsenal appearing his only route out by the end of Tuesday – “there is zero consideration of an Álvarez transfer to Barcelona,” Atlético said.\n\nÁlvarez’s absence was felt keenly at the Camp Nou on Monday – for about 20 minutes. After some sloppy Barcelona finishing and an emphatic strike from Rayo’s Sergio Camello, a striker who came through Atlético’s academy, the headlines were obvious. But the narrative did not come to the rescue of the Rayo centre-back Pathé Ciss, who ended up on his backside after Raphinha skipped past him and slotted in the equaliser.\n\nOn an evening when Argentina’s footballers were writing Instagram postsabout international retiree Lionel Messi, Barcelona’s current No 10 paid tribute in his own way. Lamine Yamal cut inside and whipped a shot past the flying Dani Cárdenas, high at his near post, to establish a lead that was never surrendered. After rumours about the 19-year-old’s fitness and wellbeing circulated following his sluggish start to the season, Flick reminded everyone that the kid had only three weeks’ holiday since beating Messi and Argentina in the World Cup final. Lamine Yamal was reaching his “top level” in training, Flick insisted, and it was hard to argue with him.\n\nIt was also hard to argue with Florian Lejeune when the Rayo defender said in a half-time interview that Barcelona “are very good”. Six minutes after the restart, he turned the ball into his own net. Gordon, the most expensive outlay at the Camp Nou this summer except perhaps for the new roof that is still under construction, provided the cross for that own goal and a great deal more from the left wing. The England forward’s selfless passing and running has quickly endeared him to supporters and there were chants of “Gordon, Gordon, Gordon” from behind the goal. His backheel set up Raphinha’s second and Barça’s fourth to make it three assists in three games.\n\nAfter an hour of chasing Pedri, Dani Olmo and Marc Bernal, Rayo’s midfield had to contend with Rodri off the bench. The marquee arrival from Manchester City did not have the chance to parade the World Cup he had won as Spain’s captain before his Barcelona debut in the win against Athletic last Thursday. Barça snubbed the trophy presentation following a row over the arrest of one of their supporters who was carrying an Estelada flag – a symbol of the Catalan independence movement – outside the stadium before their season opener at Elche. Athletic’s Spain players had faced whistles from some Basque fans when they presented the trophy in Bilbao. Real Madrid’s Marc Cucurella and Real Sociedad’s Mikel Oyarzabal were given a warm reception at the Bernabéu last week.\n\nLamine Yamal’s second against Rayo, another Messi-esque finish from the edge of the box, put the result beyond doubt. Barcelona and Real Madrid – the only teams with 100% records after three games – are yet to blink as the title race begins, but all eyes on transfer deadline day, you expect, will be on the exit door at Atlético’s training ground.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4935_2",
+            "category": "england",
+            "type": "News",
+            "title": "Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, John Brewin and Jonathan Wilson as Arsenal beat Aston Vi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, John Brewin and Jonathan Wilson as Arsenal beat Aston Villa 1-0 and Bradley Barcola joins Liverpool Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,John BrewinandJonathan Wilsonas Arsenal beat Aston Villa 1-0 and Bradley Barcola joins Liverpool",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 17:11:03 EDT",
+  "lastUpdated": "2026-09-01 @ 19:49:36 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
