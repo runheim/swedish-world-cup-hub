@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
-    },
-    {
       "text": "⚽ Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
       "link": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
+    },
+    {
+      "text": "⚽ Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+      "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
     }
   ],
   "timeline": {
@@ -15212,11 +15212,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1142_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+            "bullets": [
+              "Manchester City confirm Allan signing for initial £32.1mPalace sell Muñoz to Forest and poised to si...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Manchester City confirm Allan signing for initial £32.1mPalace sell Muñoz to Forest and poised to sign AhanorNick Woltemade is close to a loan move from Newcastle to Juventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle.Juventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m. Continue reading...",
+            "fullText": "Manchester City confirm Allan signing for initial £32.1m\n\nPalace sell Muñoz to Forest and poised to sign Ahanor\n\nNick Woltemadeis close to a loan move from Newcastle toJuventus, a year after arriving at St James’ Park in a club-record £69m deal from Stuttgart. The gifted Germany forward has struggled to impose himself amid the high-intensity gameplans choreographed first by Eddie Howe and now Matthias Jaissle.\n\nJuventus are one of a handful of clubs – Borussia Dortmund are among the others – to have inquired about Woltemade’s availability and Newcastle are in negotiations with the Turin club regarding a move involving a loan fee of about £5m.\n\nAny switch for the 24-year-old appears contingent on Matias Fernandez-Pardo completing a £51m move from Lille. The 21-year-old Belgium international was top of Jaissle’s wish list and is due in Newcastle for a medical. He can play across the front line, including as a No 10.\n\nWoltemade is unlikely to be the only player leaving before the deadline on Tuesday night. The winger Jacob Murphy is wanted by Nottingham Forest, Nick Pope – Jaissle’s third-choice goalkeeper – is looking for a new club and Besiktas retain an interest in Joe Willock.\n\nPope, who started last season as Howe’s first choice and harboured then-realistic ambitions to be part of England’s World Cup squad, wants first-team football after falling behind the new signings Lukas Hornicek and Ewen Jaouen.Willock has impressed Jaissle and, despite offers from Istanbul, an exit that looked inevitable under Howe may be postponed.\n\nEverton have agreed a £40m fee with Monaco for the strikerFolarin Balogun. The USA international has attracted interest all summer after impressing at the World Cup, where he gained notoriety for having his red card punishment suspended after an intervention from Donald Trump.\n\nAlthough born in New York, Balogun was brought up in London and started his career at Arsenal. He made 10 senior Arsenal appearances , and had loans at Middlesbrough and Reims, before being sold in 2023 toMonaco, where he was the player of the year last season after scoring 13 goals in 30 Ligue 1 appearances.Balogun is regarded as a replacement forBeto, who has had a medical with Fiorentina after an offer of about £15m was accepted.\n\nThe deal for Balogun limits the chances of Richarlison returning to Everton from Tottenham.\n\nManchester City have confirmed the signing ofAllan Eliasfrom Palmeiras in a €37.5m (£32.1m) plus €2.5m deal. The 22-year-old wide forward made his debut for Palmeiras last year and has made 96 appearances for the club, scoring nine goals and making 12 assists.\n\nAllan is City’s third major acquisition of the window after Elliot Anderson, for £116m, and Ayyoub Bouaddi, for £85m. City are open to a loan for Jack Grealish, with Everton hopeful of taking the 30-year-old midfielder.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1142_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+            "bullets": [
+              "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesTh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings.Going wild in the aisles? Manchester United’s interest in a new left-back has been known all summer, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, RB Leipzig’s David Raum, Fulham stalwart Antonee Robinson and Fenerbahce’s English left-back Archie Brown have all been mentioned as possible last-minute acquisitions. Jorge Salinas of Racing Santander has been tracked by United throughout the window and some are reporting that deal could be done today for €16m (£13.7m). Burnley are keen on United’s own youngster Harry Amass, but his departure may depend on a left-back coming in. Continue reading...",
+            "fullText": "The final day of the men’s transfer windowis here, but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings.\n\nGoing wild in the aisles? Manchester United’s interest in a new left-back has been known all summer, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, RB Leipzig’sDavid Raum, Fulham stalwartAntonee Robinsonand Fenerbahce’s English left-backArchie Brownhave all been mentioned as possible last-minute acquisitions.Jorge Salinasof Racing Santander has been tracked by United throughout the window and some are reporting that deal could be done today for €16m (£13.7m). Burnley are keen on United’s own youngsterHarry Amass, but his departure may depend on a left-back coming in.\n\nSpeaking of United, rememberJadon Sancho? Well, the one-time £74m Old Trafford signingis still a free agentafter his contract expired, with his former club Borussia Dortmund ready to take a chance on him providing he signs a heavily incentivised contract.\n\nUnited and Liverpool are also credited with an interest in the Bournemouth forwardEli Junior Kroupi,though they may not have much time to press on with the transfer. Arsenal have also glanced admiringly in the direction of the 20-year-old Frenchman, who is one of the jewels in the Cherries’ crown.\n\nIt appears Liverpool knocked back an audacious approach by Nottingham Forest for their young midfielderTrey Nyoni.The 19-year-old is rated highly by Andoni Iraola, and not even a £30m Forest bid tempted the Reds to sell.\n\nWhich midfielder will Chelsea sign if and whenManchester City’s pursuit of Enzo Fernándezfinally bears fruit?Alex Scott, Lamine Camara and Manu Konéhave all been identified as targets for the Blues, but only one of those deals can feasibly be achieved on deadline day. Alternatively, isEduardo Camavingastill attainable for Chelsea or someone else? Noises are coming out of Madrid suggesting Real could listen to offers of around £60m today.\n\nLet’s move on to Everton, who look to have missed out on Richarlison and Stuttgart’s Jamie Leweling but should be able to bringJack Grealishback on loan, as well asKenny Tetefrom Fulham.Tim Iroegbunamis off to Hull andIliman Ndiayelooks destined for Manchester Cityafter their deal for Cody Gakpo hit the rocks.\n\nThe Championship is often where the juiciest deadline-day activity takes place, and Derby are battling Blackburn to re-sign the Brighton defenderEiran Cashinon loan. Meanwhile Wrexham, who were accused by Sheffield United’s Chris Wilder of “blanket bombing” in their bid to sign his playerCallum O’Hare, are also considering Portsmouth’sAdrian Segecicand Bristol City’sScott Twine, while an eye-catching free transfer forJamie Vardyremains a possibility.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 14:11:32 EDT",
+  "lastUpdated": "2026-09-01 @ 17:11:46 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
