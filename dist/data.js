@@ -26,14 +26,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
       "link": "https://www.theguardian.com/football/video/2026/sep/01/saka-strike-maintains-arsenals-perfect-start-plus-deadline-day-football-weekly-video"
-    },
-    {
-      "text": "⚽ Ireland impress to post best-ever ODI score vs England LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester"
-    },
-    {
-      "text": "⚽ Osaka's look inspired by NBA legend Iverson in opening US Open win",
-      "link": "https://www.skysports.com/tennis/news/12040/13579641/us-open-naomi-osaka-inspired-by-nba-legend-allen-iverson-for-night-session-outfit"
     }
   ],
   "timeline": {
@@ -50552,7 +50544,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 11:15:50 EDT",
+  "lastUpdated": "2026-09-01 @ 14:11:39 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
