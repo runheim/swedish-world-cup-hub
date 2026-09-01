@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
+      "link": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
+    },
+    {
       "text": "⚽ Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
       "link": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
     }
@@ -15130,7 +15134,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-31 @ 18:57:21 EDT",
+  "lastUpdated": "2026-08-31 @ 21:00:38 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
