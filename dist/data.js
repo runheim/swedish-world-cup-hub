@@ -12,6 +12,10 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
+      "text": "⚽ Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+      "link": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez"
+    },
+    {
       "text": "⚽ Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
       "link": "https://www.theguardian.com/football/2026/aug/31/aston-villa-arsenal-premier-league-match-report"
     },
@@ -20,16 +24,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/aug/31/unai-emery-aston-villa-rebuild-arsenal-premier-league"
     },
     {
-      "text": "⚽ Watkins faces Toney clash as strikers push for Saudi supremacy and Tuchel’s attention",
-      "link": "https://www.theguardian.com/football/2026/aug/31/ollie-watkins-ivan-toney-saudi-arabia-thomas-tuchel-england"
+      "text": "⚽ Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
+      "link": "https://www.theguardian.com/football/video/2026/sep/01/saka-strike-maintains-arsenals-perfect-start-plus-deadline-day-football-weekly-video"
     },
     {
-      "text": "⚽ Football transfer rumours: Liverpool to sign Estêvão? Christian Pulisic to Spurs?",
-      "link": "https://www.theguardian.com/football/2026/aug/31/football-transfer-rumours-liverpool-to-sign-estevao-christian-pulisic-to-spurs"
+      "text": "⚽ Ireland impress to post best-ever ODI score vs England LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13579786/england-vs-ireland-first-womens-odi-live-latest-cricket-score-updates-videos-and-analysis-from-leicester"
     },
     {
-      "text": "⚽ Osaka channels NBA legend Iverson inspired look in opening US Open win",
-      "link": "https://www.skysports.com/tennis/news/12040/13579641/us-open-naomi-osaka-inspired-by-former-nba-legend-allen-iverson-for-night-session-outfit"
+      "text": "⚽ Osaka's look inspired by NBA legend Iverson in opening US Open win",
+      "link": "https://www.skysports.com/tennis/news/12040/13579641/us-open-naomi-osaka-inspired-by-nba-legend-allen-iverson-for-night-session-outfit"
     }
   ],
   "timeline": {
@@ -50402,11 +50406,153 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1547_0",
+            "category": "england",
+            "type": "News",
+            "title": "Saka earns Arsenal hard-fought win at Aston Villa",
+            "bullets": [
+              "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston V...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+            "fullText": "Bukayo Saka's second-half goal is enough to earn Premier League champions Arsenal victory at Aston Villa.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1547_1",
+            "category": "england",
+            "type": "News",
+            "title": "How did match-winner Saka do? Aston Villa v Arsenal ratings",
+            "bullets": [
+              "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Aston Villa and Arsenal's players rated following the Gunners' 1-0 win.",
+            "fullText": "Bukayo Saka's goal gaveArsenala 1-0 victory atAston Villa.\n\nHere's how BBC Sport rated the players, and how you rated them.\n\nZion Suzuki:A debut for the Â£30m goalkeeper from Parma who had no chance with the opening goal. Misjudged his first corner but his distribution caught the eye and will be useful this season.7\n\nMatty Cash:His usual solid display and got the better of Christos Tzolis, who was replaced at the break.6\n\nPau Torres:Helped keepArsenalat bay until they broke the deadlock in the second half.6\n\nVictor Lindelof:The Sweden international diligently tried to keepArsenalin check. Has not let Villa down since arriving on a free transfer.6\n\nIan Maatsen:With new signing Matteo Ruggeri on the bench, he has competition and had his hands full with Bukayo Saka, and was beaten to the ball for the goal.6\n\nBoubacar Kamara:The midfielder is so crucial to how Villa play and he offered an important shield to frustrate the Gunners until Saka's opener.7\n\nRoss Barkley:The formerEvertonyoungster has been given a second chance at Villa as they rebuild and tried to keep the hosts flowing.6\n\nJohn McGinn:The skipper drilled over and was his usual energetic self as Villa tried to unsettleArsenaland did not drop his energy levels.6\n\nEmi Buendia:The Argentina international hit the bar early and was a good creative outlet for the hosts but could not find the killer touch.6\n\nGeorge Hemmings:Villa rate the 19-year-old highly and he showed no fear against the champions. He threatened in the first half, especially with one low cross.7",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1548_2",
+            "category": "england",
+            "type": "News",
+            "title": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+            "bullets": [
+              "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ulti...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prizeIf Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performance that reassured everyone he is back to his best. Add Anthony Gordon to the mix – impressive again in his link-up play – and you have a fluid, fearsome front three.Yet after the departures of Ferran Torres, Robert Lewandowski and Marcus Rashford this summer, there is no doubt Barcelona not only still want a centre-forward but require one – at least one. Hansi Flick was very happy to see Gabriel Jesus, an £8.6m arrival from Arsenal, in the stands. “He’s a top striker,” the coach said. But Atlético Madrid’s Álvarez is the ultimate prize. Continue reading...",
+            "fullText": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona. But Julián Álvarez remains the ultimate prize\n\nIf Raphinha has any misgivings about playing as a makeshift No 9 forBarcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 hours before the transfer deadline. Lamine Yamal scored two wonderful goals of his own in a performance that reassured everyone he is back to his best. Add Anthony Gordon to the mix – impressive again in his link-up play – and you have a fluid, fearsome front three.\n\nYet after the departures of Ferran Torres, Robert Lewandowski and Marcus Rashford this summer, there is no doubt Barcelona not only still want a centre-forward but require one – at least one. Hansi Flick was very happy to see Gabriel Jesus, an £8.6m arrival from Arsenal, in the stands. “He’s a top striker,” the coach said. But Atlético Madrid’s Álvarez is the ultimate prize.\n\nWhile Mikel Arteta has apparently attemptedto speed up a possible dealwith a phone call to Álvarez, the Barcelona president, Joan Laporta, has conducted his interest largely in public. He stirred the pot again last Wednesday after Arsenal’s interest was firmed up. “This whole situation has created a lot of noise,” said Laporta, who specialises in creating a lot of noise, in a video on Barça’s social channels. “Atlético told us they were not selling [Alvarez]. However, it looks like, from what we hear now, they are trying to reach agreements with other clubs.”\n\nLaporta left little to the imagination: “We are very interested in buying Julián Álvarez. We would like our offer to be accepted.” Atlético are not playing ball – and who can blame them? Barcelona’s courting of Antoine Griezmann, who announced he was staying at Atlético in a TV documentary in 2018 only to move to the Camp Nou in 2019,still leaves a sour taste. Again they have shown disapproval at Barcelona’s behaviour in their pursuit of Álvarez. “This situation isn’t about money, it’s about dignity,” an embattled Atlético said in a statement the day after Laporta’s video message.\n\nAfter the hostile reception he received from Atlético’s fans at the Metropolitano when coming on as a substitute against Villarreal the previous weekend, Álvarez missed some training sessions and Saturday’s 3-1 win at Sevilla. Atlético said the striker was unwell. He returned to training on Sunday, with Arsenal appearing his only route out by the end of Tuesday – “there is zero consideration of an Álvarez transfer to Barcelona,” Atlético said.\n\nÁlvarez’s absence was felt keenly at the Camp Nou on Monday – for about 20 minutes. After some sloppy Barcelona finishing and an emphatic strike from Rayo’s Sergio Camello, a striker who came through Atlético’s academy, the headlines were obvious. But the narrative did not come to the rescue of the Rayo centre-back Pathé Ciss, who ended up on his backside after Raphinha skipped past him and slotted in the equaliser.\n\nOn an evening when Argentina’s footballers were writing Instagram postsabout international retiree Lionel Messi, Barcelona’s current No 10 paid tribute in his own way. Lamine Yamal cut inside and whipped a shot past the flying Dani Cárdenas, high at his near post, to establish a lead that was never surrendered. After rumours about the 19-year-old’s fitness and wellbeing circulated after his sluggish start to the season, Flick reminded everyone that the kid had only three weeks’ holiday since beating Messi and Argentina in the World Cup final. Lamine Yamal was reaching his “top level” in training, Flick insisted, and it was hard to argue with him.\n\nIt was also hard to argue with Florian Lejeune when the Rayo defender said in a half-time interview that Barcelona “are very good”. Six minutes after the restart, he turned the ball into his own net. Gordon, the most expensive outlay at the Camp Nou this summer except perhaps for the new roof that is still under construction, provided the cross for that own goal and a great deal more from the left wing. The England forward’s selfless passing and running has quickly endeared him to supporters and there were chants of “Gordon, Gordon, Gordon” from behind the goal. His backheel set up Raphinha’s second and Barça’s fourth to make it three assists in three games.\n\nAfter an hour of chasing after Pedri, Dani Olmo and Marc Bernal, Rayo’s midfield had to contend with Rodri off the bench. The marquee arrival from Manchester City did not have the chance to parade the World Cup he had won as Spain’s captain before his Barcelona debut in last Thursday’s win over Athletic . Barça snubbed the trophy presentation following a row over the arrest of one of their supporters who was carrying an Estelada flag – a symbol of the Catalan independence movement – outside the stadium before their season opener at Elche. Athletic’s Spain players had faced whistles from some Basque fans when they presented the trophy in Bilbao. Real Madrid’s Marc Cucurella and Real Sociedad’s Mikel Oyarzabal were given a warm reception at the Bernabéu last week.\n\nLamine Yamal’s second against Rayo, another Messi-esque finish from the edge of the box, put the result beyond doubt. Barcelona and Real Madrid – the only teams with 100% records after three games – are yet to blink as the title race begins, but all eyes on transfer deadline day, you expect, will be on the exit door at Atlético’s training ground.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1548_3",
+            "category": "england",
+            "type": "News",
+            "title": "Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
+            "bullets": [
+              "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just s...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as the Aston Villa full-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length.Unai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scoring for the first time since 2002 but, despite successive defeats, this time there was no capitulation. Continue reading...",
+            "fullText": "The smile on Declan Rice’s face with six minutes of normal time remaining said it all. He had just shut down Ian Maatsen as theAston Villafull-back zoomed into the box. Arsenal, for whom Bukayo Saka scored the only goal, were authoritative and seemingly took great satisfaction in keeping Villa at arm’s length.\n\nUnai Emery’s work‑in‑progress side struggled to test the champions, David Raya untroubled. The records will show Villa have lost their first two league matches of a season without scoring for the first time since 2002 but, despite successive defeats, this time there was no capitulation.\n\nFor Villa, this was a marked improvement on defeat at Brighton in their opener. After 31 minutes in their previous game, they trailed 4-0 and after 40 were down to 10 men.\n\nHere they could take plenty of encouragement from a promising if not fruitless performance, the debutants Zion Suzuki and Nicolas Jackson impressing, having taken the No 1 and No 11 shirts vacated by Emiliano Martínez and Ollie Watkins respectively. Suzuki and Jackson were the only changes to Villa’s starting XI but they appeared far more cohesive. Suzuki’s eye for a pass was particularly noticeable, pinging 50-yard passes to George Hemmings, the 19-year-old who kept his place, and John McGinn within a few minutes of each other.\n\nEmi Buendía smacked the crossbar after Boubacar Kamara overawed Christos Tzolis – Martin Ødegaard subsequently asked questions of the referee, Jarred Gillett – but Jackson otherwise created Villa’s best opening. The Senegal forward, who worked under Emery at Villarreal, pinched possession from Gabriel Magalhães a few yards into the Villa half and galloped into the other before sending a near-perfect cross in from the right. Hemmings burst into the six-yard box but was unable to convert. Villa are just the second team to fail to register a shot on target in their first twoPremier Leaguematches in a season since 2003-04, along with Swansea City in 2017-18.\n\nThis fixture last season ended in despair forArsenal, their players splayed across the turf after Buendía’s 95th-minute winner with the last kick of the game. Arteta said that defeat still haunts him and reminded his players as much before this game. “That was still in my tummy and I spoke to my players about it, the image of the players on the floor, totally gutted,” the Arsenal manager said. “We used that [as inspiration].”\n\nIn that game last season Eberechi Eze was at fault for Matty Cash’s opener and was subsequently hooked at half-time. Here it was a case of role‑reversal, Eze shining after coming on for the second half in place of Christos Tzolis, who was booked after a foul on Cash and muted.\n\n“I think he learnt a lesson,” Arteta said of Eze, who was involved in Arsenal seizing the lead approaching the hour. Arsenal slowed things down and then punished Villa for switching off. Cristhian Mosquera pushed a pass to Eze, who was afforded space by Cash, Villa’s defender concerned about an unmarked Riccardo Calafiori. Eze promptly spied Calafiori’s underlapping run and the Italian steered the ball across the six-yard box where Saka beat Maatsen to the punch and scrambled the cross into the net.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThis is a new-look Villa, on and off the pitch. A handful of staff in hard hats were positioned in the closed North Stand moonlighting as ball boys; the corner of rubble between the remaining skeleton and the Trinity Road Stand remains akin to an excavation site. Ibrahim Mbaye, whose £47m move from Paris Saint‑Germain is to be announced on Tuesday, was in the directors’ box. Taylor Harwood-Bellis is also poised to sign in a £25m deal from Southampton. Six of Villa’s starting XI from their Europa League triumph may have departed but Emery has made no complaints and has relayed his no-excuses mantra to his squad. “We do not look backwards,” he said.\n\nVilla’s frustrations were palpable. McGinn, in a hurry to get Villa level, was booked for wiping out Merino. Aaron Wan-Bissaka replaced Cash for his Villa debut and his first job was to stretch his legs to muffle an advancing Eze. Alejandro Garnacho entered in place of Ross Barkley. Arteta introduced Ezri Konsa for his debut, adding further steel.\n\nVilla could not find a way through and Arsenal’s winning habit already appears ominous. “It is painful to lose,” Emery said. “But we can feel optimistic with how we competed.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1548_4",
+            "category": "england",
+            "type": "News",
+            "title": "Emery’s new team begin to emerge as Aston Villa rebuild on and off the pitch | Jonathan Wilson",
+            "bullets": [
+              "Though they were beaten, the game against Arsenal was one to steady the club’s nerves after a summer...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Though they were beaten, the game against Arsenal was one to steady the club’s nerves after a summer of upheavalNothing ever remains the same. Entropy happens. Evolution happens. People grow, people shrink. The world changes and we must change with it. Change happens. The key is to keep ahead of that change, to guide it. The problem for Aston Villa this summer is that it has felt like change has been happening to them, the understandable desire to rejuvenate the squad coinciding with players being lured away by bigger salaries at more established clubs. The danger is of a vicious spiral, of the exodus inspiring further exodus as faith in the project is lost.This, though, was a game to steady Villa nerves after the embarrassment at Brighton last Saturday – even if there had been a sense of pressure mounting uncomfortably before Bukayo Saka put Arsenal ahead. Villa might even have taken a first-half lead had Emí Buendia’s drive not come back off the bar. The champions were the better side, but there wasn’t a huge gulf between them. There was certainly enough here for Villa fans to believe that, even if this is a period of transition, the team they might turn into at the end of that process could be extremely useful. Continue reading...",
+            "fullText": "Though they were beaten, the game against Arsenal was one to steady the club’s nerves after a summer of upheaval\n\nNothing ever remains the same. Entropy happens. Evolution happens. People grow, people shrink. The world changes and we must change with it. Change happens. The key is to keep ahead of that change, to guide it. The problem forAston Villathis summer is that it has felt like change has been happening to them, the understandable desire to rejuvenate the squad coinciding with players being lured away by bigger salaries at more established clubs. The danger is of a vicious spiral, of the exodus inspiring further exodus as faith in the project is lost.\n\nThis, though, was a game to steady Villa nerves after theembarrassment at Brightonlast Saturday – even if there had been a sense of pressure mounting uncomfortably before Bukayo Saka put Arsenal ahead. Villa might even have taken a first-half lead had Emí Buendia’s drive not come back off the bar. The champions were the better side, but there wasn’t a huge gulf between them. There was certainly enough here for Villa fans to believe that, even if this is a period of transition, the team they might turn into at the end of that process could be extremely useful.\n\nThe North Stand offers a visual representation of the state of change, the roof gone and the lower tier reduced to rows of concrete steps with a large bite taken out in either corner. A big hole has gone from the middle of the upper tier as well, offering a view through to the concrete struts beneath. Floodlighting is provided by two flimsy‑looking temporary towers. It’s all a bit ramshackle and patched together. But in time the old 6,000 structure will become a modern stand holding 12,000, as capacity climbs to almost 50,000 in time for Euro 2028. After a fallow season, it will return bigger and better than before, but there is an unavoidable period of rebuilding.\n\nIf all goes well, the same is true of the squad. Nine players have left, most notably Morgan Rogers, Youri Tielemans, Emí Martínez and Ezri Konsa, who came on to make hisArsenaldebut, with the enormously promising Senegalese 18-year-old forward Ibrahim Mbaye and the 24-year-old centre-back Taylor Harwood-Bellis poised to become the eighth and ninth permanent arrivals on Tuesday.\n\nTwo players, the goalkeeper Zion Suzuki and the centre-forward Nicolas Jackson, made their first starts for the club. Suzuki’s performance was mixed. He misjudged one early corner and a late drive bounced off his chest with an alarming thump – gaffs such as that were a feature of his time at Parma, but the Japan goalkeeper still impressed, less in any specific save than with the authority of his demeanour. A large part of goalkeeping, like refereeing and management, is looking the part, persuading others to believe in you.\n\nSuzuki also played a couple of remarkable long passes. One 60‑yard drive hit to George Hemmings with a touch of fade was so well calibrated that the young winger could take it on his shoulder on the move, and drew appreciative gasps from those in the Holte End directly behind the line of the pass.\n\nJackson was involved only intermittently but he gave some indication of what he might be capable of just before half-time, dispossessing Gabriel, surging 60 yards and then almost picking out Hemmings in the middle with a cleverly shaped cross. He always seemed a little unfortunate at Chelsea, plucked from Villarreal after 16 first-team appearances and expected to lead the line for a Premier League club that was in perpetual turmoil. His movement and capacity to run in behind defences has never been in doubt; where he struggled was in his decision-making. It may be that with maturity and in a side as structured as Villa that aspect of his game improves.\n\nMatteo Ruggeri, Aaron Wan‑Bissaka and the loan signing Alejandro Garnacho were named on the bench, while Leon Goretzka isn’t even at that stage. Wan-Bissaka and Garnacho came on with 12 minutes to go, a debut for the full-back and a second substitute appearance for the winger. Piece by painstaking piece, a second Emery Villa is beginning to take shape.\n\nKick off your evenings with the Guardian's take on the world of football\n\nIt will, though, clearly be a significant time before every new signing is assimilated. There are a lot of new components to get used to Emery’s marathon video sessions and fit together. Villa began last season with a run of six games without a win and this season has the potential to be similarly tricky. It may be a season of hoping the European campaign goes well enough that they’re still involved come the spring and then, if Emery’s new side has come together, focusing on the Champions League knockouts and possibly a late surge to qualify for the competition next season.\n\nThe new Villa will not be built overnight, and successive defeats without scoring a goal obviously do not represent a great start. There will have to be patience. But the vaguest hints of a new side are beginning to emerge.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1549_5",
+            "category": "england",
+            "type": "News",
+            "title": "Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
+            "bullets": [
+              "Max Rushden is joined by Barry Glendenning, John Brewin and Jonathan Wilson as Arsenal beat Aston Vi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Max Rushden is joined by Barry Glendenning, John Brewin and Jonathan Wilson as Arsenal beat Aston Villa 1-0 and Bradley Barcola joins Liverpool Continue reading...",
+            "fullText": "Max Rushdenis joined byBarry Glendenning,John BrewinandJonathan Wilsonas Arsenal beat Aston Villa 1-0 and Bradley Barcola joins Liverpool",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1549_6",
+            "category": "england",
+            "type": "News",
+            "title": "Ireland impress to post best-ever ODI score vs England LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "England have rested big names for three-match ODI series against Ireland, including captain Nat Sciver-Brunt, spinner Sophie Ecclestone and seamer Lauren Bell; Alice Capsey to keep wicket; second ODI in Derby on Thursday (1pm start); final game in Worcester on Sunday (10.30am)",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1549_7",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka's look inspired by NBA legend Iverson in opening US Open win",
+            "bullets": [
+              "Naomi Osaka made her usual fashionable entrance as she channelled former NBA superstar Allen Iverson...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka made her usual fashionable entrance as she channelled former NBA superstar Allen Iverson at the US Open.",
+            "fullText": "Naomi Osaka made her latest fashion statement ahead of her first round match against Anastasia Zakharova at the US Open;watch the US Open live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 02:20:38 EDT",
+  "lastUpdated": "2026-09-01 @ 11:15:50 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
