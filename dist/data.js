@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ How did match-winner Saka do? Aston Villa v Arsenal ratings",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Saka earns Arsenal hard-fought win at Aston Villa",
       "link": "https://www.bbc.co.uk/sport/football/videos/c0lrz74r8l9o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ How did match-winner Saka do? Aston Villa v Arsenal ratings",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cpwlxkynjvno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
       "text": "⚽ Saka settles gruelling battle with Aston Villa to extend Arsenal’s winning start",
@@ -50271,7 +50271,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-08-31 @ 18:57:14 EDT",
+  "lastUpdated": "2026-08-31 @ 21:00:26 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
