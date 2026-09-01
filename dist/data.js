@@ -4,10 +4,6 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Transfer latest: Juventus in Woltemade loan talks, Everton agree £40m Balogun fee",
-      "link": "https://www.theguardian.com/football/2026/aug/31/transfer-latest-nick-woltemade-newcastle-juventus-everton-folarin-balogun"
-    },
-    {
       "text": "⚽ Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
       "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
     }
@@ -15252,11 +15248,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5010_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+            "bullets": [
+              "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesTh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings.Going wild in the aisles? Manchester United’s interest in a new left-back has been known all summer, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, RB Leipzig’s David Raum, Fulham stalwart Antonee Robinson and Fenerbahce’s English left-back Archie Brown have all been mentioned as possible last-minute acquisitions. Jorge Salinas of Racing Santander has been tracked by United throughout the window and some are reporting that deal could be done today for €16m (£13.7m). Burnley are keen on United’s own youngster Harry Amass, but his departure may depend on a left-back coming in. Continue reading...",
+            "fullText": "The final day of the men’s transfer windowis here, but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings.\n\nGoing wild in the aisles? Manchester United’s interest in a new left-back has been known all summer, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, RB Leipzig’sDavid Raum, Fulham stalwartAntonee Robinsonand Fenerbahce’s English left-backArchie Brownhave all been mentioned as possible last-minute acquisitions.Jorge Salinasof Racing Santander has been tracked by United throughout the window and some are reporting that deal could be done today for €16m (£13.7m). Burnley are keen on United’s own youngsterHarry Amass, but his departure may depend on a left-back coming in.\n\nSpeaking of United, rememberJadon Sancho? Well, the one-time £74m Old Trafford signingis still a free agentafter his contract expired, with his former club Borussia Dortmund ready to take a chance on him providing he signs a heavily incentivised contract.\n\nUnited and Liverpool are also credited with an interest in the Bournemouth forwardEli Junior Kroupi,though they may not have much time to press on with the transfer. Arsenal have also glanced admiringly in the direction of the 20-year-old Frenchman, who is one of the jewels in the Cherries’ crown.\n\nIt appears Liverpool knocked back an audacious approach by Nottingham Forest for their young midfielderTrey Nyoni.The 19-year-old is rated highly by Andoni Iraola, and not even a £30m Forest bid tempted the Reds to sell.\n\nWhich midfielder will Chelsea sign if and whenManchester City’s pursuit of Enzo Fernándezfinally bears fruit?Alex Scott, Lamine Camara and Manu Konéhave all been identified as targets for the Blues, but only one of those deals can feasibly be achieved on deadline day. Alternatively, isEduardo Camavingastill attainable for Chelsea or someone else? Noises are coming out of Madrid suggesting Real could listen to offers of around £60m today.\n\nLet’s move on to Everton, who look to have missed out on Richarlison and Stuttgart’s Jamie Leweling but should be able to bringJack Grealishback on loan, as well asKenny Tetefrom Fulham.Tim Iroegbunamis off to Hull andIliman Ndiayelooks destined for Manchester Cityafter their deal for Cody Gakpo hit the rocks.\n\nThe Championship is often where the juiciest deadline-day activity takes place, and Derby are battling Blackburn to re-sign the Brighton defenderEiran Cashinon loan. Meanwhile Wrexham, who were accused by Sheffield United’s Chris Wilder of “blanket bombing” in their bid to sign his playerCallum O’Hare, are also considering Portsmouth’sAdrian Segecicand Bristol City’sScott Twine, while an eye-catching free transfer forJamie Vardyremains a possibility.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 17:11:46 EDT",
+  "lastUpdated": "2026-09-01 @ 19:50:12 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
