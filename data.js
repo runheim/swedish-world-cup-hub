@@ -4,8 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Official: Djurgården signs Charlie Rosenqvist",
-      "link": "https://www.svt.se/sport/fotboll/officiellt-djurgarden-varvar-charlie-rosenqvist"
+      "text": "⚽ Potter: 'Our focus is on building chemistry and consistency'",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🌍 Netherlands and Japan head coaches outline tactical structures",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
+      "link": "https://www.svenskfotboll.se/"
+    },
+    {
+      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
+      "link": "https://www.svenskfotboll.se/"
     }
   ],
   "timeline": {
@@ -19426,7 +19442,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 11:25:06 EDT",
+  "lastUpdated": "2026-09-01 @ 14:07:24 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
