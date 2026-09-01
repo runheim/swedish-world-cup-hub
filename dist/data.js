@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Potter: 'Our focus is on building chemistry and consistency'",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🌍 Netherlands and Japan head coaches outline tactical structures",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Viktor Gyökeres continues to lead intense training drills in the Dallas camp.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "🚑 Starfelt completes full fitness registers; Potter confirms 100% squad availability.",
-      "link": "https://www.svenskfotboll.se/"
-    },
-    {
-      "text": "📈 Sweden WC opener ticket allocation sells out completely in under 12 minutes.",
-      "link": "https://www.svenskfotboll.se/"
+      "text": "⚽ Official: Hugo Larsson ready for Fulham",
+      "link": "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham"
     }
   ],
   "timeline": {
@@ -19438,11 +19422,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1154_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Official: Hugo Larsson ready for Fulham",
+            "bullets": [
+              "He leaves German football to enter the British Isles. Hugo Larsson has signed for Fulham.",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "He leaves German football to enter the British Isles. Hugo Larsson has signed for Fulham.",
+            "fullText": "He leaves German football to enter the British Isles.\n\nThe 22-year-old Swedish midfielder thus leaves Eintracht Frankfurt and joins the Premier League club Fulham.\n\nThe Swede was presented - with an hour left on the last day of the transfer window.\n\n- To come here, the oldest club in London and with all the history, it is a huge honor for me, he says in a statement on the club's website.\n\nTransfer guru Fabrizio Romano writes that the transfer fee lands at 25 million euros, equivalent to 278 million kroner.\n\nLarsson joined Frankfurt in 2023, then from Malmö FF. There were 119 games in the German club.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 14:07:24 EDT",
+  "lastUpdated": "2026-09-01 @ 17:11:54 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
