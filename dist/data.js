@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales"
     },
     {
-      "text": "⚽ Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
-      "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
+      "text": "⚽ Football transfer rumours: Jamie Vardy to São Paulo or Sheffield Wednesday?",
+      "link": "https://www.theguardian.com/football/2026/sep/02/football-transfer-rumours-jamie-vardy-to-sao-paulo-or-sheffield-wednesday"
     }
   ],
   "timeline": {
@@ -15317,11 +15317,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5414_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
+            "bullets": [
+              "USA forward changes his mind over £40m dealClub had sold Beto and Ndiaye to raise fundsEverton’s £40...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "USA forward changes his mind over £40m dealClub had sold Beto and Ndiaye to raise fundsEverton’s £40m move for the USA international Folarin Balogun collapsed late on deadline day to leave the manager, David Moyes, with only one striker for the first half of the season.Everton had agreed a £40m deal for Balogun only for issues with the striker’s medical to place the transfer in doubt after the Merseyside club had sold Beto to Fiorentina and Iliman Ndiaye to Manchester City. Enquiries were made to Manchester United for Joshua Zirkzee and Aston Villa for Tammy Abraham but proposed loans for both forwards were rejected. Continue reading...",
+            "fullText": "Everton’s £40m move for the USA international Folarin Balogun collapsed late on deadline day to leave the manager, David Moyes, with only one striker for the first half of the season.\n\nEverton had agreed a £40m deal for Balogun only for issues with the striker’s medical to place the transfer in doubt after the Merseyside club had sold Beto to Fiorentina and Iliman Ndiaye to Manchester City. Enquiries were made to Manchester United for Joshua Zirkzee and Aston Villa for Tammy Abraham but proposed loans for both forwards were rejected.\n\nThe structure of the deal was renegotiated late on – Monaco accepted a lower payment up front and more in appearance-related add-ons – and Everton submitted a deal sheet to complete the transfer in time. Balogun signed the squad sheet shortly before 11pm. But the 25-year-old, who is believed to have missed his scheduled morning flight to Merseyside and arrived later in the day, changed his mind over the move and walked away at the final moment.\n\nThe collapse of the deal leaves Thierno Barry as Everton’s one recognised striker and completed a shambolic end to the window by the club’s hierarchy, who were already under pressure having tried to sell Harrison Armstrong to Nottingham Forest.\n\nEverton also hit problems in their attempts to sign the right-back Kenny Tete from Fulham. A £9m deal had been agreed for the defender only for Fulham to fail to secure their preferred replacement, Andrei Ratiu of Rayo Vallecano. Everton finally concluded their long-running search for a right-back by signing the former Arsenal player Ainsley Maitland-Niles from Lyon for a fee of around £4.2m. The 29-year-old has agreed a three year contract.\n\nFunds were raised by the sales of Ndiaye to City, for £60m plus £5m in add-ons, Beto to Fiorentina for £15.5m, Tim Iroegbunam to Hull for an initial £15m, and Nathan Patterson to Torino for an undisclosed fee.\n\nGrealish returns to the Hill Dickinson Stadium on another season loan from City. The 30-year-old player enjoyed a productive spell on loan in 2025-26 before sustaining a fractured foot that ended his campaign in February.\n\nGrealish, who will be out of contract at City when this latest deal ends next summer, could make his second Everton debut against Manchester United on Sunday. He said: “I’m so happy. I think I’m at my best at everything in life, not just football, when I feel loved. That’s what the manager has given me, what my teammates have given me and especially what the fans have given me. Every time I see an Everton fan, it’s just pure love.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“It means a lot to me and hopefully I’ve made a few Everton fans happy. I had a perfect time here for the first six months, then I stayed around after I got injured. I’ve been watching all the Everton games in pre-season and since the season started. Now I feel ready to go.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5414_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Jamie Vardy to São Paulo or Sheffield Wednesday?",
+            "bullets": [
+              "Today’s fluff is powering down as the nights draw inShould have, would have, could have. Many fans w...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s fluff is powering down as the nights draw inShould have, would have, could have. Many fans will be using this phrase today after the Premier League transfer window closed at 11pm last night, meaning no more deals can but made until the winter window opens. Everton will be clawing at the glass like a cat who has seen a pigeon on the grass after a late deal for the USA international Folarin Balogun fell through.The forward reportedly had his medical with the Toffees, which threw up an issue. Everton then went back to Balogun’s club, Monaco, to renegotiate and an agreement was reached with a deal sheet drawn up. But Balogun then decided against the move. It’s a blow to Everton, who have lost two attacking players this window, with Beto going to Fiorentina and Iliman Ndiaye signing for Manchester City. Continue reading...",
+            "fullText": "Today’s fluff is powering down as the nights draw in\n\nShould have, would have, could have. Many fans will be using this phrase today after the Premier League transfer window closed at 11pm last night, meaning no more deals can but made until the winter window opens. Everton will be clawing at the glass like a cat who has seen a pigeon on the grass after a late deal for the USA internationalFolarin Balogunfell through.\n\nThe forward reportedly had his medical with the Toffees, which threw up an issue. Everton then went back to Balogun’s club, Monaco, to renegotiate and an agreement was reached with a deal sheet drawn up. But Balogun then decided against the move. It’s a blow to Everton, who have lost two attacking players this window, with Beto going to Fiorentina andIliman Ndiaye signing for Manchester City.\n\nMonaco were involved in another big deal that fell through late, on deadline day asLamine Camaralooked likely to join Chelsea. Two initial bids for the Senegal international were rejected but eventually the two clubs agreed a €55m (£47.1m) fee. The 22-year-old had a medical but after Everton came in for Balogun, who Monaco were more happy to sell, the club pulled out of the Camara-to-Chelsea deal. After Balogun to Everton fell through, Monaco could not then sell Camara as they did not sign the deal sheet before the window closed.\n\nThere are also whispers that Liverpool contacted Monaco to say they will make a move for Camara in 2027, with the Ligue 1 club perhaps believing that will involve a higher fee than the possible Chelsea deal.\n\nChelsea also enquired about Spanish midfielder Martin Zubimendi but Arsenal rejected any move for the 27-year-old. The Blues then batted off interest from Liverpool, who wanted to sign the France defenderMalo Gustoon loan. Chelsea insisted on a permanent transfer.\n\nLiverpool themselves blocked a deal forCody Gakpo, who wanted a move to Manchester City. The forward reportedly held talks with Anfield bosses to clear the air after they denied the move.\n\nManchester United, meanwhile, are already planning a defensive restructure come next summer. It is thoughtHarry Maguire,Luke Shaw,Matthijs de LigtandLisandro Martínezare all on trial this season and they could potentially be replaced in 2027.\n\nUnited may lose another player in coming days asChido Obiwants a loan deal to a club in the Netherlands or Denmark. Both countries’ transfer deadlines are on Wednesday. It is thought Feyenoord are interested in the 18-year-old forward.\n\nWrexham are interested in Jamie Vardy but they are not the only one keen on the free agent: São Paulo and Sheffield Wednesday also want the 39-year-old. He played for Cremonese last season, and scored seven goals, but the club were relegated from Serie A, prompting the England international’s departure.\n\nWith that, our transfer-window watch ends. The Rumour Mill returns in January for plenty of hot gossip in (European) winter. Maybe some of the deals that might have been this summer will come to fruition then?",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-02 @ 02:00:52 EDT",
+  "lastUpdated": "2026-09-02 @ 10:54:18 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
