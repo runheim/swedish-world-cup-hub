@@ -10,10 +10,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Michael Owen praises Elanga for his superb form: \"Taken the chance\"",
       "link": "https://www.svt.se/sport/fotboll/elanga-hyllas-for-superformen-tagit-chansen"
-    },
-    {
-      "text": "⚽ Official: Hugo Larsson ready for Fulham",
-      "link": "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham"
     }
   ],
   "timeline": {
@@ -19524,11 +19520,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1119_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Sirius supporter about the recent point loss: \"Very mixed feelings\"",
+            "bullets": [
+              "Sirius still leads the Allsvenskan, but has three straight losses and the distance down is shrinking...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sirius still leads the Allsvenskan, but has three straight losses and the distance down is shrinking. The supporter Tryggve Pederby says that the loss is starting to be felt in the stands. But the dream of the European Games in 2027 lives on. - \"European Games 2027\" is a rhyme that we have been singing for several years as an ironic thing, says Pederby.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nTryggve Pederby says that around 2009 the club started singing a hymn about the European Games in 2027, something he hopes can become real. Hear more in the video above.\n\nIn the match against Malmö FF, Tryggve Pederby thought he began to see signs that Sirius had found his way back to his game.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nDespite the disappointment of the latest results, he thinks the supporters have kept perspective.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nAccording to the Sirius supporter, the series leader's success during the spring has been clearly felt in the stands.\n\n- We sing more than ever after losses to show that we stand behind the team. It's strange to feel like you're losing a gold while at the same time thinking: Did we really have a gold to lose?\n\nHe points out that Studenter's is often sold out and that interest around the club has grown.\n\n- There are audiences everywhere and an atmosphere in town that is different. People who used to go to maybe three games a year now want to go to all of them. There will also be more young people who see that Sirius is cool, and that is important for the long-term growth of the supporter culture.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1121_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Michael Owen praises Elanga for his superb form: \"Taken the chance\"",
+            "bullets": [
+              "Last year, Anthony Elanga was poked for large parts of the season in Newcastle. This year he has sta...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Last year, Anthony Elanga was poked for large parts of the season in Newcastle. This year he has started brilliantly - with two goals in as many games. - It is probably a good thing for him that there has been a big change in Newcastle and that the coach is gone, says Michael Owen to SVT Sport.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- It is probably a good thing for him that there has been a big change in Newcastle and that the coach is gone, says Michael Owen to SVT Sport.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- He has started really well. I was arguing with someone the other day about who is the Premier League's fastest player. Elanga has to be up there, definitely top three, says Michael Owen.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-02 @ 14:24:13 EDT",
+  "lastUpdated": "2026-09-02 @ 17:11:21 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
