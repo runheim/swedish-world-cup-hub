@@ -4,6 +4,14 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ The Sirius supporter about the recent point loss: \"Very mixed feelings\"",
+      "link": "https://www.svt.se/sport/fotboll/sirius-supportern-om-senaste-tidens-poangtapp-mycket-blandade-kanslor"
+    },
+    {
+      "text": "⚽ Michael Owen praises Elanga for his superb form: \"Taken the chance\"",
+      "link": "https://www.svt.se/sport/fotboll/elanga-hyllas-for-superformen-tagit-chansen"
+    },
+    {
       "text": "⚽ Official: Hugo Larsson ready for Fulham",
       "link": "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham"
     }
@@ -19520,7 +19528,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-02 @ 11:00:56 EDT",
+  "lastUpdated": "2026-09-02 @ 14:24:13 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
