@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Everton left with only one striker after Balogun deal collapses late on deadline day",
+      "link": "https://www.theguardian.com/football/2026/sep/02/everton-in-late-scramble-to-complete-balogun-transfer-after-flurry-of-sales"
+    },
+    {
       "text": "⚽ Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
       "link": "https://www.theguardian.com/football/2026/sep/01/football-transfer-rumours-manchester-united-liverpool-eli-junior-kroupi-jamie-vardy-wrexham"
     }
@@ -15272,10 +15276,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-02": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0050_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Everton left with only one striker after Balogun deal collapses late on deadline day",
+            "bullets": [
+              "25-year-old walks away from £40m deal at last momentBeto and Ndiaye already sold by club to raise fu...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "25-year-old walks away from £40m deal at last momentBeto and Ndiaye already sold by club to raise fundsEverton’s £40m move for US international Folarin Balogun collapsed late on deadline day to leave manager David Moyes with only one striker for the first half of the season.Everton had agreed a £40m deal for Balogun only for issues with the striker’s medical to place the transfer in doubt after the Merseyside club had sold Beto to Fiorentina and Iliman Ndiaye to Manchester City. Enquiries were made to Manchester United for Joshua Zirkzee and Aston Villa for Tammy Abraham but proposed loans for both forwards were rejected. Continue reading...",
+            "fullText": "25-year-old walks away from £40m deal at last moment\n\nBeto and Ndiaye already sold by club to raise funds\n\nEverton’s £40m move for US international Folarin Balogun collapsed late on deadline day to leave manager David Moyes with only one striker for the first half of the season.\n\nEverton had agreed a £40m deal for Balogun only for issues with the striker’s medical to place the transfer in doubt after the Merseyside club had sold Beto to Fiorentina and Iliman Ndiaye to Manchester City. Enquiries were made to Manchester United for Joshua Zirkzee and Aston Villa for Tammy Abraham but proposed loans for both forwards were rejected.\n\nThe structure of the deal was renegotiated late on – Monaco agreed to accept a lower payment up front and more in add-ons – and Everton submitted a deal sheet to complete the transfer in time. But the 25-year-old is said to have changed his mind over the move and walked away at the final moment. The collapse of the deal leaves Thierno Barry as Everton’s one recognised striker and completed a shambolic end to the window by the club’s hierarchy, who were already under pressure having tried to sell Harrison Armstrong to Nottingham Forest.\n\nEverton also hit problems in their attempts to sign right-back Kenny Tete from Fulham. A £9m deal had been agreed for the defender only for Fulham to fail to land their preferred replacement, Andrei Ratiu of Rayo Vallecano. Everton finally concluded their long-running search for a right-back by signing former Arsenal player Ainsley Maitland-Niles from Lyon for a fee of around £4.2m. The 29-year-old has agreed a three year contract.\n\nFunds were raised by the sales of Ndiaye to City, for £60m plus £5m in add-ons, Beto to Fiorentina for £15.5m, Tim Iroegbunam to Hull for an initial £15m and Nathan Patterson to Torino for an undisclosed fee.\n\nGrealish returns to the Hill Dickinson Stadium on another season loan from City. The 30-year-old enjoyed a productive spell on loan in 2025-26 before sustaining a fractured foot that ended his campaign in February.\n\nGrealish, who will be out of contract at City when this latest deal ends next summer, could make his second Everton debut against Manchester United on Sunday. He said: “I’m so happy. I think I’m at my best at everything in life, not just football, when I feel loved. That’s what the manager has given me, what my teammates have given me and especially what the fans have given me. Every time I see an Everton fan, it’s just pure love.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“It means a lot to me and hopefully I’ve made a few Everton fans happy. I had a perfect time here for the first six months, then I stayed around after I got injured. I’ve been watching all the Everton games in pre-season and since the season started. Now I feel ready to go.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0050_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Football transfer rumours: Manchester United and Liverpool eye Kroupi? Vardy to Wrexham?",
+            "bullets": [
+              "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesTh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Today’s rumours are squeezing out every last dropDeadline day live – follow all the news and movesThe final day of the men’s transfer window is here, but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings.Going wild in the aisles? Manchester United’s interest in a new left-back has been known all summer, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, RB Leipzig’s David Raum, Fulham stalwart Antonee Robinson and Fenerbahce’s English left-back Archie Brown have all been mentioned as possible last-minute acquisitions. Jorge Salinas of Racing Santander has been tracked by United throughout the window and some are reporting that deal could be done today for €16m (£13.7m). Burnley are keen on United’s own youngster Harry Amass, but his departure may depend on a left-back coming in. Continue reading...",
+            "fullText": "The final day of the men’s transfer windowis here, but there is still time for some rumourmongering, before a Supermarket Sweep-style trolley dash for 11th-hour signings.\n\nGoing wild in the aisles? Manchester United’s interest in a new left-back has been known all summer, yet here they stand without one on the final day of the window. While many are claiming United’s business could be done, RB Leipzig’sDavid Raum, Fulham stalwartAntonee Robinsonand Fenerbahce’s English left-backArchie Brownhave all been mentioned as possible last-minute acquisitions.Jorge Salinasof Racing Santander has been tracked by United throughout the window and some are reporting that deal could be done today for €16m (£13.7m). Burnley are keen on United’s own youngsterHarry Amass, but his departure may depend on a left-back coming in.\n\nSpeaking of United, rememberJadon Sancho? Well, the one-time £74m Old Trafford signingis still a free agentafter his contract expired, with his former club Borussia Dortmund ready to take a chance on him providing he signs a heavily incentivised contract.\n\nUnited and Liverpool are also credited with an interest in the Bournemouth forwardEli Junior Kroupi,though they may not have much time to press on with the transfer. Arsenal have also glanced admiringly in the direction of the 20-year-old Frenchman, who is one of the jewels in the Cherries’ crown.\n\nIt appears Liverpool knocked back an audacious approach by Nottingham Forest for their young midfielderTrey Nyoni.The 19-year-old is rated highly by Andoni Iraola, and not even a £30m Forest bid tempted the Reds to sell.\n\nWhich midfielder will Chelsea sign if and whenManchester City’s pursuit of Enzo Fernándezfinally bears fruit?Alex Scott, Lamine Camara and Manu Konéhave all been identified as targets for the Blues, but only one of those deals can feasibly be achieved on deadline day. Alternatively, isEduardo Camavingastill attainable for Chelsea or someone else? Noises are coming out of Madrid suggesting Real could listen to offers of around £60m today.\n\nLet’s move on to Everton, who look to have missed out on Richarlison and Stuttgart’s Jamie Leweling but should be able to bringJack Grealishback on loan, as well asKenny Tetefrom Fulham.Tim Iroegbunamis off to Hull andIliman Ndiayelooks destined for Manchester Cityafter their deal for Cody Gakpo hit the rocks.\n\nThe Championship is often where the juiciest deadline-day activity takes place, and Derby are battling Blackburn to re-sign the Brighton defenderEiran Cashinon loan. Meanwhile Wrexham, who were accused by Sheffield United’s Chris Wilder of “blanket bombing” in their bid to sign his playerCallum O’Hare, are also considering Portsmouth’sAdrian Segecicand Bristol City’sScott Twine, while an eye-catching free transfer forJamie Vardyremains a possibility.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-01 @ 19:50:12 EDT",
+  "lastUpdated": "2026-09-02 @ 02:00:52 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
