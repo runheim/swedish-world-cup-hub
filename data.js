@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ Official: Hugo Larsson ready for Fulham",
       "link": "https://www.svt.se/sport/fotboll/officiellt-hugo-larsson-klar-for-fulham"
     }
   ],
@@ -19493,11 +19493,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_0056_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Official: Hugo Larsson ready for Fulham",
+            "bullets": [
+              "He leaves German football to enter the British Isles. Hugo Larsson has signed for Fulham.",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "He leaves German football to enter the British Isles. Hugo Larsson has signed for Fulham.",
+            "fullText": "He leaves German football to enter the British Isles.\n\nThe 22-year-old Swedish midfielder thus says goodbye to Eintracht Frankfurt and has signed for Premier League club Fulham.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- To come here, the oldest club in London and with all the history, it is a huge honor for me, he says in a statement on the club's website.\n\nTransfer guru Fabrizio Romano writes that the transfer fee lands at 25 million euros, equivalent to 278 million kroner.\n\nLarsson joined Frankfurt in 2023, then from Malmö FF. There were 119 games in the German club.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-02 @ 02:04:36 EDT",
+  "lastUpdated": "2026-09-02 @ 11:00:56 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
