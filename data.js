@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Transfer window verdict: how every Premier League club fared",
+      "link": "https://www.theguardian.com/football/2026/sep/02/premier-league-transfer-window-club-analysis-summer-2026"
+    },
+    {
       "text": "⚽ West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
       "link": "https://www.theguardian.com/football/2026/sep/01/west-ham-wolves-championship-match-report"
-    },
-    {
-      "text": "⚽ Barcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
-      "link": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez"
-    },
-    {
-      "text": "⚽ Saka strike maintains Arsenal’s perfect start, plus deadline day | Football Weekly – video",
-      "link": "https://www.theguardian.com/football/video/2026/sep/01/saka-strike-maintains-arsenals-perfect-start-plus-deadline-day-football-weekly-video"
     }
   ],
   "timeline": {
@@ -50735,11 +50731,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4704_0",
+            "category": "england",
+            "type": "News",
+            "title": "Transfer window verdict: how every Premier League club fared",
+            "bullets": [
+              "The British transfer record was equalled and one club signed no fewer than 18 players in another hec...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summerBringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the window but could Arsenal’s failure to sign a marquee attacker cost them in the long run? They began targeting Morgan Rogers before pivoting to Vinícius Júnior when the England forward went to Chelsea, only to end up disappointed when Vinícius signed a new deal with Real Madrid. Julián Alvarez made clear he had no intention of joining from Atlético Madrid in the final days of the window and Arsenal kept their powder dry despite sanctioning the exits of Gabriel Jesus to Barcelona and Ethan Nwaneri to Borussia Dortmund. Should Gabriel Martineilli complete his move to Al-Hilal as expected in the coming days – the Saudi Pro League window remains open – a few injuries could leave Arteta short. Ed Aarons Continue reading...",
+            "fullText": "The British transfer record was equalled and one club signed no fewer than 18 players in another hectic summer\n\nBringing in Christos Tzolis, Bruno Guimarães and Ezri Konsa was a strong start to the window but could Arsenal’s failure to sign a marquee attacker cost them in the long run? They began targeting Morgan Rogers before pivoting to Vinícius Júnior when the England forward went toChelsea, only to end up disappointed when Vinícius signed a new deal with Real Madrid. Julián Alvarez made clear he had no intention of joining from Atlético Madrid in the final days of the window and Arsenal kept their powder dry despite sanctioning the exits of Gabriel Jesus to Barcelona and Ethan Nwaneri to Borussia Dortmund. Should Gabriel Martineilli complete his move to Al-Hilal as expected in the coming days – the Saudi Pro League window remains open – a few injuries could leave Arteta short.Ed Aarons\n\nKey ins:Bruno Guimarães (Newcastle, £75m), Ezri Konsa (Aston Villa, £51m), Piero Hincapié (Bayer Leverkusen, £45m), Christos Tzolis (Club Brugge, £34m)\n\nKey outs:Leandro Trossard (Besiktas, £15.3m), Jakub Kiwior (Porto, £14.5m), Gabriel Jesus (Barcelona, £8.6m), Fábio Vieira (Hamburg, £7.7m), Christian Nørgaard (Everton, £7m), Ethan Nwaneri (Borussia Dortmund, loan)\n\nIt is all change at Villa and, although a little trepidation is inevitable, a refresh was probably overdue. At the same time, Unai Emery did not want to lose so many key players and Villa’s manager has made clear there is no such thing as a transition season in his eyes. Villa have generated about £300m from the sales of nine players and brought in 10 at a cost of about £250m. Villa have lowered their wage bill and changed the profile of their squad. Zion Suzuki, Ibrahim Mbaye and Johan Manzambi, names on the lips of Villa’s rivals, are particularly exciting signings. Last summer there was concern Villa had gone stale and 12 months ago they ended up fretting on deadline day – Harvey Elliott and Jadon Sancho joined on loan – but there was no such chaos this time.Ben Fisher\n\nKey ins:Johan Manzambi (Freiburg, £51m), Nicolas Jackson (Chelsea, £47.5m), Ibrahim Mbaye (PSG, £47m), João Gomes (Wolves, £34m), Zion Suzuki (Parma, £30m), Taylor Harwood-Bellis (Southampton, £25m), Matteo Ruggeri (Atlético Madrid, £21.4m), Leon Goretzka (Bayern Munich, free), Aaron Wan-Bissaka (West Ham, loan), Alejandro Garnacho (Chelsea, loan)\n\nKey outs:Morgan Rogers (Chelsea, £117m), Ollie Watkins (Al-Hilal, £51m), Ezri Konsa (Arsenal, £51m), Youri Tielemans (Manchester United, £35m), Donyell Malen (Roma, £21.6m), Lewis Dobbin (Southampton, £9m), Lucas Digne (PSG, £8.5m), Emiliano Martínez (Chelsea, £7.5m), Evann Guessand (Crystal Palace, loan)\n\nThe Guardian'sdaily football game, On the ball, is now live in the app for both iOS and Android. Can you identify the Premier League star from the clues?\n\nPerhaps Bournemouth’s best business was keeping hold of their coveted key players, chiefly Eli Junior Kroupi, Rayan, Alex Scott and Tyler Adams.Bournemouthrejected bids from Chelsea for Scott and stayed true to their plan of resisting offers to give Marco Rose the best chance of succeeding, with the club attempting to juggle European competition and the league for the first time. The arrival of the Portugal centre-back António Silva, 22, from Benfica looks a typically smart replacement for Marcos Senesi, 29. Kroupi’s freak foot injury, which will probably keep him out until November, may have proved a blessing in disguise in terms of retaining the 20-year-old.BF\n\nKey ins:António Silva (Benfica, £21.4m), Álvaro Rodríguez (Elche, £21.3m), Juanlu Sánchez (Sevilla, £11.1m), Michele Di Gregorio (Juventus, loan)\n\nKey outs:Luis Sinisterra (Cruzeiro, £5.2m), Enes Unal (Getafe, free), Álex Jiménez (Fiorentina, loan), Marcos Senesi (Tottenham, free)\n\nAvoiding a repeat of last year’s upheaval was a major boost. Keith Andrews held on to his best players and made smart additions to a solid squad. Mamadou Sangaré has added quality in midfield since joining from Lens and looks the bargain of the summer. Callum Wilson has brought experience up front after signing on a free and Jaidon Anthony provides cover on the flanks after his £15m move from Burnley. El Hadji-Malick Diouf, signed from West Ham, offers potential at left-back.Jacob Steinberg",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4704_1",
+            "category": "england",
+            "type": "News",
+            "title": "West Ham fight off Wolves as Divine Mukasa double eases pressure on Nuno",
+            "bullets": [
+              "It was a match between two disjointed sides, two teams trying to carve out new identities following ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into the Championship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least.First-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured his brace alongside a goal for Konstantinos Mavropanos. The defender doubled up himself too, albeit by scoring at his own end, as Wolves tried to claw their way back into contention. The visitors also added a decent goal from the midfielder Marshall Munetsi to their tally. For all their obvious technical ability, however, César Peixoto’s side lacked the hosts’ sang-froid at the crucial moments and that proved the decisive factor. Continue reading...",
+            "fullText": "It was a match between two disjointed sides, two teams trying to carve out new identities following the drop into theChampionship. In the end West Ham won thanks to a bit of luck, a degree of resolve and, crucially, a sharpness in front of goal that took them away from Wolves and reduced the pressure on Nuno Espírito Santo, for a few days at least.\n\nFirst-half goals from Divine Mukasa and Jarrod Bowen, the latter from the penalty spot, were complemented by two more in the second; Mukasa secured his brace alongside a goal for Konstantinos Mavropanos. The defender doubled up himself too, albeit by scoring at his own end, as Wolves tried to claw their way back into contention. The visitors also added a decent goal from the midfielder Marshall Munetsi to their tally. For all their obvious technical ability, however, César Peixoto’s side lacked the hosts’ sang-froid at the crucial moments and that proved the decisive factor.\n\nNuno’s mantra after the match was “I think we can do better”, but he was clearly grateful for the win. “We all know that it was much needed,” he said. “Looking back even on today, we have mistakes again but we’ve been much more effective in our attacking actions.”\n\nWith West Ham’s uncertainty extending beyond the field of play, there was much interest taken from the appearance of Amanda Staveley in the stands here. The former Newcastle shareholder remains in the running to acquire a stake in West Ham and could be seen punching the air at Mukasa’s first-half banger. The Manchester City loanee was not the only new recruit to impress, with Arne Engels excellent alongside him in midfield.\n\nWhat gave off the vibes of being an uninspiring opening half ended up being blessed by three goals. West Ham were on the back foot for much of the opening half-hour but established a two-goal lead by the 40th minute after a short spell of improved play. The opening goal was a memorable one, hit by Mukasa from 25 yards and cannoning into the net off the underside of the bar. It was a memorable way for the teenager to open his account, and it came after a piece of smart attacking play that got Kyle Walker-Peters behind Wolves’ defensive line. Seven minutes later, Bowen converted a penalty after swift feet from Joel Piroe confused André into an untimely tackle.\n\nBefore Nuno could get his troops into the dressing room and preach the importance of a clean sheet, Wolves hit back. With West Ham’s defence pushing up, a fortunate deflection off the previously bewildered André opened up the opportunity for Munetsi to run into space, check inside Mavropanos and finish coolly inside Mads Hermansen’s left-hand post.\n\nWith nascent enthusiasm tempered by the late concession, the atmosphere among the home support quietened as the second half began, perhaps in anticipation of further trials for West Ham. Instead they extended their lead in short order and it was Mukasa who struck again. This was a lovely move, starting with a cute through ball from Bowen that Pablo dummied to take four Wolves players out of the equation. Receiving on the edge of the box, Mukasa stood up Toti Gomes, shifted to his left and hit a shot that deflected off the Wolves skipper and beyond the despairing José Sá.\n\n“I’m delighted by the way he played,” Nuno said of Mukasa. “All the young lads, not just those who joined this summer, have brought us energy and talent. There’s a lot of things to improve but I’m delighted to have him.”\n\nKick off your evenings with the Guardian's take on the world of football\n\nWolves responded to the third goal by grabbing hold of possession once more, but the sprightly Fer López spurned two chances. Up the other end, however, and an Engels corner was deep and dangerous and, after Mavropanos saw a towering header crash off the bar, the Greek defender smashed the rebound home on the volley. Six minutes after celebrating, Mavropanos got the final touch to a cross from Jackson Tchatchoua to turn the ball into his own net.\n\nWolves created no further chances, but could take solace from the performance of the full-back Tchatchoua, who looked impactful at both ends, while Mateus Mané was dominant on the left. “We created a lot of chances to score, they scored more goals,” said Peixoto. “West Ham took their chances and that’s the difference.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-02 @ 01:59:47 EDT",
+  "lastUpdated": "2026-09-02 @ 10:47:06 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
