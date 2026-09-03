@@ -4,16 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Arsenal bank on continuity after big names elude them late in transfer window",
-      "link": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window"
+      "text": "⚽ 'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
-      "link": "https://www.theguardian.com/football/2026/sep/02/football-daily-newsletter-anatomy-of-a-deadline-day"
+      "text": "⚽ Football Daily | Mike Dean appears to blow the whistle on himself over in-match game claims",
+      "link": "https://www.theguardian.com/football/2026/sep/03/football-daily-email-mike-dean"
     },
     {
-      "text": "⚽ Wong takes three wickets as Ireland go six down vs England LIVE!",
-      "link": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby"
+      "text": "⚽ Osaka overcomes serving struggles to reach US Open third round",
+      "link": "https://www.skysports.com/tennis/news/12040/13580942/us-open-naomi-osaka-overcomes-serving-struggles-to-beat-katerina-siniakova-and-clinch-spot-in-third-round"
+    },
+    {
+      "text": "⚽ US Open LIVE! Britain's Dart heavily beaten while Osaka claims victory on Arthur Ashe",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13580550/us-open-live-scores-updates-news-commentary-and-results-from-new-york-with-naomi-osaka-taylor-fritz-alex-eala-and-coco-gauff-in-action"
     }
   ],
   "timeline": {
@@ -50943,11 +50947,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2213_0",
+            "category": "england",
+            "type": "News",
+            "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+            "bullets": [
+              "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impos...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+            "fullText": "Morgan Gibbs-White joined Nottingham Forest from Wolves in 2022\n\nMorgan Gibbs-White sent out a message last season. This term he is making sure it gets delivered.\n\nIn May he was snubbed by Thomas Tuchel for England's World Cup squad and responded by scoring againstBournemouthon the final day.\n\nHe celebrated by pointing to his chest and holding up both hands, in a nod to the number 10 shirt he wears -a clear statement to Tuchel.\n\nThis season he has continued his form, scoring a penalty in Forest's 2-2 draw atLiverpoolon Saturday after assisting Dan Ndoye's opener.\n\nThe captain is Forest's talisman, especially after Elliot Anderson's record sale toManchester Cityand, with England facing upcoming Nations League games against Spain, Croatia and the Czech Republic, the noise could get too loud for the England manager to ignore this time.\n\nWith new boss Oliver Glasner looking to him for inspiration, will this be a career-defining season for Gibbs-White?\n\nIraola awaits first win as Liverpool draw against Forest at Anfield\n\nOn Saturday Forest hostTottenham,a team Gibbs-White came close to joining last year.\n\nThe fallout led to Forest threatening to take legal action against Spurs as owner Evangelos Marinakis personally took charge of the situation, meeting Gibbs-White at the club's training camp in Portugal and convincing him to stay - reaching a general agreement over a new contract.\n\nHe signed anew three-year deal days laterand went on to score a career-best 18 goals in all competitions last season.\n\nHis goal atTottenham in March was crucial in Forest's 3-0 win,giving them the platform to survive and keeping Spurs sweating on their top-flight status until the final day.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2213_1",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Mike Dean appears to blow the whistle on himself over in-match game claims",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!While Football Daily likes to think we have our f...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!While Football Daily likes to think we have our finger on the cultural pulse, before this week we were oblivious to the fact that Jamie Vardy has his own podcast. Called Jamie Vardy’s Having a Party, it is a far more sedate affair than the name suggests, given the only episode we have seen features our t1tular hero and his sidekick the comedian Josh James listening to Mike Dean reminisce about his time as a referee. While Football Daily can’t think of any social gathering that wouldn’t be enhanced by the presence of a 61-year-old former match official from the Wirral on its guest list, this isn’t so much a party as an occasionally awkward conversation. Its claim to be “a hilarious look back at Mike’s career at the heart of English football” is as bold as it is false, but what the episode lacks in laughs it has more than made up for in controversy.Many thanks to Mike Wilner for the kind words re: my international retirement (yesterday’s Football Daily letters). Per his advice, I tried Googling the Galapagos and although I couldn’t understand much on their FA website, it seemed to have a fair few mentions of the English term ‘survival of the fittest’, so obviously that’s not an option for me. And besides, the centre-half they showed training on the beach on their homepage looked slower (and even older) than Harry Maguire. As for Mauritius, I did get a little excited about my prospects on learning that their nickname was the Dodos, but then I saw that all-red strip and knew I could never don such a painful reminder of Bayern Munich, 1975, and well … Liverpool, 1892 onwards. So it’s down to Laos now, and though that sticky rice looks tasty, they also play in red. I need a new Mr 15%” – Justin Kavanagh.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nWhile Football Daily likes to think we have our finger on the cultural pulse, before this week we were oblivious to the fact that Jamie Vardy has his own podcast. Called Jamie Vardy’s Having a Party, it is a far more sedate affair than the name suggests, given the only episode we have seen features our t1tular hero and his sidekick the comedian Josh James listening to Mike Dean reminisce about his time as a referee. While Football Daily can’t think of any social gathering that wouldn’t be enhanced by the presence of a 61-year-old former match official from the Wirral on its guest list, this isn’t so much a party as an occasionally awkward conversation. Its claim to be “a hilarious look back at Mike’s career at the heart of English football” is as bold as it is false, but what the episode lacks in laughs it has more than made up for in controversy.\n\nDuring the course of the chat, Deanrevealed to his hoststhat in the pre-VAR era he and his assistants used to keep themselves amused by playing little games within games of top-flight football. “We used to say: ‘Right, we’ll kick off now, right? See how long we can go without blowing a whistle’. Done that a few times in the Premier, before VAR obviously. Went 20-25 minutes without blowing a whistle a few times. Let it go, let it go, let it go.” Dean went on to tell his inquisitors that he also used to see how long he could go without leaving the centre-circle while games were being played around him, claiming that he once set up camp in one for almost 15 minutes. “That was just me joking about,” he honked, promptly eliciting not entirely convincing laughs from a clearly surprised Josh and Jamie.\n\nIt is a stonewall certainty that assorted media outlets have tasked some unfortunate interns with sifting through Dean’s extensive back catalogue to check if his boasts of a disgraceful lack of professionalism stand up to scrutiny, but it will be a surprise if any evidence is found to support them. While his claims have obviously made headlines and sparked entirely predictable levels of outrage on Social Media Disgraces, they smack of a desperation for validation from an insecure man eager to impress the bigger boys by channeling his inner Jay from The Inbetweeners. “It’s palpable nonsense,” sighed the former whistle-blower Graham Scott, when quizzed about the matter on TalkSport. “It’s very sad, really. I found Mike quite shy, personally. And what happened on the field and in referee meetings and what happens now on podcasts no doubt, is that he put on a persona that waswaytoo far the other way as a kind of coping mechanism. I’ve done these podcasts. You feel under a little bit of pressure to entertain and as refs we’re just not very entertaining or funny. We’re quite dull people with no sense of humour at all. I don’t know if that’s what happened here but I’ll have a pretty solid bet with anyone that [it is].”\n\nNot renowned for their combative or adversarial interview technique, the hosts of Jamie Vardy’s Having a Party displayed little or no inclination to probe any further on his outlandish boasts, but it seems inconceivable he will get such an easy ride when next he performs his role as resident refereeing expert in the Soccer Saturday studio. Unless proof of his negligence surfaces in the interim, he will surely be forced to cite examples or else admit to telling ludicrous fibs that will not help those working in his already beleaguered former profession.\n\n5 July:“It was an honour and privilege to serve the country and the Black Stars. To my players and staff, my deepest gratitude for your courage, commitment and unwavering dedication to the team. To the fans, we cannot claim complete sporting satisfaction, but we can proudly say that we honoured the colours … and restored respect and credibility on football’s greatest stage” – Carlos Queiroz bows out afterGhana’s Geopolitics World Cup exit.\n\n3 September:“The GFA believes Queiroz’s extensive international experience, technical expertise and knowledge of ‌the Black Stars position him strongly to lead the team into this ​next chapter” – meet the new boss, same as the old boss.\n\nIn today’s edition, Suzanne Wracksets the scene for the new WSL season, which kicks off on Friday night. You can subscribe and get it sent to your inbox every Tuesday and Thursday by followingthese simple instructions.\n\ndouble quotation markMany thanks to Mike Wilner for the kind words re: my international retirement (yesterday’s Football Daily letters). Per his advice, I tried Googling the Galapagos and although I couldn’t understand much on their FA website, it seemed to have a fair few mentions of the English term ‘survival of the fittest’, so obviously that’s not an option for me. And besides, the centre-half they showed training on the beach on their homepage looked slower (and even older) than Harry Maguire. As for Mauritius, I did get alittleexcited about my prospects on learning that their nickname was the Dodos, but then I saw that all-red strip and knew I could never don such a painful reminder of Bayern Munich, 1975, and well … Liverpool, 1892 onwards. So it’s down to Laos now, and though that sticky rice looks tasty, they also play in red. I need a new Mr 15%” – Justin Kavanagh.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Rollover. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2213_2",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka overcomes serving struggles to reach US Open third round",
+            "bullets": [
+              "Naomi Osaka overcame a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third r...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka overcame a mid-match wobble to beat Katerina Siniakova 6-2 5-7 6-1 and reach the third round of the US Open.",
+            "fullText": "Naomi Osaka opts for more understated, all-white entrance outfit ahead of her 6-2 5-7 6-1 win over Katerina Siniakova; Iga Swiatek also through to third round;watch the US Open live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2214_3",
+            "category": "england",
+            "type": "News",
+            "title": "US Open LIVE! Britain's Dart heavily beaten while Osaka claims victory on Arthur Ashe",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "Get the latest scores, updates, news, results at the US Open; watch the action from New York - live on Sky Sports' dedicated tennis channel",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-03 @ 10:45:53 EDT",
+  "lastUpdated": "2026-09-03 @ 14:22:14 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
