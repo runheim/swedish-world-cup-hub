@@ -4,8 +4,16 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Arsenal bank on continuity after big names elude them late in transfer window",
+      "link": "https://www.theguardian.com/football/2026/sep/03/arsenal-late-and-big-name-targets-elude-them-transfer-window"
+    },
+    {
       "text": "⚽ Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
       "link": "https://www.theguardian.com/football/2026/sep/02/football-daily-newsletter-anatomy-of-a-deadline-day"
+    },
+    {
+      "text": "⚽ Wong takes three wickets as Ireland go six down vs England LIVE!",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13580787/england-vs-ireland-second-womens-odi-cricket-score-updates-video-and-analysis-as-charlie-deans-side-look-to-clinch-series-in-derby"
     }
   ],
   "timeline": {
@@ -50878,11 +50886,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4551_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal bank on continuity after big names elude them late in transfer window",
+            "bullets": [
+              "Could the vain pursuit of ‘dream’ signings such as Vinícius Júnior at the expense of all-round stren...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Could the vain pursuit of ‘dream’ signings such as Vinícius Júnior at the expense of all-round strengthening come to haunt the champions?When Mikel Arteta revealed before Arsenal’s win at Aston Villa that he had pleaded with the Premier League to introduce bigger matchday squads, the final 24 hours of the transfer window was not quite what he would have had in mind. A deadline day on which Manchester City matched the British record to sign Enzo Fernández from Chelsea for £125m came and went as Arsenal allowed Gabriel Jesus and Ethan Nwaneri to leave without bringing in replacements.With Gabriel Martinelli expected to join Al-Hilal before Sunday’s deadline in Saudi Arabia for a fee that could rise to £60m, there are question marks about the depth of the champions’ squad, despite Arteta still having at least two options for each position. Eberechi Eze will provide competition on the left for the new boy Christos Tzolis, and the manager has a plethora of central midfielders at his disposal after the arrival of Bruno Guimarães from Newcastle, but there is not much room for manoeuvre should Arsenal experience injuries in attack like they have for the past two seasons. Continue reading...",
+            "fullText": "Could the vain pursuit of ‘dream’ signings such as Vinícius Júnior at the expense of all-round strengthening come to haunt the champions?\n\nWhen Mikel Arteta revealed before Arsenal’s win at Aston Villa that he hadpleaded with the Premier Leagueto introduce bigger matchday squads, the final 24 hours of the transfer window was not quite what he would have had in mind. A deadline day on which Manchester City matched the British record tosign Enzo Fernándezfrom Chelsea for £125m came and went as Arsenal allowed Gabriel Jesus and Ethan Nwaneri to leave without bringing in replacements.\n\nWith Gabriel Martinelli expected to join Al-Hilal before Sunday’s deadline in Saudi Arabia for a fee that could rise to £60m, there are question marks about the depth of the champions’ squad, despite Arteta still having at least two options for each position. Eberechi Eze will provide competition on the left for the new boy Christos Tzolis, and the manager has a plethora of central midfielders at his disposal after the arrival of Bruno Guimarães from Newcastle, but there is not much room for manoeuvre shouldArsenalexperience injuries in attack like they have for the past two seasons.\n\nArteta had been clear after the Villa game when asked whether he hoped to bring in more players. “We know that the depth has to be really big when you are fighting for four competitions in the manner that we play as well, so we’re going to try to do that,” he said.\n\nYet none arrived as Arsenal passed up the opportunity to bring in Malick Fofana owing to what it is understood were Arteta’s doubts over whether the Belgium forward would improve the squad, withSunderland eventually beating Crystal Palace to his signaturein dramatic scenes. The fallout has prompted some Arsenal supporters to question the wisdom of spending most of the summer, after missing out on Morgan Rogers to Chelsea, chasing “dream” transfer targets such as Vinícius Júnior and Julián Alvarez, with the sporting director, Andrea Berta, most in the firing line.\n\nThe Italian’s arrival from Atlético Madrid in March 2025 was heralded as a coup by many. Berta’s decisiveness last summer enabled Arsenal to rack up a net spend of more than £250m – comfortably outstripping their rivals – on players such as Eze, Viktor Gyökeres and Martín Zubimendi.\n\nThis summer the Premier League champions were quick off the mark to replace Leandro Trossard with Tzolis, then added Guimarães, before buying Ezri Konsa to cover the long-term absence of William Saliba, but the lack of attacking reinforcements on deadline day was eye-catching.\n\nOffloading Jesus, one of the club’s highest earners, saved wages, and Martinelli’s departure as the club’s record sale would reduce Arsenal’s net spend to £78m – less than Brentford’s – compared with £162m at City, who spent more than £300m recalibrating their midfield. Iliman Ndiaye, whojoined City from Evertonfor £65m, was another player on Arsenal’s shortlist who they opted against.\n\nThere can be no questioning Kroenke Sports Entertainment’s commitment to the cause, Arsenal having the second-highest net spend over past five seasons at more than £680m. Yet it will not have escaped the attention of some fans that it was confirmed on deadline day that KSE will expand its sporting empire with the purchase of the Major League Baseball side the Los Angeles Angels, for a reported $4bn (£3bn). With an estimated value of $26bn, it is not as if it cannot afford that.\n\nEven before Arsenal wrapped up their first title for 22 years in May, the co-chair Josh Kroenke promised that “there will be no standing still when the season ends”, and bringing in Premier League-ready players such as Konsa and Guimarães was a statement of intent. However, the inability to attract real star quality in attack is an issue considering the heavy burden on Bukayo Saka after a couple of injury-hit campaigns. Kenan Yildiz could have fitted the bill but Juventus were not interested in selling the Turkey forward, and Alvarez made plain he wanted only Barcelona.\n\nThe Guardian'sdaily football game, On the ball, is now live in the app for both iOS and Android. Can you identify the Premier League star from the clues?\n\nArsenal struggled to break teams down during the second half of last season and became heavily reliant on their set-piece prowess, although a rejuvenated Martin Ødegaard has started the campaign promisingly.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4552_1",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | War chests, deal sheets and online meltdowns: anatomy of a deadline day",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Release clauses. War chests. Amortisation. Transf...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Release clauses. War chests. Amortisation. Transfer requests. Surplus to requirements. Online meltdowns. Agents. Gazumping. Buy-back clauses. Options. Add-ons. Personal terms. Soft approaches. Grifters. Clickbait. Lowball bids. In The Knows. Serious bids. Super agents. Hijacked bids. Agreements in principle. Medicals. Undisclosed fees. Part exchanges. Deal sheets. Here we gos! Done deals. Some busker strumming a guitar in the Sky Sports News studio while reminiscing about Deadline Days passim through the medium of song. No really, some busker strumming a guitar in the Sky Sports News studio while etc, and so on. After a near relentless onslaught of media buzzwords, hype and assorted reputable (and thoroughly disreputable) transfer insiders announcing they “understand” things, the summer transfer window is finally shut. But what’s that Football Daily can see pressed up against the glass? The out-of-joint nose of an apoplectic David Moyes.If you’d told me back in the golden era of Serie A in the 1990s that it would eventually become a dumping ground for underperforming (or past their best in the case of John Stones) Premier League players, judging by Tuesday’s front page of La Gazzetta dello Sport, then I wouldn’t have believed you. And if you’d told me in January that Donyell Malen, who scored seven goals in 35 Premier League games for Aston Villa before going on loan to Roma, would already be on 19 goals in 20 Serie A games, I definitely wouldn’t have believed you” – Noble Francis.Looks like Argentina have lined up James Maddison to replace Lionel Messi. That is if a street artist in Mumbai (yesterday’s Quote of the Day) can be believed” – Vaughan Wilkinson. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nRelease clauses. War chests. Amortisation. Transfer requests. Surplus to requirements. Online meltdowns. Agents. Gazumping. Buy-back clauses. Options. Add-ons. Personal terms. Soft approaches. Grifters. Clickbait. Lowball bids. In The Knows. Serious bids. Super agents. Hijacked bids. Agreements in principle. Medicals. Undisclosed fees. Part exchanges. Deal sheets. Here we gos! Done deals. Some busker strumming a guitar in the Sky Sports News studio while reminiscing about Deadline Dayspassimthrough the medium of song. No really, some busker strumming a guitar in the Sky Sports News studio while etc, and so on. After a near relentless onslaught of media buzzwords, hype and assorted reputable (and thoroughly disreputable) transfer insiders announcing they “understand” things, the summer transfer windowis finally shut. But what’s that Football Daily can see pressed up against the glass? The out-of-joint nose of an apoplectic David Moyes.\n\nWhile the likes of Liverpool, Aston Villa, Coventry, Crystal Palace, Fulham and Manchester United were all flagged up as clubs who endured the worst summer transfer window by assorted experts in one of many deadline day post-mortems perused by Football Daily, we’re going to respectfully suggest their opinions were solicited and prepared for publicationbeforenews broke on Tuesday night that Folarin Balogun had decided Everton would not be such A Grand Old Team To Play For and absconded from Finch Farm leaving a trail of dust. The USA USA USA striker’s late change of heart when a deal for his transfer from Monaco to Merseyside had been all but signed, sealed and delivered is reported to have left Everton insiders “shocked”, “disappointed” and with just one out-and-out striker in the form of the endearingly hapless Thierno Barry to see them through until the new year. Indeed, such was the club recruitment department’s determination to get the Balogun deal over the line, nobody appears to have noticed they only have 18 outfield players, not one of whom looks particularly at home at full-back. While the obvious gag involves a late intervention from the White House, whether or not a certain free agent named Séamus Coleman can be tempted out of his recent retirement remains to be seen.\n\nWhile Manchester City’s deadline day acquisitions of Iliman Ndiaye and Enzo Fernández sent Premier League spending during the summer window up towards a record £3.5bn mark, no last-gasp deal illustrated the sheer obscenity of this unseemly meat-market more than the tug-of-war between Sunderland and Crystal Palace to secure the services of Malick Fofana from Lyon. A young Belgium winger most fans of both clubs probably couldn’t have picked out of a police lineup before Tuesday, Fofana was ferried to a French airport where different private jets from both clubs had been dispatched to fly him to London or Wearside, depending on his mood. Cue: the arrival of a third plane containing Sunderland’s billionaire owner, who eventually persuaded him to board the one festooned with red and white stripes. “The club plays an integral role in economic and environmental change, helping to protect our great city from the effects of climate change,” brags a message that can currently be found on the Sunderland website, albeit in a position of far less prominence than the announcement of their newest recruit. And so until January, when the all the planes refuel and the madness inevitably restarts.\n\nNow onBlueSpace,TikBook,Instachat, all the lesser disgraces.\n\n“It’s going to be difficult for me to stay with the national team. Because of the suspension as well, because of Leo’s decision … It’s ‌going to be difficult for everything to carry on as before” – Leandro Paredes says he may retire from international duty with Argentina after Lionel Messi’s decision to do likewise and his 10-match ban for going berserk after the Geopolitics World Cup final.\n\ndouble quotation markIf you’d told me back in the golden era of Serie A in the 1990s that it would eventually become a dumping ground for underperforming (or past their best in the case of John Stones) Premier League players, judging by Tuesday’s front page ofLa Gazzetta dello Sport, then I wouldn’t have believed you. And if you’d told me in January that Donyell Malen, who scored seven goals in 35 Premier League games for Aston Villa before going on loan to Roma, would already be on 19 goals in 20 Serie A games, I definitely wouldn’t have believed you” – Noble Francis.\n\ndouble quotation markLooks like Argentina have lined up James Maddison to replace Lionel Messi. That is if a street artist in Mumbai (yesterday’s Quote of the Day) can be believed” – Vaughan Wilkinson.\n\ndouble quotation markSo Folarin Balogun’s transfer to Everton collapsed at the last moment. Surely a call to Donald Trump would have solved the issue” – Nigel Sanders (and a few others).\n\ndouble quotation markI’m a bit disappointed in reader Justin Kavanagh announcing his international football retirement too (yesterday’s Football Daily letters). Why give up so abruptly? With the expansion of the Nations League World Cup Conmebol-CAF thingees, it’s easier than ever to get called up. Surely Mr Kavanagh has a relative from Mauritius, one who lives in the Galapagos, or at least a strong liking of Laotian food. Yeah, there are ways to make this work” – Mike Wilner.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s prizeless letter o’ the day goes to … Vaughan Wilkinson. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4553_2",
+            "category": "england",
+            "type": "News",
+            "title": "Wong takes three wickets as Ireland go six down vs England LIVE!",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "England have rested big names for three-match ODI series against Ireland, including captain Nat Sciver-Brunt, spinner Sophie Ecclestone and seamer Lauren Bell; Alice Capsey keeping wicket; third ODI in Worcester on Sunday (10.30am)",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-03 @ 01:58:48 EDT",
+  "lastUpdated": "2026-09-03 @ 10:45:53 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
