@@ -22211,6 +22211,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Poch's tactical session today was intense. Mind blown.",
       "time": "15:16",
       "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "09:21",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "09:22",
+      "isCaptain": true
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "09:23",
+      "isCaptain": false
+    },
+    {
+      "sender": "Yunus Musah",
+      "avatar": "🇺🇸",
+      "text": "What time is the team meeting again?",
+      "time": "09:24",
+      "isCaptain": false
+    },
+    {
+      "sender": "Ricardo Pepi",
+      "avatar": "🇺🇸",
+      "text": "Can't wait to hear the fans tomorrow. The Outlaws always bring it.",
+      "time": "09:25",
+      "isCaptain": false
     }
   ]
 };
