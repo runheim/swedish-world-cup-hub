@@ -4,11 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The Sirius supporter on the recent point loss: \"Very mixed feelings\"",
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://www.svt.se/sport/fotboll/sirius-supportern-om-senaste-tidens-poangtapp-mycket-blandade-kanslor"
     },
     {
-      "text": "⚽ Michael Owen praises Elanga for his superb form: \"Taken the chance\"",
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://www.svt.se/sport/fotboll/elanga-hyllas-for-superformen-tagit-chansen"
     },
     {
@@ -19622,10 +19622,69 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-03": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0223_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0225_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0227_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
+            "bullets": [
+              "Colombian opens scoring in 3-0 win against AberdeenFalkirk 1-2 Rangers; Kilmarnock 0-1 St MirrenThe ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Colombian opens scoring in 3-0 win against AberdeenFalkirk 1-2 Rangers; Kilmarnock 0-1 St MirrenThe Celtic striker Camilo Durán inspired the Scottish champions’ 3-0 win over Aberdeen, while Rangers snatched a 2-1 victory against Falkirk on Wednesday.Durán has scored six goals in five matches for Martin O’Neill’s side after his latest eye-catching contribution at Parkhead. The Colombian netted in the 14th minute with the latest in his series of spectacular strikes since joining from Qarabag in the close-season. Durán collected Benjamin Nygren’s pass and unleashed a long-range drive that cannoned in off the crossbar. Continue reading...",
+            "fullText": "Colombian opens scoring in 3-0 win against Aberdeen\n\nTheCelticstriker Camilo Durán inspired the Scottish champions’ 3-0 win overAberdeen, whileRangerssnatched a 2-1 victory againstFalkirkon Wednesday.\n\nDurán has scored six goals in five matches for Martin O’Neill’s side after his latest eye-catching contribution at Parkhead. The Colombian netted in the 14th minute with the latest in his series of spectacular strikes since joining from Qarabag in the close-season. Durán collected Benjamin Nygren’s pass and unleashed a long-range drive that cannoned in off the crossbar.\n\nO’Neill may find it difficult to put the winger back on the flanks when the striker Kasper Høgh recovers from a thigh injury. Nygren and Yang Hyun-jun were also on target asCeltickilled off the game before the break.\n\nAlthough they suffered a humiliating Champions League exit against Lask, Celtic have made a perfect start to their title defence with four successive wins. It was an emotional night in Glasgow as Kenny Dalglish was given a warm ovation on the pitch before the match. Dalglish launched his iconic career with Celtic before joining Liverpool in 1977. The 75-year-old revealed earlier this year that he was receiving treatment for cancer.\n\nCeltic are two points clear of second-placeSt Mirren, whose 1-0 win atKilmarnock– their first at Rugby Park for 13 years – was secured by Fraser Taylor’s maiden goal for the club in the third minute.\n\nLawrence Shankland’s double gave Rangers a dramatic win over Falkirk to ease the pressure on theirmanager, Derek McInnes. With McInnes serving the first of a two-matchtouchline ban(reduced from four matches) for comments made as Hearts manager last season, he watched from the stands as Shankland saved him from another chastening result.\n\nShankland, who scored from the spot in the 1-0 win at Aberdeen on Sunday, fired Rangers ahead with a fine strike in the seventh minute. Kosta Nedeljkovic, making his first Rangers start since signing on loan from Aston Villa, turned an Ethan Ross cross into his own net to giveFalkirkan unexpected equaliser just before the break. But Scotland star Shankland, who signed from Hearts in the close-season, reduced Rangers’ anxiety when he curled in the winner after 79 minutes.\n\nKick off your evenings with the Guardian's take on the world of football\n\nMotherwellare third after Seb Palmer-Houlden, Alex Lowry and Dylan Levitt scored their first goals for the club in a 3-0 win againstDundee United.\n\nSt Johnstonesalvaged a 1-1 draw in the Tayside derby againstDundee. Dundee seemed to have sealed the points when Charlie Reilly scored in the 87th minute, but St Johnstone’s Josh Fowler levelled in the 90th minute.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-02 @ 19:44:28 EDT",
+  "lastUpdated": "2026-09-03 @ 02:02:27 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
