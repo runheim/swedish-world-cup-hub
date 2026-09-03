@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ The Sirius supporter about the recent point loss: \"Very mixed feelings\"",
       "link": "https://www.svt.se/sport/fotboll/sirius-supportern-om-senaste-tidens-poangtapp-mycket-blandade-kanslor"
     },
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
-      "link": "https://www.svt.se/sport/fotboll/elanga-hyllas-for-superformen-tagit-chansen"
+      "text": "⚽ Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
+      "link": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options"
     },
     {
       "text": "⚽ Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
@@ -19680,11 +19680,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_5510_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "The Sirius supporter about the recent point loss: \"Very mixed feelings\"",
+            "bullets": [
+              "Sirius still leads the Allsvenskan, but has three straight losses and the distance down is shrinking...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sirius still leads the Allsvenskan, but has three straight losses and the distance down is shrinking. The supporter Tryggve Pederby says that the loss is starting to be felt in the stands. But the dream of the European Games in 2027 lives on. - \"European Games 2027\" is a rhyme that we have been singing for several years as an ironic thing, says Pederby.",
+            "fullText": "Sirius still leads the Allsvenskan, but has three straight losses and the distance down is shrinking.\n\nThe supporter Tryggve Pederby says that the loss is starting to be felt in the stands. But the dream of the European Games in 2027 lives on.\n\n- \"European Games 2027\" is a rhyme that we have been singing for several years as an ironic thing, says Pederby.\n\nTryggve Pederby says that around 2009 the club started singing a hymn about the European Games in 2027, something he hopes can become real. Hear more in the video above.\n\nIn the match against Malmö FF, Tryggve Pederby thought he began to see signs that Sirius had found his way back to his game.\n\n- We didn't manage to get the ball in, but were close and the game looked much better. We need to continue to build on that and hope, so we'll see, says Tryggve Pederby, former board member of the club's supporters' association Västra Sidan and former chairman of the Swedish Football Supporters' Union (SFSU).\n\nDespite the disappointment of the latest results, he thinks the supporters have kept perspective.\n\n- Regardless, we must not forget that if we finish second, third or fourth, it will be the best season we have had.\n\nAccording to the Sirius supporter, the series leader's success during the spring has been clearly felt in the stands.\n\n- We sing more than ever after losses to show that we stand behind the team. It's strange to feel like you're losing a gold while at the same time thinking: Did we really have a gold to lose?\n\nHe points out that Studenter's is often sold out and that interest around the club has grown.\n\n- There are audiences everywhere and an atmosphere in town that is different. People who used to go to maybe three games a year now want to go to all of them. There will also be more young people who see that Sirius is cool, and that is important for the long-term growth of the supporter culture.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5511_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Andoni Iraola defends transfer strategy and reveals Liverpool turned down options",
+            "bullets": [
+              "Potential buys rejected for sporting or economic reasonsPreference was ‘best players’ not specific r...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Potential buys rejected for sporting or economic reasonsPreference was ‘best players’ not specific right-wingerAndoni Iraola has defended Liverpool’s summer transfer strategy and said the club’s priority was to sign quality over quantity.Liverpool had the highest net spend in the Premier League, with Bradley Barcola, signed for a potential £123m, added to a front line that includes the £125m Alexander Isak and £116m Florian Wirtz. Barcola could make his debut at Ipswich on Friday, despite not featuring for Paris Saint-Germain before his move on Monday. Continue reading...",
+            "fullText": "Potential buys rejected for sporting or economic reasons\n\nPreference was ‘best players’ not specific right-winger\n\nAndoni Iraola has defended Liverpool’s summer transfer strategy and said the club’s priority was to sign quality over quantity.\n\nLiverpool had the highest net spend in the Premier League, with Bradley Barcola,signed for a potential £123m, added to a front line that includes the £125m Alexander Isak and £116m Florian Wirtz. Barcola could make his debut at Ipswich on Friday, despite not featuring for Paris Saint-Germain before his move on Monday.\n\nThe Guardian'sdaily football game, On the ball, is now live in the app for both iOS and Android. Can you identify the Premier League star from the clues?\n\nLiverpool’s outlay did not include a right back, defensive midfielder or right-winger but Iraola, who believes Barcola could be deployed in Mohamed Salah’s old position, insists the club’s approach was correct.\n\n“I’m very happy with all the signings we’ve made,” said the Liverpool head coach. “I know the next question: ‘Do you want more signings in other positions?’ At the end the club has decided those signings we have done are the ones that improved our team and our position.\n\n“There were other options we decided not to take, for different reasons: sometimes it is sporting reasons because they don’t improve what you have, sometimes it is economical reasons as it didn’t make sense in terms of the market to do those movements. But I’m happy now I know what we have, I have a lot of quality in the team and now it is the moment for us, for the players, for me to develop what we have.”\n\nDespite the absence of a natural right-winger – Liverpoolexplored deals for Yankuba Mintehat Brighton andIsmaïla Sarr at Crystal Palace– Iraola is confident Barcola, Victor Muñoz, Cody Gakpo and Rio Ngumoha can provide sufficient cover.\n\nHe said: “I think we’ve preferred at the end to have the best players, probably, than a player that maybe is specifically for that [right-sided] position. I’m very used from my previous teams to demand for all the wingers to play both sides.\n\nKick off your evenings with the Guardian's take on the world of football\n\n“Probably all of them have played more on the left, but I would say I’ve seen them in a good place on the right. Probably Rio is more specific from the left side, but I think he has also showed the willingness to improve and play on the right. Even Bradley, he’s very open and I think he can play right and left. He started actually more on the right side when he started with Olympique Lyonnais. I’m happy with the four wingers we have and I’m sure we are going to be able to cover those two positions.”",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5513_2",
+            "category": "sweden",
+            "type": "News",
+            "title": "Scottish Premiership: Durán inspires Celtic to convincing victory after Dalglish ovation",
+            "bullets": [
+              "Colombian opens scoring in 3-0 win against AberdeenFalkirk 1-2 Rangers; Kilmarnock 0-1 St MirrenThe ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Colombian opens scoring in 3-0 win against AberdeenFalkirk 1-2 Rangers; Kilmarnock 0-1 St MirrenThe Celtic striker Camilo Durán inspired the Scottish champions’ 3-0 win over Aberdeen, while Rangers snatched a 2-1 victory against Falkirk on Wednesday.Durán has scored six goals in five matches for Martin O’Neill’s side after his latest eye-catching contribution at Parkhead. The Colombian netted in the 14th minute with the latest in his series of spectacular strikes since joining from Qarabag in the close-season. Durán collected Benjamin Nygren’s pass and unleashed a long-range drive that cannoned in off the crossbar. Continue reading...",
+            "fullText": "Colombian opens scoring in 3-0 win against Aberdeen\n\nTheCelticstriker Camilo Durán inspired the Scottish champions’ 3-0 win overAberdeen, whileRangerssnatched a 2-1 victory againstFalkirkon Wednesday.\n\nDurán has scored six goals in five matches for Martin O’Neill’s side after his latest eye-catching contribution at Parkhead. The Colombian netted in the 14th minute with the latest in his series of spectacular strikes since joining from Qarabag in the close-season. Durán collected Benjamin Nygren’s pass and unleashed a long-range drive that cannoned in off the crossbar.\n\nO’Neill may find it difficult to put the winger back on the flanks when the striker Kasper Høgh recovers from a thigh injury. Nygren and Yang Hyun-jun were also on target asCeltickilled off the game before the break.\n\nAlthough they suffered a humiliating Champions League exit against Lask, Celtic have made a perfect start to their title defence with four successive wins. It was an emotional night in Glasgow as Kenny Dalglish was given a warm ovation on the pitch before the match. Dalglish launched his iconic career with Celtic before joining Liverpool in 1977. The 75-year-old revealed earlier this year that he was receiving treatment for cancer.\n\nCeltic are two points clear of second-placeSt Mirren, whose 1-0 win atKilmarnock– their first at Rugby Park for 13 years – was secured by Fraser Taylor’s maiden goal for the club in the third minute.\n\nLawrence Shankland’s double gave Rangers a dramatic win over Falkirk to ease the pressure on theirmanager, Derek McInnes. With McInnes serving the first of a two-matchtouchline ban(reduced from four matches) for comments made as Hearts manager last season, he watched from the stands as Shankland saved him from another chastening result.\n\nShankland, who scored from the spot in the 1-0 win at Aberdeen on Sunday, fired Rangers ahead with a fine strike in the seventh minute. Kosta Nedeljkovic, making his first Rangers start since signing on loan from Aston Villa, turned an Ethan Ross cross into his own net to giveFalkirkan unexpected equaliser just before the break. But Scotland star Shankland, who signed from Hearts in the close-season, reduced Rangers’ anxiety when he curled in the winner after 79 minutes.\n\nKick off your evenings with the Guardian's take on the world of football\n\nMotherwellare third after Seb Palmer-Houlden, Alex Lowry and Dylan Levitt scored their first goals for the club in a 3-0 win againstDundee United.\n\nSt Johnstonesalvaged a 1-1 draw in the Tayside derby againstDundee. Dundee seemed to have sealed the points when Charlie Reilly scored in the 87th minute, but St Johnstone’s Josh Fowler levelled in the 90th minute.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-03 @ 02:02:27 EDT",
+  "lastUpdated": "2026-09-03 @ 10:55:13 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
