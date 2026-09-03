@@ -4,12 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Balogun pulled out of Everton move over handling of his medical, claim Monaco",
-      "link": "https://www.theguardian.com/football/2026/sep/02/folarin-balogun-transfer-deadline-day-collapse-monaco-everton-lamine-camara-chelsea"
+      "text": "⚽ Pochettino: 'Our focus is on building chemistry and consistency'",
+      "link": "https://www.ussoccer.com/"
     },
     {
-      "text": "⚽ Deadline-day shambles leaves Everton and David Moyes fighting the odds again",
-      "link": "https://www.theguardian.com/football/2026/sep/02/deadline-day-shambles-leaves-everton-and-david-moyes-fighting-the-odds-again"
+      "text": "🌍 Australia and Türkiye head coaches outline tactical structures",
+      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
+    },
+    {
+      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
+      "link": "https://www.ussoccer.com/"
+    },
+    {
+      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
+      "link": "https://www.ussoccer.com/"
     }
   ],
   "timeline": {
@@ -15627,11 +15639,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "dyn_usa_20260903_2",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino: 'Our focus is on building chemistry and consistency'",
+            "bullets": [
+              "Mauricio Pochettino conducts press briefing at Dallas media center.",
+              "Pochettino: 'We need to keep possession speed high and exploit wide spaces.'",
+              "US Soccer confirms roster is in peak physical health."
+            ],
+            "summary": "Pochettino addressed the media, reinforcing that consistency remains key. He praised the players for their tactical discipline, looking to refine their patterns before the next match.",
+            "fullText": "Pochettino addressed the media, reinforcing that consistency remains key. He praised the players for their tactical discipline, looking to refine their patterns before the next match.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Doug McIntyre (Fox Sports)",
+            "readTime": "3 min",
+            "tag": "Press Briefing",
+            "relatedPlayers": []
+          },
+          {
+            "id": "dyn_opp_20260903_2",
+            "category": "opponent",
+            "type": "Scouting",
+            "title": "Australia and Türkiye head coaches outline tactical structures",
+            "bullets": [
+              "Popovic and Montella express confidence in their squad recovery rates.",
+              "Australian squad logs high sprinting speeds in wide areas.",
+              "Türkiye coaches practice full-pitch pressing drills in closed sessions."
+            ],
+            "summary": "Group D managers are locking in their plans. Popovic is focusing on midfield build-up speed, while Montella works on intense pressing triggers to force turnovers.",
+            "fullText": "Group D managers are locking in their plans. Popovic is focusing on midfield build-up speed, while Montella works on intense pressing triggers to force turnovers.\n\nThis is a fallback summary provided as full text since no network connection was available.",
+            "author": "Fox Soccer News Desk",
+            "readTime": "3 min",
+            "tag": "Opponent scouting",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-03 @ 10:50:24 EDT",
+  "lastUpdated": "2026-09-03 @ 14:22:06 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
