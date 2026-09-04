@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ The Skiing WC will be held every year – the announcement surprised the Swedish national team",
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://www.svt.se/sport/langdskidor/skid-vm-ska-arrangeras-varje-ar-beskedet-overraskade-svenska-landslaget"
     },
     {
@@ -19888,10 +19888,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-04": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1042_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- I received the decision at a meeting that ended fifteen minutes ago and haven't had time to prepare, so I don't know exactly if the issue comes as a proposal from a nation or if it is Fi's board that raised the issue themselves, says Jonsson, who returns to Fi's ski committee in October - left it after nine years in 2021.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1044_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Andoni Iraola defends Liverpool opting against throwing ‘crazy money’ at short-term fixes",
+            "bullets": [
+              "‘It’s better to look a little further than the next game’Head coach ‘happy with the four wingers we ...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "‘It’s better to look a little further than the next game’Head coach ‘happy with the four wingers we have’Andoni Iraola has defended Liverpool’s summer transfer strategy and said the club were right not to pay “crazy money” for short-term fixes while Hugo Ekitiké, Conor Bradley and Giovanni Leoni are recovering from serious injuries.Liverpool had the highest net spend in the Premier League, with Bradley Barcola, signed for a potential £123m, added on Monday to a front line that includes the £125m Alexander Isak and £116m Florian Wirtz. Barcola could make his debut at Ipswich on Friday, despite not featuring for Paris Saint-Germain this season. Continue reading...",
+            "fullText": "‘It’s better to look a little further than the next game’\n\nAndoni Iraola has defended Liverpool’s summer transfer strategy and said the club were right not to pay “crazy money” for short-term fixes while Hugo Ekitiké, Conor Bradley and Giovanni Leoni are recovering from serious injuries.\n\nLiverpool had the highest net spend in the Premier League, with Bradley Barcola, signed for a potential £123m, added on Monday to a front line that includes the £125m Alexander Isak and £116m Florian Wirtz. Barcola could make his debut at Ipswich on Friday, despite not featuring for Paris Saint-Germain this season.\n\nThe Guardian'sdaily football game, On the ball, is now live in the app for both iOS and Android. Can you identify the Premier League star from the clues?\n\nLiverpool’s outlay did not include a right-back, defensive midfielder or right-winger but Iraola, who believes Barcola could be deployed in Mohamed Salah’s old position on the right, insisted he had no qualms with the squad at his disposal.\n\n“I’m very happy with all the signings we’ve made,” said the Liverpool head coach. “I know the next question: ‘Do you want more signings in other positions?’ At the end the club has decided those signings we have done are the ones that improved our team and our position.\n\n“There were other options we decided not to take, for different reasons: sometimes it is sporting reasons because they don’t improve what you have, sometimes it is economical reasons as it didn’t make sense in terms of the market to do those movements. But I’m happy now I know what we have, I have a lot of quality in the team and now it is the moment for us, for the players, for me to develop what we have.”\n\nLeoni has been sidelined with an anterior cruciate ligament injury since last September but is expected to resume first-team training during the international break, which starts this month. There is no date on Bradley’s and Ekitiké’s return from serious knee and achilles injuries respectively, but Iraola said the club had to plan for the long term and wait for all three to recover.\n\nIraola said: “The club has decided not to sign someone because we need them for these two or three months and instead trust the players we have, us working with the players we have and thinking of the long term.\n\n“Yes, as a manager you need the players for today but if they [the club] explain to you the vision and the long-term project, you also have to understand the club. Sometimes it doesn’t make sense to pay crazy money – the market was the market – for players who maybe in the long term you don’t need. Then you will need this money to solve other problems in that position. Sometimes it’s better to look a little bit further than the next game and the next month.”\n\nDespite the absence of a natural right-winger – Liverpool explored deals for Yankuba Minteh at Brighton and Ismaïla Sarr at Crystal Palace – Iraola is confident Barcola, Victor Muñoz, Cody Gakpo and Rio Ngumoha will provide sufficient cover.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-03 @ 19:43:28 EDT",
+  "lastUpdated": "2026-09-04 @ 02:10:44 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
