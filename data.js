@@ -4,16 +4,24 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ 73 goals from dropping deep - we ask Kane to break down how he did it",
+      "link": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ How 'unique' Bellingham is thriving in Mourinho's system",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
+      "text": "⚽ Fourth-choice Ramsdale will 'support team' - Eckert",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9v9elp98gro?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ 'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
       "link": "https://www.bbc.co.uk/sport/football/articles/c07lk45y3ego?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Football Daily | Mike Dean appears to blow the whistle on himself over in-match game claims",
-      "link": "https://www.theguardian.com/football/2026/sep/03/football-daily-email-mike-dean"
-    },
-    {
-      "text": "⚽ Osaka urges US Open influencers to respect tennis 'etiquette'",
-      "link": "https://www.skysports.com/tennis/news/12040/13580942/us-open-naomi-osaka-urges-social-media-influencers-in-attendance-to-respect-tennis-etiquette-after-second-round-win"
+      "text": "⚽ Hearn: Talks 'reopened' for Fury vs AJ at Wembley",
+      "link": "https://www.skysports.com/boxing/news/12040/13581339/fury-vs-joshua-eddie-hearn-says-talks-have-reopened-to-stage-british-heavyweight-blockbuster-at-wembley-stadium"
     }
   ],
   "timeline": {
@@ -51190,11 +51198,102 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3603_0",
+            "category": "england",
+            "type": "News",
+            "title": "73 goals from dropping deep - we ask Kane to break down how he did it",
+            "bullets": [
+              "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Harry Kane was the highest goalscorer in Europe last season, yet he plays like a midfielder. We ask him to break down his game.",
+            "fullText": "Harry Kane is one of the leading names in the race for this year's Ballon d'Or, having scored 73 goals last season for club and country\n\nAs Harry Kane's career has progressed, the 33-year-old has taken an increasingly complete role, popping up to collect the ball as deep as his own box.\n\nMany wonder why a talisman tasked with scoring doesn't spend more time closer to goal, but last season the England and Bayern Munich striker scored 73 goals - the highest tally of his career - while playing deeper than he ever has done.\n\nWhen I mention this paradox, a grin spreads across his face.\n\n\"Until you really understand football and understand what we've been talking about, it's so easy to say 'stay high, you're going to score' but it doesn't work like that,\" Kane says.\n\nI sat down to speak to Kane about the finer details of his game, shedding light on his unique role.\n\nWatching Kane train, his professionalism is palpable. England's record goalscorer is one of the first out on the pitch. The younger players indulge in playful kick-ups as he watches, engaged in conversation with a member of staff.\n\nFrom a distance, that makes it easy to confuse him with a coach but, given his role on the pitch, it is a fitting mistake.\n\nKane's style of play reflects who he is as a person, with those who know him saying he is well-rounded and humble on and off the pitch.\n\nThe season is in its infancy but Kane isn't basking in the success of the past 12 months. With only five days of pre-season training under his belt, the England captain completed 90 minutes of Bayern's2-1 win over Borussia Dortmundto lift the German Super Cup.\n\nAs demanding as his roaming role is, he has taken the physical demands of it in his stride. Across the past six seasons, STATSports - a sports technology companyKane has invested in- found his distance covered, high-speed running and accelerations were up 8%, 22% and 42% respectively.\n\nAnd given how the tactical landscape has changed over that time, it is particularly impressive Kane has been able to not only keep up, but stay ahead.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3603_1",
+            "category": "england",
+            "type": "News",
+            "title": "How 'unique' Bellingham is thriving in Mourinho's system",
+            "bullets": [
+              "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Jude Bellingham looks fit and ready to build on his World Cup form as he aims to rediscover his best at Real Madrid under Jose Mourinho.",
+            "fullText": "Jose Mourinho has described Jude Bellingham as a 'leader'\n\nJude Bellingham has started the new season looking like a player with something to prove.\n\nThe 23-year-old's two goals and three assists have helped Real Madrid to an impressive start under new boss Jose Mourinho, with three wins from as many games.\n\nBellingham's performances, and the freedom he has been given in his new role, has attracted a lot of attention.\n\nBy playing higher up the pitch, he looks more free, more influential and closer to the role in which he first made such an impact at the Bernabeu in his debut 2023-24 season, where he scored 23 goals as his side won La Liga and the Champions League.\n\nBellingham's last two campaigns were less consistent, with his displays and attacking influence affected not only by a deeper role, but by recurring injuries. He had a long-standing shoulder problem that required surgery in 2025 and a hamstring issue that kept him out for 10 matches in 2026.\n\nNow, however, he appears to be at peak fitness, ready to build on his impressive World Cup form for England and showcase the full extent of his talent.\n\nBellingham's solo stunner for Real Madrid against Malaga\n\nSince returning this summer to take charge of the club for a second spell, Mourinho has made an important adjustment in reducing the defensive workload that previously meant Bellingham had to cover huge areas of the pitch.\n\n\"We've organised the team differently,\" he said after Real Madrid's 4-0 La Liga win over Malaga.\n\n\"Bellingham sometimes defended like a second left-back last season. I told him I do not want to see that anymore. I made a deal with him.\"\n\nThe Portuguese manager has used Bellingham primarily as a number 10 in a 4-2-3-1 system, operating behind French striker Kylian Mbappe and with the freedom to move across the attacking line.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3603_2",
+            "category": "england",
+            "type": "News",
+            "title": "Fourth-choice Ramsdale will 'support team' - Eckert",
+            "bullets": [
+              "Southampton boss Tonda Eckert says Aaron Ramsdale still has a role to \"support the team\" despite bec...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Southampton boss Tonda Eckert says Aaron Ramsdale still has a role to \"support the team\" despite becoming their fourth-choice keeper.",
+            "fullText": "Aaron Ramsdale failed to secure a move away from Southampton in the transfer window\n\nSouthampton head coach Tonda Eckert says Aaron Ramsdale still has a role at the club to \"support the team\" despite becoming their fourth-choice goalkeeper.\n\nThe 28-year-old moved from Arsenal to Saints in the summer of 2024 having been number two to Spaniard David Raya.\n\nIn the 2024-25 campaign he made 30 Premier League appearances as Saints were relegated, before last season's loan spell at Newcastle where he played 23 times under Eddie Howe.\n\nHe then returned to Saints over the summer, who still remain in the second tier having been removed from last season's play-off final followingthe Spygate scandal.\n\nRamsdale has been playing for Southampton's under-21 team this season, something Eckert revealed the goalkeeper asked to do.\n\nHaving failed to secure a move away during the transfer window it looks as if Ramsdale, who has played for England and in the Champions League, will remain at St Mary's until at least January.\n\n\"The reality is that Rambo's story at the football club has started before I came in,\"Eckert told BBC Radio Solent.\n\n\"We've had honest conversations from the very first day of pre-season to the last day of the transfer window and he's still a part of the group.\n\n\"The expectations for him are clear to support the team in the best way and he's been very professional in doing that so far.\n\n\"Let's see what happens. Aaron also became a father for the second time a couple of days ago, my expectation is that he is a Southampton player.\"\n\nSaints' first choice between the sticks is Daniel Peretz, whothe club signed permanently over the summerfollowing a successful loan last season.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3603_3",
+            "category": "england",
+            "type": "News",
+            "title": "'Adonis' Gibbs-White's chance to shine - will Tuchel take notice?",
+            "bullets": [
+              "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impos...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Morgan Gibbs-White was left out of England's World Cup squad - will his continued good form be impossible for Thomas Tuchel to ignore?",
+            "fullText": "Morgan Gibbs-White joined Nottingham Forest from Wolves in 2022\n\nMorgan Gibbs-White sent out a message last season. This term he is making sure it gets delivered.\n\nIn May he was snubbed by Thomas Tuchel for England's World Cup squad and responded by scoring againstBournemouthon the final day.\n\nHe celebrated by pointing to his chest and holding up both hands, in a nod to the number 10 shirt he wears -a clear statement to Tuchel.\n\nThis season he has continued his form, scoring a penalty in Forest's 2-2 draw atLiverpoolon Saturday after assisting Dan Ndoye's opener.\n\nThe captain is Forest's talisman, especially after Elliot Anderson's record sale toManchester Cityand, with England facing upcoming Nations League games against Spain, Croatia and the Czech Republic, the noise could get too loud for the England manager to ignore this time.\n\nWith new boss Oliver Glasner looking to him for inspiration, will this be a career-defining season for Gibbs-White?\n\nIraola awaits first win as Liverpool draw against Forest at Anfield\n\nOn Saturday Forest hostTottenham,a team Gibbs-White came close to joining last year.\n\nThe fallout led to Forest threatening to take legal action against Spurs as owner Evangelos Marinakis personally took charge of the situation, meeting Gibbs-White at the club's training camp in Portugal and convincing him to stay - reaching a general agreement over a new contract.\n\nHe signed anew three-year deal days laterand went on to score a career-best 18 goals in all competitions last season.\n\nHis goal atTottenham in March was crucial in Forest's 3-0 win,giving them the platform to survive and keeping Spurs sweating on their top-flight status until the final day.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3604_4",
+            "category": "england",
+            "type": "News",
+            "title": "Hearn: Talks 'reopened' for Fury vs AJ at Wembley",
+            "bullets": [
+              "Promoter Eddie Hearn has announced that talks have \"reopened\" to stage the Tyson Fury vs Anthony Jos...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Promoter Eddie Hearn has announced that talks have \"reopened\" to stage the Tyson Fury vs Anthony Joshua fight at Wembley Stadium.",
+            "fullText": "A long-awaited blockbuster fight between Anthony Joshua and Tyson Fury has been stuck in negotiations in recent months amid an apparent disagreement over the location for the event, Joshua's team having remained insistent it must take place in the United Kingdom",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-04 @ 02:05:57 EDT",
+  "lastUpdated": "2026-09-04 @ 10:36:04 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
