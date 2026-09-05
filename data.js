@@ -4,24 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ 73 goals from dropping deep - we ask Kane to break down how he did it",
-      "link": "https://www.bbc.co.uk/sport/articles/cx2z7rjn2p2o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Bissouma was offered to Chelsea - Saturday's gossip",
       "link": "https://www.bbc.co.uk/sport/football/articles/c7903g4nvn3o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ How 'unique' Bellingham is thriving in Mourinho's system",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c86xj375x2yo?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Fourth-choice Ramsdale will 'support team' - Eckert",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9v9elp98gro?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
-      "text": "⚽ Russell tops second practice as Mercedes respond to Ferrari at Monza",
-      "link": "https://www.skysports.com/f1/news/12040/13581162/italian-gp-george-russell-fastest-in-practice-two-as-mercedes-edge-ahead-of-fast-starting-ferrari-at-monza"
+      "text": "⚽ ‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+      "link": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca"
     }
   ],
   "timeline": {
@@ -51655,11 +51643,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_3510_0",
+            "category": "england",
+            "type": "News",
+            "title": "Bissouma was offered to Chelsea - Saturday's gossip",
+            "bullets": [
+              "Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed inter...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Chelsea were offered ex-Tottenham midfielder Yves Bissouma, Manchester City and Chelsea showed interest in Crystal Palace's Adam Wharton, Arsenal are considering move for Barcelona's Raphinha, plus more.",
+            "fullText": "Chelseawere offered ex-Tottenhammidfielder Yves Bissouma,Manchester CityandChelseashowed interest inCrystal Palace's Adam Wharton, andArsenalconsidering move for Barcelona's Raphinha.\n\nChelseawere offered former Mali midfielder Yves Bissouma, 30, who leftTottenhamin the summer, as a replacement for Argentina's Enzo Fernandez, 25, who joinedManchester Cityfor Â£125m.(Sun),external\n\nManchester CityandChelseaare believed to be among those who showed an interest in signing England midfielder Adam Wharton, 22, before the transfer deadline, withCrystal Palacerejecting all bids.(Guardian),external\n\nAston Villa,Manchester CityandNewcastle Unitedare showing interest in Spain winger Alex Baena butAtletico Madridhave no plans to sell the 25-year-old.(CaughtOffside),external\n\nWolvescould have sold Portugal Under-21s forward Mateus Mane before the transfer window closed, withLiverpoolandManchester Unitedboth admirers of the 18-year-old.(Teamtalk),external\n\nArsenalare considering a Â£68m offer forBarcelonaand Brazil winger Raphinha, 29, in January.(Fichajes - in Spanish),external\n\nTottenhamare considering paying up Richarlison's contract to allow the out-of-favour 29-year-old Brazil forward to leave the club on a free transfer.(Talksport),external\n\nEvertonmade a verbal offer of Â£40m plus Â£5m in add-ons toWest Hamfor Argentine striker Taty Castellanos on transfer deadline day but the move came too late for the Hammers to sanction the 27-year-old's exit.(Teamtalk),external\n\nNewcastle Unitedmanager Matthias Jaissle's desire to keep English attacking midfielder Jacob Murphy meant the Tyneside club rejected two offers for the 31-year-old fromNottingham Forest.(Football Insider),external",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3511_1",
+            "category": "england",
+            "type": "News",
+            "title": "‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
+            "bullets": [
+              "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 t...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of eventsIt was 6pm on 5 July in Mexico City, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning.Faghani was the referee for Mexico v England in the last 16 at the 2026 World Cup. Mexico hadn’t lost a competitive game at the Azteca since 2013, at least in part because they’re used to the conditions. Situated 2,240 metres above sea level, the air contains less oxygen. Opponents struggle to breathe, let alone win. Continue reading...",
+            "fullText": "England’s manager Thomas Tuchel called the officiating ‘just not good enough’ in the fiery last-16 tie. Now Alireza Faghani gives his version of events\n\nIt was 6pm on 5 July inMexicoCity, and Alireza Faghani, a 48-year-old Australian-Iranian, was asleep in the locker room, snoring. His assistants had turned the music down. Had it not been for the muffled roar of nearly 90,000 fans through the concrete walls of the Estadio Azteca, he could have slept until the following morning.\n\nFaghani was the referee for Mexico v England in the last 16 at the 2026World Cup. Mexico hadn’t lost a competitive game at the Azteca since 2013, at least in part because they’re used to the conditions. Situated 2,240 metres above sea level, the air contains less oxygen. Opponents struggle to breathe, let alone win.\n\nThis was Faghani’s third match of his fourth World Cup. A contender for the final, he needed a strong performance. Outside, pouring rain fell from the sky. Thunder cracked overhead. The storm had delayed kick-off by an hour, but it could do little to quell the fans, who banged their drums and sang their chants.\n\nEventually the noise jolted Faghani into action. He splashed water over his face and reviewed his notes again. As a referee in Australia’s A-League, he knew few of the players well, so he’d been studying their triggers, their temperaments and their tendencies in different match scenarios. “You know the key players, you understand their characteristics and how they normally behave in certain situations,” he adds.\n\nThe uncertainty around the kick-off time had disrupted his preparation for the match. Days earlier, amid warnings of extreme weather, Fifa officials had revealed plans to bring kick-off forward by six hours, only to shelve them after Keir Starmer, then the British prime minister,raised concerns that it would favour the hostsby giving England less time to adapt to the altitude.\n\nDuring those hours of uncertainty, Faghani needed to adjust his pre-match physical and nutritional schedule accordingly. It was unsettling. “I don’t really have any superstitions, but I do like routine,” he says. “That routine gives me a sense of calm and helps me enter the field with a clear mind.”\n\nBut he tried not to spend too much energy on something he couldn’t control. “At this level, part of the job is staying calm and keeping your preparation as normal as possible, even when everything around you is changing.”\n\nAs kick-off approached, Faghani also resisted obsessing over his notes. He didn’t want to introduce bias into his decision-making. If you go into a match expecting a player to dive in a one-on-one situation, for instance, you might see a dive when there was genuine contact. Or you might see a player kick out when it was just normal movement. “That can be dangerous because you can start the match with a preconceived idea,” he adds.\n\nSo he visualised the opening moments. “I try to switch off from everything outside the dressing room and focus only on the match,” he says. Mexico had a tendency for rampant starts.Englandwere hard in the tackle. “We expected a match with a lot of intensity, particularly in transition and in individual duels. The important thing was to be mentally prepared for the speed of the game.”\n\nEngland kicked off to a chorus of boos, and those boos greeted their every touch. “The noise was unbelievable,” Faghani recalls. The same sound that had woken him up was now a distraction, and a threat to his impartiality on borderline calls – so he tried to block it out. “You are always aware of the atmosphere, especially with a home crowd like Mexico at the Azteca. Naturally, they react strongly to decisions involving their team, and you can feel that energy.”\n\nIn the opening stages, he wanted to let the match unfold without imposing himself on it. To assess the intensity, then decide how strongly he would need to intervene. “Every match develops its own personality, and one of the most important skills is recognising that personality as quickly as possible and adapting your refereeing to it.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-05 @ 01:55:09 EDT",
+  "lastUpdated": "2026-09-05 @ 09:35:11 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
