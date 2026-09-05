@@ -22779,6 +22779,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Anyone else still jetlagged?",
       "time": "14:51",
       "isCaptain": false
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "08:28",
+      "isCaptain": false
+    },
+    {
+      "sender": "Weston McKennie",
+      "avatar": "🇺🇸",
+      "text": "What time is the team meeting again?",
+      "time": "08:29",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Anyone got an extra phone charger? Left mine at the hotel.",
+      "time": "08:30",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Coffee in the lobby if anyone is awake.",
+      "time": "08:31",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "The altitude here is no joke. Lungs are burning!",
+      "time": "08:32",
+      "isCaptain": true
     }
   ]
 };
