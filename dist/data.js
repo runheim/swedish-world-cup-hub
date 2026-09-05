@@ -20035,10 +20035,35 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-05": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_5852_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
+            "bullets": [
+              "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Ba...",
+              "Reported live by The Guardian Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at Manchester City or Tottenham had the transfer runes been right, added further to a sense of renewal. Liverpool’s attackers were full of the speed and invention sorely lacking for much of last season.Once Barcola arrived in the second half, those velocity levels increased yet further, Liverpool playing the attacking style, high on risk and entertainment, the appointment of Iraola promised. “We are starting to get to the way we want to play,” said Isak afterwards. Continue reading...",
+            "fullText": "A first win for Andoni Iraola’sLiverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his two, well-taken early goals securing the three points. That Cody Gakpo, Isak’s supplier, might have been at Manchester City or Tottenham had the transfer runes been right, added further to a sense of renewal. Liverpool’s attackers were full of the speed and invention sorely lacking for much of last season.\n\nOnce Barcola arrived in the second half, those velocity levels increased yet further, Liverpool playing the attacking style, high on risk and entertainment, the appointment of Iraola promised. “We are starting to get to the way we want to play,” said Isak afterwards.\n\nTravelling Liverpool fans were made to wait for their first glimpse of £123m Barcola, his being on the bench adding further suspense to a deal that took an entire summer to complete.\n\nIf Ipswich looked to show the “emotional discipline” their manager, Gary O’Neil, said they lacked in losing 5-2 at Old Trafford, little was in evidence in a ruinous opening spell that betrayed the decent performance they went on to put in.\n\nHow long will Iraola’s doctrines take to embed? Perhaps not as long as feared. Isak, the most expensive player signed under the outgoing sporting director Richard Hughes, looks – at last – to be flowering. To follow his strike against Nottingham Forest, he had scored twice by the 10th minute. “If Alex is fit and is available, he will produce the numbers,” said Iraola.\n\nAssisted for both by Gakpo, the finishes were of the gold standard Liverpool invested so heavily in. “Cody was outstanding,” said Virgil van Dijk, sharing the credit. “I said it before the transfer window had closed, he’s important for us, and he will be important this season.” Iraola joined the appreciation society: “I had no doubt with Cody … he knows how much we value him.”\n\n“The level is ruthless,” said O’Neil, otherwise exalted by his team’s response to adversity beyond those opening nine minutes. “If you make mistakes against players like Gakpo, Wirtz and Barcola, there’s a chance you will get punished.”\n\nJust as at Old Trafford, two Ipswich goals were conceded in quick, damaging succession, the defence far too open and chaotic. After Víctor Muñoz had set off on a long run stopped only by Issa Diop’s last-man tackle, Julio Enciso controlled the ball, taking a beat by standing on the ball, as if calling for calm.\n\nIsak, who had a third first-half goal disallowed for offside, made the runs into scoring positions that made his reputation, nothing like the sorry figure of his debut, lost season. Meanwhile, a no-look pass from Ipswich’s captain, Dara O’Shea, straight to Gakpo, betrayed a collective cognitive dissonance.\n\nFlorian Wirtz becoming involved with the tricks and flicks offered another pointer that last summer’s huge Liverpool outlay may not be so wasteful as it appeared in Arne Slot’s dog days. Iraola’s appointment came with a reputation for improving players. Should the Basque get the best from the German, in a similar price bracket to Barcola and Isak, then this week’s pronouncement he is happy with his squad will ring truer.\n\nKick off your evenings with the Guardian's take on the world of football\n\nAn obvious gap in the Liverpool squad left by Hughes is a commanding defensive midfielder. Enciso often located space, though suffered for a lack of quality around him. Beyond the break, with O’Neil in full flow, barking at players and officials alike, Ipswich were more confrontational, less admiring of their opponent’s higher skill levels. “I hate having to talk about good performances when you don’t get points because you need to maximise them,” said O’Neil, painting a picture that will not match many other summations of the match.",
+            "author": "The Guardian Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-04 @ 19:36:03 EDT",
+  "lastUpdated": "2026-09-05 @ 01:58:52 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
