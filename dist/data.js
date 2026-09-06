@@ -4,7 +4,7 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Large climate march in Gothenburg wants to raise the climate as an election issue",
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
       "link": "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga"
     }
   ],
@@ -20338,11 +20338,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_2241_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "On Sunday afternoon, around fifty organizations came together to raise the climate issue ahead of th...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "On Sunday afternoon, around fifty organizations came together to raise the climate issue ahead of the election. And thousands and thousands of people walked from Linnéplatsen to Gustav Adolfs torg where speeches were made by, among others, Greta Thunberg. - This is the biggest climate demonstration I have been to in Gothenburg, says Sara Isaksson.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- This is the biggest climate demonstration I have been to in Gothenburg, says Sara Isaksson.\n\nTwo weeks ago, tens of thousands of people gathered on the streets of Stockholm for a climate demonstration. The details of the exact number of participants vary, but there is talk of more than 50,000 people there. The demonstration was then organized with the support of almost 300 organisations. Now it was time in Gothenburg.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nAround 50 organizations had become involved in the Gothenburg demonstration, including Greenpeace, the Church of Sweden, the Tenant Association and trade unions such as Vision and Vårdförbundet. According to the police, between 5,000 and 10,000 people participated in the apolitical march in Gothenburg.\n\n- It's about the climate issue, which is scientific and not political, and it's about acting regardless of your party affiliation, says Charlotte Henschel.\n\nThe fact that it is happening right now is due to the fact that there is a week until the election and many of those who were there on Sunday think that the environmental issue has disappeared as an election issue.\n\n- We obviously want to influence our politicians. There are a lot of us and I am very happy. This is the biggest climate demonstration I have been to in Gothenburg, says Sara Isaksson.\n\nThe march was not the only climate action during the weekend in Gothenburg. During Saturday, there was a \"Folkfest fred och klimat\", an event at Bananpiren where a number of artists performed, including Slowgold, Anastasia and Stefan Sundström, and Greta Thunberg also gave a speech there.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-06 @ 16:37:41 EDT",
+  "lastUpdated": "2026-09-06 @ 19:22:41 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
