@@ -4,16 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Everton v Manchester United: Premier League – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/06/everton-v-manchester-united-premier-league-live"
+      "text": "⚽ Maitland-Niles stunner rescues late point for Everton against Manchester United",
+      "link": "https://www.theguardian.com/football/2026/sep/06/everton-manchester-united-premier-league-match-report"
     },
     {
-      "text": "⚽ Chilwell seals Crystal Palace comeback win after Mitchell double at Fulham",
-      "link": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report"
-    },
-    {
-      "text": "⚽ Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
-      "link": "https://www.skysports.com/tennis/news/12040/13582169/us-open-naomi-osaka-takes-care-of-business-against-elise-mertens-while-iva-jovic-edges-out-good-friend-alex-eala-in-thriller"
+      "text": "⚽ Dunkley hits ton as England clinch ODI series sweep of Ireland",
+      "link": "https://www.skysports.com/cricket/news/12040/13582326/england-clinch-odi-series-sweep-of-ireland-as-sophia-dunkley-hits-second-international-century-in-114-run-win"
     }
   ],
   "timeline": {
@@ -51940,11 +51936,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_3056_0",
+            "category": "england",
+            "type": "News",
+            "title": "Maitland-Niles stunner rescues late point for Everton against Manchester United",
+            "bullets": [
+              "It would be putting it mildly to say Everton’s exhaustive search for a new right-back met an underwh...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "It would be putting it mildly to say Everton’s exhaustive search for a new right-back met an underwhelming response when it concluded with the signing of Ainsley Maitland-Niles on Monday. But there was an overwhelmingly positive reaction to the £4.3m recruit’s Everton debut as his stunning 25-yard strike rescued a point with virtually the final kick of the game against Manchester United.Michael Carrick wiped his face in sheer disbelief after the former Arsenal player, 19 minutes into his first appearance for David Moyes’s side, found Senne Lammens’ top corner to send Hill Dickinson Stadium into raptures at the end of a troubled week. United were on the verge of victory following Benjamin Sesko’s 88th-minute header beyond Jordan Pickford but Everton, indignant and defiant after the shambles of transfer deadline day, twice fought back to preserve their unbeaten start to the season. A slow-burning contest erupted into a wildly entertaining second half. Continue reading...",
+            "fullText": "It would be putting it mildly to say Everton’s exhaustive search for a new right-back met an underwhelming response when it concluded with the signing of Ainsley Maitland-Niles on Monday. But there was an overwhelmingly positive reaction to the £4.3m recruit’s Everton debut as his stunning 25-yard strike rescued a point with virtually the final kick of the game againstManchester United.\n\nMichael Carrick wiped his face in sheer disbelief after the former Arsenal player, 19 minutes into his first appearance for David Moyes’s side, found Senne Lammens’ top corner to send Hill Dickinson Stadium into raptures at the end of a troubled week. United were on the verge of victory following Benjamin Sesko’s 88th-minute header beyond Jordan Pickford butEverton, indignant and defiant after the shambles of transfer deadline day, twice fought back to preserve their unbeaten start to the season. A slow-burning contest erupted into a wildly entertaining second half.\n\nThe response to Everton’s transfer deadline day was muted and so was the start to the contest. Hill Dickinson was shorn of the tifos and flag displays usually organised by The 1878s, the supporters group who have withdrawn their support for the foreseeable future, and there were attempts to organise a ‘not a pound in the ground’ protest to hit the owners where they would feel it. But there were no visible or audible shows of dissent against TFG inside the ground. Not that anyone from Everton’s ownership group was here to witness any beyond Rishi Majithia, Dan Friedkin’s son-in-law and TFG’s day-to-day representative at the club. They missed practically nothing before half-time.\n\nHarry Maguire was left with a bloody nose following an aerial challenge with Thierno Barry in the opening seconds. The contest and the atmosphere took a long time to recover from the lengthy break for the defender to receive treatment.\n\nUnited went close early on when Bruno Fernandes cushioned a volley against the Everton crossbar from Bryan Mbeumo’s knock-down. Luke Shaw engineered the chance by breaking free down the left and picking out Mbeumo inside the area. It should have been a fruitful route for the visitors with Shaw and Marcus Rashford frequently getting in behind Merlin Röhl but, in keeping with the performance of both teams before the break, an end product was lacking. Matheus Cunha had the best opportunity from a low Rashford delivery, dummied by Diogo Dalot, but sidefooted wastefully over from 18 yards.\n\nMoyes rightly persisted with Röhl at right-back despite the addition of Maitland-Niles. The Germany under-21 international is now considered a potential long-term solution to Everton’s problematic position and his early season displays merited the manager’s trust. Defensively this was a difficult but valuable experience for Röhl, who demonstrated his usefulness in the final third with a fine cross that Barry headed over from close range having pulled away from Maguire. That was Everton’s one chance of note in a forgettable half.\n\nUnited were the more composed and creative side, without seriously troubling Pickford after Fernandes struck the bar, but finally added penetration to their performance 62 seconds after the restart. Everton were collectively still asleep when the breakthrough arrived. Receiving Kobbie Mainoo’s pass wide on the right, Mbeumo set off in a straight line for the Everton goal, darting between nonexistent challenges from Tyrique George and Vitalii Mykolenko before sweeping an excellent finish beyond Pickford’s despairing dive as James Garner sat off on the edge of the area.\n\nKick off your evenings with the Guardian's take on the world of football\n\nA superbly timed challenge from James Tarkowski prevented Cunha converting into an empty net from Rashford’s backheel. It looked a key moment when Everton, having passed up several presentable chances from Kiernan Dewsbury-Hall, Harrison Armstrong and Brennan Johnson, equalised from out of nowhere with seven minutes of normal time remaining. George was found in space on the right by the substitute Hayden Hackney and unleashed an unstoppable shot into the near, top corner of Lammens’ goal from a ridiculously tight angle.\n\nIt was the parity Everton’s second-half improvement deserved but United finally profited from one of their raids down the left to retake the lead shortly afterwards. Sesko started and finished the move when, having benefited from a kind bounce off Hackney, he found Fernandes in space. The United captain released Shaw on Maitland-Niles and his perfectly weighted cross sailed over Tarkowski for Sesko to score with a textbook header past Pickford. Sesko’s header trickled over the line after the Everton keeper got a hand to the ball. The final sting, however, would come from Everton and their new, previously unheralded right-back.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3056_1",
+            "category": "england",
+            "type": "News",
+            "title": "Dunkley hits ton as England clinch ODI series sweep of Ireland",
+            "bullets": [
+              "England secured a 3-0 sweep of Ireland as they won the third and final one-day international of the ...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England secured a 3-0 sweep of Ireland as they won the third and final one-day international of the series by 114 runs in Worcester on Sunday.",
+            "fullText": "England collapse from 260-4 to 291 all out after Sophia Dunkley (119 off 119 balls) hits run-a-ball century, but Ireland fail to threaten in run-chase; Lauren Filer (3-27), Mady Villiers (3-33) and Tilly Corteen-Coleman (2-34) impress as tourists are skittled for 177",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-06 @ 09:50:06 EDT",
+  "lastUpdated": "2026-09-06 @ 13:30:56 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
