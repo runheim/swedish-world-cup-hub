@@ -8,12 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ No blockbuster signing but Arsenal's attack still finding another level",
-      "link": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved"
+      "text": "⚽ Young praises Rashford and Shaw chemistry",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Carrick's Man Utd missing spark as Konsa shines for Arsenal",
-      "link": "https://www.skysports.com/football/news/12040/13582506/man-utd-miss-attacking-spark-against-everton-as-ezri-konsa-for-arsenal-premier-league-hits-and-misses"
+      "text": "⚽ No blockbuster signing but Arsenal's attack still finding another level",
+      "link": "https://www.skysports.com/football/news/12040/13582329/martin-odegaard-kai-havertz-and-bukayo-saka-show-arsenal-can-level-up-their-attack-even-without-the-blockbuster-signing-they-craved"
     }
   ],
   "timeline": {
@@ -52037,11 +52037,68 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_3158_0",
+            "category": "england",
+            "type": "News",
+            "title": "Odegaard and Saka star - player ratings for Arsenal v Chelsea",
+            "bullets": [
+              "How Arsenal and Chelsea's players rated following their Premier League match.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "How Arsenal and Chelsea's players rated following their Premier League match.",
+            "fullText": "Captain Martin Odegaard scored the winner asArsenalsecured an impressive 2-1 home victory overChelsea.\n\nClub-record Â£117m signing Morgan Rogers putChelseaahead after just two minutes, but Kai Havertz equalised against his former club before Odegaard struck early in the second half to seal the win.\n\nHere's how I rated the players and you can see how you scored them below.\n\nDavid Raya: TheArsenalgoalkeeper was beaten by the quality of Rogers' finish but dealt comfortably with the other efforts he faced and produced one stunning save late on from Estevao.6\n\nBen White: A tidy display in possession, although he made little impact at either end of the pitch.6\n\nGabriel Magalhaes: Outshone by Konsa at times but still produced an effective performance.7\n\nEzri Konsa: On his firstArsenalstart, he won more duels than any other defender and was joint-top for possession won in the first half.7\n\nRiccardo Calafiori: His underlapping runs were typically adventurous and the Italy defender played a key role in creating problems from set-pieces.7\n\nMyles Lewis-Skelly: Fired a poor effort wide from the edge of the area late in the first half and was caught in possession in a dangerous area, but competed well in midfield.6\n\nDeclan Rice: Played his part in a fiercely contested midfield battle and contributed well both in and out of possession.6\n\nMartin Odegaard: PutArsenalahead early in the second half with a composed finish. Also impressed with the quality of his delivery, both in open play and from set-pieces.8\n\nBukayo Saka: A constant threat from set-pieces and regularly won free-kicks in dangerous positions. His impressive second-half effort was saved.8",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3159_1",
+            "category": "england",
+            "type": "News",
+            "title": "Young praises Rashford and Shaw chemistry",
+            "bullets": [
+              "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
+            "fullText": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw against Everton.\n\nMATCH REPORT:Premier League - Everton 2-2 Manchester United",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_3159_2",
+            "category": "england",
+            "type": "News",
+            "title": "No blockbuster signing but Arsenal's attack still finding another level",
+            "bullets": [
+              "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an ins...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midway through the second half at the Emirates Stadium, Martin Odegaard picked up the ball in an inside-right position and threaded a pass towards Kai Havertz, whose flick allowed the onrushing Bukayo Saka to test Emiliano Martinez.",
+            "fullText": "Arsenal missed out on Morgan Rogers, Vinicius Junior and Julian Alvarez during the summer transfer window but Martin Odegaard, Kai Havertz and Bukayo Saka are fit and firing again; champions beat Chelsea 2-1 to claim third straight Premier League win",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-06 @ 16:36:10 EDT",
+  "lastUpdated": "2026-09-06 @ 19:31:59 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
