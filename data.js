@@ -58911,6 +58911,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Anyone up for some darts in the games room?",
       "time": "08:35",
       "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "13:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Declan Rice",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Pitch is looking immaculate out there.",
+      "time": "13:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jude Bellingham",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Who saw that strike in training?! Unbelievable.",
+      "time": "13:52",
+      "isCaptain": false
+    },
+    {
+      "sender": "Phil Foden",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "13:53",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Bags packed and ready. Let's get it.",
+      "time": "13:54",
+      "isCaptain": false
     }
   ]
 };
