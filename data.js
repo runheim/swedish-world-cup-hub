@@ -8,8 +8,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/sep/05/fulham-crystal-palace-premier-league-match-report"
     },
     {
-      "text": "⚽ ‘The noise was unbelievable’: the referee’s view of Mexico v England at the World Cup",
-      "link": "https://www.theguardian.com/football/2026/sep/05/world-cup-alireza-faghani-england-mexico-azteca"
+      "text": "⚽ Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
+      "link": "https://www.skysports.com/tennis/news/12040/13582169/us-open-naomi-osaka-takes-care-of-business-against-elise-mertens-while-iva-jovic-edges-out-good-friend-alex-eala-in-thriller"
     }
   ],
   "timeline": {
@@ -51838,10 +51838,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-06": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_0703_0",
+            "category": "england",
+            "type": "News",
+            "title": "Chilwell seals Crystal Palace comeback win after Mitchell double at Fulham",
+            "bullets": [
+              "The managers may have changed but the result stays the same. For the fourth successive trip to this ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with a win as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who was signed on deadline day from Strasbourg – this time permanently, after a loan spell in which he helped Palace win the FA Cup – after he came off the bench to volley home the winner.It was a bitter blow for Fulham’s new manager Álvaro Arbeloa, who had seen his side lead twice through the impressive Josh King – who showed his potential in front of the watching England manager, Thomas Tuchel – and César Palacios before being pegged back twice by Tyrick Mitchell, the second in a moment of pure slapstick. Arbeloa and his side left the pitch to boos from some supporters and remain pointless after three matches. But having won here three times in 2025 under Oliver Glasner, this has been a happy hunting ground for Palace and Chilwell could not contain his delight as he celebrated with Sage and the travelling fans at the full-time whistle. Continue reading...",
+            "fullText": "The managers may have changed but the result stays the same. For the fourth successive trip to this part of west London, Crystal Palace returned over the river with a win as Pierre Sage got his reign off the mark in dramatic style. Their hero was Ben Chilwell, the former England left-back who wassigned on deadline day from Strasbourg– this time permanently, after a loan spell in which he helped Palace win the FA Cup – after he came off the bench to volley home the winner.\n\nIt was a bitter blow for Fulham’s new manager Álvaro Arbeloa, who had seen his side lead twice through the impressive Josh King – who showed his potential in front of the watching England manager, Thomas Tuchel – and César Palacios before being pegged back twice by Tyrick Mitchell, the second in a moment of pure slapstick. Arbeloa and his side left the pitch to boos from some supporters and remain pointless after three matches. But having won here three times in 2025 under Oliver Glasner, this has been a happy hunting ground for Palace and Chilwell could not contain his delight as he celebrated with Sage and the travelling fans at the full-time whistle.\n\n“Today’s lesson was free because we won but we were inefficient in buildup during the first half,” said Sage, who maintained his record of never losing three games in a row as a manager. “It’s really a difficult period for me because I don’t like the mindset of the team and the club in this moment because [the transfer market] is always open. I like to know who I will work with.”\n\nFulham, who had almost 65% possession and racked up 25 shots in total, had looked more likely to end their winless start until Mitchell’s second goal swung the momentum decisively in Palace’s favour. They have nowconceded seven goalsin theirfirst three league matchesand Arbeloa – who was managing Real Madrid a few months ago – knows they must improve before next week’s game to face Liverpool at Anfield.\n\n“We lost a game that we didn’t deserve to lose. But in football you need to take your chances and they did that better than us,” he said. “We need to learn quickly because things can change when you concede a goal.”\n\nIt didn’t take long for Alex Iwobi – the 30-year-old who has become only the fifth player inPremier Leaguehistory to play 100 or more games for three clubs – to start pulling the strings for Fulham in midfield alongside the new £30m signing from Southampton, Shea Charles. A sloppy early pass from Jaydee Canvot inside the first minute that almost handed Palacios an opportunity betrayed the nerves of a Palace defence that had the Chelsea loanee, Axel Disasi, in the centre of the back three also favoured by Sage’s predecessor.\n\nFulham took the lead when Adam Wharton failed to clear a cross from Oscar Bobb and it fell straight into the path of King, whose shot took a big deflection to deceive Dean Henderson. It was typical of Sage’s luck in his first month at the helm that a superb apparent Palace equaliser less than two minutes later was chalked off. Daichi Kamada had strayed millimetres offside before volleying in a brilliant cross with the outside of his boot from Yéremy Pino.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe visitors could have found themselves 2-0 down when Henderson saved a Timothy Castagne shot from close range, but Mitchell beat Bernd Leno at his near post to equalise against the run of play after being set up by Eddie Nketiah. Palace’s joy was short-lived, however. Chris Richards – being watched by his USA manager Mauricio Pochettino – was fooled by King’s clever dummy and the England Under-21 midfielder accepted the invitation to burst into the box. His cross would have been diverted into his own net by Canvot had it not been for an excellent save from Henderson, but even that only left Palacios with the opportunity, which he accepted, to put the ball into the empty net.\n\nYet Palace’s fortunes suddenly changed for the better when they scored a comical second equaliser. Mitchell’s initial effort was cleared by Gonzalo García as the striker charged back into the area, but the Palace defender volleyed hopefully towards goal as he fell, and García somehow managed to miss the ball altogether as it trickled over the line.\n\nFulham seemed to shrink after conceding and Palace sensed an opportunity. The comeback was completed when Chilwell volleyed in after Anan Khalaili’s effort had been blocked, and Fulham were forced to accept their fate once more after their own substitute left-back, Ryan Sessegnon, found the sidenetting in injury time.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0703_1",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka takes care of business while Jovic ends Eala Mania in US Open thriller",
+            "bullets": [
+              "Naomi Osaka stepped on court in another new look and she eventually took care of business against El...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka stepped on court in another new look and she eventually took care of business against Elise Mertens in a tense three-set victory to reach the fourth round of the US Open.",
+            "fullText": "Naomi Osaka continued to impress with ‌her style and staying power helping her battle past Elise Mertens to ​reach the fourth round;watch the US Open live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-05 @ 19:35:08 EDT",
+  "lastUpdated": "2026-09-06 @ 02:07:03 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
