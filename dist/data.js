@@ -23174,6 +23174,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Early night for me. Big day tomorrow.",
       "time": "08:45",
       "isCaptain": false
+    },
+    {
+      "sender": "Antonee Robinson",
+      "avatar": "🇺🇸",
+      "text": "Need more ranch dressing at the buffet immediately.",
+      "time": "14:00",
+      "isCaptain": false
+    },
+    {
+      "sender": "Christian Pulisic",
+      "avatar": "🇺🇸",
+      "text": "Rest up boys, big session tomorrow.",
+      "time": "14:01",
+      "isCaptain": true
+    },
+    {
+      "sender": "Tim Weah",
+      "avatar": "🇺🇸",
+      "text": "Bags are packed! Who's ready?",
+      "time": "14:02",
+      "isCaptain": false
+    },
+    {
+      "sender": "Folarin Balogun",
+      "avatar": "🇺🇸",
+      "text": "Who's up for some FIFA tonight in my room?",
+      "time": "14:03",
+      "isCaptain": false
+    },
+    {
+      "sender": "Matt Turner",
+      "avatar": "🇺🇸",
+      "text": "Just saw the training kit. Actually looks fire this year.",
+      "time": "14:04",
+      "isCaptain": false
     }
   ]
 };
