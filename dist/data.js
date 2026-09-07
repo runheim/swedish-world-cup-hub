@@ -4,7 +4,11 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ Dijan Vukojevic's long journey towards the Allsvenskan - lived in a dressing room",
+      "link": "https://www.svt.se/sport/fotboll/dijan-vukojevics-langa-resa-moy-allsvenskan-bodde-i-ett-omkladningsrum"
+    },
+    {
+      "text": "⚽ Large climate march in Gothenburg wants to raise the climate as an election issue",
       "link": "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga"
     }
   ],
@@ -20362,10 +20366,52 @@ const DYNAMIC_HUB_DATA = {
           }
         ]
       }
+    },
+    "2026-09-07": {
+      "5": {
+        "timeLabel": "21:30",
+        "name": "Evening Talk",
+        "articles": [
+          {
+            "id": "crawled_1847_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Dijan Vukojevic's long journey towards the Allsvenskan - lived in a dressing room",
+            "bullets": [
+              "A wooden bench as a bed and a hoodie and cap as pyjamas. A dressing room as accommodation. - The mot...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "A wooden bench as a bed and a hoodie and cap as pyjamas. A dressing room as accommodation. - The mother came up once and started crying as soon as she entered, says Degerfors striker Dijan Vukojevic in SVT's series \"Allsvenska profiler\".",
+            "fullText": "A wooden bench as a bed and a hoodie and cap as pyjamas.\n\n- The mother came up once and started crying as soon as she entered, says Degerfors striker Dijan Vukojevic in SVT's series \"Allsvenska profiler\".\n\nThe now 30-year-old striker emerged as a promising talent in Jönköping Södra. But in 2014 the message came: Apply further.\n\nHe ended up in the division 2 club Arameisk-Syrianska from the Stockholm suburb of Norsborg. There was a journey waiting - that few people know about, says the Degerfors star.\n\n- Me and another guy lived in a dressing room for 9-10 months. There were bars on the windows. If there had been a fire in there, we would have been run over, he says.\n\nRåslättssonen's long way to the Allsvenskan scene then went via Assyriska IK, Husqvarna, Norrby, Slovak Spartak Trnava, Norrby (again), before he ended up in Degerfors.\n\nWHERE IS IT: Se mer av Dijan Vukojevic i SVT's serie \"Allsvenska profiler\" här.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1849_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Large climate march in Gothenburg wants to raise the climate as an election issue",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- This is the biggest climate demonstration I have been to in Gothenburg, says Sara Isaksson.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- I know we are not doing enough. And I know that everyone should do more, says Marie Vidarsson as one of those who marched in the kilometer-long line.\n\nAround 50 organizations had become involved in the Gothenburg demonstration, including Greenpeace, the Church of Sweden, the Tenant Association and trade unions such as Vision and Vårdförbundet. The police estimate that at least 5,000 people took part in the march in Gothenburg.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\n- We obviously want to influence our politicians. There are a lot of us and I am very happy. This is the biggest climate demonstration I have been to in Gothenburg, says Sara Isaksson.\n\nThe march was not the only climate action during the weekend in Gothenburg. During Saturday, there was a \"Folkfest fred och klimat\", an event at Bananpiren where a number of artists performed, including Slowgold, Anastasia and Stefan Sundström, and Greta Thunberg also gave a speech there.\n\nSVT's news must stand for objectivity and impartiality. What we publish must be true and relevant. In urgent news situations, it can be difficult to get all the facts confirmed, so we will tell you what we know - and don't know. Read more about how we work.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
+      }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-06 @ 19:22:41 EDT",
+  "lastUpdated": "2026-09-07 @ 02:18:49 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
