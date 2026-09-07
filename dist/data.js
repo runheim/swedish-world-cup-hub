@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Dijan Vukojevic's long journey towards the Allsvenskan - lived in a dressing room",
-      "link": "https://www.svt.se/sport/fotboll/dijan-vukojevics-langa-resa-moy-allsvenskan-bodde-i-ett-omkladningsrum"
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://www.svt.se/sport/fotboll/darfor-kollar-dijan-vukojevic-pa-bodybuilders-jobbigt-for-andra"
     },
     {
-      "text": "⚽ Large climate march in Gothenburg wants to raise the climate as an election issue",
-      "link": "https://www.svt.se/nyheter/lokalt/vast/stor-klimatmarsch-i-goteborg-vill-lyfta-klimatet-som-valfraga"
+      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "link": "https://www.svt.se/sport/fotboll/dijan-vukojevics-langa-resa-moy-allsvenskan-bodde-i-ett-omkladningsrum"
     }
   ],
   "timeline": {
@@ -20407,11 +20407,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1937_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Dijan Vukojevic's geekiness stands out. He has different tricks to get better. - Many look at other ...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Dijan Vukojevic's geekiness stands out. He has different tricks to get better. - Many look at other footballers, I rather look at how the best in the world do, he says in SVT's series \"Allsvenska profiler\".",
+            "fullText": "- Many look at other footballers, I rather look at how the best in the world do, he says in SVT's series \"Allsvenska profiler\".\n\nThe Degerfors striker is meticulous in most things he does - and constantly strives for improvement.\n\nFor example, the 30-year-old describes his development from \"skinny\" - to muscular. He measures most things and weighs his food.\n\n- For example, I looked at bodybuilders and took aspects from all sorts of things and put on a lot of kilos. Now physics is one of my strong points, he says.\n\nVukojevic represented Degerfors in 2022-2024. He returned in the summer of 2025.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1939_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-07 @ 02:18:49 EDT",
+  "lastUpdated": "2026-09-07 @ 12:19:39 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
