@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Monaco kept their best players and are top of Ligue 1 – but at what cost?",
-      "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg"
-    },
-    {
       "text": "⚽ Mauricio Pochettino wants the US to become ‘one of the most powerful countries in soccer’",
       "link": "https://www.theguardian.com/football/2026/sep/07/mauricio-pochettino-usmnt-soccer-head-coach"
+    },
+    {
+      "text": "⚽ Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+      "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg"
     }
   ],
   "timeline": {
@@ -16494,7 +16494,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-07 @ 15:00:57 EDT",
+  "lastUpdated": "2026-09-07 @ 17:40:54 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
