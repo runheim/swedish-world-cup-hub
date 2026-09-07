@@ -12,10 +12,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/videos/cpwlqre0qy9o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Odegaard and Saka star - player ratings for Arsenal v Chelsea",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c4gr71gygg8o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
       "link": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage"
     },
@@ -26,6 +22,10 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Monaco kept their best players and are top of Ligue 1 – but at what cost?",
       "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg"
+    },
+    {
+      "text": "⚽ US Open LIVE! Osaka vs Rybakina to come after Zheng dumps out Swiatek",
+      "link": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action"
     },
     {
       "text": "⚽ The flap of a wing: How St Helens let success become stagnation",
@@ -52294,11 +52294,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0058_0",
+            "category": "england",
+            "type": "News",
+            "title": "Can Kane buck history and win Ballon d'Or?",
+            "bullets": [
+              "History suggests Ballon d’Or winners come from those who have recently lifted one of football's bigg...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
+            "fullText": "Harry Kane helped England to third place in the World Cup\n\nWith the Ballon d'Or shortlist to be announced on Tuesday, Harry Kane heads the field as the bookmakers' favourite after a prolific season for club and country. History, however, suggests football's biggest individual prize is rarely decided on goals alone.\n\nSince the Ballon d'Or was first awarded in 1956, performances in the game's biggest competitions have consistently shaped the outcome.\n\nWorld Cup years, in particular, have followed a remarkably clear pattern and recent editions have shown just how difficult it is to win the award without lifting a major global or continental tournament.\n\nOnce the nominees are announced, an international jury of specialised journalists will cast their votes, with one representative per country from the men's top 100 having their say.\n\nSo, can Kane, who has never finished higher than 10th in the battle to be the world's best player, become one of the rare exceptions?\n\n73 goals from dropping deep - we ask Kane to break down how he did it\n\nCreated by France Football journalist Gabriel Hanot, the Ballon d'Or was first presented in 1956, with England's Sir Stanley Matthews the inaugural winner. Originally voted for by journalists, the award was restricted to European players until eligibility was expanded to all nationalities in 1995.\n\nRaymond Kopa became the first Ballon d'Or winner in a World Cup year after helping France reach the 1958 semi-finals. To mark the award's 60th anniversary in 2016, France Football revisitedevery pre-1995 edition,external. Its retrospective review concluded Pele would have claimed the award after inspiring Brazil to their first World Cup triumph at the age of 17.\n\nFour years later, Josef Masopust officially won the Ballon d'Or after captaining Czechoslovakia to the World Cup final. Again, France Football judged Brazil's Garrincha to have been the standout performer after leading his country to successive World Cup titles.\n\nIt reached the same verdict for Pele in 1970 after he inspired Brazil to a third World Cup crown. By then, a clear pattern had emerged. Bobby Charlton (1966), Paolo Rossi (1982), Lothar Matthaus (1990), Zinedine Zidane (1998), Ronaldo (2002) and Fabio Cannavaro (2006) all won the Ballon d'Or after lifting the World Cup.\n\nEven among the official exceptions, players still tended to enjoy deep runs at the tournament. Johan Cruyff collected the Ballon d'Or after leading the Netherlands to the 1974 World Cup final, while Luka Modric repeated the feat with Croatia in 2018.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0059_1",
+            "category": "england",
+            "type": "News",
+            "title": "Young praises Rashford and Shaw chemistry",
+            "bullets": [
+              "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left in Manchester United's 2-2 draw against Everton.at the Hill Dickinson Stadium.",
+            "fullText": "Match of the Day pundit Ashley Young looks at Marcus Rashford and Luke Shaw's connection on the left  in Manchester United's 2-2 draw against Everton.\n\nMATCH REPORT:Premier League - Everton 2-2 Manchester United",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0059_2",
+            "category": "england",
+            "type": "News",
+            "title": "Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
+            "bullets": [
+              "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitorsThere have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to criticism from Arsenal fans after a stultifying 0-0 draw in April 2015. On Sunday, though, there was no holding back from Chelsea. “I want to compete in the best possible way to win,” Xabi Alonso said after seeing his new side edged out by Arsenal in a breathless encounter. “Today we didn’t want to sit deep from the first minute. We wanted to be active.”The plan worked at times. Chelsea maintained their habit of scoring early goals, going ahead through Morgan Rogers, and created further openings. But they were facing the champions and do not have Arsenal’s completeness. Shortcomings were exploited, particularly in midfield. Declan Rice romped through the middle at one point and the winning goal owed much to Reece James losing track of Martin Ødegaard as Arsenal’s captain strode through to fire past Emiliano Martínez. Continue reading...",
+            "fullText": "There was a gulf between the teams in the middle of the park, with Moisés Caicedo’s absence hurting the visitors\n\nThere have been seasons when Chelsea have turned up at the Emirates Stadium and parked the bus. “You know, I think 10 years without a title is boring,” José Mourinho said in response to criticism from Arsenal fans aftera stultifying 0-0 draw in April 2015. On Sunday, though, there was no holding back from Chelsea. “I want to compete in the best possible way to win,” Xabi Alonso said after seeing his new sideedged out by Arsenal in a breathless encounter. “Today we didn’t want to sit deep from the first minute. We wanted to be active.”\n\nThe plan worked at times. Chelsea maintained their habit of scoring early goals, going ahead through Morgan Rogers, and created further openings. But they were facing the championsand do not have Arsenal’s completeness. Shortcomings were exploited, particularly in midfield. Declan Rice romped through the middle at one point and the winning goal owed much to Reece James losing track of Martin Ødegaard as Arsenal’s captain strode throughto fire past Emiliano Martínez.\n\nIt was expected to be a key battleground, and the way Arsenal went 2-1 up was felt keenly by Chelsea given their difficulties on deadline day,when Enzo Fernández got his £125m move to Manchester Cityand no one was signed to replace the Argentinian. However, it is worth remembering Chelsea were short not only of Fernández’s offensive skills as they fell to their first defeat under Alonso. It was also significant that Moisés Caicedo was out again, an unspecified issue proving a nuisance, and it is a concern that Alonso lacks a suitable stand‑in for the Ecuador international whose ability to cover ground, snap into challenges and shield his defence would have come in handy against a midfield as powerful as Arsenal’s.\n\nThere is much to like about Alonso’s vision.Chelseaare not obsessed with possession and are speeding forward on the counterattack. Yet while they look menacing with every attack there is a cost to the chaos. Alonso has found balance elusive. Chelsea have conceded seven goals in three games, are without a clean sheet in the league since January and need the oomph provided by Caicedo if they are to make this full-throttle style work.\n\nCaicedo, such an important presence since joining for £115m in 2023, is yet to start this season. He missedthe 3-2 win against Fulhamand was replaced 14 minutes after coming on duringthe 4-3 victory against Brighton. Alonso is erring on the side of caution. He stressed there was no long-term problem after the Arsenal game and admitted Caicedo was rushed back against Brighton. “I don’t want to make the same mistake again,” Alonso said, keeping the wider picture in mind. It is a long season, even with no European football, and the physical demands of the league means there is no point Caicedo playing through pain when doing so would surely cause more problems down the line.\n\nAs it stands, though, Chelsea are too open and cannot strengthen until January. Compromises are necessary but the jury is out on some fixes.Alonso is a believer in James, whose shift from right‑back to central midfielder started under Enzo Maresca, but the captain is learning the role and his lack of feel for the position was exposed by Ødegaard.\n\nArsenal found the gaps. Roméo Lavia started alongside James but is yet to complete 90 minutes since joining Chelsea three years ago. The Belgian has struggled with injuries and ran out of steam againstArsenalafter an hour, at which point Alonso looked to his bench and replaced Lavia with Malo Gusto, leaving his expensively assembled side to play out the closing stages with two repurposed right-backs in the middle.\n\nThis was never the plan. Chelsea looked at replacements for Fernández. They wanted Alex Scott but Bournemouth would not sell. Crystal Palace’s Adam Wharton has admirers, there was interest in Roma’s Manu Koné, whilea move for Monaco’s Lamine Camara,which collapsed as the summer window closed, left Chelsea fuming.\n\nIn January Chelsea will hope to find a player more suited to Alonso’s system than Fernández, who is not the most mobile. They are not missing him in an attacking sense. Chelsea are scoring and the bigger headache is what to do out of possession. They do not have another player with Caicedo’s skillset.\n\nKick off your evenings with the Guardian's take on the world of football\n\nDário Essugo was billed as Caicedo’s deputy when he joined last year but does not have Alonso’s trust and has been loaned to Strasbourg. Jordan Henderson is recovering from a broken wrist and is 36, and sending on Gusto over Valentín Barco was an early pointer. Barco, signed from Strasbourg this summer, is promising but the 22-year-old is inexperienced and, in any case, is more passer than destroyer.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0059_3",
+            "category": "england",
+            "type": "News",
+            "title": "Football Daily | Big day for Ødegaard with balaclavas, Basques and a boot to the head",
+            "bullets": [
+              "Sign up now! Sign up now! Sign up now? Sign up now!Perusing assorted Social Media Disgrace for some ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Sign up now! Sign up now! Sign up now? Sign up now!Perusing assorted Social Media Disgrace for some Monday inspiration, Football Daily was struck by the amount of scorn and ridicule heaped upon a large group of men dressed in black, many of them wearing balaclavas to hide their identities. Formed with the intention of creating something resembling a matchday atmosphere in and around the Emirates Stadium, the Ashburton Army is a group of wannabe ultras who would almost certainly retreat at the speed of light if confronted by one of the more hardcore continental firms they style themselves after. While many fellow fans view them with utter disdain for their “try-hard” aesthetic, on the same day a large group of identically attired and significantly older men were marching on Portsmouth to intimidate a boat-load of asylum seekers, the feeling persists that on this occasion, those pouring derision on this gang of overenthusiastic Ruperts might have set their sights elsewhere.Re: Kieron Dyer and his MJ press conference (Friday’s Football Daily, full email edition). I wish he’d just beat it” – Marc Meldrum.‘Mike’ Hackett? Let’s start a new trend and give every referee the moniker ‘Mike’, going back as far as 1891. Mike Langenus. Mike Horn. Mike Ellis. Mike Taylor. Mike Partridge. Mike Courtney. Mike Collina. Mike Clattenburg. Heck, even Mike ‘Mike’ Dean. Why not, since they’re all miked up theses days anyway” – Ben van Maaren.I was wondering if the World Cup had taken some players over that threshold between good and great. Thinking about players who had a brilliant competition and have come back men, not boys. No more nerves or inconsistency. Eg Haaland, post-haircut … maybe Ødegaard? Can you think of anyone else transformed? And, conversely, how would a bad WC affect someone? Or, again, what about Cole Palmer? Four years of hurt or dodged a bullet?” – Russell Richardson.A promoted team like Hull may be in the top four. Chelsea may sell/loan 40 players and still carry a bench worth half a billion GBP. Manchester United may suddenly look like a team that can play 90 minutes without imploding. Nothing is certain, except Spurs staying in the relegation zone until MD 36. Thank you Spurs, for such stability” – Krishna Moorthy.This is an extract from our daily football email … Football Daily. To get the full version, just visit this page and follow the instructions. Continue reading...",
+            "fullText": "Sign up now! Sign up now! Sign up now? Sign up now!\n\nPerusing assorted Social Media Disgrace for some Monday inspiration, Football Daily was struck by the amount of scorn and ridicule heaped upon a large group of men dressed in black, many of them wearing balaclavas to hide their identities. Formed with the intention of creating something resembling a matchday atmosphere in and around the Emirates Stadium, the Ashburton Army is a group of wannabe ultras who would almost certainly retreat at the speed of light if confronted by one of the more hardcore continental firms they style themselves after. While many fellow fans view them with utter disdain for their “try-hard” aesthetic, on the same day a large group of identically attired and significantly older men were marching on Portsmouth to intimidate a boat-load of asylum seekers, the feeling persists that on this occasion, those pouring derision on this gang of overenthusiastic Ruperts might have set their sights elsewhere.\n\nWidely billed as The Basque 44-Year-Olds Who Grew Up Together In The Antiguo Locale of San Sebastián and Remain Close Friends To This Day derby, there was atmos aplenty at the Emirates Stadium as Arsenal hosted one of very few teams given a snowball’s chance in hell of challenging them for the title this season. And while Xabi Alonso’s Chelsea took a very early lead courtesy of some uncharacteristically shonky Arsenal defending at a set-piece,the champions ultimately prevailed. Their victory was due in no small part to Martin Ødegaard, who put in the kind of purring performance we simply did not often see from the frequently absent or knack-plagued Norwegian as his teammates ground out victory after victory en route to last season’s title. “I think he is enjoying his football,” whooped Mikel Arteta as he praised his captain after the game. “His personal life is settled. He is available. He is training. He has his routine and if he is intelligent, he can take a lot of benefits from the players around him. I think he was outstanding today.”\n\nHaving watched Arsenal play three, win three and score all six of their goals from open play in the Premier League so far, cynics who spent large tracts of last season criticising Arteta’s side’s over-reliance on set-piece goals have had to find new nits to pick. No stranger to controversy last season, on Sunday Gabriel Magalhães prompted a nationwide chorus of grumbles for escaping a red card despite kicking the Chelsea goalkeeper in the head. “Martínez has got the ball in his hands and he boots him in the head,” observed Wayne Rooney with a chuckle on Match of the Day. “I think he’s extremely lucky to stay on the pitch.” And while Football Daily is largely against heads being kicked on the football pitch or elsewhere, the decision not to dismiss Arsenal’s defender was correct because there was no malice aforethought as the Brazilian scrapped for the ball and he did not throw his boot with excessive force. In so many ways this is an Arsenal we are not used to seeing, but one that already looks far better than the one that won the league.\n\n“Two months after the events, we note that our questions remain unanswered to date. Given the importance of transparency and clarity for all parties involved, we request the necessary explanations and, at the same time, wish to explore where improvements to the current processes are possible, so that similar cases can be handled in a clear, consistent and efficient manner in the future”​ – Pascale Van Damme, president of the Royal Belgian Football Association. Belgium are currently a “nah” to supportingGianni Infantino’s run for another goat being Fifa president after an unsatisfactory conclusion to inquiries about how USA USA USA’s Folarin Balogun was suddenly available for selection to face them at the World Cup despite a red card.\n\ndouble quotation markRe: Kieron Dyer and his MJ press conference (Friday’s Football Daily, full email edition). I wish he’d just beat it” – Marc Meldrum.\n\ndouble quotation mark‘Mike’ Hackett? Let’s start a new trend and give every referee the moniker ‘Mike’, going back as far as 1891. Mike Langenus. Mike Horn. Mike Ellis. Mike Taylor. Mike Partridge. Mike Courtney. Mike Collina. Mike Clattenburg. Heck, even Mike ‘Mike’ Dean. Why not, since they’re all miked up theses days anyway” – Ben van Maaren.\n\ndouble quotation markI was wondering if the World Cup had taken some players over that threshold between good and great. Thinking about players who had a brilliant competition and have come back men, not boys. No more nerves or inconsistency. Eg Haaland, post-haircut … maybe Ødegaard? Can you think of anyone else transformed? And, conversely, how would a bad WC affect someone? Or, again, what about Cole Palmer? Four years of hurt or dodged a bullet?” – Russell Richardson.\n\ndouble quotation markA promoted team like Hull may be in the top four. Chelsea may sell/loan 40 players and still carry a bench worth half a billion GBP. Manchester United may suddenly look like a team that can play 90 minutes without imploding. Nothing is certain, except Spurs staying in the relegation zone until MD 36. Thank you Spurs, for such stability” – Krishna Moorthy.\n\nIf you have any, please send letters tothe.boss@theguardian.com.Today’s letter o’ the day winner is … KrishnaMoorthy, who gets a copy ofThe Mbappé Projectby Philippe Auclair. Copies are available inthe Guardian Bookshopif you are not the lucky scribe. Terms and conditions for our competitions, when we run them, arehere.\n\nThis is an extract from our daily football email … Football Daily. To get the full version,just visit this page and follow the instructions.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0059_4",
+            "category": "england",
+            "type": "News",
+            "title": "Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+            "bullets": [
+              "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s c...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s complicatedBy Get French Football NewsWhen a manager says that “no player is more important than the club”, it is usually because said player is agitating for a move. Filipe Luís was referring to Folarin Balogun, who did quite the opposite on transfer deadline day, opting to stay at Monaco rather than joining Everton, despite an agreement between the clubs.You’d think that retaining your top scorer from last season would be reason for celebration, but the fact it is not once again exposes the French football paradox. Like plenty of other clubs in Ligue 1, Monaco are torn between sporting and financial prerogatives. They ended up prioritising the former on transfer deadline day, albeit unwillingly, and even in a week when they beat PSG at the Parc des Princes to retain their 100% record, it is bittersweet. Continue reading...",
+            "fullText": "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s complicated\n\nWhen a manager says that “no player is more important than the club”, it is usually because said player is agitating for a move. Filipe Luís was referring to Folarin Balogun, who did quite the opposite on transfer deadline day,opting to stay at Monacorather than joining Everton, despite an agreement between the clubs.\n\nYou’d think that retaining your top scorer from last season would be reason for celebration, but the fact it is not once again exposes the French football paradox. Like plenty of other clubs inLigue 1, Monaco are torn between sporting and financial prerogatives. They ended up prioritising the former on transfer deadline day, albeit unwillingly, and even in a week when they beat PSG at the Parc des Princes to retain their 100% record, it is bittersweet.\n\nMonaco went into deadline day prepared to make a sacrifice. Balogun was their top scorer last season and had shone at the World Cup for USA, but his exit had been planned. Matthis Abline had arrived from Nantes at the start of the window to take his place and everything was going “as planned” in the words of the club’s CEO, Thiago Scuro.\n\nIt wasn’t so simple though. In the midst of Balogun’s on-again-off-again move to Everton, Monaco agreed and then reneged on a deal to sell Lamine Camara to Chelsea. No manager would want to lose the midfielder, but Monaco had been forced to accept Chelsea’s offer, having made promises to French football’s financial watchdog, the DNCG, to reduce the wage bill and raise considerable funds in player sales. However, by the time a deal was struck with Chelsea, the French transfer window had closed and Camara’s replacement, Érik Lira, was no longer an option, especially given that the non-EU spot, occupied by Balogun, had not been vacated as planned.\n\nUltimately, neither Camara nor Balogun left. Good news, you might think. If it was, you couldn’t necessarily tell in Scuro’s hastily convened press conference on Wednesday, when the club’s CEO rallied against the idea that Monaco were “the bad guys in the room” following the series of unfortunate events the night before. “Unfortunately, we have to face this situation and find solutions in different ways,” added Scuro. It remains to be seen what the solutions are.\n\nLuís, meanwhile, bemoaned an “imbalanced” squad: too many centre-forwards, a lack of midfield cover, and no recognised right-winger after Maghnes Akliouche’s move to PSG. The squad may lack balance and the club did not bring in the money they need, but the reason for their despondency is also the reason they can now harbour greater ambitions for the season. Balogun was Monaco’s best player last season; Camara has been their best player so far this season. If Camara was affected by the Chelsea saga, it did not show on Friday night. He was excellent in the second half as Monaco came from behind to beat PSG, with goals from Nazinho and Stanis Idumbo securing the 2-1 win.\n\nLuís – who played for Atlético Madrid, Chelsea and Flamengo, as well as Brazil – says a big move will come for Camara. “If he maintains his level, it won’t just be one club – all the big clubs will come for him,” said the manager, adding that the 22-year-old is “unbelievable”, “elite”, and that “there aren’t a lot of players like him in football”. Scuro hinted that there would be “even better options and offers” in the future for the Senegal international. An eventual departure is expected, but Monaco should at least try to live in the present – as much as the spectre of financial obligations looms.\n\nThe manager has plenty of talent at his disposal and Balogun, who has missed the first few games of the season, is set to return soon. Without their top scorer from last season, Monaco have won their first five fixtures of the campaign in all competitions, scoring 12 goals in the process. The club’s decision to sack Sébastien Pocognoli in the summer looked harsh, but no one could complain about the start Luís has made. Not even the legendary Arsène Wenger enjoyed a better start at Monaco than the Brazilian.\n\nLuís was full of praise for Luis Enrique, naming him as one of the top five managers in history. And the respect is mutual. “He is a manager I like a lot,” said the PSG boss. “I was happy when I found out that he was coming to France, then I told myself that I maybe shouldn’t be.” The pair faced each other in the Intercontinental Cup last year, when Flamengo – who won the Copa Libertadores under Luís – held PSG to a 1-1 draw before the French side won a penalty shootout.\n\nMonaco are the only team to have won their first three Ligue 1 games this season. They have kept their best players, bar Akliouche, and they have a highly rated manager who is enhancing his reputation every week. There is plenty to cheer about, at least on the face of things, but the reasons for optimism are also the reasons for concern; such is the paradox that afflicts Monaco.\n\n“Ça se prolonge,” read the front page ofL’Équipeon Saturday. “It’s extended” was not only a reference to Luis Enrique, Fabián Ruiz, João Neves, Willian Pacho, Senny Mayulu and Lucas Beraldo extending their contracts, but also to PSG’s winless run in Ligue 1 this season. The last time PSG began a campaign without a win in their first three was in 2012. PSG won the league that season and there isn’t too much concern this time around. “In my first two seasons, we had a habit of not winning games at the start of the season, and at the end we won everything,” said Neves post-match. Luis Enrique said he was willing to bet that PSG would finish the season as champions. Even if the European champions are in the bottom half of the table, seven points off leaders Monaco, few would bet against them securing their sixth consecutive Ligue 1 title come May.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0059_5",
+            "category": "england",
+            "type": "News",
+            "title": "US Open LIVE! Osaka vs Rybakina to come after Zheng dumps out Swiatek",
+            "bullets": [
+              "Latest update from Sky Sports Football.",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest real-time briefing from Sky Sports Football covering the England national football team.",
+            "fullText": "Get the latest scores, updates, news and results from the US Open in New York; watch live on Sky Sports' dedicated tennis channel",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0059_6",
+            "category": "england",
+            "type": "News",
+            "title": "The flap of a wing: How St Helens let success become stagnation",
+            "bullets": [
+              "The dust has settled on the fact that St Helens have missed out on play-off rugby for the first time...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The dust has settled on the fact that St Helens have missed out on play-off rugby for the first time after their seventh-placed finish in Super League.",
+            "fullText": "Sky Sports' Megan Wellens dissects how St Helens succumbed to their worst-ever Super League finish in 2026;the regular Betfred Super League season concludes with Round 27 from Thursday September 10 live on Sky Sports",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-07 @ 12:09:56 EDT",
+  "lastUpdated": "2026-09-07 @ 15:01:00 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
