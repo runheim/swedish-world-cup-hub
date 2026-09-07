@@ -8,7 +8,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.svt.se/sport/fotboll/darfor-kollar-dijan-vukojevic-pa-bodybuilders-jobbigt-for-andra"
     },
     {
-      "text": "⚽ Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+      "text": "⚽ Dijan Vukojevic's long journey towards the Allsvenskan - lived in a dressing room",
       "link": "https://www.svt.se/sport/fotboll/dijan-vukojevics-langa-resa-moy-allsvenskan-bodde-i-ett-omkladningsrum"
     }
   ],
@@ -20487,11 +20487,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5301_0",
+            "category": "sweden",
+            "type": "News",
+            "title": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nThe 30-year-old describes, for example, his development from \"skinny\" - to muscular. He measures most things and weighs his food.\n\n- For example, I looked at bodybuilders and took aspects from all sorts of things and put on a lot of kilos. Now physics is one of my strong points, he says.\n\nVukojevic represented Degerfors in 2022-2024. He returned in the summer of 2025.\n\nWHERE IS IT: Se mer av Dijan Vukojevic i SVT's serie \"Allsvenska profiler\" här.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5302_1",
+            "category": "sweden",
+            "type": "News",
+            "title": "Dijan Vukojevic's long journey towards the Allsvenskan - lived in a dressing room",
+            "bullets": [
+              "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all...",
+              "Reported live by SVT Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Error 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "fullText": "A wooden bench as a bed and a hoodie and cap as pyjamas.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.\n\nError 500 (Server Error)!!1500.That’s an error.There was an error. Please try again later.That’s all we know.",
+            "author": "SVT Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-07 @ 17:41:10 EDT",
+  "lastUpdated": "2026-09-07 @ 19:53:02 EDT",
   "banter": [
     {
       "sender": "Dejan Kulusevski",
