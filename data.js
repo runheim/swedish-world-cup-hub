@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Champions League returns - who are favourites and players to watch?",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Can Kane buck history and win Ballon d'Or?",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -24,7 +28,7 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg"
     },
     {
-      "text": "⚽ US Open LIVE! Osaka vs Rybakina to come after Zheng dumps out Swiatek",
+      "text": "⚽ US Open LIVE! Rybakina thumps Osaka 6-1 in one-sided opening set",
       "link": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action"
     },
     {
@@ -52423,7 +52427,7 @@ const DYNAMIC_HUB_DATA = {
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-07 @ 15:01:00 EDT",
+  "lastUpdated": "2026-09-07 @ 17:38:57 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
