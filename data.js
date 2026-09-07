@@ -4,24 +4,8 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Christian Pulisic shares World Cup journal: 'We are ready for the challenge'",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🌍 Group D standings update: USA targets knockout round qualification",
-      "link": "https://www.fifa.com/fifaplus/en/tournaments/mens/worldcup/canadamexicousa2026"
-    },
-    {
-      "text": "💪 Christian Pulisic continues to lead intense training drills in the Denver camp.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "🚑 Tyler Adams completes full fitness registers; Pochettino confirms 100% squad availability.",
-      "link": "https://www.ussoccer.com/"
-    },
-    {
-      "text": "📈 USA World Cup Group D tickets sell out completely in under 12 minutes.",
-      "link": "https://www.ussoccer.com/"
+      "text": "⚽ Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+      "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg"
     }
   ],
   "timeline": {
@@ -16439,11 +16423,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1452_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Monaco kept their best players and are top of Ligue 1 – but at what cost?",
+            "bullets": [
+              "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s c...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s complicatedBy Get French Football NewsWhen a manager says that “no player is more important than the club”, it is usually because said player is agitating for a move. Filipe Luís was referring to Folarin Balogun, who did quite the opposite on transfer deadline day, opting to stay at Monaco rather than joining Everton, despite an agreement between the clubs.You’d think that retaining your top scorer from last season would be reason for celebration, but the fact it is not once again exposes the French football paradox. Like plenty of other clubs in Ligue 1, Monaco are torn between sporting and financial prerogatives. They ended up prioritising the former on transfer deadline day, albeit unwillingly, and even in a week when they beat PSG at the Parc des Princes to retain their 100% record, it is bittersweet. Continue reading...",
+            "fullText": "You might think Monaco have plenty to cheer about, especially after their 2-1 win at PSG, but it’s complicated\n\nWhen a manager says that “no player is more important than the club”, it is usually because said player is agitating for a move. Filipe Luís was referring to Folarin Balogun, who did quite the opposite on transfer deadline day,opting to stay at Monacorather than joining Everton, despite an agreement between the clubs.\n\nYou’d think that retaining your top scorer from last season would be reason for celebration, but the fact it is not once again exposes the French football paradox. Like plenty of other clubs inLigue 1, Monaco are torn between sporting and financial prerogatives. They ended up prioritising the former on transfer deadline day, albeit unwillingly, and even in a week when they beat PSG at the Parc des Princes to retain their 100% record, it is bittersweet.\n\nMonaco went into deadline day prepared to make a sacrifice. Balogun was their top scorer last season and had shone at the World Cup for USA, but his exit had been planned. Matthis Abline had arrived from Nantes at the start of the window to take his place and everything was going “as planned” in the words of the club’s CEO, Thiago Scuro.\n\nIt wasn’t so simple though. In the midst of Balogun’s on-again-off-again move to Everton, Monaco agreed and then reneged on a deal to sell Lamine Camara to Chelsea. No manager would want to lose the midfielder, but Monaco had been forced to accept Chelsea’s offer, having made promises to French football’s financial watchdog, the DNCG, to reduce the wage bill and raise considerable funds in player sales. However, by the time a deal was struck with Chelsea, the French transfer window had closed and Camara’s replacement, Érik Lira, was no longer an option, especially given that the non-EU spot, occupied by Balogun, had not been vacated as planned.\n\nUltimately, neither Camara nor Balogun left. Good news, you might think. If it was, you couldn’t necessarily tell in Scuro’s hastily convened press conference on Wednesday, when the club’s CEO rallied against the idea that Monaco were “the bad guys in the room” following the series of unfortunate events the night before. “Unfortunately, we have to face this situation and find solutions in different ways,” added Scuro. It remains to be seen what the solutions are.\n\nLuís, meanwhile, bemoaned an “imbalanced” squad: too many centre-forwards, a lack of midfield cover, and no recognised right-winger after Maghnes Akliouche’s move to PSG. The squad may lack balance and the club did not bring in the money they need, but the reason for their despondency is also the reason they can now harbour greater ambitions for the season. Balogun was Monaco’s best player last season; Camara has been their best player so far this season. If Camara was affected by the Chelsea saga, it did not show on Friday night. He was excellent in the second half as Monaco came from behind to beat PSG, with goals from Nazinho and Stanis Idumbo securing the 2-1 win.\n\nLuís – who played for Atlético Madrid, Chelsea and Flamengo, as well as Brazil – says a big move will come for Camara. “If he maintains his level, it won’t just be one club – all the big clubs will come for him,” said the manager, adding that the 22-year-old is “unbelievable”, “elite”, and that “there aren’t a lot of players like him in football”. Scuro hinted that there would be “even better options and offers” in the future for the Senegal international. An eventual departure is expected, but Monaco should at least try to live in the present – as much as the spectre of financial obligations looms.\n\nThe manager has plenty of talent at his disposal and Balogun, who has missed the first few games of the season, is set to return soon. Without their top scorer from last season, Monaco have won their first five fixtures of the campaign in all competitions, scoring 12 goals in the process. The club’s decision to sack Sébastien Pocognoli in the summer looked harsh, but no one could complain about the start Luís has made. Not even the legendary Arsène Wenger enjoyed a better start at Monaco than the Brazilian.\n\nLuís was full of praise for Luis Enrique, naming him as one of the top five managers in history. And the respect is mutual. “He is a manager I like a lot,” said the PSG boss. “I was happy when I found out that he was coming to France, then I told myself that I maybe shouldn’t be.” The pair faced each other in the Intercontinental Cup last year, when Flamengo – who won the Copa Libertadores under Luís – held PSG to a 1-1 draw before the French side won a penalty shootout.\n\nMonaco are the only team to have won their first three Ligue 1 games this season. They have kept their best players, bar Akliouche, and they have a highly rated manager who is enhancing his reputation every week. There is plenty to cheer about, at least on the face of things, but the reasons for optimism are also the reasons for concern; such is the paradox that afflicts Monaco.\n\n“Ça se prolonge,” read the front page ofL’Équipeon Saturday. “It’s extended” was not only a reference to Luis Enrique, Fabián Ruiz, João Neves, Willian Pacho, Senny Mayulu and Lucas Beraldo extending their contracts, but also to PSG’s winless run in Ligue 1 this season. The last time PSG began a campaign without a win in their first three was in 2012. PSG won the league that season and there isn’t too much concern this time around. “In my first two seasons, we had a habit of not winning games at the start of the season, and at the end we won everything,” said Neves post-match. Luis Enrique said he was willing to bet that PSG would finish the season as champions. Even if the European champions are in the bottom half of the table, seven points off leaders Monaco, few would bet against them securing their sixth consecutive Ligue 1 title come May.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-07 @ 02:15:39 EDT",
+  "lastUpdated": "2026-09-07 @ 12:14:54 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
