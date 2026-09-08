@@ -4,32 +4,28 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Who are Champions League favourites and players to watch?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c17j5lr8kkqo?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Favourite Kane makes Ballon d'Or shortlist",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Can Kane buck history and win Ballon d'Or?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2gee75vz7o?at_medium=RSS&amp;at_campaign=rss"
+      "text": "⚽ Club Brugge v Aston Villa: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live"
+    },
+    {
+      "text": "⚽ Porto v Manchester City: Champions League – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live"
+    },
+    {
+      "text": "⚽ Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
+      "link": "https://www.theguardian.com/football/2026/sep/08/harry-kane-alessia-russo-nominees-ballon-dor-2026"
     },
     {
       "text": "⚽ Champions League is fertile ground for new managers – but knowhow could be key later on",
       "link": "https://www.theguardian.com/football/2026/sep/08/champions-league-managers-luis-enrique-vincent-kompany-mikel-arteta-jose-mouriinho"
     },
     {
-      "text": "⚽ Chelsea’s midfield a headache for Alonso after Arsenal press advantage | Jacob Steinberg",
-      "link": "https://www.theguardian.com/football/2026/sep/07/chelseas-midfield-a-headache-for-alonso-after-arsenal-press-advantage"
-    },
-    {
-      "text": "⚽ Monaco kept their best players and are top of Ligue 1 – but at what cost?",
-      "link": "https://www.theguardian.com/football/2026/sep/07/monaco-best-players-top-ligue-1-psg"
-    },
-    {
-      "text": "⚽ Rybakina too strong for Osaka as Zheng stuns Swiatek at US Open",
-      "link": "https://www.skysports.com/tennis/news/12040/13582890/us-open-2026-qinwen-zheng-stages-epic-comeback-to-stun-iga-swiatek-and-reach-quarter-finals"
-    },
-    {
-      "text": "⚽ US Open: Rybakina closes in on world No 1 spot after dispatching Osaka",
-      "link": "https://www.skysports.com/tennis/live-blog/12040/13582595/us-open-live-scores-updates-news-and-results-from-new-york-with-naomi-osaka-iga-swiatek-coco-gauff-and-alexander-zverev-in-action"
+      "text": "⚽ Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
+      "link": "https://www.skysports.com/football/news/12040/13582892/ballon-dor-2026-harry-kane-declan-rice-jude-bellingham-among-nominees-but-no-cristiano-ronaldo"
     }
   ],
   "timeline": {
@@ -52796,11 +52792,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_2150_0",
+            "category": "england",
+            "type": "News",
+            "title": "Favourite Kane makes Ballon d'Or shortlist",
+            "bullets": [
+              "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+            "fullText": "Harry Kane scored 73 goals last season for club and country\n\nBayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or.\n\nReal Madrid's Jude Bellingham and Arsenal's Declan Rice join Kane, the favourite for the award, on the 30-player shortlist.\n\nInter Miami forward Lionel Messi, who is looking to win his ninth Ballon d'Or, has been nominated.\n\nThe 39-year-old scored eight goals as Argentina lost the World Cup final to Spain in July, with Messi sinceretiring from international football.\n\nLamine Yamal is one of six Spain players that won the World Cup to be included.\n\nHaving scored the winning goal in the final, Paris St-Germain forward Ferran Torres, who joined the French club from Barcelona in the summer, makes the cut.\n\nBack-to-back Champions League winners Paris St-Germain have nine players - excluding new signing Torres - nominated, including last year's winner Ousmane Dembele.\n\nReal Madrid forwards Kylian Mbappe and Vinicius Jr also make the shortlist, as do Arsenal defenders Gabriel and William Saliba.\n\nThe award is celebrating its 70th anniversary, having been created by France Football in 1956, and the winner will be announced at an ceremony in London on 26 October.\n\nThe \"symbolic choice of venue\" is in tribute to former England player Sir Stanley Matthews, who won the first Ballon d'Or.\n\nKerim Alajbegovic (Bayer Leverkusen/Bosnia-Herzegovina)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2151_1",
+            "category": "england",
+            "type": "News",
+            "title": "Club Brugge v Aston Villa: Champions League – live",
+            "bullets": [
+              "⚽ Champions League news from the 5.45pm BST kick-off⚽ Live scores | Follow us on Instagram | Read Fo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ Champions League news from the 5.45pm BST kick-off⚽ Live scores | Follow us on Instagram | Read Football DailyHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or while Alessia Russo and Alex Greenwood have been nominated for the women’s award.The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament. Continue reading...",
+            "fullText": "76 minBlimey, there hasn’t been a chance at either end for at least 90 seconds.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2151_2",
+            "category": "england",
+            "type": "News",
+            "title": "Porto v Manchester City: Champions League – live",
+            "bullets": [
+              "⚽ Champions League updates from the 8pm BST kick-off⚽ Live scores | Read Football Daily | And you ca...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "⚽ Champions League updates from the 8pm BST kick-off⚽ Live scores | Read Football Daily | And you can mail NiallPorto (4-3-3): Diogo Costa (c); Alberto Costa, Perez, Kiwior, Fernandes; Rosario, Varela, Veiga; William, Andre Silva, Pepe. Subs: Claudio Ramos, Joao Costa, Hwang, Sainz, Gimenez, Souza, Fofana, Silva, Moura, Teixeira, Cunha, Luis Gomes.Manchester City (4-2-3-1): Donnarumma; Nunes, Dias (c), Guehi, Gvardiol; Bouaddi, Fernandez; Semenyo, Cherki, Foden; Haaland.Subs: Bettinelli, Rulli, Anderson, Kovacic, Ndiaye, Ait Nouri, Vitor Reis, Allan, Khusanov, McAidoo, Lewis. Continue reading...",
+            "fullText": "Enzo Marescachats to Amazon Prime before the match: “It’s a hard place to come, but we’re going to try our best … it’s the first game, it’s going to be a long run. We’ll see where we are in December and January.”\n\nHe’s asked about the pressure of following Pep Guardiola, but brushes it off. “I’m trying to do what I did at Leicester, at Chelsea, it’s nothing different.” On summer signings, he adds: “We have quality players, that means service for Erling [Haaland], movement between the lines.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2151_3",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
+            "bullets": [
+              "Bellingham, Rice and Alex Greenwood also nominatedCeremony to move from Paris to London for 2026 awa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham, Rice and Alex Greenwood also nominatedCeremony to move from Paris to London for 2026 awardsHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or while Alessia Russo and Alex Greenwood have been nominated for the women’s award.The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament. Continue reading...",
+            "fullText": "Ceremony to move from Paris to London for 2026 awards\n\nHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or with Alessia Russo and Alex Greenwood nominated for the women’s award.\n\nThe 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has hisFrance teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament.\n\nIn the women’s field, two-time winner Alexia Putellas, Ewa Pajor and Melchie Dumornay are among the favourites to succeed Aitana Bonmatí. Winner of the past three awards, Bonmatí did not make the cut after missing most of the season through injury. The Spaniard returned at the end of Barcelona’s quadruple-winning season that included another Champions League title.\n\nKane is odds-on to win the men’s award after a club-record 61 goals in 51 games for German double winners Bayern Munich last season. He also scored six times at the World Cup for England, a tournament where Bellingham and Rice shone as well, the latter also playing a key role in Arsenal ending a 22-year wait for the Premier League title.\n\nLamine Yamal, who won La Liga with Barcelona and the World Cup with Spain, is second favourite to win the award, followed by his club and international teammate Rodri. Messi, who has a record eight Ballon d’Or awards, is on the shortlist after guiding Argentina to the World Cup final and winning Major League Soccer with Inter Miami.\n\nRusso finished third in last year’s voting and enjoyed another successful individual campaign, scoring 24 goals in 40 club appearances. Greenwood, the Manchester City captain, lifted the Women’s Super League and FA Cup last season.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe Ballon d’Or ceremony is moving from its traditional Paris home to London this year to mark the 70th anniversary of the first award won by England great Stanley Matthews.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2151_4",
+            "category": "england",
+            "type": "News",
+            "title": "Champions League is fertile ground for new managers – but knowhow could be key later on",
+            "bullets": [
+              "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted outA delve into the history of the Champions League shows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the competition, others none.It gets under way on Tuesday with 14 of the 36 clubs led by managers who have been in the role for less than a year. It cannot match the turnover of the Premier League, in which 11 of 20 managers were appointed in 2026, but the tenures of the head coaches involved this season break down neatly. Continue reading...",
+            "fullText": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted out\n\nAdelve into the history of theChampions Leagueshows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the competition, others none.\n\nIt gets under way on Tuesdaywith 14 of the 36 clubs led by managers who have been in the role for less than a year. It cannot match the turnover of the Premier League, in which 11 of 20 managers were appointed in 2026, but the tenures of the head coaches involved this season break down neatly.\n\nThere are also 14 managers who have been in charge for at least two years. This leaves eight in the middle, who qualified for the Champions League in their first full season at their club and now get to show what they can do.\n\nBeing new to a team is no barrier to winning. Many who have led sides to the ultimate European club glory did so in their first campaign. Both Chelsea’s Champions League triumphs were secured by managers who got the job the same year. Carlo Ancelotti began both of his stints at Real Madrid by helping them to become champions of Europe in his year one, and in between Zinedine Zidane won three Champions League trophies on the bounce when he first managed the club.\n\nPep Guardiola and Luis Enrique also won the competition with Madrid’s great rivals, Barcelona, at the earliest opportunity. Barcelona’s current manager, Hansi Flick, ended his first season at Bayern with a treble. Liverpool fans will hope Andoni Iraola can emulate his countryman Rafael Benítez by winning the Champions League immediately after settling into the Anfield hot seat.\n\nDespite these examples making a decent case for new managers winning the competition this season, betting markets are favouring the more established coaches.\n\nAnd predictably enough, Paris Saint-Germain are the favourites with bookmakers, but it has nothing to do with this being Luis Enrique’s fourth season at the helm.The two‑time defending championshave a deep squad and face nothing like the domestic demands of their rivals in other top leagues.\n\nBarcelona, Arsenal and Bayern Munich make up the top four in the betting, with their managers also among the 13 longest-serving as the league phase begins. This contrasts with the next quartet of likeliest champions, all of whom have managers who took charge this year.\n\nBut do not assume freshness in the role automatically equates to inexperience. Real Madrid’s new manager, José Mourinho, has recorded 160 matches in the competition, the fifth most in history. Ancelotti leads on 218 Champions League games, ahead of three of thePremier League’s five “big beasts” of management: Alex Ferguson (206), Guardiola and Arsène Wenger (both 191). Mourinho and Jürgen Klopp (102 matches, seventh most) are the other members of modern English football’s most heralded managerial quintet.\n\nKick off your evenings with the Guardian's take on the world of football\n\nOnly Mourinho is involved in the Champions League this season and he will savour being the new kid on the block who is also the old hand. Mourinho will be confident of going past the last 16 for the first time since 2014 given the talent at his disposal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_2152_5",
+            "category": "england",
+            "type": "News",
+            "title": "Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
+            "bullets": [
+              "The 2026 Ballon d'Or nominees have been announced as the best male and female footballers of the yea...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 2026 Ballon d'Or nominees have been announced as the best male and female footballers of the year are identified.",
+            "fullText": "The 2026 Ballon d'Or nominees have been announced; 2026 marks the 70th edition, with the ceremony being held outside of Paris for the very first time in celebration; the 2026 ceremony takes place in London, England on October 26",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-08 @ 10:48:14 EDT",
+  "lastUpdated": "2026-09-08 @ 14:21:52 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
