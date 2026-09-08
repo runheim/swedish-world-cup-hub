@@ -27553,6 +27553,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Ska vi spela padel när vi får ledigt?",
       "time": "15:32",
       "isCaptain": false
+    },
+    {
+      "sender": "Viktor Gyökeres",
+      "avatar": "🇸🇪",
+      "text": "Vem tog mitt kaffe i matsalen?!",
+      "time": "09:08",
+      "isCaptain": false
+    },
+    {
+      "sender": "Lucas Bergvall",
+      "avatar": "🇸🇪",
+      "text": "God morgon! Är alla redo för dagens första pass?",
+      "time": "09:09",
+      "isCaptain": false
+    },
+    {
+      "sender": "Alexander Isak",
+      "avatar": "🇸🇪",
+      "text": "Har alla koll på schemat för morgondagen?",
+      "time": "09:10",
+      "isCaptain": false
+    },
+    {
+      "sender": "Victor Lindelöf",
+      "avatar": "🇸🇪",
+      "text": "Ska vi spela padel när vi får ledigt?",
+      "time": "09:11",
+      "isCaptain": true
+    },
+    {
+      "sender": "Yasin Ayari",
+      "avatar": "🇸🇪",
+      "text": "Vi ska visa hela världen vad vi går för!",
+      "time": "09:12",
+      "isCaptain": false
     }
   ]
 };
