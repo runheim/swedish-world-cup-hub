@@ -8,12 +8,12 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Club Brugge v Aston Villa: Champions League – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/club-brugge-v-aston-villa-champions-league-live"
+      "text": "⚽ Real Madrid 2-1 Inter, Millwall 0-1 Newcastle: Champions League and Carabao Cup – live",
+      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
     },
     {
-      "text": "⚽ Porto v Manchester City: Champions League – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/porto-v-manchester-city-champions-league-live"
+      "text": "⚽ First-half treble powers Aston Villa to Champions League win at Club Brugge",
+      "link": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report"
     },
     {
       "text": "⚽ Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
@@ -52900,11 +52900,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_1808_0",
+            "category": "england",
+            "type": "News",
+            "title": "Favourite Kane makes Ballon d'Or shortlist",
+            "bullets": [
+              "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+            "fullText": "Harry Kane scored 73 goals last season for club and country\n\nBayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or.\n\nReal Madrid's Jude Bellingham and Arsenal's Declan Rice join Kane, the favourite for the award, on the 30-player shortlist.\n\nInter Miami forward Lionel Messi, who is looking to win his ninth Ballon d'Or, has been nominated.\n\nThe 39-year-old scored eight goals as Argentina lost the World Cup final to Spain in July, with Messi sinceretiring from international football.\n\nLamine Yamal is one of six Spain players that won the World Cup to be included.\n\nHaving scored the winning goal in the final, Paris St-Germain forward Ferran Torres, who joined the French club from Barcelona in the summer, makes the cut.\n\nBack-to-back Champions League winners Paris St-Germain have nine players - excluding new signing Torres - nominated, including last year's winner Ousmane Dembele.\n\nReal Madrid forwards Kylian Mbappe and Vinicius Jr also make the shortlist, as do Arsenal defenders Gabriel and William Saliba.\n\nThe award is celebrating its 70th anniversary, having been created by France Football in 1956, and the winner will be announced at an ceremony in London on 26 October.\n\nThe \"symbolic choice of venue\" is in tribute to former England player Sir Stanley Matthews, who won the first Ballon d'Or.\n\nKerim Alajbegovic (Bayer Leverkusen/Bosnia-Herzegovina)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1809_1",
+            "category": "england",
+            "type": "News",
+            "title": "Real Madrid 2-1 Inter, Millwall 0-1 Newcastle: Champions League and Carabao Cup – live",
+            "bullets": [
+              "Champions League: Lille v Betis, Dortmund v VillarrealCarabao Cup: Palace v Middlesbrough, Sunderlan...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Champions League: Lille v Betis, Dortmund v VillarrealCarabao Cup: Palace v Middlesbrough, Sunderland v HullLive scores | Read Football Daily | And email DanielInter, meanwhile, look solid. They’ve won three from three in Serie A, and will, I think, look to clutter the centre of the pitch. That’s another reason I’d like to have seen Diomande on from the start, but Mourinho has – unusually for him – done without a defensively-minded midfielder. I’m looking forward to seeing how Curtis Jones does, as I think he’s a good player who’ll thrive with regular selection and greater responsibility. And there’s no disputing the danger Inter offer up front; I don’t fancy either Madrid centre-back against Thuram and Martinez.Our main focus here, though, will be on Madrid v Inter. Mourinho’s men lost at Betis last weekend, and are without the suspended Eduardo Camvinga, Bernardo Silva and Arda Guler. As such Trent Alexander-Arnold comes in on the right of the central three – a move I doubt Aurelien Tchouameni likes all that much. I can’t say I think Alexander-Arnold is much use in that position – as Gary Neville once noted, most right-backs are failed midfielders – but he’s capable of creating something from nothing. I guess I’d quite like to see Yan Diomande on the right, but i’m not surprised Mourinho wants the extra body in midfield that Brahim Diaz can become. Continue reading...",
+            "fullText": "“I have just seen Real Betis’ winner against Lille,” says Niall Mullen, “and may I say, c’est Troy bien.”\n\nIt is indeed. He worked the defender, setting up the finish he wanted to try and executing it to perfection. It’s lucky Spurs aren’t struggling for goals, or else they’d be regretting the decision to let him go.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1809_2",
+            "category": "england",
+            "type": "News",
+            "title": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
+            "bullets": [
+              "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, e...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna, opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time.The Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, and subsequently victory, in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance. Continue reading...",
+            "fullText": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and runninglast September against Bologna, opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time.\n\nThe Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, andsubsequently victory, in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance.\n\n“Today was a very important step forward, being resilient when we were struggling,” said Unai Emery. “It is very important to start with three points. Hopefully it gives us confidence for the next matches, in the Premier League this Saturday against Nottingham Forest.”\n\nEmery had been at pains to radiate positivity despite another slow start – Villa picked up their first point of the Premier League season at the weekend and these goals represented their first of the campaign – but he was typically animated on the touchline in Brugge. He was particularly agitated midway through the second half when he felt, not for the first time this season, his substitutes were not ready for action. AtHull last weekend, it was Tammy Abraham and Wan-Bissaka, and a few days earlier Alejandro Garnacho against Arsenal.\n\nThis time the culprits were Alysson, Ross Barkley and Lamare Bogarde. “In the dressing room at half-time we were speaking about some players who were tired, [Boubacar] Kamara, Wan-Bissaka,” Villa’s manager said. “I tried to keep [them on for] 15 minutes, but when I asked the players to replace [them] they were talking through the set pieces, sorting individual issues, but I needed quickly their impact on the field, and they did afterwards.”\n\nIn the end, it was a blend of old and new faces that got Villa over the line. Zion Suzuki made a couple of fine saves, João Gomes put in a typically tigerish performance and Jackson got the goal an encouraging all-round display deserved. The 19-year-old George Hemmings did not look out of place on hisChampions Leaguedebut. “The old players need to keep our standards high, to show everybody this is the only way we can achieve the process in our objectives and targets,” Emery said. “I am so happy.”\n\nPau Torres was the unlikely catalyst for two of Villa’s three first-half goals. McGinn’s opener was a product of the centre-back roaming unchallenged to the edge of the box. Presumably it crossed Torres’s mind to shoot, though just as he was getting giddy, he spread play to McGinn, who guided a superb first-time, left-foot strike into the far corner of Yann Sommer’s goal. In starting on Tuesday night, the Swiss became just the second goalkeeper to represent five clubs in the Champions League, but it was a night to forget for the 37-year-old.\n\nClub Brugge replied when the lively Jan Virgili found a way past Wan-Bissaka – who was making his full Villa debut – and located Hugo Vetlesen in the box, the Norway midfielder sending a crisp finish beyond Suzuki. The hosts were level for less than three minutes, a slick Villa move culminating in Buendía wheeling away in celebration. Jackson’s deft backheel supplied Gomes, who twisted inside the box and then picked out Buendía who did the rest.\n\nKick off your evenings with the Guardian's take on the world of football\n\nVilla’s third arrived a few minutes before the interval. Emery punched the air, his delight at establishing a two-goal advantage plain to see. Torres collected the ball on the edge of the Villa 18-yard box and, after shifting the ball out of his feet, he sent a lofted pass spinning into the opposition half, where Jackson got in between the opposition centre-backs, Lee Han-beom and Brandon Mechele. Enter Sommer, who raced about 40 yards from goal. Jackson swiped the ball cleanly and then was too strong for Lee before passing into an empty net.\n\nThings appeared rosy, but Villa had to withstand heavy pressure after a video assistant referee review led the Swiss referee, Sandro Schärer, to penalise Wan-Bissaka for handball in the box. Nicolò Tresoldi sent Suzuki the wrong way from the penalty spot and a few minutes later Suzuki pushed another shot on to the post.\n\nVictor Lindelöf tested the nerves of Emery, slicing a routine clearance when attempting to relieve the pressure. Villa, too, had chances, Jackson getting a shot away after latching on to a McGinn pass and Bogarde had a shot cleared off the line by the home full-back Joaquin Seys.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1809_3",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
+            "bullets": [
+              "Bellingham, Rice and Alex Greenwood also nominatedCeremony to move from Paris to London for 2026 awa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham, Rice and Alex Greenwood also nominatedCeremony to move from Paris to London for 2026 awardsHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or with Alessia Russo and Alex Greenwood nominated for the women’s award.The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament. Continue reading...",
+            "fullText": "Ceremony to move from Paris to London for 2026 awards\n\nHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or with Alessia Russo and Alex Greenwood nominated for the women’s award.\n\nThe 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has hisFrance teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament.\n\nIn the women’s field, two-time winner Alexia Putellas, Ewa Pajor and Melchie Dumornay are among the favourites to succeed Aitana Bonmatí. Winner of the past three awards, Bonmatí did not make the cut after missing most of the season through injury. The Spaniard returned at the end of Barcelona’s quadruple-winning season that included another Champions League title.\n\nKane is odds-on to win the men’s award after a club-record 61 goals in 51 games for German double winners Bayern Munich last season. He also scored six times at the World Cup for England, a tournament where Bellingham and Rice shone as well, the latter also playing a key role in Arsenal ending a 22-year wait for the Premier League title.\n\nJude Bellingham, Pau Cubarsí, Marc Cucurella, Ousmane Dembélé, Luis Díaz, Bruno Fernandes, Gabriel, Erling Haaland, Achraf Hakimi, Harry Kane, Khvicha Kvaratskhelia, Lamine Yamal, Sadio Mané, Marquinhos, Lautaro Martínez, Kylian Mbappé, Nuno Mendes, Lionel Messi, João Neves, Michael Olise, Willian Pacho, Julián Quiñones, Declan Rice, Rodri, Fabián Ruiz, William Saliba, Ferran Torres, Dayot Upamecano, Vinícius Jr., Vitinha.\n\nSelma Bacha, Barbra Banda, Klara Buhl, Esmee Brugts, Mariona Caldentey, Scarlett Camberos, Kerstin Casparij, Temwa Chawinga, Cata Coll, Melchie Dumornay, Caroline Graham Hansen, Alex Greenwood, Patri Guijarro, Pernille Harder, Yui Hasegawa, Rose Lavelle, Mapi León, Lorena, Melvine Malard, Manaka Matsukubo, Vivianne Miedema, Ewa Pajor, Claudia Pina, Alexia Putellas, Wendie Renard, Alessia Russo, Khadija Shaw, Momoko Tanikawa, Caroline Weir, Tessa Wullaert.\n\nLamine Yamal, who won La Liga with Barcelona and the World Cup with Spain, is second favourite to win the award, followed by his club and international teammate Rodri. Messi, who has a record eight Ballon d’Or awards, is on the shortlist after guiding Argentina to the World Cup final and winning Major League Soccer with Inter Miami.\n\nRusso finished third in last year’s voting and enjoyed another successful individual campaign, scoring 24 goals in 40 club appearances. Greenwood, the Manchester City captain, lifted the Women’s Super League and FA Cup last season.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe Ballon d’Or ceremony is moving from its traditional Paris home to London this year to mark the 70th anniversary of the first award won by England great Stanley Matthews.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1809_4",
+            "category": "england",
+            "type": "News",
+            "title": "Champions League is fertile ground for new managers – but knowhow could be key later on",
+            "bullets": [
+              "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted outA delve into the history of the Champions League shows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the competition, others none.It gets under way on Tuesday with 14 of the 36 clubs led by managers who have been in the role for less than a year. It cannot match the turnover of the Premier League, in which 11 of 20 managers were appointed in 2026, but the tenures of the head coaches involved this season break down neatly. Continue reading...",
+            "fullText": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted out\n\nAdelve into the history of theChampions Leagueshows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the competition, others none.\n\nIt gets under way on Tuesdaywith 14 of the 36 clubs led by managers who have been in the role for less than a year. It cannot match the turnover of the Premier League, in which 11 of 20 managers were appointed in 2026, but the tenures of the head coaches involved this season break down neatly.\n\nThere are also 14 managers who have been in charge for at least two years. This leaves eight in the middle, who qualified for the Champions League in their first full season at their club and now get to show what they can do.\n\nBeing new to a team is no barrier to winning. Many who have led sides to the ultimate European club glory did so in their first campaign. Both Chelsea’s Champions League triumphs were secured by managers who got the job the same year. Carlo Ancelotti began both of his stints at Real Madrid by helping them to become champions of Europe in his year one, and in between Zinedine Zidane won three Champions League trophies on the bounce when he first managed the club.\n\nPep Guardiola and Luis Enrique also won the competition with Madrid’s great rivals, Barcelona, at the earliest opportunity. Barcelona’s current manager, Hansi Flick, ended his first season at Bayern with a treble. Liverpool fans will hope Andoni Iraola can emulate his countryman Rafael Benítez by winning the Champions League immediately after settling into the Anfield hot seat.\n\nDespite these examples making a decent case for new managers winning the competition this season, betting markets are favouring the more established coaches.\n\nAnd predictably enough, Paris Saint-Germain are the favourites with bookmakers, but it has nothing to do with this being Luis Enrique’s fourth season at the helm.The two‑time defending championshave a deep squad and face nothing like the domestic demands of their rivals in other top leagues.\n\nBarcelona, Arsenal and Bayern Munich make up the top four in the betting, with their managers also among the 13 longest-serving as the league phase begins. This contrasts with the next quartet of likeliest champions, all of whom have managers who took charge this year.\n\nBut do not assume freshness in the role automatically equates to inexperience. Real Madrid’s new manager, José Mourinho, has recorded 160 matches in the competition, the fifth most in history. Ancelotti leads on 218 Champions League games, ahead of three of thePremier League’s five “big beasts” of management: Alex Ferguson (206), Guardiola and Arsène Wenger (both 191). Mourinho and Jürgen Klopp (102 matches, seventh most) are the other members of modern English football’s most heralded managerial quintet.\n\nKick off your evenings with the Guardian's take on the world of football\n\nOnly Mourinho is involved in the Champions League this season and he will savour being the new kid on the block who is also the old hand. Mourinho will be confident of going past the last 16 for the first time since 2014 given the talent at his disposal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1809_5",
+            "category": "england",
+            "type": "News",
+            "title": "Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
+            "bullets": [
+              "The 2026 Ballon d'Or nominees have been announced as the best male and female footballers of the yea...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The 2026 Ballon d'Or nominees have been announced as the best male and female footballers of the year are identified.",
+            "fullText": "The 2026 Ballon d'Or nominees have been announced; 2026 marks the 70th edition, with the ceremony being held outside of Paris for the very first time in celebration; the 2026 ceremony takes place in London, England on October 26",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-08 @ 14:21:52 EDT",
+  "lastUpdated": "2026-09-08 @ 17:18:10 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
