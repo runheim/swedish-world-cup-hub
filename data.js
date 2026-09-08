@@ -4,16 +4,20 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Favourite Kane makes Ballon d'Or shortlist",
       "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Real Madrid 2-1 Inter, Millwall 0-1 Newcastle: Champions League and Carabao Cup – live",
-      "link": "https://www.theguardian.com/football/live/2026/sep/08/real-madrid-v-inter-millwall-v-newcastle-champions-league-and-carabao-cup-live"
-    },
-    {
       "text": "⚽ First-half treble powers Aston Villa to Champions League win at Club Brugge",
       "link": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report"
+    },
+    {
+      "text": "⚽ Championship roundup: West Ham go top after Bowen double sinks Bolton",
+      "link": "https://www.theguardian.com/football/2026/sep/08/championship-roundup-west-ham-go-top-after-bowen-double-sinks-bolton"
     },
     {
       "text": "⚽ Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
@@ -24,8 +28,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/sep/08/champions-league-managers-luis-enrique-vincent-kompany-mikel-arteta-jose-mouriinho"
     },
     {
-      "text": "⚽ Kane, Rice, Bellingham among Ballon d'Or nominees but no Ronaldo",
-      "link": "https://www.skysports.com/football/news/12040/13582892/ballon-dor-2026-harry-kane-declan-rice-jude-bellingham-among-nominees-but-no-cristiano-ronaldo"
+      "text": "⚽ Osaka's US Open fashion ensemble: Which outfit was your favourite?",
+      "link": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite"
     }
   ],
   "timeline": {
@@ -53008,11 +53012,136 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_5216_0",
+            "category": "england",
+            "type": "News",
+            "title": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+            "bullets": [
+              "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+            "fullText": "Trent Alexander-Arnold started for only the second time this season in the win over Inter Milan\n\nIt's the question that just doesn't seem to go away - can Trent Alexander-Arnold really work in midfield?\n\nGareth Southgate played him there for England during Euro 2024 before ending the experiment after only two group games.\n\nJurgen Klopp's entire Liverpool gameplan relied on his ability to step into the middle and spray passes around... albeit from a starting position of right-back.\n\nAnd now Jose Mourinho has become the latest manager to dabble, picking the 27-year-old in midfield for Real Madrid's Champions League win over Inter Milan on Tuesday.\n\nHaving struggled to establish himself as Real's first-choice full-back since moving to the Bernabeu last summer, could this be the moment he finally clicks in the middle of the park?\n\n\"He has played midfield with England and Liverpool... but he is not a midfielder,\" insisted Mourinho after his side's edgy 2-1 win.\n\n\"He has played very well. He has interpreted what he needed to really well, tactically.\n\n\"Both him and Valverde have worked very well at this level.\"\n\nSo while Mourinho was \"very grateful\" for Alexander-Arnold's efforts in the middle, don't expect to see him play there on a regular basis.\n\nMbappe goes joint-fifth in all-time list as Real Madrid beat Inter\n\nThe former Liverpool player's inclusion in midfield was largely circumstantial, with suspensions for Eduardo Camavinga, Arda Guler and Bernardo Silva leaving Mourinho short on options.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5216_1",
+            "category": "england",
+            "type": "News",
+            "title": "Favourite Kane makes Ballon d'Or shortlist",
+            "bullets": [
+              "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or ...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or alongside Jude Bellingham and Declan Rice.",
+            "fullText": "Harry Kane scored 73 goals last season for club and country\n\nBayern Munich striker Harry Kane is one of three England players nominated for the 2026 Ballon d'Or.\n\nReal Madrid's Jude Bellingham and Arsenal's Declan Rice join Kane, the favourite for the award, on the 30-player shortlist.\n\nInter Miami forward Lionel Messi, who is looking to win his ninth Ballon d'Or, has been nominated.\n\nThe 39-year-old scored eight goals as Argentina lost the World Cup final to Spain in July, with Messi sinceretiring from international football.\n\nLamine Yamal is one of six Spain players that won the World Cup to be included.\n\nHaving scored the winning goal in the final, Paris St-Germain forward Ferran Torres, who joined the French club from Barcelona in the summer, makes the cut.\n\nBack-to-back Champions League winners Paris St-Germain have nine players - excluding new signing Torres - nominated, including last year's winner Ousmane Dembele.\n\nReal Madrid forwards Kylian Mbappe and Vinicius Jr also make the shortlist, as do Arsenal defenders Gabriel and William Saliba.\n\nThe award is celebrating its 70th anniversary, having been created by France Football in 1956, and the winner will be announced at an ceremony in London on 26 October.\n\nThe \"symbolic choice of venue\" is in tribute to former England player Sir Stanley Matthews, who won the first Ballon d'Or.\n\nKerim Alajbegovic (Bayer Leverkusen/Bosnia-Herzegovina)",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5217_2",
+            "category": "england",
+            "type": "News",
+            "title": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
+            "bullets": [
+              "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, e...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna, opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time.The Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, and subsequently victory, in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance. Continue reading...",
+            "fullText": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and runninglast September against Bologna, opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time.\n\nThe Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, andsubsequently victory, in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance.\n\n“Today was a very important step forward, being resilient when we were struggling,” said Unai Emery. “It is very important to start with three points. Hopefully it gives us confidence for the next matches, in the Premier League this Saturday against Nottingham Forest.”\n\nEmery had been at pains to radiate positivity despite another slow start – Villa picked up their first point of the Premier League season at the weekend and these goals represented their first of the campaign – but he was typically animated on the touchline in Brugge. He was particularly agitated midway through the second half when he felt, not for the first time this season, his substitutes were not ready for action. AtHull last weekend, it was Tammy Abraham and Wan-Bissaka, and a few days earlier Alejandro Garnacho against Arsenal.\n\nThis time the culprits were Alysson, Ross Barkley and Lamare Bogarde. “In the dressing room at half-time we were speaking about some players who were tired, [Boubacar] Kamara, Wan-Bissaka,” Villa’s manager said. “I tried to keep [them on for] 15 minutes, but when I asked the players to replace [them] they were talking through the set pieces, sorting individual issues, but I needed quickly their impact on the field, and they did afterwards.”\n\nBorussia Dortmund's Konstantinos Karetsas was taken to hospital after slumping to the turf 25 minutes into his Champions League debut against Villarreal.\n\n“Konstantinos Karetsas had to leave the field due to circulatory problems,” Dortmund said in a statement. “Kosta is doing well under the circumstances and is on his way to the hospital for further tests.”\n\nThe 18-year-old Greece international passed the ball to a teammate then signaled his distress to the referee before sitting on the grass. Karetsas was treated laying down then taken away on a stretcher. The score was 0-0 at the time.\n\nDortmund went on to win 3-2 at home. Renato Veiga’s 53rd-minute own goal put the Bundesliga side ahead before Santiago Mouriño equalised in the 66th. Serhou Guirassy restored the lead in the 80th minute and scored the third with an 84th-minute penalty, before scoring an own goal in added time while trying to help in defence.\n\nReal Betistwice came from behind to beatLille3-2 away, ⁠with Marc Bartra scoring in the 34th and 49th minutes before Troy Parrott’s 54th-minute winner.\n\nLille ​scored their opener in the 12th minute ‌and regained the lead through ‌Alexsandro in the 37th. The hosts later had Ethan Mbappé sent off for an elbow to ‌the face of an opponent.\n\nAEK Athens​made a winning start, beating the Austrian sideLASK1-0 in Greece thanks to Romanian midfielder Razvan Marin’s curling free-kick midway through the first half.Agencies",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5217_3",
+            "category": "england",
+            "type": "News",
+            "title": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
+            "bullets": [
+              "England forward scores twice in 3-2 victorySouthampton 3-1 Swansea; Watford 2-1 PrestonCaptain Jarro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England forward scores twice in 3-2 victorySouthampton 3-1 Swansea; Watford 2-1 PrestonCaptain Jarrod Bowen scored twice as West Ham’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time.In between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty. Instead, Konstantinos Mavropanos levelled with a 31st-minute header and Bowen completed the comeback. Continue reading...",
+            "fullText": "Captain Jarrod Bowen scored twice asWestHam’s 3-2 win overBoltontook them top of theChampionshipon goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time.\n\nIn between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty. Instead, Konstantinos Mavropanos levelled with a 31st-minute header and Bowen completed the comeback.\n\nCyle Larin scored his fifth goal of the season asSouthamptonbeatSwansea3-1 to beat the side who were top of the table for the second home match in a row. Larin, who is the joint-top scorer in the Championship, found the net either side of Finn Azaz and Leo Scienza strikes to make it 13 games unbeaten at St Mary’s.\n\nWatfordshook off an awful first-half display to grab a 2-1 victory overPreston, who suffered their fifth defeat in six league games. Callum Lang had put the visitors ahead in the sixth minute as they threatened to overrun the Hornets, who hit back with two second-half goals in seven minutes from Edo Kayembe and Mamadou Doumbia.\n\nWrexham’s wait for a home win goes on after they were held to a 1-1 draw by winlessBurnleywho sit one place off the bottom of the table. Jacques Ekomie headed in his second goal for the club since joining in a £7m deal from Angers, cancelling out Zeki Amdouni’s first-half effort for the Clarets who at least ended a run of seven straight away defeats dating back to last term.\n\nBut it was a result that does little to help either side in their pursuit of promotion, withWrexhamhaving lost the momentum they carried into last season while Burnley face bigger problems after relegation from the top flight, having won only one league game since October. Former England striker Jamie Vardy joined this week, but the 39-year-old was suspended for this match as a result of yellow cards collected during his time with Italian side Cremonese.\n\nSheffieldUnitedreturned to winning ways after a display of ruthless finishing secured a 2-1 win atBlackburn. All the goals came in a first half that Rovers dominated and deservedly took the lead in through Kristi Montgomery’s first goal for the club on 20 minutes. The Blades turned the game on its head with goals from their only two shots of the half as Tom Cannon stroked home a second on this ground in two weeks in the 35th minute. Sydie Peck rifled home his first of the season a minute before the break to complete the turnaround.\n\nCardiff’s winless start to the season continued asStokeheld on for a 1-1 draw in the Welsh capital and their first away point since January. Stoke had hope of an away-day success after a run of nine straight Championship defeats when Ben Johnson scored midway through the first half. But the Potters came under fierce pressure in the second half and Joel Colwill’s headed home for Cardiff hosts who hit a post three times. The draw – Cardiff’s fourth in six games – was enough to take the home side out of the relegation zone, while Stoke slip to 15th.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5217_4",
+            "category": "england",
+            "type": "News",
+            "title": "Harry Kane and Alessia Russo among nominees for this year’s Ballon d’Or",
+            "bullets": [
+              "Bellingham, Rice and Alex Greenwood also nominatedCeremony to move from Paris to London for 2026 awa...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Bellingham, Rice and Alex Greenwood also nominatedCeremony to move from Paris to London for 2026 awardsHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or with Alessia Russo and Alex Greenwood nominated for the women’s award.The 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has his France teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament. Continue reading...",
+            "fullText": "Ceremony to move from Paris to London for 2026 awards\n\nHarry Kane, Jude Bellingham and Declan Rice have been nominated for this year’s men’s Ballon d’Or with Alessia Russo and Alex Greenwood nominated for the women’s award.\n\nThe 30 men’s and 30 women’s nominees were revealed by France Football magazine on Tuesday, with the winners to be announced at a ceremony in London on 26 October. Ousmane Dembélé, who won the men’s award last year, has been nominated again, as has hisFrance teammate Kylian Mbappé, who made history when he overtook Lionel Messi for all-time World Cup goals (22) at this summer’s tournament.\n\nIn the women’s field, two-time winner Alexia Putellas, Ewa Pajor and Melchie Dumornay are among the favourites to succeed Aitana Bonmatí. Winner of the past three awards, Bonmatí did not make the cut after missing most of the season through injury. The Spaniard returned at the end of Barcelona’s quadruple-winning season that included another Champions League title.\n\nKane is odds-on to win the men’s award after a club-record 61 goals in 51 games for German double winners Bayern Munich last season. He also scored six times at the World Cup for England, a tournament where Bellingham and Rice shone as well, the latter also playing a key role in Arsenal ending a 22-year wait for the Premier League title.\n\nJude Bellingham, Pau Cubarsí, Marc Cucurella, Ousmane Dembélé, Luis Díaz, Bruno Fernandes, Gabriel, Erling Haaland, Achraf Hakimi, Harry Kane, Khvicha Kvaratskhelia, Lamine Yamal, Sadio Mané, Marquinhos, Lautaro Martínez, Kylian Mbappé, Nuno Mendes, Lionel Messi, João Neves, Michael Olise, Willian Pacho, Julián Quiñones, Declan Rice, Rodri, Fabián Ruiz, William Saliba, Ferran Torres, Dayot Upamecano, Vinícius Jr., Vitinha.\n\nSelma Bacha, Barbra Banda, Klara Buhl, Esmee Brugts, Mariona Caldentey, Scarlett Camberos, Kerstin Casparij, Temwa Chawinga, Cata Coll, Melchie Dumornay, Caroline Graham Hansen, Alex Greenwood, Patri Guijarro, Pernille Harder, Yui Hasegawa, Rose Lavelle, Mapi León, Lorena, Melvine Malard, Manaka Matsukubo, Vivianne Miedema, Ewa Pajor, Claudia Pina, Alexia Putellas, Wendie Renard, Alessia Russo, Khadija Shaw, Momoko Tanikawa, Caroline Weir, Tessa Wullaert.\n\nLamine Yamal, who won La Liga with Barcelona and the World Cup with Spain, is second favourite to win the award, followed by his club and international teammate Rodri. Messi, who has a record eight Ballon d’Or awards, is on the shortlist after guiding Argentina to the World Cup final and winning Major League Soccer with Inter Miami.\n\nRusso finished third in last year’s voting and enjoyed another successful individual campaign, scoring 24 goals in 40 club appearances. Greenwood, the Manchester City captain, lifted the Women’s Super League and FA Cup last season.\n\nKick off your evenings with the Guardian's take on the world of football\n\nThe Ballon d’Or ceremony is moving from its traditional Paris home to London this year to mark the 70th anniversary of the first award won by England great Stanley Matthews.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5217_5",
+            "category": "england",
+            "type": "News",
+            "title": "Champions League is fertile ground for new managers – but knowhow could be key later on",
+            "bullets": [
+              "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted outA delve into the history of the Champions League shows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the competition, others none.It gets under way on Tuesday with 14 of the 36 clubs led by managers who have been in the role for less than a year. It cannot match the turnover of the Premier League, in which 11 of 20 managers were appointed in 2026, but the tenures of the head coaches involved this season break down neatly. Continue reading...",
+            "fullText": "Luis Enrique, Vincent Kompany and Mikel Arteta are among the favourites to lead their sides to victory, but more recent appointments should not be counted out\n\nAdelve into the history of theChampions Leagueshows that managers can and do win in their first season at a club, but also that experience matters. Which makes it interesting, given that tenures for the 2026‑27 crop range from newly appointed coaches to one with almost 15 years in charge. Some have managed more than 100 matches in the competition, others none.\n\nIt gets under way on Tuesdaywith 14 of the 36 clubs led by managers who have been in the role for less than a year. It cannot match the turnover of the Premier League, in which 11 of 20 managers were appointed in 2026, but the tenures of the head coaches involved this season break down neatly.\n\nThere are also 14 managers who have been in charge for at least two years. This leaves eight in the middle, who qualified for the Champions League in their first full season at their club and now get to show what they can do.\n\nBeing new to a team is no barrier to winning. Many who have led sides to the ultimate European club glory did so in their first campaign. Both Chelsea’s Champions League triumphs were secured by managers who got the job the same year. Carlo Ancelotti began both of his stints at Real Madrid by helping them to become champions of Europe in his year one, and in between Zinedine Zidane won three Champions League trophies on the bounce when he first managed the club.\n\nPep Guardiola and Luis Enrique also won the competition with Madrid’s great rivals, Barcelona, at the earliest opportunity. Barcelona’s current manager, Hansi Flick, ended his first season at Bayern with a treble. Liverpool fans will hope Andoni Iraola can emulate his countryman Rafael Benítez by winning the Champions League immediately after settling into the Anfield hot seat.\n\nDespite these examples making a decent case for new managers winning the competition this season, betting markets are favouring the more established coaches.\n\nAnd predictably enough, Paris Saint-Germain are the favourites with bookmakers, but it has nothing to do with this being Luis Enrique’s fourth season at the helm.The two‑time defending championshave a deep squad and face nothing like the domestic demands of their rivals in other top leagues.\n\nBarcelona, Arsenal and Bayern Munich make up the top four in the betting, with their managers also among the 13 longest-serving as the league phase begins. This contrasts with the next quartet of likeliest champions, all of whom have managers who took charge this year.\n\nBut do not assume freshness in the role automatically equates to inexperience. Real Madrid’s new manager, José Mourinho, has recorded 160 matches in the competition, the fifth most in history. Ancelotti leads on 218 Champions League games, ahead of three of thePremier League’s five “big beasts” of management: Alex Ferguson (206), Guardiola and Arsène Wenger (both 191). Mourinho and Jürgen Klopp (102 matches, seventh most) are the other members of modern English football’s most heralded managerial quintet.\n\nKick off your evenings with the Guardian's take on the world of football\n\nOnly Mourinho is involved in the Champions League this season and he will savour being the new kid on the block who is also the old hand. Mourinho will be confident of going past the last 16 for the first time since 2014 given the talent at his disposal.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_5217_6",
+            "category": "england",
+            "type": "News",
+            "title": "Osaka's US Open fashion ensemble: Which outfit was your favourite?",
+            "bullets": [
+              "Naomi Osaka may have exited the US Open, but she went out with a burst - of colour, and a bit of swa...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Naomi Osaka may have exited the US Open, but she went out with a burst - of colour, and a bit of swag. Which outfit was your best of the tournament?",
+            "fullText": "Naomi Osaka impressed with ‌her style in New York with a fashion ensemble which put a tailored twist on traditional pre-match ​attire;watch the US Open live on Sky Sports Tennis and Sky Sports+, streaming service NOW and the Sky Sports app",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-08 @ 17:18:10 EDT",
+  "lastUpdated": "2026-09-08 @ 19:52:19 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
