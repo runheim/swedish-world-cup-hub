@@ -12,14 +12,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe"
     },
     {
-      "text": "⚽ Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league"
-    },
-    {
-      "text": "⚽ First-half treble powers Aston Villa to Champions League win at Club Brugge",
-      "link": "https://www.theguardian.com/football/2026/sep/08/club-brugge-aston-villa-champions-league-match-report"
-    },
-    {
       "text": "⚽ Championship roundup: West Ham go top after Bowen double sinks Bolton",
       "link": "https://www.theguardian.com/football/2026/sep/08/championship-roundup-west-ham-go-top-after-bowen-double-sinks-bolton"
     },
@@ -53510,11 +53502,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_0302_0",
+            "category": "england",
+            "type": "News",
+            "title": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+            "bullets": [
+              "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+            "fullText": "Trent Alexander-Arnold started for only the second time this season in the win over Inter Milan\n\nIt's the question that just doesn't seem to go away - can Trent Alexander-Arnold really work in midfield?\n\nGareth Southgate played him there for England during Euro 2024 before ending the experiment after only two group games.\n\nMuch of Jurgen Klopp's Liverpool gameplan relied on his ability to step into the middle and spray passes around... albeit from a starting position of right-back.\n\nAnd now Jose Mourinho has become the latest manager to dabble, picking the 27-year-old in midfield for Real Madrid's Champions League win over Inter Milan on Tuesday.\n\nHaving struggled to establish himself as Real's first-choice full-back since moving to the Bernabeu last summer, could this be the moment he finally clicks in the middle of the park?\n\n\"He has played midfield with England and Liverpool... but he is not a midfielder,\" insisted Mourinho after his side's edgy 2-1 win.\n\n\"He has played very well. He has interpreted what he needed to really well, tactically.\n\n\"Both him and Valverde have worked very well at this level.\"\n\nSo while Mourinho was \"very grateful\" for Alexander-Arnold's efforts in the middle, don't expect to see him play there on a regular basis.\n\nMbappe goes joint-fifth in all-time list as Real Madrid beat Inter\n\nThe former Liverpool player's inclusion in midfield was largely circumstantial, with suspensions for Eduardo Camavinga, Arda Guler and Bernardo Silva leaving Mourinho short on options.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0302_1",
+            "category": "england",
+            "type": "News",
+            "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+            "bullets": [
+              "We assess the standing of the players on the shortlist for the award before the winner is announced ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "We assess the standing of the players on the shortlist for the award before the winner is announced in October1) Harry Kane (England/Bayern Munich)Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not now, when? Continue reading...",
+            "fullText": "We assess the standing of the players on the shortlist for the award before the winner is announced in October\n\nEven adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not now, when?\n\n2) Rodri (Spain/Manchester City – now at Barcelona)\n\nHe boasts a comparable case to when he won this prize in 2024 – Rodri remains the epicenter of an incredibly effective Spanish collective. This time around, there’s no Premier League glory to bolster his hopes, as City’s late challenge fizzled out with the club “only” winning domestic cups in his final season at the Etihad. Back to his best en route to Spain’s second World Cup title, though only one of the four previous World Cup champions had the corresponding Ballon d’Or winner (Lionel Messi, 2023).\n\nMbappé and José Mourinho have launched an aggressive campaign for the Frenchman to win his first Ballon d’Or. He was even more difficult to slow in his second Spanish season, with 40 goals in 42 matches across La Liga and the Champions League; the less said about his pressing, the better. Few players captivated and dominated like Mbappé at the World Cup, as he won the Golden Boot. But a lack of team accomplishments could set back his candidacy, made even more glaring given Madrid’s chronic success.\n\nAnother member of the World Cup champions, although injuries limited his impact in North America – the master of suspense was not as involved as he’d have liked. Then again, he managed greater consistency in his third season as a regular for Barcelona, with 41 goal contributions in all competitions across 45 appearances. He only just turned 19 in July.\n\nMessi could well have ranked higher had Argentina won the World Cup this summer, as the 39-year-old was the heart and soul of their campaign. Alas, a putrid final showing (by his teammates, more than Messi) dulls the sheen on his hopes for a ninth Ballon d’Or, and he is also hit by the fact that he doesn’t play for one of Europe’s elite clubs, even though Inter Miami won the MLS title. His remarkable 17th appearance on a Ballon d’Or shortlist is well deserved.\n\nWho knew Bayern’s most thrilling attack in recent memory would be spearheaded by signings from Tottenham and Crystal Palace? An elite secondary attacker, and one who has come to relish operating as the string-puller in transition and at the edge of the final third. Spain masterfully closed his passing lines and took him out of the semi-final, but a pair of assists in the third-place match put him top in that category at the World Cup. A career year, or evidence he’s set a new standard for himself?\n\nEven as City stumbled down the stretch, this was another season to pad his growing legacy as one of the game’s great strikers of any era. He made the most of Norway’s return to the World Cup, finishing as the tournament’s joint-third top goalscorer (seven) despite exiting in the quarter-final.\n\nBirmingham City’s decision to retire his number when his career had barely started has aged well. A man for the big moments, he forged a rare tandem with Kane at the World Cup, alternating headline hero shifts en route to another semi-final heartbreaker. His goals and assists plummeted in his third season with Madrid, though most of his teammates saw diminishing returns in a forgettable campaign.\n\nLacking some of the bombast that typifies his rivals, Dembélé remains a silky threat for club and country. His stats for PSG dipped from last year’s award-winning campaign, from 35 goals in 53 games to 20 in 40. His partnership with Mbappé and Olise for France was as dangerous as the international game has seen. If nothing else, Dembélé has made certain that he is no one-year wonder.\n\n10) Khvicha Kvaratskhelia (Georgia/Paris Saint-Germain)",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0302_2",
+            "category": "england",
+            "type": "News",
+            "title": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
+            "bullets": [
+              "England forward scores twice in 3-2 victorySouthampton 3-1 Swansea; Watford 2-1 PrestonCaptain Jarro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England forward scores twice in 3-2 victorySouthampton 3-1 Swansea; Watford 2-1 PrestonCaptain Jarrod Bowen scored twice as West Ham’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time.In between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty. Instead, Konstantinos Mavropanos levelled with a 31st-minute header and Bowen completed the comeback. Continue reading...",
+            "fullText": "Captain Jarrod Bowen scored twice asWestHam’s 3-2 win overBoltontook them top of theChampionshipon goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time.\n\nIn between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty. Instead, Konstantinos Mavropanos levelled with a 31st-minute header and Bowen completed the comeback.\n\nCyle Larin scored his fifth goal of the season asSouthamptonbeatSwansea3-1 to beat the side who were top of the table for the second home match in a row. Larin, who is the joint-top scorer in the Championship, found the net either side of Finn Azaz and Leo Scienza strikes to make it 13 games unbeaten at St Mary’s.\n\nWatfordshook off an awful first-half display to grab a 2-1 victory overPreston, who suffered their fifth defeat in six league games. Callum Lang had put the visitors ahead in the sixth minute as they threatened to overrun the Hornets, who hit back with two second-half goals in seven minutes from Edo Kayembe and Mamadou Doumbia.\n\nWrexham’s wait for a home win goes on after they were held to a 1-1 draw by winlessBurnleywho sit one place off the bottom of the table. Jacques Ekomie headed in his second goal for the club since joining in a £7m deal from Angers, cancelling out Zeki Amdouni’s first-half effort for the Clarets who at least ended a run of seven straight away defeats dating back to last term.\n\nBut it was a result that does little to help either side in their pursuit of promotion, withWrexhamhaving lost the momentum they carried into last season while Burnley face bigger problems after relegation from the top flight, having won only one league game since October. Former England striker Jamie Vardy joined this week, but the 39-year-old was suspended for this match as a result of yellow cards collected during his time with Italian side Cremonese.\n\nSheffieldUnitedreturned to winning ways after a display of ruthless finishing secured a 2-1 win atBlackburn. All the goals came in a first half that Rovers dominated and deservedly took the lead in through Kristi Montgomery’s first goal for the club on 20 minutes. The Blades turned the game on its head with goals from their only two shots of the half as Tom Cannon stroked home a second on this ground in two weeks in the 35th minute. Sydie Peck rifled home his first of the season a minute before the break to complete the turnaround.\n\nCardiff’s winless start to the season continued asStokeheld on for a 1-1 draw in the Welsh capital and their first away point since January. Stoke had hope of an away-day success after a run of nine straight Championship defeats when Ben Johnson scored midway through the first half. But the Potters came under fierce pressure in the second half and Joel Colwill’s headed home for Cardiff hosts who hit a post three times. The draw – Cardiff’s fourth in six games – was enough to take the home side out of the relegation zone, while Stoke slip to 15th.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_0302_3",
+            "category": "england",
+            "type": "News",
+            "title": "Scorecard: England vs Pakistan, third Test",
+            "bullets": [
+              "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch li...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch live on Sky Sports Cricket.",
+            "fullText": "England lead Pakistan by 23 runs with 6 wickets remaining.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-09 @ 14:19:55 EDT",
+  "lastUpdated": "2026-09-09 @ 17:03:02 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
