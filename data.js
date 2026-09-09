@@ -8,10 +8,6 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/c980lgdrlzno?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ Favourite Kane makes Ballon d'Or shortlist",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c62m82qqm87o?at_medium=RSS&amp;at_campaign=rss"
-    },
-    {
       "text": "⚽ Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
       "link": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe"
     },
@@ -30,10 +26,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Scorecard: England vs Pakistan, third Test",
       "link": "https://www.skysports.com/cricket/england-v-pakistan/scorecard/c2f248cf-f4cf-5338-8bf2-475060a6a70f"
-    },
-    {
-      "text": "⚽ Osaka's defence of US Open outfits - 'I don't care if you don't like me'",
-      "link": "https://www.skysports.com/tennis/news/12040/13583246/us-open-naomi-osakas-fashion-ensemble-in-new-york-which-outfit-was-your-favourite"
     }
   ],
   "timeline": {
@@ -53410,11 +53402,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "2": {
+        "timeLabel": "11:00",
+        "name": "Press Briefing",
+        "articles": [
+          {
+            "id": "crawled_1954_0",
+            "category": "england",
+            "type": "News",
+            "title": "In the middle again - but Mourinho says Alexander-Arnold 'not a midfielder'",
+            "bullets": [
+              "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Trent Alexander-Arnold started in midfield for Real Madrid's win over Inter - but Jose Mourinho says it is not his best position.",
+            "fullText": "Trent Alexander-Arnold started for only the second time this season in the win over Inter Milan\n\nIt's the question that just doesn't seem to go away - can Trent Alexander-Arnold really work in midfield?\n\nGareth Southgate played him there for England during Euro 2024 before ending the experiment after only two group games.\n\nMuch of Jurgen Klopp's Liverpool gameplan relied on his ability to step into the middle and spray passes around... albeit from a starting position of right-back.\n\nAnd now Jose Mourinho has become the latest manager to dabble, picking the 27-year-old in midfield for Real Madrid's Champions League win over Inter Milan on Tuesday.\n\nHaving struggled to establish himself as Real's first-choice full-back since moving to the Bernabeu last summer, could this be the moment he finally clicks in the middle of the park?\n\n\"He has played midfield with England and Liverpool... but he is not a midfielder,\" insisted Mourinho after his side's edgy 2-1 win.\n\n\"He has played very well. He has interpreted what he needed to really well, tactically.\n\n\"Both him and Valverde have worked very well at this level.\"\n\nSo while Mourinho was \"very grateful\" for Alexander-Arnold's efforts in the middle, don't expect to see him play there on a regular basis.\n\nMbappe goes joint-fifth in all-time list as Real Madrid beat Inter\n\nThe former Liverpool player's inclusion in midfield was largely circumstantial, with suspensions for Eduardo Camavinga, Arda Guler and Bernardo Silva leaving Mourinho short on options.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1954_1",
+            "category": "england",
+            "type": "News",
+            "title": "Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
+            "bullets": [
+              "We assess the standing of the players on the shortlist for the award before the winner is announced ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "We assess the standing of the players on the shortlist for the award before the winner is announced in October1) Harry Kane (England/Bayern Munich)Even adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not now, when? Continue reading...",
+            "fullText": "We assess the standing of the players on the shortlist for the award before the winner is announced in October\n\nEven adjusting for the goal-drunken Bundesliga, his 61 goals in 51 matches for Bayern last season undersells his all-around impact, considering his playmaking and hold-up skills. Kane was gameplanned out of England’s later games at the World Cup, but he was unstoppable through the last 16 to close out the finest year of his career to date. If not now, when?\n\n2) Rodri (Spain/Manchester City – now at Barcelona)\n\nHe boasts a comparable case to when he won this prize in 2024 – Rodri remains the epicenter of an incredibly effective Spanish collective. This time around, there’s no Premier League glory to bolster his hopes, as City’s late challenge fizzled out with the club “only” winning domestic cups in his final season at the Etihad. Back to his best en route to Spain’s second World Cup title, though only one of the four previous World Cup champions had the corresponding Ballon d’Or winner (Lionel Messi, 2023).\n\nMbappé and José Mourinho have launched an aggressive campaign for the Frenchman to win his first Ballon d’Or. He was even more difficult to slow in his second Spanish season, with 40 goals in 42 matches across La Liga and the Champions League; the less said about his pressing, the better. Few players captivated and dominated like Mbappé at the World Cup, as he won the Golden Boot. But a lack of team accomplishments could set back his candidacy, made even more glaring given Madrid’s chronic success.\n\nAnother member of the World Cup champions, although injuries limited his impact in North America – the master of suspense was not as involved as he’d have liked. Then again, he managed greater consistency in his third season as a regular for Barcelona, with 41 goal contributions in all competitions across 45 appearances. He only just turned 19 in July.\n\nMessi could well have ranked higher had Argentina won the World Cup this summer, as the 39-year-old was the heart and soul of their campaign. Alas, a putrid final showing (by his teammates, more than Messi) dulls the sheen on his hopes for a ninth Ballon d’Or, and he is also hit by the fact that he doesn’t play for one of Europe’s elite clubs, even though Inter Miami won the MLS title. His remarkable 17th appearance on a Ballon d’Or shortlist is well deserved.\n\nWho knew Bayern’s most thrilling attack in recent memory would be spearheaded by signings from Tottenham and Crystal Palace? An elite secondary attacker, and one who has come to relish operating as the string-puller in transition and at the edge of the final third. Spain masterfully closed his passing lines and took him out of the semi-final, but a pair of assists in the third-place match put him top in that category at the World Cup. A career year, or evidence he’s set a new standard for himself?\n\nEven as City stumbled down the stretch, this was another season to pad his growing legacy as one of the game’s great strikers of any era. He made the most of Norway’s return to the World Cup, finishing as the tournament’s joint-third top goalscorer (seven) despite exiting in the quarter-final.\n\nBirmingham City’s decision to retire his number when his career had barely started has aged well. A man for the big moments, he forged a rare tandem with Kane at the World Cup, alternating headline hero shifts en route to another semi-final heartbreaker. His goals and assists plummeted in his third season with Madrid, though most of his teammates saw diminishing returns in a forgettable campaign.\n\nLacking some of the bombast that typifies his rivals, Dembélé remains a silky threat for club and country. His stats for PSG dipped from last year’s award-winning campaign, from 35 goals in 53 games to 20 in 40. His partnership with Mbappé and Olise for France was as dangerous as the international game has seen. If nothing else, Dembélé has made certain that he is no one-year wonder.\n\n10) Khvicha Kvaratskhelia (Georgia/Paris Saint-Germain)",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1954_2",
+            "category": "england",
+            "type": "News",
+            "title": "Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
+            "bullets": [
+              "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions LeagueDani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying to pinpoint the moment he knew he was a world champion. “There’s an image in my mind with Ferran [Torres]’s mum: hugging her, the two of us in tears,” he says. “‘What your son just did … what we all did … this is historic.’ And that’s when you start to feel it. In those final minutes of the game it’s impossible, impossible, but when the referee blows, the thought enters your head: ‘Have we done it?’ ‘Are we …?’ There, you feel it a little bit. When you lift the cup, a little bit more. And then when you see the families, when I see the reaction from my brother, my partner, my dad. I’m not one to cry, but …”But then Olmo knew, felt it: Spain were world champions. It was 19 July in New Jersey and it was real: Spain had beaten Argentina and nothing would be the same again. Continue reading...",
+            "fullText": "One of Barcelona’s eight World Cup winners reflects on how Spain’s triumph is inspiring them in the Champions League\n\nDani Olmo nods towards his right arm. “Look: goosebumps,” he says. The Spain midfielder is sitting in a back room at Barcelona’s Joan Gamper training ground trying to pinpoint the moment he knew he was a world champion. “There’s an image in my mind with Ferran [Torres]’s mum: hugging her, the two of us in tears,” he says. “‘What your son just did … what we all did … this is historic.’ And that’s when you start to feel it. In those final minutes of the game it’s impossible,impossible, but when the referee blows, the thought enters your head: ‘Have we done it?’ ‘Are we …?’ There, you feel it a little bit. When you lift the cup, a little bit more. And then when you see the families, when I see the reaction from my brother, my partner, my dad. I’m not one to cry, but …”\n\nButthenOlmo knew, felt it: Spain were world champions. It was 19 July in New Jersey and it was real: Spain had beaten Argentina andnothing would be the same again.\n\n“It changes you, changes your life,” Olmo says. “I’m not sure we grasp it still. You realise when you’re [applauded] at other grounds, but we’ll truly realise with time. It’s like you’ve entered another dimension, a very select group. As a kid, I held 2010 upthere. [Andrés] Iniesta, Xavi, [Sergio]Busquets, Xabi Alonso, [David] Villa … legends. We held on to the past, longed for that generation, how happy they made us. Now it’s like, ‘You’re there, too.’”\n\nSo now it’s time to, well, to get back to work, another generation to emulate. Twenty-three days after victory in the US, Olmo was back where he sits now, another session complete, another European season about to start. His club coach was waiting.\n\nWhat did Hansi Flick say? “‘You’re a champion of the world, Dani.’” “‘I know, mister.’” Olmo laughs at what came next. “And now [we have to do it] with Barcelona,” he says.\n\nEight of Spain’s 26-man squad were Barcelona players and although Maria’s son Ferran has departed for Paris Saint German,Rodri has joined from Manchester City. What they have done with their country can infuse club success, Olmo believes, just as what they do with their club infused success with the country. Winning the World Cup changes your life; it can also reinforce an idea, and while Olmo analyses the differences between Spain and Barcelona, Flick and Luis de la Fuente, this is the triumph of an idea, continuity and commitment.\n\n“We came from a very successful year;winning the league,the Super Cup… the World Cup was the finishing touch,” Olmo says. “Having that Barcelona base, players with a great level, competitive and ambitious, that know how to win and also good people – and I think we are – helps the national team. Whether you play a lot or a little, you’re a team. This is a winning generation at Barcelona, too. We’ve shown that in Spain; in Europe, we’re competing for the highest prize.”\n\nThat’s what drives them: for 11 years the Champions League has evaded them, an entire generation gone. No one is left from when Barcelonalast lifted the trophy in June 2015; Olmo had just turned 17. Having departed the academy he first joined at nine and set out alone the previous summer, he had made five substitute appearances for Dinamo Zagreb’s first team – the determined, bold beginning of a journey that wouldeventually bring him back,via RB Leipzig, in 2024.\n\nIn his first season back, he helped Barcelona to a domestic treble. Last year, they were champions again. In Europe, though, they were defeated by Inter and Atlético Madrid in the semi-finals and quarter-finals respectively. On Wednesday night another campaign begins against Feyenoord at Camp Nou. It ends, they hope, at the Metropolitano in Madrid on 5 June. Lessons have been learned, in success and failure. The World Cup can bring them ever closer, Olmo believes. “You can feel that extra confidence,” he says. “The Champions League is decided by small details that haven’t gone our way but the last two years were experiences for the future. We were a young team.”\n\nWere? “Still are,” Olmo concedes. Against Athletic Bilbao last month, Barcelona fielded their youngest starting XI at Camp Nou, with an average age of 23.18 years. This is a special generation; it is also one given opportunities Olmo wasn’t sure would be open when he set off at 16. “I’m still young … I think,” says the 28-year-old. “But I feel like a veteran. La Masia is more alive than ever. Exceptional players have always emerged but it can be hard to find space. Thiago [Alcântara] had incredible quality and had to go to Bayern to play at the highest level.”\n\n“In my opinion, Barcelona have the best academy in the world; [Marc] Bernal, Lamine [Yamal] and now Xavi Espart. Pedri is still young and he’s been at the highest level for six, seven years. We have that experience now. What was lacking? The first year against Inter was,pfff,it was hard [to take]. We could see ourselves in the final. Last year against Atlético … the first game weighed too heavily on us; there were moments when we let it slip from us. We’re a young team, maybe you think there’s no problem, nothing can go wrong. I think we’ve learned that every detail, every minute, every sprint, every run is important. ‘Hey, 90 minutes, 120, do or die.’ We have to minimise the risk.”",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1954_3",
+            "category": "england",
+            "type": "News",
+            "title": "First-half treble powers Aston Villa to Champions League win at Club Brugge",
+            "bullets": [
+              "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, e...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and running last September against Bologna, opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time.The Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, and subsequently victory, in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance. Continue reading...",
+            "fullText": "Aston Villa were 3-1 up after 43 minutes but were made to sweat for their first win of the season, emerging victorious from an entertaining Champions League opener with Club Brugge. John McGinn, who struck the only goal when Villa belatedly got their season up and runninglast September against Bologna, opened the scoring before Emi Buendía and a first goal for Nicolas Jackson in claret and blue appeared to put Villa out of sight at half-time.\n\nThe Belgian side have become familiar foes since Villa returned to the big time, the glitziest club competition of them all; a freakish Tyrone Mings handball gifted the hosts a penalty, andsubsequently victory, in 2024-25 and on this occasion Aaron Wan-Bissaka conceded a second-half penalty to plunge a seesawing contest back into the balance.\n\n“Today was a very important step forward, being resilient when we were struggling,” said Unai Emery. “It is very important to start with three points. Hopefully it gives us confidence for the next matches, in the Premier League this Saturday against Nottingham Forest.”\n\nEmery had been at pains to radiate positivity despite another slow start – Villa picked up their first point of the Premier League season at the weekend and these goals represented their first of the campaign – but he was typically animated on the touchline in Brugge. He was particularly agitated midway through the second half when he felt, not for the first time this season, his substitutes were not ready for action. AtHull last weekend, it was Tammy Abraham and Wan-Bissaka, and a few days earlier Alejandro Garnacho against Arsenal.\n\nThis time the culprits were Alysson, Ross Barkley and Lamare Bogarde. “In the dressing room at half-time we were speaking about some players who were tired, [Boubacar] Kamara, Wan-Bissaka,” Villa’s manager said. “I tried to keep [them on for] 15 minutes, but when I asked the players to replace [them] they were talking through the set pieces, sorting individual issues, but I needed quickly their impact on the field, and they did afterwards.”\n\nBorussia Dortmund's Konstantinos Karetsas was taken to hospital after slumping to the turf 25 minutes into his Champions League debut against Villarreal.\n\n“Konstantinos Karetsas had to leave the field due to circulatory problems,” Dortmund said in a statement. “Kosta is doing well under the circumstances and is on his way to the hospital for further tests.”\n\nThe 18-year-old Greece international passed the ball to a teammate then signaled his distress to the referee before sitting on the grass. Karetsas was treated laying down then taken away on a stretcher. The score was 0-0 at the time.\n\nDortmund went on to win 3-2 at home. Renato Veiga’s 53rd-minute own goal put the Bundesliga side ahead before Santiago Mouriño equalised in the 66th. Serhou Guirassy restored the lead in the 80th minute and scored the third with an 84th-minute penalty, before scoring an own goal in added time while trying to help in defence.\n\nReal Betistwice came from behind to beatLille3-2 away, ⁠with Marc Bartra scoring in the 34th and 49th minutes before Troy Parrott’s 54th-minute winner.\n\nLille ​scored their opener in the 12th minute ‌and regained the lead through ‌Alexsandro in the 37th. The hosts later had Ethan Mbappé sent off for an elbow to ‌the face of an opponent.\n\nAEK Athens​made a winning start, beating the Austrian sideLASK1-0 in Greece thanks to Romanian midfielder Razvan Marin’s curling free-kick midway through the first half.Agencies",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1955_4",
+            "category": "england",
+            "type": "News",
+            "title": "Championship roundup: West Ham go top after Bowen double sinks Bolton",
+            "bullets": [
+              "England forward scores twice in 3-2 victorySouthampton 3-1 Swansea; Watford 2-1 PrestonCaptain Jarro...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "England forward scores twice in 3-2 victorySouthampton 3-1 Swansea; Watford 2-1 PrestonCaptain Jarrod Bowen scored twice as West Ham’s 3-2 win over Bolton took them top of the Championship on goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time.In between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty. Instead, Konstantinos Mavropanos levelled with a 31st-minute header and Bowen completed the comeback. Continue reading...",
+            "fullText": "Captain Jarrod Bowen scored twice asWestHam’s 3-2 win overBoltontook them top of theChampionshipon goal difference. The England international opened the scoring after 13 minutes and earned his side a first win at Bolton for 31 years with his second 13 minutes from time.\n\nIn between, Wanderers, beaten for a fourth successive outing, equalised through midfielder Ethan Erhahon’s maiden goal for the club and they looked on course for a ninth successive league victory over the Hammers when Ruben Rodrigues converted a 27th-minute penalty. Instead, Konstantinos Mavropanos levelled with a 31st-minute header and Bowen completed the comeback.\n\nCyle Larin scored his fifth goal of the season asSouthamptonbeatSwansea3-1 to beat the side who were top of the table for the second home match in a row. Larin, who is the joint-top scorer in the Championship, found the net either side of Finn Azaz and Leo Scienza strikes to make it 13 games unbeaten at St Mary’s.\n\nWatfordshook off an awful first-half display to grab a 2-1 victory overPreston, who suffered their fifth defeat in six league games. Callum Lang had put the visitors ahead in the sixth minute as they threatened to overrun the Hornets, who hit back with two second-half goals in seven minutes from Edo Kayembe and Mamadou Doumbia.\n\nWrexham’s wait for a home win goes on after they were held to a 1-1 draw by winlessBurnleywho sit one place off the bottom of the table. Jacques Ekomie headed in his second goal for the club since joining in a £7m deal from Angers, cancelling out Zeki Amdouni’s first-half effort for the Clarets who at least ended a run of seven straight away defeats dating back to last term.\n\nBut it was a result that does little to help either side in their pursuit of promotion, withWrexhamhaving lost the momentum they carried into last season while Burnley face bigger problems after relegation from the top flight, having won only one league game since October. Former England striker Jamie Vardy joined this week, but the 39-year-old was suspended for this match as a result of yellow cards collected during his time with Italian side Cremonese.\n\nSheffieldUnitedreturned to winning ways after a display of ruthless finishing secured a 2-1 win atBlackburn. All the goals came in a first half that Rovers dominated and deservedly took the lead in through Kristi Montgomery’s first goal for the club on 20 minutes. The Blades turned the game on its head with goals from their only two shots of the half as Tom Cannon stroked home a second on this ground in two weeks in the 35th minute. Sydie Peck rifled home his first of the season a minute before the break to complete the turnaround.\n\nCardiff’s winless start to the season continued asStokeheld on for a 1-1 draw in the Welsh capital and their first away point since January. Stoke had hope of an away-day success after a run of nine straight Championship defeats when Ben Johnson scored midway through the first half. But the Potters came under fierce pressure in the second half and Joel Colwill’s headed home for Cardiff hosts who hit a post three times. The draw – Cardiff’s fourth in six games – was enough to take the home side out of the relegation zone, while Stoke slip to 15th.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_1955_5",
+            "category": "england",
+            "type": "News",
+            "title": "Scorecard: England vs Pakistan, third Test",
+            "bullets": [
+              "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch li...",
+              "Reported live by Sky Sports Football.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Latest score from the third and final Test match between England and Pakistan at Edgbaston. Watch live on Sky Sports Cricket.",
+            "fullText": "England lead Pakistan by 23 runs with 6 wickets remaining.",
+            "author": "Sky Sports Football Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-09 @ 10:51:38 EDT",
+  "lastUpdated": "2026-09-09 @ 14:19:55 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
