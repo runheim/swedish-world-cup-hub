@@ -4,20 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
-      "link": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
-    },
-    {
       "text": "⚽ Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
       "link": "https://www.theguardian.com/football/2026/sep/09/chelsea-leeds-carabao-cup-third-round-match-report"
     },
     {
-      "text": "⚽ Men’s Ballon d’Or 2026 power rankings: will there be an English winner for the first time in 25 years?",
-      "link": "https://www.theguardian.com/football/2026/sep/09/mens-ballon-d-or-2026-winner-harry-kane-rodri-kylian-mbappe"
-    },
-    {
-      "text": "⚽ Dani Olmo: ‘Winning the World Cup changes you, it changes your life’",
-      "link": "https://www.theguardian.com/football/2026/sep/09/dani-olmo-spain-world-cup-barcelona-champions-league"
+      "text": "⚽ Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
+      "link": "https://www.theguardian.com/football/2026/sep/09/napoli-arsenal-champions-league-match-report"
     }
   ],
   "timeline": {
@@ -53726,11 +53718,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4054_0",
+            "category": "england",
+            "type": "News",
+            "title": "Cole Palmer powers Chelsea to comeback win over Leeds in nine-goal epic",
+            "bullets": [
+              "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their oppo...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee. Jarred Gillett and Cole Palmer? They made for a killer combination as Chelsea swerved embarrassment and treated Stamford Bridge to one of life’s rarities: a classic in the third round of the Carabao Cup.Gillett, a referee who always seems to be guessing when he makes key calls, was the villain as far as Leeds were concerned. They had just gone 2-0 up when Gillett altered the flow of the tie by pointing to the spot after Pep Chavarría made the most of slight contact from Daniel James. The subsequent conversion from Palmer was inevitable and from there so was the comeback from Chelsea, who rattled through four goals in 12 minutes before eventually reaching the last 16 by winning 6-3. Continue reading...",
+            "fullText": "Where’s the fun in doing it the easy way? Chelsea remain chaotic at the back but can drag their opponents into horrible places. It helps, mind you, to have some assistance from the referee. Jarred Gillett and Cole Palmer? They made for a killer combination as Chelsea swerved embarrassment and treated Stamford Bridge to one of life’s rarities: a classic in the third round of theCarabao Cup.\n\nGillett, a referee who always seems to be guessing when he makes key calls, was the villain as far as Leeds were concerned. They had just gone 2-0 up when Gillett altered the flow of the tie by pointing to the spot after Pep Chavarría made the most of slight contact from Daniel James. The subsequent conversion from Palmer was inevitable and from there so was the comeback fromChelsea, who rattled through four goals in 12 minutes before eventually reaching the last 16 by winning 6-3.\n\nIt made little sense. It could have gone down as Xabi Alonso’s first misjudgment as Chelsea’s manager. The Carabao Cup is important given the Spaniard’s side are not in Europe, but his rotation almost backfired. Chelsea were shambolic after making nine changes – the 16-year-old debutant Reggie Watson was overrun in midfield while Estêvão Willian and Jamie Gittens struggled in attack – and Alonso was in emergency mode when he made a quadruple change at half-time.\n\n“I take responsibility,” Alonso said. “No player is to blame. It’s the decisions we took. When you don’t have this time to work with them, it’s difficult to compete at this level. I need to take my own blame for the things that happen. I need to be able to help them better. They are not responsible. After you need to react and think what’s better for the team.”\n\nWest Bromwich Albion held on for a memorable 1-0 victory over Derby at Pride Park, after playing for more than an hour with 10 men. Aune Heggebø's early goal proved enough to take the Baggies top of the table, despite Brayann Pereira being dismissed on his debut after collecting two first-half yellow cards.\n\nDerby had started the stronger, but West Brom swept downfield to score in the 16th minute, Jimmy-Jay Morgan whipping in a low cross from the left which Heggebø [pictured] finished at the near post. The visitors were rocked by the dismissal of Pereira in the 34th minute, as he was shown a second yellow card for a clumsy challenge on Charlie Taylor.\n\nThe hosts went close just before half-time when David Ozoh flashed a low ball across the six-yard box with no white shirt able to turn it in. Derby should have levelled in the 68th minute but Lars-Jørgen Salvesen headed over from Joe Ward’s cross. Late on, Nat Phillips made a great clearance after a late goalmouth scramble, summing up a performance full of grit and resolve.\n\nJames Morrison's side move above West Ham to top the Championship table with 13 points from six games. EitherCharltonorQPRcould have joined them on 13 points, but the sides played out a stalemate at the Valley. Derby, meanwhile, slipped into the bottom three with their fourth defeat in six games.\n\nNorwichmoved up to ninth in the table as they edged past visitorsBirmingham2-1 to make it three wins in four league games. Oscar Schwartau's screamer opened the scoring, the young Dane lashing an unstoppable right-footed drive past James Beadle from 25 yards out.\n\nPapa Diallo's first goal for the Canaries doubled their advantage before the break, as the Senegal winger sidefooted home from Andre Brooks' cross. Carlos Vicente pulled a goal back for the visitors, but wasted a glorious chance to equalise near the end as Chris Davies’ men suffered their first league defeat this season.Press Association\n\nEqually Alonso can take credit for responding. His moves were decisive. Reece James offered security after replacing Watson and Pedro Neto scored after coming on for Malo Gusto, who could barely complete a pass during a wretched first half. Leeds, beaten at this stage for the 14th time in 18 years, were overwhelmed once their lead was halved. Morgan Rogers and Palmer were devastating after replacing Estêvão and Gittens. Rogers had a hand in four goals and Palmer, who scored twice, seemed affronted by the notion of Leeds going through.\n\nIt finished as another thrilling attacking display from Chelsea, who have scored 16 goals in Alonso’s first five games. There are flaws to fix at the other end, though. Leeds also experimented, Daniel Farke making eight changes, but controlled the first half. They led when the Bosnia and Herzegovina centre-back Tarik Muharemovic, signed from Sassuolo last summer, headed Harry Wilson’s corner past Mike Penders in the 23rd minute.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4054_1",
+            "category": "england",
+            "type": "News",
+            "title": "Ødegaard ‘edge’ delights Arteta as Arsenal secure narrow win at Napoli",
+            "bullets": [
+              "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But ha...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "After their record-breaking feats last year in the Champions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time.Perhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 that Arsenal were not quite at their flowing best here and missed a hatful of chances. Continue reading...",
+            "fullText": "After their record-breaking feats last year in theChampions League, Arsenal are at it again. But having been delayed along with hundreds of travelling supporters by travel chaos on Tuesday, Mikel Arteta’s side had to bide their time against Napoli until Martin Ødegaard continued his rich vein of goalscoring with the crucial strike 15 minutes from full time.\n\nPerhaps it was the fact that, at Uefa’s insistence, they were forced to wear red shorts for the first time since a Premier League game against Watford in 2022 thatArsenalwere not quite at their flowing best here and missed a hatful of chances.\n\nYet they were deserved winners in the end and the substitute Noni Madueke should have made the ­victory more comprehensive late on.\n\nHaving come so close to breaking their duck in this competition last year after becoming the first team to win all eight of their league stage matches, Arsenal look capable of going one better this time if Ødegaard can keep up this sparkling form.\n\nHe now has four goals in his last five games after scoring once in all competitions last year and it was the Norway captain whose name was being chanted by the fans who were kept behind more than an hour after the final whistle.\n\n“That’s what we need – players with that mindset to decide the game and to play with that personality,” said Arteta. “He’s getting into those positions much more in recent games and I feel he has this emotional state that he knows that the ball can go in. He’s got that edge and he’s now got different relationships around him [in the team] as well. That helps.”\n\nArteta has bad memories of this stadium after being sent off in a 2-0 defeat during the Champions League group stage in 2013. But Arsenal’s most recent match here ended in victory as they qualified for the Europa League semi-finals under Unai Emery in 2019. Both clubs have been crowned domestic champions since then, withNapoliending their 33-year wait in 2023 then doing it again two years later. Yet Champions League success has continued to elude them after finishing 30th in the league phase last season.\n\nThat was in stark contrast to Arsenal, who were unbeaten over 14 matches before falling at the final hurdle. It was telling that Arteta kept faith with four of his back five that started against Chelsea on Sunday, with Piero Hincapié replacing Riccardo Calafiori at left-back but failing to match the Italian’s finishing ability with one glaring miss. Mikel Merino, Eberechi Eze and Viktor Gyökeres also made their first starts of the season but largely disappointed, with the Sweden striker making way for Kai Havertz just before Ødegaard’s winner.\n\nThose Arsenal supporters that did make it to southern Italy had no problem making themselves heard throughout, with plenty of empty seats in the home sections despite Max Allegri’s attempts to rally Napoli’s fans beforehand. The game quickly settled into a pattern as the visitors set up camp in Napoli’s half and the hosts attempted to hit them on the break. Kevin De Bruyne – no stranger to facing Arsenal after a decade in the sky blue of Manchester City – forced David Raya into a rare mistake after a typically driving run through the midfield but the ball was scrambled away to safety.\n\nThat came just after a spectacular overhead kick from Bukayo Saka at the other end had been saved by Alex Meret. Merino should have scored when he was set up by Eze’s clever header across the face of goal before Ben White drilled a shot straight into Meret’s grateful gloves.\n\nKick off your evenings with the Guardian's take on the world of football\n\nMatteo Politano managed to test Raya again as Napoli continued to find gaps in Arsenal’s normally watertight defence. Saka blazed over after a brilliant through ball from Ødegaard on the stroke of half-time, with replays confirming the assistant had been wrong to raise his flag.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-10 @ 02:08:09 EDT",
+  "lastUpdated": "2026-09-10 @ 10:40:54 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
