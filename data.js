@@ -61607,6 +61607,41 @@ const DYNAMIC_HUB_DATA = {
       "text": "Who's got control of the playlist today? Needs sorting out.",
       "time": "09:13",
       "isCaptain": false
+    },
+    {
+      "sender": "Cole Palmer",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Let's bring it home this time! 🏴󠁧󠁢󠁥󠁮󠁧󠁿💪",
+      "time": "14:50",
+      "isCaptain": false
+    },
+    {
+      "sender": "Jordan Pickford",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Someone tell Jude to stop showing off in the rondo 😂",
+      "time": "14:51",
+      "isCaptain": false
+    },
+    {
+      "sender": "John Stones",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Ready to make this year ours. Stick together.",
+      "time": "14:52",
+      "isCaptain": false
+    },
+    {
+      "sender": "Bukayo Saka",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Morning lads! Just checking in.",
+      "time": "14:53",
+      "isCaptain": false
+    },
+    {
+      "sender": "Harry Kane",
+      "avatar": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "text": "Just landed. Straight to St George's Park.",
+      "time": "14:54",
+      "isCaptain": true
     }
   ]
 };
