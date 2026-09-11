@@ -4,12 +4,12 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
-      "text": "⚽ Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
-      "link": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer"
+      "text": "⚽ Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
+      "link": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe"
     },
     {
-      "text": "⚽ Football Daily | Mauricio Pochettino, Tottenham’s game of thrones and retrospective action",
-      "link": "https://www.theguardian.com/football/2026/sep/10/football-daily-email-mauricio-pochettino-tottenham"
+      "text": "⚽ Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+      "link": "https://www.theguardian.com/football/2026/sep/10/david-beckham-us-soccer"
     }
   ],
   "timeline": {
@@ -17246,11 +17246,51 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4821_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
+            "bullets": [
+              "The US manager’s relationship with the international job has changed with a full World Cup cycle beg...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The US manager’s relationship with the international job has changed with a full World Cup cycle beginningI hope, in this lifetime, you find someone who loves you the way Mauricio Pochettino loves Tottenham Hotspur. The grip Spurs have on his heart seems the stuff of a literary classic: his imperfect partner who called things off at the first sign of trouble must merely check in on him occasionally to rekindle hopes of a reunion.Perhaps a bit extreme, but this week’s revelation – that he’d return to Tottenham even if they were relegated and chalking his absence up to imperfect timing, not the part about handing the club a decade-old title – has implicity laid out the terms of his return as United States manager. Others may always have interest in his services, and a certain North London suitor will never get the door slammed in their face outright. Continue reading...",
+            "fullText": "The US manager’s relationship with the international job has changed with a full World Cup cycle beginning\n\nIhope, in this lifetime, you find someone who loves you the wayMauricio Pochettinoloves Tottenham Hotspur. The grip Spurs have on his heart seems the stuff of a literary classic: his imperfect partner who called things off at the first sign of trouble must merely check in on him occasionally to rekindle hopes of a reunion.\n\nPerhaps a bit extreme, but this week’s revelation – that he’dreturn to Tottenhameven if they were relegated and chalking his absence up to imperfect timing, not the part abouthanding the club a decade-old title– has implicity laid out the terms of his return as United States manager. Others may always have interest in his services, and a certain North London suitor will never get the door slammed in their face outright.\n\n“Now it’s a four-year contract, it’s different,” Pochettino said this week. “We can next season lose the Copa América or the Gold Cup, they’re not happy with us and they can sack us. Or we can say: ‘OK. It’s not in the way that we think.’ Four years is different. Maybe now if someone calls in the future, it’s a different, different type [of thing]. We are excited, we are thinking to spend four years to the nextWorld Cup. But now it’s a long period.”\n\nIf you’re a Spurs fan, it warms the heart to revisit last decade’s glory days. If you’re a US fan, you’re quite sick of hearing so much about a team besides the one he’s managing. If you’ve been cursed to support both, this must be a very confusing time. And if you’re US Soccer, you know that you no longer have an ace in the hole to outflank any outside interest.\n\nOne can’t undersell the appeal of coaching a World Cup host team, with a direct path to Pot One and raucous support for every match. Already a familiar face to Americans who follow the sport, Pochettino became a genuine sensation in the broader sports landscape. Millions of Americans hadparallel thoughtsthat he, clad handsomely in a $500 safari shirt, resembled Russell Crowe – perhaps tacitly revealing that millions of Americans have long undersold the appeal of Russell Crowe.\n\nCompared to his previous post at Chelsea, the US job offered relative reprieve. Never before has Pochettino been such a prolific fixture on hours-long podcasts. The stop/start cadence of international management is appealing for the football men who have grown weary of the meticulous corporatization of the club game. In that sense, Pochettino is among esteemed company.\n\nTwo years after Jürgen Klopp left Liverpool citing mental exhaustion, he has refreshed his tracksuit collection with fresh duds from Die Mannschaft. In his opening press conference,he read aloud to the presshis terms of service – and was celebrated for it. Carlo Ancelotti was in no rush to abandon Brazil after a middling tournament, despite real questions about the pool’s depth and quality in midfield. Even Pep Guardiolaheld talks with Italyimmediately after his decade in Manchester.\n\nWhat’s different about Pochettino from, say, Klopp is his perceived eagerness to return to the club grind. Even atop the Red Bull Football conglomerate, Klopp was quick to brush aside any insinuations about returning to management. Pochettino, by contrast,held talks with Milanabout their coaching vacancy immediately before the 2026 World Cup.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nThere may be a simple answer. Each of Ancelotti, Guardiola, and Klopp – company with which Pochettino is regularly associated – has been the champion of England and Europe. Pochettino, at this stage, has not reached those summits.\n\nIs aiming for a Copa América semi-final more enticing than restoring Tottenham to previous heights? What about reaching a World Cup quarter-final an ocean away from the tens of thousands who soundtracked the previous one? What can US Soccer offer that his caliber of clubs – Tottenham and beyond – can’t exceed?",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4821_1",
+            "category": "usa",
+            "type": "News",
+            "title": "Why David Beckham will have my vote for the US Soccer Hall of Fame | Pablo Iglesias Maurer",
+            "bullets": [
+              "The Englishman has gotten no shortage of recognition, but his contributions to the American game des...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official titleSign up for our free newsletter hereNext spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflections on their upbringings and their careers.Many involved will be American-born soccer legends, of course. Yet every once in a while, a player whose footprint extends well beyond the borders of the United States graces the stage. Such may be the case next year when the hall potentially welcomes English legend David Beckham into the fold. Continue reading...",
+            "fullText": "The Englishman has gotten no shortage of recognition, but his contributions to the American game deserve an official title\n\nNext spring, when the US Soccer Hall of Fame welcomes its newest class, there will be pomp and circumstance. The hall, which sits in a corner of Toyota Stadium, home of Major League Soccer’s FC Dallas, will feature the enshrineds’ signature red jackets. There will be glad-handing and speeches from players and coaches, misty-eyed reflections on their upbringings and their careers.\n\nMany involved will be American-born soccer legends, of course. Yet every once in a while, a player whose footprint extends well beyond the borders of the United States graces the stage. Such may be the case next year when the hall potentially welcomes English legendDavid Beckhaminto the fold.\n\nSome readers abroad – and certainly plenty of readers here in the States – will wonder why an ostensiblyAmericanHall of Fame would admit non-Americans, something it’s done since its inception. The answer lies in the nature of the American game itself. Even our earliest heroes – Joe Gaetjens and the like – were immigrants, with Gaetjens scoring his famed goal against England in the 1950 World Cup when he wasn’t even a US citizen (he never ended up becoming one).\n\nAdvance through the decades and big-name, American-born heroes do start to emerge, but they are still outpaced by those from abroad. The history of the North American Soccer League is replete with foreign-born members of the country’s hall of fame such as Pelé, Franz Beckenbauer and Carlos Alberto. Even the MajorIndoorSoccer League got its due eventually: just last year, Steve Zungul, the “lord of all indoors”, was inducted. Tatu, another foreign-born legend of the arena, seems likely to go in this year.\n\nAll of which is to say, there’s precedent for this. If you made a sizable contribution to soccer in the United States, you’re eligible – period. It’s the way it should be.\n\nBy that standard, there’s no doubting Beckham’s credentials. Perhaps the most direct analog for his contributions is the career of Pelé, who arrived stateside in 1977 and transformed the landscape of the game in this country. Like Beckham’s stay with the LA Galaxy, the Brazilian’s playing career was successful. He won a league championship in 1977 and was wildly productive throughout the entirety of his stay in the US. He did every interview, signed every autograph, more or less, and went on to found a soccer camp in New Jersey that produced thousands of soccer-mad children, more than one of whom went on to feature for the US men’s national team. He remained a presence for decades after his retirement.\n\nStill, after all of that, professional soccer in the US more or less collapsed within seven years of his departure.\n\nJonathan Wilson and Guardian journalists bring expert analysis and reporting on the biggest stories in soccer.\n\nBeckham’s playing career with the Galaxy (2007-2012) was in some ways more successful than Pelé’s. Much has been made about his tumultuous arrival in the US, so expertly told by the late, great Grant Wahl in his book The Beckham Experiment.After the smoke cleared, though, Beckham was a mainstay for the Galaxy, working alongside Landon Donovan (a Hall of Famer himself) to lead the club to a pair of league titles and two Supporters’ Shields.\n\nHis true effect, though, came at a league level. Major League Soccer created an entirely new roster mechanism – the designated player rule – to accommodate Beckham’s arrival, a guideline that fundamentally changed its reality. Like Pelé, scores of uninitiated fans filledMLSstadiums to see Beckham. And just as the Brazilian did, Beckham stayed well beyond the end of his playing days, eventually founding Lionel Messi’s Inter Miami, the current standard bearer of the league.\n\nThe Hall of Fame inducts candidates in three categories: player, veteran and builder, the last of which is reserved for those whose work was primarily off the field. Beckham’s inclusion this year comes in the veteran category, where he’s nominated alongside nine other deserving candidates. The presence of his name has been the subject of much debate among the hall’s voters, of which I am one.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-11 @ 02:12:04 EDT",
+  "lastUpdated": "2026-09-11 @ 10:48:25 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
