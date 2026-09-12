@@ -6,10 +6,6 @@ const DYNAMIC_HUB_DATA = {
     {
       "text": "⚽ Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
       "link": "https://www.theguardian.com/football/2026/sep/11/kiernan-dewsbury-hall-ive-seen-all-of-the-meltdowns-and-it-annoyed-me"
-    },
-    {
-      "text": "⚽ Pochettino’s ‘different’ vow to the US invites unwelcome speculation",
-      "link": "https://www.theguardian.com/football/2026/sep/11/mauricio-pochettino-usmnt-tottenham-europe"
     }
   ],
   "timeline": {
@@ -17448,11 +17444,34 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "1": {
+        "timeLabel": "07:00",
+        "name": "Breakfast Camp Report",
+        "articles": [
+          {
+            "id": "crawled_4935_0",
+            "category": "usa",
+            "type": "News",
+            "title": "Kiernan Dewsbury-Hall: ‘I’ve seen all of the meltdowns and it annoyed me’",
+            "bullets": [
+              "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-upTransfer deadline day may be “exciting for everyone”, as Kiernan Dewsbury-Hall puts it, but his experience of that transfer deadline day at Everton hauled him through the same gamut of emotions as every Evertonian. Excitement turned to bewilderment before the conclusion of the window left the midfielder exasperated, but for entirely different reasons to a fanbase left questioning the club’s direction under The Friedkin Group.How, now, is the mood in the squad? It is the obvious place to start after a deadline day that left David Moyes with fewer players than he had at the beginning, one&nbsp;striker and no cover for either&nbsp;full-back position. It also featured the US international striker Folarin Balogun walking out&nbsp;on a £40m transfer minutes after submitting a deal sheet. “Really good to be honest,” Dewsbury-Hall insists. “Definitely not the same mood as what I’ve seen on the outside. There’s a good&nbsp;mentality this year of: ‘We’ll show everyone.’” Everton’s performances so far this season support that view. Continue reading...",
+            "fullText": "Midfielder on rising above the negativity after Everton’s struggles in the transfer window, becoming a leader in the dressing room and a possible England call-up\n\nTransfer deadline day may be “exciting for everyone”, as Kiernan Dewsbury-Hall puts it, but his experience ofthattransfer deadline day atEvertonhauled him through the same gamut of emotions as every Evertonian. Excitement turned to bewilderment before the conclusion of the window left the midfielder exasperated, but for entirely different reasons to a fanbase left questioning the club’s direction under The Friedkin Group.\n\nHow, now, is the mood in the squad? It is the obvious place to start after a deadline day that left David Moyes with fewer players than he had at the beginning, one striker and no cover for either full-back position. It also featured the US international strikerFolarin Balogun walking out on a £40m transferminutes after submitting a deal sheet. “Really good to be honest,” Dewsbury-Hall insists. “Definitely not the same mood as what I’ve seen on the outside. There’s a good mentality this year of: ‘We’ll show everyone.’” Everton’s performances so far this season support that view.\n\n“I’ve seen all of the reactions, all of the meltdowns, and in all honestly it annoyed me a bit,” Dewsbury-Hall says in forthright and insightful fashion. “I get where people are coming from; everyone wants to sign everyone and have the perfect squad. But there are still 19 lads in this building who are going to hopefully take this club to good things this year. That was getting disregarded.\n\n“I saw people saying: ‘We’ll be lucky to stay up this year.’ What message is that sending to the lads who are already here? I’m not blaming anyone. We get it. It didn’t work. But let’s all be positive – right, it’s done, bang, let’s go – and that’s what we’ve been trying to say in the dressing room. Of course we would have wanted to sign a couple more, but we’re happy with what we’ve got and it’s given us more impetus now to move on.”\n\nMoyes has expressed concern over the signals Everton’s transfer business could send to the dressing room at a time when he is trying to push the team on. So has it had a detrimental impact? “Not really, no,” Dewsbury-Hall insists. “I know we’ve got a smaller squad but we’ve got some really good players. Our starting XI is top, a European starting XI.\n\n“I get it, you need a whole squad, but we’ve got 17, 18 players at a really, really good level. I don’t think a couple of years ago it was at that level. Actually I know it wasn’t. Things can be out of your hands in football and that’s what happened for us. But we quickly realised: ‘Hang on a minute, look around the dressing room – top player, top player, top player.’ If we’re doing the right things we can still be successful.”\n\nDewsbury-Hall will be crucial to those prospects. The midfielder has flourished since his £28m arrival from Chelsea last summer, his game-time and growing influence vindicating the decision to leave Stamford Bridge behind. “I’m in the prime years of my career,” he says. “I couldn’t afford to spend more years stagnating.” The 28-year-old’s influence extends behind the scenes. This summer, following Séamus Coleman’s departure, he was nominated for a new leadership group that was established to compensate for the loss of the long-serving Everton captain.\n\n“Because Séamus has left such a big hole we need a group of experienced lads to crack on together and keep the standards high and to drive things,” Dewsbury-Hall explains. “It’s just the more experienced lads – [Jordan] Pickford, Tarky [James Tarkowski, the new club captain], Jimmy [James] Garner, myself. The ones that have been playing in the Premier League for years or feel like they are settled at the club.\n\n“It’s nice [to be voted in after just one season] but it’s definitely an impact I wanted to have. I’m really pleased that the lads look at me as someone that can be important for the dressing room.”\n\nThat sense of responsibility is evident in Dewsbury-Hall’s mentoring of fellow midfielder Harrison Armstrong, the 19-year-old who almost joined Nottingham Forest before deadline day only for the furious response of Evertonians at Bournemouth to prompt a U-turn from the club’s owners. “They definitely made their feelings known and obviously it worked,” says Dewsbury-Hall. “Big credit to them for that, they were amazing that day. And I know for a fact it made Harrison feel very good and it helped him. He is a very confident lad and well respected in the dressing room for such a young age.\n\nKick off your evenings with the Guardian's take on the world of football",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-12 @ 01:58:59 EDT",
+  "lastUpdated": "2026-09-12 @ 09:49:38 EDT",
   "banter": [
     {
       "sender": "Folarin Balogun",
