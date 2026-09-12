@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Arsenal hold off energetic Sunderland to continue perfect title defence",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c5ympj1m71ko?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Pickford joins Premier League clean sheet 100 club",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,12 +16,16 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ European football: Dortmund win again but Freiburg top after Gladbach rout",
-      "link": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga"
+      "text": "⚽ Referee 'completely wrong' to award penalty - Williams",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm2m7105d71o?at_medium=RSS&amp;at_campaign=rss"
     },
     {
-      "text": "⚽ West Ham cut loose to hit Wrexham for six and go top of Championship",
-      "link": "https://www.theguardian.com/football/2026/sep/11/west-ham-wrexham-championship-match-report"
+      "text": "⚽ Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save",
+      "link": "https://www.theguardian.com/football/2026/sep/12/sunderland-arsenal-premier-league-match-report"
+    },
+    {
+      "text": "⚽ European football: Dortmund win again but Freiburg top after Gladbach rout",
+      "link": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga"
     }
   ],
   "timeline": {
@@ -54930,11 +54938,119 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "4": {
+        "timeLabel": "18:00",
+        "name": "Tactics & Analysis",
+        "articles": [
+          {
+            "id": "crawled_4717_0",
+            "category": "england",
+            "type": "News",
+            "title": "Arsenal hold off energetic Sunderland to continue perfect title defence",
+            "bullets": [
+              "Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the result beyond doubt.",
+            "fullText": "Arsenal maintain their 100% start to their Premier League season with a win at Sunderland, who mount an admirable push for a point before Bukayo Saka's penalty puts the result beyond doubt.\n\nMATCH REPORT:Premier League - Sunderland 0-2 Arsenal",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4718_1",
+            "category": "england",
+            "type": "News",
+            "title": "Pickford joins Premier League clean sheet 100 club",
+            "bullets": [
+              "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
+            "fullText": "Jordan Pickford has joined an elite club of Premier League goalkeepers by recording 100 clean sheets\n\nJordan Pickford has become only the 19th goalkeeper to keep 100 or more clean sheets in the Premier League.\n\nHe joined the club asEvertonearned a 0-0 draw atTottenhamon Saturday.\n\nOnly one goalkeeper has achieved more than 200 clean sheets in the Premier League.\n\nPetr Cech, with 202, is the leader in the league's shut-outs by a considerable margin, recording 33 more than his closest rival David James.\n\nThe former Czech Republic international also holds the Premier League record for the highest percentage of clean sheets per games played, and most consecutive clean sheets.\n\nThe formerChelseaandArsenalstopper was also the fastest to 100 clean sheets.\n\nLiverpool's Alisson was the last goalkeeper prior to Pickford to join the 100 club, securing his century of top-flight clean sheets during a 0-0 draw withLeedson 1 January 2026.\n\nNewcastle's Nick Pope is the next Premier League player in line to reach 100, sitting on 80 clean sheets, but is yet to feature this season after losing his number one spot in the team to Lukas Hornicek.\n\nFormer West Ham keeper Lukasz Fabianski came close to hitting the hundred mark, but spent the 2025-26 season sidelined with injury before retiring having reached 92 clean sheets.\n\nGoalkeepers must play a full match to be credited with a clean sheet.\n\nPetr Cech is the only goalkeeper to have kept more than 200 Premier League clean sheets",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4718_2",
+            "category": "england",
+            "type": "News",
+            "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
+            "bullets": [
+              "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already p...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+            "fullText": "Anthony Gordon has called Barcelona \"the biggest club on the planet\" and said he had dreamed about playing for them as a child\n\nAnthony Gordon has only played five matches for Barcelona since joining in May, but the England winger is making a big impression.\n\nThe former Newcastle United player has provided four assists already for the free-scoring Spanish giants.\n\nThe 25-year-old is still hunting his first goal but has slotted seamlessly into Barcelona's attack - in the left-wing spot that was often filled by on-loan Marcus Rashford last term.\n\nAnd Gordon is not just making an impression on the pitch.\n\nHe delivered his welcome speech in Spanish - a language he said he learned with the help of one of Newcastle's Spanish physios - before adding a couple of phrases in Catalan when speaking with fans.\n\nWhile there were some questions over the decision to pay Â£70m for Gordon, it is easy to see why Barcelona's supporters are already chanting his name.\n\nWhen Gordoncompleted his movethis summer to become only the second English player to join Barcelona on a permanent deal, after Gary Lineker in 1986, there was plenty of curiosity surrounding the transfer.\n\nIt was a significant investment in a player who, despite enjoying an outstanding Champions League campaign, had been inconsistent in the Premier League and posted relatively modest numbers.\n\nNewcastle finished 12th in the league, while Gordon managed six league goals and two assists in 26 appearances - with three goals coming from the penalty spot.\n\nNaturally, that raised questions about whether he could slot straight into Barcelona's starting XI.\n\nJust a few months earlier, Gordon had been given a glimpse of exactly what playing at the Nou Camp would feel like when Newcastle travelled to Barcelona for the second leg of their Champions League last-16 tie.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4718_3",
+            "category": "england",
+            "type": "News",
+            "title": "Referee 'completely wrong' to award penalty - Williams",
+            "bullets": [
+              "Match of the Day pundits Ashley Williams and Thomas Frank believe Sunderland should not have been aw...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Match of the Day pundits Ashley Williams and Thomas Frank believe Sunderland should not have been awarded a penalty after Ezri Konsa was adjudged to foul Dan Ballard, instead claiming that Arsenal should have had a free kick.",
+            "fullText": "Match of the Day pundits Ashley Williams and Thomas Frank believe Sunderland should not have been awarded a penalty after Ezri Konsa was adjudged to foul Dan Ballard, instead claiming that Arsenal should have had a free kick.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4718_4",
+            "category": "england",
+            "type": "News",
+            "title": "Guimarães and Saka fire Arsenal to win at Sunderland after Raya spot-kick save",
+            "bullets": [
+              "As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejec...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemished.Two minutes after David Raya had rather majestically saved Le Fée’s second-half penalty, Guimarães delighted his new north London public and plenty of old friends in Newcastle by sending a shot curving past Robin Roefs from the edge of the area. Continue reading...",
+            "fullText": "As the final whistle blew Bruno Guimarães wore a mischievous smile, Enzo Le Fée was a study in dejection and Arsenal’s immaculate start to the season remained unblemished.\n\nTwo minutes after David Raya had rather majestically saved Le Fée’s second-half penalty, Guimarães delighted his new north London public and plenty of old friends in Newcastle by sending a shot curving past Robin Roefs from the edge of the area.\n\nMikel Arteta’s champions were en route to another win in a campaign that has now produced six victories in six games in all competitions, including the Community Shield. No one, though, should be deceived by the emphasis lent to the scoreline by Bukayo Saka’s stoppage-time penalty; this was most definitely the toughest test this term for Arsenal.\n\nIfSunderlandcan keep playing like this, Régis Le Bris and his players should have real cause for optimism – even if they could have done without Reinildo’s late sending-off for felling Saka when conceding that penalty and collecting a second yellow card.\n\nHis penalty miss aside,chapeauxoff to Le Fee, who has deservedly made Zinedine Zidane’s provisional France squad for the forthcoming Nations League matches. Sunderland’s attacking playmaker knew another good performance here could only enhance his chances of moving from longlist to shortlist and he did not take long to draw a foul and win a dangerous free-kick.\n\nArsenal’s former captain Granit Xhaka delighted in curling the meanest of dead balls in Dan Ballard’s direction but the home central defender, a one-time Gunners youth captain, could not quite connect.\n\nThere had been a similar reprieve for Le Bris’s rearguard when Saka failed to make the most of Declan Rice’s fine early delivery. Yet, bar a Gabriel Magalhães shot from distance that whizzed just wide of Roefs’s goal, a Kai Havertz shot on the turn saved smartly and a low 20-yard effort that Le Fée dragged fractionally wide of an upright, that was pretty much it in terms of first-half goalmouth action.\n\nMikel Arteta’s side were taking their time to establish a settled passing rhythm. If Sunderland’s superb organisation hardly assisted the visiting cause, Arsenal looked a little fazed whenever the outstanding Nordi Mukiele – surely another candidate for the France squad – advanced from right-back.\n\nEzri Konsa, meanwhile, did not appear to be either relishing or winning his extremely physical contest with Le Bris’s ever-combative centre-forward, Brian Brobbey. If a packed Stadium of Light enjoyed that little subplot, the roof was nearly lifted off by the roar of approval that greeted Reinildo’s full-blooded early challenge on Martin Ødegaard.\n\nOne constant was Arteta’s excursions outside his technical area and eventually the referee, John Brooks, responded by jogging over to the touchline and waving a yellow card in the Arsenal manager’s face. While that booking was hardly unmerited, it seemed a shame that Brooks turned a blind eye to some persistent shirt-pulling from both sides at corners.\n\nWith the match even at the interval, Arteta replaced Myles Lewis-Skelly and the hobbling Ben White with Guimarães and Jurriën Timber. The Brazilian’s past as Newcastle’s captain ensured Guimarães’s every touch was booed, while Sunderland started the new half strongly, with Brobbey continuing to bully Konsa.\n\nA penalty area encounter with Ballard at a throw proved no more welcome and when Konsa grappled the defender to the ground, Brooks – much to Arteta’s chagrin – had no hesitation in pointing to the spot.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4719_5",
+            "category": "england",
+            "type": "News",
+            "title": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+            "bullets": [
+              "Milan come from behind in 2-2 draw with LazioKylian Mbappé strikes twice as Real Madrid cruiseFelix ...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Milan come from behind in 2-2 draw with LazioKylian Mbappé strikes twice as Real Madrid cruiseFelix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time.Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pass from the Guinean to give the hosts the lead after five minutes. Guirassy had two goals disallowed for offside in the first half but Dortmund were rarely troubled by the toothless visitors, who are yet to score since returning to the top flight. Continue reading...",
+            "fullText": "Felix Nmecha scored twice and Fábio Silva grabbed another asBorussia Dortmundwon 3-0 at home to promotedPaderbornto continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time.\n\nStarting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pass from the Guinean to give the hosts the lead after five minutes. Guirassy had two goals disallowed for offside in the first half but Dortmund were rarely troubled by the toothless visitors, who are yet to score since returning to the top flight.\n\nNmecha came off the bench to score twice, wrapping up victory for the hosts with a stunning late bicycle kick.\n\nDortmund captain Nico Schlotterbeck made his first appearance since picking up an ankle injury at the World Cup and told Sky Germany he kept his comeback under wraps. “We just hadn’t communicated that much yet because I didn’t want to,” Schlotterbeck said, adding “I missed it terribly. It was a serious injury but I’m glad to be back now.”\n\nFreiburgthumped a poorBorussia Mönchengladbach5-0 at home to climb to the top. Yannik Engelhardt and Igor Matanovic netted twice each and Maximilian Eggestein added a late fifth as the hosts sent Gladbach, who finished with 10 men, to the foot of the table.\n\nA 2-2 home draw withBayer LeverkusenendedAugsburg’s short stint as leaders. Augsburg were top after the last matchday for the first time in their history but were held by Leverkusen despite a double from Michael Gregoritsch.\n\nEintracht Frankfurtwon their first match of the campaign with a 3-1 victory at neighbouringMainz, with Can Uzun’s double either side of a Jonathan Burkardt goal. Frankfurt’s goalkeeper Noah Atubolu kept his remarkable penalty-saving record alive when he stopped a first-half effort from Nadiem Amiri. Atubolu’s save was his sixth in a row, extending his own Bundesliga record.\n\nWest Ham loanee Niclas Füllkrug kept his excellent run of form since returning to the Bundesliga going, scoring the equaliser forWerder Bremenin a 1-1 draw atCologne. Thijs Dallinga missed a penalty after eight minutes but teammate Linton Maina put Cologne ahead moments later.\n\nFüllkrug’s goal came in the 69th minute and is his third in four games since returning to Germany. He only found the net three times in 29 matches for West Ham and scored just once in 20 games on loan atMilanlast season.\n\nElsewhere,Hoffenheimwon 2-1 at home againstStuttgartthanks to a double from Adam Hlozek. On Sunday,Bayern Munichtravel to promotedElversberg– who have a 100% record – whileRB LeipzighostHamburg.\n\nIn Spain, Kylian Mbappé scored twice ⁠asRealMadridenjoyed a 4-1 victory overRayo Vallecano⁠in La Liga ⁠at ​the Santiago Bernabéu. Goals from Álvaro Carreras and Jude ⁠Bellingham made the result comfortable for José Mourinho’s side.\n\nA 14th-minute ⁠penalty from Mbappé was followed three minutes ​later by ‌a simple finish ‌from Carreras, with Mbappé turned provider ‌this time. A relaxed Real found little resistance from Rayo thereafter and, 11 minutes before half time, Vinícius Júnior raced down the left to set up ‌Bellingham for a neat finish into the corner.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-12 @ 16:45:02 EDT",
+  "lastUpdated": "2026-09-12 @ 19:47:19 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
