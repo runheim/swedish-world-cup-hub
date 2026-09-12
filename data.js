@@ -4,6 +4,10 @@
 const DYNAMIC_HUB_DATA = {
   "ticker": [
     {
+      "text": "⚽ Pickford joins Premier League clean sheet 100 club",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvg5n27w3rpo?at_medium=RSS&amp;at_campaign=rss"
+    },
+    {
       "text": "⚽ Signed instead of Rashford, Gordon is proving worth at Barca",
       "link": "https://www.bbc.co.uk/sport/football/articles/cgk5n3xpkv2o?at_medium=RSS&amp;at_campaign=rss"
     },
@@ -12,16 +16,8 @@ const DYNAMIC_HUB_DATA = {
       "link": "https://www.theguardian.com/football/2026/sep/12/european-football-real-madrid-lazio-milan-dortmund-freiburg-bundesliga"
     },
     {
-      "text": "⚽ Kobbie Mainoo moves from outsider to main man after summer of hurt",
-      "link": "https://www.theguardian.com/football/2026/sep/11/kobbie-mainoo-outsider-main-man-summer-of-hurt-derby"
-    },
-    {
       "text": "⚽ West Ham cut loose to hit Wrexham for six and go top of Championship",
       "link": "https://www.theguardian.com/football/2026/sep/11/west-ham-wrexham-championship-match-report"
-    },
-    {
-      "text": "⚽ Ballon d’Or shortlist shows up Premier League’s attacking failings – but tide could be turning",
-      "link": "https://www.theguardian.com/football/2026/sep/11/ballon-dor-shortlist-shows-up-premier-leagues-attacking-failings-but-tide-could-be-turning"
     }
   ],
   "timeline": {
@@ -54860,11 +54856,85 @@ const DYNAMIC_HUB_DATA = {
             "relatedPlayers": []
           }
         ]
+      },
+      "3": {
+        "timeLabel": "14:30",
+        "name": "Training Session",
+        "articles": [
+          {
+            "id": "crawled_4501_0",
+            "category": "england",
+            "type": "News",
+            "title": "Pickford joins Premier League clean sheet 100 club",
+            "bullets": [
+              "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Our Ask Me Anything team look at which goalkeepers have achieved 100 Premier League clean sheets.",
+            "fullText": "Jordan Pickford has joined an elite club of Premier League goalkeepers by recording 100 clean sheets\n\nJordan Pickford has become only the 19th goalkeeper to keep 100 or more clean sheets in the Premier League.\n\nHe joined the club asEvertonearned a 0-0 draw atTottenhamon Saturday.\n\nOnly one goalkeeper has achieved more than 200 clean sheets in the Premier League.\n\nPetr Cech, with 202, is the leader in the league's shut-outs by a considerable margin, recording 33 more than his closest rival David James.\n\nThe former Czech Republic international also holds the Premier League record for the highest percentage of clean sheets per games played, and most consecutive clean sheets.\n\nThe formerChelseaandArsenalstopper was also the fastest to 100 clean sheets.\n\nLiverpool's Alisson was the last goalkeeper prior to Pickford to join the 100 club, securing his century of top-flight clean sheets during a 0-0 draw withLeedson 1 January 2026.\n\nNewcastle's Nick Pope is the next Premier League player in line to reach 100, sitting on 80 clean sheets, but is yet to feature this season after losing his number one spot in the team to Lukas Hornicek.\n\nFormer West Ham keeper Lukasz Fabianski came close to hitting the hundred mark, but spent the 2025-26 season sidelined with injury before retiring having reached 92 clean sheets.\n\nGoalkeepers must play a full match to be credited with a clean sheet.\n\nPetr Cech is the only goalkeeper to have kept more than 200 Premier League clean sheets",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4501_1",
+            "category": "england",
+            "type": "News",
+            "title": "Signed instead of Rashford, Gordon is proving worth at Barca",
+            "bullets": [
+              "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already p...",
+              "Reported live by BBC Sport.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "Anthony Gordon's £70m move to Barcelona was questioned by some - but the England winger is already proving his worth for the free-scoring Spanish giants.",
+            "fullText": "Anthony Gordon has called Barcelona \"the biggest club on the planet\" and said he had dreamed about playing for them as a child\n\nAnthony Gordon has only played five matches for Barcelona since joining in May, but the England winger is making a big impression.\n\nThe former Newcastle United player has provided four assists already for the free-scoring Spanish giants.\n\nThe 25-year-old is still hunting his first goal but has slotted seamlessly into Barcelona's attack - in the left-wing spot that was often filled by on-loan Marcus Rashford last term.\n\nAnd Gordon is not just making an impression on the pitch.\n\nHe delivered his welcome speech in Spanish - a language he said he learned with the help of one of Newcastle's Spanish physios - before adding a couple of phrases in Catalan when speaking with fans.\n\nWhile there were some questions over the decision to pay Â£70m for Gordon, it is easy to see why Barcelona's supporters are already chanting his name.\n\nWhen Gordoncompleted his movethis summer to become only the second English player to join Barcelona on a permanent deal, after Gary Lineker in 1986, there was plenty of curiosity surrounding the transfer.\n\nIt was a significant investment in a player who, despite enjoying an outstanding Champions League campaign, had been inconsistent in the Premier League and posted relatively modest numbers.\n\nNewcastle finished 12th in the league, while Gordon managed six league goals and two assists in 26 appearances - with three goals coming from the penalty spot.\n\nNaturally, that raised questions about whether he could slot straight into Barcelona's starting XI.\n\nJust a few months earlier, Gordon had been given a glimpse of exactly what playing at the Nou Camp would feel like when Newcastle travelled to Barcelona for the second leg of their Champions League last-16 tie.",
+            "author": "BBC Sport Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4502_2",
+            "category": "england",
+            "type": "News",
+            "title": "European football: Dortmund win again but Freiburg top after Gladbach rout",
+            "bullets": [
+              "In-form Borussia Dortmund beat Paderborn 3-0Milan come from behind in 2-2 draw with LazioFelix Nmech...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "In-form Borussia Dortmund beat Paderborn 3-0Milan come from behind in 2-2 draw with LazioFelix Nmecha scored twice and Fábio Silva grabbed another as Borussia Dortmund won 3-0 at home to promoted Paderborn to continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time.Starting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pass from the Guinean to give the hosts the lead after five minutes. Guirassy had two goals disallowed for offside in the first half but Dortmund were rarely troubled by the toothless visitors, who are yet to score since returning to the top flight. Continue reading...",
+            "fullText": "Felix Nmecha scored twice and Fábio Silva grabbed another asBorussia Dortmundwon 3-0 at home to promotedPaderbornto continue their perfect start in the Bundesliga. Dortmund’s win made it three from three in the league this campaign, their best start in 11 seasons, dating back to Thomas Tuchel’s time.\n\nStarting up front alongside Serhou Guirassy for the first time this season, Silva converted a clever pass from the Guinean to give the hosts the lead after five minutes. Guirassy had two goals disallowed for offside in the first half but Dortmund were rarely troubled by the toothless visitors, who are yet to score since returning to the top flight.\n\nNmecha came off the bench to score twice, wrapping up victory for the hosts with a stunning late bicycle kick.\n\nDortmund captain Nico Schlotterbeck made his first appearance since picking up an ankle injury at the World Cup and told Sky Germany he kept his comeback under wraps. “We just hadn’t communicated that much yet because I didn’t want to,” Schlotterbeck said, adding “I missed it terribly. It was a serious injury but I’m glad to be back now.”\n\nFreiburgthumped a poorBorussia Mönchengladbach5-0 at home to climb to the top. Yannik Engelhardt and Igor Matanovic netted twice each and Maximilian Eggestein added a late fifth as the hosts sent Gladbach, who finished with 10 men, to the foot of the table.\n\nA 2-2 home draw withBayer LeverkusenendedAugsburg’s short stint as leaders. Augsburg were top after the last matchday for the first time in their history but were held by Leverkusen despite a double from Michael Gregoritsch.\n\nEintracht Frankfurtwon their first match of the campaign with a 3-1 victory at neighbouringMainz, with Can Uzun’s double either side of a Jonathan Burkardt goal. Frankfurt’s goalkeeper Noah Atubolu kept his remarkable penalty-saving record alive when he stopped a first-half effort from Nadiem Amiri. Atubolu’s save was his sixth in a row, extending his own Bundesliga record.\n\nWest Ham loanee Niclas Füllkrug kept his excellent run of form since returning to the Bundesliga going, scoring the equaliser forWerder Bremenin a 1-1 draw atCologne. Thijs Dallinga missed a penalty after eight minutes but teammate Linton Maina put Cologne ahead moments later.\n\nFüllkrug’s goal came in the 69th minute and is his third in four games since returning to Germany. He only found the net three times in 29 matches for West Ham and scored just once in 20 games on loan atMilanlast season.\n\nElsewhere,Hoffenheimwon 2-1 at home againstStuttgartthanks to a double from Adam Hlozek. On Sunday,Bayern Munichtravel to promotedElversberg– who have a 100% record – whileRB LeipzighostHamburg.\n\nIn Spain,Alavésmissed the chance to go top overnight with a 2-1 defeat atRacing Santander. On Saturday evening,Real Madridcan go second ahead of Alavés and move level on points overnight withBarcelonaby beatingRayo Vallecanoat home. Barça are atLevanteon Sunday afternoon.\n\nIn Italy, Diego Moreira scored twice asMilancame from two goals down to hold early season Serie A pacesettersLazio2-2 in Rome on Saturday. Moreira came off the bench at half-time and hauled Milan level after Matteo Cancellieri and Tijjani Noslin had given the hosts the lead at the interval.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          },
+          {
+            "id": "crawled_4502_3",
+            "category": "england",
+            "type": "News",
+            "title": "West Ham cut loose to hit Wrexham for six and go top of Championship",
+            "bullets": [
+              "West Ham secured their fourth league win in a row as they returned to the top of the Championship wi...",
+              "Reported live by The Guardian.",
+              "Technical staff notes player physical and recovery markers look strong."
+            ],
+            "summary": "West Ham secured their fourth league win in a row as they returned to the top of the Championship with a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and six different scorers.Jarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding. The performance was further evidence the Hammers are finding their feet in the second tier after failing to win any of their first three games following Premier League relegation. Continue reading...",
+            "fullText": "West Ham secured their fourth league win in a row as they returned to the top of theChampionshipwith a thumping 6-0 win over Wrexham at the London Stadium. It was a marvellous display of attacking football from Nuno Espírito Santo’s side, who swept to victory with room to spare and six different scorers.\n\nJarrod Bowen got the ball rolling after 28 minutes, Joël Piroe made it two before the break, then Konstantinos Mavropanos, Taty Castellanos, Mohamadou Kanté and Manor Solomon all scored in the second half as the Welsh side were dealt a hiding. The performance was further evidence the Hammers are finding their feet in the second tier after failing to win any of their first three games following Premier League relegation.\n\nThey should have led inside seven minutes, Castellanos sending a free header from Solomon’s cross over from six yards. Bowen then got clear in the box from a quick throw, but his shot was turned against the crossbar by a reflex save from Anthony Patterson. From the corner that resulted, Mavropanos headed a foot wide at the far post.\n\nPiroe was guilty of an awful miss midway through the half, leaning back and blasting high into theWrexhamfans behind Patterson’s goal. Bowen showed him how it was done a minute later. Morato’s cross from the right was timed perfectly into the six-yard box, where the home side’s captain was arriving ahead of Jacques Ekomié to guide it into the far corner.\n\nMavropanos cleared off the line from George Dobson with Mads Hermansen beaten, which proved to be the closest Wrexham would come to a goal. Castellanos stayed onside and strode on to a through pass before unselfishly squaring the ball for Piroe to make it 2-0 before the break.\n\nPatterson prevented Solomon from putting the game beyond Wrexham in the first two minutes of the second half, racing from his goal to smother the forward’s low shot. It would be a momentary reprieve and under a minute later it was 3-0. From Bowen’s corner, Mavropanos was left free inside the six-yard box to head home.\n\nBowen flashed a shot inches wide after cutting inside as the besieged visitors teetered on the edge of an all-out collapse in east London. West Ham’s fourth came from a Wrexham corner. A poor ball into the box was collected by Kyle Walker-Peters, who dashed away on the counter, exchanging passes before teeing up Castellanos to slot the ball into the corner.\n\nKick off your evenings with the Guardian's take on the world of football\n\nKanté came off the bench and made it 5-0, a lovely rising finish after being sent clear by Solomon, then the Israel international completed the rout with a deflected shot via a post.",
+            "author": "The Guardian Editorial Team",
+            "readTime": "3 min",
+            "tag": "Camp Brief",
+            "relatedPlayers": []
+          }
+        ]
       }
     }
   },
   "matchReports": {},
-  "lastUpdated": "2026-09-12 @ 13:41:32 EDT",
+  "lastUpdated": "2026-09-12 @ 16:45:02 EDT",
   "banter": [
     {
       "sender": "Harry Kane",
